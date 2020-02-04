@@ -1,5 +1,4 @@
-# Table of contents
+# dao
 
-1. Constitution
-2. FAQ
+Democratic/decentralized Autonomous Organization of LikeCoin
 
