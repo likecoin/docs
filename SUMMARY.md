@@ -1,5 +1,5 @@
 # Table of contents
 
-* [dao](README.md)
+* [Table of contents](README.md)
 * [Constitution](constitution.md)
 
