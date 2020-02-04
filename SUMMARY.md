@@ -1,5 +1,5 @@
 # Table of contents
 
 * [dao](README.md)
-* [LikeCoin — Republic of Liker Land](likecoin-republic-of-liker-land.md)
+* [Constitution](likecoin-republic-of-liker-land.md)
 
