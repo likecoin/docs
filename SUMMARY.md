@@ -1,7 +1,7 @@
 # Table of contents
 
-* [What is LikeCoin](README.md)
-* [Constitution](constitution.md)
+* [LikeCoin 是甚麼](README.md)
+* [憲法](constitution.md)
 
 ## Getting Started
 
