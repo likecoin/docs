@@ -1,4 +1,4 @@
-# About LikeCoin
+# What is LikeCoin
 
 ![](.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
 
