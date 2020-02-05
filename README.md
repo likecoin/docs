@@ -1,3 +1,7 @@
+---
+description: 中文
+---
+
 # What is LikeCoin
 
 ![](.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
