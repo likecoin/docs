@@ -10,7 +10,7 @@
 
 ## FAQ
 
-* [Upgrading LikeCoin to LikeCoin chain](faq/upgrading-likecoin-to-likecoin-chain.md)
+* [Upgrading LikeCoin ERC-20 to LikeCoin chain](faq/upgrading-likecoin-erc20-to-likecoin-chain.md)
 * [Untitled](faq/untitled.md)
 
 ## API

@@ -4,7 +4,7 @@ description: >-
   need MetaMask anymore.​
 ---
 
-# Upgrading LikeCoin to LikeCoin chain
+# Upgrading LikeCoin ERC-20 to LikeCoin chain
 
 This document is for those who fulfil the below conditions:
 
