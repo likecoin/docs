@@ -5,13 +5,15 @@
 
 ## Getting Started
 
-* [Civic Liker](getting-started/civic-liker.md)
+* [Liker Land](getting-started/civic-liker.md)
 * [Media and Creators](getting-started/media-and-creators.md)
 
 ## FAQ
 
-* [Upgrading LikeCoin ERC-20 to LikeCoin chain](faq/upgrading-likecoin-erc20-to-likecoin-chain.md)
-* [Untitled](faq/untitled.md)
+* [Upgrading LikeCoin ERC-20 to LikeCoin chain](faq/upgrading-likecoin-to-likecoin-chain.md)
+* [What is Civic Liker?](faq/untitled.md)
+* [How to register a Liker ID?](faq/how-to-register-a-liker-id.md)
+* [Can I change my LikeCoin ID?](faq/can-i-change-my-likecoin-id.md)
 
 ## API
 
