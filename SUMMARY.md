@@ -1,17 +1,17 @@
 # Table of contents
 
 * [What is LikeCoin](README.md)
-* [Untitled](untitled.md)
 * [Constitution](constitution.md)
 
 ## Getting Started
 
+* [Civic Liker](getting-started/civic-liker.md)
 * [Media and Creators](getting-started/media-and-creators.md)
-* [Readers](getting-started/readers.md)
 
 ## FAQ
 
 * [Upgrading LikeCoin to LikeCoin chain](faq/upgrading-likecoin-to-likecoin-chain.md)
+* [Untitled](faq/untitled.md)
 
 ## API
 
