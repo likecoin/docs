@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is LikeCoin](README.md)
+* [Untitled](untitled.md)
 * [Constitution](constitution.md)
 
 ## Getting Started
