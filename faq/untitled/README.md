@@ -2,7 +2,7 @@
 description: Why should I become a Civic Liker? Any benefits?
 ---
 
-# What is Civic Liker?
+# Civic Liker
 
 #### \[[Join **Civic Liker**](https://liker.land/civic)\]
 
