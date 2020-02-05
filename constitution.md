@@ -1,5 +1,5 @@
 ---
-description: The Constitution of Republic of Liker Land
+description: The constitution of Republic of Liker Land
 ---
 
 # Constitution
