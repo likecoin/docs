@@ -2,7 +2,7 @@
 
 Registering a Liker ID is easy, just download **Liker Land** mobile app and follow the instruction below:
 
-{% page-ref page="../getting-started/civic-liker.md" %}
+{% page-ref page="../../getting-started/civic-liker.md" %}
 
 
 
