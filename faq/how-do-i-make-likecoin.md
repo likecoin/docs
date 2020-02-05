@@ -8,6 +8,10 @@ pending
 
 pending
 
+## Bounty
+
+pending
+
 ## Be a validator
 
 pending
