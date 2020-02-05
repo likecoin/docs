@@ -1,8 +1,8 @@
 ---
-description: 讚賞公民共和國憲法
+description: The constitution of Republic of Liker Land
 ---
 
-# 憲法
+# Constitution
 
 ## LikeCoin — Republic of Liker Land
 
