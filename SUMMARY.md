@@ -6,6 +6,7 @@
 ## Getting Started
 
 * [Media and Creators](getting-started/media-and-creators.md)
+* [Readers](getting-started/readers.md)
 
 ## FAQ
 
