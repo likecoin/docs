@@ -14,6 +14,9 @@
 * [What is Civic Liker?](faq/untitled.md)
 * [How to register a Liker ID?](faq/how-to-register-a-liker-id.md)
 * [Can I change my LikeCoin ID?](faq/can-i-change-my-likecoin-id.md)
+* [How to buy and sell LikeCoin?](faq/how-to-buy-and-sell-likecoin.md)
+* [How to customise the avator photo, display name and social media links?](faq/how-to-customise-the-avator-photo-display-name-and-social-media-links.md)
+* [How do I make LikeCoin](faq/how-do-i-make-likecoin.md)
 
 ## API
 
