@@ -1,2 +1,2 @@
-# Upgrading from ERC-20
+# Migrating from ERC-20
 
