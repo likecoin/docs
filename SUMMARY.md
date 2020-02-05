@@ -3,13 +3,9 @@
 * [What is LikeCoin](README.md)
 * [Constitution](constitution.md)
 
-## Getting Started
-
-* [Liker Land](getting-started/civic-liker.md)
-* [Media and Creators](getting-started/media-and-creators.md)
-
 ## FAQ
 
+* [Liker Land](faq/civic-liker.md)
 * [Liker ID](faq/liker-id/README.md)
   * [How to register a Liker ID?](faq/liker-id/how-to-register-a-liker-id.md)
   * [Can I change my LikeCoin ID?](faq/liker-id/can-i-change-my-likecoin-id.md)
@@ -23,6 +19,7 @@
   * [How do I make LikeCoin?](faq/likecoin-token/how-do-i-make-likecoin.md)
   * [How to buy and sell LikeCoin?](faq/likecoin-token/how-to-buy-and-sell-likecoin.md)
 * [LikeCoin button](faq/likecoin-button/README.md)
+  * [Media and Creators](faq/likecoin-button/media-and-creators.md)
   * [How to attach LikeCoin button to my work?](faq/likecoin-button/how-to-attach-likecoin-button-to-my-work.md)
 * [Misc](faq/misc/README.md)
   * [LikeCoin sounds cool. Can I volunteer to help?](faq/misc/likecoin-sounds-cool.-can-i-volunteer-to-help.md)
