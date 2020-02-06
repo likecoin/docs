@@ -1,3 +1,7 @@
+---
+description: pending
+---
+
 # Undelegation of LikeCoin
 
 ### 從驗證人處領回 LikeCoin <a id="-likecoin"></a>

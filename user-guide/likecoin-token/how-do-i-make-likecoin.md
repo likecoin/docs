@@ -1,4 +1,8 @@
-# How do I make LikeCoin?
+---
+description: pending
+---
+
+# Making LikeCoin
 
 ## Create contents
 

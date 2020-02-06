@@ -1,2 +1,0 @@
-# Redelegation of LikeCoin
-
