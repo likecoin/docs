@@ -1,4 +1,0 @@
-# Discovering contents
-
-pending
-
