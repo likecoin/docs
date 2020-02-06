@@ -1,2 +1,2 @@
-# Like pay
+# LIKE pay
 
