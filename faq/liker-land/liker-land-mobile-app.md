@@ -2,5 +2,5 @@
 description: pending
 ---
 
-# Content Discovery
+# Liker Land mobile app
 

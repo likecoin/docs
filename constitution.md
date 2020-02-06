@@ -2,7 +2,7 @@
 description: The Constitution of Republic of Liker Land
 ---
 
-# Constitution
+# 📜 Constitution
 
 ## LikeCoin — Republic of Liker Land
 
