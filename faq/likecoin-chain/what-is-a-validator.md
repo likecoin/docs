@@ -1,4 +1,4 @@
-# Validator
+# What is a validator?
 
 ## 驗證人 \(validators\) 是什麼？
 

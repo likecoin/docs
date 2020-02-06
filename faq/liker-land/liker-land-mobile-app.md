@@ -2,5 +2,5 @@
 description: pending
 ---
 
-# Redelegation of LikeCoin
+# Liker Land mobile app
 

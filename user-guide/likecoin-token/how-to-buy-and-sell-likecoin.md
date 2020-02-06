@@ -1,6 +1,0 @@
----
-description: pending
----
-
-# Trading LikeCoin
-

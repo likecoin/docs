@@ -1,10 +1,4 @@
----
-description: pending
----
-
-# Securing my Liker ID
-
-## email, phone number, 2FA
+# Verifying email address
 
 ## 如何認證電郵地址
 
