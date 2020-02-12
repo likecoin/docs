@@ -4,6 +4,8 @@ description: and Republic of Liker Land
 
 # About LikeCoin
 
+
+
 ![](.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
 
 [LikeCoin](https://like.co) is a decentralized protocol for content monetization, attribution, and distribution. 
