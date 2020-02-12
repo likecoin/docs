@@ -48,8 +48,6 @@
 * [Migrating from ERC-20](user-guide/upgrading-from-erc-20/README.md)
   * [Assisted Migration](user-guide/upgrading-from-erc-20/upgrading-likecoin-erc20-to-likecoin-chain.md)
   * [升級 LikeCoin 時的常見問題](user-guide/upgrading-from-erc-20/sheng-ji-likecoin-shi-de-chang-jian-wen-ti.md)
-* [International Standard Content Number \(ISCN\)](user-guide/international-standard-content-number-iscn/README.md)
-  * [Specification](user-guide/international-standard-content-number-iscn/specification.md)
 * [FAQ](user-guide/faq/README.md)
   * [Where comes the LikeCoin rewards?](user-guide/faq/where-comes-the-likecoin-rewards.md)
   * [What is Authcore?](user-guide/faq/what-is-authcore.md)
@@ -70,5 +68,7 @@
   * [Javascript SDK](developer/likecoin-button/javascript-sdk.md)
   * [Manual Integration](developer/likecoin-button/manual-integration.md)
 * [LIKE pay](developer/like-pay.md)
+* [ISCN](developer/international-standard-content-number-iscn/README.md)
+  * [Specification](developer/international-standard-content-number-iscn/specification.md)
 * [ISCN IPFS plugin](developer/iscn-ipfs-plugin.md)
 
