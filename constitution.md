@@ -1,8 +1,8 @@
 ---
-description: 讚賞公民共和國憲法
+description: The Constitution of Republic of Liker Land
 ---
 
-# 憲法
+# 📜 Constitution
 
 ## LikeCoin — Republic of Liker Land
 
@@ -16,70 +16,65 @@ By the time this is published, Genesis block of LikeCoin chain has been produced
 
 This article introduces the elements and the mechanism of Liker Land, using as little technical jargon as possible. Developers are encouraged to check out our technical documentations or, better yet, our source codes which are open on [github](https://github.com/likecoin).
 
-## 基本概念 <a id="448e"></a>
+## Basic concepts <a id="448e"></a>
 
-### 讚賞公民共和國 <a id="84f4"></a>
+### Republic of Liker Land <a id="84f4"></a>
 
-或簡稱 _Liker Land_ ，是一個由作者及內容消費者組成，並共同管治的分散式網絡社群。
+Or _Liker Land_ for short, is a decentralized community in cyberspace among content creators and consumers, who collectively own and govern the community.
 
-以區塊鏈的術語來說，讚賞公民共和國是一個分散式自治機構 (**DAO**, decentralized autonomous organization)
+In blockchain terminology, _Liker Land_ is a decentralized autonomous organization, or **DAO**.
 
 ### Liker <a id="5799"></a>
 
-讚賞公民共和國的市民。每位 _Liker_ 擁有一獨特的 _Liker ID_ 以資識別。雖然很多 _Likers_ 是作者、攝影師、繪師、編輯、及內容管理者，_Liker Land_ 也完全歡迎不生產內容的內容消費者的參與和投入，並為他們提供服務。
+A citizen in _Republic of Liker Land_. Each _Liker_ has a unique _Liker ID_ to identify herself. While many _Likers_ are writers, photographers, illustrators, editors and curators, _Liker Land_ totally welcomes silent content consumers and offers services for them to involve and contribute without creating contents.
 
-### 讚賞公民 <a id="75ea"></a>
+### Civic Liker <a id="75ea"></a>
 
-一個每月付出 5 美元月費的  _Liker_，是讚賞公民共和國的 _納稅人_，在支持創作的同時亦能享有一些獨特的好處。
+A _Liker_ who joins the USD5 monthly subscription service. _Civic Liker_ is essentially __a tax payer in _Liker Land_ and enjoys various benefits while at the same time supports creators.
 
 ### Liker Land app <a id="2696"></a>
 
-一個整合了閱讀器、護照及錢包的 app。[_Liker Land_](https://liker.land/) 移動應用程式有如你掌上的共和國政府。
+Reader, passport and wallet all integrated in one single app. [_Liker Land_](https://liker.land/) mobile app is essentially government of the Republic on your palm.
 
-有些技術愛好者或更喜歡使用如命令字元介面及硬體錢包等底層工具。這需要相當的技術知識，已超出本文的關注範疇。
+Some tech lovers prefer lower level tools such as command line interface and hardware wallet. It requires significant technical know-how and is beyond the scope of this article.
 
-### 讚賞鍵 <a id="82e1"></a>
+### LikeCoin button <a id="82e1"></a>
 
-一個已註冊商標的拍手鍵，附帶在故事、圖像、畫作及其他創作內容中，讓 _Liker_ 按讚表達讚賞，同時為作者帶來收入。
-[Matters](https://matters.news) 上所有文章已預設提供讚賞鍵，特約媒體作者也可把 _Liker ID_ 提供予[香港獨立媒體網](https://inmediahk.net)、[立場新聞](https://thestandnews.com)、[眾新聞](https://hkcnews.com) 等合作媒體；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 插件](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上 讚賞鍵，[Medium](https://medium.com) 作者可在文章中自行貼上讚賞鍵鏈結。
+The trademarked hands-clapping button attached to stories, images, illustrations and other creative contents, on which a _Liker_ claps to show her appreciation.
 
+### LikeCoin token <a id="c246"></a>
 
-### LikeCoin 通證 <a id="c246"></a>
-一般會簡稱為 _LikeCoin_，讚賞公民共和國的貨幣，主要用途有三：
-* **儲存及交換價值：** 用作奬賞創作者、 _驗證人_ 等，及一般付款用途。
-* **代表一位 _Liker_ 的貢獻及投票權重：** 貢獻愈大，會獲得愈多 _LikeCoin_，從而在共和國中有更大的影響力。
-* **作為跟其他社群及傳統世界的橋樑：**  _LikeCoin_ 可兌換成比特幣、以太幣、台幣、港幣及其他傳統或加密貨幣。 _LikeCoin_ 的代號是 _LIKE_，但留意 _LIKE_ 代號在交易過程中並非必須。另，使用者必須特別提防假冒詐騙。
+Usually called _LikeCoin_ for short, it is the de facto token in _Liker Land._ _LikeCoin_ has 3 major uses:
+
+* **Storing and exchanging value**. Used to reward creators, _validators_, and for payments in general.
+* **Representing the contribution and thus voting power of a** _**Liker**_. The more contribution a _Liker_ makes, the more _LikeCoin_ she receives and the more influential power she has in _Liker Land_.
+* **Bridging with other communities and the traditional world**. _LikeCoin_ can be exchanged into and from Bitcoin, Ethereum, TWD, HKD and other traditional and crypto currencies. The ticker of _LikeCoin_ is LIKE. Note however that a token trading with the ticker LIKE is not necessarily _LikeCoin_. Special attention has to be paid to avoid scamming.
 
 ### LikeCoin chain <a id="aa59"></a>
 
-讚賞公民共和國政府去中心化的數據記錄，專為內容創作和資料產權而設計，提供高效、便宜，及尤其重要的獨立性。LikeCoin chain 上的開放數據可在 [**Big Dipper**](https://likecoin.bigdipper.live) 上瀏覽。
-2019年四月開發出 _LikeCoin chain_ 初代測試版本代號為 **KaiTak**（啟德），並於九月份升級為新的測試網絡 **Taipei**（台北）。直至 11月15日 被命名為 **SheungWan**（上環）的 _LikeCoin chain_ 第一次公開發怖，同時亦標誌著 _讚賞公民共和國_ 的誕生。
-LikeCoin chain **FoTan** 版本將提供 International Standard Content Number \(_"ISCN"_\) 高階功能，預計 2020 年推出。
+A distributed ledger of the Republic, the open government of _Liker Land_. A sovereign, application specific blockchain designed for content creation and information property management, offering high-speed, low cost and most importantly, independence. Data on _LikeCoin chain_ is open and can be visualized on [**Big Dipper**](https://likecoin.bigdipper.live/).
 
+The very first beta of _LikeCoin chain_, code-named **KaiTak**, was released on Apr 2019 and was upgraded to **Taipei** on Sept 2019 as the new beta testnet. First public release of _LikeCoin chain_, **SheungWan**, was just launched on Nov 15, signaling the establishment of Republic of Liker Land.
 
-### 驗證人 <a id="9d28"></a>
-負責 7x24 營運伺服器群以核實所有 _Likers_ 的資料記錄，包括代幣轉賬、內容發佈、投票動作等。 _LikeCoin chain_ 上的 _驗證人_ 同時擔當 _讚賞公民共和國_ 銀行及立法委員的角色。
+_LikeCoin chain_ **FoTan**, which incorporates advanced features such as International Standard Content Number \(_“ISCN”_\), is planned in 2020.
 
-讚賞公民共和國立國後，第一批共 7 組承擔重任的驗證人是：
-* [**國立臺北科技大學**](https://www.ntut.edu.tw/)
-* [**Forbole**](https://www.forbole.com/)
-* [**立場新聞**](https://thestandnews.com/) + [**OurSky**](https://oursky.com/)
-* [文化及媒體教育基金](https://www.cmef.org.hk/eng) + [**Enyk Security**](https://enyk.io/)
-* [**香港創意開放科技協會**](https://cota.hk/)
-* [**Matters Lab**](https://matters.news)
-* **GLOs** x [**UDomain**](https://www.udomain.com/)
+### Validator <a id="9d28"></a>
+
+Operates a set of servers 24x7 to validate all transactions of _Likers_, including token transfers, content publishing, voting and etc. A _validator_ on _LikeCoin chain_ is both a bank and a senator in _Liker Land_.
+
+To start with, _validators_ of _LikeCoin chain_ include [**National Taipei University of Technology**](https://www.ntut.edu.tw/), [**Forbole**](https://www.forbole.com/), **The** [**Standnews**](https://thestandnews.com/), [**Culture and Media Education Foundation**](https://www.cmef.org.hk/eng), [**Hong Kong Creative Open Technology Association**](https://cota.hk/), [**Matters Lab**](https://matters.news/), **GLOs**, [**Enyk Security**](https://enyk.io/), [**UDomain**](https://www.udomain.com/) and [**OurSky**](https://oursky.com/).
 
 ![first batch of validators of LikeCoin chain](https://miro.medium.com/max/2558/1*FKd6sXXYNxDp6hgFjju-0A.png)
 
-## 機制 <a id="d993"></a>
+## Mechanism <a id="d993"></a>
 
-### 通證發行 <a id="397c"></a>
+### Token issuance <a id="397c"></a>
 
-_LikeCoin_ 在 2017 年首次面世時在以太坊區塊鏈以 「ERC-20 通證」 形式發行。升級至讚賞公民共和國的新標準以後，舊版本代幣被稱為 _LikeCoin ERC-20_，升級了的代幣則被稱為 _LikeCoin 通證_ ，或簡稱 _LikeCoin_ 。
+When _LikeCoin_ was first introduced in 2017, it was an “ERC-20 token” issued on Ethereum blockchain. To distinguish from the new standard used in Liker Land, the legacy token will be stated explicitly as LikeCoin ERC-20 while the new token referred as _LikeCoin token_ or simply _LikeCoin_.
 
 Following the original _LikeCoin_ whitepaper, there will be up to 2bil _LikeCoin_ in the long run. The _LikeCoin_ is assigned to **Token Sale Pool** \(360,538,485\), **Ecosystem Development Pool** \(439,461,515\), **Team Pool** \(200mil\), and **Creators Pool** \(1bil\) for their corresponding usages. 1bil _LikeCoin_ was minted in Genesis for migration from **Token Sale Pool**, **Ecosystem Development Pool**, **Team Pool**, while **Creators Pool** will be processed in future upgrade.
 
-### **轉移** <a id="4ee6"></a>
+### **Migration** <a id="4ee6"></a>
 
 As _Liker Land_ starts to operate, tentatively set on Dec 2 2019, _LikeCoin_ will replace LikeCoin ERC-20 as the official token in _Liker Land_, which means content creators will be rewarded in _LikeCoin_. The 1bil _LikeCoin_ at Genesis was stored in a migration pool and the only way to unlock a certain amount of _LikeCoin_ is to migrate the same amount of LikeCoin ERC-20, on a 1:1 basis. A migration page will be provided for _Likers_. LikeCoin ERC-20, however, can still be kept and traded on [Liquid](https://www.liquid.com/) for Bitcoin and Ethereum.
 

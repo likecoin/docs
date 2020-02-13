@@ -1,23 +1,74 @@
 # Table of contents
 
 * [LikeCoin 是甚麼](README.md)
-* [憲法](constitution.md)
+* [📜 Constitution](constitution.md)
 
-## Getting Started
+## 📙 user guide
 
-* [Civic Liker](getting-started/civic-liker.md)
-* [Media and Creators](getting-started/media-and-creators.md)
+* [Liker Land](user-guide/liker-land/README.md)
+  * [Liker Land mobile app](user-guide/liker-land/liker-land-mobile-app.md)
+  * [Liker Land web app](user-guide/liker-land/liker-land-web-app.md)
+  * [Content Discovery](user-guide/liker-land/discovering-contents.md)
+  * [List of Media](user-guide/liker-land/list-of-media.md)
+  * [Reading and Rewarding](user-guide/liker-land/bookmarking-and-reading.md)
+  * [LIKE pay](user-guide/liker-land/like-pay.md)
+  * [Delegation of LikeCoin](user-guide/liker-land/delegation-of-likecoin.md)
+  * [Undelegation of LikeCoin](user-guide/liker-land/undelegation-of-likecoin.md)
+  * [Redelegation of LikeCoin](user-guide/liker-land/redelegation-of-likecoin.md)
+* [Liker ID](user-guide/liker-id/README.md)
+  * [Registering a Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
+  * [Securing my Liker ID](user-guide/liker-id/verifying-email-address.md)
+  * [Connecting to my social profile](user-guide/liker-id/how-to-customise-the-avator-photo-display-name-and-social-media-links.md)
+* [Civic Liker](user-guide/untitled/README.md)
+  * [Rationale and benefits](user-guide/untitled/rationale-and-benefits.md)
+  * [如何以 PayMe 或 轉數快繳付《讚賞公民》年費](user-guide/untitled/ru-he-yi-payme-huo-zhuan-shu-kuai-jiao-fu-zan-shang-gong-min-nian-fei.md)
+* [LikeCoin token](user-guide/likecoin-token/README.md)
+  * [Making LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
+  * [Trading LikeCoin](user-guide/likecoin-token/how-to-buy-and-sell-likecoin.md)
+  * [Registering on BitAsset](user-guide/likecoin-token/registering-on-bitasset.md)
+* [LikeCoin chain](user-guide/likecoin-chain/README.md)
+  * [About LikeCoin chain](user-guide/likecoin-chain/what-is-likecoin-chain.md)
+  * [Validator](user-guide/likecoin-chain/what-is-a-validator.md)
+  * [Become a validator](user-guide/likecoin-chain/become-a-validator.md)
+  * [Big Dipper](user-guide/likecoin-chain/big-dipper.md)
+  * [Liquid Democracy](user-guide/likecoin-chain/liquid-democracy.md)
+* [LikeCoin button](user-guide/likecoin-button/README.md)
+  * [About LikeCoin button](user-guide/likecoin-button/how-it-works.md)
+  * [Matters](user-guide/likecoin-button/media-and-creators.md)
+  * [WordPress](user-guide/likecoin-button/untitled.md)
+  * [Medium](user-guide/likecoin-button/medium.md)
+  * [Vocus](user-guide/likecoin-button/vocus.md)
+  * [Wix](user-guide/likecoin-button/wix.md)
+  * [Blink](user-guide/likecoin-button/blink.md)
+  * [Blogspot](user-guide/likecoin-button/blogspot.md)
+  * [JavaScript SDK](user-guide/likecoin-button/javascript-sdk.md)
+* [LikeCoin plugin](user-guide/likecoin-plugin/README.md)
+  * [Chrome/Firefox extension](user-guide/likecoin-plugin/liker-land-browser-extension.md)
+  * [WordPress plugin](user-guide/likecoin-plugin/wordpress-plugin.md)
+* [Migrating from ERC-20](user-guide/upgrading-from-erc-20/README.md)
+  * [Assisted Migration](user-guide/upgrading-from-erc-20/upgrading-likecoin-erc20-to-likecoin-chain.md)
+  * [升級 LikeCoin 時的常見問題](user-guide/upgrading-from-erc-20/sheng-ji-likecoin-shi-de-chang-jian-wen-ti.md)
+* [FAQ](user-guide/faq/README.md)
+  * [Where comes the LikeCoin rewards?](user-guide/faq/where-comes-the-likecoin-rewards.md)
+  * [What is Authcore?](user-guide/faq/what-is-authcore.md)
+  * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/likecoin-sounds-cool.-can-i-volunteer-to-help.md)
+  * [Do you have a press kit?](user-guide/faq/untitled.md)
 
-## FAQ
+## 🔬 Developer Resources <a id="developer"></a>
 
-* [Upgrading LikeCoin to LikeCoin chain](faq/upgrading-likecoin-to-likecoin-chain.md)
-* [Untitled](faq/untitled.md)
-
-## API
-
-* [Untitled](api/untitled.md)
-
-## Press Kit
-
-* [Untitled](press-kit/untitled.md)
+* [LikeCoin chain API](developer/likechain-api/README.md)
+  * [Cosmos concepts](developer/likechain-api/cosmos-concepts.md)
+  * [RPC API](developer/likechain-api/rpc-api.md)
+* [LikeCoin OAuth API](developer/likecoin-oauth-api/README.md)
+  * [Authetication](developer/likecoin-oauth-api/authetication.md)
+  * [Calling API](developer/likecoin-oauth-api/calling-api.md)
+  * [Reference](developer/likecoin-oauth-api/reference.md)
+* [LikeCoin button](developer/likecoin-button/README.md)
+  * [HTML](developer/likecoin-button/html.md)
+  * [Javascript SDK](developer/likecoin-button/javascript-sdk.md)
+  * [Manual Integration](developer/likecoin-button/manual-integration.md)
+* [LIKE pay](developer/like-pay.md)
+* [ISCN](user-guide/international-standard-content-number-iscn/README.md)
+  * [Specification](user-guide/international-standard-content-number-iscn/specification.md)
+* [ISCN IPFS plugin](developer/iscn-ipfs-plugin.md)
 

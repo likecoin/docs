@@ -1,0 +1,2 @@
+# LikeCoin plugin
+
