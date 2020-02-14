@@ -24,3 +24,5 @@ Liker Land 提供的 LikeCoin 電子錢包，即裝即用，操作簡便，從�
 
 在讚賞公民共和國，每位持有 LikeCoin 的人都是持份者 \(stake holder\)。使用 Liker Land 你可以把 LikeCoin 委托給任何驗證人，讓他們代表你為有關社群發展的議案投票；你還可以因委託 LikeCoin 而賺取不錯的回報。 
 
+[下載 Like Land 手機應用程式](https://like.co/in/getapp)
+
