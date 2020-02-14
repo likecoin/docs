@@ -16,7 +16,7 @@
   * [取回委託 LikeCoin](user-guide/liker-land/undelegation-of-likecoin.md)
   * [轉移委託 LikeCoin](user-guide/liker-land/redelegation-of-likecoin.md)
 * [Liker ID](user-guide/liker-id/README.md)
-  * [Registering a Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
+  * [註冊 Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
   * [Securing my Liker ID](user-guide/liker-id/verifying-email-address.md)
   * [Connecting to my social profile](user-guide/liker-id/how-to-customise-the-avator-photo-display-name-and-social-media-links.md)
 * [讚賞公民](user-guide/civic-liker/README.md)

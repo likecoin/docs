@@ -4,31 +4,30 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 # 讚賞公民
 
-### 少喝一杯咖啡 共創一個生態
-
 #### \[[成為讚賞公民](https://liker.land/civic)\]
+
+讚賞公民是一場回饋優秀內容的運動。讀者每月付出一杯咖啡的價錢，就能成為讚賞公民，從此每個點讚，都會化成對創作者的實質支持。
+
+### 一分一毫 依你品味
+
+讚賞公民每月付出的 USD $5，金額將不扣除任何行政成本，全數分配予創作者，支持創作\*。基金會只負責分配，支持哪位創作者，回饋哪筆作品，百分百由你的點讚決定。你亦可隨時查閱資助分配，細至一分一毫，盡在掌握。
+
+### 豐富福利 利人利己
+
+除了支持喜歡的創作者，讚賞公民還享有參予社群決策、獲取特別收錄內容、收取偶像個人通訊、參與線下活動等一連串福利，利人利己。
+
+### 讚賞公民的福利
+
+* 群眾掌聲投票支持作品
+* 100% 個人品味支持作品
+* 參與社群決策
+* 獲取特別收錄
+* 收取偶像個人通訊
+* 參與線下活動
+* 詳細贊助報告
+* 永久榮譽徽章
 
 讚賞公民是一場回饋新聞和創作的運動。讀者每月付出一杯咖啡的價錢（每月 5 美元），就能成為讚賞公民；透過按讚，自動分配月費予作者。
 
-### **一份月費支持四家公民媒體**
-
-![](../../.gitbook/assets/image%20%282%29.png)
-
-The USD $5 paid monthly by a Civic Liker will be distributed to creators in full amount.\* Which creators to support purely depends on the online contents you Like during the month, while the Foundation distributes the reward based on your taste. You may check the distribution of rewards any time down to a cent on our panel.
-
-## **Benefiting from Giving**
-
-Other than supporting creators, Civic Likers enjoy various benefits such as taking part in community voting, accessing bonus contents, receiving newsletters from idols and joining offline events.
-
-## **Influent Creators Reward Pool distribution**
-
-* Distribute own reward pool with every Like
-* Participate in community voting
-* Access bonus contents
-* Receive idol newsletter
-* Join offline events
-* Detailed reward distribution report
-* Unique, immutable badges
-
-#### \[[Join **Civic Liker**](https://liker.land/civic)\]
+#### \[[成為讚賞公民](https://liker.land/civic)\]
 
