@@ -1,2 +1,6 @@
-# List of Media
+---
+description: 支援讚賞鍵的網站列表，不定時更新。
+---
+
+# 媒體列表
 
