@@ -6,9 +6,9 @@
 ## 📙 user guide
 
 * [Liker Land](user-guide/liker-land/README.md)
-  * [Liker Land mobile app](user-guide/liker-land/liker-land-mobile-app.md)
-  * [Liker Land web app](user-guide/liker-land/liker-land-web-app.md)
-  * [Content Discovery](user-guide/liker-land/discovering-contents.md)
+  * [Liker Land 手機應用程式](user-guide/liker-land/liker-land-mobile-app.md)
+  * [Liker Land 網頁版](user-guide/liker-land/liker-land-web-app.md)
+  * [發現內容](user-guide/liker-land/discovering-contents.md)
   * [List of Media](user-guide/liker-land/list-of-media.md)
   * [Reading and Rewarding](user-guide/liker-land/bookmarking-and-reading.md)
   * [LIKE pay](user-guide/liker-land/like-pay.md)
@@ -68,7 +68,7 @@
   * [Javascript SDK](developer/likecoin-button/javascript-sdk.md)
   * [Manual Integration](developer/likecoin-button/manual-integration.md)
 * [LIKE pay](developer/like-pay.md)
-* [ISCN](user-guide/international-standard-content-number-iscn/README.md)
-  * [Specification](user-guide/international-standard-content-number-iscn/specification.md)
+* [ISCN](developer/international-standard-content-number-iscn/README.md)
+  * [Specification](developer/international-standard-content-number-iscn/specification.md)
 * [ISCN IPFS plugin](developer/iscn-ipfs-plugin.md)
 
