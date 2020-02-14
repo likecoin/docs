@@ -2,7 +2,7 @@
 description: pending
 ---
 
-# Securing my Liker ID
+# 保護你的 Liker ID
 
 ## email, phone number, 2FA
 

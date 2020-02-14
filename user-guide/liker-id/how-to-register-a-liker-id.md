@@ -46,7 +46,3 @@ description: pending
 什麼是 Authcore：[請參考此條目](https://docs.like.co/v/zh/user-guide/faq/what-is-authcore)
 {% endhint %}
 
-{% page-ref page="../liker-land/" %}
-
-
-
