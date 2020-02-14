@@ -19,7 +19,7 @@
   * [Registering a Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
   * [Securing my Liker ID](user-guide/liker-id/verifying-email-address.md)
   * [Connecting to my social profile](user-guide/liker-id/how-to-customise-the-avator-photo-display-name-and-social-media-links.md)
-* [Civic Liker](user-guide/civic-liker/README.md)
+* [讚賞公民](user-guide/civic-liker/README.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
   * [如何以 PayMe 或 轉數快繳付《讚賞公民》年費](user-guide/civic-liker/ru-he-yi-payme-huo-zhuan-shu-kuai-jiao-fu-zan-shang-gong-min-nian-fei.md)
 * [LikeCoin token](user-guide/likecoin-token/README.md)

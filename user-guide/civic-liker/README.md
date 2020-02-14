@@ -1,14 +1,18 @@
 ---
-description: Why should I become a Civic Liker? Any benefits?
+description: 為何要成為讚賞公民？有什麼福利嗎？
 ---
 
-# Civic Liker
+# 讚賞公民
 
-#### \[[Join **Civic Liker**](https://liker.land/civic)\]
+### 少喝一杯咖啡 共創一個生態
 
-Civic Liker is a movement to reward open contents. For the cost of a cup of coffee, you become a Civic Liker. Whatever you Like will then be turned into a tangible reward to creators.
+#### \[[成為讚賞公民](https://liker.land/civic)\]
 
-## **Your interest, your taste**
+讚賞公民是一場回饋新聞和創作的運動。讀者每月付出一杯咖啡的價錢（每月 5 美元），就能成為讚賞公民；透過按讚，自動分配月費予作者。
+
+### **一份月費支持四家公民媒體**
+
+![](../../.gitbook/assets/image%20%282%29.png)
 
 The USD $5 paid monthly by a Civic Liker will be distributed to creators in full amount.\* Which creators to support purely depends on the online contents you Like during the month, while the Foundation distributes the reward based on your taste. You may check the distribution of rewards any time down to a cent on our panel.
 
