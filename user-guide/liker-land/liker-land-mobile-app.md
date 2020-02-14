@@ -6,12 +6,13 @@ description: 每一位參與讚賞公民國民活動的隨身工具。
 
 ![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
-Liker Land 手機應用程式，是每一位讚賞公民參與國民活動的隨身工具。
+[Liker Land 手機應用程式](https://like.co/in/getapp)，是每一位讚賞公民參與國民活動的隨身工具。
 
 ### 閱讀器
 
-不少讀者都曾遇到一個問題：按讚時總被要求重新登入，令體驗大打節扣，減低按讚的意欲；Liker Land 解決了這問題，一次登入即可。  
-閱讀器還助你追蹤曾經讚過的作者，及最受歡迎的文章，掌握你最關注的內容。
+閱讀器還助你追蹤曾經讚過的作者及最受歡迎的文章，掌握你最關注的內容。詳細操作請[參考這篇](https://docs.like.co/v/zh/user-guide/liker-land/discovering-contents)。
+
+不少讀者都曾遇到一個問題：按讚時總被要求重新登入，令體驗大打節扣，減低按讚的意欲；Liker Land 解決了這問題，一次登入即可。
 
 ### 電子錢包
 
