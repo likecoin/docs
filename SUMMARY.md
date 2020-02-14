@@ -14,7 +14,7 @@
   * [LIKE pay](user-guide/liker-land/like-pay.md)
   * [委託 LikeCoin](user-guide/liker-land/delegation-of-likecoin.md)
   * [取回委託 LikeCoin](user-guide/liker-land/undelegation-of-likecoin.md)
-  * [Redelegation of LikeCoin](user-guide/liker-land/redelegation-of-likecoin.md)
+  * [轉移委託 LikeCoin](user-guide/liker-land/redelegation-of-likecoin.md)
 * [Liker ID](user-guide/liker-id/README.md)
   * [Registering a Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
   * [Securing my Liker ID](user-guide/liker-id/verifying-email-address.md)
