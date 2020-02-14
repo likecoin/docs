@@ -12,7 +12,7 @@
   * [媒體列表](user-guide/liker-land/list-of-media.md)
   * [閱讀及奬勵作者](user-guide/liker-land/bookmarking-and-reading.md)
   * [LIKE pay](user-guide/liker-land/like-pay.md)
-  * [Delegation of LikeCoin](user-guide/liker-land/delegation-of-likecoin.md)
+  * [委託 LikeCoin](user-guide/liker-land/delegation-of-likecoin.md)
   * [Undelegation of LikeCoin](user-guide/liker-land/undelegation-of-likecoin.md)
   * [Redelegation of LikeCoin](user-guide/liker-land/redelegation-of-likecoin.md)
 * [Liker ID](user-guide/liker-id/README.md)

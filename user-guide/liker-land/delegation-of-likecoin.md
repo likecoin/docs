@@ -1,14 +1,10 @@
 ---
-description: 存著的 LikeCoin 沒用嗎？不妨考慮委托 (delegate) 給驗證人，躺著也能賺取回報。
+description: 存著的 LikeCoin 沒用嗎？不妨考慮委托 (delegate) 給驗證人，除了讓驗證人代表你對社群議案投票以外，也能同時賺取回報。
 ---
 
-# Delegation of LikeCoin
+# 委託 LikeCoin
 
-## Liker Land app 的委托 \(delegate\) 功能簡介
-
-本篇介紹如何使用 Liker Land 的委托 \(delegate\) 功能。
-
-委托的意思是把 LikeCoin 委托給一個或多個驗證人 \(validator\)，讓他們代表你為讚賞公民共和國的議案投票，同時因此賺取回饋。委托的原理有點複雜，本篇只針對如何賺取回報的操作解說，欲了解詳情可延伸[閱讀這篇](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)。  
+委托的意思是把 LikeCoin 委托給一個或多個驗證人 \(validator\)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。委託機制是讚賞公民共和國[流動民主](https://docs.like.co/v/zh/user-guide/likecoin-chain/liquid-democracy)自治機制的一環。  
 
 
 ### 步驟一：選取驗證人

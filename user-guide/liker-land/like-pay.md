@@ -1,5 +1,5 @@
 ---
-description: pending
+description: 轉帳 LikeCoin
 ---
 
 # LIKE pay
