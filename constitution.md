@@ -4,13 +4,17 @@ description: 讚賞公民共和國憲法
 
 # 📜 憲法
 
-## LikeCoin — Republic of Liker Land
+## LikeCoin — 讚賞公民共和國
 
-### The new generation of LikeCoin with high-speed, low-cost and liquid democracy
+### 全新 LikeCoin 邁向高速、低成本及流動民主新世代
+
+原文刊載於 [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)
 
 By the time this is published, Genesis block of LikeCoin chain has been produced. If that is not your language, try understand it this way: Republic of Liker Land was established on the cyberspace.
 
 This article introduces the elements and the mechanism of Liker Land, using as little technical jargon as possible. Developers are encouraged to check out our technical documentations or, better yet, our source codes which are open on [github](https://github.com/likecoin).
+
+
 
 ## 基本概念 <a id="448e"></a>
 
