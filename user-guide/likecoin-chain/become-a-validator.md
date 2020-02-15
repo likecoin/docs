@@ -1,2 +1,2 @@
-# Become a validator
+# 成為驗證人
 

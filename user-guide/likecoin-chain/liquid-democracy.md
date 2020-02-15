@@ -2,5 +2,5 @@
 description: pending
 ---
 
-# Liquid Democracy
+# 流動民主
 

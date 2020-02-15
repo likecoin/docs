@@ -1,4 +1,4 @@
-# Validator
+# 驗證人
 
 ## 驗證人 \(validators\) 是什麼？
 
