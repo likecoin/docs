@@ -2,5 +2,5 @@
 description: pending
 ---
 
-# Trading LikeCoin
+# 交易 LikeCoin
 
