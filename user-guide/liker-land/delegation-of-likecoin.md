@@ -14,7 +14,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委托 (delegate) 給驗
 
 ![&#x4E00;&#xFF09;&#x9EDE;&#x64CA;&#x53F3;&#x4E0B;&#x89D2;&#x81EA;&#x5DF1;&#x7684;&#x982D;&#x50CF;](../../.gitbook/assets/img_2324.jpg)
 
-![&#x9EDE;&#x64CA; LikeCoin &#x91D1;&#x984D;&#x9032;&#x5165;&#x9322;&#x5305;&#x4ECB;&#x9762;](../../.gitbook/assets/image.png)
+![&#x9EDE;&#x64CA; LikeCoin &#x91D1;&#x984D;&#x9032;&#x5165;&#x9322;&#x5305;&#x4ECB;&#x9762;](../../.gitbook/assets/image%20%281%29.png)
 
 點選了其中一個驗證人後，顯示以下頁面，列出回報年率 \(Rewards\)，投票權佔比\(Voting Power\)，已被委托的 LikeCoin \(Liker Share\) 等資料。  
 點擊「委託」進入下一頁。

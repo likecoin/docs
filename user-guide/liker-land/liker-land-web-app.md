@@ -4,13 +4,13 @@ description: 在桌面電腦上也可隨時為喜愛的內容按讚
 
 # Liker Land 網頁版
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 雖然 Liker Land 手機應用程式能提供最好的按讚體驗，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land)，[發現、追縱內容和設定書籤](https://docs.like.co/v/zh/user-guide/liker-land/discovering-contents)。
 
 另，點擊右上角的菜單，會彈出其他選項。
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 ### 選項一：讚賞公民
 
@@ -29,7 +29,7 @@ description: 在桌面電腦上也可隨時為喜愛的內容按讚
 * 讚賞公民訂閱/退訂
 * 追縱設定：用戶預設追縱曾按過讚的作者，可在這裡取消追縱（下圖）。
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 ### 選項四：幫助
 
