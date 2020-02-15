@@ -18,7 +18,7 @@
 * [Liker ID](user-guide/liker-id/README.md)
   * [註冊 Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
   * [保護你的 Liker ID](user-guide/liker-id/verifying-email-address.md)
-  * [Connecting to my social profile](user-guide/liker-id/how-to-customise-the-avator-photo-display-name-and-social-media-links.md)
+  * [綁定社交帳號](user-guide/liker-id/how-to-customise-the-avator-photo-display-name-and-social-media-links.md)
 * [讚賞公民](user-guide/civic-liker/README.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
   * [如何以 PayMe 或 轉數快繳付《讚賞公民》年費](user-guide/civic-liker/ru-he-yi-payme-huo-zhuan-shu-kuai-jiao-fu-zan-shang-gong-min-nian-fei.md)
