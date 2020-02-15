@@ -1,2 +1,2 @@
-# LikeCoin token
+# LikeCoin 通證
 
