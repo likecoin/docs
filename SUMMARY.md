@@ -23,7 +23,7 @@
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
   * [如何以 PayMe 或 轉數快繳付《讚賞公民》年費](user-guide/civic-liker/ru-he-yi-payme-huo-zhuan-shu-kuai-jiao-fu-zan-shang-gong-min-nian-fei.md)
 * [LikeCoin 通證](user-guide/likecoin-token/README.md)
-  * [Making LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
+  * [獲得 LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
   * [Trading LikeCoin](user-guide/likecoin-token/how-to-buy-and-sell-likecoin.md)
   * [Registering on BitAsset](user-guide/likecoin-token/registering-on-bitasset.md)
 * [LikeCoin chain](user-guide/likecoin-chain/README.md)
