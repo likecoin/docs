@@ -39,5 +39,7 @@ Here, `data-liker-id` is required and refers to your Liker ID, where `data-href`
 ```
 {% endcode %}
 
+### Source Repository
 
+[https://github.com/likecoin/likecoin-button-sdk](https://github.com/likecoin/likecoin-button-sdk)
 
