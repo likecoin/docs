@@ -10,6 +10,8 @@ description: 讚賞公民共和國憲法
 
 原文刊載於11月7日刊載於 [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)
 
+
+
 當這篇文章發佈的時候，LikeCoin chain 創世區塊亦已誕生。假如你並不明白我們在說甚麼，或者可以嘗試這樣去理解：讚賞公民共和國經已正式面世。
 
 這篇文章經已盡量減少使用專門技術用語去介紹讚賞公民共和國各項原素及結構。歡迎工程師參閱我們的技術文件，或檢視我們在 [github](https://github.com/likecoin) 的開放源碼。
@@ -20,15 +22,15 @@ description: 讚賞公民共和國憲法
 
 或簡稱 _Liker Land_ ，是一個由作者及內容消費者組成，並共同管治的分散式網絡社群。
 
-以區塊鏈的術語來說，讚賞公民共和國是一個分散式自治機構 \(**DAO**, decentralized autonomous organization\)
+以區塊鏈的術語來說，_讚賞公民共和國_ 是一個分散式自治機構 \(**DAO**, decentralized autonomous organization\)
 
 ### Liker <a id="5799"></a>
 
-讚賞公民共和國的市民。每位 _Liker_ 擁有一獨特的 _Liker ID_ 以資識別。雖然很多 _Likers_ 是作者、攝影師、繪師、編輯、及內容管理者，_Liker Land_ 也完全歡迎不生產內容的內容消費者的參與和投入，並為他們提供服務。
+_讚賞公民共和國_ 的市民。每位 _Liker_ 擁有一獨特的 _Liker ID_ 以資識別。雖然很多 _Likers_ 是作者、攝影師、繪師、編輯、及內容管理者，_Liker Land_ 也完全歡迎不生產內容的內容消費者的參與和投入，並為他們提供服務。
 
-### 讚賞公民 <a id="75ea"></a>
+### 讚賞公民 \( Civic Liker \) <a id="75ea"></a>
 
-一個每月付出 5 美元月費的 _Liker_，是讚賞公民共和國的 _納稅人_，在支持創作的同時亦能享有一些獨特的好處。
+一個每月付出 5 美元月費的 _Liker_，是 _讚賞公民共和國_ 的 _納稅人_，在支持創作的同時亦能享有一些獨特的好處。
 
 ### Liker Land app <a id="2696"></a>
 
@@ -38,11 +40,11 @@ description: 讚賞公民共和國憲法
 
 ### 讚賞鍵 <a id="82e1"></a>
 
-一個已註冊商標的拍手鍵，附帶在故事、圖像、畫作及其他創作內容中，讓 _Liker_ 按讚表達讚賞，同時為作者帶來收入。 [Matters](https://matters.news) 上所有文章已預設提供讚賞鍵，特約媒體作者也可把 _Liker ID_ 提供予[香港獨立媒體網](https://inmediahk.net)、[立場新聞](https://thestandnews.com)、[眾新聞](https://hkcnews.com) 等合作媒體；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 插件](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上 讚賞鍵，[Medium](https://medium.com) 作者可在文章中自行貼上讚賞鍵鏈結。
+一個已註冊商標的拍手鍵，附帶在故事、圖像、畫作及其他創作內容中，讓 _Liker_ 按讚表達讚賞，同時為作者帶來收入。 [Matters](https://matters.news) 上所有文章已預設提供 _讚賞鍵_，特約媒體作者也可把 _Liker ID_ 提供予[香港獨立媒體網](https://inmediahk.net)、[立場新聞](https://thestandnews.com)、[眾新聞](https://hkcnews.com) 等合作媒體；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 插件](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上 _讚賞鍵_，[Medium](https://medium.com) 作者可在文章中自行貼上 _讚賞鍵_ 鏈結。
 
 ### LikeCoin 通證 <a id="c246"></a>
 
-一般會簡稱為 _LikeCoin_，讚賞公民共和國的貨幣，主要用途有三：
+一般會簡稱為 _LikeCoin_，_讚賞公民共和國_ 的貨幣，主要用途有三：
 
 * **儲存及交換價值：** 用作奬賞創作者、 _驗證人_ 等，及一般付款用途。
 * **代表一位** _**Liker**_ **的貢獻及投票權重：** 貢獻愈大，會獲得愈多 _LikeCoin_，從而在共和國中有更大的影響力。
@@ -50,13 +52,13 @@ description: 讚賞公民共和國憲法
 
 ### LikeCoin chain <a id="aa59"></a>
 
-讚賞公民共和國政府去中心化的數據記錄，專為內容創作和資料產權而設計，提供高效、便宜，及尤其重要的獨立性。LikeCoin chain 上的開放數據可在 [**Big Dipper**](https://likecoin.bigdipper.live) 上瀏覽。 2019年四月開發出 _LikeCoin chain_ 初代測試版本代號為 **KaiTak**（啟德），並於九月份升級為新的測試網絡 **Taipei**（台北）。直至 11月15日 被命名為 **SheungWan**（上環）的 _LikeCoin chain_ 第一次公開發怖，同時亦標誌著 _讚賞公民共和國_ 的誕生。 LikeCoin chain **FoTan** 版本將提供 International Standard Content Number \(_"ISCN"_\) 高階功能，預計 2020 年推出。
+_讚賞公民共和國_ 政府去中心化的數據記錄，專為內容創作和資料產權而設計，提供高效、便宜，及尤其重要的獨立性。_LikeCoin chain_ 上的開放數據可在 [**Big Dipper**](https://likecoin.bigdipper.live) 上瀏覽。 2019年四月開發出 _LikeCoin chain_ 初代測試版本代號為 **KaiTak**（啟德），並於九月份升級為新的測試網絡 **Taipei**（台北）。直至 11月15日 被命名為 **SheungWan**（上環）的 _LikeCoin chain_ 第一次公開發怖，同時亦標誌著 _讚賞公民共和國_ 的誕生。 LikeCoin chain **FoTan** 版本將提供 International Standard Content Number \(_"ISCN"_\) 高階功能，預計 2020 年推出。
 
-### 驗證人 <a id="9d28"></a>
+### 驗證人 \( Validator \) <a id="9d28"></a>
 
 負責 7x24 營運伺服器群以核實所有 _Likers_ 的資料記錄，包括代幣轉賬、內容發佈、投票動作等。 _LikeCoin chain_ 上的 _驗證人_ 同時擔當 _讚賞公民共和國_ 銀行及立法委員的角色。
 
-讚賞公民共和國立國後，第一批共 7 組承擔重任的驗證人是：
+_讚賞公民共和國_ 立國後，第一批共 7 組承擔重任的 _驗證人_ 是：
 
 * [**國立臺北科技大學**](https://www.ntut.edu.tw/)
 * [**Forbole**](https://www.forbole.com/)
@@ -72,64 +74,64 @@ description: 讚賞公民共和國憲法
 
 ### 通證發行 <a id="397c"></a>
 
-_LikeCoin_ 在 2017 年首次面世時在以太坊區塊鏈以 「ERC-20 通證」 形式發行。升級至讚賞公民共和國的新標準以後，舊版本代幣被稱為 _LikeCoin ERC-20_，升級了的代幣則被稱為 _LikeCoin 通證_ ，或簡稱 _LikeCoin_ 。
+_LikeCoin_ 在 2017 年首次面世時在以太坊區塊鏈以 「ERC-20 通證」 形式發行。升級至 _讚賞公民共和國_ 的新標準以後，舊版本代幣被稱為 _LikeCoin ERC-20_，升級了的代幣則被稱為 _LikeCoin 通證_ ，或簡稱 _LikeCoin_ 。
 
-按照 _LikeCoin_ 白皮書，_LikeCoin_ 最終流通總額為 20 億，按用途分配為**代幣銷售池** \(360,538,485\)、**生態拓展池** \(439,461,515\)、**團隊池**（ 2億）及**創作者池**（10億）。當創世區塊升級時從**代幣銷售池**、**生態拓展池及**團隊池中鑄造了 10 億 _LikeCoin_，至於**創作者池**將會在未來升級時進行處理。
+按照 _LikeCoin_ 白皮書，_LikeCoin_ 最終流通總額為 20 億，按用途分配為**代幣銷售池** \(360,538,485\)、**生態拓展池** \(439,461,515\)、**團隊池**（ 2億）及**創作者池**（10億）。當創世區塊升級時從**代幣銷售池**、**生態拓展池**及**團隊池**中發行了 10 億 _LikeCoin_，至於**創作者池**將會在未來升級時進行處理。
 
 ### **轉移** <a id="4ee6"></a>
 
-當 _Liker Land_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _Liker Land_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 Liker 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com/) 交易所兌換為 Bitcoin 或以太幣。
+當 _讚賞公民共和國_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _讚賞公民共和國_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 Liker 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com/) 交易所兌換為 Bitcoin 或以太幣。
 
 當 LikeCoin ERC-20 轉換為 _LikeCoin_，前者將於以太坊被燒毀。故此 _LikeCoin_ 及 LikeCoin ERC-20 在市面的流通量將維持不變。
 
-鑄造新 _LikeCoin_ 的通漲率將由驗證人全體決定。在 _Liker Land_ 創世區塊通漲率為1%。新鑄造的 _LikeCoin_ 將被用作驗證交易的回報（詳情參閱下文**驗證交易**的段落）
+發行新 _LikeCoin_ 的增發率 \( inflation \) 將由 _驗證人_ 全體決定。_讚賞公民共和國_ 創世區塊增發率為1%。新發行的 _LikeCoin_ 將被用作驗證交易的回報（詳情參閱下文**驗證交易**的段落）
 
-### Rewarding creativity. Supporting the commons. <a id="61ef"></a>
+### 回報創意 支持共享 <a id="61ef"></a>
 
-With _Liker Land_ being a community of content creators and lovers, appreciation of and rewarding for creativity is a core value.
+_讚賞公民共和國_ 是由創作者及內容愛好者組成的社群，讚賞及創造力回報就是核心價值。 __
 
-In contrast to Like Button of Facebook and other social media, tapping a _LikeCoin button — clapping —_ provides the corresponding creators with tangible rewards. A content can be clapped by a _Liker_ 1–5 times to reflect the degree of appreciation. Each clap represents a vote for the content, helping the creator receive part of the **Creators Pool** allocated for that day.
+對比 Facebook 或其他社群媒體，按 _讚賞鍵_ — 即是按讚 — 能讓創作者獲得實際回報。_Liker_ 可按照欣賞程度對內容按讚 1 至 5 次。每次按讚代表對內容進行投票，幫助創作者從當天分發的**創作者池**中分一杯羹。
 
-A _Civic Liker_ enjoys higher weighting for her claps, which other than the **Creators Pool** __also distributes all of her own monthly payment to creators on average. _LikeCoin button_ is like an assistant to _Likers,_ helping them micro reward creativity automatically with claps as a signal of appreciation.
+_讚賞公民_按讚權重較高，除了**創作者池**外亦會把他們已繳付的個人月費平均地全數回饋作者。_讚賞鍵_ 猶如 _Likers_ 的助手，幫助他們自動透過按讚的形式逐少逐少地展示對創作者的讚賞。
 
-### Validating Transaction <a id="9e68"></a>
+### **驗證交易** <a id="9e68"></a>
 
-In order to reach consensus in a community, some trusted parties have to record all transactions. In traditional world, this is performed by banks which charges various fees. In _Liker Land_, peer-to-peer transactions in general takes 5 seconds at extremely low cost. Such a system is realized collectively by _validators_, endorsed by _Likers_.
+要讓社群取得共識，必須讓有公信力的機構記錄所有交易。按照傳統做法記帳由銀行執行並需要收取服務費用。在 _讚賞公民共和國_，帳目以分散對等的方式，由 _Likers_ 授權的 _驗證人_ 負責記錄，每筆操作只需 5 秒且成本極低。
 
-Endorsement by _Likers_ is reflected by _delegation._ When a _Liker_ delegates her _LikeCoin_ to a _validator_, she is trusting its technical ability, knowledge and integrity, and is letting it represent her. Similar to saving in banks, delegated _LikeCoin_ is still owned by the _Liker_, but it takes 21 days to undelegate and get back the _LikeCoin_ to one’s own wallet.
+從 _委託_ 可反映出 _Likers_ 的信賴程度。當 _Likers_ 委託 LikeCoin 予 _驗證人_，代表 _Liker_ 信任 _驗證人_ 的技術能力、知識及誠信，並同意由她為自己作代表。一如在銀行存款，委託了的 _LikeCoin_ 仍屬 _Liker_ 所有，但取消委託後則需待 21 天後才能再次動用那筆款項。
 
-The voting power of a particular _validator_ equals the total amount of _LikeCoin_ delegated to it, since it reflects the level of endorsement it receives from the community. Approximately every 5 seconds, a block is created in _LikeCoin chain_ to record all transactions during the period. Every _validator_ has to agree and sign the block to confirm. If everyone or more than two third of voting power agrees, the block and thus all transactions within it will be confirmed. In this case, all signing _validators_ will be rewarded some newly minted _LikeCoin_ according to their voting power. The newly minted _LikeCoin_ comes from inflation, which is set at 1% at genesis. The rewards are split 50:50 between the _validator_ and the _Likers_ who delegated their _LikeCoin_.
+_LikeCoin chain_ 約每 5 秒會產生一個區塊以記錄該時段的所有帳目。所有 _驗證人_ 均有責任驗證及決定是否確認該區塊。若最少三份之二的投票權 \( voting power \) 同意，該區塊及所記錄的所有帳目便會被確認。每完成一次記帳，所有參與的 _驗證人_ 均能根據其投票權獲得新發行的 _LikeCoin_ 作回報。新發行的 _LikeCoin_ 來自創世區塊設定為 1% 的增發率。_驗證人_ 及作出委托的 _Likers_ 會再以 50:50 的比例平分回報。
 
-If, however, a _validator_ does not perform its duty or act maliciously, there will be penalty:
+如 _驗證人_ 無法履行責任或進行惡意操作，將被懲罰：
 
-* **Unavailability**. Offline for more than 95% of times in the previous 10,000 blocks, i.e. the _validator_ participated for fewer than 500 blocks in the previously 10,000 blocks. In this case 0.01% of the delegated _LikeCoin_ will be slashed and the _validator_ be “jailed”, until the _validator_ unjail itself after at least 10 minutes.
-* **Double signing**. Validates 2 conflicting blocks at the same time, which is fatal because it allows an amount to be spent twice. In this case, the _validator_ will be permanently removed, and 5% of the delegations will be slashed.
+* **不在線** － 於過去 10,000 區塊的時間中，有 95% 時間沒在線簽署確認區塊（例：驗證人 於過去 10,000 區塊中驗證少於 500 區塊）。被委託的 LikeCoin 的 0.01% 會被扣減，驗證人會因此「坐牢」直至他在最少十分鐘後自行「出獄」。
+* **雙重簽署** － 即同時簽署兩筆衝突的帳目，屬嚴重錯誤，因能導至同一筆款項被使用多次。犯此錯誤的 驗證人 會被永久解除職務，被委託的 LikeCoin 的 5% 會被扣減。
 
-In both cases, delegated _LikeCoin_ from _Likers_ will be slashed at the same ratio. It is important for _Likers_ to delegate only to _validators_ they can trust.
+於這兩種情況底下，_Likers_ 已委托的 _LikerCoin_ 將依照同一比率被扣減。所以 _Likers_  只委托自己信任的 _驗證人_ 是很重要的。
 
-In blockchain jargon, the above mechanism of decentralized consensus is called Byzantine Fault Tolerance \(**BFT**\), achieved through Delegated Proof of Stake \(**DPoS**\).
+依照區塊鏈術語以上的去中心化共識機制被稱為 _拜占庭容錯_ \( Byzantine Fault Tolerance, **BFT** \)，並透過 _委託權益證明_ \( Delegated Proof of Stake, **DPoS** \) 達成。
 
-## **Governance** <a id="ca09"></a>
+## 管治 <a id="ca09"></a>
 
-As stated in the very beginning, _Liker Land_ is collectively owned and governed by the community. A [liquid democracy](https://en.wikipedia.org/wiki/Liquid_democracy) system is designed and deployed upon Genesis to enable the self governance of Liker Land by all _Likers_ though _validators_.
+就正如最初所言，_讚賞公民共和國_ 由社群共同擁有，自創世區塊開始便實現了「流動民主」的管治模式，透過所有 _Likers_ 授權 _驗證人_ 投票議案決定未來發展。
 
-### Delegation <a id="c538"></a>
+### 委託 <a id="c538"></a>
 
-When a _Liker_ delegates _LikeCoin_ to a _validator_, not only does the _Liker_ helps validating transactions in the community and earns rewards, she also endorses the _validator_ to represent her to raise proposals and vote for or against the proposals. This is called [liquid democracy](https://en.wikipedia.org/wiki/Liquid_democracy). In this aspect, delegation is like voting in a representative democracy society, except even better, a _Liker_ may also decide how much _LikeCoin_ to delegate to reflect the level of endorsement, and may delegate to one or more _validators_.
+_Liker_ 委託 _LikeCoin_ 予 _驗證人_ 不只可以參與驗證帳目及賺取回報，也同時授權 _驗證人_ 代表自己動議社群發展議案，為議案進行投票或反對。這種流動民主的委託制度好比更進步的代議政制，因為作持份者的 _Liker_ 可決定委託多少 _LikeCoin_ 以反映授權的程度，並可以同時委託多於一個 _驗證人_，也可以隨時取消授權。
 
-### Raising a proposal <a id="81f6"></a>
+### 動議議案 <a id="81f6"></a>
 
-Every proposal is a change to the current system. After all, it is not very meaningful to pass a proposal that changes nothing. All _validators_ may raise proposals.
+每一項動議都會影響現有系統，未能作出任何改變的動議實在沒有意義。所有 _驗證人_ 均可以提交議案，發起投票。
 
-Some aspects of proposals include:
+議案的類型包括：
 
-* **On technical issues**. Such as software updates, new features and other technical changes.
-* **On economics**. Such as increasing or decreasing the inflation rate and minting _LikeCoin_ in **Creator Pool** to reward creators.
-* **On media and contents**. Such as new ways to reward creativity, measures to combat disinformation, malinformation and infringement of intellectual property right.
+* **技術議題** － 如軟件、新功能、及任何技術更新
+* **經濟議題** － 如調整增發率，於創作者池發行 _LikeCoin_ 回饋創作者等
+* **媒體及內容相關** － 如回饋創作的新方法、抗衡虛假及惡意資訊、違反知識產權的處理等等
 
-In order for a proposal to enter the voting period, 1mil _LikeCoin_ has to be deposited within 2 weeks. Instead of having the _validator_ who raised the proposal to deposit all 1mil _LikeCoin_, the deposit may come from other _validators_ and _Likers._
+提出動議需於兩週內存入一百萬 _LikeCoin_ 保證金才可以進入投票程序。按金不一定完全來自提出動議的 _驗證人_，也可以由其他 _驗證人_ 及 _Likers_ 提供。
 
-In case the proposal receive less than 1mil _LikeCoin_ deposit, the proposal will be abandoned and the deposit goes to the **Community Pool**, exact use of which determined by other proposals.
+假若動議獲得少於一百萬 _LikeCoin_ 保證金，動議將被中止。已提交的保證金將撥入**社群基金** \( Community Pool \)，由其他議案決定其用途。
 
 ### Voting <a id="a839"></a>
 
