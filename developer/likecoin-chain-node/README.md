@@ -1,2 +1,2 @@
-# LikeCoin Chain node
+# LikeCoin chain node
 
