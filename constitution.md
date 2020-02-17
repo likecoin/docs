@@ -8,13 +8,11 @@ description: 讚賞公民共和國憲法
 
 ### 全新 LikeCoin 邁向高速、低成本及流動民主新世代
 
-原文刊載於 [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)
+原文刊載於11月7日刊載於 [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)
 
 當這篇文章發佈的時候，LikeCoin chain 創世區塊亦已誕生。假如你並不明白我們在說甚麼，或者可以嘗試這樣去理解：讚賞公民共和國經已正式面世。
 
-This article introduces the elements and the mechanism of Liker Land, using as little technical jargon as possible. Developers are encouraged to check out our technical documentations or, better yet, our source codes which are open on [github](https://github.com/likecoin).
-
-
+這篇文章經已盡量減少使用專門技術用語去介紹讚賞公民共和國各項原素及結構。歡迎工程師參閱我們的技術文件，或檢視我們在 [github](https://github.com/likecoin) 的開放源碼。
 
 ## 基本概念 <a id="448e"></a>
 
@@ -63,10 +61,10 @@ This article introduces the elements and the mechanism of Liker Land, using as l
 * [**國立臺北科技大學**](https://www.ntut.edu.tw/)
 * [**Forbole**](https://www.forbole.com/)
 * [**立場新聞**](https://thestandnews.com/) + [**OurSky**](https://oursky.com/)
-* [文化及媒體教育基金](https://www.cmef.org.hk/eng) + [**Enyk Security**](https://enyk.io/)
+* [**文化及媒體教育基金**](https://www.cmef.org.hk/eng) + [**Enyk Security**](https://enyk.io/)
 * [**香港創意開放科技協會**](https://cota.hk/)
 * [**Matters Lab**](https://matters.news)
-* **GLOs** x [**UDomain**](https://www.udomain.com/)
+* \*\*\*\*[**GLOs**](https://www.glos.world/) x [**UDomain**](https://www.udomain.com/)
 
 ![first batch of validators of LikeCoin chain](https://miro.medium.com/max/2558/1*FKd6sXXYNxDp6hgFjju-0A.png)
 
@@ -76,15 +74,15 @@ This article introduces the elements and the mechanism of Liker Land, using as l
 
 _LikeCoin_ 在 2017 年首次面世時在以太坊區塊鏈以 「ERC-20 通證」 形式發行。升級至讚賞公民共和國的新標準以後，舊版本代幣被稱為 _LikeCoin ERC-20_，升級了的代幣則被稱為 _LikeCoin 通證_ ，或簡稱 _LikeCoin_ 。
 
-Following the original _LikeCoin_ whitepaper, there will be up to 2bil _LikeCoin_ in the long run. The _LikeCoin_ is assigned to **Token Sale Pool** \(360,538,485\), **Ecosystem Development Pool** \(439,461,515\), **Team Pool** \(200mil\), and **Creators Pool** \(1bil\) for their corresponding usages. 1bil _LikeCoin_ was minted in Genesis for migration from **Token Sale Pool**, **Ecosystem Development Pool**, **Team Pool**, while **Creators Pool** will be processed in future upgrade.
+按照 _LikeCoin_ 白皮書，_LikeCoin_ 最終流通總額為 20 億，按用途分配為**代幣銷售池** \(360,538,485\)、**生態拓展池** \(439,461,515\)、**團隊池**（ 2億）及**創作者池**（10億）。當創世區塊升級時從**代幣銷售池**、**生態拓展池及**團隊池中鑄造了 10 億 _LikeCoin_，至於**創作者池**將會在未來升級時進行處理。
 
 ### **轉移** <a id="4ee6"></a>
 
-As _Liker Land_ starts to operate, tentatively set on Dec 2 2019, _LikeCoin_ will replace LikeCoin ERC-20 as the official token in _Liker Land_, which means content creators will be rewarded in _LikeCoin_. The 1bil _LikeCoin_ at Genesis was stored in a migration pool and the only way to unlock a certain amount of _LikeCoin_ is to migrate the same amount of LikeCoin ERC-20, on a 1:1 basis. A migration page will be provided for _Likers_. LikeCoin ERC-20, however, can still be kept and traded on [Liquid](https://www.liquid.com/) for Bitcoin and Ethereum.
+當 _Liker Land_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _Liker Land_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 Liker 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com/) 交易所兌換為 Bitcoin 或以太幣。
 
-When LikeCoin ERC-20 is migrated to _LikeCoin_, the former will be burnt on Ethereum, so that the total number of _LikeCoin plus_ LikeCoin ERC-20 in circulation remains unchanged.
+當 LikeCoin ERC-20 轉換為 _LikeCoin_，前者將於以太坊被燒毀。故此 _LikeCoin_ 及 LikeCoin ERC-20 在市面的流通量將維持不變。
 
-New _LikeCoin_ will be minted at an inflation rate determined by the validators collectively. The inflation rate was set at 1% at the Genesis of _Liker Land_. The newly minted _LikeCoin_ is for rewarding validation of transactions \(see **Validating Transaction** below\).
+鑄造新 _LikeCoin_ 的通漲率將由驗證人全體決定。在 _Liker Land_ 創世區塊通漲率為1%。新鑄造的 _LikeCoin_ 將被用作驗證交易的回報（詳情參閱下文**驗證交易**的段落）
 
 ### Rewarding creativity. Supporting the commons. <a id="61ef"></a>
 
