@@ -10,7 +10,7 @@ description: 讚賞公民共和國憲法
 
 原文刊載於 [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)
 
-By the time this is published, Genesis block of LikeCoin chain has been produced. If that is not your language, try understand it this way: Republic of Liker Land was established on the cyberspace.
+當這篇文章發佈的時候，LikeCoin chain 創世區塊亦已誕生。假如你並不明白我們在說甚麼，或者可以嘗試這樣去理解：讚賞公民共和國經已正式面世。
 
 This article introduces the elements and the mechanism of Liker Land, using as little technical jargon as possible. Developers are encouraged to check out our technical documentations or, better yet, our source codes which are open on [github](https://github.com/likecoin).
 
