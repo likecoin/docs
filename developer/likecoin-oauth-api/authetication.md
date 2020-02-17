@@ -1,7 +1,3 @@
----
-description: How to obtain access token for authenticated API
----
-
 # Authetication
 
 ### Introduction
