@@ -76,4 +76,5 @@
 * [ISCN](developer/international-standard-content-number-iscn/README.md)
   * [Specification](developer/international-standard-content-number-iscn/specification.md)
 * [ISCN IPFS plugin](developer/iscn-ipfs-plugin.md)
+* [Badge](developer/badge.md)
 
