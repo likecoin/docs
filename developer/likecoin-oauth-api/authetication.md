@@ -1,3 +1,7 @@
+---
+description: How to obtain access token for authenticated API
+---
+
 # Authetication
 
 ### Introduction
@@ -64,7 +68,7 @@ After user oauth login in client, exchange authorization\_code in callback uri f
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-headers %}
-{% api-method-parameter type="string" name="Content-Type" %}
+{% api-method-parameter type="string" name="Content-Type" required=true %}
 `application/x-www-form-urlencoded`
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
