@@ -74,7 +74,7 @@
 * [LikeCoin button](developer/likecoin-button/README.md)
   * [Javascript + HTML](developer/likecoin-button/html.md)
   * [IFrame](developer/likecoin-button/manual-integration.md)
-  * [Javascript SDK](developer/likecoin-button/javascript-sdk.md)
+  * [Javascript SDK](developer/likecoin-button/js-sdk.md)
 * [LIKE pay SDK](developer/like-pay.md)
 * [ISCN](developer/international-standard-content-number-iscn/README.md)
   * [Specification](developer/international-standard-content-number-iscn/specification.md)
