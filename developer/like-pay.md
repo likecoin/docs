@@ -1,2 +1,2 @@
-# LIKE pay SDK
+# LIKE pay
 
