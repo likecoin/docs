@@ -59,6 +59,7 @@
 
 * [LikeCoin chain node](developer/likecoin-chain-node/README.md)
   * [Validator Technical Introduction](developer/likecoin-chain-node/validator-technical-introduction.md)
+  * [Setup mainnet node](developer/likecoin-chain-node/setup-mainnet-node.md)
 * [LikeCoin chain API](developer/likechain-api/README.md)
   * [Cosmos concepts](developer/likechain-api/cosmos-concepts.md)
   * [RPC API](developer/likechain-api/rpc-api.md)
