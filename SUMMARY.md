@@ -57,6 +57,7 @@
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
+* [LikeCoin chain node](developer/likecoin-chain-node.md)
 * [LikeCoin chain API](developer/likechain-api/README.md)
   * [Cosmos concepts](developer/likechain-api/cosmos-concepts.md)
   * [RPC API](developer/likechain-api/rpc-api.md)
