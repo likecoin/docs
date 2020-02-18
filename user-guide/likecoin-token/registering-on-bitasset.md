@@ -1,4 +1,4 @@
-# 註冊 BitAsset 帳號
+# Registering on BitAsset
 
 ## 如何註冊 BitAsset 交易所帳號
 
