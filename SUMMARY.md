@@ -5,8 +5,7 @@
 
 ## 📙 user guide
 
-* [Liker Land](user-guide/liker-land.md)
-* [Liker Land](user-guide/liker-land-1/README.md)
+* [Liker Land](user-guide/liker-land/README.md)
   * [Liker Land 手機應用程式](user-guide/liker-land/liker-land-mobile-app.md)
   * [Liker Land 網頁版](user-guide/liker-land/liker-land-web-app.md)
   * [發現內容](user-guide/liker-land/discovering-contents.md)
