@@ -12,7 +12,7 @@ description: 讚賞公民共和國憲法
 
 
 
-當這篇文章發佈的時候，LikeCoin chain 創世區塊亦已誕生。假如你並不明白我們在說甚麼，或者可以嘗試這樣去理解：讚賞公民共和國經已正式面世。
+當這篇文章發佈的時候，LikeCoin chain 創世區塊 \( Genesis \) 亦已誕生。假如你並不明白我們在說甚麼，或者可以嘗試這樣去理解：讚賞公民共和國經已正式面世。
 
 這篇文章經已盡量減少使用專門技術用語去介紹讚賞公民共和國各項原素及結構。歡迎工程師參閱我們的技術文件，或檢視我們在 [github](https://github.com/likecoin) 的開放源碼。
 
@@ -80,7 +80,7 @@ _LikeCoin_ 在 2017 年首次面世時在以太坊區塊鏈以 「ERC-20 通證�
 
 ### **轉移** <a id="4ee6"></a>
 
-當 _讚賞公民共和國_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _讚賞公民共和國_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 Liker 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com/) 交易所兌換為 Bitcoin 或以太幣。
+當 _讚賞公民共和國_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _讚賞公民共和國_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 _Liker_ 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com/) 交易所兌換為 Bitcoin 或以太幣。
 
 當 LikeCoin ERC-20 轉換為 _LikeCoin_，前者將於以太坊被燒毀。故此 _LikeCoin_ 及 LikeCoin ERC-20 在市面的流通量將維持不變。
 
@@ -104,8 +104,8 @@ _LikeCoin chain_ 約每 5 秒會產生一個區塊以記錄該時段的所有帳
 
 如 _驗證人_ 無法履行責任或進行惡意操作，將被懲罰：
 
-* **不在線** － 於過去 10,000 區塊的時間中，有 95% 時間沒在線簽署確認區塊（例：驗證人 於過去 10,000 區塊中驗證少於 500 區塊）。被委託的 LikeCoin 的 0.01% 會被扣減，驗證人會因此「坐牢」直至他在最少十分鐘後自行「出獄」。
-* **雙重簽署** － 即同時簽署兩筆衝突的帳目，屬嚴重錯誤，因能導至同一筆款項被使用多次。犯此錯誤的 驗證人 會被永久解除職務，被委託的 LikeCoin 的 5% 會被扣減。
+* **不在線** － 於過去 10,000 區塊的時間中，有 95% 時間沒在線簽署確認區塊（例：_驗證人_ 於過去 10,000 區塊中驗證少於 500 區塊）。被委託的 LikeCoin 的 0.01% 會被扣減，_驗證人_ 會因此「坐牢」直至他在最少十分鐘後自行「出獄」。
+* **雙重簽署** － 即同時簽署兩筆衝突的帳目，屬嚴重錯誤，因能導至同一筆款項被使用多次。犯此錯誤的 _驗證人_ 會被永久解除職務，被委託的 LikeCoin 的 5% 會被扣減。
 
 於這兩種情況底下，_Likers_ 已委托的 _LikerCoin_ 將依照同一比率被扣減。所以 _Likers_  只委托自己信任的 _驗證人_ 是很重要的。
 
@@ -113,7 +113,7 @@ _LikeCoin chain_ 約每 5 秒會產生一個區塊以記錄該時段的所有帳
 
 ## 管治 <a id="ca09"></a>
 
-就正如最初所言，_讚賞公民共和國_ 由社群共同擁有，自創世區塊開始便實現了「流動民主」的管治模式，透過所有 _Likers_ 授權 _驗證人_ 投票議案決定未來發展。
+就正如最初所言，_讚賞公民共和國_ 由社群共同擁有，自創世區塊開始便實現了「流動民主」\( Liquid Democracy \) 的管治模式，透過所有 _Likers_ 授權 _驗證人_ 投票議案決定未來發展。
 
 ### 委託 <a id="c538"></a>
 
@@ -133,36 +133,29 @@ _Liker_ 委託 _LikeCoin_ 予 _驗證人_ 不只可以參與驗證帳目及賺�
 
 假若動議獲得少於一百萬 _LikeCoin_ 保證金，動議將被中止。已提交的保證金將撥入**社群基金** \( Community Pool \)，由其他議案決定其用途。
 
-### Voting <a id="a839"></a>
+### 投票 <a id="a839"></a>
 
-All _validators_ may then vote during a 2-week voting period. There are four options to every proposal: **Yes**, **No**, **Abstain** and **Veto**. Veto is to express a “No” so strong that the _validator_ believes the proposal should not be proposed in the first place, and should have its deposit expropriated to **Community Pool**.
+議案的投票期為兩週，所有 _驗證人_ 均可於期間投票。投票的意向有四個選項：**同意**、**反對**、**棄權**、**堅決反對**。堅決反對代表 _驗證人_ 極不認同議案動議應該沒收保證金到**社群基金**。
 
-During the voting period, if a _Liker_ does not agree with the option picked by the _validator_ representing her, she may transfer her delegated _LikeCoin_ to another _validator_. This is another area liquid democracy improves over tradition representative democracy.
+假若 _Liker_ 於投票期間並不認同 _驗證人_ 的選擇，可以將 _LikeCoin_ 傳送予另一 _驗證人_，這種流動民主的管治模式比傳統民主更為可取。
 
-### Result <a id="a4c5"></a>
+### 投票結果 <a id="a4c5"></a>
 
-The proposal would be implemented if it is passed. It happens when:
+只要滿足以下條件，議案將被執行：
 
-* **Quorum**. _Validators_ holding 40% or more delegated LikeCoin particated in the voting.
-* **Simple majority**. With the exception of Abstain, more than 50% of the votes \(voting power is proportional to delegated _LikeCoin_\) go to Yes.
-* **No veto**. Less than one-third of the votes go to Veto.
+* **超過法定人數 \( Quorum \)** － 於議案投票中 _驗證人_ 持有超過百份之四十或以上被委托的 _LikeCoin_
+* **簡單多數決 \( Simple majority \)** － 扣除棄權票後，多於百份之五十或以上的票源（投票權以委托的 _LikeCoin_ 作比例）贊成動議
+* **沒有被否決 \( No veto \)** － 少於三份之一票源投強烈反對票
 
-In case quorum is not reached or the proposal is vetoed, the 1 mil _LikeCoin_ deposit goes to the **Community Pool**. In other cases, the deposit will be returned to the _Likers._
+假如議票未能超過法定人數又或者被否決，已存入的一百萬 _LikeCoin_ 保證金將撥入社群基金，又或者歸還予出資的 _Likers_。
 
 ![](https://miro.medium.com/max/4502/1*xh5JT3YCzaqp5djRiWXfqg.png)
 
-## Future Development <a id="b575"></a>
+## 未來展望 <a id="b575"></a>
 
-With the Genesis of _Liker Land_, _LikeCoin_ ecosystem __is entering a whole new paradigm. Services and governance of _Liker Land_ is designed in a way closely resembling a modern society, with some enhancements. With the governance by liquid democracy in place, every aspect of _Liker Land_ can be improved through proposals of change, including, most fundamentally, the constitution.
+隨著 _讚賞公民共和國_ 創世區塊誕生，_LikeCoin_ 生態圈將進入全新紀元，_讚賞公民共和國_ 的設計和管理與現代社會互相呼應卻有著顯著提升，以流動民主管治理念，透過動議產生憲法讓 _讚賞公民共和國_ 得以永續改善。
 
-As a result, the design and governance of the Republic will no longer be solely in the hands of core development team, who will nonetheless continue to dedicate their time and effort to _LikeCoin._ From now on, _Liker Land_ will be collectively owned and governed by her stakeholders, all _Likers_.
+_讚賞公民共和國_ 的設計和管治將再不受限於核心開發群組，縱使他們依然繼續竭盡心力為 _LikeCoin_ 籌謀。由現在開始 _讚賞公民共和國_ 將由所有 _Likers_ 一同擁有和管治。
 
-Despite all the exciting development, it is just the Genesis.  
-
-
-
-
-
-
-### 
+而這一切令人目眩神馳的討發展，都只是個開始。
 
