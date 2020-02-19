@@ -12,7 +12,7 @@ Matters 預設已經整合讚賞鍵。只需綁定 Liker ID 及 Matters ID，你
 
 ![](https://downloads.intercomcdn.com/i/o/155791214/db9e93b6c015c30f244138b9/image.png)
 
-步驟三： 若你未登入 Liker ID，系統會請你登入，然後會出現一個授權畫面。請點擊「接受」。
+步驟三： 若你未登入 Liker ID，系統會請你登入，然後會出現一個授權畫面。請點擊「接受」
 
 步驟四： 綁定完成！你會見到以下確認畫面：
 
