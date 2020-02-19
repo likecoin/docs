@@ -13,7 +13,7 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 ### 綁定方法（除 Matters 外）
 
-步驟一：登入 https://like.co/in/settings ，到 Authcore 設定的部份，點選「社群登入」。
+步驟一：登入 [https://like.co/in/settings](https://like.co/in/settings) ，到 Authcore 設定的部份，點選「社群登入」。
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
@@ -33,10 +33,4 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 {% hint style="warning" %}
 一旦綁定 Matters ID 跟 Liker ID，便無法解綁。敬請留意。
 {% endhint %}
-
-
-
-
-
-
 
