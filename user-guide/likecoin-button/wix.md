@@ -56,3 +56,7 @@ https://button.like.co/in/embed/[你的LikerID]/button?referrer=[網頁URL]
 }
 ```
 
+### 參考文章
+
+> [likecoin / LikeCoinButton-integration iframe](https://github.com/likecoin/LikeCoinButton-integration/tree/master/web#2iframe)
+
