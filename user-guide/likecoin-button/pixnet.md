@@ -8,15 +8,17 @@ description: 如何在痞客邦 Pixnet 文章中加入讚賞鍵
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
 
-登入痞客邦，前往痞客邦市集安裝 [LikeCoin For 痞客邦 APP](https://appmarket.pixnet.tw/#!/addon/1331)。
+登入痞客邦，前往痞客邦市集安裝 [LikeCoin For 痞客邦 APP](https://appmarket.pixnet.tw/#!/addon/1331)
 
-進入痞客邦後台，前往擴充功能管理。
+進入痞客邦後台，前往擴充功能管理
 
 點擊「LikeCoin for 痞客邦」的設定並輸入你的 Liker ID 送出後即可生效。
 
 此後每篇痞客邦文章都會自動加入讚賞鍵。
 
+### 參考文章
 
+> [【痞客邦外掛】5分鐘開始你的網站收入 - LikeCoin For 痞客邦](http://www.blog3c.net/blog/post/318696986-%e3%80%90%e7%97%9e%e5%ae%a2%e9%82%a6%e5%a4%96%e6%8e%9b%e3%80%915%e5%88%86%e9%90%98%e9%96%8b%e5%a7%8b%e4%bd%a0%e7%9a%84%e7%b6%b2%e7%ab%99%e6%94%b6%e5%85%a5---likec)
 
 
 
