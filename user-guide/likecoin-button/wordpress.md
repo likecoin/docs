@@ -1,14 +1,12 @@
 ---
-description: 如何在 WordPress 網站上加入讚賞鍵
+description: 安裝 LikeCoin WordPress 外掛為網站加入讚賞鍵，只需幾個步驟，一分鐘之內
 ---
 
 # WordPress
 
-安裝讚賞鍵 WordPress 外掛，只需幾個步驟，一分鐘之內。
+## 安裝 LikeCoin 外掛
 
-### 安裝 LikeCoin 外掛 <a id="-likecoin-"></a>
-
-安裝讚賞鍵外掛前，請先[註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
+安裝 LikeCoin WordPress 外掛前，請先[註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
 
 然後請執行以下步驟：
 
@@ -18,25 +16,30 @@ description: 如何在 WordPress 網站上加入讚賞鍵
 
 ![](https://downloads.intercomcdn.com/i/o/72823649/de9b920907d2af82226ac75d/image.png)
 
-步驟三：搜尋關鍵字 "LikeCoin" ，找到 LikeCoin 的外掛，點擊「安裝」並等待完成。
+步驟三：搜尋關鍵字 "LikeCoin" ，找到 LikeCoin 的外掛，點擊「安裝」並等待完成
 
 ![](https://downloads.intercomcdn.com/i/o/72829954/b4eb1f0016d9d8625fbae18d/image+%281%29.png)
 
-4\) 安裝完成後，你會發現在左方的菜單中多了一個 "LikeCoin" 的選項。恭喜你，你已經完成安裝了！  
+步驟四：安裝完成後，你會發現在左方的菜單中多了一個 "LikeCoin" 的選項。恭喜你，你已經完成安裝了！  
+
+
 ![](https://downloads.intercomcdn.com/i/o/78316704/563d879f9e38b9a1095c47be/menu+choice.png)
 
-左方菜單中的 LikeCoin 選項  
--------------------------
+左方菜單中的 LikeCoin 選項
 
-### 設定 LikeCoin 外掛 <a id="-likecoin-"></a>
+## 設定 LikeCoin 外掛 <a id="448e"></a>
 
-設定讚賞鍵外掛前，請先[註冊 LikeCoin ID](https://help.like.co/likecoin-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/%E6%96%B0%E6%89%8B%E4%B8%8A%E8%B7%AF/%E5%A6%82%E4%BD%95%E5%9C%A8%E9%9B%BB%E8%85%A6%E8%A8%BB%E5%86%8A-likecoin-id)。
+設定讚賞鍵外掛前，請先[註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
 
 （2019 年 12 月 2 日起，LikeCoin 用戶將無須再連接 MetaMask 電子錢包。）
 
-在管理介面左方菜單，選取 "LikeCoin" 外掛設定，再選 "Your Like Rewards"。在右方畫面中，輸入你的 Liker ID。![](https://downloads.intercomcdn.com/i/o/169029380/cb32c7bb0355af7cc8fcd90a/image.png)
+在管理介面左方菜單，選取 "LikeCoin" 外掛設定，再選 "Your Like Rewards"。在右方畫面中，輸入你的 Liker ID。
 
-在畫面下方點擊 "Confirm" 鍵，即完成設定！![](https://downloads.intercomcdn.com/i/o/169030016/a06e41a0df716187532d749b/image.png)
+![](https://downloads.intercomcdn.com/i/o/169029380/cb32c7bb0355af7cc8fcd90a/image.png)
+
+在畫面下方點擊 "Confirm" 鍵，即完成設定！
+
+![](https://downloads.intercomcdn.com/i/o/169030016/a06e41a0df716187532d749b/image.png)
 
 別忘了「確認」以儲存設定值喔
 
