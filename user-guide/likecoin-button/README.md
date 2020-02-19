@@ -1,2 +1,2 @@
-# 讚賞鍵 \(LikeCoin button\)
+# 讚賞鍵 LikeCoin button
 
