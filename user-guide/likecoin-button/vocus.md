@@ -1,3 +1,7 @@
+---
+description: 如何在方格子 Vocus 文章中加入讚賞鍵
+---
+
 # Vocus
 
 安裝 LikeCoin button 以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
