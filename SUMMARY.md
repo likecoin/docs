@@ -34,7 +34,7 @@
   * [Big Dipper](user-guide/likecoin-chain/big-dipper.md)
   * [流動民主](user-guide/likecoin-chain/liquid-democracy.md)
 * [讚賞鍵 LikeCoin button](user-guide/likecoin-button/README.md)
-  * [About LikeCoin button](user-guide/likecoin-button/how-it-works.md)
+  * [關於讚賞鍵 \( LikeCoin button \)](user-guide/likecoin-button/how-it-works.md)
   * [Matters](user-guide/likecoin-button/media-and-creators.md)
   * [WordPress](user-guide/likecoin-button/untitled.md)
   * [Medium](user-guide/likecoin-button/medium.md)
