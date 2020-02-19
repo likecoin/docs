@@ -1,16 +1,16 @@
 ---
-description: 安裝 LikeCoin 外掛為 WordPress 網站加入讚賞鍵，只需幾個步驟，一分鐘之內
+description: 安裝 LikeCoin WordPress 外掛為網站加入讚賞鍵，只需幾個步驟，一分鐘之內
 ---
 
 # WordPress
 
 ## 安裝 LikeCoin 外掛
 
-安裝 LikeCoin WordPress Plugin 亦即是外掛前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
+安裝 LikeCoin WordPress Plugin 亦即是外掛前，請先[註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
 
 然後請執行以下步驟：
 
-步驟一：進入 WordPress 網站管理員頁面並登入（若網址是 www.abc.com ，管理員頁面一般便是 www.abc.com/wp-admin ）  
+步驟一：進入WordPress網站管理員頁面並登入（若網址是 [www.abc.com](http://www.abc.com/) ，管理員頁面一般便是 [www.abc.com/wp-admin](http://www.abc.com/wp-admin) ）  
   
 步驟二：如圖點擊左方「外掛 \( plugin \)」，再點擊上方「安裝外掛 \( install plugin \)」
 
@@ -23,15 +23,17 @@ description: 安裝 LikeCoin 外掛為 WordPress 網站加入讚賞鍵，只需�
 步驟四：安裝完成後，你會發現在左方的菜單中多了一個 "LikeCoin" 的選項。恭喜你，你已經完成安裝了！  
 
 
-![ &#x5DE6;&#x65B9;&#x83DC;&#x55AE;&#x4E2D;&#x7684; LikeCoin &#x9078;&#x9805;](https://downloads.intercomcdn.com/i/o/78316704/563d879f9e38b9a1095c47be/menu+choice.png)
+![](https://downloads.intercomcdn.com/i/o/78316704/563d879f9e38b9a1095c47be/menu+choice.png)
+
+左方菜單中的 LikeCoin 選項
 
 ## 設定 LikeCoin 外掛 <a id="448e"></a>
 
-設定讚賞鍵外掛前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
+設定讚賞鍵外掛前，請先[註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
 
 （2019 年 12 月 2 日起，LikeCoin 用戶將無須再連接 MetaMask 電子錢包。）
 
-在管理介面左方菜單，選取 "LikeCoin" 外掛設定，再選 "Your Like Rewards"。在右方畫面中，輸入你的 Liker ID
+在管理介面左方菜單，選取 "LikeCoin" 外掛設定，再選 "Your Like Rewards"。在右方畫面中，輸入你的 Liker ID。
 
 ![](https://downloads.intercomcdn.com/i/o/169029380/cb32c7bb0355af7cc8fcd90a/image.png)
 
@@ -43,7 +45,7 @@ description: 安裝 LikeCoin 外掛為 WordPress 網站加入讚賞鍵，只需�
 
 -------------------------
 
-完成以上步驟後，你的讚賞鍵便會自動出現在網頁貼文的下方了。
+完成以上步驟後，你的 LikeButton 便會自動出現在網頁貼文的下方了。
 
 ## 如何於一個 WordPress 網站支援多個作者
 
@@ -51,7 +53,7 @@ description: 安裝 LikeCoin 外掛為 WordPress 網站加入讚賞鍵，只需�
 
 可以的，這是預設的設定。  
   
-步驟一：在 LikeCoin 外掛中的 "Plugin Setting" 分頁，有一個 "Enable site Liker ID" 的選項。請確保這選項 **\*沒有\*** 被勾選
+步驟一：在 LikeCoin 外掛中的 "Plugin Setting" 分頁，有一個 "Enable site Liker ID" 的選項。請確保這選項 **\*沒有\*** 被勾選。
 
 ![](https://downloads.intercomcdn.com/i/o/136642368/d706b1b2fce0cc75ee5b41f8/image.png)
 
