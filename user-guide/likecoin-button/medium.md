@@ -1,6 +1,10 @@
+---
+description: 如何在 Medium 文章中加入讚賞鍵
+---
+
 # Medium
 
-安裝 LikeButton 以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。  
+安裝 LikeCoin button 以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。  
   
 假設你的 ID 是 markzuckerberg，LikeButton 的鏈結便是 [https://button.like.co/markzuckerberg](https://button.like.co/markzuckerberg) 。
 
