@@ -8,5 +8,5 @@ description: 如何在方格子 Vocus 文章中加入讚賞鍵
 
 假設你的 ID 是 markzuckerberg，LikeButton 的鏈結便是 https://button.like.co/markzuckerberg 。
 
-然後，將該鏈接加到方格子文章（一般放到底部），輸入 "enter" 換行，LikeButton 便會自動出現。
+然後，將該鏈接加到方格子文章（一般放到底部），輸入 "enter" 換行，LikeCoin button 便會自動出現。
 
