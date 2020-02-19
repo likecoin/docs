@@ -6,5 +6,3 @@
 
 {% page-ref page="how-to-customise-the-avator-photo-display-name-and-social-media-links.md" %}
 
-
-
