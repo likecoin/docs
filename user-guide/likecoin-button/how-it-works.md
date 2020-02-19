@@ -1,5 +1,5 @@
 ---
-description: 你只需在作品中加入讚賞鍵 ( LikeCoin button )，便可把讀者的點讚轉化為 LikeCoin 收入，「化讚為賞」
+description: 你只需在作品中加入讚賞鍵，便可把讀者的按讚轉化為 LikeCoin 收入，「化讚為賞」
 ---
 
 # 關於讚賞鍵
