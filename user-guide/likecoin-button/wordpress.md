@@ -6,13 +6,13 @@ description: 安裝 LikeCoin WordPress 外掛為網站加入讚賞鍵，只需�
 
 ## 安裝 LikeCoin 外掛
 
-安裝 LikeCoin WordPress 外掛前，請先[註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
+安裝 LikeCoin WordPress Plugin 亦即是外掛前，請先[註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
 
 然後請執行以下步驟：
 
 步驟一：進入WordPress網站管理員頁面並登入（若網址是 [www.abc.com](http://www.abc.com/) ，管理員頁面一般便是 [www.abc.com/wp-admin](http://www.abc.com/wp-admin) ）  
   
-步驟二：如圖點擊左方「外掛（plugin）」，再點擊上方「安裝外掛（install plugin）」
+步驟二：如圖點擊左方「外掛 \( plugin \)」，再點擊上方「安裝外掛 \( install plugin \)」
 
 ![](https://downloads.intercomcdn.com/i/o/72823649/de9b920907d2af82226ac75d/image.png)
 
@@ -47,24 +47,18 @@ description: 安裝 LikeCoin WordPress 外掛為網站加入讚賞鍵，只需�
 
 完成以上步驟後，你的 LikeButton 便會自動出現在網頁貼文的下方了。
 
-  
--------------------------
-
-參考：  
-[如何用 LikeButton 賺取 LikeCoin](https://help.like.co/likecoin-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/%E7%94%A2%E5%93%81/%E5%A6%82%E4%BD%95%E7%94%A8-likebutton-%E8%B3%BA%E5%8F%96-likecoin)  
-[如何在 Medium 文章上加入 LikeButton](https://help.like.co/likecoin-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/%E7%94%A2%E5%93%81/%E5%A6%82%E4%BD%95%E5%9C%A8-medium-%E6%96%87%E7%AB%A0%E4%B8%8A%E5%8A%A0%E5%85%A5-likebutton)  
-[如何在電腦註冊 LikeCoin ID](https://help.like.co/likecoin-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/%E6%96%B0%E6%89%8B%E4%B8%8A%E8%B7%AF/%E5%A6%82%E4%BD%95%E5%9C%A8%E9%9B%BB%E8%85%A6%E8%A8%BB%E5%86%8A-likecoin-id)  
-[如何於一個 WordPress 網站支援多個作者](https://help.like.co/en/articles/3177264-%E5%A6%82%E4%BD%95%E6%96%BC%E4%B8%80%E5%80%8B-wordpress-%E7%B6%B2%E7%AB%99%E6%94%AF%E6%8F%B4%E5%A4%9A%E5%80%8B%E4%BD%9C%E8%80%85)
-
 ## 如何於一個 WordPress 網站支援多個作者
 
-網站中有很多作者，各人有自己的 Liker ID，可以安裝每個作者的讚賞鍵於他們的作品中嗎？![Vivien avatar](https://static.intercomassets.com/avatars/2036321/square_128/reinventing_the_Like-1525754434.png?1525754434)Written by Vivien  
-Updated over a week ago
+網站中有很多作者，各人有自己的 Liker ID，可以安裝每個作者的讚賞鍵於他們的作品中嗎？
 
 可以的，這是預設的設定。  
   
-1）在 Like Reward 插件中的 "Plugin Setting" 分頁，有一個 "Enable site Liker ID" 的選項。請確保這選項 **\*沒有\*** 被勾選。![](https://downloads.intercomcdn.com/i/o/136642368/d706b1b2fce0cc75ee5b41f8/image.png)
+步驟一：在 LikeCoin 外掛中的 "Plugin Setting" 分頁，有一個 "Enable site Liker ID" 的選項。請確保這選項 **\*沒有\*** 被勾選。
 
-2）接下來就是 WordPress 新增用戶的流程，跟 LikeCoin plugin 無關。成功新增用戶後，新用戶以自己的 WordPress 帳號登入，便可設定自己的 Liker ID 和讚賞鍵。  
+![](https://downloads.intercomcdn.com/i/o/136642368/d706b1b2fce0cc75ee5b41f8/image.png)
+
+步驟二：接下來就是 WordPress 新增用戶的流程，跟 LikeCoin 外掛無關。成功新增用戶後，新用戶以自己的 WordPress 帳號登入，便可設定自己的 Liker ID 和讚賞鍵。  
+
+
 ![](https://downloads.intercomcdn.com/i/o/136642597/50fe2f0401676caf9ebf86f6/image.png)
 

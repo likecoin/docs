@@ -1,20 +1,24 @@
+---
+description: pending
+---
+
 # 獲得 LikeCoin
 
 ## 創作內容
 
-只需在作品中加入讚賞鍵 \( LikeCoin button \)，便可把讀者的按讚轉化為 LikeCoin 收入，「化讚為賞」。
+只需在作品中加入讚賞鍵 \(LikeCoin button\)，便可把讀者的按讚轉化為 LikeCoin 收入，「化讚為賞」。
 
-[**Matters** ](https://matters.news/)的文章會自動附帶讚賞鍵。媒體博客可把 [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id) ****提供予 [**獨立媒體**](https://www.inmediahk.net/)、[**立場新聞**](https://thestandnews.com/)、[**眾新聞**](https://www.hkcnews.com/) ****等合作媒體；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 插件](https://wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上讚賞鍵。讚賞鍵也支援 [Medium](http://medium.com/)、[方格子](https://vocus.cc/)、[Blogspot \( Blogger.com \) ](https://www.blogger.com/)及[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)等。
+[**Matters** ](https://matters.news/) 的文章會自動附帶_讚賞鍵_。媒體博客可把 **Liker ID** 提供予 [**獨立媒體**](https://www.inmediahk.net/)、[**立場新聞**](https://thestandnews.com/)、[**眾新聞**](https://www.hkcnews.com/) ****等合作媒體；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 插件](https://wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上_**讚賞鍵**_。讚賞鍵也支援 [方格子](https://vocus.cc/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)、[Medium.com](http://medium.com/)、blogspot 等。
 
 創作者每天所得的回饋來自兩部份：
 
 **一、讚賞公民月費**：全數由個人支配，按 Like 數攤分。
 
-例：讚賞公民阿唯 5 月共對 500 篇文章按讚 500 次，每篇文章得到 1 美分。
+例：讚賞公民阿唯 5月共對 500篇文章按讚 500次，每篇文章得到 1美分。
 
 **二、月費配對基金**：基金會承擔，數額參考月費總和，按免費 Liker 與 **讚賞公民** 的總 Like 數攤分。
 
-例：5 月共有 1000 位付費 5 美元，月費總和 5000 美元，基金會額外撥出 5000 美元，這額外部分按所有用戶的總 Like 數攤分。
+例：5月共有 1000位付費 5美元，月費總和 5000美元，基金會額外撥出 5000美元，這額外部分按所有用戶的總 Like 數攤分。
 
 ## 推薦朋友
 
@@ -32,7 +36,7 @@
 
 此筆款項會平均於每個區塊產生時分發，現時每個區塊生成的時間為 5-6 秒。
 
-另，_增發_的新 LikeCoin 的 2%，會當作「稅項」抽起，撥入_社群基金_ \( Community pool \)。換句話說驗證人及持份者每年獲得的款項，是增發的 LikeCoin 的 98%。社群基金的運用會由社群的自治機制決定。
+另，_增發_的新 LikeCoin 的 2%，會當作「稅項」抽起，撥入_社群基金_ \(community pool\)。換句話說驗證人及持份者每年獲得的款項，是增發的 LikeCoin 的 98%。社群基金的運用會由社群的自治機制決定。
 
 假設每個區塊生成時間能固定為 6 秒，每年生成的新區塊數目便是 365\*24\*60\*10 = 5,256,000。所以每區塊分給驗證人及持份者的 LikeCoin 數：
 
