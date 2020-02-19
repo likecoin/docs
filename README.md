@@ -12,7 +12,7 @@ description: 及讚賞公民共和國
 
 即時數據更新：[ ![Number of Liker](https://static.like.co/badge/stats/liker.svg)](https://like.co/) [![Number of creator](https://static.like.co/badge/stats/creator.svg)](https://like.co/) [![Number of content](https://static.like.co/badge/stats/content.svg)](https://like.co/) [![Number of LIKE given](https://static.like.co/badge/stats/LIKE.svg)](https://like.co/)
 
-部份已支援 LikeCoin 的媒體包括 [Matters](https://matters.news/), [立場新聞](https://www.thestandnews.com/), [香港獨立媒體網](https://www.inmediahk.net/), [眾新聞](https://www.hkcnews.com/) 及其他 700+ 網站。LikeCoin 也可在 [WordPress](https://wordpress.org/plugins/likecoin/)，[Medium](https://medium.com/)，[方格子](https://vocus.cc/)，[blogspot](https://www.blogspot.com/)，[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
+部份已支援 LikeCoin 的媒體包括 [Matters](https://matters.news/), [立場新聞](https://www.thestandnews.com/), [香港獨立媒體網](https://www.inmediahk.net/), [眾新聞](https://www.hkcnews.com/) 及其他 700+ 網站。LikeCoin 也可在 [WordPress](https://wordpress.org/plugins/likecoin/)，[Medium](https://medium.com/)，[方格子](https://vocus.cc/)，[Blogspot](https://www.blogspot.com/)，[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
 
 創作者及讀者可用 [Liker Land](https://like.co/in/getapp) 作簡便的閱讀器及跟分散式生態互動的媒介。
 
