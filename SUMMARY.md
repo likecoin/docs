@@ -36,7 +36,7 @@
 * [讚賞鍵 LikeCoin button](user-guide/likecoin-button/README.md)
   * [關於讚賞鍵](user-guide/likecoin-button/how-it-works.md)
   * [Matters](user-guide/likecoin-button/matters.md)
-  * [WordPress](user-guide/likecoin-button/untitled.md)
+  * [WordPress](user-guide/likecoin-button/wordpress.md)
   * [Medium](user-guide/likecoin-button/medium.md)
   * [Vocus](user-guide/likecoin-button/vocus.md)
   * [Wix](user-guide/likecoin-button/wix.md)
