@@ -51,7 +51,7 @@
   * [升級 LikeCoin 到 LikeCoin chain](user-guide/upgrading-from-erc-20/upgrading-likecoin-erc20-to-likecoin-chain.md)
   * [升級 LikeCoin 時的常見問題](user-guide/upgrading-from-erc-20/sheng-ji-likecoin-shi-de-chang-jian-wen-ti.md)
 * [FAQ](user-guide/faq/README.md)
-  * [Where comes the LikeCoin rewards?](user-guide/faq/where-comes-the-likecoin-rewards.md)
+  * [因委託而產生的 LikeCoin 回報，錢從何來？](user-guide/faq/where-comes-the-likecoin-rewards.md)
   * [什麼是 Authcore?](user-guide/faq/what-is-authcore.md)
   * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/likecoin-sounds-cool.-can-i-volunteer-to-help.md)
   * [Do you have a press kit?](user-guide/faq/untitled.md)
