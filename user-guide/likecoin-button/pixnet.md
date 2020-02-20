@@ -1,5 +1,5 @@
 ---
-description: 5分鐘開始你的網站收入 - LikeCoin For 痞客邦
+description: 如何在痞客邦 Pixnet 文章中加入讚賞鍵
 ---
 
 # Pixnet

@@ -8,9 +8,9 @@ description: 以 JavaScript 在 Blogspot 等各家網誌的文末、側欄產生
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
 
-### 在側欄放置讚賞鍵
+## 在側欄放置讚賞鍵
 
-在版面配置的頁面，任一地方新增「HTML/JavaScript」小工具，貼上以下的 JavaScript 語法並將 \[Liker ID\] 更改為你的 Liker ID 再儲存，讚賞鍵便會自動出現。
+在版面配置的頁面，任一地方新增「HTML/JavaScript」小工具，貼上以下的 JavaScript 程式碼並將 \[Liker ID\] 更改為你的 Liker ID 再儲存，讚賞鍵便會自動出現。
 
 ```text
 <script type="text/javascript">
@@ -18,11 +18,45 @@ description: 以 JavaScript 在 Blogspot 等各家網誌的文末、側欄產生
 </script>
 ```
 
-### 在文章末段放置讚賞鍵
+## 在文章末段放置讚賞鍵
 
+進入「主題」後點擊「編輯HTML」並搜尋 **data:post.body**  ，在看到 &lt;/div&gt; 後換行插入以下程式碼，並將 \[Liker ID\] 更改為你的 Liker ID ：
 
+```text
+<b:if cond='data:blog.pageType == "item"'>
+    <script type="text/javascript">
+        document.write("<iframe scrolling='no' frameborder='0' sandbox='allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation' style='height: 212px; width: 100%;' src='https://button.like.co/in/embed/[Liker ID]/button?referrer="+encodeURIComponent(location.href.split("?")[0].split("#")[0])+"'></iframe>");
+    </script>
+</b:if>
+```
 
+**data:post.body** 舉例如下 
 
+```text
+<!-- Then use the post body as the schema.org description, for good G+/FB snippeting. -->
+<div class='post-body entry-content' expr:id='"post-body-" + data:post.id' expr:itemprop='(data:blog.metaDescription ? "" : "description ") + "articleBody"'>
+  <data:post.body/>
+  <div style='clear: both;'/> <!-- clear for photos floats -->
+</div>
+```
+
+在 &lt;/div&gt; 後加入程式碼後變成
+
+```text
+<!-- Then use the post body as the schema.org description, for good G+/FB snippeting. -->
+<div class='post-body entry-content' expr:id='"post-body-" + data:post.id' expr:itemprop='(data:blog.metaDescription ? "" : "description ") + "articleBody"'>
+  <data:post.body/>
+  <div style='clear: both;'/> <!-- clear for photos floats -->
+</div>
+
+<b:if cond='data:blog.pageType == "item"'>
+    <script type="text/javascript">
+        document.write("<iframe scrolling='no' frameborder='0' sandbox='allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation' style='height: 212px; width: 100%;' src='https://button.like.co/in/embed/[Liker ID]/button?referrer="+encodeURIComponent(location.href.split("?")[0].split("#")[0])+"'></iframe>");
+    </script>
+</b:if>
+```
+
+假如編輯HTML看到有兩個 **data:post.body** 有可能一個是電腦頁面，另一個是手機頁面，那麼兩段都要放置程式碼。留意手機版面要改成「自訂」才會顯示讚賞鍵。
 
 
 
