@@ -75,7 +75,7 @@
   * [Javascript + HTML](developer/likecoin-button/html.md)
   * [IFrame](developer/likecoin-button/iframe.md)
   * [Javascript SDK](developer/likecoin-button/js-sdk.md)
-* [LIKE pay SDK](developer/like-pay.md)
+* [LIKE pay SDK](developer/like-pay-sdk.md)
 * [ISCN](developer/international-standard-content-number-iscn/README.md)
   * [Specification](developer/international-standard-content-number-iscn/specification.md)
 * [ISCN IPFS plugin](developer/iscn-ipfs-plugin.md)
