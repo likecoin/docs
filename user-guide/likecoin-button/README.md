@@ -1,2 +1,2 @@
-# 讚賞鍵
+# 讚賞鍵 LikeCoin button
 
