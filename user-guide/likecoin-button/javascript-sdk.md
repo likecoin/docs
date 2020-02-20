@@ -1,8 +1,8 @@
 ---
-description: Integrate LikeCoin button to your website through JavaScript
+description: 使用 JavaScript 為你的網站添加讚賞鍵
 ---
 
 # JavaScript SDK
 
-Coming Soon
+靜候佳音
 
