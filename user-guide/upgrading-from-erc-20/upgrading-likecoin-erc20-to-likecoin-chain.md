@@ -2,7 +2,7 @@
 description: 若你有用 MetaMask 持有 LikeCoin，又已經綁定了社交媒體登入，簡單幾個步驟便可完成升級！
 ---
 
-# Assisted Migration
+# 升級 LikeCoin 到 LikeCoin chain
 
 LikeCoin 經已轉移到 LikeCoin chain，用戶再不能使用 MetaMask 登入而需要使用 Liker Land 手機應用程式。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
 
