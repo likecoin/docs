@@ -1,5 +1,5 @@
 ---
-description: pending
+description: 讚賞公民共和國的市民。每位 Liker 擁有一獨特的 Liker ID 以資識別
 ---
 
 # 註冊 Liker ID
@@ -18,7 +18,7 @@ description: pending
 
 ### 步驟三：輸入帳戶資料
 
-填上社交帳戶資料。例如 Google 帳號，請填上 gmail 地址及登入密碼。
+填上社交帳戶資料。例如 Google 帳號，請填上 Gmail 地址及登入密碼
 
 ![&#x8F38;&#x5165;&#x793E;&#x4EA4;&#x5E33;&#x865F;&#x8CC7;&#x6599;&#xFF08;&#x4F8B;&#xFF1A;Gmail &#x5730;&#x5740;&#xFF09;](../../.gitbook/assets/img_2338.PNG)
 
@@ -28,7 +28,7 @@ description: pending
 
 ![](../../.gitbook/assets/img_2340.PNG)
 
-點擊 Register 後，系統會嘗試以你的社交帳號註冊。若過程順利，會彈出以下畫面。點擊「OK」確認。
+點擊 Register 後，系統會嘗試以你的社交帳號註冊。若過程順利，會彈出以下畫面。點擊「OK」確認
 
 ![](../../.gitbook/assets/img_2341%20%282%29.PNG)
 
@@ -38,7 +38,7 @@ description: pending
 
 ![](../../.gitbook/assets/img_2342.PNG)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 一旦創建了 Liker ID，便不能修改。若不想再用某個 Liker ID，建議你把它留著不用，再創建一個新的。
 {% endhint %}
 
