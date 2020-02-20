@@ -19,7 +19,7 @@
   * [註冊 Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
   * [保護你的 Liker ID](user-guide/liker-id/verifying-email-address.md)
   * [綁定社交帳號](user-guide/liker-id/how-to-customise-the-avator-photo-display-name-and-social-media-links.md)
-  * [Untitled](user-guide/liker-id/resetting-password.md)
+  * [無法以社交帳號登入 Liker ID，怎麼辦？](user-guide/liker-id/resetting-password.md)
 * [讚賞公民](user-guide/civic-liker/README.md)
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
   * [如何以 PayMe 或 轉數快繳付《讚賞公民》年費](user-guide/civic-liker/payme.md)
