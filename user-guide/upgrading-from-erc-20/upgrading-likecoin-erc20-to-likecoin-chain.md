@@ -1,17 +1,15 @@
 ---
-description: >-
-  If you have LikeCoin showing in MetaMask, follow these simple steps. You won't
-  need MetaMask anymore.​
+description: 若你有用 MetaMask 持有 LikeCoin，又已經綁定了社交媒體登入，簡單幾個步驟便可完成升級！
 ---
 
 # Assisted Migration
 
-This document is for those who fulfil the below conditions:
+若你乎合以下條件：
 
-1. have LikeCoin on MetaMask
-2. Have bound your Liker ID with at least one social accounts \(Google/Facebook/Twitter/Matters\) besides MetaMask
+1. 在 MetaMask 上有 LikeCoin 餘額
+2. Liker ID 已同時綁定 MetaMask 及任何一個社交帳號 \( Google/Facebook/Twitter/Matters \)
 
-If you can **login Liker by MetaMask only**, you can still follow the below instruction except that you should choose "Login by MetaMask" in the upper left corner of the login screen, and you will be asked to setup a new password during the process.
+**若你過往只以 MetaMask 電子錢包登入**，從未綁定過其他的社交帳號登入方法的話，也可參照以下步驟，但請在登入頁面的左上角選擇「以 MetaMask 登入」的按鍵。過程中，系統會要你設定一組密碼。
 
 LikeCoin has been migrated to LikeCoin chain and users no longer need MetaMask to login but should use Liker Land app instead.  This article is for legacy users which created Liker ID with MetaMask and have not finished the migration process only.
 
