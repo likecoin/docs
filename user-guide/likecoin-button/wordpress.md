@@ -64,3 +64,5 @@ description: 安裝 LikeCoin 外掛為 WordPress 網站加入讚賞鍵，只需�
 
 > [請人幫忙分享、留言、拍手的好東西：「可重複使用區塊」](https://xrine.com/gutenburg-%E5%8F%AF%E9%87%8D%E8%A4%87%E4%BD%BF%E7%94%A8%E5%8D%80%E5%A1%8A/)
 
+> [如何在 Medium 和 WordPress 設置錨點 \(Anchor\)](https://bchai.cc/2019/03/30/how-to-setup-anchor-medium-wordpress/)
+
