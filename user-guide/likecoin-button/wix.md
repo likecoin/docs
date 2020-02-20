@@ -60,9 +60,9 @@ https://button.like.co/in/embed/[你的LikerID]/button?referrer=[網頁URL]
 
 > [likecoin / LikeCoinButton-integration iframe](https://github.com/likecoin/LikeCoinButton-integration/tree/master/web#2iframe)
 
-{% hint style="info" %}
+-------------------------
+
 你也可以嘗試使用 JavaScript 的方式看看能否產生讚賞鍵，詳見：
-{% endhint %}
 
 {% page-ref page="blogspot.md" %}
 
