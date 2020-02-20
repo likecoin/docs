@@ -70,7 +70,7 @@
   * [Reference](developer/likecoin-oauth-api/reference.md)
 * [LikeCoin button](developer/likecoin-button/README.md)
   * [Javascript + HTML](developer/likecoin-button/html.md)
-  * [Manual Integration](developer/likecoin-button/iframe.md)
+  * [IFrame](developer/likecoin-button/iframe.md)
   * [Javascript SDK](developer/likecoin-button/javascript-sdk.md)
 * [LIKE pay](developer/like-pay.md)
 * [ISCN](developer/international-standard-content-number-iscn/README.md)
