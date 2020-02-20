@@ -40,7 +40,7 @@ _讚賞公民共和國_ 的市民。每位 _Liker_ 擁有一獨特的 _Liker ID_
 
 ### 讚賞鍵 \( LikeCoin button \) <a id="82e1"></a>
 
-一個已註冊商標的拍手鍵，附帶在故事、圖像、畫作及其他創作內容中，讓 _Liker_ 按讚表達讚賞，同時為作者帶來收入。 [Matters](https://matters.news) 上所有文章已預設提供 _讚賞鍵_，特約媒體作者也可把 _Liker ID_ 提供予[香港獨立媒體網](https://inmediahk.net)、[立場新聞](https://thestandnews.com)、[眾新聞](https://hkcnews.com) 等合作媒體；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 插件](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上 _讚賞鍵_，[Medium](https://medium.com) 作者可在文章中自行貼上 _讚賞鍵_ 鏈結。
+一個已註冊商標的拍手鍵，附帶在故事、圖像、畫作及其他創作內容中，讓 _Liker_ 按讚表達讚賞，同時為作者帶來收入。 [Matters](https://matters.news) 上所有文章已預設提供 _讚賞鍵_，特約媒體作者也可把 _Liker ID_ 提供予[香港獨立媒體網](https://inmediahk.net)、[立場新聞](https://thestandnews.com)、[眾新聞](https://hkcnews.com) 等合作媒體；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 外掛](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上 _讚賞鍵_，[Medium](https://medium.com) 作者可在文章中自行貼上 _讚賞鍵_ 鏈結，也可在 [方格子](https://vocus.cc/)、[Blogspot \(Blogger.com\)](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
 
 ### LikeCoin 通證 \( LikeCoin token \) <a id="c246"></a>
 
@@ -96,7 +96,7 @@ _讚賞公民共和國_ 是由創作者及內容愛好者組成的社群，讚�
 
 對比 Facebook 或其他社群媒體，按 _讚賞鍵_ — 即是按讚 — 能讓創作者獲得實際回報。_Liker_ 可按照欣賞程度對內容按讚 1 至 5 次。每次按讚代表對內容進行投票，幫助創作者從當天分發的**創作者池**中分一杯羹。
 
-_讚賞公民_ 按讚權重較高，除了**創作者池**外亦會把他們已繳付的個人月費平均地全數回饋作者。_讚賞鍵_ 猶如 _Likers_ 的助手，幫助他們自動透過按讚的形式逐少逐少地展示對創作者的讚賞。
+_讚賞公民_ 按讚權重較高，除了**創作者池**外亦會把他們已繳付的個人月費平均地全數回饋作者。_讚賞鍵_ 猶如 _Likers_ 的助手，幫助他們自動透過按讚的微支付形式展示對創作者的讚賞。
 
 ### **驗證交易** <a id="9e68"></a>
 
