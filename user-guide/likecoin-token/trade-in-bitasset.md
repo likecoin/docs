@@ -34,7 +34,7 @@
 
 ### 步驟二：轉帳 LikeCoin 到 BitAsset
 
-過程就跟 PayMe 或 Line Pay 差不多。打開 [Liker Land App](https://like.co/in/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己口袋裡有多少錢。點畫面上的 "Send" 鍵 （下圖紅圈位置）。
+過程就跟 PayMe 或 Line Pay 差不多。打開 [Liker Land app](https://like.co/in/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己口袋裡有多少錢。點畫面上的 "Send" 鍵 （下圖紅圈位置）。
 
 ![&#x5728; Liker Land app &#x9322;&#x5305;&#x4ECB;&#x9762;&#x9078; Send &#xFF08;&#x7D05;&#x5708;&#xFF09;](https://assets.matters.news/embed/5dedb226-ea15-4d1f-bb3b-651a83814fbb.png)
 
