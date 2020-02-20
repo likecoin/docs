@@ -52,7 +52,7 @@
   * [Pixnet plugin](user-guide/likecoin-plugin/pixnet-plugin.md)
 * [Migrating from ERC-20](user-guide/migration/README.md)
   * [Assisted Migration](user-guide/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
-  * [升級 LikeCoin 時的常見問題](user-guide/migration/sheng-ji-likecoin-shi-de-chang-jian-wen-ti.md)
+  * [升級 LikeCoin 時的常見問題](user-guide/migration/migration-faq.md)
 * [FAQ](user-guide/faq/README.md)
   * [How to follow LikeCoin's news?](user-guide/faq/how-to-follow-likecoins-news.md)
   * [Where comes the LikeCoin rewards?](user-guide/faq/where-comes-the-likecoin-rewards.md)
