@@ -9,14 +9,14 @@ description: 如何在 Wix 文章中加入讚賞鍵
 依照以下格式製作你的讚賞鍵連結：
 
 ```text
-https://button.like.co/in/embed/[你的LikerID]/button?referrer=[網頁URL]
+https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
 ```
 
 假設你的 ID 是 ckxpress，網頁 URL 是 https://ckxpress.wixsite.com/likecoin/single-post/2020/02/22/LikeCoin
 
 讚賞鍵的鏈結便是 https://button.like.co/in/embed/ckxpress/button?referrer=https://ckxpress.wixsite.com/likecoin/single-post/2020/02/22/LikeCoin
 
-接著開啟 HTML 編輯模式，把以下程式碼加到你需要顯示讚賞鍵的地方，留意要把 **{{ src }}** 的部份替換為讚賞鍵鏈結
+接著開啟 HTML 編輯模式，將以下程式碼加到你需要顯示讚賞鍵的地方，留意要把 **{{ src }}** 的部份替換為讚賞鍵鏈結
 
 ```text
 <div class="likecoin-embed likecoin-button">
