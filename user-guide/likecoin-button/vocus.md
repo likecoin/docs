@@ -8,7 +8,7 @@ description: 如何在方格子 Vocus 文章中加入讚賞鍵
 
 假設你的 ID 是 markzuckerberg，讚賞鍵的鏈結便是 https://button.like.co/markzuckerberg
 
-然後，將該鏈結加到方格子文章（一般放到底部），輸入 "enter" 換行，讚賞鍵便會自動出現。
+然後，將該鏈接加到方格子文章（一般放到底部），輸入 "enter" 換行，讚賞鍵便會自動出現。
 
 ### 參考文章
 
