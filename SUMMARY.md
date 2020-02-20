@@ -75,5 +75,6 @@
 * [LIKE pay SDK](developer/like-pay.md)
 * [ISCN](developer/international-standard-content-number-iscn/README.md)
   * [Specification](developer/international-standard-content-number-iscn/specification.md)
+* [Untitled](developer/badge.md)
 * [ISCN IPFS plugin](developer/iscn-ipfs-plugin.md)
 
