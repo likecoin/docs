@@ -27,7 +27,7 @@
   * [獲得 LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
   * [交易 LikeCoin](user-guide/likecoin-token/how-to-buy-and-sell-likecoin.md)
   * [註冊 BitAsset 帳號](user-guide/likecoin-token/registering-on-bitasset.md)
-  * [在 BitAsset 交易](user-guide/likecoin-token/trade-in-bitasset.md)
+  * [在 BitAsset 交易](user-guide/likecoin-token/zai-bitasset-jiao-yi.md)
 * [LikeCoin chain](user-guide/likecoin-chain/README.md)
   * [關於 LikeCoin chain](user-guide/likecoin-chain/what-is-likecoin-chain.md)
   * [驗證人](user-guide/likecoin-chain/what-is-a-validator.md)
@@ -48,14 +48,14 @@
 * [LikeCoin 插件](user-guide/likecoin-plugin/README.md)
   * [Chrome/Firefox 插件](user-guide/likecoin-plugin/liker-land-browser-extension.md)
   * [WordPress plugin](user-guide/likecoin-plugin/wordpress-plugin.md)
-* [由 ERC-20 升級](user-guide/migration/README.md)
-  * [升級 LikeCoin 到 LikeCoin chain](user-guide/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
-  * [升級 LikeCoin 時的常見問題](user-guide/migration/migration-faq.md)
+* [由 ERC-20 升級](user-guide/upgrading-from-erc-20/README.md)
+  * [升級 LikeCoin 到 LikeCoin chain](user-guide/upgrading-from-erc-20/upgrading-likecoin-erc20-to-likecoin-chain.md)
+  * [升級 LikeCoin 時的常見問題](user-guide/upgrading-from-erc-20/sheng-ji-likecoin-shi-de-chang-jian-wen-ti.md)
 * [常見問題](user-guide/faq/README.md)
   * [因委託而產生的 LikeCoin 回報，錢從何來？](user-guide/faq/where-comes-the-likecoin-rewards.md)
   * [什麼是 Authcore?](user-guide/faq/what-is-authcore.md)
   * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/likecoin-sounds-cool.-can-i-volunteer-to-help.md)
-  * [Do you have a press kit?](user-guide/faq/press-kit.md)
+  * [Do you have a press kit?](user-guide/faq/untitled.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
