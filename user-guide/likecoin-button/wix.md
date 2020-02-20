@@ -62,11 +62,11 @@ https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
 
 -------------------------
 
-Weebly 用家也可使用同樣方式插入讚賞鍵。
+Weebly 用戶也可使用同樣方式插入讚賞鍵。
 
 -------------------------
 
-你也可以嘗試使用 JavaScript 的方式看看能否產生讚賞鍵，詳見：
+也可以嘗試使用 JavaScript 的方式看看能否產生讚賞鍵，詳見：
 
 {% page-ref page="blogspot.md" %}
 
