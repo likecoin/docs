@@ -1,4 +1,8 @@
-# 如何得知 LikeCoin 最新消息？如何加入 LikeCoin 的社群？
+---
+description: 如何加入 LikeCoin 的社群？
+---
+
+# 如何得知 LikeCoin 最新消息？
 
 想知道 LikeCoin 最新消息？想跟其他創作者打交道？請即加入我們的社群：
 

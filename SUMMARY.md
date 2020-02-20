@@ -56,7 +56,7 @@
   * [什麼是 Authcore?](user-guide/faq/what-is-authcore.md)
   * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/volunteer.md)
   * [Do you have a press kit?](user-guide/faq/press-kit.md)
-  * [如何得知 LikeCoin 最新消息？如何加入 LikeCoin 的社群？](user-guide/faq/likecoin-news.md)
+  * [如何得知 LikeCoin 最新消息？](user-guide/faq/likecoin-news.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
