@@ -50,15 +50,15 @@
   * [Chrome/Firefox extension](user-guide/likecoin-plugin/liker-land-browser-extension.md)
   * [WordPress plugin](user-guide/likecoin-plugin/wordpress-plugin.md)
   * [Pixnet plugin](user-guide/likecoin-plugin/pixnet-plugin.md)
-* [Migrating from ERC-20](user-guide/upgrading-from-erc-20/README.md)
-  * [Assisted Migration](user-guide/upgrading-from-erc-20/upgrading-likecoin-erc20-to-likecoin-chain.md)
-  * [升級 LikeCoin 時的常見問題](user-guide/upgrading-from-erc-20/sheng-ji-likecoin-shi-de-chang-jian-wen-ti.md)
+* [Migrating from ERC-20](user-guide/migration/README.md)
+  * [Assisted Migration](user-guide/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
+  * [升級 LikeCoin 時的常見問題](user-guide/migration/migration-faq.md)
 * [FAQ](user-guide/faq/README.md)
   * [Where comes the LikeCoin rewards?](user-guide/faq/where-comes-the-likecoin-rewards.md)
   * [What is Authcore?](user-guide/faq/what-is-authcore.md)
-  * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/likecoin-sounds-cool.-can-i-volunteer-to-help.md)
-  * [Do you have a press kit?](user-guide/faq/untitled.md)
-  * [How to follow LikeCoin's news?](user-guide/faq/how-to-follow-likecoins-news.md)
+  * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/volunteer.md)
+  * [Do you have a press kit?](user-guide/faq/press-kit.md)
+  * [How to follow LikeCoin's news?](user-guide/faq/likecoin-news.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
