@@ -1,8 +1,8 @@
 ---
-description: Liker Land 瀏覽器擴充功能
+description: pending
 ---
 
-# Chrome/Firefox 插件
+# Chrome/Firefox extension
 
 test seo fkdldlefeij
 

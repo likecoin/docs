@@ -44,7 +44,7 @@
   * [Blink](user-guide/likecoin-button/blink.md)
   * [Blogspot](user-guide/likecoin-button/blogspot.md)
   * [JavaScript SDK](user-guide/likecoin-button/javascript-sdk.md)
-* [LikeCoin plugin](user-guide/likecoin-plugin/README.md)
+* [LikeCoin 插件](user-guide/likecoin-plugin/README.md)
   * [Chrome/Firefox 插件](user-guide/likecoin-plugin/liker-land-browser-extension.md)
   * [WordPress plugin](user-guide/likecoin-plugin/wordpress-plugin.md)
 * [由 ERC-20 升級](user-guide/upgrading-from-erc-20/README.md)

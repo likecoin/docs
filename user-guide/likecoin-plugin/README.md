@@ -1,2 +1,2 @@
-# LikeCoin plugin
+# LikeCoin 插件
 
