@@ -42,5 +42,7 @@ https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
 
 ![](../../.gitbook/assets/wei-ming-ming.png)
 
+### 參考文章
 
+> [likecoin / LikeCoinButton-integration iframe](https://github.com/likecoin/LikeCoinButton-integration/tree/master/web#2iframe)
 
