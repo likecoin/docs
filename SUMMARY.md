@@ -33,7 +33,7 @@
   * [成為驗證人](user-guide/likecoin-chain/become-a-validator.md)
   * [Big Dipper](user-guide/likecoin-chain/big-dipper.md)
   * [流動民主](user-guide/likecoin-chain/liquid-democracy.md)
-* [讚賞鍵 LikeCoin button](user-guide/likecoin-button/README.md)
+* [讚賞鍵](user-guide/likecoin-button/README.md)
   * [關於讚賞鍵](user-guide/likecoin-button/how-it-works.md)
   * [Matters](user-guide/likecoin-button/media-and-creators.md)
   * [WordPress](user-guide/likecoin-button/wordpress.md)
