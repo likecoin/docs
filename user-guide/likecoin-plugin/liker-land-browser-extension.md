@@ -1,8 +1,8 @@
 ---
-description: Chrome/FireFox 適用
+description: Liker Land 瀏覽器擴充功能
 ---
 
-# Liker Land 瀏覽器擴充功能
+# Chrome/Firefox 插件
 
 test seo fkdldlefeij
 
