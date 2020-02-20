@@ -69,7 +69,7 @@
   * [Authetication](developer/likecoin-oauth-api/authetication.md)
   * [Reference](developer/likecoin-oauth-api/reference.md)
 * [LikeCoin button](developer/likecoin-button/README.md)
-  * [HTML](developer/likecoin-button/html.md)
+  * [Javascript + HTML](developer/likecoin-button/html.md)
   * [Javascript SDK](developer/likecoin-button/javascript-sdk.md)
   * [Manual Integration](developer/likecoin-button/manual-integration.md)
 * [LIKE pay](developer/like-pay.md)
