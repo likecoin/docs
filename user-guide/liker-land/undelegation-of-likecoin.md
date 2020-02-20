@@ -4,7 +4,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 # 取回委託 LikeCoin
 
-### 從驗證人處取回 LikeCoin
+## 從驗證人處取回 LikeCoin
 
 若你已把 LikeCoin 委託了給驗證人，現在想領回，可用 Liker Land app 中的「取回委託」功能。請參考以下步驟：
 
@@ -14,7 +14,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 ![](../../.gitbook/assets/img_2328.jpg)
 
-### 取回委託的注意事項
+## 取回委託的注意事項
 
 一旦確認了取回委託，會發生以下事情：
 
