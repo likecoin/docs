@@ -30,9 +30,7 @@ Liker Land 手機應用程式提供「轉移委託」功能，讓用戶把已委
 
 被轉移的金額會有 21 天的冷卻期，期間不能被動用，請注意。
 
-{% hint style="warning" %}
 留意：若你本來已有 LikeCoin 委託於新驗證人處，轉移完成後會連你原本已委託的 LikeCoin 一併被鎖定 21 天。請謹慎作出轉移委託的決定。
-{% endhint %}
 
 ![](../../.gitbook/assets/img_2332.jpg)
 
