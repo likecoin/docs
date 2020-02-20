@@ -28,7 +28,6 @@
   * [交易 LikeCoin](user-guide/likecoin-token/how-to-buy-and-sell-likecoin.md)
   * [註冊 BitAsset 帳號](user-guide/likecoin-token/registering-on-bitasset.md)
   * [在 BitAsset 交易](user-guide/likecoin-token/trade-in-bitasset.md)
-  * [Registering on MyEthShop](user-guide/likecoin-token/registering-on-myethshop.md)
 * [LikeCoin chain](user-guide/likecoin-chain/README.md)
   * [關於 LikeCoin chain](user-guide/likecoin-chain/what-is-likecoin-chain.md)
   * [驗證人](user-guide/likecoin-chain/what-is-a-validator.md)
