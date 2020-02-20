@@ -9,7 +9,7 @@ description: 如何在 Wix 文章中加入讚賞鍵
 依照以下格式製作你的讚賞鍵連結：
 
 ```text
-https://button.like.co/in/embed/[你的LikerID]/button?referrer=[網頁URL]
+https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
 ```
 
 假設你的 ID 是 ckxpress，網頁 URL 是 https://ckxpress.wixsite.com/likecoin/single-post/2020/02/22/LikeCoin
