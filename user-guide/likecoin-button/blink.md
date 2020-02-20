@@ -12,7 +12,7 @@ https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
 
 讚賞鍵的鏈結便是 https://button.like.co/in/embed/ckxpress/button?referrer=https://blink.com.tw/board/post/83713/
 
-接著開啟 HTML 編輯模式，把以下程式碼加到你需要顯示讚賞鍵的地方，留意要把 **{{ src }}** 的部份替換為讚賞鍵鏈結
+接著插件式/可編輯 影音，把以下程式碼加到你需要顯示讚賞鍵的地方，留意要把 **{{ src }}** 的部份替換為讚賞鍵鏈結
 
 ```text
 <div class="likecoin-embed likecoin-button">
