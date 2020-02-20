@@ -50,7 +50,7 @@
   * [WordPress plugin](user-guide/likecoin-plugin/wordpress-plugin.md)
 * [由 ERC-20 升級](user-guide/migration/README.md)
   * [升級 LikeCoin 到 LikeCoin chain](user-guide/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
-  * [升級 LikeCoin 時的常見問題](user-guide/migration/migrations-faq.md)
+  * [升級 LikeCoin 時的常見問題](user-guide/migration/migration-faq.md)
 * [常見問題](user-guide/faq/README.md)
   * [因委託而產生的 LikeCoin 回報，錢從何來？](user-guide/faq/where-comes-the-likecoin-rewards.md)
   * [什麼是 Authcore?](user-guide/faq/what-is-authcore.md)
