@@ -4,7 +4,7 @@ description: 若你有用 MetaMask 持有 LikeCoin，又已經綁定了社交媒
 
 # Assisted Migration
 
-LikeCoin 經已轉移到 LikeCoin chain，用戶再不能使用 MetaMask 登入而需要使用 Liker Land 手機應用程式。這篇文章是給以往使用 MetaMask 及並未完成轉移 Liker ID 的用戶參看。
+LikeCoin 經已轉移到 LikeCoin chain，用戶再不能使用 MetaMask 登入而需要使用 Liker Land 手機應用程式。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
 
 若你乎合以下條件：
 
@@ -13,53 +13,52 @@ LikeCoin 經已轉移到 LikeCoin chain，用戶再不能使用 MetaMask 登入�
 
 請按照以下步驟升級至全新的 LikeCoin。
 
-**若你過往只以 MetaMask 電子錢包登入**，從未綁定過其他的社交帳號登入方法的話，也可參照以下步驟，但請在登入頁面的左上角選擇「以 MetaMask 登入」的按鍵。過程中，系統會要你設定一組密碼。
+**若你過往只以 MetaMask 電子錢包登入**，從未綁定過其他的社交帳號登入方法的話，也可參照以下步驟，但請在登入頁面的左上角選擇「以 MetaMask 登入」的按鍵。過程中，系統會要求你設定一組密碼。
+
+### 步驟 1： 訪問 [like.co/in](https://like.co/in) <a id="-1--likecoin-"></a>
+
+由於現在的目的是升級 MetaMask 中的 LikeCoin，所以你必須使用能操作該 MetaMask 錢包地址的電腦來執行以下步驟。 請以你常用的社交帳戶 \( Google/Facebook/Twitter/Matters \) 登入。系統會彈出以下視窗。選「現在轉移」。
 
 
 
-----------------
+![&#x6309;&#x300C;&#x73FE;&#x5728;&#x8F49;&#x79FB;&#x300D;](https://downloads.intercomcdn.com/i/o/167235545/c6676bcebb5554053fdcb7af/%E6%9C%89+MetaMask+%E6%9C%89+Google+%E6%9C%89%E8%88%8A+LIKE.png)
 
-### Step 1: visit [like.co/in](https://like.co/in) <a id="step-1-visit-likecoin-"></a>
+### 步驟 2.1： 簡介原理
 
-Your task is to upgrade the LikeCoin in your MetaMask wallet to LikeCoin chain, so the first step is to make sure that you have the MetaMask with the correct wallet address installed in your Chrome browser.    
-Login [like.co/in](http://like.co/in) by Chrome with your social account \(Google / Facebook / Twitter / Matters\).  The system will pop up the below screen \(probably in English\).
+系統會帶你到另一個專門處理 LikeCoin 升級的頁面。
 
-![Choose &quot;Migrate Now&quot;](https://downloads.intercomcdn.com/i/o/167235545/c6676bcebb5554053fdcb7af/%E6%9C%89+MetaMask+%E6%9C%89+Google+%E6%9C%89%E8%88%8A+LIKE.png)
+升級過程其實是把目前你在 MetaMask 上的 LikeCoin ERC-20 轉移到 LikeCoin chain 上。系統會助你簡易完成這個步驟。
 
-### Step 2.1: Read the introduction <a id="step-21-read-the-introduction"></a>
+第一個步驟是過程簡介，若有興趣明白更多的不妨一讀，然後請按「確認」。
 
-The system will lead you to the migration page and help you upgrade your LikeCoin step by step.  After reading the background introduction in the below screen, click "confirm".
+![&#x6309;&#x300C;&#x78BA;&#x8A8D;&#x300D;](https://downloads.intercomcdn.com/i/o/167236198/293a78cb2e4b7b487586c0ec/image.png)
 
-![Click &quot;confirm&quot;](https://downloads.intercomcdn.com/i/o/167236198/293a78cb2e4b7b487586c0ec/image.png)
+### 步驟 2.2 ：簽署 <a id="-22-"></a>
 
-### Step 2.2: Sign
+由於要在你的電子錢包轉帳，需要你的「簽署」。請按「簽署」。
 
-The system is going to perform a transaction from your MetaMask, need your signature for authorisation.  Click "Sign".  
+![&#x6309;&#x300C;&#x7C3D;&#x7F72;&#x300D;](https://downloads.intercomcdn.com/i/o/167236832/fb22111b4a044b3e3a028045/image.png)
 
+點擊簽署後，MetaMask 會彈出以下的畫面。請按 "Connect" 及 "Sign"。
 
-![Click &quot;Sign&quot;](https://downloads.intercomcdn.com/i/o/167236832/fb22111b4a044b3e3a028045/image.png)
+![&#x6309; &quot;Connect&quot; &#x7136;&#x5F8C; &quot;sign&quot;](https://downloads.intercomcdn.com/i/o/167237605/221169c7e9891f64ac1ed7c5/image.png)
 
-After clicking "sign", the following MetaMask screens will be shown.  Click "Connect" and then "sign".  
+### 步驟 2.3：等候轉帳完成 <a id="step-23-waiting-for-the-upgrading-process-to-be-finished"></a>
 
-
-![Click &quot;Connect&quot; and then &quot;sign&quot;](https://downloads.intercomcdn.com/i/o/167237605/221169c7e9891f64ac1ed7c5/image.png)
-
-### Step 2.3: Waiting for the upgrading process to be finished <a id="step-23-waiting-for-the-upgrading-process-to-be-finished"></a>
-
-In this step, the system will firstly transfer your LikeCoin ERC-20 to a smart contract, and then deposit LikeCoin to your new wallet on LikeCoin chain.  The process needs a few minutes, please be patient.
+這裡系統會先從你的 MetaMask 轉帳 LikeCoin ERC-20 到智能合約，再把新 LikeCoin 存款到你的 LikeCoin chain 錢包中。 過程一般需要幾分鐘，請耐心等候。
 
 ![](https://downloads.intercomcdn.com/i/o/167238220/3168becb6798f060d8e736f2/image.png)
 
-### Step 3: Check your LikeCoin balance <a id="step-3-check-your-likecoin-balance"></a>
+### 步驟 3：檢查 LikeCoin 金額 <a id="step-3-check-your-likecoin-balance"></a>
 
-You can check your LikeCoin balance in [https://like.co/in](https://like.co/in) after migration completion.  
+ 升級完成後，你可到  [https://like.co/in](https://like.co/in) 檢查你的 LikeCoin 餘額。  
 
 
 ![](https://downloads.intercomcdn.com/i/o/167238743/6a0fc71935e711ec46441c80/image.png)
 
-### Download the Liker Land mobile app <a id="download-the-liker-land-mobile-app"></a>
+### 下載 Liker Land 手機應用程式 <a id="-liker-land-"></a>
 
-Please visit [Google Play store](https://play.google.com/store/apps/details?id=com.oice) or [Apple App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) to download the Liker Land mobile app.  Login by your social account and check your balance on the app.  You may also perform various operations of LikeCoin such as transfer and delegation there.
+ 你可以到 [Google Play](https://play.google.com/store/apps/details?id=com.oice&hl=zh-TW) store 或 [Apple App Store](https://apps.apple.com/hk/app/liker-land/id1248232355)，[下載 Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)，以你的社交帳號登入，便可在 app 中查閱到你的 LikeCoin 餘額了。
 
 ![](https://downloads.intercomcdn.com/i/o/167238907/feec175add4bc04dd18a2f71/image.png)
 
