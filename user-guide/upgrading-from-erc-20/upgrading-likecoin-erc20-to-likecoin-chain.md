@@ -4,16 +4,18 @@ description: 若你有用 MetaMask 持有 LikeCoin，又已經綁定了社交媒
 
 # Assisted Migration
 
+LikeCoin 經已轉移到 LikeCoin chain，用戶再不能使用 MetaMask 登入而需要使用 Liker Land 手機應用程式。這篇文章是給以往使用 MetaMask 及並未完成轉移 Liker ID 的用戶參看。
+
 若你乎合以下條件：
 
 1. 在 MetaMask 上有 LikeCoin 餘額
 2. Liker ID 已同時綁定 MetaMask 及任何一個社交帳號 \( Google/Facebook/Twitter/Matters \)
 
-請按照以下步驟升級 
+請按照以下步驟升級至全新的 LikeCoin。
 
 **若你過往只以 MetaMask 電子錢包登入**，從未綁定過其他的社交帳號登入方法的話，也可參照以下步驟，但請在登入頁面的左上角選擇「以 MetaMask 登入」的按鍵。過程中，系統會要你設定一組密碼。
 
-LikeCoin 經已轉移到 LikeCoin chain，用戶再不能使用 MetaMask 登入而需要使用 Liker Land 手機應用程式。這篇文章是給以往使用 MetaMask 及並未完成轉移 Liker ID 的用戶參看。
+
 
 ----------------
 
