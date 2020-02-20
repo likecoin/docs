@@ -1,2 +1,2 @@
-# ERC-20 升級至 LikeCoin chain
+# 由 ERC-20 升級
 
