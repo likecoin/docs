@@ -47,7 +47,7 @@
 * [LikeCoin plugin](user-guide/likecoin-plugin/README.md)
   * [Chrome/Firefox extension](user-guide/likecoin-plugin/liker-land-browser-extension.md)
   * [WordPress plugin](user-guide/likecoin-plugin/wordpress-plugin.md)
-* [Migrating from ERC-20](user-guide/upgrading-from-erc-20/README.md)
+* [由 ERC-20 升級至 LikeCoin chain](user-guide/upgrading-from-erc-20/README.md)
   * [升級 LikeCoin 到 LikeCoin chain](user-guide/upgrading-from-erc-20/upgrading-likecoin-erc20-to-likecoin-chain.md)
   * [升級 LikeCoin 時的常見問題](user-guide/upgrading-from-erc-20/sheng-ji-likecoin-shi-de-chang-jian-wen-ti.md)
 * [FAQ](user-guide/faq/README.md)
