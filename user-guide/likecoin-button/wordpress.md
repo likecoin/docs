@@ -6,7 +6,7 @@ description: 安裝 LikeCoin 外掛為 WordPress 網站加入讚賞鍵，只需�
 
 ## 安裝 LikeCoin 外掛
 
-安裝 LikeCoin WordPress Plugin 亦即是外掛前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
+安裝 [LikeCoin WordPress Plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 亦即是外掛前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
 
 然後請執行以下步驟：
 
