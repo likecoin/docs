@@ -55,7 +55,7 @@
   * [因委託而產生的 LikeCoin 回報，錢從何來？](user-guide/faq/where-comes-the-likecoin-rewards.md)
   * [什麼是 Authcore?](user-guide/faq/what-is-authcore.md)
   * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/likecoin-sounds-cool.-can-i-volunteer-to-help.md)
-  * [Do you have a press kit?](user-guide/faq/untitled.md)
+  * [Do you have a press kit?](user-guide/faq/press-kit.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
