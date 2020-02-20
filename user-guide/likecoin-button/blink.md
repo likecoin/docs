@@ -1,3 +1,7 @@
+---
+description: 如何在 Blink 佈告欄文章中加入讚賞鍵
+---
+
 # Blink
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
@@ -30,13 +34,13 @@ https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
 </div>
 ```
 
-再按「OK」，讚賞鍵便會出現在文章中。
+再按「OK」，讚賞鍵便會出現在文章中
+
+![](../../.gitbook/assets/wei-ming-ming%20%281%29.png)
+
+你可以按「一般的」，再更改「空間維度」調整讚賞鍵顯示大小。
 
 ![](../../.gitbook/assets/wei-ming-ming.png)
-
-你需要使用 Wix 的進階功能加入 CSS，讓它顯示的模樣更為清淅
-
-
 
 
 
