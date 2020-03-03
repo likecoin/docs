@@ -17,7 +17,7 @@
   * [轉移委託 LikeCoin](user-guide/liker-land/redelegation-of-likecoin.md)
 * [Liker ID](user-guide/liker-id/README.md)
   * [註冊 Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
-  * [修改頭像及顯示名稱](user-guide/liker-id/xiu-gai-tou-xiang-ji-xian-shi-ming-chen.md)
+  * [修改頭像及顯示名稱](user-guide/liker-id/edit-avator-displayname.md)
   * [保護你的 Liker ID](user-guide/liker-id/verifying-email-address.md)
   * [綁定社交帳號](user-guide/liker-id/how-to-customise-the-avator-photo-display-name-and-social-media-links.md)
   * [重設密碼](user-guide/liker-id/resetting-password.md)
