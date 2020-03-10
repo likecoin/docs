@@ -12,7 +12,7 @@ description: 如何在 Wix 文章中加入讚賞鍵
 https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
 ```
 
-假設你的 ID 是 ckxpress，網頁 URL 是 https://ckxpress.wixsite.com/likecoin/single-post/2020/02/22/LikeCoin
+假設你的 Liker ID 是 ckxpress，網頁 URL 是 https://ckxpress.wixsite.com/likecoin/single-post/2020/02/22/LikeCoin
 
 讚賞鍵的鏈結便是 https://button.like.co/in/embed/ckxpress/button?referrer=https://ckxpress.wixsite.com/likecoin/single-post/2020/02/22/LikeCoin
 
