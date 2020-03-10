@@ -12,7 +12,7 @@ description: 如何在 Blink 佈告欄文章中加入讚賞鍵
 https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
 ```
 
-假設你的 ID 是 ckxpress，網頁 URL 是 https://blink.com.tw/board/post/83713/
+假設你的 Liker ID 是 ckxpress，網頁 URL 是 https://blink.com.tw/board/post/83713/
 
 讚賞鍵的鏈結便是 https://button.like.co/in/embed/ckxpress/button?referrer=https://blink.com.tw/board/post/83713/
 
