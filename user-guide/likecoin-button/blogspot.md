@@ -20,12 +20,12 @@ description: 以 JavaScript 在 Blogspot 等各家網誌的文末、側欄產生
 
 ### 在文章末段放置讚賞鍵
 
-進入佈景「主題」後點擊「編輯HTML」並搜尋 **data:post.body**  ，在看到 &lt;/div&gt; 後換行插入以下程式碼，並將 \[Liker ID\] 更改為你的 Liker ID ：
+進入佈景「主題」後點擊「編輯HTML」並搜尋 **data:post.body**  ，在看到 &lt;/div&gt; 後換行插入以下程式碼，並將 \[LikerID\] 更改為你的 Liker ID ：
 
 ```text
 <b:if cond='data:blog.pageType == "item"'>
     <script type="text/javascript">
-        document.write("<iframe scrolling='no' frameborder='0' sandbox='allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation' style='height: 212px; width: 100%;' src='https://button.like.co/in/embed/[Liker ID]/button?referrer="+encodeURIComponent(location.href.split("?")[0].split("#")[0])+"'></iframe>");
+        document.write("<iframe scrolling='no' frameborder='0' sandbox='allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation' style='height: 212px; width: 100%;' src='https://button.like.co/in/embed/[LikerID]/button?referrer="+encodeURIComponent(location.href.split("?")[0].split("#")[0])+"'></iframe>");
     </script>
 </b:if>
 ```
