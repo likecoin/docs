@@ -45,6 +45,8 @@
   * [Wix](user-guide/likecoin-button/wix.md)
   * [Blink](user-guide/likecoin-button/blink.md)
   * [Blogspot](user-guide/likecoin-button/blogspot.md)
+  * [Hugo](user-guide/likecoin-button/hugo.md)
+  * [Jekyll](user-guide/likecoin-button/jekyll.md)
   * [JavaScript SDK](user-guide/likecoin-button/javascript-sdk.md)
 * [LikeCoin plugin](user-guide/likecoin-plugin/README.md)
   * [Chrome/Firefox extension](user-guide/likecoin-plugin/liker-land-browser-extension.md)
