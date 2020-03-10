@@ -20,10 +20,10 @@ Hugo 中的 [Partial Templates](https://gohugo.io/templates/partials/)，可以�
 <iframe class="LikeCoin" height="235" src="https://button.like.co/in/embed/{{ .Site.Params.likerID }}/button?referrer={{ .Permalink }}" width="100%" frameborder=0></iframe>
 ```
 
- 接下來在 `config.toml` 中加入以下程式碼，並將 \[Liker ID\] 更改為你的 Liker ID 
+ 接下來在 `config.toml` 中加入以下程式碼，並將 \[LikerID\] 更改為你的 Liker ID 
 
 ```text
 [[params]]
-	likerID = "liker ID"
+	likerID = "likerID"
 ```
 
