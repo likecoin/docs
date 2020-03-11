@@ -1,5 +1,5 @@
 ---
-description: 以 JavaScript 在 Blogspot 等各家網誌的文末、側欄產生 LikeCoin button
+description: 以 JavaScript 在 Blogspot 等各家網誌的文末、側欄產生讚賞鍵
 ---
 
 # Blogspot

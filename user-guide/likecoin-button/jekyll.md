@@ -25,7 +25,7 @@ https://button.like.co/in/embed/{{site.liker_id}}/button?referrer={{ page.url | 
 
 ### 插入 iframe <a id="&#x63D2;&#x5165;iframe"></a>
 
-先建立 LikeCoin button 的 HTML 片段
+先建立讚賞鍵的 HTML 片段
 
 ```text
 {% if site.liker_id %}
@@ -37,7 +37,7 @@ https://button.like.co/in/embed/{{site.liker_id}}/button?referrer={{ page.url | 
 
  用 if 檢查 liker\_id 是否存在。接著要在 post 樣板裡加入剛才的片段，找個接近區段結束的地方寫上 `{% include likeco.html %}`
 
-建置一次，文章末端已經可以看到 LikeCoin button，不過大小還要調整。LikeCoin button 的元件會自行適應以維持長寬比，其長寬約為 485px\*240px。使用以下程式碼把它置中自動縮放並隱藏卷軸。
+建置一次，文章末端已經可以看到讚賞鍵，不過大小還要調整。讚賞鍵的元件會自行適應以維持長寬比，其長寬約為 485px\*240px。使用以下程式碼把它置中自動縮放並隱藏卷軸。
 
 ```text
 {% if site.liker_id %}
