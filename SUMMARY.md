@@ -47,6 +47,7 @@
   * [Blogspot](user-guide/likecoin-button/blogspot.md)
   * [Hugo](user-guide/likecoin-button/hugo.md)
   * [Jekyll](user-guide/likecoin-button/jekyll.md)
+  * [Hexo NexT](user-guide/likecoin-button/hexo-next.md)
   * [JavaScript SDK](user-guide/likecoin-button/javascript-sdk.md)
 * [LikeCoin 插件](user-guide/likecoin-plugin/README.md)
   * [Chrome/Firefox 插件](user-guide/likecoin-plugin/liker-land-browser-extension.md)

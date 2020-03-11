@@ -6,6 +6,8 @@ description: 如何在 Jekyll 開發環境的文章中加入讚賞鍵
 
 感謝用戶 [PinGuの独り言](https://pingu.moe/2020/01/integrate-likebutton-with-jekyll/) 的教學範本。
 
+安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
+
 ### 從 \_config.yml 設定 liker\_id <a id="&#x5F9E;_configyml&#x8A2D;&#x5B9A;liker_id"></a>
 
 先在 `_config.yml` 加入 `liker_id` 鍵值，並將 \[LikerID\] 更改為你的 Liker ID
