@@ -53,8 +53,6 @@
   * [JavaScript SDK](user-guide/likecoin-button/javascript-sdk.md)
 * [LikeCoin plugin](user-guide/likecoin-plugin/README.md)
   * [Chrome/Firefox extension](user-guide/likecoin-plugin/liker-land-browser-extension.md)
-  * [WordPress plugin](user-guide/likecoin-plugin/wordpress-plugin.md)
-  * [Pixnet plugin](user-guide/likecoin-plugin/pixnet-plugin.md)
 * [Migrating from ERC-20](user-guide/migration/README.md)
   * [Assisted Migration](user-guide/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
   * [升級 LikeCoin 時的常見問題](user-guide/migration/migration-faq.md)
