@@ -1,3 +1,7 @@
+---
+description: 如何在 Hexo NexT 開發環境的文章中加入讚賞鍵
+---
+
 # Hexo NexT
 
 感謝用戶 [只是個打字的](https://blog.typeart.cc/) 的教學範本。
