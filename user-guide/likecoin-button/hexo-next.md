@@ -8,7 +8,7 @@ description: 如何在 Hexo NexT 開發環境的文章中加入讚賞鍵
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
 
-### 增加根據文章網址，自動產生 LikeCoin  button 連結
+### 增加根據文章網址，自動產生讚賞鍵連結
 
 在 `themes/next/layout/_custom/` 目錄下新增一檔案 `like_coin.ejs` 並貼上下列程式碼，並將 \[LikerID\] 更改為你的 Liker ID。
 
@@ -22,7 +22,7 @@ description: 如何在 Hexo NexT 開發環境的文章中加入讚賞鍵
 <div>
 ```
 
-### 在每篇文章末端加上 LikeCoin buton
+### 在每篇文章末端加上讚賞鍵
 
 打開 themes/next/layout/\_macro/post.swig 在合適的位置把 `like_coin.ejs` 放置好
 
@@ -50,6 +50,8 @@ description: 如何在 Hexo NexT 開發環境的文章中加入讚賞鍵
       {% endif %}
     </div>
 ```
+
+完成後就可以看到讚賞鍵出現在文章中。
 
 ### 參考文章
 

@@ -44,6 +44,7 @@
   * [Pixnet](user-guide/likecoin-button/pixnet.md)
   * [Wix](user-guide/likecoin-button/wix.md)
   * [Blink](user-guide/likecoin-button/blink.md)
+  * [Write.as](user-guide/likecoin-button/write.as.md)
   * [Blogspot](user-guide/likecoin-button/blogspot.md)
   * [Hugo](user-guide/likecoin-button/hugo.md)
   * [Jekyll](user-guide/likecoin-button/jekyll.md)
