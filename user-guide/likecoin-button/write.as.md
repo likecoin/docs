@@ -10,7 +10,7 @@ description: 如何在 Write.as 文章中加入讚賞鍵
 
 首先你需要加入 [Write.as Pro](https://write.as/pro) 服務方可使用 Javascript。
 
-把 Javascript 程式碼中的 \[LikerID\] 更改為你的 Liker ID，再將它黏貼到 Write.as 設定裡的 Custom Javascript 欄位，有需要可加入 CSS style 調整版面字型等樣式即可。
+把 Javascript 程式碼中的 \[LikerID\] 更改為你的 Liker ID，再將它黏貼到 Write.as 設定裡的 "Custom Javascript" 欄位，有需要可加入 CSS 調整版面字型等樣式即可。
 
 ```text
 var topP = document.createElement("p");

@@ -10,7 +10,7 @@ description: 以 JavaScript 在 Blogspot 等各家網誌的文末、側欄產生
 
 ### 在側欄放置讚賞鍵
 
-在版面配置的頁面，任一地方新增「HTML/JavaScript」小工具，貼上以下的 JavaScript 程式碼並將 \[LikerID\] 更改為你的 Liker ID 再儲存，讚賞鍵便會自動出現。
+在版面配置的頁面，任一地方新增 "HTML/JavaScript" 小工具，貼上以下的 JavaScript 程式碼並將 \[LikerID\] 更改為你的 Liker ID 再儲存，讚賞鍵便會自動出現。
 
 ```text
 <script type="text/javascript">
