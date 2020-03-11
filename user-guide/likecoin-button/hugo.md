@@ -31,7 +31,7 @@ Hugo 中的 [Partial Templates](https://gohugo.io/templates/partials/) 可以讓
 	likerID = "likerID"
 ```
 
-接著編輯文章使用的模板，通常位處於 \_default/`single.html`。這就是一個 Go Template，在你想要的地方插入，建議插在 `{{ .Content }}` 後面，這樣 LikeCoin button 就會接續出現文章下面。
+接著編輯文章使用的模板，通常位處於 `_default/single.html`。這就是一個 Go Template，在你想要的地方插入，建議插在 `{{ .Content }}` 後面，這樣 LikeCoin button 就會接續出現文章下面。
 
 ```text
 {{ partial "likecoin.html" . }}
