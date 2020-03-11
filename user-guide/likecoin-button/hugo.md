@@ -10,7 +10,7 @@ description: 如何在 Hugo 開發環境的文章中加入讚賞鍵
 
 先為你的網站選擇一個主題，以下採用 [CleanWhite](https://themes.gohugo.io/hugo-theme-cleanwhite) 這套主題作例子。
 
-Hugo 可以使用自訂 Layout 的方式，在不改變主題的情況下改變網站設計，用戶可透過這個方式在每篇文章下放置 LikeCoin button。
+Hugo 可以使用自訂 Layout 的方式，在不改變主題的情況下改變網站設計，用戶可透過這個方式在每篇文章下放置讚賞鍵。
 
 首先覆蓋文章的模板，將 theme 的 layouts 資料夾複製到專案目錄下。
 
