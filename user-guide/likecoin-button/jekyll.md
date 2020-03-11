@@ -50,3 +50,5 @@ https://button.like.co/in/embed/{{site.liker_id}}/button?referrer={{ page.url | 
 
 > [給Jekyll加上LikeButton賺錢錢](https://pingu.moe/2020/01/integrate-likebutton-with-jekyll/)
 
+> [Add LikeWidget to Github Pages](https://klee1611.github.io/likecoin-button-jekyll.html)
+
