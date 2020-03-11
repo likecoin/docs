@@ -46,6 +46,7 @@
   * [Blink](user-guide/likecoin-button/blink.md)
   * [Write.as](user-guide/likecoin-button/write.as.md)
   * [Blogspot](user-guide/likecoin-button/blogspot.md)
+  * [SteemCN](user-guide/likecoin-button/steemcn.md)
   * [Hugo](user-guide/likecoin-button/hugo.md)
   * [Jekyll](user-guide/likecoin-button/jekyll.md)
   * [Hexo NexT](user-guide/likecoin-button/hexo-next.md)
