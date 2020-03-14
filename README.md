@@ -1,12 +1,12 @@
 ---
-description: 及讚賞公民共和國
+description: 讚賞公民共和國
 ---
 
 # LikeCoin 是甚麼
 
 ![](.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
 
-[LikeCoin](https://like.co/) 為解決內容塑源、變現及分發而設計的分散式協議。所有內容在 [LikeCoin chain](https://likecoin.bigdipper.live/)、LikeCoin 通證及相應的應用程式介面、來自[讚賞公民共和國](https://like.co/in/getapp)的媒體以分散式自治組織的方式支持下，獲得註冊認證，並且創作者能因為每個按讚而獲得回饋。‌
+[LikeCoin](https://like.co/) 為解決內容變現、溯源及發行而設計的分散式協議。所有內容在 [LikeCoin chain](https://likecoin.bigdipper.live/)、LikeCoin 通證及相應的應用程式介面、來自[讚賞公民共和國](https://like.co/in/getapp)的媒體以分散式自治組織的方式支持下，獲得註冊認證，並且創作者能因為每個按讚而獲得回饋。‌
 
 截至 2020年1月，[讚賞公民共和國](https://like.co/in/getapp) 有 **1000+** 名[**讚賞公民**](https://liker.land/civic)， 佔總數**45,000+ Likers**的**2.5%**，共回饋了 **24mil+ LikeCoin** \( 150k 美元 \) ，給 **4000+ 創作者** 於**700+ 媒體上** 的 **150,000+ 份**內容。‌
 
