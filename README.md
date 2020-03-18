@@ -1,5 +1,5 @@
 ---
-description: and Republic of Liker Land
+description: And Republic of Liker Land
 ---
 
 # About LikeCoin
