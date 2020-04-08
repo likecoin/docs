@@ -24,8 +24,7 @@ cont.appendChild(topP);
 // Add to individual blog post page
 cont = document.getElementById("post-body");
 cont.insertAdjacentHTML("afterend", topP.outerHTML);
-cont.insertAdjacentHTML("afterend", "<div class='custom-nav likecoin'><p>-<br><em>如果你喜歡我的文字，請幫忙按 5 下 Like！我將得到 LikeCoin 的回饋。</em></p><p>回饋由 <a rel='nofollow'  href='https://like.co/'>LikeCoin</a> 基金會出資，只要註冊/登入帳號，點 5 下 Like 就可以贊助我的文章。化讚為賞，支持創作。謝謝你！</p><iframe scrolling='no' frameborder='0' width='640' height='212' src='https://button.like.co/in/embed/[LikerID]
-/button?referrer="+encodeURIComponent(location.href.split("?")[0].split("#")[0])+"'></iframe></div>");
+cont.insertAdjacentHTML("afterend", "<div class='custom-nav likecoin'><p>-<br><em>如果你喜歡我的文字，請幫忙按 5 下 Like！我將得到 LikeCoin 的回饋。</em></p><p>回饋由 <a rel='nofollow'  href='https://like.co/'>LikeCoin</a> 基金會出資，只要註冊/登入帳號，點 5 下 Like 就可以贊助我的文章。化讚為賞，支持創作。謝謝你！</p><iframe scrolling='no' frameborder='0' width='640' height='212' src='https://button.like.co/in/embed/[LikerID]/button?referrer="+encodeURIComponent(location.href.split("?")[0].split("#")[0])+"'></iframe></div>");
 }
 ```
 
