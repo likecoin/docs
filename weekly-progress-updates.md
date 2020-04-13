@@ -17,9 +17,26 @@ description: LikeCoin Weekly Progress Updates
 
 ![](.gitbook/assets/screenshot-2020-04-13-at-15.14.41-edited.png)
 
+[**edmond**](https://like.co/edmondyu)\*\*\*\*
 
+**statistics:**
 
+* Facebook Ad CPA decreased by 20% to $67.88.  Tried to place AD to Chinese users in Canada, CPA on 1st day is very good \(&lt;$30\) but then increased to ~$100 after increasing the budget by 2.5 times.  The AD was temporarily suspended and will try again after the Easter holiday \(tonight\).
+* Not much change in both Liker Land and LikeCoin button conversion funnel.  Weekly new Liker ID number stay around 2100+.  Weekly active Likers and Civic Likers number present a horizontal move.
+* New civic liker registration: 85, has been dropping for the 2nd week since the March weekly peak 116
 
+previous week:
 
+* Published an article for [2020 Q1 review](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-2020-%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%9B%9E%E9%A1%A7-bafyreifdlfznigt3htdur7e2pyomoem5chmmortz34rnakprxdipt6s2vy).
+* Planned for two weeks post listing strategy and schedule
+* Social Media: Daisy started the community activity [LikeCoin 狂想曲](https://matters.news/@daisy/matters-%E7%A4%BE%E5%8D%80%E5%9F%BA%E9%87%91%E9%85%8D%E6%8D%90%E6%8F%90%E6%A1%88-like-coin-%E7%8B%82%E6%83%B3%E6%9B%B2-bafyreiftbuickqne5bosrwweerr4znzsmhoygyipzlcv222l5glsekjvcm) on Matters
+* App promotion plan for Q2
 
+this week:
+
+* Continue on Crisp migration
+* Engage top influencers
+* Follow up with Inmedia for those authors already owning a Liker ID
+* Execution of Advertising plan on FB
+* Resume Liker Land/LikeCoin button A/B test
 
