@@ -6,6 +6,28 @@ description: LikeCoin Weekly Progress Updates
 
 ## Next Meeting: 13 April, 6PM HKT
 
+## 
+
+## [Chung](https://like.co/chungwu)
+
+### LikeCoin chain statistics \(difference from 2020-04-06\)
+
+* Historical data: [https://docs.google.com/spreadsheets/d/16vCOjhdeSwumnB9YBVLEdG-9KjJMRytwzRf6peaVGKs](https://docs.google.com/spreadsheets/d/16vCOjhdeSwumnB9YBVLEdG-9KjJMRytwzRf6peaVGKs)
+* Number of addresses: 9,430 \(+344\)
+* Number of transactions: 198,979 \(+19,515\)
+* Number of delegated LIKE: ~256,170,000 \(+1,980,000\), 77.44% of migrated LIKE
+
+![](.gitbook/assets/zhu-jie-20200413-161946.png)
+
+![](.gitbook/assets/zhu-jie-20200413-1619462%20%281%29.png)
+
+![](.gitbook/assets/zhu-jie-20200413-1619463.png)
+
+### Works
+
+* Implemented transaction fee part in ISCN on LikeCoin chain
+* Will work on data fields and validations of ISCN record structure this week 
+
 ## [ckxpress](https://like.co/ckxpress)
 
 * semi leave since Apr 1
