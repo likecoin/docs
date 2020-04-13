@@ -40,3 +40,10 @@ this week:
 * Execution of Advertising plan on FB
 * Resume Liker Land/LikeCoin button A/B test
 
+Social Media \(executed by community helper Daisy\)
+
+* Facebook reach was down this week to 1028 \(prevous week 1819\) and engagement rate 5% \(previous week 6%\). Compared to last week that we had "super hot post Audrey Tang", this week's performance is back to "regular" as 2020 Q1 figures sharing started, which is much more "boring" in a sense.
+*  Created a project in the Matters Million campaign to [collect crazy Likercoin usage ideas](https://matters.news/@daisy/like-coin-%E6%96%B0%E6%89%8B%E6%9D%91-%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-%E8%AB%8B%E7%9C%8B%E7%95%99%E8%A8%80-zdpuAwHNTynzTx2Vi3Q487FNjSsacmzkRoiWpPjFgydW2gy6y) from Likers, total 32,825 LikeCoin raised. Project end day 30/4.
+
+
+
