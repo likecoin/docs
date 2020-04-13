@@ -28,6 +28,21 @@ description: LikeCoin Weekly Progress Updates
 * Implemented transaction fee part in ISCN on LikeCoin chain
 * Will work on data fields and validations of ISCN record structure this week 
 
+## [William](https://like.co/williamchong007)
+
+Last week
+
+* Implemented disposable email [checks ](https://github.com/likecoin/likecoin-api-public/pull/138)in API, will be used for app referral bonus spam checking
+* Test and deployed server API needed for monitoring app installation and referral relations
+* Fixed some bugs in firestore trigger and added missing crisp events
+
+This week
+
+* Will look into how to deploy new like.co website design
+* Finish app referral bonus flow and demo to team, esp the app referral link generation part
+* Prepare for github action sharing
+* Think about super like PoC implementation
+
 ## [ckxpress](https://like.co/ckxpress)
 
 * semi leave since Apr 1
