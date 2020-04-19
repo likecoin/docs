@@ -1,5 +1,5 @@
 ---
-description: Accpet LIKE payment using our web widget
+description: LIKE pay web widget API Reference
 ---
 
 # Reference
