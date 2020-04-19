@@ -4,11 +4,16 @@ description: Accpet LIKE payment using our web widget
 
 # Reference
 
+## Introduction
+
+This is still a feature under active development and testing, and not meant for production use for general public, please contact us if you are interested.
+
 ## Formatting the widget URL
 
 ### Base URL
 
-[https://like.co/in/widget/pay](https://rinkeby.like.co/in/widget/pay)
+Testnet: [`https://rinkeby.like.co/in/widget/pay`](https://rinkeby.like.co/in/widget/pay)  
+Production: [`https://like.co/in/widget/pay`](https://like.co/in/widget/pay)\`\`
 
 ###  Input Params
 
