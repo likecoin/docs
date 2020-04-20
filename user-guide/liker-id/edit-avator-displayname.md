@@ -10,7 +10,7 @@ description: 讓自己的性格更特出
 
 修改完成後，你的資訊會在 Liker Land 的各種使用場境中顯示。
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 ![](../../.gitbook/assets/img_2452%20%281%29.jpg)
 
