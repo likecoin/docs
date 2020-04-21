@@ -57,3 +57,5 @@ description: 如何在 Hexo NexT 開發環境的文章中加入讚賞鍵
 
 > [在Hexo NexT增加like Button](https://blog.typeart.cc/%E5%9C%A8Hexo%20NexT%E5%A2%9E%E5%8A%A0like%20Button/)
 
+> [如何将Liker按钮集成到Hexo](https://hive.blog/cn/@aafeng/liker-hexo)
+
