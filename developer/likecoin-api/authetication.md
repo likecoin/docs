@@ -1,5 +1,5 @@
 ---
-description: How to obtain access token for authenticated API
+description: How to obtain access token for authenticated API using OAuth 2.0
 ---
 
 # Authetication
