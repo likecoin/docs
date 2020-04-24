@@ -54,7 +54,7 @@
   * [Hugo](user-guide/likecoin-button/hugo.md)
   * [Jekyll](user-guide/likecoin-button/jekyll.md)
   * [mdBook](user-guide/likecoin-button/mdbook.md)
-  * [JavaScript SDK](user-guide/likecoin-button/javascript-sdk.md)
+  * [SDK](user-guide/likecoin-button/sdk.md)
 * [LikeCoin plugin](user-guide/likecoin-plugin/README.md)
   * [Chrome/Firefox extension](user-guide/likecoin-plugin/liker-land-browser-extension.md)
 * [Migrating from ERC-20](user-guide/migration/README.md)
