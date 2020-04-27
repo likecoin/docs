@@ -3,8 +3,10 @@
 * [About LikeCoin](README.md)
 * [📜 Constitution](constitution.md)
 * [Weekly Progress Updates](weekly-progress-updates/README.md)
-  * [2020.04.13](weekly-progress-updates/20200413.md)
+  * [2020.04.27](weekly-progress-updates/2020.04.27.md)
   * [2020.04.20](weekly-progress-updates/20200420.md)
+  * [2020.04.13](weekly-progress-updates/20200413.md)
+  * [Untitled](weekly-progress-updates/untitled.md)
 
 ## 📙 user guide
 
