@@ -33,7 +33,7 @@ description: 綁定多款登入方法，增強你 Liker ID 的安全性
 
 上一步後，屏幕上顯示的裡面是：
 
-![&#x684C;&#x9762;&#x96FB;&#x8166;&#x4E0A;&#x7684;&#x756B;&#x9762;](../../.gitbook/assets/image%20%283%29.png)
+![&#x684C;&#x9762;&#x96FB;&#x8166;&#x4E0A;&#x7684;&#x756B;&#x9762;](../../.gitbook/assets/image%20%284%29.png)
 
 1. 在手機上下載 Google Authenticator 應用程式 [安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW) [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 2. 打開 Google Authenticator 應用程式。點擊應用程式右上角的 「＋」

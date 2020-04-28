@@ -15,11 +15,11 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 步驟一：登入 [https://like.co/in/settings](https://like.co/in/settings) ，到 Authcore 設定的部份，點選「社群登入」
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 步驟二：點擊欲綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 ### 如何綁定 Ｍatters 帳號
 
