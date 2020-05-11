@@ -62,9 +62,9 @@ _LikeCoin chain_ **FoTan**, which incorporates advanced features such as Interna
 
 Operates a set of servers 24x7 to validate all transactions of _Likers_, including token transfers, content publishing, voting and etc. A _validator_ on _LikeCoin chain_ is both a bank and a senator in _Liker Land_.
 
-To start with, _validators_ of _LikeCoin chain_ include [**National Taipei University of Technology**](https://www.ntut.edu.tw/), [**Forbole**](https://www.forbole.com/), **The** [**Standnews**](https://thestandnews.com/), [**Culture and Media Education Foundation**](https://www.cmef.org.hk/eng), [**Hong Kong Creative Open Technology Association**](https://cota.hk/), [**Matters Lab**](https://matters.news/), [**GLOs**](https://www.glos.world/), [**Enyk Security**](https://enyk.io/), [**UDomain**](https://www.udomain.com/) and [**OurSky**](https://oursky.com/).
+To start with, _validators_ of _LikeCoin chain_ include [**National Taipei University of Technology**](https://www.ntut.edu.tw/), [**Taiwan FactCheck Center**](https://tfc-taiwan.org.tw/),[**Forbole**](https://www.forbole.com/), **The** [**Standnews**](https://thestandnews.com/), [**Culture and Media Education Foundation**](https://www.cmef.org.hk/eng), [**Hong Kong Creative Open Technology Association**](https://cota.hk/), [**Matters Lab**](https://matters.news/), [**GLOs**](https://www.glos.world/), [**Enyk Security**](https://enyk.io/), [**UDomain**](https://www.udomain.com/) and [**OurSky**](https://oursky.com/).
 
-![first batch of validators of LikeCoin chain](https://miro.medium.com/max/2558/1*FKd6sXXYNxDp6hgFjju-0A.png)
+![first batch of validators of LikeCoin chain](.gitbook/assets/likecoin_ad70_validators-01.png)
 
 ## Mechanism <a id="d993"></a>
 
