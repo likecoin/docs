@@ -64,15 +64,16 @@ _LikeCoin chain_ **FoTan** 版本將提供 International Standard Content Number
 
 _讚賞公民共和國_ 立國後，第一批共 7 組承擔重任的 _驗證人_ 是：
 
-* [**國立臺北科技大學**](https://www.ntut.edu.tw/)
-* [**Forbole**](https://www.forbole.com/)
-* [**立場新聞**](https://thestandnews.com/) + [**OurSky**](https://oursky.com/)
-* [**文化及媒體教育基金**](https://www.cmef.org.hk/eng) + [**Enyk Security**](https://enyk.io/)
-* [**香港創意開放科技協會**](https://cota.hk/)
-* [**Matters Lab**](https://matters.news)
-* \*\*\*\*[**GLOs**](https://www.glos.world/) x [**UDomain**](https://www.udomain.com/)
+* [國立臺北科技大學](https://www.ntut.edu.tw/)
+* [台灣事實查核中心](https://tfc-taiwan.org.tw/)
+* [Forbole](https://www.forbole.com/)
+* [立場新聞](https://thestandnews.com/) + [OurSky](https://oursky.com/)
+* [文化及媒體教育基金](https://www.cmef.org.hk/eng) + [Enyk Security](https://enyk.io/)
+* [香港創意開放科技協會](https://cota.hk/)
+* [Matters Lab](https://matters.news)
+* [GLOs](https://www.glos.world/) x [UDomain](https://www.udomain.com/)
 
-![LikeCoin chain &#x9996;&#x6279;&#x9A57;&#x8B49;&#x4EBA;](https://miro.medium.com/max/2558/1*FKd6sXXYNxDp6hgFjju-0A.png)
+![LikeCoin chain &#x9996;&#x6279;&#x9A57;&#x8B49;&#x4EBA;](.gitbook/assets/likecoin_ad70_validators-01.png)
 
 ## 機制 <a id="d993"></a>
 
