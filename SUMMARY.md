@@ -61,11 +61,11 @@
 * [常見問題](user-guide/faq/README.md)
   * [如何獲取讚賞公民每日報告？](user-guide/faq/daily-report.md)
   * [因委託而產生的 LikeCoin 回報，錢從何來？](user-guide/faq/where-comes-the-likecoin-rewards.md)
+  * [如何取消委託，領回 LikeCoin?](user-guide/faq/ru-he-qu-xiao-wei-tuo-ling-hui-likecoin.md)
   * [什麼是 Authcore?](user-guide/faq/what-is-authcore.md)
   * [LikeCoin 很酷，我可以成為志願者嗎？](user-guide/faq/volunteer.md)
   * [有材料包可供下載嗎？](user-guide/faq/press-kit.md)
   * [如何得知 LikeCoin 最新消息？](user-guide/faq/likecoin-news.md)
-  * [如何取消委託，領回 LikeCoin?](user-guide/faq/ru-he-qu-xiao-wei-tuo-ling-hui-likecoin.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
