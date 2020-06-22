@@ -1,4 +1,4 @@
-# 如何以 LikeCoin 繳付《讚賞公民》年費
+# 如何以 LikeCoin 繳付「讚賞公民」年費
 
 歡迎以 Liker Land 手機應用程式，以 LikeCoin 繳付一年讚賞公民會藉年費（15,000 LikeCoin）
 
