@@ -40,6 +40,7 @@
   * [流動民主](user-guide/likecoin-chain/liquid-democracy.md)
 * [讚賞鍵](user-guide/likecoin-button/README.md)
   * [關於讚賞鍵](user-guide/likecoin-button/how-it-works.md)
+  * [SuperLike](user-guide/likecoin-button/superlike.md)
   * [WordPress](user-guide/likecoin-button/wordpress.md)
   * [Matters](user-guide/likecoin-button/matters.md)
   * [Vocus](user-guide/likecoin-button/vocus.md)
