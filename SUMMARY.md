@@ -30,6 +30,7 @@
 * [LikeCoin 通證](user-guide/likecoin-token/README.md)
   * [獲得 LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
   * [交易 LikeCoin](user-guide/likecoin-token/how-to-buy-and-sell-likecoin.md)
+  * [在 Liquid 交易](user-guide/likecoin-token/zai-liquid-jiao-yi.md)
   * [註冊 BitAsset 帳號](user-guide/likecoin-token/registering-on-bitasset.md)
   * [在 BitAsset 交易](user-guide/likecoin-token/trade-in-bitasset.md)
 * [LikeCoin chain](user-guide/likecoin-chain/README.md)
