@@ -3,6 +3,7 @@
 * [About LikeCoin](README.md)
 * [📜 Constitution](constitution.md)
 * [Weekly Progress Updates](weekly-progress-updates/README.md)
+  * [2020.07.13](weekly-progress-updates/2020.07.13.md)
   * [2020.07.06](weekly-progress-updates/2020.07.26.md)
   * [2020.06.29](weekly-progress-updates/2020.06.29.md)
   * [2020.06.22](weekly-progress-updates/2020.06.22.md)
