@@ -32,7 +32,7 @@
   * [Undelegation of LikeCoin](user-guide/liker-land/undelegation-of-likecoin.md)
   * [Redelegation of LikeCoin](user-guide/liker-land/redelegation-of-likecoin.md)
 * [Liker ID](user-guide/liker-id/README.md)
-  * [Registering a Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
+  * [Register a Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
   * [Securing my Liker ID](user-guide/liker-id/verifying-email-address.md)
   * [Connecting to my social profile](user-guide/liker-id/how-to-customise-the-avator-photo-display-name-and-social-media-links.md)
   * [Resetting password](user-guide/liker-id/resetting-password.md)
