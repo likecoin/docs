@@ -1,61 +1,57 @@
 # WordPress
 
-## 如何在 WordPress 網站上加入 LikeButton
+## How to add LikeCoin button on WordPress
 
-安裝讚賞鍵 \(LikeButton\) WordPress 外掛，只需幾個步驟，一分鐘之內。
+Installing LikeCoin WordPress plugin is easy-peasy, it takes only a few steps, within one minute.
 
-### 安裝 LikeCoin 外掛 <a id="-likecoin-"></a>
+### Install LikeCoin plugin  <a id="-likecoin-"></a>
 
-安裝讚賞鍵外掛前，請先[註冊 LikeCoin ID](https://help.like.co/likecoin-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/%E6%96%B0%E6%89%8B%E4%B8%8A%E8%B7%AF/%E5%A6%82%E4%BD%95%E5%9C%A8%E9%9B%BB%E8%85%A6%E8%A8%BB%E5%86%8A-likecoin-id)。
+Before installing the LikeCoin plugin, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
 
-然後請執行以下步驟：
+Follow the steps:
 
-1）進入WordPress網站管理員頁面並登入。（若網址是 [www.abc.com](http://www.abc.com/) ，管理員頁面一般便是 [www.abc.com/wp-admin](http://www.abc.com/wp-admin) 。 ）  
-  
-2）如圖點擊左方「外掛（plugin）」，再點擊上方「安裝外掛（install plugin）」。![](https://downloads.intercomcdn.com/i/o/72823649/de9b920907d2af82226ac75d/image.png)
+1\) Go to the WordPress admin panel and loing \( For example if your website is www.abc.com, the admin panel address  is usually in www.abc.com/wp-admin\).
 
-3）搜尋關鍵字 "LikeCoin" ，找到 LikeCoin 的外掛，點擊「安裝」並等待完成。![](https://downloads.intercomcdn.com/i/o/72829954/b4eb1f0016d9d8625fbae18d/image+%281%29.png)
+2\)  Click on the Menu on the left, go to "Plugin" and click on "install plugin" on top.
 
-4\) 安裝完成後，你會發現在左方的菜單中多了一個 "LikeCoin" 的選項。恭喜你，你已經完成安裝了！  
-![](https://downloads.intercomcdn.com/i/o/78316704/563d879f9e38b9a1095c47be/menu+choice.png)
+![](https://downloads.intercomcdn.com/i/o/72823649/de9b920907d2af82226ac75d/image.png)
 
-左方菜單中的 LikeCoin 選項  
--------------------------
+3\) Search for "LikeCoin" and find the LikeCoin plugin, click "install" and wait for the system to finish the job.
 
-### 設定 LikeCoin 外掛 <a id="-likecoin-"></a>
+![](https://downloads.intercomcdn.com/i/o/72829954/b4eb1f0016d9d8625fbae18d/image+%281%29.png)
 
-設定讚賞鍵外掛前，請先[註冊 LikeCoin ID](https://help.like.co/likecoin-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/%E6%96%B0%E6%89%8B%E4%B8%8A%E8%B7%AF/%E5%A6%82%E4%BD%95%E5%9C%A8%E9%9B%BB%E8%85%A6%E8%A8%BB%E5%86%8A-likecoin-id)。
+4\) After installation, there will be an "LikeCoin" option in the menu. Congulartions,  installation is done!  
 
-（2019 年 12 月 2 日起，LikeCoin 用戶將無須再連接 MetaMask 電子錢包。）
 
-在管理介面左方菜單，選取 "LikeCoin" 外掛設定，再選 "Your Like Rewards"。在右方畫面中，輸入你的 Liker ID。![](https://downloads.intercomcdn.com/i/o/169029380/cb32c7bb0355af7cc8fcd90a/image.png)
+![&quot;LikeCoin&quot; on the menu.](https://downloads.intercomcdn.com/i/o/78316704/563d879f9e38b9a1095c47be/menu+choice.png)
 
-在畫面下方點擊 "Confirm" 鍵，即完成設定！![](https://downloads.intercomcdn.com/i/o/169030016/a06e41a0df716187532d749b/image.png)
+## Configuring LikeCoin plugin
 
-別忘了「確認」以儲存設定值喔
+Before configuring the LikeCoin plugin, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
 
--------------------------
+ \( After 2019/12/2, Metamask is not required when using LikeCoin plugin. \) 
 
-完成以上步驟後，你的 LikeButton 便會自動出現在網頁貼文的下方了。
+On the menu, select "LikeCoin",  then fill in your Liker ID in the Liker ID field.
 
-  
--------------------------
+![](https://downloads.intercomcdn.com/i/o/169029380/cb32c7bb0355af7cc8fcd90a/image.png)
 
-參考：  
-[如何用 LikeButton 賺取 LikeCoin](https://help.like.co/likecoin-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/%E7%94%A2%E5%93%81/%E5%A6%82%E4%BD%95%E7%94%A8-likebutton-%E8%B3%BA%E5%8F%96-likecoin)  
-[如何在 Medium 文章上加入 LikeButton](https://help.like.co/likecoin-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/%E7%94%A2%E5%93%81/%E5%A6%82%E4%BD%95%E5%9C%A8-medium-%E6%96%87%E7%AB%A0%E4%B8%8A%E5%8A%A0%E5%85%A5-likebutton)  
-[如何在電腦註冊 LikeCoin ID](https://help.like.co/likecoin-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C/%E6%96%B0%E6%89%8B%E4%B8%8A%E8%B7%AF/%E5%A6%82%E4%BD%95%E5%9C%A8%E9%9B%BB%E8%85%A6%E8%A8%BB%E5%86%8A-likecoin-id)  
-[如何於一個 WordPress 網站支援多個作者](https://help.like.co/en/articles/3177264-%E5%A6%82%E4%BD%95%E6%96%BC%E4%B8%80%E5%80%8B-wordpress-%E7%B6%B2%E7%AB%99%E6%94%AF%E6%8F%B4%E5%A4%9A%E5%80%8B%E4%BD%9C%E8%80%85)
+Then click "Confirm",  your LikeCoin button setup is finished.
 
-## 如何於一個 WordPress 網站支援多個作者
+![Don&apos;t forget to click &quot;Confirm&quot; to store your setting.](https://downloads.intercomcdn.com/i/o/169030016/a06e41a0df716187532d749b/image.png)
 
-網站中有很多作者，各人有自己的 Liker ID，可以安裝每個作者的讚賞鍵於他們的作品中嗎？![Vivien avatar](https://static.intercomassets.com/avatars/2036321/square_128/reinventing_the_Like-1525754434.png?1525754434)Written by Vivien  
-Updated over a week ago
+After completing the above procedures, your LikeCoin button will appear underneath each article of your WordPress site.
 
-可以的，這是預設的設定。  
-  
-1）在 Like Reward 插件中的 "Plugin Setting" 分頁，有一個 "Enable site Liker ID" 的選項。請確保這選項 **\*沒有\*** 被勾選。![](https://downloads.intercomcdn.com/i/o/136642368/d706b1b2fce0cc75ee5b41f8/image.png)
+## How to support multiple Liker ID in a WordPress site
 
-2）接下來就是 WordPress 新增用戶的流程，跟 LikeCoin plugin 無關。成功新增用戶後，新用戶以自己的 WordPress 帳號登入，便可設定自己的 Liker ID 和讚賞鍵。  
+There are many creators in one website, each of them got their own Liker ID, can LikeCoin button support rewarding individual creators?
+
+Sure, the LikeCoin plugin supports multiple Liker ID by default.
+
+1\) In the LikeCoin plugin setting, there is an option  "Enable site Liker ID".  Please make sure that this option is "**NOT**" being selected.
+
+![](https://downloads.intercomcdn.com/i/o/136642368/d706b1b2fce0cc75ee5b41f8/image.png)
+
+2\) You can add new WordPress users as usual, and this part is not related to LikeCoin plugin. After adding new users, they can use their own WordPress account to login and set up their own Liker ID and LikeCoin button.
+
 ![](https://downloads.intercomcdn.com/i/o/136642597/50fe2f0401676caf9ebf86f6/image.png)
 
