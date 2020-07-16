@@ -10,7 +10,7 @@ Before installing the LikeCoin plugin, please [register a Liker ID](https://docs
 
 Follow the steps:
 
-1\) Go to the WordPress admin panel and loing \( For example if your website is www.abc.com, the admin panel address  is usually in www.abc.com/wp-admin\).
+1\) Go to the WordPress admin panel and login \( For example if your website is www.abc.com, the admin panel address is usually on www.abc.com/wp-admin\).
 
 2\)  Click on the Menu on the left, go to "Plugin" and click on "install plugin" on top.
 
@@ -20,7 +20,7 @@ Follow the steps:
 
 ![](https://downloads.intercomcdn.com/i/o/72829954/b4eb1f0016d9d8625fbae18d/image+%281%29.png)
 
-4\) After installation, there will be an "LikeCoin" option in the menu. Congulartions,  installation is done!  
+4\) After installation, there will be an "LikeCoin" option in the menu. Congratulations,  installation is done!  
 
 
 ![&quot;LikeCoin&quot; on the menu.](https://downloads.intercomcdn.com/i/o/78316704/563d879f9e38b9a1095c47be/menu+choice.png)
