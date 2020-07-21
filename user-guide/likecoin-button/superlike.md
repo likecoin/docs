@@ -2,9 +2,9 @@
 description: 重新定義「分享」的概念
 ---
 
-# SuperLike
+# Super Like
 
-點擊讚賞鍵第六下，可 SuperLike _**分享值得曝光的珍愛內容至 Liker Land**_。
+點擊讚賞鍵第六下，可 Super Like _**分享值得曝光的珍愛內容至 Liker Land**_。
 
 ![](../../.gitbook/assets/superlike.gif)
 
@@ -14,15 +14,15 @@ description: 重新定義「分享」的概念
 
 ## 分享，是為了啟發
 
-每個 SuperLike 同時把內容分享到 Liker Land 上，以文會友。每天 SuperLike 的額度有限，只有最愛的內容才能曝光。
+每個 SuperLike 同時把內容分享到 Liker Land 上，以文會友。每天 Super Like 的額度有限，只有最愛的內容才能曝光。
 
 ## 讚，是為了賞
 
-SuperLike 重新定義「分享」：分享 = 回饋。不但作者獲賞，協力分享的內容伯樂也能獲賞。
+Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協力分享的內容伯樂也能獲賞。
 
 ## 怎樣參與
 
-SuperLike 功能將於 2020 第三季推出，推廣期間暫時只有[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)可獲每天兩次的 SuperLike 機會。敬請期待。
+Super Like 功能將於 2020 第三季推出，推廣期間暫時只有[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)可獲每天兩次的 SuperLike 機會。敬請期待。
 
 【[成為讚賞公民](https://like.co/in/getapp)】
 
