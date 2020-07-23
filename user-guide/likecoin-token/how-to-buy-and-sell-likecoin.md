@@ -12,5 +12,7 @@
 
 轉帳 LikeCoin 須用 Liker Land 手機應用程式，[請先下載](https://like.co/in/getapp)。
 
+{% page-ref page="../liker-land/like-pay.md" %}
+
 
 
