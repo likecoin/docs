@@ -4,7 +4,7 @@ description: 把讚賞贈給自己最愛的內容
 
 # 發現內容
 
-Liker Land 手機應用程式提供幾個方法，讓你發現最適合自己的內容。
+[Liker Land 手機應用程式](https://like.co/in/getapp)提供幾個方法，讓你發現最適合自己的內容。
 
 ### 追縱
 
