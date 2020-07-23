@@ -28,7 +28,7 @@
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
   * [如何以 PayMe 或轉數快繳付「讚賞公民」年費](user-guide/civic-liker/payme.md)
   * [如何以 LikeCoin 繳付「讚賞公民」年費](user-guide/civic-liker/civic-liker-paid-by-likecoin.md)
-  * [如何退訂「讚賞公民」](user-guide/civic-liker/ru-he-tui-ding-zan-shang-gong-min.md)
+  * [如何退訂「讚賞公民」](user-guide/civic-liker/unsubscribe-civic-liker.md)
 * [LikeCoin 通證](user-guide/likecoin-token/README.md)
   * [獲得 LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
   * [交易 LikeCoin](user-guide/likecoin-token/how-to-buy-and-sell-likecoin.md)
