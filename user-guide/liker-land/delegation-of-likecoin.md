@@ -28,7 +28,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委托 ( Delegate ) 給�
 
 跳至確認畫面，顯示出驗證人的委托戶口地址，按 \[Details\] 還可以核查委托款項及有沒有收取交易費用（目前所有委托動作均沒有費用）。
 
-點擊 \[Confirm\]，稍待幾秒，畫面上方會出現 "Transaction Completed" 字樣，代表已完成委托。
+點擊「確應」 / \[Confirm\]，稍待幾秒，畫面上方會出現 "Transaction Completed" 字樣，代表已完成委托。
 
 ![](https://downloads.intercomcdn.com/i/o/167965703/cd18d7880d293485d462b16b/IMG_2089.PNG)
 
