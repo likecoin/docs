@@ -6,7 +6,7 @@ description: 讚賞公民共和國的市民。每位 Liker 擁有一獨特的 Li
 
 註冊 Liker ID 方法簡單，只需[下載 Liker Land 手機應用程式](https://like.co/in/getapp)，並執行以下程序即可：
 
-### 步驟一：打開 Liker Land app，按「登入」鍵
+### 步驟一：打開 Liker Land 手機應用程式，按「登入」鍵
 
 ![](../../.gitbook/assets/img_2333.PNG)
 
