@@ -24,5 +24,5 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 
 Super Like 功能將於 2020 第三季推出，推廣期間暫時只有[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)可獲每天兩次的 SuperLike 機會。敬請期待。
 
-【[成為讚賞公民](https://like.co/in/getapp)】
+### 【[成為讚賞公民](https://like.co/in/getapp)】
 
