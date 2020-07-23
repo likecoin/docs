@@ -22,7 +22,7 @@
   * [註冊 Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
   * [修改頭像及顯示名稱](user-guide/liker-id/edit-avator-displayname.md)
   * [保護你的 Liker ID](user-guide/liker-id/verifying-email-address.md)
-  * [綁定社交帳號](user-guide/liker-id/social-media-login.md)
+  * [綁定社交帳號](user-guide/liker-id/social-media-logins.md)
   * [重設密碼](user-guide/liker-id/resetting-password.md)
 * [讚賞公民](user-guide/civic-liker/README.md)
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)

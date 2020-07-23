@@ -10,7 +10,7 @@ description: 讚賞公民共和國 的市民。每位 Liker 擁有一獨特的 L
 
 {% page-ref page="verifying-email-address.md" %}
 
-{% page-ref page="social-media-login.md" %}
+{% page-ref page="social-media-logins.md" %}
 
 {% page-ref page="resetting-password.md" %}
 
