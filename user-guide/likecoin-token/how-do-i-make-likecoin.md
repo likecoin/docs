@@ -28,7 +28,7 @@
 
 ## 成為驗證人
 
-驗證人記帳的回報來自[增發 \(inflation\)](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)，目前設定為總貨幣流通量，即截至目前為止十億 LikeCoin 的 1%，亦即每年新發行一千萬 LikeCoin。
+驗證人記帳的回報來自增發 \( inflation \)，目前設定為總貨幣流通量，即截至目前為止十億 LikeCoin 的 1%，亦即每年新發行一千萬 LikeCoin。
 
 此筆款項會平均於每個區塊產生時分發，現時每個區塊生成的時間為 5-6 秒。
 
@@ -46,5 +46,5 @@
 
 ## 在交易所購買 LikeCoin
 
-目前 [BitAsset](https://www.bitasset.com) 支援 LikeCoin 的 TWD/LIKE 及 BTC/LIKE 交易對，[MyEthShop](https://www.myethshop.com) 則提供 HKD/LIKE 交易對。有興趣的朋友可以在 [BitAsset](https://www.bitasset.com) 或 [MyEthShop](https://www.myethshop.com) 購買 LikeCoin。 
+目前 [BitAsset](https://www.bitasset.com) 支援 LikeCoin 的 TWD/LIKE 及 BTC/LIKE 交易對，[MyEthShop](https://www.myethshop.com) 提供 HKD/LIKE 交易對，而 [Liquid](https://www.liquid.com/) 則提供 BTC/LIKE 及 USDT/LIKE 交易對。有興趣的朋友可以向他們購買 LikeCoin。 
 
