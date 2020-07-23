@@ -22,6 +22,10 @@
 
 **推薦鏈結**： https://liker.land/civic?from=​\[Your Liker ID\]​
 
+推薦朋友下載 Liker Land，你和你推薦的朋友各得 100 LikeCoin 奬賞
+
+**推薦鏈結**： https://likerland.app.link/?event=app\_referral&referrer=\[Your Liker ID\]
+
 ## 賞金任務
 
 社群持續需要賞金獵人協助完成如翻譯、設計、推廣、社群管理等任務，完成任務後能獲得 LikeCoin 奬勵。
