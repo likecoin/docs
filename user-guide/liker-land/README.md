@@ -4,7 +4,7 @@
 
 {% page-ref page="liker-land-mobile-app.md" %}
 
-{% page-ref page="liker-land-web-app.md" %}
+{% page-ref page="liker-land-web.md" %}
 
 {% page-ref page="discovering-contents.md" %}
 
