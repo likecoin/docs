@@ -16,7 +16,7 @@ description: 把讚賞贈給自己最愛的內容
 
 ### 書籤
 
-把喜愛的文章鏈結儲存起來，有空時細閱。配合 [LikeCoin Chrome/Firefox 插件](https://docs.like.co/user-guide/likecoin-plugin/liker-land-browser-extension)，可讓在任何電腦上，瀏覽任何網頁時加上書籤，把鏈結儲存起來供日後在 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)或 [Liker Land 網頁版](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-web-app)查閱。
+把喜愛的文章鏈結儲存起來，有空時細閱。配合 [LikeCoin Chrome/Firefox 插件](https://docs.like.co/v/zh/user-guide/likecoin-plugin/liker-land-browser-extension)，可讓在任何電腦上，瀏覽任何網頁時加上書籤，把鏈結儲存起來供日後在 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)或 [Liker Land 網頁版](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-web-app)查閱。
 
 ![](../../.gitbook/assets/img_0816.jpg)
 
