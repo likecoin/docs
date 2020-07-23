@@ -16,19 +16,19 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委托 ( Delegate ) 給�
 ![&#x9EDE;&#x64CA; LikeCoin &#x91D1;&#x984D;&#x9032;&#x5165;&#x9322;&#x5305;&#x4ECB;&#x9762;](../../.gitbook/assets/image%20%281%29.png)
 
 點選了其中一個驗證人後，顯示以下頁面，列出回報年率 \( Rewards \)，投票權佔比 \( Voting Power \)，已被委托的 LikeCoin \( Liker Share \) 等資料。  
-點擊「委託」 / "Delegate" 進入下一頁。
+點擊「委託」 / \[Delegate\] 進入下一頁。
 
 ![](../../.gitbook/assets/img_2327.jpg)
 
 ### 步驟二：輸入委托金額
 
-點擊「委託」 / \[Delegate\] 按鍵後出現以下畫面。輸入你想委托給驗證人的金額，點擊 "Next"。
+點擊「委託」 / \[Delegate\] 按鍵後出現以下畫面。輸入你想委托給驗證人的金額，點擊 \[Next\]。
 
 ![](https://downloads.intercomcdn.com/i/o/167959681/eb03d7f686d2d496cf5a03eb/IMG_2087.PNG)
 
 跳至確認畫面，顯示出驗證人的委托戶口地址，按 \[Details\] 還可以核查委托款項及有沒有收取交易費用（目前所有委托動作均沒有費用）。
 
-點擊 \[Confirm\] ，稍待幾秒，畫面上方會出現 "Transaction Completed" 字樣，代表已完成委托。
+點擊 \[Confirm\]，稍待幾秒，畫面上方會出現 "Transaction Completed" 字樣，代表已完成委托。
 
 ![](https://downloads.intercomcdn.com/i/o/167965703/cd18d7880d293485d462b16b/IMG_2089.PNG)
 
