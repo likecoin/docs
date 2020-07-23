@@ -8,7 +8,7 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便。
 
 ### 閃兌
 
-[Liquid 閃兌 \(Quick Exchange\)](https://app.liquid.com/quick-exchange) 服務提供了簡單的介面，讓用戶方便快捷地兌換 LikeCoin。
+[Liquid 閃兌 \( Quick Exchange \)](https://app.liquid.com/quick-exchange) 服務提供了簡單的介面，讓用戶方便快捷地兌換 LikeCoin。
 
 **請留意：交易量不同，匯率也會跟著改變，系統畫面會顯示實時報價。**
 
