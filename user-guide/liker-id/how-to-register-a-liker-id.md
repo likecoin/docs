@@ -10,7 +10,7 @@ Registering a Liker ID is easy, just download [**Liker Land**](https://like.co/i
 
 ![](../../.gitbook/assets/img_3455.jpg)
 
-### **Step 2: Choose your Sign-In method**
+### **Step 2: Choose your Sign Up method**
 
 We suggest you register with your social media accounts, which is safer and easier. Click on the social media icon e.g. If you would like to register with Google Account, click on the Google icon. If you want to register with Matters login, click on the Matters icon \( swipe right until the icon shows up\).
 
