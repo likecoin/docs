@@ -6,7 +6,7 @@ description: 推薦朋友下載 Liker Land，雙方各得 100 LikeCoin 奬賞，
 
 ### 推薦朋友下載 Liker Land，有以下好處
 
-* 讀者以鏈結下載 Liker Land 手機應用程式，便會預設追縱了你，每次讀者打開 Liker Land，你的作品會自動顯示在追縱列表上，Liker Land 彷彿成了你的作品專屬程式 
+* 讀者以鏈結下載 [Liker Land 手機應用程式](https://like.co/in/getapp)，便會預設追縱了你，每次讀者打開 Liker Land，你的作品會自動顯示在追縱列表上，Liker Land 彷彿成了你的作品專屬程式 
 * 你和你推薦的讀者能各得 100 LikeCoin 奬賞
 * 多推薦多賞，沒有上限
 * 讀者在 Liker Land 上按讚更加流暢，助你進一步化讚為賞
