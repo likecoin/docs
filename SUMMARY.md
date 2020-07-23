@@ -26,7 +26,7 @@
   * [重設密碼](user-guide/liker-id/resetting-password.md)
 * [讚賞公民](user-guide/civic-liker/README.md)
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
-  * [如何以 PayMe 或 轉數快繳付「讚賞公民」年費](user-guide/civic-liker/payme.md)
+  * [如何以 PayMe 或轉數快繳付「讚賞公民」年費](user-guide/civic-liker/payme.md)
   * [如何以 LikeCoin 繳付「讚賞公民」年費](user-guide/civic-liker/ru-he-yi-likecoin-jiao-fu-zan-shang-gong-min-nian-fei.md)
   * [如何退訂「讚賞公民」](user-guide/civic-liker/ru-he-tui-ding-zan-shang-gong-min.md)
 * [LikeCoin 通證](user-guide/likecoin-token/README.md)
