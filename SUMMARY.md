@@ -2,7 +2,7 @@
 
 * [LikeCoin 是甚麼](README.md)
 * [📜 憲法](constitution/README.md)
-  * [開放數據](constitution/kai-fang-shu-ju.md)
+  * [開放統計資料](constitution/kai-fang-shu-ju.md)
 
 ## 📙 user guide
 
