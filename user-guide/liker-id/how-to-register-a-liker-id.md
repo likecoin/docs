@@ -10,7 +10,7 @@ description: 讚賞公民共和國的市民。每位 Liker 擁有一獨特的 Li
 
 ![](../../.gitbook/assets/sign-in.png)
 
-### 步驟二：選擇登入方法
+### 步驟二：選擇註冊方式
 
 建議以社交帳號註冊，過程較簡單安全。點擊登入畫面上方的社交帳號圖示，例如以 Google 帳號註冊，請點 Google 圖示；若想以 Matters 帳戶登入，請點擊 Matters 圖示（在圖示欄往右撥會出現 Matters 圖示）
 
