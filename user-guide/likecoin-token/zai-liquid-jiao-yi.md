@@ -16,7 +16,7 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便。
 
 ### 以其他密碼貨幣兌換 LikeCoin
 
-* 在閃兌的介面，選「閃兌」\(Swap\) 分頁
+* 在閃兌的介面，選「閃兌」\( Swap \) 分頁
 * 選賣出幣種。若想賣出 LikeCoin，選 LIKE；若想買入 LikeCoin，選其他幣種如 BTC/ETH/USDC/USDT 等
 * 在下方「獲得」欄選卻兌換獲得的幣種。留意介面會即時顯示匯價（中文介面譯作「速率」）
 * 在「兌換」欄輸入賣出數量。若你的 Liquid 帳戶中沒有充足餘額，介面會即時提示。
