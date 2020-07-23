@@ -41,7 +41,7 @@ One final step to go. After pressing the "OK" button, a green screen will appear
 ![](../../.gitbook/assets/img_3461.jpg)
 
 {% hint style="warning" %}
-Once a LikeCoin ID has been created, it cannot be changed.  We suggest you to keep it, or just create another one.
+Once a Liker ID has been created, it cannot be changed.  We suggest you to keep it, or just create another one.
 {% endhint %}
 
 {% hint style="info" %}
