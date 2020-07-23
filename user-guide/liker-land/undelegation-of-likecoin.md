@@ -6,11 +6,11 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 ### 從驗證人處取回 LikeCoin
 
-若你已把 LikeCoin 委託了給驗證人，現在想領回，可用 Liker Land 手機應用程式中的「取回委託」 / "Undelegate" 功能。請參考以下步驟：
+若你已把 LikeCoin 委託了給驗證人，現在想領回，可用 Liker Land 手機應用程式中的「取回委託」 / \[Undelegate\] 功能。請參考以下步驟：
 
 1. 在 LikeCoin 錢包頁面，選取已委託的驗證人（顯示為綠色）
-2. 進入驗證人頁面後，選「取回委託」 / "Undelegate"
-3. 輸入要提取的金額，點「確認」 / "Confirm" 確認
+2. 進入驗證人頁面後，選「取回委託」 / \[Undelegate\]
+3. 輸入要提取的金額，點「確認」 / \[Confirm\] 確認
 
 ![](../../.gitbook/assets/img_2328.jpg)
 
