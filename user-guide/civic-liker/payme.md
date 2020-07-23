@@ -4,8 +4,7 @@ description: 香港用戶限定
 
 # 如何以 PayMe 或轉數快繳付「讚賞公民」年費
 
-若你是香港用戶，可選用 PayMe 或「轉數快」付款，目前只設繳付**一年年費（HKD 468\)**。若你想以每月 HKD 38 訂閱，請改選以[信用卡或 PayPal](https://liker.land/civic) 訂閱。  
-
+若你是香港用戶，可選用 PayMe 或「轉數快」付款，目前只設繳付**一年年費（HKD 468\)**。若你想以每月 HKD 38 訂閱，請改選以[信用卡或 PayPal](https://liker.land/civic) 訂閱。
 
 ### 步驟一：以轉數快或 PayMe 過帳（一次性年費港幣 468元）
 
