@@ -10,9 +10,7 @@
 
 部份交易所尚未正式支援 LikeCoin chain 上的 LikeCoin，掛牌的仍然是舊版的 LikeCoin ERC-20，例 [IDEX](https://idex.market/eth/like)。
 
-轉帳 LikeCoin 須用 Liker Land 手機應用程式，[請先下載](https://like.co/in/getapp)。
-
-{% page-ref page="../liker-land/like-pay.md" %}
+轉帳 LikeCoin 須使用 Liker Land 手機應用程式並使用 [LIKE pay](https://docs.like.co/v/zh/user-guide/liker-land/like-pay)，[請先下載](https://like.co/in/getapp)。
 
 
 
