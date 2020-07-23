@@ -10,7 +10,7 @@ description: 用 Liker Land 手機應用程式轉帳 LikeCoin，免手續費，�
 
 ### **步驟二**
 
-打開手機應用程式後，選畫面右下角的帳戶頭像，再點上方的 LikeCoin 餘額，打開你的錢包。按畫面上方那「轉帳」 / "Send" 按鍵。
+打開手機應用程式後，選畫面右下角的帳戶頭像，再點上方的 LikeCoin 餘額，打開你的錢包。按畫面上方那「轉帳」 / \[Send\] 按鍵。
 
 ![](https://downloads.intercomcdn.com/i/o/171687017/697dcc0d3f4fd3de41486c23/IMG_2154.jpg)
 
@@ -22,13 +22,13 @@ description: 用 Liker Land 手機應用程式轉帳 LikeCoin，免手續費，�
 
 ### **步驟四**
 
-Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款方的二維碼掃描。然後再按 "Next"。
+Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款方的二維碼掃描。然後再按 \[Next\]。
 
 ![](https://downloads.intercomcdn.com/i/o/171687609/eba32dca16c2529624ae3557/IMG_2158+copy.PNG)
 
 **步驟五**
 
-輸入要轉帳的金額。選 "Next" ，然後按「確認」 / "Confirm"。
+輸入要轉帳的金額。選 \[Next\]，然後按「確認」 / \[Confirm\]。
 
 
 

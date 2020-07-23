@@ -1,10 +1,10 @@
 ---
-description: 存著的 LikeCoin 沒用嗎？不妨考慮委托 ( delegate ) 給驗證人，除了讓驗證人代表你對社群議案投票以外，也能同時賺取回報
+description: 存著的 LikeCoin 沒用嗎？不妨考慮委托 ( Delegate ) 給驗證人，除了讓驗證人代表你對社群議案投票以外，也能同時賺取回報
 ---
 
 # 委託 LikeCoin
 
-委托的意思是把 LikeCoin 委托給一個或多個驗證人 \( validator \)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。委託機制是讚賞公民共和國[流動民主](https://docs.like.co/v/zh/user-guide/likecoin-chain/liquid-democracy)自治機制的一環。
+委托的意思是把 LikeCoin 委托給一個或多個[驗證人 \( Validator \)](https://docs.like.co/v/zh/constitution#9d28)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。委託機制是讚賞公民共和國[流動民主](https://docs.like.co/v/zh/user-guide/likecoin-chain/liquid-democracy)自治機制的一環。
 
 ### 步驟一：選取驗證人
 
@@ -16,13 +16,13 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委托 ( delegate ) 給�
 ![&#x9EDE;&#x64CA; LikeCoin &#x91D1;&#x984D;&#x9032;&#x5165;&#x9322;&#x5305;&#x4ECB;&#x9762;](../../.gitbook/assets/image%20%281%29.png)
 
 點選了其中一個驗證人後，顯示以下頁面，列出回報年率 \( Rewards \)，投票權佔比 \( Voting Power \)，已被委托的 LikeCoin \( Liker Share \) 等資料。  
-點擊「委託」進入下一頁。
+點擊「委託」 / "Delegate" 進入下一頁。
 
 ![](../../.gitbook/assets/img_2327.jpg)
 
 ### 步驟二：輸入委托金額
 
-點擊 \[Delegate\] 按鍵後出現以下畫面。輸入你想委托給驗證人的金額，點擊 \[Next\]。
+點擊「委託」 / \[Delegate\] 按鍵後出現以下畫面。輸入你想委托給驗證人的金額，點擊 "Next"。
 
 ![](https://downloads.intercomcdn.com/i/o/167959681/eb03d7f686d2d496cf5a03eb/IMG_2087.PNG)
 
