@@ -8,11 +8,11 @@
 
 * [Liker Land](user-guide/liker-land/README.md)
   * [Liker Land 手機應用程式](user-guide/liker-land/liker-land-mobile-app.md)
+  * [推薦下載奬賞](user-guide/liker-land/tui-jian-xia-zai-jiang-shang.md)
   * [發現內容](user-guide/liker-land/discovering-contents.md)
   * [閱讀及奬勵作者](user-guide/liker-land/bookmarking-and-reading.md)
   * [查看讚賞成就](user-guide/liker-land/cha-kan-zan-shang-cheng-jiu.md)
   * [LIKE pay](user-guide/liker-land/like-pay.md)
-  * [推薦下載奬賞](user-guide/liker-land/tui-jian-xia-zai-jiang-shang.md)
   * [Liker Land 網頁版](user-guide/liker-land/liker-land-web-app.md)
   * [媒體列表](user-guide/liker-land/list-of-media.md)
   * [委託 LikeCoin](user-guide/liker-land/delegation-of-likecoin.md)
