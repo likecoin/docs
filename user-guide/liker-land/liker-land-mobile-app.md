@@ -16,9 +16,9 @@ description: 每一位參與讚賞公民國民活動的隨身工具
 
 ### 電子錢包
 
-Liker Land 提供的 LikeCoin 電子錢包，即裝即用，操作簡便，從此轉帳 LikeCoin 再沒難度。
+Liker Land 提供的 LikeCoin 電子錢包，即裝即用，操作簡便，從此[轉帳 LikeCoin](https://docs.like.co/v/zh/user-guide/liker-land/like-pay) 再沒難度。
 
-過往使用 LikeCoin ERC-20 時要在桌面電腦上學懂使用 MetaMask，對不少用戶來說門檻很高，手機上也沒有任何合用的工具。Liker Land 手機應用程式 已解決了上述問題。
+過往使用 LikeCoin ERC-20 時要在桌面電腦上學懂使用 MetaMask，對不少用戶來說門檻很高，手機上也沒有任何合用的工具。Liker Land 手機應用程式已解決了上述問題。
 
 ### 身份證
 
