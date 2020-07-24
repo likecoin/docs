@@ -14,7 +14,7 @@ description: 讚賞公民共和國
 
 更詳細營運數據，[請參考這裡](https://datastudio.google.com/u/0/reporting/e6168171-b61d-4871-b39f-7b6308f2facc/page/qgR)（2020年起）。
 
-部份已支援 LikeCoin 的媒體包括 [Matters](https://matters.news/), [立場新聞](https://www.thestandnews.com/), [香港獨立媒體網](https://www.inmediahk.net/), [眾新聞](https://www.hkcnews.com/) 及其他 1,000+ 網站。LikeCoin 也可在 [WordPress](https://zh-hk.wordpress.org/plugins/likecoin/)、[Medium](https://medium.com/)、[方格子](https://vocus.cc/)、[Blogspot \( Blogger.com \)](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
+部份已支援 LikeCoin 的媒體包括 [Matters](https://matters.news/)、[立場新聞](https://www.thestandnews.com/)、[香港獨立媒體網](https://www.inmediahk.net/)、[眾新聞](https://www.hkcnews.com/) 及其他 1,000+ 網站。LikeCoin 也可在 [WordPress](https://zh-hk.wordpress.org/plugins/likecoin/)、[Medium](https://medium.com/)、[方格子](https://vocus.cc/)、[Blogspot \( Blogger.com \)](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
 
 創作者及讀者可用 [Liker Land](https://like.co/in/getapp) 作簡便的閱讀器及跟分散式生態互動的媒介。
 
