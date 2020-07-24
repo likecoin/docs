@@ -8,5 +8,5 @@ description: 一邊暢閱，一邊回饋
 
 此外，作者每月會收到來自 Liker Land 的每月報告，了解當月已獲得的 LikeCoin 數量。
 
-讀者也可以直接以 [Like Pay](https://docs.like.co/v/zh/user-guide/liker-land/like-pay) 送贈 LikeCoin 支持作者。
+讀者也可以直接以 [LIKE Pay](https://docs.like.co/v/zh/user-guide/liker-land/like-pay) 送贈 LikeCoin 支持作者。
 
