@@ -14,13 +14,13 @@ description: 讚賞公民共和國憲法
 
 當這篇文章發佈的時候，LikeCoin chain 創世區塊 \( Genesis \) 亦經已誕生。假如你並不明白我們在說甚麼，或者可以嘗試這樣去理解：讚賞公民共和國經已正式成立。
 
-這篇文章經已盡量減少使用專門技術用語去介紹讚賞公民共和國各項原素及機制。歡迎工程師參閱我們的技術文件，或直接檢視我們在 [github](https://github.com/likecoin) 的開放源碼。
+這篇文章經已盡量減少使用專門技術用語去介紹讚賞公民共和國各項原素及機制。歡迎工程師參閱我們的技術文件，或直接檢視我們在 [GitHub](https://github.com/likecoin) 的開放源碼。
 
 ## 基本概念 <a id="448e"></a>
 
 ### 讚賞公民共和國 \( Liker Land \) <a id="84f4"></a>
 
-或簡稱 _Liker Land_ ，是一個由作者及內容消費者組成，並共同管治的分散式網絡社群。
+或簡稱 [_Liker Land_](https://liker.land/) ，是一個由作者及內容消費者組成，並共同管治的分散式網絡社群。
 
 以區塊鏈的術語來說，_讚賞公民共和國_ 是一個分散式自治機構 \( **DAO**, decentralized autonomous organization \)
 
@@ -34,7 +34,7 @@ _讚賞公民共和國_ 的市民。每位 _Liker_ 擁有一獨特的 _Liker ID_
 
 ### Liker Land app <a id="2696"></a>
 
-一個整合了閱讀器、護照及錢包的 app。[_Liker Land_](https://liker.land/) 手機應用程式有如你掌上的共和國政府。
+一個整合了閱讀器、護照及錢包的 app。[_Liker Land_ 手機應用程式](https://like.co/in/getapp)有如你掌上的共和國政府。
 
 有些技術愛好者或更喜歡使用如命令字元介面及硬體錢包等底層工具。這需要相當的技術知識，已超出本文的關注範疇。
 
@@ -85,7 +85,7 @@ _LikeCoin_ 在 2017 年首次面世時在以太坊區塊鏈以 「ERC-20 通證�
 
 ### 升級 <a id="4ee6"></a>
 
-當 _讚賞公民共和國_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _讚賞公民共和國_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 _Liker_ 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com/) 交易所兌換為 Bitcoin 或以太幣。
+當 _讚賞公民共和國_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _讚賞公民共和國_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 _Liker_ 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com/) 交易所兌換為 Bitcoin 或以太幣（補充：Liquid 交易所已支授 _LikeCoin 通證，_假如仍然需交易 LikeCoin ERC-20，可到 [BitAsset](https://www.bitasset.com/) 或 [MyEthShop](https://www.myethshop.com/)。
 
 當 LikeCoin ERC-20 轉換為 _LikeCoin_，前者將於以太坊被燒毀。故此 _LikeCoin_ 及 LikeCoin ERC-20 在市面的合計流通量將維持不變。
 
@@ -103,7 +103,7 @@ _讚賞公民_ 按讚權重較高，除了**創作者池**外亦會把他們已�
 
 社群要取得共識，必須讓有公信力的機構記錄所有交易。按照傳統做法記帳由銀行執行並需要收取服務費用。然而在 _讚賞公民共和國_，帳目以分散對等的方式，由 _Likers_ 授權的 _驗證人_ 負責記錄，每筆操作只需 5 秒且成本極低。
 
-從 _委託_ 可反映出 _Likers_ 的信賴程度。當 _Likers_ 委託 LikeCoin 予 _驗證人_，代表 _Liker_ 信任 _驗證人_ 的技術能力、知識及誠信，並同意由她為自己作代表。一如在銀行存款，委託了的 _LikeCoin_ 仍屬 _Liker_ 所有，但取消委託後則需待 21 天後才能再次動用那筆款項。
+從 _委託_ 可反映出 _Likers_ 的信賴程度。當 _Likers_ 委託 _LikeCoin_ 予 _驗證人_，代表 _Liker_ 信任 _驗證人_ 的技術能力、知識及誠信，並同意由她為自己作代表。一如在銀行存款，委託了的 _LikeCoin_ 仍屬 _Liker_ 所有，但取消委託後則需待 21 天後才能再次動用那筆款項。
 
 _驗證人_ 的投票權，相等於她被委託了的 _LikeCoin_ 量，因為那反映了社群信賴的程度。_LikeCoin chain_ 約每 5 秒會產生一個區塊以記錄該時段的所有帳目。所有 _驗證人_ 均有責任驗證及決定是否確認該區塊。若最少三份之二的投票權 \( voting power \) 同意，該區塊及所記錄的所有帳目便會被確認。每完成一次記帳，所有參與的 _驗證人_ 均能根據其投票權獲得新發行的 _LikeCoin_ 作回報。新發行的 _LikeCoin_ 來自創世區塊設定為 1% 的增發率。_驗證人_ 及作出委托的 _Likers_ 會再以 50:50 的比例平分回報。
 
