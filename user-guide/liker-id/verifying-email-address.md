@@ -25,7 +25,7 @@ description: 綁定多款登入方法，增強你 Liker ID 的安全性
 
 ![](../../.gitbook/assets/image.png)
 
-在下一個頁面，選擇「認證應用程式」。
+在下一個頁面，選擇「認證應用程式」
 
 ![](../../.gitbook/assets/img_2346a.jpg)
 
