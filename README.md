@@ -2,7 +2,7 @@
 description: 讚賞公民共和國
 ---
 
-# LikeCoin 是甚麼
+# LikeCoin 是什麼
 
 ![](.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
 
