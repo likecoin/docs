@@ -36,7 +36,6 @@
   * [註冊 BitAsset 帳號](user-guide/likecoin-token/registering-on-bitasset.md)
   * [在 BitAsset 交易](user-guide/likecoin-token/trade-in-bitasset.md)
 * [LikeCoin chain](user-guide/likecoin-chain/README.md)
-  * [關於 LikeCoin chain](user-guide/likecoin-chain/what-is-likecoin-chain.md)
   * [驗證人](user-guide/likecoin-chain/what-is-a-validator.md)
   * [成為驗證人](user-guide/likecoin-chain/become-a-validator.md)
   * [Big Dipper](user-guide/likecoin-chain/big-dipper.md)
