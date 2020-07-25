@@ -2,7 +2,7 @@
 description: 為何要成為讚賞公民？有什麼福利嗎？
 ---
 
-# 讚賞公民
+# 讚賞公民 Civic Liker
 
 ![](../../.gitbook/assets/civic-liker.png)
 
