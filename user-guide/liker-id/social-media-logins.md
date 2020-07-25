@@ -4,28 +4,28 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 # 綁定社交帳號
 
-### 為什麼要綁定社交帳號
+## 為什麼要綁定社交帳號
 
 把 Liker ID 綁定社交帳號有兩個好處：
 
 1. 登入時可用你慣用的社交媒體帳號，不用輸入電郵地址及密碼。
 2. 保障你的 Liker ID。當一個登入方法出問題時，例如忘了密碼，或出現個別的平台帳號問題，仍可以用其他帳號的身份登入。
 
-### 綁定方法（除 Matters 外）
+## 綁定方法（除 Matters 外）
 
-#### 步驟一
+### 步驟一
 
 登入 [https://like.co/in/settings](https://like.co/in/settings)，到 Authcore 設定的部份，選取「安全設定」；或於 Liker Land 手機應用程式選畫面右下角的帳戶頭像按 \[Account Settings\]，再點選「社群登入」 / \[Social logins\]。
 
 ![](../../.gitbook/assets/image%20%2828%29.png)
 
-#### 步驟二
+### 步驟二
 
 點擊欲綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
 
 ![](../../.gitbook/assets/image%20%2815%29.png)
 
-### 如何綁定 Matters 帳號
+## 如何綁定 Matters 帳號
 
 用戶需要在 Matters 網站內設置綁定：
 
