@@ -8,6 +8,8 @@ LikeCoin 除了是個通證 \( token \)，LikeCoin chain 是區塊鏈，加起�
 
 ### 延伸閱讀
 
+> [民主 1.0 到 3.0 – 流動民主](https://matters.news/@edmond/%E6%B0%91%E4%B8%BB-1-0-%E5%88%B0-3-0-%E6%B5%81%E5%8B%95%E6%B0%91%E4%B8%BB-zdpuB2u9ZnKdsWz7eTfXHNyesgX1oqmpcymFrXZBb3Y7j23oa)
+
 > [與唐鳳談流動民主](https://ckxpress.com/liquid-democracy-with-audrey-tang/)
 
 > [民主的再想像 —與唐鳳談流動民主 II](https://ckxpress.com/on-liquid-democracy/)
