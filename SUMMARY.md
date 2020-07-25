@@ -23,7 +23,7 @@
   * [保護你的 Liker ID](user-guide/liker-id/verifying-email-address.md)
   * [綁定社交帳號](user-guide/liker-id/social-media-logins.md)
   * [管理登入裝置](user-guide/liker-id/devices.md)
-  * [重設密碼](user-guide/liker-id/resetting-password.md)
+  * [重設密碼](user-guide/liker-id/reset-password.md)
 * [讚賞公民](user-guide/civic-liker/README.md)
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
   * [如何以 PayMe 或轉數快繳付「讚賞公民」年費](user-guide/civic-liker/payme.md)
