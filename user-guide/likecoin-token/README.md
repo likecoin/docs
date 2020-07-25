@@ -1,3 +1,7 @@
+---
+description: LikeCoin 通證 ( LikeCoin token ) 是什麼？
+---
+
 # LikeCoin 通證
 
 一般會直接稱為 LikeCoin，讚賞公民共和國的貨幣，用途有三：
