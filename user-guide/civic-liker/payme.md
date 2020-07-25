@@ -11,7 +11,7 @@ description: 香港用戶限定
 * **轉數快 ID：** 6636369
 * **PayMe QR code:**
 
-[![](https://downloads.intercomcdn.com/i/o/194423480/8a9cf71c40bf1ee8da2cadf6/Untitled+3.png)](https://downloads.intercomcdn.com/i/o/194423480/8a9cf71c40bf1ee8da2cadf6/Untitled+3.png)
+![](https://downloads.intercomcdn.com/i/o/194423480/8a9cf71c40bf1ee8da2cadf6/Untitled+3.png)
 
 ### 步驟二：傳送過帳記錄
 
