@@ -1,6 +1,6 @@
 # 如何以 LikeCoin 繳付「讚賞公民」年費
 
-歡迎以 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)，以 LikeCoin 繳付一年讚賞公民會藉年費 \( 15,000 LikeCoin \)
+歡迎以 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)，以 LikeCoin 繳付一年讚賞公民會藉年費 \( 15,000 LikeCoin \)。
 
 ### 步驟一：過帳 15,000 LikeCoin 
 
