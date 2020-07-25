@@ -18,7 +18,11 @@ Likers 透過委託的方法授權給驗證人。委託 LikeCoin 代表 Liker �
 
 ## 驗證人狀態
 
-活躍驗證人
+### 活躍驗證人 \(Active Validator\) 
 
-閒置驗證人
+伺服器上線時間達 100% 的驗證人
+
+### 閒置驗證人 \( Inactive Validator \)
+
+驗證人正在「坐牢」\( Jailed \)，解綁 \( Unbounding \) 或已解綁 \( Unbonded \) 所有 LikeCoin
 
