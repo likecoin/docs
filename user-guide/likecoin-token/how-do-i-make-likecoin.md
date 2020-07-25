@@ -1,7 +1,3 @@
----
-description: 如何獲得 LikeCoin？
----
-
 # 獲得 LikeCoin
 
 ## 創作內容
