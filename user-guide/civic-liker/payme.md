@@ -8,7 +8,7 @@ description: 香港用戶限定
 
 ### 步驟一：以轉數快或 PayMe 過帳（一次性年費港幣 468元）
 
-* **轉數快 ID：** 6636369
+* **轉數快 ID：6636369**
 * **PayMe QR code:**
 
 ![](https://downloads.intercomcdn.com/i/o/194423480/8a9cf71c40bf1ee8da2cadf6/Untitled+3.png)
