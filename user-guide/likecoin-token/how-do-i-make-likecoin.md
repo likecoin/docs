@@ -1,3 +1,7 @@
+---
+description: 如何獲得 LikeCoin？
+---
+
 # 獲得 LikeCoin
 
 ## 創作內容
@@ -22,7 +26,7 @@
 
 **推薦鏈結**： https://liker.land/civic?from=​\[Your Liker ID\]​
 
-推薦朋友下載 Liker Land，你和你推薦的朋友各得 100 LikeCoin 奬賞
+[推薦朋友下載 Liker Land](https://docs.like.co/v/zh/user-guide/liker-land/referral)，你和你推薦的朋友各得 100 LikeCoin 奬賞
 
 **推薦鏈結**： https://likerland.app.link/?event=app\_referral&referrer=\[Your Liker ID\]
 
@@ -36,7 +40,7 @@
 
 此筆款項會平均於每個區塊產生時分發，現時每個區塊生成的時間為 5-6 秒。
 
-另，_增發_的新 LikeCoin 的 2%，會當作「稅項」抽起，撥入_社群基金_ \( Community pool \)。換句話說驗證人及持份者每年獲得的款項，是增發的 LikeCoin 的 98%。社群基金的運用會由社群的自治機制決定。
+另，增發的新 LikeCoin 的 2%，會當作「稅項」抽起，撥入社群基金 \( Community pool \)。換句話說驗證人及持份者每年獲得的款項，是增發的 LikeCoin 的 98%。社群基金的運用會由社群的自治機制決定。
 
 假設每個區塊生成時間能固定為 6 秒，每年生成的新區塊數目便是 365\*24\*60\*10 = 5,256,000。所以每區塊分給驗證人及持份者的 LikeCoin 數：
 
@@ -44,7 +48,7 @@
 
 = 1.86 LikeCoin
 
-即大約每 6 秒新鑄造 1.86 LikeCoin 讓所有驗證人及持份者_按委託比例分配_。驗證人目前的佣金設定為 50%，所以每 6 秒分給持份者的 LikeCoin 是 1.86/2 = 0.93。
+即大約每 6 秒新鑄造 1.86 LikeCoin 讓所有驗證人及持份者按委託比例分配。驗證人目前的佣金設定為 50%，所以每 6 秒分給持份者的 LikeCoin 是 1.86/2 = 0.93。
 
 以上計算的前設是區塊生成時間為固定 6 秒，然而實際值會有一點落差。另除了增發的 98% 外，每筆交易的交易費用的 98% 也會按委託金額比例回報給驗證人及持份者。
 
