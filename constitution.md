@@ -22,7 +22,7 @@ description: 讚賞公民共和國憲法
 
 或簡稱 [_Liker Land_](https://liker.land/) ，是一個由作者及內容消費者組成，並共同管治的分散式網絡社群。
 
-以區塊鏈的術語來說，_讚賞公民共和國_ 是一個分散式自治機構 \( **DAO**, decentralized autonomous organization \)
+以區塊鏈的術語來說，_讚賞公民共和國_ 是一個分散式自治機構 \( **DAO**, decentralized autonomous organization \)。
 
 ### Liker <a id="5799"></a>
 
@@ -85,11 +85,11 @@ _LikeCoin_ 在 2017 年首次面世時在以太坊區塊鏈以 「ERC-20 通證�
 
 ### 升級 <a id="4ee6"></a>
 
-當 _讚賞公民共和國_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _讚賞公民共和國_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 _Liker_ 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com/) 交易所兌換為 Bitcoin 或以太幣（補充：Liquid 交易所已支授 _LikeCoin 通證，_假如仍然需交易 LikeCoin ERC-20，可到 [BitAsset](https://www.bitasset.com/) 或 [MyEthShop](https://www.myethshop.com/)。）
+當 _讚賞公民共和國_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _讚賞公民共和國_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 _Liker_ 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com/) 交易所兌換為 Bitcoin 或以太幣（補充：Liquid 交易所已支援 _LikeCoin 通證，_假如仍然需交易 LikeCoin ERC-20，可到 [BitAsset](https://www.bitasset.com/) 或 [MyEthShop](https://www.myethshop.com/)。）
 
 當 LikeCoin ERC-20 轉換為 _LikeCoin_，前者將於以太坊被燒毀。故此 _LikeCoin_ 及 LikeCoin ERC-20 在市面的合計流通量將維持不變。
 
-發行新 _LikeCoin_ 的增發率 \( inflation \) 將由 _驗證人_ 全體決定。_讚賞公民共和國_ 創世區塊增發率為1%。新發行的 _LikeCoin_ 將被用作驗證交易的回報（詳情參閱下文**驗證交易**的段落）
+發行新 _LikeCoin_ 的增發率 \( inflation \) 將由 _驗證人_ 全體決定。_讚賞公民共和國_ 創世區塊增發率為1%。新發行的 _LikeCoin_ 將被用作驗證交易的回報（詳情參閱下文[**驗證交易**](https://docs.like.co/v/zh/constitution#9e68)的段落）
 
 ### 回報創意 支持共享 <a id="61ef"></a>
 
