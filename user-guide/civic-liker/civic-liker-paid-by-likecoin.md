@@ -4,8 +4,7 @@
 
 ### 步驟一：過帳 15,000 LikeCoin 
 
-請以 Liker Land 手機應用程式[過帳](https://docs.like.co/v/zh/user-guide/liker-land/like-pay) 15,000 LikeCoin 以以下帳號：  
-
+請以 Liker Land 手機應用程式[過帳](https://docs.like.co/v/zh/user-guide/liker-land/like-pay) 15,000 LikeCoin 以以下帳號：
 
 * **Liker ID:** **foundation**
 * **收款 QR code**:
