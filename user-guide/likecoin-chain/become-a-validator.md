@@ -1,6 +1,10 @@
+---
+description: 驗證人完全開放，參選免入閘免審查，任何人都能架起伺服器做驗證人
+---
+
 # 成為驗證人
 
-關於 LikeCoin chain validator 設定，請參考這幾篇文檔：
+關於 LikeCoin chain 驗證人設定，請參考這幾篇文檔：
 
 [Validator Technical Introduction](https://docs.like.co/developer/likecoin-chain-node/validator-technical-introduction)
 
