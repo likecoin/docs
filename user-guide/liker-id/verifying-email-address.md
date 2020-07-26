@@ -38,7 +38,7 @@ description: 綁定多款登入方法，增強你 Liker ID 的安全性
 1. 在手機上下載 Google Authenticator 應用程式 [安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW) [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 2. 打開 Google Authenticator 應用程式。點擊應用程式右上角的 「＋」
 3. 掃描桌面電腦上的二維碼
-4. Google Authenticator 畫面的底部會新增了一個 Authcore 的列，並顯示一組六位的數字。把該組數字填寫在桌面電腦畫面的底部紅圈位置，再點選「下一步」，看見「設立認證應用程式」「完成」後，點選「好」
+4. Google Authenticator 畫面的底部會新增了一個 Authcore 的列，並顯示一組六位的數字。把該組數字填寫在桌面電腦畫面的底部紅圈位置，再點擊「下一步」，看見「設立認證應用程式」「完成」後，點擊「好」
 5. 按下來，選擇「產生後備認證碼」
 
 ![&#x5EFA;&#x8B70;&#x7528;&#x624B;&#x6284;&#x4E0B;&#x6B64;&#x5F8C;&#x5099;&#x8A8D;&#x8B49;&#x78BC;&#x3002;&#x82E5;&#x624B;&#x6A5F;&#x6389;&#x4E86;&#xFF0C;&#x53EF;&#x4EE5;&#x7528;&#x9019;&#x7D44;&#x78BC;&#x6062;&#x5FA9; Google Authenticator &#x7684;&#x8A2D;&#x5B9A;](../../.gitbook/assets/2fa-backup-screen%20%281%29.png)
@@ -47,7 +47,7 @@ description: 綁定多款登入方法，增強你 Liker ID 的安全性
 
 ## 認證電郵地址
 
-1. 訪問 [https://like.co/in/settings](https://like.co/in/settings,) ，在「AuthCore 設定」下點選「個人檔案」，再點選「聯絡方式」，並點選「電郵」，跳入「管理電郵」的頁面
+1. 訪問 [https://like.co/in/settings](https://like.co/in/settings,) ，在「AuthCore 設定」下點擊「個人檔案」，再點擊「聯絡方式」，並點擊「電郵」，跳入「管理電郵」的頁面
 
 2. 在「管理電郵」的頁面，點「現在認證」
 
