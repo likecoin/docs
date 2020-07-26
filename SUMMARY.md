@@ -8,7 +8,7 @@
 * [Liker Land](user-guide/liker-land/README.md)
   * [Liker Land 手機應用程式](user-guide/liker-land/liker-land-mobile-app.md)
   * [發現內容](user-guide/liker-land/discovering-contents.md)
-  * [閱讀及奬勵作者](user-guide/liker-land/bookmarking-and-reading.md)
+  * [閱讀及奬勵作者](user-guide/liker-land/reading.md)
   * [LIKE pay](user-guide/liker-land/like-pay.md)
   * [查看讚賞成就](user-guide/liker-land/rewards.md)
   * [推薦下載奬賞](user-guide/liker-land/referral.md)
