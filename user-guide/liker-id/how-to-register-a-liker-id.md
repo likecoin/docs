@@ -24,7 +24,7 @@ description: 讚賞公民共和國的市民。每位 Liker 擁有一獨特的 Li
 
 ![&#x8F38;&#x5165;&#x793E;&#x4EA4;&#x5E33;&#x865F;&#x8CC7;&#x6599;&#xFF08;&#x4F8B;&#xFF1A;Gmail &#x5BC6;&#x78BC;&#xFF09;](../../.gitbook/assets/img_2339.PNG)
 
-成功登入社交帳號後，會出現以下畫面。請點 \[Register\]，代表確認以該社交帳號註冊 Liker ID
+成功登入社交帳號後，會出現以下畫面。請點擊 \[Register\]，代表確認以該社交帳號註冊 Liker ID
 
 ![](../../.gitbook/assets/img_2340.PNG)
 
@@ -34,7 +34,7 @@ description: 讚賞公民共和國的市民。每位 Liker 擁有一獨特的 Li
 
 ### 步驟四：創建 Liker ID
 
-最後一步。點擊 OK 後會彈出一個綠色的畫面如下，請輸入你喜歡的 Liker ID。系統已為你預設選了一個，若不滿意可在此步驟中修改。填上 Liker ID 後，選「確認」 / \[Confirm\] 完成程序。
+最後一步。點擊 \[OK\] 後會彈出一個綠色的畫面如下，請輸入你喜歡的 Liker ID。系統已為你預設選了一個，若不滿意可在此步驟中修改。填上 Liker ID 後，選「確認」 / \[Confirm\] 完成程序。
 
 ![](../../.gitbook/assets/img_2342.PNG)
 
