@@ -38,7 +38,7 @@
 * [LikeCoin chain](user-guide/likecoin-chain/README.md)
   * [驗證人](user-guide/likecoin-chain/what-is-a-validator.md)
   * [成為驗證人](user-guide/likecoin-chain/become-a-validator.md)
-  * [Big Dipper](user-guide/likecoin-chain/big-dipper.md)
+  * [北斗 Big Dipper](user-guide/likecoin-chain/big-dipper.md)
   * [流動民主](user-guide/likecoin-chain/liquid-democracy.md)
   * [議案](user-guide/likecoin-chain/proposal.md)
 * [讚賞鍵 LikeCoin button](user-guide/likecoin-button/README.md)
