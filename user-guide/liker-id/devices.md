@@ -10,7 +10,7 @@ description: 查看有哪些裝置登入過你的 Liker ID
 
 ![](../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-1.png)
 
-「管理裝置」顯示您目前已登入 Liker ID 的裝置，你可點選某一裝置直接「登出」/ \[Log Out\]，也可點選「從所有其他裝置登出」 / \[Log out all other devices\] 直接登出所有裝置。
+「管理裝置」顯示您目前已登入 Liker ID 的裝置，你可點選某一裝置直接「登出」/ \[Log Out\]，也可點擊「從所有其他裝置登出」 / \[Log out all other devices\] 直接登出所有裝置。
 
 ![](../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-2.png)
 
