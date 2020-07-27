@@ -12,8 +12,13 @@ description: 如何在方格子 Vocus 文章中加入讚賞鍵
 
 在方格子中加入讚賞鍵 LikeCoin button 功能只需兩個簡單步驟：
 
-1. 用戶登入方格子帳號
-2. 在設定功能輸入 Liker ID
+步驟一：用戶登入方格子帳號，在「帳號設定」功能點選連結 Liker ID
+
+![](../../.gitbook/assets/vocus-1.png)
+
+步驟二：輸入你的 Liker ID 再點擊「儲存設定」
+
+![](../../.gitbook/assets/vocus-2.png)
 
 系統會自動在每篇文章下方預設加入讚賞鍵。​
 
