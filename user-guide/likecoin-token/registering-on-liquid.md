@@ -1,3 +1,7 @@
+---
+description: 如何註冊 Liquid 交易所帳號
+---
+
 # 註冊 Liquid 帳號
 
 使用 Liquid 交易所的服務，必須先註冊 Liquid 帳號並通過實名認證。
