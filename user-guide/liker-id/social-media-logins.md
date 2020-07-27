@@ -15,7 +15,7 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 ### 步驟一
 
-登入 [https://like.co/in/settings](https://like.co/in/settings)，到 Authcore 設定的部份，選取「安全設定」；或於 Liker Land 手機應用程式選畫面右下角的帳戶頭像點選 \[Account Settings\]，再點選「社群登入」 / \[Social logins\]。
+登入 [https://like.co/in/settings](https://like.co/in/settings)，到 Authcore 設定的部份，點選「安全設定」；或於 Liker Land 手機應用程式選畫面右下角的帳戶頭像點選 \[Account Settings\]，再點選「社群登入」 / \[Social logins\]。
 
 ![](../../.gitbook/assets/image%20%2828%29.png)
 
