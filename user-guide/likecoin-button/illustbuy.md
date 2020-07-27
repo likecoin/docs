@@ -8,9 +8,9 @@ description: 如何在 illustBuy 同人創作平台中加入讚賞鍵
 
 點擊  [illustBuy](https://illustbuy.com/) 網站右上角「登入」並登入  illustBuy 帳戶 ，再點擊右上角你的顯示名稱
 
-![](../../.gitbook/assets/illustbuy-1.png)
-
 點選「帳戶設定」，並在 Liker ID 欄內輸入你的 Liker ID，再點擊「儲存」
+
+![](../../.gitbook/assets/illustbuy-1.png)
 
 ![](../../.gitbook/assets/illustbuy-2.png)
 
