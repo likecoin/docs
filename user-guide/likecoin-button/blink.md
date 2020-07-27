@@ -40,7 +40,7 @@ https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
 
 你可以按「一般的」，再更改「空間維度」調整讚賞鍵顯示大小。
 
-![](../../.gitbook/assets/wei-ming-ming.png)
+![](../../.gitbook/assets/blink.png)
 
 ### 參考文章
 
