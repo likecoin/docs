@@ -42,7 +42,7 @@ LikeCoin 已於 BitAsset 上線交易。BitAsset 對中文社群十分友善，�
 
 ### 步驟三：手機驗證及 Google 驗證 <a id="3-google-"></a>
 
-完成高級認證後，基本上已能用大部份交易所功能了。但為了安全性起見，強烈建議你完成 Google 驗證。畫面上已有詳細的指示，你需要用手機下載  Google Authenticator。
+完成高級認證後，基本上已能用大部份交易所功能了。但為了安全性起見，強烈建議你完成 Google 驗證。畫面上已有詳細的指示，你需要用手機下載  Google Authenticator 應用程式。
 
 [安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
 [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
