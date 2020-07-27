@@ -79,5 +79,5 @@ additional-css = ["likebutton.css"]
 
 ### 參考文章
 
-> 如何在 mdbook 的文章中加入讚賞鍵 Likecoin Button
+> [如何在 mdbook 的文章中加入讚賞鍵 Likecoin Button](https://dltdojo.github.io/taichu-crypto/dao/likecoin.html#likecoin)
 
