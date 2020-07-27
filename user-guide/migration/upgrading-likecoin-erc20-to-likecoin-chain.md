@@ -13,7 +13,7 @@ LikeCoin 經已轉移到 [LikeCoin chain](https://docs.like.co/v/zh/user-guide/l
 
 請按照以下步驟升級至全新的 LikeCoin。
 
-### 步驟 1： 訪問 [like.co/in](https://like.co/in) <a id="-1--likecoin-"></a>
+### 步驟 1： 訪問 [Like.co/in](https://like.co/in) <a id="-1--likecoin-"></a>
 
 由於現在的目的是升級 MetaMask 中的 LikeCoin，所以你必須使用能操作該 MetaMask 錢包地址的電腦來執行以下步驟。 請以你常用的社交帳戶 \( Google/Facebook/Twitter/Matters \) 登入。系統會彈出以下視窗。選「現在轉移」。
 
@@ -49,7 +49,7 @@ LikeCoin 經已轉移到 [LikeCoin chain](https://docs.like.co/v/zh/user-guide/l
 
 ### 步驟 3：檢查 LikeCoin 金額 <a id="step-3-check-your-likecoin-balance"></a>
 
- 升級完成後，你可到  [https://like.co/in](https://like.co/in) 檢查你的 LikeCoin 餘額。  
+ 升級完成後，你可到 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app) 或 [https://Like.co/in](https://like.co/in) 檢查你的 LikeCoin 餘額。  
 
 
 ![](https://downloads.intercomcdn.com/i/o/167238743/6a0fc71935e711ec46441c80/image.png)
