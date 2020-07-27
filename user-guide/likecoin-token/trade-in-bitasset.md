@@ -4,8 +4,6 @@
 
 若想把 LikeCoin 兌換成台幣或 BTC，目前最方便的方法是經過 [BitAsset](https://www.bitasset.com/) 交易所，因為他們直接提供了 LIKE/TWD 的交易對。若你還未有 BitAsset 帳號，[請參考這篇](https://docs.like.co/v/zh/user-guide/likecoin-token/registering-on-bitasset)。另，你也需要已[下載 Liker Land 手機應用程式](https://like.co/in/getapp)，用來傳送/提取 LikeCoin。
 
-若想了解更多資料，這裡有篇 [LikeCoin 新手村](https://matters.news/@daisy/like-coin-%E6%96%B0%E6%89%8B%E6%9D%91-%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-%E8%AB%8B%E7%9C%8B%E7%95%99%E8%A8%80-zdpuAwHNTynzTx2Vi3Q487FNjSsacmzkRoiWpPjFgydW2gy6y)，留言區有其他社群用戶的分享心得。
-
 ### 步驟一：找到 BitAsset 帳戶的 LikeCoin 錢包地址
 
 第一步要把你的 LikeCoin 轉賬到 BitAsset 交易所，那當然要先找到轉賬地址才行。
@@ -14,7 +12,7 @@
 
 ![&#x9EDE;&#x300C;&#x6211;&#x7684;&#x9322;&#x5305;&#x300D;](https://assets.matters.news/embed/3f19d321-1478-4fc9-b684-f8b739345528.png)
 
-在帳戶錢包介面的下方會列出你名下不同貨的錢包，雖然琳瑯滿目但可惜大部份的餘額都是 0 （悲但真）。直接在右上方輸入 "LIKE" 尋找 LikeCoin 的錢包。雖然目前餘額還是 0，但很快便會改變了。立即充值！
+在帳戶錢包介面的下方會列出你名下不同貨的錢包，雖然琳瑯滿目但可惜大部份的餘額都是 0（悲但真）。直接在右上方輸入 "LIKE" 尋找 LikeCoin 的錢包。雖然目前餘額還是 0，但很快便會改變了。立即充值！
 
 ![&#x65BC;&#x53F3;&#x4E0A;&#x65B9;&#x8F38;&#x5165; Like &#x4FBF;&#x80FD;&#x986F;&#x793A; LikeCoin &#x9322;&#x5305;](https://assets.matters.news/embed/5261423c-cd7d-4e4b-99e3-b582b35e0e72.png)
 
@@ -34,7 +32,7 @@
 
 ### 步驟二：轉帳 LikeCoin 到 BitAsset
 
-過程就跟 PayMe 或 Line Pay 差不多。打開 [Liker Land app](https://like.co/in/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己口袋裡有多少錢。點畫面上的 "Send" 鍵 （下圖紅圈位置）。
+過程就跟 PayMe 或 Line Pay 差不多。打開 [Liker Land 手機應用程式](https://like.co/in/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己口袋裡有多少錢。點畫面上的「轉帳」 / \[Send\] 鍵（下圖紅圈位置）。
 
 ![&#x5728; Liker Land app &#x9322;&#x5305;&#x4ECB;&#x9762;&#x9078; Send &#xFF08;&#x7D05;&#x5708;&#xFF09;](https://assets.matters.news/embed/5dedb226-ea15-4d1f-bb3b-651a83814fbb.png)
 
@@ -42,7 +40,7 @@
 
 ![&#x9EDE;&#x4E0A;&#x5716;&#x7D05;&#x5708;&#x4F4D;&#x7F6E;&#x6253;&#x958B;&#x7167;&#x76F8;&#x6A5F;](https://assets.matters.news/embed/2775450c-0013-4852-b1fa-dee6563169d5.png)
 
-輸入你想要轉帳的 LikeCoin 金額，然後確認。
+輸入你想要轉帳的 LikeCoin 金額，然後點擊「確認」 / \[Confirm\]。
 
 ![](https://assets.matters.news/embed/a1d2855a-8cbc-46d6-a91b-05e0be56d5b0.png)
 
@@ -68,11 +66,11 @@
 
 ![&#x5DE6;&#x4E0A;&#x65B9;&#xFF0C;&#x9078;&#x597D;&#x4EA4;&#x6613;&#x5C0D;](https://assets.matters.news/embed/ac9733b7-1d6f-4b6d-8e89-eb3a5d80a388.png)
 
-選好交易對後，看一看畫面中部的「掛單簿」\(order book\)。上方紅色列出的是掛出在市場上的「賣單」，以下圖的例子舉例，有人願意以 0.21 TWD/LIKE 的價格賣出 252 LikeCoin，然後再有人願意以 0.212 TWD/LIKE 的價格賣出 52565 LikeCoin。假設你想買入 50,000 LikeCoin，你便可以最高價 0.212 TWD/LIKE 的價格全數買入。
+選好交易對後，看一看畫面中部的「掛單簿」\( order book \)。上方紅色列出的是掛出在市場上的「賣單」，以下圖的例子舉例，有人願意以 0.21 TWD/LIKE 的價格賣出 252 LikeCoin，然後再有人願意以 0.212 TWD/LIKE 的價格賣出 52565 LikeCoin。假設你想買入 50,000 LikeCoin，你便可以最高價 0.212 TWD/LIKE 的價格全數買入。
 
 同樣道理，若你想賣出 LikeCoin ，你便要觀察「買單」找買家。以下圖為例，假設你想要賣出 50000 LIKE，可保證以 0.0831 TWD/LIKE 的價格賣出，因為目前有人出的最高價是 0.0831 購 296,468枚 LikeCoin。
 
-![&#x8CE3; Likecoin &#x6642;&#x770B;&#x4E0B;&#x65B9;&#x7DA0;&#x8272;&#x7684;&#x8CB7;&#x55AE;&#xFF1B;&#x8CB7; LikeCoin &#x6642;&#x770B;&#x4E0A;&#x65B9;&#x7D05;&#x8272;&#x7684;&#x8CE3;&#x55AE;](https://assets.matters.news/embed/5c5de11a-edd6-4844-854e-12daa5cfc19a.png)
+![&#x8CE3; LikeCoin &#x6642;&#x770B;&#x4E0B;&#x65B9;&#x7DA0;&#x8272;&#x7684;&#x8CB7;&#x55AE;&#xFF1B;&#x8CB7; LikeCoin &#x6642;&#x770B;&#x4E0A;&#x65B9;&#x7D05;&#x8272;&#x7684;&#x8CE3;&#x55AE;](https://assets.matters.news/embed/5c5de11a-edd6-4844-854e-12daa5cfc19a.png)
 
 心中決定了買賣的價錢和數量後，在左下方的「訂單表」下單，這裡我以「限價委託」為例子說明。
 
@@ -91,6 +89,4 @@
 交易完成後，你可在畫面下方說「歷史成交」，查看交易的詳情，你的錢包也會反映餘額。
 
 ![](https://assets.matters.news/embed/e87dcc63-93ff-49e8-9b74-88be4f124127.png)
-
-
 
