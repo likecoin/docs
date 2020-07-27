@@ -37,7 +37,7 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 建議你找回你註冊時的 MetaMask 電子錢包，再跑一次升級流程。
 
-若你懷疑自己遺失了電子錢包的地址，[請參考這篇](https://help.like.co/en/articles/3498662-%E6%88%91%E9%81%BA%E5%A4%B1%E4%BA%86%E5%8A%A9%E8%A8%98%E8%A9%9E-seed-phrase-%E5%8F%8A%E7%A7%81%E9%91%B0-%E6%9C%89%E5%85%B6%E4%BB%96%E6%96%B9%E6%B3%95%E6%81%A2%E5%BE%A9%E9%8C%A2%E5%8C%85%E5%97%8E)。
+若你懷疑自己遺失了電子錢包的地址，請參考[這篇](https://intercom.help/likecoin/en/articles/3498662-%E6%88%91%E9%81%BA%E5%A4%B1%E4%BA%86%E5%8A%A9%E8%A8%98%E8%A9%9E-seed-phrase-%E5%8F%8A%E7%A7%81%E9%91%B0-%E6%9C%89%E5%85%B6%E4%BB%96%E6%96%B9%E6%B3%95%E6%81%A2%E5%BE%A9%E9%8C%A2%E5%8C%85%E5%97%8E)。
 
 ### **6. 升級過程中，MetaMask 及 Like.co/in 網頁上顯示的 LikeCoin 數變成 0 了！**
 
