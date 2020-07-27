@@ -56,6 +56,7 @@
   * [SteemCN](user-guide/likecoin-button/steemcn.md)
   * [Hexo NexT](user-guide/likecoin-button/hexo-next.md)
   * [Hugo](user-guide/likecoin-button/hugo.md)
+  * [illustBuy](user-guide/likecoin-button/illustbuy.md)
   * [Jekyll](user-guide/likecoin-button/jekyll.md)
   * [mdBook](user-guide/likecoin-button/mdbook.md)
   * [JavaScript SDK](user-guide/likecoin-button/javascript-sdk.md)
