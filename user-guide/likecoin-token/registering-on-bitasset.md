@@ -6,15 +6,19 @@ description: 如何註冊 BitAsset 交易所帳號
 
 想買賣 LikeCoin，首先得註冊一個交易所帳號，申請過程需要些許時間，但只需經歷一次，便一勞永逸了。
 
-LikeCoin 已於 BitAsset 上線交易。BitAsset 對中文社群十分友善，能連接台灣銀行出金、入金，也提供台幣交易對。  
-以下是註冊 BitAsset 帳號的步驟，請點以下按鍵開始。[註冊帳號](https://www.bitasset.com/reg?registrationid=53)
+LikeCoin 已於 BitAsset 上線交易。BitAsset 對中文社群十分友善，能連接台灣銀行出金、入金，也提供台幣交易對。
+
+以下是註冊 BitAsset 帳號的步驟，請點擊此[連結](https://www.bitasset.com/reg)，或到 BitAsset 網站點擊註冊。
 
 ### 步驟一：確認密碼，及電子郵箱或手機號碼 <a id="1"></a>
 
-![](https://downloads.intercomcdn.com/i/o/109014575/fa56e95431bc36ff35726c48/image.png)
+請輸入電子郵件信箱、自選密碼及邀請碼（可選填）。你也可以選擇用手機號註冊，見下圖紅圈位置
 
-請輸入電子郵件信箱、自選密碼及邀請碼（可選填）。你也可以選擇用手機號註冊，見上圖紅圈位置。  
-成功驗證郵件地址後，會回到 BitAsset 交易所的首頁。請點擊右上角你的電郵地址（下圖）。
+![](../../.gitbook/assets/bitasset-1.png)
+
+![](../../.gitbook/assets/bitasset-2.png)
+
+成功驗證郵件地址後，會回到 BitAsset 交易所的首頁。點擊右上角你的電郵地址
 
 ![](https://downloads.intercomcdn.com/i/o/109015340/e52d4f4d9f90856e1b1e96d5/image.png)
 
@@ -24,7 +28,7 @@ LikeCoin 已於 BitAsset 上線交易。BitAsset 對中文社群十分友善，�
 
 若你是非中國大陸用戶，必需一併完成基礎及高級認證。
 
-請在「個人訊息」頁面的上方，點擊「基礎認證」。
+請在「個人訊息」頁面的上方，點擊「基礎認證」
 
 ![](https://downloads.intercomcdn.com/i/o/109015604/0bd7a97e478f52b53f5c4b39/image.png)
 
@@ -32,7 +36,7 @@ LikeCoin 已於 BitAsset 上線交易。BitAsset 對中文社群十分友善，�
 
 ![](https://downloads.intercomcdn.com/i/o/109015753/dd6ca5452c155877b0c39be6/image.png)
 
-輸入資料後，點擊「下一步」，會彈出以下視窗，要求上載身份證正、反兩面，及一張手持身份證和一張寫上指定資料的紙張。
+輸入資料後，點擊「下一步」，會彈出以下視窗，要求上載身份證正、反兩面，及一張手持身份證和一張寫上指定資料的紙張
 
 ![](https://downloads.intercomcdn.com/i/o/109016742/0d2fd9c2283d1efce28ac16f/image.png)
 
