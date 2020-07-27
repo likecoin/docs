@@ -10,7 +10,7 @@ description: 如何在 SteemCN 文章中加入讚賞鍵
 
 假設你的 Liker ID 是 ckxpress，那麼輸入的內容就是 Likerid:ckxpress
 
-再按 "Update"
+再點擊 "Update"
 
 完成後每篇文章的結尾都會出現讚賞鍵。
 
