@@ -6,8 +6,6 @@ description: 如何註冊 BitAsset 交易所帳號
 
 想買賣 LikeCoin，首先得註冊一個交易所帳號，申請過程需要些許時間，但只需經歷一次，便一勞永逸了。
 
-LikeCoin 已於 BitAsset 上線交易。BitAsset 對中文社群十分友善，能連接台灣銀行出金、入金，也提供台幣交易對。
-
 以下是註冊 BitAsset 帳號的步驟，請點擊此[連結](https://www.bitasset.com/reg)，或到 BitAsset 網站點擊註冊。
 
 ### 步驟一：確認密碼，及電子郵箱或手機號碼 <a id="1"></a>
