@@ -6,7 +6,7 @@ description: 如何在 SteemCN 文章中加入讚賞鍵
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
 
-在 [SteemCN](https://steem.buzz/) 的 "Settings" 輸入自己的 Liker ID，格式為 likerid:\[LikerID\]
+登入 [SteemCN](https://steem.buzz/)，點選「設置」 / "Settings" 輸入自己的 Liker ID，格式為 likerid:\[LikerID\]
 
 假設你的 Liker ID 是 ckxpress，那麼輸入的內容就是 Likerid:ckxpress
 
