@@ -2,7 +2,7 @@
 
 ### 支援 LikeCoin 的交易所 
 
-目前 [BitAsset](https://www.bitasset.com) 支援 LikeCoin 的 TWD/LIKE 及 BTC/LIKE 交易對，[MyEthShop](https://www.myethshop.com) 提供 HKD/LIKE 交易對，而 [Liquid](https://www.liquid.com/) 則提供 BTC/LIKE 及 USDT/LIKE 交易對。有興趣的朋友可以向他們購買 LikeCoin。 
+目前 [BitAsset](https://www.bitasset.com) 支援 LikeCoin 的 TWD/LIKE 及 BTC/LIKE 交易對，[MyEthShop](https://www.myethshop.com) 提供 HKD/LIKE 交易對，而 [Liquid](https://www.liquid.com/) 則提供 BTC/LIKE 及 USDT/LIKE 交易對。有興趣的朋友可以向他們購買或交易 LikeCoin。 
 
 ### LikeCoin ERC-20
 
