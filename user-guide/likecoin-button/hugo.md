@@ -45,3 +45,5 @@ Hugo 中的 [Partial Templates](https://gohugo.io/templates/partials/) 可以讓
 
 > [Hugo 安裝 LikeCoin 教學](https://www.wancat.cc/post/hugo-install-likecoin/)
 
+> [Hugo使用Likecoin教學](https://matters.news/@cason_yang/hugo%E4%BD%BF%E7%94%A8likecoin%E6%95%99%E5%AD%B8-bafyreicc6dbprwwbnx3argddlvrpxjnw5xzh3knecyv3cyr6aelzwiskhy)
+
