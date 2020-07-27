@@ -100,7 +100,11 @@ description: 以台幣買賣 LikeCoin 最方便
 
 > [BitAsset APP 使用全攻略](https://bitasset.zendesk.com/hc/zh-tw/articles/360018349812-BitAsset-APP-%E4%BD%BF%E7%94%A8%E5%85%A8%E6%94%BB%E7%95%A5)
 
-### 參考文章
+#### 參考文章
 
->
+> [BitAsset 買賣 LikeCoin \(台幣\)，提現到台幣帳戶補充分享](https://matters.news/@yeutorng/bit-asset-%E8%B2%B7%E8%B3%A3-like-coin-%E5%8F%B0%E5%B9%A3-%E6%8F%90%E7%8F%BE%E5%88%B0%E5%8F%B0%E5%B9%A3%E5%B8%B3%E6%88%B6%E8%A3%9C%E5%85%85%E5%88%86%E4%BA%AB-zdpuAtaC5cMohnxfiSBGTBq5e41LpmqKLCLbCaJbk7osz5b5N)
+
+> [「Matters实用贴」教你如何四步快速提现LikeCoin](https://matters.news/@mrspointm/matters%E5%AE%9E%E7%94%A8%E8%B4%B4-%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E5%9B%9B%E6%AD%A5%E5%BF%AB%E9%80%9F%E6%8F%90%E7%8E%B0like-coin-zdpuAobP3T9TaNV5yimGdr1w58Y5LzWRh19cXcVSepnsLf1wa)
+
+> [用Liker Land APP在BitAsset交易所把 LikeCoin 兌換成台幣（手機執行）](https://twinsyang.net/archives/21627)
 
