@@ -18,7 +18,7 @@ Matters 預設已經整合讚賞鍵。只需綁定 Liker ID 及 Matters ID，你
 
 ![](https://downloads.intercomcdn.com/i/o/155791736/78e35390d82b3696e8d01ca6/image.png)
 
-### Matters 專屬的讚賞鍵，就緒。 <a id="matters-"></a>
+#### Matters 專屬的讚賞鍵，就緒。
 
 Matters 的讚賞鍵很簡潔，位於文章的最底部，見下圖。
 
