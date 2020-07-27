@@ -100,3 +100,7 @@ description: 以台幣買賣 LikeCoin 最方便
 
 > [BitAsset APP 使用全攻略](https://bitasset.zendesk.com/hc/zh-tw/articles/360018349812-BitAsset-APP-%E4%BD%BF%E7%94%A8%E5%85%A8%E6%94%BB%E7%95%A5)
 
+### 參考文章
+
+>
+
