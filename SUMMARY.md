@@ -71,7 +71,7 @@
   * [如何取消委託，領回 LikeCoin?](user-guide/faq/ru-he-qu-xiao-wei-tuo-ling-hui-likecoin.md)
   * [什麼是 Authcore?](user-guide/faq/what-is-authcore.md)
   * [LikeCoin 很酷，我可以成為志願者嗎？](user-guide/faq/volunteer.md)
-  * [有材料包可供下載嗎？](user-guide/faq/press-kit.md)
+  * [有設計材料包可供下載嗎？](user-guide/faq/press-kit.md)
   * [如何得知 LikeCoin 最新消息？](user-guide/faq/likecoin-news.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
