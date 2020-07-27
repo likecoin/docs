@@ -76,23 +76,7 @@
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
-* [LikeCoin chain node](developer/likecoin-chain-node/README.md)
-  * [Validator Technical Introduction](developer/likecoin-chain-node/validator-technical-introduction.md)
-  * [Setup mainnet node](developer/likecoin-chain-node/setup-mainnet-node.md)
-* [LikeCoin chain API](developer/likechain-api/README.md)
-  * [Cosmos concepts](developer/likechain-api/cosmos-concepts.md)
-  * [RPC API](developer/likechain-api/rpc-api.md)
-* [LikeCoin OAuth API](developer/likecoin-oauth-api/README.md)
-  * [Calling API](developer/likecoin-oauth-api/calling-api.md)
-  * [Authetication](developer/likecoin-oauth-api/authetication.md)
-  * [Reference](developer/likecoin-oauth-api/reference.md)
-* [LikeCoin button](developer/likecoin-button/README.md)
-  * [Javascript + HTML](developer/likecoin-button/html.md)
-  * [IFrame](developer/likecoin-button/iframe.md)
-  * [Javascript SDK](developer/likecoin-button/js-sdk.md)
-* [LIKE pay SDK](developer/like-pay-sdk.md)
-* [ISCN](developer/international-standard-content-number-iscn/README.md)
-  * [Specification](developer/international-standard-content-number-iscn/specification.md)
-* [ISCN IPFS plugin](developer/iscn-ipfs-plugin.md)
-* [Badge](developer/badge.md)
+---
+
+* [開發資源](kai-fa-zi-yuan.md)
 
