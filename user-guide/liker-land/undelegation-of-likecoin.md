@@ -21,3 +21,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 1. 取回委託的 LikeCoin 將在 21 天冷卻期後才能動用，因此該筆款項將無法再委託、獲取回報或轉帳
 2. 驗證人會即時失去取回委託金額的「投票權」\( Voting power \)
 
+{% hint style="info" %}
+最低取回委託數量為 1 LikeCoin
+{% endhint %}
+
