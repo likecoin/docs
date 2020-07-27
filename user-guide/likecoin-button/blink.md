@@ -6,6 +6,8 @@ description: 如何在 Blink 佈告欄文章中加入讚賞鍵
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
 
+先登入 [Blink](https://blink.com.tw/)，撰寫文章並發佈。
+
 依照以下格式製作你的讚賞鍵連結：
 
 ```text
