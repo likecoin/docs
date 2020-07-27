@@ -20,11 +20,11 @@
 
 每成功推薦一位朋友成為讚賞公民，便立即可獲約 5 美元的等值 LikeCoin 奬勵。推薦 10 位，獲 50 美元；推薦 100 位，獲 500 美元。奬金會在數分鐘內轉賬到你的電子錢包。多推薦，多賺，無上限。
 
-**推薦鏈結**： https://liker.land/civic?from=​\[Your Liker ID\]​
+**推薦鏈結**： https://liker.land/civic?from=​\[你的 Liker ID\]​
 
 [推薦朋友下載 Liker Land](https://docs.like.co/v/zh/user-guide/liker-land/referral)，你和你推薦的朋友各得 100 LikeCoin 奬賞
 
-**推薦鏈結**： https://likerland.app.link/?event=app\_referral&referrer=\[Your Liker ID\]
+**推薦鏈結**： https://likerland.app.link/?event=app\_referral&referrer=\[你的 Liker ID\]
 
 ## 賞金任務
 
