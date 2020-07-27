@@ -6,9 +6,9 @@ description: Download Liker Land app on Google Play Store or App Store.
 
 Registering a Liker ID is easy, just download [**Liker Land**](https://like.co/in/getapp) mobile app and follow the instruction below:
 
-### Step 1: Open your Liker Land app，Press the "Sign Up" Button 
+### Step 1: Open your Liker Land app，Press the "Sign Up" Button
 
-![](../../.gitbook/assets/img_3455.jpg)
+![](../../.gitbook/assets/sign-in.png)
 
 ### **Step 2: Choose your Sign Up method**
 
