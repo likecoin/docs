@@ -20,9 +20,9 @@ Likers 透過委託的方法授權給驗證人。委託 LikeCoin 代表 Liker �
 
 ### 活躍驗證人 \(Active Validator\) 
 
-伺服器上線時間達 100% 的驗證人
+履行[驗證交易](https://docs.like.co/v/zh/constitution#9e68)責任，並在讚賞公民共和國憲法界定下的活躍驗證人數目內獲得最多委托的驗證人。
 
 ### 閒置驗證人 \( Inactive Validator \)
 
-驗證人正在「坐牢」\( Jailed \)
+驗證人並無履行驗證交易責任正在「坐牢」\( Jailed \) ，又或者在讚賞公民共和國憲法界定下的活躍驗證人數目以外，委托量不足的驗證人。
 
