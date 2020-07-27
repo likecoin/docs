@@ -1,10 +1,8 @@
 ---
-description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便。
+description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 ---
 
 # 在 Liquid 交易
-
-使用 Liquid 交易所的服務，必須先註冊 Liquid 帳號並通過實名認證。詳細帳號註冊流程請參考這篇[社群文章](https://xrine.com/how-to-turn-likecoin-into-ntd-liquid-verification/)。
 
 ### 閃兌
 
