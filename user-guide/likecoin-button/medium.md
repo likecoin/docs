@@ -10,5 +10,3 @@ description: 如何在 Medium 文章中加入讚賞鍵
 
 然後，將該鏈結加到 Medium 文章（一般放到底部），輸入 "enter" 換行，讚賞鍵會自動出現。
 
-![](https://downloads.intercomcdn.com/i/o/78328580/9a8a696bc2ae284b2c9bbc47/ezgif-2-054861eaac.gif)
-
