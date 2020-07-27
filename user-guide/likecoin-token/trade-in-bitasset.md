@@ -1,3 +1,7 @@
+---
+description: 以台幣買賣 LikeCoin 最方便
+---
+
 # 在 BitAsset 交易
 
 ![](https://assets.matters.news/embed/d39660e0-f491-4cd3-93ec-34553c7801db.png)
@@ -89,4 +93,10 @@
 交易完成後，你可在畫面下方說「歷史成交」，查看交易的詳情，你的錢包也會反映餘額。
 
 ![](https://assets.matters.news/embed/e87dcc63-93ff-49e8-9b74-88be4f124127.png)
+
+#### BitAsset 官方教學
+
+> [BitAsset 使用全攻略](https://bitasset.zendesk.com/hc/zh-tw/articles/360012894432-BitAsset-%E4%BD%BF%E7%94%A8%E5%85%A8%E6%94%BB%E7%95%A5)
+
+> [BitAsset APP 使用全攻略](https://bitasset.zendesk.com/hc/zh-tw/articles/360018349812-BitAsset-APP-%E4%BD%BF%E7%94%A8%E5%85%A8%E6%94%BB%E7%95%A5)
 
