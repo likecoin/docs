@@ -59,7 +59,7 @@
   * [illustBuy](user-guide/likecoin-button/illustbuy.md)
   * [Jekyll](user-guide/likecoin-button/jekyll.md)
   * [mdBook](user-guide/likecoin-button/mdbook.md)
-  * [生活譜記](user-guide/likecoin-button/sheng-huo-pu-ji.md)
+  * [生活譜記](user-guide/likecoin-button/youput.md)
   * [JavaScript SDK](user-guide/likecoin-button/javascript-sdk.md)
 * [LikeCoin 插件](user-guide/likecoin-plugin/README.md)
   * [Chrome/Firefox 插件](user-guide/likecoin-plugin/liker-land-browser-extension.md)
