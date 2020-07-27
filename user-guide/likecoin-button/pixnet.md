@@ -20,7 +20,7 @@ description: 5分鐘開始你的網站收入 - LikeCoin For 痞客邦
 
 ![](../../.gitbook/assets/pixnet-3.png)
 
-你亦可以隨時進入痞客邦應用市集 App Market ，選取「已安裝功能」，隨時更改你的設定。
+你亦可以隨時進入痞客邦應用市集 App Market ，點擊「已安裝功能」，隨時更改你的設定。
 
 ### 參考文章
 
