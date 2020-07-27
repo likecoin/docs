@@ -46,6 +46,10 @@ LikeCoin 已於 BitAsset 上線交易。BitAsset 對中文社群十分友善，�
 
 提交文件後，請耐心等候 BitAsset 官方批核，一般需要一至兩個工作天。
 
+#### BitAsset 官方教學
+
+> [如何进行实名认证（KYC）？](https://bitasset.zendesk.com/hc/zh-cn/articles/360011731332-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81-KYC-)
+
 ### 步驟三：手機驗證及 Google 驗證 <a id="3-google-"></a>
 
 完成高級認證後，基本上已能用大部份交易所功能了。但為了安全性起見，強烈建議你完成 Google 驗證。畫面上已有詳細的指示，你需要用手機下載  Google Authenticator 應用程式。
@@ -54,4 +58,12 @@ LikeCoin 已於 BitAsset 上線交易。BitAsset 對中文社群十分友善，�
 [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
 ![](https://downloads.intercomcdn.com/i/o/109017923/f9f959463ac54053f660bf9a/image.png)
+
+#### BitAsset 官方教學
+
+> [如何設定Google 驗證器?](https://bitasset.zendesk.com/hc/zh-tw/articles/360018687671-%E5%A6%82%E4%BD%95%E8%A8%AD%E5%AE%9AGoogle-%E9%A9%97%E8%AD%89%E5%99%A8-)
+
+### 如有疑難，聯絡 BitAsset 客服
+
+若你在開戶或任何交易所服務的過程中遇到困難，請參考 [BitAsset 常見問題（繁體中文）](https://bitasset.zendesk.com/hc/zh-tw/categories/360000754651-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)、[BitAsset 常見問題（簡體中文）](https://bitasset.zendesk.com/hc/zh-cn/categories/360000754651-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)或直接聯絡 BitAsset 客服。點擊 BitAsset 畫面右下角藍色的對話圖示即可獲取支援。
 
