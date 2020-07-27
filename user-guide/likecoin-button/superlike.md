@@ -14,7 +14,7 @@ description: 重新定義「分享」的概念
 
 ## 分享，是為了啟發
 
-每個 SuperLike 同時把內容分享到 Liker Land 上，以文會友。每天 Super Like 的額度有限，只有最愛的內容才能曝光。
+每個 Super Like 同時把內容分享到 Liker Land 上，以文會友。每天 Super Like 的額度有限，只有最愛的內容才能曝光。
 
 ## 讚，是為了賞
 
