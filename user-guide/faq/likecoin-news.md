@@ -10,9 +10,19 @@ description: 如何加入 LikeCoin 的社群？
 
 [Facebook 群組](https://www.facebook.com/groups/likecoin/)（中文）
 
+[Matters](https://matters.news/@likecoin)
+
+[Medium](https://medium.com/likecoin)
+
+[Substack](https://likecoin.substack.com/)（英文）
+
+Slack [https://join.g0v.tw/](https://join.g0v.tw/) 選擇 \#likecoin
+
 [Telegram](https://t.me/likecoin)（英文）
 
 [Twitter](https://twitter.com/likecoin)（英文）
 
 [Github](http://github.com/likecoin)
+
+[YouTube](https://www.youtube.com/channel/UC4yVjIwwIX0y10ky3C-8iYA)
 
