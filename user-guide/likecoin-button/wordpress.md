@@ -31,7 +31,7 @@ description: 安裝 LikeCoin 外掛為 WordPress 網站加入讚賞鍵，只需�
 
 （2019 年 12 月 2 日起，LikeCoin 用戶將無須再連接 MetaMask 電子錢包。）
 
-在管理介面左方菜單，選取 "LikeCoin" 外掛設定，再選 "Your Like Rewards"。在右方畫面中，輸入你的 Liker ID
+在管理介面左方菜單，點選 "LikeCoin" 外掛設定，再選 "Your Like Rewards"。在右方畫面中，輸入你的 Liker ID
 
 ![](https://downloads.intercomcdn.com/i/o/169029380/cb32c7bb0355af7cc8fcd90a/image.png)
 
