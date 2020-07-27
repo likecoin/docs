@@ -67,5 +67,5 @@ Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請�
 
 ### 如有疑難，聯絡 Liquid 客服 <a id="-liquid-"></a>
 
-若你在開戶或任何交易所服務的過程中遇到困難，請參考 [Liquid 幫助中心（繁体中文）](https://help.liquid.com/en/collections/1490333-liquid-%E5%B9%AB%E5%8A%A9%E4%B8%AD%E5%BF%83-%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87#%E9%97%9C%E6%96%BC%E8%B3%AC%E6%88%B6-user-account)或直接聯絡 Liquid 客服。點擊客服畫面右下角藍色的對話圖示，有即時在線支援，十分方便。
+若你在開戶或任何交易所服務的過程中遇到困難，請參考 [Liquid 幫助中心（繁体中文）](https://help.liquid.com/en/collections/1490333-liquid-%E5%B9%AB%E5%8A%A9%E4%B8%AD%E5%BF%83-%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87#%E9%97%9C%E6%96%BC%E8%B3%AC%E6%88%B6-user-account)或直接聯絡 Liquid 客服。點擊幫助中心畫面右下角藍色的對話圖示，有即時在線支援，十分方便。
 
