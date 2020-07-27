@@ -1,2 +1,0 @@
-# LikeCoin 插件
-
