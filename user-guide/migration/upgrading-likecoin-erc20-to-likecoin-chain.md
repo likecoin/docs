@@ -49,14 +49,14 @@ LikeCoin 經已轉移到 [LikeCoin chain](https://docs.like.co/v/zh/user-guide/l
 
 ### 步驟 3：檢查 LikeCoin 金額 <a id="step-3-check-your-likecoin-balance"></a>
 
- 升級完成後，你可到 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app) 或 [https://Like.co/in](https://like.co/in) 檢查你的 LikeCoin 餘額。  
+ 升級完成後，你可到 [https://Like.co/in](https://like.co/in) 檢查你的 LikeCoin 餘額。  
 
 
 ![](https://downloads.intercomcdn.com/i/o/167238743/6a0fc71935e711ec46441c80/image.png)
 
 ### 下載 Liker Land 手機應用程式 <a id="-liker-land-"></a>
 
- 你可以到 [Google Play](https://play.google.com/store/apps/details?id=com.oice&hl=zh-TW) store 或 [Apple App Store](https://apps.apple.com/hk/app/liker-land/id1248232355)，[下載 Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)，以你的社交帳號登入，便可在 app 中查閱到你的 LikeCoin 餘額了。
+你可以到 [Google Play](https://play.google.com/store/apps/details?id=com.oice&hl=zh-TW) store 或 [Apple App Store](https://apps.apple.com/hk/app/liker-land/id1248232355)，[下載 Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)，以你的社交帳號登入，便可在 app 中查閱到你的 LikeCoin 餘額了。
 
 ![](https://downloads.intercomcdn.com/i/o/167238907/feec175add4bc04dd18a2f71/image.png)
 
