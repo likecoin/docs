@@ -8,15 +8,5 @@ description: 你只需在作品中加入讚賞鍵，便可把讀者的按讚轉�
 
 讚賞鍵的操作介面，請見下圖：
 
-![](https://downloads.intercomcdn.com/i/o/72819319/1908e14eaccea6b5b61e7a3f/ezgif-3-41cbd4a4c6.gif)
-
-創作者可自由使用以下圖像吸引 Liker 按讚：
-
-![](../../.gitbook/assets/liking-with-word_1.gif)
-
-![](../../.gitbook/assets/liking_1.gif)
-
-![](../../.gitbook/assets/liking_text.gif)
-
-![](../../.gitbook/assets/liking_text2.gif)
+![](../../.gitbook/assets/superlike%20%281%29.gif)
 
