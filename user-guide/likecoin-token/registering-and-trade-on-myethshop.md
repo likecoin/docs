@@ -38,7 +38,11 @@
 
 ![](https://assets.matters.news/embed/a1d2855a-8cbc-46d6-a91b-05e0be56d5b0.png)
 
-轉帳指示已發出，過程不用兩分鐘，很方便對吧？過去 LikeCoin 還是 ERC-20 版本時，要付以太幣作手續費及用 MetaMask 錢包轉帳的時代已經過去了。
+轉帳指示已發出，按下來我們要通知 MyEthShop 轉帳已達。
+
+### 步驟五：填寫 Transaction Hash / TXID 及轉帳金額
+
+
 
 接下來便要等 BitAsset 那邊確認收款了。
 
