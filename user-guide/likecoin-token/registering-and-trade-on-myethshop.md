@@ -12,25 +12,25 @@
 
 ### 步驟三：找到 MyEthShop 帳戶的 LikeCoin 錢包地址
 
-點「帳戶」鍵進入下方畫面，請在「轉入」部份選 「LIKE」，又或者在一系列密碼貨幣當中點擊 LIKE 再按「轉入」。
+點「帳戶」鍵進入下方畫面，請在「轉入」部份選 「LIKE」，又或者在一系列密碼貨幣當中點擊 LIKE 再點擊「轉入」。
 
 ![](../../.gitbook/assets/myethshop-1.png)
 
-會出現以下警告，由於 MyEthShop  仍然支援舊版 LikeCoin 故有此提示，按「我知道了」。
+會出現以下警告，由於 MyEthShop  仍然支援舊版 LikeCoin ERC-20 交易故有此提示，點擊「我知道了」。
 
 ![](../../.gitbook/assets/myethshop-2.png)
 
-按
+接下來畫面的上半部份會出現下圖的二維碼、cosmos 開始的一串長長的地址及 Liker ID myethshop，那便是 MyEthShop 的 LikeCoin 錢包地址。
 
-你會看到下圖的二維碼，那便是你 BitAsset 帳號中的 LikeCoin 錢包地址了。
+![](../../.gitbook/assets/myethshop-3.png)
 
-### 步驟三：轉帳 LikeCoin 到 MyEthShop
+### 步驟四：轉帳 LikeCoin 到 MyEthShop
 
-過程就跟 PayMe 或 Line Pay 差不多。打開 [Liker Land 手機應用程式](https://like.co/in/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己口袋裡有多少錢。點畫面上的「轉帳」 / \[Send\] 鍵（下圖紅圈位置）。
+打開 [Liker Land 手機應用程式](https://like.co/in/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己口袋裡有多少錢。點畫面上的「轉帳」 / \[Send\] 鍵（下圖紅圈位置）。
 
 ![&#x5728; Liker Land &#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;&#x9322;&#x5305;&#x4ECB;&#x9762;&#x9078; Send&#xFF08;&#x7D05;&#x5708;&#xFF09;](https://assets.matters.news/embed/5dedb226-ea15-4d1f-bb3b-651a83814fbb.png)
 
-進入下一頁後，點下圖紅圈位置的二維碼圖示。app 會跳進照相機介面讓你掃描二維碼，請掃描【步驟一】中你的 BitAsset 帳戶 LikeCoin 錢包的二維碼，因為你想要轉錢到 BitAsset。 
+進入下一頁後，點下圖紅圈位置的二維碼圖示。app 會跳進照相機介面讓你掃描二維碼，請掃描【步驟三】中 MyEthShop 的 LikeCoin 錢包二維碼，直接填上收款方的 Liker ID 或錢包地址
 
 ![&#x9EDE;&#x4E0A;&#x5716;&#x7D05;&#x5708;&#x4F4D;&#x7F6E;&#x6253;&#x958B;&#x7167;&#x76F8;&#x6A5F;](https://assets.matters.news/embed/2775450c-0013-4852-b1fa-dee6563169d5.png)
 
