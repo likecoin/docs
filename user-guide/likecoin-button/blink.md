@@ -38,7 +38,7 @@ https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
 
 再按「OK」，讚賞鍵便會出現在文章中
 
-![](../../.gitbook/assets/wei-ming-ming%20%281%29.png)
+![](../../.gitbook/assets/blink-insert.png)
 
 你可以按「一般的」，再更改「空間維度」調整讚賞鍵顯示大小。
 
