@@ -32,8 +32,6 @@ After successfully login your social media account, the following screen will ap
 
 After pressing "Register", the system will try to register with your social media account. You should be able to see the screen below if everythings works out smoothly. Press "OK" to confirm.
 
-![](../../.gitbook/assets/img_2341%20%282%29.PNG)
-
 ### Step 4: Create your Liker ID
 
 One final step to go. After pressing the "OK" button, a green screen will appear as below and you can choose your favorite Liker ID. The system will suggest a Liker ID for your but if you are not happy with it, you can change it here. Fill in your Liker ID and press "Confirm" to finish the registration process.
