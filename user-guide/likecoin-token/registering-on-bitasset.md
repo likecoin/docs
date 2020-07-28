@@ -63,5 +63,5 @@ description: 如何註冊 BitAsset 交易所帳號
 
 ### 如有疑難，聯絡 BitAsset 客服
 
-若你在開戶或任何交易所服務的過程中遇到困難，請參考 [BitAsset 常見問題（繁體中文）](https://bitasset.zendesk.com/hc/zh-tw/categories/360000754651-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)、[BitAsset 常見問題（簡體中文）](https://bitasset.zendesk.com/hc/zh-cn/categories/360000754651-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)或直接聯絡 BitAsset 客服。點擊 BitAsset 畫面右下角藍色的對話圖示即可獲得支援。
+若你在開戶或任何交易所服務的過程中遇到困難，請參考 [BitAsset 常見問題（繁體中文）](https://bitasset.zendesk.com/hc/zh-tw/categories/360000754651-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)、[BitAsset 常见问题（简体中文）](https://bitasset.zendesk.com/hc/zh-cn/categories/360000754651-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)或直接聯絡 BitAsset 客服。點擊 BitAsset 畫面右下角藍色的對話圖示即可獲得支援。
 
