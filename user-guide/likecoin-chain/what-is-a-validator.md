@@ -4,7 +4,7 @@
 
 讚賞公民共和國的驗證人同時擔當「銀行」及「立法委員」的角色。
 
-![](https://downloads.intercomcdn.com/i/o/171690041/6511ab8dc89664869d5777c8/LikeCoin_AD78_PostList_1213.png)
+![](../../.gitbook/assets/likecoin_ad78_postlist_1213.png)
 
 驗證人 \( Validators \) 負責 7x24 營運伺服器群以核實所有 Likers 的資料記錄，包括代幣轉賬、內容發佈、投票動作等。讚賞公民共和國的驗證人同時擔當銀行及立法委員的角色。
 
