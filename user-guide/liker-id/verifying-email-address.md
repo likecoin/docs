@@ -47,7 +47,7 @@ description: 綁定多款登入方法，增強你 Liker ID 的安全性
 
 ## 認證電郵地址
 
-1. 訪問 [https://like.co/in/settings](https://like.co/in/settings,) ，在「AuthCore 設定」下點擊「個人檔案」，再點「聯絡方式」，並點擊「電郵」，跳入「管理電郵」的頁面
+1. 訪問 [https://like.co/in/settings](https://like.co/in/settings) ，在「AuthCore 設定」下點擊「個人檔案」，再點「聯絡方式」，並點擊「電郵」，跳入「管理電郵」的頁面
 
 2. 在「管理電郵」的頁面，點「現在認證」
 
