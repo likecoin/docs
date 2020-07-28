@@ -35,3 +35,7 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 
 ![](../../.gitbook/assets/image%20%2871%29.png)
 
+{% hint style="info" %}
+
+{% endhint %}
+
