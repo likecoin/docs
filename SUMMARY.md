@@ -70,7 +70,7 @@
 * [常見問題](user-guide/faq/README.md)
   * [如何獲取 Liker Land 每月報告？](user-guide/faq/monthly-report.md)
   * [因委託而產生的 LikeCoin 回報，錢從何來？](user-guide/faq/where-comes-the-likecoin-rewards.md)
-  * [如何取消委託，領回 LikeCoin?](user-guide/faq/ru-he-qu-xiao-wei-tuo-ling-hui-likecoin.md)
+  * [如何取消委託，領回 LikeCoin?](user-guide/faq/how-to-undelegate-likecoin.md)
   * [什麼是 Authcore?](user-guide/faq/what-is-authcore.md)
   * [LikeCoin 很酷，我可以成為志願者嗎？](user-guide/faq/volunteer.md)
   * [有設計材料包可供下載嗎？](user-guide/faq/press-kit.md)
