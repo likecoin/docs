@@ -154,7 +154,7 @@ _Liker_ 委託 _LikeCoin_ 予 _驗證人_ 不只可以參與驗證帳目及賺�
 
 假如議票未能超過法定人數又或者被否決，已存入的一百萬 _LikeCoin_ 保證金將撥入**社群基金**，又或者歸還予出資的 _Likers_。
 
-![](https://miro.medium.com/max/4502/1*xh5JT3YCzaqp5djRiWXfqg.png)
+![](.gitbook/assets/validator.png)
 
 ## 未來展望 <a id="b575"></a>
 
