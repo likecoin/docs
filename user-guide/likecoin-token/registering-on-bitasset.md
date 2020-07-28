@@ -22,6 +22,10 @@ description: 如何註冊 BitAsset 交易所帳號
 
 然後你會跳進至「個人訊息」頁面。
 
+#### BitAsset 官方教學
+
+> [BitAsset新手指南－註冊篇](https://medium.com/bitasset/bitasset%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97-%E8%A8%BB%E5%86%8A%E7%AF%87-197511825b5c)
+
 ### 步驟二：基礎及高級認證 <a id="2"></a>
 
 若你是非中國大陸用戶，必需一併完成基礎及高級認證。
@@ -45,6 +49,8 @@ description: 如何註冊 BitAsset 交易所帳號
 提交文件後，請耐心等候 BitAsset 官方批核，一般需要一至兩個工作天。
 
 #### BitAsset 官方教學
+
+> [BitAsset新手指南－申請實名認證（KYC 2）篇](https://medium.com/bitasset/bitasset%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97-%E7%94%B3%E8%AB%8B%E5%AF%A6%E5%90%8D%E8%AA%8D%E8%AD%89-kyc-2-%E7%AF%87-8485dc2065c7)
 
 > [如何进行实名认证（KYC）？](https://bitasset.zendesk.com/hc/zh-cn/articles/360011731332-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81-KYC-)
 
