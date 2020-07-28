@@ -18,3 +18,5 @@ description: 查看每週、每天、每篇文章所獲得的讚賞收益，一�
 
 ![&#x9EDE;&#x64CA;&#x4E0A;&#x65B9;&#x68D2;&#x5F62;&#x5716;&#x4E2D;&#x7684;&#x67D0;&#x4E00;&#x5929;&#x67E5;&#x770B;&#x8A72;&#x5929;&#x660E;&#x7D30;&#xFF0C;&#x5DE6;&#x53F3;&#x6ED1;&#x52D5;&#x67E5;&#x770B;&#x6B77;&#x53F2;&#x6578;&#x64DA;](../../.gitbook/assets/img_0670.PNG)
 
+![](../../.gitbook/assets/check-rewarded.gif)
+
