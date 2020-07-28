@@ -16,7 +16,7 @@ description: 用 Liker Land 手機應用程式轉帳 LikeCoin，免手續費，�
 
 ### **步驟三**
 
-你可直接填上收款方的 Liker ID 或錢包地址。也可用掃描二維碼的方法：收款人先打開錢包，再點擊「收款」 / \[Receive\]  按鍵，展示錢包二維碼。然後你可以點擊下圖紅圈位置，調用照相機掃描收款人的錢包二維碼。
+你可直接於 \[Enter receiver address\] 填上收款方的 Liker ID 或錢包地址。也可用掃描二維碼的方法：收款人先打開錢包，再點擊「收款」 / \[Receive\]  按鍵，展示錢包二維碼。然後你可以點擊下圖紅圈位置，調用照相機掃描收款人的錢包二維碼。
 
 ![](https://downloads.intercomcdn.com/i/o/171687486/50b1ad23200f3f11695c0fe1/IMG_2155.jpg)
 
