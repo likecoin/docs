@@ -18,7 +18,7 @@ description: 如何註冊 BitAsset 交易所帳號
 
 成功驗證郵件地址後，會回到 BitAsset 交易所的首頁。點擊右上角你的電郵地址
 
-![](https://downloads.intercomcdn.com/i/o/109015340/e52d4f4d9f90856e1b1e96d5/image.png)
+![](../../.gitbook/assets/bitasset-3.png)
 
 然後你會跳進至「個人訊息」頁面。
 
@@ -28,19 +28,19 @@ description: 如何註冊 BitAsset 交易所帳號
 
 請在「個人訊息」頁面的上方，點擊「基礎認證」
 
-![](https://downloads.intercomcdn.com/i/o/109015604/0bd7a97e478f52b53f5c4b39/image.png)
+![](../../.gitbook/assets/bitasset-4.png)
 
 你會見到以下的弓彈出視窗。請注意，這裡的「用戶名」是指在你的證件上的**姓名**。
 
-![](https://downloads.intercomcdn.com/i/o/109015753/dd6ca5452c155877b0c39be6/image.png)
+![](../../.gitbook/assets/bitasset-5.png)
 
 輸入資料後，點擊「下一步」，會彈出以下視窗，要求上載身份證正、反兩面，及一張手持身份證和一張寫上指定資料的紙張
 
-![](https://downloads.intercomcdn.com/i/o/109016742/0d2fd9c2283d1efce28ac16f/image.png)
+![](../../.gitbook/assets/bitasset-6.png)
 
 身份證的正反兩面應該不難處理，要特別留意的是第三項「手持身份證及紙條合照」這一項。看看以下這位朋友的示範：
 
-![](https://downloads.intercomcdn.com/i/o/109017316/46e65ce2896d4659b3ba9e27/IMG_9380.JPG)
+![](../../.gitbook/assets/bitasset-7.jpg)
 
 提交文件後，請耐心等候 BitAsset 官方批核，一般需要一至兩個工作天。
 
@@ -55,7 +55,7 @@ description: 如何註冊 BitAsset 交易所帳號
 [安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
 [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
-![](https://downloads.intercomcdn.com/i/o/109017923/f9f959463ac54053f660bf9a/image.png)
+![](../../.gitbook/assets/bitasset-8.png)
 
 #### BitAsset 官方教學
 
