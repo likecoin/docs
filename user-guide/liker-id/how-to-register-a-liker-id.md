@@ -30,7 +30,7 @@ description: 讚賞公民共和國的市民。每位 Liker 擁有一獨特的 Li
 
 點擊 \[Register\] 後，系統會嘗試以你的社交帳號註冊。若過程順利，會彈出以下畫面。點擊 \[OK\] 確認
 
-![](../../.gitbook/assets/img_2341%20%282%29.PNG)
+![](../../.gitbook/assets/img_2341.png)
 
 ### 步驟四：創建 Liker ID
 
