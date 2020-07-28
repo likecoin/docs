@@ -1,6 +1,6 @@
 # 註冊及在 MyEthShop 交易
 
-在  MyEthShop 買賣 LikeCoin 手續簡易，交易費用全免。
+在  MyEthShop 買賣 LikeCoin 手續簡易，交易費用全免，網站界面友善，桌面及手機都通用。
 
 ### 步驟一：註冊 MyEthShop 帳號並通過實名認證
 
@@ -10,7 +10,19 @@
 
 請參考 [MyEthShop雙重驗證\(2FA\)的設定教學](https://myethlabs.wordpress.com/2019/01/24/myethshop%e9%9b%99%e9%87%8d%e9%a9%97%e8%ad%892fa%e7%9a%84%e8%a8%ad%e5%ae%9a%e6%95%99%e5%ad%b8/)。
 
-### 步驟二：找到 BitAsset 帳戶的 LikeCoin 錢包地址
+### 步驟三：找到 MyEthShop 帳戶的 LikeCoin 錢包地址
+
+點「帳戶」鍵進入下方畫面，請在「轉入」部份選 「LIKE」，又或者在一系列密碼貨幣當中點擊 LIKE 再按「轉入」。
+
+![](../../.gitbook/assets/myethshop-1.png)
+
+會出現以下警告，由於 MyEthShop  仍然支援舊版 LikeCoin 故有此提示，按「我知道了」。
+
+![](../../.gitbook/assets/myethshop-2.png)
+
+按
+
+你會看到下圖的二維碼，那便是你 BitAsset 帳號中的 LikeCoin 錢包地址了。
 
 ### 步驟三：轉帳 LikeCoin 到 MyEthShop
 
