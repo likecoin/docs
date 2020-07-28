@@ -14,16 +14,16 @@ description: 安裝 LikeCoin 外掛為 WordPress 網站加入讚賞鍵，只需�
   
 步驟二：如圖點擊左方「外掛 \( plugin \)」，再點擊上方「安裝外掛 \( install plugin \)」
 
-![](https://downloads.intercomcdn.com/i/o/72823649/de9b920907d2af82226ac75d/image.png)
+![](../../.gitbook/assets/wordpress-1.png)
 
 步驟三：搜尋關鍵字 "LikeCoin" ，找到 LikeCoin 的外掛，點擊「安裝」並等待完成
 
-![](https://downloads.intercomcdn.com/i/o/72829954/b4eb1f0016d9d8625fbae18d/image+%281%29.png)
+![](../../.gitbook/assets/wordpress-2.png)
 
 步驟四：安裝完成後，你會發現在左方的菜單中多了一個 "LikeCoin" 的選項。恭喜你，你已經完成安裝了！  
 
 
-![ &#x5DE6;&#x65B9;&#x83DC;&#x55AE;&#x4E2D;&#x7684; LikeCoin &#x9078;&#x9805;](https://downloads.intercomcdn.com/i/o/78316704/563d879f9e38b9a1095c47be/menu+choice.png)
+![](../../.gitbook/assets/wordpress-3.png)
 
 ## 設定 LikeCoin 外掛 <a id="448e"></a>
 
@@ -33,11 +33,11 @@ description: 安裝 LikeCoin 外掛為 WordPress 網站加入讚賞鍵，只需�
 
 在管理介面左方菜單，點選 "LikeCoin" 外掛設定，再選 "Your Like Rewards"。在右方畫面中，輸入你的 Liker ID
 
-![](https://downloads.intercomcdn.com/i/o/169029380/cb32c7bb0355af7cc8fcd90a/image.png)
+![](../../.gitbook/assets/wordpress-4.png)
 
 在畫面下方點擊 "Confirm" 鍵，即完成設定！
 
-![](https://downloads.intercomcdn.com/i/o/169030016/a06e41a0df716187532d749b/image.png)
+![](../../.gitbook/assets/wordpress-5.png)
 
 別忘了「確認」以儲存設定值喔
 
@@ -53,12 +53,12 @@ description: 安裝 LikeCoin 外掛為 WordPress 網站加入讚賞鍵，只需�
   
 步驟一：在 LikeCoin 外掛中的 "Plugin Setting" 分頁，有一個 "Enable site Liker ID" 的選項。請確保這選項 **\*沒有\*** 被勾選
 
-![](https://downloads.intercomcdn.com/i/o/136642368/d706b1b2fce0cc75ee5b41f8/image.png)
+![](../../.gitbook/assets/wordpress-6.png)
 
 步驟二：接下來就是 WordPress 新增用戶的流程，跟 LikeCoin 外掛無關。成功新增用戶後，新用戶以自己的 WordPress 帳號登入，便可設定自己的 Liker ID 和讚賞鍵。  
 
 
-![](https://downloads.intercomcdn.com/i/o/136642597/50fe2f0401676caf9ebf86f6/image.png)
+![](../../.gitbook/assets/wordpress-7.png)
 
 ### 廷伸閱讀
 
