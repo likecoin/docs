@@ -20,7 +20,7 @@ description: 推薦朋友下載 Liker Land，雙方各得 100 LikeCoin 奬賞，
 4. 請你的朋友到 [https://like.co/in/settings](https://like.co/in/settings/) 完成短訊認證程序，位置在 _Authcore 設定 → 聯絡方式 → 管理聯絡方式 → 電話號碼_
 5. 完成短訊認證後，請朋友再次打開 Liker Land 一次即可。奬賞會於幾天內直接發送至 Liker Land 錢包,，亦會收到電郵通知
 
-![](../../.gitbook/assets/image%20%2880%29.png)
+![](../../.gitbook/assets/referral.png)
 
 每位用戶只限被推薦一次，但可無限推薦別人。推薦和被推薦雙方均須完成短訊認證。
 
