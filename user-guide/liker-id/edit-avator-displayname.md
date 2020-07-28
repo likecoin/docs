@@ -12,7 +12,7 @@ description: 讓自己的性格更特出
 
 ![](../../.gitbook/assets/huang-niu-shan-ren-.png)
 
-![](../../.gitbook/assets/img_2452%20%281%29.jpg)
+![](../../.gitbook/assets/img_2452.jpg)
 
 ![](../../.gitbook/assets/img_2453.jpg)
 
