@@ -40,7 +40,7 @@
 
 轉帳指示已發出，按下來我們要通知 MyEthShop 轉帳已達。
 
-### 步驟五：填寫 Transaction Hash / TXID 及轉帳金額
+### 步驟五：填寫 Transaction Hash / TXID 哈希及轉帳金額
 
 
 
