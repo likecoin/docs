@@ -31,7 +31,7 @@ description: 以台幣買賣 LikeCoin 最方便
 ![](https://assets.matters.news/embed/a3f9e778-3c66-4b01-9eb7-1f12097bc499.png)
 
 {% hint style="warning" %}
-留意 BitAsset 充值 LikeCoin 設有最低充值金額，_**未達此金額的存款將直接消失掉！**_大家務必看清楚才轉帳啊。詳情請參考 [BitAsset 費率標準](https://bitasset.zendesk.com/hc/zh-tw/articles/360028459212-%E8%B2%BB%E7%8E%87%E6%A8%99%E6%BA%96)。
+留意 BitAsset 充值 LikeCoin 設有最低充值金額，_**未達此金額的存款將直接消失掉！**_大家務必看清楚才轉帳啊。有關單筆最小充值量、單筆最小提現量及提現手續費等可參看 [BitAsset 費率標準](https://bitasset.zendesk.com/hc/zh-tw/articles/360028459212-%E8%B2%BB%E7%8E%87%E6%A8%99%E6%BA%96)。
 {% endhint %}
 
 ### 步驟二：轉帳 LikeCoin 到 BitAsset

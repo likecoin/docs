@@ -10,6 +10,8 @@
 
 請參考 [MyEthShop雙重驗證\(2FA\)的設定教學](https://myethlabs.wordpress.com/2019/01/24/myethshop%e9%9b%99%e9%87%8d%e9%a9%97%e8%ad%892fa%e7%9a%84%e8%a8%ad%e5%ae%9a%e6%95%99%e5%ad%b8/)。
 
+### 步驟二：找到 BitAsset 帳戶的 LikeCoin 錢包地址
+
 ### 步驟三：轉帳 LikeCoin 到 MyEthShop
 
 過程就跟 PayMe 或 Line Pay 差不多。打開 [Liker Land 手機應用程式](https://like.co/in/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己口袋裡有多少錢。點畫面上的「轉帳」 / \[Send\] 鍵（下圖紅圈位置）。
