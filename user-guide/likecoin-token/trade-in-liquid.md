@@ -12,6 +12,8 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 
 ![](../../.gitbook/assets/quick-exchange-1.png)
 
+![](../../.gitbook/assets/liquid-qe.gif)
+
 ### 以其他密碼貨幣兌換 LikeCoin
 
 * 在閃兌的介面，選「閃兌」\( Swap \) 分頁
