@@ -41,8 +41,6 @@ description: 綁定多款登入方法，增強你 Liker ID 的安全性
 4. Google Authenticator 畫面的底部會新增了一個 Authcore 的列，並顯示一組六位的數字。把該組數字填寫在桌面電腦畫面的底部紅圈位置，再點擊「下一步」，看見「設立認證應用程式」「完成」後，點擊「好」
 5. 按下來，選擇「產生後備認證碼」
 
-![&#x5EFA;&#x8B70;&#x7528;&#x624B;&#x6284;&#x4E0B;&#x6B64;&#x5F8C;&#x5099;&#x8A8D;&#x8B49;&#x78BC;&#x3002;&#x82E5;&#x624B;&#x6A5F;&#x6389;&#x4E86;&#xFF0C;&#x53EF;&#x4EE5;&#x7528;&#x9019;&#x7D44;&#x78BC;&#x6062;&#x5FA9; Google Authenticator &#x7684;&#x8A2D;&#x5B9A;](../../.gitbook/assets/2fa-backup-screen%20%281%29.png)
-
 所有設定雙重認證的步驟至此完成了。
 
 ## 認證電郵地址
