@@ -4,6 +4,8 @@ description: 重新定義「分享」的概念
 
 # Super Like
 
+![](../../.gitbook/assets/likecoin_ad92_super_like_dragonball.png)
+
 點擊讚賞鍵第六下，可 Super Like _**分享值得曝光的珍愛內容至 Liker Land**_。
 
 ![](../../.gitbook/assets/superlike.gif)
