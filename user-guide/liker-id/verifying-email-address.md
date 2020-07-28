@@ -23,7 +23,7 @@ description: 綁定多款登入方法，增強你 Liker ID 的安全性
 1. 點擊設立「雙重認證」鍵
 2. 這裡先介紹以 Google Authenticator 設定的流程。請在畫面下方選「使用其他方式」
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/choose-2fa-method.png)
 
 在下一個頁面，選擇「認證應用程式」
 
@@ -33,7 +33,7 @@ description: 綁定多款登入方法，增強你 Liker ID 的安全性
 
 上一步後，屏幕上顯示的裡面是：
 
-![&#x684C;&#x9762;&#x96FB;&#x8166;&#x4E0A;&#x7684;&#x756B;&#x9762;](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/2fa-google-authenticator.png)
 
 1. 在手機上下載 Google Authenticator 應用程式 [安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW) [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 2. 打開 Google Authenticator 應用程式。點擊應用程式右上角的 「＋」
@@ -51,7 +51,7 @@ description: 綁定多款登入方法，增強你 Liker ID 的安全性
 
 2. 在「管理電郵」的頁面，點「現在認證」
 
-![](https://downloads.intercomcdn.com/i/o/171961772/306add51d07b3efdbe8929d0/2.png)
+![](../../.gitbook/assets/auth-email-1.png)
 
 3. 你的郵箱會收到一封包含六位數字認證碼的電郵。請填在下方畫面的空格中，點「認證」
 
@@ -59,5 +59,5 @@ description: 綁定多款登入方法，增強你 Liker ID 的安全性
 
 4. 見到下方這畫面，代表認證已成功
 
-![](https://downloads.intercomcdn.com/i/o/171962300/572802acdde725bb6e9387d2/image.png)
+![](../../.gitbook/assets/auth-email-3.png)
 
