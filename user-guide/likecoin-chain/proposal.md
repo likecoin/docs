@@ -4,6 +4,8 @@ description: 讚賞公民共和國議案紀錄
 
 # 議案
 
+![](../../.gitbook/assets/likecoin_postlist_1231.png)
+
 ## 議案一
 
 驗證人 [Matters](https://matters.news/@likecoin/like-coin-chain-proposal-1-relaxing-validator-requirements-to-transform-like-coin-chain-to-a-permissionless-b-po-s-mechanism-bafyreienrrgu5a35wvgztutzjzl6hey5csqdhimukzrpxfp64xn223fi5q) 於2020年2月18日提出[首個議案](https://likecoin.bigdipper.live/proposals/1)，並於3月3日得到 1,000,000 LikeCoin 抵押支持，該議案包含三大重點： 
