@@ -6,7 +6,7 @@ description: 讓自己的性格更特出
 
 訪問 [https://like.co/in/settings](https://like.co/in/settings) 並登入，你會見到以下畫面。請點擊紅圈位置修改你的頭像及顯示名稱。
 
-![](../../.gitbook/assets/untitled.png)
+![](../../.gitbook/assets/edit-avator-displayname.png)
 
 修改完成後，你的資訊會在 Liker Land 的各種使用場境中顯示。
 
