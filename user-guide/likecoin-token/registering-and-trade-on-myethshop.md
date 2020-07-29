@@ -52,6 +52,8 @@
 
 假如在手機開啟北斗時出現問題，你亦可使用桌面電腦，打開北斗網站 [https://likecoin.bigdipper.live/](https://likecoin.bigdipper.live/) 並輸入你的錢包地址，同樣可以查看交易內容。
 
+![](../../.gitbook/assets/myethshop-6.png)
+
 ### 步驟六：填寫哈希及確認 MyEthShop 收款
 
 回到【步驟三】MyEthShop 網站轉入 LIKE 畫面，填寫哈希  Transaction Hash / TXID 及轉入金額，再點擊「轉入」
