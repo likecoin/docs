@@ -37,6 +37,8 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 建議你找回你註冊時的 MetaMask 電子錢包，再跑一次升級流程。
 
+假若你懷疑自己遺失了電子錢包的地址，請查看你是否有備份助記詞 \( seed phrase \) 或私鑰。私鑰及助記詞是恢復電子錢包的唯一方法。若你不幸同時遺失了兩者，便像在街上掉了錢包一樣，永遠無法再操作錢包了。
+
 ### **6. 升級過程中，MetaMask 及 Like.co/in 網頁上顯示的 LikeCoin 數變成 0 了！**
 
 由於系統會先從你的 MetaMask 轉帳 LikeCoin ERC-20 到智能合約，所以你的 LikeCoin 會有數分鐘時間在你的 MetaMask 錢包中消失，因為你的 LikeCoin 正在被傳送的途中呢。請耐心等候一會。
