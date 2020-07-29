@@ -12,11 +12,11 @@
 
 ### 步驟三：找到 MyEthShop 帳戶的 LikeCoin 錢包地址
 
-點「帳戶」鍵進入下方畫面，請在「轉入」部份選 「LIKE」，又或者在一系列密碼貨幣當中點擊 LIKE 再點擊「轉入」
+點「帳戶」鍵進入下方畫面，在上面綠色按鍵點擊「轉入」選 「LIKE」，又或者在一系列密碼貨幣當中選 LIKE 再點擊藍色「轉入」按鍵傳 LikeCoin 到 MyEthshop 以便賣出。你亦可以選「HKD」存入港幣買進 LikeCoin
 
 ![](../../.gitbook/assets/myethshop-1.png)
 
-會出現以下警告，由於 MyEthShop  仍然支援舊版 LikeCoin ERC-20 交易故有此提示，點擊「我知道了」
+在 LIKE 點擊「轉入」 後會出現以下警告，由於 MyEthShop  仍然支援舊版 LikeCoin ERC-20 交易故有此提示，點擊「我知道了」
 
 ![](../../.gitbook/assets/myethshop-2.png)
 
@@ -42,7 +42,7 @@
 
 ### 步驟五：複製哈希 Transaction Hash / TXID
 
-回到 Liker Land 手機應用程式錢包介面，往下點擊 \[View on Big Dipper\]。
+回到 Liker Land 手機應用程式錢包介面，往下點擊 \[View on Big Dipper\]
 
 ![](../../.gitbook/assets/myethshop-4.png)
 
@@ -54,11 +54,27 @@
 
 ### 步驟六：填寫哈希及確認 MyEthShop 收款
 
-回到【步驟三】MyEthShop 網站轉入 LIKE
+回到【步驟三】MyEthShop 網站轉入 LIKE 畫面，填寫哈希  Transaction Hash / TXID 及轉入金額，再點擊「轉入」
+
+![](../../.gitbook/assets/myethshop-7.png)
+
+接下來便要等 MyEthShop 確認收款了。點選「帳戶」再點擊「交易/提存紀錄」可查看 LikeCoin 是否經已成功轉入，你亦會收到來自 MyEthShop 的確認電郵。
+
+![](../../.gitbook/assets/myethshop-8.png)
+
+![](../../.gitbook/assets/myethshop-9.png)
+
+### 步驟七：選個好價錢買入/賣出
+
+點選「交易」，在畫面左上角選取「LIKE/HKD」，顯示價格會定時跳動報告即時賣出/買入價。看準價格，點擊「出售」，輸入「數量」再點擊「下單」即可售出 LikeCoin。同理，點擊「購買」即可以港幣購入 LikeCoin
+
+至於「市價盤」與「限價盤」的分別在於「市價盤」是以即時賣出/買入價操作。而限價盤可讓你在「價格」一欄輸入心儀賣出/買入價，系統自動於指定價格為你賣出/買入。你可以在下方的「LIKE/HKD PRICE」圖表參看 LIKE/HKD 價格走勢以作決定
+
+![](../../.gitbook/assets/myethshop-10.png)
+
+成功賣出後可進行提幣/提款流程，傳帳到你的 LikeCoin 錢包或銀行戶口。你亦可以隨時查看「交易/提存紀錄」了解進度。
 
 
 
 
-
-接下來便要等 BitAsset 那邊確認收款了。
 
