@@ -74,13 +74,21 @@
 
 ![](../../.gitbook/assets/myethshop-10.png)
 
+#### MyEthShop 官方教學
+
+> [MYETHSHOP限價盤交易詳細說明](https://myethlabs.wordpress.com/2019/07/16/myethshop%e9%99%90%e5%83%b9%e7%9b%a4%e4%ba%a4%e6%98%93%e8%a9%b3%e7%b4%b0%e8%aa%aa%e6%98%8e/)
+
 成功賣出後可進行提幣/提款流程，傳帳到你的 LikeCoin 錢包或銀行戶口。你亦可以隨時查看「交易/提存紀錄」了解進度。
 
-### 如有疑難，聯絡 MyEthShop 客服
+#### MyEthShop 官方教學
 
-若你在開戶或任何交易所服務的過程中遇到困難，請參考 [MYETHLABS 實用秘技](https://myethlabs.wordpress.com/category/%e5%af%a6%e7%94%a8%e7%a7%98%e6%8a%80/) 或直接以 Facebook、Whatsapp 或電郵聯絡 MyEthShop 客服，詳情見 MyEthShop 網頁
+> [MYETHSHOP港幣轉出詳細說明](https://myethlabs.wordpress.com/2019/07/17/myethshop-3/)
 
 #### 參考文章
 
 > [全新 LikeCoin chain 版本：LikeCoin 兌換港幣 MyEthShop 全攻略](https://medium.com/internet-meme/likecoin-chain-myethshop-715afcbfa03f)
+
+### 如有疑難，聯絡 MyEthShop 客服
+
+若你在開戶或任何交易所服務的過程中遇到困難，請參考 [MYETHLABS 實用秘技](https://myethlabs.wordpress.com/category/%e5%af%a6%e7%94%a8%e7%a7%98%e6%8a%80/) 或直接以 Facebook、Whatsapp 或電郵聯絡 MyEthShop 客服，詳情見 [MyEthShop 網頁](https://www.myethshop.com/) 右下角。
 
