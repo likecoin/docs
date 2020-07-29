@@ -8,7 +8,7 @@ description: 如何註冊 Liquid 交易所帳號
 
 ### 步驟一：填寫基本資料
 
-請到 [Liquid.com](http://liquid.com/) [註冊帳號](https://www.liquid.com/sign-up/)。過程中你只需填上簡單的資料，但由於需要實名認證，請填寫你的身份證明文件上的真實姓名 \[Legal First Name\] \[Legal Last Name\]。
+請到 [Liquid.com](http://liquid.com/) [註冊帳號](https://www.liquid.com/sign-up/)。過程中你只需填上簡單的資料，但由於需要實名認證，請填寫你的身份證明文件上的真實姓名 \[Legal First Name\] \[Legal Last Name\]
 
 ![](../../.gitbook/assets/liquid.png)
 
@@ -22,7 +22,7 @@ Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請�
 
 ![](../../.gitbook/assets/liquid-security.png)
 
-2. 下載手機編碼器認證，例如 Google Authenticator 應用程式。
+2. 下載手機編碼器認證，例如 Google Authenticator 應用程式
 
 [安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
 [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
@@ -41,11 +41,11 @@ Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請�
 
 完成雙重認證設定後，你雖已可以進到交易所的交易畫面，但只能存款，不能領款；原因是你還未完成實名認證的程序。請執行以下程序：
 
-1. 點擊畫面右上角的人像圖示，能查看你的帳號狀態。留意此時你的帳號狀態是 "Pending" （待審核）。
+1. 點擊畫面右上角的人像圖示，能查看你的帳號狀態。留意此時你的帳號狀態是 "Pending" （待審核）
 
 ![](../../.gitbook/assets/liquid-account-pending.png)
 
-2. 點擊上圖紅圈的位置，會進到以下頁面，要求你提交文件驗證身份。請點擊頁面下方的按鍵開始提交文件。
+2. 點擊上圖紅圈的位置，會進到以下頁面，要求你提交文件驗證身份。請點擊頁面下方的按鍵開始提交文件
 
 ![](../../.gitbook/assets/liquid-account-status.png)
 
@@ -53,7 +53,7 @@ Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請�
 
 * 國民身份證明文件 \( National ID Document \)
 * 個人照片 \( Selfie \)，清淅的自拍照也可
-* 住址證明 \( Proof of Address \) ，例如水電、銀行賬單、政府信件等。文件上必須印有你身份證明文件上的姓名。
+* 住址證明 \( Proof of Address \) ，例如水電、銀行賬單、政府信件等。文件上必須印有你身份證明文件上的姓名
 
 遞交文件後，需等待 Liquid 確認申請。若所遞交的文件清楚無誤，最快幾天內便可以完成申請。
 
