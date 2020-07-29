@@ -61,3 +61,7 @@ description: 如何在 Hexo NexT 開發環境的文章中加入讚賞鍵
 
 > [如何将Liker按钮集成到Hexo](https://hive.blog/cn/@aafeng/liker-hexo)
 
+> [藍圖重生（一）：給 Hexo 文章 加上 LikeCoin 的贊賞鍵](https://blog.mykeyvans.science/posts/add-likebutton-for-hexo.html)
+
+> [Hexo教學2 iframe\(likecoin\)](https://allem40306.github.io/blog/posts/183a/)
+
