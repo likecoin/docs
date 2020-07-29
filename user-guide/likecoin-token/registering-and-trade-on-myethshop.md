@@ -74,7 +74,11 @@
 
 成功賣出後可進行提幣/提款流程，傳帳到你的 LikeCoin 錢包或銀行戶口。你亦可以隨時查看「交易/提存紀錄」了解進度。
 
+### 如有疑難，聯絡 MyEthShop 客服
 
+若你在開戶或任何交易所服務的過程中遇到困難，請參考 [MYETHLABS 實用秘技](https://myethlabs.wordpress.com/category/%e5%af%a6%e7%94%a8%e7%a7%98%e6%8a%80/) 或直接以 Facebook、Whatsapp 或電郵聯絡 MyEthShop 客服，詳情見 MyEthShop 網頁
 
+#### 參考文章
 
+> [全新 LikeCoin chain 版本：LikeCoin 兌換港幣 MyEthShop 全攻略](https://medium.com/internet-meme/likecoin-chain-myethshop-715afcbfa03f)
 
