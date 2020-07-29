@@ -11,7 +11,7 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 系統會先從你的 MetaMask 轉帳 LikeCoin ERC-20 到智能合約，再把新 LikeCoin 存款到你的 LikeCoin chain 錢包。這兩個步驟涉及轉帳，一般需時最少 5-10 分鐘。請耐心等候。  
 若過了超過 15 分鐘仍未成功升級，有可能是後台出現問題，請聯絡客服。
 
-### **2. Like.co 網站上顯示的 LikeCoin 數跟 Liker Land app 上的不乎**
+### **2. Like.co 網站上顯示的 LikeCoin 數跟 Liker Land 手機應用程式上的不乎**
 
 很可能是你從來都沒有綁定以太坊錢包地址到你的 Liker ID，導致你所賺得的 LikeCoin 積存了在系統上還未派出。請你耐心等待幾天再查看。
 
