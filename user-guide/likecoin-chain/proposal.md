@@ -1,8 +1,6 @@
----
-description: 讚賞公民共和國議案紀錄
----
-
 # 議案
+
+讚賞公民共和國議案紀錄如下：
 
 ![](../../.gitbook/assets/likecoin_postlist_1231.png)
 
