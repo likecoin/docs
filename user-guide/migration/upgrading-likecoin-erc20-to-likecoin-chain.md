@@ -68,3 +68,7 @@ LikeCoin 經已轉移到 [LikeCoin chain](https://docs.like.co/v/zh/user-guide/l
 
 > [LikeCoin 升級前忘記綁定 Google、Facebook、Twitter 或 Matters 登入方式，怎麼辦？](https://medium.com/internet-meme/likecoin-upgrade-ea8379e20718)
 
+> [BitAsset將支援新版本的LikeCoin](https://matters.news/@likecoin/bit-asset%E5%B0%87%E6%94%AF%E6%8F%B4%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84like-coin-zdpuAsJJ9jfbJ4J29tqQmanz58dDiQwQ9m7pA9onAUvyqViz3)
+
+> [MyETHShop將支援新版本的LikeCoin](https://matters.news/@likecoin/my-eth-shop%E5%B0%87%E6%94%AF%E6%8F%B4%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84like-coin-zdpuAwgQLCHC7afNfU6Cn7EuUeLT6MKUTptUGj5i9jgqPt6Kj)
+
