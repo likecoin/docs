@@ -14,19 +14,22 @@ Open the mobile app, click on the avator at the lower right hand corner, then cl
 
 ![](../../.gitbook/assets/img_2154.jpg)
 
-### **步驟三**
+### Step 3
 
-你可直接於 \[Enter receiver address\] 填上收款方的 Liker ID 或錢包地址。也可用掃描二維碼的方法：收款人先打開錢包，再點擊「收款」 / \[Receive\]  按鍵，展示錢包二維碼。然後你可以點擊下圖紅圈位置，調用照相機掃描收款人的錢包二維碼。
+You can fill in the Liker ID or wallet address into the \[Enter receiver address\] field, or else scanning QR Code: Ask the LikeCoin receiver to open his/her wallet and click \[Receive\] button to show his/her QR Code. Then you can click on the icon circled in red, using your phone camera to scan the LikeCoin receiver's QR Code. 
 
 ![](../../.gitbook/assets/img_2155.jpg)
 
-### **步驟四**
+### **Step 4**
 
-Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款方的二維碼掃描。然後再按 \[Next\]。
+Liker Land mobile app will open your phone camera, scan the Likecoin receiver's QR Code, and click the \[Next\] button.
+
+### 
 
 ![](../../.gitbook/assets/img_2158.png)
 
-### **步驟五**
+### **Step 5**
 
-輸入要轉帳的金額。選 \[Next\]，然後點擊「確認」 / \[Confirm\]。
+Input the LikeCoin amount that you have to transfer, click \[Next\] and then click \[Confirm\].  
+
 

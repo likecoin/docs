@@ -13,7 +13,7 @@ Follow all the creators that you've shown your appreciation, their new works wil
 
 ![Follow function](../../.gitbook/assets/img_0815.jpg)
 
-If you want to stop following a creator, go to Liker Land mobile app, click on the avator at the lower right corner, then click \[Following/Unfollow\] to change the settings. You may also go to Liker Land Web and change the Follow/Unfollow setting \[Hyperlink\].
+If you want to stop following a creator, go to Liker Land mobile app, click on the avator at the lower right hand corner, then click \[Following/Unfollow\] to change the settings. You may also go to Liker Land Web and change the Follow/Unfollow setting \[Hyperlink\].
 
 ### **Bookmark**
 
@@ -21,5 +21,5 @@ Save your Read Later articles and read them when you have time. The [LikeCoin Ch
 
 ![](../../.gitbook/assets/img_0816.jpg)
 
-Moreover, you may also click on the avator at the lower right corner in Liker Land mobile app, select \[Website Sign-in\] and pre-login your daily reading website and have a seamlessly reading experience.
+Moreover, you may also click on the avator at the lower hand right corner in Liker Land mobile app, select \[Website Sign-in\] and pre-login your daily reading website and have a seamlessly reading experience.
 
