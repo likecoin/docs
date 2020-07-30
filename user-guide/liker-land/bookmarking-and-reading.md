@@ -1,5 +1,7 @@
 ---
-description: 一邊暢閱，一邊回饋
+description: >-
+  Where every Like is a Reward. Stories that matter, writers who think and
+  readers who care.
 ---
 
 # Reading and Rewarding
@@ -8,7 +10,7 @@ description: 一邊暢閱，一邊回饋
 
 Using [Liker Land mobile app](https://docs.like.co/user-guide/liker-land/liker-land-mobile-app) to surf for articles, you can easily clap and support the creators. A content can be clapped by a Liker 1–5 times to reflect the degree of appreciation. Each clap represents a vote for the content, helping the creator receive part of the Creators Pool allocated for that day. If you are a Civic Liker, the creator will receive LikeCoin right away. If you are an ordinary Liker, creater will receive his/her daily Creators Fund's distribution on next day afternoon.
 
-此外，作者每月會收到來自 Liker Land 的每月報告，了解當月已獲得的 LikeCoin 數量。
+Furthermore, creators receive Liker Land monthly reports from the Foundation in order to understand their achievement.
 
-讀者也可以直接以 [LIKE Pay](https://docs.like.co/v/zh/user-guide/liker-land/like-pay) 送贈 LikeCoin 支持作者。
+Reader can also send LikeCoin to creator directly via LIKE Pay.
 
