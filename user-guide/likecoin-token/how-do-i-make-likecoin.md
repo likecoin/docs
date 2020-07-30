@@ -1,3 +1,7 @@
+---
+description: 除了創作，有更多方法獲取 LikeCoin
+---
+
 # 獲得 LikeCoin
 
 ## 創作內容

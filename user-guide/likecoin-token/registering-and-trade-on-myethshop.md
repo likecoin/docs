@@ -1,3 +1,7 @@
+---
+description: 如何註冊 MyEthShop 找換店帳號及進行交易
+---
+
 # 註冊及在 MyEthShop 交易
 
 在  MyEthShop 買賣 LikeCoin 手續簡易，交易費用全免，網站界面友善，桌面及手機都通用。
