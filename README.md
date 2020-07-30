@@ -14,7 +14,9 @@ As of Jan 2020, [Republic of Liker Land](https://like.co/in/getapp) has **1000+*
 
 Real-time statistics:[ ![Number of Liker](https://static.like.co/badge/stats/liker.svg)](https://like.co/) [![Number of creator](https://static.like.co/badge/stats/creator.svg)](https://like.co/) [![Number of content](https://static.like.co/badge/stats/content.svg)](https://like.co/) [![Number of LIKE given](https://static.like.co/badge/stats/LIKE.svg)](https://like.co/)
 
-Some media empowered by LikeCoin include [Matters](https://matters.news/), [Standnews](https://www.thestandnews.com/), [InMedia](https://www.inmediahk.net/), [HKCNews](https://www.hkcnews.com/) and other 700+ websites. LikeCoin can also be used on [WordPress](https://wordpress.org/plugins/likecoin/), [Medium](https://medium.com), [Vocus](https://vocus.cc), [blogspot](https://www.blogspot.com), and other content platforms. 
+[Republic of Liker Land open statistics \(Since 2020\)](https://datastudio.google.com/u/0/reporting/e6168171-b61d-4871-b39f-7b6308f2facc/page/qgR).
+
+Some media empowered by LikeCoin include [Matters](https://matters.news/), [Standnews](https://www.thestandnews.com/), [InMedia](https://www.inmediahk.net/), [HKCNews](https://www.hkcnews.com/) and other 700+ websites. LikeCoin can also be used on [WordPress](https://wordpress.org/plugins/likecoin/), [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot \( Blogger.com \)](https://www.blogger.com/dashboard/reading), and other content platforms. 
 
 Creators and readers may use [Liker Land](https://like.co/in/getapp) as a convenient reader and gateway to interact with the decentralized ecosystem. 
 
