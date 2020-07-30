@@ -22,7 +22,7 @@ You can fill in the Liker ID or wallet address into the \[Enter receiver address
 
 ### **Step 4**
 
-Liker Land mobile app will open your phone camera, scan the Likecoin receiver's QR Code, and click the \[Next\] button.
+Liker Land mobile app will open your phone camera, scan the LikeCoin receiver's QR Code, and click the \[Next\] button.
 
 ![](../../.gitbook/assets/img_2158.png)
 
