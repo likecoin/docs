@@ -145,7 +145,7 @@ The proposal would be implemented if it is passed. It happens when:
 
 In case quorum is not reached or the proposal is vetoed, the 1 mil _LikeCoin_ deposit goes to the **Community Pool**. In other cases, the deposit will be returned to the _Likers._
 
-![](https://miro.medium.com/max/4502/1*xh5JT3YCzaqp5djRiWXfqg.png)
+![](.gitbook/assets/validator.png)
 
 ## Future Development <a id="b575"></a>
 
@@ -153,12 +153,5 @@ With the Genesis of _Liker Land_, _LikeCoin_ ecosystem __is entering a whole new
 
 As a result, the design and governance of the Republic will no longer be solely in the hands of core development team, who will nonetheless continue to dedicate their time and effort to _LikeCoin._ From now on, _Liker Land_ will be collectively owned and governed by her stakeholders, all _Likers_.
 
-Despite all the exciting development, it is just the Genesis.  
-
-
-
-
-
-
-### 
+Despite all the exciting development, it is just the Genesis.
 
