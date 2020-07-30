@@ -24,12 +24,9 @@ You can fill in the Liker ID or wallet address into the \[Enter receiver address
 
 Liker Land mobile app will open your phone camera, scan the Likecoin receiver's QR Code, and click the \[Next\] button.
 
-### 
-
 ![](../../.gitbook/assets/img_2158.png)
 
 ### **Step 5**
 
-Input the LikeCoin amount that you have to transfer, click \[Next\] and then click \[Confirm\].  
-
+Input the LikeCoin amount that you have to transfer, click \[Next\] and then click \[Confirm\].
 
