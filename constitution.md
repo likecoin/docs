@@ -8,7 +8,7 @@ description: The Constitution of Republic of Liker Land
 
 ### The new generation of LikeCoin with high-speed, low-cost and liquid democracy
 
-Originally posted on [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6?source=collection_home---4------0-----------------------) on Nov 7 · 9 min read
+Originally posted on [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6?source=collection_home---4------0-----------------------) on Nov 7, 2019 · 9 min read
 
 
 
