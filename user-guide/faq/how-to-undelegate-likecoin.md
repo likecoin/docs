@@ -1,3 +1,7 @@
+---
+description: 領回已委託的 LikeCoin，留意 21 天冷卻期
+---
+
 # 如何取消委託，領回 LikeCoin?
 
 ### 從驗證人處領回 LikeCoin
