@@ -20,5 +20,5 @@ description: 把讚賞贈給自己最愛的內容
 
 ![](../../.gitbook/assets/img_0816.jpg)
 
-此外你亦可以點擊畫面右下角的帳戶頭像，再選 \[Website Sign-in\] 預先登入平日常到的網站，瀏覽時就更方便了。
+此外你亦可以在 Liker Land 手機應用程式點擊畫面右下角的帳戶頭像，再選 \[Website Sign-in\] 預先登入平日常到的網站，瀏覽時就更方便了。
 
