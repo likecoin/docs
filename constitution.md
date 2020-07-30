@@ -14,7 +14,7 @@ Originally posted on [Medium](https://medium.com/likecoin/genesis-republic-of-li
 
 By the time this is published, Genesis block of LikeCoin chain has been produced. If that is not your language, try understand it this way: Republic of Liker Land was established on the cyberspace.
 
-This article introduces the elements and the mechanism of Liker Land, using as little technical jargon as possible. Developers are encouraged to check out our technical documentations or, better yet, our source codes which are open on [github](https://github.com/likecoin).
+This article introduces the elements and the mechanism of Liker Land, using as little technical jargon as possible. Developers are encouraged to check out our technical documentations or, better yet, our source codes which are open on [GitHub](https://github.com/likecoin).
 
 ## Basic concepts <a id="448e"></a>
 
@@ -34,7 +34,7 @@ A _Liker_ who joins the USD5 monthly subscription service. _Civic Liker_ is esse
 
 ### Liker Land app <a id="2696"></a>
 
-Reader, passport and wallet all integrated in one single app. [_Liker Land_](https://liker.land/) mobile app is essentially government of the Republic on your palm.
+Reader, passport and wallet all integrated in one single app. [_Liker Land_ mobile app](https://like.co/in/getapp) is essentially government of the Republic on your palm.
 
 Some tech lovers prefer lower level tools such as command line interface and hardware wallet. It requires significant technical know-how and is beyond the scope of this article.
 
