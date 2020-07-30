@@ -8,31 +8,19 @@ description: >-
 
 ![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
-Available on App Store and Google Play, [Download Now](https://like.co/in/getapp)!
+Liker Land mobile app is the comprehensive tool for citizens to engage into the activities of the Republic of Liker Land.
 
-Feb 11, 2020 Version 0.15.0 New Features
+### Reader
 
-* Support bookmarks from LIker Land browser extension
-* Improve scrolling experience
-* Update UI
+The Reader helps you to follow new articles from your favourite writers: When you press the LikeCoin button, you may have to login websites again and again which hinder user experiences. Liker Land solved this problem, login once and for all.
 
+### Crypto wallet
 
+Liker Land also provides a LikeCoin crypto wallet, plug-n-pay, easy-to-use. Transferring LikeCoin to others is easy peasy.
 
-Personalized reader
+### ID Card
 
-* Content reader included oice and other 700 websites
-* Like and follow the reader you like
+In the Republic of Liker Land, each of you who have LikeCoin in your wallet is a stakeholder. You can delegate LikeCoin to a validator that you trust and represent you to vote on proposals regarding community development. you can also earn rewards from the delegated LikeCoin.
 
-Rewarding system
-
-* User can reward the creator of content by clicking like button
-
-There's also an oice Backer subscription which unlocks all contents from 700 websites, early access to new features and more. Liker Land does not sell your data. Not now, not ever.
-
-* Payments will be charged to your iTunes account at confirmation of purchase
-* Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
-* Your subscription will automatically renew, unless you have turned off auto-renewal at least 24 hours before the end of the current period
-* When your subscription auto-renews, the same iTunes account as the initial purchase will be charged the same amount as the initial purchase
-* After cancelling your subscription, your subscription will remain active until the end of the purchased period
-* Terms of Use: [https://liker.land/eula](https://liker.land/eula)
+### \[Available on App Store and Google Play, [Download Now](https://like.co/in/getapp)!\]
 
