@@ -10,7 +10,7 @@ description: 讚賞公民共和國或簡稱 Liker Land ，是一個由作者及�
 
 {% page-ref page="discovering-contents.md" %}
 
-{% page-ref page="reading.md" %}
+{% page-ref page="reading-and-rewarding.md" %}
 
 {% page-ref page="like-pay.md" %}
 
