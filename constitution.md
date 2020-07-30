@@ -8,7 +8,7 @@ description: 讚賞公民共和國憲法
 
 ### 全新 LikeCoin 邁向高速、低成本及流動民主新世代
 
-原文於11月7日刊載於 [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)
+原文於2019年11月7日刊載於 [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)
 
 
 
