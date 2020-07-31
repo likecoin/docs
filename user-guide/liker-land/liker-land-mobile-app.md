@@ -12,7 +12,7 @@ Liker Land mobile app is the comprehensive tool for citizens to engage into the 
 
 ### Reader
 
-The Reader helps you to follow new articles from your favourite writers: When you press the LikeCoin button, you may have to login websites again and again which hinder user experiences. Liker Land solved this problem, login once and for all.
+The Reader helps you to follow new articles from your favourite writers: When you clap the LikeCoin button, you may have to login websites again and again which hinder user experiences. Liker Land solved this problem, login once and for all.
 
 ### Crypto wallet
 
