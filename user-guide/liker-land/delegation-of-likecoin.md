@@ -1,5 +1,7 @@
 ---
-description: 存著的 LikeCoin 沒用嗎？不妨考慮委托 (delegate) 給驗證人，躺著也能賺取回報。
+description: >-
+  Saving all the LikeCoin and don't know what to do with it? Consider to
+  delegate them to a validator and earn rewards
 ---
 
 # Delegation of LikeCoin
