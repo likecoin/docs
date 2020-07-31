@@ -72,7 +72,6 @@
   * [Jekyll](user-guide/likecoin-button/jekyll.md)
   * [mdBook](user-guide/likecoin-button/mdbook.md)
   * [SDK](user-guide/likecoin-button/sdk.md)
-* [LikeCoin plugin](user-guide/likecoin-plugin.md)
 * [Migrating from ERC-20](user-guide/migration/README.md)
   * [Assisted Migration](user-guide/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
   * [升級 LikeCoin 時的常見問題](user-guide/migration/migration-faq.md)
