@@ -38,18 +38,11 @@ Click \[Confirm\], after a few seconds the screen displays "Transaction Complete
 
 ![](../../.gitbook/assets/img_2089.png)
 
-### 步驟三：躺著賺回報吧！
+### **Step 3: Relax and earn rewards!**
 
-回到錢包的頁面，你可以下拉刷新錢包的狀態。
+Going back to the wallet page, you can drag down the screen and refresh the wallet status.
 
-回饋金額會 5 至 6 秒派發一次 - 什麼？跟銀行的每月派息快太多了吧！你可在錢包的 「未領取收益」 / \[Rewards\] \[Delegating Rewards\] 欄查看累積的回饋金額，或按「領取收益」 / \[Withdraw Rewards\] 把回報存進錢包，留意最低l收益存進數量為 1 LikeCoin，少於 1 LikeCoin 的收益將不能存進錢包。  
-已委托的驗證人，會在下方列表中顯示為綠色。
+The LikeCoin rewards earned from delegation will be released per 5 or 6 seconds. quicker than monthly interest from the bank! You can check out the \[Delegating Rewards\] amount from the validator page, or click \[Withdraw Rewards\] to save the rewards back to your wallet. The minimum withdrawal amount is 1 LikeCoin.
 
-### 了解更多有關「委托」的原理
-
-委托的功能，是讚賞公民共和國「流動民主」機制的重要一環。想知道更多有關概念，請閱讀以下文章：
-
-> [身為一個鏈上公民，感受質押世界的魅力！- 以 LikeCoin 為例](https://matters.news/@dablog/%E8%BA%AB%E7%82%BA%E4%B8%80%E5%80%8B%E9%8F%88%E4%B8%8A%E5%85%AC%E6%B0%91-%E6%84%9F%E5%8F%97%E8%B3%AA%E6%8A%BC%E4%B8%96%E7%95%8C%E7%9A%84%E9%AD%85%E5%8A%9B-%E4%BB%A5-like-coin-%E7%82%BA%E4%BE%8B-zdpuB1ePtb7TNzYpbfkdhNmf8REKkQxNX5MgRRir1BG6pWVts)
-
-> [LikeCoin 新手的委託質押筆記](https://matters.news/@huanlin/like-coin-%E6%96%B0%E6%89%8B%E7%9A%84%E5%A7%94%E8%A8%97%E8%B3%AA%E6%8A%BC%E7%AD%86%E8%A8%98-bafyreifhicuom74neq4sojpkta6thdsia3y4zf7dmolgajvgph4c3usx5u)
+Validator with your delegation will be displayed as green.
 
