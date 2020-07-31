@@ -48,7 +48,3 @@ Once a Liker ID has been created, it cannot be changed.  We suggest you to keep 
 What is Authcore?
 {% endhint %}
 
-{% page-ref page="../liker-land/" %}
-
-
-
