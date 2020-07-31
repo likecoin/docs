@@ -1,5 +1,5 @@
 ---
-description: pending
+description: 'Blinding different social logins, increase the security of your Liker ID'
 ---
 
 # Securing my Liker ID
