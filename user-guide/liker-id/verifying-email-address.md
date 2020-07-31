@@ -4,17 +4,17 @@ description: 'Blinding different social logins, increase the security of your Li
 
 # Securing my Liker ID
 
-## 雙重認證 \( 2FA \) <a id="shuang-zhong-ren-zheng-2fa"></a>
+## 2-step Verification \(2FA\) <a id="shuang-zhong-ren-zheng-2fa"></a>
 
-設定雙重認證後，新裝置登入時會要求填上認證碼產生器生成的 6 位數字認證碼。
+After setting up 2FA, a 6 digital passcode is required to login from a new device.
 
-以下步驟須在桌面電腦上操作，也需要備妥一部你常用的手機。設定步驟如下：
+The following steps have to be operated on desktop computer, and a smart phone is required:
 
-### 步驟一：進入安全設定 <a id="bu-zhou-yi-jin-ru-an-quan-she-ding"></a>
+### Step 1: Go to security settings
 
-1. 登入 [Liker Land](https://liker.land/)，並前往 [https://like.co/in/settings](https://like.co/in/settings)​
-2. 在頁面中部的「Authcore 設定」中選擇「安全設定」分頁
-3. 點擊「雙重認證」
+1. Login [Liker Land](https://liker.land/) and go to [https://like.co/in/settings](https://like.co/in/settings)
+2. Select "Security settings" on "AuthCore Settings"
+3. Click "2-step verification \(2FA\)
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M05A4qEiPeAofxuE6l4%2F-M05BOU8tEtEom0SktnS%2FIMG_2343.jpg?alt=media&token=08e905c6-d85a-4488-ab31-aca38d2b483a)
 
