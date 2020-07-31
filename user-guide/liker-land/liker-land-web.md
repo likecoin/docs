@@ -18,26 +18,25 @@ You can pay and become a [Civic Liker](https://liker.land/civic), check out the 
 
 ### **Option 2: I'm a Creator too**
 
-Click and learn more about how to [embed LikeCoin button](https://liker.land/creators) to a website.  
+Click and learn more about how to [embed LikeCoin button](https://liker.land/creators) to a website.
 
+### **Option 3: Settings**
 
-### 選項三：設定 <a id="xuan-xiang-san-she-ding"></a>
+5 preferences can be set up:
 
-設作者可設定以下四項：
-
-* 介面語言：留意這只是指網頁版介面的語言，不影響手機應用程式的介面（手機應用程式會參考手機的系統設定）。
-* Liker ID 設定：會重新導向至 [like.co](https://like.co/in/settings) 的設定頁面。用戶可設定 Liker ID 的頭像，社交帳戶登入方法等資料。[詳情請看這篇](https://docs.like.co/v/zh/user-guide/liker-id)。
-* 讚賞公民訂閱 / 退訂
-* 創作者狀態：已註冊 / 未註冊
-* 追縱設定：用戶預設追縱曾按過讚的作者，可在這裡取消追縱（下圖）。
+* Language: This is talking about the Liker Land web language preference and will not alter your Liker Land mobile app setting \(You may refer to the mobile app setup\)
+* Liker ID: Redirect to [Like.co](https://like.co/in/settings) setting page. User can set up his/her Liker ID avatar, social media logins, etc. Read [this](https://docs.like.co/user-guide/liker-id) for more details
+* Civic Liker Subscribing/Unscribe status
+* Creator: Registered/Not Registered
+* Follow/Unfollow: User follow all the creators that he/she clapped which is a default setting. Unfollow the creator if required \(indicated below\) 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJjdmH4gPPkYdgO50G%2F-MDJkPBw6RHX_U_1I0SD%2FLiker%20Land%20Web%203.png?alt=media&token=3b20df76-f0b3-46c9-9828-b20ed3286467)
 
-### 選項四：幫助 <a id="xuan-xiang-si-bang-zhu"></a>
+### **Option 4: Support**
 
-會重新導向至 LikeCoiin 的[常見問題頁面](https://docs.like.co/v/zh/)。在那裡可查閱常見問題文章，或點擊右下角的藍色圓形圖示聯繫客服留言對話。
+Redirect to [LikeCoin Help Center](https://docs.like.co/). Check out the FAQ, or click on the blue bubble on the lower right hand corner to contact our help desk.
 
-### 選項五：登出 <a id="xuan-xiang-wu-deng-chu"></a>
+### **Option 5: Logout**
 
-在此登出 Liker Land。假若你想使用另一帳號登入，必須先於 Liker Land 網站登出才行，否則下次登入時仍會自動登入上次登入的帳戶。
+Click and logout Liker Land. If you want to login with another Liker ID, you have to log out completely from Liker Land web, otherwise you will be bounced back to the previous Liker ID during your next login attempt.
 
