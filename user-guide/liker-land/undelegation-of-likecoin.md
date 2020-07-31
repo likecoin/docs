@@ -9,7 +9,7 @@ description: 'Withdraw the LikeCoin that you delegated, beware of the 21 days co
 If you delegated LikeCoin to a validator but you want to get them back, you can utilize the \[Undelegate\] function of Liker Land mobile app. Please follow the steps:
 
 1.  In the LikeCoin wallet page, click on the validator that you delegated \(displayed as green\)
-2. Go to the validation page, click \[Undelegate\]
+2. Go to the validatior page, click \[Undelegate\]
 3. Input the number of LikeCoin that you have to withdraw, click \[Confirm\]
 
 ![](../../.gitbook/assets/img_2328.jpg)
