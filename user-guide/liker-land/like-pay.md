@@ -10,7 +10,7 @@ Download [Liker Land mobile app](https://like.co/in/getapp), we do not support t
 
 ### Step 2
 
-Open the mobile app, click on the avator at the lower right hand corner, then click on the LikeCoin amount that you have on top. You can manage your wallet now. Then, Click the \[Send\] button.
+Open the mobile app, click on the avatar at the lower right hand corner, then click on the LikeCoin amount that you have on top. You can manage your wallet now. Then, Click the \[Send\] button.
 
 ![](../../.gitbook/assets/img_2154.jpg)
 
