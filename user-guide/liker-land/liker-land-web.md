@@ -12,13 +12,14 @@ Click on the menu at the top right hand corner, there are other options.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJjdmH4gPPkYdgO50G%2F-MDJkMQN_N9l6TOGbQY9%2FLiker%20Land%20Web%202.png?alt=media&token=26a63b5c-8744-4046-ac1d-e1322809a268)
 
-### 選項一：讚賞公民 <a id="xuan-xiang-yi-zan-shang-gong-min"></a>
+### **Option 1: Civic Liker**
 
-用戶可付費[申請成為讚賞公民](https://liker.land/civic)，查看訂閱狀態及退訂。[按此查看](https://docs.like.co/v/zh/user-guide/civic-liker)有關讚賞公民的詳細資訊。
+You can pay and become a [Civic Liker](https://liker.land/civic), check out the subscription status and unsubscribe. Click [here](https://docs.like.co/user-guide/civic-liker) to learn more about Civic Liker.
 
-### 選項二：創作者加盟 <a id="xuan-xiang-er-chuang-zuo-zhe-jia-meng"></a>
+### **Option 2: I'm a Creator too**
 
-點擊這裡會被導到 Liker Land 的[相關頁面](https://liker.land/creators)，介紹如何在網站上生成作者的讚賞鍵。
+Click and learn more about how to [embed LikeCoin button](https://liker.land/creators) to a website.  
+
 
 ### 選項三：設定 <a id="xuan-xiang-san-she-ding"></a>
 
