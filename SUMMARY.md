@@ -34,7 +34,7 @@
   * [Delegation of LikeCoin](user-guide/liker-land/delegation-of-likecoin.md)
   * [Undelegation of LikeCoin](user-guide/liker-land/undelegation-of-likecoin.md)
   * [Redelegation of LikeCoin](user-guide/liker-land/redelegation-of-likecoin.md)
-* [List of Media](user-guide/list-of-media.md)
+  * [List of Media](user-guide/liker-land/list-of-media.md)
 * [Liker ID](user-guide/liker-id/README.md)
   * [Register a Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
   * [Securing my Liker ID](user-guide/liker-id/verifying-email-address.md)
