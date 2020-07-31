@@ -1,5 +1,5 @@
 ---
-description: 'Citizen of The Republic of Liker Land, each of them have a unique Liker ID'
+description: 'Citizens of The Republic of Liker Land, each of them have a unique Liker ID'
 ---
 
 # Register a Liker ID
