@@ -1,12 +1,12 @@
 ---
-description: Clap for your hero content on Desktop computer
+description: Clap for your hero content on desktop computer
 ---
 
 # Liker Land web
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJjdmH4gPPkYdgO50G%2F-MDJkJVTIRInATRDjMh_%2FLiker%20Land%20Web%201.png?alt=media&token=6ed3d2b6-fe63-4a88-a796-f87d157c340d)
 
-雖然 Liker Land 手機應用程式能提供最好的按讚體驗，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land/)，[發現、追縱內容和設定書籤](https://docs.like.co/v/zh/user-guide/liker-land/discovering-contents)。
+Although Liker Land mobile app provide the "content clapping experiences" that best suit your needs, [Liker Land web also bring the same convenience for discovering, following and bookmarking content](https://liker.land/). 
 
 另，點擊右上角的菜單，會彈出其他選項。
 
