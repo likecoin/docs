@@ -6,7 +6,7 @@ description: >-
 
 # Delegation of LikeCoin
 
-委托的意思是把 LikeCoin 委托給一個或多個[驗證人 \( Validator \)](https://docs.like.co/v/zh/constitution#9d28)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。委託機制是讚賞公民共和國[流動民主](https://docs.like.co/v/zh/user-guide/likecoin-chain/liquid-democracy)自治機制的一環。
+Delegation means delegating LikeCoin to one or more [validators](https://docs.like.co/constitution#9d28), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Delegation demonstrates [liquid democracy](https://docs.like.co/user-guide/likecoin-chain/liquid-democracy) which is vital to autonomy for The Republic of Liker Land.
 
 ### 步驟一：選取驗證人
 
