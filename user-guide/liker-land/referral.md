@@ -24,7 +24,7 @@ description: >-
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJitG2-m4f6q1nTnx4%2F-MDJjcIuuRQxH5dyZ0jw%2Freferral.png?alt=media&token=2eeaf15c-9ab2-4ef8-a6f8-3a8a118c5425)
 
-Each user can be referred for once, but no limit on the number of friends you refer. Both referrer and referee have to complete SMS authentication.
+Each user can be referred for once, but no limit on the number of friends or readers you refer. Both referrer and referee have to complete SMS authentication.
 
 ### Copy the referral link within the Liker Land mobile app
 

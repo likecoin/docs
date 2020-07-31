@@ -8,7 +8,7 @@ description: Clap for your hero content on desktop computer
 
 Although Liker Land mobile app provide the "content clapping experiences" that best suit your needs, [Liker Land web also bring the same convenience for discovering, following and bookmarking content](https://liker.land/). 
 
-另，點擊右上角的菜單，會彈出其他選項。
+Click on the menu at the top right hand corner, there are other options.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJjdmH4gPPkYdgO50G%2F-MDJkMQN_N9l6TOGbQY9%2FLiker%20Land%20Web%202.png?alt=media&token=26a63b5c-8744-4046-ac1d-e1322809a268)
 
