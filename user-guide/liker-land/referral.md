@@ -4,7 +4,7 @@ description: >-
   bonus, no ceiling
 ---
 
-# Referral
+# Referral Bonus
 
 ### Advantage of referring your friend to download Liker Land
 

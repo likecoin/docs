@@ -28,7 +28,7 @@
   * [Reading and Rewarding](user-guide/liker-land/reading-and-rewarding.md)
   * [LIKE pay](user-guide/liker-land/like-pay.md)
   * [Rewards](user-guide/liker-land/rewards.md)
-  * [Referral](user-guide/liker-land/referral.md)
+  * [Referral Bonus](user-guide/liker-land/referral.md)
   * [Liker Land web](user-guide/liker-land/liker-land-web.md)
   * [Chrome/Firefox extension](user-guide/liker-land/liker-land-browser-extension.md)
   * [Delegation of LikeCoin](user-guide/liker-land/delegation-of-likecoin.md)
