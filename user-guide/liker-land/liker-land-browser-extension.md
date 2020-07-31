@@ -10,7 +10,7 @@ Liker Land Chrome / Firefox Extension for bookmarking any web page to your Liker
 
 [Firefox Version](https://addons.mozilla.org/en-US/firefox/addon/liker-land/?src=search)
 
-Liker Land is a new generation of content reader in which
+Liker Land is a new generation of content reader in which:
 
 * users are in full control of  their feed
 * every Like is an actual reward to creators
