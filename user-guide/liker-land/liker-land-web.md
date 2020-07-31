@@ -24,7 +24,7 @@ Click and learn more about how to [embed LikeCoin button](https://liker.land/cre
 
 5 preferences can be set up:
 
-* Language: This is talking about the Liker Land web language preference and will not alter your Liker Land mobile app setting \(You may refer to the mobile app setup\)
+* Language: This is talking about the Liker Land web language preference and is not going to alter your Liker Land mobile app setting \(You may refer to the mobile app setup\)
 * Liker ID: Redirect to [Like.co](https://like.co/in/settings) setting page. User can set up his/her Liker ID avatar, social media logins, etc. Read [this](https://docs.like.co/user-guide/liker-id) for more details
 * Civic Liker Subscribing/Unscribe status
 * Creator: Registered/Not Registered
