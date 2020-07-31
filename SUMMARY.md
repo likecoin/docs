@@ -25,7 +25,7 @@
 * [Liker Land](user-guide/liker-land/README.md)
   * [Liker Land mobile app](user-guide/liker-land/liker-land-mobile-app.md)
   * [Content Discovery](user-guide/liker-land/discovering-contents.md)
-  * [Reading and Rewarding](user-guide/liker-land/bookmarking-and-reading.md)
+  * [Reading and Rewarding](user-guide/liker-land/reading-and-rewarding.md)
   * [LIKE pay](user-guide/liker-land/like-pay.md)
   * [Rewards](user-guide/liker-land/rewards.md)
   * [Referral](user-guide/liker-land/referral.md)
