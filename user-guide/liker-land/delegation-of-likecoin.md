@@ -6,7 +6,7 @@ description: >-
 
 # Delegation of LikeCoin
 
-Delegation means delegating LikeCoin to one or more [validators](https://docs.like.co/constitution#9d28), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Delegation demonstrates [liquid democracy](https://docs.like.co/user-guide/likecoin-chain/liquid-democracy) which is vital to autonomy for The Republic of Liker Land.
+Delegation means delegating LikeCoin to one or more [validators](https://docs.like.co/constitution#9d28), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Delegation demonstrates [liquid democracy](https://docs.like.co/user-guide/likecoin-chain/liquid-democracy) and is vital to the autonomy for The Republic of Liker Land.
 
 ### 步驟一：選取驗證人
 
