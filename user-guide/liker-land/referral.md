@@ -17,8 +17,11 @@ description: >-
 ### How to refer-a-friend?
 
 1. Give your referral link to your friends and readers, invite them to click the link and download [Liker Land mobile app   ](https://like.co/in/getapp)
-2. Your referral link format is: https://likerland.app.link/?event=app\_referral&referrer=\[Your Liker ID\]. For example your Liker ID is donaldtrump, the referral link is  https://likerland.app.link/?event=app\_referral&referrer=donaldtrump
-3. After your friend or reader download Liker Land, if they are being asked about the referrer, tell them to fill in your Liker ID
+2. Your referral link format is: https://likerland.app.link/?event=app\_referral&referrer=\[Your Liker ID\]. For example your Liker ID is ckxpress, the referral link is  https://likerland.app.link/?event=app\_referral&referrer=ckxpress
+3. When your friends or readers downloading Liker Land, if they are being asked by the app,
+
+    about the referrer  tell them to fill in your Liker ID
+
 4. They also have to visit [https://like.co/in/settings](https://like.co/in/settings/) to complete a SMS authentication, go to Authcore Settings → Contact → Manage your contact → Phone
 5. After completing SMS authentication, reopen Liker Land again, the bonus will be send to Liker Land wallets for both of you after a few days, with email notification too.
 
