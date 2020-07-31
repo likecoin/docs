@@ -22,7 +22,7 @@ description: 在桌面電腦上也可隨時為喜愛的內容按讚
 
 ### 選項三：設定
 
-設作者可設定以下四項：
+可設定以下五項系統偏好：
 
 * 介面語言：留意這只是指網頁版介面的語言，不影響手機應用程式的介面（手機應用程式會參考手機的系統設定）。
 * Liker ID 設定：會重新導向至 [like.co](https://like.co/in/settings) 的設定頁面。用戶可設定 Liker ID 的頭像，社交帳戶登入方法等資料。[詳情請看這篇](https://docs.like.co/v/zh/user-guide/liker-id)。
