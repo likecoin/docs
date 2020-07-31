@@ -10,7 +10,7 @@ Delegation means delegating LikeCoin to one or more [validators](https://docs.li
 
 ### Step 1: Select a validator
 
-Open the Liker Land mobile app, click on the avatar at the lower right hand corner, then click the amount of LikeCoin to enter the wallet page. In this page you can check the LikeCoin amount that you have, underneath there is a list of validators. To start with, there are seven organizations/corporations/groups as validators for The Republic of Liker Land. You can select one of them as you like.
+Open the Liker Land mobile app, click on the avatar at the lower right hand corner, then click the amount of LikeCoin to enter into the wallet page. In this page you can check the LikeCoin amount that you have, there is a list of validators underneath. To start with, there are seven organizations/corporations/groups as validators for The Republic of Liker Land. You can select one of them as you like.
 
 
 
@@ -18,14 +18,17 @@ Open the Liker Land mobile app, click on the avatar at the lower right hand corn
 
 ![Click the amount of LikeCoin to enter the wallet](../../.gitbook/assets/delegate.png)
 
-點選了其中一個驗證人後，顯示以下頁面，列出回報年率 \( Rewards \)，投票權佔比 \( Voting Power \)，已被委托的 LikeCoin \( Liker Share \) 等資料。  
-點擊「委託」 / \[Delegate\] 進入下一頁。
+Select one of the validators and bring up the page below, list out percentage of Rewards, Voting Power and how much LikeCoin was delegated to this validator \(Liker Share\).
+
+Click \[Delegate\] and go to the next page.  
+
 
 ![](../../.gitbook/assets/img_2327.jpg)
 
-### 步驟二：輸入委托金額
+### **Step 2: Input the amount of LikeCoin to delegate**
 
-點擊「委託」 / \[Delegate\] 按鍵後出現以下畫面。輸入你想委托給驗證人的金額，點擊 \[Next\]。
+Click \[Delegate\] will bring up the following page, input the number of LikeCoin that you would like to delegate to the validator, then click \[Next\]  
+
 
 ![](../../.gitbook/assets/img_2087.png)
 
