@@ -10,7 +10,7 @@ Click on the avatar at the lower right hand corner of the Liker Land mobile app,
 
 Click on the \[Rewarded\] column for statistics, bar chart on the top indicated rewards for this week and the numbers of claps accumulated from Civic Liker and ordinary Liker. Swap below shows the reward details of each articles.
 
-You can swap the bar chart to left and right to check statistics of previous weeks.
+You can swap the bar chart to left and right and check statistics of previous weeks.
 
 ![Statistics of a week](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M7_Gq-kkgSt-axtaE7_%2F-M7_KN-PUfRLLaLQmlXL%2FIMG_0669.PNG?alt=media&token=752affc8-1590-48f5-b3e1-1a1028964baa)
 
