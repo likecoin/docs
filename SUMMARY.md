@@ -37,6 +37,7 @@
   * [List of Media](user-guide/liker-land/list-of-media.md)
 * [Liker ID](user-guide/liker-id/README.md)
   * [Register a Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
+  * [Edit Avatar and Name](user-guide/liker-id/edit-avatar-displayname.md)
   * [Securing my Liker ID](user-guide/liker-id/verifying-email-address.md)
   * [Connecting to my social profile](user-guide/liker-id/how-to-customise-the-avator-photo-display-name-and-social-media-links.md)
   * [Resetting password](user-guide/liker-id/resetting-password.md)
