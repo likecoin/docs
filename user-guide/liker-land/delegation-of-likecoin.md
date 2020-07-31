@@ -32,9 +32,9 @@ Click \[Delegate\] to bring up the following page, input the number of LikeCoin 
 
 ![](../../.gitbook/assets/img_2087.png)
 
-跳至確認畫面，顯示出驗證人的委托戶口地址，按 \[Details\] 還可以核查委托款項及有沒有收取交易費用（目前所有委托動作均沒有費用）。
+The confirmation page is displayed, showing the validator's wallet address, click \[Details\] to reconfirm the delegate amount and handling fee \(currently there are no handling for all delegating actions\).
 
-點擊「確應」 / \[Confirm\]，稍待幾秒，畫面上方會出現 "Transaction Completed" 字樣，代表已完成委托。
+Click \[Confirm\], after a few seconds the screen displays "Transaction Completed", which means delegation of LikeCoin is completed.
 
 ![](../../.gitbook/assets/img_2089.png)
 
