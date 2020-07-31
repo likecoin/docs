@@ -8,14 +8,15 @@ description: >-
 
 Delegation means delegating LikeCoin to one or more [validators](https://docs.like.co/constitution#9d28), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Delegation demonstrates [liquid democracy](https://docs.like.co/user-guide/likecoin-chain/liquid-democracy) and is vital to the autonomy for The Republic of Liker Land.
 
-### 步驟一：選取驗證人
+### Step 1: Select a validator
 
-於 Liker Land 手機應用程式的右下方點擊自己的頭像，再點 LikeCoin 的餘額進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人。《讚賞公民共和國》立國之初共有七個機構 /公司 /組織擔當驗證人的角色，你可以按你喜歡選其中一個。  
-注意每個驗證人提供的回饋年回報率可能略有不同。
+Open the Liker Land mobile app, click on the avatar at the lower right hand corner, then click the amount of LikeCoin to enter the wallet page. In this page you can check the LikeCoin amount that you have, underneath there is a list of validators. To start with, there are seven organizations/corporations/groups as validators for The Republic of Liker Land. You can select one of them as you like.
 
-![&#x9EDE;&#x64CA;&#x53F3;&#x4E0B;&#x89D2;&#x81EA;&#x5DF1;&#x7684;&#x982D;&#x50CF;](../../.gitbook/assets/img_2324.jpg)
 
-![ &#x9EDE;&#x64CA; LikeCoin &#x91D1;&#x984D;&#x9032;&#x5165;&#x9322;&#x5305;&#x4ECB;&#x9762;](../../.gitbook/assets/delegate.png)
+
+![Click on the avatar at the lower right hand corner](../../.gitbook/assets/img_2324.jpg)
+
+![Click the amount of LikeCoin to enter the wallet](../../.gitbook/assets/delegate.png)
 
 點選了其中一個驗證人後，顯示以下頁面，列出回報年率 \( Rewards \)，投票權佔比 \( Voting Power \)，已被委托的 LikeCoin \( Liker Share \) 等資料。  
 點擊「委託」 / \[Delegate\] 進入下一頁。
