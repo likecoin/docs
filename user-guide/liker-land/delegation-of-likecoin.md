@@ -27,7 +27,7 @@ Click \[Delegate\] and go to the next page.
 
 ### **Step 2: Input the amount of LikeCoin to delegate**
 
-Click \[Delegate\] will bring up the following page, input the number of LikeCoin that you would like to delegate to the validator, then click \[Next\]  
+Click \[Delegate\] to bring up the following page, input the number of LikeCoin that you would like to delegate to the validator, then click \[Next\]  
 
 
 ![](../../.gitbook/assets/img_2087.png)
