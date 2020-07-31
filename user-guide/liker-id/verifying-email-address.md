@@ -20,7 +20,7 @@ description: 綁定多款登入方法，增強你 Liker ID 的安全性
 
 ### 步驟二：選取認證認用程式
 
-1. 點擊設立「雙重認證」鍵
+1. 點擊「設立雙重認證」鍵
 2. 這裡先介紹以 Google Authenticator 設定的流程。請在畫面下方選「使用其他方式」
 
 ![](../../.gitbook/assets/choose-2fa-method.png)
