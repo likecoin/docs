@@ -4,33 +4,35 @@ description: Transfer the delegated LikeCoin to another validator
 
 # Redelegation of LikeCoin
 
-Liker Land 手機應用程式提供「轉移委託」功能，讓用戶把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證人。轉移的 LikeCoin 金額在確認後即時轉帳，驗證人的投票權也會即時受影響。用戶已轉移的金額將按新驗證人提供的回報率獲取回報。
+Liker Land mobile app \[Redelegate\] function helps users to transfer the delegated LikeCoin from one validator to another. LikeCoin will be transferred immediately after confirmation, voting power of the validator is affected too. The newly delegated LikeCoin receives rewards according to the rewards percentage of the new validator.
 
-轉移委託的步驟如下：
+Steps for Redelegation:
 
-### 步驟一：選擇已委託的驗證人
+### **Step 1: Select the validator with delegation**
 
-先從驗證人列表中選取欲取消委託的驗證人，已委託的驗證人在列表上呈綠色。點擊後進入驗證人畫面，在上方選項中選「轉移委託」 / \[Redelegate\]。
+Click on the validator that you delegated \(displayed as green\) and select \[Redelegate\].
 
 ![](../../.gitbook/assets/img_2329.jpg)
 
-### 步驟二：選擇新的驗證人
+### Step 2: Select the new validator to delegate
 
-應用程式會彈出驗證人列表。請選取欲轉移 LikeCoin 至哪位驗證人。
+The app pops up a list of validators, select the validator to transfer your LikeCoin. 
 
 ![](../../.gitbook/assets/img_2330.jpg)
 
-### 步驟三：確認轉移
+### Step 3: Confirm redelegation
 
-應用程式彈出轉移的細節，查核無誤後，點擊「確認」 / \[Confirm\]，並等待轉移過程完成，一般只花幾秒。
+Details of redelegation are displayed, check them carefully, click \[Confirm\] and wait for the transfer to complete, it usually takes a few seconds.
 
 ![](../../.gitbook/assets/img_2331.PNG)
 
-### 留意冷卻期
+### **Beware of cooling-off period**
 
-被轉移的金額會有 21 天的冷卻期，期間不能被動用，請注意。
+The transferred LikeCoin got a 21 days cooling-off period, they cannot be used in any way. Please note.
 
 {% hint style="warning" %}
-留意：若你本來已有 LikeCoin 委託於新驗證人處，轉移完成後會連你原本已委託的 LikeCoin 一併被鎖定 21 天。請謹慎作出轉移委託的決定。
+Attention: If you already delegated some LikeCoin to your new validator, the newly transferred LikeCoin will freeze the total LikeCoin amount for 21 days. Please make your decision carefully.
 {% endhint %}
+
+![](../../.gitbook/assets/img_2332.jpg)
 
