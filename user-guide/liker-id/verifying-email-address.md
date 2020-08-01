@@ -1,5 +1,7 @@
 ---
-description: 'Blinding different social logins, increase the security of your Liker ID'
+description: >-
+  Set up 2FA and  confirm you email address, increase the security of your Liker
+  ID
 ---
 
 # Securing my Liker ID

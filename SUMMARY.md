@@ -39,7 +39,7 @@
   * [Register a Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
   * [Edit Avatar and Name](user-guide/liker-id/edit-avatar-displayname.md)
   * [Securing my Liker ID](user-guide/liker-id/verifying-email-address.md)
-  * [Connecting to my social profile](user-guide/liker-id/how-to-customise-the-avator-photo-display-name-and-social-media-links.md)
+  * [Connecting to my social profile](user-guide/liker-id/social-media-logins.md)
   * [Resetting password](user-guide/liker-id/resetting-password.md)
 * [Civic Liker](user-guide/civic-liker/README.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
