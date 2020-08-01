@@ -20,7 +20,7 @@ pending
 
 
 
-### Create contents
+## Create contents
 
 Creators embed LikeCoin button into their works and turn "Like" into actual income and earn LikeCoin.
 
@@ -38,13 +38,13 @@ e.g. There are 1,000 Civic Likers in May, they all subscribed with USD$5 and the
 
 ## Refer friends and family
 
-每成功推薦一位朋友成為讚賞公民，便立即可獲約 5 美元的等值 LikeCoin 奬勵。推薦 10 位，獲 50 美元；推薦 100 位，獲 500 美元。奬金會在數分鐘內轉賬到你的電子錢包。多推薦，多賺，無上限。
+Receive USD$5 equivalent LikeCoin bonus upon each successful Cvic Liker referral. Refer 10 fans for USD$50 bonus, refer 100 fans for USD$500 bonus. The bonus will be credited to your LikeCoin wallet in a few minutes.  More referrals, more bonus, no ceiling.
 
-**推薦鏈結**： https://liker.land/civic?from=​\[你的 Liker ID\]​
+**Referral Link**: https://liker.land/civic?from=​\[Your Liker ID\]​
 
-[推薦朋友下載 Liker Land](https://docs.like.co/v/zh/user-guide/liker-land/referral)，你和你推薦的朋友各得 100 LikeCoin 奬賞
+[Refer your friend to download Liker Land mobile app](https://docs.like.co/user-guide/liker-land/referral), both of you can earn 100 LikeCoin bonus
 
-**推薦鏈結**： https://likerland.app.link/?event=app\_referral&referrer=\[你的 Liker ID\]
+**Referral Link**: https://likerland.app.link/?event=app\_referral&referrer=\[Your Liker ID\]
 
 ## 賞金任務
 
