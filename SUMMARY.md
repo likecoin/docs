@@ -44,7 +44,7 @@
   * [Resetting password](user-guide/liker-id/resetting-password.md)
 * [Civic Liker](user-guide/civic-liker/README.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
-  * [如何以 PayMe 或 轉數快繳付《讚賞公民》年費](user-guide/civic-liker/payme.md)
+  * [How to pay Civic Liker yearly scubscription by PayME or FPS](user-guide/civic-liker/payme.md)
 * [LikeCoin token](user-guide/likecoin-token/README.md)
   * [Making LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
   * [Trading LikeCoin](user-guide/likecoin-token/how-to-buy-and-sell-likecoin.md)
