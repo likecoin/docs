@@ -10,16 +10,16 @@ Login [Liker Land](https://liker.land/) and go to [https://like.co/in/settings](
 
 ![](../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-1.png)
 
-「管理裝置」顯示您目前已登入 Liker ID 的裝置，你可點選某一裝置直接「登出」/ \[Log Out\]，也可點擊「從所有其他裝置登出」 / \[Log out all other devices\] 直接登出所有裝置。
+"Manage devices" shows all the devices currently logged in your Liker ID, you can click on one the device and click "Log Out", or click "Log out all other devices" to log out all devices.
 
 ![](../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-2.png)
 
 ![](../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-3.png)
 
 {% hint style="warning" %}
-為確保 Liker ID 安全，如果裝置符合下列任一情況，請登出帳戶：
+To help keep your Liker ID secure, sign out on devices that:
 
-* 您不再具備擁有權或遺失的裝置
-* 不屬於您的裝置
+* Are lost or you no longer own
+* Don't belong to you
 {% endhint %}
 
