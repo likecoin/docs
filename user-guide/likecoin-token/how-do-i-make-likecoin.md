@@ -4,11 +4,7 @@ description: 除了創作，有更多方法獲取 LikeCoin
 
 # Making LikeCoin
 
-## 
 
-## Bounty
-
-pending
 
 ## Be a validator
 
