@@ -11,7 +11,7 @@ description: >-
 There are two benefits blinding your social media logins:
 
 1. You don't have to input email address and password, just use your usual social media account to login.
-2. Protect access to your Liker ID, if there is an issue with one of the login method, e.g. forget passowrd, or the platform itself has technical problem, you can still use your other social meida logins to access your Liker ID.
+2. Protect access to your Liker ID, if there is an issue with one of the login method, e.g. forget passowrd, or the platform itself has technical problem, you can still use other social media logins to access your Liker ID.
 
 ## Blinding Method \(Except Matters\)
 
@@ -31,7 +31,7 @@ Click on the social media login \(except Matters\), follow on screen instruction
 
 User has to go to Matters website for blindling:
 
-1. Login matters.news
+1. Login [matters.news](https://matters.news/)
 2. Click on avatar on the upper right hand corner, select "settings" from the menu
 3. On「錢包設定」, select "Blinding Liker ID"
 4. Login Liker ID according to the instruction
