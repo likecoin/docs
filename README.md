@@ -16,7 +16,7 @@ Real-time statistics:[ ![Number of Liker](https://static.like.co/badge/stats/lik
 
 [Republic of Liker Land open statistics \(Since 2020\)](https://datastudio.google.com/u/0/reporting/e6168171-b61d-4871-b39f-7b6308f2facc/page/qgR).
 
-Some media empowered by LikeCoin include [Matters](https://matters.news/), [Standnews](https://www.thestandnews.com/), [InMedia](https://www.inmediahk.net/), [HKCNews](https://www.hkcnews.com/) and other 700+ websites. LikeCoin can also be used on [WordPress](https://wordpress.org/plugins/likecoin/), [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot \( Blogger.com \)](https://www.blogger.com/dashboard/reading), and other content platforms. 
+Some media empowered by LikeCoin include [Matters](https://matters.news/), [Standnews](https://www.thestandnews.com/), [InMedia](https://www.inmediahk.net/), [HKCNews](https://www.hkcnews.com/) and other 700+ websites. LikeCoin can also be used on [WordPress](https://wordpress.org/plugins/likecoin/), [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot \( Blogger.com \)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. 
 
 Creators and readers may use [Liker Land](https://like.co/in/getapp) as a convenient reader and gateway to interact with the decentralized ecosystem. 
 
