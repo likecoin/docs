@@ -32,15 +32,15 @@ Creators embed LikeCoin button into their works and turn "Like" into actual inco
 
 [**Matters**](https://matters.news/) is empowered by the LikeCoin button by default, creators can give their Liker ID to [**Standnews**](https://www.thestandnews.com/)**,** [**InMedia**](https://www.inmediahk.net/)**,** [**HKCNews**](https://www.hkcnews.com/) for embedding LikeCoin button. It can also be installed to [WordPress](https://wordpress.org/plugins/likecoin/) by the LikeCoin WordPress plugin. LikeCoin button also supports [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot \( Blogger.com\)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. 
 
-創作者每天所得的回饋來自兩部份：
+The source of the creators' daily reward consists of two parts:
 
-**一、讚賞公民月費**：全數由個人支配，按 Like 數攤分。
+1. The monthly subscription fee: paid by the Civic Likers who distribute their donation by their claps/"Likes"
 
-例：讚賞公民阿唯 5 月共對 500 篇文章按讚 500 次，每篇文章得到 1 美分。
+e.g. Veryotaku clapped 500 articles for 500 times, each article received 1 cent \(equivalent to LikeCoin \)
 
-**二、月費配對基金**：基金會承擔，數額參考月費總和，按免費 Liker 與 **讚賞公民** 的總 Like 數攤分。
+2. Creators matching fund: managed by the foundation. The daily amount is adjusted according to the total amount donated by Civic Likers. Both of the likes given by Civic Liker and ordinary likers will be considered as votes for fund distribution.
 
-例：5 月共有 1000 位付費 5 美元，月費總和 5000 美元，基金會額外撥出 5000 美元，這額外部分按所有用戶的總 Like 數攤分。
+e.g. There are 1,000 Civic Likers in May, they all subscribed with USD$5 and the sum is USD$5000, foundation pay USD$5000 extra and the amount will be turned into LikeCoin, and will be distributed in proporation according to the total number of claps/Likes by all Likers.
 
 ## 推薦朋友
 
