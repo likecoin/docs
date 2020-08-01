@@ -46,11 +46,11 @@ Receive USD$5 equivalent LikeCoin bonus upon each successful Cvic Liker referral
 
 **Referral Link**: https://likerland.app.link/?event=app\_referral&referrer=\[Your Liker ID\]
 
-## 賞金任務
+## Bounty
 
-社群持續需要賞金獵人協助完成如翻譯、設計、推廣、社群管理等任務，完成任務後能獲得 LikeCoin 奬勵。
+The community constantly needs help on translation, design, promotion, community management, etc.. Complete the mission and receive LikeCoin.
 
-## 成為驗證人
+## Be a validator
 
 驗證人記帳的回報來自增發 \( inflation \)，目前設定為總貨幣流通量，即截至目前為止十億 LikeCoin 的 1%，亦即每年新發行一千萬 LikeCoin。
 
