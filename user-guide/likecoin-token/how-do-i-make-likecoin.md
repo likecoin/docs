@@ -1,20 +1,8 @@
 ---
-description: 除了創作，有更多方法獲取 LikeCoin
+description: What else can I do to make LikeCoin besides creating?
 ---
 
 # Making LikeCoin
-
-
-
-## Be a validator
-
-pending
-
-## Buy LikeCoin on Exchanges
-
-pending
-
-
 
 ## Create contents
 
@@ -64,7 +52,7 @@ That means 1.86 LikeCoin is minted every 6 seconds for validators and stakeholde
 
 The above calculation based on the assumption of a new block is created every 6 second, but in fact there are deviations in real life. Adding to the 98% from inflation, 98% transaction fee from each transaction will also be distributed to validators and stakeholders according to their delegation ratio.
 
-## 在交易所購買 LikeCoin
+## Buy LikeCoin on Exchanges
 
-目前 [BitAsset](https://www.bitasset.com) 支援 LikeCoin 的 TWD/LIKE 及 BTC/LIKE 交易對，[MyEthShop](https://www.myethshop.com) 提供 HKD/LIKE 交易對，而 [Liquid](https://www.liquid.com/) 則提供 BTC/LIKE 及 USDT/LIKE 交易對。有興趣的朋友可以向他們購買 LikeCoin。 
+[BitAsset](https://www.bitasset.com) supports TWD/LIKE and  BTC/LIKE trading pairs. [MyEthShop](https://www.myethshop.com) provides HKD/LIKE exchange, [Liquid](https://www.liquid.com/) supports BTC/LIKE and USDT/LIKE trading pairs. Those who are interested can buy LikeCoin from them.
 
