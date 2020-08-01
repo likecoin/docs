@@ -10,7 +10,7 @@ description: 讚賞公民專享
 
 大家齊來幫襯勁買，支持獨立書店吧！
 
-[序言書室 Hong Kong Reader](https://www.facebook.com/groups/4724048647/) : 中文書 9 折，英文書 95 折  
+[序言書室 Hong Kong Reader](https://www.facebook.com/hkreaders/) : 中文書 9 折，英文書 95 折  
 [解憂舊書店 The Book Cure](https://www.facebook.com/thebookcure.hk)：9 折  
 [Bleak House Books](https://www.facebook.com/bleakhousebooks)：9 折  
 [博雅小書店](https://www.facebook.com/pages/%E5%8D%9A%E9%9B%85%E5%B0%8F%E6%9B%B8%E5%BA%97/856452837706125)：台版書75折，港版書8折  
