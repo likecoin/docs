@@ -45,7 +45,7 @@
 * [Civic Liker](user-guide/civic-liker/README.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
   * [How to pay Civic Liker yearly scubscription by PayME or FPS](user-guide/civic-liker/civic-liker-paid-by-payme.md)
-  * [How to pay Civic Liker yearly scubscription by LikeCoin](user-guide/civic-liker/civic-liker-paid-by-likecoin.md)
+  * [How to pay Civic Liker yearly subscription by LikeCoin](user-guide/civic-liker/civic-liker-paid-by-likecoin.md)
   * [Unsubscribe Civic Liker](user-guide/civic-liker/unsubscribe-civic-liker.md)
 * [LikeCoin token](user-guide/likecoin-token/README.md)
   * [Making LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
