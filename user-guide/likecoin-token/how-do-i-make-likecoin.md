@@ -30,11 +30,7 @@ pending
 
 Creators embed LikeCoin button into their works and turn "Like" into actual income and earn LikeCoin.
 
-[**Matters** ](https://matters.news/)的文章會自動附帶讚賞鍵。媒體博客可把 [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id) ****提供予 [**獨立媒體**](https://www.inmediahk.net/)、[**立場新聞**](https://thestandnews.com/)、[**眾新聞**](https://www.hkcnews.com/) ****等合作媒體；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 外掛](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上讚賞鍵。讚賞鍵也支援 [Medium](http://medium.com/)、[方格子](https://vocus.cc/)、[Blogspot \( Blogger.com \) ](https://www.blogger.com/)及[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)等。
-
-
-
-[Matters](https://matters.news/) is empowered by LikeCoin button by default, createors can give their Liker ID to [Standnews](https://www.thestandnews.com/), [InMedia](https://www.inmediahk.net/), [HKCNews](https://www.hkcnews.com/) embedding LikeCoin button. LikeCoin can also be installed to [WordPress](https://wordpress.org/plugins/likecoin/) by the LikeCoin WordPress plugin. [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot \( Blogger.com\)](https://www.blogger.com/dashboard/reading), and other content platforms. 
+[**Matters**](https://matters.news/) is empowered by the LikeCoin button by default, creators can give their Liker ID to [**Standnews**](https://www.thestandnews.com/)**,** [**InMedia**](https://www.inmediahk.net/)**,** [**HKCNews**](https://www.hkcnews.com/) for embedding LikeCoin button. It can also be installed to [WordPress](https://wordpress.org/plugins/likecoin/) by the LikeCoin WordPress plugin. LikeCoin button also supports [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot \( Blogger.com\)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. 
 
 創作者每天所得的回饋來自兩部份：
 
