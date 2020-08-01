@@ -8,9 +8,9 @@ description: 以 LikeCoin 購買讚賞公民會籍
 
 以桌面電腦或手機瀏覽器訪問 [https://liker.land/civic](https://liker.land/civic) 再登入你的 Liker ID，並在付費選項中選擇 「以 LIKE 繳費」，然後跟隨系統指引，繳付 15,000 LIKE 年費。
 
-## 手機繳費
+## 以 Liker Land 手機應用程式繳費
 
-假如你遇到技術問題並不能在 Liker Land 網站緻費，你亦可於 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)，以 LikeCoin 繳付一年讚賞公民會藉年費 \( 15,000 LikeCoin \)。
+假如你遇到技術問題並不能在 Liker Land 網站繳費，你亦可於 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)，以 LikeCoin 繳付一年讚賞公民會藉年費 \( 15,000 LikeCoin \)。
 
 ### 步驟一：過帳 15,000 LikeCoin 
 
