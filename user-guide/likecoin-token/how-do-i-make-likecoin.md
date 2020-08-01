@@ -4,13 +4,7 @@ description: 除了創作，有更多方法獲取 LikeCoin
 
 # Making LikeCoin
 
-## Create contents
-
-pending
-
-## Refer friends and family
-
-pending
+## 
 
 ## Bounty
 
@@ -34,15 +28,15 @@ Creators embed LikeCoin button into their works and turn "Like" into actual inco
 
 The source of the creators' daily reward consists of two parts:
 
-1. The monthly subscription fee: paid by the Civic Likers who distribute their donation by their claps/"Likes"
+**1. The monthly subscription fee**: paid by the Civic Likers who distribute their donation by their claps/"Likes"
 
 e.g. Veryotaku clapped 500 articles for 500 times, each article received 1 cent \(equivalent to LikeCoin \)
 
-2. Creators matching fund: managed by the foundation. The daily amount is adjusted according to the total amount donated by Civic Likers. Both of the likes given by Civic Liker and ordinary likers will be considered as votes for fund distribution.
+**2. Creators matching fund**: managed by the foundation. The daily amount is adjusted according to the total amount donated by Civic Likers. Both of the likes given by Civic Liker and ordinary likers will be considered as votes for fund distribution.
 
-e.g. There are 1,000 Civic Likers in May, they all subscribed with USD$5 and the sum is USD$5000, foundation pay USD$5000 extra and the amount will be turned into LikeCoin, and will be distributed in proporation according to the total number of claps/Likes by all Likers.
+e.g. There are 1,000 Civic Likers in May, they all subscribed with USD$5 and the sum is USD$5000, foundation pay USD$5000 extra \(will be turned into LikeCoin\), this extra part will be distributed in proporation according to the total number of claps/Likes by all Likers.
 
-## 推薦朋友
+## Refer friends and family
 
 每成功推薦一位朋友成為讚賞公民，便立即可獲約 5 美元的等值 LikeCoin 奬勵。推薦 10 位，獲 50 美元；推薦 100 位，獲 500 美元。奬金會在數分鐘內轉賬到你的電子錢包。多推薦，多賺，無上限。
 
