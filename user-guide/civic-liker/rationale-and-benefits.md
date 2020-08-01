@@ -1,8 +1,12 @@
+---
+description: For Civic Liker only
+---
+
 # Rationale and benefits
 
+### Civic Liker x Independent bookstores
 
-
-Show off your brilliant Civic Liker avatar, enjoy the benefits offered by various Hong Kong bookstores. Let's call up your friends to join the revolution for a better world!
+Show off your brilliant Civic Liker avatar on Liker Land mobile app or on [https://liker.land/settings](https://liker.land/settings), enjoy the benefits offered by various Hong Kong bookstores. Let's call up your friends to join the revolution for a better world!
 
 * Hong Kong Reader Bookstore \(序言書室\)
 * The Book Cure \(解憂舊書店\)
