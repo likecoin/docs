@@ -1,5 +1,5 @@
 ---
-description: 綁定多款登入方法，增強你 Liker ID 的安全性
+description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安全性
 ---
 
 # 保護你的 Liker ID
