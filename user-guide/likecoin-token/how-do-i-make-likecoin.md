@@ -48,21 +48,21 @@ The community constantly needs help on translation, design, promotion, community
 
 ## Be a validator
 
-驗證人記帳的回報來自增發 \( inflation \)，目前設定為總貨幣流通量，即截至目前為止十億 LikeCoin 的 1%，亦即每年新發行一千萬 LikeCoin。
+Validator's rewards for recording all transactions is from inflation. currently set up as 1% of the total LikeCoin circulation, which is ten million out of one billion LikeCoin.
 
-此筆款項會平均於每個區塊產生時分發，現時每個區塊生成的時間為 5-6 秒。
+The inflation amount will be distributed when a block is created in LikeCoin chain, approximately in every 5-6 seconds
 
-另，增發的新 LikeCoin 的 2%，會當作「稅項」抽起，撥入社群基金 \( Community pool \)。換句話說驗證人及持份者每年獲得的款項，是增發的 LikeCoin 的 98%。社群基金的運用會由社群的自治機制決定。
+2% of the newly minted LikeCoin from inflation will be treated as "Tax" and reserved for Community Pool. In other words, 98% of LikeCoin from inflation is for validators and stakeholders. Usage of the Community Pool will be determined accordingly to the community's autonomous mechanisms.
 
-假設每個區塊生成時間能固定為 6 秒，每年生成的新區塊數目便是 365\*24\*60\*10 = 5,256,000。所以每區塊分給驗證人及持份者的 LikeCoin 數：
+If a block is created on every 6 seconds, the number of new blocks created per year are 365\*24\*60\*10 = 5,256,000, therefore the LikeCoin shared to each validators and stakeholders from each block are:
 
 = 10,000,000 LikeCoin x 98% / 5,256,000
 
 = 1.86 LikeCoin
 
-即大約每 6 秒新鑄造 1.86 LikeCoin 讓所有驗證人及持份者按委託比例分配。驗證人目前的佣金設定為 50%，所以每 6 秒分給持份者的 LikeCoin 是 1.86/2 = 0.93。
+That means 1.86 LikeCoin is minted every 6 seconds for validators and stakeholders to distribute according to their delegation ratio. Currently the commission rate is 50%, therefore the LikeCoin given to stakeholders on every 6 seconds is 1.86/2 = 0.93.
 
-以上計算的前設是區塊生成時間為固定 6 秒，然而實際值會有一點落差。另除了增發的 98% 外，每筆交易的交易費用的 98% 也會按委託金額比例回報給驗證人及持份者。
+The above calculation based on the assumption of a new block is created every 6 second, but in fact there are deviations in real life. Adding to the 98% from inflation, 98% transaction fee from each transaction will also be distributed to validators and stakeholders according to their delegation ratio.
 
 ## 在交易所購買 LikeCoin
 
