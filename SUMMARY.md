@@ -40,6 +40,7 @@
   * [Edit Avatar and Name](user-guide/liker-id/edit-avatar-displayname.md)
   * [Securing my Liker ID](user-guide/liker-id/verifying-email-address.md)
   * [Connecting to my social profile](user-guide/liker-id/social-media-logins.md)
+  * [Manage logged in devices](user-guide/liker-id/devices.md)
   * [Resetting password](user-guide/liker-id/resetting-password.md)
 * [Civic Liker](user-guide/civic-liker/README.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
