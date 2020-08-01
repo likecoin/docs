@@ -17,7 +17,7 @@ There are two benefits blinding your social media logins:
 
 ### Step 1
 
-Login [https://like.co/in/settings](https://like.co/in/settings), go to AuthCore Settings, click "Security settings", or open the Liker Land mobile app, click on the avatar at the lower right hand corner and select \[Account Settings\], then click "Social logins".
+Login [Liker Land](https://liker.land/) and go to [https://like.co/in/settings](https://like.co/in/settings), go to AuthCore Settings, click "Security settings", or open the Liker Land mobile app, click on the avatar at the lower right hand corner and select \[Account Settings\], then click "Social logins".
 
 ![](../../.gitbook/assets/social-media-logins-1.png)
 
