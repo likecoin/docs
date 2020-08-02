@@ -34,7 +34,7 @@ description: 如何註冊 BitAsset 交易所帳號
 
 ![](../../.gitbook/assets/bitasset-4.png)
 
-你會見到以下的弓彈出視窗。請注意，這裡的「用戶名」是指在你的證件上的**姓名**。
+你會見到以下的彈出視窗。請注意，這裡的「用戶名」是指在你的證件上的**姓名**
 
 ![](../../.gitbook/assets/bitasset-5.png)
 
