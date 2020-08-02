@@ -40,21 +40,25 @@ Open the [Liker Land mobile app](https://like.co/in/getapp), click on the avatar
 
 ![On Liker Land mobile app select \[Send\] \(circled in red\)](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1cZDbgC4A89M-JaG%2Fbitasset-trade-6.png?alt=media&token=71be3481-e041-4740-9d60-f304a6f53e70)
 
-進入下一頁後，點下圖紅圈位置的二維碼圖示。app 會跳進照相機介面讓你掃描二維碼，請掃描【步驟一】中你的 BitAsset 帳戶 LikeCoin 錢包的二維碼，因為你想要轉錢到 BitAsset。點上圖紅圈位置打開照相機
+Go to the next page, click on the QR Code icon circled in red, the app will open camera mode for you to scan the QR Code, please scan the QRCode that you have on Step 1, cause you have to transfer LikeCon to BitAseet.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1jdqLpuXiHr9vOwG%2Fbitasset-trade-7.png?alt=media&token=84488570-5565-4ad0-8d47-ca01592bcd03)
 
-輸入你想要轉帳的 LikeCoin 金額，然後點擊「確認」 / \[Confirm\]。![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1qVvnzuNkDtwocuN%2Fbitasset-trade-8.png?alt=media&token=69ef9beb-4f5c-4c2f-a4a5-931e3a3ce46e)
 
-轉帳指示已發出，過程不用兩分鐘，很方便對吧？過去 LikeCoin 還是 ERC-20 版本時，要付以太幣作手續費及用 MetaMask 錢包轉帳的時代已經過去了。
+![Click the QR Code icon circled in red to open camera](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1jdqLpuXiHr9vOwG%2Fbitasset-trade-7.png?alt=media&token=84488570-5565-4ad0-8d47-ca01592bcd03)
 
-接下來便要等 BitAsset 那邊確認收款了。
+Input the amount of LikeCoin that you want to transfer, then click \[Confirm\].
 
-### 步驟三：確認 BitAsset 收款 <a id="bu-zhou-san-que-ren-bitasset-shou-kuan"></a>
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1qVvnzuNkDtwocuN%2Fbitasset-trade-8.png?alt=media&token=69ef9beb-4f5c-4c2f-a4a5-931e3a3ce46e)
 
-這是一個令人緊張的時間，因為錢轉出去了，但又不知對方有沒有收到；這刻心中又不免會想：剛才有沒有做錯了什麼，錢轉錯了地址轉到黑洞帳號去了呢⋯⋯
+Transfer is done within two minutes.
 
-幸好 BitAsset 存款 LikeCoin 的效率還不錯，剛剛實測不到 5 分鐘錢便到帳了。你可以在「我的錢包」中按【步驟二】的方法查詢餘額。![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1wioeImSpU3R-DVw%2Fbitasset-trade-9.png?alt=media&token=cc6a0669-34c2-4215-9a04-5f3127225c9f)剛剛的轉帳指示已完成。我的錢包再不是 0 了！
+Next step is to wait for BitAsset to confirm the transfer.
+
+### Step 3: Confirm the transfer to BitAsset
+
+Less than 5 minutes the LikeCoin is transferred to BitAsset, you can check your wallet balance following Step 
+
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1wioeImSpU3R-DVw%2Fbitasset-trade-9.png?alt=media&token=cc6a0669-34c2-4215-9a04-5f3127225c9f)
 
 ### 步驟四：選個好價錢買入/賣出 <a id="bu-zhou-si-xuan-ge-hao-jia-qian-mai-ru-mai-chu"></a>
 
