@@ -26,35 +26,29 @@ Then go into the "Personal information page" page.
 
 > [BitAsset use introduction manual](https://bitasset.zendesk.com/hc/en-us/articles/360012894432-BitAsset-use-introduction-manual)
 
-### 步驟二：基礎及高級認證 <a id="2"></a>
+### Step2: Certification Level 1 and 2
 
-若你是非中國大陸用戶，必需一併完成基礎及高級認證
+If you are not China user, you have to complete certification Lv.1 and Lv.2
 
-請在「個人訊息」頁面的上方，點擊「基礎認證」
+Go to the "Personal Information Page", click "Upgrade Now"
 
 ![](../../.gitbook/assets/bitasset-4.png)
 
-你會見到以下的弓彈出視窗。請注意，這裡的「用戶名」是指在你的證件上的**姓名**。
+The page appears below, the "Name" here referring to your name on legal documents
 
 ![](../../.gitbook/assets/bitasset-5.png)
 
-輸入資料後，點擊「下一步」，會彈出以下視窗，要求上載身份證正、反兩面，及一張手持身份證和一張寫上指定資料的紙張
+Fill in your information and click "Next", the following pop-up and you have to upload the front and back of your identify card, with a photo that you are holding a piece of paper written with the information required and your identity card
 
 ![](../../.gitbook/assets/bitasset-6.png)
 
-身份證的正反兩面應該不難處理，要特別留意的是第三項「手持身份證及紙條合照」這一項。看看以下這位朋友的示範：
+Front and back of the identity card is easy to deal with, however "holding an identity card together with a piece of paper" can be hard to accomplish. Take a look at the demo below:
 
 ![](../../.gitbook/assets/bitasset-7.jpg)
 
-提交文件後，請耐心等候 BitAsset 官方批核，一般需要一至兩個工作天。
+Submit all the documents and wait for BitAsset's approval, usually it takes one or two working days.
 
-#### BitAsset 官方教學
-
-> [BitAsset新手指南－申請實名認證（KYC 2）篇](https://medium.com/bitasset/bitasset%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97-%E7%94%B3%E8%AB%8B%E5%AF%A6%E5%90%8D%E8%AA%8D%E8%AD%89-kyc-2-%E7%AF%87-8485dc2065c7)
-
-> [如何进行实名认证（KYC）？](https://bitasset.zendesk.com/hc/zh-cn/articles/360011731332-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81-KYC-)
-
-### 步驟三：手機驗證及 Google 驗證 <a id="3-google-"></a>
+### Step 3: 2-Factor Authentication \(2FA\) and Google Authenticator <a id="3-google-"></a>
 
 完成高級認證後，基本上已能用大部份交易所功能了。但為了安全性起見，強烈建議你完成 Google 驗證。畫面上已有詳細的指示，你需要用手機下載  Google Authenticator 應用程式。
 
