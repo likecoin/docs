@@ -37,7 +37,7 @@ Continue from the previous step, the page displaying a QR Code now:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJoyzk0YTDQTXBDf5f%2F2fa-google-authenticator.png?alt=media&token=26ba5a96-0b3b-489f-9b75-768ac277c62e)
 
-1. Download Google Authenticator on your mobile phone [Android Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW) [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
+1. Download Google Authenticator on your mobile phone [Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW) [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 2. Open the Google Authenticator app, click the on "+" sign on the top right hand corner
 3. Scan the QR Code on your desktop computer
 4. An entry of Authcore is added to Google Authenticator, display a 6-digit code, fill it into the blank space circled in red, and click "Next", it displays "Set up authenticator app" "Complete" , then click "OK"
