@@ -68,7 +68,3 @@ Submit the documents and wait for Liquid to confirm your application. It takes a
 
 If you have any questions about using Liquid and their products,  please check [Liquid Help Center](https://help.liquid.com/en/) or contact Liquid customer service. Click on the bubble at the lower right hand corner of Liquid website or Liquid Help Center and have instant support.
 
-{% hint style="info" %}
-點擊你的頭像進入 My Profile，點選 Language Default 可以將使用者界面預換為繁體中文或简体中文，又或者在網頁下方語言列進行轉換
-{% endhint %}
-
