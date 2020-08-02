@@ -18,11 +18,11 @@ Login BitAsset and click on the top right hand corner of your email address/ID, 
 
 On the wallet page it shows all the wallets that you have. Input "LIKE" to search for your LikeCoin wallet.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1FWlJcZoq8hdX6CC%2Fbitasset-trade-3.png?alt=media&token=378350e2-f15b-41dd-a952-49e10ab1ee00)
+![Input Like in search box to find your LikeCoin wallet](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1FWlJcZoq8hdX6CC%2Fbitasset-trade-3.png?alt=media&token=378350e2-f15b-41dd-a952-49e10ab1ee00)
 
-點「充值」鍵進入下方畫面，請在「鏈名稱」部份選 「LIKE」，代表你將轉賬的是 11月15日升級到 LikeCoin chain 後的新版本 LikeCoin。下方會立即出現 cosmos 開始的一串長長的地址。什麼？要使用這串複雜的地址？模樣好嚇人啊！
+Click "Deposit" to the page below, on "Chain Name" select "LIKE", which means you are transferring LikeCoin on the LikeCoin chain which was upgraded on November 15, 2019. a wallet address starting with cosmos appears.
 
-感謝世上有二維碼。請點右下方的「顯示二維碼」按鍵。選 LIKE，再點「顯示二維碼」
+Click on the "Show QR Code" button, select LIKE and click "Show QR Code".
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1ME1-tJ13uzHqRDG%2Fbitasset-trade-4.png?alt=media&token=38e3c327-e394-4525-9381-60b7933764c9)
 
