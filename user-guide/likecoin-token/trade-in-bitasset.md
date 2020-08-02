@@ -70,6 +70,14 @@ Choose your trading pairs and take a look at the order book. The figures in red 
 
 同樣道理，若你想賣出 LikeCoin ，你便要觀察「買單」找買家。以下圖為例，假設你想要賣出 50000 LIKE，可保證以 0.0831 TWD/LIKE 的價格賣出，因為目前有人出的最高價是 0.0831 購 296,468枚 LikeCoin。賣 LikeCoin 時看下方綠色的買單；買 LikeCoin 時看上方紅色的賣單
 
+If you want to sell your LikeCoin, you have to monitor the seller in green. For example below if you want to sell 50,000 LikeCoin, it is guaranteed to be sold at 0.0831 TWD/LIKE because the highest selling price is 0.0831 to buy 296,468 LikeCoin.
+
+
+
+When you want to sell, check out the orders below in green, if you want to buy, check out the orders above in red.
+
+
+
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK29eYzwfMz9U4AcOB%2Fbitasset-trade-11.png?alt=media&token=311f411c-0ebc-44f4-8f37-26aff0190f12)
 
 心中決定了買賣的價錢和數量後，在左下方的「訂單表」下單，這裡我以「限價委託」為例子說明。
