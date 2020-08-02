@@ -56,7 +56,6 @@
   * [Trade in BitAsset](user-guide/likecoin-token/trade-in-bitasset.md)
   * [Register and Trade in MyEthShop](user-guide/likecoin-token/registering-and-trade-in-myethshop.md)
 * [LikeCoin chain](user-guide/likecoin-chain/README.md)
-  * [About LikeCoin chain](user-guide/likecoin-chain/what-is-likecoin-chain.md)
   * [Validator](user-guide/likecoin-chain/what-is-a-validator.md)
   * [Become a validator](user-guide/likecoin-chain/become-a-validator.md)
   * [Big Dipper](user-guide/likecoin-chain/big-dipper.md)
