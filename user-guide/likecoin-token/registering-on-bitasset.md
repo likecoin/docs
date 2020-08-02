@@ -20,7 +20,7 @@ When your mail is confirmed, the system will bring you back to the BitAsset webs
 
 ![](../../.gitbook/assets/bitasset-3.png)
 
-You will go into the "Personal information page" page.
+Then go into the "Personal information page" page.
 
 #### BitAsset Office Tutorial
 

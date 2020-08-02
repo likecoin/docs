@@ -18,7 +18,7 @@ Liquid will immediately send you a verification email, click on the link in the 
 
 The service of crypto exchange adopts a high security standard, therefore users have to set up 2FA before utilizing their services.
 
-1. After completing the basic info and activated your account, the following will appears when you login again, click  "Enable 2-Factor Authentication"
+1. After completing the basic info and activated your account, the following will appears when you login again, click "Enable 2-Factor Authentication"
 
 ![](../../.gitbook/assets/liquid-security.png)
 
