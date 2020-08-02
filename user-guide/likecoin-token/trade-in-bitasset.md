@@ -16,13 +16,15 @@ Login BitAsset and click on the top right hand corner of your email address/ID, 
 
 ![Click &quot;My wallet&quot;](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK198sT-6YvVhvauEL%2Fbitasset-trade-2.png?alt=media&token=6d7341a6-b450-44a1-8f3f-6e28f6a062e9)
 
-在帳戶錢包介面的下方會列出你名下不同貨的錢包，雖然琳瑯滿目但可惜大部份的餘額都是 0（悲但真）。直接在右上方輸入 "LIKE" 尋找 LikeCoin 的錢包。雖然目前餘額還是 0，但很快便會改變了。立即充值！於右上方輸入 Like 便能顯示 LikeCoin 錢包
+On the wallet page it shows all the wallets that you have. Input "LIKE" to search for your LikeCoin wallet.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1FWlJcZoq8hdX6CC%2Fbitasset-trade-3.png?alt=media&token=378350e2-f15b-41dd-a952-49e10ab1ee00)
 
 點「充值」鍵進入下方畫面，請在「鏈名稱」部份選 「LIKE」，代表你將轉賬的是 11月15日升級到 LikeCoin chain 後的新版本 LikeCoin。下方會立即出現 cosmos 開始的一串長長的地址。什麼？要使用這串複雜的地址？模樣好嚇人啊！
 
-感謝世上有二維碼。請點右下方的「顯示二維碼」按鍵。![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1ME1-tJ13uzHqRDG%2Fbitasset-trade-4.png?alt=media&token=38e3c327-e394-4525-9381-60b7933764c9)選 LIKE，再點「顯示二維碼」
+感謝世上有二維碼。請點右下方的「顯示二維碼」按鍵。選 LIKE，再點「顯示二維碼」
+
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1ME1-tJ13uzHqRDG%2Fbitasset-trade-4.png?alt=media&token=38e3c327-e394-4525-9381-60b7933764c9)
 
 你會看到下圖的二維碼，那便是你 BitAsset 帳號中的 LikeCoin 錢包地址了。![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1U9Sc7JSsPd8Z7dq%2Fbitasset-trade-5.png?alt=media&token=c022f08d-61e4-4022-9815-28377bbc1516)
 
