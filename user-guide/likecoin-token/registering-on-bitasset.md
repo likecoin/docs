@@ -16,7 +16,7 @@ Fill in your email, password and referral code \(Optional\). You may also choose
 
 ![](../../.gitbook/assets/bitasset-2.png)
 
-When your mail is confirmed, the system will bring you back to the BitAsset website frontpage, click on the top right hand corner of your email address
+When your email is confirmed, the system will bring you back to the BitAsset website frontpage, click on the top right hand corner of your email address
 
 ![](../../.gitbook/assets/bitasset-3.png)
 

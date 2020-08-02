@@ -8,15 +8,17 @@ description: Buy and Sell LikeCoin in TWD
 
 For trading LikeCoin into TWD or BTC, the most convenient way is going through [BitAsset](https://www.bitasset.com/) exchange, as they offer LIKE/TWD exchange pairs. If you do not have a BitAsest account, please take a look at [this](https://docs.like.co/user-guide/likecoin-token/registering-on-bitasset). Moreover, you have to download the Liker Land mobile app to send/receive LikeCoin.
 
-### 步驟一：找到 BitAsset 帳戶的 LikeCoin 錢包地址 <a id="bu-zhou-yi-zhao-dao-bitasset-zhang-hu-de-likecoin-qian-bao-di-zhi"></a>
+### Step 1: Find your LikerCoin wallet on BitAseet account
 
-第一步要把你的 LikeCoin 轉賬到 BitAsset 交易所，那當然要先找到轉賬地址才行。
+First of all you have to find your wallet address in BitAsset so as to transfer LikeCoin to the exchange.
 
-請登入 [BitAsset](https://www.bitasset.com/) 的網站，登入後點選右上角自己的用戶電郵/ID，再點「用戶」欄進入帳戶介面。點下方「我的錢包」進入 BitAsset 帳戶錢包介面。點「我的錢包」
+Login BitAsset and click on the top right hand corner of your email address/ID, then click "User" and go into the Personal information page. Click "My wallet" to access the wallet page.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK198sT-6YvVhvauEL%2Fbitasset-trade-2.png?alt=media&token=6d7341a6-b450-44a1-8f3f-6e28f6a062e9)
+![Click &quot;My wallet&quot;](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK198sT-6YvVhvauEL%2Fbitasset-trade-2.png?alt=media&token=6d7341a6-b450-44a1-8f3f-6e28f6a062e9)
 
-在帳戶錢包介面的下方會列出你名下不同貨的錢包，雖然琳瑯滿目但可惜大部份的餘額都是 0（悲但真）。直接在右上方輸入 "LIKE" 尋找 LikeCoin 的錢包。雖然目前餘額還是 0，但很快便會改變了。立即充值！![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1FWlJcZoq8hdX6CC%2Fbitasset-trade-3.png?alt=media&token=378350e2-f15b-41dd-a952-49e10ab1ee00)於右上方輸入 Like 便能顯示 LikeCoin 錢包
+在帳戶錢包介面的下方會列出你名下不同貨的錢包，雖然琳瑯滿目但可惜大部份的餘額都是 0（悲但真）。直接在右上方輸入 "LIKE" 尋找 LikeCoin 的錢包。雖然目前餘額還是 0，但很快便會改變了。立即充值！於右上方輸入 Like 便能顯示 LikeCoin 錢包
+
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1FWlJcZoq8hdX6CC%2Fbitasset-trade-3.png?alt=media&token=378350e2-f15b-41dd-a952-49e10ab1ee00)
 
 點「充值」鍵進入下方畫面，請在「鏈名稱」部份選 「LIKE」，代表你將轉賬的是 11月15日升級到 LikeCoin chain 後的新版本 LikeCoin。下方會立即出現 cosmos 開始的一串長長的地址。什麼？要使用這串複雜的地址？模樣好嚇人啊！
 
