@@ -1,3 +1,7 @@
+---
+description: Buy and Swap. Instantly
+---
+
 # Trade in Liquid
 
 ### Quick Exchange
@@ -33,6 +37,10 @@ Only accept Visa
 Click on "Buy with VISA", fill in credit card information and pay for it
 
 ![](../../.gitbook/assets/quick-exchange-4.png)
+
+#### Liquid Official Tutorial
+
+> [Liquid Swap FAQ](https://help.liquid.com/en/articles/2607590-liquid-swap-faq)
 
 {% hint style="info" %}
 Liquid does not charge fees for incoming fiat deposits, for information about withdrawal fees, minimum order quantity and other service fees, please check [Liquid Help Center](https://help.liquid.com/en/).
