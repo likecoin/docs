@@ -68,47 +68,25 @@ Click "Spot Trading" on the top left hand conrner, find "LIKE" on the top left c
 
 Choose your trading pairs and take a look at the order book. The figures in red are those orders who want to "Sell", for example below there are people who want to sell 252 LikeCoin at the price of 0.21 TWD/LIKE, and then some other people want to sell 52,565 LikeCoin at 0.212 TWD/LIKE. If you want to buy 50,000 LikeCoin, you can buy them all at 0.212 TWD/LIKE.
 
-同樣道理，若你想賣出 LikeCoin ，你便要觀察「買單」找買家。以下圖為例，假設你想要賣出 50000 LIKE，可保證以 0.0831 TWD/LIKE 的價格賣出，因為目前有人出的最高價是 0.0831 購 296,468枚 LikeCoin。賣 LikeCoin 時看下方綠色的買單；買 LikeCoin 時看上方紅色的賣單
-
 If you want to sell your LikeCoin, you have to monitor the seller in green. For example below if you want to sell 50,000 LikeCoin, it is guaranteed to be sold at 0.0831 TWD/LIKE because the highest selling price is 0.0831 to buy 296,468 LikeCoin.
 
+![Sell, check out the orders below in green, Buy, check out the orders above in red](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK29eYzwfMz9U4AcOB%2Fbitasset-trade-11.png?alt=media&token=311f411c-0ebc-44f4-8f37-26aff0190f12)
 
+Once you decide the price and amount to buy or sell, click on the "Order form" on the left to confirm. Let use "Limit" as an example.
 
-When you want to sell, check out the orders below in green, if you want to buy, check out the orders above in red.
+You have to input 3 parameters:
 
+1. Select the right action for "Buy LIKE" or "Sell LIKE
+2. Input "Price": using the order book above as example, fill in 0.0831 for selling LikeCoin
+3. Input "Amount": Fill in 50000 for selling 50,000 LikeCoin, or click a percentage e.g. 100%, 50%, etc
 
+The system will calculate "Total", confirm if they are correct or not, then click "Sell Like" to complete the transaction. 
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK29eYzwfMz9U4AcOB%2Fbitasset-trade-11.png?alt=media&token=311f411c-0ebc-44f4-8f37-26aff0190f12)
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK2GMKSSwzDIHppo_i%2Fbitasset-trade-12.png?alt=media&token=f4191394-daca-459a-b6b7-8d0e6f9f9f9b)
 
-心中決定了買賣的價錢和數量後，在左下方的「訂單表」下單，這裡我以「限價委託」為例子說明。
+### **Step 5: Check Transaction details**
 
-你需要輸入三個資料：
+Go to the lower part of screen and find "Trade History" to check out the transaction details, your wallets reflect new balances as well.
 
-1. 確認選對了「買入 Like」或「賣出 Like」，這一步很多時候也會被忽略了然後做錯事
-2. 輸入價格。以上圖的掛單簿為例，若我想賣出 LikeCoin 這裡應填上 "0.0831"
-3. 輸入數量。若我想賣出 50,000 LikeCoin 這裡應填上 50000。你也可以簡單一點選擇庫存的百份比，例如 100%，50% 等
-
-資料填妥後，系統會自動計算成交額。確認無誤後，點擊「賣出 LIKE」，操作完成！![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK2GMKSSwzDIHppo_i%2Fbitasset-trade-12.png?alt=media&token=f4191394-daca-459a-b6b7-8d0e6f9f9f9b)
-
-### 步驟五：查看交易詳情 <a id="bu-zhou-wu-cha-kan-jiao-yi-xiang-qing"></a>
-
-交易完成後，你可在畫面下方說「歷史成交」，查看交易的詳情，你的錢包也會反映餘額。![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK2KWTLOwVCTZWav3z%2Fbitasset-trade-13.png?alt=media&token=82a46d0c-5983-422e-81d7-598342ac47a4)
-
-#### BitAsset 官方教學 <a id="bitasset-guan-fang-jiao-xue"></a>
-
-> ​[BitAsset 使用全攻略](https://bitasset.zendesk.com/hc/zh-tw/articles/360012894432-BitAsset-%E4%BD%BF%E7%94%A8%E5%85%A8%E6%94%BB%E7%95%A5) ​
-
-> ​[BitAsset APP 使用全攻略](https://bitasset.zendesk.com/hc/zh-tw/articles/360018349812-BitAsset-APP-%E4%BD%BF%E7%94%A8%E5%85%A8%E6%94%BB%E7%95%A5)​
-
-> ​[BitAsset新手指南－交易篇](https://medium.com/bitasset/bitasset%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97-%E4%BA%A4%E6%98%93%E7%AF%87-f1f83f555520)​
-
-> ​[法幣提現操作](https://bitasset.zendesk.com/hc/zh-tw/articles/360018396472-%E6%B3%95%E5%B9%A3%E6%8F%90%E7%8F%BE%E6%93%8D%E4%BD%9C) ​
-
-#### 參考文章 <a id="can-kao-wen-zhang"></a>
-
-> ​[BitAsset 買賣 LikeCoin \(台幣\)，提現到台幣帳戶補充分享](https://matters.news/@yeutorng/bit-asset-%E8%B2%B7%E8%B3%A3-like-coin-%E5%8F%B0%E5%B9%A3-%E6%8F%90%E7%8F%BE%E5%88%B0%E5%8F%B0%E5%B9%A3%E5%B8%B3%E6%88%B6%E8%A3%9C%E5%85%85%E5%88%86%E4%BA%AB-zdpuAtaC5cMohnxfiSBGTBq5e41LpmqKLCLbCaJbk7osz5b5N) ​
-
-> ​[「Matters实用贴」教你如何四步快速提现LikeCoin](https://matters.news/@mrspointm/matters%E5%AE%9E%E7%94%A8%E8%B4%B4-%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E5%9B%9B%E6%AD%A5%E5%BF%AB%E9%80%9F%E6%8F%90%E7%8E%B0like-coin-zdpuAobP3T9TaNV5yimGdr1w58Y5LzWRh19cXcVSepnsLf1wa) ​
-
-> ​[用Liker Land APP在BitAsset交易所把 LikeCoin 兌換成台幣（手機執行）](https://twinsyang.net/archives/21627)
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK2KWTLOwVCTZWav3z%2Fbitasset-trade-13.png?alt=media&token=82a46d0c-5983-422e-81d7-598342ac47a4)
 
