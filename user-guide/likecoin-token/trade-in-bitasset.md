@@ -20,7 +20,7 @@ description: 以台幣買賣 LikeCoin 最方便
 
 ![&#x65BC;&#x53F3;&#x4E0A;&#x65B9;&#x8F38;&#x5165; Like &#x4FBF;&#x80FD;&#x986F;&#x793A; LikeCoin &#x9322;&#x5305;](../../.gitbook/assets/bitasset-trade-3.png)
 
-點「充值」鍵進入下方畫面，請在「鏈名稱」部份選 「LIKE」，代表你將轉賬的是 11月15日升級到 LikeCoin chain 後的新版本 LikeCoin。下方會立即出現 cosmos 開始的一串長長的地址。什麼？要使用這串複雜的地址？模樣好嚇人啊！
+點「充值」鍵進入下方畫面，請在「鏈名稱」部份選 「LIKE」，代表你將轉賬的是2019年11月15日升級到 LikeCoin chain 後的新版本 LikeCoin。下方會立即出現 cosmos 開始的一串長長的地址。什麼？要使用這串複雜的地址？模樣好嚇人啊！
 
 感謝世上有二維碼。請點右下方的「顯示二維碼」按鍵。
 
