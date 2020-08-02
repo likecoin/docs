@@ -6,26 +6,26 @@ description: How to register on Liquid Exchange
 
 You have to register a Liquid account and pass the account verification in order to use their service.
 
-步驟一：填寫基本資料
+Step 1: Complete basic info
 
-請到 [Liquid.com](http://liquid.com/) [註冊帳號](https://www.liquid.com/sign-up/)。過程中你只需填上簡單的資料，但由於需要實名認證，請填寫你的身份證明文件上的真實姓名 \[Legal First Name\] \[Legal Last Name\]
+Go to [Liquid.com](https://www.liquid.com/) and [register](https://www.liquid.com/sign-up/) an account, simply fill in the details however please fill in your \[Legal First Name\] \[Legal Last Name\] as account verification is required
 
 ![](../../.gitbook/assets/liquid.png)
 
-Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請點擊電郵中的鏈結，激活帳號。
+Liquid will immediately send you a verification email, click on the link in the email and activate your account..
 
-### 步驟二：設定雙重認證
+### Step 2: Set up 2-Factor Authentication
 
-交易所服務要求高度安全性，因此用戶必須設定密碼及編碼器雙重認證，才可以使用交易所提供的所有服務
+The service of crypto exchange adopts a high security standard, therefore users have to set up 2FA before utilizing their services.
 
-1. 提交完基本資料並激活帳號後，再次登入系統會見到以下頁面。點擊 "Enable 2-Factor Authentication"
+1. After completing the basic info and activated your account, the following will appears when you login again, click  "Enable 2-Factor Authentication"
 
 ![](../../.gitbook/assets/liquid-security.png)
 
-2. 下載手機編碼器認證，例如 Google Authenticator 應用程式
+2. Download authenticator app on your mobile, for example Google Authenticator
 
-[安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
-[蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
+[Android Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
+[App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
 掃描頁面中的二維碼，再在頁面下方填上 Google Authenticator 所提供的認證碼
 
