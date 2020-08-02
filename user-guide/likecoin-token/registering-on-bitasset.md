@@ -50,18 +50,14 @@ Submit all the documents and wait for BitAsset's approval, usually it takes one 
 
 ### Step 3: 2-Factor Authentication \(2FA\) and Google Authenticator <a id="3-google-"></a>
 
-完成高級認證後，基本上已能用大部份交易所功能了。但為了安全性起見，強烈建議你完成 Google 驗證。畫面上已有詳細的指示，你需要用手機下載  Google Authenticator 應用程式。
+You can use almost every function of BitAsset after completing certification Level 2, but for security sake, we highly recommend you to complete the Google Authenticator. There are detailed instructions on screen, you have to download Google Authenticator on your mobile.
 
-[安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
-[蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
+[Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
+[App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
 ![](../../.gitbook/assets/bitasset-8.png)
 
-#### BitAsset 官方教學
+### If you experience difficulties, contact BitAsset Help Desk
 
-> [如何設定Google 驗證器?](https://bitasset.zendesk.com/hc/zh-tw/articles/360018687671-%E5%A6%82%E4%BD%95%E8%A8%AD%E5%AE%9AGoogle-%E9%A9%97%E8%AD%89%E5%99%A8-)
-
-### 如有疑難，聯絡 BitAsset 客服
-
-若你在開戶或任何交易所服務的過程中遇到困難，請參考 [BitAsset 常見問題（繁體中文）](https://bitasset.zendesk.com/hc/zh-tw/categories/360000754651-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)或直接聯絡 BitAsset 客服。點擊 BitAsset 網站畫面右下角藍色的對話圖示即可獲得支援。
+If you have any questions about using BitAsset and their products,  please check [BitAsset Help Center](https://bitasset.zendesk.com/hc/en-us) or contact BitAsset customer service. Click on the bubble at the lower right hand corner of BitAsset website and find support.
 

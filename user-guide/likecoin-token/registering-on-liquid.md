@@ -66,5 +66,5 @@ Submit the documents and wait for Liquid to confirm your application. It takes a
 
 ### **If you experience difficulties, contact Liquid Help Desk**
 
-If you have any questions about using Liquid and their products,  please check [Liquid Help Center](https://help.liquid.com/en/) or contact Liquid customer service. Click on the bubble at the lower right hand corner of Liquid website or Liquid Help Center and have instant support.
+If you have any questions about using Liquid and their products,  please check [Liquid Help Center](https://help.liquid.com/en/) or contact Liquid customer service. Click on the bubble at the lower right hand corner of Liquid website or Liquid Help Center and find instant support.
 
