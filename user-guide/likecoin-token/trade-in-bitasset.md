@@ -16,7 +16,7 @@ description: 以台幣買賣 LikeCoin 最方便
 
 ![&#x9EDE;&#x300C;&#x6211;&#x7684;&#x9322;&#x5305;&#x300D;](../../.gitbook/assets/bitasset-trade-2.png)
 
-在帳戶錢包介面的下方會列出你名下不同貨的錢包，雖然琳瑯滿目但可惜大部份的餘額都是 0（悲但真）。直接在右上方輸入 "LIKE" 尋找 LikeCoin 的錢包。雖然目前餘額還是 0，但很快便會改變了。立即充值！
+在帳戶錢包介面的下方會列出你名下不同貨幣的錢包，雖然琳瑯滿目但可惜大部份的餘額都是 0（悲但真）。直接在右上方輸入 "LIKE" 尋找 LikeCoin 的錢包。雖然目前餘額還是 0，但很快便會改變了。立即充值！
 
 ![&#x65BC;&#x53F3;&#x4E0A;&#x65B9;&#x8F38;&#x5165; Like &#x4FBF;&#x80FD;&#x986F;&#x793A; LikeCoin &#x9322;&#x5305;](../../.gitbook/assets/bitasset-trade-3.png)
 
