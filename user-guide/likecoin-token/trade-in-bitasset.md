@@ -56,21 +56,21 @@ Next step is to wait for BitAsset to confirm the transfer.
 
 ### Step 3: Confirm the transfer to BitAsset
 
-Less than 5 minutes the LikeCoin is transferred to BitAsset, you can check your wallet balance following Step 
+Less than 5 minutes the LikeCoin is transferred to BitAsset, you can check your wallet balance following Step 1.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1wioeImSpU3R-DVw%2Fbitasset-trade-9.png?alt=media&token=cc6a0669-34c2-4215-9a04-5f3127225c9f)
+![The transfer is completed, your wallet balance is no longer zero](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1wioeImSpU3R-DVw%2Fbitasset-trade-9.png?alt=media&token=cc6a0669-34c2-4215-9a04-5f3127225c9f)
 
-### 步驟四：選個好價錢買入/賣出 <a id="bu-zhou-si-xuan-ge-hao-jia-qian-mai-ru-mai-chu"></a>
+### Step 4: Buy or Sell
 
-未操作過股票買賣或外幣買賣的朋友，來到真正令人捏一把汗的環節了，因為畫面上又紅又綠的數字和圖表，還有小數點後長長的數字串，看得頭也快暈了，是嗎？
+Click "Spot Trading" on the top left hand conrner, find "LIKE" on the top left corner search box, choose "TWD" or "BTC" the drop down box, depends on what curreency you would like to exchange with.
 
-不用怕，跟著以下幾個步驟做便好了，詳細再慢慢了解吧！
+![On the top left hand corner, select trading pairs](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK23c-p5NwvYuDayok%2Fbitasset-trade-10.png?alt=media&token=e9258d5e-d72e-4c82-ae54-8db44eb3993f)
 
-首先，點左上方的「現價買賣」選項。畫面會切換成紅紅綠綠鋪滿數據。在畫面的左上方輸入 "LIKE"，右邊再選 "TWD"（台幣）或 "BTC" （比特幣），視乎你想把 LikeCoin 兌換成什麼貨幣。![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK23c-p5NwvYuDayok%2Fbitasset-trade-10.png?alt=media&token=e9258d5e-d72e-4c82-ae54-8db44eb3993f)左上方，選好交易對
+Choose your trading pairs and take a look at the order book. The figures in red are those orders who want to "Sell", for example below there are people who want to sell 252 LikeCoin at the price of 0.21 TWD/LIKE, and then some other people want to sell 52,565 LikeCoin at 0.212 TWD/LIKE. If you want to buy 50,000 LikeCoin, you can buy them all at 0.212 TWD/LIKE.
 
-選好交易對後，看一看畫面中部的「掛單簿」\( order book \)。上方紅色列出的是掛出在市場上的「賣單」，以下圖的例子舉例，有人願意以 0.21 TWD/LIKE 的價格賣出 252 LikeCoin，然後再有人願意以 0.212 TWD/LIKE 的價格賣出 52565 LikeCoin。假設你想買入 50,000 LikeCoin，你便可以最高價 0.212 TWD/LIKE 的價格全數買入。
+同樣道理，若你想賣出 LikeCoin ，你便要觀察「買單」找買家。以下圖為例，假設你想要賣出 50000 LIKE，可保證以 0.0831 TWD/LIKE 的價格賣出，因為目前有人出的最高價是 0.0831 購 296,468枚 LikeCoin。賣 LikeCoin 時看下方綠色的買單；買 LikeCoin 時看上方紅色的賣單
 
-同樣道理，若你想賣出 LikeCoin ，你便要觀察「買單」找買家。以下圖為例，假設你想要賣出 50000 LIKE，可保證以 0.0831 TWD/LIKE 的價格賣出，因為目前有人出的最高價是 0.0831 購 296,468枚 LikeCoin。![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK29eYzwfMz9U4AcOB%2Fbitasset-trade-11.png?alt=media&token=311f411c-0ebc-44f4-8f37-26aff0190f12)賣 LikeCoin 時看下方綠色的買單；買 LikeCoin 時看上方紅色的賣單
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK29eYzwfMz9U4AcOB%2Fbitasset-trade-11.png?alt=media&token=311f411c-0ebc-44f4-8f37-26aff0190f12)
 
 心中決定了買賣的價錢和數量後，在左下方的「訂單表」下單，這裡我以「限價委託」為例子說明。
 
