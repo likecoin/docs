@@ -23,18 +23,18 @@
 
 ### Purchase LikeCoin with credit card
 
-只接受 VISA 信用卡
+Only accept Visa
 
-* 最低兌換額 78 港元 或 380 新台幣（約 10 美元）
-* 系統會即時顯示信用卡手續費及兌換率。畫面顯示的貨幣獲得數量已是扣除費用後所獲得的數量
+* Minimum exchange amount is HKD78 or TWD380 \(approximately USD10\)
+* The system display credit card service fee and exchange rate, the currency amount displayed is the amount after deduction of service fee 
 
 ![](../../.gitbook/assets/quick-exchange-3.png)
 
-點擊 "Buy with VISA" 後，系統會要求你填寫信用卡資料，然後付款。
+Click on "Buy with VISA", fill in credit card information and pay for it
 
 ![](../../.gitbook/assets/quick-exchange-4.png)
 
 {% hint style="info" %}
-Liquid 不對數字貨幣及法定貨幣存款收取相應費用，而最低委託數量、最低提款金額及交易手續費等最新資訊可於 [Liquid 幫助中心（繁体中文）](https://help.liquid.com/en/collections/1490333-liquid-%E5%B9%AB%E5%8A%A9%E4%B8%AD%E5%BF%83-%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87)參看
+Liquid does not charge fees for incoming fiat deposits, for information about withdrawal fees, minimum order quantity and other service fees, please check [Liquid Help Center](https://help.liquid.com/en/).
 {% endhint %}
 
