@@ -50,6 +50,7 @@
 * [LikeCoin token](user-guide/likecoin-token/README.md)
   * [Making LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
   * [Trading LikeCoin](user-guide/likecoin-token/how-to-buy-and-sell-likecoin.md)
+  * [Registering on Liquid](user-guide/likecoin-token/registering-on-liquid.md)
   * [Registering on BitAsset](user-guide/likecoin-token/registering-on-bitasset.md)
   * [Trade in BitAsset](user-guide/likecoin-token/trade-in-bitasset.md)
   * [Registering on MyEthShop](user-guide/likecoin-token/registering-on-myethshop.md)
