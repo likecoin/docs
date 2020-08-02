@@ -70,9 +70,9 @@ description: 以台幣買賣 LikeCoin 最方便
 
 ![&#x5DE6;&#x4E0A;&#x65B9;&#xFF0C;&#x9078;&#x597D;&#x4EA4;&#x6613;&#x5C0D;](../../.gitbook/assets/bitasset-trade-10.png)
 
-選好交易對後，看一看畫面中部的「掛單簿」\( order book \)。上方紅色列出的是掛出在市場上的「賣單」，以下圖的例子舉例，有人願意以 0.21 TWD/LIKE 的價格賣出 252 LikeCoin，然後再有人願意以 0.212 TWD/LIKE 的價格賣出 52565 LikeCoin。假設你想買入 50,000 LikeCoin，你便可以最高價 0.212 TWD/LIKE 的價格全數買入。
+選好交易對後，看一看畫面中部的「掛單簿」\( order book \)。上方紅色列出的是掛出在市場上的「賣單」，以下圖的例子舉例，有人願意以 0.21 TWD/LIKE 的價格賣出 252 LikeCoin，然後再有人願意以 0.212 TWD/LIKE 的價格賣出 52,565 LikeCoin。假設你想買入 50,000 LikeCoin，你便可以最高價 0.212 TWD/LIKE 的價格全數買入。
 
-同樣道理，若你想賣出 LikeCoin ，你便要觀察「買單」找買家。以下圖為例，假設你想要賣出 50000 LIKE，可保證以 0.0831 TWD/LIKE 的價格賣出，因為目前有人出的最高價是 0.0831 購 296,468枚 LikeCoin。
+同樣道理，若你想賣出 LikeCoin ，你便要觀察「買單」找買家。以下圖為例，假設你想要賣出 50,000 LIKE，可保證以 0.0831 TWD/LIKE 的價格賣出，因為目前有人出的最高價是 0.0831 購 296,468枚 LikeCoin。
 
 ![&#x8CE3; LikeCoin &#x6642;&#x770B;&#x4E0B;&#x65B9;&#x7DA0;&#x8272;&#x7684;&#x8CB7;&#x55AE;&#xFF1B;&#x8CB7; LikeCoin &#x6642;&#x770B;&#x4E0A;&#x65B9;&#x7D05;&#x8272;&#x7684;&#x8CE3;&#x55AE;](../../.gitbook/assets/bitasset-trade-11.png)
 
