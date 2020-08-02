@@ -16,13 +16,13 @@ In order to reach consensus in a community, some trusted parties have to record 
 
 Endorsement by Likers is reflected by delegation. When a Liker delegates her LikeCoin to a validator, she is trusting its technical ability, knowledge and integrity, and is letting it represent her.
 
-## 驗證人狀態
+## Validater Status
 
-### 活躍驗證人 \(Active Validator\) 
+### Active Validator
 
-履行[驗證交易](https://docs.like.co/v/zh/constitution#9e68)責任，並在讚賞公民共和國憲法界定下的活躍驗證人數目內獲得最多委托的驗證人。
+The validator who performs its duty, and have the most of the delegated LikeCoin within the active validator numbers governed by the constitution.
 
-### 閒置驗證人 \( Inactive Validator \)
+### Inactive Validator
 
-驗證人並無履行驗證交易責任正在「坐牢」\( Jailed \) ，又或者在讚賞公民共和國憲法界定下的活躍驗證人數目以外，委托量不足的驗證人。
+Validator does not perform its duty or "Jailed",  or doesn't have sufficient amount of LikeCoin delegation and is outnumbered by the active validators, governed by the constitution.
 
