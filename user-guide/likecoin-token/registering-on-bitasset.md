@@ -26,7 +26,7 @@ Then go into the "Personal information page" page.
 
 > [BitAsset use introduction manual](https://bitasset.zendesk.com/hc/en-us/articles/360012894432-BitAsset-use-introduction-manual)
 
-### Step2: Certification Level 1 and 2
+### Step 2: Certification Level 1 and 2
 
 If you are not China user, you have to complete certification Lv.1 and Lv.2
 
