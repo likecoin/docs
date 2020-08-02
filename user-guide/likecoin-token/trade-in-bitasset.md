@@ -8,7 +8,7 @@ description: Buy and Sell LikeCoin in TWD
 
 For trading LikeCoin into TWD or BTC, the most convenient way is going through [BitAsset](https://www.bitasset.com/) exchange, as they offer LIKE/TWD exchange pairs. If you do not have a BitAsest account, please take a look at [this](https://docs.like.co/user-guide/likecoin-token/registering-on-bitasset). Moreover, you have to download the Liker Land mobile app to send/receive LikeCoin.
 
-### Step 1: Find your LikerCoin wallet on BitAseet account
+### Step 1: Find your LikeCoin wallet on BitAseet account
 
 First of all you have to find your wallet address in BitAsset so as to transfer LikeCoin to the exchange.
 
@@ -22,19 +22,27 @@ On the wallet page it shows all the wallets that you have. Input "LIKE" to searc
 
 Click "Deposit" to the page below, on "Chain Name" select "LIKE", which means you are transferring LikeCoin on the LikeCoin chain which was upgraded on November 15, 2019. a wallet address starting with cosmos appears.
 
-Click on the "Show QR Code" button, select LIKE and click "Show QR Code".
+Click on the "Show QR Code" button.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1ME1-tJ13uzHqRDG%2Fbitasset-trade-4.png?alt=media&token=38e3c327-e394-4525-9381-60b7933764c9)
+![Select LIKE and click &quot;Show QR Code&quot;](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1ME1-tJ13uzHqRDG%2Fbitasset-trade-4.png?alt=media&token=38e3c327-e394-4525-9381-60b7933764c9)
 
-你會看到下圖的二維碼，那便是你 BitAsset 帳號中的 LikeCoin 錢包地址了。![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1U9Sc7JSsPd8Z7dq%2Fbitasset-trade-5.png?alt=media&token=c022f08d-61e4-4022-9815-28377bbc1516)
+A QR Code appears and it is your LikeCoin wallet address on BitAsset.
 
-留意 BitAsset 充值 LikeCoin 設有單筆最小充值量，_**未達此金額的存款將直接消失掉！**_大家務必看清楚才轉帳啊。有關單筆最小充值量、單筆最小提現量及提現手續費等可參看 [BitAsset 費率標準](https://bitasset.zendesk.com/hc/zh-tw/articles/360028459212-%E8%B2%BB%E7%8E%87%E6%A8%99%E6%BA%96)。
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1U9Sc7JSsPd8Z7dq%2Fbitasset-trade-5.png?alt=media&token=c022f08d-61e4-4022-9815-28377bbc1516)
 
-### 步驟二：轉帳 LikeCoin 到 BitAsset <a id="bu-zhou-er-zhuan-zhang-likecoin-dao-bitasset"></a>
+{% hint style="warning" %}
+BitAseet has a minimum deposit amount, **a single deposit which is less than the minimum will disappear!** Please make sure that you deposit the correct amount. Read [BitAsset Fees](https://bitasset.zendesk.com/hc/en-us/articles/360028459212-Fees) for information about minimum deposit amount, single withdrawal limit and withdrawal fee.
+{% endhint %}
 
-過程就跟 PayMe 或 Line Pay 差不多。打開 [Liker Land 手機應用程式](https://like.co/in/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己口袋裡有多少錢。點畫面上的「轉帳」 / \[Send\] 鍵（下圖紅圈位置）。![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1cZDbgC4A89M-JaG%2Fbitasset-trade-6.png?alt=media&token=71be3481-e041-4740-9d60-f304a6f53e70)在 Liker Land 手機應用程式錢包介面選 Send（紅圈）
+### Step 2: Transfer LikeCoi to BitAsset
 
-進入下一頁後，點下圖紅圈位置的二維碼圖示。app 會跳進照相機介面讓你掃描二維碼，請掃描【步驟一】中你的 BitAsset 帳戶 LikeCoin 錢包的二維碼，因為你想要轉錢到 BitAsset。![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1jdqLpuXiHr9vOwG%2Fbitasset-trade-7.png?alt=media&token=84488570-5565-4ad0-8d47-ca01592bcd03)點上圖紅圈位置打開照相機
+Open the [Liker Land mobile app](https://like.co/in/getapp), click on the avatar at the lower right hand corner, and you can check how much LikeCoin in your wallet. Click on the \[Send\] button \(circled in red below\).
+
+![On Liker Land mobile app select \[Send\] \(circled in red\)](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1cZDbgC4A89M-JaG%2Fbitasset-trade-6.png?alt=media&token=71be3481-e041-4740-9d60-f304a6f53e70)
+
+進入下一頁後，點下圖紅圈位置的二維碼圖示。app 會跳進照相機介面讓你掃描二維碼，請掃描【步驟一】中你的 BitAsset 帳戶 LikeCoin 錢包的二維碼，因為你想要轉錢到 BitAsset。點上圖紅圈位置打開照相機
+
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1jdqLpuXiHr9vOwG%2Fbitasset-trade-7.png?alt=media&token=84488570-5565-4ad0-8d47-ca01592bcd03)
 
 輸入你想要轉帳的 LikeCoin 金額，然後點擊「確認」 / \[Confirm\]。![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1qVvnzuNkDtwocuN%2Fbitasset-trade-8.png?alt=media&token=69ef9beb-4f5c-4c2f-a4a5-931e3a3ce46e)
 
