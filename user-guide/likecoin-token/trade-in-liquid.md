@@ -1,5 +1,5 @@
 ---
-description: Buy and Swap. Instantly
+description: Buy and Swap LikeCoin. Instantly
 ---
 
 # Trade in Liquid
