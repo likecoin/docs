@@ -26,9 +26,3 @@ description: 如何在 SteemCN 文章中加入讚賞鍵
 
 > [在SteemCN给自己的文章加上Like Button](https://matters.news/@jianan/%E5%9C%A8steem-cn%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E6%96%87%E7%AB%A0%E5%8A%A0%E4%B8%8Alike-button-zdpuAwoaAXLidE94UX7yM9VzgASrGuuTDEq3vo9rCFtcMSUcu)
 
-
-
-
-
-
-
