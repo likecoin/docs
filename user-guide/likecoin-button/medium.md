@@ -1,5 +1,5 @@
 ---
-description: How to embed LikeCoin button into Matters
+description: How to embed LikeCoin button into Medium
 ---
 
 # Medium
