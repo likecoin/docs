@@ -65,6 +65,7 @@
 * [LikeCoin button](user-guide/likecoin-button/README.md)
   * [About LikeCoin button](user-guide/likecoin-button/how-it-works.md)
   * [WordPress](user-guide/likecoin-button/wordpress.md)
+  * [Super Like](user-guide/likecoin-button/superlike.md)
   * [Matters](user-guide/likecoin-button/matters.md)
   * [Vocus](user-guide/likecoin-button/vocus.md)
   * [Medium](user-guide/likecoin-button/medium.md)
