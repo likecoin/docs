@@ -70,5 +70,3 @@ You can also use the Javascript way to add LikeCoin button, please refer to:
 
 {% page-ref page="blogspot.md" %}
 
-
-
