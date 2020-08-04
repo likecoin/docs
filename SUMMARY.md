@@ -73,6 +73,7 @@
   * [illustBuy](user-guide/likecoin-button/illustbuy.md)
   * [Blogspot](user-guide/likecoin-button/blogspot.md)
   * [Blink](user-guide/likecoin-button/blink.md)
+  * [Youput](user-guide/likecoin-button/youput.md)
   * [Wix](user-guide/likecoin-button/wix.md)
   * [Write.as](user-guide/likecoin-button/write.as.md)
   * [SteemCN](user-guide/likecoin-button/steemcn.md)
