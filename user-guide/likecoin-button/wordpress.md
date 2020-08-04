@@ -1,3 +1,9 @@
+---
+description: >-
+  Installing LikeCoin WordPress Plugin for embedding LikeCoin button, just a few
+  steps, within 1 minute
+---
+
 # WordPress
 
 ## How to add LikeCoin button on WordPress
