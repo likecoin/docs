@@ -1,4 +1,4 @@
 # Big Dipper
 
-​[北斗 BigDipper](https://likecoin.bigdipper.live/) 以簡便的介面，除了展示治理相關的議案內容、投票結果、驗證人的介紹、投票紀錄外，還有更基本的，所有交易證明。北斗就像個開放政府，讓公民查閱和搜尋共和國的所有開放數據。
+[BigDipper](https://likecoin.bigdipper.live/) block explorer displays validator information, proposals, voting records and results in a simple user interface, and most importantly, all the LikeCoin transaction records. BigDipper is just like an open government for citizens to search for open data within the Republic of Liker Land.
 

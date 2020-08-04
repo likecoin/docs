@@ -61,6 +61,7 @@
   * [Become a validator](user-guide/likecoin-chain/become-a-validator.md)
   * [Big Dipper](user-guide/likecoin-chain/big-dipper.md)
   * [Liquid Democracy](user-guide/likecoin-chain/liquid-democracy.md)
+  * [Untitled](user-guide/likecoin-chain/proposal.md)
 * [LikeCoin button](user-guide/likecoin-button/README.md)
   * [About LikeCoin button](user-guide/likecoin-button/how-it-works.md)
   * [WordPress](user-guide/likecoin-button/wordpress.md)
