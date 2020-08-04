@@ -2,7 +2,9 @@
 
 ![](../../.gitbook/assets/likecoin_staking_rewards_voting_eng.png)
 
-LikeCoin 除了是個通證 \( token \)，LikeCoin chain 是區塊鏈，加起來也是個 DAO \( decentralized autonomous/democratic organization, 分散式自治機構 \)。當中的群體決策方式，我們稱為「流動民主」。
+LikeCoin is a token, LikeCoin chain is it's blockchain, adding together is a DAO \(decentralized autonomous/democratic organization\).
 
-在流動民主機制中：首先，所有 LikeCoin 的持有人都是持份者 \( stakeholder \)，LikeCoin 持有數反映的是持份，Liker 可以把 LikeCoin 委託給信賴的驗證人，相對於代議政制中人民選出自己信賴的代表，比國際流行的代議政制更進一步的是，持份者還除了可以決定選誰，還能決定充權的程度，因為委託 LikeCoin 越多，驗證人的投票權越大，也能同時委託給幾個驗證人；其次，委託的驗證人隨時可以改變，因此沒有一個固定的任期，持份者隨時可以另選賢能，驗證人長期需要考慮對持份者負責。所以，到了這個階段，基金會相當於一個政府，其執行和權力受制於相當於人民代表的驗證人。
+In Liquid Democracy, all the holders of LikeCoin are stakeholders. The amount of LikeCoin owned by an individual or organization reflects their stakes. Liker delegates LikeCoin to a validator that he/she trusts, just the same as representative democracy that people vote for a representative. But liquid democracy is one step ahead, stakeholder decides who to choose and the level of empowerment because more LikeCoin delegation represent more voting power, and also multiple delegates to different validators is allowed. Moreover the delegation to a validator can be changed at any time, there is no fixed period for the term of office, stakeholder can choose another representative at any time. Validator has to be responsible for their stakeholders all the time. Therefore come to this stage, the foundation acts as a government and its power and executions are controlled by validators who are the representative of citizens.
+
+
 
