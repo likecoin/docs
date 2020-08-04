@@ -70,6 +70,7 @@
   * [Vocus](user-guide/likecoin-button/vocus.md)
   * [Medium](user-guide/likecoin-button/medium.md)
   * [Pixnet](user-guide/likecoin-button/pixnet.md)
+  * [illustBuy](user-guide/likecoin-button/illustbuy.md)
   * [Blogspot](user-guide/likecoin-button/blogspot.md)
   * [Blink](user-guide/likecoin-button/blink.md)
   * [Wix](user-guide/likecoin-button/wix.md)
