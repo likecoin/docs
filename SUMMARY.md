@@ -84,7 +84,7 @@
   * [SDK](user-guide/likecoin-button/sdk.md)
 * [Migrating from ERC-20](user-guide/migration/README.md)
   * [Assisted Migration](user-guide/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
-  * [升級 LikeCoin 時的常見問題](user-guide/migration/migration-faq.md)
+  * [LikeCoin Migration FAQ](user-guide/migration/migration-faq.md)
 * [FAQ](user-guide/faq/README.md)
   * [LikeCoin Foundation](user-guide/faq/likecoin-foundation.md)
   * [Where comes the LikeCoin rewards?](user-guide/faq/where-comes-the-likecoin-rewards.md)
@@ -93,7 +93,7 @@
   * [Do you have a press kit?](user-guide/faq/press-kit.md)
   * [How to follow LikeCoin's news?](user-guide/faq/likecoin-news.md)
 
-## 🔬 Developer Resources <a id="developer"></a>
+## �� Developer Resources <a id="developer"></a>
 
 * [LikeCoin chain node](developer/likecoin-chain-node/README.md)
   * [Validator Technical Introduction](developer/likecoin-chain-node/validator-technical-introduction.md)
