@@ -67,7 +67,7 @@ additional-js = ["likebutton.js"]
 additional-css = ["likebutton.css"]
 ```
 
-最後就是看那一頁 md 裡面要加上按鈕就新增一個 div 後用 class 為 likebutton 來綁住輸出。
+最後就是看那一頁 md 裡面要加上按鈕就新增一個 div 後用 class 為 LikeCoin button 來綁住輸出。
 
 ```text
 <div class="likebutton"/>
