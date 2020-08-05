@@ -2,9 +2,9 @@
 
 ![](../../.gitbook/assets/likecoin_postlist_1216.png)
 
-委託能獲得回報，因為每位委託者都在幫忙記帳。
+Delegation generates rewards as each delegator helps to validate transactions.
 
-委託 LikeCoin 會有回報，本文會解釋這筆錢從何而來。由於所有參數日後均能透過社群自治機制改動，請留意本文所舉的數字僅反映目前 \( 2019 Dec \) 情況。  
+Delegate LikeCoin and earn rewards, this article explains where the LikeCoin rewards come from. As all the parameters can be modify according to community's autonomous mechanisms later on, please note the number below reflects the situation of December 2019.  
   
 Validator's rewards for recording all transactions is from [inflation](https://docs.like.co/constitution#9e68). currently set up as 1% of the total LikeCoin circulation, which is ten million out of one billion LikeCoin.
 
