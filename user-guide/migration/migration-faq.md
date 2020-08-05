@@ -8,7 +8,8 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 ### **1. 卡在「正在等待 ETH TX」很久**
 
-系統會先從你的 MetaMask 轉帳 LikeCoin ERC-20 到智能合約，再把新 LikeCoin 存款到你的 LikeCoin chain 錢包。這兩個步驟涉及轉帳，一般需時最少 5-10 分鐘。請耐心等候。  
+系統會先從你的 MetaMask 轉帳 LikeCoin ERC-20 到智能合約，再把新 LikeCoin 存款到你的 LikeCoin chain 錢包。這兩個步驟涉及轉帳，一般需時最少 5-10 分鐘。請耐心等候。
+
 若過了超過 15 分鐘仍未成功升級，有可能是後台出現問題，請聯絡客服。
 
 ### **2. Like.co 網站上顯示的 LikeCoin 數跟 Liker Land 手機應用程式上的不乎**
@@ -23,7 +24,8 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 ### **4. 我從沒安裝過 MetaMask，要怎樣升級？**
 
-既然你沒有安裝過 MetaMask，即是你從沒用過自己的錢包儲存 LikeCoin， [Like.co/in](http://like.co/in) 網頁上顯示的 LikeCoin 數字只是系統幫你暫時寄存的。  
+既然你沒有安裝過 MetaMask，即是你從沒用過自己的錢包儲存 LikeCoin， [Like.co/in](http://like.co/in) 網頁上顯示的 LikeCoin 數字只是系統幫你暫時寄存的。
+
 你不用跑升級流程，只需用慣常的方法登入 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)，待領的 LikeCoin 便會自動存入你的新錢包。
 
 ### **5. 錯誤：「請用已綁定你的 Liker ID 的以太坊地址 \[0x...\] 來簽署」**
