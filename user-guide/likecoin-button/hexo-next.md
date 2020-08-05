@@ -1,3 +1,7 @@
+---
+description: How to embed LikeCoin button into Hexo
+---
+
 # Hexo
 
 Thanks user [只是個打字的](https://docs.like.co/v/zh/user-guide/likecoin-button/hexo-next) for the tutorial.
