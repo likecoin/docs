@@ -31,13 +31,13 @@ Hugo allows users to create simple templates with [Partial Templates](https://go
 	likerID = "likerID"
 ```
 
-接著編輯文章使用的模板，通常位處於 `_default/single.html`。這就是一個 Go Template，在你想要的地方插入，建議插在 `{{ .Content }}` 後面，這樣 LikeCoin button 就會接續出現文章下面
+Then edit the post template, it is usually in `_default/single.html`. This is a Go Template, suggest to put the code after `{{ .Content }}`, LikeCoin button will appear at the end of the article
 
 ```text
 {{ partial "likecoin.html" . }}
 ```
 
-這樣 Hugo 就會將 LikeCoin 這個 partial render 到你的文章中了。記得加上 “."，沒有的話，LikeCoin 的模板讀不到資料。留意整個過程都不需要修改 theme 的原始程式
+Hugo is going to render this partial to your posts. Remember to add the ".", otherwise the LikeCoin template cannot read the data. In fact it is not necessary to modify the original Hugo theme
 
-最後執行 `hugo server` 預覽你的網站。
+Last step is to run `hugo server` and preview your website.
 
