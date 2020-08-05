@@ -26,5 +26,7 @@ Download it on [Google Play Store](https://play.google.com/store/apps/details?id
 
 #### More about LikeCoin: [Facebook](https://www.facebook.com/Liker.Land/) \| [Twitter](https://twitter.com/likecoin) \| [Slack](https://join.g0v.tw/) \| [Medium](https://medium.com/likecoin) \| [Newsletter](https://likecoin.substack.com/) \| [Telegram](https://t.me/likecoin) [Block Explorer](https://likecoin.bigdipper.live/) \| [Github](https://github.com/likecoin) \| [Gitcoin](https://gitcoin.co/grants/634/likecoin-republic-of-liker-land)
 
+#### Contact customer service
 
+Go to [Like.co](https://like.co/) and press the blue button at the lower right hand conrner
 
