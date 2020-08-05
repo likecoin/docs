@@ -6,9 +6,9 @@ description: How to embed LikeCoin button into Hugo
 
 Thanks user [Wancat](https://www.wancat.cc/post/hugo-install-likecoin/) for the tutorial.
 
-安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
+Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
 
-先為你的網站選擇一個主題，以下採用 [CleanWhite](https://themes.gohugo.io/hugo-theme-cleanwhite) 這套主題作例子。
+Choose a theme for your website first, the following is an example of [CleanWhite](https://themes.gohugo.io/hugo-theme-cleanwhite). 
 
 Hugo 可以使用自訂 Layout 的方式，在不改變主題的情況下改變網站設計，用戶可透過這個方式在每篇文章下放置讚賞鍵。
 

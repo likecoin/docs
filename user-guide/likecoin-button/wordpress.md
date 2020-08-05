@@ -16,17 +16,17 @@ Before installing the LikeCoin plugin, please [register a Liker ID](https://docs
 
 Follow the steps:
 
-1\) Go to the WordPress admin panel and login \( For example if your website is www.abc.com, the admin panel address is usually on www.abc.com/wp-admin\).
+1. Go to the WordPress admin panel and login \( For example if your website is www.abc.com, the admin panel address is usually on www.abc.com/wp-admin\).
 
-2\)  Click on the Menu on the left, go to "Plugin" and click on "install plugin" on top.
+2. Click on the Menu on the left, go to "Plugin" and click on "install plugin" on top.
 
 ![](https://downloads.intercomcdn.com/i/o/72823649/de9b920907d2af82226ac75d/image.png)
 
-3\) Search for "LikeCoin" and find the LikeCoin plugin, click "install" and wait for the system to finish the job.
+3. Search for "LikeCoin" and find the LikeCoin plugin, click "install" and wait for the system to finish the job.
 
 ![](https://downloads.intercomcdn.com/i/o/72829954/b4eb1f0016d9d8625fbae18d/image+%281%29.png)
 
-4\) After installation, there will be an "LikeCoin" option in the menu. Congratulations,  installation is done!  
+4. After installation, there will be an "LikeCoin" option in the menu. Congratulations,  installation is done!  
 
 
 ![&quot;LikeCoin&quot; on the menu.](https://downloads.intercomcdn.com/i/o/78316704/563d879f9e38b9a1095c47be/menu+choice.png)
@@ -53,11 +53,11 @@ There are many creators in one website, each of them got their own Liker ID, can
 
 Sure, the LikeCoin plugin supports multiple Liker ID by default.
 
-1\) In the LikeCoin plugin setting, there is an option  "Enable site Liker ID".  Please make sure that this option is "**NOT**" being selected.
+1. In the LikeCoin plugin setting, there is an option  "Enable site Liker ID".  Please make sure that this option is "**NOT**" being selected.
 
 ![](https://downloads.intercomcdn.com/i/o/136642368/d706b1b2fce0cc75ee5b41f8/image.png)
 
-2\) You can add new WordPress users as usual, and this part is not related to LikeCoin plugin. After adding new users, they can use their own WordPress account to login and set up their own Liker ID and LikeCoin button.
+2. You can add new WordPress users as usual, and this part is not related to LikeCoin plugin. After adding new users, they can use their own WordPress account to login and set up their own Liker ID and LikeCoin button.
 
 ![](https://downloads.intercomcdn.com/i/o/136642597/50fe2f0401676caf9ebf86f6/image.png)
 
