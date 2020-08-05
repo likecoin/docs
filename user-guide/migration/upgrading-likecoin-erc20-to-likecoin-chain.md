@@ -6,25 +6,20 @@ description: >-
 
 # Assisted Migration
 
-This document is for those who fulfil the below conditions:
+LikeCoin has been migrated to the LikeCoin chain and users no longer need MetaMask to login but should use Liker Land mobile app instead.  This document is for legacy users who created Liker ID with MetaMask and did not complete the Liker ID migration process only.
 
-1. have LikeCoin on MetaMask
+For those who fulfil the below conditions:
+
+1. Have LikeCoin on MetaMask
 2. Have bound your Liker ID with at least one social accounts \(Google/Facebook/Twitter/Matters\) besides MetaMask
 
-If you can **login Liker by MetaMask only**, you can still follow the below instruction except that you should choose "Login by MetaMask" in the upper left corner of the login screen, and you will be asked to setup a new password during the process.
+### Step 1: Visit [Like.co/in](https://like.co/in) <a id="step-1-visit-likecoin-"></a>
 
-LikeCoin has been migrated to LikeCoin chain and users no longer need MetaMask to login but should use Liker Land app instead.  This article is for legacy users which created Liker ID with MetaMask and have not finished the migration process only.
+Your task is to upgrade the LikeCoin in your MetaMask wallet to LikeCoin chain, so the first step is to make sure that you have the MetaMask with the correct wallet address installed in your Chrome browser.
 
-For details about the LikeCoin chain, please [read this](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6).
+Login [Like.co/in](http://like.co/in) by Chrome with your social account \(Google / Facebook / Twitter / Matters\).  The system will pop up the below screen \(probably in English\).
 
-----------------
-
-### Step 1: visit [like.co/in](https://like.co/in) <a id="step-1-visit-likecoin-"></a>
-
-Your task is to upgrade the LikeCoin in your MetaMask wallet to LikeCoin chain, so the first step is to make sure that you have the MetaMask with the correct wallet address installed in your Chrome browser.    
-Login [like.co/in](http://like.co/in) by Chrome with your social account \(Google / Facebook / Twitter / Matters\).  The system will pop up the below screen \(probably in English\).
-
-![Choose &quot;Migrate Now&quot;](https://downloads.intercomcdn.com/i/o/167235545/c6676bcebb5554053fdcb7af/%E6%9C%89+MetaMask+%E6%9C%89+Google+%E6%9C%89%E8%88%8A+LIKE.png)
+![Choose &quot;Migrate Now&quot;](../../.gitbook/assets/likecoin-migration-1.png)
 
 ### Step 2.1: Read the introduction <a id="step-21-read-the-introduction"></a>
 
@@ -62,6 +57,8 @@ You can check your LikeCoin balance in [https://like.co/in](https://like.co/in) 
 Please visit [Google Play store](https://play.google.com/store/apps/details?id=com.oice) or [Apple App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) to download the Liker Land mobile app.  Login by your social account and check your balance on the app.  You may also perform various operations of LikeCoin such as transfer and delegation there.
 
 ![](https://downloads.intercomcdn.com/i/o/167238907/feec175add4bc04dd18a2f71/image.png)
+
+If you can **login Liker by MetaMask only**, you can still follow the below instruction except that you should choose "Login by MetaMask" in the upper left corner of the login screen, and you will be asked to setup a new password during the process.
 
 
 
