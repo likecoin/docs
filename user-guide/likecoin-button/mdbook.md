@@ -19,7 +19,7 @@ description: 如何在 mdBook 開發環境的文章中加入讚賞鍵
 </div>
 ```
 
-客製 mdBook 先新增 `likebutton.js` 於 `book.toml` 旁，也可以使用 [likecoin/likecoin-button-sdk](https://github.com/likecoin/likecoin-button-sdk) 的 sdk.js 原理類似。
+客製 mdBook 先新增 `likebutton.js` 於 `book.toml` 旁，也可以使用 [likecoin/likecoin-button-sdk](https://github.com/likecoin/likecoin-button-sdk) 的 `sdk.js` 原理類似。
 
 likebutton.js
 
