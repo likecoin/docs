@@ -90,9 +90,9 @@
   * [How to receive a Liker Land monthly report?](user-guide/faq/monthly-report.md)
   * [Where comes the LikeCoin rewards?](user-guide/faq/where-comes-the-likecoin-rewards.md)
   * [What is Authcore?](user-guide/faq/what-is-authcore.md)
+  * [How to follow LikeCoin's news?](user-guide/faq/likecoin-news.md)
   * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/volunteer.md)
   * [Do you have a press kit?](user-guide/faq/press-kit.md)
-  * [How to follow LikeCoin's news?](user-guide/faq/likecoin-news.md)
 
 ## �� Developer Resources <a id="developer"></a>
 
