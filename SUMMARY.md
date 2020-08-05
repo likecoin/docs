@@ -68,6 +68,7 @@
   * [升級 LikeCoin 到 LikeCoin chain](user-guide/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
   * [升級 LikeCoin 時的常見問題](user-guide/migration/migration-faq.md)
 * [常見問題](user-guide/faq/README.md)
+  * [讚賞公民基金會是什麼？](user-guide/faq/likecoin-foundation.md)
   * [如何獲取 Liker Land 每月報告？](user-guide/faq/monthly-report.md)
   * [因委託而產生的 LikeCoin 回報，錢從何來？](user-guide/faq/where-comes-the-likecoin-rewards.md)
   * [如何取消委託，領回 LikeCoin?](user-guide/faq/how-to-undelegate-likecoin.md)
