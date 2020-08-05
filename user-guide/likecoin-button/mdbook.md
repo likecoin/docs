@@ -75,9 +75,5 @@ Take a look at which pages you need to add your LikeCoin button in md, just add 
 
 The above indicates that the div in md convert to HTML by mdbook build and release the LikeCoin button.
 
-目前只能限制一個 LikerID 使用，如要提供多用戶可以用 getElementsByClassName\(LikerIDFoo\) 來實做。
-
-### 參考文章
-
-> [如何在 mdbook 的文章中加入讚賞鍵 Likecoin Button](https://dltdojo.github.io/taichu-crypto/dao/likecoin.html#likecoin)
+This is for one Liker ID only, multiple users can be achieved by getElementsByClassName\(LikerIDFoo\).
 
