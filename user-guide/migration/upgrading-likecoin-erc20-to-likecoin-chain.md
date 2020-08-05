@@ -13,11 +13,11 @@ For those who fulfil the below conditions:
 1. Have LikeCoin on MetaMask
 2. Have bound your Liker ID with at least one social accounts \(Google/Facebook/Twitter/Matters\) besides MetaMask
 
-### Step 1: Visit [Like.co/in](https://like.co/in) <a id="step-1-visit-likecoin-"></a>
+### Step 1: Visit Like.co/in <a id="step-1-visit-likecoin-"></a>
 
 Your task is to upgrade the LikeCoin in your MetaMask wallet to LikeCoin chain, so the first step is to make sure that you have the MetaMask with the correct wallet address installed in your Chrome browser.
 
-Login [Like.co/in](http://like.co/in) by Chrome with your social account \(Google / Facebook / Twitter / Matters\).  The system will pop up the below screen \(probably in English\).
+Login Liker Land by Chrome with your social account \(Google / Facebook / Twitter / Matters\) and go to [https://like.co/in/](https://like.co/in/).  The system will pop up the below screen \(probably in English\).
 
 ![Choose &quot;Migrate Now&quot;](../../.gitbook/assets/likecoin-migration-1.png)
 

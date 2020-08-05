@@ -93,7 +93,7 @@
   * [Do you have a press kit?](user-guide/faq/press-kit.md)
   * [How to follow LikeCoin's news?](user-guide/faq/likecoin-news.md)
 
-## 🔬 Developer Resources <a id="developer"></a>
+## �� Developer Resources <a id="developer"></a>
 
 * [LikeCoin chain node](developer/likecoin-chain-node/README.md)
   * [Validator Technical Introduction](developer/likecoin-chain-node/validator-technical-introduction.md)
