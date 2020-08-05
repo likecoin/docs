@@ -1,6 +1,6 @@
 # Hexo
 
-Thanks user [只是個打字的](https://blog.typeart.cc/) for the tutorial.
+Thanks user [只是個打字的](https://docs.like.co/v/zh/user-guide/likecoin-button/hexo-next) for the tutorial.
 
 Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
 
@@ -20,7 +20,7 @@ In directly `themes/next/layout/_custom/` add a new file `like_coin.ejs` and pas
 
 ### Add LikeCoin button at the end of each article
 
-Open `themes/next/layout/_macro/post.swig` and put `like_coin.ejs`  into the approproate position
+Open `themes/next/layout/_macro/post.swig` and put `like_coin.ejs` into the approproate position
 
 ```text
  {% if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %}
@@ -29,7 +29,7 @@ Open `themes/next/layout/_macro/post.swig` and put `like_coin.ejs`  into the app
     {% endif %}
 ```
 
- 如果您沒有開啟相關文章的話，則加在往上幾行的 `{{ post.content }}` 後方
+ If you do not enable the related post function, then add it after the `{{ post.content }}`
 
 ```text
         {% else %}
@@ -47,17 +47,5 @@ Open `themes/next/layout/_macro/post.swig` and put `like_coin.ejs`  into the app
     </div>
 ```
 
-完成後就可以看到讚賞鍵出現在文章中。
-
-### 參考文章
-
-> [在 Hexo Blog 上安裝 LikeCoin 賺錢錢 👍](https://sealman234.github.io/hexo/20200622/2807510721/)
-
-> [在Hexo NexT增加like Button](https://blog.typeart.cc/%E5%9C%A8Hexo%20NexT%E5%A2%9E%E5%8A%A0like%20Button/)
-
-> [如何将Liker按钮集成到Hexo](https://hive.blog/cn/@aafeng/liker-hexo)
-
-> [藍圖重生（一）：給 Hexo 文章 加上 LikeCoin 的贊賞鍵](https://blog.mykeyvans.science/posts/add-likebutton-for-hexo.html)
-
-> [Hexo教學2 iframe\(likecoin\)](https://allem40306.github.io/blog/posts/183a/)
+LikeCoin button will appear on your articles.
 

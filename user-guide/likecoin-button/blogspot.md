@@ -22,7 +22,7 @@ On page settings, select a position to add "HTML/JavaScript", paste the followin
 
 ### **LikeCoin button at the end of each article**
 
-Go to "Theme" and click "Edit HTML" and search for  **data:post.body**, carriage return when seeing &lt;/div&gt; then add the following source code, and change the \[LikerID\] to your Liker ID:  
+Go to "Theme" and click "Edit HTML" and search for  **data:post.body**, carriage return when seeing `</div>` then add the following source code, and change the \[LikerID\] to your Liker ID:  
 
 
 ```text
@@ -43,7 +43,7 @@ data:post.body example below
 </div>
 ```
 
-adding source code after &lt;/div&gt; and become
+adding source code after `</div>` and become
 
 ```text
 <!-- Then use the post body as the schema.org description, for good G+/FB snippeting. -->

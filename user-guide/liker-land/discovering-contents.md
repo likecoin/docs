@@ -8,7 +8,7 @@ description: Reward your favourite contents
 
 ### **Follow**
 
-Follow all the creators that you've shown your appreciation, their new works will appear in the "Follow" page.  
+Follow all the creators that you've shown your appreciation, their new works will appear on the "Follow" page.  
 
 
 ![Follow function](../../.gitbook/assets/img_0815.jpg)
