@@ -22,25 +22,25 @@ It may be the case that you never blind your Etherscan wallet to your Like ID an
 
 This error indicates that the system cannot detect MetaMask, please check if you are using Chrome and have Metamask installed.
 
-### **4. 我從沒安裝過 MetaMask，要怎樣升級？**
+### **4. I never installed MetaMask, how to migrate?**
 
-既然你沒有安裝過 MetaMask，即是你從沒用過自己的錢包儲存 LikeCoin， [Like.co/in](http://like.co/in) 網頁上顯示的 LikeCoin 數字只是系統幫你暫時寄存的。  
-你不用跑升級流程，只需用慣常的方法登入 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)，待領的 LikeCoin 便會自動存入你的新錢包。
+If you did not install MetaMask, that means you never use a wallet to accumulate LikeCoin, The numbers displayed on [Like.co/in](https://like.co/in/) is just in temporary storage by the system.
 
-### **5. 錯誤：「請用已綁定你的 Liker ID 的以太坊地址 \[0x...\] 來簽署」**
+You do not have to migrate your LikeCoin, login Liker Land mobile app, the LikeCoin in temporary storage will go into your new wallet.
 
-你正在使用的 MetaMask 的當前電子錢包地址，跟你 Liker ID 綁定的地址不乎。請留意 MetaMask 只是一個電子錢包管理工具，可以管理多個地址。  
-請仔細想想：
+### **5.** Error: "Please use the Etherscan kaddress \[0x...\] blinding with your LikeCoin to sign"
 
-* 有沒有重新安裝過 MetaMask？
-* 有沒有重灌過電腦？
-* 你是否正在使用註冊 Liker ID 時所用的電腦？
+The MetaMask wallet address that you are using, does not match the Liker ID that you blind to. Metamask is a cryptocurrency wallet for managing different crypto addresses. Please try to remember:
 
-建議你找回你註冊時的 MetaMask 電子錢包，再跑一次升級流程。
+* Have you reinstalled MetaMask?
+* Have you reinstalled your computer?
+* Are you using the same computer to register your Liker ID?
 
-假若你懷疑自己遺失了電子錢包的地址，請查看你是否有備份助記詞 \( seed phrase \) 或私鑰。私鑰及助記詞是恢復電子錢包的唯一方法。若你不幸同時遺失了兩者，便像在街上掉了錢包一樣，永遠無法再操作錢包了。
+Suggest to use the MetaMask wallet when you register your Liker ID and try to migrate again.
 
-### **6. 升級過程中，MetaMask 及 Like.co/in 網頁上顯示的 LikeCoin 數變成 0 了！**
+If you lost your wallet address, please check if you have backed up the seed phrase or not. Private key or seed phrase are the only way to recover a crypto wallet. If you lose both, you will never be able access your wallet again.
 
-由於系統會先從你的 MetaMask 轉帳 LikeCoin ERC-20 到智能合約，所以你的 LikeCoin 會有數分鐘時間在你的 MetaMask 錢包中消失，因為你的 LikeCoin 正在被傳送的途中呢。請耐心等候一會。
+### **6. During the migration process, MetaMask and Like.co/in both display 0 LikeCoin!**
+
+The system transfers LikeCoin ERC-20 from MetaMask to smart contract, therefore your LikeCoin will disappear for a few minutes, as they are on the way to the new LikeCoin chain, please be patient.
 
