@@ -12,15 +12,15 @@ The system transfers LikeCoin ERC-20 from MetaMask to smart contract, then depos
 
 If the whole migration process is more than 15 minutes and do not get done, please contact our customer service.
 
-### **2. Like.co 網站上顯示的 LikeCoin 數跟 Liker Land 手機應用程式上的不乎**
+### **2. The amount of LikeCoin in Like.co is not the same as the Liker Land mobile app**
 
-很可能是你從來都沒有綁定以太坊錢包地址到你的 Liker ID，導致你所賺得的 LikeCoin 積存了在系統上還未派出。請你耐心等待幾天再查看。
+It may be the case that you never blind your Etherscan wallet to your Like ID and there are rewards waiting to be released. Please check it a few days later.
 
-### **3. 在簽署步驟遇上「無法偵測瀏器的 web3」錯誤**
+### **3.** In the "Sign" process experiences "Cannot detect web3 in browser" error
 
 ![](../../.gitbook/assets/likecoin-migration-faq.png)
 
-這個錯誤是指偵測不到 MetaMask 電子錢包。請檢查你是否在用 Chrome 瀏覽器，及 MetaMask Chrome extension 是否已安裝好。
+This error indicates that the system cannot detect MetaMask, please check if you are using Chrome and have Metamask installed.
 
 ### **4. 我從沒安裝過 MetaMask，要怎樣升級？**
 
