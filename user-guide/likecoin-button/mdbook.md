@@ -25,7 +25,7 @@ likebutton.js
 
 ```text
 const LIKER_ID = "dltdojo";//記得換成自己的
-let likeurl = `https://button.like.co/in/embed/${LIKER_ID}/button?referrer=${encodeURI(window.location.href)}`;
+let likeurl = `https://button.like.co/in/embed/${LikerID}/button?referrer=${encodeURI(window.location.href)}`;
 let el = document.getElementsByClassName("likebutton")[0];
 if(el){
     el.innerHTML = `<div class="likecoin-embed likecoin-button">
