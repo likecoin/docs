@@ -73,7 +73,7 @@ Take a look at which pages you need to add your LikeCoin button in md, just add 
 <div class="likebutton"/>
 ```
 
-上面寫在 md 內的 div 在經過 mdbook build 轉化成為 HTML 後即能出現讚賞鍵。
+The above indicates that the div in md convert to HTML by mdbook build and release the LikeCoin button.
 
 目前只能限制一個 LikerID 使用，如要提供多用戶可以用 getElementsByClassName\(LikerIDFoo\) 來實做。
 
