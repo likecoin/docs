@@ -1,5 +1,5 @@
 ---
-description: Join the LikeCoin community
+description: Involved in the community
 ---
 
 # How to follow LikeCoin's news?

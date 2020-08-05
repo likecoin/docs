@@ -1,3 +1,7 @@
+---
+description: User the materials to create signage and attract Likers
+---
+
 # Do you have a press kit?
 
 Yes. Feel free to download LikeCoin Press Kit 1.2 with LikeCoin logo and other materials.
