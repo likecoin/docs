@@ -12,13 +12,13 @@ description: 如何在 Hugo 開發環境的文章中加入讚賞鍵
 
 Hugo 可以使用自訂 Layout 的方式，在不改變主題的情況下改變網站設計，用戶可透過這個方式在每篇文章下放置讚賞鍵。
 
-首先覆蓋文章的模板，將 theme 的 layouts 資料夾複製到專案目錄下
+首先覆蓋文章的模板，將 `theme` 的 `layouts` 資料夾複製到專案目錄下
 
 ```text
 cp -r theme/YOUR_THEME/layouts/ .
 ```
 
-Hugo 中的 [Partial Templates](https://gohugo.io/templates/partials/) 可以讓你建立小模板，嵌入在頁面中。在 layouts 的 partials 資料夾建立 `likecoin.html`，寫入以下內容。你也可以在這裡以 HTML 格式加上想給讀者看的說明文字
+Hugo 中的 [Partial Templates](https://gohugo.io/templates/partials/) 可以讓你建立小模板，嵌入在頁面中。在 `layouts` 的 `partials` 資料夾建立 `likecoin.html`，寫入以下內容。你也可以在這裡以 HTML 格式加上想給讀者看的說明文字
 
 ```text
 <iframe class="LikeCoin" height="235" src="https://button.like.co/in/embed/{{ .Site.Params.likerID }}/button?referrer={{ .Permalink }}" width="100%" frameborder=0></iframe>
