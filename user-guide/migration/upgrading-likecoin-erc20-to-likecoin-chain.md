@@ -13,9 +13,9 @@ LikeCoin 經已轉移到 [LikeCoin chain](https://docs.like.co/v/zh/user-guide/l
 
 請按照以下步驟升級至全新的 LikeCoin。
 
-### 步驟 1： 訪問 [Like.co/in](https://like.co/in) <a id="-1--likecoin-"></a>
+### 步驟 1： 訪問 Like.co/in <a id="-1--likecoin-"></a>
 
-由於現在的目的是升級 MetaMask 中的 LikeCoin，所以你必須使用能操作該 MetaMask 錢包地址的電腦來執行以下步驟。 請以你常用的社交帳戶 \( Google/Facebook/Twitter/Matters \) 登入。系統會彈出以下視窗。點擊「現在轉移」。
+由於現在的目的是升級 MetaMask 中的 LikeCoin，所以你必須使用能操作該 MetaMask 錢包地址的電腦來執行以下步驟。 請以你常用的社交帳戶 \( Google/Facebook/Twitter/Matters \) 登入 [Liker Land](https://liker.land/) 再訪問 [https://like.co/in/](https://like.co/in/)。系統會彈出以下視窗。點擊「現在轉移」。
 
 
 
