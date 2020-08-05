@@ -10,15 +10,15 @@ Before adding the LikeCoin button, please [register a Liker ID](https://docs.lik
 
 Choose a theme for your website first, the following is an example of [CleanWhite](https://themes.gohugo.io/hugo-theme-cleanwhite). 
 
-Hugo 可以使用自訂 Layout 的方式，在不改變主題的情況下改變網站設計，用戶可透過這個方式在每篇文章下放置讚賞鍵。
+Hugo allows user to use custom Layout in order to change the website design without altering the theme, LikeCoin button can be added with this function.
 
-首先覆蓋文章的模板，將 theme 的 layouts 資料夾複製到專案目錄下
+The 1st step is to copy the article template, copy the layouts folder in theme to the directory of the repository
 
 ```text
 cp -r theme/YOUR_THEME/layouts/ .
 ```
 
-Hugo 中的 [Partial Templates](https://gohugo.io/templates/partials/) 可以讓你建立小模板，嵌入在頁面中。在 layouts 的 partials 資料夾建立 `likecoin.html`，寫入以下內容。你也可以在這裡以 HTML 格式加上想給讀者看的說明文字
+Hugo allows users to create simple templates with [Partial Templates](https://gohugo.io/templates/partials/) and embed it into a page. Create `likecoin.html` in `partials` folder of `layouts`, fill in the following code. Words to encourage clapping of LikeCoin button can also be included in HTML format.
 
 ```text
 <iframe class="LikeCoin" height="235" src="https://button.like.co/in/embed/{{ .Site.Params.likerID }}/button?referrer={{ .Permalink }}" width="100%" frameborder=0></iframe>
