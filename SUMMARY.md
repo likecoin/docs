@@ -63,7 +63,7 @@
   * [Hugo](user-guide/likecoin-button/hugo.md)
   * [Jekyll](user-guide/likecoin-button/jekyll.md)
   * [mdBook](user-guide/likecoin-button/mdbook.md)
-  * [JavaScript SDK](user-guide/likecoin-button/javascript-sdk.md)
+  * [SDK](user-guide/likecoin-button/sdk.md)
 * [由 ERC-20 升級](user-guide/migration/README.md)
   * [升級 LikeCoin 到 LikeCoin chain](user-guide/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
   * [升級 LikeCoin 時的常見問題](user-guide/migration/migration-faq.md)
