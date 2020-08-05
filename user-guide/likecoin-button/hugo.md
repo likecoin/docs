@@ -12,19 +12,19 @@ Choose a theme for your website first, the following is an example of [CleanWhit
 
 Hugo allows user to use custom Layout in order to change the website design without altering the theme, LikeCoin button can be added with this function.
 
-The 1st step is to copy the article template, copy the layouts folder in theme to the directory of the repository
+The 1st step is to copy the post template, copy the `layouts` folder in `theme` to the directory of the repository
 
 ```text
 cp -r theme/YOUR_THEME/layouts/ .
 ```
 
-Hugo allows users to create simple templates with [Partial Templates](https://gohugo.io/templates/partials/) and embed it into a page. Create `likecoin.html` in `partials` folder of `layouts`, fill in the following code. Words to encourage clapping of LikeCoin button can also be included in HTML format.
+Hugo allows users to create simple templates with [Partial Templates](https://gohugo.io/templates/partials/) and embed it into a page. Create `likecoin.html` in `partials` folder of `layouts`, fill in the following code. Words to encourage clapping of LikeCoin button can also be included in HTML format
 
 ```text
 <iframe class="LikeCoin" height="235" src="https://button.like.co/in/embed/{{ .Site.Params.likerID }}/button?referrer={{ .Permalink }}" width="100%" frameborder=0></iframe>
 ```
 
- 接下來在 `config.toml` 中加入以下程式碼，並將 \[LikerID\] 更改為你的 Liker ID 
+ Add the following code to `config.toml`, and change \[LikerID\] to your Liker ID
 
 ```text
 [[params]]

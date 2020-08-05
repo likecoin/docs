@@ -8,7 +8,7 @@ Thanks user [只是個打字的](https://docs.like.co/v/zh/user-guide/likecoin-b
 
 Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
 
-### Function: Add LikeCoin button automatically according to the article URL
+### Function: Add LikeCoin button automatically according to the post URL
 
 In directly `themes/next/layout/_custom/` add a new file `like_coin.ejs` and paste in the following code, change the \[LikerID\] to your Like ID.
 
@@ -22,7 +22,7 @@ In directly `themes/next/layout/_custom/` add a new file `like_coin.ejs` and pas
 <div>
 ```
 
-### Add LikeCoin button at the end of each article
+### Add LikeCoin button at the end of each post
 
 Open `themes/next/layout/_macro/post.swig` and put `like_coin.ejs` into the approproate position
 
