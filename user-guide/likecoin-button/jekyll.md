@@ -8,24 +8,24 @@ Thanks user [PinGuの独り言](https://pingu.moe/2020/01/integrate-likebutton-w
 
 Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
 
-### 從 \_config.yml 設定 liker\_id <a id="&#x5F9E;_configyml&#x8A2D;&#x5B9A;liker_id"></a>
+### Config liker\_id in \_config.yml  <a id="&#x5F9E;_configyml&#x8A2D;&#x5B9A;liker_id"></a>
 
-先在 `_config.yml` 加入 `liker_id` 鍵值，並將 \[LikerID\] 更改為你的 Liker ID
+Add `liker_id` in `_config.yml` , and change \[LikerID\] into your Liker ID
 
 ```text
 # Enter your Liker ID to enable LikeCoin button
 liker_id: [LikerID]
 ```
 
-宣告在`_config.yml` 的變數可以從物件 site 中取得，也就是 `{{site.liker_id}}`
+Define the variables in `_config.yml` can be obtained in the site object, which is `{{site.liker_id}}`
 
 ```text
 https://button.like.co/in/embed/{{site.liker_id}}/button?referrer={{ page.url | absolute_url | cgi_escape }}
 ```
 
-### 插入 iframe <a id="&#x63D2;&#x5165;iframe"></a>
+### Insert iframe <a id="&#x63D2;&#x5165;iframe"></a>
 
-先建立讚賞鍵的 HTML 片段
+Develop the LikeCoin buton HTML
 
 ```text
 {% if site.liker_id %}
