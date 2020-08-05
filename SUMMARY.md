@@ -87,7 +87,7 @@
   * [LikeCoin Migration FAQ](user-guide/migration/migration-faq.md)
 * [FAQ](user-guide/faq/README.md)
   * [LikeCoin Foundation](user-guide/faq/likecoin-foundation.md)
-  * [Untitled](user-guide/faq/monthly-report.md)
+  * [How to receive a Liker Land monthly report?](user-guide/faq/monthly-report.md)
   * [Where comes the LikeCoin rewards?](user-guide/faq/where-comes-the-likecoin-rewards.md)
   * [What is Authcore?](user-guide/faq/what-is-authcore.md)
   * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/volunteer.md)
