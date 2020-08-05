@@ -23,42 +23,42 @@ Login Liker Land by Chrome with your social account \(Google / Facebook / Twitte
 
 ### Step 2.1: Read the introduction <a id="step-21-read-the-introduction"></a>
 
-The system will lead you to the migration page and help you upgrade your LikeCoin step by step.  After reading the background introduction in the below screen, click "Confirm".
+The system will lead you to the migration page and help you upgrade your LikeCoin step by step.  After reading the background introduction in the below screen, click "confirm".
 
-![Click &quot;confirm&quot;](../../.gitbook/assets/likecoin-migration-2.png)
+![Click &quot;confirm&quot;](https://downloads.intercomcdn.com/i/o/167236198/293a78cb2e4b7b487586c0ec/image.png)
 
 ### Step 2.2: Sign
 
 The system is going to perform a transaction from your MetaMask, need your signature for authorisation.  Click "Sign".  
 
 
-![Click &quot;Sign&quot;](../../.gitbook/assets/likecoin-migration-3.png)
+![Click &quot;Sign&quot;](https://downloads.intercomcdn.com/i/o/167236832/fb22111b4a044b3e3a028045/image.png)
 
-After clicking "Sign", the following MetaMask screens will be shown.  Click "Connect" and then "Sign".  
+After clicking "sign", the following MetaMask screens will be shown.  Click "Connect" and then "sign".  
 
 
-![Click &quot;Connect&quot; and then &quot;Sign&quot;](../../.gitbook/assets/likecoin-migration-4.png)
+![Click &quot;Connect&quot; and then &quot;sign&quot;](https://downloads.intercomcdn.com/i/o/167237605/221169c7e9891f64ac1ed7c5/image.png)
 
 ### Step 2.3: Waiting for the upgrading process to be finished <a id="step-23-waiting-for-the-upgrading-process-to-be-finished"></a>
 
 In this step, the system will firstly transfer your LikeCoin ERC-20 to a smart contract, and then deposit LikeCoin to your new wallet on LikeCoin chain.  The process needs a few minutes, please be patient.
 
-![](../../.gitbook/assets/likecoin-migration-5.png)
+![](https://downloads.intercomcdn.com/i/o/167238220/3168becb6798f060d8e736f2/image.png)
 
 ### Step 3: Check your LikeCoin balance <a id="step-3-check-your-likecoin-balance"></a>
 
 You can check your LikeCoin balance in [https://like.co/in](https://like.co/in) after migration completion.  
 
 
-![](../../.gitbook/assets/likecoin-migration-6.png)
+![](https://downloads.intercomcdn.com/i/o/167238743/6a0fc71935e711ec46441c80/image.png)
 
 ### Download the Liker Land mobile app <a id="download-the-liker-land-mobile-app"></a>
 
 Please visit [Google Play store](https://play.google.com/store/apps/details?id=com.oice) or [Apple App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) to download the Liker Land mobile app.  Login by your social account and check your balance on the app.  You may also perform various operations of LikeCoin such as transfer and delegation there.
 
-![](../../.gitbook/assets/likecoin-migration-7.png)
+![](https://downloads.intercomcdn.com/i/o/167238907/feec175add4bc04dd18a2f71/image.png)
 
-{% hint style="info" %}
 If you can **login Liker by MetaMask only**, you can still follow the below instruction except that you should choose "Login by MetaMask" in the upper left corner of the login screen, and you will be asked to setup a new password during the process.
-{% endhint %}
+
+
 
