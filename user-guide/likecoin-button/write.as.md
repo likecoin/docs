@@ -4,13 +4,11 @@ description: How to embed LikeCoin button into Write.as
 
 # Write.as
 
-Thanks to user [夏](https://natsushyo.me/) for the tutorial.
+Thanks to user [夏](https://natsushyo.me/sha-gua-ru-he-jia-ru-likebuttondao-write-aswang-zhi-zhong) for the tutorial.
 
 Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
 
 First of all you have to register [Write.as Pro](https://write.as/pro) to use Javascript.
-
-把 Javascript 程式碼中的 \[LikerID\] 更改為你的 Liker ID，再將它黏貼到 Write.as 設定裡的 "Custom Javascript" 欄位，有需要可加入 CSS 調整版面字型等樣式即可。
 
 Change the Javascript code's \[LikerID\] into your Liker ID, and post them into the "Custom Javascript" setting. Add CSS to adjust the fonts and outlook of the LikeCoin button if required.
 
