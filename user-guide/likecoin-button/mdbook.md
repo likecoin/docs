@@ -75,7 +75,7 @@ additional-css = ["likebutton.css"]
 
 上面寫在 md 內的 div 在經過 mdbook build 轉化成為 HTML 後即能出現讚賞鍵。
 
-目前只能限制一個 LikerID 使用，如要提供多用戶可以用 getElementsByClassName\(LikerIDFoo\) 來實做。
+目前只能限制一個 Liker ID 使用，如要提供多用戶可以用 getElementsByClassName\(LikerIDFoo\) 來實做。
 
 ### 參考文章
 
