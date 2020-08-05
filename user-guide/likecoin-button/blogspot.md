@@ -20,7 +20,7 @@ description: 以 JavaScript 在 Blogspot 等各家網誌的文末、側欄產生
 
 ### 在文章末段放置讚賞鍵
 
-進入佈景「主題」後點擊「編輯HTML」並搜尋 **data:post.body**  ，在看到 &lt;/div&gt; 後換行插入以下程式碼，並將 \[LikerID\] 更改為你的 Liker ID ：
+進入佈景「主題」後點擊「編輯HTML」並搜尋 **data:post.body**  ，在看到 `</div>` 後換行插入以下程式碼，並將 \[LikerID\] 更改為你的 Liker ID ：
 
 ```text
 <b:if cond='data:blog.pageType == "item"'>
@@ -40,7 +40,7 @@ description: 以 JavaScript 在 Blogspot 等各家網誌的文末、側欄產生
 </div>
 ```
 
-在 &lt;/div&gt; 後加入程式碼後變成
+在 `</div>` 後加入程式碼後變成
 
 ```text
 <!-- Then use the post body as the schema.org description, for good G+/FB snippeting. -->
