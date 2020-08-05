@@ -35,7 +35,7 @@ if(el){
 }
 ```
 
- 並複製 [LikeCoinButton-integration/style.css](https://github.com/likecoin/LikeCoinButton-integration/blob/master/web/style.css) 成為 `likebutton.css`
+ Copy [LikeCoinButton-integration/style.css](https://github.com/likecoin/LikeCoinButton-integration/blob/master/web/style.css) and make it to become `likebutton.css`
 
 ```text
 .likecoin-button {
@@ -57,7 +57,7 @@ if(el){
 }
 ```
 
-編輯 `book.toml` 的 `output.html` 段落加入 js 與 css
+Edit `book.toml` in `output.html` and add the js 與 css
 
 ```text
 [output.html]
@@ -67,7 +67,7 @@ additional-js = ["likebutton.js"]
 additional-css = ["likebutton.css"]
 ```
 
-最後就是看那一頁 md 裡面要加上按鈕就新增一個 div 後用 class 為 likebutton 來綁住輸出。
+Take a look at which pages you need to add your LikeCoin button in md, just add a div and use class to display the LikeCoin button.
 
 ```text
 <div class="likebutton"/>
