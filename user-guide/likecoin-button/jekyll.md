@@ -35,11 +35,9 @@ Develop the LikeCoin buton HTML
 {% endif %}
 ```
 
- 用 if 檢查 liker\_id 是否存在。接著要在 post 樣板裡加入剛才的片段，找個接近區段結束的地方寫上 `{% include likeco.html %}`
+Use if to inspect if `liker_id` exists. Then add the code into post template, find a place near the end and add `{% include likeco.html %}`
 
-Use if to inspect if liker\_id exists. Then add the code into post template, find a place near the end and add
-
-建置一次，文章末端已經可以看到讚賞鍵，不過大小還要調整。讚賞鍵的元件會自行適應以維持長寬比，其長寬約為 485px\*240px。使用以下程式碼把它置中自動縮放並隱藏卷軸。
+Build it once, the LikeCoin button is already at the end of each article, but the size has to be adjusted. LikeCoin button will adapt itself to 485px weight\*240px height. Use the following code to align middle and hide the scroll bar.
 
 ```text
 {% if site.liker_id %}
@@ -49,12 +47,4 @@ Use if to inspect if liker\_id exists. Then add the code into post template, fin
 </iframe>
 {% endif %}
 ```
-
-### 參考文章
-
-> [幫jekyll加上likecoin](https://blog.allmwh.org/2020-02/jekyll-likecoin/)
-
-> [給Jekyll加上LikeButton賺錢錢](https://pingu.moe/2020/01/integrate-likebutton-with-jekyll/)
-
-> [Add LikeWidget to Github Pages](https://klee1611.github.io/likecoin-button-jekyll.html)
 
