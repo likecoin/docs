@@ -8,7 +8,7 @@ Thanks user [道場除草機](https://dltdojo.github.io/taichu-crypto/dao/likeco
 
 Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
 
-放入 mdBook 產出的 HTML 靜態文件的重點是需要使用 Javascript 來動態產生下面 HTML 片段於瀏覽器之中。
+Use Javascript to create the following HTML in browsers and put it into static HTML created by mdBook.
 
 ```text
 <div class="likecoin-embed likecoin-button">
@@ -19,7 +19,7 @@ Before adding the LikeCoin button, please [register a Liker ID](https://docs.lik
 </div>
 ```
 
-客製 mdBook 先新增 likebutton.js 於 book.toml 旁，也可以使用 [likecoin/likecoin-button-sdk](https://github.com/likecoin/likecoin-button-sdk) 的 sdk.js 原理類似。
+客製 mdBook 先新增 `likebutton.js` 於 `book.toml` 旁，也可以使用 [likecoin/likecoin-button-sdk](https://github.com/likecoin/likecoin-button-sdk) 的 sdk.js 原理類似。
 
 likebutton.js
 
@@ -35,7 +35,7 @@ if(el){
 }
 ```
 
- 並複製 [LikeCoinButton-integration/style.css](https://github.com/likecoin/LikeCoinButton-integration/blob/master/web/style.css) 成為 likebutton.css
+ 並複製 [LikeCoinButton-integration/style.css](https://github.com/likecoin/LikeCoinButton-integration/blob/master/web/style.css) 成為 `likebutton.css`
 
 ```text
 .likecoin-button {
@@ -57,7 +57,7 @@ if(el){
 }
 ```
 
-編輯 book.toml 的 output.html 段落加入 js 與 css
+編輯 `book.toml` 的 `output.html` 段落加入 js 與 css
 
 ```text
 [output.html]
