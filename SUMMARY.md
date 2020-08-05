@@ -89,6 +89,7 @@
   * [LikeCoin Foundation](user-guide/faq/likecoin-foundation.md)
   * [How to receive a Liker Land monthly report?](user-guide/faq/monthly-report.md)
   * [Where comes the LikeCoin rewards?](user-guide/faq/where-comes-the-likecoin-rewards.md)
+  * [How to undelegate LikeCoin?](user-guide/faq/how-to-undelegate-likecoin.md)
   * [What is Authcore?](user-guide/faq/what-is-authcore.md)
   * [How to follow LikeCoin's news?](user-guide/faq/likecoin-news.md)
   * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/volunteer.md)
