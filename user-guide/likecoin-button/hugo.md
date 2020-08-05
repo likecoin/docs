@@ -47,5 +47,7 @@ Hugo 中的 [Partial Templates](https://gohugo.io/templates/partials/) 可以讓
 
 > [Hugo使用Likecoin教學](https://matters.news/@cason_yang/hugo%E4%BD%BF%E7%94%A8likecoin%E6%95%99%E5%AD%B8-bafyreicc6dbprwwbnx3argddlvrpxjnw5xzh3knecyv3cyr6aelzwiskhy)
 
+> [\[hugo\]在hugo安裝likecoin按鈕](https://web.kmp.tw/post/howtoaddlikecoinbuttoninhugo/)
+
 > [【LikeCoin應用技】我是如何想到在Markdown格式裡面加入LikeCoin讚賞鏈（附上教學）](https://matters.news/@bluebear119/like-coin%E6%87%89%E7%94%A8%E6%8A%80-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%83%B3%E5%88%B0%E5%9C%A8markdown%E6%A0%BC%E5%BC%8F%E8%A3%A1%E9%9D%A2%E5%8A%A0%E5%85%A5like-coin%E8%AE%9A%E8%B3%9E%E9%8F%88-%E9%99%84%E4%B8%8A%E6%95%99%E5%AD%B8-bafyreiej7yckxo6lueua7pyixrra7gai5hxr72n56zob4l7sod5rswloaa)
 
