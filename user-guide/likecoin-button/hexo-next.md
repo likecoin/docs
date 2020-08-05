@@ -24,7 +24,7 @@ description: 如何在 Hexo 開發環境的文章中加入讚賞鍵
 
 ### 在每篇文章末端加上讚賞鍵
 
-打開 themes/next/layout/\_macro/post.swig 在合適的位置把 `like_coin.ejs` 放置好
+打開 `themes/next/layout/_macro/post.swig` 在合適的位置把 `like_coin.ejs` 放置好
 
 ```text
  {% if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %}
