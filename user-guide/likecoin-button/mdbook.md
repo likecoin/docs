@@ -57,7 +57,7 @@ if(el){
 }
 ```
 
-Edit `book.toml` in `output.html` and add the js 與 css
+Edit `book.toml` in `output.html` and add the js and css
 
 ```text
 [output.html]
