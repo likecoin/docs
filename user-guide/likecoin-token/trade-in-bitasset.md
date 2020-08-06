@@ -10,7 +10,7 @@ For trading LikeCoin into TWD or BTC, the most convenient way is going through [
 
 ### Step 1: Find your LikeCoin wallet on BitAseet account
 
-First of all you have to find your wallet address in BitAsset so as to transfer LikeCoin to the exchange.
+First of all you have to find your wallet address on BitAsset so as to transfer LikeCoin to the exchange.
 
 Login BitAsset and click on the top right hand corner of your email address/ID, then click "User" and go into the Personal information page. Click "My wallet" to access the wallet page.
 
@@ -20,7 +20,7 @@ On the wallet page it shows all the wallets that you have. Input "LIKE" to searc
 
 ![Input Like in search box to find your LikeCoin wallet](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1FWlJcZoq8hdX6CC%2Fbitasset-trade-3.png?alt=media&token=378350e2-f15b-41dd-a952-49e10ab1ee00)
 
-Click "Deposit" to the page below, on "Chain Name" select "LIKE", which means you are transferring LikeCoin on the LikeCoin chain which was upgraded on November 15, 2019. a wallet address starting with cosmos appears.
+Click "Deposit" to the page below, on "Chain Name" select "LIKE", which means you are transferring LikeCoin to the LikeCoin chain which was upgraded on November 15, 2019. a wallet address starting with cosmos appears.
 
 Click on the "Show QR Code" button.
 
@@ -34,9 +34,9 @@ A QR Code appears and it is your LikeCoin wallet address on BitAsset.
 BitAseet has a minimum deposit amount, **a single deposit which is less than the minimum will disappear!** Please make sure that you deposit the correct amount. Read [BitAsset Fees](https://bitasset.zendesk.com/hc/en-us/articles/360028459212-Fees) for information about minimum deposit amount, single withdrawal limit and withdrawal fee.
 {% endhint %}
 
-### Step 2: Transfer LikeCoi to BitAsset
+### Step 2: Transfer LikeCoin to BitAsset
 
-Open the [Liker Land mobile app](https://like.co/in/getapp), click on the avatar at the lower right hand corner, and you can check how much LikeCoin in your wallet. Click on the \[Send\] button \(circled in red below\).
+Open the [Liker Land mobile app](https://like.co/in/getapp), click on the avatar at the lower right hand corner, and you can check the amount of LikeCoin in your wallet. Click on the \[Send\] button \(circled in red below\).
 
 ![On Liker Land mobile app select \[Send\] \(circled in red\)](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1cZDbgC4A89M-JaG%2Fbitasset-trade-6.png?alt=media&token=71be3481-e041-4740-9d60-f304a6f53e70)
 
@@ -62,7 +62,7 @@ Less than 5 minutes the LikeCoin is transferred to BitAsset, you can check your 
 
 ### Step 4: Buy or Sell
 
-Click "Spot Trading" on the top left hand conrner, find "LIKE" on the top left corner search box, choose "TWD" or "BTC" the drop down box, depends on what curreency you would like to exchange with.
+Click "Spot Trading" on the top left hand corner, find "LIKE" on the top left corner search box, choose "TWD" or "BTC" on the drop down box, depending on what currency you would like to exchange with.
 
 ![On the top left hand corner, select trading pairs](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK23c-p5NwvYuDayok%2Fbitasset-trade-10.png?alt=media&token=e9258d5e-d72e-4c82-ae54-8db44eb3993f)
 
@@ -86,7 +86,7 @@ The system will calculate "Total", confirm if they are correct or not, then clic
 
 ### **Step 5: Check Transaction details**
 
-Go to the lower part of screen and find "Trade History" to check out the transaction details, your wallets reflect new balances as well.
+Go to the lower part of the screen and find "Trade History" to check out the transaction details, your wallets reflect new balances as well.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK2KWTLOwVCTZWav3z%2Fbitasset-trade-13.png?alt=media&token=82a46d0c-5983-422e-81d7-598342ac47a4)
 
