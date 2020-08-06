@@ -1,5 +1,5 @@
 ---
-description: 'List of websites installed LikeCoin, updating from time to time'
+description: 'List of websites embed LikeCoin button, updating from time to time'
 ---
 
 # List of Media
