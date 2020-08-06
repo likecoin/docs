@@ -2,19 +2,19 @@
 description: How to embed LikeCoin button into Wix
 ---
 
-# Wix
+# Wix / Weebly
 
 Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
 
 Create your LikeCoin button link according to the format below:
 
 ```text
-https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
+https://button.like.co/in/embed/[LikerID]/button?referrer=[Web page URL]
 ```
 
 If your Liker ID is ckxpress, URL is https://ckxpress.wixsite.com/likecoin/single-post/2020/02/22/LikeCoin
 
-Your LikeCoin button link will be https://button.like.co/in/embed/ckxpress/button?referrer=https://ckxpress.wixsite.com/likecoin/single-post/2020/02/22/LikeCoin
+Your LikeCoin button link should be https://button.like.co/in/embed/ckxpress/button?referrer=https://ckxpress.wixsite.com/likecoin/single-post/2020/02/22/LikeCoin
 
 Then open Edit HTML mode, copy and paste the following code into the position where your LikeCoin button to display. Please note that you have to replace the `{{ src }}` to be your LikeCoin button link.
 
