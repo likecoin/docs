@@ -23,7 +23,7 @@ description: >-
     about the referrer  tell them to fill in your Liker ID
 
 4. They also have to visit [https://like.co/in/settings](https://like.co/in/settings/) to complete a SMS authentication, go to Authcore Settings → Contact → Manage your contact → Phone
-5. After completing SMS authentication, reopen Liker Land again, the bonus will be send to Liker Land wallets for both of you after a few days, with email notification too.
+5. After completing SMS authentication, reopen Liker Land again, the bonus will be sent to Liker Land wallets for both of you after a few days, with email notification too.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJitG2-m4f6q1nTnx4%2F-MDJjcIuuRQxH5dyZ0jw%2Freferral.png?alt=media&token=2eeaf15c-9ab2-4ef8-a6f8-3a8a118c5425)
 
