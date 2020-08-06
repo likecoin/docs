@@ -4,6 +4,10 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 # Resetting password
 
+#### Please go to [Like.co](https://like.co/) and click the lower right hand corner help desk dialogue box \(icon in blue\) to contact customer service.
+
+
+
 有時因為不明原因無法以社交帳號登入 Liker ID，不妨試試以下步驟，重新設定密碼看看。
 
 **步驟一**：訪問 [https://like.co/in](https://like.co/in) 。先確保自己在登出狀態，你可以打開右上角的功能選單，下拉到最底部找到「登出」的選項。
