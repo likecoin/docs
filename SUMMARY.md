@@ -95,7 +95,7 @@
   * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/volunteer.md)
   * [Do you have a press kit?](user-guide/faq/press-kit.md)
 
-## �� Developer Resources <a id="developer"></a>
+## 🔬 Developer Resources <a id="developer"></a>
 
 * [LikeCoin chain node](developer/likecoin-chain-node/README.md)
   * [Validator Technical Introduction](developer/likecoin-chain-node/validator-technical-introduction.md)

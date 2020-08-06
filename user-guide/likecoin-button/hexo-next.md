@@ -10,7 +10,7 @@ Before adding the LikeCoin button, please [register a Liker ID](https://docs.lik
 
 ### Function: Add LikeCoin button automatically according to the post URL
 
-In directly `themes/next/layout/_custom/` add a new file `like_coin.ejs` and paste in the following code, change the \[LikerID\] to your Like ID.
+In directory `themes/next/layout/_custom/` add a new file `like_coin.ejs` and paste in the following code, change the \[LikerID\] to your Like ID.
 
 ```text
 <div>
