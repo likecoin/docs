@@ -1,7 +1,7 @@
 ---
 description: >-
   Where every Like is a Reward. Stories that matter, writers who think and
-  readers who care.
+  readers who care
 ---
 
 # Liker Land mobile app
@@ -20,7 +20,7 @@ Liker Land also provides a LikeCoin crypto wallet, plug-n-pay, easy-to-use. Tran
 
 ### ID Card
 
-In the Republic of Liker Land, each of you who have LikeCoin in your wallet is a stakeholder. You can delegate LikeCoin to a validator that you trust and represent you to vote on proposals regarding community development. you can also earn rewards from the delegated LikeCoin.
+In the Republic of Liker Land, each of you who is a holder of LikeCoin is a stakeholder. You can delegate LikeCoin to a validator that you trust and represent you to vote on proposals regarding community development. you can also earn rewards from the delegated LikeCoin.
 
 ### \[Available on App Store and Google Play, [Download Now](https://like.co/in/getapp)!\]
 
