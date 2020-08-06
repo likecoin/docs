@@ -6,11 +6,11 @@ Delegation generates rewards as each delegator helps to validate transactions.
 
 Delegate LikeCoin and earn rewards, this article explains where the LikeCoin rewards come from. As all the parameters can be modify according to community's autonomous mechanisms later on, please note the number below reflects the situation of December 2019.  
   
-Validator's rewards for recording all transactions is from [inflation](https://docs.like.co/constitution#9e68). currently set up as 1% of the total LikeCoin circulation, which is ten million out of one billion LikeCoin.
+Validator's rewards for recording all transactions is from inflation. currently set up as 1% of the total LikeCoin circulation, which is ten million out of one billion LikeCoin.
 
 The inflation amount will be distributed when a block is created in LikeCoin chain, approximately in every 5-6 seconds
 
-2% of the newly minted LikeCoin from inflation will be treated as "Tax" and reserved for Community Pool. In other words, 98% of LikeCoin from inflation is for validators and stakeholders. Usage of the Community Pool will be determined accordingly to the community's autonomous mechanisms.
+2% of the newly minted LikeCoin from inflation will be treated as "Tax" and reserved for the Community Pool. In other words, 98% of LikeCoin from inflation is for validators and stakeholders. Usage of the Community Pool will be determined accordingly to the community's autonomous mechanisms.
 
 If a block is created on every 6 seconds, the number of new blocks created per year are 365\*24\*60\*10 = 5,256,000, therefore the LikeCoin shared to each validators and stakeholders from each block are:
 
