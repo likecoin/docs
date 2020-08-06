@@ -18,6 +18,8 @@ description: 讚賞公民共和國
 
 創作者及讀者可用 [Liker Land](https://like.co/in/getapp) 作簡便的閱讀器及跟分散式生態互動的媒介。
 
+於 [Google Play Store](https://play.google.com/store/apps/details?id=com.oice&hl=en) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) 下載 Liker Land 手機應用程式。  
+
 ![](.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
 #### 了解 LikeCoin 更多 [Facebook](https://www.facebook.com/Liker.Land/) \| [Twitter](https://twitter.com/likecoin) \| [Slack](https://join.g0v.tw/) \| [Matters](https://matters.news/@likecoin) \| [Medium](https://medium.com/likecoin) \| [Newsletter](https://likecoin.substack.com/) \| [Telegram](https://t.me/likecoin) [Block Explorer](https://likecoin.bigdipper.live/) \| [GitHub](https://github.com/likecoin) \| [Gitcoin](https://gitcoin.co/grants/634/likecoin-republic-of-liker-land)
