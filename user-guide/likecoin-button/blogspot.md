@@ -12,7 +12,7 @@ Before adding the LikeCoin button, please register a Liker ID.
 
 ### **LikeCoin button on sidebar**
 
-On page settings, select a position to add "HTML/JavaScript", paste the following Javascript code into it and change the **\[**LikerID\] to your Liker ID then save it. The LikeCoin button will appear automatically.
+On page settings, select a position to add "HTML/JavaScript", paste the following Javascript code into it and change the \[LikerID\] to your Liker ID then save it. The LikeCoin button will appear automatically.
 
 ```text
 <script type="text/javascript">
