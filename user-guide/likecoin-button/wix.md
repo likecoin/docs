@@ -62,7 +62,7 @@ After saving the code, the LikeCoin button will display on your article. You may
 
 -------------------------
 
-Weebly users can use the same method to add a LikeCoin button.
+Weebly users can follow the same procedures to add a LikeCoin button.
 
 -------------------------
 
