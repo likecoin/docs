@@ -28,7 +28,7 @@ If you did not install MetaMask, that means you never use a wallet to accumulate
 
 You do not have to migrate your LikeCoin, login Liker Land mobile app, the LikeCoin in temporary storage will go into your new wallet.
 
-### **5.** Error: "Please use the Etherscan kaddress \[0x...\] linking with your LikeCoin to sign"
+### **5.** Error: "Please use the Etherscan address \[0x...\] linking with your LikeCoin to sign"
 
 The MetaMask wallet address that you are using, does not match the Liker ID that you link to. Metamask is a cryptocurrency wallet for managing different crypto addresses. Please try to remember:
 
