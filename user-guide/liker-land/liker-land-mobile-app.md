@@ -1,7 +1,7 @@
 ---
 description: >-
-  Where every Like is a Reward. Stories that matter, writers who think and
-  readers who care
+  A comprehensive tool for citizens to engage into the activities of the
+  Republic of Liker Land
 ---
 
 # Liker Land mobile app
