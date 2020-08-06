@@ -10,13 +10,13 @@ Delegation means delegating LikeCoin to one or more [validators](https://docs.li
 
 ### Step 1: Select a validator
 
-Open the Liker Land mobile app, click on the avatar at the lower right hand corner, then click the amount of LikeCoin to enter into the wallet page. In this page you can check the LikeCoin amount that you have, there is a list of validators underneath. To start with, there are seven organizations/corporations/groups as validators for The Republic of Liker Land. You can select one of them as you like.
+Open the Liker Land mobile app, click on the avatar at the lower right hand corner, then click the amount of LikeCoin to enter into the wallet page. In this page you can check the LikeCoin amount that you have and there is a list of validators underneath. To start with, there are seven organizations/corporations/groups as validators for The Republic of Liker Land. You can select one of them as you like.
 
 
 
 ![Click on the avatar at the lower right hand corner](../../.gitbook/assets/img_2324.jpg)
 
-![Click the amount of LikeCoin to enter into the wallet](../../.gitbook/assets/delegate.png)
+![Click the amount of LikeCoin to enter into the wallet page](../../.gitbook/assets/delegate.png)
 
 Select one of the validators and bring up the page below, list out percentage of Rewards, Voting Power and how much LikeCoin is being delegated to this validator \(Liker Share\).
 
