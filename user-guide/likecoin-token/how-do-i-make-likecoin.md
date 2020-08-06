@@ -6,7 +6,7 @@ description: What else can I do to make LikeCoin besides creating?
 
 ## Create contents
 
-Creators embed LikeCoin button into their works and turn "Like" into actual income and earn LikeCoin.
+Creators embed LikeCoin button into their works, turn "Like" into actual income and earn LikeCoin.
 
 [**Matters**](https://matters.news/) is empowered by the LikeCoin button by default, creators can give their Liker ID to [**Standnews**](https://www.thestandnews.com/)**,** [**InMedia**](https://www.inmediahk.net/)**,** [**HKCNews**](https://www.hkcnews.com/) for embedding LikeCoin button. It can also be installed to [WordPress](https://wordpress.org/plugins/likecoin/) by the LikeCoin WordPress plugin. LikeCoin button also supports [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot \( Blogger.com\)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. 
 
@@ -14,15 +14,15 @@ The source of the creators' daily reward consists of two parts:
 
 **1. The monthly subscription fee**: paid by the Civic Likers who distribute their donation by their claps/"Likes"
 
-e.g. Veryotaku clapped 500 articles for 500 times, each article received 1 cent \(equivalent to LikeCoin \)
+e.g. Veryotaku clapped 500 articles for 500 times, each article received 1 cent \(equivalent in LikeCoin \)
 
 **2. Creators matching fund**: managed by the foundation. The daily amount is adjusted according to the total amount donated by Civic Likers. Both of the likes given by Civic Liker and ordinary likers will be considered as votes for fund distribution.
 
-e.g. There are 1,000 Civic Likers in May, they all subscribed with USD$5 and the sum is USD$5000, foundation pay USD$5000 extra \(will be turned into LikeCoin\), this extra part will be distributed in proporation according to the total number of claps/Likes by all Likers.
+e.g. There are 1,000 Civic Likers in May, they all subscribed with USD5 and the sum is USD5000, foundation then pay USD5000 extra \(will be turned into LikeCoin\), this extra part will be distributed in proporation according to the total number of claps/Likes by all Likers.
 
 ## Refer friends and family
 
-Receive USD$5 equivalent LikeCoin bonus upon each successful Cvic Liker referral. Refer 10 fans for USD$50 bonus, refer 100 fans for USD$500 bonus. The bonus will be credited to your LikeCoin wallet in a few minutes.  More referrals, more bonus, no ceiling.
+Receive USD5 equivalent LikeCoin bonus upon each successful Cvic Liker referral. Refer 10 fans for USD50 bonus, refer 100 fans for USD500 bonus. The bonus will be credited to your LikeCoin wallet in a few minutes.  More referrals, more bonus, no ceiling.
 
 **Referral Link**: https://liker.land/civic?from=​\[Your Liker ID\]​
 
