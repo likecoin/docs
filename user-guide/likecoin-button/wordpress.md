@@ -20,16 +20,16 @@ Follow the steps:
 
 2. Click on the Menu on the left, go to "Plugin" and click on "install plugin" on top.
 
-![](https://downloads.intercomcdn.com/i/o/72823649/de9b920907d2af82226ac75d/image.png)
+![](../../.gitbook/assets/wordpress-1-en.png)
 
 3. Search for "LikeCoin" and find the LikeCoin plugin, click "install" and wait for the system to finish the job.
 
-![](https://downloads.intercomcdn.com/i/o/72829954/b4eb1f0016d9d8625fbae18d/image+%281%29.png)
+![](../../.gitbook/assets/wordpress-2.png)
 
 4. After installation, there will be an "LikeCoin" option in the menu. Congratulations,  installation is done!  
 
 
-![&quot;LikeCoin&quot; on the menu.](https://downloads.intercomcdn.com/i/o/78316704/563d879f9e38b9a1095c47be/menu+choice.png)
+![](../../.gitbook/assets/wordpress-3.png)
 
 ## Configuring LikeCoin plugin
 
@@ -39,11 +39,11 @@ Before configuring the LikeCoin plugin, please [register a Liker ID](https://doc
 
 On the menu, select "LikeCoin",  then fill in your Liker ID in the Liker ID field.
 
-![](https://downloads.intercomcdn.com/i/o/169029380/cb32c7bb0355af7cc8fcd90a/image.png)
+![](../../.gitbook/assets/wordpress-4.png)
 
 Then click "Confirm",  your LikeCoin button setup is finished.
 
-![Don&apos;t forget to click &quot;Confirm&quot; to store your setting.](https://downloads.intercomcdn.com/i/o/169030016/a06e41a0df716187532d749b/image.png)
+![](../../.gitbook/assets/wordpress-5.png)
 
 After completing the above procedures, your LikeCoin button will appear underneath each article of your WordPress site.
 
@@ -55,9 +55,9 @@ Sure, the LikeCoin plugin supports multiple Liker ID by default.
 
 1. In the LikeCoin plugin setting, there is an option  "Enable site Liker ID".  Please make sure that the option is "**NOT**" being selected.
 
-![](https://downloads.intercomcdn.com/i/o/136642368/d706b1b2fce0cc75ee5b41f8/image.png)
+![](../../.gitbook/assets/wordpress-6.png)
 
 2. You can add new WordPress users as usual, and this part is not related to the LikeCoin plugin. After adding new users, they can use their own WordPress account to login and set up their own Liker ID and LikeCoin button.
 
-![](https://downloads.intercomcdn.com/i/o/136642597/50fe2f0401676caf9ebf86f6/image.png)
+![](../../.gitbook/assets/wordpress-7.png)
 
