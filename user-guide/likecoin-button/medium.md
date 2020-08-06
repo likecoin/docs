@@ -8,5 +8,5 @@ Before adding the LikeCoin button, please [register a Liker ID](https://docs.lik
 
 For example if your Liker ID is cxpress, your LikeCoin button link is https://button.like.co/ckxpress
 
-Then add the link to the [Medium](https://medium.com/) article \(usually at the end ot if\), press "enter" to carriage return, the LikerCoin button appears automatically.
+Then add the link into the [Medium](https://medium.com/) article \(usually at the end of it\), press "enter" to carriage return, the LikerCoin button appears automatically.
 
