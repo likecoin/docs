@@ -12,7 +12,7 @@ Before adding the LikeCoin button, please register a Liker ID.
 
 ### **LikeCoin button on sidebar**
 
-On page settings, select a position to add "HTML/JavaScript", paste the following Javascript code into it and change the **\[**LikerID\] to your Liker ID, then save it. LikeCoin button will appear automatically.
+On page settings, select a position to add "HTML/JavaScript", paste the following Javascript code into it and change the **\[**LikerID\] to your Liker ID, then save it. The LikeCoin button will appear automatically.
 
 ```text
 <script type="text/javascript">
@@ -22,7 +22,7 @@ On page settings, select a position to add "HTML/JavaScript", paste the followin
 
 ### **LikeCoin button at the end of each article**
 
-Go to "Theme" and click "Edit HTML" and search for  **data:post.body**, carriage return when seeing `</div>` then add the following source code, and change the \[LikerID\] to your Liker ID:  
+Go to "Theme" and click "Edit HTML" and search for **data:post.body**, carriage return when seeing `</div>` then add the following source code, and change the \[LikerID\] to your Liker ID:  
 
 
 ```text
@@ -59,9 +59,9 @@ adding source code after `</div>` and become
 </b:if>
 ```
 
-If there are two **data:post.body** when "Edit HTML", You have to edit both because one is  for desktop and the other is for mobile. Please note that you have to change to "Custom" for mobile version in order to the LikeCoin button to display.
+If there are two **data:post.body** when "Edit HTML", You have to edit both because one is for desktop and the other is for mobile. Please note that you have to change to "Custom" for the mobile version in order for the LikeCoin button to display.
 
 -------------------------
 
-If your other blog services support a change of theme, you may try to add LikeCoin button using this method.
+If your other blog services support a change of theme, you may try to add a LikeCoin button using this method.
 
