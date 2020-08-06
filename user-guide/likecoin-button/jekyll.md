@@ -25,7 +25,7 @@ https://button.like.co/in/embed/{{site.liker_id}}/button?referrer={{ page.url | 
 
 ### Insert iframe <a id="&#x63D2;&#x5165;iframe"></a>
 
-Develop the LikeCoin buton HTML
+Develop the LikeCoin button HTML
 
 ```text
 {% if site.liker_id %}
@@ -37,7 +37,7 @@ Develop the LikeCoin buton HTML
 
 Use if to inspect if `liker_id` exists. Then add the code into post template, find a place near the end and add `{% include likeco.html %}`
 
-Build it once, the LikeCoin button is already at the end of each article, but the size has to be adjusted. LikeCoin button will adapt itself to 485px weight\*240px height. Use the following code to align middle and hide the scroll bar.
+Build it, the LikeCoin button is already at the end of each article, but the size has to be adjusted. LikeCoin button will adapt itself to 485px weight\*240px height. Use the following code to align middle and hide the scroll bar.
 
 ```text
 {% if site.liker_id %}
