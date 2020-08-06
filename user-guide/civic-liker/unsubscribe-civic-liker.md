@@ -15,7 +15,7 @@ description: 跟隨幾個簡單步驟即可
 
 ![](../../.gitbook/assets/subscribe-civic-liker-2.png)
 
-步驟三：進入頁面後你會見到取消「讚賞公民」訂閱的鏈結。點擊並回答一條問題，即可完成取消訂閱。
+步驟三：進入頁面後你會見到取消「讚賞公民」訂閱的鏈結。點擊即可完成取消訂閱。
 
 ![](../../.gitbook/assets/subscribe-civic-liker-3.png)
 
