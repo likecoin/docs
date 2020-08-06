@@ -20,7 +20,7 @@ Some media empowered by LikeCoin include [Matters](https://matters.news/), [Stan
 
 Creators and readers may use [Liker Land](https://like.co/in/getapp) as a convenient reader and gateway to interact with the decentralized ecosystem. 
 
-Download it on [Google Play Store](https://play.google.com/store/apps/details?id=com.oice&hl=en) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355).  
+Download it on [Google Play Store](https://play.google.com/store/apps/details?id=com.oice&hl=en) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355).
 
 ![](.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
