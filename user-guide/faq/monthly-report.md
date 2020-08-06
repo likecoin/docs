@@ -4,7 +4,7 @@ description: 'I keep creating but never receive an email report, what''s wrong?'
 
 # How to receive a Liker Land monthly report?
 
-"Liker Land monthly report delivers to those creators who receive LikeCoin rewards for the month. And you are going to receive on e.g. August 1 for the month of July.
+"Liker Land monthly report delivers to those creators who receive LikeCoin rewards for the month. And you are going to receive the report on e.g. August 1 for the month of July.
 
 These are 2 circumstances that you do not receive your email report:
 
