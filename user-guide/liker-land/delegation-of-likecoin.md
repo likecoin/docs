@@ -20,10 +20,9 @@ Open the Liker Land mobile app, click on the avatar at the lower right hand corn
 
 Select one of the validators and bring up the page below, list out percentage of Rewards, Voting Power and how much LikeCoin is being delegated to this validator \(Liker Share\).
 
-Click \[Delegate\] and go to the next page.  
+Click \[Delegate\] and go to the next page.
 
-
-![](../../.gitbook/assets/delegate-matters-en.png)
+![](../../.gitbook/assets/likecoin-matters-en.png)
 
 ### **Step 2: Input the amount of LikeCoin to delegate**
 
