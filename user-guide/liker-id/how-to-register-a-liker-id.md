@@ -41,10 +41,10 @@ One final step to go. After clicking the "OK" button, a green screen will appear
 ![](../../.gitbook/assets/img_3461.jpg)
 
 {% hint style="warning" %}
-Once a Liker ID has been created, it cannot be changed.  We suggest you to keep it, or just create another one.
+Once a Liker ID has been created, it cannot be changed.  We suggest you keep it, or just create another one.
 {% endhint %}
 
 {% hint style="info" %}
-What is Authcore?
+What is [Authcore](https://docs.like.co/user-guide/faq/what-is-authcore)?
 {% endhint %}
 
