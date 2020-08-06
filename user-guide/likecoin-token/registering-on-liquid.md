@@ -18,7 +18,7 @@ Liquid will immediately send you a verification email, click on the link in the 
 
 The service of crypto exchange adopts a high security standard, therefore users have to set up 2FA before utilizing their services.
 
-1. After completing the basic info and activated your account, the following will appears when you login again, click "Enable 2-Factor Authentication"
+1. After completing the basic info and activated your account, the following appears when you login again, click "Enable 2-Factor Authentication"
 
 ![](../../.gitbook/assets/liquid-security.png)
 
@@ -41,7 +41,7 @@ Fill in the code correctly and the set up of 2-Factor Authentication is complete
 
 After completing 2FA, you can have a look at the exchange panel but the only thing you can do is deposit. To facilitate withdrawal, account verification has to be completed, please follow the steps:
 
-1. Check your account status by clicking on the top right hand corner of our avatar, it shows "Pending"  
+1. Check your account status by clicking on the top right hand corner of your avatar, it shows "Pending"  
 
 
 ![](../../.gitbook/assets/liquid-account-pending.png)
