@@ -14,7 +14,7 @@ description: 以 LikeCoin 購買讚賞公民會籍
 
 ### 步驟一：過帳 15,000 LikeCoin 
 
-請以 Liker Land 手機應用程式[過帳](https://docs.like.co/v/zh/user-guide/liker-land/like-pay) 15,000 LikeCoin 以下帳號：
+請以 Liker Land 手機應用程式[過帳 15,000 LikeCoin](https://docs.like.co/v/zh/user-guide/liker-land/like-pay) 以下帳號：
 
 * **Liker ID:** **foundation**
 * **收款 QR code**:
