@@ -47,17 +47,17 @@ Then click "Confirm",  your LikeCoin button setup is finished.
 
 After completing the above procedures, your LikeCoin button will appear underneath each article of your WordPress site.
 
-## How to support multiple Liker ID in a WordPress site
+## How to support multiple Liker ID on a WordPress site
 
 There are many creators in one website, each of them got their own Liker ID, can LikeCoin button support rewarding individual creators?
 
 Sure, the LikeCoin plugin supports multiple Liker ID by default.
 
-1. In the LikeCoin plugin setting, there is an option  "Enable site Liker ID".  Please make sure that this option is "**NOT**" being selected.
+1. In the LikeCoin plugin setting, there is an option  "Enable site Liker ID".  Please make sure that the option is "**NOT**" being selected.
 
 ![](https://downloads.intercomcdn.com/i/o/136642368/d706b1b2fce0cc75ee5b41f8/image.png)
 
-2. You can add new WordPress users as usual, and this part is not related to LikeCoin plugin. After adding new users, they can use their own WordPress account to login and set up their own Liker ID and LikeCoin button.
+2. You can add new WordPress users as usual, and this part is not related to the LikeCoin plugin. After adding new users, they can use their own WordPress account to login and set up their own Liker ID and LikeCoin button.
 
 ![](https://downloads.intercomcdn.com/i/o/136642597/50fe2f0401676caf9ebf86f6/image.png)
 
