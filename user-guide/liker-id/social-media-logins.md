@@ -1,19 +1,19 @@
 ---
 description: >-
-  Blinding Google / Facebook / Twitter / Matters  social logins, login easier
-  and increase security
+  Linking Google / Facebook / Twitter / Matters  social logins, login easier and
+  increase security
 ---
 
 # Connecting to my social profile
 
-## Why blinding different social media logins:
+## Why linking different social media logins:
 
-There are two benefits blinding your social media logins:
+There are two benefits linking your social media logins:
 
 1. You don't have to input email address and password, just use your usual social media account to login.
-2. Protect access to your Liker ID, if there is an issue with one of the login method, e.g. forget passowrd, or the platform itself has technical problem, you can still use other social media logins to access your Liker ID.
+2. Protect access to your Liker ID, if there is an issue with one of the login methods, e.g. forget password, or the platform itself has technical problems, you can still use other social media logins to access your Liker ID.
 
-## Blinding Method \(Except Matters\)
+## Linking Method \(Except Matters\)
 
 ### Step 1
 
@@ -27,16 +27,16 @@ Click on the social media login \(except Matters\), follow on screen instruction
 
 ![](../../.gitbook/assets/social-media-logins-2.png)
 
-## **How to blind Matters account**
+## **How to link Matters account**
 
-User has to go to Matters website for blindling:
+User has to go to Matters website for linkinging:
 
 1. Login [matters.news](https://matters.news/)
 2. Click on avatar on the upper right hand corner, select "settings" from the menu
-3. On「錢包設定」, select "Blinding Liker ID"
+3. On「錢包設定」, select "綁定 Liker ID"
 4. Login Liker ID according to the instruction
 
 {% hint style="warning" %}
-**Once you blind your Liker ID with Matters ID, they cannot be unbonded.**
+**Once you link your Liker ID with Matters ID, they cannot be unbonded.**
 {% endhint %}
 
