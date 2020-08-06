@@ -57,7 +57,7 @@
   * [Blink](user-guide/likecoin-button/blink.md)
   * [生活譜記](user-guide/likecoin-button/youput.md)
   * [SteemCN](user-guide/likecoin-button/steemcn.md)
-  * [Wix](user-guide/likecoin-button/wix.md)
+  * [Wix / Weebly](user-guide/likecoin-button/wix.md)
   * [Write.as](user-guide/likecoin-button/write.as.md)
   * [Hexo](user-guide/likecoin-button/hexo-next.md)
   * [Hugo](user-guide/likecoin-button/hugo.md)
