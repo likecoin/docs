@@ -14,21 +14,21 @@ First of all you have to find your wallet address on BitAsset so as to transfer 
 
 Login BitAsset and click on the top right hand corner of your email address/ID, then click "User" and go into the Personal information page. Click "My wallet" to access the wallet page.
 
-![Click &quot;My wallet&quot;](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK198sT-6YvVhvauEL%2Fbitasset-trade-2.png?alt=media&token=6d7341a6-b450-44a1-8f3f-6e28f6a062e9)
+![Click &quot;My wallet&quot;](../../.gitbook/assets/bitasset-trade-2-en.png)
 
 On the wallet page it shows all the wallets that you have. Input "LIKE" to search for your LikeCoin wallet.
 
-![Input Like in search box to find your LikeCoin wallet](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1FWlJcZoq8hdX6CC%2Fbitasset-trade-3.png?alt=media&token=378350e2-f15b-41dd-a952-49e10ab1ee00)
+![Input Like in search box to find your LikeCoin wallet](../../.gitbook/assets/bitasset-trade-3-en.png)
 
 Click "Deposit" to the page below, on "Chain Name" select "LIKE", which means you are transferring LikeCoin to the LikeCoin chain which was upgraded on November 15, 2019. a wallet address starting with cosmos appears.
 
 Click on the "Show QR Code" button.
 
-![Select LIKE and click &quot;Show QR Code&quot;](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1ME1-tJ13uzHqRDG%2Fbitasset-trade-4.png?alt=media&token=38e3c327-e394-4525-9381-60b7933764c9)
+![Select LIKE and click &quot;Show QR Code&quot;](../../.gitbook/assets/bitasset-trade-4-en.png)
 
 A QR Code appears and it is your LikeCoin wallet address on BitAsset.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1U9Sc7JSsPd8Z7dq%2Fbitasset-trade-5.png?alt=media&token=c022f08d-61e4-4022-9815-28377bbc1516)
+![](../../.gitbook/assets/bitasset-trade-5-en.png)
 
 {% hint style="warning" %}
 BitAseet has a minimum deposit amount, **a single deposit which is less than the minimum will disappear!** Please make sure that you deposit the correct amount. Read [BitAsset Fees](https://bitasset.zendesk.com/hc/en-us/articles/360028459212-Fees) for information about minimum deposit amount, single withdrawal limit and withdrawal fee.
@@ -64,7 +64,7 @@ Less than 5 minutes the LikeCoin is transferred to BitAsset, you can check your 
 
 Click "Spot Trading" on the top left hand corner, find "LIKE" on the top left corner search box, choose "TWD" or "BTC" on the drop down box, depending on what currency you would like to exchange with.
 
-![On the top left hand corner, select trading pairs](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK23c-p5NwvYuDayok%2Fbitasset-trade-10.png?alt=media&token=e9258d5e-d72e-4c82-ae54-8db44eb3993f)
+![On the top left hand corner, select trading pairs](../../.gitbook/assets/bitasset-trade-10-en.png)
 
 Choose your trading pairs and take a look at the order book. The figures in red are those orders who want to "Sell", for example below there are people who want to sell 252 LikeCoin at the price of 0.21 TWD/LIKE, and then some other people want to sell 52,565 LikeCoin at 0.212 TWD/LIKE. If you want to buy 50,000 LikeCoin, you can buy them all at 0.212 TWD/LIKE.
 
@@ -88,5 +88,5 @@ The system will calculate "Total", confirm if they are correct or not, then clic
 
 Go to the lower part of the screen and find "Trade History" to check out the transaction details, your wallets reflect new balances as well.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK2KWTLOwVCTZWav3z%2Fbitasset-trade-13.png?alt=media&token=82a46d0c-5983-422e-81d7-598342ac47a4)
+![](../../.gitbook/assets/bitasset-trade-13-en.png)
 
