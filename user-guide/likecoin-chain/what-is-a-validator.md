@@ -16,7 +16,7 @@ In order to reach consensus in a community, some trusted parties have to record 
 
 Endorsement by Likers is reflected by delegation. When a Liker delegates her LikeCoin to a validator, she is trusting its technical ability, knowledge and integrity, and is letting it represent her.
 
-## Validater Status
+## Validator Status
 
 ### Active Validator
 
