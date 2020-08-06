@@ -12,9 +12,9 @@ These are the steps to register a BitAsset account, click this [link](https://ww
 
 Fill in your email, password and referral code \(Optional\). You may also choose to register by phone, check on the switch below in red
 
-![](../../.gitbook/assets/bitasset-1.png)
+![](../../.gitbook/assets/bitasset-1-en.png)
 
-![](../../.gitbook/assets/bitasset-2.png)
+![](../../.gitbook/assets/bitasset-2-en.png)
 
 When your email is confirmed, the system will bring you back to the BitAsset website frontpage, click on the top right hand corner of your email address
 
