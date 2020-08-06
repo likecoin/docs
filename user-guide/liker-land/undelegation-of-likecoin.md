@@ -14,7 +14,7 @@ If you delegated LikeCoin to a validator but you want to get them back, you can 
 2. Go to the validatior page, click \[Undelegate\]
 3. Input the number of LikeCoin that you have to withdraw, click \[Confirm\]
 
-![](../../.gitbook/assets/img_2328.jpg)
+![](../../.gitbook/assets/undelegation-en.png)
 
 ### **Attention regarding Undelegation**
 
