@@ -18,7 +18,7 @@ You can pay and become a [Civic Liker](https://liker.land/civic), check out the 
 
 ### **Option 2: I'm a Creator too**
 
-Click and learn more about how to [embed LikeCoin button](https://liker.land/creators) to a website.
+Click and learn more about how to [embed a LikeCoin button](https://liker.land/creators) to a website.
 
 ### **Option 3: Settings**
 
@@ -28,7 +28,7 @@ Click and learn more about how to [embed LikeCoin button](https://liker.land/cre
 * Liker ID: Redirect to [Like.co](https://like.co/in/settings) setting page. User can set up his/her Liker ID avatar, social media logins, etc. Read [this](https://docs.like.co/user-guide/liker-id) for more details
 * Civic Liker Subscribing/Unsubscribe status
 * Creator: Registered/Not Registered
-* Follow/Unfollow: Users follow all the creators that he/she clapped and appreciated, which is a default setting. Unfollow the creator if required \(indicated below\) 
+* Follow/Unfollow: User follows all the creators that he/she clapped and appreciated, which is a default setting. Unfollow the creator if required \(indicated below\) 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJjdmH4gPPkYdgO50G%2F-MDJkPBw6RHX_U_1I0SD%2FLiker%20Land%20Web%203.png?alt=media&token=3b20df76-f0b3-46c9-9828-b20ed3286467)
 
