@@ -29,7 +29,7 @@ The system will lead you to the migration page and help you upgrade your LikeCoi
 
 ### Step 2.2: Sign
 
-The system is going to perform a transaction from your MetaMask, need your signature for authorisation.  Click "Sign".  
+The system is going to perform a transaction from your MetaMask, and need your signature for authorization. Click "Sign".  
 
 
 ![Click &quot;Sign&quot;](../../.gitbook/assets/likecoin-migration-3.png)
@@ -41,7 +41,7 @@ After clicking "Sign", the following MetaMask screens will be shown.  Click "Con
 
 ### Step 2.3: Waiting for the upgrading process to be finished <a id="step-23-waiting-for-the-upgrading-process-to-be-finished"></a>
 
-In this step, the system will firstly transfer your LikeCoin ERC-20 to a smart contract, and then deposit LikeCoin to your new wallet on LikeCoin chain.  The process needs a few minutes, please be patient.
+In this step, the system will firstly transfer your LikeCoin ERC-20 to a smart contract, and then deposit LikeCoin to your new wallet on the LikeCoin chain.  The process needs a few minutes, please be patient.
 
 ![](../../.gitbook/assets/likecoin-migration-5.png)
 
@@ -59,6 +59,6 @@ Please visit [Google Play store](https://play.google.com/store/apps/details?id=c
 ![](../../.gitbook/assets/likecoin-migration-7.png)
 
 {% hint style="info" %}
-If you can **login Liker by MetaMask only**, you can still follow the below instruction except that you should choose "Login by MetaMask" in the upper left corner of the login screen, and you will be asked to setup a new password during the process.
+If you can **login Liker by MetaMask only**, you can still follow the below instruction except that you should choose "Login by MetaMask" in the upper left corner of the login screen, and you will be asked to set up a new password during the process.
 {% endhint %}
 
