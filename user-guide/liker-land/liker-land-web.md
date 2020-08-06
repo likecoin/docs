@@ -6,7 +6,7 @@ description: Clap for your hero content on desktop computer
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJjdmH4gPPkYdgO50G%2F-MDJkJVTIRInATRDjMh_%2FLiker%20Land%20Web%201.png?alt=media&token=6ed3d2b6-fe63-4a88-a796-f87d157c340d)
 
-Although Liker Land mobile app provide the "content clapping experiences" that best suit your needs, [Liker Land web also bring the same convenience for discovering, following and bookmarking content](https://liker.land/). 
+Although Liker Land mobile app provides the "content clapping experiences" that best suit your needs, [Liker Land web also bring the same convenience for discovering, following and bookmarking content](https://liker.land/). 
 
 Click on the menu at the top right hand corner, there are other options.
 
