@@ -23,7 +23,7 @@ Select one of the validators and bring up the page below, list out percentage of
 Click \[Delegate\] and go to the next page.  
 
 
-![](../../.gitbook/assets/img_2327.jpg)
+![](../../.gitbook/assets/delegate-matters-en.png)
 
 ### **Step 2: Input the amount of LikeCoin to delegate**
 
