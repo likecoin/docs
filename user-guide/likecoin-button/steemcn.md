@@ -8,13 +8,13 @@ Before adding the LikeCoin button, please [register a Liker ID](https://docs.lik
 
 Login SteenCN, click "Settings"
 
-![](../../.gitbook/assets/steemcn-1.png)
+![](../../.gitbook/assets/steemcn-1-en.png)
 
 Input Liker ID into the "Location" field, the format is likerid:\[LikerID\]. For example if you Liker ID is ckxpress, the content to input is Likerid:ckxpress
 
 
 
-![](../../.gitbook/assets/steemcn-2.png)
+![](../../.gitbook/assets/steemcn-2-en.png)
 
 Then, click "Update"
 
