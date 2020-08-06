@@ -30,7 +30,7 @@ Click and learn more about how to [embed a LikeCoin button](https://liker.land/c
 * Creator: Registered/Not Registered
 * Follow/Unfollow: User follows all the creators that he/she clapped and appreciated, which is a default setting. Unfollow the creator if required \(indicated below\) 
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJjdmH4gPPkYdgO50G%2F-MDJkPBw6RHX_U_1I0SD%2FLiker%20Land%20Web%203.png?alt=media&token=3b20df76-f0b3-46c9-9828-b20ed3286467)
+![](../../.gitbook/assets/liker-land-web-3-en.png)
 
 ### **Option 4: Support**
 
