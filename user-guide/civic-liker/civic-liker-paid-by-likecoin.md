@@ -14,7 +14,7 @@ If you experience difficulty and cannot pay in Liker Land web, you are welcomed 
 
 ### Step 1: Transfer 15,000 LikeCoin
 
-Please use Liker Land mobile app to transfer 15,000 LikeCoin to the following Liker ID:
+Please use [Liker Land mobile app to transfer 15,000 LikeCoin](https://docs.like.co/user-guide/liker-land/like-pay) to the following Liker ID:
 
 * **Liker ID:** **foundation**
 * **Receive LikeCoin QR code**:
