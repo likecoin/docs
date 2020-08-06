@@ -4,7 +4,7 @@ description: How to embed LikeCoin button into mdBook
 
 # mdBook
 
-Thanks user [道場除草機](https://dltdojo.github.io/taichu-crypto/dao/likecoin.html#likecoin) for the tutorial.
+Thanks to the user [道場除草機](https://dltdojo.github.io/taichu-crypto/dao/likecoin.html#likecoin) for the tutorial.
 
 Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
 

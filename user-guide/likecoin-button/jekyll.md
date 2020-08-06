@@ -4,7 +4,7 @@ description: How to embed LikeCoin button into Jekyll
 
 # Jekyll
 
-Thanks user [PinGuの独り言](https://pingu.moe/2020/01/integrate-likebutton-with-jekyll/) for the tutorial.
+Thanks to the user [PinGuの独り言](https://pingu.moe/2020/01/integrate-likebutton-with-jekyll/) for the tutorial.
 
 Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
 
