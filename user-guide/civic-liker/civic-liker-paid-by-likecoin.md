@@ -6,11 +6,11 @@ description: Use LikeCoin to pay for Civic Liker
 
 ## Liker Land web
 
-Please visit [https://liker.land/civic](https://liker.land/civic) by web or mobile browser and login your Liker ID, then select "Pay with LIKE and follow the instruction to pay the 15,000 LIKE yearly subscription.
+Please visit [https://liker.land/civic](https://liker.land/civic) by web or mobile browser and login your Liker ID, then select "Pay with LIKE" and follow the instructions to pay the 15,000 LIKE yearly subscription.
 
 ## Liker Land app
 
-If you experience problems and cannot pay in Liker Land web, you are welcomed to use [Liker Land mobile app](https://docs.like.co/user-guide/liker-land/liker-land-mobile-app) to pay for Civic Liker yearly subscription fee \(15,000 LikeCoin\). 
+If you experience difficulty and cannot pay in Liker Land web, you are welcomed to use [Liker Land mobile app](https://docs.like.co/user-guide/liker-land/liker-land-mobile-app) to pay for Civic Liker yearly subscription fee \(15,000 LikeCoin\). 
 
 ### Step 1: Transfer 15,000 LikeCoin
 
