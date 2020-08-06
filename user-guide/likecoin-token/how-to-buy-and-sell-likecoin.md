@@ -6,7 +6,7 @@ description: A brief introduction about exchanging LikeCoin
 
 ### Exchanges supporting LikeCoin 
 
-[BitAsset](https://www.bitasset.com) supports TWD/LIKE and  BTC/LIKE trading pairs. [MyEthShop](https://www.myethshop.com) provides HKD/LIKE exchange. [Liquid](https://www.liquid.com/) supports BTC/LIKE and USDT/LIKE trading pairs. Those who are interested can buy or sell LikeCoin with them.
+[BitAsset](https://www.bitasset.com) supports TWD/LIKE and BTC/LIKE trading pairs. [MyEthShop](https://www.myethshop.com) provides HKD/LIKE exchange. [Liquid](https://www.liquid.com/) supports BTC/LIKE and USDT/LIKE trading pairs. Those who are interested can buy or sell LikeCoin with them.
 
 ### LikeCoin ERC-20
 
