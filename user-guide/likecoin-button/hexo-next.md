@@ -24,7 +24,7 @@ In directory `themes/next/layout/_custom/` add a new file `like_coin.ejs` and pa
 
 ### Add LikeCoin button at the end of each post
 
-Open `themes/next/layout/_macro/post.swig` and put `like_coin.ejs` into the approproate position
+Open `themes/next/layout/_macro/post.swig` and put `like_coin.ejs` into the appropriate position
 
 ```text
  {% if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %}
@@ -51,5 +51,5 @@ Open `themes/next/layout/_macro/post.swig` and put `like_coin.ejs` into the appr
     </div>
 ```
 
-LikeCoin button will appear on your articles.
+LikeCoin buttons will appear on your articles.
 
