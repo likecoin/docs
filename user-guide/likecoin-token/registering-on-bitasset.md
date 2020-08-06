@@ -4,7 +4,7 @@ description: How to register on BitAsset
 
 # Registering on BitAsset
 
-Buy and Sell LikeCoin required an Crypto Exchange account, it takes times to apply but easy to trade once it is done**.**
+Buy and Sell LikeCoin requires an Crypto Exchange account, it takes time to apply but easy to trade once it is done.
 
 These are the steps to register a BitAsset account, click this [link](https://www.bitasset.com/reg) to register or go to BitAsset website and click register.
 
@@ -50,7 +50,7 @@ Submit all the documents and wait for BitAsset's approval, usually it takes one 
 
 ### Step 3: 2-Factor Authentication \(2FA\) and Google Authenticator <a id="3-google-"></a>
 
-You can use almost every function of BitAsset after completing certification Level 2, but for security sake, we highly recommend you to complete the Google Authenticator. There are detailed instructions on screen, you have to download Google Authenticator on your mobile.
+You can use almost every function of BitAsset after completing certification Level 2, but for security sake, we highly recommend you to complete the Google Authenticator. There are detailed instructions to follow, you have to download Google Authenticator on your mobile.
 
 [Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
 [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
