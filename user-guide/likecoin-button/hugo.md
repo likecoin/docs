@@ -10,7 +10,7 @@ Before adding the LikeCoin button, please [register a Liker ID](https://docs.lik
 
 Choose a theme for your website first, the following is an example of [CleanWhite](https://themes.gohugo.io/hugo-theme-cleanwhite). 
 
-Hugo allows user to use custom Layout in order to change the website design without altering the theme, LikeCoin button can be added with this function.
+Hugo allows users to use custom Layout in order to change the website design without altering the theme, LikeCoin button can be added with this function.
 
 The 1st step is to copy the post template, copy the `layouts` folder in `theme` to the directory of the repository
 
