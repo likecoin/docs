@@ -4,7 +4,7 @@
 
 Delegation generates rewards as each delegator helps to validate transactions.
 
-Delegate LikeCoin and earn rewards, this article explains where the LikeCoin rewards come from. As all the parameters can be modify according to community's autonomous mechanisms later on, please note the number below reflects the situation of December 2019.  
+Delegate LikeCoin and earn rewards, this article explains where the LikeCoin rewards come from. As all the parameters can be modified according to community's autonomous mechanisms later on, please note the number below reflects the situation of December 2019.  
   
 Validator's rewards for recording all transactions is from inflation. currently set up as 1% of the total LikeCoin circulation, which is ten million out of one billion LikeCoin.
 
