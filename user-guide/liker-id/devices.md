@@ -10,7 +10,7 @@ Login [Liker Land](https://liker.land/) and go to [https://like.co/in/settings](
 
 ![](../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-1.png)
 
-"Manage devices" shows all the devices currently logged in your Liker ID, you can click on one of the device and click "Log Out", or click "Log out all other devices" to log out all devices.
+"Manage devices" shows all the devices currently logged in your Liker ID, you can click on one of the devices and click "Log Out", or click "Log out all other devices" to log out all devices.
 
 ![](../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-2.png)
 
