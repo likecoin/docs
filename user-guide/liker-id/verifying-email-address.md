@@ -18,24 +18,26 @@ The following steps have to be operated on desktop computer, and a smart phone i
 2. Select "Security settings" on "AuthCore Settings"
 3. Click "2-step verification \(2FA\)"
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M05A4qEiPeAofxuE6l4%2F-M05BOU8tEtEom0SktnS%2FIMG_2343.jpg?alt=media&token=08e905c6-d85a-4488-ab31-aca38d2b483a)
+![](../../.gitbook/assets/2fa-1-en.png)
 
 ### Step 2: Select Authentication App
 
 1. Click on "Setup 2-step verification \(2FA\)"
 2. Let's talk about the setup of Google Authenticator first. Click on "Choose another way"
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJoXu1VpeDdHFQZDlm%2Fchoose-2fa-method.png?alt=media&token=94fb5c43-04ec-457a-b247-52a00fc0e2f8)
+![](../../.gitbook/assets/2fa-2-en.png)
+
+![](../../.gitbook/assets/2fa-3-en.png)
 
 Then choose "Authenticator App" on the next page
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M05CvhpxwwELXXEO7Ji%2F-M05FDH2LAcw-TKe99WA%2FIMG_2346a.jpg?alt=media&token=3961b68a-6e64-44c4-bde5-d0b8ba85f7e4)
+![](../../.gitbook/assets/2fa-4-en.png)
 
 ### Step 3: Setup Google Authenticator
 
 Continue from the previous step, the page displaying a QR Code now:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJoyzk0YTDQTXBDf5f%2F2fa-google-authenticator.png?alt=media&token=26ba5a96-0b3b-489f-9b75-768ac277c62e)
+![](../../.gitbook/assets/2fa-5-en.png)
 
 1. Download Google Authenticator on your mobile phone [Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW) [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 2. Open the Google Authenticator app, click on the "+" sign on the top right hand corner
@@ -43,7 +45,7 @@ Continue from the previous step, the page displaying a QR Code now:
 4. An entry of Authcore is added to Google Authenticator, displaying a 6-digit code, fill it into the blank space circled in red, and click "Next", it displays "Set up authenticator app" "Complete", then click "OK"
 5. Set up your Backup code, If all of your 2-step verification tools do not work, the codes below can help you access your account
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJZnjALxzr1CsioejN%2F-MDJ_2IgUlz2YgZ6HDmW%2F2fa-backup-screen.png?alt=media&token=ff46a512-70ec-4e4a-8d75-d11c5afd1af3)
+![](../../.gitbook/assets/2fa-6-en.png)
 
 2-step Verification set up is finished.
 
