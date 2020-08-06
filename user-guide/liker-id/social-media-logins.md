@@ -32,8 +32,8 @@ Click on the social media login \(except Matters\), follow on screen instruction
 User has to go to Matters website for linkinging:
 
 1. Login [matters.news](https://matters.news/)
-2. Click on avatar on the upper right hand corner, select "settings" from the menu
-3. On「錢包設定」, select "綁定 Liker ID"
+2. Click on avatar on the upper right hand corner, select「設定」from the menu
+3. On「錢包設定」, select「綁定 Liker ID」
 4. Login Liker ID according to the instruction
 
 {% hint style="warning" %}
