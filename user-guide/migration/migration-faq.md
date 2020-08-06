@@ -14,7 +14,7 @@ If the whole migration process is more than 15 minutes and do not get done, plea
 
 ### **2. The amount of LikeCoin in Like.co is not the same as the Liker Land mobile app**
 
-It may be the case that you never blind your Etherscan wallet to your Like ID and there are rewards waiting to be released. Please check it a few days later.
+It may be the case that you never link your Etherscan wallet to your Like ID and there are rewards waiting to be released. Please check it a few days later.
 
 ### **3.** In the "Sign" process experiences "Cannot detect web3 in browser" error
 
@@ -28,9 +28,9 @@ If you did not install MetaMask, that means you never use a wallet to accumulate
 
 You do not have to migrate your LikeCoin, login Liker Land mobile app, the LikeCoin in temporary storage will go into your new wallet.
 
-### **5.** Error: "Please use the Etherscan kaddress \[0x...\] blinding with your LikeCoin to sign"
+### **5.** Error: "Please use the Etherscan kaddress \[0x...\] linking with your LikeCoin to sign"
 
-The MetaMask wallet address that you are using, does not match the Liker ID that you blind to. Metamask is a cryptocurrency wallet for managing different crypto addresses. Please try to remember:
+The MetaMask wallet address that you are using, does not match the Liker ID that you link to. Metamask is a cryptocurrency wallet for managing different crypto addresses. Please try to remember:
 
 * Have you reinstalled MetaMask?
 * Have you reinstalled your computer?
