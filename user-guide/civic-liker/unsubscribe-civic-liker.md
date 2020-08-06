@@ -14,7 +14,7 @@ Step 2: In the Setting page, select "Civic Liker". It shows "Subscribing", click
 
 ![](../../.gitbook/assets/subscribe-civic-liker-2.png)
 
-Step 3: On the page, there is "Cancel Civic Liker subscription: Paypal / oice". Click and answer a question, you are free to go.
+Step 3: On the page, there is "Cancel Civic Liker subscription: Paypal / oice". Click and you are free to go.
 
 ![](../../.gitbook/assets/subscribe-civic-liker-3.png)
 
