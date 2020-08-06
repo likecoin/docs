@@ -66,7 +66,7 @@ Weebly users can follow the same procedures to add a LikeCoin button.
 
 -------------------------
 
-You can also use the Javascript way to add LikeCoin button, please refer to:
+You can also add LikeCoin button by the Javascript way, please refer to:
 
 {% page-ref page="blogspot.md" %}
 
