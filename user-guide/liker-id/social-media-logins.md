@@ -19,13 +19,13 @@ There are two benefits linking your social media logins:
 
 Login [Liker Land](https://liker.land/) and go to [https://like.co/in/settings](https://like.co/in/settings), go to AuthCore Settings, click "Security settings", or open the Liker Land mobile app, click on the avatar at the lower right hand corner and select \[Account Settings\], then click "Social logins".
 
-![](../../.gitbook/assets/social-media-logins-1.png)
+![](../../.gitbook/assets/social-media-logins-1-en.png)
 
 ### Step 2
 
 Click on the social media login \(except Matters\), follow on screen instruction and login your account.
 
-![](../../.gitbook/assets/social-media-logins-2.png)
+![](../../.gitbook/assets/social-media-logins-2-en.png)
 
 ## **How to link Matters account**
 
