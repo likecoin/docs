@@ -8,13 +8,13 @@ You can see computers, phones, and other devices that are currently using or hav
 
 Login [Liker Land](https://liker.land/) and go to [https://like.co/in/settings](https://like.co/in/settings), go to AuthCore Settings, click "Security settings", or open the Liker Land mobile app, click on the avatar at the lower right hand corner and select \[Account Settings\], then click "Devices".
 
-![](../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-1.png)
+![](../../.gitbook/assets/device-1-en.png)
 
 "Manage devices" shows all the devices currently logged in your Liker ID, you can click on one of the devices and click "Log Out", or click "Log out all other devices" to log out all devices.
 
-![](../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-2.png)
+![](../../.gitbook/assets/device-2-en.png)
 
-![](../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-3.png)
+![](../../.gitbook/assets/device-3-en.png)
 
 {% hint style="warning" %}
 To help keep your Liker ID secure, sign out on devices that:
