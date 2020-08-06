@@ -23,7 +23,7 @@ description: Buy and Swap LikeCoin. Instantly
 * Fill in the amount to exchange, the system will show the amount that you can get on the "RECEIVE" field. If it's OK to you, click the "Quick Exchange'' button and the transaction is done. The exchanged amount will be credited to your account instantly.
 * Or vice versa, fill in the amount of currency that you want to get, the system will show the amount of currency that you need to sell in the "EXCHANGE" field
 
-![](../../.gitbook/assets/quick-exchange-2.png)
+![](../../.gitbook/assets/quick-exchange-1-en.png)
 
 ### Purchase LikeCoin with credit card
 
@@ -32,11 +32,11 @@ Only accept Visa
 * Minimum purchase amount is HKD78 or TWD380 \(approximately USD10\)
 * The system displays credit card service fee and exchange rate, the currency amount displayed is the amount after deduction of service fee 
 
-![](../../.gitbook/assets/quick-exchange-3.png)
+![](../../.gitbook/assets/quick-exchange-2-en.png)
 
 Click on "Buy with VISA", fill in credit card information and pay for it
 
-![](../../.gitbook/assets/quick-exchange-4.png)
+![](../../.gitbook/assets/quick-exchange-3-en.png)
 
 #### Liquid Official Tutorial
 
