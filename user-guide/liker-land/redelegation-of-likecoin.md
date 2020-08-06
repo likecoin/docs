@@ -12,7 +12,7 @@ Steps for Redelegation:
 
 Click on the validator that you delegated \(displayed as green\) and select \[Redelegate\].
 
-![](../../.gitbook/assets/img_2329.jpg)
+![](../../.gitbook/assets/redelegation-en.png)
 
 ### Step 2: Select the new validator to delegate
 
