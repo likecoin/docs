@@ -10,6 +10,16 @@
 {% endtab %}
 
 {% tab title="2018" %}
+
+
+#### 03/19 明周
+
+[【當金錢變成數碼】高重建：擁抱觸不到的付款方法 化like成coin支持創作](https://www.mpweekly.com/culture/%e9%9b%bb%e5%ad%90%e8%b2%a8%e5%b9%a3-%e9%9b%bb%e5%ad%90%e6%94%af%e4%bb%98-%e6%94%af%e4%bb%98%e5%af%b6-69230)
+
+![](../.gitbook/assets/maig-pao-weekly_0.jpg)
+
+![](../.gitbook/assets/maig-pao-weekly.jpg)
+
 #### **03/18 INSIDE**
 
 \*\*\*\*[怎麼把讚變現？這間 ICO，想讓媒體與獨立創作者透過區塊鏈雙贏](https://www.inside.com.tw/article/12259-like-to-coin)
@@ -27,6 +37,8 @@
 ![](../.gitbook/assets/ming2_tiny.jpg)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
