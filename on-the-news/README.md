@@ -18,7 +18,7 @@
 
 [【專訪】創意有價！網民按LikeCoin鍵　可助創作者日進千金](https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222574/%E5%B0%88%E8%A8%AA-%E5%89%B5%E6%84%8F%E6%9C%89%E5%83%B9-%E7%B6%B2%E6%B0%91%E6%8C%89likecoin%E9%8D%B5-%E5%8F%AF%E5%8A%A9%E5%89%B5%E4%BD%9C%E8%80%85%E6%97%A5%E9%80%B2%E5%8D%83%E9%87%91)
 
-### **08 突書誌 054期 搵真銀**
+### **08 突破書誌 054期 搵真銀**
 
 \*\*\*\*[價值重組實驗](https://like.co/pdf/articles/breakazine.pdf)
 
