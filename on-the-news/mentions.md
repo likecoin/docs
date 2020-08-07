@@ -44,7 +44,7 @@
 
 ### 02/07 香港蘋果日報 宋漢生專欄
 
-【黑鏡線索】給未來[人的](https://hk.appledaily.com/tech/20190207/TN34LUMUK23QX5FKMFLMZNEEEM/)光輝歲月
+[【黑鏡線索】給未來人的光輝歲月](https://hk.appledaily.com/tech/20190207/TN34LUMUK23QX5FKMFLMZNEEEM/)
 {% endtab %}
 
 {% tab title="2018" %}
