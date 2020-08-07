@@ -36,6 +36,10 @@
 
 [本土科創化Like為Coin](https://trendalysis.com/%E8%AB%87%E6%9C%AC%E5%9C%9F%E7%A7%91%E5%89%B5%E5%8C%96like-%E7%82%BAcoin/)
 
+### 05/06 香港蘋果日報 渾水專欄
+
+[【摸魚手札】簡述加密貨幣的龐氏騙局（渾水）](https://hk.appledaily.com/finance/20180505/JF727FNDLON4RBJ56NFFL5HVDE/)
+
 ### 05/01 明報 章濤專欄
 
 [專欄﹕港產ICO LikeCoin優質示範／文﹕章濤](https://news.mingpao.com/pns/%E5%89%B5%E7%A7%91%E7%B7%9A/article/20180501/special/1525111590167)
