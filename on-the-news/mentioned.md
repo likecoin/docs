@@ -16,6 +16,18 @@
 
 [加密幣規範化助發展](http://startupbeat.hkej.com/?p=65799)
 
+### 09/03 香港蘋果日報 章濤訪問
+
+比特幣早期投資者撈底 章濤：真正升勢未來臨
+
+### 07/17 明報 章濤專欄
+
+[炒幣如同炒仙股？](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20180717/s00002/1531765824969/%E5%B0%88%E6%AC%84-%E7%82%92%E5%B9%A3%E5%A6%82%E5%90%8C%E7%82%92%E4%BB%99%E8%82%A1-%E6%96%87-%E7%AB%A0%E6%BF%A4)
+
+### 05/31 香港蘋果日報 宋漢生專欄
+
+[【黑鏡線索】FB焗上成魔之路](https://hk.appledaily.com/tech/20180531/SRPYQARCYOMVWLJCKDTXYDZCEI/)
+
 ### 05/09 信報 林天程專欄
 
 [本土科創化Like為Coin](https://trendalysis.com/%E8%AB%87%E6%9C%AC%E5%9C%9F%E7%A7%91%E5%89%B5%E5%8C%96like-%E7%82%BAcoin/)
