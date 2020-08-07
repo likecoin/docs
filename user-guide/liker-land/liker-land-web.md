@@ -6,7 +6,7 @@ description: 在桌面電腦上也可隨時為喜愛的內容按讚
 
 ![](../../.gitbook/assets/liker-land-web-1.png)
 
-雖然 Liker Land 手機應用程式能提供最好的按讚體驗，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land)，[發現、追縱內容和設定書籤](https://docs.like.co/v/zh/user-guide/liker-land/discovering-contents)。
+雖然 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)能提供最好的按讚體驗，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land)，[發現、追縱內容和設定書籤](https://docs.like.co/v/zh/user-guide/liker-land/discovering-contents)。
 
 另，點擊右上角的菜單，會彈出其他選項。
 
