@@ -10,6 +10,8 @@
 {% endtab %}
 
 {% tab title="2018" %}
+\*\*\*\*
+
 **08 突書誌 054期 搵真銀**
 
 \*\*\*\*[價值重組實驗](https://like.co/pdf/articles/breakazine.pdf)
@@ -18,9 +20,15 @@
 
 #### 05/23 **壹**周刊
 
-[ 【與中央分權】區塊鏈帶來革命? LikeCoin創辦人: 唔會徒勞無功](https://hk.nextmgz.com/article/2_588463_0)
+[ 【港產加密貨幣】LikeCoin創辦人:　將創意和回報掛鈎　向fb施壓](https://hk.nextmgz.com/article/2_588342_0)
+
+[【與中央分權】區塊鏈帶來革命? LikeCoin創辦人: 唔會徒勞無功](https://hk.nextmgz.com/article/2_588463_0)
 
 [【已集資四千萬】LikeCoin創辦人：香港人唔係咁孤寒](https://hk.nextmgz.com/article/2_588408_0)
+
+{% embed url="https://www.youtube.com/watch?v=b8ra392rlCM" %}
+
+\*\*\*\*
 
 **05/02 彭博商業周刊/中文版 第114期**
 
@@ -57,8 +65,6 @@
 **01/01 903**
 
 高重建 為明日革命
-
-![](../.gitbook/assets/903.jpg)
 {% endtab %}
 
 {% tab title="2017" %}
@@ -69,6 +75,8 @@
 ![](../.gitbook/assets/ming2_tiny.jpg)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
