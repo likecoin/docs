@@ -84,7 +84,7 @@
 {% tab title="2017" %}
 ### 11/23 壹周刊 利世民專欄
 
-金融創新所為何事？
+[金融創新所為何事？](https://hk.nextmgz.com/article/2_560099_0)
 
 ### 11/17 The Standard, Simon Lee Column
 
