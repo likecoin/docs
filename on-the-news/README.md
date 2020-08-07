@@ -92,6 +92,10 @@
 {% endtab %}
 
 {% tab title="2017" %}
+### 11/23 壹周刊 利世民專欄
+
+金融創新所為何事？
+
 ### 11/17 The Standard, Simon Lee Column
 
 [Like it or not, cryptocurrencies here to stay](https://www.thestandard.com.hk/sections-news_print.php?id=189734)
