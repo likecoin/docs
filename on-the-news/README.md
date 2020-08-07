@@ -84,6 +84,8 @@
 
 [金融中心：ICO籌幾千萬？港產加密貨幣誕生](https://hk.appledaily.com/finance/20180305/HBHYRDIFNDKOXIV2RYX4CJAJHU/)
 
+![](../.gitbook/assets/apple_blur_tiny.jpg)
+
 ### **01/01 903**
 
 高重建 為明日革命
