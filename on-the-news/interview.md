@@ -8,7 +8,7 @@
 {% tab title="2019" %}
 ### 05/24 明報
 
-「讚賞公民」運動 化讚賞[為](https://www.mpfinance.com/fin/daily2.php?node=1558639282687&issue=20190524)作者收入
+[「讚賞公民」運動 化讚賞為作者收入](https://www.mpfinance.com/fin/daily2.php?node=1558639282687&issue=20190524)
 {% endtab %}
 
 {% tab title="2018" %}

@@ -6,9 +6,45 @@
 {% endtab %}
 
 {% tab title="2019" %}
+### 12/23 信報 龍子維專欄
+
+[從社區設計角度看黃色經濟圈](https://www.thestandnews.com/society/%E5%BE%9E%E7%A4%BE%E5%8D%80%E8%A8%AD%E8%A8%88%E8%A7%92%E5%BA%A6%E7%9C%8B%E9%BB%83%E8%89%B2%E7%B6%93%E6%BF%9F%E5%9C%88/)
+
+### 12/22 HK01
+
+[【黃色經濟圈．四】是一場黃色虛火 還是一種發展模式？](https://www.hk01.com/%E5%91%A8%E5%A0%B1/410632/%E9%BB%83%E8%89%B2%E7%B6%93%E6%BF%9F%E5%9C%88-%E5%9B%9B-%E6%98%AF%E4%B8%80%E5%A0%B4%E9%BB%83%E8%89%B2%E8%99%9B%E7%81%AB-%E9%82%84%E6%98%AF%E4%B8%80%E7%A8%AE%E7%99%BC%E5%B1%95%E6%A8%A1%E5%BC%8F)
+
+### 11/25 AM730 林家健專欄
+
+[和理消—黃色代幣經濟圈](https://www.am730.com.hk/column/%E8%B2%A1%E7%B6%93/%E5%92%8C%E7%90%86%E6%B6%88%E2%80%94%E9%BB%83%E8%89%B2%E4%BB%A3%E5%B9%A3%E7%B6%93%E6%BF%9F%E5%9C%88-197681)
+
+### 11/01 信報財經月刊
+
+[中國數碼列寧主義 計劃經濟借屍還魂](https://monthly.hkej.com/monthly/article/id/2288525/%E4%B8%AD%E5%9C%8B%E6%95%B8%E7%A2%BC%E5%88%97%E5%AF%A7%E4%B8%BB%E7%BE%A9%E3%80%80%E8%A8%88%E5%8A%83%E7%B6%93%E6%BF%9F%E5%80%9F%E5%B1%8D%E9%82%84%E9%AD%82)
+
+### 09/23 明報 沈旭暉專欄
+
+[「時代革命」：工業革命4.0 與「真．香港」的未來	](https://simonshen.blog/2019/09/23/%E3%80%8C%E6%99%82%E4%BB%A3%E9%9D%A9%E5%91%BD%E3%80%8D%EF%BC%9A%E5%B7%A5%E6%A5%AD%E9%9D%A9%E5%91%BD4-0-%E8%88%87%E3%80%8C%E7%9C%9F%EF%BC%8E%E9%A6%99%E6%B8%AF%E3%80%8D%E7%9A%84%E6%9C%AA%E4%BE%86/)
+
+### 07/31 香港蘋果日報 尹思哲專欄
+
+[【創業起義】企業應如何Be Water](https://hk.appledaily.com/finance/20190730/7FF5IUN63BOBGYM2J5ZL4M3OGY/)
+
+### 07/11 香港蘋果日報 宋漢生專欄
+
+[【黑鏡線索】廿二世紀自救網絡](https://hk.appledaily.com/tech/20190711/BEPYV6ZGUGCXC36OOWYKLO6YHQ/)
+
+### 07/04 香港蘋果日報 宋漢生專欄
+
+[【黑鏡線索】暴政與後生](https://hk.appledaily.com/tech/20190704/7DHV7JO4OICLR57UCOUTBO7IN4/)
+
 ### 05/09 信報 林天程專欄
 
 [本土科創化Like為Coin](https://trendalysis.com/%E8%AB%87%E6%9C%AC%E5%9C%9F%E7%A7%91%E5%89%B5%E5%8C%96like-%E7%82%BAcoin/)
+
+### 02/07 香港蘋果日報 宋漢生專欄
+
+【黑鏡線索】給未來[人的](https://hk.appledaily.com/tech/20190207/TN34LUMUK23QX5FKMFLMZNEEEM/)光輝歲月
 {% endtab %}
 
 {% tab title="2018" %}
