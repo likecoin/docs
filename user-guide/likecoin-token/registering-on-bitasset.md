@@ -28,7 +28,7 @@ Then go into the "Personal information page" page.
 
 ### Step 2: Certification Level 1 and 2
 
-If you are not China user, you have to complete certification Lv.1 and Lv.2
+If you are not a China user, you have to complete certification Lv.1 and Lv.2
 
 Go to the "Personal Information Page", click "Upgrade Now"
 

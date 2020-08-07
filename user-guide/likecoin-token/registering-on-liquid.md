@@ -12,7 +12,7 @@ Go to [Liquid.com](https://www.liquid.com/) and [register](https://www.liquid.co
 
 ![](../../.gitbook/assets/liquid.png)
 
-Liquid will immediately send you a verification email, click on the link in the email and activate your account..
+Liquid will immediately send you a verification email, click on the link in the email and activate your account.
 
 ### Step 2: Set up 2-Factor Authentication \(2FA\)
 

@@ -20,7 +20,7 @@ description: Buy and Swap LikeCoin. Instantly
 * Select the type of currency that you would like to sell, select LIKE. If you would like to buy LikeCoin, select other cryptocurrency for example BTC/ETH/USDC/USDT
 * On the "RECEIVE" field select the currency that you would like to get, rate is displayed instantly
 * Fill in the amount to sell on the "EXCHANGE" field, if you do not have enough balance in your Liquid account, a warning will be displayed
-* Fill in the amount to exchange, the system will show the amount that you can get on the "RECEIVE" field. If it's OK to you, click the "Quick Exchange'' button and the transaction is done. The exchanged amount will be credited to your account instantly.
+* Fill in the amount to exchange, the system will show the amount that you can get on the "RECEIVE" field. If it's OK to you, click the "Quick Exchange'' button and the transaction is done. The exchanged amount will be credited to your account instantly
 * Or vice versa, fill in the amount of currency that you want to get, the system will show the amount of currency that you need to sell in the "EXCHANGE" field
 
 ![](../../.gitbook/assets/quick-exchange-1-en.png)
