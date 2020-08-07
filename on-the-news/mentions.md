@@ -44,6 +44,10 @@
 
 [本土科創化Like為Coin](https://trendalysis.com/%E8%AB%87%E6%9C%AC%E5%9C%9F%E7%A7%91%E5%89%B5%E5%8C%96like-%E7%82%BAcoin/)
 
+### 04/10 香港蘋果日報
+
+[蘋人誌：香港仔向世界出發　經營廣東話](https://hk.appledaily.com/local/20190410/IYEODKRCTOLLPKKFC4ABCDBUXY/)
+
 ### 02/07 香港蘋果日報 宋漢生專欄
 
 [【黑鏡線索】給未來人的光輝歲月](https://hk.appledaily.com/tech/20190207/TN34LUMUK23QX5FKMFLMZNEEEM/)

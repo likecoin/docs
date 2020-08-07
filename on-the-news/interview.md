@@ -6,6 +6,10 @@
 {% endtab %}
 
 {% tab title="2019" %}
+06/04 Global Voices
+
+[Turning 'likes' into rewards: Hong Kong citizen media outlets launch "Civic Likers" campaign](https://www.scribd.com/article/412410212/Turning-Likes-Into-Rewards-Hong-Kong-Citizen-Media-Outlets-Launch-Civic-Likers-Campaign)
+
 ### 05/24 明報
 
 [「讚賞公民」運動 化讚賞為作者收入](https://www.mpfinance.com/fin/daily2.php?node=1558639282687&issue=20190524)
@@ -31,6 +35,10 @@
 [【已集資四千萬】LikeCoin創辦人：香港人唔係咁孤寒](https://hk.nextmgz.com/article/2_588408_0)
 
 {% embed url="https://www.youtube.com/watch?v=b8ra392rlCM" %}
+
+### 05/14 opensource.com
+
+[LikeCoin, a cryptocurrency for creators of openly licensed content](https://opensource.com/article/18/5/likecoin)
 
 ### **05/02 彭博商業周刊/中文版 第114期**
 
