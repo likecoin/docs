@@ -54,6 +54,10 @@
 
 [首隻港產加密幣點讚成金 創辦人冀改網絡歪風](http://startupbeat.hkej.com/?p=57661)
 
+### 04/06 AM730 梁天卓專欄
+
+[LikeCoin改變網上創作生態](https://www.am730.com.hk/column/%E8%B2%A1%E7%B6%93/likecoin%e6%94%b9%e8%ae%8a-%e7%b6%b2%e4%b8%8a%e5%89%b5%e4%bd%9c%e7%94%9f%e6%85%8b-121666)
+
 ### 04/09 區塊客
 
 [與高重建談 LikeCoin — 媒體群創不再空洞 創意共享新生態](https://blockcast.it/2018/04/19/blockcast-interview-likecoin-founder-kin-ko/)
@@ -89,8 +93,6 @@
 ### **01/01 903**
 
 高重建 為明日革命
-
-![](../.gitbook/assets/903.jpg)
 {% endtab %}
 
 {% tab title="2017" %}
@@ -109,6 +111,10 @@
 ![](../.gitbook/assets/ming2_tiny.jpg)
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 
 
