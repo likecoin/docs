@@ -28,6 +28,14 @@
 
 [LikeCoin改變網上創作生態](https://www.am730.com.hk/column/%E8%B2%A1%E7%B6%93/likecoin%e6%94%b9%e8%ae%8a-%e7%b6%b2%e4%b8%8a%e5%89%b5%e4%bd%9c%e7%94%9f%e6%85%8b-121666)
 
+### 03/28 AM730 徐家健專欄
+
+[掘金掘礦掘Like Coin](https://www.am730.com.hk/column/%E8%B2%A1%E7%B6%93/%E6%8E%98%E9%87%91%E6%8E%98%E7%A4%A6%E6%8E%98likecoin-120913)
+
+### 03/27 信報 曾國平專欄
+
+[龍蛇混雜的ICO市場](http://preview.hkej.com/dailynews/investment/article/1801290/%E9%BE%8D%E8%9B%87%E6%B7%B7%E9%9B%9C%E7%9A%84ICO%E5%B8%82%E5%A0%B4)
+
 ### 03/08 香港蘋果日報 郭釗專欄
 
 [Hea富生活：LikeCoin有利創作人](https://hk.appledaily.com/finance/20180308/YTT2JAQIORGX5CTJWK5VUPXZ3A/)
