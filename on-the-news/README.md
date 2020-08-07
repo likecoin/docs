@@ -10,6 +10,12 @@
 {% endtab %}
 
 {% tab title="2018" %}
+**08 突書誌 054期 搵真銀**
+
+\*\*\*\*[價值重組實驗](https://like.co/pdf/articles/breakazine.pdf)
+
+![](../.gitbook/assets/breakazine_9.png)
+
 #### 04/09 信報財經新聞
 
 [首隻港產加密幣點讚成金 創辦人冀改網絡歪風](http://startupbeat.hkej.com/?p=57661)
