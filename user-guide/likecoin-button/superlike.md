@@ -28,3 +28,9 @@ Super Like 功能將於 2020 第三季推出，推廣期間暫時只有[讚賞�
 
 ### 【[成為讚賞公民](https://like.co/in/getapp)】
 
+## Super Like 功能展示
+
+{% embed url="https://www.youtube.com/watch?v=ImmKksiHMt0" caption="分享文章也能賺錢？Super Like 功能演示 （國語）" %}
+
+{% embed url="https://www.youtube.com/watch?v=XXSfQm15KdQ" caption="分享文章都賺到錢？Super Like 功能示範 （廣東話）" %}
+
