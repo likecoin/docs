@@ -4,7 +4,7 @@
 * [📜 Constitution](constitution.md)
 * [On the News](on-the-news/README.md)
   * [Interview: On Print](on-the-news/interview-on-print.md)
-  * [Interview: Multimedia](on-the-news/interview-multimedia.md)
+  * [Interview: Audiovisual](on-the-news/interview-audiovisual.md)
   * [Mentions](on-the-news/mentions.md)
 * [Weekly Progress Updates](weekly-progress-updates/README.md)
   * [2020.08.03](weekly-progress-updates/2020.08.03.md)
