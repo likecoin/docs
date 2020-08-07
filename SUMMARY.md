@@ -96,6 +96,10 @@
   * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/volunteer.md)
   * [Do you have a press kit?](user-guide/faq/press-kit.md)
 
+## On the News
+
+* [Untitled](on-the-news/untitled.md)
+
 ## 🔬 Developer Resources <a id="developer"></a>
 
 * [LikeCoin chain node](developer/likecoin-chain-node/README.md)
@@ -122,8 +126,4 @@
   * [Specification](developer/international-standard-content-number-iscn/specification.md)
 * [ISCN IPFS plugin](developer/iscn-ipfs-plugin.md)
 * [Badge](developer/badge.md)
-
-## On the News
-
-* [Untitled](on-the-news/untitled.md)
 
