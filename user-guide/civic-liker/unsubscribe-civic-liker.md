@@ -6,7 +6,7 @@ description: A couple of steps
 
 Please follow the steps:
 
-Step1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "settings"
+Step1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "settings".
 
 ![](../../.gitbook/assets/subscribe-civic-liker-1-en.png)
 
