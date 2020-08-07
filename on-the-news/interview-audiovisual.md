@@ -8,9 +8,7 @@ Mr.Block x Blockshow Taipei Meetup
 
 {% embed url="https://www.youtube.com/watch?v=x4\_-UY1baT8" %}
 
-### 03/23 TVB 「錢」進新世代
-
-以「Like」維生？
+### 
 
 {% embed url="https://vimeo.com/261966523" %}
 {% endtab %}

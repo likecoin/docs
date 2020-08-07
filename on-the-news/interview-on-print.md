@@ -54,6 +54,12 @@
 
 [與高重建談 LikeCoin — 媒體群創不再空洞 創意共享新生態](https://blockcast.it/2018/04/19/blockcast-interview-likecoin-founder-kin-ko/)
 
+### 03/23 TVB 「錢」進新世代
+
+以「Like」維生？
+
+{% embed url="https://vimeo.com/261966523" %}
+
 ### 03/19 明周
 
 [【當金錢變成數碼】高重建：擁抱觸不到的付款方法 化like成coin支持創作](https://www.mpweekly.com/culture/%e9%9b%bb%e5%ad%90%e8%b2%a8%e5%b9%a3-%e9%9b%bb%e5%ad%90%e6%94%af%e4%bb%98-%e6%94%af%e4%bb%98%e5%af%b6-69230)
@@ -71,6 +77,12 @@
 [首隻港產加密貨幣 化Like為Coin](https://imoney.hket.com/article/2032254/%E9%A6%96%E9%9A%BB%E6%B8%AF%E7%94%A2%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%20%E5%8C%96Like%E7%82%BACoin)
 
 ![](../.gitbook/assets/likecoin_imoney.jpg)
+
+### 03/09 Mr.Block 區塊先生
+
+Mr.Block x Blockshow Taipei Meetup
+
+{% embed url="https://www.youtube.com/watch?v=x4\_-UY1baT8" %}
 
 ### 03/05 香港蘋果日報
 
