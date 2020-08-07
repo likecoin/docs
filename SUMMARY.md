@@ -68,6 +68,7 @@
   * [WordPress](user-guide/likecoin-button/wordpress.md)
   * [Medium](user-guide/likecoin-button/medium.md)
   * [Blogspot](user-guide/likecoin-button/blogspot.md)
+  * [October CMS](user-guide/likecoin-button/october-cms.md)
   * [SteemCN](user-guide/likecoin-button/steemcn.md)
   * [Wix / Weebly](user-guide/likecoin-button/wix.md)
   * [Write.as](user-guide/likecoin-button/write.as.md)
