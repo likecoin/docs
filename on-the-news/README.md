@@ -16,6 +16,12 @@
 
 ![](../.gitbook/assets/breakazine_9.png)
 
+05/02 彭博商業周刊/中文版 第114期
+
+[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html)
+
+![](../.gitbook/assets/bloomberg_likecoin_tiny.jpg)
+
 #### 04/09 信報財經新聞
 
 [首隻港產加密幣點讚成金 創辦人冀改網絡歪風](http://startupbeat.hkej.com/?p=57661)
