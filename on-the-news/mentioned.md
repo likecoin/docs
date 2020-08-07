@@ -20,9 +20,9 @@
 
 [加密幣規範化助發展](http://startupbeat.hkej.com/?p=65799)
 
-### 09/03 香港蘋果日報 章濤訪問
+### 09/03 香港蘋果日報 章濤 訪問
 
-比特幣早期投資者撈底 章濤：真正升勢未來臨
+[比特幣早期投資者撈底 章濤：真正升勢未來臨](https://hk.appledaily.com/finance/20180903/ZSBEH3PC72D356YEMXULEXILWM/)
 
 ### 07/17 明報 章濤專欄
 
@@ -44,7 +44,7 @@
 
 [專欄﹕港產ICO LikeCoin優質示範／文﹕章濤](https://news.mingpao.com/pns/%E5%89%B5%E7%A7%91%E7%B7%9A/article/20180501/special/1525111590167)
 
-### 05/01 信報財經月刊 494 期 徐家健、梁天卓、曾國平
+### 05/01 信報財經月刊 494 期 徐家健、梁天卓、曾國平 訪問
 
 [ICO 短炒長揸 低流動性有溢價](https://ebook.hkej.com/magazine/magazine/tablet/monthly.issue_preview.php?env=PROD&p_issno=494)
 
@@ -64,7 +64,7 @@
 
 [龍蛇混雜的ICO市場](http://preview.hkej.com/dailynews/investment/article/1801290/%E9%BE%8D%E8%9B%87%E6%B7%B7%E9%9B%9C%E7%9A%84ICO%E5%B8%82%E5%A0%B4)
 
-### 03/24 iMoney 智富雜誌
+### 03/24 iMoney 智富雜誌 訪問
 
 [【愈禁愈升】ICO掀融資革命 專訪奧雲談加密電子幣](http://www.etnet.com.hk/www/tc/forex/features_detail.php?newsid=8722)
 
@@ -76,7 +76,7 @@
 
 [Hea富生活：LikeCoin有利創作人](https://hk.appledaily.com/finance/20180308/YTT2JAQIORGX5CTJWK5VUPXZ3A/)
 
-### 03/08 AM730 渾水
+### 03/08 AM730 渾水專欄
 
 [如何看穿 加密貨幣的騙局？](https://www.am730.com.hk/column/%E8%B2%A1%E7%B6%93/%E5%A6%82%E4%BD%95%E7%9C%8B%E7%A9%BF-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E7%9A%84%E9%A8%99%E5%B1%80%EF%BC%9F-118247)
 {% endtab %}
