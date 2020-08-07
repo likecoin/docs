@@ -24,9 +24,11 @@ Download it on [Google Play Store](https://play.google.com/store/apps/details?id
 
 ![](.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
-#### More about LikeCoin: [Facebook](https://www.facebook.com/Liker.Land/) \| [Twitter](https://twitter.com/likecoin) \| [Slack](https://join.g0v.tw/) \| [Medium](https://medium.com/likecoin) \| [Newsletter](https://likecoin.substack.com/) \| [Telegram](https://t.me/likecoin) [Block Explorer](https://likecoin.bigdipper.live/) \| [Github](https://github.com/likecoin) \| [Gitcoin](https://gitcoin.co/grants/634/likecoin-republic-of-liker-land)
+#### More about LikeCoin: 
+
+#### [Facebook](https://www.facebook.com/Liker.Land/) \| [Twitter](https://twitter.com/likecoin) \| [Slack](https://join.g0v.tw/) \| [Medium](https://medium.com/likecoin) \| [Newsletter](https://likecoin.substack.com/) \| [Telegram](https://t.me/likecoin) [Block Explorer](https://likecoin.bigdipper.live/) \| [Github](https://github.com/likecoin) \| [Gitcoin](https://gitcoin.co/grants/634/likecoin-republic-of-liker-land)
 
 #### Contact customer service
 
-Go to [Like.co](https://like.co/) and click the lower right hand corner help desk dialogue box \(icon in blue\).
+Please go to [Like.co](https://like.co/) and click the lower right hand corner help desk dialogue box \(icon in blue\).
 
