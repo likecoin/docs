@@ -22,9 +22,11 @@ description: 讚賞公民共和國
 
 ![](.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
-#### 了解 LikeCoin 更多 [Facebook](https://www.facebook.com/Liker.Land/) \| [Twitter](https://twitter.com/likecoin) \| [Slack](https://join.g0v.tw/) \| [Matters](https://matters.news/@likecoin) \| [Medium](https://medium.com/likecoin) \| [Newsletter](https://likecoin.substack.com/) \| [Telegram](https://t.me/likecoin) [Block Explorer](https://likecoin.bigdipper.live/) \| [GitHub](https://github.com/likecoin) \| [Gitcoin](https://gitcoin.co/grants/634/likecoin-republic-of-liker-land)
+#### 了解 LikeCoin 更多
+
+#### [Facebook](https://www.facebook.com/Liker.Land/) \| [Matters](https://matters.news/@likecoin) \| [Slack](https://join.g0v.tw/) \| [Medium](https://medium.com/likecoin) \| [Twitter](https://twitter.com/likecoin) \| [Newsletter](https://likecoin.substack.com/) \| [Telegram](https://t.me/likecoin) [Block Explorer](https://likecoin.bigdipper.live/) \| [GitHub](https://github.com/likecoin) \| [Gitcoin](https://gitcoin.co/grants/634/likecoin-republic-of-liker-land)
 
 #### 聯絡客服
 
-到 [Like.co](https://like.co/) 按畫面右下角藍色按鈕
+請到 [Like.co](https://like.co/) 按畫面右下角藍色按鈕
 
