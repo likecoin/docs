@@ -42,6 +42,10 @@
 
 [首隻港產加密幣點讚成金 創辦人冀改網絡歪風](http://startupbeat.hkej.com/?p=57661)
 
+### 04/09 區塊客
+
+[與高重建談 LikeCoin — 媒體群創不再空洞 創意共享新生態](https://blockcast.it/2018/04/19/blockcast-interview-likecoin-founder-kin-ko/)
+
 ### 03/19 明周
 
 [【當金錢變成數碼】高重建：擁抱觸不到的付款方法 化like成coin支持創作](https://www.mpweekly.com/culture/%e9%9b%bb%e5%ad%90%e8%b2%a8%e5%b9%a3-%e9%9b%bb%e5%ad%90%e6%94%af%e4%bb%98-%e6%94%af%e4%bb%98%e5%af%b6-69230)
@@ -67,8 +71,6 @@
 ### **01/01 903**
 
 高重建 為明日革命
-
-![](../.gitbook/assets/903.jpg)
 {% endtab %}
 
 {% tab title="2017" %}
@@ -79,6 +81,8 @@
 ![](../.gitbook/assets/ming2_tiny.jpg)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
