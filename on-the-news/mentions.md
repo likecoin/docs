@@ -1,4 +1,4 @@
-# Mentioned
+# Mentions
 
 {% tabs %}
 {% tab title="2020" %}

@@ -4,7 +4,7 @@
 * [📜 Constitution](constitution.md)
 * [On the News](on-the-news/README.md)
   * [Interview](on-the-news/interview.md)
-  * [Mentioned](on-the-news/mentioned.md)
+  * [Mentions](on-the-news/mentions.md)
 * [Weekly Progress Updates](weekly-progress-updates/README.md)
   * [2020.08.03](weekly-progress-updates/2020.08.03.md)
   * [2020.07.27](weekly-progress-updates/2020.07.27.md)
