@@ -2,6 +2,8 @@
 
 * [About LikeCoin](README.md)
 * [📜 Constitution](constitution.md)
+* [On The News](on-the-news/README.md)
+  * [Media Coverage](on-the-news/media-coverage.md)
 * [Weekly Progress Updates](weekly-progress-updates/README.md)
   * [2020.08.03](weekly-progress-updates/2020.08.03.md)
   * [2020.07.27](weekly-progress-updates/2020.07.27.md)
@@ -95,7 +97,6 @@
   * [How to follow LikeCoin's news?](user-guide/faq/likecoin-news.md)
   * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/volunteer.md)
   * [Do you have a press kit?](user-guide/faq/press-kit.md)
-* [On The News](user-guide/on-the-news.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
@@ -123,8 +124,4 @@
   * [Specification](developer/international-standard-content-number-iscn/specification.md)
 * [ISCN IPFS plugin](developer/iscn-ipfs-plugin.md)
 * [Badge](developer/badge.md)
-
-## On the News
-
-* [Untitled](on-the-news/untitled.md)
 
