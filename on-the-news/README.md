@@ -16,9 +16,9 @@
 
 ![](../.gitbook/assets/breakazine_9.png)
 
-05/02 彭博商業周刊/中文版 第114期
+**05/02 彭博商業周刊/中文版 第114期**
 
-[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html)
+\*\*\*\*[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html)
 
 ![](../.gitbook/assets/bloomberg_likecoin_tiny.jpg)
 
