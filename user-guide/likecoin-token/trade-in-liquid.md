@@ -41,3 +41,7 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 Liquid 不對數字貨幣及法定貨幣存款收取相應費用，而最低委託數量、最低提款金額及交易手續費等最新資訊可於 [Liquid 幫助中心（繁体中文）](https://help.liquid.com/en/collections/1490333-liquid-%E5%B9%AB%E5%8A%A9%E4%B8%AD%E5%BF%83-%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87)參看
 {% endhint %}
 
+#### 參考文章
+
+> [Liquid 正式支援 LikeCoin chain！](https://matters.news/@likecoin/liquid-%E6%AD%A3%E5%BC%8F%E6%94%AF%E6%8F%B4-like-coin-chain-bafyreiavjar7b7ao7qxjb7b3szr4xl7tyxity4ddm7dwobnv63rwmjfdiq)
+
