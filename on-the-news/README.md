@@ -16,6 +16,12 @@
 
 ![](../.gitbook/assets/breakazine_9.png)
 
+#### 05/23 **壹**周刊
+
+[ 【與中央分權】區塊鏈帶來革命? LikeCoin創辦人: 唔會徒勞無功](https://hk.nextmgz.com/article/2_588463_0)
+
+[【已集資四千萬】LikeCoin創辦人：香港人唔係咁孤寒](https://hk.nextmgz.com/article/2_588408_0)
+
 **05/02 彭博商業周刊/中文版 第114期**
 
 \*\*\*\*[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html)
@@ -47,8 +53,6 @@
 #### 03/05 香港蘋果日報
 
 [金融中心：ICO籌幾千萬？港產加密貨幣誕生](https://hk.appledaily.com/finance/20180305/HBHYRDIFNDKOXIV2RYX4CJAJHU/)
-
-![](../.gitbook/assets/apple_blur_tiny.jpg)
 {% endtab %}
 
 {% tab title="2017" %}
@@ -59,6 +63,8 @@
 ![](../.gitbook/assets/ming2_tiny.jpg)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
