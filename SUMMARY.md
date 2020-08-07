@@ -86,6 +86,7 @@
 * [Migrating from ERC-20](user-guide/migration/README.md)
   * [Assisted Migration](user-guide/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
   * [LikeCoin Migration FAQ](user-guide/migration/migration-faq.md)
+* [On The News](user-guide/on-the-news.md)
 * [FAQ](user-guide/faq/README.md)
   * [LikeCoin Foundation](user-guide/faq/likecoin-foundation.md)
   * [How to receive a Liker Land monthly report?](user-guide/faq/monthly-report.md)
@@ -95,7 +96,6 @@
   * [How to follow LikeCoin's news?](user-guide/faq/likecoin-news.md)
   * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/volunteer.md)
   * [Do you have a press kit?](user-guide/faq/press-kit.md)
-* [On The News](user-guide/on-the-news.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
