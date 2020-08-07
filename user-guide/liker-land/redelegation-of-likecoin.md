@@ -4,7 +4,7 @@ description: Transfer the delegated LikeCoin to another validator
 
 # Redelegation of LikeCoin
 
-Liker Land mobile app \[Redelegate\] function helps users to transfer the delegated LikeCoin from one validator to another. LikeCoin will be transferred immediately after confirmation, voting power of the validator is affected too. The newly delegated LikeCoin receives rewards according to the rewards percentage of the new validator.
+[Liker Land mobile app](https://docs.like.co/user-guide/liker-land/liker-land-mobile-app) \[Redelegate\] function helps users to transfer the delegated LikeCoin from one validator to another. LikeCoin will be transferred immediately after confirmation, voting power of the validator is affected too. The newly delegated LikeCoin receives rewards according to the rewards percentage of the new validator.
 
 Steps for Redelegation:
 
