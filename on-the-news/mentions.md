@@ -126,7 +126,7 @@
 
 ### 11/17 The Standard, Simon Lee Column
 
-[Like it or not, cryptocurrencies here to stay](https://www.thestandard.com.hk/sections-news_print.php?id=189734)
+[Like it or not, cryptocurrencies here to stay](https://www.thestandard.com.hk/section-news/section/5/189734/Like-it-or-not,-cryptocurrencies-here-to-stay)
 {% endtab %}
 {% endtabs %}
 
