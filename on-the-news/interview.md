@@ -1,4 +1,4 @@
-# Interview: On Print
+# Interview
 
 {% tabs %}
 {% tab title="2020" %}
