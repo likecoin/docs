@@ -56,6 +56,7 @@
   * [生活譜記](user-guide/likecoin-button/youput.md)
   * [Blogspot](user-guide/likecoin-button/blogspot.md)
   * [Blink](user-guide/likecoin-button/blink.md)
+  * [October CMS](user-guide/likecoin-button/october-cms.md)
   * [SteemCN](user-guide/likecoin-button/steemcn.md)
   * [Wix / Weebly](user-guide/likecoin-button/wix.md)
   * [Write.as](user-guide/likecoin-button/write.as.md)
