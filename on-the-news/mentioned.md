@@ -12,6 +12,10 @@
 {% endtab %}
 
 {% tab title="2018" %}
+### 12/18 明報 一雲專欄
+
+[萬維網何時實現再去中心化？](https://news.mingpao.com/pns/%E4%BD%9C%E5%AE%B6%E5%B0%88%E6%AC%84/article/20181218/s00018/1545070958488/%E4%B8%96%E7%B4%80-%E4%BA%8C%E5%85%83%E5%B0%8D%E5%9D%90-%E8%90%AC%E7%B6%AD%E7%B6%B2%E4%BD%95%E6%99%82%E5%AF%A6%E7%8F%BE%E5%86%8D%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96)
+
 ### 11/13 信報 方保僑專欄 
 
 [加密幣規範化助發展](http://startupbeat.hkej.com/?p=65799)
