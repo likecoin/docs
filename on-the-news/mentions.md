@@ -28,6 +28,10 @@
 
 [中國數碼列寧主義 計劃經濟借屍還魂](https://monthly.hkej.com/monthly/article/id/2288525/%E4%B8%AD%E5%9C%8B%E6%95%B8%E7%A2%BC%E5%88%97%E5%AF%A7%E4%B8%BB%E7%BE%A9%E3%80%80%E8%A8%88%E5%8A%83%E7%B6%93%E6%BF%9F%E5%80%9F%E5%B1%8D%E9%82%84%E9%AD%82)
 
+### 10/30 黃哲斌專欄
+
+[黃哲斌：加密貨幣「如果還有明天」？](https://www.wealth.com.tw/home/articles/22829)
+
 ### 09/23 明報 沈旭暉專欄
 
 [「時代革命」：工業革命4.0 與「真．香港」的未來	](https://simonshen.blog/2019/09/23/%E3%80%8C%E6%99%82%E4%BB%A3%E9%9D%A9%E5%91%BD%E3%80%8D%EF%BC%9A%E5%B7%A5%E6%A5%AD%E9%9D%A9%E5%91%BD4-0-%E8%88%87%E3%80%8C%E7%9C%9F%EF%BC%8E%E9%A6%99%E6%B8%AF%E3%80%8D%E7%9A%84%E6%9C%AA%E4%BE%86/)
