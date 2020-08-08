@@ -78,6 +78,14 @@
 
 [比特幣早期投資者撈底 章濤：真正升勢未來臨](https://www.thestandnews.com/finance/%E6%AF%94%E7%89%B9%E5%B9%A3%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B3%87%E8%80%85%E6%92%88%E5%BA%95-%E7%AB%A0%E6%BF%A4-%E7%9C%9F%E6%AD%A3%E5%8D%87%E5%8B%A2%E6%9C%AA%E4%BE%86%E8%87%A8/)
 
+### 08/24 晴報 黃雅麗專欄
+
+[區塊鏈Vs互聯網](https://skypost.ulifestyle.com.hk/column/article/2145330/%E5%8D%80%E5%A1%8A%E9%8F%88Vs%E4%BA%92%E8%81%AF%E7%B6%B2)
+
+### 08/17 晴報 黃雅麗專欄
+
+[菜鳥初涉加密幣](https://skypost.ulifestyle.com.hk/column/article/2139805/%E8%8F%9C%E9%B3%A5%E5%88%9D%E6%B6%89%E5%8A%A0%E5%AF%86%E5%B9%A3)
+
 ### 07/17 明報 章濤專欄
 
 [炒幣如同炒仙股？](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20180717/s00002/1531765824969/%E5%B0%88%E6%AC%84-%E7%82%92%E5%B9%A3%E5%A6%82%E5%90%8C%E7%82%92%E4%BB%99%E8%82%A1-%E6%96%87-%E7%AB%A0%E6%BF%A4)
@@ -151,6 +159,10 @@
 ### 11/17 The Standard, Simon Lee Column
 
 [Like it or not, cryptocurrencies here to stay](https://www.thestandard.com.hk/section-news/section/5/189734/Like-it-or-not,-cryptocurrencies-here-to-stay)
+
+### 10/16 晴報 黃雅麗專欄
+
+[好文有價](https://skypost.ulifestyle.com.hk/column/article/1918925/%E5%A5%BD%E6%96%87%E6%9C%89%E5%83%B9)
 {% endtab %}
 {% endtabs %}
 
