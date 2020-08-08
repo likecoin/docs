@@ -24,3 +24,7 @@
 
 [Like 버튼을 재창조하는 라이크코인, Creative Commons Summit 행사에서 전세계 크리에이터 지원 방식을 공유](https://www.media-outreach.com/View/5287/Like+%EB%B2%84%ED%8A%BC%EC%9D%84+%EC%9E%AC%EC%B0%BD%EC%A1%B0%ED%95%98%EB%8A%94+%EB%9D%BC%EC%9D%B4%ED%81%AC%EC%BD%94%EC%9D%B8%2C+Creative+Commons+Summit+%ED%96%89%EC%82%AC%EC%97%90%EC%84%9C+%EC%A0%84%EC%84%B8%EA%B3%84+%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0+%EC%A7%80%EC%9B%90+%EB%B0%A9%EC%8B%9D%EC%9D%84+%EA%B3%B5%EC%9C%A0.html)
 
+### **2018/**03/04
+
+[LikeCoin Issues First 30,000 Tokens to Activate New Blockchain-based Ecosystem for Content Creators](https://www.businesswire.com/news/home/20180304005009/en/LikeCoin-Issues-30000-Tokens-Activate-New-Blockchain-based)
+
