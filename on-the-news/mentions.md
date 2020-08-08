@@ -134,11 +134,11 @@
 
 [龍蛇混雜的ICO市場](http://preview.hkej.com/dailynews/investment/article/1801290/%E9%BE%8D%E8%9B%87%E6%B7%B7%E9%9B%9C%E7%9A%84ICO%E5%B8%82%E5%A0%B4)
 
-### 03/24 iMoney 智富雜誌 訪問
+### 03/24 iMoney 智富雜誌
 
 [【愈禁愈升】ICO掀融資革命 專訪奧雲談加密電子幣](http://www.etnet.com.hk/www/tc/forex/features_detail.php?newsid=8722)
 
-### 03/23 iMonye 智富雜誌
+### 03/23 iMoney 智富雜誌
 
 [年輕人掘礦創業 冀藉ICO化危為機](https://imoney.hket.com/article/2037119/%E5%B9%B4%E8%BC%95%E4%BA%BA%E6%8E%98%E7%A4%A6%E5%89%B5%E6%A5%AD%20%E5%86%80%E8%97%89ICO%E5%8C%96%E5%8D%B1%E7%82%BA%E6%A9%9F)
 
