@@ -26,7 +26,7 @@
 
 ### 06/04 Global Voices
 
-[Turning 'likes' into rewards: Hong Kong citizen media outlets launch "Civic Likers" campaign](https://www.scribd.com/article/412410212/Turning-Likes-Into-Rewards-Hong-Kong-Citizen-Media-Outlets-Launch-Civic-Likers-Campaign)
+[Turning 'likes' into rewards: Hong Kong citizen media outlets launch "Civic Likers" campaign](https://globalvoices.org/2019/06/04/turning-likes-into-rewards-hong-kong-citizen-media-outlets-launch-civic-likers-campaign/)
 
 ### 06/04 Tech Orange 科技報橘
 
