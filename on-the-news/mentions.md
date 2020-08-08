@@ -98,6 +98,10 @@
 
 [區塊鏈不應只視作投機工具](https://www.hkcnews.com/article/12287/%E5%8D%80%E5%A1%8A%E9%8F%88-blockchain-likecoin-12287/%E5%8D%80%E5%A1%8A%E9%8F%88%E4%B8%8D%E6%87%89%E5%8F%AA%E8%A6%96%E4%BD%9C%E6%8A%95%E6%A9%9F%E5%B7%A5%E5%85%B7)
 
+### 05/15 立場新聞 廣告狂人專欄
+
+[LikeCoin — 我的兩個第一次](https://www.thestandnews.com/technology/likecoin-%E6%88%91%E7%9A%84%E5%85%A9%E5%80%8B%E7%AC%AC%E4%B8%80%E6%AC%A1/)
+
 ### 05/09 信報 林天程專欄
 
 [本土科創化Like為Coin](https://trendalysis.com/%E8%AB%87%E6%9C%AC%E5%9C%9F%E7%A7%91%E5%89%B5%E5%8C%96like-%E7%82%BAcoin/)
