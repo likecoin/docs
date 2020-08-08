@@ -26,6 +26,8 @@ LikeCoin 是網媒出路？ 創始人高重建：望化讚為賞 讓公民支持
 
 [【專訪】創意有價！網民按LikeCoin鍵　可助創作者日進千金](https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222574/%E5%B0%88%E8%A8%AA-%E5%89%B5%E6%84%8F%E6%9C%89%E5%83%B9-%E7%B6%B2%E6%B0%91%E6%8C%89likecoin%E9%8D%B5-%E5%8F%AF%E5%8A%A9%E5%89%B5%E4%BD%9C%E8%80%85%E6%97%A5%E9%80%B2%E5%8D%83%E9%87%91)
 
+[【LikeCoin專訪】高重建：新幣普及不易　最重要有明確定位](https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222576/likecoin%E5%B0%88%E8%A8%AA-%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%96%B0%E5%B9%A3%E6%99%AE%E5%8F%8A%E4%B8%8D%E6%98%93-%E6%9C%80%E9%87%8D%E8%A6%81%E6%9C%89%E6%98%8E%E7%A2%BA%E5%AE%9A%E4%BD%8D)
+
 ### **08/01 突破書誌 054期 搵真銀**
 
 \*\*\*\*[價值重組實驗](https://like.co/pdf/articles/breakazine.pdf)
