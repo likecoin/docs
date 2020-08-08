@@ -18,6 +18,12 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [鏈上生活節 2019](https://www.abmedia.io/blockchain-event/)
 
+### 11/02 Matters
+
+[【Matters & LikeCoin 台北活動報名】好內容獲得回報之後，我們的下一步是？](https://matters.news/@hi176/matters-and-like-coin-%E5%8F%B0%E5%8C%97%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%90%8D-%E5%A5%BD%E5%85%A7%E5%AE%B9%E7%8D%B2%E5%BE%97%E5%9B%9E%E5%A0%B1%E4%B9%8B%E5%BE%8C-%E6%88%91%E5%80%91%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AD%A5%E6%98%AF-zdpuAsK7Vcv4QNTzJs6sbgc3KD2xABLw2AFxnBfXBzSyeYeMr)
+
+[【感想 Matters x LikeCoin活動】「讓99%的創作者實現價值」vs. Winners Take All](https://matters.news/@fide/%E6%84%9F%E6%83%B3-matters-x-like-coin%E6%B4%BB%E5%8B%95-%E8%AE%9399-%E7%9A%84%E5%89%B5%E4%BD%9C%E8%80%85%E5%AF%A6%E7%8F%BE%E5%83%B9%E5%80%BC-vs-winners-take-all-zdpuAsqPnzojL1p9nSt4Bsu7GHhMDCKDGBEDGxmVp2BpMuUbp)
+
 ### 10/12 WordCamp Hong Kong 2019
 
 [Edmond Yu: 404 Not Found遇得多；402有見過麼？](https://2019.hongkong.wordcamp.org/files/2019/10/06-404-Not-Found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F-Edmond-Yu.pdf)
