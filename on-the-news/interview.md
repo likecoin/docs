@@ -36,9 +36,13 @@
 
 [「讚賞公民」運動 化讚賞為作者收入](https://www.mpfinance.com/fin/daily2.php?node=1558639282687&issue=20190524)
 
+### 05/22 眾新聞
+
+[「讚賞公民」計劃啟動 網媒的未來：有like就有coins？](https://www.hkcnews.com/article/20686/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-likecoin-%E7%9C%BE%E6%96%B0%E8%81%9E-20686/%E3%80%8C%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E3%80%8D%E8%A8%88%E5%8A%83%E5%95%9F%E5%8B%95-%E7%B6%B2%E5%AA%92%E7%9A%84%E6%9C%AA%E4%BE%86%EF%BC%9A%E6%9C%89like%E5%B0%B1%E6%9C%89coins%EF%BC%9F)
+
 ### **05/21 立場新聞**
 
-LikeCoin 是網媒出路？ 創始人高重建：望化讚為賞 讓公民支持創作者
+[LikeCoin 是網媒出路？ 創始人高重建：望化讚為賞 讓公民支持創作者](https://www.thestandnews.com/media/likecoin-%E6%98%AF%E7%B6%B2%E5%AA%92%E5%87%BA%E8%B7%AF-%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%9C%9F%E6%9C%9B%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E8%AE%93%E5%85%AC%E6%B0%91%E6%94%AF%E6%8C%81%E5%89%B5%E4%BD%9C%E8%80%85/)
 {% endtab %}
 
 {% tab title="2018" %}
@@ -157,6 +161,4 @@ Mr.Block x Blockshow Taipei Meetup
 ![](../.gitbook/assets/ming2_tiny.jpg)
 {% endtab %}
 {% endtabs %}
-
-
 
