@@ -68,6 +68,10 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [7+1 Entrepreneurship for Design & Creative Business Certificate Programme 2018](https://www.hkdesignincubation.org/?route=happening-detail&id=Incubatees%20joining%207plus1%20Programme%202018-06-28)
 
+### 05/05 ZEROZONE
+
+[ZEROZONE x LikeCoin \| 化Like為Coin：LikeCoin 技術原理與經濟模](https://zerozone.co/portfolio/zerozone-x-likecoin-%e5%8c%96like%e7%82%bacoin/)
+
 ### 03/22 FOSSASIA Summit 2018
 
 [Reinventing the "Like" - Rewarding contents with Proof of Creativity](https://2018.fossasia.org/event/schedule.html)
