@@ -90,6 +90,10 @@
 
 [炒幣如同炒仙股？](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20180717/s00002/1531765824969/%E5%B0%88%E6%AC%84-%E7%82%92%E5%B9%A3%E5%A6%82%E5%90%8C%E7%82%92%E4%BB%99%E8%82%A1-%E6%96%87-%E7%AB%A0%E6%BF%A4)
 
+### 07/11 橙皮書 Retric
+
+[LikeCoin：为创意内容产业发明一个新的pagerank算法和一个新的点赞按钮](https://orange.xyz/p/166)
+
 ### 05/31 香港蘋果日報 宋漢生專欄
 
 [【黑鏡線索】FB焗上成魔之路](https://hk.appledaily.com/tech/20180531/SRPYQARCYOMVWLJCKDTXYDZCEI/)
