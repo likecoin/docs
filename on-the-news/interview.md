@@ -21,10 +21,6 @@
 LikeCoin 是網媒出路？ 創始人高重建：望化讚為賞 讓公民支持創作者
 {% endtab %}
 
-{% tab title="" %}
-
-{% endtab %}
-
 {% tab title="2018" %}
 ### **08/17 HK01**
 
