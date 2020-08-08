@@ -80,6 +80,12 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.youtube.com/watch?v=5y1y9t1fxwo" %}
 
+### 03/01Open Source Hong Kong
+
+[Open Source Developer Meetup \#12](https://opensource.hk/developer-meetup-12/)
+
+{% embed url="https://www.youtube.com/watch?v=jQZKeLAkgaE" %}
+
 ### 2/23 BLOOM
 
 [\[Cantonese\] The Story of LikeCoin: Applying Blockchain Technology on Creative Contents](https://www.whub.io/events/cantonese-the-story-of-likecoin-applying-blockchain-technology-on-creative-contents-1518425757)
