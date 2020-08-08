@@ -12,6 +12,10 @@
 {% endtab %}
 
 {% tab title="2019" %}
+### 12/7 区块链研究院
+
+[AMA回顾\| 一个赞赏共和国的诞生](https://zhuanlan.zhihu.com/p/98662833)
+
 ### 10/9 AIre VOICE
 
 [コンテンツの価値をクリエイターに還元。無料コンテンツの大きなリスク](https://aire-voice.com/interview/5428/)
