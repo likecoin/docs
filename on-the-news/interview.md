@@ -28,7 +28,7 @@
 
 [Turning 'likes' into rewards: Hong Kong citizen media outlets launch "Civic Likers" campaign](https://www.scribd.com/article/412410212/Turning-Likes-Into-Rewards-Hong-Kong-Citizen-Media-Outlets-Launch-Civic-Likers-Campaign)
 
-### 06/04 Tec Orange 科技報橘
+### 06/04 Tech Orange 科技報橘
 
 [【AppWorks Demo Day \#18】25 支 AI／區塊鏈新創團隊，創造毫無冷場的新創盛會](https://buzzorange.com/techorange/2019/06/04/appworks-demo-day_18/)
 
