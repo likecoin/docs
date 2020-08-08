@@ -12,6 +12,10 @@
 {% endtab %}
 
 {% tab title="2019" %}
+### 09/05 WP Builds
+
+[144 – Get paid with likes… the Like Coin with Kin Ko](https://wpbuilds.com/2019/09/05/144-get-paid-with-likes-the-like-coin-with-kin-ko/)
+
 ### 06/14 區塊勢
 
 [EP.25 媒體在免費與付費之間的第三條路－專訪讚賞公民基金會創辦人高重建](https://matters.news/@mingnhsu/%E9%9F%B3%E9%A0%BB-%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-%E5%AA%92%E9%AB%94%E5%9C%A8%E5%85%8D%E8%B2%BB%E8%88%87%E4%BB%98%E8%B2%BB%E4%B9%8B%E9%96%93%E7%9A%84%E7%AC%AC%E4%B8%89%E6%A2%9D%E8%B7%AF-zdpuAnoUAQw5EdNuXK5idPcG7hyGcD25hRrjtTFedob2Uk3M5)
