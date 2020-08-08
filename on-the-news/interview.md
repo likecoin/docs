@@ -43,6 +43,10 @@
 ### **05/21 立場新聞**
 
 [LikeCoin 是網媒出路？ 創始人高重建：望化讚為賞 讓公民支持創作者](https://www.thestandnews.com/media/likecoin-%E6%98%AF%E7%B6%B2%E5%AA%92%E5%87%BA%E8%B7%AF-%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%9C%9F%E6%9C%9B%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E8%AE%93%E5%85%AC%E6%B0%91%E6%94%AF%E6%8C%81%E5%89%B5%E4%BD%9C%E8%80%85/)
+
+### 01/01 Newtalk 新聞
+
+[創夢實驗室》oice 視覺小說：區塊鏈讓賦予故事血肉的創作者都被看見\(下\)](https://newtalk.tw/news/view/2019-01-01/187217)
 {% endtab %}
 
 {% tab title="2018" %}
