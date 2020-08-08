@@ -112,6 +112,8 @@ QUOINE x LikeCoin: The Future of the Like
 
 [LikeCoin Founder - Kin Ko Presents An Opportunity for Artists to Earn](https://www.cryptoground.com/a/likecoin-founder-kin-ko-presents-an-opportunity-for-artists-to-earn)
 
+{% embed url="https://www.youtube.com/watch?v=VcAOnpquTB0" %}
+
 ### 04/19 區塊客
 
 [與高重建談 LikeCoin — 媒體群創不再空洞 創意共享新生態](https://blockcast.it/2018/04/19/blockcast-interview-likecoin-founder-kin-ko/)
@@ -183,4 +185,6 @@ Mr.Block x Blockshow Taipei Meetup
 ![](../.gitbook/assets/ming2_tiny.jpg)
 {% endtab %}
 {% endtabs %}
+
+
 
