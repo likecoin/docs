@@ -27,6 +27,8 @@
 ### 03/23 BitAsset
 
 [透過區塊鏈技術創造數位內容新價值](https://www.accupass.com/event/1902270300001410408830)
+
+[強棒出擊！透過區塊鏈創造數位內容新價值強勢登場 - 快來報名 利用區塊鏈技術將「創作當飯吃」可行嗎？讚賞幣 \(LikeCoin\) 創辦人跨海來台分享 來聽就對](https://www.cna.com.tw/postwrite/Detail/250351.aspx)
 {% endtab %}
 
 {% tab title="2018" %}
@@ -36,11 +38,17 @@
 
 ### 6/22 DRC金融科技
 
-[千聊直播\|LikeCoin项目分享会](https://www.ccvalue.cn/article/93018.html)
+[千聊直播\|LikeCoin项目分享会](https://twitter.com/communitydrc/status/1010150430616125440)
 
 ### 6/28 Design Incubation Programme
 
 [7+1 Entrepreneurship for Design & Creative Business Certificate Programme 2018](https://www.hkdesignincubation.org/?route=happening-detail&id=Incubatees%20joining%207plus1%20Programme%202018-06-28)
+
+### 03/08 創夢市集
+
+[媒體與獨立創作者如何透過區塊鏈合作共贏](https://www.accupass.com/event/1803030534252010918200)
+
+{% embed url="https://www.youtube.com/watch?v=5y1y9t1fxwo" %}
 
 ### 2/23 WHub
 
