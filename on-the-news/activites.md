@@ -50,15 +50,19 @@
 
 {% embed url="https://www.youtube.com/watch?v=5y1y9t1fxwo" %}
 
-### 2/23 WHub
+### 2/23 BLOOM
 
 [\[Cantonese\] The Story of LikeCoin: Applying Blockchain Technology on Creative Contents](https://www.whub.io/events/cantonese-the-story-of-likecoin-applying-blockchain-technology-on-creative-contents-1518425757)
+
+[MEET THE FOUNDER SERIES \#3: LIKE COIN](https://www.bloom.work/meet-the-founder-series-3-like-coin/)
+
+[LikeCoin Sharing by kin ko at BLOOM](https://medium.com/likecoin/likecoin-sharing-by-kin-ko-at-bloom-1e5865386ac6)
 {% endtab %}
 
 {% tab title="2017" %}
-### 11/27 WHub
+### 11/27 Incu-Lab
 
-[DCC 6.0：Emigration from Facebook and the Rise of Writer-Rewarded Contents](https://whub.io/events/dcc-6-0-emigration-from-facebook-and-the-rise-of-writer-rewarded-contents-1511412591)
+[DCC 6.0：EMIGRATION FROM FACEBOOK AND THE RISE OF WRITER-REWARDED CONTENTS /「數碼社區聚腳點」6.0：從臉書外移潮到寫手有賞內容之崛起](https://www.incu-lab.org/20171116-dcc/)
 
 ### 11/13 CUHK School of Journalism and Communication
 
