@@ -102,6 +102,10 @@
 
 [區塊鏈不應只視作投機工具](https://www.hkcnews.com/article/12287/%E5%8D%80%E5%A1%8A%E9%8F%88-blockchain-likecoin-12287/%E5%8D%80%E5%A1%8A%E9%8F%88%E4%B8%8D%E6%87%89%E5%8F%AA%E8%A6%96%E4%BD%9C%E6%8A%95%E6%A9%9F%E5%B7%A5%E5%85%B7)
 
+### 05/18 Fintech Hong Kong
+
+[10 Interesting Blockchain Projects in Hong Kong](https://fintechnews.hk/5198/blockchain/interesting-blockchain-projects-in-hong-kong/)
+
 ### 05/15 立場新聞 廣告狂人專欄
 
 [LikeCoin — 我的兩個第一次](https://www.thestandnews.com/technology/likecoin-%E6%88%91%E7%9A%84%E5%85%A9%E5%80%8B%E7%AC%AC%E4%B8%80%E6%AC%A1/)
@@ -165,6 +169,10 @@
 ### 03/08 AM730 渾水專欄
 
 [如何看穿 加密貨幣的騙局？](https://www.am730.com.hk/column/%E8%B2%A1%E7%B6%93/%E5%A6%82%E4%BD%95%E7%9C%8B%E7%A9%BF-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E7%9A%84%E9%A8%99%E5%B1%80%EF%BC%9F-118247)
+
+### 03/08 時代論壇 李卓乘專欄
+
+教會可以發展Church[-](https://christiantimes.org.hk/Common/Reader/News/ShowNews.jsp?Nid=154034&Pid=104&Version=0&Cid=2052&Charset=big5_hkscs)coin？
 {% endtab %}
 
 {% tab title="2017" %}
