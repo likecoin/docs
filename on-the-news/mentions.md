@@ -72,7 +72,7 @@
 
 ### 09/03 香港蘋果日報 章濤 訪問
 
-[比特幣早期投資者撈底 章濤：真正升勢未來臨](https://hk.appledaily.com/finance/20180903/ZSBEH3PC72D356YEMXULEXILWM/)
+[比特幣早期投資者撈底 章濤：真正升勢未來臨](https://www.thestandnews.com/finance/%E6%AF%94%E7%89%B9%E5%B9%A3%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B3%87%E8%80%85%E6%92%88%E5%BA%95-%E7%AB%A0%E6%BF%A4-%E7%9C%9F%E6%AD%A3%E5%8D%87%E5%8B%A2%E6%9C%AA%E4%BE%86%E8%87%A8/)
 
 ### 07/17 明報 章濤專欄
 
@@ -81,6 +81,10 @@
 ### 05/31 香港蘋果日報 宋漢生專欄
 
 [【黑鏡線索】FB焗上成魔之路](https://hk.appledaily.com/tech/20180531/SRPYQARCYOMVWLJCKDTXYDZCEI/)
+
+### 05/21 眾新聞 張秀賢專欄
+
+[區塊鏈不應只視作投機工具](https://www.hkcnews.com/article/12287/%E5%8D%80%E5%A1%8A%E9%8F%88-blockchain-likecoin-12287/%E5%8D%80%E5%A1%8A%E9%8F%88%E4%B8%8D%E6%87%89%E5%8F%AA%E8%A6%96%E4%BD%9C%E6%8A%95%E6%A9%9F%E5%B7%A5%E5%85%B7)
 
 ### 05/09 信報 林天程專欄
 
