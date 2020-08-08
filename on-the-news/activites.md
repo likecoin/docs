@@ -28,6 +28,10 @@
 {% endtab %}
 
 {% tab title="2017" %}
+### 11/27 WHub
+
+[DCC 6.0：Emigration from Facebook and the Rise of Writer-Rewarded Contents](https://whub.io/events/dcc-6-0-emigration-from-facebook-and-the-rise-of-writer-rewarded-contents-1511412591)
+
 ### 11/13 CUHK School of Journalism and Communication
 
 [Monday.COME "寫故仔可以當飯食麼？"](https://www.cpr.cuhk.edu.hk/tc/events_detail.php?id=15069&t=monday-come-%E5%AF%AB%E6%95%85%E4%BB%94%E5%8F%AF%E4%BB%A5%E7%95%B6%E9%A3%AF%E9%A3%9F%E9%BA%BC)
