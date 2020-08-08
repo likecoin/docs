@@ -2,17 +2,23 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 01/14 Meet 創業小聚
 
+[按讚有錢賺！LikeCoin 用區塊鏈打造創作者生態系，實現創作可當飯吃](https://meet.bnext.com.tw/articles/view/45970)
 {% endtab %}
 
 {% tab title="2019" %}
-06/04 Global Voices
+### 06/04 Global Voices
 
 [Turning 'likes' into rewards: Hong Kong citizen media outlets launch "Civic Likers" campaign](https://www.scribd.com/article/412410212/Turning-Likes-Into-Rewards-Hong-Kong-Citizen-Media-Outlets-Launch-Civic-Likers-Campaign)
 
 ### 05/24 明報
 
 [「讚賞公民」運動 化讚賞為作者收入](https://www.mpfinance.com/fin/daily2.php?node=1558639282687&issue=20190524)
+
+### **05/21 立場新聞**
+
+LikeCoin 是網媒出路？ 創始人高重建：望化讚為賞 讓公民支持創作者
 {% endtab %}
 
 {% tab title="2018" %}
