@@ -40,6 +40,10 @@
 
 [【黑鏡線索】暴政與後生](https://hk.appledaily.com/tech/20190704/7DHV7JO4OICLR57UCOUTBO7IN4/)
 
+### 06/27 智經研究中心
+
+[創作好內容 「錢」途在何方？](http://www.bauhinia.org/index.php/zh-HK/analyses/868)
+
 ### 05/09 信報 林天程專欄
 
 [本土科創化Like為Coin](https://trendalysis.com/%E8%AB%87%E6%9C%AC%E5%9C%9F%E7%A7%91%E5%89%B5%E5%8C%96like-%E7%82%BAcoin/)
