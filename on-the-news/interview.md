@@ -84,7 +84,7 @@ LikeCoin 是網媒出路？ 創始人高重建：望化讚為賞 讓公民支持
 
 [與高重建談 LikeCoin — 媒體群創不再空洞 創意共享新生態](https://blockcast.it/2018/04/19/blockcast-interview-likecoin-founder-kin-ko/)
 
-### 03/23 TVB 「錢」進新世代
+### 03/23 香港無線電視財經台 「錢」進新世代
 
 以「Like」維生？
 
@@ -128,6 +128,14 @@ Mr.Block x Blockshow Taipei Meetup
 {% endtab %}
 
 {% tab title="2017" %}
+### 11/29 香港無線電視財經台 創科導航
+
+熱炒以太幣
+
+{% embed url="https://vimeo.com/257086712" %}
+
+
+
 ### **10/08 明報**
 
 \*\*\*\*[科網世代﹕LikeCoin將Like變成錢有可能？ 直落創作人口袋](https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20171008/s00005/1507399895326/%E7%A7%91%E7%B6%B2%E4%B8%96%E4%BB%A3-likecoin%E5%B0%87like%E8%AE%8A%E6%88%90%E9%8C%A2%E6%9C%89%E5%8F%AF%E8%83%BD-%E7%9B%B4%E8%90%BD%E5%89%B5%E4%BD%9C%E4%BA%BA%E5%8F%A3%E8%A2%8B)
