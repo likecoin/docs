@@ -12,7 +12,7 @@
 
 [鏈上生活節 2019](https://www.abmedia.io/blockchain-event/)
 
-### 10/11
+### 10/11 《聖人大盜》特映會
 
 [區塊鏈商戰電影《聖人大盜》特映會](https://eatgether.com/meal/203060)
 
