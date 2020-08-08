@@ -8,6 +8,18 @@
 {% endtab %}
 
 {% tab title="2019" %}
+### 11/03 鏈上生活
+
+[鏈上生活節 2019](https://www.abmedia.io/blockchain-event/)
+
+### 10/11
+
+[區塊鏈商戰電影《聖人大盜》特映會](https://eatgether.com/meal/203060)
+
+[全球領先數位資產交易所BitAsset「鏈結新世界：區塊鏈落地應用」論壇圓滿落幕 從電影看未來、窺探產業新趨勢](https://www.cna.com.tw/postwrite/Detail/262532.aspx)
+
+{% embed url="https://www.youtube.com/watch?v=Bd3kSy8fTw0&feature=youtu.be" caption="【小比兒】項目活動專場\#3 一起來看聖人大盜吧 feat徐嘉凱.丁丁" %}
+
 ### 09/23 SayIt
 
 [張潔平及高重建拜會唐鳳](https://sayit.pdis.nat.gov.tw/2019-09-23-%E5%BC%B5%E6%BD%94%E5%B9%B3%E5%8F%8A%E9%AB%98%E9%87%8D%E5%BB%BA%E6%8B%9C%E6%9C%83)

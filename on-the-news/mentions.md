@@ -32,6 +32,10 @@
 
 [黃哲斌：加密貨幣「如果還有明天」？](https://www.wealth.com.tw/home/articles/22829)
 
+### 29/10 BitAsset
+
+[轉型正義？從《聖人大盜》看區塊鏈落地應用的困境](https://medium.com/bitasset/%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9-%E5%BE%9E-%E8%81%96%E4%BA%BA%E5%A4%A7%E7%9B%9C-%E7%9C%8B%E5%8D%80%E5%A1%8A%E9%8F%88%E8%90%BD%E5%9C%B0%E6%87%89%E7%94%A8%E7%9A%84%E5%9B%B0%E5%A2%83-cbb95f79947c)
+
 ### 09/23 明報 沈旭暉專欄
 
 [「時代革命」：工業革命4.0 與「真．香港」的未來	](https://simonshen.blog/2019/09/23/%E3%80%8C%E6%99%82%E4%BB%A3%E9%9D%A9%E5%91%BD%E3%80%8D%EF%BC%9A%E5%B7%A5%E6%A5%AD%E9%9D%A9%E5%91%BD4-0-%E8%88%87%E3%80%8C%E7%9C%9F%EF%BC%8E%E9%A6%99%E6%B8%AF%E3%80%8D%E7%9A%84%E6%9C%AA%E4%BE%86/)
