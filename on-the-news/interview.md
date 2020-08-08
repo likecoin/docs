@@ -50,6 +50,12 @@ LikeCoin 是網媒出路？ 創始人高重建：望化讚為賞 讓公民支持
 
 ![](../.gitbook/assets/breakazine_9.png)
 
+### 06/01 Liquid
+
+QUOINE x LikeCoin: The Future of the Like
+
+{% embed url="https://www.youtube.com/watch?v=zi8H0U-TdF8" %}
+
 ### 05/23 **壹**周刊
 
 [ 【港產加密貨幣】LikeCoin創辦人:　將創意和回報掛鈎　向fb施壓](https://hk.nextmgz.com/article/2_588342_0)
