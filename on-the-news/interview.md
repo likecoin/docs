@@ -60,6 +60,8 @@ LikeCoin 是網媒出路？ 創始人高重建：望化讚為賞 讓公民支持
 
 [LikeCoin, a cryptocurrency for creators of openly licensed content](https://opensource.com/article/18/5/likecoin)
 
+[LikeCoin，一种给开放式许可的内容创作者的加密货币](https://www.zcfy.cc/article/likecoin-a-cryptocurrency-for-creators-of-openly-licensed-content)
+
 ### **05/02 彭博商業周刊/中文版 第114期**
 
 \*\*\*\*[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html)
