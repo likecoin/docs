@@ -1,5 +1,9 @@
 # Press Release
 
+### 2018/10/29
+
+[LikeCoin Partners with Australian Blockchain Company Animoca Brands](https://www.einpresswire.com/article/466473512/likecoin-partners-with-australian-blockchain-company-animoca-brands)
+
 ### 2018/06/06
 
 [LikeCoin代幣銷售完滿成功 交易額達540萬美元](https://www.media-outreach.com/release.php/View/5720)
