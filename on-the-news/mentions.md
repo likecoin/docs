@@ -52,6 +52,10 @@
 
 [蘋人誌：香港仔向世界出發　經營廣東話](https://hk.appledaily.com/local/20190410/IYEODKRCTOLLPKKFC4ABCDBUXY/)
 
+### 3/24《財富潛藏區塊鏈金融革命2.0》 亂博\|伍展揚著 第112頁
+
+[為何要 ICO 募資？](https://books.google.com.hk/books?id=gg2ODwAAQBAJ&printsec=frontcover&dq=%E8%B2%A1%E5%AF%8C%E6%BD%9B%E8%97%8F%E5%8D%80%E5%A1%8A%E9%8F%88%E9%87%91%E8%9E%8D%E9%9D%A9%E5%91%BD2.0&hl=zh-TW&sa=X&ved=2ahUKEwjUv5D7lIvrAhXVa94KHTptABAQ6AEwAHoECAUQAg#v=onepage&q=%E8%B2%A1%E5%AF%8C%E6%BD%9B%E8%97%8F%E5%8D%80%E5%A1%8A%E9%8F%88%E9%87%91%E8%9E%8D%E9%9D%A9%E5%91%BD2.0&f=false)
+
 ### 02/07 香港蘋果日報 宋漢生專欄
 
 [【黑鏡線索】給未來人的光輝歲月](https://hk.appledaily.com/tech/20190207/TN34LUMUK23QX5FKMFLMZNEEEM/)
@@ -98,7 +102,7 @@
 
 [LikeCoin：为创意内容产业发明一个新的pagerank算法和一个新的点赞按钮](https://orange.xyz/p/166)
 
-### 07/06 收錄於周保松《我們的黃金年代》一書
+### 07/06 《我們的黃金年代》周保松著
 
 [做一隻有尊嚴的蛋](https://medium.com/@pochungchow/%E5%81%9A%E4%B8%80%E9%9A%BB%E6%9C%89%E5%B0%8A%E5%9A%B4%E7%9A%84%E8%9B%8B-822345487ce4)
 
