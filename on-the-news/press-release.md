@@ -1,18 +1,18 @@
 # Press Release
 
-### 06/06
+### 2018/06/06
 
 [LikeCoin代幣銷售完滿成功 交易額達540萬美元](https://www.media-outreach.com/release.php/View/5720)
 
 [LikeCoin Successfully Closes $5.4 million after Major Success in Token Sale](https://www.media-outreach.com/release.php/View/5719/LikeCoin+Successfully+Closes+%245.4+million+after+Major+Success+in+Token+Sale.html)
 
-### 05/16
+### 2018/05/16
 
 [LikeCoin於首爾「區塊鏈內容創建的應用與展望」峰會上綻放光芒 同步發行公開代幣](https://www.media-outreach.com/release.php/View/5552)
 
 [LikeCoin Boosts Proof of Creativity at ‘Blockchain Opening up the Window of Content Creation’ Conference in Seoul Amid Public Token Campaign](https://www.media-outreach.com/release.php/View/5551/LikeCoin+Boosts+Proof+of+Creativity+at+%E2%80%98Blockchain+Opening+up+the+Window+of+Content+Creation%E2%80%99+Conference+in+Seoul+Amid+Public+Token+Campaign.html)
 
-### 04/16
+### 2018/04/16
 
 [重塑Like鍵: LikeCoin在Creative Commons全球峰會上展露光芒 釋放創意者無窮可能性](https://www.media-outreach.com/View/5286/%E9%87%8D%E5%A1%91Like%E9%8D%B5%3A+LikeCoin%E5%9C%A8Creative+Commons%E5%85%A8%E7%90%83%E5%B3%B0%E6%9C%83%E4%B8%8A%E5%B1%95%E9%9C%B2%E5%85%89%E8%8A%92++++++%E9%87%8B%E6%94%BE%E5%89%B5%E6%84%8F%E8%80%85%E7%84%A1%E7%AA%AE%E5%8F%AF%E8%83%BD%E6%80%A7.html)
 
