@@ -1,4 +1,4 @@
-# Activites
+# Events
 
 {% tabs %}
 {% tab title="2020" %}

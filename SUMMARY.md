@@ -5,7 +5,7 @@
 * [On the News](on-the-news/README.md)
   * [Interview](on-the-news/interview.md)
   * [Mentions](on-the-news/mentions.md)
-  * [Activites](on-the-news/activites.md)
+  * [Events](on-the-news/events.md)
   * [Press Release](on-the-news/press-release.md)
 * [Weekly Progress Updates](weekly-progress-updates/README.md)
   * [2020.08.03](weekly-progress-updates/2020.08.03.md)
