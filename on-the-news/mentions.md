@@ -118,6 +118,10 @@
 
 [對沖人生：股市爆升暴跌元兇 - 錢志健](https://hk.appledaily.com/finance/20180316/Z3JY6GLT42HSKJEPRMBDEV4GDE/)
 
+### 03/11 立場新聞 黃雅麗專欄
+
+[高總出市區](https://www.thestandnews.com/technology/%E9%AB%98%E7%B8%BD%E5%87%BA%E5%B8%82%E5%8D%80/)
+
 ### 03/08 香港蘋果日報 郭釗專欄
 
 [Hea富生活：LikeCoin有利創作人](https://hk.appledaily.com/finance/20180308/YTT2JAQIORGX5CTJWK5VUPXZ3A/)
