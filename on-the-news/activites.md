@@ -8,9 +8,21 @@
 {% endtab %}
 
 {% tab title="2019" %}
+### 12/28 WordCamp Taipei 2019
+
+Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容流通性和網頁的收入模式。 / “404 Not Found” is Common, But Have You Seen “402
+
+{% embed url="https://wordpress.tv/2020/06/16/kin-ko-404-not-found-%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402-%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F%E6%8E%A2%E8%A8%8E%E7%8F%BE%E6%9C%89%E7%9A%84%E7%B6%B2%E4%B8%8A%E5%85%A7%E5%AE%B9%E6%B5%81/" %}
+
 ### 11/03 鏈上生活
 
 [鏈上生活節 2019](https://www.abmedia.io/blockchain-event/)
+
+### 10/12 WordCamp Hong Kong 2019
+
+[Edmond Yu: 404 Not Found遇得多；402有見過麼？](https://2019.hongkong.wordcamp.org/files/2019/10/06-404-Not-Found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F-Edmond-Yu.pdf)
+
+{% embed url="https://wordpress.tv/2019/10/25/edmond-yu-404-not-found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F/" %}
 
 ### 10/11 《聖人大盜》特映會
 
