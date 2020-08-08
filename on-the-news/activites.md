@@ -21,6 +21,10 @@
 ### 6/22 DRC金融科技
 
 [千聊直播\|LikeCoin项目分享会](https://www.ccvalue.cn/article/93018.html)
+
+### 2/23 WHub
+
+[\[Cantonese\] The Story of LikeCoin: Applying Blockchain Technology on Creative Contents](https://www.whub.io/events/cantonese-the-story-of-likecoin-applying-blockchain-technology-on-creative-contents-1518425757)
 {% endtab %}
 
 {% tab title="2017" %}
