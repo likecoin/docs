@@ -78,7 +78,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### **05/02 彭博商業周刊/中文版 第114期**
 
-\*\*\*\*[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html)
+\*\*\*\*[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html) [PDF](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/financial-services/deloitte-cn-fs-bloomberg-business-megazine-ico-zh-180518.pdf)
 
 ![](../.gitbook/assets/bloomberg_likecoin_tiny.jpg)
 
