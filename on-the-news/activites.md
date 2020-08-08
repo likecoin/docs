@@ -68,6 +68,12 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [7+1 Entrepreneurship for Design & Creative Business Certificate Programme 2018](https://www.hkdesignincubation.org/?route=happening-detail&id=Incubatees%20joining%207plus1%20Programme%202018-06-28)
 
+### 03/22 FOSSASIA Summit 2018
+
+[Reinventing the "Like" - Rewarding contents with Proof of Creativity](https://2018.fossasia.org/event/schedule.html)
+
+{% embed url="https://www.youtube.com/watch?v=lRaqnbDRgLg" %}
+
 ### 03/08 創夢市集
 
 [媒體與獨立創作者如何透過區塊鏈合作共贏](https://www.accupass.com/event/1803030534252010918200)
