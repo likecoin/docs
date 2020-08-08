@@ -14,7 +14,9 @@
 {% endtab %}
 
 {% tab title="2018" %}
+### 9/9 比持財經網
 
+[【牛市共享课】赞赏币创始人高重建（Kin ko）：《 化赞为赏，回馈创作》](https://www.btcmoney.cc/detail/37383.html)
 {% endtab %}
 
 {% tab title="2017" %}
