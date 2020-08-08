@@ -22,6 +22,10 @@
 
 [千聊直播\|LikeCoin项目分享会](https://www.ccvalue.cn/article/93018.html)
 
+### 6/28 Design Incubation Programme
+
+[7+1 Entrepreneurship for Design & Creative Business Certificate Programme 2018](https://www.hkdesignincubation.org/?route=happening-detail&id=Incubatees%20joining%207plus1%20Programme%202018-06-28)
+
 ### 2/23 WHub
 
 [\[Cantonese\] The Story of LikeCoin: Applying Blockchain Technology on Creative Contents](https://www.whub.io/events/cantonese-the-story-of-likecoin-applying-blockchain-technology-on-creative-contents-1518425757)
