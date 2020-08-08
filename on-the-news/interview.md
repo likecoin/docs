@@ -12,6 +12,10 @@
 {% endtab %}
 
 {% tab title="2019" %}
+### 10/9 AIre VOICE
+
+[コンテンツの価値をクリエイターに還元。無料コンテンツの大きなリスク](https://aire-voice.com/interview/5428/)
+
 ### 09/05 WP Builds
 
 [144 – Get paid with likes… the Like Coin with Kin Ko](https://wpbuilds.com/2019/09/05/144-get-paid-with-likes-the-like-coin-with-kin-ko/)
