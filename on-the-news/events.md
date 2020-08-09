@@ -12,8 +12,6 @@
 
 {% embed url="https://www.youtube.com/watch?v=mS2i2ptqJM8" %}
 
-
-
 ### 06/12 Hong Kong Open Source Conference 2020
 
 [William Chong: Open by default: trying to run a startup with open source culture in mind](https://hkoscon.org/2020/topics/open-default-trying-run-startup-open-source-culture-mind)
