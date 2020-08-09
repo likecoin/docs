@@ -20,13 +20,11 @@
 
 {% embed url="https://www.youtube.com/watch?v=PL4GuVw2AKI" %}
 
-5/23 g0v tw hackath39n
+### 5/23 g0v tw hackath39n
 
 g0v tw hackath39n — 提案 — LikeCoin 狂想曲 ／ Phoebe — 又在家黑客松
 
 {% embed url="https://www.youtube.com/watch?v=npgObYTI0-0" %}
-
-
 
 ### 01/15 數位時代【創業小聚】
 
