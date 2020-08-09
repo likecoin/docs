@@ -156,6 +156,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://www.pscp.tv/inmediahk/1yoKMjOMjLWGQ?t=1h26m4s" %}
 
+{% embed url="https://www.facebook.com/Liker.Land/videos/461855731402800/" %}
+
 ### 11/05 The Hong Kong General Chamber of Commerce
 
 [The Chamber’s Crypto Marketplace @ Happy Hour](https://www.chamber.org.hk/en/information/the-bulletin_detail.aspx?id=259)
