@@ -112,6 +112,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [香港共享創意十周年慶祝典禮 暨 網絡公民獎2018](https://medium.com/internet-meme/%E9%A6%99%E6%B8%AF%E5%85%B1%E4%BA%AB%E5%89%B5%E6%84%8F%E5%8D%81%E5%91%A8%E5%B9%B4%E6%85%B6%E7%A5%9D%E5%85%B8%E7%A6%AE-%E6%AA%A2%E9%96%B1%E8%B1%90%E7%9B%9B%E6%88%90%E6%9E%9C-ce00608cdb75)
 
+{% embed url="https://www.pscp.tv/inmediahk/1yoKMjOMjLWGQ?t=1h26m4s" %}
+
 ### 11/05 The Hong Kong General Chamber of Commerce
 
 [The Chamber’s Crypto Marketplace @ Happy Hour](https://www.chamber.org.hk/en/information/the-bulletin_detail.aspx?id=259)
