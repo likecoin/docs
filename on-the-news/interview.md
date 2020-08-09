@@ -52,7 +52,7 @@
 
 [Turning 'likes' into rewards: Hong Kong citizen media outlets launch "Civic Likers" campaign](https://globalvoices.org/2019/06/04/turning-likes-into-rewards-hong-kong-citizen-media-outlets-launch-civic-likers-campaign/)
 
-### 05/28 iMoney 智富雜誌
+### 05/24 iMoney 智富雜誌
 
 [ 「創作可以當飯吃」 港人推LikeCoin望聚集讚賞公民](https://imoney.hket.com/article/2360745/%E3%80%8C%E5%89%B5%E4%BD%9C%E5%8F%AF%E4%BB%A5%E7%95%B6%E9%A3%AF%E5%90%83%E3%80%8D%20%E6%B8%AF%E4%BA%BA%E6%8E%A8LikeCoin%E6%9C%9B%E8%81%9A%E9%9B%86%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91)
 
