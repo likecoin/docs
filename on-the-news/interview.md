@@ -230,5 +230,3 @@ Winnie of Mr.Block x Blockshow Taipei Meetup
 
 
 
-
-
