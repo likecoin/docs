@@ -180,7 +180,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/watch/live/?v=580260412359028&ref=watch\_permalink" %}
 
-### 04/13 Creative Commons Global Summit
+### 04/13 Creative Commons Global Summit 2018
 
 [LikeCoin: Reinventing the Like. Rewarding Creative Commons Contents With Proof of Creativity](https://ccglobalsummit2018.sched.com/event/E6zv/likecoin-reinventing-the-like-rewarding-creative-commons-contents-with-proof-of-creativity)
 
