@@ -26,6 +26,14 @@
 
 {% embed url="https://www.youtube.com/watch?v=npgObYTI0-0" %}
 
+### 05/08 北科大-葛如鈞
+
+北科大 2020/05/08 區塊鏈講座錄影（完整版）- 高重建x徐嘉凱x葛如鈞
+
+{% embed url="https://www.youtube.com/watch?v=i4IOJrnutXU" %}
+
+
+
 ### 3/14 g0v tw hackath38n
 
 [g0v tw hackath38n — 中場短講 — 讚賞公民共和國 Republic of Liker Land ／ kin ko — 在家黑客松](https://g0v.hackmd.io/c/g0v-hackath38n/)
