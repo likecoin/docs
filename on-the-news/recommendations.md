@@ -1,6 +1,6 @@
 # Recommendations
 
-### 2020/2/22 李BOBO
+### 2020/02/22 李BOBO
 
 别人给我点赞，我还能赚钱？\| like coin赚钱全攻略
 
