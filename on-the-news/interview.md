@@ -106,6 +106,10 @@ QUOINE x LikeCoin: The Future of the Like
 
 [LikeCoin，一种给开放式许可的内容创作者的加密货币](https://www.zcfy.cc/article/likecoin-a-cryptocurrency-for-creators-of-openly-licensed-content)
 
+### 05/10 Crypto Times
+
+[「いいね」がお金になる!? Likecoin\(ライクコイン\) CEOへインタビュー](https://crypto-times.jp/likecoin/)
+
 ### **05/02 彭博商業周刊/中文版 第114期**
 
 \*\*\*\*[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html) [PDF](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/financial-services/deloitte-cn-fs-bloomberg-business-megazine-ico-zh-180518.pdf)
