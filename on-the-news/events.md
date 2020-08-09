@@ -22,9 +22,15 @@
 
 ### 5/23 g0v tw hackath39n
 
-g0v tw hackath39n — 提案 — LikeCoin 狂想曲 ／ Phoebe — 又在家黑客松
+[g0v tw hackath39n — 提案 — LikeCoin 狂想曲 ／ Phoebe — 又在家黑客松](https://g0v.hackmd.io/c/g0v-hackath39n)
 
 {% embed url="https://www.youtube.com/watch?v=npgObYTI0-0" %}
+
+### 3/14 g0v tw hackath38n
+
+[g0v tw hackath38n — 中場短講 — 讚賞公民共和國 Republic of Liker Land ／ kin ko — 在家黑客松](https://g0v.hackmd.io/c/g0v-hackath38n/)
+
+{% embed url="https://www.youtube.com/watch?v=\_m\_k\_2Yc8fM" %}
 
 ### 01/15 數位時代【創業小聚】
 
