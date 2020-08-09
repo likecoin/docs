@@ -46,6 +46,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [鏈上生活節 2019](https://www.abmedia.io/blockchain-event/)
 
+{% embed url="https://www.facebook.com/LifeOnChain/videos/3286585588079952/" %}
+
 ### 11/02 Matters
 
 [【Matters & LikeCoin 台北活動報名】好內容獲得回報之後，我們的下一步是？](https://matters.news/@hi176/matters-and-like-coin-%E5%8F%B0%E5%8C%97%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%90%8D-%E5%A5%BD%E5%85%A7%E5%AE%B9%E7%8D%B2%E5%BE%97%E5%9B%9E%E5%A0%B1%E4%B9%8B%E5%BE%8C-%E6%88%91%E5%80%91%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AD%A5%E6%98%AF-zdpuAsK7Vcv4QNTzJs6sbgc3KD2xABLw2AFxnBfXBzSyeYeMr)
@@ -106,7 +108,7 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 ["In Hong Kong you‘re not recognized as a creative/writer." — kin ko](https://www.facebook.com/TEDxYouthvictoriaharbour/posts/2585104528182886)
 
-{% embed url="https://www.facebook.com/watch/live/?v=233176147489859&ref=watch\_permalink" %}
+{% embed url="https://www.facebook.com/watch/live/?v=233176147489859" %}
 {% endtab %}
 
 {% tab title="2018" %}
