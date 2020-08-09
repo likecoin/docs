@@ -60,6 +60,14 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [【牛市共享课】赞赏币创始人高重建（Kin ko）：《 化赞为赏，回馈创作》](https://www.btcmoney.cc/detail/37383.html)
 
+### 08/21 LikeCoin 角川國際動漫教育
+
+[讚賞幣基金會與角川國際動漫教育聯合座談會「為創作者帶來被動收入」圓滿落幕](https://gnn.gamer.com.tw/detail.php?sn=167437)
+
+### 07/13 DRC金融科技
+
+[直播\|创始人面对面：DRC-LikeCoin](https://www.jianshu.com/p/1883bdb216f7)
+
 ### 6/22 DRC金融科技
 
 [千聊直播\|LikeCoin项目分享会](https://twitter.com/communitydrc/status/1010150430616125440)
