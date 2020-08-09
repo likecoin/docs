@@ -5,6 +5,10 @@
 ### 01/15 數位時代【創業小聚】
 
  [【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)
+
+### 01/03 路向四肢傷殘人士協會
+
+[LikeCoin工作坊](https://www.4limb.org/2019/12/17/likecoinworkshop/#)
 {% endtab %}
 
 {% tab title="2019" %}
@@ -143,6 +147,12 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 [Monday.COME "寫故仔可以當飯食麼？"](https://www.cpr.cuhk.edu.hk/tc/events_detail.php?id=15069&t=monday-come-%E5%AF%AB%E6%95%85%E4%BB%94%E5%8F%AF%E4%BB%A5%E7%95%B6%E9%A3%AF%E9%A3%9F%E9%BA%BC)
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
 
 
 
