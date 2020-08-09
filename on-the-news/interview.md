@@ -31,6 +31,12 @@
 ### 01/14 Meet 創業小聚
 
 [按讚有錢賺！LikeCoin 用區塊鏈打造創作者生態系，實現創作可當飯吃](https://meet.bnext.com.tw/articles/view/45970)
+
+### 01/02 CUHK Engineering Faculty Alumni Association \(ERGAA\).
+
+中大工程校友「你問我答」第一回：區塊鏈
+
+{% embed url="https://www.facebook.com/septkent/videos/10157067927003693/" %}
 {% endtab %}
 
 {% tab title="2019" %}
