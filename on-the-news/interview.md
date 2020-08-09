@@ -166,7 +166,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 03/23 香港無線電視財經台 「錢」進新世代
 
-以「Like」維生？
+[以「Like」維生？](https://programme.tvb.com/news/freshmanfinance/episode/20180323/)
 
 {% embed url="https://vimeo.com/261966523" %}
 
