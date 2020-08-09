@@ -105,6 +105,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 ### 02/16 TEDxYouth VictoriaHarbour
 
 ["In Hong Kong you‘re not recognized as a creative/writer." — kin ko](https://www.facebook.com/TEDxYouthvictoriaharbour/posts/2585104528182886)
+
+{% embed url="https://www.facebook.com/watch/live/?v=233176147489859&ref=watch\_permalink" %}
 {% endtab %}
 
 {% tab title="2018" %}
