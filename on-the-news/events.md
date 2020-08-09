@@ -212,6 +212,12 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.youtube.com/watch?v=lRaqnbDRgLg" %}
 
+### 03/20 廣告狂人
+
+[LikeCoin 傳媒界研討會](https://www.facebook.com/groups/likecoin/permalink/2049837701928550/)
+
+{% embed url="https://www.youtube.com/watch?v=W5T05Xbv3kk" %}
+
 ### 03/08 創夢市集
 
 [媒體與獨立創作者如何透過區塊鏈合作共贏](https://www.accupass.com/event/1803030534252010918200)
@@ -219,12 +225,6 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 [媒體與獨立創作者如何透過區塊鏈合作共贏 － 座談會簡錄](https://medium.com/likecoin/likecoin-blocktrend-ditlabs-9461d9758c1b)
 
 {% embed url="https://www.youtube.com/watch?v=5y1y9t1fxwo" %}
-
-### 03/20 廣告狂人
-
-[LikeCoin 傳媒界研討會](https://www.facebook.com/groups/likecoin/permalink/2049837701928550/)
-
-{% embed url="https://www.youtube.com/watch?v=W5T05Xbv3kk" %}
 
 ### 03/01 Open Source Hong Kong
 
