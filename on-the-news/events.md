@@ -228,7 +228,7 @@ Blockchain - LikeCoin Workshop
 {% tab title="2017" %}
 ### 11/27 Incu-Lab
 
-[DCC 6.0：EMIGRATION FROM FACEBOOK AND THE RISE OF WRITER-REWARDED CONTENTS /「數碼社區聚腳點」6.0：從臉書外移潮到寫手有賞內容之崛起](https://www.incu-lab.org/20171116-dcc/)
+[\[Event Review\] DCC 6.0：Emigration from Facebook and the Rise of Writer-Rewarded Contents / 「數碼社區聚腳點」6.0：從臉書外移潮到寫手有賞內容之崛起](http://www.cdiorg.hk/event-review-dcc-6-0%EF%BC%9Aemigration-from-facebook-and-the-rise-of-writer-rewarded-contents-%E3%80%8C%E6%95%B8%E7%A2%BC%E7%A4%BE%E5%8D%80%E8%81%9A%E8%85%B3%E9%BB%9E%E3%80%8D6-0%EF%BC%9A/)
 
 ### 11/13 CUHK School of Journalism and Communication
 
