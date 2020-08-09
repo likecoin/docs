@@ -218,6 +218,14 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.youtube.com/watch?v=W5T05Xbv3kk" %}
 
+03/09 Mr.Block x Blockshow Taipei Meetup
+
+[Blockshow Cointelegraph x Mr.Block: 區塊鏈與比特幣](https://www.accupass.com/event/1802251255491941418397)
+
+[【活動回顧 Episode 4\_BlockShow x Mr. Block — Taipei Meetup】](https://medium.com/mrblock-tw/%E6%B4%BB%E5%8B%95%E5%9B%9E%E9%A1%A7-episode-4-blockshow-x-mr-block-taipei-meetup-adf152a46823)
+
+{% embed url="https://www.youtube.com/watch?v=edu235Cytks" %}
+
 ### 03/08 創夢市集
 
 [媒體與獨立創作者如何透過區塊鏈合作共贏](https://www.accupass.com/event/1803030534252010918200)
