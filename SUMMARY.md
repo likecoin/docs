@@ -9,6 +9,7 @@
   * [Press Release](on-the-news/press-release.md)
   * [Recommendations](on-the-news/recommendations.md)
 * [Weekly Progress Updates](weekly-progress-updates/README.md)
+  * [2020.08.10](weekly-progress-updates/2020.08.10.md)
   * [2020.08.03](weekly-progress-updates/2020.08.03.md)
   * [2020.07.27](weekly-progress-updates/2020.07.27.md)
   * [2020.07.20](weekly-progress-updates/2020.07.20.md)
