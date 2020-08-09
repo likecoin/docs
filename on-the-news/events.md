@@ -26,6 +26,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [資訊戰中，事實核查該如何做好？](https://www.cmef.org.hk/post/2019%E7%B6%B2%E7%B5%A1%E5%AA%92%E9%AB%94%E9%AB%98%E5%B3%B0%E6%9C%83)
 
+{% embed url="https://www.facebook.com/standnewshk/videos/465604741021383" %}
+
 ### 11/03 鏈上生活
 
 [鏈上生活節 2019](https://www.abmedia.io/blockchain-event/)
