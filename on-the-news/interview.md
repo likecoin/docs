@@ -190,9 +190,11 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 03/09 Mr.Block 區塊先生
 
-Mr.Block x Blockshow Taipei Meetup
+Winnie of Mr.Block x Blockshow Taipei Meetup
 
 {% embed url="https://www.youtube.com/watch?v=x4\_-UY1baT8" %}
+
+{% embed url="https://www.youtube.com/watch?v=Acw3C5O29H8" %}
 
 {% embed url="https://www.youtube.com/watch?v=nu0ejonIMCw" %}
 
@@ -225,6 +227,8 @@ Mr.Block x Blockshow Taipei Meetup
 ![](../.gitbook/assets/ming2_tiny.jpg)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
