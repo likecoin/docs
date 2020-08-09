@@ -30,6 +30,8 @@ g0v tw hackath39n — 提案 — LikeCoin 狂想曲 ／ Phoebe — 又在家黑�
 
  [【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)
 
+{% embed url="https://www.facebook.com/watch/live/?v=510807239550417" %}
+
 ### 01/03 路向四肢傷殘人士協會
 
 [LikeCoin工作坊](https://www.4limb.org/2019/12/17/likecoinworkshop/#)
