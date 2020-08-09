@@ -6,6 +6,22 @@
 
 [針對數位內容的公共區塊鏈 - LikeCoin chain](https://coscup.org/2020/zh-TW/agenda/W3SFGQ)
 
+### 06/13 Hong Kong Open Source Conference 2020
+
+[Aludirk Wong: Decentralized content registry: expanding IPFS functionality with cosmos based blockchain](https://hkoscon.org/2020/topics/decentralized-content-registry-expanding-ipfs-functionality-cosmos-based-blockchain)
+
+{% embed url="https://www.youtube.com/watch?v=mS2i2ptqJM8" %}
+
+
+
+### 06/12 Hong Kong Open Source Conference 2020
+
+[William Chong: Open by default: trying to run a startup with open source culture in mind](https://hkoscon.org/2020/topics/open-default-trying-run-startup-open-source-culture-mind)
+
+{% embed url="https://www.youtube.com/watch?v=o\_U3JaNgzVk" %}
+
+{% embed url="https://www.youtube.com/watch?v=PL4GuVw2AKI" %}
+
 ### 01/15 數位時代【創業小聚】
 
  [【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)
@@ -120,7 +136,11 @@ WordPress Meetup \#22: 「點讚成金」- 如何靠Like賺取收入 & Banner �
 
 {% embed url="https://www.youtube.com/watch?v=vTEV85VVh8s" %}
 
+### 06/16 Hong Kong Open Source Conference 2018
 
+[Chung Wu: Dapp: a new approach to combine blockchain and cryptography into web application](https://hkoscon.org/2018/topic/dapp-new-approach-combine-blockchain-and-cryptography-web-application/)
+
+{% embed url="https://www.youtube.com/watch?v=WmPNapXj1Ig" %}
 
 ### 05/09 True Global Ventures 4 Plus
 
