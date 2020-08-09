@@ -106,13 +106,21 @@ WordPress Meetup \#22: 「點讚成金」- 如何靠Like賺取收入 & Banner �
 
 [直播\|创始人面对面：DRC-LikeCoin](https://www.jianshu.com/p/1883bdb216f7)
 
+### 6/28 Design Incubation Programme
+
+[7+1 Entrepreneurship for Design & Creative Business Certificate Programme 2018](https://www.hkdesignincubation.org/?route=happening-detail&id=Incubatees%20joining%207plus1%20Programme%202018-06-28)
+
 ### 6/22 DRC金融科技
 
 [千聊直播\|LikeCoin项目分享会](https://twitter.com/communitydrc/status/1010150430616125440)
 
-### 6/28 Design Incubation Programme
+### 06/17 Hong Kong Open Source Conference 2018
 
-[7+1 Entrepreneurship for Design & Creative Business Certificate Programme 2018](https://www.hkdesignincubation.org/?route=happening-detail&id=Incubatees%20joining%207plus1%20Programme%202018-06-28)
+[Aludirk Wong: Blockchain for creative contents- What we do in LikeCoin](https://hkoscon.org/2018/topic/blockchain-creative-contents-what-we-do-likecoin/)
+
+{% embed url="https://www.youtube.com/watch?v=vTEV85VVh8s" %}
+
+
 
 ### 05/09 True Global Ventures 4 Plus
 
