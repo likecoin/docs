@@ -104,7 +104,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 ### 9/11 Hong Kong WordPress Meetup
 
-WordPress Meetup \#22: 「點讚成金」- 如何靠Like賺取收入 & Banner 位置優化 \(Cantonese 廣東話\)
+[WordPress Meetup \#22: 「點讚成金」- 如何靠Like賺取收入 & Banner 位置優化 \(Cantonese 廣東話\)](https://www.meetup.com/Hong-Kong-WordPress-Meetup/events/254113246/)
 
 {% embed url="https://www.youtube.com/watch?v=gxI6iZycPUg" %}
 
