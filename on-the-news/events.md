@@ -138,7 +138,13 @@ WordPress Meetup \#22: 「點讚成金」- 如何靠Like賺取收入 & Banner �
 
 {% embed url="https://www.youtube.com/watch?v=5y1y9t1fxwo" %}
 
-### 03/01Open Source Hong Kong
+### 03/20 廣告狂人
+
+[LikeCoin 傳媒界研討會](https://www.facebook.com/groups/likecoin/permalink/2049837701928550/)
+
+{% embed url="https://www.youtube.com/watch?v=W5T05Xbv3kk" %}
+
+### 03/01 Open Source Hong Kong
 
 [Open Source Developer Meetup \#12](https://opensource.hk/developer-meetup-12/)
 
