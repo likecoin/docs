@@ -18,6 +18,12 @@
 
 {% embed url="https://www.youtube.com/watch?v=Ev-1DQ-F7Ho" %}
 
+### 02/10 Meet 創業小聚
+
+創業之星 - LikeCoin 一分鐘快問快答！
+
+{% embed url="https://www.facebook.com/MeetStartup/videos/2780077562105294/" %}
+
 ### 02/05 Meet 創業小聚
 
 [\[創業小聚NO.109\] 區塊鏈的N種應用：打造超有感的生活體驗！](https://meet.bnext.com.tw/articles/view/46021)
