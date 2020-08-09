@@ -47,9 +47,21 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 [透過區塊鏈技術創造數位內容新價值](https://www.accupass.com/event/1902270300001410408830)
 
 [強棒出擊！透過區塊鏈創造數位內容新價值強勢登場 - 快來報名 利用區塊鏈技術將「創作當飯吃」可行嗎？讚賞幣 \(LikeCoin\) 創辦人跨海來台分享 來聽就對](https://www.cna.com.tw/postwrite/Detail/250351.aspx)
+
+### 3/9 香港中文大學動漫畫研究社
+
+[次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作](https://hkdoujin.com/2019/03/8992/)
 {% endtab %}
 
 {% tab title="2018" %}
+### 12/08 Creative Commons Hong Kong
+
+[香港共享創意十周年慶祝典禮 暨 網絡公民獎2018](https://medium.com/internet-meme/%E9%A6%99%E6%B8%AF%E5%85%B1%E4%BA%AB%E5%89%B5%E6%84%8F%E5%8D%81%E5%91%A8%E5%B9%B4%E6%85%B6%E7%A5%9D%E5%85%B8%E7%A6%AE-%E6%AA%A2%E9%96%B1%E8%B1%90%E7%9B%9B%E6%88%90%E6%9E%9C-ce00608cdb75)
+
+### 11/05 The Hong Kong General Chamber of Commerce
+
+[The Chamber’s Crypto Marketplace @ Happy Hour](https://www.chamber.org.hk/en/information/the-bulletin_detail.aspx?id=259)
+
 ### 10/28 WordCamp Manchester 2018
 
 Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
@@ -63,6 +75,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 ### 08/21 LikeCoin 角川國際動漫教育
 
 [讚賞幣基金會與角川國際動漫教育聯合座談會「為創作者帶來被動收入」圓滿落幕](https://gnn.gamer.com.tw/detail.php?sn=167437)
+
+[角川 x oice 視覺小說座談會－簡錄](https://v.oice.com/oice-kadokawa-visualnovel-a6315f0371ff)
 
 ### 07/13 DRC金融科技
 
@@ -83,6 +97,10 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 ### 05/05 ZEROZONE
 
 [ZEROZONE x LikeCoin \| 化Like為Coin：LikeCoin 技術原理與經濟模](https://zerozone.co/portfolio/zerozone-x-likecoin-%e5%8c%96like%e7%82%bacoin/)
+
+### 04/13 Creative Commons Global Summit
+
+[LikeCoin: Reinventing the Like. Rewarding Creative Commons Contents With Proof of Creativity](https://ccglobalsummit2018.sched.com/event/E6zv/likecoin-reinventing-the-like-rewarding-creative-commons-contents-with-proof-of-creativity)
 
 ### 03/22 FOSSASIA Summit 2018
 
@@ -121,6 +139,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 [Monday.COME "寫故仔可以當飯食麼？"](https://www.cpr.cuhk.edu.hk/tc/events_detail.php?id=15069&t=monday-come-%E5%AF%AB%E6%95%85%E4%BB%94%E5%8F%AF%E4%BB%A5%E7%95%B6%E9%A3%AF%E9%A3%9F%E9%BA%BC)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
