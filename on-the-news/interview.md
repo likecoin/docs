@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 05/15 港故仔
+
+[在數位世界成為自己的公民](https://www.facebook.com/kongstories/posts/2916413015062264)
+
 ### **03/10 寶博士**
 
 【寶博朋友說】區塊鏈打賞: 按讚就能讓人賺幣致富?! - 專訪 讚賞公民共和國 LikeCoin 創辦人 高重建 Kin Ko｜EP23
