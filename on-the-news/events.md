@@ -26,6 +26,12 @@
 
 {% embed url="https://www.youtube.com/watch?v=npgObYTI0-0" %}
 
+### 5/21 北科大-葛如鈞
+
+\[錄影\] 區塊鏈技術與應用（通識）2020/05/21（影音不同步😢）
+
+{% embed url="https://youtu.be/oXnFTgy7NRQ?t=1757" %}
+
 ### 05/08 北科大-葛如鈞
 
 北科大 2020/05/08 區塊鏈講座錄影（完整版）- 高重建x徐嘉凱x葛如鈞
