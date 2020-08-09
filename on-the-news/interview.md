@@ -184,7 +184,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### **03/17 iMoney 智富**
 
-[首隻港產加密貨幣 化Like為Coin](https://imoney.hket.com/article/2032254/%E9%A6%96%E9%9A%BB%E6%B8%AF%E7%94%A2%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%20%E5%8C%96Like%E7%82%BACoin)
+[首隻港產加密貨幣 化Like為Coin](https://imoney.hket.com/article/2031727/%E9%A6%96%E9%9A%BB%E6%B8%AF%E7%94%A2%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%20%E5%8C%96Like%E7%82%BACoin)
 
 ![](../.gitbook/assets/likecoin_imoney.jpg)
 
