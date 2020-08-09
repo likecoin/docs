@@ -112,6 +112,10 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [強棒出擊！透過區塊鏈創造數位內容新價值強勢登場 - 快來報名 利用區塊鏈技術將「創作當飯吃」可行嗎？讚賞幣 \(LikeCoin\) 創辦人跨海來台分享 來聽就對](https://www.cna.com.tw/postwrite/Detail/250351.aspx)
 
+{% embed url="https://www.facebook.com/BitAssetAsia/videos/385528828950574/" %}
+
+{% embed url="https://www.facebook.com/watch/live/?v=368986780621279" %}
+
 ### 3/9 香港中文大學動漫畫研究社
 
 [次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作](https://hkdoujin.com/2019/03/8992/)
