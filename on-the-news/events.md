@@ -20,6 +20,14 @@
 
 {% embed url="https://www.youtube.com/watch?v=PL4GuVw2AKI" %}
 
+5/23 g0v tw hackath39n
+
+g0v tw hackath39n — 提案 — LikeCoin 狂想曲 ／ Phoebe — 又在家黑客松
+
+{% embed url="https://www.youtube.com/watch?v=npgObYTI0-0" %}
+
+
+
 ### 01/15 數位時代【創業小聚】
 
  [【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)
