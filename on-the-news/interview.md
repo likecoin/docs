@@ -214,11 +214,9 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 {% tab title="2017" %}
 ### 11/29 香港無線電視財經台 創科導航
 
-熱炒以太幣
+[熱炒以太幣](https://programme.tvb.com/news/innovationgps/episode/20171129/)
 
 {% embed url="https://vimeo.com/257086712" %}
-
-
 
 ### **10/08 明報**
 
