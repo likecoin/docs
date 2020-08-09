@@ -104,6 +104,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [AppWorks Demo Day \#18 精彩登場，25 支大東南亞新創讓人驚艷！AppWorks 生態系突破千位創業者、創造上萬份工作機會](https://appworks.tw/demo-day-18/)
 
+[台湾AppWorks（之初創投）、AI・IoT・ブロックチェーン・仮想通貨に特化した第18期のデモデイを開催——25組中18組を海外勢が占める](https://thebridge.jp/2019/06/appworks-demo-day_18)
+
 [林之晨接台灣大總經理後，首場AppWorks \#18有哪些潛力新創？](https://www.bnext.com.tw/article/53524/appworks-demoday-18)
 
 [這些新創正在服務「真實用戶」，AppWorks 第 18 期發表會，台灣區塊鏈創業走向多元成熟](https://www.blocktempo.com/appworks-demo-day-18-these-blockchain-startup-gain-real-user/)
