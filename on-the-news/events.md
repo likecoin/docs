@@ -70,6 +70,22 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [張潔平及高重建拜會唐鳳](https://sayit.pdis.nat.gov.tw/2019-09-23-%E5%BC%B5%E6%BD%94%E5%B9%B3%E5%8F%8A%E9%AB%98%E9%87%8D%E5%BB%BA%E6%8B%9C%E6%9C%83)
 
+### 06/04 AppWorks Demo Day \#18
+
+[AppWorks Demo Day \#18 精彩登場，25 支大東南亞新創讓人驚艷！AppWorks 生態系突破千位創業者、創造上萬份工作機會](https://appworks.tw/demo-day-18/)
+
+[林之晨接台灣大總經理後，首場AppWorks \#18有哪些潛力新創？](https://www.bnext.com.tw/article/53524/appworks-demoday-18)
+
+[這些新創正在服務「真實用戶」，AppWorks 第 18 期發表會，台灣區塊鏈創業走向多元成熟](https://www.blocktempo.com/appworks-demo-day-18-these-blockchain-startup-gain-real-user/)
+
+[第18屆AppWorks 至少有9支新創隊伍以區塊錬或加密貨幣為創業主題](https://forum.bitcoin-tw.com/t/topic/21207)
+
+[直擊！AppWorks Demo Day＃18， 10分鐘看完25支新創團隊項目 本次亮點：超過７成的海外新創團隊](https://www.barneystalk.taipei/appworks-demo-day-18/)
+
+[【AppWorks Demo Day \#18】25 支 AI／區塊鏈新創團隊，創造毫無冷場的新創盛會](https://buzzorange.com/techorange/2019/06/04/appworks-demo-day_18/)
+
+{% embed url="https://www.facebook.com/Liker.Land/videos/689971981436774/" %}
+
 ### 5/21 讚賞公民基金會
 
 [\[活動筆記\] 網媒的未來：免費和訂閱制以外的第三條路](https://matters.news/@mingnhsu/%E6%B4%BB%E5%8B%95%E7%AD%86%E8%A8%98-%E7%B6%B2%E5%AA%92%E7%9A%84%E6%9C%AA%E4%BE%86-%E5%85%8D%E8%B2%BB%E5%92%8C%E8%A8%82%E9%96%B1%E5%88%B6%E4%BB%A5%E5%A4%96%E7%9A%84%E7%AC%AC%E4%B8%89%E6%A2%9D%E8%B7%AF-zdpuAyQCnxBLC8b58TBNdbceBmktnSmXZM91sCZ5swKaUAwNc)
