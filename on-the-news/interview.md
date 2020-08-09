@@ -178,6 +178,8 @@ Mr.Block x Blockshow Taipei Meetup
 
 {% embed url="https://www.youtube.com/watch?v=x4\_-UY1baT8" %}
 
+{% embed url="https://www.youtube.com/watch?v=nu0ejonIMCw" %}
+
 ### 03/05 香港蘋果日報
 
 [金融中心：ICO籌幾千萬？港產加密貨幣誕生](https://hk.appledaily.com/finance/20180305/HBHYRDIFNDKOXIV2RYX4CJAJHU/)
