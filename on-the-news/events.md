@@ -170,6 +170,12 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [ZEROZONE x LikeCoin \| 化Like為Coin：LikeCoin 技術原理與經濟模](https://zerozone.co/portfolio/zerozone-x-likecoin-%e5%8c%96like%e7%82%bacoin/)
 
+### 04/21 區塊客 blockcast.it
+
+[《區塊客SHOWTIME》- 探討ICO標準化與項目分享](https://www.accupass.com/event/1804111103131401034333)
+
+{% embed url="https://www.facebook.com/watch/live/?v=580260412359028&ref=watch\_permalink" %}
+
 ### 04/13 Creative Commons Global Summit
 
 [LikeCoin: Reinventing the Like. Rewarding Creative Commons Contents With Proof of Creativity](https://ccglobalsummit2018.sched.com/event/E6zv/likecoin-reinventing-the-like-rewarding-creative-commons-contents-with-proof-of-creativity)
