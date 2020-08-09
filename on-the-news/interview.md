@@ -126,6 +126,14 @@ QUOINE x LikeCoin: The Future of the Like
 
 [HK-based LikeCoin uses token to reward online content creators](https://www.ejinsight.com/eji/article/id/1811904/20180409-hk-based-likecoin-uses-token-to-reward-online-content-creators)
 
+04/02 科技Band房
+
+第十三集
+
+{% embed url="https://www.youtube.com/watch?v=ZkliYqFnhc0" %}
+
+{% embed url="https://www.youtube.com/watch?v=6wj1MmQaydA" %}
+
 ### 03/23 香港無線電視財經台 「錢」進新世代
 
 以「Like」維生？
