@@ -80,7 +80,7 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 ### 08/17 COSCUP 2019
 
-[Chung Wu How we develop LikeChain using Cosmos SDK](https://coscup.org/2019/programs/how-likechain-communicates-with-ethereum/)
+[Chung Wu: How we develop LikeChain using Cosmos SDK](https://coscup.org/2019/programs/how-likechain-communicates-with-ethereum/)
 
 {% embed url="https://www.youtube.com/watch?v=cMessqiYKs4" %}
 
