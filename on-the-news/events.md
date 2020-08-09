@@ -22,6 +22,12 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://wordpress.tv/2020/06/16/kin-ko-404-not-found-%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402-%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F%E6%8E%A2%E8%A8%8E%E7%8F%BE%E6%9C%89%E7%9A%84%E7%B6%B2%E4%B8%8A%E5%85%A7%E5%AE%B9%E6%B5%81/" %}
 
+### 12/14 2019網絡媒體高峰會 － LIHKG，Telegram與網媒，我們的知與未知
+
+[資訊戰中，事實核查該如何做好？](https://www.cmef.org.hk/post/2019%E7%B6%B2%E7%B5%A1%E5%AA%92%E9%AB%94%E9%AB%98%E5%B3%B0%E6%9C%83)
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2788004514759575" %}
+
 ### 11/03 鏈上生活
 
 [鏈上生活節 2019](https://www.abmedia.io/blockchain-event/)
