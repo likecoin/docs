@@ -72,6 +72,12 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [張潔平及高重建拜會唐鳳](https://sayit.pdis.nat.gov.tw/2019-09-23-%E5%BC%B5%E6%BD%94%E5%B9%B3%E5%8F%8A%E9%AB%98%E9%87%8D%E5%BB%BA%E6%8B%9C%E6%9C%83)
 
+### 08/17 COSCUP 2019
+
+[Chung Wu How we develop LikeChain using Cosmos SDK](https://coscup.org/2019/programs/how-likechain-communicates-with-ethereum/)
+
+{% embed url="https://www.youtube.com/watch?v=cMessqiYKs4" %}
+
 ### 06/04 AppWorks Demo Day \#18
 
 [AppWorks Demo Day \#18 精彩登場，25 支大東南亞新創讓人驚艷！AppWorks 生態系突破千位創業者、創造上萬份工作機會](https://appworks.tw/demo-day-18/)
@@ -107,8 +113,6 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 ### 02/16 TEDxYouth VictoriaHarbour
 
 ["In Hong Kong you‘re not recognized as a creative/writer." — kin ko](https://www.facebook.com/TEDxYouthvictoriaharbour/posts/2585104528182886)
-
-{% embed url="https://www.facebook.com/watch/live/?v=233176147489859" %}
 {% endtab %}
 
 {% tab title="2018" %}
