@@ -118,6 +118,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://www.facebook.com/Liker.Land/videos/689971981436774/" %}
 
+{% embed url="https://www.youtube.com/watch?v=WN7mV9nCR7I" %}
+
 ### 5/21 讚賞公民基金會
 
 [\[活動筆記\] 網媒的未來：免費和訂閱制以外的第三條路](https://matters.news/@mingnhsu/%E6%B4%BB%E5%8B%95%E7%AD%86%E8%A8%98-%E7%B6%B2%E5%AA%92%E7%9A%84%E6%9C%AA%E4%BE%86-%E5%85%8D%E8%B2%BB%E5%92%8C%E8%A8%82%E9%96%B1%E5%88%B6%E4%BB%A5%E5%A4%96%E7%9A%84%E7%AC%AC%E4%B8%89%E6%A2%9D%E8%B7%AF-zdpuAyQCnxBLC8b58TBNdbceBmktnSmXZM91sCZ5swKaUAwNc)
