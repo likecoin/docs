@@ -2,11 +2,17 @@
 
 {% tabs %}
 {% tab title="2020" %}
-**03/10 寶博士**
+### **03/10 寶博士**
 
 【寶博朋友說】區塊鏈打賞: 按讚就能讓人賺幣致富?! - 專訪 讚賞公民共和國 LikeCoin 創辦人 高重建 Kin Ko｜EP23
 
 {% embed url="https://www.youtube.com/watch?v=P69AS9ORPmM" %}
+
+### 02/19 Meet 創業小聚
+
+【創業新聲帶】EP4 LikeCoin｜按讚有錢賺！LikeCoin 用區塊鏈打造創作者生態系，實現創作可當飯吃｜Meet 創業小聚
+
+{% embed url="https://www.youtube.com/watch?v=Ev-1DQ-F7Ho" %}
 
 ### 02/05 Meet 創業小聚
 
