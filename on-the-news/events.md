@@ -51,6 +51,10 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 ### 3/9 香港中文大學動漫畫研究社
 
 [次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作](https://hkdoujin.com/2019/03/8992/)
+
+### 02/16 TEDxYouth VictoriaHarbour
+
+["In Hong Kong you‘re not recognized as a creative/writer." — kin ko](https://www.facebook.com/TEDxYouthvictoriaharbour/posts/2585104528182886)
 {% endtab %}
 
 {% tab title="2018" %}
@@ -139,6 +143,14 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 [Monday.COME "寫故仔可以當飯食麼？"](https://www.cpr.cuhk.edu.hk/tc/events_detail.php?id=15069&t=monday-come-%E5%AF%AB%E6%95%85%E4%BB%94%E5%8F%AF%E4%BB%A5%E7%95%B6%E9%A3%AF%E9%A3%9F%E9%BA%BC)
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
+
+
 
 
 
