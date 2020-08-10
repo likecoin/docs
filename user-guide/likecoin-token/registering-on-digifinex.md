@@ -13,7 +13,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 ![](../../.gitbook/assets/digifinex-1.png)
 
 {% hint style="warning" %}
-留意你必須承諾不是來自美國或新加玻用戶
+留意你必須承諾不是來自美國或新加坡的用戶
 {% endhint %}
 
 請輸入電子郵件信箱、自定登錄密碼及邀請碼（可選填）。你也可以選擇使用手機註冊（下圖紅圈位置）
