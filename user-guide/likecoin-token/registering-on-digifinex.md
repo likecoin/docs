@@ -22,7 +22,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-3.png)
 
-留意無論你使用電郵或手機註冊，你也必須要先按「發送」（上面箭咀位置），並完成安全認證，方可取得驗證碼 。在電郵或手機收取驗證碼後，按「提交」，帳號便會即時開立。在接下來的開戶步驟中，你必須要經常收取驗證碼進行驗證，而驗證碼只有十分鐘使用時限，故此請確保閣下在網絡環境穩定時才進行註冊
+留意無論你使用電郵或手機註冊，你也必須要先按「發送」（上面箭咀位置），並完成安全認證，方可取得驗證碼 。在電郵或手機收取驗證碼後，按「提交」，帳號便會即時開立。在接下來的開戶步驟中，你需要經常收取驗證碼進行驗證，而驗證碼只有十分鐘使用時限，故此請確保閣下在網絡環境穩定時才進行註冊
 
 ![](../../.gitbook/assets/digifinex-4.png)
 
@@ -58,7 +58,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-mobile-3.png)
 
-留意第一次在 DigiFinex app 登錄必須設定手勢密碼，敬請牢記
+留意第一次在 DigiFinex app 登錄必須設定手勢密碼（或其他驗證方式，視乎手機系統而定），以後只需要使用它就可以簡單登入帳號而不需要輸入密碼，敬請牢記
 
 ![](../../.gitbook/assets/digifinex-mobile-4.png)
 
@@ -66,7 +66,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-mobile-5.png)
 
-按「身份認證」中的「考認證」
+按「身份認證」中的「未認證」
 
 ![](../../.gitbook/assets/digifinex-mobile-6.png)
 
