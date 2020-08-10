@@ -52,9 +52,13 @@
 
 [144 – Get paid with likes… the Like Coin with Kin Ko](https://wpbuilds.com/2019/09/05/144-get-paid-with-likes-the-like-coin-with-kin-ko/)
 
+{% embed url="https://www.youtube.com/watch?v=OBnVs3nPPgQ" %}
+
 ### 7/31 CIBS節目：區塊鏈與你 \(Blockchain and You\) 
 
-[第四集](https://www.facebook.com/liszechung.it/posts/2312586025736626)
+第四集
+
+{% embed url="https://www.facebook.com/liszechung.it/posts/2312586025736626" %}
 
 ### 06/14 區塊勢
 
