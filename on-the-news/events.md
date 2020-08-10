@@ -150,6 +150,10 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://www.youtube.com/watch?v=FOMbZ-GpirU" %}
 
+### 03/29 Deloitte HK
+
+{% embed url="https://twitter.com/likecoin/status/1111589857703284736/photo/1" %}
+
 ### 03/23 BitAsset
 
 [透過區塊鏈技術創造數位內容新價值](https://www.accupass.com/event/1902270300001410408830)
