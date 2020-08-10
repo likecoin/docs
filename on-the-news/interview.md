@@ -170,9 +170,11 @@ QUOINE x LikeCoin: The Future of the Like
 
 [HK-based LikeCoin uses token to reward online content creators](https://www.ejinsight.com/eji/article/id/1811904/20180409-hk-based-likecoin-uses-token-to-reward-online-content-creators)
 
-### 04/02 科技Band房
+### 04/02 香港電台普通話台 AM621 CIBS 節目 - 追趕科技世界 \(The World towards Information Technology\) 科技Band房
 
 第十三集
+
+{% embed url="https://www.facebook.com/watch/?v=561333024242141" %}
 
 {% embed url="https://www.youtube.com/watch?v=ZkliYqFnhc0" %}
 
@@ -220,9 +222,9 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 
 ### **01/01 903**
 
-高重建 為明日革命
-
 ![](../.gitbook/assets/903.jpg)
+
+高重建 為明日革命
 {% endtab %}
 
 {% tab title="2017" %}
@@ -239,8 +241,6 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 ![](../.gitbook/assets/ming2_tiny.jpg)
 {% endtab %}
 {% endtabs %}
-
-
 
 
 
