@@ -30,6 +30,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=npgObYTI0-0" %}
 
+{% embed url="https://www.youtube.com/watch?v=Qyapcuur6Lk" %}
+
 ### 5/21 北科大-葛如鈞
 
 \[錄影\] 區塊鏈技術與應用（通識）2020/05/21（影音不同步😢）
