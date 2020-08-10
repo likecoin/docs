@@ -40,9 +40,11 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ### 步驟二：身份認證 <a id="2"></a>
 
-在「基本訊息」頁面的雙重驗證欄按「未認證」，出現下圖，按「下一步」
+在「基本訊息」頁面的「身份認證」欄按「未認證」出現下圖。掃描二維碼或到 [https://download.digifinex.xyz/](https://download.digifinex.xyz/) 下載 DigiFinex App
 
-若你是非中國大陸用戶，必需一併完成基礎及高級認證
+![](../../.gitbook/assets/digifinex-11.png)
+
+
 
 請在「個人訊息」頁面的上方，點擊「基礎認證」
 
@@ -73,7 +75,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 [安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
 [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
-在「基本訊息」頁面的雙重驗證欄按「未認證」，出現下圖，按「下一步」
+在「基本訊息」頁面的「雙重驗證」欄按「未開啟」出現下圖，按「下一步」
 
 ![](../../.gitbook/assets/digifinex-7.png)
 
