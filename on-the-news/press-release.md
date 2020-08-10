@@ -1,5 +1,11 @@
-# Press Release
+# Awards and Press Release
 
+{% tabs %}
+{% tab title="Awards" %}
+
+{% endtab %}
+
+{% tab title="Press Release" %}
 ### 2018/10/29
 
 [LikeCoin Partners with Australian Blockchain Company Animoca Brands](https://www.einpresswire.com/article/466473512/likecoin-partners-with-australian-blockchain-company-animoca-brands)
@@ -29,4 +35,6 @@
 [LikeCoin Issues First 30,000 Tokens to Activate New Blockchain-based Ecosystem for Content Creators](https://www.businesswire.com/news/home/20180304005009/en/LikeCoin-Issues-30000-Tokens-Activate-New-Blockchain-based)
 
 [LikeCoin率先派發3萬枚加密貨幣 為創作人激發全新區塊鏈生態系統](https://www.businesswire.com/news/home/20180301006741/zh-HK/)
+{% endtab %}
+{% endtabs %}
 

@@ -6,7 +6,7 @@
   * [Interview](on-the-news/interview.md)
   * [Events](on-the-news/events.md)
   * [Mentions](on-the-news/mentions.md)
-  * [Press Release](on-the-news/press-release.md)
+  * [Awards and Press Release](on-the-news/press-release.md)
   * [Recommendations](on-the-news/recommendations.md)
 * [Weekly Progress Updates](weekly-progress-updates/README.md)
   * [2020.08.10](weekly-progress-updates/2020.08.10.md)
