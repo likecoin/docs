@@ -30,7 +30,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-5.png)
 
-然後會跳進至「基本訊息」頁面，你必須要進行身份證認及雙重驗證方向使用 DigiFinex 的服務
+然後會跳進至「基本訊息」頁面，你必須要進行身份證認及雙重驗證方可使用 DigiFinex 的服務
 
 ![](../../.gitbook/assets/digifinex-6.png)
 
@@ -54,7 +54,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 
 
-接「發送」並於郵箱取得驗證碼，再接「確定」
+接「發送」並於郵箱取得驗證碼，再按「確定」
 
 ![](../../.gitbook/assets/digifinex-mobile-3.png)
 
