@@ -6,6 +6,8 @@
 
 [針對數位內容的公共區塊鏈 - LikeCoin chain](https://coscup.org/2020/zh-TW/agenda/W3SFGQ)
 
+{% embed url="https://docs.google.com/presentation/d/1m5IxlSNpvTRGBYwBk9TQgHLx\_Q9v8zOcsi8YNaTRbe0/edit\#slide=id.g7c06a933ee\_0\_0" %}
+
 ### 06/13 Hong Kong Open Source Conference 2020
 
 [Aludirk Wong: Decentralized content registry: expanding IPFS functionality with cosmos based blockchain](https://hkoscon.org/2020/topics/decentralized-content-registry-expanding-ipfs-functionality-cosmos-based-blockchain)
