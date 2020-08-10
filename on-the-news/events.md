@@ -167,9 +167,21 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 {% embed url="https://www.facebook.com/watch/?v=529309280912177" %}
 
 {% embed url="https://www.facebook.com/watch/live/?v=233176147489859&ref=watch\_permalink" %}
+
+### 01/28 9up.io
+
+[9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application](https://www.eventbrite.com/e/9upio-blockchain-seminar-series-bc1110-blockchain-everyday-application-tickets-54397023963#)
 {% endtab %}
 
 {% tab title="2018" %}
+### 12/16 9up.io
+
+[9up.io Regular Meetup - December](https://www.eventbrite.com/e/9upio-regular-meetup-december-tickets-52932094319#)
+
+[HIGHLIGHTS OF 9UP.IO REGULAR MEETUP – DECEMBER](https://www.9up.io/news/highlights-of-9up-io-regular-meetup-december/)
+
+![](../.gitbook/assets/9up.io.jpeg)
+
 ### 12/08 Creative Commons Hong Kong
 
 [香港共享創意十周年慶祝典禮 暨 網絡公民獎2018](https://hk.creativecommons.org/blog/2018)
