@@ -12,6 +12,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=mS2i2ptqJM8" %}
 
+{% embed url="https://docs.google.com/presentation/d/1Xxgt-gllLqydQgZ8N6xFlDIP\_b2aNPirYNIAYmjSUqw/edit" %}
+
 ### 06/12 Hong Kong Open Source Conference 2020
 
 [William Chong: Open by default: trying to run a startup with open source culture in mind](https://hkoscon.org/2020/topics/open-default-trying-run-startup-open-source-culture-mind)
@@ -19,6 +21,8 @@
 {% embed url="https://www.youtube.com/watch?v=o\_U3JaNgzVk" %}
 
 {% embed url="https://www.youtube.com/watch?v=PL4GuVw2AKI" %}
+
+{% embed url="https://docs.google.com/presentation/d/1AEM23HHeFupGqR2UmdT82mF0PRP95mfKZFuky0RXS2s/edit\#slide=id.g8817281211\_0\_8" %}
 
 ### 5/23 g0v tw hackath39n
 
