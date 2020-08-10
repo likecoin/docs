@@ -200,6 +200,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 ### 08/21 LikeCoin 角川國際動漫教育
 
+[「化讚為賞 ─ 為創作者帶來被動收入」台北交流會](https://oice.kktix.cc/events/likecoin)
+
 [讚賞幣基金會與角川國際動漫教育聯合座談會「為創作者帶來被動收入」圓滿落幕](https://gnn.gamer.com.tw/detail.php?sn=167437)
 
 [角川 x oice 視覺小說座談會－簡錄](https://v.oice.com/oice-kadokawa-visualnovel-a6315f0371ff)
