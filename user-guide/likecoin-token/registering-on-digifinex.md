@@ -12,6 +12,10 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-1.png)
 
+{% hint style="warning" %}
+留意你必須承諾不是來自美國或新加玻用戶
+{% endhint %}
+
 請輸入電子郵件信箱、自定登錄密碼及邀請碼（可選填）。你也可以選擇使用手機註冊（下圖紅圈位置）
 
 ![](../../.gitbook/assets/digifinex-2.png)
@@ -35,6 +39,8 @@ description: 如何註冊 DigiFinex 交易所帳號
 > [【新手教程】- 如何注册帐号](https://digifinex.zendesk.com/hc/zh-cn/articles/360006576493-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%B8%90%E5%8F%B7)
 
 ### 步驟二：身份認證 <a id="2"></a>
+
+在「基本訊息」頁面的雙重驗證欄按「未認證」，出現下圖，按「下一步」
 
 若你是非中國大陸用戶，必需一併完成基礎及高級認證
 
