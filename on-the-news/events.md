@@ -104,7 +104,15 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [Chung Wu: How we develop LikeChain using Cosmos SDK](https://coscup.org/2019/programs/how-likechain-communicates-with-ethereum/)
 
+[Hack MD Note](https://hackmd.io/@coscup/HyeAAzgNr/%2F%40coscup%2FBkQ2CGeVB)
+
 {% embed url="https://www.youtube.com/watch?v=cMessqiYKs4" %}
+
+### 06/15 Hong Kong Open Source Conference 2019
+
+[Chung Wu: Random number generation for simulation, blockchain and cryptography](https://hkoscon.org/2019/topics/random-number-generation-simulation-blockchain-and-cryptography)
+
+{% embed url="https://www.youtube.com/watch?v=wej1eAWB3Is" %}
 
 ### 06/04 AppWorks Demo Day \#18
 
@@ -152,7 +160,7 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://www.facebook.com/watch/?v=529309280912177" %}
 
-{% embed url="https://www.facebook.com/watch/live/?v=233176147489859" %}
+{% embed url="https://www.facebook.com/watch/live/?v=233176147489859&ref=watch\_permalink" %}
 {% endtab %}
 
 {% tab title="2018" %}
@@ -208,6 +216,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [Aludirk Wong: Blockchain for creative contents- What we do in LikeCoin](https://hkoscon.org/2018/topic/blockchain-creative-contents-what-we-do-likecoin/)
 
+[Blockchain for creative contents](https://medium.com/likecoin/blockchain-for-creative-contents-9fac60c38230)
+
 {% embed url="https://www.youtube.com/watch?v=vTEV85VVh8s" %}
 
 ### 06/16 Hong Kong Open Source Conference 2018
@@ -250,7 +260,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.youtube.com/watch?v=W5T05Xbv3kk" %}
 
-03/09 Mr.Block x Blockshow Taipei Meetup
+### 03/09 Mr.Block x Blockshow Taipei Meetup
 
 [Blockshow Cointelegraph x Mr.Block: 區塊鏈與比特幣](https://www.accupass.com/event/1802251255491941418397)
 
@@ -269,6 +279,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 ### 03/01 Open Source Hong Kong
 
 [Open Source Developer Meetup \#12](https://opensource.hk/developer-meetup-12/)
+
+[Slides](https://www.slideshare.net/AludirkWong/in-open-source-developer-meetup-12)
 
 {% embed url="https://www.youtube.com/watch?v=jQZKeLAkgaE" %}
 
