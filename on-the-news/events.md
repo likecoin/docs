@@ -190,6 +190,10 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://wordpress.tv/2019/06/25/kin-ko-generating-passive-income-with-likecoin-blockchain-plugin/" %}
 
+### 10/7 2018 零時政府高峰會
+
+![](../.gitbook/assets/g0v.jpg)
+
 ### 9/11 Hong Kong WordPress Meetup
 
 [WordPress Meetup \#22: 「點讚成金」- 如何靠Like賺取收入 & Banner 位置優化 \(Cantonese 廣東話\)](https://www.meetup.com/Hong-Kong-WordPress-Meetup/events/254113246/)
