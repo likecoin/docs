@@ -180,6 +180,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [2018 台北區塊鏈產官學高峰會，近百位海內外重量級人士與會](http://technews.tw/2018/12/19/2018-blockchain-summit/)
 
+[2018台北區塊鏈產官學高峰會 12月17日圓滿落幕](https://zombit.info/2018%E5%8F%B0%E5%8C%97%E5%8D%80%E5%A1%8A%E9%8F%88-%E7%94%A2%E5%AE%98%E5%AD%B8%E9%AB%98%E5%B3%B0%E6%9C%83-%E5%9C%93%E6%BB%BF%E8%90%BD%E5%B9%95/)
+
 {% embed url="https://www.facebook.com/Liker.Land/posts/2499857530240943" %}
 
 ### 12/16 9up.io
