@@ -220,11 +220,15 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.youtube.com/watch?v=vTEV85VVh8s" %}
 
+{% embed url="https://www.slideshare.net/AludirkWong/blockchain-for-creative-content-what-we-do-in-likecoin" %}
+
 ### 06/16 Hong Kong Open Source Conference 2018
 
 [Chung Wu: Dapp: a new approach to combine blockchain and cryptography into web application](https://hkoscon.org/2018/topic/dapp-new-approach-combine-blockchain-and-cryptography-web-application/)
 
 {% embed url="https://www.youtube.com/watch?v=WmPNapXj1Ig" %}
+
+{% embed url="https://www.slideshare.net/kinko2/hkos-2018" %}
 
 ### 05/09 True Global Ventures 4 Plus
 
@@ -323,8 +327,6 @@ Blockchain - LikeCoin Workshop
 {% embed url="https://www.slideshare.net/kinko2/ss-82136576" %}
 {% endtab %}
 {% endtabs %}
-
-
 
 
 
