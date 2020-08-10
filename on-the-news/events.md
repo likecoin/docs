@@ -174,6 +174,14 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 {% endtab %}
 
 {% tab title="2018" %}
+### 12/17 EASY.ONE
+
+[2018 BLOCKCHAIN SUMMIT 台北區塊鏈產官學高峰會](https://www.accupass.com/event/1811270640381142655124)
+
+[2018 台北區塊鏈產官學高峰會，近百位海內外重量級人士與會](http://technews.tw/2018/12/19/2018-blockchain-summit/)
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2499857530240943" %}
+
 ### 12/16 9up.io
 
 [9up.io Regular Meetup - December](https://www.eventbrite.com/e/9upio-regular-meetup-december-tickets-52932094319#)
