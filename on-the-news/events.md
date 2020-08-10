@@ -336,6 +336,10 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.slideshare.net/AludirkWong/in-open-source-developer-meetup-12" %}
 
+### 03 PolyU InnoHub
+
+[FinTech Training \(March – April 2018\)](https://www.polyu.edu.hk/ife/corp/en/publications/entre_newsletter.php?eeid=19877)
+
 ### 02/28 序言書室
 
 [區塊鏈如何為創意帶來回報](https://www.facebook.com/events/%E5%BA%8F%E8%A8%80%E6%9B%B8%E5%AE%A4-hong-kong-reader-bookstore/%E5%8D%80%E5%A1%8A%E9%8F%88%E5%A6%82%E4%BD%95%E7%82%BA%E5%89%B5%E6%84%8F%E5%B8%B6%E4%BE%86%E5%9B%9E%E5%A0%B1/138132753665073/)
