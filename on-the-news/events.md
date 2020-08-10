@@ -94,6 +94,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [Edmond Yu: 404 Not Found遇得多；402有見過麼？](https://2019.hongkong.wordcamp.org/files/2019/10/06-404-Not-Found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F-Edmond-Yu.pdf)
 
+{% embed url="https://twitter.com/likecoin/status/1183643893931208704" %}
+
 {% embed url="https://wordpress.tv/2019/10/25/edmond-yu-404-not-found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F/" %}
 
 ### 10/11 《聖人大盜》特映會
