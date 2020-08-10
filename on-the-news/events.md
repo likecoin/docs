@@ -38,8 +38,6 @@
 
 {% embed url="https://www.youtube.com/watch?v=i4IOJrnutXU" %}
 
-
-
 ### 3/14 g0v tw hackath38n
 
 [g0v tw hackath38n — 中場短講 — 讚賞公民共和國 Republic of Liker Land ／ kin ko — 在家黑客松](https://g0v.hackmd.io/c/g0v-hackath38n/)
@@ -50,7 +48,7 @@
 
 ### 01/15 數位時代【創業小聚】
 
- [【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)
+ [【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)（約 1:37 開始）
 
 {% embed url="https://www.facebook.com/watch/live/?v=510807239550417" %}
 
