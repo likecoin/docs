@@ -244,7 +244,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 ### 05/05 ZEROZONE
 
-[ZEROZONE x LikeCoin \| 化Like為Coin：LikeCoin 技術原理與經濟模](https://zerozone.co/portfolio/zerozone-x-likecoin-%e5%8c%96like%e7%82%bacoin/)
+[ZEROZONE x LikeCoin \| 化Like為Coin：LikeCoin 技術原理與經濟模型](https://zerozone.co/portfolio/zerozone-x-likecoin-%e5%8c%96like%e7%82%bacoin/)
 
 ### 04/21 區塊客 blockcast.it
 
