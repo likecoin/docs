@@ -248,6 +248,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [LikeCoin: Reinventing the Like. Rewarding Creative Commons Contents With Proof of Creativity](https://ccglobalsummit2018.sched.com/event/E6zv/likecoin-reinventing-the-like-rewarding-creative-commons-contents-with-proof-of-creativity)
 
+{% embed url="https://www.slideshare.net/kinko2/likecoin-at-creative-commons-summit-2018" %}
+
 ### 03/22 FOSSASIA Summit 2018
 
 [Reinventing the "Like" - Rewarding contents with Proof of Creativity](https://2018.fossasia.org/event/schedule.html)
@@ -280,9 +282,9 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [Open Source Developer Meetup \#12](https://opensource.hk/developer-meetup-12/)
 
-[Slides](https://www.slideshare.net/AludirkWong/in-open-source-developer-meetup-12)
-
 {% embed url="https://www.youtube.com/watch?v=jQZKeLAkgaE" %}
+
+{% embed url="https://www.slideshare.net/AludirkWong/in-open-source-developer-meetup-12" %}
 
 ### 02/28 序言書室
 
@@ -296,13 +298,15 @@ Blockchain - LikeCoin Workshop
 
 {% embed url="https://www.facebook.com/watch/?v=2098014853558930" %}
 
-### 2/23 BLOOM
+### 02/23 BLOOM
 
 [\[Cantonese\] The Story of LikeCoin: Applying Blockchain Technology on Creative Contents](https://www.whub.io/events/cantonese-the-story-of-likecoin-applying-blockchain-technology-on-creative-contents-1518425757)
 
 [MEET THE FOUNDER SERIES \#3: LIKE COIN](https://www.bloom.work/meet-the-founder-series-3-like-coin/)
 
 [LikeCoin Sharing by kin ko at BLOOM](https://medium.com/likecoin/likecoin-sharing-by-kin-ko-at-bloom-1e5865386ac6)
+
+{% embed url="https://www.slideshare.net/kinko2/likecoin-sharing-at-bloom-hong-kong-20180223" %}
 {% endtab %}
 
 {% tab title="2017" %}
@@ -310,11 +314,17 @@ Blockchain - LikeCoin Workshop
 
 [\[Event Review\] DCC 6.0：Emigration from Facebook and the Rise of Writer-Rewarded Contents / 「數碼社區聚腳點」6.0：從臉書外移潮到寫手有賞內容之崛起](http://www.cdiorg.hk/event-review-dcc-6-0%EF%BC%9Aemigration-from-facebook-and-the-rise-of-writer-rewarded-contents-%E3%80%8C%E6%95%B8%E7%A2%BC%E7%A4%BE%E5%8D%80%E8%81%9A%E8%85%B3%E9%BB%9E%E3%80%8D6-0%EF%BC%9A/)
 
+{% embed url="https://www.slideshare.net/kinko2/ss-82873767" %}
+
 ### 11/13 CUHK School of Journalism and Communication
 
 [Monday.COME "寫故仔可以當飯食麼？"](http://www.com.cuhk.edu.hk/zh-TW/news/events/monday-come/icalrepeat.detail/2017/11/13/1313/-/-)
+
+{% embed url="https://www.slideshare.net/kinko2/ss-82136576" %}
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
