@@ -64,6 +64,10 @@
 
 [蘋人誌：香港仔向世界出發　經營廣東話](https://hk.appledaily.com/local/20190410/IYEODKRCTOLLPKKFC4ABCDBUXY/)
 
+### 3/27 沉香 成电 香港校友会 
+
+[『沉香视野』未来已来：区块链在香港](http://cdhk.org/blockchainhk)
+
 ### 3/24《財富潛藏區塊鏈金融革命2.0》 亂博\|伍展揚著 第112頁
 
 [為何要 ICO 募資？](https://books.google.com.hk/books?id=gg2ODwAAQBAJ&printsec=frontcover&dq=%E8%B2%A1%E5%AF%8C%E6%BD%9B%E8%97%8F%E5%8D%80%E5%A1%8A%E9%8F%88%E9%87%91%E8%9E%8D%E9%9D%A9%E5%91%BD2.0&hl=zh-TW&sa=X&ved=2ahUKEwjUv5D7lIvrAhXVa94KHTptABAQ6AEwAHoECAUQAg#v=onepage&q=%E8%B2%A1%E5%AF%8C%E6%BD%9B%E8%97%8F%E5%8D%80%E5%A1%8A%E9%8F%88%E9%87%91%E8%9E%8D%E9%9D%A9%E5%91%BD2.0&f=false)
