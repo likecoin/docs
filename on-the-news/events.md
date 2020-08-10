@@ -78,9 +78,11 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://www.facebook.com/standnewshk/videos/465604741021383" %}
 
-### 11/03 鏈上生活
+### 11/03 鏈上生活節 2019
 
-[鏈上生活節 2019](https://www.abmedia.io/blockchain-event/)
+[鏈上生活節 2019（電影欣賞、生活創意市集、百萬大問答、專業講堂）](https://www.accupass.com/event/1910040534498487578350)
+
+[送你人生第一個比特幣！週末去華山｢鏈上生活節 2019｣，用比特幣暢飲啤酒、看電影!](https://www.abmedia.io/blockchain-event/)
 
 {% embed url="https://www.facebook.com/LifeOnChain/videos/3286585588079952/" %}
 
