@@ -204,9 +204,21 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [角川 x oice 視覺小說座談會－簡錄](https://v.oice.com/oice-kadokawa-visualnovel-a6315f0371ff)
 
+### 07/21 TiDeal
+
+[港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？](https://www.facebook.com/TiDeal.official/posts/294554014631245)
+
+{% embed url="https://www.facebook.com/TiDeal.official/posts/294554014631245" %}
+
+### 07/18 World Blockchain Conference
+
+[Reinventing the Like. Reward contents by Proof of Creativity](https://medium.com/likecoin/likecoin-world-blockchain-conference-singapore-july-17-18-bfbe00556209)
+
 ### 07/13 DRC金融科技
 
 [直播\|创始人面对面：DRC-LikeCoin](https://www.jianshu.com/p/1883bdb216f7)
+
+[LikeCoin创始人高重建：相信价值投资的 DRC 社群](https://mp.weixin.qq.com/s?__biz=MzU1NTM1ODc1MQ==&mid=2247485082&idx=3&sn=d5cfb383151d6714ab4c95b2108dc684&chksm)
 
 ### 6/28 Design Incubation Programme
 
