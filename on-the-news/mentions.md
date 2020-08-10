@@ -16,6 +16,10 @@
 
 [【黃色經濟圈．四】是一場黃色虛火 還是一種發展模式？](https://www.hk01.com/%E5%91%A8%E5%A0%B1/410632/%E9%BB%83%E8%89%B2%E7%B6%93%E6%BF%9F%E5%9C%88-%E5%9B%9B-%E6%98%AF%E4%B8%80%E5%A0%B4%E9%BB%83%E8%89%B2%E8%99%9B%E7%81%AB-%E9%82%84%E6%98%AF%E4%B8%80%E7%A8%AE%E7%99%BC%E5%B1%95%E6%A8%A1%E5%BC%8F)
 
+### 12/18 CUHK 
+
+[CU Alumni Magazine \(December 2019\)](https://issuu.com/cuhk_alumni_publications/docs/201912)  第33頁
+
 ### 11/25 AM730 林家健專欄
 
 [和理消—黃色代幣經濟圈](https://www.am730.com.hk/column/%E8%B2%A1%E7%B6%93/%E5%92%8C%E7%90%86%E6%B6%88%E2%80%94%E9%BB%83%E8%89%B2%E4%BB%A3%E5%B9%A3%E7%B6%93%E6%BF%9F%E5%9C%88-197681)
