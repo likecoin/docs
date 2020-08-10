@@ -106,6 +106,10 @@
 
 ![](../.gitbook/assets/breakazine_9.png)
 
+### 06/11 Cryptocurrency Satellite
+
+[【LikeCoin\(ライクコイン\)】Kin\(キン\)CEOへインタビュー](https://web.archive.org/web/20180724091850/https://cryptocurrency-sat.com/topic/interview/likecoin-ceo/)
+
 ### 06/01 Liquid
 
 QUOINE x LikeCoin: The Future of the Like
