@@ -314,6 +314,8 @@ Blockchain - LikeCoin Workshop
 
 [LikeCoin Sharing by kin ko at BLOOM](https://medium.com/likecoin/likecoin-sharing-by-kin-ko-at-bloom-1e5865386ac6)
 
+[LikeCoin x BLOOM 分享會](https://medium.com/likecoin/likecoin-bloom-62c1b275acb1)
+
 {% embed url="https://www.slideshare.net/kinko2/likecoin-sharing-at-bloom-hong-kong-20180223" %}
 {% endtab %}
 
