@@ -150,6 +150,16 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://www.youtube.com/watch?v=FOMbZ-GpirU" %}
 
+### 05/11 Creative Commons Global Summit 2019
+
+[Meet CC: The 2019 Creative Commons Global Summit Scholarships](https://creativecommons.org/2019/05/08/meet-cc-scholarships/)
+
+[Civic Liker - a movement to reward CC licensed contents with a monthly budget](https://ccglobalsummit2019lisbonportugal.sched.com/event/MjIM/civic-liker-a-movement-to-reward-cc-licensed-contents-with-a-monthly-budget)
+
+[Slides](https://static.sched.com/hosted_files/ccglobalsummit2019lisbonportugal/e8/Civic%20Liker%20CC%20Summit%202019.pdf)
+
+[Notes](https://docs.google.com/document/d/1z2tsMGZWZnOIiUbutHe7pWoB5-1paCGaOt9-L5B9kLY/edit)
+
 ### 03/29 Deloitte HK
 
 {% embed url="https://twitter.com/likecoin/status/1111589857703284736/photo/1" %}
