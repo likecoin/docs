@@ -54,7 +54,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 
 
-接「發送」並於郵箱取得驗證碼，再按「確定」
+接「發送」並於郵箱或手機取得驗證碼，輸入再按「確定」
 
 ![](../../.gitbook/assets/digifinex-mobile-3.png)
 
