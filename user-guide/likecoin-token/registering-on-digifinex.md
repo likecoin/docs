@@ -30,11 +30,11 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-5.png)
 
-然後會跳進至「基本訊息」頁面，你必須要進行身份證認及雙重驗證方可使用 DigiFinex 的服務
+然後會跳進至「基本訊息」頁面，你必須要進行身份證認及雙重驗證方可使用 DigiFinex 的服務。
 
 ![](../../.gitbook/assets/digifinex-6.png)
 
-#### DigiFinex官方教學
+#### DigiFinex 官方教學
 
 > [【新手教程】- 如何注册帐号](https://digifinex.zendesk.com/hc/zh-cn/articles/360006576493-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%B8%90%E5%8F%B7)
 
@@ -115,7 +115,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-10.png)
 
-#### DigiFinex官方教學
+#### DigiFinex 官方教學
 
 > [【谷歌验证】- 如何开启谷歌验证](https://digifinex.zendesk.com/hc/zh-cn/articles/360007869553--%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81-%E5%A6%82%E4%BD%95%E5%BC%80%E5%90%AF%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81)
 
