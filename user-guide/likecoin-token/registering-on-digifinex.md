@@ -15,7 +15,7 @@ On the right hand corner of the website, click "Register"
 ![](../../.gitbook/assets/digifinex-1-en.png)
 
 {% hint style="warning" %}
-Please note that you have to declare that you are not a citizen from Singapore or US.
+Please note that you have to declare that you are not a citizen from Singapore or the US.
 {% endhint %}
 
 Fill in your email, password and referral code \(Optional\). You may also choose to register by mobile phone number, check on the switch below in red
