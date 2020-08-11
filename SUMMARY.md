@@ -58,6 +58,7 @@
 * [LikeCoin token](user-guide/likecoin-token/README.md)
   * [Making LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
   * [Trading LikeCoin](user-guide/likecoin-token/how-to-buy-and-sell-likecoin.md)
+  * [Registering on DigiFinex](user-guide/likecoin-token/registering-on-digifinex.md)
   * [Registering on Liquid](user-guide/likecoin-token/registering-on-liquid.md)
   * [Trade in Liquid](user-guide/likecoin-token/trade-in-liquid.md)
   * [Registering on BitAsset](user-guide/likecoin-token/registering-on-bitasset.md)
