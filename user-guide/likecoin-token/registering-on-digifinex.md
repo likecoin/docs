@@ -18,7 +18,7 @@ On the right hand corner of the website, click "Register"
 Please note that you have to declare that you are not a citizen from Singapore or US.
 {% endhint %}
 
-Fill in your email, password and referral code \(Optional\). You may also choose to register by phone, check on the switch below in red
+Fill in your email, password and referral code \(Optional\). You may also choose to register by mobile phone number, check on the switch below in red
 
 ![](../../.gitbook/assets/digifinex-2-en.png)
 
@@ -28,7 +28,7 @@ No matter if you are using email or phone, you have to press the "Send Code'' \(
 
 ![](../../.gitbook/assets/digifinex-4-en.png)
 
-When account is created, the system will bring you back to the DigiFinex website frontpage, click on the top right hand corner of the little man icon and then click "User Center"
+When account is created, the system will bring you back to the DigiFinex website frontpage, click on the top right hand corner of the avatar icon and then click "User Center"
 
 ![](../../.gitbook/assets/digifinex-5-en.png)
 
@@ -38,92 +38,100 @@ Then go into the "Basic Information" page, you have to proceed with Real-name ve
 
 #### DigiFinex Official Tutorial
 
-> [【新手教程】- 如何注册帐号](https://digifinex.zendesk.com/hc/zh-cn/articles/360006576493-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%B8%90%E5%8F%B7)
+> [【New User Guide】- How to register an account](https://digifinex.zendesk.com/hc/en-us/articles/360006576493--New-User-Guide-How-to-register-an-account)
 
-### 步驟二：身份認證 <a id="2"></a>
+### Step 2: Real-name verification <a id="2"></a>
 
-在「基本訊息」頁面的「身份認證」欄按「未認證」出現下圖。掃描二維碼或到 [https://download.digifinex.xyz/](https://download.digifinex.xyz/) 下載 DigiFinex app
+On the "Basic Information" page "Real-name verification", press on the "Unverified" and the following page appears. Scan QR Code or go to [https://download.digifinex.xyz/](https://download.digifinex.xyz/) and download DigiFinex app
 
-![](../../.gitbook/assets/digifinex-11.png)
+![](../../.gitbook/assets/digifinex-11-en.png)
 
-打開 app 後，按右上角小鈴鐺（紅圈）登入帳號
+Open the app, click on the bell \(circled in red\) and login your account
 
 ![](../../.gitbook/assets/digifinex-mobile-1.png)
 
-輸入電子郵箱或手機號碼及密碼，按「登錄」
+Enter your email or mobile phone number and password and press "Login"
 
 ![](../../.gitbook/assets/digifinex-mobile-2.png)
 
 
 
-接「發送」並於郵箱取得驗證碼，再按「確定」
+Press "Send" and get the verification code from email or phone, enter and press "Confirm"
 
 ![](../../.gitbook/assets/digifinex-mobile-3.png)
 
-留意第一次在 DigiFinex app 登錄必須設定手勢密碼（或其他驗證方式，視乎手機系統而定），以後只需要使用它就可以簡單登入帳號而不需要輸入密碼，敬請牢記
+For the first time using DigiFinex app, you have to set up the "connect-the-dots" grid password \(or other authentication method, depend on the model of your phone\), then you don't have to enter password for accessing the app, please remember what pattern you have created
+
+
 
 ![](../../.gitbook/assets/digifinex-mobile-4.png)
 
-按左上角頭像出現選單，再按「帳戶安全」
+Click on the top left hand corner avatar and a menu appears, slick the "Security" setting
 
 ![](../../.gitbook/assets/digifinex-mobile-5.png)
 
-按「身份認證」中的「未認證」
+Click on "Unverified" of the "Real-name verification" 
 
 ![](../../.gitbook/assets/digifinex-mobile-6.png)
 
-填寫實名認證資料，選擇中國大陸用戶或非中國大陸用戶
+Fill in your real-name verification information, select China or Non-China user
 
 ![](../../.gitbook/assets/digifinex-mobile-7.png)
 
-填寫詳細資料，需提供國籍、證件上的名字、姓氏、證件類型、證件號碼等各種資料
+Fill in the details, you have to provide nationality, legal name on the documents, type of national ID,  ID number, etc
 
 ![](../../.gitbook/assets/digifinex-mobile-8.png)
 
-按提示掃描證件後在拍攝手持照片並提交，請注意第三張照片，需要手持身份證，以及一張手寫 DigiFinex+當日上傳日期的紙條。留意圖片僅限 JPG、PNG 格式且大小不能超過 2MB
+Upload a photo of your ID \(make sure the ID is in HD\). Then upload a photo of a handheld ID Card + White paper write "digifinex.com"
 
-![](../../.gitbook/assets/mceclip3.png)
+Hand-held photo requires ID card + Note with handwritten DigiFinex + date of upload. Make sure the uploaded photos are clear and consistent. 
 
-掃描實名認證人的人臉信息，提交後實時完成審核
+Picture formats must be in JPG, PNG f and the size must not exceed 2MB
+
+![](../../.gitbook/assets/mceclip1.png)
+
+Scan for facial recognition and complete the process
 
 ![](../../.gitbook/assets/shi-ming-ren-zheng-yuan-tu-560-tu-.jpg)
 
-如審核失敗請參考系統告知失敗原因，重新提交實名認證或[聯絡客戶服務](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)申請人工審核（申請人工審核選項會在認證失敗後自動彈出）
+If the approval is failed the system will show an error message. You may resubmit real-name verification again or contact [customer service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service) for manual approval \(a dialogue box will appear if the approval is failed\)
 
-提交文件後，請耐心等候 DigiFinex 官方批核，一般需要一至三個工作天。
+After the upload is completed, wait for approval. Review will be completed in 1-3 business days.
 
-#### DigiFinex 官方教學
+#### DigiFinex Official Tutorial
 
-> [【新手教程】- 如何进行实名认证](https://digifinex.zendesk.com/hc/zh-cn/articles/360006473334-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81)
+> [【New User Guide】- How to do ID-verification \(a.k.a KYC\)](https://digifinex.zendesk.com/hc/en-us/articles/360006473334--New-User-Guide-How-to-do-ID-verification-a-k-a-KYC-)
 
-### 步驟三：手機驗證及 Google 驗證 <a id="3-google-"></a>
+### Step 3: Set up 2-Factor Authentication \(2FA\) <a id="3-google-"></a>
 
-你必須要設定雙重驗證碼否則將不能提幣，請使用手機下載  Google Authenticator 應用程式
+You have to set up 2-Factor Authentication otherwise you are not able to withdraw from DigiFinex, please download Google Authenticator on your mobile
 
-[安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
-[蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
+[Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
+[App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
-在「基本訊息」頁面的「雙重驗證」欄按「未開啟」出現下圖，按「下一步」
+On the "Basic Information" page "2FA", press on the "Off" and the following page appears, click "Next Step"
 
-![](../../.gitbook/assets/digifinex-7.png)
+![](../../.gitbook/assets/digifinex-7-en.png)
 
-以 Google Authenticator 掃描頁面中的二維碼，再按「下一步」
+Use Google Authenticator to scan the QR Code and click "Next Step" again
 
-![](../../.gitbook/assets/digifinex-8.png)
+![](../../.gitbook/assets/digifinex-8-en.png)
 
-按「發送」獲取驗證碼，並填寫從 Google Authenticator 獲得的 6 位雙重驗證碼，再按「開啟」。假如你希望在登入時也使用雙重驗證，可選取「雙重驗證碼用於登錄」選項。否則你也可以在「安全中心」的「雙重驗證」設定該選項
+Click "Send Code" to acquire verification code, and fill in the 6-digit 2FA code from Google Authenticator, then click "Activate". If you want to using 2FA during login, select "Use 2FA to login", or you can go to "2FA" on "Security" to turn it on
 
-![](../../.gitbook/assets/digifinex-9.png)
 
-![](../../.gitbook/assets/digifinex-10.png)
 
-#### DigiFinex官方教學
+![](../../.gitbook/assets/digifinex-9-en.png)
 
-> [【谷歌验证】- 如何开启谷歌验证](https://digifinex.zendesk.com/hc/zh-cn/articles/360007869553--%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81-%E5%A6%82%E4%BD%95%E5%BC%80%E5%90%AF%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81)
+![](../../.gitbook/assets/digifinex-10-en.png)
 
-> [【谷歌验证】- 开启谷歌验证有什么作用？](https://digifinex.zendesk.com/hc/zh-cn/articles/360000511061-%E5%BC%80%E5%90%AF%E5%8F%8C%E9%87%8D%E9%AA%8C%E8%AF%81%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8-)
+#### DigiFinex Official Tutorial
 
-### 如有疑難，聯絡 DigiFinex 客服
+> [【2FA】- How to set up 2FA](https://digifinex.zendesk.com/hc/en-us/articles/360007869553--2FA-How-to-set-up-2FA)
 
-若你在開戶或任何交易所服務的過程中遇到困難，請參考 [DigiFinex 幫助中心](https://digifinex.zendesk.com/hc/zh-cn)或直接[聯絡 DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)。點擊 DigiFinex 網站畫面右下角綠色的對話圖示即可獲得支援。
+> [【2FA】- What is the Use of 2FA](https://digifinex.zendesk.com/hc/en-us/articles/360000511061--2FA-What-is-the-Use-of-2FA)
+
+### If you experience difficulties, contact DigiFinex Help Desk
+
+If you have any questions about using DigiFinex and their products,  please check [DigiFinex Help Center](https://digifinex.zendesk.com/hc/en-us) or contact [DigiFinex customer service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service). Click on the bubble at the lower right hand corner of DigiFinex website and find support.
 
