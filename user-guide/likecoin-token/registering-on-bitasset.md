@@ -10,7 +10,7 @@ These are the steps to register a BitAsset account, click this [link](https://ww
 
 ### Step 1: Confirm password and email or mobile phone number
 
-Fill in your email, password and referral code \(Optional\). You may also choose to register by phone, check on the switch below in red
+Fill in your email, password and referral code \(Optional\). You may also choose to register by mobile phone number, check on the switch below in red
 
 ![](../../.gitbook/assets/bitasset-1-en.png)
 
