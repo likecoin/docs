@@ -28,15 +28,15 @@ No matter if you are using email or phone, you have to press the "Send Code'' \(
 
 ![](../../.gitbook/assets/digifinex-4-en.png)
 
-When account is created, the system will bring you back to the DigiFinex website frontpage, click on the top right hand corner of the little man icon and click "User Center"
+When account is created, the system will bring you back to the DigiFinex website frontpage, click on the top right hand corner of the little man icon and then click "User Center"
 
 ![](../../.gitbook/assets/digifinex-5-en.png)
 
-然後會跳進至「基本訊息」頁面，你必須要進行身份證認及雙重驗證方可使用 DigiFinex 的服務
+Then go into the "Basic Information" page, you have to proceed with Real-name verification and 2FA in order to use the service of DigiFinex
 
-![](../../.gitbook/assets/digifinex-6.png)
+![](../../.gitbook/assets/digifinex-6-en.png)
 
-#### DigiFinex官方教學
+#### DigiFinex Official Tutorial
 
 > [【新手教程】- 如何注册帐号](https://digifinex.zendesk.com/hc/zh-cn/articles/360006576493-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%B8%90%E5%8F%B7)
 
