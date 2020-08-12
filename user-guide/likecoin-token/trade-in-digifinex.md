@@ -68,7 +68,7 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳同時寫入區塊鏈，但由於現時 
 
 ![](../../.gitbook/assets/digifinex-19.png)
 
-![&#x4EA4;&#x6613;&#x9801;&#x9762;](../../.gitbook/assets/digifinex-likeusdt.png)
+![LIKE/USDT &#x4EA4;&#x6613;&#x9801;&#x9762;](../../.gitbook/assets/digifinex-likeusdt.png)
 
 查看畫面右邊的「交易掛單」上方紅色列出的是掛出在市場上的「賣單」，以下圖的例子舉例，有人願意以 0.007200 USDT/LIKE 的價格賣出 500 LikeCoin，然後再有人願意以 0.007300 USDT/LIKE 的價格賣出 417.44 LikeCoin。假設你想買入 900 LikeCoin，你便可以最高價 0.007300 USDT/LIKE 的價格全數買入
 
