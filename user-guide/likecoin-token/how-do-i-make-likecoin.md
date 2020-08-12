@@ -54,5 +54,5 @@ description: 除了創作，有更多方法獲取 LikeCoin
 
 ## 在交易所購買 LikeCoin
 
-目前 [BitAsset](https://www.bitasset.com) 支援 LikeCoin 的 TWD/LIKE 及 BTC/LIKE 交易對，[MyEthShop](https://www.myethshop.com) 提供 HKD/LIKE 交易對，而 [Liquid](https://www.liquid.com/) 則提供 BTC/LIKE 及 USDT/LIKE 交易對。有興趣的朋友可以向他們購買 LikeCoin。 
+目前 [BitAsset](https://www.bitasset.com) 支援 LikeCoin 的 TWD/LIKE 及 BTC/LIKE 交易對，[Liquid](https://www.liquid.com/) 提供 BTC/LIKE 及 USDT/LIKE 交易對，[DigiFinex](https://www.digifinex.com/) 提供 USDT/LIKE 交易對，而 [MyEthShop](https://www.myethshop.com) 提供 HKD/LIKE 兌換。有興趣的朋友可以向他們購買 LikeCoin。 
 
