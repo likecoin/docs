@@ -24,6 +24,10 @@ Click on the "Show QR Code" button to show your LikeCoin wallet QR Code.
 
 ![](../../.gitbook/assets/digifinex-16-en.png)
 
+{% hint style="danger" %}
+BitAseet has a minimum deposit amount of 300 LikeCoin, **a single deposit which is less than the minimum will disappear!** Please make sure that you deposit the correct amount.
+{% endhint %}
+
 ### Step 2: Transfer LikeCoin to DigiFinex
 
 Open the [Liker Land mobile app](https://like.co/in/getapp), click on the avatar at the lower right hand corner, and you can check the amount of LikeCoin in your wallet. Click on the \[Send\] button \(circled in red below\)
@@ -34,14 +38,18 @@ Go to the next page, click on the QR Code icon circled in red, the app will open
 
 ![Click the QR Code icon circled in red to open camera](../../.gitbook/assets/bitasset-trade-7.png)
 
+Input the Tag/Memo number into the "Input memo \(optional\)" field 
+
+![](../../.gitbook/assets/digifinex-tagmemo.png)
+
 Input the amount of LikeCoin that you want to transfer, then click \[Confirm\]
 
 ![](../../.gitbook/assets/bitasset-trade-8.png)
 
 Next step is to wait for DigiFinex to confirm the transfer.
 
-{% hint style="danger" %}
-DigiFinex requires you to input your "Tag/Memo' into the chain during deposit, since Liker Land app does not support this function at the current moment \(enhancement is coming on next version\), please contact [DigiFinex Customer Service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service) after deposits LikeCoin.
+{% hint style="warning" %}
+DigiFinex requires you to input your "Tag/Memo" into the chain during deposit, if you forgot to input this information, please contact [DigiFinex Customer Service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service) after deposits LikeCoin.
 {% endhint %}
 
 #### DigiFinex Official Tutorial
