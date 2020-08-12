@@ -107,7 +107,7 @@ DigiFinex 要求將 Tag/Memo 於轉帳同時寫入區塊鏈，但由於現時 Li
 ### 步驟六：提幣
 
 {% hint style="info" %}
-關於單次最小提幣數量及手續費，可參考[【协议列表】- 费率说明](https://digifinex.zendesk.com/hc/zh-cn/articles/360000328422-%E8%B4%B9%E7%8E%87%E8%AF%B4%E6%98%8E-D%E7%BD%91-DigiFinex-com-)
+關於單次最小提幣數量及手續費，可參考[【协议列表】- 费率说明](https://digifinex.zendesk.com/hc/zh-cn/articles/360000328422-%E8%B4%B9%E7%8E%87%E8%AF%B4%E6%98%8E-D%E7%BD%91-DigiFinex-com-)，又，提幣前必須先完成雙重認證
 {% endhint %}
 
 回到【步驟一】中「我的資產」頁面，點擊「添加提幣地址」添加你的 USDT 或 LikeCoin 轉帳地址，再按照指示即可完成提幣。

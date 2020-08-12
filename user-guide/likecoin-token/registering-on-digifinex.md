@@ -94,7 +94,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 > [【新手教程】- 如何进行实名认证](https://digifinex.zendesk.com/hc/zh-cn/articles/360006473334-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81)
 
-### 步驟三：手機驗證及 Google 驗證 <a id="3-google-"></a>
+### 步驟三：雙重驗證 <a id="3-google-"></a>
 
 你必須要設定雙重驗證碼否則將不能提幣，請使用手機下載  Google Authenticator 應用程式
 
