@@ -41,7 +41,7 @@ Input the amount of LikeCoin that you want to transfer, then click \[Confirm\]
 Next step is to wait for DigiFinex to confirm the transfer.
 
 {% hint style="danger" %}
-DigiFinex required to input "Tag/Memo' into the chain during deposit, since Liker Land app does not support this function at the current moment \(enhancement is coming on next version\), please contact [DigiFinex Customer Service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service) after deposits LikeCoin.
+DigiFinex requires you to input your "Tag/Memo' into the chain during deposit, since Liker Land app does not support this function at the current moment \(enhancement is coming on next version\), please contact DigiFinex Customer Service after deposits LikeCoin.
 {% endhint %}
 
 #### DigiFinex Official Tutorial
