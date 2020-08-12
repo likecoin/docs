@@ -54,5 +54,5 @@ The above calculation based on the assumption of a new block is created every 6 
 
 ## Buy LikeCoin on Exchanges
 
-[BitAsset](https://www.bitasset.com) supports TWD/LIKE and BTC/LIKE trading pairs. [MyEthShop](https://www.myethshop.com) provides HKD/LIKE exchange. [Liquid](https://www.liquid.com/) supports BTC/LIKE and USDT/LIKE trading pairs. Those who are interested can buy LikeCoin from them.
+[BitAsset](https://www.bitasset.com) supports TWD/LIKE and BTC/LIKE trading pairs. [Liquid](https://www.liquid.com/) supports BTC/LIKE and USDT/LIKE trading pairs. DigiFinex supports USDT/LIKE trading pairs. [MyEthShop](https://www.myethshop.com) provides HKD/LIKE exchange. Those who are interested can buy LikeCoin from them.
 
