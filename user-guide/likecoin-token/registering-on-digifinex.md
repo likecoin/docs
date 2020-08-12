@@ -50,11 +50,11 @@ Open the app, click on the top right hand corner bell icon \(circled in red\) an
 
 ![](../../.gitbook/assets/digifinex-mobile-1.png)
 
-Enter your email or mobile phone number and password then click "Login"
+Enter your email or mobile phone number and password then click \[Login\]
 
 ![](../../.gitbook/assets/digifinex-mobile-2.png)
 
-Click "Send" and get the verification code from email or phone, enter the code and click "Confirm"
+Click \[Send\] and get the verification code from email or phone, enter the code and click \[Confirm\]
 
 ![](../../.gitbook/assets/digifinex-mobile-3.png)
 
@@ -64,15 +64,15 @@ For the first time using DigiFinex app, you have to set up the "connect-the-dots
 
 ![](../../.gitbook/assets/digifinex-mobile-4.png)
 
-Click on the top left hand corner avatar and a menu appears, click the "Security" setting
+Click on the top left hand corner avatar and a menu appears, click the \[Security\] setting
 
 ![](../../.gitbook/assets/digifinex-mobile-5.png)
 
-Click on "Unverified" of the "Real-name verification" 
+Click on \[Unverified\] of the \[Real-name verification\] 
 
 ![](../../.gitbook/assets/digifinex-mobile-6.png)
 
-Fill in your real-name verification information, select China or Non-China user
+Fill in your real-name verification information, select China or Non-China user and click \[Next\]
 
 ![](../../.gitbook/assets/digifinex-mobile-7.png)
 
