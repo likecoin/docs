@@ -107,24 +107,24 @@ Go to the bottom of the screen and find "Trade History" to check out the transac
 ### Step 6: Withdrawal
 
 {% hint style="info" %}
-關於單次最小提幣數量及手續費，可參考[【协议列表】- 费率说明](https://digifinex.zendesk.com/hc/zh-cn/articles/360000328422-%E8%B4%B9%E7%8E%87%E8%AF%B4%E6%98%8E-D%E7%BD%91-DigiFinex-com-)，又，提幣前必須先完成[雙重認證](https://docs.like.co/v/zh/user-guide/likecoin-token/registering-on-digifinex#3-google-)。
+About the minimum withdrawal requirement and withdrawal free, you can check out 【[Contract List】- Fees](https://digifinex.zendesk.com/hc/en-us/articles/360000328422-Fee-Structure-on-DigiFinex). Please also note that you have to complete 2FA before withdrawal.
 {% endhint %}
 
-回到【步驟一】中「我的資產」頁面，點擊「添加提幣地址」添加你的 USDT 或 LikeCoin 轉帳地址，再按照指示即可完成提幣。
+Going back to "My Balance" page in Step 1, click "Add withdraw address" to create your USDT or LikeCoin address for transfer, and follow the step to complete withdrawal.
 
-![](../../.gitbook/assets/digifinex-23.png)
+![](../../.gitbook/assets/digifinex-23-en.png)
 
-![](../../.gitbook/assets/digifinex-24.png)
+![](../../.gitbook/assets/digifinex-24-en.png)
 
-![](../../.gitbook/assets/digifinex-25.png)
+![](../../.gitbook/assets/digifinex-25-en.png)
 
-![](../../.gitbook/assets/digifinex-26.png)
+![](../../.gitbook/assets/digifinex-26-en.png)
 
 #### 
 
-#### DigiFinex 官方教學
+#### DigiFinex Official Tutorial
 
-> [【提币】- 如何从D网提币到其他平台（网页版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360000521962-%E5%A6%82%E4%BD%95%E4%BB%8ED%E7%BD%91%E6%8F%90%E5%B8%81%E5%88%B0%E5%85%B6%E4%BB%96%E5%B9%B3%E5%8F%B0-%E7%BD%91%E9%A1%B5%E7%89%88-)
+> [【Withdraw】- How to Withdraw in Website](https://digifinex.zendesk.com/hc/en-us/articles/360000521962-How-to-withdraw-In-Website-)
 
-> [【提币】- 如何从D网提币到其他平台（APP版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360002955534-%E5%A6%82%E4%BD%95%E4%BB%8ED%E7%BD%91%E6%8F%90%E5%B8%81%E5%88%B0%E5%85%B6%E4%BB%96%E5%B9%B3%E5%8F%B0-APP%E7%89%88-)
+> [【Withdraw】- How to withdraw in APP](https://digifinex.zendesk.com/hc/en-us/articles/360002955534-How-to-withdraw-In-APP-)
 
