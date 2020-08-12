@@ -49,7 +49,7 @@ Input the amount of LikeCoin that you want to transfer, then click \[Confirm\]
 Next step is to wait for DigiFinex to confirm the transfer.
 
 {% hint style="warning" %}
-DigiFinex requires you to input your "Tag/Memo" into the chain during deposit, if you forgot to input this information, please contact [DigiFinex Customer Service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service) after deposits LikeCoin.
+DigiFinex requires you to input your "Tag/Memo" into the chain during deposit, if you forgot to input this information, please contact [DigiFinex Customer Service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service) after deposting LikeCoin.
 {% endhint %}
 
 #### DigiFinex Official Tutorial
