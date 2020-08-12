@@ -12,11 +12,11 @@ DigiFinex 是一所在 CoinMarketCap 排名 20+，交易及流通量均位列國
 
 ![](../../.gitbook/assets/digifinex-13.png)
 
-跳轉至「讚賞幣 \( LIKE \) 充值頁面，點選「生成充幣地址」，系統會產在你在 DigiFinex 的 LikeCoin 錢包地址。你也可以在下方查看你的「充幣歷史」
+跳轉至「讚賞幣 \( LIKE \) 充值」頁面，點選「生成充幣地址」，系統會產在你在 DigiFinex 的 LikeCoin 錢包地址。你也可以在下方查看你的「充幣歷史」
 
 ![](../../.gitbook/assets/digifinex-14.png)
 
-cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址，點選「顯示二維碼」就可以不用人手輸入這串地址了。而 **"TagMemo" 亦是很重要的原素**，因為沒有它，DigiFinex 就不能辨識你的存幣
+cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址，點選「顯示二維碼」就可以不用人手輸入這串地址了。而 **"TagMemo" 是很重要的原素**，因為沒有它，DigiFinex 就不能辨識你的存幣
 
 ![](../../.gitbook/assets/digifinex-15.png)
 
@@ -41,7 +41,7 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 接下來便要等 DigiFinex 確認收款了。
 
 {% hint style="danger" %}
-DigiFinex 要求將 "Tag/Memo" 於轉帳期間 同時寫入區塊鏈，但由於現時 Like Land 手機應用程式並未支援此功能（將於下一版本改善），轉帳後請[聯絡 DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)處理。
+DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈，但由於現時 Like Land 手機應用程式並未支援此功能（將於下一版本改善），轉帳後請[聯絡 DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)處理。
 {% endhint %}
 
 #### DigiFinex 官方教學
@@ -74,11 +74,11 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳期間 同時寫入區塊鏈，但由於
 
 若你想賣出 LikeCoin ，你便要觀察綠色的「買單」找買家。以下圖為例，假設你想要賣出 200 LIKE，可保證以 0.007100 USDT/LIKE 的價格賣出，因為目前有人出的最高價是 0.007100 購買 300 LikeCoin
 
-總而言之，賣 LikeCoin 時看下方綠色的買單；買 LikeCoin 時看上方紅色的賣單，此外你可以參考下方的「最新成交」數據
+總而言之，賣 LikeCoin 時看下方綠色的買單；買 LikeCoin 時看上方紅色的賣單，此外你可以參考最下方的「最新成交」數據
 
 ![](../../.gitbook/assets/digifinex-20.png)
 
-決定了買賣的價錢和數量後，可在下方的「現貨交易」欄下單，以「限價交易」為例子說明
+決定了買賣的價錢和數量後，可在畫面下方的「現貨交易」欄下單，以「限價交易」為例子說明
 
 你需要輸入三項資料：
 
@@ -100,7 +100,7 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳期間 同時寫入區塊鏈，但由於
 
 ### 步驟五：查看交易詳情
 
-交易完成後，你可在畫面下方說「歷史委托」，查看交易的詳情，你的錢包亦會反映餘額。
+交易完成後，你可在畫面下方「歷史委托」，查看交易的詳情，你的錢包亦會反映餘額。
 
 ![](../../.gitbook/assets/digifinex-22.png)
 
@@ -110,7 +110,7 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳期間 同時寫入區塊鏈，但由於
 關於單次最小提幣數量及手續費，可參考[【协议列表】- 费率说明](https://digifinex.zendesk.com/hc/zh-cn/articles/360000328422-%E8%B4%B9%E7%8E%87%E8%AF%B4%E6%98%8E-D%E7%BD%91-DigiFinex-com-)，又，提幣前必須先完成[雙重認證](https://docs.like.co/v/zh/user-guide/likecoin-token/registering-on-digifinex#3-google-)。
 {% endhint %}
 
-回到【步驟一】中「我的資產」頁面尋找幣種，再點擊「添加提幣地址」添加你的 USDT 或 LikeCoin 轉帳地址，並按照指示即可完成提幣。
+回到【步驟一】中「我的資產」頁面尋找幣種，再點擊「提幣」並「添加提幣地址」添加你的 USDT 或 LikeCoin 轉帳地址，再按照指示即可完成提幣。
 
 ![](../../.gitbook/assets/digifinex-23.png)
 
