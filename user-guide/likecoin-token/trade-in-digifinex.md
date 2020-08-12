@@ -44,6 +44,12 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 DigiFinex 要求將 Tag/Memo 於轉帳同時寫入區塊鏈，但由於現時 Like Land 手機應用程式並未支援此功能（將於下一版本改善），轉帳後請[聯絡 DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)處理。
 {% endhint %}
 
+#### DigiFinex 官方教學
+
+> [【充币】- 如何充币到D网（网页版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360000519282-%E5%A6%82%E4%BD%95%E5%85%85%E5%B8%81%E5%88%B0D%E7%BD%91-%E7%BD%91%E9%A1%B5%E7%89%88-)
+
+> [【充币】- 如何充币到D网（APP版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360002689614-%E5%85%85%E5%B8%81%E5%85%85%E5%80%BC-D%E7%BD%91-DigiFinex-com-)
+
 ### 步驟三：確認 DigiFinex 收款
 
 你可以到【步驟一】中「我的資產」查看 LikeCoin 是否經已收妥。
@@ -84,6 +90,14 @@ DigiFinex 要求將 Tag/Memo 於轉帳同時寫入區塊鏈，但由於現時 Li
 
 資料填妥後，系統會自動計算成交額。確認無誤後，點擊「賣出 LIKE」，操作完成！
 
+#### DigiFinex 官方教學
+
+> [【币币交易】- 什么是币币交易](https://digifinex.zendesk.com/hc/zh-cn/articles/360010693193-%E4%BB%80%E4%B9%88%E6%98%AF%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93)
+
+> [【币币交易】- 如何进行币币交易（网页版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360000523002-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93-%E7%BD%91%E9%A1%B5%E7%89%88-)
+
+> [【币币交易】- 如何进行币币交易（APP版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360010693193-%E4%BB%80%E4%B9%88%E6%98%AF%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93)
+
 ### 步驟五：查看交易詳情
 
 交易完成後，你可在畫面下方說「歷史委托」，查看交易的詳情，你的錢包亦會反映餘額。
@@ -92,25 +106,25 @@ DigiFinex 要求將 Tag/Memo 於轉帳同時寫入區塊鏈，但由於現時 Li
 
 ### 步驟六：提幣
 
+{% hint style="info" %}
+關於單次最小提幣數量及手續費，可參考[【协议列表】- 费率说明](https://digifinex.zendesk.com/hc/zh-cn/articles/360000328422-%E8%B4%B9%E7%8E%87%E8%AF%B4%E6%98%8E-D%E7%BD%91-DigiFinex-com-)
+{% endhint %}
 
+回到【步驟一】中「我的資產」頁面，點擊「添加提幣地址」添加你的 USDT 或 LikeCoin 轉帳地址，再按照指示即可完成提幣。
 
+![](../../.gitbook/assets/digifinex-23.png)
 
+![](../../.gitbook/assets/digifinex-24.png)
 
-#### BitAsset 官方教學
+![](../../.gitbook/assets/digifinex-25.png)
 
-> [BitAsset 使用全攻略](https://bitasset.zendesk.com/hc/zh-tw/articles/360012894432-BitAsset-%E4%BD%BF%E7%94%A8%E5%85%A8%E6%94%BB%E7%95%A5)
+![](../../.gitbook/assets/digifinex-26.png)
 
-> [BitAsset APP 使用全攻略](https://bitasset.zendesk.com/hc/zh-tw/articles/360018349812-BitAsset-APP-%E4%BD%BF%E7%94%A8%E5%85%A8%E6%94%BB%E7%95%A5)
+#### 
 
-> [BitAsset新手指南－交易篇](https://medium.com/bitasset/bitasset%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97-%E4%BA%A4%E6%98%93%E7%AF%87-f1f83f555520)
+#### DigiFinex 官方教學
 
-> [法幣提現操作](https://bitasset.zendesk.com/hc/zh-tw/articles/360018396472-%E6%B3%95%E5%B9%A3%E6%8F%90%E7%8F%BE%E6%93%8D%E4%BD%9C)
+> [【提币】- 如何从D网提币到其他平台（网页版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360000521962-%E5%A6%82%E4%BD%95%E4%BB%8ED%E7%BD%91%E6%8F%90%E5%B8%81%E5%88%B0%E5%85%B6%E4%BB%96%E5%B9%B3%E5%8F%B0-%E7%BD%91%E9%A1%B5%E7%89%88-)
 
-#### 參考文章
-
-> [BitAsset 買賣 LikeCoin \(台幣\)，提現到台幣帳戶補充分享](https://matters.news/@yeutorng/bit-asset-%E8%B2%B7%E8%B3%A3-like-coin-%E5%8F%B0%E5%B9%A3-%E6%8F%90%E7%8F%BE%E5%88%B0%E5%8F%B0%E5%B9%A3%E5%B8%B3%E6%88%B6%E8%A3%9C%E5%85%85%E5%88%86%E4%BA%AB-zdpuAtaC5cMohnxfiSBGTBq5e41LpmqKLCLbCaJbk7osz5b5N)
-
-> [「Matters实用贴」教你如何四步快速提现LikeCoin](https://matters.news/@mrspointm/matters%E5%AE%9E%E7%94%A8%E8%B4%B4-%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E5%9B%9B%E6%AD%A5%E5%BF%AB%E9%80%9F%E6%8F%90%E7%8E%B0like-coin-zdpuAobP3T9TaNV5yimGdr1w58Y5LzWRh19cXcVSepnsLf1wa)
-
-> [用Liker Land APP在BitAsset交易所把 LikeCoin 兌換成台幣（手機執行）](https://twinsyang.net/archives/21627)
+> [【提币】- 如何从D网提币到其他平台（APP版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360002955534-%E5%A6%82%E4%BD%95%E4%BB%8ED%E7%BD%91%E6%8F%90%E5%B8%81%E5%88%B0%E5%85%B6%E4%BB%96%E5%B9%B3%E5%8F%B0-APP%E7%89%88-)
 
