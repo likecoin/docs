@@ -128,5 +128,5 @@ Going back to "My Balance" page in Step 1, click "Add withdraw address" to creat
 
 > [【Withdraw】- How to withdraw in APP](https://digifinex.zendesk.com/hc/en-us/articles/360002955534-How-to-withdraw-In-APP-)
 
-
+> [【New User Guide】- New user introduction article directory](https://digifinex.zendesk.com/hc/en-us/articles/360000499281--New-User-Guide-New-user-introduction-article-directory)
 
