@@ -8,15 +8,15 @@ DigiFinex 是一所在 CoinMarketCap 排名 20+，交易及流通量均位列國
 
 ### 步驟一：開立 DigiFinex 帳戶的 LikeCoin 錢包收款地址
 
-第一步要把你的 LikeCoin 轉賬到 DigiFinex 交易所，點擊 DigiFinex 網站右上角的人像「進入用戶中心」，再點選「我的資產」，並在搜尋欄輸入 "Like"，再點選「充幣」
+第一步要把你的 LikeCoin 轉賬到 DigiFinex 交易所。點擊 DigiFinex 網站右上角的人像「進入用戶中心」，再點選「我的資產」，並在搜尋欄輸入 "Like"，再點選「充幣」
 
 ![](../../.gitbook/assets/digifinex-13.png)
 
-跳轉至「讚賞幣 \( LIKE \) 充值頁面，點選「生成充幣地址」，系統會產在你在 DigiFinex 的 LikeCoin 錢包地址。你也可以在下方查看你的充幣歷史
+跳轉至「讚賞幣 \( LIKE \) 充值頁面，點選「生成充幣地址」，系統會產在你在 DigiFinex 的 LikeCoin 錢包地址。你也可以在下方查看你的「充幣歷史」
 
 ![](../../.gitbook/assets/digifinex-14.png)
 
-cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址，點選「顯示二維碼」就可以不用人手輸入這串地址了。而 TagMemo 亦是很重要的原素，因為沒有它，DigiFinex 就不能辨識你的存幣
+cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址，點選「顯示二維碼」就可以不用人手輸入這串地址了。而 **"TagMemo" 亦是很重要的原素**，因為沒有它，DigiFinex 就不能辨識你的存幣
 
 ![](../../.gitbook/assets/digifinex-15.png)
 
@@ -41,7 +41,7 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 接下來便要等 DigiFinex 確認收款了。
 
 {% hint style="danger" %}
-DigiFinex 要求將 Tag/Memo 於轉帳同時寫入區塊鏈，但由於現時 Like Land 手機應用程式並未支援此功能（將於下一版本改善），轉帳後請[聯絡 DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)處理。
+DigiFinex 要求將 "Tag/Memo" 於轉帳同時寫入區塊鏈，但由於現時 Like Land 手機應用程式並未支援此功能（將於下一版本改善），轉帳後請[聯絡 DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)處理。
 {% endhint %}
 
 #### DigiFinex 官方教學
