@@ -16,7 +16,7 @@ This action brings you to the page "LikeCoin \(LIKE\) Deposit", click "Generate 
 
 ![](../../.gitbook/assets/digifinex-14-en.png)
 
-The address that starts with cosmos is your DigiFinex LikeCoin wallet just created, click on the "Show QR Code" so that you don't have to input the cosmos address manually. **Tag/Memo is also very important** because it is mandatory for DigiFinex to identify your deposit
+The address that starts with cosmos is your DigiFinex LikeCoin wallet just created, click on the "Show QR Code" so that you don't have to input the cosmos address manually. **Tag/Memo is very important** because it is mandatory for DigiFinex to identify your deposit
 
 ![](../../.gitbook/assets/digifinex-15-en.png)
 
@@ -78,7 +78,7 @@ To make it simple, if you want to sell, check out the orders in green; if you wa
 
 ![](../../.gitbook/assets/digifinex-20-en.png)
 
-Once you decide the price and amount to buy or sell, go to the "Spot" at the bottom to confirm. Let use "Limit Price" as an example
+Once you decide the price and amount to buy or sell, go to the "Spot" to confirm. Let use "Limit Price" as an example
 
 You have to input 3 parameters:
 
@@ -110,7 +110,7 @@ Go to the bottom of the screen and find "Trade History" to check out the transac
 About the minimum withdrawal requirement and withdrawal free, you can check out 【[Contract List】- Fees](https://digifinex.zendesk.com/hc/en-us/articles/360000328422-Fee-Structure-on-DigiFinex). Please also note that you have to complete 2FA before withdrawal.
 {% endhint %}
 
-Going back to "My Balance" page in Step 1, select USDT or LIKE and click "Add withdraw address" to add your USDT or LikeCoin address for transfer, and follow the steps to complete withdrawal.
+Going back to "My Balance" page in Step 1, select USDT or LIKE and click "Withdrawal", then click "Add withdraw address" to add your USDT or LikeCoin address for transfer, and follow the steps to complete withdrawal.
 
 ![](../../.gitbook/assets/digifinex-23-en.png)
 
