@@ -129,6 +129,8 @@ Click "Send Code" to acquire verification code, and fill in the 6-digit 2FA code
 
 > [【2FA】- What is the Use of 2FA](https://digifinex.zendesk.com/hc/en-us/articles/360000511061--2FA-What-is-the-Use-of-2FA)
 
+> [【2FA】- FAQs](https://digifinex.zendesk.com/hc/en-us/articles/360000518802-FAQ-about-2FA)
+
 ### If you experience difficulties, contact DigiFinex Help Desk
 
 If you have any questions about using DigiFinex and their products,  please check [DigiFinex Help Center](https://digifinex.zendesk.com/hc/en-us) or contact [DigiFinex customer service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service). Click on the bubble at the lower right hand corner of DigiFinex website and find support.

@@ -83,36 +83,28 @@ Once you decide the price and amount to buy or sell, go to the "Spot" at the bot
 You have to input 3 parameters:
 
 * Select the right action for "Buy LIKE" or "Sell LIKE
-* Input "Price": using the order book above as example, fill in 0.0831 for selling LikeCoin
+* Input "Price": using the order book above as example, fill in 0.006600 for selling LikeCoin
 * Input "Amount": Fill in 200 for selling 200 LikeCoin, or adjust the percentage e.g. 100%, 50%, etc
 
+![](../../.gitbook/assets/digifinex-21-en.png)
 
+The system will calculate "Total", confirm if they are correct or not, then click "Sell LIKE" to complete the transaction. 
 
-你需要輸入三項資料：
+#### DigiFinex Official Tutorial
 
-1. 確認選對了「買入 LIKE」或「賣出 LIKE」，這一步很多時候也會被忽略了然後做錯事
-2. 輸入價格。以上圖的掛單簿為例，若我想賣出 LikeCoin 這裡應填上 "0.007100"
-3. 輸入數量。若我想賣出 200 LikeCoin 這裡應填上 200。你也可以隨意選擇庫存的百份比
+> [【Spot trading】- What is Token Trading](https://digifinex.zendesk.com/hc/en-us/articles/360010693193-What-is-Token-Trading)
 
-![](../../.gitbook/assets/digifinex-21.png)
+> [【Spot trading】- How to do Spot Trading on DigiFinex Website](https://digifinex.zendesk.com/hc/en-us/articles/360000523002-How-to-Start-Spot-Trading-In-Website-)
 
-The system will calculate "Total", confirm if they are correct or not, then click "Sell Like" to complete the transaction. 
+> [【Spot trading】- How to do Spot Trading on DigiFinex APP](https://digifinex.zendesk.com/hc/en-us/articles/360007599713-How-to-Start-Spot-Trading-In-APP-)
 
-#### DigiFinex 官方教學
+### Step 5: Check Transaction details
 
-> [【币币交易】- 什么是币币交易](https://digifinex.zendesk.com/hc/zh-cn/articles/360010693193-%E4%BB%80%E4%B9%88%E6%98%AF%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93)
+Go to the bottom of the screen and find "Trade History" to check out the transaction details, your wallets reflect new balances as well.
 
-> [【币币交易】- 如何进行币币交易（网页版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360000523002-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93-%E7%BD%91%E9%A1%B5%E7%89%88-)
+![](../../.gitbook/assets/digifinex-22-en.png)
 
-> [【币币交易】- 如何进行币币交易（APP版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360010693193-%E4%BB%80%E4%B9%88%E6%98%AF%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93)
-
-### 步驟五：查看交易詳情
-
-交易完成後，你可在畫面下方說「歷史委托」，查看交易的詳情，你的錢包亦會反映餘額。
-
-![](../../.gitbook/assets/digifinex-22.png)
-
-### 步驟六：提幣
+### Step 6: Withdrawal
 
 {% hint style="info" %}
 關於單次最小提幣數量及手續費，可參考[【协议列表】- 费率说明](https://digifinex.zendesk.com/hc/zh-cn/articles/360000328422-%E8%B4%B9%E7%8E%87%E8%AF%B4%E6%98%8E-D%E7%BD%91-DigiFinex-com-)，又，提幣前必須先完成[雙重認證](https://docs.like.co/v/zh/user-guide/likecoin-token/registering-on-digifinex#3-google-)。
