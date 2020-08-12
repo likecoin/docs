@@ -8,7 +8,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ### 步驟一：確認密碼，及電子郵箱或手機號碼 <a id="1"></a>
 
-於網站右上角，按「註冊」
+於網站右上角，點選「註冊」
 
 ![](../../.gitbook/assets/digifinex-1.png)
 
@@ -22,7 +22,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-3.png)
 
-留意無論你使用電郵或手機註冊，你也必須要先按「發送」（上面箭咀位置），並完成安全認證，方可取得驗證碼 。在電郵或手機收取驗證碼後，輸入並按「提交」，帳號便會即時開立。在接下來的開戶步驟中，你需要經常收取驗證碼進行驗證，而驗證碼只有十分鐘使用時限，故此請確保閣下在網絡環境穩定時才進行註冊
+留意無論你使用電郵或手機註冊，你也必須要先點選「發送」（上面箭咀位置），並完成安全認證，方可取得驗證碼 。在電郵或手機收取驗證碼後，輸入並點選「提交」，帳號便會即時開立。在接下來的開戶步驟中，你需要經常收取驗證碼進行驗證，而驗證碼只有十分鐘使用時限，故此請確保閣下在網絡環境穩定時才進行註冊
 
 ![](../../.gitbook/assets/digifinex-4.png)
 
@@ -40,21 +40,21 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ### 步驟二：身份認證 <a id="2"></a>
 
-在「基本訊息」頁面的「身份認證」欄按「未認證」出現下圖。掃描二維碼或到 [https://download.digifinex.xyz/](https://download.digifinex.xyz/) 下載 DigiFinex app
+在「基本訊息」頁面的「身份認證」欄點選「未認證」出現下圖。掃描二維碼或到 [https://download.digifinex.xyz/](https://download.digifinex.xyz/) 下載 DigiFinex app
 
 ![](../../.gitbook/assets/digifinex-11.png)
 
-打開 app 後，按右上角小鈴鐺（紅圈）登入帳號
+打開 app 後，點選右上角小鈴鐺（紅圈）登入帳號
 
 ![](../../.gitbook/assets/digifinex-mobile-1.png)
 
-輸入電子郵箱或手機號碼及密碼，按「登錄」
+輸入電子郵箱或手機號碼及密碼，點選 \[登錄\]
 
 ![](../../.gitbook/assets/digifinex-mobile-2.png)
 
 
 
-接「發送」並於郵箱或手機取得驗證碼，輸入再按「確定」
+點選 \[發送\] 並於郵箱或手機取得驗證碼，輸入再點選 \[確定\]
 
 ![](../../.gitbook/assets/digifinex-mobile-3.png)
 
@@ -62,11 +62,11 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-mobile-4.png)
 
-按左上角頭像出現選單，再按「帳戶安全」
+點選左上角頭像出現選單，再點選 \[帳戶安全\]
 
 ![](../../.gitbook/assets/digifinex-mobile-5.png)
 
-按「身份認證」中的「未認證」
+點選 \[身份認證\] 中的 \[未認證\]
 
 ![](../../.gitbook/assets/digifinex-mobile-6.png)
 
@@ -101,15 +101,15 @@ description: 如何註冊 DigiFinex 交易所帳號
 [安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
 [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
-在「基本訊息」頁面的「雙重驗證」欄按「未開啟」出現下圖，按「下一步」
+在「基本訊息」頁面的「雙重驗證」欄點選「未開啟」出現下圖，點選「下一步」
 
 ![](../../.gitbook/assets/digifinex-7.png)
 
-以 Google Authenticator 掃描頁面中的二維碼，再按「下一步」
+以 Google Authenticator 掃描頁面中的二維碼，再點選「下一步」
 
 ![](../../.gitbook/assets/digifinex-8.png)
 
-按「發送」獲取驗證碼，並填寫從 Google Authenticator 獲得的 6 位雙重驗證碼，再按「開啟」。假如你希望在登入時也使用雙重驗證，可選取「雙重驗證碼用於登錄」選項。否則你也可以在「安全中心」的「雙重驗證」設定該選項
+點選「發送」獲取驗證碼，並填寫從 Google Authenticator 獲得的 6 位雙重驗證碼，再點選「開啟」。假如你希望在登入時也使用雙重驗證，可選取「雙重驗證碼用於登錄」選項。否則你也可以在「安全中心」的「雙重驗證」設定該選項
 
 ![](../../.gitbook/assets/digifinex-9.png)
 

@@ -34,6 +34,7 @@
   * [獲得 LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
   * [交易 LikeCoin](user-guide/likecoin-token/how-to-buy-and-sell-likecoin.md)
   * [註冊 DigiFinex 帳號](user-guide/likecoin-token/registering-on-digifinex.md)
+  * [在 DigiFinex 交易](user-guide/likecoin-token/trade-in-digifinex.md)
   * [註冊 Liquid 帳號](user-guide/likecoin-token/registering-on-liquid.md)
   * [在 Liquid 交易](user-guide/likecoin-token/trade-in-liquid.md)
   * [註冊 BitAsset 帳號](user-guide/likecoin-token/registering-on-bitasset.md)
