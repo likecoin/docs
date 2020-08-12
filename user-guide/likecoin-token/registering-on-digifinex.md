@@ -70,7 +70,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-mobile-6.png)
 
-填寫實名認證資料，選擇中國大陸用戶或非中國大陸用戶
+填寫實名認證資料，選擇中國大陸用戶或非中國大陸用戶再點選 \[下一步\]
 
 ![](../../.gitbook/assets/digifinex-mobile-7.png)
 
