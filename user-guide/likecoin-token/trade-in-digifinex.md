@@ -68,8 +68,6 @@ Click "Spot", input "Like" to the search box on the left, click LIKE/USDT and go
 
 ![](../../.gitbook/assets/digifinex-19-en.png)
 
-![LIKE/USDT panel](../../.gitbook/assets/digifinex-likeusdt-en.png)
-
 Choose your trading pairs and take a look at the order book. The figures in red are those orders who want to "Sell", for example below there are people who want to sell 500 LikeCoin at the price of 0.21 TWD/LIKE, and then some other people want to sell 52,565 LikeCoin at 0.212 TWD/LIKE. If you want to buy 50,000 LikeCoin, you can buy them all at 0.212 TWD/LIKE.
 
 If you want to sell your LikeCoin, you have to monitor the seller in green. For example below if you want to sell 50,000 LikeCoin, it is guaranteed to be sold at 0.0831 TWD/LIKE because the highest selling price is 0.0831 to buy 296,468 LikeCoin.
