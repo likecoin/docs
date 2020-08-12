@@ -25,7 +25,7 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 ![](../../.gitbook/assets/digifinex-16.png)
 
 {% hint style="danger" %}
-留意 DigiFinex 設有單筆最小充值量 300 LikeCoin ，_**未達此金額的存款將直接消失掉！**_請務必看清楚才轉帳。
+留意 DigiFinex 設有單筆最小充值量 300 LikeCoin，_**未達此金額的存款將直接消失掉！**_請務必看清楚才轉帳。
 {% endhint %}
 
 ### 步驟二：轉帳 LikeCoin 到 DigiFinex
@@ -38,14 +38,18 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 
 ![&#x9EDE;&#x4E0A;&#x5716;&#x7D05;&#x5708;&#x4F4D;&#x7F6E;&#x6253;&#x958B;&#x7167;&#x76F8;&#x6A5F;](../../.gitbook/assets/bitasset-trade-7.png)
 
+在 \[Input memo \(optional\)" 欄中輸入你的 Tag/Memo 號碼
+
+![](../../.gitbook/assets/digifinex-tagmemo.png)
+
 輸入你想要轉帳的 LikeCoin 金額，然後點擊「確認」 / \[Confirm\]
 
 ![](../../.gitbook/assets/bitasset-trade-8.png)
 
 接下來便要等 DigiFinex 確認收款了。
 
-{% hint style="danger" %}
-DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈，但由於現時 Like Land 手機應用程式並未支援此功能（將於下一版本改善），轉帳後請[聯絡 DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)處理。
+{% hint style="warning" %}
+DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈，假如你忘記輸入，轉帳後請[聯絡 DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)處理。
 {% endhint %}
 
 #### DigiFinex 官方教學
