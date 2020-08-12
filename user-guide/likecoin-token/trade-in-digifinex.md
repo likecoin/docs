@@ -25,7 +25,7 @@ Click on the "Show QR Code" button to show your LikeCoin wallet QR Code.
 ![](../../.gitbook/assets/digifinex-16-en.png)
 
 {% hint style="danger" %}
-BitAseet has a minimum deposit amount of 300 LikeCoin, **a single deposit which is less than the minimum will disappear!** Please make sure that you deposit the correct amount.
+BitAseet has a minimum deposit amount of **300 LikeCoin**, **a single deposit which is less than the minimum will disappear!** Please make sure that you deposit the correct amount.
 {% endhint %}
 
 ### Step 2: Transfer LikeCoin to DigiFinex
