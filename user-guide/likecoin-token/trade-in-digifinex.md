@@ -25,7 +25,7 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 ![](../../.gitbook/assets/digifinex-16.png)
 
 {% hint style="danger" %}
-留意 DigiFinex 設有單筆最小充值量 300 LikeCoin，_**未達此金額的存款將直接消失掉！**_請務必看清楚才轉帳。
+留意 DigiFinex 設有單筆最小充值量 **300 LikeCoin**，_**未達此金額的存款將直接消失掉！**_請務必看清楚才轉帳。
 {% endhint %}
 
 ### 步驟二：轉帳 LikeCoin 到 DigiFinex
