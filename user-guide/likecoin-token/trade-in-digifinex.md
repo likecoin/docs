@@ -4,7 +4,7 @@ description: 在 DigiFinex 買賣 LikeCoin
 
 # 在 DigiFinex 交易
 
-DigiFinex 是一所在 CoinMarketCap 排名 20+，交易及流通量均位列國際頂級的交易所，提供 LIKE/USDT 交易對。若你還未有 DigiFinex 帳號，[請參考這篇](https://docs.like.co/v/zh/user-guide/likecoin-token/registering-on-digifinex)。此外你也需要[下載 Liker Land 手機應用程式](https://like.co/in/getapp)用來傳送/提取 LikeCoin。
+DigiFinex 是一所在 CoinMarketCap 排名 20+，交易及流通量均位列國際頂級的交易所，提供 LIKE/USDT 交易對。若你還未有 DigiFinex 帳號，[請參考這篇](https://docs.like.co/v/zh/user-guide/likecoin-token/registering-on-digifinex)。此外你也需要[下載 Liker Land 手機應用程式](https://like.co/in/getapp)用來傳送/提取 LikeCoin。以下示範以 DigiFinex 網頁版為例，你亦可使用 [DigiFinex 手機應用程式](https://digifinex.zendesk.com/hc/zh-cn/articles/360000603862--%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD-%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDD%E7%BD%91APP)進行交易。
 
 ### 步驟一：開立 DigiFinex 帳戶的 LikeCoin 錢包收款地址
 
@@ -41,7 +41,7 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 接下來便要等 DigiFinex 確認收款了。
 
 {% hint style="danger" %}
-DigiFinex 要求將 "Tag/Memo" 於轉帳同時寫入區塊鏈，但由於現時 Like Land 手機應用程式並未支援此功能（將於下一版本改善），轉帳後請[聯絡 DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)處理。
+DigiFinex 要求將 "Tag/Memo" 於轉帳期間 同時寫入區塊鏈，但由於現時 Like Land 手機應用程式並未支援此功能（將於下一版本改善），轉帳後請[聯絡 DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)處理。
 {% endhint %}
 
 #### DigiFinex 官方教學
@@ -92,11 +92,11 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳同時寫入區塊鏈，但由於現時 
 
 #### DigiFinex 官方教學
 
-> [【币币交易】- 什么是币币交易](https://digifinex.zendesk.com/hc/zh-cn/articles/360010693193-%E4%BB%80%E4%B9%88%E6%98%AF%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93)
-
 > [【币币交易】- 如何进行币币交易（网页版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360000523002-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93-%E7%BD%91%E9%A1%B5%E7%89%88-)
 
 > [【币币交易】- 如何进行币币交易（APP版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360010693193-%E4%BB%80%E4%B9%88%E6%98%AF%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93)
+
+> [【币币交易】- 什么是币币交易](https://digifinex.zendesk.com/hc/zh-cn/articles/360010693193-%E4%BB%80%E4%B9%88%E6%98%AF%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93)
 
 ### 步驟五：查看交易詳情
 
@@ -110,7 +110,7 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳同時寫入區塊鏈，但由於現時 
 關於單次最小提幣數量及手續費，可參考[【协议列表】- 费率说明](https://digifinex.zendesk.com/hc/zh-cn/articles/360000328422-%E8%B4%B9%E7%8E%87%E8%AF%B4%E6%98%8E-D%E7%BD%91-DigiFinex-com-)，又，提幣前必須先完成[雙重認證](https://docs.like.co/v/zh/user-guide/likecoin-token/registering-on-digifinex#3-google-)。
 {% endhint %}
 
-回到【步驟一】中「我的資產」頁面，點擊「添加提幣地址」添加你的 USDT 或 LikeCoin 轉帳地址，再按照指示即可完成提幣。
+回到【步驟一】中「我的資產」頁面尋找幣種，再點擊「添加提幣地址」添加你的 USDT 或 LikeCoin 轉帳地址，並按照指示即可完成提幣。
 
 ![](../../.gitbook/assets/digifinex-23.png)
 
@@ -127,4 +127,6 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳同時寫入區塊鏈，但由於現時 
 > [【提币】- 如何从D网提币到其他平台（网页版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360000521962-%E5%A6%82%E4%BD%95%E4%BB%8ED%E7%BD%91%E6%8F%90%E5%B8%81%E5%88%B0%E5%85%B6%E4%BB%96%E5%B9%B3%E5%8F%B0-%E7%BD%91%E9%A1%B5%E7%89%88-)
 
 > [【提币】- 如何从D网提币到其他平台（APP版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360002955534-%E5%A6%82%E4%BD%95%E4%BB%8ED%E7%BD%91%E6%8F%90%E5%B8%81%E5%88%B0%E5%85%B6%E4%BB%96%E5%B9%B3%E5%8F%B0-APP%E7%89%88-)
+
+> [【新用户必读】- 入门教学文章目录](https://digifinex.zendesk.com/hc/zh-cn/articles/360000499281--%E6%96%B0%E7%94%A8%E6%88%B7%E5%BF%85%E8%AF%BB-%E5%85%A5%E9%97%A8%E6%95%99%E5%AD%A6%E6%96%87%E7%AB%A0%E7%9B%AE%E5%BD%95)
 
