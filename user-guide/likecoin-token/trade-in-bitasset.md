@@ -40,7 +40,7 @@ Open the [Liker Land mobile app](https://like.co/in/getapp), click on the avatar
 
 ![On Liker Land mobile app select \[Send\] \(circled in red\)](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDK0P7Hgcu5426KHOXA%2F-MDK1cZDbgC4A89M-JaG%2Fbitasset-trade-6.png?alt=media&token=71be3481-e041-4740-9d60-f304a6f53e70)
 
-Go to the next page, click on the QR Code icon circled in red, the app will open camera mode for you to scan the QR Code, please scan the QRCode that you have on Step 1, cause you have to transfer LikeCon to BitAseet.
+Go to the next page, click on the QR Code icon circled in red, the app will open camera mode for you to scan the QR Code, please scan the QRCode that you have on Step 1, cause you have to transfer LikeCon to BitAsset.
 
 
 
