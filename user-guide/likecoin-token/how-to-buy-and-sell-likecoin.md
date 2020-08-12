@@ -12,5 +12,5 @@ description: A brief introduction about exchanging LikeCoin
 
 Some of the crypto exchanges do not support LikeCoin from the LikeCoin chain, listing the old version ERC-20 LikeCoin, e.g. [IDEX](https://idex.market/eth/like). BitAseet and MyEthShop provide ERC-20 gateway for exchanging, but after transaction the LikeCoin will be on the LikeCoin chain as well..
 
-Transferring LikeCoin to crypto exchange requires the use of Liker Land mobile app and [LIKE pay](https://docs.like.co/user-guide/liker-land/like-pay), please do download it first.
+Transferring LikeCoin to crypto exchange requires the use of Liker Land mobile app and [LIKE pay](https://docs.like.co/user-guide/liker-land/like-pay), please do [download](https://like.co/in/getapp) it first.
 
