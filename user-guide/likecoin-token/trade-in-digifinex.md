@@ -68,25 +68,25 @@ Click "Spot", input "Like" to the search box on the left, click LIKE/USDT and go
 
 ![](../../.gitbook/assets/digifinex-19-en.png)
 
-Choose your trading pairs and take a look at the order book. The figures in red are those orders who want to "Sell", for example below there are people who want to sell 500 LikeCoin at the price of 0.21 TWD/LIKE, and then some other people want to sell 52,565 LikeCoin at 0.212 TWD/LIKE. If you want to buy 50,000 LikeCoin, you can buy them all at 0.212 TWD/LIKE.
+![LIKE/USDT panel](../../.gitbook/assets/digifinex-likeusdt-en.png)
 
-If you want to sell your LikeCoin, you have to monitor the seller in green. For example below if you want to sell 50,000 LikeCoin, it is guaranteed to be sold at 0.0831 TWD/LIKE because the highest selling price is 0.0831 to buy 296,468 LikeCoin.
+Take a look at the order book on the right hand side. The figures in red are those orders who want to "Sell", for example below there are people who want to sell 424.57 LikeCoin at the price of 0.007200 USDT/LIKE, and then some other people want to sell 417.44 LikeCoin at 0.007300 USDT/LIKE. If you want to buy 500 LikeCoin, you can buy them all at 0.007300 USDT/LIKE
 
+If you want to sell your LikeCoin, you have to monitor the seller in green. For example below if you want to sell 100 LikeCoin, it is guaranteed to be sold at 0.006600 USDT/LIKE because the highest selling price is 0.006600 to buy 151.07 LikeCoin
 
-
-查看畫面右邊的「交易掛單」上方紅色列出的是掛出在市場上的「賣單」，以下圖的例子舉例，有人願意以 0.007200 USDT/LIKE 的價格賣出 500 LikeCoin，然後再有人願意以 0.007300 USDT/LIKE 的價格賣出 417.44 LikeCoin。假設你想買入 900 LikeCoin，你便可以最高價 0.007300 USDT/LIKE 的價格全數買入
-
-
-
-若你想賣出 LikeCoin ，你便要觀察綠色的「買單」找買家。以下圖為例，假設你想要賣出 200 LIKE，可保證以 0.007100 USDT/LIKE 的價格賣出，因為目前有人出的最高價是 0.007100 購買 300 LikeCoin
-
-總而言之，賣 LikeCoin 時看下方綠色的買單；買 LikeCoin 時看上方紅色的賣單，此外你可以參考下方的「最新成交」數據
-
-
+To make it simple, if you want to sell, check out the orders below in green; if you want to buy, check out the orders above in red. You can also take a lot at the "Latest" transaction statistic
 
 ![](../../.gitbook/assets/digifinex-20-en.png)
 
-決定了買賣的價錢和數量後，可在下方的「現貨交易」欄下單，以「限價交易」為例子說明
+Once you decide the price and amount to buy or sell, go to the "Spot" at the bottom to confirm. Let use "Limit Price" as an example
+
+You have to input 3 parameters:
+
+* Select the right action for "Buy LIKE" or "Sell LIKE
+* Input "Price": using the order book above as example, fill in 0.0831 for selling LikeCoin
+* Input "Amount": Fill in 200 for selling 200 LikeCoin, or adjust the percentage e.g. 100%, 50%, etc
+
+
 
 你需要輸入三項資料：
 
@@ -96,7 +96,7 @@ If you want to sell your LikeCoin, you have to monitor the seller in green. For 
 
 ![](../../.gitbook/assets/digifinex-21.png)
 
-資料填妥後，系統會自動計算成交額。確認無誤後，點擊「賣出 LIKE」，操作完成！
+The system will calculate "Total", confirm if they are correct or not, then click "Sell Like" to complete the transaction. 
 
 #### DigiFinex 官方教學
 
