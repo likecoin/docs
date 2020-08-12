@@ -8,19 +8,19 @@ DigiFinex 是一所在 CoinMarketCap 排名 20+，交易及流通量均位列國
 
 ### 步驟一：開立 DigiFinex 帳戶的 LikeCoin 錢包收款地址
 
-第一步要把你的 LikeCoin 轉賬到 DigiFinex 交易所，點擊 DigiFinex 網站右上角的人像「進入用戶中心」，再按「我的資產」，並在搜尋欄輸入 "Like"，再按「充幣」
+第一步要把你的 LikeCoin 轉賬到 DigiFinex 交易所，點擊 DigiFinex 網站右上角的人像「進入用戶中心」，再點選「我的資產」，並在搜尋欄輸入 "Like"，再點選「充幣」
 
 ![](../../.gitbook/assets/digifinex-13.png)
 
-跳轉至「讚賞幣 \( LIKE \) 充值頁面，按「生成充幣地址」，系統會產在你在 DigiFinex 的 LikeCoin 錢包地址。你也可以在下方查看你的充幣歷史
+跳轉至「讚賞幣 \( LIKE \) 充值頁面，點選「生成充幣地址」，系統會產在你在 DigiFinex 的 LikeCoin 錢包地址。你也可以在下方查看你的充幣歷史
 
 ![](../../.gitbook/assets/digifinex-14.png)
 
-cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址，按「顯示二維碼」就可以不用人手輸入這串地址了。而 TagMemo 亦是很重要的原素，因為沒有它，DigiFinex 就不能辨識你的存幣
+cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址，點選「顯示二維碼」就可以不用人手輸入這串地址了。而 TagMemo 亦是很重要的原素，因為沒有它，DigiFinex 就不能辨識你的存幣
 
 ![](../../.gitbook/assets/digifinex-15.png)
 
-按「顯示二維碼」出現你的 LikeCoin 錢包二維碼。
+點選「顯示二維碼」出現你的 LikeCoin 錢包二維碼。
 
 ![](../../.gitbook/assets/digifinex-16.png)
 
@@ -30,15 +30,13 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 
 ![&#x5728; Liker Land &#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;&#x9322;&#x5305;&#x4ECB;&#x9762;&#x9078; \[Send\]&#xFF08;&#x7D05;&#x5708;&#xFF09;](../../.gitbook/assets/bitasset-trade-6.png)
 
-進入下一頁後，點下圖紅圈位置的二維碼圖示。app 會跳進照相機介面讓你掃描二維碼，請掃描【步驟一】中你的 DigiFinex 帳戶 LikeCoin 錢包的二維碼
+進入下一頁後，點下圖紅圈位置的二維碼圖示。app 會跳進照相機介面讓你掃描二維碼，請掃描【步驟一】中你的 DigiFinex 帳戶 LikeCoin 錢包二維碼
 
 ![&#x9EDE;&#x4E0A;&#x5716;&#x7D05;&#x5708;&#x4F4D;&#x7F6E;&#x6253;&#x958B;&#x7167;&#x76F8;&#x6A5F;](../../.gitbook/assets/bitasset-trade-7.png)
 
 輸入你想要轉帳的 LikeCoin 金額，然後點擊「確認」 / \[Confirm\]
 
 ![](../../.gitbook/assets/bitasset-trade-8.png)
-
-
 
 接下來便要等 DigiFinex 確認收款了。
 
@@ -56,35 +54,47 @@ DigiFinex 要求將 Tag/Memo 於轉帳同時寫入區塊鏈，但由於現時 Li
 
 ![](../../.gitbook/assets/digifinex-17.png)
 
-按
+點選\[「行情」，在搜尋欄輸入 "Like" 出現走勢圖表（下圖由於 LikeCoin 剛上市，故未有顯示）
 
 ![](../../.gitbook/assets/digifinex-18.png)
 
+點選「現貨交易」，在左手邊的搜尋欄輸入 "Like"，點擊 LIKE/USDT 並進入交易頁面
 
+![](../../.gitbook/assets/digifinex-19.png)
 
-選好交易對後，看一看畫面中部的「掛單簿」\( order book \)。上方紅色列出的是掛出在市場上的「賣單」，以下圖的例子舉例，有人願意以 0.21 TWD/LIKE 的價格賣出 252 LikeCoin，然後再有人願意以 0.212 TWD/LIKE 的價格賣出 52,565 LikeCoin。假設你想買入 50,000 LikeCoin，你便可以最高價 0.212 TWD/LIKE 的價格全數買入。
+![&#x4EA4;&#x6613;&#x9801;&#x9762;](../../.gitbook/assets/digifinex-likeusdt.png)
 
-同樣道理，若你想賣出 LikeCoin ，你便要觀察「買單」找買家。以下圖為例，假設你想要賣出 50,000 LIKE，可保證以 0.0831 TWD/LIKE 的價格賣出，因為目前有人出的最高價是 0.0831 購 296,468枚 LikeCoin。
+查看畫面右邊的「交易掛單」上方紅色列出的是掛出在市場上的「賣單」，以下圖的例子舉例，有人願意以 0.007200 USDT/LIKE 的價格賣出 500 LikeCoin，然後再有人願意以 0.007300 USDT/LIKE 的價格賣出 417.44 LikeCoin。假設你想買入 900 LikeCoin，你便可以最高價 0.007300 USDT/LIKE 的價格全數買入
 
-![&#x8CE3; LikeCoin &#x6642;&#x770B;&#x4E0B;&#x65B9;&#x7DA0;&#x8272;&#x7684;&#x8CB7;&#x55AE;&#xFF1B;&#x8CB7; LikeCoin &#x6642;&#x770B;&#x4E0A;&#x65B9;&#x7D05;&#x8272;&#x7684;&#x8CE3;&#x55AE;](../../.gitbook/assets/bitasset-trade-11.png)
+若你想賣出 LikeCoin ，你便要觀察綠色的「買單」找買家。以下圖為例，假設你想要賣出 200 LIKE，可保證以 0.007100 USDT/LIKE 的價格賣出，因為目前有人出的最高價是 0.007100 購買 300 LikeCoin
 
-心中決定了買賣的價錢和數量後，在左下方的「訂單表」下單，這裡我以「限價委託」為例子說明。
+總而言之，賣 LikeCoin 時看下方綠色的買單；買 LikeCoin 時看上方紅色的賣單，此外你可以參考下方的「最新成交」數據
 
-你需要輸入三個資料：
+![](../../.gitbook/assets/digifinex-20.png)
 
-1. 確認選對了「買入 Like」或「賣出 Like」，這一步很多時候也會被忽略了然後做錯事
-2. 輸入價格。以上圖的掛單簿為例，若我想賣出 LikeCoin 這裡應填上 "0.0831"
-3. 輸入數量。若我想賣出 50,000 LikeCoin 這裡應填上 50000。你也可以簡單一點選擇庫存的百份比，例如 100%，50% 等
+決定了買賣的價錢和數量後，可在下方的「現貨交易」欄下單，以「限價交易」為例子說明
+
+你需要輸入三項資料：
+
+1. 確認選對了「買入 LIKE」或「賣出 LIKE」，這一步很多時候也會被忽略了然後做錯事
+2. 輸入價格。以上圖的掛單簿為例，若我想賣出 LikeCoin 這裡應填上 "0.007100"
+3. 輸入數量。若我想賣出 200 LikeCoin 這裡應填上 200。你也可以隨意選擇庫存的百份比
+
+![](../../.gitbook/assets/digifinex-21.png)
 
 資料填妥後，系統會自動計算成交額。確認無誤後，點擊「賣出 LIKE」，操作完成！
 
-![](../../.gitbook/assets/bitasset-trade-12.png)
-
 ### 步驟五：查看交易詳情
 
-交易完成後，你可在畫面下方說「歷史成交」，查看交易的詳情，你的錢包也會反映餘額。
+交易完成後，你可在畫面下方說「歷史委托」，查看交易的詳情，你的錢包亦會反映餘額。
 
-![](../../.gitbook/assets/bitasset-trade-13.png)
+![](../../.gitbook/assets/digifinex-22.png)
+
+### 步驟六：提幣
+
+
+
+
 
 #### BitAsset 官方教學
 
