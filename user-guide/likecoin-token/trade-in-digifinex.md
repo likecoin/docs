@@ -4,19 +4,19 @@ description: Buy and Sell LikeCoin with DigiFinex
 
 # Trade in DigiFinex
 
-DigiFinex is a top 20+ exchange in CoinMarketCap, trade and exchange volume are in top level, providing LIKE/USDT trading pairs. If you do not have a DigiFinex account, please take a look at [this](https://docs.like.co/user-guide/likecoin-token/registering-on-digifinex). Moreover, you have to download the [Liker Land mobile app](https://docs.like.co/user-guide/liker-land/liker-land-mobile-app) to send/receive LikeCoin.
+DigiFinex is a top 20+ exchange in CoinMarketCap, trade and exchange volume are on top level, providing LIKE/USDT trading pairs. If you do not have a DigiFinex account, please take a look at [this](https://docs.like.co/user-guide/likecoin-token/registering-on-digifinex). Moreover, you have to download the [Liker Land mobile app](https://docs.like.co/user-guide/liker-land/liker-land-mobile-app) to send/receive LikeCoin.
 
-### Step 1: Create your LikeCoin wallet in DigiFinex
+### Step 1: Create your LikeCoin wallet on DigiFinex
 
-First of all you have to create your wallet address on DigiFinex so as to transfer LikeCoin to the exchange. Click on the top right hand corner avatar icon and click "User Center", then click "My Balance",  on the search box input "Like" and click "Deposit"
+First of all you have to create your wallet address on DigiFinex so as to transfer LikeCoin to the exchange. Click on the top right hand corner avatar icon and click "User Center", then click "My Balance". On the search box, input "Like", then click "Deposit"
 
 ![](../../.gitbook/assets/digifinex-13-en.png)
 
-Bring you to the page "LikeCoin \(LIKE\) Deposit", on "Generate deposit address". You can also check your "Deposit History" underneath
+This action brings you to the page "LikeCoin \(LIKE\) Deposit", click "Generate deposit address". You can also check your "Deposit History" underneath
 
 ![](../../.gitbook/assets/digifinex-14-en.png)
 
-The address that starts with cosmos is your DigiFinex LikeCoin wallet just created, click on the "Show QR Code" so that you don't have to input the cosmos address manually. Tag/Memo is also very important because it is mandatory for DigiFinex to identify your deposit
+The address that starts with cosmos is your DigiFinex LikeCoin wallet just created, click on the "Show QR Code" so that you don't have to input the cosmos address manually. **Tag/Memo is also very important** because it is mandatory for DigiFinex to identify your deposit
 
 ![](../../.gitbook/assets/digifinex-15-en.png)
 
@@ -41,7 +41,7 @@ Input the amount of LikeCoin that you want to transfer, then click \[Confirm\]
 Next step is to wait for DigiFinex to confirm the transfer.
 
 {% hint style="danger" %}
-DigiFinex requires you to input your "Tag/Memo' into the chain during deposit, since Liker Land app does not support this function at the current moment \(enhancement is coming on next version\), please contact DigiFinex Customer Service after deposits LikeCoin.
+DigiFinex requires you to input your "Tag/Memo' into the chain during deposit, since Liker Land app does not support this function at the current moment \(enhancement is coming on next version\), please contact [DigiFinex Customer Service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service) after deposits LikeCoin.
 {% endhint %}
 
 #### DigiFinex Official Tutorial
@@ -74,7 +74,7 @@ Take a look at the order book on the right hand side. The figures in red are tho
 
 If you want to sell your LikeCoin, you have to monitor the seller in green. For example below if you want to sell 100 LikeCoin, it is guaranteed to be sold at 0.006600 USDT/LIKE because the highest selling price is 0.006600 to buy 151.07 LikeCoin
 
-To make it simple, if you want to sell, check out the orders below in green; if you want to buy, check out the orders above in red. You can also take a lot at the "Latest" transaction statistic
+To make it simple, if you want to sell, check out the orders in green; if you want to buy, check out the orders in red. You can also take a look at the "Latest" transaction statistic
 
 ![](../../.gitbook/assets/digifinex-20-en.png)
 
@@ -127,4 +127,6 @@ Going back to "My Balance" page in Step 1, click "Add withdraw address" to creat
 > [【Withdraw】- How to Withdraw in Website](https://digifinex.zendesk.com/hc/en-us/articles/360000521962-How-to-withdraw-In-Website-)
 
 > [【Withdraw】- How to withdraw in APP](https://digifinex.zendesk.com/hc/en-us/articles/360002955534-How-to-withdraw-In-APP-)
+
+
 
