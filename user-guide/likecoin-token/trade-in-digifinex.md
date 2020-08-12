@@ -110,7 +110,7 @@ Go to the bottom of the screen and find "Trade History" to check out the transac
 About the minimum withdrawal requirement and withdrawal free, you can check out 【[Contract List】- Fees](https://digifinex.zendesk.com/hc/en-us/articles/360000328422-Fee-Structure-on-DigiFinex). Please also note that you have to complete 2FA before withdrawal.
 {% endhint %}
 
-Going back to "My Balance" page in Step 1, click "Add withdraw address" to create your USDT or LikeCoin address for transfer, and follow the step to complete withdrawal.
+Going back to "My Balance" page in Step 1, select the type of token and click "Add withdraw address" to create your USDT or LikeCoin address for transfer, and follow the step to complete withdrawal.
 
 ![](../../.gitbook/assets/digifinex-23-en.png)
 
