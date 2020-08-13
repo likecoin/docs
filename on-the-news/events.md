@@ -226,7 +226,7 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 {% endtab %}
 
 {% tab title="2018" %}
-### 12/20 eCoinomy Blockchain And Cryptocurrency Platform
+### 12/20 eCoinomy Blockchain And Cryptocurrency Platform[](https://www.eventbrite.hk/e/48019296007#) - eCoinomy開講: 2019 x 中國 x 香港 x 加密貨幣
 
 [eCoinomy開講: 2019 x 中國 x 香港 x 加密貨幣](https://www.meetup.com/eCoinomy-Blcokchain-And-Cryptocurrency-Platform)
 
@@ -242,7 +242,7 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2499857530240943" %}
 
-### 12/16 9up.io
+### 12/16 9up.io Regular Meetup - December
 
 [9up.io Regular Meetup - December](https://www.eventbrite.com/e/9upio-regular-meetup-december-tickets-52932094319#)
 
@@ -252,7 +252,7 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://twitter.com/likecoin/status/1074276835003789312/photo/1" %}
 
-### 12/08 Creative Commons Hong Kong
+### 12/08 Creative Commons Hong Kong 10th Anniversary Celebration with Online Civic Engagement and Creativity Award 2018
 
 [香港共享創意十周年慶祝典禮 暨 網絡公民獎2018](https://hk.creativecommons.org/blog/2018)
 
@@ -264,7 +264,7 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://twitter.com/likecoin/status/1071468868139401216" %}
 
-### 11/05 The Hong Kong General Chamber of Commerce
+### 11/05 The Hong Kong General Chamber of Commerce - The Chamber’s Crypto Marketplace @ Happy Hour
 
 [The Chamber’s Crypto Marketplace @ Happy Hour](https://www.chamber.org.hk/en/information/the-bulletin_detail.aspx?id=259)
 
@@ -284,11 +284,11 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.youtube.com/watch?v=gxI6iZycPUg" %}
 
-### 9/9 比持財經網
+### 9/9 比持財經網 － 牛市共享课
 
 [【牛市共享课】赞赏币创始人高重建（Kin ko）：《 化赞为赏，回馈创作》](https://www.btcmoney.cc/detail/37383.html)
 
-### 08/21 LikeCoin 角川國際動漫教育
+### 08/21 LikeCoin 角川國際動漫教育 － 「化讚為賞 ─ 為創作者帶來被動收入」台北交流會
 
 [「化讚為賞 ─ 為創作者帶來被動收入」台北交流會](https://oice.kktix.cc/events/likecoin)
 
@@ -296,9 +296,9 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [角川 x oice 視覺小說座談會－簡錄](https://v.oice.com/oice-kadokawa-visualnovel-a6315f0371ff)
 
-### 07/21 TiDeal
+### 07/21 TiDeal － 港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？
 
-[港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？](https://www.facebook.com/TiDeal.official/posts/294554014631245)
+[港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？](https://www.eventbrite.hk/e/48019296007#)
 
 {% embed url="https://www.facebook.com/TiDeal.official/posts/294554014631245" %}
 
@@ -306,7 +306,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [Reinventing the Like. Reward contents by Proof of Creativity](https://medium.com/likecoin/likecoin-world-blockchain-conference-singapore-july-17-18-bfbe00556209)
 
-### 07/13 DRC金融科技
+### 07/13 DRC金融科技 － 直播\|创始人面对面：DRC-LikeCoin
 
 [直播\|创始人面对面：DRC-LikeCoin](https://www.jianshu.com/p/1883bdb216f7)
 
@@ -316,13 +316,13 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [7+1 Entrepreneurship for Design & Creative Business Certificate Programme 2018](https://www.hkdesignincubation.org/?route=happening-detail&id=Incubatees%20joining%207plus1%20Programme%202018-06-28)
 
-### 6/22 DRC金融科技
+### 6/22 DRC金融科技 － DRC尽调 LikeCoin 赞赏币
 
 [千聊直播\|LikeCoin项目分享会](https://twitter.com/communitydrc/status/1010150430616125440)
 
 ### 06/17 Hong Kong Open Source Conference 2018
 
-[Aludirk Wong: Blockchain for creative contents- What we do in LikeCoin](https://hkoscon.org/2018/topic/blockchain-creative-contents-what-we-do-likecoin/)
+[Blockchain for creative contents- What we do in LikeCoin](https://hkoscon.org/2018/topic/blockchain-creative-contents-what-we-do-likecoin/)
 
 [Blockchain for creative contents](https://medium.com/likecoin/blockchain-for-creative-contents-9fac60c38230)
 
@@ -332,13 +332,13 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 ### 06/16 Hong Kong Open Source Conference 2018
 
-[Chung Wu: Dapp: a new approach to combine blockchain and cryptography into web application](https://hkoscon.org/2018/topic/dapp-new-approach-combine-blockchain-and-cryptography-web-application/)
+[Dapp: a new approach to combine blockchain and cryptography into web application](https://hkoscon.org/2018/topic/dapp-new-approach-combine-blockchain-and-cryptography-web-application/)
 
 {% embed url="https://www.youtube.com/watch?v=WmPNapXj1Ig" %}
 
 {% embed url="https://www.slideshare.net/kinko2/hkos-2018" %}
 
-### 05/09 True Global Ventures 4 Plus
+### 05/09 True Global Ventures 4 Plus -  **Disruption in Financial Services**
 
 [Opensource projects](https://www.tgv4plus.com/hong-kong-9-10-may-2018.html)
 
@@ -346,7 +346,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/watch/live/?v=2323291704564194" %}
 
-### 05/05 ZEROZONE
+### 05/05 ZEROZONE - LikeCoin 技術原理與經濟模型
 
 [ZEROZONE x LikeCoin \| 化Like為Coin：LikeCoin 技術原理與經濟模型](https://zerozone.co/portfolio/zerozone-x-likecoin-%e5%8c%96like%e7%82%bacoin/)
 
@@ -354,7 +354,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://twitter.com/likecoin/status/988352423637889026" %}
 
-### 04/21 區塊客 blockcast.it
+### 04/21 區塊客 blockcast.it － 《區塊客SHOWTIME》- 探討ICO標準化與項目分享
 
 [《區塊客SHOWTIME》- 探討ICO標準化與項目分享](https://www.accupass.com/event/1804111103131401034333)
 
@@ -372,7 +372,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.youtube.com/watch?v=lRaqnbDRgLg" %}
 
-### 03/20 廣告狂人
+### 03/20 廣告狂人 － LikeCoin 傳媒界研討會
 
 [LikeCoin 傳媒界研討會](https://www.facebook.com/groups/likecoin/permalink/2049837701928550/)
 
@@ -386,7 +386,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.youtube.com/watch?v=edu235Cytks" %}
 
-### 03/08 創夢市集
+### 03/08 創夢市集 － 媒體與獨立創作者如何透過區塊鏈合作共贏
 
 [媒體與獨立創作者如何透過區塊鏈合作共贏](https://www.accupass.com/event/1803030534252010918200)
 
@@ -394,7 +394,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.youtube.com/watch?v=5y1y9t1fxwo" %}
 
-### 03/01 Open Source Hong Kong
+### 03/01 Open Source Hong Kong － Open Source Developer Meetup \#12
 
 [Open Source Developer Meetup \#12](https://opensource.hk/developer-meetup-12/)
 
@@ -402,17 +402,17 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.slideshare.net/AludirkWong/in-open-source-developer-meetup-12" %}
 
-### 03 PolyU InnoHub
+### 03 PolyU InnoHub - FinTech Training
 
 [FinTech Training \(March – April 2018\)](https://www.polyu.edu.hk/ife/corp/en/publications/entre_newsletter.php?eeid=19877)
 
-### 02/28 序言書室
+### 02/28 序言書室 － 區塊鏈如何為創意帶來回報
 
 [區塊鏈如何為創意帶來回報](https://www.facebook.com/events/%E5%BA%8F%E8%A8%80%E6%9B%B8%E5%AE%A4-hong-kong-reader-bookstore/%E5%8D%80%E5%A1%8A%E9%8F%88%E5%A6%82%E4%BD%95%E7%82%BA%E5%89%B5%E6%84%8F%E5%B8%B6%E4%BE%86%E5%9B%9E%E5%A0%B1/138132753665073/)
 
 {% embed url="https://www.facebook.com/watch/live/?v=809296619272316" %}
 
-### 02/26 Cityu Apps Lab
+### 02/26 Cityu Apps Lab - Workshop on Blockchain - Case Study: LikeCoin
 
 [Blockchain - LikeCoin Workshop](https://cityu-hall2.github.io/it/feb2018/poster.jpeg)
 
@@ -427,6 +427,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 [LikeCoin Sharing by kin ko at BLOOM](https://medium.com/likecoin/likecoin-sharing-by-kin-ko-at-bloom-1e5865386ac6)
 
 [LikeCoin x BLOOM 分享會](https://medium.com/likecoin/likecoin-bloom-62c1b275acb1)
+
+{% embed url="https://www.slideshare.net/kinko2/likecoin-sharing-at-bloom-hong-kong-20180223" %}
 {% endtab %}
 
 {% tab title="2017" %}
@@ -443,8 +445,6 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 {% embed url="https://www.slideshare.net/kinko2/ss-82136576" %}
 {% endtab %}
 {% endtabs %}
-
-
 
 
 
