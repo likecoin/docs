@@ -288,8 +288,6 @@
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2482739785286051" %}
 
-
-
 ### 11/17 JavaScript Developer Conference JSDC 2018
 
 [初嘗去中化應用 - Web3.js入門](https://2018.jsdc.tw/agenda.html)
