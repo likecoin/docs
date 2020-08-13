@@ -156,6 +156,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://www.facebook.com/Liker.Land/videos/689971981436774/" %}
 
+{% embed url="https://twitter.com/likecoin/status/1103937697729540096/photo/1" %}
+
 {% embed url="https://www.youtube.com/watch?v=WN7mV9nCR7I" %}
 
 ### 5/21 讚賞公民基金會
@@ -202,6 +204,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [從面書社群到讚賞公民 暨LikeCoin一周年聚會](https://www.facebook.com/Liker.Land/posts/2549752591918103)
 
+{% embed url="https://twitter.com/likecoin/status/1100937248424419328/photo/1" %}
+
 ### 02/25
 
 [Civic Liker Community Meetup \(paid in LikeCoin!\)](https://www.facebook.com/Liker.Land/photos/a.2358370647722966/2549288198631209/)
@@ -217,9 +221,17 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 ### 01/28 9up.io
 
 [9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application](https://www.eventbrite.com/e/9upio-blockchain-seminar-series-bc1110-blockchain-everyday-application-tickets-54397023963#)
+
+{% embed url="https://twitter.com/likecoin/status/1089848953527361540/photo/1" %}
 {% endtab %}
 
 {% tab title="2018" %}
+### 12/20 eCoinomy Blockchain And Cryptocurrency Platform
+
+[eCoinomy開講: 2019 x 中國 x 香港 x 加密貨幣](https://www.meetup.com/eCoinomy-Blcokchain-And-Cryptocurrency-Platform)
+
+{% embed url="https://twitter.com/likecoin/status/1075771955272343552/photo/1" %}
+
 ### 12/17 EASY.ONE
 
 [2018 BLOCKCHAIN SUMMIT 台北區塊鏈產官學高峰會](https://www.accupass.com/event/1811270640381142655124)
