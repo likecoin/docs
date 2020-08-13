@@ -330,11 +330,11 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [LikeCoin创始人高重建：相信价值投资的 DRC 社群](https://mp.weixin.qq.com/s?__biz=MzU1NTM1ODc1MQ==&mid=2247485082&idx=3&sn=d5cfb383151d6714ab4c95b2108dc684&chksm)
 
-### 6/28 Design Incubation Programme
+### 06/28 Design Incubation Programme
 
 [7+1 Entrepreneurship for Design & Creative Business Certificate Programme 2018](https://www.hkdesignincubation.org/?route=happening-detail&id=Incubatees%20joining%207plus1%20Programme%202018-06-28)
 
-### 6/22 DRC金融科技 － DRC尽调 LikeCoin 赞赏币
+### 06/22 DRC金融科技 － DRC尽调 LikeCoin 赞赏币
 
 [千聊直播\|LikeCoin项目分享会](https://twitter.com/communitydrc/status/1010150430616125440)
 
@@ -356,6 +356,10 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.slideshare.net/kinko2/hkos-2018" %}
 
+### 05/15 Korean Government Talk
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2326785934214771" %}
+
 ### 05/09 True Global Ventures 4 Plus -  **Disruption in Financial Services**
 
 [Opensource projects](https://www.tgv4plus.com/hong-kong-9-10-may-2018.html)
@@ -367,6 +371,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 ### 05/05 ZEROZONE - LikeCoin 技術原理與經濟模型
 
 [ZEROZONE x LikeCoin \| 化Like為Coin：LikeCoin 技術原理與經濟模型](https://zerozone.co/portfolio/zerozone-x-likecoin-%e5%8c%96like%e7%82%bacoin/)
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2320981438128554" %}
 
 ### 04/23 CUHK
 
