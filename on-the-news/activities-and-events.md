@@ -52,7 +52,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=i4IOJrnutXU" %}
 
-### 3/14 g0v tw hackath38n
+### 03/14 g0v tw hackath38n
 
 [g0v tw hackath38n — 中場短講 — 讚賞公民共和國 Republic of Liker Land ／ kin ko — 在家黑客松](https://g0v.hackmd.io/c/g0v-hackath38n/)
 
@@ -68,7 +68,7 @@
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2829178830642143" %}
 
-### 01/03 路向四肢傷殘人士協會
+### 01/03 路向四肢傷殘人士協會 LikeCoin工作坊
 
 [LikeCoin工作坊](https://www.4limb.org/2019/12/17/likecoinworkshop/#)
 
