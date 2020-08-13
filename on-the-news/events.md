@@ -210,6 +210,10 @@
 
 [Ethereum Supermeetup!](https://www.facebook.com/Liker.Land/photos/a.2358370647722966/2559758187584210/?type=3&theater)
 
+### 03/12 LikeCoin Hong Kong Meetup － 廣東話創作
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2559163857643643" %}
+
 ### 3/9 香港中文大學動漫畫研究社 － 次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作
 
 [次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作](https://hkdoujin.com/2019/03/8992/)
