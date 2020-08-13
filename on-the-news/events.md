@@ -10,7 +10,7 @@
 
 ### 06/13 Hong Kong Open Source Conference 2020
 
-[Aludirk Wong: Decentralized content registry: expanding IPFS functionality with cosmos based blockchain](https://hkoscon.org/2020/topics/decentralized-content-registry-expanding-ipfs-functionality-cosmos-based-blockchain)
+[Decentralized content registry: expanding IPFS functionality with cosmos based blockchain](https://hkoscon.org/2020/topics/decentralized-content-registry-expanding-ipfs-functionality-cosmos-based-blockchain)
 
 {% embed url="https://www.youtube.com/watch?v=mS2i2ptqJM8" %}
 
@@ -18,7 +18,7 @@
 
 ### 06/12 Hong Kong Open Source Conference 2020
 
-[William Chong: Open by default: trying to run a startup with open source culture in mind](https://hkoscon.org/2020/topics/open-default-trying-run-startup-open-source-culture-mind)
+[Open by default: trying to run a startup with open source culture in mind](https://hkoscon.org/2020/topics/open-default-trying-run-startup-open-source-culture-mind)
 
 {% embed url="https://www.youtube.com/watch?v=o\_U3JaNgzVk" %}
 
@@ -34,13 +34,13 @@
 
 {% embed url="https://www.youtube.com/watch?v=Qyapcuur6Lk" %}
 
-### 5/21 北科大-葛如鈞
+### 5/21 北科大-葛如鈞 － 區塊鏈技術與應用（通識）2020/05/21
 
 \[錄影\] 區塊鏈技術與應用（通識）2020/05/21（影音不同步😢）
 
 {% embed url="https://youtu.be/oXnFTgy7NRQ?t=1757" %}
 
-### 05/08 北科大-葛如鈞
+### 05/08 北科大-葛如鈞 － 你還不知道「區塊鏈」是什麼？區塊鏈技術與兩大應用解析
 
 北科大 2020/05/08 區塊鏈講座錄影（完整版）- 高重建x徐嘉凱x葛如鈞
 
@@ -54,7 +54,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=-T5Qb6XXZm8" %}
 
-### 01/15 數位時代【創業小聚】
+### 01/15 數位時代【創業小聚】－【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！
 
  [【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)（約 1:37 開始）
 
