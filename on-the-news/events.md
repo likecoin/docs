@@ -96,6 +96,10 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [2019 Q4 季敘： 新北區塊新動能](https://www.accupass.com/event/1909200208204486024680)
 
+### 10/16 區塊客 Blockcast
+
+[ 【區塊客學堂】區塊鏈社會學與實踐✍️](https://www.accupass.com/event/1910160816541336051904)
+
 ### 10/12 WordCamp Hong Kong 2019
 
 [Edmond Yu: 404 Not Found遇得多；402有見過麼？](https://2019.hongkong.wordcamp.org/files/2019/10/06-404-Not-Found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F-Edmond-Yu.pdf)
