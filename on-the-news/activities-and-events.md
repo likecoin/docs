@@ -150,7 +150,15 @@
 
 ### 09/18 民院教育 － 【DCH2201】區塊鏈社會學 Blockchain Sociology
 
-[ 【DCH2201】區塊鏈社會學 Blockchain Sociology](https://www.facebook.com/intercommoneducation/posts/1786558478157117/)
+{% embed url="https://www.facebook.com/intercommoneducation/posts/1786558478157117/" %}
+
+### 08/18 COSCUP 2019
+
+[區鏈塊如何幫助打擊虛假訊息（假新聞） BoF](https://coscup.org/2019/programs/02074a14-c171-42e8-895a-f000e2959c18/)
+
+[HackMD Note](https://hackmd.io/oF80EGROQB2F0ka5yrc0Aw)
+
+{% embed url="https://youtu.be/EJs99IFiLfA?t=583" %}
 
 ### 08/17 COSCUP 2019
 
@@ -159,6 +167,8 @@
 [Hack MD Note](https://hackmd.io/@coscup/HyeAAzgNr/%2F%40coscup%2FBkQ2CGeVB)
 
 {% embed url="https://www.youtube.com/watch?v=cMessqiYKs4" %}
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2675736805986347" %}
 
 ### 07/06 LikeCoin Hong Kong Meetup － 讚賞公民小聚
 
