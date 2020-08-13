@@ -104,7 +104,7 @@
 
 {% embed url="https://www.facebook.com/blockcast.it/photos/a.967244173660648/967245956993803/?type=3" %}
 
-10/21 區塊客 Blockcast － 深入認識 IPFS 及動手實作技術小聚
+### 10/21 區塊客 Blockcast － 深入認識 IPFS 及動手實作技術小聚
 
 [深入認識 IPFS 及動手實作技術小聚](https://www.accupass.com/event/1910020715311900809277)
 
@@ -120,13 +120,15 @@
 
 {% embed url="https://wordpress.tv/2019/10/25/edmond-yu-404-not-found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F/" %}
 
-{% embed url="https://twitter.com/likecoin/status/1183643893931208704" %}
+{% embed url="https://www.facebook.com/Liker.Land/posts/2724967981063229" %}
 
-### 10/11 《聖人大盜》特映會
+### 10/11 《鏈結新世界：區塊鏈落地應用》《聖人大盜》特映會
 
 [區塊鏈商戰電影《聖人大盜》特映會](https://eatgether.com/meal/203060)
 
 [全球領先數位資產交易所BitAsset「鏈結新世界：區塊鏈落地應用」論壇圓滿落幕 從電影看未來、窺探產業新趨勢](https://www.cna.com.tw/postwrite/Detail/262532.aspx)
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2726129987613695" %}
 
 {% embed url="https://www.youtube.com/watch?v=Bd3kSy8fTw0&feature=youtu.be" caption="【小比兒】項目活動專場\#3 一起來看聖人大盜吧 feat徐嘉凱.丁丁" %}
 
@@ -145,6 +147,10 @@
 [Hack MD Note](https://hackmd.io/@coscup/HyeAAzgNr/%2F%40coscup%2FBkQ2CGeVB)
 
 {% embed url="https://www.youtube.com/watch?v=cMessqiYKs4" %}
+
+### 07/06 LikeCoin Hong Kong Meetup － 讚賞公民小聚
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2644225359137492" %}
 
 ### 06/15 Hong Kong Open Source Conference 2019
 
@@ -172,7 +178,9 @@
 
 {% embed url="https://www.youtube.com/watch?v=WN7mV9nCR7I" %}
 
-{% embed url="https://twitter.com/likecoin/status/1103937697729540096/photo/1" %}
+{% embed url="https://www.facebook.com/Liker.Land/posts/2614906208736074" %}
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2618641418362553" %}
 
 ### 5/21 讚賞公民基金會 － 網媒的未來：免費和訂閱制以外的第三條路
 
@@ -181,6 +189,12 @@
 [\[活動筆記\] 網媒的未來：免費和訂閱制以外的第三條路](https://matters.news/@mingnhsu/%E6%B4%BB%E5%8B%95%E7%AD%86%E8%A8%98-%E7%B6%B2%E5%AA%92%E7%9A%84%E6%9C%AA%E4%BE%86-%E5%85%8D%E8%B2%BB%E5%92%8C%E8%A8%82%E9%96%B1%E5%88%B6%E4%BB%A5%E5%A4%96%E7%9A%84%E7%AC%AC%E4%B8%89%E6%A2%9D%E8%B7%AF-zdpuAyQCnxBLC8b58TBNdbceBmktnSmXZM91sCZ5swKaUAwNc)
 
 {% embed url="https://www.youtube.com/watch?v=FOMbZ-GpirU" %}
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2609497219276973" %}
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2610147002545328" %}
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2610128165880545" %}
 
 ### 05/11 Creative Commons Global Summit 2019
 
@@ -291,8 +305,6 @@
 [香港共享創意十周年慶祝典禮 檢閱豐盛成果](https://medium.com/internet-meme/%E9%A6%99%E6%B8%AF%E5%85%B1%E4%BA%AB%E5%89%B5%E6%84%8F%E5%8D%81%E5%91%A8%E5%B9%B4%E6%85%B6%E7%A5%9D%E5%85%B8%E7%A6%AE-%E6%AA%A2%E9%96%B1%E8%B1%90%E7%9B%9B%E6%88%90%E6%9E%9C-ce00608cdb75)
 
 {% embed url="https://www.pscp.tv/inmediahk/1yoKMjOMjLWGQ?t=1h26m4s" %}
-
-{% embed url="https://www.facebook.com/Liker.Land/videos/461855731402800/" %}
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2493102044249825" %}
 
