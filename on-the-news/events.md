@@ -248,7 +248,7 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [HIGHLIGHTS OF 9UP.IO REGULAR MEETUP – DECEMBER](https://www.9up.io/news/highlights-of-9up-io-regular-meetup-december/)
 
-![](../.gitbook/assets/9up.io.jpeg)
+{% embed url="https://twitter.com/likecoin/status/1074277054437240832/photo/1" %}
 
 ### 12/08 Creative Commons Hong Kong
 
