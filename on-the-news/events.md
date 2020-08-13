@@ -176,11 +176,23 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://www.facebook.com/watch/live/?v=368986780621279" %}
 
+### 3/13 Asia Crypto Week
+
+[Ethereum Supermeetup!](https://www.facebook.com/Liker.Land/photos/a.2358370647722966/2559758187584210/?type=3&theater)
+
 ### 3/9 香港中文大學動漫畫研究社
 
 [次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作](https://hkdoujin.com/2019/03/8992/)
 
 {% embed url="https://twitter.com/likecoin/status/1106110079642722305" %}
+
+### 02/27 序言書室 LikeCoin
+
+[從面書社群到讚賞公民 暨LikeCoin一周年聚會](https://www.facebook.com/Liker.Land/posts/2549752591918103)
+
+### 02/25
+
+[Civic Liker Community Meetup \(paid in LikeCoin!\)](https://www.facebook.com/Liker.Land/photos/a.2358370647722966/2549288198631209/)
 
 ### 02/16 TEDxYouth VictoriaHarbour
 

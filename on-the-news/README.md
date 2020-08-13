@@ -4,8 +4,6 @@ Press interview, activites record, awards and press release...you can find anyth
 
 {% embed url="https://medium.com/likecoin/likecoin-annual-report-2019-f831cb873801" %}
 
-
-
 {% embed url="https://medium.com/likecoin/likecoin-chronicle-769001f784b3" %}
 
 
