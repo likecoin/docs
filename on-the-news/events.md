@@ -338,6 +338,8 @@
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2470837289809634" %}
 
+{% embed url="https://twitter.com/likecoin/status/1059395027556753409" %}
+
 ### 10/28 WordCamp Manchester 2018
 
 Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
@@ -348,7 +350,9 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [讚賞幣 \(LikeCoin\) 基金會](https://2018.taipei.wordcamp.org/sponsor/likecoin-foundation-limited/)
 
-{% embed url="https://www.facebook.com/Liker.Land/posts/2461985850694778" %}
+{% embed url="https://twitter.com/likecoin/status/1053873841850576896" %}
+
+{% embed url="https://twitter.com/likecoin/status/1054338434184241157" %}
 
 ### 10/08 LikeCoin Hong Kong Meetup － 如何以 LikeCoin 拿回朱X伯格偷去的報酬？
 
