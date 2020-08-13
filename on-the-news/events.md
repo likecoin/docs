@@ -82,6 +82,10 @@
 
 {% embed url="https://www.facebook.com/standnewshk/videos/465604741021383" %}
 
+{% embed url="https://www.facebook.com/watch/live/?v=461855731402800" %}
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2788894528003907" %}
+
 ### 11/03 鏈上生活節 2019
 
 [鏈上生活節 2019（電影欣賞、生活創意市集、百萬大問答、專業講堂）](https://www.accupass.com/event/1910040534498487578350)
