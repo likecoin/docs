@@ -476,6 +476,14 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/blockcast.it/videos/580260412359028/" %}
 
+### 04/21 Opportunity Conference 2018
+
+{% embed url="https://twitter.com/likecoin/status/987574466547924992/photo/1" %}
+
+### 04/20 Tidebit LikeCoin sharing session
+
+{% embed url="https://twitter.com/likecoin/status/987154144921202688/photo/1" %}
+
 ### 04/13 Creative Commons Global Summit 2018
 
 [LikeCoin: Reinventing the Like. Rewarding Creative Commons Contents With Proof of Creativity](https://ccglobalsummit2018.sched.com/event/E6zv/likecoin-reinventing-the-like-rewarding-creative-commons-contents-with-proof-of-creativity)
