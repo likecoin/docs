@@ -302,6 +302,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.youtube.com/watch?v=gxI6iZycPUg" %}
 
+{% embed url="https://www.facebook.com/Liker.Land/posts/2437742216452475" %}
+
 ### 09/09 比持財經網 － 牛市共享课
 
 [【牛市共享课】赞赏币创始人高重建（Kin ko）：《 化赞为赏，回馈创作》](https://www.btcmoney.cc/detail/37383.html)
@@ -323,6 +325,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 ### 07/18 World Blockchain Conference
 
 [Reinventing the Like. Reward contents by Proof of Creativity](https://medium.com/likecoin/likecoin-world-blockchain-conference-singapore-july-17-18-bfbe00556209)
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2383028978590466" %}
 
 ### 07/13 DRC金融科技 － 直播\|创始人面对面：DRC-LikeCoin
 
