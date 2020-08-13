@@ -278,13 +278,13 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 ![](../.gitbook/assets/g0v.jpg)
 
-### 9/11 Hong Kong WordPress Meetup
+### 09/11 Hong Kong WordPress Meetup
 
 [WordPress Meetup \#22: 「點讚成金」- 如何靠Like賺取收入 & Banner 位置優化 \(Cantonese 廣東話\)](https://www.meetup.com/Hong-Kong-WordPress-Meetup/events/254113246/)
 
 {% embed url="https://www.youtube.com/watch?v=gxI6iZycPUg" %}
 
-### 9/9 比持財經網 － 牛市共享课
+### 09/09 比持財經網 － 牛市共享课
 
 [【牛市共享课】赞赏币创始人高重建（Kin ko）：《 化赞为赏，回馈创作》](https://www.btcmoney.cc/detail/37383.html)
 
@@ -354,7 +354,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://twitter.com/likecoin/status/988352423637889026" %}
 
-### 04/21 區塊客 blockcast.it － 《區塊客SHOWTIME》- 探討ICO標準化與項目分享
+### 04/21 區塊客 Blockcast － 《區塊客SHOWTIME》- 探討ICO標準化與項目分享
 
 [《區塊客SHOWTIME》- 探討ICO標準化與項目分享](https://www.accupass.com/event/1804111103131401034333)
 
