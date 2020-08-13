@@ -126,7 +126,7 @@
 
 ### 08/17 COSCUP 2019
 
-[Chung Wu: How we develop LikeChain using Cosmos SDK](https://coscup.org/2019/programs/how-likechain-communicates-with-ethereum/)
+[How we develop LikeChain using Cosmos SDK](https://coscup.org/2019/programs/how-likechain-communicates-with-ethereum/)
 
 [Hack MD Note](https://hackmd.io/@coscup/HyeAAzgNr/%2F%40coscup%2FBkQ2CGeVB)
 
@@ -134,7 +134,7 @@
 
 ### 06/15 Hong Kong Open Source Conference 2019
 
-[Chung Wu: Random number generation for simulation, blockchain and cryptography](https://hkoscon.org/2019/topics/random-number-generation-simulation-blockchain-and-cryptography)
+[Random number generation for simulation, blockchain and cryptography](https://hkoscon.org/2019/topics/random-number-generation-simulation-blockchain-and-cryptography)
 
 {% embed url="https://www.youtube.com/watch?v=wej1eAWB3Is" %}
 
@@ -156,11 +156,13 @@
 
 {% embed url="https://www.facebook.com/Liker.Land/videos/689971981436774/" %}
 
-{% embed url="https://twitter.com/likecoin/status/1103937697729540096/photo/1" %}
-
 {% embed url="https://www.youtube.com/watch?v=WN7mV9nCR7I" %}
 
-### 5/21 讚賞公民基金會
+{% embed url="https://twitter.com/likecoin/status/1103937697729540096/photo/1" %}
+
+### 5/21 讚賞公民基金會 － 網媒的未來：免費和訂閱制以外的第三條路
+
+[網媒的未來：免費和訂閱制以外的第三條路](https://www.facebook.com/events/1062184973905791/)
 
 [\[活動筆記\] 網媒的未來：免費和訂閱制以外的第三條路](https://matters.news/@mingnhsu/%E6%B4%BB%E5%8B%95%E7%AD%86%E8%A8%98-%E7%B6%B2%E5%AA%92%E7%9A%84%E6%9C%AA%E4%BE%86-%E5%85%8D%E8%B2%BB%E5%92%8C%E8%A8%82%E9%96%B1%E5%88%B6%E4%BB%A5%E5%A4%96%E7%9A%84%E7%AC%AC%E4%B8%89%E6%A2%9D%E8%B7%AF-zdpuAyQCnxBLC8b58TBNdbceBmktnSmXZM91sCZ5swKaUAwNc)
 
@@ -180,7 +182,7 @@
 
 {% embed url="https://twitter.com/likecoin/status/1111589857703284736/photo/1" %}
 
-### 03/23 BitAsset
+### 03/23 BitAsset － 透過區塊鏈技術創造數位內容新價值
 
 [透過區塊鏈技術創造數位內容新價值](https://www.accupass.com/event/1902270300001410408830)
 
@@ -200,7 +202,7 @@
 
 {% embed url="https://twitter.com/likecoin/status/1106110079642722305" %}
 
-### 02/27 序言書室 LikeCoin
+### 02/27 序言書室 － 從面書社群到讚賞公民 暨LikeCoin一周年聚會
 
 [從面書社群到讚賞公民 暨LikeCoin一周年聚會](https://www.facebook.com/Liker.Land/posts/2549752591918103)
 
