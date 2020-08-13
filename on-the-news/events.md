@@ -236,7 +236,7 @@
 
 ### 03/13 Asia Crypto Week - Ethereum Supermeetup!
 
-[Ethereum Supermeetup!](https://www.facebook.com/Liker.Land/photos/a.2358370647722966/2559758187584210/?type=3&theater)
+[Token2049: Ethereum Supermeetup!](https://www.facebook.com/Liker.Land/posts/2559758537584175)
 
 ### 03/12 LikeCoin Hong Kong Meetup － 廣東話大哂！
 
