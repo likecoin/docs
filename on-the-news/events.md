@@ -196,6 +196,10 @@
 
 {% embed url="https://twitter.com/likecoin/status/1111589857703284736/photo/1" %}
 
+### 03/23 嶺南大學商科碩士班分享
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2566235190269843" %}
+
 ### 03/23 BitAsset － 透過區塊鏈技術創造數位內容新價值
 
 [透過區塊鏈技術創造數位內容新價值](https://www.accupass.com/event/1902270300001410408830)
