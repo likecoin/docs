@@ -218,7 +218,7 @@
 
 [次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作](https://hkdoujin.com/2019/03/8992/)
 
-{% embed url="https://twitter.com/likecoin/status/1106110079642722305" %}
+{% embed url="https://www.facebook.com/Liker.Land/posts/2560260180867344" %}
 
 ### 02/27 序言書室 － 從面書社群到讚賞公民 暨LikeCoin一周年聚會
 
