@@ -67,6 +67,10 @@
 ### 01/03 路向四肢傷殘人士協會
 
 [LikeCoin工作坊](https://www.4limb.org/2019/12/17/likecoinworkshop/#)
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2811410102419016" %}
+
+🔚 
 {% endtab %}
 
 {% tab title="2019" %}
