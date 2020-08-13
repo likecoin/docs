@@ -22,11 +22,17 @@ description: 用 Liker Land 手機應用程式轉帳 LikeCoin，免手續費，�
 
 ### **步驟四**
 
+某些交易所需要用戶在區塊鏈上加上 Tag/Memo，你可以在這個畫面輸入內容，否則按 \[Next\] 略過
+
+![](../../.gitbook/assets/memo.png)
+
+### **步驟五**
+
 Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款方的二維碼掃描。然後再按 \[Next\]。
 
 ![](../../.gitbook/assets/img_2158.png)
 
-### **步驟五**
+### **步驟六**
 
 輸入要轉帳的金額。選 \[Next\]，然後點擊「確認」 / \[Confirm\]。
 
