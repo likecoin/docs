@@ -102,6 +102,12 @@
 
 {% embed url="https://www.facebook.com/blockcast.it/photos/a.967244173660648/967245956993803/?type=3" %}
 
+10/21 區塊客 Blockcast － 深入認識 IPFS 及動手實作技術小聚
+
+[深入認識 IPFS 及動手實作技術小聚](https://www.accupass.com/event/1910020715311900809277)
+
+{% embed url="https://www.facebook.com/groups/757804584406557/permalink/1210573572462987/" %}
+
 ### 10/16 區塊客 Blockcast － 【區塊客學堂】區塊鏈社會學與實踐✍️
 
 [ 【區塊客學堂】區塊鏈社會學與實踐✍️](https://www.accupass.com/event/1910160816541336051904)
