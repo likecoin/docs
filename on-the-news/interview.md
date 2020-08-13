@@ -230,6 +230,8 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 
 ### **01/01 903**
 
+高重建 為明日革命
+
 ![](../.gitbook/assets/903.jpg)
 
 高重建 為明日革命
@@ -249,10 +251,6 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 ![](../.gitbook/assets/ming2_tiny.jpg)
 {% endtab %}
 {% endtabs %}
-
-
-
-
 
 
 
