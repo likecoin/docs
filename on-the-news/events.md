@@ -248,7 +248,7 @@
 
 [eCoinomy開講: 2019 x 中國 x 香港 x 加密貨幣](https://www.meetup.com/eCoinomy-Blcokchain-And-Cryptocurrency-Platform)
 
-{% embed url="https://twitter.com/likecoin/status/1075771955272343552/photo/1" %}
+{% embed url="https://www.facebook.com/Liker.Land/photos/a.2297986110428087/2501900356703327/?type=3&theater" %}
 
 ### 12/17 EASY.ONE 2018 BLOCKCHAIN SUMMIT
 
