@@ -232,7 +232,7 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://twitter.com/likecoin/status/1075771955272343552/photo/1" %}
 
-### 12/17 EASY.ONE
+### 12/17 EASY.ONE 2018 BLOCKCHAIN SUMMIT
 
 [2018 BLOCKCHAIN SUMMIT 台北區塊鏈產官學高峰會](https://www.accupass.com/event/1811270640381142655124)
 
@@ -250,6 +250,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://twitter.com/likecoin/status/1074277054437240832/photo/1" %}
 
+{% embed url="https://twitter.com/likecoin/status/1074276835003789312/photo/1" %}
+
 ### 12/08 Creative Commons Hong Kong
 
 [香港共享創意十周年慶祝典禮 暨 網絡公民獎2018](https://hk.creativecommons.org/blog/2018)
@@ -259,6 +261,8 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 {% embed url="https://www.pscp.tv/inmediahk/1yoKMjOMjLWGQ?t=1h26m4s" %}
 
 {% embed url="https://www.facebook.com/Liker.Land/videos/461855731402800/" %}
+
+{% embed url="https://twitter.com/likecoin/status/1071468868139401216" %}
 
 ### 11/05 The Hong Kong General Chamber of Commerce
 
@@ -423,8 +427,6 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 [LikeCoin Sharing by kin ko at BLOOM](https://medium.com/likecoin/likecoin-sharing-by-kin-ko-at-bloom-1e5865386ac6)
 
 [LikeCoin x BLOOM 分享會](https://medium.com/likecoin/likecoin-bloom-62c1b275acb1)
-
-{% embed url="https://www.slideshare.net/kinko2/likecoin-sharing-at-bloom-hong-kong-20180223" %}
 {% endtab %}
 
 {% tab title="2017" %}
@@ -441,6 +443,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 {% embed url="https://www.slideshare.net/kinko2/ss-82136576" %}
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
