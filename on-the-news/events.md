@@ -296,11 +296,9 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/zerozoneglobal/posts/288431221762537/" %}
 
+### 10/07 2018 零時政府高峰會
 
-
-### 10/7 2018 零時政府高峰會
-
-![](../.gitbook/assets/g0v.jpg)
+{% embed url="https://www.facebook.com/Liker.Land/posts/2452907778269252" %}
 
 ### 10/06 周一時事觀點, 竟然事務所 － 寫作者交流會：寫作者怎麼創造收入？
 
