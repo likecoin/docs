@@ -234,7 +234,7 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 
 ![](../.gitbook/assets/903.jpg)
 
-高重建 為明日革命
+🔚 
 {% endtab %}
 
 {% tab title="2017" %}
