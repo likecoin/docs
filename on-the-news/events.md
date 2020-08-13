@@ -292,6 +292,12 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://wordpress.tv/2019/06/25/kin-ko-generating-passive-income-with-likecoin-blockchain-plugin/" %}
 
+### 10/21 WordCamp Taipei 2018
+
+[讚賞幣 \(LikeCoin\) 基金會](https://2018.taipei.wordcamp.org/sponsor/likecoin-foundation-limited/)
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2461985850694778" %}
+
 ### 10/08 LikeCoin Hong Kong Meetup － 如何以 LikeCoin 拿回朱X伯格偷去的報酬？
 
 {% embed url="https://www.facebook.com/zerozoneglobal/posts/288431221762537/" %}
