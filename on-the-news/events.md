@@ -206,7 +206,9 @@
 
 {% embed url="https://www.facebook.com/watch/live/?v=368986780621279" %}
 
-### 3/13 Asia Crypto Week - Ethereum Supermeetup!
+{% embed url="https://www.facebook.com/Liker.Land/posts/2566193026940726" %}
+
+### 03/13 Asia Crypto Week - Ethereum Supermeetup!
 
 [Ethereum Supermeetup!](https://www.facebook.com/Liker.Land/photos/a.2358370647722966/2559758187584210/?type=3&theater)
 
@@ -216,7 +218,7 @@
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2560903320803030" %}
 
-### 3/9 香港中文大學動漫畫研究社 － 次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作
+### 03/09 香港中文大學動漫畫研究社 － 次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作
 
 [次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作](https://hkdoujin.com/2019/03/8992/)
 
