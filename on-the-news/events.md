@@ -30,6 +30,8 @@
 
 {% embed url="https://docs.google.com/presentation/d/1AEM23HHeFupGqR2UmdT82mF0PRP95mfKZFuky0RXS2s/edit\#slide=id.g8817281211\_0\_8" %}
 
+{% embed url="https://www.facebook.com/Liker.Land/posts/2964325993794092" %}
+
 ### 5/23 g0v tw hackath39n
 
 [g0v tw hackath39n — 提案 — LikeCoin 狂想曲 ／ Phoebe — 又在家黑客松](https://g0v.hackmd.io/c/g0v-hackath39n)
@@ -63,6 +65,8 @@
  [【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)（約 1:37 開始）
 
 {% embed url="https://www.facebook.com/watch/live/?v=510807239550417" %}
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2829178830642143" %}
 
 ### 01/03 路向四肢傷殘人士協會
 
