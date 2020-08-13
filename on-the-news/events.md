@@ -68,7 +68,7 @@
 {% tab title="2019" %}
 ### 12/28 WordCamp Taipei 2019
 
-Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容流通性和網頁的收入模式。 / “404 Not Found” is Common, But Have You Seen “402
+[Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容流通性和網頁的收入模式。 / “404 Not Found” is Common, But Have You Seen “402](https://2019.taipei.wordcamp.org/session/404-not-found-is-common-but-have-you-seen-402-payment-required/)
 
 {% embed url="https://wordpress.tv/2020/06/16/kin-ko-404-not-found-%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402-%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F%E6%8E%A2%E8%A8%8E%E7%8F%BE%E6%9C%89%E7%9A%84%E7%B6%B2%E4%B8%8A%E5%85%A7%E5%AE%B9%E6%B5%81/" %}
 
@@ -86,17 +86,17 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://www.facebook.com/LifeOnChain/videos/3286585588079952/" %}
 
-### 11/02 Matters
+### 11/02 Matters － 好內容獲得回報之後，我們的下一步是？
 
 [【Matters & LikeCoin 台北活動報名】好內容獲得回報之後，我們的下一步是？](https://matters.news/@hi176/matters-and-like-coin-%E5%8F%B0%E5%8C%97%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%90%8D-%E5%A5%BD%E5%85%A7%E5%AE%B9%E7%8D%B2%E5%BE%97%E5%9B%9E%E5%A0%B1%E4%B9%8B%E5%BE%8C-%E6%88%91%E5%80%91%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AD%A5%E6%98%AF-zdpuAsK7Vcv4QNTzJs6sbgc3KD2xABLw2AFxnBfXBzSyeYeMr)
 
 [【感想 Matters x LikeCoin活動】「讓99%的創作者實現價值」vs. Winners Take All](https://matters.news/@fide/%E6%84%9F%E6%83%B3-matters-x-like-coin%E6%B4%BB%E5%8B%95-%E8%AE%9399-%E7%9A%84%E5%89%B5%E4%BD%9C%E8%80%85%E5%AF%A6%E7%8F%BE%E5%83%B9%E5%80%BC-vs-winners-take-all-zdpuAsqPnzojL1p9nSt4Bsu7GHhMDCKDGBEDGxmVp2BpMuUbp)
 
-### 10/31 區塊客 Blockcast
+### 10/31 區塊客 Blockcast － 2019 Q4 季敘： 新北區塊新動能
 
 [2019 Q4 季敘： 新北區塊新動能](https://www.accupass.com/event/1909200208204486024680)
 
-### 10/16 區塊客 Blockcast
+### 10/16 區塊客 Blockcast － 【區塊客學堂】區塊鏈社會學與實踐✍️
 
 [ 【區塊客學堂】區塊鏈社會學與實踐✍️](https://www.accupass.com/event/1910160816541336051904)
 
@@ -104,9 +104,9 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [Edmond Yu: 404 Not Found遇得多；402有見過麼？](https://2019.hongkong.wordcamp.org/files/2019/10/06-404-Not-Found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F-Edmond-Yu.pdf)
 
-{% embed url="https://twitter.com/likecoin/status/1183643893931208704" %}
-
 {% embed url="https://wordpress.tv/2019/10/25/edmond-yu-404-not-found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F/" %}
+
+{% embed url="https://twitter.com/likecoin/status/1183643893931208704" %}
 
 ### 10/11 《聖人大盜》特映會
 
@@ -120,7 +120,7 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [張潔平及高重建拜會唐鳳](https://sayit.pdis.nat.gov.tw/2019-09-23-%E5%BC%B5%E6%BD%94%E5%B9%B3%E5%8F%8A%E9%AB%98%E9%87%8D%E5%BB%BA%E6%8B%9C%E6%9C%83)
 
-### 09/18 民院教育
+### 09/18 民院教育 － 【DCH2201】區塊鏈社會學 Blockchain Sociology
 
 [ 【DCH2201】區塊鏈社會學 Blockchain Sociology](https://www.facebook.com/intercommoneducation/posts/1786558478157117/)
 
@@ -190,11 +190,11 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://www.facebook.com/watch/live/?v=368986780621279" %}
 
-### 3/13 Asia Crypto Week
+### 3/13 Asia Crypto Week - Ethereum Supermeetup!
 
 [Ethereum Supermeetup!](https://www.facebook.com/Liker.Land/photos/a.2358370647722966/2559758187584210/?type=3&theater)
 
-### 3/9 香港中文大學動漫畫研究社
+### 3/9 香港中文大學動漫畫研究社 － 次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作
 
 [次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作](https://hkdoujin.com/2019/03/8992/)
 
@@ -206,7 +206,7 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://twitter.com/likecoin/status/1100937248424419328/photo/1" %}
 
-### 02/25
+### 02/25 - Civic Liker Community Meetup
 
 [Civic Liker Community Meetup \(paid in LikeCoin!\)](https://www.facebook.com/Liker.Land/photos/a.2358370647722966/2549288198631209/)
 
@@ -218,11 +218,11 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 {% embed url="https://www.facebook.com/watch/live/?v=233176147489859&ref=watch\_permalink" %}
 
-### 01/28 9up.io
+### 01/28 9up.io - 9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application
 
 [9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application](https://www.eventbrite.com/e/9upio-blockchain-seminar-series-bc1110-blockchain-everyday-application-tickets-54397023963#)
 
-{% embed url="https://twitter.com/likecoin/status/1089848953527361540/photo/1" %}
+{% embed url="https://twitter.com/likecoin/status/1089848953527361540" %}
 {% endtab %}
 
 {% tab title="2018" %}
@@ -432,13 +432,13 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 {% endtab %}
 
 {% tab title="2017" %}
-### 11/27 Incu-Lab
+### 11/27 Incu-Lab - DCC 6.0：Emigration from Facebook and the Rise of Writer-Rewarded Contents
 
 [\[Event Review\] DCC 6.0：Emigration from Facebook and the Rise of Writer-Rewarded Contents / 「數碼社區聚腳點」6.0：從臉書外移潮到寫手有賞內容之崛起](http://www.cdiorg.hk/event-review-dcc-6-0%EF%BC%9Aemigration-from-facebook-and-the-rise-of-writer-rewarded-contents-%E3%80%8C%E6%95%B8%E7%A2%BC%E7%A4%BE%E5%8D%80%E8%81%9A%E8%85%B3%E9%BB%9E%E3%80%8D6-0%EF%BC%9A/)
 
 {% embed url="https://www.slideshare.net/kinko2/ss-82873767" %}
 
-### 11/13 CUHK School of Journalism and Communication
+### 11/13 CUHK School of Journalism and Communication - Monday.COME "寫故仔可以當飯食麼？"
 
 [Monday.COME "寫故仔可以當飯食麼？"](http://www.com.cuhk.edu.hk/zh-TW/news/events/monday-come/icalrepeat.detail/2017/11/13/1313/-/-)
 
