@@ -434,7 +434,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [《區塊客SHOWTIME》- 探討ICO標準化與項目分享](https://www.accupass.com/event/1804111103131401034333)
 
-{% embed url="https://www.facebook.com/watch/live/?v=580260412359028&ref=watch\_permalink" %}
+{% embed url="https://www.facebook.com/blockcast.it/videos/580260412359028/" %}
 
 ### 04/13 Creative Commons Global Summit 2018
 
