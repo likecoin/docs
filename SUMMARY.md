@@ -4,7 +4,7 @@
 * [📜 Constitution](constitution.md)
 * [On the News](on-the-news/README.md)
   * [Interview](on-the-news/interview.md)
-  * [Events](on-the-news/events.md)
+  * [Activities and Events](on-the-news/activities-and-events.md)
   * [Mentions](on-the-news/mentions.md)
   * [Awards and Press Release](on-the-news/press-release.md)
   * [Recommendations](on-the-news/recommendations.md)
