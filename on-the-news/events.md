@@ -280,7 +280,21 @@
 
 {% embed url="https://www.facebook.com/Liker.Land/videos/461855731402800/" %}
 
-{% embed url="https://twitter.com/likecoin/status/1071468868139401216" %}
+{% embed url="https://www.facebook.com/Liker.Land/posts/2493102044249825" %}
+
+### 11/23 LikeCoin Hong Kong Meetup － 化 Talk 為 Coin 談談創作
+
+[化 Talk 為 Coin 談談創作](https://zerozone.co/portfolio/%E5%8C%96-talk-%E7%82%BA-coin-%E8%AB%87%E8%AB%87%E5%89%B5%E4%BD%9C/)
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2482739785286051" %}
+
+
+
+### 11/17 JavaScript Developer Conference JSDC 2018
+
+[初嘗去中化應用 - Web3.js入門](https://2018.jsdc.tw/agenda.html)
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2482578295302200" %}
 
 ### 11/05 The Hong Kong General Chamber of Commerce - The Chamber’s Crypto Marketplace @ Happy Hour
 
