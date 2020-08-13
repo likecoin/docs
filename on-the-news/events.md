@@ -88,6 +88,8 @@
 
 [送你人生第一個比特幣！週末去華山｢鏈上生活節 2019｣，用比特幣暢飲啤酒、看電影!](https://www.abmedia.io/blockchain-event/)
 
+{% embed url="https://www.facebook.com/LifeOnChain/photos/a.128571291881989/137603950978723/?type=3&theater" %}
+
 {% embed url="https://www.facebook.com/LifeOnChain/videos/3286585588079952/" %}
 
 ### 11/02 Matters － 好內容獲得回報之後，我們的下一步是？
