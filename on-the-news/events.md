@@ -286,6 +286,8 @@
 
 [The Chamber’s Crypto Marketplace @ Happy Hour](https://www.chamber.org.hk/en/information/the-bulletin_detail.aspx?id=259)
 
+{% embed url="https://www.facebook.com/Liker.Land/posts/2470837289809634" %}
+
 ### 10/28 WordCamp Manchester 2018
 
 Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
