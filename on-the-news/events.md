@@ -384,6 +384,12 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.slideshare.net/kinko2/likecoin-at-creative-commons-summit-2018" %}
 
+### 03/25 Blockcamp 區塊邦 區塊客 blockcast.it － LikeCoin 以創造力證明回饋創意內容 創造力證明機制 Proof of Creativity 台北場說明會
+
+[Like Coin Meetup](https://www.facebook.com/events/clbc/like-coin-meetup/1614965941886074/)
+
+{% embed url="https://www.facebook.com/Liker.Land/posts/2299289526964412" %}
+
 ### 03/22 FOSSASIA Summit 2018
 
 [Reinventing the "Like" - Rewarding contents with Proof of Creativity](https://2018.fossasia.org/event/schedule.html)
