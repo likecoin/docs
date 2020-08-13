@@ -229,6 +229,8 @@
 [9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application](https://www.eventbrite.com/e/9upio-blockchain-seminar-series-bc1110-blockchain-everyday-application-tickets-54397023963#)
 
 {% embed url="https://twitter.com/likecoin/status/1089848953527361540" %}
+
+🔚 
 {% endtab %}
 
 {% tab title="2018" %}
