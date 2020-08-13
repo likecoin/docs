@@ -220,7 +220,7 @@
 
 [從面書社群到讚賞公民 暨LikeCoin一周年聚會](https://www.facebook.com/Liker.Land/posts/2549752591918103)
 
-{% embed url="https://twitter.com/likecoin/status/1100937248424419328/photo/1" %}
+{% embed url="https://www.facebook.com/Liker.Land/posts/2550986958461333" %}
 
 ### 02/25 - Civic Liker Community Meetup
 
@@ -228,7 +228,9 @@
 
 ### 02/16 TEDxYouth VictoriaHarbour
 
-["In Hong Kong you‘re not recognized as a creative/writer." — kin ko](https://www.facebook.com/TEDxYouthvictoriaharbour/posts/2585104528182886)
+{% embed url="https://www.facebook.com/TEDxYouthvictoriaharbour/posts/2585104528182886" %}
+
+{% embed url="https://www.facebook.com/TEDxYouthvictoriaharbour/posts/2520884851271521" %}
 
 {% embed url="https://www.facebook.com/watch/?v=529309280912177" %}
 
@@ -238,7 +240,7 @@
 
 [9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application](https://www.eventbrite.com/e/9upio-blockchain-seminar-series-bc1110-blockchain-everyday-application-tickets-54397023963#)
 
-{% embed url="https://twitter.com/likecoin/status/1089848953527361540" %}
+{% embed url="https://www.facebook.com/Liker.Land/posts/2529235923969770" %}
 
 🔚 
 {% endtab %}
