@@ -92,6 +92,10 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 
 [【感想 Matters x LikeCoin活動】「讓99%的創作者實現價值」vs. Winners Take All](https://matters.news/@fide/%E6%84%9F%E6%83%B3-matters-x-like-coin%E6%B4%BB%E5%8B%95-%E8%AE%9399-%E7%9A%84%E5%89%B5%E4%BD%9C%E8%80%85%E5%AF%A6%E7%8F%BE%E5%83%B9%E5%80%BC-vs-winners-take-all-zdpuAsqPnzojL1p9nSt4Bsu7GHhMDCKDGBEDGxmVp2BpMuUbp)
 
+### 10/31 區塊客 Blockcast
+
+[2019 Q4 季敘： 新北區塊新動能](https://www.accupass.com/event/1909200208204486024680)
+
 ### 10/12 WordCamp Hong Kong 2019
 
 [Edmond Yu: 404 Not Found遇得多；402有見過麼？](https://2019.hongkong.wordcamp.org/files/2019/10/06-404-Not-Found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F-Edmond-Yu.pdf)
@@ -111,6 +115,10 @@ Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容
 ### 09/23 SayIt
 
 [張潔平及高重建拜會唐鳳](https://sayit.pdis.nat.gov.tw/2019-09-23-%E5%BC%B5%E6%BD%94%E5%B9%B3%E5%8F%8A%E9%AB%98%E9%87%8D%E5%BB%BA%E6%8B%9C%E6%9C%83)
+
+### 09/18 民院教育
+
+[ 【DCH2201】區塊鏈社會學 Blockchain Sociology](https://www.facebook.com/intercommoneducation/posts/1786558478157117/)
 
 ### 08/17 COSCUP 2019
 

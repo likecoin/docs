@@ -2,7 +2,11 @@
 
 {% tabs %}
 {% tab title="Awards" %}
+### 2019/07/19-21 Seoul Cosmos HackAtom
 
+[HackAtom Seoul](https://www.buidl.asia/hackatom)
+
+Honorable [Mentions](https://blog.cosmos.network/cosmos-hackatom-seoul-winners-d6badbd0629b)
 {% endtab %}
 
 {% tab title="Press Release" %}
@@ -37,4 +41,6 @@
 [LikeCoin率先派發3萬枚加密貨幣 為創作人激發全新區塊鏈生態系統](https://www.businesswire.com/news/home/20180301006741/zh-HK/)
 {% endtab %}
 {% endtabs %}
+
+
 
