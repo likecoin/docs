@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 07/15 區塊勢
+
+[區塊鏈社會學 ft. 讚賞公民基金會創辦人高重建](https://blocktrend.substack.com/p/-ft--2e4)
+
 ### 05/15 港故仔
 
 [在數位世界成為自己的公民](https://www.facebook.com/kongstories/posts/2916413015062264)
@@ -36,7 +40,7 @@
 
 中大工程校友「你問我答」第一回：區塊鏈
 
-{% embed url="https://www.facebook.com/septkent/videos/10157067927003693/" %}
+{% embed url="https://www.facebook.com/597613692/videos/10157067927003693/" %}
 {% endtab %}
 
 {% tab title="2019" %}
@@ -241,6 +245,10 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 ![](../.gitbook/assets/ming2_tiny.jpg)
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 
 
