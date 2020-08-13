@@ -100,6 +100,8 @@
 
 [2019 Q4 季敘： 新北區塊新動能](https://www.accupass.com/event/1909200208204486024680)
 
+{% embed url="https://www.facebook.com/blockcast.it/photos/a.967244173660648/967245956993803/?type=3" %}
+
 ### 10/16 區塊客 Blockcast － 【區塊客學堂】區塊鏈社會學與實踐✍️
 
 [ 【區塊客學堂】區塊鏈社會學與實踐✍️](https://www.accupass.com/event/1910160816541336051904)
