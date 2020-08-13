@@ -184,6 +184,10 @@ QUOINE x LikeCoin: The Future of the Like
 
 {% embed url="https://www.youtube.com/watch?v=6wj1MmQaydA" %}
 
+### 03/30 文化土豆
+
+[042 爱国我说不出口【張潔平, 高重建】](http://www.culturepotato.com/blog/042)
+
 ### 03/23 香港無線電視財經台 「錢」進新世代
 
 [以「Like」維生？](https://programme.tvb.com/news/freshmanfinance/episode/20180323/)
