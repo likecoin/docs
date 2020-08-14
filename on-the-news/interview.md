@@ -132,6 +132,10 @@
 
 [【LikeCoin\(ライクコイン\)】Kin\(キン\)CEOへインタビュー](https://web.archive.org/web/20180724091850/https://cryptocurrency-sat.com/topic/interview/likecoin-ceo/)
 
+### 06/06 HK01
+
+[港產ICO LikeCoin集資逾4000萬　冀「化Like為Coin」回饋創作人](https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/196190/%E6%B8%AF%E7%94%A2ico-likecoin%E9%9B%86%E8%B3%87%E9%80%BE4000%E8%90%AC-%E5%86%80-%E5%8C%96like%E7%82%BAcoin-%E5%9B%9E%E9%A5%8B%E5%89%B5%E4%BD%9C%E4%BA%BA)
+
 ### 06/01 Liquid
 
 QUOINE x LikeCoin: The Future of the Like
