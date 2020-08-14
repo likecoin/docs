@@ -72,7 +72,7 @@
 
 ### 06/14 區塊勢
 
-[EP.25 媒體在免費與付費之間的第三條路－專訪讚賞公民基金會創辦人高重建](https://matters.news/@mingnhsu/%E9%9F%B3%E9%A0%BB-%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-%E5%AA%92%E9%AB%94%E5%9C%A8%E5%85%8D%E8%B2%BB%E8%88%87%E4%BB%98%E8%B2%BB%E4%B9%8B%E9%96%93%E7%9A%84%E7%AC%AC%E4%B8%89%E6%A2%9D%E8%B7%AF-zdpuAnoUAQw5EdNuXK5idPcG7hyGcD25hRrjtTFedob2Uk3M5)
+[【專訪】媒體在免費與付費之間的第三條路 — 讚賞公民基金會創辦人高重建](https://blocktrend.substack.com/p/ep25--cba)
 
 ### 06/04 Global Voices
 
@@ -97,6 +97,8 @@
 ### 01/01 新頭殼 Newtalk
 
 [創夢實驗室》oice 視覺小說：區塊鏈讓賦予故事血肉的創作者都被看見\(下\)](https://newtalk.tw/news/view/2019-01-01/187217)
+
+🔚 
 {% endtab %}
 
 {% tab title="2018" %}
@@ -261,6 +263,8 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 \*\*\*\*[科網世代﹕LikeCoin將Like變成錢有可能？ 直落創作人口袋](https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20171008/s00005/1507399895326/%E7%A7%91%E7%B6%B2%E4%B8%96%E4%BB%A3-likecoin%E5%B0%87like%E8%AE%8A%E6%88%90%E9%8C%A2%E6%9C%89%E5%8F%AF%E8%83%BD-%E7%9B%B4%E8%90%BD%E5%89%B5%E4%BD%9C%E4%BA%BA%E5%8F%A3%E8%A2%8B)
 
 ![](../.gitbook/assets/ming2_tiny.jpg)
+
+🔚 
 {% endtab %}
 {% endtabs %}
 
