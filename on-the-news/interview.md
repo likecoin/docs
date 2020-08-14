@@ -112,6 +112,10 @@
 
 {% embed url="https://newtalk.tw/news/view/2018-12-29/187188" %}
 
+### 09/24 ZEEK 玩家誌
+
+[\[一文搞懂\] 給內容創作者的《LikeCoin》讚賞幣 含WordPress加入「LikeButton」教學](https://zeekmagazine.com/archives/77926)
+
 ### 09/20 港台電視31 講錢。講呢啲：21世紀揾錢搞革命都靠條鏈?
 
 {% embed url="https://youtu.be/2sDaYdtUm0Y?t=1089" %}

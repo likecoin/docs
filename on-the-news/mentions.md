@@ -104,9 +104,7 @@
 
 [加密幣規範化助發展](http://startupbeat.hkej.com/?p=65799)
 
-### 09/23 ZEEK 玩家誌
-
-[\[一文搞懂\] 給內容創作者的《LikeCoin》讚賞幣 含WordPress加入「LikeButton」教學](https://zeekmagazine.com/archives/77926)
+### 
 
 ### 09/03 香港蘋果日報 章濤 訪問
 
