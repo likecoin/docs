@@ -60,6 +60,14 @@
 
 {% embed url="https://www.youtube.com/watch?v=-T5Qb6XXZm8" %}
 
+### 02/10 CBA亞洲區塊鏈學院 － 區塊鏈x社群媒體【奪回你的話語權！讓流量變現】CBA區塊鏈小聚\#7
+
+[區塊鏈x社群媒體【奪回你的話語權！讓流量變現】CBA區塊鏈小聚\#7](https://www.accupass.com/event/2001070344522135805323)
+
+[區塊鏈與社群媒體](https://dylanparis53.pixnet.net/blog/post/3936992-%e5%8d%80%e5%a1%8a%e9%8f%88%e8%88%87%e7%a4%be%e7%be%a4%e5%aa%92%e9%ab%94)
+
+{% embed url="https://www.facebook.com/CollegeBlockchainAsia/photos/a.1492569984242512/1492571327575711/?type=3&theater" %}
+
 ### 01/15 數位時代【創業小聚】－【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！
 
  [【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)（約 1:37 開始）
