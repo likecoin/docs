@@ -2,11 +2,21 @@
 
 {% tabs %}
 {% tab title="Awards" %}
-### 2019/07/19-21 Seoul Cosmos HackAtom
+### 2020/05/26 Cross-Chain Hackathon, hosted by Gitcoin - 2nd place — LikeCoin ISCN
+
+[Announcing the Cross-Chain Hackathon Winners](https://blog.cosmos.network/announcing-the-cross-chain-hackathon-winners-698b6d03bd6)
+
+### 2020/04/30 Google GNI APAC Innovation Challenge 2020 - Winner in Hong Kong: Matters Lab Ltd. with LikeCoin
+
+[18 Asia Pacific news organizations with big ideas](https://www.blog.google/around-the-globe/google-asia/gni-innovation-challenge-apac/)
+
+[Selected Projects](https://newsinitiative.withgoogle.com/intl/en_gb/innovation-challenges/funding/)
+
+### 2019/07/19-21 Seoul Cosmos HackAtom - Honorable Mentions
 
 [HackAtom Seoul](https://www.buidl.asia/hackatom)
 
-Honorable [Mentions](https://blog.cosmos.network/cosmos-hackatom-seoul-winners-d6badbd0629b)
+[Cosmos HackAtom Seoul — Winners](https://blog.cosmos.network/cosmos-hackatom-seoul-winners-d6badbd0629b)
 {% endtab %}
 
 {% tab title="Press Release" %}

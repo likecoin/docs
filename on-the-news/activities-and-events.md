@@ -426,6 +426,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2452907778269252" %}
 
+{% embed url="https://docs.google.com/presentation/d/1ABd9jVsidu-gip-TuTMpl2lXzk0rfFRkN3tZWkoApPU/edit\#slide=id.g3439b855e4\_0\_296" %}
+
 ### 10/06 LikeCoin Taipei Meetup － 寫作者交流會：寫作者怎麼創造收入？
 
 [寫作者交流會：寫作者怎麼創造收入？](https://www.facebook.com/events/323479321752885/)
