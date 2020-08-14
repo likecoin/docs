@@ -334,9 +334,15 @@
 
 ### 01/28 9up.io - 9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application
 
+[BC1110 BLOCKCHAIN EVERYDAY APPLICATION](https://www.facebook.com/cityu.dietcode/photos/a.1975690915810822/2070479752998604/?type=3)
+
 [9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application](https://www.eventbrite.com/e/9upio-blockchain-seminar-series-bc1110-blockchain-everyday-application-tickets-54397023963#)
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2529235923969770" %}
+
+### 01/22 LikeCoin Taipei Meetup － 網路寫作者交流小聚：分享 WordPress、Medium、Vocus 等使用的經驗分享與討論
+
+[網路寫作者交流小聚：分享 WordPress、Medium、Vocus 等使用的經驗分享與討論](https://www.facebook.com/events/762421520800549)
 
 🔚 
 {% endtab %}
