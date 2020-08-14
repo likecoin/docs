@@ -530,7 +530,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 ### 05/09 True Global Ventures 4 Plus -  **Disruption in Financial Services**
 
-[Opensource projects](https://www.tgv4plus.com/hong-kong-9-10-may-2018.html)
+[LikeCoin opensource projects](https://www.tgv4plus.com/hong-kong-9-10-may-2018.html)
 
 {% embed url="https://www.facebook.com/watch/live/?v=2323271851232846&ref=watch\_permalink" %}
 
@@ -548,7 +548,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/blockcast.it/videos/593934814324921/" %}
 
-### 04/21 Opportunity Conference 2018
+### 04/21 CUHK Opportunity Conference 2018
 
 {% embed url="https://twitter.com/likecoin/status/988352423637889026" %}
 
