@@ -392,6 +392,12 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2440376799522350" %}
 
+### 09/15 BarCamp Hong Kong 2018
+
+[一步一點讚，窺探 \#Likecoin 的藍圖](https://docs.google.com/spreadsheets/d/1ZmeLhRy3sDTb9yoL6l2kNOkY0Hx0hORXQK8iuxZtC9M/htmlview)（1:30:00 開始）
+
+{% embed url="https://www.facebook.com/BarCampHongKong/videos/2647168362176209/" %}
+
 ### 09/11 Hong Kong WordPress Meetup
 
 [WordPress Meetup \#22: 「點讚成金」- 如何靠Like賺取收入 & Banner 位置優化 \(Cantonese 廣東話\)](https://www.meetup.com/Hong-Kong-WordPress-Meetup/events/254113246/)
@@ -584,6 +590,12 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 {% endtab %}
 
 {% tab title="2017" %}
+### 12/16 BarCamp Hong Kong 2017
+
+[Decentralised Attribution Protocol for Creative Contents](https://docs.google.com/spreadsheets/d/1frvQsjB2svLFZvw4IWY22qdm6W647Pfo8lG3GxP_qWg/edit#gid=0)（1:27:00 開始）
+
+{% embed url="https://www.facebook.com/BarCampHongKong/videos/1378710728905865/" %}
+
 ### 12/03 2017網絡媒體高峰會－－圍城下的網媒能如何守住新聞自由
 
 [網媒如何透過資訊科技合作共贏](https://www.hkcnews.com/article/8746/%E5%8D%80%E5%A1%8A%E9%8F%88-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3-likecoin-8746/%E7%B6%B2%E5%AA%92%E5%A6%82%E4%BD%95%E9%80%8F%E9%81%8E%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80%E5%90%88%E4%BD%9C%E5%85%B1%E8%B4%8F)
