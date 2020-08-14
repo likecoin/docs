@@ -204,6 +204,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=WN7mV9nCR7I" %}
 
+{% embed url="https://twitter.com/likecoin/status/1135809366114807808/photo/1" %}
+
 {% embed url="https://www.facebook.com/Liker.Land/posts/2614906208736074" %}
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2618641418362553" %}
