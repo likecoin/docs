@@ -6,6 +6,12 @@
 
 [Virtual Book Fair](https://www.linkedin.com/company/lighthouse-consultant-limited/?miniCompanyUrn=urn%3Ali%3Afs_miniCompany%3A13208868)
 
+### 08/07 香港無線電視財經 ‧ 資訊台 看出個未來
+
+[未來發幤人](https://programme.tvb.com/info/futurescope)
+
+{% embed url="https://www.youtube.com/watch?v=NNzpNrTfPtA" %}
+
 ### 07/15 區塊勢
 
 {% embed url="https://blocktrend.substack.com/p/-ft--2e4" %}
