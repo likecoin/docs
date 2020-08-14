@@ -176,6 +176,8 @@ QUOINE x LikeCoin: The Future of the Like
 
 [首隻港產加密幣點讚成金 創辦人冀改網絡歪風](http://startupbeat.hkej.com/?p=57661)
 
+![](../.gitbook/assets/20180409_hkej.jpg)
+
 ### 04/09 ejinsight
 
 [HK-based LikeCoin uses token to reward online content creators](https://www.ejinsight.com/eji/article/id/1811904/20180409-hk-based-likecoin-uses-token-to-reward-online-content-creators)
