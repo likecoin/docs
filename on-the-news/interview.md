@@ -94,7 +94,7 @@
 
 ### 05/22 眾新聞
 
-[「讚賞公民」計劃啟動 網媒的未來：有like就有coins？](https://www.hkcnews.com/article/20686/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-likecoin-%E7%9C%BE%E6%96%B0%E8%81%9E-20686/%E3%80%8C%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E3%80%8D%E8%A8%88%E5%8A%83%E5%95%9F%E5%8B%95-%E7%B6%B2%E5%AA%92%E7%9A%84%E6%9C%AA%E4%BE%86%EF%BC%9A%E6%9C%89like%E5%B0%B1%E6%9C%89coins%EF%BC%9F)
+{% embed url="https://www.hkcnews.com/article/20686/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-likecoin-%E7%9C%BE%E6%96%B0%E8%81%9E-20686/%E3%80%8C%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E3%80%8D%E8%A8%88%E5%8A%83%E5%95%9F%E5%8B%95-%E7%B6%B2%E5%AA%92%E7%9A%84%E6%9C%AA%E4%BE%86%EF%BC%9A%E6%9C%89like%E5%B0%B1%E6%9C%89coins%EF%BC%9F" %}
 
 ### **05/21 立場新聞**
 
