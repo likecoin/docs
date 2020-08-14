@@ -52,6 +52,24 @@
 
 {% embed url="https://www.youtube.com/watch?v=i4IOJrnutXU" %}
 
+### 04/29 LikeCoin Foundation － LikeCoin 101
+
+[LikeCoin 101](https://www.facebook.com/events/765676927540120/)
+
+### 04/22 LikeCoin Foundation － Liker Land發展藍圖的線上分享會\(國語\)
+
+{% embed url="https://www.youtube.com/watch?v=XjogARunD44&t=619s" %}
+
+### 04/15 LikeCoin Foundation － GitHub Action 使用經驗分享
+
+[GitHub Action 使用經驗分享](https://www.facebook.com/events/562560387975230/)
+
+### 04/08 LikeCoin Foundation － 線上參與 Liker Land 發展
+
+[線上參與 Liker Land 發展](https://www.facebook.com/events/1135178743494284/)
+
+{% embed url="https://www.youtube.com/watch?v=C8MNiZBzadE" %}
+
 ### 03/14 g0v tw hackath38n
 
 [g0v tw hackath38n — 中場短講 — 讚賞公民共和國 Republic of Liker Land ／ kin ko — 在家黑客松](https://g0v.hackmd.io/c/g0v-hackath38n/)
@@ -59,6 +77,10 @@
 {% embed url="https://www.youtube.com/watch?v=\_m\_k\_2Yc8fM" %}
 
 {% embed url="https://www.youtube.com/watch?v=-T5Qb6XXZm8" %}
+
+### 03/18 LikeCoin Foundation － LikeCoin chain 節點設定教學 Validator node tutorial
+
+[LikeCoin chain 節點設定教學 Validator node tutorial](https://www.facebook.com/events/251386609195639/)
 
 ### 02/10 CBA亞洲區塊鏈學院 － 區塊鏈x社群媒體【奪回你的話語權！讓流量變現】CBA區塊鏈小聚\#7
 
