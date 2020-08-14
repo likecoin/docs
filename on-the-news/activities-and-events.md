@@ -52,9 +52,17 @@
 
 {% embed url="https://www.youtube.com/watch?v=i4IOJrnutXU" %}
 
+### 05/06 LikeCoin Foundation － Likerthon 讚客松分享會：想法很便宜？點子很廉價？
+
+{% embed url="https://www.youtube.com/watch?v=bfg96upeDt8&t" %}
+
 ### 04/29 LikeCoin Foundation － LikeCoin 101
 
 [LikeCoin 101](https://www.facebook.com/events/765676927540120/)
+
+### 04/27 LikeCoin Foundation － 讚客松簡介會 Likerthon Introduction
+
+[讚客松簡介會 Likerthon Introduction](https://www.facebook.com/events/684752365669706/)
 
 ### 04/22 LikeCoin Foundation － Liker Land發展藍圖的線上分享會\(國語\)
 
