@@ -118,6 +118,8 @@ Blockchain Revolution
 
 [【LikeCoin專訪】高重建：新幣普及不易　最重要有明確定位](https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222576/likecoin%E5%B0%88%E8%A8%AA-%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%96%B0%E5%B9%A3%E6%99%AE%E5%8F%8A%E4%B8%8D%E6%98%93-%E6%9C%80%E9%87%8D%E8%A6%81%E6%9C%89%E6%98%8E%E7%A2%BA%E5%AE%9A%E4%BD%8D)
 
+[【LikeCoin專訪】借網民舉報抄襲行為　高重建：難禁絕但比現況好](https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222575/likecoin%E5%B0%88%E8%A8%AA-%E5%80%9F%E7%B6%B2%E6%B0%91%E8%88%89%E5%A0%B1%E6%8A%84%E8%A5%B2%E8%A1%8C%E7%82%BA-%E9%AB%98%E9%87%8D%E5%BB%BA-%E9%9B%A3%E7%A6%81%E7%B5%95%E4%BD%86%E6%AF%94%E7%8F%BE%E6%B3%81%E5%A5%BD)
+
 ### 08/05 D100
 
 [《對沖人生路》主持：錢志健 『 Likecoin』 嘉賓：高重建、Bonita Wang](https://www.d100.net/%E3%80%8A%E5%B0%8D%E6%B2%96%E4%BA%BA%E7%94%9F%E8%B7%AF%E3%80%8B%E4%B8%BB%E6%8C%81%EF%BC%9A%E9%8C%A2%E5%BF%97%E5%81%A5-%E3%80%8E-likecoin%E3%80%8F-%E5%98%89%E8%B3%93%EF%BC%9A%E9%AB%98%E9%87%8D%E5%BB%BA/)
