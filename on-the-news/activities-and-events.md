@@ -628,7 +628,13 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [Blockchain - LikeCoin Workshop](https://cityu-hall2.github.io/it/feb2018/poster.jpeg)
 
-{% embed url="https://www.facebook.com/watch/?v=2098014853558930" %}
+{% embed url="https://www.facebook.com/watch/live/?v=2098014853558930&ref=watch\_permalink" %}
+
+{% embed url="https://www.facebook.com/CityuAppsLab/videos/2098013360225746/" %}
+
+{% embed url="https://www.facebook.com/CityuAppsLab/photos/a.698457616848001/2098139120213170/?type=3&theater" %}
+
+{% embed url="https://www.facebook.com/CityuAppsLab/photos/a.698457616848001/2098030580224024/?type=3" %}
 
 ### 02/23 BLOOM - \[Cantonese\] The Story of LikeCoin: Applying Blockchain Technology on Creative Contents
 
