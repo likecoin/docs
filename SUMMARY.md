@@ -2,6 +2,7 @@
 
 * [LikeCoin 是什麼](README.md)
 * [📜 憲法](constitution.md)
+* [傳媒報導](on-the-news.md)
 
 ## 📙 user guide
 
