@@ -276,6 +276,8 @@
 
 [Notes](https://docs.google.com/document/d/1z2tsMGZWZnOIiUbutHe7pWoB5-1paCGaOt9-L5B9kLY/edit)
 
+{% embed url="https://www.facebook.com/Liker.Land/posts/2600506510176044" %}
+
 ### 03/29 Deloitte HK
 
 {% embed url="https://twitter.com/likecoin/status/1111589857703284736/photo/1" %}
