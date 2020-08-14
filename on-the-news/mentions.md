@@ -104,8 +104,6 @@
 
 [加密幣規範化助發展](http://startupbeat.hkej.com/?p=65799)
 
-### 
-
 ### 09/03 香港蘋果日報 章濤 訪問
 
 [比特幣早期投資者撈底 章濤：真正升勢未來臨](https://www.thestandnews.com/finance/%E6%AF%94%E7%89%B9%E5%B9%A3%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B3%87%E8%80%85%E6%92%88%E5%BA%95-%E7%AB%A0%E6%BF%A4-%E7%9C%9F%E6%AD%A3%E5%8D%87%E5%8B%A2%E6%9C%AA%E4%BE%86%E8%87%A8/)
@@ -122,9 +120,7 @@
 
 [炒幣如同炒仙股？](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20180717/s00002/1531765824969/%E5%B0%88%E6%AC%84-%E7%82%92%E5%B9%A3%E5%A6%82%E5%90%8C%E7%82%92%E4%BB%99%E8%82%A1-%E6%96%87-%E7%AB%A0%E6%BF%A4)
 
-### 07/11 橙皮書 Retric
-
-[LikeCoin：为创意内容产业发明一个新的pagerank算法和一个新的点赞按钮](https://orange.xyz/p/166)
+### 
 
 ### 07/06 《我們的黃金年代》周保松著
 

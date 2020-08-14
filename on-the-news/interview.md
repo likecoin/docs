@@ -140,6 +140,10 @@
 
 ![](../.gitbook/assets/breakazine_9.png)
 
+### 07/11 橙皮書 Retric
+
+[LikeCoin：为创意内容产业发明一个新的pagerank算法和一个新的点赞按钮](https://orange.xyz/p/166)
+
 ### 06/11 Cryptocurrency Satellite
 
 [【LikeCoin\(ライクコイン\)】Kin\(キン\)CEOへインタビュー](https://web.archive.org/web/20180724091850/https://cryptocurrency-sat.com/topic/interview/likecoin-ceo/)
