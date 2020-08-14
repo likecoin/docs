@@ -110,19 +110,19 @@
 {% tab title="2018" %}
 ### 12/29 新頭殼 Newtalk
 
-[創夢實驗室》oice 視覺小說：用區塊鏈打破創作困境 讓故事有價\(上\)](https://newtalk.tw/news/view/2018-12-29/187188)
+{% embed url="https://newtalk.tw/news/view/2018-12-29/187188" %}
 
-### 9/20 港台電視31 講錢。講呢啲：21世紀揾錢搞革命都靠條鏈?
+### 09/20 港台電視31 講錢。講呢啲：21世紀揾錢搞革命都靠條鏈?
 
 {% embed url="https://youtu.be/2sDaYdtUm0Y?t=1089" %}
 
 ### **08/17 HK01**
 
-[【專訪】創意有價！網民按LikeCoin鍵　可助創作者日進千金](https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222574/%E5%B0%88%E8%A8%AA-%E5%89%B5%E6%84%8F%E6%9C%89%E5%83%B9-%E7%B6%B2%E6%B0%91%E6%8C%89likecoin%E9%8D%B5-%E5%8F%AF%E5%8A%A9%E5%89%B5%E4%BD%9C%E8%80%85%E6%97%A5%E9%80%B2%E5%8D%83%E9%87%91)
+{% embed url="https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222574/%E5%B0%88%E8%A8%AA-%E5%89%B5%E6%84%8F%E6%9C%89%E5%83%B9-%E7%B6%B2%E6%B0%91%E6%8C%89likecoin%E9%8D%B5-%E5%8F%AF%E5%8A%A9%E5%89%B5%E4%BD%9C%E8%80%85%E6%97%A5%E9%80%B2%E5%8D%83%E9%87%91" %}
 
-[【LikeCoin專訪】高重建：新幣普及不易　最重要有明確定位](https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222576/likecoin%E5%B0%88%E8%A8%AA-%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%96%B0%E5%B9%A3%E6%99%AE%E5%8F%8A%E4%B8%8D%E6%98%93-%E6%9C%80%E9%87%8D%E8%A6%81%E6%9C%89%E6%98%8E%E7%A2%BA%E5%AE%9A%E4%BD%8D)
+{% embed url="https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222576/likecoin%E5%B0%88%E8%A8%AA-%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%96%B0%E5%B9%A3%E6%99%AE%E5%8F%8A%E4%B8%8D%E6%98%93-%E6%9C%80%E9%87%8D%E8%A6%81%E6%9C%89%E6%98%8E%E7%A2%BA%E5%AE%9A%E4%BD%8D" %}
 
-[【LikeCoin專訪】借網民舉報抄襲行為　高重建：難禁絕但比現況好](https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222575/likecoin%E5%B0%88%E8%A8%AA-%E5%80%9F%E7%B6%B2%E6%B0%91%E8%88%89%E5%A0%B1%E6%8A%84%E8%A5%B2%E8%A1%8C%E7%82%BA-%E9%AB%98%E9%87%8D%E5%BB%BA-%E9%9B%A3%E7%A6%81%E7%B5%95%E4%BD%86%E6%AF%94%E7%8F%BE%E6%B3%81%E5%A5%BD)
+{% embed url="https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222575/likecoin%E5%B0%88%E8%A8%AA-%E5%80%9F%E7%B6%B2%E6%B0%91%E8%88%89%E5%A0%B1%E6%8A%84%E8%A5%B2%E8%A1%8C%E7%82%BA-%E9%AB%98%E9%87%8D%E5%BB%BA-%E9%9B%A3%E7%A6%81%E7%B5%95%E4%BD%86%E6%AF%94%E7%8F%BE%E6%B3%81%E5%A5%BD" %}
 
 ### 08/05 D100
 
@@ -140,7 +140,7 @@
 
 ### 06/06 HK01
 
-[港產ICO LikeCoin集資逾4000萬　冀「化Like為Coin」回饋創作人](https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/196190/%E6%B8%AF%E7%94%A2ico-likecoin%E9%9B%86%E8%B3%87%E9%80%BE4000%E8%90%AC-%E5%86%80-%E5%8C%96like%E7%82%BAcoin-%E5%9B%9E%E9%A5%8B%E5%89%B5%E4%BD%9C%E4%BA%BA)
+{% embed url="https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/196190/%E6%B8%AF%E7%94%A2ico-likecoin%E9%9B%86%E8%B3%87%E9%80%BE4000%E8%90%AC-%E5%86%80-%E5%8C%96like%E7%82%BAcoin-%E5%9B%9E%E9%A5%8B%E5%89%B5%E4%BD%9C%E4%BA%BA" %}
 
 ### 06/01 Liquid
 
@@ -150,23 +150,23 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 05/23 **壹**周刊
 
-[ 【港產加密貨幣】LikeCoin創辦人:　將創意和回報掛鈎　向fb施壓](https://hk.nextmgz.com/article/2_588342_0)
+{% embed url="https://hk.nextmgz.com/article/2\_588342\_0" %}
 
-[【與中央分權】區塊鏈帶來革命? LikeCoin創辦人: 唔會徒勞無功](https://hk.nextmgz.com/article/2_588463_0)
+{% embed url="https://hk.nextmgz.com/article/2\_588463\_0" %}
 
-[【已集資四千萬】LikeCoin創辦人：香港人唔係咁孤寒](https://hk.nextmgz.com/article/2_588408_0)
+{% embed url="https://hk.nextmgz.com/article/2\_588408\_0" %}
 
 {% embed url="https://www.youtube.com/watch?v=b8ra392rlCM" %}
 
 ### 05/14 opensource.com
 
-[LikeCoin, a cryptocurrency for creators of openly licensed content](https://opensource.com/article/18/5/likecoin)
+{% embed url="https://opensource.com/article/18/5/likecoin" %}
 
-[LikeCoin，一种给开放式许可的内容创作者的加密货币](https://www.zcfy.cc/article/likecoin-a-cryptocurrency-for-creators-of-openly-licensed-content)
+{% embed url="https://www.zcfy.cc/article/likecoin-a-cryptocurrency-for-creators-of-openly-licensed-content" %}
 
 ### 05/10 Crypto Times
 
-[「いいね」がお金になる!? Likecoin\(ライクコイン\) CEOへインタビュー](https://crypto-times.jp/likecoin/)
+{% embed url="https://crypto-times.jp/likecoin/" %}
 
 ### **05/02 彭博商業周刊/中文版 第114期**
 
@@ -176,23 +176,23 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 05/01 Cryptoground
 
-[LikeCoin Founder - Kin Ko Presents An Opportunity for Artists to Earn](https://www.cryptoground.com/a/likecoin-founder-kin-ko-presents-an-opportunity-for-artists-to-earn)
+{% embed url="https://www.cryptoground.com/a/likecoin-founder-kin-ko-presents-an-opportunity-for-artists-to-earn" %}
 
 {% embed url="https://www.youtube.com/watch?v=VcAOnpquTB0" %}
 
 ### 04/19 區塊客
 
-[與高重建談 LikeCoin — 媒體群創不再空洞 創意共享新生態](https://blockcast.it/2018/04/19/blockcast-interview-likecoin-founder-kin-ko/)
+{% embed url="https://blockcast.it/2018/04/19/blockcast-interview-likecoin-founder-kin-ko/" %}
 
 ### 04/09 信報財經新聞
 
-[首隻港產加密幣點讚成金 創辦人冀改網絡歪風](http://startupbeat.hkej.com/?p=57661)
+{% embed url="http://startupbeat.hkej.com/?p=57661" %}
 
 ![](../.gitbook/assets/20180409_hkej.jpg)
 
 ### 04/09 ejinsight
 
-[HK-based LikeCoin uses token to reward online content creators](https://www.ejinsight.com/eji/article/id/1811904/20180409-hk-based-likecoin-uses-token-to-reward-online-content-creators)
+{% embed url="https://www.ejinsight.com/eji/article/id/1811904/20180409-hk-based-likecoin-uses-token-to-reward-online-content-creators" %}
 
 ### 04/02 香港電台普通話台 AM621 CIBS 節目 - 追趕科技世界 \(The World towards Information Technology\) 科技Band房
 
@@ -216,7 +216,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 03/21 區塊客
 
-[區塊鏈如何解放創作自由 讓數位內容產業重生](https://blockcast.it/2018/03/21/how-blockchain-reinvents-rewarding-digital-content-creation/)
+{% embed url="https://blockcast.it/2018/03/21/how-blockchain-reinvents-rewarding-digital-content-creation/" %}
 
 ### 03/19 明周
 
@@ -228,7 +228,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### **03/18 INSIDE**
 
-\*\*\*\*[怎麼把讚變現？這間 ICO，想讓媒體與獨立創作者透過區塊鏈雙贏](https://www.inside.com.tw/article/12259-like-to-coin)
+{% embed url="https://www.inside.com.tw/article/12259-like-to-coin" %}
 
 ### **03/17 iMoney 智富**
 
