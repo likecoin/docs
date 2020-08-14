@@ -278,6 +278,10 @@
 
 [Notes](https://docs.google.com/document/d/1z2tsMGZWZnOIiUbutHe7pWoB5-1paCGaOt9-L5B9kLY/edit)
 
+[共享創意全球峰會 2019 隨筆](https://ckxpress.com/cc-global-summit-2019-lisbon/)
+
+[左而不膠 淺談開放商業模式](https://ckxpress.com/creative-commons-likecoin/)
+
 {% embed url="https://www.facebook.com/Liker.Land/posts/2600506510176044" %}
 
 ### 03/29 Deloitte HK
