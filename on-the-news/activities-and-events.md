@@ -574,6 +574,10 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 {% endtab %}
 
 {% tab title="2017" %}
+### 12/03 2017網絡媒體高峰會－－圍城下的網媒能如何守住新聞自由
+
+[網媒如何透過資訊科技合作共贏](https://www.hkcnews.com/article/8746/%E5%8D%80%E5%A1%8A%E9%8F%88-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3-likecoin-8746/%E7%B6%B2%E5%AA%92%E5%A6%82%E4%BD%95%E9%80%8F%E9%81%8E%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80%E5%90%88%E4%BD%9C%E5%85%B1%E8%B4%8F)
+
 ### 11/27 Incu-Lab - DCC 6.0：Emigration from Facebook and the Rise of Writer-Rewarded Contents
 
 [\[Event Review\] DCC 6.0：Emigration from Facebook and the Rise of Writer-Rewarded Contents / 「數碼社區聚腳點」6.0：從臉書外移潮到寫手有賞內容之崛起](http://www.cdiorg.hk/event-review-dcc-6-0%EF%BC%9Aemigration-from-facebook-and-the-rise-of-writer-rewarded-contents-%E3%80%8C%E6%95%B8%E7%A2%BC%E7%A4%BE%E5%8D%80%E8%81%9A%E8%85%B3%E9%BB%9E%E3%80%8D6-0%EF%BC%9A/)
@@ -585,8 +589,12 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 [Monday.COME "寫故仔可以當飯食麼？"](http://www.com.cuhk.edu.hk/zh-TW/news/events/monday-come/icalrepeat.detail/2017/11/13/1313/-/-)
 
 {% embed url="https://www.slideshare.net/kinko2/ss-82136576" %}
+
+🔚 
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
