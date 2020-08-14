@@ -110,6 +110,8 @@
 
 [【感想 Matters x LikeCoin活動】「讓99%的創作者實現價值」vs. Winners Take All](https://matters.news/@fide/%E6%84%9F%E6%83%B3-matters-x-like-coin%E6%B4%BB%E5%8B%95-%E8%AE%9399-%E7%9A%84%E5%89%B5%E4%BD%9C%E8%80%85%E5%AF%A6%E7%8F%BE%E5%83%B9%E5%80%BC-vs-winners-take-all-zdpuAsqPnzojL1p9nSt4Bsu7GHhMDCKDGBEDGxmVp2BpMuUbp)
 
+{% embed url="https://www.facebook.com/MattersLab2018/videos/436842663685441/" %}
+
 ### 10/31 區塊客 Blockcast － 2019 Q4 季敘： 新北區塊新動能
 
 [2019 Q4 季敘： 新北區塊新動能](https://www.accupass.com/event/1909200208204486024680)
@@ -119,6 +121,8 @@
 ### 10/21 區塊客 Blockcast － 深入認識 IPFS 及動手實作技術小聚
 
 [深入認識 IPFS 及動手實作技術小聚](https://www.accupass.com/event/1910020715311900809277)
+
+{% embed url="https://www.facebook.com/blockcast.it/videos/715009185670826/" %}
 
 {% embed url="https://www.facebook.com/groups/757804584406557/permalink/1210573572462987/" %}
 
