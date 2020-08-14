@@ -412,6 +412,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [角川 x oice 視覺小說座談會－簡錄](https://v.oice.com/oice-kadokawa-visualnovel-a6315f0371ff)
 
+{% embed url="https://www.facebook.com/oiceapp/videos/232865874007784/" %}
+
 ### 07/21 TiDeal － 港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？
 
 [港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？](https://www.eventbrite.hk/e/48019296007#)
