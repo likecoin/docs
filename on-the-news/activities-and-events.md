@@ -604,6 +604,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.youtube.com/watch?v=5y1y9t1fxwo" %}
 
+{% embed url="https://www.facebook.com/oiceapp/posts/494373780957103" %}
+
 ### 03/01 Open Source Hong Kong － Open Source Developer Meetup \#12
 
 [Open Source Developer Meetup \#12](https://opensource.hk/developer-meetup-12/)
