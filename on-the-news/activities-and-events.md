@@ -546,6 +546,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [Open Source Developer Meetup \#12](https://opensource.hk/developer-meetup-12/)
 
+[以太坊代幣付款委託](https://medium.com/likecoin/ethereum-payment-proxy-755d7eae3db0)
+
 {% embed url="https://www.youtube.com/watch?v=jQZKeLAkgaE" %}
 
 {% embed url="https://www.slideshare.net/AludirkWong/in-open-source-developer-meetup-12" %}
