@@ -232,6 +232,8 @@
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2610128165880545" %}
 
+{% embed url="https://www.facebook.com/Liker.Land/posts/2608858736007488" %}
+
 ### 05/11 Creative Commons Global Summit 2019
 
 [Meet CC: The 2019 Creative Commons Global Summit Scholarships](https://creativecommons.org/2019/05/08/meet-cc-scholarships/)
