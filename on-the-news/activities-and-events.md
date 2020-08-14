@@ -182,7 +182,9 @@
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2675736805986347" %}
 
-### 07/06 LikeCoin Hong Kong Meetup － 讚賞公民小聚
+### 07/06 LikeCoin Hong Kong Meetup － 點樣將 LikeCoin 變返做港幣？ － 香港讚賞公民小聚
+
+[點樣將 LikeCoin 變返做港幣？ － 香港讚賞公民小聚](https://www.facebook.com/events/1133334446853952/)
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2644225359137492" %}
 
@@ -270,7 +272,7 @@
 
 ### 03/12 LikeCoin Hong Kong Meetup － 廣東話大哂！
 
-[讚賞公民 - 香港用戶組聚會 - 廣東話大哂！](https://www.facebook.com/Liker.Land/posts/2551106995115996)
+[讚賞公民 - 香港用戶組聚會 - 廣東話大哂！](https://www.facebook.com/events/317910845534260/)
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2560903320803030" %}
 
