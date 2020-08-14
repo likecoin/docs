@@ -440,9 +440,11 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2447988895427807" %}
 
-### 09/16 LikeCoin Taipei's meetup
+### 09/16 oice － 「你點讚我賞LIKE」台北交流會
 
-{% embed url="https://www.facebook.com/Liker.Land/posts/2440376799522350" %}
+[「你點讚我賞LIKE」台北交流會](https://oice.kktix.cc/events/oicelikecoin)
+
+{% embed url="https://www.facebook.com/oiceapp/posts/618011825259964" %}
 
 ### 09/15 BarCamp Hong Kong 2018
 
