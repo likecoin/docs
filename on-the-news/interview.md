@@ -8,11 +8,11 @@
 
 ### 07/15 區塊勢
 
-[區塊鏈社會學 ft. 讚賞公民基金會創辦人高重建](https://blocktrend.substack.com/p/-ft--2e4)
+{% embed url="https://blocktrend.substack.com/p/-ft--2e4" %}
 
 ### 05/15 港故仔
 
-[在數位世界成為自己的公民](https://www.facebook.com/kongstories/posts/2916413015062264)
+{% embed url="https://www.facebook.com/kongstories/posts/2916413015062264" %}
 
 ### **03/10 寶博士**
 
