@@ -106,11 +106,9 @@
 
 [創夢實驗室》oice 視覺小說：用區塊鏈打破創作困境 讓故事有價\(上\)](https://newtalk.tw/news/view/2018-12-29/187188)
 
-### 9/23 港台電視31講錢。講呢啲
+### 9/20 港台電視31 講錢。講呢啲：21世紀揾錢搞革命都靠條鏈?
 
-Blockchain Revolution
-
-{% embed url="https://www.facebook.com/watch/?v=281419466032628" %}
+{% embed url="https://youtu.be/2sDaYdtUm0Y?t=1089" %}
 
 ### **08/17 HK01**
 
