@@ -194,6 +194,10 @@ QUOINE x LikeCoin: The Future of the Like
 
 {% embed url="https://vimeo.com/261966523" %}
 
+### 03/21 區塊客
+
+[區塊鏈如何解放創作自由 讓數位內容產業重生](https://blockcast.it/2018/03/21/how-blockchain-reinvents-rewarding-digital-content-creation/)
+
 ### 03/19 明周
 
 [【當金錢變成數碼】高重建：擁抱觸不到的付款方法 化like成coin支持創作](https://www.mpweekly.com/culture/%e9%9b%bb%e5%ad%90%e8%b2%a8%e5%b9%a3-%e9%9b%bb%e5%ad%90%e6%94%af%e4%bb%98-%e6%94%af%e4%bb%98%e5%af%b6-69230)
