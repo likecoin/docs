@@ -4,7 +4,7 @@
 {% tab title="2020" %}
 ### 08/11 Lighthouse Consultant Limited - Virtual Book Fair
 
-[Virtual Book Fair](https://www.linkedin.com/company/lighthouse-consultant-limited/?miniCompanyUrn=urn%3Ali%3Afs_miniCompany%3A13208868)
+[Virtual Book Fair](https://www.linkedin.com/posts/lighthouse-consultant-limited_lighthouseconsultant-eventplanning-eventmanagement-activity-6698471598539845632-1hFO)
 
 ### 08/07 香港無線電視財經 ‧ 資訊台 看出個未來
 
@@ -40,11 +40,11 @@
 
 ### 02/05 Meet 創業小聚
 
-[\[創業小聚NO.109\] 區塊鏈的N種應用：打造超有感的生活體驗！](https://meet.bnext.com.tw/articles/view/46021)
+{% embed url="https://meet.bnext.com.tw/articles/view/46021" %}
 
 ### 01/14 Meet 創業小聚
 
-[按讚有錢賺！LikeCoin 用區塊鏈打造創作者生態系，實現創作可當飯吃](https://meet.bnext.com.tw/articles/view/45970)
+{% embed url="https://meet.bnext.com.tw/articles/view/45970" %}
 
 ### 01/02 CUHK Engineering Faculty Alumni Association \(ERGAA\).
 
