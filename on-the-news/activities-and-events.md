@@ -454,6 +454,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [Dapp: a new approach to combine blockchain and cryptography into web application](https://hkoscon.org/2018/topic/dapp-new-approach-combine-blockchain-and-cryptography-web-application/)
 
+[How to write a DApp](https://medium.com/likecoin/how-to-write-a-dapp-352d3316b6cf)
+
 [如何編寫 DApp](https://medium.com/likecoin/how-to-write-a-dapp-1d4a58c57efa)
 
 {% embed url="https://www.youtube.com/watch?v=WmPNapXj1Ig" %}
