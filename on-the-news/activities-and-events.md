@@ -336,6 +336,12 @@
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2493102044249825" %}
 
+### 12/01 LikeCoin Taipei Meetup － 12/01 \(六\) 微小說工作坊（免費活動）
+
+[12/01 \(六\) 微小說工作坊（免費活動）](https://www.facebook.com/events/2242495909367502/permalink/2251014871848939/)
+
+{% embed url="https://www.facebook.com/Jingrandesign/photos/gm.2251014871848939/1227837970732738/?type=3&theater" %}
+
 ### 11/23 LikeCoin Hong Kong Meetup － 化 Talk 為 Coin 談談創作
 
 [化 Talk 為 Coin 談談創作](https://zerozone.co/portfolio/%E5%8C%96-talk-%E7%82%BA-coin-%E8%AB%87%E8%AB%87%E5%89%B5%E4%BD%9C/)
