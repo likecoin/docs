@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 08/11 Lighthouse Consultant Limited - Virtual Book Fair
+
+[Virtual Book Fair](https://www.linkedin.com/company/lighthouse-consultant-limited/?miniCompanyUrn=urn%3Ali%3Afs_miniCompany%3A13208868)
+
 ### 07/15 區塊勢
 
 [區塊鏈社會學 ft. 讚賞公民基金會創辦人高重建](https://blocktrend.substack.com/p/-ft--2e4)
@@ -41,6 +45,8 @@
 中大工程校友「你問我答」第一回：區塊鏈
 
 {% embed url="https://www.facebook.com/597613692/videos/10157067927003693/" %}
+
+🔚 
 {% endtab %}
 
 {% tab title="2019" %}
