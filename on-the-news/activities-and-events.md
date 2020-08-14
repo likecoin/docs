@@ -448,6 +448,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [Turning "Likes" into Reward by LikeCoin](https://hk.sitcon.org/2018/#/timetable)
 
+{% embed url="https://www.youtube.com/watch?v=fUgusBwYKLE" %}
+
 {% embed url="https://www.facebook.com/Liker.Land/posts/2447988895427807" %}
 
 ### 09/16 oice － 「你點讚我賞LIKE」台北交流會
