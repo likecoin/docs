@@ -58,15 +58,15 @@
 {% tab title="2019" %}
 ### 12/7 区块链研究院
 
-[AMA回顾\| 一个赞赏共和国的诞生](https://zhuanlan.zhihu.com/p/98662833)
+{% embed url="https://zhuanlan.zhihu.com/p/98662833" %}
 
 ### 10/9 AIre VOICE
 
-[コンテンツの価値をクリエイターに還元。無料コンテンツの大きなリスク](https://aire-voice.com/interview/5428/)
+{% embed url="https://aire-voice.com/interview/5428/" %}
 
 ### 09/05 WP Builds
 
-[144 – Get paid with likes… the Like Coin with Kin Ko](https://wpbuilds.com/2019/09/05/144-get-paid-with-likes-the-like-coin-with-kin-ko/)
+{% embed url="https://wpbuilds.com/2019/09/05/144-get-paid-with-likes-the-like-coin-with-kin-ko/" %}
 
 {% embed url="https://www.youtube.com/watch?v=OBnVs3nPPgQ" %}
 
@@ -78,11 +78,11 @@
 
 ### 06/14 區塊勢
 
-[【專訪】媒體在免費與付費之間的第三條路 — 讚賞公民基金會創辦人高重建](https://blocktrend.substack.com/p/ep25--cba)
+{% embed url="https://blocktrend.substack.com/p/ep25--cba" %}
 
 ### 06/04 Global Voices
 
-[Turning 'likes' into rewards: Hong Kong citizen media outlets launch "Civic Likers" campaign](https://globalvoices.org/2019/06/04/turning-likes-into-rewards-hong-kong-citizen-media-outlets-launch-civic-likers-campaign/)
+{% embed url="https://globalvoices.org/2019/06/04/turning-likes-into-rewards-hong-kong-citizen-media-outlets-launch-civic-likers-campaign/" %}
 
 ### 05/24 iMoney 智富雜誌
 
@@ -98,11 +98,11 @@
 
 ### **05/21 立場新聞**
 
-[LikeCoin 是網媒出路？ 創始人高重建：望化讚為賞 讓公民支持創作者](https://www.thestandnews.com/media/likecoin-%E6%98%AF%E7%B6%B2%E5%AA%92%E5%87%BA%E8%B7%AF-%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%9C%9F%E6%9C%9B%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E8%AE%93%E5%85%AC%E6%B0%91%E6%94%AF%E6%8C%81%E5%89%B5%E4%BD%9C%E8%80%85/)
+{% embed url="https://www.thestandnews.com/media/likecoin-%E6%98%AF%E7%B6%B2%E5%AA%92%E5%87%BA%E8%B7%AF-%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%9C%9F%E6%9C%9B%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E8%AE%93%E5%85%AC%E6%B0%91%E6%94%AF%E6%8C%81%E5%89%B5%E4%BD%9C%E8%80%85/" %}
 
 ### 01/01 新頭殼 Newtalk
 
-[創夢實驗室》oice 視覺小說：區塊鏈讓賦予故事血肉的創作者都被看見\(下\)](https://newtalk.tw/news/view/2019-01-01/187217)
+{% embed url="https://newtalk.tw/news/view/2019-01-01/187217" %}
 
 🔚 
 {% endtab %}
