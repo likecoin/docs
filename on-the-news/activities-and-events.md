@@ -582,7 +582,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 ### 03/20 廣告狂人 － LikeCoin 傳媒界研討會
 
-[LikeCoin 傳媒界研討會](https://www.facebook.com/groups/likecoin/permalink/2049837701928550/)
+{% embed url="https://www.facebook.com/groups/likecoin/permalink/2049837701928550/" %}
 
 {% embed url="https://www.youtube.com/watch?v=W5T05Xbv3kk" %}
 
