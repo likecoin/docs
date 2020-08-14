@@ -498,7 +498,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [《區塊客SHOWTIME》- 探討ICO標準化與項目分享](https://www.accupass.com/event/1804111103131401034333)
 
-{% embed url="https://www.facebook.com/blockcast.it/videos/580260412359028/" %}
+{% embed url="https://www.facebook.com/blockcast.it/videos/593934814324921/" %}
 
 ### 04/21 Opportunity Conference 2018
 
@@ -517,6 +517,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 ### 03/25 Blockcamp 區塊邦 區塊客 blockcast.it － LikeCoin 以創造力證明回饋創意內容 創造力證明機制 Proof of Creativity 台北場說明會
 
 [Like Coin Meetup](https://www.facebook.com/events/clbc/like-coin-meetup/1614965941886074/)
+
+{% embed url="https://www.facebook.com/watch/live/?v=580260412359028" %}
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2299289526964412" %}
 
