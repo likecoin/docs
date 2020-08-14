@@ -458,6 +458,10 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2437742216452475" %}
 
+{% embed url="https://www.facebook.com/zerozoneglobal/posts/280695525869440" %}
+
+{% embed url="https://www.facebook.com/HKWPmeetup/posts/924525001064907" %}
+
 ### 09/09 比持財經網 － 牛市共享课
 
 [【牛市共享课】赞赏币创始人高重建（Kin ko）：《 化赞为赏，回馈创作》](https://www.btcmoney.cc/detail/37383.html)
@@ -471,6 +475,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 [角川 x oice 視覺小說座談會－簡錄](https://v.oice.com/oice-kadokawa-visualnovel-a6315f0371ff)
 
 {% embed url="https://www.facebook.com/oiceapp/videos/232865874007784/" %}
+
+{% embed url="https://www.facebook.com/oiceapp/posts/604316089962871" %}
 
 ### 07/21 TiDeal － 港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？
 
@@ -493,6 +499,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 ### 06/28 Design Incubation Programme
 
 [7+1 Entrepreneurship for Design & Creative Business Certificate Programme 2018](https://www.hkdesignincubation.org/?route=happening-detail&id=Incubatees%20joining%207plus1%20Programme%202018-06-28)
+
+{% embed url="https://www.facebook.com/dip.hkdc/posts/1905857209481566" %}
 
 ### 06/22 DRC金融科技 － DRC尽调 LikeCoin 赞赏币
 
