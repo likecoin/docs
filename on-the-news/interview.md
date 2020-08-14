@@ -128,6 +128,8 @@
 
 [《對沖人生路》主持：錢志健 『 Likecoin』 嘉賓：高重建、Bonita Wang](https://www.d100.net/%E3%80%8A%E5%B0%8D%E6%B2%96%E4%BA%BA%E7%94%9F%E8%B7%AF%E3%80%8B%E4%B8%BB%E6%8C%81%EF%BC%9A%E9%8C%A2%E5%BF%97%E5%81%A5-%E3%80%8E-likecoin%E3%80%8F-%E5%98%89%E8%B3%93%EF%BC%9A%E9%AB%98%E9%87%8D%E5%BB%BA/)
 
+{% embed url="https://www.facebook.com/D100RunningtheRace/posts/2109632045734447" %}
+
 ### **08/01 突破書誌 054期 搵真銀**
 
 \*\*\*\*[價值重組實驗](https://like.co/pdf/articles/breakazine.pdf)
@@ -186,7 +188,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 04/09 信報財經新聞
 
-{% embed url="http://startupbeat.hkej.com/?p=57661" %}
+[首隻港產加密幣點讚成金 創辦人冀改網絡歪風](http://startupbeat.hkej.com/?p=57661)
 
 ![](../.gitbook/assets/20180409_hkej.jpg)
 
