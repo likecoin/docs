@@ -52,6 +52,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=i4IOJrnutXU" %}
 
+{% embed url="https://www.facebook.com/TaipeiTech.aca/photos/a.1322614154541871/1833528753450406/?type=3&theater" %}
+
 ### 05/06 LikeCoin Foundation － Likerthon 讚客松分享會：想法很便宜？點子很廉價？
 
 {% embed url="https://www.youtube.com/watch?v=bfg96upeDt8&t" %}
