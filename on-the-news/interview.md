@@ -186,6 +186,10 @@ QUOINE x LikeCoin: The Future of the Like
 
 {% embed url="https://blockcast.it/2018/04/19/blockcast-interview-likecoin-founder-kin-ko/" %}
 
+### 04/16 techapple
+
+{% embed url="https://www.techapple.com/archives/21590" %}
+
 ### 04/09 信報財經新聞
 
 [首隻港產加密幣點讚成金 創辦人冀改網絡歪風](http://startupbeat.hkej.com/?p=57661)

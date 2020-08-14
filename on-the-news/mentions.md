@@ -168,10 +168,6 @@
 
 [ICO 短炒長揸 低流動性有溢價](https://ebook.hkej.com/magazine/magazine/tablet/monthly.issue_preview.php?env=PROD&p_issno=494)
 
-### 04/16 techapple
-
-[LikeCoin 預售金額突破 120%，目標化 Like 為 Coin！](https://www.techapple.com/archives/21590)
-
 ### 04/06 AM730 梁天卓專欄
 
 [LikeCoin改變網上創作生態](https://www.am730.com.hk/column/%E8%B2%A1%E7%B6%93/likecoin%e6%94%b9%e8%ae%8a-%e7%b6%b2%e4%b8%8a%e5%89%b5%e4%bd%9c%e7%94%9f%e6%85%8b-121666)
@@ -214,7 +210,7 @@
 
 ### 03/08 時代論壇 李卓乘專欄
 
-教會可以發展Church[-](https://christiantimes.org.hk/Common/Reader/News/ShowNews.jsp?Nid=154034&Pid=104&Version=0&Cid=2052&Charset=big5_hkscs)coin？
+[教會可以發展Church-coin？](https://www.truth-light.org.hk/nt/article/%e6%95%99%e6%9c%83%e5%8f%af%e4%bb%a5%e7%99%bc%e5%b1%95churchcoin%ef%bc%9f)
 {% endtab %}
 
 {% tab title="2017" %}
