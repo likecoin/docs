@@ -588,6 +588,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [LikeCoin: Reinventing the Like. Rewarding Creative Commons Contents With Proof of Creativity](https://ccglobalsummit2018.sched.com/event/E6zv/likecoin-reinventing-the-like-rewarding-creative-commons-contents-with-proof-of-creativity)
 
+[FB地球以外的共享創意授權](https://ckxpress.com/cc-summit-2018/)
+
 {% embed url="https://www.slideshare.net/kinko2/likecoin-at-creative-commons-summit-2018" %}
 
 ### 03/25 Blockcamp 區塊邦 區塊客 blockcast.it － LikeCoin 以創造力證明回饋創意內容 創造力證明機制 Proof of Creativity 台北場說明會
