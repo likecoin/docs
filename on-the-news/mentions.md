@@ -8,6 +8,10 @@
 
 [《區塊鏈社會學》](https://skypost.ulifestyle.com.hk/column/article/2723925/%E3%80%8A%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A4%BE%E6%9C%83%E5%AD%B8%E3%80%8B)
 
+### 07/15 立場新聞　黃牛山人專欄
+
+[資訊斷捨離 — 談注意力及內容價值](https://www.thestandnews.com/society/%E8%B3%87%E8%A8%8A%E6%96%B7%E6%8D%A8%E9%9B%A2-%E8%AB%87%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%8F%8A%E5%85%A7%E5%AE%B9%E5%83%B9%E5%80%BC/)
+
 ### 03/03 INSIDE 許明恩專欄
 
 [區塊鏈的《世紀帝國》學](https://www.inside.com.tw/article/19084-blockchain-and-Age-of-Empires)
