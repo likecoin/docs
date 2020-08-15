@@ -8,6 +8,10 @@
 
 [《區塊鏈社會學》](https://skypost.ulifestyle.com.hk/column/article/2723925/%E3%80%8A%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A4%BE%E6%9C%83%E5%AD%B8%E3%80%8B)
 
+### 07/17 立場新聞 黃牛山人專欄
+
+[你也試過嗎？瀏覽半小時卻沒閱讀一分鐘](https://www.thestandnews.com/personal/%E4%BD%A0%E4%B9%9F%E8%A9%A6%E9%81%8E%E5%97%8E-%E7%80%8F%E8%A6%BD%E5%8D%8A%E5%B0%8F%E6%99%82%E5%8D%BB%E6%B2%92%E9%96%B1%E8%AE%80%E4%B8%80%E5%88%86%E9%90%98/)
+
 ### 07/15 立場新聞 黃牛山人專欄
 
 [資訊斷捨離 — 談注意力及內容價值](https://www.thestandnews.com/society/%E8%B3%87%E8%A8%8A%E6%96%B7%E6%8D%A8%E9%9B%A2-%E8%AB%87%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%8F%8A%E5%85%A7%E5%AE%B9%E5%83%B9%E5%80%BC/)
