@@ -64,6 +64,10 @@
 
 {% embed url="https://aire-voice.com/interview/5428/" %}
 
+### 09/06 香港獨立媒體網
+
+[香港獨立媒體網 x LikeCoin Foundation 成為「讚賞公民」 獎勵創作](https://www.inmediahk.net/node/1067055)
+
 ### 09/05 WP Builds
 
 {% embed url="https://wpbuilds.com/2019/09/05/144-get-paid-with-likes-the-like-coin-with-kin-ko/" %}
@@ -99,6 +103,10 @@
 ### **05/21 立場新聞**
 
 {% embed url="https://www.thestandnews.com/media/likecoin-%E6%98%AF%E7%B6%B2%E5%AA%92%E5%87%BA%E8%B7%AF-%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%9C%9F%E6%9C%9B%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E8%AE%93%E5%85%AC%E6%B0%91%E6%94%AF%E6%8C%81%E5%89%B5%E4%BD%9C%E8%80%85/" %}
+
+### 05/13 眾新聞
+
+{% embed url="https://www.hkcnews.com/article/20226/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-likecoin-%E7%9C%BE%E6%96%B0%E8%81%9E-20490/%E7%9C%BE%E6%96%B0%E8%81%9E%E5%8F%83%E8%88%87%E3%80%90%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E8%A8%88%E5%8A%83%E3%80%91%E2%80%94%E2%80%94%E4%B8%80%E5%A0%B4%E8%AE%93%E5%89%B5%E4%BD%9C%E5%8F%AF%E4%BB%A5%E7%95%B6%E9%A3%AF%E5%90%83%E7%9A%84%E9%81%8B%E5%8B%95" %}
 
 ### 01/01 新頭殼 Newtalk
 

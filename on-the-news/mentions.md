@@ -84,10 +84,6 @@
 
 [創作好內容 「錢」途在何方？](http://www.bauhinia.org/index.php/zh-HK/analyses/868)
 
-### 05/13 眾新聞
-
-[眾新聞參與【讚賞公民計劃】——一場讓創作可以當飯吃的運動](https://www.hkcnews.com/article/20226/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-likecoin-%E7%9C%BE%E6%96%B0%E8%81%9E-20490/%E7%9C%BE%E6%96%B0%E8%81%9E%E5%8F%83%E8%88%87%E3%80%90%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E8%A8%88%E5%8A%83%E3%80%91%E2%80%94%E2%80%94%E4%B8%80%E5%A0%B4%E8%AE%93%E5%89%B5%E4%BD%9C%E5%8F%AF%E4%BB%A5%E7%95%B6%E9%A3%AF%E5%90%83%E7%9A%84%E9%81%8B%E5%8B%95)
-
 ### 05/09 信報 林天程專欄
 
 [本土科創化Like為Coin](https://trendalysis.com/%E8%AB%87%E6%9C%AC%E5%9C%9F%E7%A7%91%E5%89%B5%E5%8C%96like-%E7%82%BAcoin/)
