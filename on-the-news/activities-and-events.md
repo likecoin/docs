@@ -290,6 +290,12 @@
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2600506510176044" %}
 
+### 04/28 WordPress 台中小聚 \#10 - Blogathon \#1
+
+[LikeCoin 簡介](https://wp-meetups.com/likecoin-%E7%B0%A1%E4%BB%8B/)
+
+{% embed url="https://youtu.be/j4rhPqnemMo?t=7068" %}
+
 ### 03/29 Deloitte HK
 
 {% embed url="https://twitter.com/likecoin/status/1111589857703284736/photo/1" %}
