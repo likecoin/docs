@@ -560,6 +560,10 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2326785934214771" %}
 
+### 05/11 中大創業日 2018
+
+[「中大創業日 2018」展示創業創新 一起發掘無限可能 ](https://www.cpr.cuhk.edu.hk/resources/press/pdf/5af12b1659f26.pdf)
+
 ### 05/09 True Global Ventures 4 Plus -  **Disruption in Financial Services**
 
 [LikeCoin opensource projects](https://www.tgv4plus.com/hong-kong-9-10-may-2018.html)
