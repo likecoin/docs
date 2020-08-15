@@ -38,6 +38,8 @@
 
 [【新興領域：11月焦點7】去中心化的Blog？MattersＸLikecoin打造創作者理想國](https://www.findit.org.tw/researchPageV2.aspx?pageId=1275)
 
+[全球早期資金趉勢觀測月報 2019.11](https://findit.org.tw/upload/research/news_201912161930304057-1.pdf)
+
 ### 11/01 信報財經月刊
 
 [中國數碼列寧主義 計劃經濟借屍還魂](https://monthly.hkej.com/monthly/article/id/2288525/%E4%B8%AD%E5%9C%8B%E6%95%B8%E7%A2%BC%E5%88%97%E5%AF%A7%E4%B8%BB%E7%BE%A9%E3%80%80%E8%A8%88%E5%8A%83%E7%B6%93%E6%BF%9F%E5%80%9F%E5%B1%8D%E9%82%84%E9%AD%82)
