@@ -38,6 +38,10 @@
 
 [CU Alumni Magazine \(December 2019\)](https://issuu.com/cuhk_alumni_publications/docs/201912)  第33頁
 
+### 12/24 立場新聞 利世民專欄
+
+[心黃與錢黃](https://www.thestandnews.com/politics/%E5%BF%83%E9%BB%83%E8%88%87%E9%8C%A2%E9%BB%83/)
+
 ### 11/25 AM730 林家健專欄
 
 [和理消—黃色代幣經濟圈](https://www.am730.com.hk/column/%E8%B2%A1%E7%B6%93/%E5%92%8C%E7%90%86%E6%B6%88%E2%80%94%E9%BB%83%E8%89%B2%E4%BB%A3%E5%B9%A3%E7%B6%93%E6%BF%9F%E5%9C%88-197681)
