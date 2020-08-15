@@ -192,6 +192,12 @@
 
 [張潔平及高重建拜會唐鳳](https://sayit.pdis.nat.gov.tw/2019-09-23-%E5%BC%B5%E6%BD%94%E5%B9%B3%E5%8F%8A%E9%AB%98%E9%87%8D%E5%BB%BA%E6%8B%9C%E6%9C%83)
 
+[與唐鳳談流動民主](https://ckxpress.com/liquid-democracy-with-audrey-tang/)
+
+[民主的再想像 —與唐鳳談流動民主 II](https://ckxpress.com/on-liquid-democracy/)
+
+[當基進市場遇上區塊鏈——與唐鳳談流動民主 III](https://ckxpress.com/radicalmarkets-x-blockchain/)
+
 ### 09/18 民院教育 － 【DCH2201】區塊鏈社會學 Blockchain Sociology
 
 {% embed url="https://www.facebook.com/intercommoneducation/posts/1786558478157117/" %}
