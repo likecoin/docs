@@ -498,6 +498,12 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [【牛市共享课】赞赏币创始人高重建（Kin ko）：《 化赞为赏，回馈创作》](https://www.btcmoney.cc/detail/37383.html)
 
+### 08/23 Matters － 台北討論會：區塊鏈如何幫助內容產業？以 Matters 跟 LikeCoin 為例
+
+[【邀請參與】台北討論會：區塊鏈如何幫助內容產業？以 Matters 跟 LikeCoin 為例](https://matters.news/@yingshinlee/%E9%82%80%E8%AB%8B%E5%8F%83%E8%88%87-%E5%8F%B0%E5%8C%97%E8%A8%8E%E8%AB%96%E6%9C%83-%E5%8D%80%E5%A1%8A%E9%8F%88%E5%A6%82%E4%BD%95%E5%B9%AB%E5%8A%A9%E5%85%A7%E5%AE%B9%E7%94%A2%E6%A5%AD-%E4%BB%A5-matters-%E8%B7%9F-like-coin-%E7%82%BA%E4%BE%8B-zdpuAoU7gyRJez9tcruYDHRSkCbXqU5njJSxmCRsWAykAdddB)
+
+[【討論精華】區塊鏈如何幫助內容產業？以 Matters 跟 LikeCoin 為例](https://matters.news/@yingshinlee/%E8%A8%8E%E8%AB%96%E7%B2%BE%E8%8F%AF-%E5%8D%80%E5%A1%8A%E9%8F%88%E5%A6%82%E4%BD%95%E5%B9%AB%E5%8A%A9%E5%85%A7%E5%AE%B9%E7%94%A2%E6%A5%AD-%E4%BB%A5-matters-%E8%B7%9F-like-coin-%E7%82%BA%E4%BE%8B-zdpuAmByi15PWvjUHZe53LLVGNN7xCABvtFXkfedo9B3SVuLN)
+
 ### 08/21 LikeCoin 角川國際動漫教育 － 「化讚為賞 ─ 為創作者帶來被動收入」台北交流會
 
 [「化讚為賞 ─ 為創作者帶來被動收入」台北交流會](https://oice.kktix.cc/events/likecoin)
