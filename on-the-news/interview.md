@@ -2,15 +2,19 @@
 
 {% tabs %}
 {% tab title="2020" %}
-### 08/11 Lighthouse Consultant Limited - Virtual Book Fair
-
-[Virtual Book Fair](https://www.linkedin.com/posts/lighthouse-consultant-limited_lighthouseconsultant-eventplanning-eventmanagement-activity-6698471598539845632-1hFO)
-
 ### 08/07 香港無線電視財經 ‧ 資訊台 看出個未來
 
 [未來發幤人](https://programme.tvb.com/info/futurescope)
 
-{% embed url="https://www.youtube.com/watch?v=NNzpNrTfPtA" %}
+{% embed url="https://youtu.be/NNzpNrTfPtA?t=774" %}
+
+### 23/07 Lighthouse Consultant Limited - Lighthouse Presents: NExT - How Event Professionals Make the Comeback Stronger than the Setback
+
+[Lighthouse Presents: NExT - How Event Professionals Make the Comeback Stronger than the Setback](https://www.lighthouse.hk/Lighthouse%20Presents%3A%20NExT%20%232)
+
+[Virtual Book Fair](https://www.linkedin.com/posts/lighthouse-consultant-limited_lighthouseconsultant-eventplanning-eventmanagement-activity-6698471598539845632-1hFO)
+
+{% embed url="https://www.facebook.com/cozijnsenlaura/photos/a.100229125031776/154359286285426/?type=3&theater" %}
 
 ### 07/15 區塊勢
 
