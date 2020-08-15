@@ -336,6 +336,8 @@
 
 [從面書社群到讚賞公民 暨LikeCoin一周年聚會](https://www.facebook.com/Liker.Land/posts/2549752591918103)
 
+{% embed url="https://www.facebook.com/watch/live/?v=809296619272316" %}
+
 {% embed url="https://www.facebook.com/Liker.Land/posts/2550986958461333" %}
 
 ### 02/25 LikeCoin Hong Kong Meetup － Civic Liker Community Meetup
