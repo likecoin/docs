@@ -66,7 +66,7 @@
 
 [黃哲斌：加密貨幣「如果還有明天」？](https://www.wealth.com.tw/home/articles/22829)
 
-### 29/10 BitAsset
+### 10/29 BitAsset
 
 [轉型正義？從《聖人大盜》看區塊鏈落地應用的困境](https://medium.com/bitasset/%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9-%E5%BE%9E-%E8%81%96%E4%BA%BA%E5%A4%A7%E7%9B%9C-%E7%9C%8B%E5%8D%80%E5%A1%8A%E9%8F%88%E8%90%BD%E5%9C%B0%E6%87%89%E7%94%A8%E7%9A%84%E5%9B%B0%E5%A2%83-cbb95f79947c)
 
@@ -86,7 +86,9 @@
 
 [【黑鏡線索】暴政與後生](https://hk.appledaily.com/tech/20190704/7DHV7JO4OICLR57UCOUTBO7IN4/)
 
-### 06/27 智經研究中心
+### 06/27 經濟日報 智經研究中心專欄
+
+[搞創作「注定乞食」 Vs 網上打賞有錢途？](https://paper.hket.com/article/2386196/%E6%90%9E%E5%89%B5%E4%BD%9C%E3%80%8C%E6%B3%A8%E5%AE%9A%E4%B9%9E%E9%A3%9F%E3%80%8D%20Vs%20%E7%B6%B2%E4%B8%8A%E6%89%93%E8%B3%9E%E6%9C%89%E9%8C%A2%E9%80%94%EF%BC%9F)
 
 [創作好內容 「錢」途在何方？](http://www.bauhinia.org/index.php/zh-HK/analyses/868)
 
