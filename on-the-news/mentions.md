@@ -254,6 +254,10 @@
 {% endtab %}
 
 {% tab title="2017" %}
+### 12/08 眾新聞 高重建專欄
+
+[網媒如何透過資訊科技合作共贏](https://www.hkcnews.com/article/8746/%E5%8D%80%E5%A1%8A%E9%8F%88-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3-likecoin-8746/%E7%B6%B2%E5%AA%92%E5%A6%82%E4%BD%95%E9%80%8F%E9%81%8E%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80%E5%90%88%E4%BD%9C%E5%85%B1%E8%B4%8F)
+
 ### 11/23 壹周刊 利世民專欄
 
 [金融創新所為何事？](https://hk.nextmgz.com/article/2_560099_0)
