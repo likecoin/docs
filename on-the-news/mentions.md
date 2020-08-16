@@ -92,6 +92,10 @@
 
 [創作好內容 「錢」途在何方？](http://www.bauhinia.org/index.php/zh-HK/analyses/868)
 
+### 06/19 立場新聞 區家麟專欄
+
+[《論暴政》：抗強權活學活用七心法](https://www.thestandnews.com/politics/%E8%AB%96%E6%9A%B4%E6%94%BF-%E6%8A%97%E5%BC%B7%E6%AC%8A%E6%B4%BB%E5%AD%B8%E6%B4%BB%E7%94%A8%E4%B8%83%E5%BF%83%E6%B3%95/)
+
 ### 05/09 信報 林天程專欄
 
 [本土科創化Like為Coin](https://trendalysis.com/%E8%AB%87%E6%9C%AC%E5%9C%9F%E7%A7%91%E5%89%B5%E5%8C%96like-%E7%82%BAcoin/)
