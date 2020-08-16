@@ -14,5 +14,5 @@
 
 #### 參考文章
 
-> [如何成為驗值人 \( Validator \)？](https://app.gitbook.com/@daisymarisfung/s/likecoincollection/newbie-village/validator)
+> [如何成為驗證人 \( Validator \)？](https://daisymarisfung.gitbook.io/likecoincollection/newbie-village/validator)
 
