@@ -8,6 +8,10 @@
 
 [《區塊鏈社會學》](https://www.thestandnews.com/book/%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A4%BE%E6%9C%83%E5%AD%B8/)
 
+### 07/19 TechBridge Weekly 技術週刊
+
+[Web Monetization 簡介](https://blog.techbridge.cc/2020/07/19/web-monetization-intro/)
+
 ### 07/17 立場新聞 黃牛山人專欄
 
 [你也試過嗎？瀏覽半小時卻沒閱讀一分鐘](https://www.thestandnews.com/personal/%E4%BD%A0%E4%B9%9F%E8%A9%A6%E9%81%8E%E5%97%8E-%E7%80%8F%E8%A6%BD%E5%8D%8A%E5%B0%8F%E6%99%82%E5%8D%BB%E6%B2%92%E9%96%B1%E8%AE%80%E4%B8%80%E5%88%86%E9%90%98/)
