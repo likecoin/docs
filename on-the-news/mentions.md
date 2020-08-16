@@ -20,6 +20,10 @@
 
 [化讚為賞：LikeCoin正式登陸《信仰百川》](https://faith100.media/%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E%EF%BC%9Alikecoin%E6%AD%A3%E5%BC%8F%E7%99%BB%E9%99%B8%E3%80%8A%E4%BF%A1%E4%BB%B0%E7%99%BE%E5%B7%9D%E3%80%8B/64177)
 
+### 05/05 鏈新聞
+
+[【鏈新聞觀察】你還覺得區塊鏈是沒有用的技術嗎？這五個應用或許能讓你改觀](https://abmedia.io/do-you-still-think-blockchain-is-useless-technology/)
+
 ### 03/11 信仰百川 Gerry Kwan 專欄
 
 [區塊鍵、流動民主與基督教堂會去中心化的初步思考](https://faith100.media/%E5%8D%80%E5%A1%8A%E9%8D%B5%E3%80%81%E6%B5%81%E5%8B%95%E6%B0%91%E4%B8%BB%E8%88%87%E5%9F%BA%E7%9D%A3%E6%95%99%E5%A0%82%E6%9C%83%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E5%88%9D%E6%AD%A5%E6%80%9D/63010)
@@ -185,6 +189,10 @@
 ### 05/31 香港蘋果日報 宋漢生專欄
 
 [【黑鏡線索】FB焗上成魔之路](https://hk.appledaily.com/tech/20180531/SRPYQARCYOMVWLJCKDTXYDZCEI/)
+
+### 05/25 大紀元 鐵志健專欄
+
+[【我手寫我心】上市集資 vs 首次代幣發行](https://hk.epochtimes.com/news/2018-05-25/82863747)
 
 ### 05/21 眾新聞 張秀賢專欄
 
