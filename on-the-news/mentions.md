@@ -168,6 +168,10 @@
 
 [區塊鏈不應只視作投機工具](https://www.hkcnews.com/article/12287/%E5%8D%80%E5%A1%8A%E9%8F%88-blockchain-likecoin-12287/%E5%8D%80%E5%A1%8A%E9%8F%88%E4%B8%8D%E6%87%89%E5%8F%AA%E8%A6%96%E4%BD%9C%E6%8A%95%E6%A9%9F%E5%B7%A5%E5%85%B7)
 
+### 05/20 立場新聞 廣東狂人專欄
+
+[LikeCoin 文案導讀](https://www.thestandnews.com/finance/likecoin-%E6%96%87%E6%A1%88%E5%B0%8E%E8%AE%80/)
+
 ### 05/18 Fintech Hong Kong
 
 [10 Interesting Blockchain Projects in Hong Kong](https://fintechnews.hk/5198/blockchain/interesting-blockchain-projects-in-hong-kong/)
