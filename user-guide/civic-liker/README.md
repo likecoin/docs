@@ -33,7 +33,7 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 _\*每月 USD5/HKD38 到帳部分（部分支付方式如信用卡會收取手續費）會全數兌換成讚賞幣，再由各地創作者自行兌換成當地貨幣。_
 
-### 參考文章
+#### 參考文章
 
 > [化讚為賞 \| 讚賞公民懶人包](https://matters.news/@likecoin/%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E6%87%B6%E4%BA%BA%E5%8C%85-zdpuAtWT6a2rjr75JZBzwnvy67vrxw5cBRqwnHbkFehRYHLXx)
 
