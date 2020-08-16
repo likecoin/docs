@@ -30,6 +30,10 @@
 {% endtab %}
 
 {% tab title="2019" %}
+### 12/29 立場新聞 黃牛山人專欄
+
+[在亞拉岡實現民主自治 — Aragon 實作分享](https://www.thestandnews.com/politics/%E5%9C%A8%E4%BA%9E%E6%8B%89%E5%B2%A1%E5%AF%A6%E7%8F%BE%E6%B0%91%E4%B8%BB%E8%87%AA%E6%B2%BB-aragon-%E5%AF%A6%E4%BD%9C%E5%88%86%E4%BA%AB/)
+
 ### 12/23 信報 龍子維專欄
 
 [從社區設計角度看黃色經濟圈](https://www.thestandnews.com/society/%E5%BE%9E%E7%A4%BE%E5%8D%80%E8%A8%AD%E8%A8%88%E8%A7%92%E5%BA%A6%E7%9C%8B%E9%BB%83%E8%89%B2%E7%B6%93%E6%BF%9F%E5%9C%88/)
@@ -92,6 +96,10 @@
 
 [本土科創化Like為Coin](https://trendalysis.com/%E8%AB%87%E6%9C%AC%E5%9C%9F%E7%A7%91%E5%89%B5%E5%8C%96like-%E7%82%BAcoin/)
 
+### 04/10 立場新同 高重建專欄
+
+[LikeChain 讚賞鏈悄悄地產生首個區塊了](https://www.thestandnews.com/technology/likechain-%E8%AE%9A%E8%B3%9E%E9%8F%88%E6%82%84%E6%82%84%E5%9C%B0%E7%94%A2%E7%94%9F%E9%A6%96%E5%80%8B%E5%8D%80%E5%A1%8A%E4%BA%86/)
+
 ### 04/10 香港蘋果日報
 
 [蘋人誌：香港仔向世界出發　經營廣東話](https://hk.appledaily.com/local/20190410/IYEODKRCTOLLPKKFC4ABCDBUXY/)
@@ -107,6 +115,12 @@
 ### 02/07 香港蘋果日報 宋漢生專欄
 
 [【黑鏡線索】給未來人的光輝歲月](https://hk.appledaily.com/tech/20190207/TN34LUMUK23QX5FKMFLMZNEEEM/)
+
+### 01/22 明報 章濤專欄
+
+[專欄：誰主科技前路？ ／文：章濤](https://news.mingpao.com/pns/%E5%89%B5%E7%A7%91%E7%B7%9A/article/20190122/special/1548095454720)
+
+[誰主科技前路？](https://www.thestandnews.com/technology/%E8%AA%B0%E4%B8%BB%E7%A7%91%E6%8A%80%E5%89%8D%E8%B7%AF/)
 {% endtab %}
 
 {% tab title="2018" %}
@@ -178,6 +192,12 @@
 
 [ICO 短炒長揸 低流動性有溢價](https://ebook.hkej.com/magazine/magazine/tablet/monthly.issue_preview.php?env=PROD&p_issno=494)
 
+### 04/17 明報 章濤專欄
+
+[專欄﹕以太幣或名過其實 ／文﹕章濤](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20180417/s00002/1523902234962/%e5%b0%88%e6%ac%84-%e4%bb%a5%e5%a4%aa%e5%b9%a3%e6%88%96%e5%90%8d%e9%81%8e%e5%85%b6%e5%af%a6-%e6%96%87-%e7%ab%a0%e6%bf%a4)
+
+[以太幣或名過其實　前景未明](https://www.thestandnews.com/technology/%E4%BB%A5%E5%A4%AA%E5%B9%A3%E6%88%96%E5%90%8D%E9%81%8E%E5%85%B6%E5%AF%A6-%E5%89%8D%E6%99%AF%E6%9C%AA%E6%98%8E/)
+
 ### 04/06 AM730 梁天卓專欄
 
 [LikeCoin改變網上創作生態](https://www.am730.com.hk/column/%E8%B2%A1%E7%B6%93/likecoin%e6%94%b9%e8%ae%8a-%e7%b6%b2%e4%b8%8a%e5%89%b5%e4%bd%9c%e7%94%9f%e6%85%8b-121666)
@@ -221,6 +241,10 @@
 ### 03/08 時代論壇 李卓乘專欄
 
 [教會可以發展Church-coin？](https://www.truth-light.org.hk/nt/article/%e6%95%99%e6%9c%83%e5%8f%af%e4%bb%a5%e7%99%bc%e5%b1%95churchcoin%ef%bc%9f)
+
+### 01/04 立場新聞 Y.t. Chan專欄
+
+[Coin 以載道](https://www.thestandnews.com/personal/coin-%E4%BB%A5%E8%BC%89%E9%81%93/)
 {% endtab %}
 
 {% tab title="2017" %}
@@ -235,8 +259,20 @@
 ### 10/16 晴報 黃雅麗專欄
 
 [好文有價](https://skypost.ulifestyle.com.hk/column/article/1918925/%E5%A5%BD%E6%96%87%E6%9C%89%E5%83%B9)
+
+### 10/09 立場新聞 高重建專欄
+
+[Like幣：讚賞不單用拇指 \#2](https://www.thestandnews.com/technology/like%E5%B9%A3-%E8%AE%9A%E8%B3%9E%E4%B8%8D%E5%96%AE%E7%94%A8%E6%8B%87%E6%8C%87-2-%E6%A7%8B%E5%BB%BA%E5%9F%BA%E6%96%BC%E5%8D%80%E5%A1%8A%E9%8F%88%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/)
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
+
+
 
 
 
