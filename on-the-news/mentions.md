@@ -242,6 +242,10 @@
 
 [教會可以發展Church-coin？](https://www.truth-light.org.hk/nt/article/%e6%95%99%e6%9c%83%e5%8f%af%e4%bb%a5%e7%99%bc%e5%b1%95churchcoin%ef%bc%9f)
 
+### 01/22 立場新聞 高重建專欄
+
+[回《當我們談論 LikeCoin 時我們在談論甚麼？》](https://www.thestandnews.com/technology/%E5%9B%9E%E7%95%B6%E6%88%91%E5%80%91%E8%AB%87%E8%AB%96likecoin-%E6%99%82%E6%88%91%E5%80%91%E5%9C%A8%E8%AB%87%E8%AB%96%E7%94%9A%E9%BA%BC/)
+
 ### 01/04 立場新聞 Y.t. Chan專欄
 
 [Coin 以載道](https://www.thestandnews.com/personal/coin-%E4%BB%A5%E8%BC%89%E9%81%93/)
@@ -259,6 +263,10 @@
 ### 10/16 晴報 黃雅麗專欄
 
 [好文有價](https://skypost.ulifestyle.com.hk/column/article/1918925/%E5%A5%BD%E6%96%87%E6%9C%89%E5%83%B9)
+
+### 10/09 立場新聞 高重建專欄
+
+[LikeCoin: appreciation beyond a thumb](https://www.thestandnews.com/technology/likecoin-appreciation-beyond-a-thumb/)
 
 ### 10/09 立場新聞 高重建專欄
 
