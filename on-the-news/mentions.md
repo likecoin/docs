@@ -142,6 +142,8 @@
 
 [菜鳥初涉加密幣](https://skypost.ulifestyle.com.hk/column/article/2139805/%E8%8F%9C%E9%B3%A5%E5%88%9D%E6%B6%89%E5%8A%A0%E5%AF%86%E5%B9%A3)
 
+[菜鳥初涉加密幣](https://www.thestandnews.com/technology/%E8%8F%9C%E9%B3%A5%E5%88%9D%E6%B6%89%E5%8A%A0%E5%AF%86%E5%B9%A3/)
+
 ### 07/17 明報 章濤專欄
 
 [炒幣如同炒仙股？](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20180717/s00002/1531765824969/%E5%B0%88%E6%AC%84-%E7%82%92%E5%B9%A3%E5%A6%82%E5%90%8C%E7%82%92%E4%BB%99%E8%82%A1-%E6%96%87-%E7%AB%A0%E6%BF%A4)
@@ -224,7 +226,9 @@
 
 [對沖人生：股市爆升暴跌元兇 - 錢志健](https://hk.appledaily.com/finance/20180316/Z3JY6GLT42HSKJEPRMBDEV4GDE/)
 
-### 03/11 立場新聞 黃雅麗專欄
+### 03/11 晴報 黃雅麗專欄
+
+[高總出市區](https://skypost.ulifestyle.com.hk/column/article/2026056/%E9%AB%98%E7%B8%BD%E5%87%BA%E5%B8%82%E5%8D%80)
 
 [高總出市區](https://www.thestandnews.com/technology/%E9%AB%98%E7%B8%BD%E5%87%BA%E5%B8%82%E5%8D%80/)
 
