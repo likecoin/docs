@@ -158,6 +158,10 @@
 
 [做一隻有尊嚴的蛋](https://medium.com/@pochungchow/%E5%81%9A%E4%B8%80%E9%9A%BB%E6%9C%89%E5%B0%8A%E5%9A%B4%E7%9A%84%E8%9B%8B-822345487ce4)
 
+### 06/26 數位時代 leafwind專欄
+
+[區塊鏈內容平台觀察：挑戰與現有解法](https://www.bnext.com.tw/article/49272/blockchain-blog-content-)
+
 ### 06/19 Fortune Insight 李思聰專欄
 
 [Likecoin的實用價值和投資價值不一樣，想借ICO投資賺錢要自行承擔風險](https://fortuneinsight.com/web/posts/17054)
