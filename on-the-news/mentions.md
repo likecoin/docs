@@ -144,6 +144,10 @@
 
 [加密幣規範化助發展](http://startupbeat.hkej.com/?p=65799)
 
+### 10/10 明光社 李卓乘專欄 
+
+[歐盟通過影響全球的歐盟網路版權指令](https://www.truth-light.org.hk/nt/article/%E6%AD%90%E7%9B%9F%E9%80%9A%E9%81%8E%E5%BD%B1%E9%9F%BF%E5%85%A8%E7%90%83%E7%9A%84%E6%AD%90%E7%9B%9F%E7%B6%B2%E8%B7%AF%E7%89%88%E6%AC%8A%E6%8C%87%E4%BB%A4)
+
 ### 09/03 香港蘋果日報 章濤訪問
 
 [比特幣早期投資者撈底 章濤：真正升勢未來臨](https://www.thestandnews.com/finance/%E6%AF%94%E7%89%B9%E5%B9%A3%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B3%87%E8%80%85%E6%92%88%E5%BA%95-%E7%AB%A0%E6%BF%A4-%E7%9C%9F%E6%AD%A3%E5%8D%87%E5%8B%A2%E6%9C%AA%E4%BE%86%E8%87%A8/)
