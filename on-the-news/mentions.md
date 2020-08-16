@@ -174,6 +174,8 @@
 
 [炒幣如同炒仙股？](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20180717/s00002/1531765824969/%E5%B0%88%E6%AC%84-%E7%82%92%E5%B9%A3%E5%A6%82%E5%90%8C%E7%82%92%E4%BB%99%E8%82%A1-%E6%96%87-%E7%AB%A0%E6%BF%A4)
 
+[炒幣如同炒仙股？](https://www.thestandnews.com/finance/%E7%82%92%E5%B9%A3%E5%A6%82%E5%90%8C%E7%82%92%E4%BB%99%E8%82%A1/)
+
 ### 07/06 《我們的黃金年代》周保松著
 
 [做一隻有尊嚴的蛋](https://medium.com/@pochungchow/%E5%81%9A%E4%B8%80%E9%9A%BB%E6%9C%89%E5%B0%8A%E5%9A%B4%E7%9A%84%E8%9B%8B-822345487ce4)
