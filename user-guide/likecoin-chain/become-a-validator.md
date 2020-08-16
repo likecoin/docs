@@ -12,3 +12,7 @@
 
 如有疑問可加入 g0v 零時政府的 Slack [https://join.g0v.tw/](https://join.g0v.tw/) 選擇 \#likecoin 頻道獲得得協助。
 
+#### 參考文章
+
+> [如何成為驗值人 \( Validator \)？](https://app.gitbook.com/@daisymarisfung/s/likecoincollection/newbie-village/validator)
+
