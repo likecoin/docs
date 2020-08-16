@@ -214,6 +214,8 @@
 
 [專欄﹕港產ICO LikeCoin優質示範／文﹕章濤](https://news.mingpao.com/pns/%E5%89%B5%E7%A7%91%E7%B7%9A/article/20180501/special/1525111590167)
 
+[港產 ICO　LikeCoin 優質示範](https://www.thestandnews.com/finance/%E6%B8%AF%E7%94%A2ico-likecoin-%E5%84%AA%E8%B3%AA%E7%A4%BA%E7%AF%84/)
+
 ### 05/01 信報財經月刊 494 期 徐家健、梁天卓、曾國平 訪問
 
 [ICO 短炒長揸 低流動性有溢價](https://ebook.hkej.com/magazine/magazine/tablet/monthly.issue_preview.php?env=PROD&p_issno=494)
