@@ -4,9 +4,9 @@
 {% tab title="2020" %}
 ### 08/14 晴報 黃雅麗專欄
 
-[《區塊鏈社會學》](https://leonawong.hk/2020/08/14/%E3%80%8A%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A4%BE%E6%9C%83%E5%AD%B8%E3%80%8B/)
-
 [《區塊鏈社會學》](https://skypost.ulifestyle.com.hk/column/article/2723925/%E3%80%8A%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A4%BE%E6%9C%83%E5%AD%B8%E3%80%8B)
+
+[《區塊鏈社會學》](https://www.thestandnews.com/book/%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A4%BE%E6%9C%83%E5%AD%B8/)
 
 ### 07/17 立場新聞 黃牛山人專欄
 
