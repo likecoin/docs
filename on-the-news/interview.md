@@ -64,6 +64,12 @@
 
 {% embed url="https://zhuanlan.zhihu.com/p/98662833" %}
 
+### 11/13 FINDIT
+
+{% embed url="https://www.findit.org.tw/researchPageV2.aspx?pageId=1275" %}
+
+[全球早期資金趉勢觀測月報 2019.11](https://findit.org.tw/upload/research/news_201912161930304057-1.pdf)
+
 ### 10/9 AIre VOICE
 
 {% embed url="https://aire-voice.com/interview/5428/" %}
