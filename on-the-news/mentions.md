@@ -24,6 +24,10 @@
 
 [區塊鏈的《世紀帝國》學](https://www.inside.com.tw/article/19084-blockchain-and-Age-of-Empires)
 
+### 02/03 Committee to Protect Journalists
+
+[一國一審 : 中國如何破壞香港和台灣的媒體自由](https://cpj.org/zh/2020/02/post-21/)
+
 ### 02/01 信報財經月刊 515期
 
 [「無大台」自主經濟 黃色代幣聲稱三大優勢](http://ebook.hkej.com/magazine/magazine/tablet/monthlyMob.issue_preview2.php?env=PROD&p_issno=515)
