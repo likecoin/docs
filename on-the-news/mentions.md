@@ -16,6 +16,10 @@
 
 [資訊斷捨離 — 談注意力及內容價值](https://www.thestandnews.com/society/%E8%B3%87%E8%A8%8A%E6%96%B7%E6%8D%A8%E9%9B%A2-%E8%AB%87%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%8F%8A%E5%85%A7%E5%AE%B9%E5%83%B9%E5%80%BC/)
 
+### 05/27 信仰百川 Gerry Kwan 專欄
+
+[化讚為賞：LikeCoin正式登陸《信仰百川》](https://faith100.media/%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E%EF%BC%9Alikecoin%E6%AD%A3%E5%BC%8F%E7%99%BB%E9%99%B8%E3%80%8A%E4%BF%A1%E4%BB%B0%E7%99%BE%E5%B7%9D%E3%80%8B/64177)
+
 ### 03/11 信仰百川 Gerry Kwan 專欄
 
 [區塊鍵、流動民主與基督教堂會去中心化的初步思考](https://faith100.media/%E5%8D%80%E5%A1%8A%E9%8D%B5%E3%80%81%E6%B5%81%E5%8B%95%E6%B0%91%E4%B8%BB%E8%88%87%E5%9F%BA%E7%9D%A3%E6%95%99%E5%A0%82%E6%9C%83%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E5%88%9D%E6%AD%A5%E6%80%9D/63010)
