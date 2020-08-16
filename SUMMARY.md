@@ -3,7 +3,7 @@
 * [About LikeCoin](README.md)
 * [📜 Constitution](constitution.md)
 * [On the News](on-the-news/README.md)
-  * [Interview](on-the-news/interview.md)
+  * [Interview and Features](on-the-news/interview.md)
   * [Mentions](on-the-news/mentions.md)
   * [Activities and Events](on-the-news/activities-and-events.md)
   * [Awards and Press Release](on-the-news/press-release.md)
