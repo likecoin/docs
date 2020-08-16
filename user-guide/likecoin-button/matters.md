@@ -40,3 +40,7 @@ Matters 於 2020年3月推出[一鍵搬家](https://matters.news/migration)功�
 
 > [一樣菜 百樣賣：Medium一鍵搬家到Matters的試用心得](https://matters.news/@islander/%E4%B8%80%E6%A8%A3%E8%8F%9C-%E7%99%BE%E6%A8%A3%E8%B3%A3-medium%E4%B8%80%E9%8D%B5%E6%90%AC%E5%AE%B6%E5%88%B0matters%E7%9A%84%E8%A9%A6%E7%94%A8%E5%BF%83%E5%BE%97-bafyreicoek6ybzguk3vwwtajuwt2dmxf5367qsahpgpstyp3sryu6wtfle)
 
+{% hint style="info" %}
+留意在 Matters「設定」中的所顯示的「我的創作價值」是你在 Matters 創作所獲得的 LikeCoin 數量，並不代表該 Liker ID 所獲得的整體 LikeCoin 數量。
+{% endhint %}
+
