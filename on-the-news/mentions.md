@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 08/16 微批 冒業專欄
+
+[數位政治教材──讀《區塊鏈社會學》](https://paratext.hk/?p=2822)
+
 ### 08/14 晴報 黃雅麗專欄
 
 [《區塊鏈社會學》](https://skypost.ulifestyle.com.hk/column/article/2723925/%E3%80%8A%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A4%BE%E6%9C%83%E5%AD%B8%E3%80%8B)
