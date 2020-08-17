@@ -12,6 +12,8 @@
 
 [Selected Projects](https://newsinitiative.withgoogle.com/intl/en_gb/innovation-challenges/funding/)
 
+[Matters 入選 2020年度 Google News Initiative（GNI）的創新獎項](https://matters.news/@hi176/matters-%E5%85%A5%E9%81%B8-2020%E5%B9%B4%E5%BA%A6-google-news-initiative-gni-%E7%9A%84%E5%89%B5%E6%96%B0%E7%8D%8E%E9%A0%85-bafyreid7hwwevym3ifcjcopvef77ebrs6vtexvxj44tas4zbjjsvjfgx74)
+
 ### 2019/07/19-21 Seoul Cosmos HackAtom - Honorable Mentions
 
 [HackAtom Seoul](https://www.buidl.asia/hackatom)
