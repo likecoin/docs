@@ -80,6 +80,7 @@
   * [Blogspot](user-guide/likecoin-button/blogspot.md)
   * [October CMS](user-guide/likecoin-button/october-cms.md)
   * [SteemCN](user-guide/likecoin-button/steemcn.md)
+  * [ghost](user-guide/likecoin-button/ghost.md)
   * [Wix / Weebly](user-guide/likecoin-button/wix.md)
   * [Write.as](user-guide/likecoin-button/write.as.md)
   * [Hexo](user-guide/likecoin-button/hexo-next.md)
