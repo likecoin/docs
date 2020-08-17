@@ -8,8 +8,6 @@
 
 [LikeCoin發起人：區塊鏈可還權於民](https://hk.appledaily.com/finance/20200817/MDJN6LLEHVCMVDSSFCAFTIQY2E/)
 
-
-
 ### 08/07 香港無線電視財經 ‧ 資訊台 看出個未來
 
 [未來發幤人](https://programme.tvb.com/info/futurescope)
