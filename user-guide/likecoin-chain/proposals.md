@@ -26,15 +26,3 @@
 
 [議案編號三](https://likecoin.bigdipper.live/proposals/3)由驗證人[國立臺北科技大學](https://www.ntut.edu.tw/)於2020年7月10日動議，決定執行議案二所提出的共識。議案於7月26日獲得 100% 贊成票通過。
 
-
-
-
-
-
-
-
-
-
-
-
-
