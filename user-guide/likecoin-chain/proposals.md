@@ -14,6 +14,10 @@
 
 議案最後於3月16日獲得 100% 贊成票通過。
 
+#### 延伸閱讀
+
+> [讚賞公民共和國首個議案 需要你來理解和支持](https://matters.news/@ckxpress/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E9%A6%96%E5%80%8B%E8%AD%B0%E6%A1%88-%E9%9C%80%E8%A6%81%E4%BD%A0%E4%BE%86%E7%90%86%E8%A7%A3%E5%92%8C%E6%94%AF%E6%8C%81-zdpuAruAzto5efyLYHJKw8CCBAYgHjbLdRJP57XJ5LFqgACEQ)
+
 ## 議案二
 
 [議案編號二](https://likecoin.bigdipper.live/proposals/2)由驗證人[國立臺北科技大學](https://www.ntut.edu.tw/)代表寶博士於2020年6月17日[動議](https://matters.news/@dAAAb/like-coin-chain-proposal-2-increasing-the-number-of-active-validators-from-10-to-25-bafyreic2jaqtzaaql2dkauay5ogybtqy3tlltwzrj665ong2sg7uks7zsu)，共識將活躍驗證人數目由 10 名增至 25 名。議案於7月8日獲得 100% 贊成票通過。
