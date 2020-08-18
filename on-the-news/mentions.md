@@ -12,6 +12,10 @@
 
 [《區塊鏈社會學》](https://www.thestandnews.com/book/%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A4%BE%E6%9C%83%E5%AD%B8/)
 
+### 08/11 今日区块链技术开发应用论坛
+
+[【基本面】如何分析虚拟币社区因子](https://www.wwsww.cn/jzb/5787.html)
+
 ### 07/19 TechBridge Weekly 技術週刊
 
 [Web Monetization 簡介](https://blog.techbridge.cc/2020/07/19/web-monetization-intro/)
