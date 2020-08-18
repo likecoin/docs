@@ -6,7 +6,7 @@ description: 如何在探路客 TIMELOG文章中加入讚賞鍵
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
 
-探路客 TIMELOG 於 2020年8月11日開始支援讚賞鍵功能。
+[探路客 TIMELOG](https://www.timelog.to/) 於 2020年8月11日開始支援讚賞鍵功能。
 
 在探路客 TIMELOG 中加入讚賞鍵 LikeCoin button 功能只需兩個簡單步驟：
 
