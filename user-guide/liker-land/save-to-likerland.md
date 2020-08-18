@@ -1,14 +1,14 @@
 ---
-description: Never miss any of your favourite content
+description: Never miss your favourite content
 ---
 
 # Save to Liker Land
 
-Save any content for reading later, Liker Land brings you the convenience to read on the go. No matter you are using desktop computer, mobile, tablet or Liker Land app, you can bookmark any webpage at any time, for reading them later.
+Save content from everywhere for reading it later, Liker Land brings you the convenience to read on the go. No matter if you are using a desktop computer, mobile, tablet or Liker Land app, you can bookmark any web page at any time, for reading them later.
 
 ### LikeCoin button
 
-Click the bookmark icon on LikeCoin button to save web page 
+Click the bookmark icon on LikeCoin button to save a web page 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MEzlcNlvHVFcqOGC6i-%2F-MEzmfs1y2Bu6aSNXtOt%2Flikecoin-button-save-later-1.png?alt=media&token=a0c2a48f-e16e-4593-a31e-51d7a88c1775)
 
@@ -24,11 +24,11 @@ Liker Land Chrome / Firefox Extension for bookmarking any web page to your Liker
 
 ### Liker Land app or Web <a id="zai-liker-land-shou-ji-ying-yong-cheng-shi-huo-liker-land-wang-ye-ban-shou-cang-wang-ye"></a>
 
-Click the bookmark icon on [Liker Land mobile app](https://docs.like.co/user-guide/liker-land/discovering-contents) \(circled in read\) to save web page
+Click the bookmark icon on [Liker Land mobile app](https://docs.like.co/user-guide/liker-land/discovering-contents) \(circled in red\) to save a web page
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MF-OVYpFPbRnoWiNRda%2F-MF-STG0KhQlR5KB3n_S%2Flikecoin-button-save-later-5.png?alt=media&token=44c8167f-2357-4bb7-bcb5-3e7600ed262c)
 
-Login [Liker Land web](https://docs.like.co/user-guide/liker-land/liker-land-web) on any web browser, click on the bookmark icon \(circled in red\) to save web page
+Login [Liker Land web](https://docs.like.co/user-guide/liker-land/liker-land-web) on any web browser, click on the bookmark icon \(circled in red\) to save a web page
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MF-TwUtuaY5M6AifFj5%2F-MF-WSebrDn8cio9G2i2%2Flikecoin-button-save-later-3.png?alt=media&token=9349477b-d3be-4365-9741-cf4421e28573)
 
