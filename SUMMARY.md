@@ -40,6 +40,7 @@
   * [Referral Bonus](user-guide/liker-land/referral.md)
   * [Liker Land web](user-guide/liker-land/liker-land-web.md)
   * [Chrome/Firefox extension](user-guide/liker-land/liker-land-browser-extension.md)
+  * [Save to Liker Land](user-guide/liker-land/save-to-likerland.md)
   * [Delegation of LikeCoin](user-guide/liker-land/delegation-of-likecoin.md)
   * [Undelegation of LikeCoin](user-guide/liker-land/undelegation-of-likecoin.md)
   * [Redelegation of LikeCoin](user-guide/liker-land/redelegation-of-likecoin.md)
