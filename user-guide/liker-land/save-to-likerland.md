@@ -38,7 +38,7 @@
 
 ![](../../.gitbook/assets/likecoin-button-save-later-7.jpg)
 
-步驟三：出現以下畫面，即代表內容經已收藏至 Liker Land
+步驟三：出現以下畫面，即代表內容經已成功收藏至 Liker Land
 
 ![](../../.gitbook/assets/likecoin-button-save-later-8.png)
 
