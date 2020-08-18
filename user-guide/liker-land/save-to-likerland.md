@@ -4,7 +4,7 @@
 
 ### 使用讚賞鍵收藏網頁
 
-在任何文章看到讚賞鍵都可以點擊書籤「收藏」
+在文章看到讚賞鍵可以點擊書籤「收藏」
 
 ![](../../.gitbook/assets/likecoin-button-save-later-1.png)
 
@@ -18,7 +18,7 @@
 
 {% page-ref page="liker-land-browser-extension.md" %}
 
-### 在 Liker Land 手機應用程式或 Liker Land 網站收藏網頁
+### 在 Liker Land 手機應用程式或 Liker Land 網頁版收藏網頁
 
 在 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/discovering-contents)點擊「書籤」（紅圈）收藏文章
 
@@ -28,9 +28,19 @@
 
 ![](../../.gitbook/assets/likecoin-button-save-later-3.png)
 
-### 
+### 使用手機的 "Share to" / 「分享」功能收藏網頁
 
-### 
+步驟一：在應用程式（例如 Twitter、Plurk、Instagram）或瀏覽器閱讀文章時，點擊 \[分享\] 鍵
+
+![](../../.gitbook/assets/likecoin-button-save-later-6.jpg)
+
+步驟二：點擊手機中的 Liker Land 手機應用程式圖示
+
+![](../../.gitbook/assets/likecoin-button-save-later-7.jpg)
+
+步驟三：出現以下畫面，即代表內容經已收藏至 Liker Land
+
+![](../../.gitbook/assets/likecoin-button-save-later-8.png)
 
 ### 查看已收藏內容
 
