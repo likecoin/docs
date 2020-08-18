@@ -57,6 +57,7 @@
   * [Medium](user-guide/likecoin-button/medium.md)
   * [Pixnet](user-guide/likecoin-button/pixnet.md)
   * [illustBuy](user-guide/likecoin-button/illustbuy.md)
+  * [探路客 TIMELOG](user-guide/likecoin-button/tan-lu-ke-timelog.md)
   * [生活譜記](user-guide/likecoin-button/youput.md)
   * [Blink](user-guide/likecoin-button/blink.md)
   * [Blogspot](user-guide/likecoin-button/blogspot.md)
