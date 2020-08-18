@@ -44,7 +44,7 @@ Step 3: The following screen appears which means the web page is saved to Liker 
 
 ### Check out the saved content <a id="cha-kan-yi-shou-cang-nei-rong"></a>
 
-On the bookmark page of [Liker Land mobile app](https://docs.like.co/user-guide/liker-land/discovering-contents) or [Web](https://docs.like.co/user-guide/liker-land/liker-land-web), you can check out the contents that you've saved.
+On the bookmark page of [Liker Land mobile app](https://docs.like.co/user-guide/liker-land/discovering-contents) or [Web](https://docs.like.co/user-guide/liker-land/liker-land-web) \(circled in red\), you can check out the contents that you've saved.
 
 ![Bookmark page of Liker Land mobile app](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MA_vSa1iGM7QZFeEfyS%2F-MA_xM0d5g8YL2MOZM5_%2FIMG_0816.jpg?alt=media&token=064d6f01-f6c7-41ff-9c49-f39f261a5457)
 
