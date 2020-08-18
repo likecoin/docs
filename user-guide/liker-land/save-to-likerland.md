@@ -24,7 +24,7 @@
 
 ![](../../.gitbook/assets/likecoin-button-save-later-5.png)
 
-在任何瀏覽器登入 [Liker Land 網頁版](https://liker.land/following)， 點擊「書籤」（紅圈）收藏文章
+在任何瀏覽器登入 [Liker Land 網頁版](https://liker.land/)， 點擊「書籤」（紅圈）收藏文章
 
 ![](../../.gitbook/assets/likecoin-button-save-later-3.png)
 
