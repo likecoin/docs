@@ -14,6 +14,7 @@
   * [查看讚賞成就](user-guide/liker-land/rewards.md)
   * [推薦下載奬賞](user-guide/liker-land/referral.md)
   * [Liker Land 網頁版](user-guide/liker-land/liker-land-web.md)
+  * [收藏心愛內容稍後閱讀](user-guide/liker-land/save-to-likerland.md)
   * [Chrome/Firefox 插件](user-guide/liker-land/liker-land-browser-extension.md)
   * [委託 LikeCoin](user-guide/liker-land/delegation-of-likecoin.md)
   * [取回委託 LikeCoin](user-guide/liker-land/undelegation-of-likecoin.md)
