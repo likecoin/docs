@@ -32,11 +32,11 @@
 
 步驟一：在瀏覽器或應用程式（例如 Twitter）閱讀文章時，點擊 \[分享\] 鍵
 
-![](../../.gitbook/assets/likecoin-button-save-later-6.jpg)
+![](../../.gitbook/assets/likecoin-button-save-later-6.png)
 
 步驟二：點擊手機中的 Liker Land 手機應用程式圖示
 
-![](../../.gitbook/assets/likecoin-button-save-later-7.jpg)
+![](../../.gitbook/assets/likecoin-button-save-later-7.png)
 
 步驟三：出現以下畫面，即代表內容經已成功收藏至 Liker Land
 
