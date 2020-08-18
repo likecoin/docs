@@ -30,7 +30,7 @@
 
 ### 使用手機的 "Share to" / 「分享」功能收藏網頁
 
-步驟一：在應用程式（例如 Twitter、Plurk、Instagram）或瀏覽器閱讀文章時，點擊 \[分享\] 鍵
+步驟一：在瀏覽器或應用程式（例如 Twitter）閱讀文章時，點擊 \[分享\] 鍵
 
 ![](../../.gitbook/assets/likecoin-button-save-later-6.jpg)
 
