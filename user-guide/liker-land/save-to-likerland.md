@@ -1,6 +1,6 @@
 # 收藏心愛內容稍後閱讀
 
-全方位追蹤好內容留待空閒時閱讀，Liker Land 帶給你貼心的便利。無論使用桌面電腦、手機、或 Liker Land 手機應用程式，你都可以隨意加上書籤收藏任何網頁，動人文章隨時回看。
+全方位追蹤好內容留待空閒時閱讀，Liker Land 帶給你貼心的便利。無論使用桌面電腦、手機、平板電腦或 Liker Land 手機應用程式，你都可以隨意加上書籤收藏任何網頁，動人文章隨時回看。
 
 ### 使用讚賞鍵收藏網頁
 
@@ -18,9 +18,13 @@
 
 {% page-ref page="liker-land-browser-extension.md" %}
 
-### 在 Liker Land 網站收藏網頁
+### 在 Liker Land 手機應用程式或 Liker Land 網站收藏網頁
 
-在任何瀏覽器登入 [Liker Land 網頁版](https://liker.land/following)， 點擊書籤（紅圈）收藏文章
+在 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/discovering-contents)點擊「書籤」（紅圈）收藏文章
+
+![](../../.gitbook/assets/likecoin-button-save-later-5.png)
+
+在任何瀏覽器登入 [Liker Land 網頁版](https://liker.land/following)， 點擊「書籤」（紅圈）收藏文章
 
 ![](../../.gitbook/assets/likecoin-button-save-later-3.png)
 
