@@ -28,7 +28,7 @@
 
 在 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/discovering-contents)或 [Liker Land 網頁版](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-web)的「書籤頁」（紅圈），隨時查看已收藏的內容。
 
-![](../../.gitbook/assets/likecoin-button-save-later-4.png)
+![Liker Land &#x7DB2;&#x9801;&#x7248;&#x7684;&#x300C;&#x66F8;&#x7C64;&#x9801;&#x300D;](../../.gitbook/assets/likecoin-button-save-later-4.png)
 
-![](../../.gitbook/assets/img_0816.jpg)
+![Liker Land &#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;&#x7684;&#x300C;&#x66F8;&#x7C64;&#x9801;&#x300D;](../../.gitbook/assets/img_0816.jpg)
 
