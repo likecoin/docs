@@ -128,7 +128,7 @@
 
 [本土科創化Like為Coin](https://trendalysis.com/%E8%AB%87%E6%9C%AC%E5%9C%9F%E7%A7%91%E5%89%B5%E5%8C%96like-%E7%82%BAcoin/)
 
-### 04/10 立場新同 高重建專欄
+### 04/20 立場新聞 高重建專欄
 
 [LikeChain 讚賞鏈悄悄地產生首個區塊了](https://www.thestandnews.com/technology/likechain-%E8%AE%9A%E8%B3%9E%E9%8F%88%E6%82%84%E6%82%84%E5%9C%B0%E7%94%A2%E7%94%9F%E9%A6%96%E5%80%8B%E5%8D%80%E5%A1%8A%E4%BA%86/)
 
