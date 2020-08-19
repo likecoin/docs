@@ -30,8 +30,6 @@ _詳細描述_：若用戶是讚賞公民，在任何文章的讚賞鍵點擊 5 
 
 Super Like 功能逢中午 12 時及凌晨 12 時重置，用完一次需待重置時間後才能再次使用。讚賞鍵的綠色外圈是距離下次重置時間的進度條。Super Like 的機會次數不會累積，若重置前沒有用掉，重置後也仍然只有一次機會，因此每天最多只能使用 Super Like 兩次。可重複給同一篇文章 Super Like。
 
-![](../../.gitbook/assets/superlike%20%281%29.gif)
-
 ## 怎樣參與
 
 Super Like 功能將於 2020 第三季推出，推廣期間暫時只有[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)可獲每天最多兩次的 SuperLike 機會。敬請期待。
