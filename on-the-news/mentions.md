@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 08/18 Tech Ritual
+
+[《Boutir掌舖 x VS MEDIA 舉辦網上書展2020》](https://www.techritual.com/2020/08/18/230987/)
+
 ### 08/16 微批 冒業專欄
 
 [數位政治教材──讀《區塊鏈社會學》](https://paratext.hk/?p=2822)
