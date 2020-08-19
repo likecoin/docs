@@ -28,6 +28,12 @@ Matters 的讚賞鍵很簡潔，位於文章的最底部，見下圖。
 
 你還可以在 Matters 介面的右上方點擊自己的頭像，點選「[我的讚賞](https://matters.news/me/appreciations/received)」查看自己的收入。
 
+### 參考文章
+
+> [Matters 作者工具箱 \| 新手必看（2020.08.14更新）](https://matters.news/@hi176/matters-%E4%BD%9C%E8%80%85%E5%B7%A5%E5%85%B7%E7%AE%B1-%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B-2020-08-14%E6%9B%B4%E6%96%B0-bafyreicxjqzr23m4to3kgc5cnepovt3e4ps7mxy537v7aun76wpre7ngae)
+
+> [Matters 讀者工具箱 \| 新手必看（2020.08.14更新）](https://matters.news/@hi176/matters-%E8%AE%80%E8%80%85%E5%B7%A5%E5%85%B7%E7%AE%B1-%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B-2020-08-14%E6%9B%B4%E6%96%B0-bafyreiarbkxluq3zqtl4mrq4i34roo2nfr46fnaqcqgp7mgjqyxj4apf6a)
+
 ## 「一鍵搬家」功能
 
 Matters 於 2020年3月推出[一鍵搬家](https://matters.news/migration)功能，所有有 Medium 帳號的作者，都可以透過這個便捷的功能，快速一鍵搬家，把文章搬到 Matters ，化讚為賞。
