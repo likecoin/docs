@@ -31,7 +31,7 @@ A QR Code appears and it is your LikeCoin wallet address on BitAsset.
 ![](../../.gitbook/assets/bitasset-trade-5-en.png)
 
 {% hint style="warning" %}
-BitAseet has a minimum deposit amount, **a single deposit which is less than the minimum will disappear!** Please make sure that you deposit the correct amount. Read [BitAsset Fees](https://bitasset.zendesk.com/hc/en-us/articles/360028459212-Fees) for information about minimum deposit amount, single withdrawal limit and withdrawal fee.
+BitAseet has a minimum deposit amount, **a single deposit which is less than the minimum will disappear until you deposit again and all together reach the minimum deposit amount!** Please make sure that you deposit the correct amount. Read [BitAsset Fees](https://bitasset.zendesk.com/hc/en-us/articles/360028459212-Fees) for information about minimum deposit amount, single withdrawal limit and withdrawal fee.
 {% endhint %}
 
 ### Step 2: Transfer LikeCoin to BitAsset
