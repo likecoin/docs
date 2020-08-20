@@ -56,9 +56,9 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ![](../../.gitbook/assets/resetpassword-7.png)
 
-**步驟六**：登入成功後，請訪問 [https://like.co/in/settings](https://like.co/in/settings) ，到 Authcore 設定 -&gt; 安全設定 -&gt; 社群登入那兒，重新設定好你的 Google, Facebook, Twitter 等的登入方式。
+**步驟六**：登入成功後，請訪問 [https://like.co/in/settings](https://like.co/in/settings) ，到 Authcore 設定 → 安全設定 → 社群登入，重新設定好你的 Google, Facebook, Twitter 等登入方式。
 
-![](https://downloads.intercomcdn.com/i/o/175785380/c33d66011c62baf955083c2a/Untitled.png)
+![](../../.gitbook/assets/social-media-logins-1.png)
 
-假若問題仍是無法解決嗎？請點 [like.co](https://like.co/) 右下角的綠色圓型圖示尋求客服幫助。
+假若問題仍是無法解決，請點 [Like.co](https://like.co/) 右下角的藍色圓型圖示尋求客服幫助。
 
