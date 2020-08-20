@@ -10,35 +10,35 @@ If you cannot login your Liker ID with your social logins, please try the follow
 
 ### Step 1
 
-Go to [https://liker.land/](https://liker.land/) and make sure that you are being logged out. You may go to the menu at the top right hand corner and find the "Logout" option
+Go to [https://liker.land/](https://liker.land/) and make sure that you are being logged out. You may go to the menu at the top right hand corner and find the "Logout" option.
 
-### **步驟二**
+### **Step 2**
 
-重新登入。在登入視窗中，選「重設密碼」。  
+Login again, on the login box select "Reset Password".  
 
 
 ![](../../.gitbook/assets/resetpassword-1.png)
 
-### 步驟三
+### Step 3
 
-輸入你註冊的電郵地址再點擊「發送」，一般是你在 Liker Land 上已驗證的電郵地址
+Input your registered email address and press "Send", it should be the email used during registration
 
 ![](../../.gitbook/assets/resetpassword-2.png)
 
 {% hint style="info" %}
-若不成功，例如出現「找不到相關電郵或電話號碼」的錯誤訊息，請試試：
+If it doesn't work, e.g. "Can't find the email address or phone number" appears, please try to:
 
-* 你用作註冊社交帳號 \( Facebook, Google, Twitter \) 的電郵地址；
-* 若你的電郵地址有「點」\( . \)，請刪掉這個「點」試試。例如 john.chan@gmail.com ，改作 johnchan@gmail.com 再試。
+* Use the same email address that you registered your social media profile \( Facebook, Google, Twitter\);
+* If your email got a "dot" ".", please delete the  dot and try again. e.g. use johnchan@gmail.com instead of john.chan@gmail.com and try again.
 {% endhint %}
 
-完成後出現以下訊息。
+The following appears.
 
 ![](../../.gitbook/assets/resetpassword-3.png)
 
-### **步驟四**
+### Step 4
 
-接收重設密碼郵件，點擊郵件中的鏈結重設密碼
+Receive the reset password email on your mailbox, click the link  on the email to reset password.
 
 ![](../../.gitbook/assets/resetpassword-4.png)
 
