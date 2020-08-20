@@ -6,15 +6,11 @@ description: >-
 
 # Resetting password
 
-## If you cannot perform the steps below, please contact our helpdesk at the lower right hand corner blue bubble on Like.co.
-
 If you cannot login your Liker ID with your social logins, please try the following steps to reset password and see if it helps. 
 
 ### Step 1
 
 Go to [https://liker.land/](https://liker.land/) and make sure that you are being logged out. You may go to the menu at the top right hand corner and find the "Logout" option
-
-。先確保自己在登出狀態，你可以打開右上角的功能選單找到「登出」的選項。
 
 ### **步驟二**
 
