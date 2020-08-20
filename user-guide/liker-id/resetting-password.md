@@ -42,21 +42,23 @@ Receive the reset password email on your mailbox, click the link  on the email t
 
 ![](../../.gitbook/assets/resetpassword-4.png)
 
-輸入密碼兩次，再點擊 "Reset Password"
+Input your new password twice, and click "Reset Password"
 
 ![](../../.gitbook/assets/resetpassword-5.png)
 
-重設密碼成功，回到 [Liker Land](https://liker.land/) 網站登入 Liker ID。
+You have successfully reset your password, go back to [Liker Land](https://liker.land/) and login your Liker ID.
 
 ![](../../.gitbook/assets/resetpassword-6.png)
 
-### **步驟五**
+### Step 5
 
-在登入畫面，**以電郵及密碼登入**。留意不是選上方的社交帳號登入喔。
+On the login box, use your **email and password to login**. Please do not select the social logins on the above.
 
 ![](../../.gitbook/assets/resetpassword-7.png)
 
-**步驟六**：登入成功後，請訪問 [https://like.co/in/settings](https://like.co/in/settings) ，到 Authcore 設定 → 安全設定 → 社群登入，重新設定好你的 Google, Facebook, Twitter 等登入方式。
+### **Step 6**
+
+After login, go to [https://like.co/in/settings](https://like.co/in/settings) ，到 Authcore 設定 → 安全設定 → 社群登入，重新設定好你的 Google, Facebook, Twitter 等登入方式。
 
 ![](../../.gitbook/assets/social-media-logins-1.png)
 
