@@ -58,11 +58,9 @@ On the login box, use your **email and password to login**. Please do not select
 
 ### **Step 6**
 
-After login, go to [https://like.co/in/settings](https://like.co/in/settings) ，到 Authcore 設定 → 安全設定 → 社群登入，重新設定好你的 Google, Facebook, Twitter 等登入方式。
+After login, go to [https://like.co/in/settings](https://like.co/in/settings) ，click on Authcore → Security settings → Social logins to reset your Google, Facebook, Twitter logins.
 
-![](../../.gitbook/assets/social-media-logins-1.png)
+![](../../.gitbook/assets/social-media-logins-1-en.png)
 
-假若問題仍是無法解決，請點 [Like.co](https://like.co/) 右下角的藍色圓型圖示尋求客服幫助。
-
-
+If the problem still persisits, please click on the blue bubble at the lower right hand corner on [Like.co](https://like.co/) and find our Customer Service to help.
 
