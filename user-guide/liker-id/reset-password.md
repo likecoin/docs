@@ -6,24 +6,22 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ### 如未能執行以下步驟，請到 [Like.co](https://like.co/) 按畫面右下角藍色按鈕與客戶服務部聯絡。
 
-
-
 有時因為不明原因無法以社交帳號登入 Liker ID，不妨試試以下步驟，重新設定密碼看看。
 
-**步驟一**
+### **步驟一**
 
-訪問 [https://like.co/in](https://like.co/in) 。先確保自己在登出狀態，你可以打開右上角的功能選單，下拉到最底部找到「登出」的選項。
+訪問 [https://liker.land/](https://liker.land/)  。先確保自己在登出狀態，你可以打開右上角的功能選單找到「登出」的選項。
 
--------------------------
+### **步驟二**
 
-**步驟二**：重新登入。在登入視窗中，選「重設密碼」。  
+重新登入。在登入視窗中，選「重設密碼」。  
 
 
-![](https://downloads.intercomcdn.com/i/o/175778962/4f4bd1aeab2798bbf0285cdd/reset+pwd.png)
+![](../../.gitbook/assets/resetpassword-1.png)
 
--------------------------
+### 步驟三
 
-**步驟三**：輸入你的註冊電郵地址，一般是你在 [like.co](http://like.co/) 上已驗證的電郵地址。
+輸入你註冊的電郵地址，一般是你在 Liker Land 上已驗證的電郵地址。
 
 ![](https://downloads.intercomcdn.com/i/o/175780418/7a4f7521aa79eae6e786b17e/reset+pwd.png)
 
