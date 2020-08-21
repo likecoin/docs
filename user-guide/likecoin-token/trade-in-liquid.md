@@ -38,6 +38,10 @@ Click on "Buy with VISA", fill in credit card information and pay for it
 
 ![](../../.gitbook/assets/quick-exchange-3-en.png)
 
+You can also go to [Like.co](https://like.co/) to purchase LikeCoin.
+
+![](../../.gitbook/assets/quick-exchange-5.png)
+
 #### Liquid Official Tutorial
 
 > [Liquid Swap FAQ](https://help.liquid.com/en/articles/2607590-liquid-swap-faq)
