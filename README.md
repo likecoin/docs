@@ -28,5 +28,5 @@ description: 讚賞公民共和國
 
 #### 聯絡客服
 
-請到 [Like.co](https://like.co/) 按畫面右下角藍色按鈕
+請到 [Like.co](https://like.co/) 按畫面右下角緣色按鈕
 

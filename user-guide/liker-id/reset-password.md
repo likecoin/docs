@@ -60,5 +60,5 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ![](../../.gitbook/assets/social-media-logins-1.png)
 
-假若問題仍是無法解決，請點 [Like.co](https://like.co/) 右下角的藍色圓型圖示尋求客服幫助。
+假若問題仍是無法解決，請點 [Like.co](https://like.co/) 右下角的緣色圓型圖示尋求客服幫助。
 
