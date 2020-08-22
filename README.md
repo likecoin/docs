@@ -30,5 +30,5 @@ Download it on [Google Play Store](https://play.google.com/store/apps/details?id
 
 #### Contact customer service
 
-Please go to [Like.co](https://like.co/) and click the lower right hand corner help desk dialogue box \(icon in blue\).
+Please go to [Like.co](https://like.co/) and click the lower right hand corner help desk dialogue box \(icon in green\).
 
