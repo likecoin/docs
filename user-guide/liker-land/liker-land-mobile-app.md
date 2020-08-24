@@ -1,12 +1,12 @@
 ---
-description: 每一位參與讚賞公民國民活動的隨身工具
+description: Liker 必備 app
 ---
 
 # Liker Land 手機應用程式
 
 ![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
-[Liker Land 手機應用程式](https://like.co/in/getapp)，是每一位讚賞公民參與國民活動的隨身工具。
+[Liker Land ](https://like.co/in/getapp)是每位 Liker 必備的手機應用程式。
 
 ### 閱讀器
 

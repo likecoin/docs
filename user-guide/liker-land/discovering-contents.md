@@ -2,7 +2,7 @@
 description: 把讚賞贈給自己最愛的內容
 ---
 
-# 發現內容
+# 瀏覽內容
 
 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)提供幾個方法，讓你發現最適合自己的內容。
 

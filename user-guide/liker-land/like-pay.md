@@ -1,5 +1,5 @@
 ---
-description: 用 Liker Land 手機應用程式轉帳 LikeCoin，免手續費，幾秒搞定
+description: 用 Liker Land 手機應用程式轉帳 LikeCoin，幾秒搞定
 ---
 
 # LIKE pay
