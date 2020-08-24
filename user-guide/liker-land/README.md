@@ -26,5 +26,5 @@ description: 讚賞公民共和國或簡稱 Liker Land ，是一個由作者及�
 
 {% page-ref page="../likecoin-chain/redelegation-of-likecoin.md" %}
 
-{% page-ref page="../../list-of-media.md" %}
+{% page-ref page="../../about-likecoin/list-of-media.md" %}
 
