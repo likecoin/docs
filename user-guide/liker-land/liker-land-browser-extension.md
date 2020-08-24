@@ -2,11 +2,11 @@
 description: Liker Land 瀏覽器擴充功能
 ---
 
-# Chrome/Firefox 插件
+# Chrome/Brave/Firefox 插件
 
-Liker Land Chrome / Firefox 插件讓你為網頁加上書籤儲存，留待有空時細閱。
+Liker Land Chrome / Brave / Firefox 插件讓你為網頁加上書籤儲存，留待有空時細閱。
 
-[Chrome 版](https://chrome.google.com/webstore/detail/liker-land/cjjcemdmkddjbofomfgjedpiifpgkjhe)
+[Chrome / Brave 版](https://chrome.google.com/webstore/detail/liker-land/cjjcemdmkddjbofomfgjedpiifpgkjhe)
 
 [Firefox 版](https://addons.mozilla.org/en-US/firefox/addon/liker-land/?src=search)
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [LikeCoin 是什麼](README.md)
-* [📜  緣起](constitution.md)
+* [緣起](constitution.md)
 * [傳媒報導](on-the-news.md)
 * [支援網站列表](list-of-media.md)
 
@@ -44,7 +44,7 @@
     * [查看讚賞成就](user-guide/liker-land/liker-land-mobile-app/rewards.md)
     * [推薦下載奬賞](user-guide/liker-land/liker-land-mobile-app/referral.md)
   * [Liker Land 網頁版](user-guide/liker-land/liker-land-web.md)
-  * [Chrome/Firefox 插件](user-guide/liker-land/liker-land-browser-extension.md)
+  * [Chrome/Brave/Firefox 插件](user-guide/liker-land/liker-land-browser-extension.md)
 * [Liker ID](user-guide/liker-id/README.md)
   * [註冊 Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
   * [修改頭像及顯示名稱](user-guide/liker-id/edit-avatar-displayname.md)
