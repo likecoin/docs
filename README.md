@@ -6,19 +6,19 @@ description: 讚賞公民共和國
 
 ![](.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
 
-[LikeCoin](https://like.co/) 為解決內容變現、溯源及發行而設計的分散式協議。所有內容在 [LikeCoin chain](https://likecoin.bigdipper.live/)、LikeCoin 通證及相應的應用程式介面、來自[讚賞公民共和國](https://like.co/in/getapp)的媒體以分散式自治組織的方式支持下，獲得註冊認證，並且創作者能因為每個按讚而獲得回饋。‌
+[LikeCoin](https://like.co/) 為去中心內容發行的基礎建設，包含去中心存檔、去中心讚賞、去中心策展及去中心治理幾方面。
 
-截至 2020年1月，[讚賞公民共和國](https://like.co/in/getapp) 有 **1000+** 名[**讚賞公民**](https://liker.land/civic)， 佔總數**45,000+ Likers**的**2.5%**，共回饋了 **24mil+ LikeCoin** \( 150k 美元 \) ，給 **4000+ 創作者** 於**700+ 媒體上** 的 **150,000+ 份**內容。‌
+LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) 公共區塊鏈，其支撐整個社群，又稱 [讚賞公民共和國](https://like.co/in/getapp)。‌
+
+截至 2020年8月，[讚賞公民共和國](https://like.co/in/getapp) 有 **1800+ 名** [**讚賞公民**](https://liker.land/civic)， 佔總數 **75,435+ Likers** 約 **2.4%**，共回饋了 **35mil+ LikeCoin** 給 **10,928+ 位創作者**於 **1200+ 個媒體上**的 **286,442+ 筆內容**。‌
 
 即時數據更新：[ ![Number of Liker](https://static.like.co/badge/stats/liker.svg)](https://like.co/) [![Number of creator](https://static.like.co/badge/stats/creator.svg)](https://like.co/) [![Number of content](https://static.like.co/badge/stats/content.svg)](https://like.co/) [![Number of LIKE given](https://static.like.co/badge/stats/LIKE.svg)](https://like.co/)
 
 更詳細營運數據，[請參考這裡](https://datastudio.google.com/u/0/reporting/e6168171-b61d-4871-b39f-7b6308f2facc/page/qgR)（2020年起）。
 
-部份已支援 LikeCoin 的媒體包括 [Matters](https://matters.news/)、[立場新聞](https://www.thestandnews.com/)、[香港獨立媒體網](https://www.inmediahk.net/)、[眾新聞](https://www.hkcnews.com/) 及其他 1,000+ 網站。LikeCoin 也可在 [WordPress](https://zh-hk.wordpress.org/plugins/likecoin/)、[Medium](https://medium.com/)、[方格子](https://vocus.cc/)、[Blogspot \( Blogger.com \)](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
+部份已支援 LikeCoin 的媒體包括 [Matters](https://matters.news/)、[立場新聞](https://www.thestandnews.com/)、[香港獨立媒體網](https://www.inmediahk.net/)、[眾新聞](https://www.hkcnews.com/)、[方格子](https://vocus.cc/)及其他 1,200 多個網站。LikeCoin 也可在 [WordPress](https://zh-hk.wordpress.org/plugins/likecoin/)、[Medium](https://medium.com/)、[Blogspot \(Blogger.com\)](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
 
-創作者及讀者可用 [Liker Land](https://like.co/in/getapp) 作簡便的閱讀器及跟分散式生態互動的媒介。
-
-於 [Google Play Store](https://play.google.com/store/apps/details?id=com.oice&hl=en) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) 下載 Liker Land 手機應用程式。  
+除了在習慣的平台閱讀，讀者亦可用 [Liker Land](https://like.co/in/getapp) 手機應用程式，透過可信賴的內容伯樂每天精選內容。Liker Land 可於 [Google Play Store](https://play.google.com/store/apps/details?id=com.oice&hl=en) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) 下載。 
 
 ![](.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
@@ -28,5 +28,5 @@ description: 讚賞公民共和國
 
 #### 聯絡客服
 
-請到 [Like.co](https://like.co/) 按畫面右下角緣色按鈕
+請到 [Like.co](https://like.co/) 按畫面右下角綠色按鈕
 
