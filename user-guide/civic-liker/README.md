@@ -4,9 +4,9 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 # Civic Liker 讚賞公民
 
-![](../../.gitbook/assets/civic-liker.png)
+{% embed url="https://www.youtube.com/watch?v=L6yjFruMLnA&t=5s" %}
 
-### 【[成為讚賞公民](https://liker.land/civic)】
+## [成為讚賞公民](https://liker.land/civic)
 
 讚賞公民是一場回饋優秀內容的運動。讀者每月付出一杯咖啡的價錢，就能成為讚賞公民，從此每個點讚，都會化成對創作者的實質支持。
 
@@ -38,4 +38,6 @@ _\*每月 USD5/HKD38 到帳部分（部分支付方式如信用卡會收取手�
 > [化讚為賞 \| 讚賞公民懶人包](https://matters.news/@likecoin/%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E6%87%B6%E4%BA%BA%E5%8C%85-zdpuAtWT6a2rjr75JZBzwnvy67vrxw5cBRqwnHbkFehRYHLXx)
 
 ### 【[成為讚賞公民](https://liker.land/civic)】
+
+![](../../.gitbook/assets/civic-liker.png)
 
