@@ -72,7 +72,7 @@
   * [註冊 BitAsset 帳號](user-guide/likecoin-token/registering-on-bitasset.md)
   * [註冊及在 MyEthShop 交易](user-guide/likecoin-token/registering-and-trade-in-myethshop/README.md)
     * [在 BitAsset 交易](user-guide/likecoin-token/registering-and-trade-in-myethshop/trade-in-bitasset.md)
-* [LikeCoin 去中心治理](user-guide/likecoin-chain/README.md)
+* [參與去中心治理](user-guide/likecoin-chain/README.md)
   * [流動民主](user-guide/likecoin-chain/liquid-democracy.md)
   * [驗證人](user-guide/likecoin-chain/what-is-a-validator.md)
   * [成為驗證人](user-guide/likecoin-chain/become-a-validator.md)
