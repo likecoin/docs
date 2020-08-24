@@ -2,6 +2,14 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 08/22 香港蘋果日報 尹思哲專欄
+
+[【創業起義】與其呼籲抵制FB 不如直接顛覆（尹思哲）](https://hk.appledaily.com/finance/20200822/Y5D7N7DGXZHY5HWIC6L6ZGETIM/)
+
+### 08/22 立場新聞 蕭家怡專欄
+
+[信任的實踐 — 記我的第一次 LikeCoin 消費](https://www.thestandnews.com/personal/%E4%BF%A1%E4%BB%BB%E7%9A%84%E5%AF%A6%E8%B8%90-%E8%A8%98%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1-likecoin-%E6%B6%88%E8%B2%BB/)
+
 ### 08/18 Tech Ritual
 
 [《Boutir掌舖 x VS MEDIA 舉辦網上書展2020》](https://www.techritual.com/2020/08/18/230987/)
