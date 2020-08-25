@@ -1,5 +1,5 @@
 ---
-description: 如何在 Matters 文章上加入讚賞鍵
+description: 如何在 Matters 寫作賺取 LikeCoin 成就？
 ---
 
 # Matters

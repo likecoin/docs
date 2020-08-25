@@ -1,5 +1,5 @@
 ---
-description: 重新定義「分享」的概念
+description: 何謂 Super Like？Content Jockey 內容伯樂又是甚麼？
 ---
 
 # Super Like — 內容策展

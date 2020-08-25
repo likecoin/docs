@@ -1,5 +1,5 @@
 ---
-description: 讚賞公民共和國憲法
+description: LikeCoin 和整個社群當初怎樣形成的？
 ---
 
 # 緣起

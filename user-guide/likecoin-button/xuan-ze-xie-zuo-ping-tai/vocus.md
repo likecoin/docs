@@ -1,5 +1,5 @@
 ---
-description: 如何在方格子 Vocus 文章中加入讚賞鍵
+description: 如何在 Medium 寫作賺取 LikeCoin 成就？
 ---
 
 # Vocus

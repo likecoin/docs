@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LikeCoin 是什麼](README.md)
+* [LikeCoin 與讚賞公民共和國](README.md)
 
 ## 關於 LikeCoin <a id="about-likecoin"></a>
 
@@ -15,10 +15,12 @@
   * [LikeCoin button 讚賞鍵](user-guide/likecoin-button/how-it-works/README.md)
     * [Like — 化讚為賞](user-guide/likecoin-button/how-it-works/like-rewards.md)
     * [Super Like — 內容策展](user-guide/likecoin-button/how-it-works/superlike.md)
-  * [選擇寫作平台](user-guide/likecoin-button/xuan-ze-xie-zuo-ping-tai/README.md)
+  * [自架網站](user-guide/likecoin-button/selfhost/README.md)
+    * [WordPress](user-guide/likecoin-button/selfhost/wordpress.md)
+    * [其他](user-guide/likecoin-button/selfhost/sdk.md)
+  * [寫作平台](user-guide/likecoin-button/xuan-ze-xie-zuo-ping-tai/README.md)
     * [Matters](user-guide/likecoin-button/xuan-ze-xie-zuo-ping-tai/matters.md)
     * [立場新聞、獨立媒體、眾新聞](user-guide/likecoin-button/xuan-ze-xie-zuo-ping-tai/civic-media.md)
-    * [WordPress](user-guide/likecoin-button/xuan-ze-xie-zuo-ping-tai/wordpress.md)
     * [Medium](user-guide/likecoin-button/xuan-ze-xie-zuo-ping-tai/medium.md)
     * [Vocus](user-guide/likecoin-button/xuan-ze-xie-zuo-ping-tai/vocus.md)
     * [Pixnet](user-guide/likecoin-button/xuan-ze-xie-zuo-ping-tai/pixnet.md)
@@ -36,7 +38,6 @@
     * [Hugo](user-guide/likecoin-button/xuan-ze-xie-zuo-ping-tai/hugo.md)
     * [Jekyll](user-guide/likecoin-button/xuan-ze-xie-zuo-ping-tai/jekyll.md)
     * [mdBook](user-guide/likecoin-button/xuan-ze-xie-zuo-ping-tai/mdbook.md)
-    * [Others](user-guide/likecoin-button/xuan-ze-xie-zuo-ping-tai/sdk.md)
   * [查閱讚賞成就](user-guide/likecoin-button/cha-yue-zan-shang-cheng-jiu.md)
 * [我是讀者](user-guide/liker-land/README.md)
   * [Liker Land 手機應用程式](user-guide/liker-land/liker-land-mobile-app/README.md)

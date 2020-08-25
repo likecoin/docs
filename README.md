@@ -1,8 +1,8 @@
 ---
-description: 讚賞公民共和國
+description: LikeCoin 是甚麼？讚賞公民共和國又是甚麼東東？
 ---
 
-# LikeCoin 是什麼
+# LikeCoin 與讚賞公民共和國
 
 ![](.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
 

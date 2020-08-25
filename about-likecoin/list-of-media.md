@@ -1,8 +1,10 @@
 ---
-description: 支援 LikeCoin 的網站列表，不定時更新
+description: 支援 LikeCoin 的網站具體有哪些？
 ---
 
 # 支援網站列表
+
+## 不定時更新
 
 [\[Life is a journey. - 紀錄與分享生活點滴\]](https://aruyooo.com)  
 [\[夜蝴蝶館 - 只有故事和故事相關的事\]](http://seba.tw)  
