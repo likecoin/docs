@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 08/26 掌舖 x VSMedia 網上書展
+
+{% embed url="https://www.facebook.com/watch/live/?v=415270672770452&ref=watch\_permalink" %}
+
 ### 08/17 香港蘋果日報
 
 [派讚賞幣回饋創作者](https://hk.appledaily.com/finance/20200817/BYQBDVDNPVCFPIZQFMAGIYXEIA/)
