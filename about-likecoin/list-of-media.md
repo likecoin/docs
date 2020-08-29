@@ -1,8 +1,10 @@
 ---
-description: 'List of websites embed LikeCoin button, updating from time to time'
+description: Which websites are empowered by LikeCoin?
 ---
 
 # List of Media
+
+### Update from time to time
 
 [\[Life is a journey. - 紀錄與分享生活點滴\]](https://aruyooo.com)  
 [\[夜蝴蝶館 - 只有故事和故事相關的事\]](http://seba.tw)  
