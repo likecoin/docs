@@ -69,6 +69,7 @@
     * [Content Discovery](user-guide/liker-land/liker-land-mobile-app/discovering-contents.md)
     * [Save to Liker Land](user-guide/liker-land/liker-land-mobile-app/save-to-likerland.md)
     * [Reading and Rewarding](user-guide/liker-land/liker-land-mobile-app/reading-and-rewarding.md)
+    * [Content Sharing - Super Like](user-guide/liker-land/liker-land-mobile-app/content-sharing-super-like.md)
     * [LIKE pay](user-guide/liker-land/liker-land-mobile-app/like-pay.md)
     * [Referral Bonus](user-guide/liker-land/liker-land-mobile-app/referral.md)
   * [Liker Land web](user-guide/liker-land/liker-land-web.md)
