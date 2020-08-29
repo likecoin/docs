@@ -105,7 +105,6 @@
   * [Undelegation of LikeCoin](user-guide/likecoin-chain/undelegation-of-likecoin.md)
   * [Redelegation of LikeCoin](user-guide/likecoin-chain/redelegation-of-likecoin.md)
   * [Proposals](user-guide/likecoin-chain/proposals.md)
-* [LikeCoin button](user-guide/likecoin-button.md)
 * [FAQ](user-guide/faq/README.md)
   * [LikeCoin Foundation](user-guide/faq/likecoin-foundation.md)
   * [How to receive a Liker Land monthly report?](user-guide/faq/monthly-report.md)
