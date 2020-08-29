@@ -10,7 +10,7 @@ description: Liker 必備 app
 
 ### 閱讀器
 
-閱讀器還助你追蹤曾經讚過的作者及最受歡迎的文章，掌握你最關注的內容。詳細操作請[參考這篇](https://docs.like.co/v/zh/user-guide/liker-land/discovering-contents)。
+閱讀器助你追蹤曾經讚過的作者及最受歡迎的文章，掌握你最關注的內容。詳細操作請[參考這篇](https://docs.like.co/v/zh/user-guide/liker-land/discovering-contents)。
 
 不少讀者都曾遇到一個問題：按讚時總被要求重新登入，令體驗大打節扣，減低按讚的意欲；Liker Land 解決了這問題，一次登入即可。
 

@@ -1,5 +1,5 @@
 ---
-description: 如何在 Medium 寫作賺取 LikeCoin 成就？
+description: 如何在 方格子 Vocus 寫作賺取 LikeCoin 成就？
 ---
 
 # Vocus
