@@ -62,7 +62,7 @@
   * [如何以 LikeCoin 繳付「讚賞公民」年費](user-guide/civic-liker/civic-liker-paid-by-likecoin.md)
   * [如何退訂「讚賞公民」](user-guide/civic-liker/unsubscribe-civic-liker.md)
 * [LikeCoin 交易](user-guide/likecoin-token/README.md)
-  * [購買產品與服務](user-guide/likecoin-token/gou-mai-chan-pin-yu-fu-wu.md)
+  * [購買產品與服務](user-guide/likecoin-token/products-and-services.md)
   * [獲得 LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
   * [交易 LikeCoin](user-guide/likecoin-token/how-to-buy-and-sell-likecoin.md)
   * [註冊 Liquid 帳號](user-guide/likecoin-token/registering-on-liquid.md)
