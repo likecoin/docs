@@ -2,7 +2,7 @@
 description: And Republic of Liker Land
 ---
 
-# LikeCoin and Liker Land
+# LikeCoin and Republic of Liker Land
 
 ![](.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
 
