@@ -26,7 +26,7 @@
     * [October CMS](user-guide/content-creators/self-host/october-cms.md)
   * [寫作平台](user-guide/content-creators/content-platforms/README.md)
     * [Matters](user-guide/content-creators/content-platforms/matters.md)
-    * [立場新聞、獨立媒體、眾新聞](user-guide/content-creators/content-platforms/civic-media.md)
+    * [立場新聞、香港獨立媒體網、眾新聞](user-guide/content-creators/content-platforms/civic-media.md)
     * [Medium](user-guide/content-creators/content-platforms/medium.md)
     * [Vocus](user-guide/content-creators/content-platforms/vocus.md)
     * [Pixnet](user-guide/content-creators/content-platforms/pixnet.md)
