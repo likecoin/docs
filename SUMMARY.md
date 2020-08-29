@@ -39,7 +39,6 @@
     * [Wix / Weebly](user-guide/content-creators/content-platforms/wix.md)
     * [Write.as](user-guide/content-creators/content-platforms/write.as.md)
   * [查看讚賞成就](user-guide/content-creators/rewards.md)
-  * [查閱讚賞成就](user-guide/content-creators/cha-yue-zan-shang-cheng-jiu.md)
 * [我是讀者](user-guide/liker-land/README.md)
   * [Liker Land 手機應用程式](user-guide/liker-land/liker-land-mobile-app/README.md)
     * [瀏覽內容](user-guide/liker-land/liker-land-mobile-app/discovering-contents.md)
