@@ -18,7 +18,7 @@ It may be the case that you never link your Etherscan wallet to your Like ID and
 
 ### **3.** In the "Sign" process experiences "Cannot detect web3 in browser" error
 
-![](../../.gitbook/assets/likecoin-migration-faq.png)
+![](../../../.gitbook/assets/likecoin-migration-faq.png)
 
 This error indicates that the system cannot detect MetaMask, please check if you are using Chrome and have Metamask installed.
 

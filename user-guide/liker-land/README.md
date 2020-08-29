@@ -30,5 +30,5 @@ description: >-
 
 {% page-ref page="redelegation-of-likecoin.md" %}
 
-{% page-ref page="list-of-media.md" %}
+{% page-ref page="../../about-likecoin/list-of-media.md" %}
 

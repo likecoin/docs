@@ -64,7 +64,7 @@ Operates a set of servers 24x7 to validate all transactions of _Likers_, includi
 
 To start with, _validators_ of _LikeCoin chain_ include [**National Taipei University of Technology**](https://www.ntut.edu.tw/), [**Taiwan FactCheck Center**](https://tfc-taiwan.org.tw/),[**Forbole**](https://www.forbole.com/), **The** [**Standnews**](https://thestandnews.com/), [**Culture and Media Education Foundation**](https://www.cmef.org.hk/eng), [**Hong Kong Creative Open Technology Association**](https://cota.hk/), [**Matters Lab**](https://matters.news/), [**GLOs**](https://www.glos.world/), [**Enyk Security**](https://enyk.io/), [**UDomain**](https://www.udomain.com/) and [**OurSky**](https://oursky.com/).
 
-![first batch of validators of LikeCoin chain](.gitbook/assets/likecoin_ad70_validators-01.png)
+![first batch of validators of LikeCoin chain](../.gitbook/assets/likecoin_ad70_validators-01.png)
 
 ## Mechanism <a id="d993"></a>
 
@@ -145,7 +145,7 @@ The proposal would be implemented if it is passed. It happens when:
 
 In case quorum is not reached or the proposal is vetoed, the 1 mil _LikeCoin_ deposit goes to the **Community Pool**. In other cases, the deposit will be returned to the _Likers._
 
-![](.gitbook/assets/validator.png)
+![](../.gitbook/assets/validator.png)
 
 ## Future Development <a id="b575"></a>
 
