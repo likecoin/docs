@@ -28,5 +28,5 @@ LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) �
 
 #### 聯絡客服
 
-請到 [Liker Land](https://liker.land/) 或 [Like.co](https://like.co/) 按畫面右下角綠色按鈕
+請到 [Like.co](https://like.co/) 按畫面右下角綠色按鈕
 
