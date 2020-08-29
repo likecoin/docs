@@ -37,7 +37,7 @@
 ## 📙 user guide
 
 * [Content creators](user-guide/content-creators/README.md)
-  * [About LikeCoin button](user-guide/content-creators/how-it-works.md)
+  * [LikeCoin button](user-guide/content-creators/how-it-works.md)
 * [Liker Land](user-guide/liker-land/README.md)
   * [Liker Land mobile app](user-guide/liker-land/liker-land-mobile-app.md)
   * [Content Discovery](user-guide/liker-land/discovering-contents.md)
