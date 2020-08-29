@@ -18,29 +18,29 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 點「帳戶」鍵進入下方畫面，在上面綠色按鍵點擊「轉入」選 「LIKE」，又或者在一系列密碼貨幣當中選 LIKE 再點擊藍色「轉入」按鍵傳 LikeCoin 到 MyEthshop 以便賣出。你亦可以選「HKD」存入港幣買進 LikeCoin
 
-![](../../../.gitbook/assets/myethshop-1.png)
+![](../../.gitbook/assets/myethshop-1.png)
 
 在 LIKE 點擊「轉入」 後會出現以下警告，由於 MyEthShop  仍然支援舊版 LikeCoin ERC-20 交易故有此提示，點擊「我知道了」
 
-![](../../../.gitbook/assets/myethshop-2.png)
+![](../../.gitbook/assets/myethshop-2.png)
 
 接下來畫面的上半部份會出現下圖的二維碼、cosmos 開始的一串長長的地址及 Liker ID myethshop，那便是 MyEthShop 的 LikeCoin 錢包地址。
 
-![](../../../.gitbook/assets/myethshop-3.png)
+![](../../.gitbook/assets/myethshop-3.png)
 
 ### 步驟四：轉帳 LikeCoin 到 MyEthShop
 
 打開 [Liker Land 手機應用程式](https://like.co/in/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己的 LikeCoin 結餘。點畫面上的「轉帳」 / \[Send\] 鍵（下圖紅圈位置）
 
-![&#x5728; Liker Land &#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;&#x9322;&#x5305;&#x4ECB;&#x9762;&#x9078; Send&#xFF08;&#x7D05;&#x5708;&#xFF09;](../../../.gitbook/assets/bitasset-trade-6.png)
+![&#x5728; Liker Land &#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;&#x9322;&#x5305;&#x4ECB;&#x9762;&#x9078; Send&#xFF08;&#x7D05;&#x5708;&#xFF09;](../../.gitbook/assets/bitasset-trade-6.png)
 
 進入下一頁後，點下圖紅圈位置的二維碼圖示。app 會跳進照相機介面讓你掃描二維碼，請掃描【步驟三】中 MyEthShop 的 LikeCoin 錢包二維碼，或可直接於 \[Enter receiver address\] 填上收款方 MyEthShop 的錢包地址或 Liker ID myethshop
 
-![&#x9EDE;&#x4E0A;&#x5716;&#x7D05;&#x5708;&#x4F4D;&#x7F6E;&#x6253;&#x958B;&#x7167;&#x76F8;&#x6A5F;](../../../.gitbook/assets/bitasset-trade-7.png)
+![&#x9EDE;&#x4E0A;&#x5716;&#x7D05;&#x5708;&#x4F4D;&#x7F6E;&#x6253;&#x958B;&#x7167;&#x76F8;&#x6A5F;](../../.gitbook/assets/bitasset-trade-7.png)
 
 輸入你想要轉帳的 LikeCoin 金額，然後點擊「確認」 / \[Confirm\]
 
-![](../../../.gitbook/assets/bitasset-trade-8.png)
+![](../../.gitbook/assets/bitasset-trade-8.png)
 
 轉帳指示已發出並於兩分鐘即可到帳，按下來我們要通知 MyEthShop 轉帳已達。
 
@@ -48,27 +48,27 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 回到 Liker Land 手機應用程式錢包介面，往下點擊 \[View on Big Dipper\]
 
-![](../../../.gitbook/assets/myethshop-4.png)
+![](../../.gitbook/assets/myethshop-4.png)
 
 會跳出畫開啟瀏覽器顯示 [北斗 Big Dipper](https://docs.like.co/v/zh/user-guide/likecoin-chain/big-dipper) 內容，\# 號開始的就是哈希 Transaction Hash / TXID，並說明從你的錢包地址轉帳到 MyEthshop 的錢包 cosmos1zr8fwqpkj0sydpjfjqa4uk4ptu6tahgfw8deyq。按哈希打開交易明細，並複製哈希地址
 
-![](../../../.gitbook/assets/myethshop-5.png)
+![](../../.gitbook/assets/myethshop-5.png)
 
 假如在手機開啟北斗時出現問題，你亦可使用桌面電腦，打開北斗網站 [https://likecoin.bigdipper.live/](https://likecoin.bigdipper.live/) 並輸入你的錢包地址，同樣可以查看交易內容。
 
-![](../../../.gitbook/assets/myethshop-6.png)
+![](../../.gitbook/assets/myethshop-6.png)
 
 ### 步驟六：填寫哈希及確認 MyEthShop 收款
 
 回到【步驟三】MyEthShop 網站轉入 LIKE 畫面，填寫哈希  Transaction Hash / TXID 及轉入金額，再點擊「轉入」
 
-![](../../../.gitbook/assets/myethshop-7.png)
+![](../../.gitbook/assets/myethshop-7.png)
 
 接下來便要等 MyEthShop 確認收款了。點選「帳戶」再點擊「交易/提存紀錄」可查看 LikeCoin 是否經已成功轉入，你亦會收到來自 MyEthShop 的確認電郵。
 
-![](../../../.gitbook/assets/myethshop-8.png)
+![](../../.gitbook/assets/myethshop-8.png)
 
-![](../../../.gitbook/assets/myethshop-9.png)
+![](../../.gitbook/assets/myethshop-9.png)
 
 ### 步驟七：選個好價錢買入/賣出
 
@@ -76,7 +76,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 至於「市價盤」與「限價盤」的分別在於「市價盤」是以即時賣出/買入價操作。而限價盤可讓你在「價格」一欄輸入心儀賣出/買入價，系統自動於指定價格為你賣出/買入。你可以在下方的「LIKE/HKD PRICE」圖表參看 LIKE/HKD 價格走勢以作決定
 
-![](../../../.gitbook/assets/myethshop-10.png)
+![](../../.gitbook/assets/myethshop-10.png)
 
 #### MyEthShop 官方教學
 
