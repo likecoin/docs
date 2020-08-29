@@ -4,7 +4,7 @@ description: Liker MUST HAVE app
 
 # Liker Land mobile app
 
-![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
+![](../../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
 Liker Land mobile app is a comprehensive tool for every Liker.
 

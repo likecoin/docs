@@ -20,7 +20,7 @@ The bookmark icon is highlighted after the content is saved
 
 Liker Land Chrome / Firefox Extension for bookmarking any web page to your Liker Land reading list for reading them later, check out:
 
-{% page-ref page="liker-land-browser-extension.md" %}
+{% page-ref page="../liker-land-browser-extension.md" %}
 
 ### Liker Land app or Web <a id="zai-liker-land-shou-ji-ying-yong-cheng-shi-huo-liker-land-wang-ye-ban-shou-cang-wang-ye"></a>
 
