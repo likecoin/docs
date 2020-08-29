@@ -89,6 +89,7 @@
   * [How to pay Civic Liker yearly subscription by LikeCoin](user-guide/civic-liker/civic-liker-paid-by-likecoin.md)
   * [Unsubscribe Civic Liker](user-guide/civic-liker/unsubscribe-civic-liker.md)
 * [LikeCoin Token](user-guide/likecoin-token/README.md)
+  * [Products and Services](user-guide/likecoin-token/products-and-services.md)
   * [Making LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
   * [Trading LikeCoin](user-guide/likecoin-token/how-to-buy-and-sell-likecoin.md)
   * [Registering on Liquid](user-guide/likecoin-token/registering-on-liquid.md)
