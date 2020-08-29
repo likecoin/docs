@@ -40,6 +40,7 @@
   * [LikeCoin button](user-guide/content-creators/how-it-works.md)
   * [Turn Likes into Rewards](user-guide/content-creators/like-rewards.md)
   * [Super Like](user-guide/content-creators/superlike.md)
+  * [Self-Hosted](user-guide/content-creators/selfhosted.md)
 * [Liker Land](user-guide/liker-land/README.md)
   * [Liker Land mobile app](user-guide/liker-land/liker-land-mobile-app.md)
   * [Content Discovery](user-guide/liker-land/discovering-contents.md)
