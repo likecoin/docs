@@ -4,7 +4,15 @@ description: 'Add LikeCoin button to your creations, turn "Likes" into income'
 
 # About LikeCoin button
 
-The trademarked hands-clapping button attached to stories, images, illustrations and other creative contents, on which a Liker claps to show her appreciationt and creators can earn rewards at the same time. [Matters](https://matters.news/) is empowered by the LikeCoin button by default, creators can give their Liker ID to [Standnews](https://www.thestandnews.com/), [InMedia](https://www.inmediahk.net/), [HKCNews](https://www.hkcnews.com/) for embedding LikeCoin button. It can also be installed to [WordPress](https://wordpress.org/plugins/likecoin/) by the LikeCoin WordPress plugin. LikeCoin button also supports [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot \( Blogger.com\)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. 
+
+
+
+
+The trademarked hands-clapping button attached to stories, images, illustrations and other creative contents, on which a Liker claps to show her appreciationt and creators can earn rewards at the same time. 
+
+
+
+[Matters](https://matters.news/) is empowered with the LikeCoin button by default, creators can give their Liker ID to [Standnews](https://www.thestandnews.com/), [InMedia](https://www.inmediahk.net/), [HKCNews](https://www.hkcnews.com/) for embedding LikeCoin button. It can also be installed to [WordPress](https://wordpress.org/plugins/likecoin/) by the LikeCoin WordPress plugin. LikeCoin button also supports [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot \( Blogger.com\)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. 
 
 LikeCoin button is illustrated as below:
 
