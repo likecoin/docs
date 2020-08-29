@@ -38,7 +38,8 @@
 
 * [Content creators](user-guide/content-creators/README.md)
   * [LikeCoin button](user-guide/content-creators/how-it-works.md)
-  * [Turn Likes into Rewards](user-guide/content-creators/turn-likes-into-rewards.md)
+  * [Turn Likes into Rewards](user-guide/content-creators/like-rewards.md)
+  * [Super Like](user-guide/content-creators/superlike.md)
 * [Liker Land](user-guide/liker-land/README.md)
   * [Liker Land mobile app](user-guide/liker-land/liker-land-mobile-app.md)
   * [Content Discovery](user-guide/liker-land/discovering-contents.md)
@@ -81,7 +82,6 @@
   * [Liquid Democracy](user-guide/likecoin-chain/liquid-democracy.md)
   * [Proposals](user-guide/likecoin-chain/proposals.md)
 * [LikeCoin button](user-guide/likecoin-button/README.md)
-  * [Super Like](user-guide/likecoin-button/superlike.md)
   * [WordPress](user-guide/likecoin-button/wordpress.md)
   * [Medium](user-guide/likecoin-button/medium.md)
   * [Blogspot](user-guide/likecoin-button/blogspot.md)
