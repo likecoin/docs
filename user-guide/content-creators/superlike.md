@@ -1,5 +1,5 @@
 ---
-description: Reinventing the "Share"
+description: What is Super Like? What is a Content Jockey?
 ---
 
 # Super Like
@@ -28,7 +28,7 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 
 ## Usage <a id="zen-yang-can-yu"></a>
 
-Easy to understand: Clicking the LikeCoin button on the 6th time and you are giving Super Like.
+_Easy to understand_: Clicking the LikeCoin button on the 6th time and you are giving Super Like.
 
 Explained in details: If you are a Civic Liker, when you click the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When you click the 6th time, you "Super Like" that article. A tick will then appear on the star totem representing one chance of Super Like being utilized, the RSS icon turned on and the article will be shared to Liker Land.
 
