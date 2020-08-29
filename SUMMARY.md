@@ -38,8 +38,8 @@
 
 * [Content creators](user-guide/content-creators/README.md)
   * [LikeCoin button](user-guide/content-creators/how-it-works/README.md)
-    * [Turn Likes into Rewards](user-guide/content-creators/how-it-works/like-rewards.md)
-    * [Super Like](user-guide/content-creators/how-it-works/superlike.md)
+    * [Like - Turn Likes into Rewards](user-guide/content-creators/how-it-works/like-rewards.md)
+    * [Super Like - Decentralized Curation](user-guide/content-creators/how-it-works/superlike.md)
   * [Self-Hosted](user-guide/content-creators/selfhosted.md)
 * [Liker Land](user-guide/liker-land/README.md)
   * [Liker Land mobile app](user-guide/liker-land/liker-land-mobile-app.md)

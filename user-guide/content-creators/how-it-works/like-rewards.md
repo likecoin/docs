@@ -1,2 +1,2 @@
-# Turn Likes into Rewards
+# Like - Turn Likes into Rewards
 

@@ -2,7 +2,7 @@
 description: What is Super Like? What is a Content Jockey?
 ---
 
-# Super Like
+# Super Like - Decentralized Curation
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDKKfTTMClruYgMEN2z%2F-MDKL9uOAcQBWwTt-7PY%2Flikecoin_ad92_super_like_dragonball.png?alt=media&token=aebf61cf-24c0-4d70-9cce-a582d82122e8)
 
