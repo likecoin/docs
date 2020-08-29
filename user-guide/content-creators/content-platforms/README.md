@@ -6,3 +6,7 @@ description: >-
 
 # Content Platforms
 
+Select the content platform that suits you
+
+Register a [Liker ID](https://docs.like.co/user-guide/liker-id)
+
