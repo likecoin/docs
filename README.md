@@ -16,7 +16,7 @@ LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) �
 
 更詳細營運數據，[請參考這裡](https://datastudio.google.com/u/0/reporting/e6168171-b61d-4871-b39f-7b6308f2facc/page/qgR)（2020年起）。
 
-部份已支援 LikeCoin 的媒體包括 [Matters](https://matters.news/)、[立場新聞](https://www.thestandnews.com/)、[香港獨立媒體網](https://www.inmediahk.net/)、[眾新聞](https://www.hkcnews.com/)、[方格子](https://vocus.cc/)及其他 1,200 多個網站。LikeCoin 也可在 [WordPress](https://zh-hk.wordpress.org/plugins/likecoin/)、[Medium](https://medium.com/)、[Blogspot \(Blogger.com\)](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
+部份已支援 LikeCoin 的媒體包括 [Matters](https://matters.news/)、[立場新聞](https://www.thestandnews.com/)、[香港獨立媒體網](https://www.inmediahk.net/)、[眾新聞](https://www.hkcnews.com/) 及其他 1,200 多個網站。LikeCoin 也可在 [WordPress](https://zh-hk.wordpress.org/plugins/likecoin/)、[Medium](https://medium.com/)、[Blogspot \(Blogger.com\)](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)、[方格子](https://vocus.cc/)及其他平台上使用。‌
 
 除了在習慣的平台閱讀，讀者亦可用 [Liker Land](https://like.co/in/getapp) 手機應用程式，透過可信賴的內容伯樂每天精選內容。Liker Land 可於 [Google Play Store](https://play.google.com/store/apps/details?id=com.oice&hl=en) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) 下載。 
 
