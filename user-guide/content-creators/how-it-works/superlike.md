@@ -30,7 +30,7 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 
 _Easy to understand_: Clicking the LikeCoin button on the 6th time and you are giving Super Like.
 
-_Explained in details_: If you are a Civic Liker, when you click the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When you click the 6th time, you "Super Like" that article. A tick will then appear on the star totem representing one chance of Super Like being utilized, the RSS icon turned on and the article will be shared to Liker Land.
+_Explained in details_: If you are a Civic Liker, when you click the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When you click the 6th time, you "Super Like" that article. A tick will then appears on the star totem representing one chance of Super Like is being utilized, the RSS icon turned on and the article will be shared to Liker Land.
 
 Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset occurs. Super Like cannot be accumulated, if it is not being used before the time to reset, it will be obsolete. You can only Super Like twice a day while you can Super Like a single article for more than one time.
 
