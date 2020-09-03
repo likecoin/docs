@@ -409,6 +409,8 @@ Send coins to receipent.
 
 CLI: `likecli tx send [FROM_ADDRESS_OR_KEY_NAME] [TO_ADDRESS] [COINS]`
 
+- [COINS] should be formatted like `1000000000nanolike` (1 LIKE in this example)
+
 ### Staking related modules
 
 There are a few modules related to staking: `staking`, `mint`, `distribution`, `slashing`.
