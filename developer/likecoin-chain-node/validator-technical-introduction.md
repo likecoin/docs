@@ -439,7 +439,7 @@ See `--help` for available options.
 
 Delegate to a validator, increasing its voting power, collecting block rewards and transaction fee as return.
 
-CLI: `likecli tx staking delegate [VALIDATOR_ADDRESS] [COINS]`
+CLI: `likecli tx staking delegate [VALIDATOR_ADDRESS] --from [DELEGATOR_ADDRESS] [COINS] --chain-id [CHAIN_ID]`
 
 #### Transaction: Redelegate
 
@@ -449,7 +449,7 @@ Unlike unbond, this action takes effect immediately and does not need to wait fo
 
 However, user needs to wait for 3 weeks before the same redelegation can be redelegated again. For example, user delegated to A and then redelegated from A to B, then the user needs to wait for 3 weeks before redelegating from B to C.
 
-CLI: `likecli tx staking redelegate [FROM_VALIDATOR_ADDRESS] [TO_VALIDATOR_ADDRESS] [COINS]`
+CLI: `likecli tx staking redelegate [FROM_VALIDATOR_ADDRESS] [TO_VALIDATOR_ADDRESS] --from [DELEGATOR_ADDRESS] [COINS] --chain-id [CHAIN_ID]`
 
 #### Transaction: Unbond
 
@@ -457,13 +457,13 @@ Take away some delegations from a validator.
 
 The delegation will enter unbonding state, which is locked for unbond period \(3 weeks\) before moving back into available balance.
 
-CLI: `likecli tx staking unbond [VALIDATOR_ADDRESS] [COINS]`
+CLI: `likecli tx staking unbond [VALIDATOR_ADDRESS] --from [DELEGATOR_ADDRESS] [COINS] --chain-id [CHAIN_ID]`
 
 #### Transaction: Withdraw Rewards
 
 Get the accumulated rewards from a delegation. Can add the `--commission` flag to also withdraw validator's commission.
 
-CLI: `likecli tx distribution withdraw-rewards [VALIDATOR_ADDRESS] [--commission]`
+CLI: `likecli tx distribution withdraw-rewards [VALIDATOR_ADDRESS] --from [DELEGATOR_ADDRESS] [--commission] --chain-id [CHAIN_ID]`
 
 #### Transaction: Withdraw All Rewards
 
