@@ -467,7 +467,7 @@ CLI: `likecli tx distribution withdraw-rewards [VALIDATOR_ADDRESS] [--commission
 
 Get the accumulated rewards from all delegations among different validators.
 
-CLI: `likecli tx distribution withdraw-all-rewards`
+CLI: `likecli tx distribution withdraw-all-rewards --from [DELEGATOR_ADDRESS] --chain-id [CHAIN_ID]`
 
 #### Transaction: Unjail
 
@@ -481,7 +481,7 @@ CLI: `likecli tx slashing unjail`
 
 Get current delegations info from a delegator.
 
-CLI: `likecli query staking delegations [DELEGATOR_ADDRESS]`
+CLI: `likecli query staking delegations [DELEGATOR_ADDRESS] --chain-id [CHAIN_ID]`
 
 #### Query: Validators
 
@@ -499,7 +499,7 @@ CLI: `likecli query mint inflation`
 
 Get current rewards which are not yet withdrawn.
 
-CLI: `likecli query distribution rewards [DELEGATOR_ADDRESS] [OPTIONAL_VALIDATOR_ADDRESS]`
+CLI: `likecli query distribution rewards [DELEGATOR_ADDRESS] --chain-id [CHAIN_ID] [OPTIONAL_VALIDATOR_ADDRESS]`
 
 ### Governance
 
