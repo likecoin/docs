@@ -2,6 +2,14 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 09/05 g0v.hk
+
+反潮流，零AI內容政策展（1:21:00 開始）
+
+{% embed url="https://www.facebook.com/g0vhk.io/posts/3632257240126691" %}
+
+{% embed url="https://www.facebook.com/g0vhk.io/videos/711407442771210/" %}
+
 ### 08/01 COSCUP 2020
 
 [針對數位內容的公共區塊鏈 - LikeCoin chain](https://coscup.org/2020/zh-TW/agenda/W3SFGQ)
