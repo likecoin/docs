@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 09/02 立場新聞 梁浩恩專欄
+
+[虛擬貨幣和 LikeCoin](https://www.thestandnews.com/finance/%E8%99%9B%E6%93%AC%E8%B2%A8%E5%B9%A3%E5%92%8C-likecoin/)
+
 ### 08/22 香港蘋果日報 尹思哲專欄
 
 [【創業起義】與其呼籲抵制FB 不如直接顛覆（尹思哲）](https://hk.appledaily.com/finance/20200822/Y5D7N7DGXZHY5HWIC6L6ZGETIM/)
