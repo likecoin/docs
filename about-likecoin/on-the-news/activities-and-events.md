@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 11/19-21 社企民間高峰會 2020
+
+[講者高重建](https://www.ses.org.hk/zh-hant/content/%E9%AB%98%E9%87%8D%E5%BB%BA)
+
 ### 09/05 g0v.hk
 
 反潮流，零AI內容政策展（1:21:00 開始）
