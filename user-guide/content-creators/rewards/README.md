@@ -18,5 +18,5 @@ Click on a day in the bar chart to check the reward details on that day.
 
 ![Click on a day in the bar chart to check the reward details, swap left or right for historical data](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M7_Gq-kkgSt-axtaE7_%2F-M7_L7YTCvCIBoPgj9z5%2FIMG_0670.PNG?alt=media&token=bb1fce7e-d9de-473b-8e7f-c7c7826ec107)
 
-![](../../.gitbook/assets/check-rewarded.gif)
+![](../../../.gitbook/assets/check-rewarded.gif)
 
