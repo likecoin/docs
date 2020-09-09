@@ -24,19 +24,19 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 
 ## 使用方法
 
-_簡單理解_：在讚賞鍵點第 6 次，便使用了 Super Like。
+* 在讚賞鍵點 5 次，讚賞鍵的圖案會從拍掌圖案轉變成星形圖案，這時再點第 6 次，便使用了 Super Like。
+* 被 Super Like 了的文章會顯示在 Liker Land 上。你的追蹤者能在「頭條」列表中看到，所有人也能在「所有 Content Jockey 的 Super Like」頁面看到。
 
-_詳細描述_：若用戶是讚賞公民，在任何文章的讚賞鍵點擊 5 次後，讚賞鍵的圖案會從拍手轉變為一枚星形動章。再點第六次便 Super Like 了那篇文章，星型勳章上顯示了一個勾號代表 Super Like 的機會已用畢，右下方的廣播圖示亮著代表這篇文章已被分享到 Liker Land 上。
+![](../../../.gitbook/assets/superlike%20%281%29.gif)
 
-Super Like 功能逢中午 12 時及凌晨 12 時重置，用完一次需待重置時間後才能再次使用。讚賞鍵的綠色外圈是距離下次重置時間的進度條。Super Like 的機會次數不會累積，若重置前沒有用掉，重置後也仍然只有一次機會，因此每天最多只能使用 Super Like 兩次。可重複給同一篇文章 Super Like。
-
-![](../../../.gitbook/assets/superlike.gif)
+* 星型圖案中顯示了一個「勾號」，代表 Super Like 的機會已用畢。Super Like 功能逢中午 12 時及凌晨 12 時重置，用完一次需待重置時間後才能再次使用。讚賞鍵的綠色外圈是距離下次重置時間的進度條。
+* 右下方的廣播圖示亮著代表這篇文章已被分享到 Liker Land 上。
+* Super Like 的機會次數不會累積，若重置前沒有用掉，重置後也仍然只有一次機會，因此每天最多只能使用 Super Like 兩次。
+* 可重複給同一篇文章 Super Like。
 
 ## 怎樣參與
 
-Super Like 功能將於 2020 第三季推出，推廣期間暫時只有[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)可獲每天最多兩次的 SuperLike 機會。敬請期待。
-
-### 【[成為讚賞公民](https://like.co/in/getapp)】
+只有[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)可獲每天兩次的 SuperLike 機會。【[成為讚賞公民](https://like.co/in/getapp)】
 
 ## Super Like 功能展示
 
