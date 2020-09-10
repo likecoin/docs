@@ -1,4 +1,8 @@
-# 分享內容 — Super Like
+---
+description: 追蹤好文，絕不遺漏
+---
+
+# 優質內容 — Super Like
 
 時間有限，每天面對巨量資訊，總有透不過氣的感覺。作為讀者最希望由專家提供精選內容，節省寶貴時間之餘更可擴闊眼界。Like Land 的 Super Like 機制正正提供了內容精闢的閱讀渠道：
 
@@ -27,6 +31,4 @@
 你也有想推薦的好文章嗎？成為內容伯樂不單止回報作者並將好作品與眾同享，更能因此而獲得回饋。成為[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)便可立即榮升為內容伯樂，每天獲得兩次免費 Super Like 機會，分享值得曝光的好文章。
 
 {% page-ref page="../../content-creators/how-it-works/superlike.md" %}
-
-
 

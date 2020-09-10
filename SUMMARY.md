@@ -44,7 +44,7 @@
     * [瀏覽內容](user-guide/liker-land/liker-land-mobile-app/discovering-contents.md)
     * [閱讀內容](user-guide/liker-land/liker-land-mobile-app/save-to-likerland.md)
     * [讚賞內容](user-guide/liker-land/liker-land-mobile-app/reading-and-rewarding.md)
-    * [分享內容 — Super Like](user-guide/liker-land/liker-land-mobile-app/content-sharing-super-like.md)
+    * [優質內容 — Super Like](user-guide/liker-land/liker-land-mobile-app/content-sharing-super-like.md)
     * [LIKE pay](user-guide/liker-land/liker-land-mobile-app/like-pay.md)
     * [推薦下載奬賞](user-guide/liker-land/liker-land-mobile-app/referral.md)
   * [Liker Land 網頁版](user-guide/liker-land/liker-land-web.md)
