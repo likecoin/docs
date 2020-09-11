@@ -8,7 +8,9 @@ description: 追蹤好文，絕不遺漏
 
 ### 你的 Super Like 日報頭條
 
-打開 Liker Land 手機應用程式，即可看到每位「內容伯樂」\( Content Jockey \) 每天 Super Like 推薦的好文章。所有你曾讚好過的內容作者都可以是你的內容伯樂，由他們 Super Like 的文章都會在 Super Like 日報頭條中出現。
+打開 Liker Land 手機應用程式，即可看到每位「內容伯樂」\( Content Jockey \) 每天 Super Like 推薦的好文章。所有你曾點擊讚賞鍵頭像追蹤的作者都是你的內容伯樂，由他們 Super Like 的文章都會在 Super Like 日報頭條中出現。
+
+![](../../../.gitbook/assets/super-like-reader-4.png)
 
 每位內容伯樂每天只可推薦兩篇文章，以確保他們提供的均屬精選。
 
