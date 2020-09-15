@@ -2,20 +2,14 @@
 
 * [LikeCoin 常見問題](README.md)
 
-## 關於 LikeCoin <a id="about"></a>
-
-* [LikeCoin 與讚賞公民共和國](about/likecoin/README.md)
-  * [進度更新](about/likecoin/updates.md)
-  * [支援網站列表](about/likecoin/list-of-media.md)
-  * [傳媒報導](about/likecoin/on-the-news.md)
-  * [發展史](about/likecoin/background.md)
-  * [品牌形象指引](about/likecoin/presskit.md)
-* [流動民主式治理](about/governance/README.md)
-  * [歷史議案](about/governance/proposals.md)
-  * [社群治理會議](about/governance/community-call.md)
-
 ## 📙  使用手冊 <a id="user-guide"></a>
 
+* [LikeCoin 與讚賞公民共和國](user-guide/about/README.md)
+  * [進度更新](user-guide/about/updates.md)
+  * [支援網站列表](user-guide/about/list-of-media.md)
+  * [傳媒報導](user-guide/about/on-the-news.md)
+  * [發展史](user-guide/about/background.md)
+  * [品牌形象指引](user-guide/about/presskit.md)
 * [我是作者](user-guide/content-creators/README.md)
   * [LikeCoin button 讚賞鍵](user-guide/content-creators/likecoin-button/README.md)
     * [Like — 化讚為賞](user-guide/content-creators/likecoin-button/like-rewards.md)
@@ -86,6 +80,9 @@
   * [取回委託 LikeCoin](user-guide/governance/undelegation-of-likecoin.md)
   * [轉移委託 LikeCoin](user-guide/governance/redelegation-of-likecoin.md)
   * [歷史議案](user-guide/governance/proposals.md)
+* [流動民主式治理](user-guide/governance-1/README.md)
+  * [歷史議案](user-guide/governance-1/proposals.md)
+  * [社群治理會議](user-guide/governance-1/community-call.md)
 * [其他問題](user-guide/faq/README.md)
   * [如何獲取 Liker Land 每月報告？](user-guide/faq/monthly-report.md)
   * [因委託而產生的 LikeCoin 回報，錢從何來？](user-guide/faq/where-comes-the-likecoin-rewards.md)
