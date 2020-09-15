@@ -18,7 +18,11 @@ description: LikeCoin Frequently Asked Questions
 * [LikeCoin 和整個社群怎樣一路走來？](https://docs.like.co/v/zh/user-guide/about/background)
 * [LikeCoin 有提供品牌形象指引和相關素材下載麼？](https://docs.like.co/v/zh/user-guide/about/presskit)
 
-## \*\*\*\*[**我是作者**](https://docs.like.co/v/zh/user-guide/content-creators)\*\*\*\*
+## [我是讀者](https://docs.like.co/v/zh/user-guide/reader)
+
+* wip
+
+## \*\*\*\*[**我是創作者**](https://docs.like.co/v/zh/user-guide/content-creators)\*\*\*\*
 
 * [我是作者，LikeCoin 可以幫到我甚麼？](https://docs.like.co/v/zh/user-guide/content-creators)
 * [LikeCoin button 讚賞鍵有甚麼功能？](https://docs.like.co/v/zh/user-guide/content-creators/likecoin-button)\*\*\*\*
@@ -26,20 +30,14 @@ description: LikeCoin Frequently Asked Questions
 * 何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不用 AI 策展就好？
 * 如何在自架 WordPress 加入 LikeCoin button？
 * 我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？
-
-## 我是內容伯樂
-
-* wip
-
-## [我是讀者](https://docs.like.co/v/zh/user-guide/reader)
-
-* wip
-
-## [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id)
-
 * wip
 
 ## [Civic Liker](https://docs.like.co/v/zh/user-guide/civic-liker)
+
+* wip
+* wip
+
+## [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id)
 
 * wip
 
@@ -47,19 +45,13 @@ description: LikeCoin Frequently Asked Questions
 
 * wip
 
-## 參與去中心治理
+## 流動民主
 
 * wip
 * [所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/about/governance)
 * [讚賞公民共和國有過甚麼議案？](https://docs.like.co/v/zh/about/governance/proposals)
 * [我對 LikeCoin 的發展有意見，可以怎樣表達？](https://docs.like.co/v/zh/about/governance/community-call)
 * LikeCoin 好像挺有意思的，我可以怎樣參與？
-
-
-
-
-
-
 
 
 
