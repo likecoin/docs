@@ -30,23 +30,25 @@ description: FAQ
 
 ### [我是讀者](https://docs.like.co/v/zh/user-guide/reader) <a id="reader"></a>
 
-* blah blah blah 
+* wip 
 
 ### [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id)
 
-* blah
+* wip
 
 ### [Civic Liker](https://docs.like.co/v/zh/user-guide/civic-liker)
 
-* blah
+* wip
 
 ### [LikeCoin 交易](https://docs.like.co/v/zh/user-guide/likecoin-token) <a id="trading-likecoin"></a>
 
-* blah
+* wip
 
 ### 參與去中心治理
 
-* Liquid democracy
+* wip
+
+
 
 
 
