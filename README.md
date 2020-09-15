@@ -1,12 +1,12 @@
 ---
-description: FAQ
+description: LikeCoin Frequently Asked Questions
 ---
 
-# LikeCoin 大百科
+# LikeCoin 答客問
 
 ![](.gitbook/assets/likecoin_ad27_small_update-01.png)
 
-## [LikeCoin 與讚賞公民共和國](https://docs.like.co/v/zh/user-guide/about)
+## [LikeCoin、讚賞公民共和國](https://docs.like.co/v/zh/user-guide/about)
 
 * [LikeCoin 是甚麼？](https://docs.like.co/v/zh/user-guide/about#likecoin)
 * [讚賞公民共和國又是甚麼東東？](https://docs.like.co/v/zh/user-guide/about#republic-of-liker-land)
