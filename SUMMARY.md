@@ -5,10 +5,10 @@
 ## 關於 LikeCoin <a id="about-likecoin"></a>
 
 * [LikeCoin 與讚賞公民共和國](about-likecoin/likecoin/README.md)
-  * [緣起](about-likecoin/likecoin/background.md)
   * [進度更新](about-likecoin/likecoin/updates.md)
   * [支援網站列表](about-likecoin/likecoin/list-of-media.md)
   * [傳媒報導](about-likecoin/likecoin/on-the-news.md)
+  * [發展史](about-likecoin/likecoin/background.md)
   * [品牌形象指引](about-likecoin/likecoin/presskit.md)
 * [流動民主式治理](about-likecoin/governance/README.md)
   * [歷史議案](about-likecoin/governance/proposals.md)

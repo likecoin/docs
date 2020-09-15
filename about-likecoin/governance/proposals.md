@@ -1,5 +1,7 @@
 # 歷史議案
 
+![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
+
 ## \#3 提高驗證人名額至 25 名 <a id="3"></a>
 
 * 提案：[北科大區塊鏈社](https://likecoin.bigdipper.live/validator/9A810D60E0BF1D5D1C81B03CCF2923C6404FECE3)

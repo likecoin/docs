@@ -4,6 +4,8 @@ description: FAQ
 
 # 常見問題
 
+![](.gitbook/assets/likecoin_ad27_small_update-01.png)
+
 ## [關於 LikeCoin](https://docs.like.co/v/zh/about-likecoin/) <a id="about-likecoin"></a>
 
 * [LikeCoin 是甚麼？](https://docs.like.co/v/zh/about-likecoin/likecoin#about)

@@ -2,15 +2,15 @@
 description: LikeCoin 和整個社群當初是怎樣形成？
 ---
 
-# 緣起
+# 發展史
+
+![](../../.gitbook/assets/likecoin_ad71_timeline-01.png)
 
 ## LikeCoin — 讚賞公民共和國
 
 ### 全新 LikeCoin 邁向高速、低成本及流動民主新世代
 
 原文於2019年11月7日刊載於 [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)
-
-
 
 當這篇文章發佈的時候，LikeCoin chain 創世區塊 \( Genesis \) 亦經已誕生。假如你並不明白我們在說甚麼，或者可以嘗試這樣去理解：讚賞公民共和國經已正式成立。
 

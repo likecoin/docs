@@ -4,7 +4,7 @@ description: 支援 LikeCoin 的網站都有哪些？我想加入，要申請麼
 
 # 支援網站列表
 
-![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
+![](../../.gitbook/assets/media-list.png)
 
 ## 不定時更新 <a id="all"></a>
 
