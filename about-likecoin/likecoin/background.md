@@ -73,7 +73,7 @@ _讚賞公民共和國_ 立國後，第一批共 7 組承擔重任的 _驗證人
 * [Matters Lab](https://matters.news)
 * [GLOs](https://www.glos.world/) x [UDomain](https://www.udomain.com/)
 
-![LikeCoin chain &#x9996;&#x6279;&#x9A57;&#x8B49;&#x4EBA;](../.gitbook/assets/likecoin_ad70_validators-01.png)
+![LikeCoin chain &#x9996;&#x6279;&#x9A57;&#x8B49;&#x4EBA;](../../.gitbook/assets/likecoin_ad70_validators-01.png)
 
 ## 機制 <a id="d993"></a>
 
@@ -154,7 +154,7 @@ _Liker_ 委託 _LikeCoin_ 予 _驗證人_ 不只可以參與驗證帳目及賺�
 
 假如議票未能超過法定人數又或者被否決，已存入的一百萬 _LikeCoin_ 保證金將撥入**社群基金**，又或者歸還予出資的 _Likers_。
 
-![](../.gitbook/assets/validator.png)
+![](../../.gitbook/assets/validator.png)
 
 ## 未來展望 <a id="b575"></a>
 

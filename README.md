@@ -6,7 +6,9 @@ description: FAQ
 
 ## [關於 LikeCoin](https://docs.like.co/v/zh/about-likecoin/) <a id="about-likecoin"></a>
 
-* [LikeCoin 是甚麼？讚賞公民共和國又是甚麼東東？](https://docs.like.co/v/zh/)
+* [LikeCoin 是甚麼？](https://docs.like.co/v/zh/about-likecoin/likecoin#about)
+* [讚賞公民共和國又是甚麼東東？](https://docs.like.co/v/zh/about-likecoin/likecoin#republic-of-liker-land)
+* [有甚麼渠道關注 LikeCoin？](https://docs.like.co/v/zh/about-likecoin/likecoin#follow-us)
 * [LikeCoin 和整個社群當初怎樣形成？](https://docs.like.co/v/zh/about-likecoin/background)
 * [所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/about-likecoin/governance)
 * [LikeCoin 最近有些甚麼發展？](https://docs.like.co/v/zh/about-likecoin/updates)

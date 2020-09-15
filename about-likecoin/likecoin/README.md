@@ -6,7 +6,7 @@ description: LikeCoin 是甚麼？讚賞公民共和國又是甚麼東東？
 
 ## 關於 LikeCoin <a id="about"></a>
 
-![](../.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
+![](../../.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
 
 [LikeCoin](https://like.co/) 為去中心內容發行的基礎建設，提供去中心註冊、去中心讚賞、去中心策展及去中心治理幾方面功能。
 
@@ -24,7 +24,7 @@ LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) �
 
 除了在習慣的平台閱讀，讀者亦可用 [Liker Land](https://like.co/in/getapp) 手機應用程式，透過可信賴的內容伯樂（content jockey）每天精選頭條。Liker Land 可於 [Google Play Store](https://play.google.com/store/apps/details?id=com.oice&hl=en) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) 下載。 
 
-![](../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
+![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
 ## 關注 LikeCoin <a id="follow-us"></a>
 

@@ -4,12 +4,14 @@
 
 ## 關於 LikeCoin <a id="about-likecoin"></a>
 
-* [LikeCoin 與讚賞公民共和國](about-likecoin/likecoin.md)
-* [緣起](about-likecoin/background.md)
-* [治理](about-likecoin/governance.md)
+* [LikeCoin 與讚賞公民共和國](about-likecoin/likecoin/README.md)
+  * [緣起](about-likecoin/likecoin/background.md)
+  * [支援網站列表](about-likecoin/likecoin/list-of-media.md)
+  * [傳媒報導](about-likecoin/likecoin/on-the-news.md)
+* [LikeCoin 治理](about-likecoin/governance/README.md)
+  * [歷史議案](about-likecoin/governance/proposals.md)
+  * [社群治理會議](about-likecoin/governance/community-call.md)
 * [進度更新](about-likecoin/updates.md)
-* [傳媒報導](about-likecoin/on-the-news.md)
-* [支援網站列表](about-likecoin/list-of-media.md)
 
 ## 📙  使用手冊 <a id="user-guide"></a>
 
