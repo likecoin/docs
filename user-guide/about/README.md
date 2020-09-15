@@ -4,7 +4,7 @@ description: LikeCoin 是甚麼？讚賞公民共和國又是甚麼東東？
 
 # LikeCoin 與讚賞公民共和國
 
-## 關於 LikeCoin <a id="about"></a>
+## 關於 LikeCoin <a id="likecoin"></a>
 
 ![](../../.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
 
