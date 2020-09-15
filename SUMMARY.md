@@ -9,6 +9,7 @@
 * [進度更新](about-likecoin/updates.md)
 * [傳媒報導](about-likecoin/on-the-news.md)
 * [支援網站列表](about-likecoin/list-of-media.md)
+* [常見問題](about-likecoin/chang-jian-wen-ti.md)
 
 ## 📙  使用手冊 <a id="user-guide"></a>
 
