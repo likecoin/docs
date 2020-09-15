@@ -4,6 +4,7 @@
 
 ## 關於 LikeCoin <a id="about-likecoin"></a>
 
+* [LikeCoin 與讚賞公民共和國](about-likecoin/likecoin.md)
 * [緣起](about-likecoin/background.md)
 * [治理](about-likecoin/governance.md)
 * [進度更新](about-likecoin/updates.md)
