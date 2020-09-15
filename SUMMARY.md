@@ -1,6 +1,6 @@
 # Table of contents
 
-* [常見問題](README.md)
+* [LikeCoin 常見問題](README.md)
 
 ## 關於 LikeCoin <a id="about"></a>
 

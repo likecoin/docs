@@ -2,7 +2,7 @@
 description: FAQ
 ---
 
-# 常見問題
+# LikeCoin 常見問題
 
 ![](.gitbook/assets/likecoin_ad27_small_update-01.png)
 
