@@ -32,5 +32,5 @@ description: 追蹤好文，絕不遺漏
 
 你也有想推薦的好文章嗎？成為內容伯樂不單止回報作者並將好作品與眾同享，更能因此而獲得回饋。成為[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)便可立即榮升為內容伯樂，每天獲得兩次免費 Super Like 機會，分享值得曝光的好文章。
 
-{% page-ref page="../../content-creators/how-it-works/superlike.md" %}
+{% page-ref page="../../content-creators/likecoin-button/superlike.md" %}
 

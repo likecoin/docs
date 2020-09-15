@@ -14,9 +14,9 @@
 ## 📙  使用手冊 <a id="user-guide"></a>
 
 * [我是作者](user-guide/content-creators/README.md)
-  * [LikeCoin button 讚賞鍵](user-guide/content-creators/how-it-works/README.md)
-    * [Like — 化讚為賞](user-guide/content-creators/how-it-works/like-rewards.md)
-    * [Super Like — 內容策展](user-guide/content-creators/how-it-works/superlike.md)
+  * [LikeCoin button 讚賞鍵](user-guide/content-creators/likecoin-button/README.md)
+    * [Like — 化讚為賞](user-guide/content-creators/likecoin-button/like-rewards.md)
+    * [Super Like — 內容策展](user-guide/content-creators/likecoin-button/superlike.md)
   * [自架網站](user-guide/content-creators/self-host/README.md)
     * [WordPress](user-guide/content-creators/self-host/wordpress.md)
     * [其他](user-guide/content-creators/self-host/sdk.md)
