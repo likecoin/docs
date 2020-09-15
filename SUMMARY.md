@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LikeCoin 與讚賞公民共和國](README.md)
+* [常見問題](README.md)
 
 ## 關於 LikeCoin <a id="about-likecoin"></a>
 
@@ -42,16 +42,16 @@
     * [Wix / Weebly](user-guide/content-creators/content-platforms/wix.md)
     * [Write.as](user-guide/content-creators/content-platforms/write.as.md)
   * [查看讚賞成就](user-guide/content-creators/rewards.md)
-* [我是讀者](user-guide/liker-land/README.md)
-  * [Liker Land 手機應用程式](user-guide/liker-land/liker-land-mobile-app/README.md)
-    * [瀏覽內容](user-guide/liker-land/liker-land-mobile-app/discovering-contents.md)
-    * [閱讀內容](user-guide/liker-land/liker-land-mobile-app/save-to-likerland.md)
-    * [讚賞內容](user-guide/liker-land/liker-land-mobile-app/reading-and-rewarding.md)
-    * [優質內容 — Super Like](user-guide/liker-land/liker-land-mobile-app/content-sharing-super-like.md)
-    * [LIKE pay](user-guide/liker-land/liker-land-mobile-app/like-pay.md)
-    * [推薦下載奬賞](user-guide/liker-land/liker-land-mobile-app/referral.md)
-  * [Liker Land 網頁版](user-guide/liker-land/liker-land-web.md)
-  * [Chrome/Brave/Firefox 插件](user-guide/liker-land/liker-land-browser-extension.md)
+* [我是讀者](user-guide/reader/README.md)
+  * [Liker Land 手機應用程式](user-guide/reader/liker-land-mobile-app/README.md)
+    * [瀏覽內容](user-guide/reader/liker-land-mobile-app/discovering-contents.md)
+    * [閱讀內容](user-guide/reader/liker-land-mobile-app/save-to-likerland.md)
+    * [讚賞內容](user-guide/reader/liker-land-mobile-app/reading-and-rewarding.md)
+    * [優質內容 — Super Like](user-guide/reader/liker-land-mobile-app/content-sharing-super-like.md)
+    * [LIKE pay](user-guide/reader/liker-land-mobile-app/like-pay.md)
+    * [推薦下載奬賞](user-guide/reader/liker-land-mobile-app/referral.md)
+  * [Liker Land 網頁版](user-guide/reader/liker-land-web.md)
+  * [Chrome/Brave/Firefox 插件](user-guide/reader/liker-land-browser-extension.md)
 * [Liker ID](user-guide/liker-id/README.md)
   * [註冊 Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
   * [修改頭像及顯示名稱](user-guide/liker-id/edit-avatar-displayname.md)
