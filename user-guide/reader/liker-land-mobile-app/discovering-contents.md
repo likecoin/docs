@@ -6,9 +6,9 @@ description: 把讚賞贈給自己最愛的內容
 
 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)提供幾個方法，讓你發現最適合自己的內容。
 
-### 追縱
+### 追蹤
 
-追縱所有你曾讚好過的內容作者，他們的新作都會在「追縱」頁中出現。
+追蹤所有你曾讚好過的內容作者，他們的新作都會在「追蹤」頁中出現。
 
 ![&#x8FFD;&#x7E31;&#x529F;&#x80FD;](../../../.gitbook/assets/img_0815.jpg)
 

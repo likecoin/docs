@@ -1,8 +1,8 @@
 ---
-description: Liker 必備 app
+description: 我都有 Facebook 了，為甚麼還要用 Liker Land 看新聞？
 ---
 
-# Liker Land 手機應用程式
+# Liker Land — 不是瀏覽，而是閱讀。
 
 ![](../../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
