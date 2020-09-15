@@ -4,9 +4,10 @@
 
 ## 關於 LikeCoin <a id="about-likecoin"></a>
 
-* [緣起](about-likecoin/constitution.md)
+* [緣起](about-likecoin/background.md)
+* [治理](about-likecoin/governance.md)
+* [進度更新](about-likecoin/updates.md)
 * [傳媒報導](about-likecoin/on-the-news.md)
-* [進度更新](about-likecoin/weekly-report.md)
 * [支援網站列表](about-likecoin/list-of-media.md)
 
 ## 📙  使用手冊 <a id="user-guide"></a>
