@@ -4,7 +4,7 @@ description: LikeCoin 是甚麼？讚賞公民共和國又是甚麼東東？
 
 # LikeCoin、讚賞公民共和國
 
-## 關於 LikeCoin <a id="likecoin"></a>
+## LikeCoin <a id="likecoin"></a>
 
 ![](../../.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
 
@@ -37,7 +37,8 @@ LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) �
 * \*\*\*\*[**Discord**](https://discord.gg/B23rueS)：開發、管治相關討論；英文
 * **Facebook**：[粉專](https://www.facebook.com/Liker.Land/)（一般公告）；[社團](https://www.facebook.com/groups/likecoin)（作者分享）；中文
 
-## 聯絡客服 <a id="cs"></a>
+## 聯繫我們 <a id="contact-us"></a>
 
-請到 [Like.co](https://like.co/) 按畫面右下角綠色按鈕。
+* 客戶服務：請到 [Like.co](https://like.co/) 按畫面右下角綠色按鈕
+* 商務合作：partner@like.co
 
