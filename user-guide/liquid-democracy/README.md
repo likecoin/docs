@@ -1,10 +1,14 @@
 ---
-description: 流動民主？可以當飯吃麼？
+description: 所謂讚賞公民「共和國」，有民主麼？
 ---
 
 # 流動民主
 
 ![](../../.gitbook/assets/likecoin_staking_rewards_voting_chi.png)
+
+LikeCoin 社群——讚賞公民共和國——以[流動民主](https://docs.like.co/v/zh/user-guide/likecoin-chain/liquid-democracy)方式治理。
+
+任何持有 LikeCoin 的人都是持份者，每個持份者都能參與讚賞公民共和國的治理。
 
 LikeCoin 除了是個通證 \( token \)，LikeCoin chain 是區塊鏈，加起來也是個 DAO \( decentralized autonomous/democratic organization, 分散式自治機構 \)。當中的群體決策方式，我們稱為「流動民主」。
 
