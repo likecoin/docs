@@ -2,7 +2,7 @@
 description: 我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？
 ---
 
-# 寫作平台
+# 其他寫作平台
 
 ## 立場新聞、香港獨立媒體網、眾新聞 <a id="standnews-inmedia-hkcnews"></a>
 
