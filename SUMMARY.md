@@ -4,7 +4,7 @@
 
 ## 📙  使用手冊 <a id="user-guide"></a>
 
-* [LikeCoin 與讚賞公民共和國](user-guide/about/README.md)
+* [LikeCoin、讚賞公民共和國](user-guide/about/README.md)
   * [進度更新](user-guide/about/updates.md)
   * [支援網站列表](user-guide/about/list-of-media.md)
   * [傳媒報導](user-guide/about/on-the-news.md)
