@@ -10,7 +10,6 @@
 * [進度更新](about-likecoin/updates.md)
 * [傳媒報導](about-likecoin/on-the-news.md)
 * [支援網站列表](about-likecoin/list-of-media.md)
-* [常見問題](about-likecoin/chang-jian-wen-ti.md)
 
 ## 📙  使用手冊 <a id="user-guide"></a>
 
@@ -85,12 +84,10 @@
   * [轉移委託 LikeCoin](user-guide/governance/redelegation-of-likecoin.md)
   * [歷史議案](user-guide/governance/proposals.md)
 * [常見問題](user-guide/faq/README.md)
-  * [讚賞公民基金會是什麼？](user-guide/faq/likecoin-foundation.md)
   * [如何獲取 Liker Land 每月報告？](user-guide/faq/monthly-report.md)
   * [因委託而產生的 LikeCoin 回報，錢從何來？](user-guide/faq/where-comes-the-likecoin-rewards.md)
   * [如何取消委託，領回 LikeCoin?](user-guide/faq/how-to-undelegate-likecoin.md)
   * [什麼是 Authcore?](user-guide/faq/what-is-authcore.md)
-  * [如何得知 LikeCoin 最新消息？](user-guide/faq/likecoin-news.md)
   * [LikeCoin 很酷，我可以成為志願者嗎？](user-guide/faq/volunteer.md)
   * [有設計材料包可供下載嗎？](user-guide/faq/press-kit.md)
   * [由 ERC-20 升級](user-guide/faq/migration/README.md)
