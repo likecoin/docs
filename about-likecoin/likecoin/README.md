@@ -37,10 +37,6 @@ LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) �
 * \*\*\*\*[**Discord**](https://discord.gg/B23rueS)：開發、管治相關討論；英文
 * **Facebook**：[粉專](https://www.facebook.com/Liker.Land/)（一般公告）；[社團](https://www.facebook.com/groups/likecoin)（作者分享）；中文
 
-## 設計材料 <a id="design-materials"></a>
-
-* [品牌形象、標準配色、推廣材料](https://www.notion.so/Branding-and-Design-96b3d582c3014003985a8819b31217fa)
-
 ## 聯絡客服 <a id="cs"></a>
 
 請到 [Like.co](https://like.co/) 按畫面右下角綠色按鈕。
