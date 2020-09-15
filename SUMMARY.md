@@ -2,17 +2,17 @@
 
 * [常見問題](README.md)
 
-## 關於 LikeCoin <a id="about-likecoin"></a>
+## 關於 LikeCoin <a id="about"></a>
 
-* [LikeCoin 與讚賞公民共和國](about-likecoin/likecoin/README.md)
-  * [進度更新](about-likecoin/likecoin/updates.md)
-  * [支援網站列表](about-likecoin/likecoin/list-of-media.md)
-  * [傳媒報導](about-likecoin/likecoin/on-the-news.md)
-  * [發展史](about-likecoin/likecoin/background.md)
-  * [品牌形象指引](about-likecoin/likecoin/presskit.md)
-* [流動民主式治理](about-likecoin/governance/README.md)
-  * [歷史議案](about-likecoin/governance/proposals.md)
-  * [社群治理會議](about-likecoin/governance/community-call.md)
+* [LikeCoin 與讚賞公民共和國](about/likecoin/README.md)
+  * [進度更新](about/likecoin/updates.md)
+  * [支援網站列表](about/likecoin/list-of-media.md)
+  * [傳媒報導](about/likecoin/on-the-news.md)
+  * [發展史](about/likecoin/background.md)
+  * [品牌形象指引](about/likecoin/presskit.md)
+* [流動民主式治理](about/governance/README.md)
+  * [歷史議案](about/governance/proposals.md)
+  * [社群治理會議](about/governance/community-call.md)
 
 ## 📙  使用手冊 <a id="user-guide"></a>
 
