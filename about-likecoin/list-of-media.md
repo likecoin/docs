@@ -1,5 +1,5 @@
 ---
-description: 支援 LikeCoin 的網站具體有哪些？
+description: 支援 LikeCoin 的網站都有哪些？我想加入，要申請麼？
 ---
 
 # 支援網站列表
