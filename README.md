@@ -2,16 +2,16 @@
 description: FAQ
 ---
 
-# LikeCoin 常見問題
+# LikeCoin 大百科
 
 ![](.gitbook/assets/likecoin_ad27_small_update-01.png)
 
-## [LikeCoin 與讚賞公民共和國](https://docs.like.co/v/zh/about/likecoin)
+## [LikeCoin 與讚賞公民共和國](https://docs.like.co/v/zh/user-guide/about)
 
-* [LikeCoin 是甚麼？](https://docs.like.co/v/zh/about/likecoin#about)
-* [讚賞公民共和國又是甚麼東東？](https://docs.like.co/v/zh/about/likecoin#republic-of-liker-land)
-* [有甚麼渠道關注 LikeCoin？](https://docs.like.co/v/zh/about/likecoin#follow-us)
-* [怎樣聯繫客戶服務專員？](https://docs.like.co/v/zh/about/likecoin#cs)
+* [LikeCoin 是甚麼？](https://docs.like.co/v/zh/user-guide/about#likecoin)
+* [讚賞公民共和國又是甚麼東東？](https://docs.like.co/v/zh/user-guide/about#republic-of-liker-land)
+* [好像挺有趣的，怎樣關注 LikeCoin 動態？](https://docs.like.co/v/zh/user-guide/about#follow-us)
+* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://docs.like.co/v/zh/user-guide/about#cs)
 * [LikeCoin 最近有些甚麼動向？](https://docs.like.co/v/zh/about/likecoin/updates)
 * [支援 LikeCoin 的網站都有哪些？我想加入，要申請麼？](https://docs.like.co/v/zh/about/likecoin/list-of-media)
 * [對於 LikeCoin，媒體怎麼說？](https://docs.like.co/v/zh/about-likecoin/on-the-news)
