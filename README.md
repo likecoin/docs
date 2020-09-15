@@ -17,7 +17,7 @@ description: FAQ
 * [對於 LikeCoin，媒體怎麼說？](https://docs.like.co/v/zh/about-likecoin/on-the-news)
 * [LikeCoin 和整個社群怎樣一路走來？](https://docs.like.co/v/zh/about/likecoin/background)
 * [LikeCoin 有提供品牌形象指引和相關素材下載麼？](https://docs.like.co/v/zh/about/likecoin/presskit)
-* [所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/about-likecoin/governance)
+* [所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/about/governance)
 * [讚賞公民共和國有過甚麼議案？](https://docs.like.co/v/zh/about/governance/proposals)
 * [我對 LikeCoin 的發展有意見，可以怎樣表達？](https://docs.like.co/v/zh/about/governance/community-call)
 * LikeCoin 好像挺有意思的，我可以怎樣參與？
