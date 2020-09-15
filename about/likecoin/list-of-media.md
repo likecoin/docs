@@ -6,6 +6,10 @@ description: 支援 LikeCoin 的網站都有哪些？我想加入，要申請麼
 
 ![](../../.gitbook/assets/media-list.png)
 
+## 不設准入機制 <a id="permissionless"></a>
+
+LikeCoin 不設准入機制，無需准許，即能 DIY 使用。
+
 ## 不定時更新 <a id="all"></a>
 
 [\[Life is a journey. - 紀錄與分享生活點滴\]](https://aruyooo.com)  

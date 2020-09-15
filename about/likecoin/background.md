@@ -1,5 +1,5 @@
 ---
-description: LikeCoin 和整個社群當初是怎樣形成？
+description: LikeCoin 和整個社群怎樣一路走來？
 ---
 
 # 發展史

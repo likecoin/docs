@@ -1,3 +1,7 @@
+---
+description: 讚賞公民共和國有過甚麼議案？
+---
+
 # 歷史議案
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)

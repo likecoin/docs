@@ -1,5 +1,5 @@
 ---
-description: LikeCoin 最近有些甚麼發展？
+description: LikeCoin 最近有些甚麼動向？
 ---
 
 # 進度更新
