@@ -10,7 +10,7 @@
   * [支援網站列表](about-likecoin/likecoin/list-of-media.md)
   * [傳媒報導](about-likecoin/likecoin/on-the-news.md)
   * [品牌形象指引](about-likecoin/likecoin/presskit.md)
-* [LikeCoin 治理](about-likecoin/governance/README.md)
+* [流動民主式治理](about-likecoin/governance/README.md)
   * [歷史議案](about-likecoin/governance/proposals.md)
   * [社群治理會議](about-likecoin/governance/community-call.md)
 

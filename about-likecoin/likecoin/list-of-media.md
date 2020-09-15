@@ -4,7 +4,9 @@ description: 支援 LikeCoin 的網站都有哪些？我想加入，要申請麼
 
 # 支援網站列表
 
-## 不定時更新
+![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
+
+## 不定時更新 <a id="all"></a>
 
 [\[Life is a journey. - 紀錄與分享生活點滴\]](https://aruyooo.com)  
 [\[夜蝴蝶館 - 只有故事和故事相關的事\]](http://seba.tw)  
