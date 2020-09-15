@@ -2,7 +2,7 @@
 description: LikeCoin 有提供品牌形象指引和相關素材下載麼？
 ---
 
-# 品牌形象指引
+# 品牌素材下載
 
 ![](../../.gitbook/assets/likecoin_presskit_logo_fullcolor_dark.png)
 

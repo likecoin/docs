@@ -12,19 +12,19 @@ Matters 預設已經整合讚賞鍵。只需綁定 Liker ID 及 Matters ID，你
 
 步驟二： 畫面會彈出以下視窗。若你已註冊了 Liker ID，請點擊「綁定 Liker ID」；若你還未註冊 Liker ID 並想立即生成一個新的 Liker ID，點擊「生成 Liker ID」
 
-![](../../../.gitbook/assets/matters-1.png)
+![](../../.gitbook/assets/matters-1.png)
 
 步驟三： 若你未登入 Liker ID，系統會請你登入，然後會出現一個授權畫面。請點擊「接受」
 
 步驟四： 綁定完成！你會見到以下確認畫面：
 
-![](../../../.gitbook/assets/matters-2.png)
+![](../../.gitbook/assets/matters-2.png)
 
 #### Matters 專屬的讚賞鍵，就緒。
 
 Matters 的讚賞鍵很簡潔，位於文章的最底部，見下圖。
 
-![](../../../.gitbook/assets/matters-3.png)
+![](../../.gitbook/assets/matters-3.png)
 
 你還可以在 Matters 介面的右上方點擊自己的頭像，點選「[我的讚賞](https://matters.news/me/appreciations/received)」查看自己的收入。
 

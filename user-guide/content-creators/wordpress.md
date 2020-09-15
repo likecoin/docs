@@ -14,16 +14,16 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
   
 步驟二：如圖點擊左方「外掛 \( plugin \)」，再點擊上方「安裝外掛 \( install plugin \)」
 
-![](../../../.gitbook/assets/wordpress-1.png)
+![](../../.gitbook/assets/wordpress-1.png)
 
 步驟三：搜尋關鍵字 "LikeCoin" ，找到 LikeCoin 的外掛，點擊「安裝」並等待完成
 
-![](../../../.gitbook/assets/wordpress-2.png)
+![](../../.gitbook/assets/wordpress-2.png)
 
 步驟四：安裝完成後，你會發現在左方的菜單中多了一個 "LikeCoin" 的選項。恭喜你，你已經完成安裝了！  
 
 
-![](../../../.gitbook/assets/wordpress-3.png)
+![](../../.gitbook/assets/wordpress-3.png)
 
 ## 設定 LikeCoin 外掛 <a id="448e"></a>
 
@@ -33,11 +33,11 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 在管理介面左方菜單，點選 "LikeCoin" 外掛設定，再選 "Your Like Rewards"。在右方畫面中，輸入你的 Liker ID
 
-![](../../../.gitbook/assets/wordpress-4.png)
+![](../../.gitbook/assets/wordpress-4.png)
 
 在畫面下方點擊 "Confirm" 鍵，即完成設定！
 
-![](../../../.gitbook/assets/wordpress-5.png)
+![](../../.gitbook/assets/wordpress-5.png)
 
 別忘了「確認」以儲存設定值喔
 
@@ -53,12 +53,12 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
   
 步驟一：在 LikeCoin 外掛中的 "Plugin Setting" 分頁，有一個 "Enable site Liker ID" 的選項。請確保這選項 **\*沒有\*** 被勾選
 
-![](../../../.gitbook/assets/wordpress-6.png)
+![](../../.gitbook/assets/wordpress-6.png)
 
 步驟二：接下來就是 WordPress 新增用戶的流程，跟 LikeCoin 外掛無關。成功新增用戶後，新用戶以自己的 WordPress 帳號登入，便可設定自己的 Liker ID 和讚賞鍵。  
 
 
-![](../../../.gitbook/assets/wordpress-7.png)
+![](../../.gitbook/assets/wordpress-7.png)
 
 ### 廷伸閱讀
 
