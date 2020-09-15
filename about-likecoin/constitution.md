@@ -1,5 +1,5 @@
 ---
-description: LikeCoin 和整個社群當初怎樣形成的？
+description: LikeCoin 和整個社群當初是怎樣形成的？
 ---
 
 # 緣起
