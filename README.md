@@ -12,18 +12,11 @@ description: FAQ
 * [讚賞公民共和國又是甚麼東東？](https://docs.like.co/v/zh/user-guide/about#republic-of-liker-land)
 * [好像挺有趣的，怎樣關注 LikeCoin 動態？](https://docs.like.co/v/zh/user-guide/about#follow-us)
 * [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://docs.like.co/v/zh/user-guide/about#cs)
-* [LikeCoin 最近有些甚麼動向？](https://docs.like.co/v/zh/about/likecoin/updates)
-* [支援 LikeCoin 的網站都有哪些？我想加入，要申請麼？](https://docs.like.co/v/zh/about/likecoin/list-of-media)
-* [對於 LikeCoin，媒體怎麼說？](https://docs.like.co/v/zh/about-likecoin/on-the-news)
-* [LikeCoin 和整個社群怎樣一路走來？](https://docs.like.co/v/zh/about/likecoin/background)
-* [LikeCoin 有提供品牌形象指引和相關素材下載麼？](https://docs.like.co/v/zh/about/likecoin/presskit)
-
-## [流動民主式治理](https://docs.like.co/v/zh/about/governance)
-
-* [所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/about/governance)
-* [讚賞公民共和國有過甚麼議案？](https://docs.like.co/v/zh/about/governance/proposals)
-* [我對 LikeCoin 的發展有意見，可以怎樣表達？](https://docs.like.co/v/zh/about/governance/community-call)
-* LikeCoin 好像挺有意思的，我可以怎樣參與？
+* [LikeCoin 最近有些甚麼動向？](https://docs.like.co/v/zh/user-guide/about/updates)
+* [支援 LikeCoin 的網站都有哪些？我想加入，要申請麼？](https://docs.like.co/v/zh/user-guide/about/list-of-media)
+* [對於 LikeCoin，媒體怎麼說？](https://docs.like.co/v/zh/user-guide/about/on-the-news)
+* [LikeCoin 和整個社群怎樣一路走來？](https://docs.like.co/v/zh/user-guide/about/background)
+* [LikeCoin 有提供品牌形象指引和相關素材下載麼？](https://docs.like.co/v/zh/user-guide/about/presskit)
 
 ## \*\*\*\*[**我是作者**](https://docs.like.co/v/zh/user-guide/content-creators)\*\*\*\*
 
@@ -34,9 +27,13 @@ description: FAQ
 * 如何在自架 WordPress 加入 LikeCoin button？
 * 我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？
 
+## 我是內容伯樂
+
+* wip
+
 ## [我是讀者](https://docs.like.co/v/zh/user-guide/reader)
 
-* wip 
+* wip
 
 ## [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id)
 
@@ -53,10 +50,10 @@ description: FAQ
 ## 參與去中心治理
 
 * wip
-
-
-
-
+* [所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/about/governance)
+* [讚賞公民共和國有過甚麼議案？](https://docs.like.co/v/zh/about/governance/proposals)
+* [我對 LikeCoin 的發展有意見，可以怎樣表達？](https://docs.like.co/v/zh/about/governance/community-call)
+* LikeCoin 好像挺有意思的，我可以怎樣參與？
 
 
 
