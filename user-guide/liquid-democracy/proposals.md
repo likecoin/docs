@@ -20,7 +20,7 @@ description: 讚賞公民共和國有過甚麼議案？
 * **日期**：2020.06.17 提案，2020.07.08 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/2](https://likecoin.bigdipper.live/proposals/2)
 
-## 議案 \#1 **開放驗證人資格及提高驗證人名額至 10 名**
+## 議案 \#1 **開放驗證人資格及提高驗證人名額至 10 名** <a id="1"></a>
 
 * **提案**：驗證人 [Matters](https://matters.news/@likecoin/like-coin-chain-proposal-1-relaxing-validator-requirements-to-transform-like-coin-chain-to-a-permissionless-b-po-s-mechanism-bafyreienrrgu5a35wvgztutzjzl6hey5csqdhimukzrpxfp64xn223fi5q)
 * **日期**：2020.2.18提案，2020.03.16 通過
