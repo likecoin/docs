@@ -1,5 +1,5 @@
 ---
-description: 推薦朋友下載 Liker Land，雙方各得 100 LikeCoin 奬賞，沒有上限
+description: Liker Land 好像不錯，推薦朋友也下載，有好處麼？
 ---
 
 # 推薦下載奬賞

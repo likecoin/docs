@@ -1,5 +1,5 @@
 ---
-description: Facebook 也有很多新聞，我為甚麼還要用 Liker Land？
+description: Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？
 ---
 
 # 我是讀者
