@@ -22,6 +22,8 @@ LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) �
 
 支援 LikeCoin 的媒體包括 [Matters](https://matters.news/)、[立場新聞](https://www.thestandnews.com/)、[香港獨立媒體網](https://www.inmediahk.net/)、[眾新聞](https://www.hkcnews.com/) 及其他 1,300 多個網站。LikeCoin 也可在 [WordPress](https://zh-hk.wordpress.org/plugins/likecoin/)、[Medium](https://medium.com/)、[方格子](https://vocus.cc/)、[Blogspot \(Blogger.com\)](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331) 及其他平台上使用。‌
 
+{% page-ref page="list-of-media.md" %}
+
 除了在慣常的平台閱讀，讀者亦可用 [Liker Land](https://like.co/in/getapp) 手機應用程式，閱讀可信賴的內容伯樂（content jockey）精選的頭條。Liker Land 可於 [Google Play Store](https://play.google.com/store/apps/details?id=com.oice&hl=en) 或 [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) 下載。 
 
 ![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)

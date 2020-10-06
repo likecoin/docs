@@ -8,7 +8,11 @@ description: 支援 LikeCoin 的網站都有哪些？我想加入，要申請麼
 
 ## 不設准入機制 <a id="permissionless"></a>
 
-LikeCoin 不設准入機制，無需准許，即能 DIY 使用。
+LikeCoin 不設准入機制，無需獲得准許，即能使用。
+
+{% page-ref page="../reader/" %}
+
+{% page-ref page="../creator/" %}
 
 ## 支援網站列表（不定時更新） <a id="all"></a>
 
