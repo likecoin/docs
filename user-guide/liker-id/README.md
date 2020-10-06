@@ -1,5 +1,5 @@
 ---
-description: Liker ID 是甚麼？怎樣申請？
+description: Liker ID 是甚麼？
 ---
 
 # Liker ID

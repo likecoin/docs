@@ -1,5 +1,5 @@
 ---
-description: 何謂 Super Like？內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？
+description: 何謂 Super Like？內容伯樂又是甚麼？
 ---
 
 # Super Like — 內容伯樂
