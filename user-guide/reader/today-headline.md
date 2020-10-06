@@ -1,18 +1,26 @@
-# 每日頭條
+---
+description: Facebook 就能看到新聞了啦，為甚麼還要來 Liker Land 讀？
+---
+
+# 今日頭條
 
 ![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
-#### 
+[下載 Liker Land](https://liker.land/getapp)
 
 ## 零 AI 內容策展 <a id="zero-ai-curation"></a>
 
-時間有限，每天面對巨量資訊，總有透不過氣的感覺。作為讀者最希望由專家提供精選內容，節省寶貴時間之餘更可擴闊眼界。Like Land 的 Super Like 機制正正提供了內容精闢的閱讀渠道。
+人工智能固然能幫助我們節省時間，提升效率，但用在新聞篩選，卻是問題多多。以 Facebook 為例，雖然用上先進的 AI，但算法選出的是最能引起你興趣和情緒的內容，卻不見得是重要的資訊。況且，內容列表雖然無限長，但雜訊極多，而且毫不透明，用戶無從確認能看到追蹤的訊息源，對自己錯過了甚麼，一無所知。
+
+針對 AI 新聞篩選所造成的問題， Liker Land 使用「零 AI 內容策展機制」，改由讀者自選可信與感興趣的「內容伯樂」（Content Jockey）精選頭條。每位內容伯樂每天只可推薦兩篇頭條，既鼓勵精挑細選，也確保讀者不會浸沒於資訊大海。
+
+## 「不是瀏覽，而是閱讀。」
 
 打開 Liker Land 手機應用程式，即可看到每位「內容伯樂」\( Content Jockey \) 每天 Super Like 推薦的好文章。所有你曾點擊讚賞鍵頭像追蹤的作者都是你的內容伯樂，由他們 Super Like 的文章都會在 Super Like 日報頭條中出現。
 
 ![](../../.gitbook/assets/super-like-reader-4.png)
 
-每位內容伯樂每天只可推薦兩篇文章，以確保他們提供的均屬精選。
+
 
 假如你經已閱讀過該篇文章，系統會顯示為「已讀」（紅圈），你亦可以點擊書籤（紅箭嘴）「收藏」文章以供日後翻閱。
 
@@ -28,19 +36,7 @@
 
 ![](../../.gitbook/assets/super-like-reader-3.png)
 
-## 設定 <a id="wallet"></a>
-
-wip
-
-## LikeCoin 錢包 <a id="wallet"></a>
-
-Liker Land 提供的 LikeCoin 電子錢包，即裝即用，操作簡便，從此[轉帳](https://docs.like.co/v/zh/user-guide/liker-land/like-pay) LikeCoin 再沒難度。
-
-過往使用 LikeCoin ERC-20 時要在桌面電腦上學懂使用 MetaMask，對不少用戶來說門檻很高，手機上也沒有任何合用的工具。Liker Land 手機應用程式已解決了上述問題。
-
-## 護照 <a id="passport"></a>
-
-在讚賞公民共和國，每位持有 LikeCoin 的人都是持份者 \( stakeholder \)。使用 Liker Land 你可以把 LikeCoin [委托](https://docs.like.co/v/zh/user-guide/liker-land/delegation-of-likecoin)給任何驗證人，讓他們代表你為有關社群發展的議案投票；你還可以因委託 LikeCoin 而賺取不錯的回報。 
+##  <a id="wallet"></a>
 
 #### 
 

@@ -2,7 +2,7 @@
 description: 何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不用 AI 策展就好？
 ---
 
-# Super Like — 內容策展
+# Super Like — 內容伯樂
 
 ![](../../.gitbook/assets/likecoin_ad92_super_like_dragonball.png)
 
