@@ -1,10 +1,12 @@
 ---
-description: Facebook 已有很多新聞了，為甚麼還要用 Liker Land？
+description: Facebook 已經可以按讚啦，為甚麼還要多搞一個 LikeCoin？
 ---
 
 # 我是讀者
 
 ![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
+
+內容
 
 Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢包、護照等更項功能於一身。
 
