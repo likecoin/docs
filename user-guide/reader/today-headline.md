@@ -6,9 +6,9 @@ description: 人工挑選內容那麼古早，為甚麼不靠 AI 策展就好？
 
 ![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
-[下載 Liker Land](https://liker.land/getapp) 後，花兩分鐘註冊 Liker ID
+[下載 Liker Land](https://liker.land/getapp) 後，請花兩分鐘註冊 Liker ID
 
-{% page-ref page="../liker-id/register-liker-id.md" %}
+{% page-ref page="../liker-id/register.md" %}
 
 ## 「不是瀏覽，而是閱讀。」
 
