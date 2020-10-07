@@ -2,9 +2,13 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 10/07 IPFS
+
+[Case study: LikeCoin](https://docs.ipfs.io/concepts/case-study-likecoin/#overview)
+
 ### 08/26 掌舖 x VSMedia 網上書展
 
-{% embed url="https://www.facebook.com/watch/live/?v=415270672770452&ref=watch\_permalink" %}
+{% embed url="https://www.facebook.com/watch/live/?v=415270672770452" %}
 
 ### 08/17 香港蘋果日報
 
