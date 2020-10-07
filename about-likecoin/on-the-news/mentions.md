@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 10/06 妞新聞 Elaine Shen
+
+[寫文章賺錢？經營Matters、生活譜記等創作平台，讓文字變現！](https://www.niusnews.com/=P0hg1810)
+
 ### 09/02 立場新聞 梁浩恩專欄
 
 [虛擬貨幣和 LikeCoin](https://www.thestandnews.com/finance/%E8%99%9B%E6%93%AC%E8%B2%A8%E5%B9%A3%E5%92%8C-likecoin/)
