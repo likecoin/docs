@@ -61,7 +61,7 @@ In the init script, we are running `liked` in Docker \(image `likechain/likechai
 
 \(Sometimes you may also need the `.likecli` directory mounted into the container, e.g. `gentx` which uses the keys managed by `likecli` to sign transaction\)
 
-If you already have the `likechain/liked` container running and wants to connect to it, you may need:
+If you already have the `likechain_liked` container running and wants to connect to it, you may need:
 
 `docker exec -it likechain_liked liked --home /likechain/.liked COMMANDS...`
 
@@ -131,7 +131,7 @@ In the init script, we are running `likecli` in Docker \(image `likechain/likech
 
 ``docker run --rm -it -v `pwd`/.likecli:/likechain/.likecli likechain/likechain likecli --home /likechain/.likecli COMMANDS...``
 
-If you already have the `likechain/liked` container running and wants to connect to it, you may need:
+If you already have the `likechain_liked` container running and wants to connect to it, you may need:
 
 `docker exec -it likechain_liked likecli --home /likechain/.likecli COMMANDS...`
 
