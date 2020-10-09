@@ -63,7 +63,7 @@ In the init script, we are running `liked` in Docker \(image `likechain/likechai
 
 If you already have the `likechain/liked` container running and wants to connect to it, you may need:
 
-`docker exec -it likechain/liked liked --home /likechain/.liked COMMANDS...`
+`docker exec -it likechain_liked liked --home /likechain/.liked COMMANDS...`
 
 Common usage:
 
@@ -133,7 +133,7 @@ In the init script, we are running `likecli` in Docker \(image `likechain/likech
 
 If you already have the `likechain/liked` container running and wants to connect to it, you may need:
 
-`docker exec -it likechain/liked likecli --home /likechain/.likecli COMMANDS...`
+`docker exec -it likechain_liked likecli --home /likechain/.likecli COMMANDS...`
 
 Common usage:
 
