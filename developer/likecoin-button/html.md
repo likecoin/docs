@@ -8,7 +8,7 @@ description: Embed LikeCoin button by just including <script> in your website
 
 1. Add the following `div` tag into the webpage at the position for embedding LikeCoin button:
 
-`<div class="likecoin-button-like" data-liker-id="{YOUR_LIKECOIN_ID}" data-href="YOUR_WEBPAGE_URL"></div>`
+`<div class="likecoin-embed likecoin-button" data-liker-id="{YOUR_LIKECOIN_ID}" data-href="YOUR_WEBPAGE_URL"></div>`
 
 | Param | Description |
 | :--- | :--- |
