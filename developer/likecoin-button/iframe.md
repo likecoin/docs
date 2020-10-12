@@ -17,6 +17,7 @@ https://button.like.co/in/embed/{{LikerID}}/button?referrer={{referrer}}&type={{
 | `LikerID` | `string` | required | The author of the content |
 | `referrer` | `string` | required | The source \(canonical\) URL of the content in `encodeURIComponent()` format \(this also works as the content key\) |
 | `type` | `string` | optional | `wp` for WordPress site, omit for the others |
+| `preview` | `number` | optional | Set to `1` to set the button to preview mode. This stop the button from automatically calling like.co API. Useful for develop/staging environment e.g. to prevent leaking dev server's address. |
 
 > For testing purpose, you may use `button.rinkeby.like.co` instead of `button.like.co`
 
