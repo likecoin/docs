@@ -2,6 +2,12 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 10/14 Hour of Code Hong Kong Meetup Group
+
+[HoCHK Webinar: Kin Ko, Entrepreneur, Founder, LikeCoin](https://www.meetup.com/Hong-Kong-Hour-of-Code-Meetup-Group/events/273470964/)
+
+{% embed url="https://youtu.be/u6KARzk7vok?t=595" %}
+
 ### 10/07 IPFS
 
 [Case study: LikeCoin](https://docs.ipfs.io/concepts/case-study-likecoin/#overview)
