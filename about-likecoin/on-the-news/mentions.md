@@ -318,6 +318,10 @@
 
 [回《當我們談論 LikeCoin 時我們在談論甚麼？》](https://www.thestandnews.com/technology/%E5%9B%9E%E7%95%B6%E6%88%91%E5%80%91%E8%AB%87%E8%AB%96likecoin-%E6%99%82%E6%88%91%E5%80%91%E5%9C%A8%E8%AB%87%E8%AB%96%E7%94%9A%E9%BA%BC/)
 
+### 01/14 香港獨立媒體網 凍易打鹿專欄
+
+[Coin 以載道](https://www.inmediahk.net/node/1054310)
+
 ### 01/04 立場新聞 Y.t. Chan專欄
 
 [Coin 以載道](https://www.thestandnews.com/personal/coin-%E4%BB%A5%E8%BC%89%E9%81%93/)
