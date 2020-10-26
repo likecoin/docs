@@ -4,7 +4,7 @@ description: What is LikeCoin? What is the Republic of Liker Land?
 
 # LikeCoin and Republic of Liker Land
 
-![](.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
+![](.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature%20%281%29.png)
 
 [LikeCoin](https://like.co) is a Decentralized Publishing Infrastructure for Decentralized Archive, Decentralized Rewards, Decentralized Curation and Decentralized Governance.
 
@@ -20,7 +20,7 @@ Some media empowered by LikeCoin include [Matters](https://matters.news/), [Stan
 
 Besides reading on your favourite content platforms, you can also read creative stories and insightful commentaries from the Content Jockeys that you trusted via [Liker Land mobile app](https://like.co/in/getapp), download it on [Google Play Store](https://play.google.com/store/apps/details?id=com.oice&hl=en) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355).
 
-![](.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
+![](.gitbook/assets/likecoin_ad72_appstore_og_ios_android%20%281%29.png)
 
 #### More about LikeCoin:
 
