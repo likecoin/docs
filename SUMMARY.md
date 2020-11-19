@@ -45,6 +45,7 @@
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
   * [如何以 PayMe 或轉數快繳付「讚賞公民」年費](user-guide/civic-liker/civic-liker-paid-by-payme.md)
   * [如何以 LikeCoin 繳付「讚賞公民」年費](user-guide/civic-liker/civic-liker-paid-by-likecoin.md)
+  * [如何修改付款信用卡資料](user-guide/civic-liker/ru-he-xiu-gai-fu-kuan-xin-yong-ka-zi-liao.md)
   * [如何退訂「讚賞公民」](user-guide/civic-liker/unsubscribe-civic-liker.md)
 * [Liker ID](user-guide/liker-id/README.md)
   * [註冊 Liker ID](user-guide/liker-id/register.md)
