@@ -6,7 +6,9 @@
 
 ### 11/19-21 社企民間高峰會 2020
 
-[講者高重建](https://www.ses.org.hk/zh-hant/content/%E9%AB%98%E9%87%8D%E5%BB%BA)[亂中自有我所屬](https://ses.org.hk/zh-hant/content/%E4%BA%82%E4%B8%AD%E8%87%AA%E6%9C%89%E6%88%91%E6%89%80%E5%B1%AC)
+[講者高重建](https://www.ses.org.hk/zh-hant/content/%E9%AB%98%E9%87%8D%E5%BB%BA) [亂中自有我所屬](https://ses.org.hk/zh-hant/content/%E4%BA%82%E4%B8%AD%E8%87%AA%E6%9C%89%E6%88%91%E6%89%80%E5%B1%AC)
+
+{% embed url="https://www.youtube.com/watch?v=W3GLR1C4Cac" %}
 
 ### 10/16 IPFS Virtual Meetup
 
