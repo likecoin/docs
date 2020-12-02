@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 12/01 Rest of World
+
+[China’s fugitive writers find a home online](https://restofworld.org/2020/chinas-fugitive-writers-find-a-home-online/)
+
 ### 10/06 妞新聞 Elaine Shen
 
 [寫文章賺錢？經營Matters、生活譜記等創作平台，讓文字變現！](https://www.niusnews.com/=P0hg1810)
