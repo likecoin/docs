@@ -57,5 +57,3 @@ description: LikeCoin Frequently Asked Questions
 * [我對 LikeCoin 的發展有意見，可以怎樣表達？](https://docs.like.co/v/zh/about/governance/community-call)
 * LikeCoin 好像挺有意思的，我可以怎樣參與？
 
-
-
