@@ -16,5 +16,3 @@ description: 對於 LikeCoin，媒體怎麼說？
 
 {% embed url="https://medium.com/likecoin/likecoin-chronicle-769001f784b3" %}
 
-
-
