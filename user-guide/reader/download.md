@@ -16,7 +16,9 @@ description: 要去哪裏下載 Liker Land？
 
 雖然 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)最為好用，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land/)，[發現、追蹤內容和設定書籤](https://docs.like.co/v/zh/user-guide/liker-land/discovering-contents)。‌
 
-另，點擊右上角的菜單，會彈出其他選項。​![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJjdmH4gPPkYdgO50G%2F-MDJkMQN_N9l6TOGbQY9%2FLiker%20Land%20Web%202.png?alt=media&token=26a63b5c-8744-4046-ac1d-e1322809a268)‌
+另，點擊右上角的菜單，會彈出其他選項。​‌
+
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJjdmH4gPPkYdgO50G%2F-MDJkMQN_N9l6TOGbQY9%2FLiker%20Land%20Web%202.png?alt=media&token=26a63b5c-8744-4046-ac1d-e1322809a268)
 
 ### 選項一：讚賞公民
 
