@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 12/06 明報
+
+[無定向學堂：facebook大選審查觸發「轉會」潮 社交新大陸 移民要留神](https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20201206/s00005/1607192537699/%E7%84%A1%E5%AE%9A%E5%90%91%E5%AD%B8%E5%A0%82-facebook%E5%A4%A7%E9%81%B8%E5%AF%A9%E6%9F%A5%E8%A7%B8%E7%99%BC%E3%80%8C%E8%BD%89%E6%9C%83%E3%80%8D%E6%BD%AE-%E7%A4%BE%E4%BA%A4%E6%96%B0%E5%A4%A7%E9%99%B8-%E7%A7%BB%E6%B0%91%E8%A6%81%E7%95%99%E7%A5%9E)
+
 ### 12/01 Rest of World
 
 [China’s fugitive writers find a home online](https://restofworld.org/2020/chinas-fugitive-writers-find-a-home-online/)
