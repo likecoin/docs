@@ -48,3 +48,9 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 
 > [分享文章也能賺錢？Super Like 功能演示](https://matters.news/@edmond/%E5%88%86%E4%BA%AB%E6%96%87%E7%AB%A0%E4%B9%9F%E8%83%BD%E8%B3%BA%E9%8C%A2-super-like-%E5%8A%9F%E8%83%BD%E6%BC%94%E7%A4%BA-bafyreifidmim3f5u7ni27ibj42b5764fme7r54er52zdxaernhq2dg5eva)
 
+## Super Like 履歷
+
+想回顧曾經 Super Like 過哪些好文章？請到網址 https://liker.land/\[你的 Liker ID\]，例如若你的 Liker ID 是 ckxpress，鏈結便是 https://liker.land/ckxpress。你也可以直接輸入網址訪問朋友或名人的個人主頁並追蹤，了解他們的閱讀品味。
+
+![](../../.gitbook/assets/portfolio-page-2.png)
+
