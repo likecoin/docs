@@ -6,15 +6,26 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
-## 議案 \#5 持份者參與直接民主
+## 議案 \#6 驗證交易的增發率由 2% 提升至 7%
 
+* **提案**：[guanyun](https://guanyun.live/)
+* **類型**：參數修訂議案（parameter change proposal）
+* **日期**：2020.11.13 提案，2020.12.07 押金不足，提案未獲通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/6](https://likecoin.bigdipper.live/proposals/6)
 
+## 議案 \#5 驗證交易的增發率由 1% 提升至 2%
+
+* **提案**：[Oldcat](https://likecoin.bigdipper.live/validator/564B614EB321F3C8199A6F34489EFCD0427CA5AE)
+* **類型**：參數修訂議案（parameter change proposal）
+* **日期**：2020.10.14 提案，2020.11.10 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/5](https://likecoin.bigdipper.live/proposals/5)
 
 ## 議案 \#4 持份者參與直接民主
 
 * 提案：[Nicholas](https://likecoin.bigdipper.live/validator/cosmosvaloper1t78ejptyww574n8ukqad958kr8w802drj0vh4s)
 * 類型：敍述式議案 \( Text Proposal \)
 * 日期：2020.09.21 提案，2020.10.05 通過
+* 重點：建議每位 LikeCoin 持份者都可以發起議案及進行技票
 * 詳情：[https://likecoin.bigdipper.live/proposals/4](https://likecoin.bigdipper.live/proposals/4)
 
 ## 議案 \#3 提高驗證人名額至 25 名 <a id="3"></a>
