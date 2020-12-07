@@ -2,9 +2,11 @@
 
 {% tabs %}
 {% tab title="2020" %}
-### 
+### 11/28 科創社工學會 Society for Innovation and Technology in Social Work
 
+[區塊鏈社會學與社會工作分享會](https://www.facebook.com/SITSWHK/posts/381713766500377)
 
+{% embed url="https://www.facebook.com/SITSWHK/videos/2935905176646670" %}
 
 ### 10/14 Hour of Code Hong Kong Meetup Group
 
