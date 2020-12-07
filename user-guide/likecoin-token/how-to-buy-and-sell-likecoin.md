@@ -10,7 +10,3 @@ description: 交易渠道簡介
 
 轉帳 LikeCoin 到交易所須使用 Liker Land 手機應用程式並使用 [LIKE pay](https://docs.like.co/v/zh/user-guide/liker-land/like-pay)，請先[下載](https://like.co/in/getapp)。
 
-
-
-
-
