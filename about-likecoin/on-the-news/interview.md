@@ -8,6 +8,10 @@
 
 {% embed url="https://www.facebook.com/SITSWHK/videos/2935905176646670" %}
 
+### 11/14 信報財經新聞
+
+[LikeCoin用區塊鏈為文字創富](https://www1.hkej.com/dailynews/article/id/2635378/)
+
 ### 10/14 Hour of Code Hong Kong Meetup Group
 
 [HoCHK Webinar: Kin Ko, Entrepreneur, Founder, LikeCoin](https://www.meetup.com/Hong-Kong-Hour-of-Code-Meetup-Group/events/273470964/)
