@@ -39,9 +39,11 @@ description: 要去哪裏下載 Liker Land？
 
 * 讚賞公民訂閱 / 退訂
 * 創作者狀態：已註冊 / 未註冊
-* 追縱設定：用戶預設追縱曾按過讚的作者，可在這裡取消追縱（下圖）
+* 追蹤設定：顯示用戶已追蹤的內容伯樂（Content Jockey），可在這裡取消追蹤（下圖）
 
-​![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJjdmH4gPPkYdgO50G%2F-MDJkPBw6RHX_U_1I0SD%2FLiker%20Land%20Web%203.png?alt=media&token=3b20df76-f0b3-46c9-9828-b20ed3286467)‌
+​‌
+
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJjdmH4gPPkYdgO50G%2F-MDJkPBw6RHX_U_1I0SD%2FLiker%20Land%20Web%203.png?alt=media&token=3b20df76-f0b3-46c9-9828-b20ed3286467)
 
 ### 選項四：幫助
 
