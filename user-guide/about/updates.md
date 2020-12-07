@@ -11,6 +11,7 @@ description: LikeCoin 最近有些甚麼動向？
 * [2020 上半年回顧](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-2020-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%9E%E9%A1%A7-bafyreidroqj5elqim2jnr3u2zd75ysdgflu7jyinnm7cg7ztjlpfv7z36m)
 * [2020 第一季回顧](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-2020-%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%9B%9E%E9%A1%A7-bafyreifdlfznigt3htdur7e2pyomoem5chmmortz34rnakprxdipt6s2vy)
 * [2019 Annual Report](https://medium.com/likecoin/likecoin-annual-report-2019-f831cb873801)
+* [LikeCoin 簡史](https://medium.com/likecoin/likecoin-chronicle-769001f784b3)
 
 ## 更多 <a id="more"></a>
 
