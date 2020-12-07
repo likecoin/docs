@@ -19,6 +19,7 @@
   * [推薦下載奬賞](user-guide/reader/referral.md)
   * [wip](user-guide/reader/wip.md)
 * [我是創作者](user-guide/creator/README.md)
+  * [個人主頁功能](user-guide/creator/portfolio-page.md)
   * [LikeCoin button 讚賞鍵](user-guide/creator/likecoin-button.md)
   * [Matters](user-guide/creator/matters.md)
   * [WordPress](user-guide/creator/wordpress.md)
