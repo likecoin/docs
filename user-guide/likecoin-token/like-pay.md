@@ -22,7 +22,7 @@ description: 用 Liker Land 手機應用程式轉帳 LikeCoin，幾秒搞定
 
 ### **步驟四**
 
-某些交易所需要用戶在區塊鏈上加上 Tag/Memo，你可以在這個畫面輸入內容，否則按 \[Next\] 略過
+某些交易所需要用戶在區塊鏈上加上 Tag/Memo，你可以在這個畫面輸入內容，否則按 \[Next\] 略過。
 
 ![](../../.gitbook/assets/memo.png)
 
