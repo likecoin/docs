@@ -20,7 +20,7 @@
   * [wip](user-guide/reader/wip.md)
 * [我是創作者](user-guide/creator/README.md)
   * [LikeCoin button 讚賞鍵](user-guide/creator/likecoin-button.md)
-  * [個人主頁功能](user-guide/creator/portfolio-page.md)
+  * [個人主頁](user-guide/creator/portfolio-page.md)
   * [Matters](user-guide/creator/matters.md)
   * [WordPress](user-guide/creator/wordpress.md)
   * [其他自架網站](user-guide/creator/self-host/README.md)

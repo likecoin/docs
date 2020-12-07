@@ -22,7 +22,7 @@ description: 人工挑選內容那麼古早，為甚麼不靠 AI 策展就好？
 
 除此以外，讀者可自行追蹤其他可信賴，關注不同範疇的內容伯樂。
 
-![](../../.gitbook/assets/super-like-reader-4.png)
+![&#x9EDE;&#x64CA;&#x982D;&#x50CF;&#x5373;&#x53EF;&#x8FFD;&#x8E64;](../../.gitbook/assets/super-like-reader-4.png)
 
 Liker Land 預設內容伯樂由讚賞公民共和國以流動民主治理，有社群投票選出質量高、具口碑的內容伯樂。
 
