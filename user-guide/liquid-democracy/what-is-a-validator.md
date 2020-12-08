@@ -22,7 +22,7 @@ Likers 透過委託的方法授權給驗證人。委託 LikeCoin 代表 Liker �
 
 ## 驗證人狀態 <a id="status"></a>
 
-### 活躍驗證人 \(Active Validator\) 
+### 活躍驗證人 \( Active Validator\) 
 
 履行[驗證交易](https://docs.like.co/v/zh/constitution#9e68)責任，並在讚賞公民共和國憲法界定下的活躍驗證人數目內獲得最多委托的驗證人。
 
