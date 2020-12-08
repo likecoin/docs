@@ -14,7 +14,7 @@ description: 要去哪裏下載 Liker Land？
 
 ## Liker Land 網頁版 - https://Liker.Land
 
-雖然 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)最為好用，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land/)，[發現、追蹤內容和設定書籤](https://docs.like.co/v/zh/user-guide/liker-land/discovering-contents)。‌
+雖然 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)最為好用，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land/)，發現、追蹤內容和設定[閱讀列表](https://docs.like.co/v/zh/user-guide/reader/reading-list)。‌
 
 另，點擊右上角的菜單，會彈出其他選項。​‌
 
@@ -37,15 +37,15 @@ description: 要去哪裏下載 Liker Land？
 
 {% page-ref page="../liker-id/edit-avatar-displayname.md" %}
 
-* 讚賞公民訂閱 / 退訂
-* 創作者狀態：已註冊 / 未註冊
+* 讚賞公民：訂閱 / 退訂
+* 創作者：狀態為已註冊 / 未註冊
 * 追蹤設定：顯示用戶已追蹤的內容伯樂（Content Jockey），可在這裡取消追蹤（下圖）
 
 ![](../../.gitbook/assets/liker-land-web-3.png)
 
 ### 選項四：幫助
 
-會重新導向至 LikeCoin 的[常見問題頁面](https://docs.like.co/v/zh/)。在那裡可查閱常見問題文章，或點擊右下角的藍色圓形圖示聯繫客服留言對話。‌
+會重新導向至 LikeCoin 的[常見問題頁面](https://docs.like.co/v/zh/)。在那裡可查閱常見問題文章，或點擊右下角的綠色圓形圖示聯繫客服留言對話。‌
 
 ### 選項五：登出
 
