@@ -4,7 +4,7 @@ description: 查看每週、每天、每篇文章所獲得的讚賞收益，一�
 
 # 查看讚賞成就
 
-點擊 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)右下角的個人頭像，能查看你本星期因讀者讚賞而獲的 LikeCoin。
+點擊 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)右下角的個人頭像，能查看你本星期因讀者讚賞而獲得的 LikeCoin。
 
 ![&#x672C;&#x661F;&#x671F;&#x6240;&#x7372;&#x7684; LikeCoin](../../.gitbook/assets/img_0668.png)
 
