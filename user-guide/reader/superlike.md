@@ -25,7 +25,7 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 ## 使用方法
 
 * 在讚賞鍵點 5 次，讚賞鍵的圖案會從拍掌圖案轉變成星形圖案，這時再點第 6 次，便使用了 Super Like。
-* 被 Super Like 了的文章會顯示在 Liker Land 上。你的追蹤者能在「頭條」列表中看到，所有人也能在「所有 Content Jockey 的 Super Like」頁面看到。
+* 被 Super Like 了的文章會顯示在 Liker Land 上。你的追蹤者能在「[今日頭條](https://docs.like.co/v/zh/user-guide/reader/today-headline)」列表中看到，而所有人也能在「[Super Like 公海](https://docs.like.co/v/zh/user-guide/reader/today-headline#super-like-world-feed)」頁面看到。
 
 ![](../../.gitbook/assets/superlike%20%281%29.gif)
 
