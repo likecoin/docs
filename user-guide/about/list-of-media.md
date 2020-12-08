@@ -4,7 +4,17 @@ description: Which websites are empowered by LikeCoin?
 
 # List of Media
 
-### Update from time to time
+![](../../.gitbook/assets/media-list.png)
+
+## No Prerequisites
+
+Anyone can use and enjoy the benefits of LikeCoin without prerequisites.
+
+{% page-ref page="../liker-land/" %}
+
+{% page-ref page="../content-creators/" %}
+
+## List of Media \( Update from time to time \)
 
 [\[Life is a journey. - 紀錄與分享生活點滴\]](https://aruyooo.com)  
 [\[夜蝴蝶館 - 只有故事和故事相關的事\]](http://seba.tw)  

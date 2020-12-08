@@ -11,7 +11,6 @@
   * [Activities and Events](about-likecoin/on-the-news/activities-and-events.md)
   * [Awards and Press Release](about-likecoin/on-the-news/press-release.md)
   * [Recommendations](about-likecoin/on-the-news/recommendations.md)
-* [List of Media](about-likecoin/list-of-media.md)
 
 ## 📙 user guide
 
@@ -37,6 +36,7 @@
     * [2020.04.27](user-guide/about/updates/2020.04.27.md)
     * [2020.04.20](user-guide/about/updates/20200420.md)
     * [2020.04.13](user-guide/about/updates/20200413.md)
+  * [List of Media](user-guide/about/list-of-media.md)
 * [Content creators](user-guide/content-creators/README.md)
   * [LikeCoin button](user-guide/content-creators/how-it-works/README.md)
     * [Like - Turn Likes into Rewards](user-guide/content-creators/how-it-works/like-rewards.md)
