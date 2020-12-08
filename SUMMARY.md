@@ -36,6 +36,7 @@
 
 ## 📙 user guide
 
+* [LikeCoin and Republic of Liker Land](user-guide/about.md)
 * [Content creators](user-guide/content-creators/README.md)
   * [LikeCoin button](user-guide/content-creators/how-it-works/README.md)
     * [Like - Turn Likes into Rewards](user-guide/content-creators/how-it-works/like-rewards.md)
