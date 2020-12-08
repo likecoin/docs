@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="Awards" %}
+### 2020/10/20 Grant for the Web Flagship 2020
+
+[Announcing our 2020 Flagship grantees](https://www.grantfortheweb.org/blog/2020-flagship-grantees)
+
 ### 2020/05/26 Cross-Chain Hackathon, hosted by Gitcoin - 2nd place — LikeCoin ISCN
 
 [Announcing the Cross-Chain Hackathon Winners](https://blog.cosmos.network/announcing-the-cross-chain-hackathon-winners-698b6d03bd6)
