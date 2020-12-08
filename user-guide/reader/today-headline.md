@@ -22,7 +22,7 @@ description: 人工挑選內容那麼古早，為甚麼不靠 AI 策展就好？
 
 除此以外，讀者可自行追蹤其他可信賴，關注不同範疇的內容伯樂。
 
-![&#x9EDE;&#x64CA;&#x982D;&#x50CF;&#x5373;&#x53EF;&#x8DF3;&#x8F49;&#x81F3;&#x500B;&#x4EBA;&#x4E3B;&#x9801;&#x8FFD;&#x8E64;&#x5167;&#x5BB9;&#x4F2F;&#x6A02;](../../.gitbook/assets/super-like-reader-4.png)
+![&#x9EDE;&#x64CA;&#x8B9A;&#x8CDE;&#x9375;&#x982D;&#x50CF;&#x5373;&#x53EF;&#x8DF3;&#x8F49;&#x81F3;&#x500B;&#x4EBA;&#x4E3B;&#x9801;&#x8FFD;&#x8E64;&#x5167;&#x5BB9;&#x4F2F;&#x6A02;](../../.gitbook/assets/super-like-reader-4.png)
 
 {% page-ref page="../creator/portfolio-page.md" %}
 
