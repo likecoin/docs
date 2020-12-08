@@ -4,6 +4,8 @@ description: The Constitution of Republic of Liker Land
 
 # Constitution
 
+![](../.gitbook/assets/likecoin_ad71_timeline-01.png)
+
 ## LikeCoin — Republic of Liker Land
 
 ### The new generation of LikeCoin with high-speed, low-cost and liquid democracy
