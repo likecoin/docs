@@ -6,7 +6,7 @@ description: 人工挑選內容那麼古早，為甚麼不靠 AI 策展就好？
 
 ![Liker Land &#x4ECA;&#x65E5;&#x982D;&#x689D;](../../.gitbook/assets/photo6332505717323442883.jpg)
 
-## 不是瀏覽，而是閱讀。
+## 不是瀏覽，而是閱讀
 
 打開 Liker Land 手機應用程式，即可看到「今日頭條」，就像以往的報紙，每天選出有限的、重要的新聞。
 
@@ -36,13 +36,13 @@ Liker Land 預設內容伯樂由讚賞公民共和國以流動民主治理，有
 
 ![](../../.gitbook/assets/super-like-reader-1.png)
 
-若你想停止追蹤某位內容伯樂，可在 Liker Land app 選右下角的帳戶頭像，再點「設定」下的 Content JockeY。你亦可以到 Liker Land 網頁版中設定停止追蹤。
+若你想停止追蹤某位內容伯樂，可在 Liker Land app 選右下角的帳戶頭像，再點「設定」下的「Content Jockey」。你亦可以到 Liker Land 網頁版中設定停止追蹤。
 
 ![](../../.gitbook/assets/super-like-reader-2.png)
 
 ## Super Like 公海 <a id="super-like-world-feed"></a>
 
-覺得你的 Super Like 日報頭條不夠看？不打緊！點擊右上角的 \[地球\] 鍵，即可暢讀所有內容伯樂的 Super Like 精選文章，發堀更多精彩內容。假如你覺得他/她的品味不錯，更可點擊 \[追蹤\]，以後他/她經手 Super Like 的文章就會在你的 Super Like 日報頭條版面出現。同樣你亦可點擊書籤「收藏」文章。
+覺得你的 Super Like 日報頭條不夠看？不打緊！點擊右上角的 \[地球\] 鍵，即可暢讀所有內容伯樂的 Super Like 精選文章，發堀更多精彩內容。假如你覺得他/她的品味不錯，更可點擊 \[追蹤\]，以後他/她經手 Super Like 的文章就會在你的 Super Like 日報頭條版面出現。同樣你亦可點擊書籤收藏文章到閱讀列表。
 
 ![](../../.gitbook/assets/super-like-reader-3.png)
 
