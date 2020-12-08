@@ -36,7 +36,7 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 
 ## 怎樣參與
 
-只有[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)可獲每天兩次的 SuperLike 機會。【[成為讚賞公民](https://like.co/in/getapp)】
+只有[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)可獲每天兩次的 SuperLike 機會。【[成為讚賞公民](https://liker.land/civic)】
 
 ## Super Like 功能展示
 
