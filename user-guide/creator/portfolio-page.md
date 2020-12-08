@@ -4,7 +4,7 @@
 
 個人主頁可讓作者向讀者分享閱讀足跡，訪問它有兩種方法。
 
-方法一：點擊 LikeCoin button 作者頭像
+方法一：點擊 LikeCoin button 讚賞鍵作者頭像
 
 ![](../../.gitbook/assets/super-like-reader-4.png)
 
@@ -12,11 +12,11 @@
 
 ## 個人資訊
 
-頁面的左手邊展示作者個人資訊，包括姓名、Liker ID及成為讚賞公民的日期：
+頁面的左手邊展示作者個人資訊，包括姓名、Liker ID 及成為讚賞公民的日期，並提供以下功能：
 
 * 成為讚賞公民－讀者點擊專屬連結成為讚賞公民能讓作者獲得約 5 美元的等值 LikeCoin 奬勵，更多詳情請參閱 [獲得 LikeCoin・推薦朋友](https://docs.like.co/v/zh/user-guide/likecoin-token/how-do-i-make-likecoin#tui-jian-peng-you)
 * 追蹤－點擊並追蹤作為內容伯樂的作者
-* Like Pay－直接轉帳 LikeCoin 予作者
+* LIKE Pay－直接轉帳 LikeCoin 予作者
 
 ![](../../.gitbook/assets/portfolio-page-3.png)
 
