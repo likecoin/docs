@@ -33,7 +33,7 @@ description: 要去哪裏下載 Liker Land？
 可設定以下五項系統偏好：‌
 
 * 介面語言：留意這只是指網頁版介面的語言，不影響手機應用程式的介面（手機應用程式請參考手機的系統設定）
-* Liker ID 設定：會重新導向至 [Like.co](https://like.co/in/settings) 的設定頁面。用戶可設定 Liker ID 的頭像，社交帳戶登入方法等資料。詳情請看：
+* Liker ID：會重新導向至 [Like.co](https://like.co/in/settings) 的設定頁面。用戶可設定 Liker ID 的頭像，社交帳戶登入方法等資料。詳情請看：
 
 {% page-ref page="../liker-id/edit-avatar-displayname.md" %}
 
