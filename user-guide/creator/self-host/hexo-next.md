@@ -55,8 +55,6 @@ description: 如何在 Hexo 開發環境的文章中加入讚賞鍵
 
 ### 參考文章
 
-> [在 Hexo Blog 上安裝 LikeCoin 賺錢錢 👍](https://sealman234.github.io/hexo/20200622/2807510721/)
-
 > [在Hexo NexT增加like Button](https://blog.typeart.cc/%E5%9C%A8Hexo%20NexT%E5%A2%9E%E5%8A%A0like%20Button/)
 
 > [如何将Liker按钮集成到Hexo](https://hive.blog/cn/@aafeng/liker-hexo)
