@@ -16,7 +16,7 @@
 ## 📙 user guide
 
 * [LikeCoin and Republic of Liker Land](user-guide/about/README.md)
-  * [Weekly Progress Updates](user-guide/about/updates/README.md)
+  * [Progress Updates](user-guide/about/updates/README.md)
     * [2020.08.24](user-guide/about/updates/2020.08.24.md)
     * [2020.08.17](user-guide/about/updates/2020.08.17.md)
     * [2020.08.10](user-guide/about/updates/2020.08.10.md)

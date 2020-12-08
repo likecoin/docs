@@ -2,7 +2,7 @@
 description: What are the updates on LikeCoin?
 ---
 
-# Weekly Progress Updates
+# Progress Updates
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGFkSUMj9_TpAJG75W%2F-MHGHqgZn4_N6csz6pUU%2FLikeCoin_AD69_Stat_Sept_Artwork1-06.png?alt=media&token=dc28292d-2103-45df-8c17-eb44492c4996)
 
