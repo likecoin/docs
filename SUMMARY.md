@@ -55,7 +55,7 @@
   * [綁定社交帳號](user-guide/liker-id/social-media-logins.md)
   * [管理登入裝置](user-guide/liker-id/devices.md)
   * [重設密碼](user-guide/liker-id/reset-password.md)
-  * [什麼是 Authcore?](user-guide/liker-id/what-is-authcore.md)
+  * [甚麼是 Authcore?](user-guide/liker-id/what-is-authcore.md)
 * [LikeCoin 交易](user-guide/likecoin-token/README.md)
   * [LIKE pay](user-guide/likecoin-token/like-pay.md)
   * [購買產品與服務](user-guide/likecoin-token/products-and-services.md)

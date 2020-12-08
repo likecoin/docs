@@ -2,7 +2,7 @@
 description: 從雲端到實體的全新登入管理方案，一鍵登入任何系統
 ---
 
-# 什麼是 Authcore?
+# 甚麼是 Authcore?
 
 [Authcore](https://authcore.io/zh-TW/) 由幾部分組成，一邊是用戶身份管理系統，另一邊是利用 Intel SGX 的可信任運算環境開發的密鑰管理系統。
 
