@@ -28,7 +28,7 @@
 
 ## 已 Super Like 的內容
 
-Super Like 履歷功能展示作者曾經 Super Like 過什麼好文。
+Super Like 履歷功能展示作者曾經 Super Like 過甚麼好文。
 
 ![](../../.gitbook/assets/portfolio-page-2.png)
 
