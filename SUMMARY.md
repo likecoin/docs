@@ -4,7 +4,7 @@
 
 ## About LikeCoin
 
-* [Constitution](about-likecoin/constitution.md)
+* [Constitution](about-likecoin/background.md)
 * [On the News](about-likecoin/on-the-news/README.md)
   * [Interview and Features](about-likecoin/on-the-news/interview.md)
   * [Mentions](about-likecoin/on-the-news/mentions.md)
