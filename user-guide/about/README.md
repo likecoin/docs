@@ -10,7 +10,7 @@ description: LikeCoin 是甚麼？讚賞公民共和國又是甚麼東東？
 
 [LikeCoin](https://like.co/) 為去中心出版的基礎建設，提供去中心註冊、去中心讚賞、去中心策展及去中心治理幾方面功能。
 
-LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) 公共區塊鏈，其支撐整個社群，[**讚賞公民共和國**](https://like.co/in/getapp)。‌
+LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) 公共區塊鏈，其支撐整個社群，[**讚賞公民共和國**](https://liker.land/getapp)。‌
 
 ## 讚賞公民共和國 <a id="republic-of-liker-land"></a>
 
