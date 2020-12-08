@@ -1,5 +1,5 @@
 ---
-description: 如何在 Hexo 開發環境的文章中加入讚賞鍵
+description: 如何在 Hexo 開發環境的文章中加入 LikeCoin button
 ---
 
 # Hexo

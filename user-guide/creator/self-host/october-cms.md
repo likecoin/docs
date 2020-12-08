@@ -1,5 +1,5 @@
 ---
-description: 如何在 October CMS 文章中加入讚賞鍵
+description: 如何在 October CMS 文章中加入 LikeCoin button
 ---
 
 # October CMS
