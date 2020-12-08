@@ -16,7 +16,7 @@ description: 我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？
 
 ![](../../.gitbook/assets/likecoin-button-save-later-2.png)
 
-## 在電話與平板收藏文章到 Liker land <a id="mobile"></a>
+## 在手機與平板收藏文章到 Liker land <a id="mobile"></a>
 
 步驟一：在瀏覽器或應用程式（例如 Twitter）閱讀文章時，點擊 \[分享\] 鍵
 
