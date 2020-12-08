@@ -32,11 +32,11 @@ Liker Land 預設內容伯樂由讚賞公民共和國以流動民主治理，有
 
 ## 加到閱讀列表
 
-假如你經已閱讀過該篇文章，系統會顯示為「已讀」（紅圈），你亦可以點擊書籤（紅箭嘴）「收藏」文章以供日後翻閱。
+假如你經已閱讀過該篇文章，系統會顯示為綠剔已讀（紅圈），你亦可以點擊書籤（紅箭嘴）收藏文章到閱讀列表以供日後翻閱。
 
 ![](../../.gitbook/assets/super-like-reader-1.png)
 
-若你想停止追蹤某位內容伯樂，可在 Liker Land app 選右下角的帳戶頭像，再點「設定」下的 Content Jockey/內容伯樂。你亦可以到 Liker Land 網頁版中設定停止追蹤。
+若你想停止追蹤某位內容伯樂，可在 Liker Land app 選右下角的帳戶頭像，再點「設定」下的 Content JockeY。你亦可以到 Liker Land 網頁版中設定停止追蹤。
 
 ![](../../.gitbook/assets/super-like-reader-2.png)
 
