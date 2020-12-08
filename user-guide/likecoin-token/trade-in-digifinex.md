@@ -68,7 +68,7 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈，假如你�
 
 ![](../../.gitbook/assets/digifinex-17.png)
 
-點選\[「行情」，在搜尋欄輸入 "Like" 出現走勢圖表（下圖由於 LikeCoin 剛上市，故未有顯示）
+點選「行情」，在搜尋欄輸入 "Like" 出現走勢圖表（下圖由於 LikeCoin 剛上市，故未有顯示）
 
 ![](../../.gitbook/assets/digifinex-18.png)
 
