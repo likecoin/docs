@@ -8,13 +8,15 @@ description: What is LikeCoin? What is the Republic of Liker Land?
 
 [LikeCoin](https://like.co) is a Decentralized Publishing Infrastructure for Decentralized Archive, Decentralized Rewards, Decentralized Curation and Decentralized Governance.
 
-The core component of LikeCoin is [LikeCoin chain](https://likecoin.bigdipper.live/), a public blockchain itailor-made for content publishing, supporting the [Republic of Liker Land](https://like.co/in/getapp). 
+The core component of LikeCoin is [LikeCoin chain](https://likecoin.bigdipper.live/), a public blockchain itailor-made for content publishing, supporting the [**Republic of Liker Land**](https://liker.land/getapp). 
 
-As of August 2020, [Republic of Liker Land](https://like.co/in/getapp) has **1,800+** [**Civic Likers**](https://liker.land/civic), which is **2.4%** of all **75,435+ Likers**, who rewarded **35mil+ LikeCoin** to **286,442+ contents** by **10,928+ creators** on **1,200+ media**.
+## Republic of Liker Land
+
+As of August 2020, [Republic of Liker Land](https://like.co/in/getapp) has **1,800+** [**Civic Likers**](https://liker.land/civic), which is **2.2%** of all **84,216+ Likers**, who rewarded **37mil+ LikeCoin** to **312,599+ contents** by **11,956+ creators** on **1,300+ media**.
 
 Real-time statistics:[ ![Number of Liker](https://static.like.co/badge/stats/liker.svg)](https://like.co/) [![Number of creator](https://static.like.co/badge/stats/creator.svg)](https://like.co/) [![Number of content](https://static.like.co/badge/stats/content.svg)](https://like.co/) [![Number of LIKE given](https://static.like.co/badge/stats/LIKE.svg)](https://like.co/)
 
-[Republic of Liker Land open statistics \(Since 2020\)](https://datastudio.google.com/u/0/reporting/e6168171-b61d-4871-b39f-7b6308f2facc/page/qgR).
+[Republic of Liker Land open statistics](https://datastudio.google.com/u/0/reporting/e6168171-b61d-4871-b39f-7b6308f2facc/page/qgR) \(Since 2020\).
 
 Some media empowered by LikeCoin include [Matters](https://matters.news/), [Standnews](https://www.thestandnews.com/), [InMedia](https://www.inmediahk.net/), [HKCNews](https://www.hkcnews.com/) and other 1,200+ websites. LikeCoin can also be used on [WordPress](https://wordpress.org/plugins/likecoin/), [Medium](https://medium.com), [Blogspot \( Blogger.com \)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331), [Vocus](https://vocus.cc) and other content platforms. 
 
