@@ -22,5 +22,3 @@ LikeCoin 除了是個通證 \( token \)，LikeCoin chain 是區塊鏈，加起�
 * [當基進市場遇上區塊鏈——與唐鳳談流動民主 III](https://ckxpress.com/radicalmarkets-x-blockchain/)
 * [流動民主中，我們握有多少價值【讚賞公民共和國】](https://player.soundon.fm/p/a15ce25e-2627-48ca-9587-d4cf5e98f3a1/episodes/ff8a028c-c66f-42eb-8278-634e8de76a86)
 
-
-
