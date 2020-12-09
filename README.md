@@ -10,15 +10,15 @@ description: Frequently Asked Questions
 
 ## ​[LikeCoin、讚賞公民共和國](https://docs.like.co/v/zh/user-guide/about)​ <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
-* ​[LikeCoin 是甚麼？](https://docs.like.co/v/zh/user-guide/about#likecoin)​
-* ​[讚賞公民共和國又是甚麼東東？](https://docs.like.co/v/zh/user-guide/about#republic-of-liker-land)​
-* ​[好像挺有趣的，怎樣關注 LikeCoin 動態？](https://docs.like.co/v/zh/user-guide/about#follow-us)​
-* ​[大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://docs.like.co/v/zh/user-guide/about#contact-us)​
-* ​[LikeCoin 最近有些甚麼動向？](https://docs.like.co/v/zh/user-guide/about/updates)​
-* ​[支援 LikeCoin 的網站都有哪些？我想加入，要申請麼？](https://docs.like.co/v/zh/user-guide/about/list-of-media)​
-* ​[對於 LikeCoin，媒體怎麼說？](https://docs.like.co/v/zh/user-guide/about/on-the-news)​
-* ​[LikeCoin 和整個社群怎樣一路走來？](https://docs.like.co/v/zh/user-guide/about/background)​
-* ​[LikeCoin 有提供品牌形象指引和相關素材下載麼？](https://docs.like.co/v/zh/user-guide/about/presskit)​
+* ​[LikeCoin 是甚麼？](https://docs.like.co/v/zh/user-guide/about#likecoin)​What is LikeCoin?
+* ​[讚賞公民共和國又是甚麼東東？](https://docs.like.co/v/zh/user-guide/about#republic-of-liker-land)​How about the Republic of Liker Land?
+* ​[好像挺有趣的，怎樣關注 LikeCoin 動態？](https://docs.like.co/v/zh/user-guide/about#follow-us)​Seems interesting, how to follow updates on LikeCoin?
+* ​[大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://docs.like.co/v/zh/user-guide/about#contact-us)​I couldn't find the answers in the Docs, is there a way that I can contact customer service?
+* ​[LikeCoin 最近有些甚麼動向？](https://docs.like.co/v/zh/user-guide/about/updates)​What are the updates on LikeCoin?
+* ​[支援 LikeCoin 的網站都有哪些？我想加入，要申請麼？](https://docs.like.co/v/zh/user-guide/about/list-of-media)​Which websites are empowered by LikeCoin? How to apply?
+* ​[對於 LikeCoin，媒體怎麼說？](https://docs.like.co/v/zh/user-guide/about/on-the-news)​What does the media say about LikeCoin?
+* ​[LikeCoin 和整個社群怎樣一路走來？](https://docs.like.co/v/zh/user-guide/about/background)​How LikeCoin and the community growth?
+* ​[LikeCoin 有提供品牌形象指引和相關素材下載麼？](https://docs.like.co/v/zh/user-guide/about/presskit)​Does LikeCoin provide branding and design materials for download?
 
 ## ​[我是讀者](https://docs.like.co/v/zh/user-guide/reader)​ <a id="wo-shi-du-zhe"></a>
 

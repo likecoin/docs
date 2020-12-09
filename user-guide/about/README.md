@@ -4,7 +4,7 @@ description: What is LikeCoin? What is the Republic of Liker Land?
 
 # LikeCoin, Republic of Liker Land
 
-
+## LikeCoin
 
 ![](../../.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature%20%281%29.png)
 
