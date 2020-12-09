@@ -64,8 +64,6 @@
     * [SteemCN](user-guide/creator/blogging-platforms/steemcn.md)
     * [Wix / Weebly](user-guide/creator/blogging-platforms/wix.md)
     * [Write.as](user-guide/creator/blogging-platforms/write.as.md)
-    * [Standnews, InMedia, HKCNews](user-guide/creator/blogging-platforms/civic-media.md)
-    * [Pixnet](user-guide/creator/blogging-platforms/pixnet.md)
   * [How to receive a Liker Land monthly report?](user-guide/creator/monthly-report.md)
   * [Rewards](user-guide/creator/rewards/README.md)
     * [Reward Release Time](user-guide/creator/rewards/reward-release-time.md)
