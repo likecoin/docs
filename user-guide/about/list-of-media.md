@@ -1,5 +1,5 @@
 ---
-description: Which websites are empowered by LikeCoin?
+description: Which websites are empowered by LikeCoin? How to apply?
 ---
 
 # List of Media
