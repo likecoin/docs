@@ -5,12 +5,6 @@
 ## About LikeCoin
 
 * [Constitution](about-likecoin/background.md)
-* [On the News](about-likecoin/on-the-news/README.md)
-  * [Interview and Features](about-likecoin/on-the-news/interview.md)
-  * [Mentions](about-likecoin/on-the-news/mentions.md)
-  * [Activities and Events](about-likecoin/on-the-news/activities-and-events.md)
-  * [Awards and Press Release](about-likecoin/on-the-news/press-release.md)
-  * [Recommendations](about-likecoin/on-the-news/recommendations.md)
 
 ## 📙 user guide
 
@@ -37,6 +31,12 @@
     * [2020.04.20](user-guide/about/updates/20200420.md)
     * [2020.04.13](user-guide/about/updates/20200413.md)
   * [List of Media](user-guide/about/list-of-media.md)
+  * [On the News](user-guide/about/on-the-news/README.md)
+    * [Interview and Features](user-guide/about/on-the-news/interview.md)
+    * [Mentions](user-guide/about/on-the-news/mentions.md)
+    * [Activities and Events](user-guide/about/on-the-news/activities-and-events.md)
+    * [Awards and Press Release](user-guide/about/on-the-news/press-release.md)
+    * [Recommendations](user-guide/about/on-the-news/recommendations.md)
 * [Content creators](user-guide/content-creators/README.md)
   * [LikeCoin button](user-guide/content-creators/how-it-works/README.md)
     * [Like - Turn Likes into Rewards](user-guide/content-creators/how-it-works/like-rewards.md)
