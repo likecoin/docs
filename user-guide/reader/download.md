@@ -14,7 +14,7 @@ description: Where to download Liker Land?
 
 ## Liker Land Web - https://Liker.Land
 
-Although Liker Land mobile app provides the "content clapping experiences" that best suit your needs, [Liker Land web](https://liker.land/) also brings the same convenience for discovering, following and bookmarking content. 
+Although Liker Land mobile app provides the "content clapping experiences" that best suit your needs, [Liker Land web](https://liker.land/) also brings the same convenience for discovering, following and bookmarking content to Readling List.
 
 Click on the menu at the top right hand corner, there are other options.
 
@@ -34,15 +34,18 @@ Click and learn more about how to [embed a LikeCoin button](https://liker.land/c
 
 * Language: This is talking about the Liker Land web language preference and is not going to alter your Liker Land mobile app setting \(You may refer to the mobile app setup\)
 * Liker ID: Redirect to [Like.co](https://like.co/in/settings) setting page. User can set up his/her Liker ID avatar, social media logins, etc. Read [this](https://docs.like.co/user-guide/liker-id) for more details
-* Civic Liker Subscribing/Unsubscribe status
+
+{% page-ref page="../liker-id/edit-avatar-displayname.md" %}
+
+* Civic Liker: Subscribing/Unsubscribe status
 * Creator: Registered/Not Registered
-* Follow/Unfollow: User follows all the creators that he/she clapped and appreciated, which is a default setting. Unfollow the creator if required \(indicated below\) 
+* Follow / Unfollowed: Display Content Jockey that the user followed, can click to unfollow \(refer to the below\)
 
 ![](../../.gitbook/assets/liker-land-web-3-en.png)
 
 ### **Option 4: Support**
 
-Redirect to [LikeCoin Help Center](https://docs.like.co/). Check out the FAQ, or click on the blue bubble at the lower right hand corner to contact our help desk.
+Redirect to [LikeCoin Help Center](https://docs.like.co/). Check out the FAQ, or click on the green bubble at the lower right hand corner to contact our help desk.
 
 ### **Option 5: Logout**
 
