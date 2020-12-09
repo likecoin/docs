@@ -1,3 +1,7 @@
+---
+description: 'Facebook can give likes, why LikeCoin?'
+---
+
 # Readers
 
 ![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
@@ -16,14 +20,14 @@ Pinpointing the problem of AI selection, Liker Land adopts "Zero AI curation str
 
 ## **A wide range of selection** <a id="duo-yuan-xuan-ze"></a>
 
-另有 1400 個網站、11000 作者的 30 多萬篇文章**。**
+There are also 1,400 websites, three hundreds thousand articles by 11,000 creators.
 
-## **深度閱讀** <a id="shen-du-yue-du"></a>
+## Deep Reading
 
-把任何網頁儲存到 Liker Land 閱讀列表，慢慢細看。
+Bookmarking any web page to Liker Land Readling listing to read them later.  
 
-## **化讚為賞** <a id="hua-zan-wei-shang"></a>
 
-每個按讚都會成為對創作者的實質鼓勵。[  
-](https://docs.like.co/v/zh/user-guide/about/presskit)
+## **Reinventing the Like** <a id="hua-zan-wei-shang"></a>
+
+From each clap the reader made, creators can earn rewards.
 
