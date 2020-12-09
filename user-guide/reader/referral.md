@@ -30,5 +30,5 @@ Each user can be referred for once, but no limit on the number of friends or rea
 
 Click on the avatar at the lower right hand corner of the Liker Land mobile app, then click on \[Referral Bonus\] and copy the referral link. Although the link format is not the same as above, it does the same.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MC6qdexzevJ4lzKfc43%2F-MC6tgmrtbrbLvsnuNZH%2FIMG_0918.jpg?alt=media&token=cb7d8a4d-4b36-4bf8-ac13-bc6f0772ac63)
+![](../../.gitbook/assets/referral-bonus-en.png)
 
