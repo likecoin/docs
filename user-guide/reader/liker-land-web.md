@@ -1,10 +1,16 @@
 ---
-description: Clap for your hero content on desktop computer
+description: Where to download Liker Land?
 ---
 
-# Liker Land web
+# Download Liker Land
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJjdmH4gPPkYdgO50G%2F-MDJkJVTIRInATRDjMh_%2FLiker%20Land%20Web%201.png?alt=media&token=6ed3d2b6-fe63-4a88-a796-f87d157c340d)
+![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
+
+* Download Liker Land in [Google Play](https://play.google.com/store/apps/details?id=com.oice) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355)
+* For users in China, or Android devices witout Google Play, download [APK on GitHub](https://github.com/likecoin/likecoin-app/releases)
+* [下載 Liker Land](https://liker.land/getapp) 後，請花兩分鐘註冊 Liker ID：
+
+
 
 Although Liker Land mobile app provides the "content clapping experiences" that best suit your needs, [Liker Land web also brings the same convenience for discovering, following and bookmarking content](https://liker.land/). 
 
