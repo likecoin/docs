@@ -7,10 +7,12 @@ description: Where to download Liker Land?
 ![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
 * Download Liker Land in [Google Play](https://play.google.com/store/apps/details?id=com.oice) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355)
-* For users in China, or Android devices witout Google Play, download [APK on GitHub](https://github.com/likecoin/likecoin-app/releases)
-* [下載 Liker Land](https://liker.land/getapp) 後，請花兩分鐘註冊 Liker ID：
+* For users in China, or Android devices without Google Play, download [APK on GitHub](https://github.com/likecoin/likecoin-app/releases)
+* [After downloading Liker Land](https://liker.land/getapp), please register a Liker ID：
 
+{% page-ref page="../liker-id/how-to-register-a-liker-id.md" %}
 
+## Liker Land Web - https://Liker.Land
 
 Although Liker Land mobile app provides the "content clapping experiences" that best suit your needs, [Liker Land web also brings the same convenience for discovering, following and bookmarking content](https://liker.land/). 
 

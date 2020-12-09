@@ -36,7 +36,7 @@
   * [Background](user-guide/about/background.md)
   * [Press Kit](user-guide/about/presskit.md)
 * [Readers](user-guide/reader/README.md)
-  * [Download Liker Land](user-guide/reader/liker-land-web.md)
+  * [Download Liker Land](user-guide/reader/download.md)
   * [Liker Land mobile app](user-guide/reader/liker-land-mobile-app/README.md)
     * [Content Discovery](user-guide/reader/liker-land-mobile-app/discovering-contents.md)
     * [Save to Liker Land](user-guide/reader/liker-land-mobile-app/save-to-likerland.md)

@@ -8,7 +8,7 @@ description: 'Facebook can give likes, why LikeCoin?'
 
 Liker Land is the user interface of LikeCoin, with function collaboration on reading, content collection, crypto wallet and ID Card.
 
-
+{% page-ref page="download.md" %}
 
 ## **Content Jockey**
 
