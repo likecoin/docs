@@ -2,7 +2,7 @@
 description: How come I do not receive the Liker Land monthly report?
 ---
 
-# Monthly achievement
+# Monthly Achievement
 
 "Liker Land monthly report" delivers to those creators who receive LikeCoin rewards for the month. And you are going to receive the report on e.g. August 1 for the month of July.
 
