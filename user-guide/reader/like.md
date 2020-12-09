@@ -12,7 +12,7 @@ Using the [Liker Land mobile app](https://docs.like.co/user-guide/reader/downloa
 
 Furthermore, creators receive Liker Land [monthly reports](https://docs.like.co/user-guide/creator/monthly-report) from the Foundation in order to understand their achievement.
 
-Readers can also send LikeCoin to creator directly via [LIKE Pay](https://docs.like.co/user-guide/liker-land/like-pay).
+Readers can also send LikeCoin to creator directly via [LIKE Pay](https://docs.like.co/user-guide/likecoin-token/like-pay).
 
 
 
