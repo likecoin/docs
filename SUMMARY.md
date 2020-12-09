@@ -45,7 +45,6 @@
     * [LIKE pay](user-guide/reader/liker-land-mobile-app/like-pay.md)
     * [Referral Bonus](user-guide/reader/liker-land-mobile-app/referral.md)
   * [Super Like - Decentralized Curation](user-guide/reader/superlike.md)
-  * [Chrome/Firefox extension](user-guide/reader/liker-land-browser-extension.md)
 * [Content creators](user-guide/content-creators/README.md)
   * [LikeCoin button](user-guide/content-creators/how-it-works/README.md)
     * [Like - Turn Likes into Rewards](user-guide/content-creators/how-it-works/like-rewards.md)
