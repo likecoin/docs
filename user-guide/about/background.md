@@ -1,8 +1,8 @@
 ---
-description: The Constitution of Republic of Liker Land
+description: How LikeCoin and the community growth?
 ---
 
-# Constitution
+# Background
 
 ![](../../.gitbook/assets/likecoin_ad71_timeline-01.png)
 

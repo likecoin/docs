@@ -4,7 +4,7 @@
 
 ## 📙 user guide
 
-* [LikeCoin and Republic of Liker Land](user-guide/about/README.md)
+* [LikeCoin, Republic of Liker Land](user-guide/about/README.md)
   * [Progress Updates](user-guide/about/updates/README.md)
     * [2020.08.24](user-guide/about/updates/2020.08.24.md)
     * [2020.08.17](user-guide/about/updates/2020.08.17.md)
@@ -33,7 +33,7 @@
     * [Activities and Events](user-guide/about/on-the-news/activities-and-events.md)
     * [Awards and Press Release](user-guide/about/on-the-news/press-release.md)
     * [Recommendations](user-guide/about/on-the-news/recommendations.md)
-  * [Constitution](user-guide/about/background.md)
+  * [Background](user-guide/about/background.md)
   * [Press Kit](user-guide/about/presskit.md)
 * [Content creators](user-guide/content-creators/README.md)
   * [LikeCoin button](user-guide/content-creators/how-it-works/README.md)
