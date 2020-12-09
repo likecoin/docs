@@ -1,8 +1,6 @@
 # Table of contents
 
-* [LikeCoin and Republic of Liker Land](README.md)
-
-## About LikeCoin
+* [LikeCoin FAQ](README.md)
 
 ## 📙 user guide
 

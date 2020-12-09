@@ -1,44 +1,61 @@
 ---
-description: What is LikeCoin? What is the Republic of Liker Land?
+description: Frequently Asked Questions
 ---
 
-# LikeCoin and Republic of Liker Land
+# LikeCoin FAQ
 
-![](.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature%20%281%29.png)
 
-[LikeCoin](https://like.co) is a Decentralized Publishing Infrastructure for Decentralized Archive, Decentralized Rewards, Decentralized Curation and Decentralized Governance.
 
-The core component of LikeCoin is [LikeCoin chain](https://likecoin.bigdipper.live/), a public blockchain itailor-made for content publishing, supporting the [**Republic of Liker Land**](https://liker.land/getapp). 
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGKCas6shf9dDCwB3j%2F-MHGMnmjM4yyGSTVqz7T%2FLikeCoin_AD27_Small_Update-01.png?alt=media&token=a3cb3c10-3742-4ef9-b99a-3e05e2f82a11)
 
-## Republic of Liker Land
+## ​[LikeCoin、讚賞公民共和國](https://docs.like.co/v/zh/user-guide/about)​ <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
-As of August 2020, [Republic of Liker Land](https://like.co/in/getapp) has **1,800+** [**Civic Likers**](https://liker.land/civic), which is **2.2%** of all **84,216+ Likers**, who rewarded **37mil+ LikeCoin** to **312,599+ contents** by **11,956+ creators** on **1,300+ media**.
+* ​[LikeCoin 是甚麼？](https://docs.like.co/v/zh/user-guide/about#likecoin)​
+* ​[讚賞公民共和國又是甚麼東東？](https://docs.like.co/v/zh/user-guide/about#republic-of-liker-land)​
+* ​[好像挺有趣的，怎樣關注 LikeCoin 動態？](https://docs.like.co/v/zh/user-guide/about#follow-us)​
+* ​[大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://docs.like.co/v/zh/user-guide/about#contact-us)​
+* ​[LikeCoin 最近有些甚麼動向？](https://docs.like.co/v/zh/user-guide/about/updates)​
+* ​[支援 LikeCoin 的網站都有哪些？我想加入，要申請麼？](https://docs.like.co/v/zh/user-guide/about/list-of-media)​
+* ​[對於 LikeCoin，媒體怎麼說？](https://docs.like.co/v/zh/user-guide/about/on-the-news)​
+* ​[LikeCoin 和整個社群怎樣一路走來？](https://docs.like.co/v/zh/user-guide/about/background)​
+* ​[LikeCoin 有提供品牌形象指引和相關素材下載麼？](https://docs.like.co/v/zh/user-guide/about/presskit)​
 
-Real-time statistics:[ ![Number of Liker](https://static.like.co/badge/stats/liker.svg)](https://like.co/) [![Number of creator](https://static.like.co/badge/stats/creator.svg)](https://like.co/) [![Number of content](https://static.like.co/badge/stats/content.svg)](https://like.co/) [![Number of LIKE given](https://static.like.co/badge/stats/LIKE.svg)](https://like.co/)
+## ​[我是讀者](https://docs.like.co/v/zh/user-guide/reader)​ <a id="wo-shi-du-zhe"></a>
 
-[Republic of Liker Land open statistics](https://datastudio.google.com/u/0/reporting/e6168171-b61d-4871-b39f-7b6308f2facc/page/qgR) \(Since 2020\).
+* ​[Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？](https://docs.like.co/v/zh/user-guide/reader#nei-rong-bo-lao)​
+* ​[我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](https://docs.like.co/v/zh/user-guide/reader/reading-list)​
+* ​[「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)​
+* ​[何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](https://docs.like.co/v/zh/user-guide/reader/superlike)​
+* ​[Liker Land 好像不錯，推薦朋友也下載，有好處麼？](https://docs.like.co/v/zh/user-guide/reader/referral)​
 
-Some media empowered by LikeCoin include [Matters](https://matters.news/), [Standnews](https://www.thestandnews.com/), [InMedia](https://www.inmediahk.net/), [HKCNews](https://www.hkcnews.com/) and other 1,300+ websites. LikeCoin can also be utilized on [WordPress](https://wordpress.org/plugins/likecoin/), [Medium](https://medium.com), [Vocus](https://vocus.cc/), [Blogspot \( Blogger.com \)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. 
+## **​**[**我是創作者**](https://docs.like.co/v/zh/user-guide/content-creators)**​** <a id="wo-shi-chuang-zuo-zhe"></a>
 
-{% page-ref page="user-guide/about/list-of-media.md" %}
+* ​[我是作者，LikeCoin 可以幫到我甚麼？](https://docs.like.co/v/zh/user-guide/content-creators)​
+* ​[LikeCoin button 讚賞鍵有甚麼功能？](https://docs.like.co/v/zh/user-guide/content-creators/likecoin-button)**​**
+* ​[「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)​
+* ​[何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不用 AI 策展就好？](https://docs.like.co/v/zh/user-guide/reader/superlike)​
+* ​[如何在自架 WordPress 加入 LikeCoin button？](https://docs.like.co/v/zh/user-guide/creator/wordpress)​
+* ​[我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](https://docs.like.co/v/zh/user-guide/creator/blogging-platforms)​
+* wip
 
-Besides reading on your favourite content platforms, you can also read creative stories and insightful commentaries from the Content Jockeys that you trusted via [Liker Land mobile app](https://liker.land/getapp), download it on [Google Play Store](https://play.google.com/store/apps/details?id=com.oice&hl=en) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355).
+## ​[Civic Liker](https://docs.like.co/v/zh/user-guide/civic-liker)​ <a id="civic-liker"></a>
 
-![](.gitbook/assets/likecoin_ad72_appstore_og_ios_android%20%281%29.png)
+* wip
+* wip
 
-## More about LikeCoin
+## ​[Liker ID](https://docs.like.co/v/zh/user-guide/liker-id)​ <a id="liker-id"></a>
 
-* **Website** : [Like.co](https://like.co) \( For all stakholders; in English \)、[Liker.Land](https://liker.land) \( For Readers and Content Jockey \) 
-* \*\*\*\*[**Matters**](https://matters.news/tags/VGFnOjgwOTQ) [**\#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) : Governance, Progress Update, Products; in Chinese
-* \*\*\*\*[**Medium**](https://medium.com/likecoin) [publication](https://medium.com/likecoin) : Governance, Progress Update, Products; in English
-* \*\*\*\*[**Twitter**](https://twitter.com/likecoin) : Announcement
-* \*\*\*\*[**Telegram**](https://t.me/likecoin) : Stakeholders, general discussion
-* \*\*\*\*[**GitHub**](https://github.com/likecoin) : ****Open Source
-* \*\*\*\*[**Discord**](https://discord.com/invite/HbvhWZw) ****: Development, Governance discussion; in English
-* **Facebook**：[Page](https://www.facebook.com/Liker.Land/) \( Announcement \); [Group](https://www.facebook.com/groups/likecoin) \( Creators' sharing \); in Chinese
+* wip
 
-## Contact Us
+## ​[LikeCoin 交易](https://docs.like.co/v/zh/user-guide/likecoin-token)​ <a id="likecoin-jiao-yi"></a>
 
-* Customer Service: Please go to [Like.co](https://like.co/) and click the lower right hand corner help desk dialogue box \(icon in green\)
-* Partners and Cooperation：[partner@like.co](mailto:partner@like.co)
+* wip
+
+## 流動民主 <a id="liu-dong-min-zhu"></a>
+
+* wip
+* ​[所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/user-guide/liquid-democracy)​
+* ​[讚賞公民共和國有過甚麼議案？](https://docs.like.co/v/zh/about/governance/proposals)​
+* ​[我對 LikeCoin 的發展有意見，可以怎樣表達？](https://docs.like.co/v/zh/about/governance/community-call)​
+* LikeCoin 好像挺有意思的，我可以怎樣參與？
 
