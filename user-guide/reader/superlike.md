@@ -10,10 +10,6 @@ description: What is Super Like? What is a Content Jockey?
 
 Clicking on the LikeCoin button for the 6th time, _**share your favourite, worth exploring contents to Liker Land.**_
 
-
-
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MAXu9Lxx14vpKr9dO54%2F-MAXwN5NxScgV0FwK61i%2FSuperLike.gif?alt=media&token=a965b055-7c80-4b38-9d05-776d694d0ff1)
-
 ### Browsing, is for reading
 
 The time for daily reading is limited and you are not able to digest the ocean of knowledge. Moreover, speed reading won't make you smarter. Liker Land helps readers to precisely follow the content that they love, spending their valuable time on deep reading.
@@ -32,8 +28,6 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 * The "Super Liked" article will be on Liker Land. Your followers can see it on "Today's headline" and everyone can see it on "The world has Super Liked".
 
 ![](../../.gitbook/assets/superlike.gif)
-
-
 
 * A tick will then appear on the star totem representing one chance of Super Like is being utilized. Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset occurs. 
 * The RSS icon on the lower right hand turned on and the article is being shared to Liker Land.
