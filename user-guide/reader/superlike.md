@@ -28,18 +28,19 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 
 ## Usage <a id="zen-yang-can-yu"></a>
 
-* Clicking the LikeCoin button on the 6th time and you are giving Super Like.
-* * If you are a Civic Liker, when you click the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When you click the 6th time, you "Super Like" that article. A tick will then appears on the star totem representing one chance of Super Like is being utilized, the RSS icon turned on and the article will be shared to Liker Land.
+* Clicking the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When clicking on the 6th time, the article is being "Super Like".
+* The "Super Liked" article will be on Liker Land. Your followers can see it on "Today's headline" and everyone can see it on "The world has Super Liked".
 
 ![](../../.gitbook/assets/superlike.gif)
 
-Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset occurs. Super Like cannot be accumulated, if it is not being used before the time to reset, it will be obsolete. You can only Super Like twice a day while you can Super Like a single article for more than one time.
 
-![](../../.gitbook/assets/superlike.gif)
+
+*  A tick will then appear on the star totem representing one chance of Super Like is being utilized. Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset occurs. 
+* The RSS icon on the lower right hand turned on and the article is being shared to Liker Land.
+* Super Like cannot be accumulated, if it is not being used before the time to reset, it will be obsolete. You can only Super Like twice a day.
+* You can Super Like a single article for more than one time.
 
 ## **How to participate?** <a id="zen-yang-can-yu"></a>
 
-Super Liker is going to launch in the third quarter of 2020, during the promotion period Civic Liker has two quota of Super Like each day. Stay tuned.
-
-### \[[Join **Civic Liker**](https://liker.land/civic)\]
+Only [Civic Liker](https://docs.like.co/user-guide/civic-liker) can enjoy Super Like twice a day.  \[[Join **Civic Liker**](https://liker.land/civic)\]
 
