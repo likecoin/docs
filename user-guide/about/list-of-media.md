@@ -10,7 +10,7 @@ description: Which websites are empowered by LikeCoin? How to apply?
 
 Anyone can use and enjoy the benefits of LikeCoin without prerequisites.
 
-{% page-ref page="../liker-land/" %}
+{% page-ref page="../reader/" %}
 
 {% page-ref page="../content-creators/" %}
 
