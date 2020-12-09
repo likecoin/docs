@@ -28,14 +28,14 @@ description: Frequently Asked Questions
 * [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](https://docs.like.co/user-guide/reader/superlike)
 * [Liker Land seems nice, if I refer my friend to download the app, are there any goodies for me?](https://docs.like.co/user-guide/reader/referral)
 
-## **​**[**我是創作者**](https://docs.like.co/v/zh/user-guide/content-creators)**​** <a id="wo-shi-chuang-zuo-zhe"></a>
+## \*\*\*\*[**​I am a Content Creator**](https://docs.like.co/user-guide/creator) <a id="wo-shi-chuang-zuo-zhe"></a>
 
-* ​[我是作者，LikeCoin 可以幫到我甚麼？](https://docs.like.co/v/zh/user-guide/content-creators)​
-* ​[LikeCoin button 讚賞鍵有甚麼功能？](https://docs.like.co/v/zh/user-guide/content-creators/likecoin-button)**​**
-* ​[「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)​
-* ​[何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不用 AI 策展就好？](https://docs.like.co/v/zh/user-guide/reader/superlike)​
-* ​[如何在自架 WordPress 加入 LikeCoin button？](https://docs.like.co/v/zh/user-guide/creator/wordpress)​
-* ​[我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](https://docs.like.co/v/zh/user-guide/creator/blogging-platforms)​
+* [ I am a content creator, how can LikeCoin help me?](https://docs.like.co/user-guide/creator)
+* [What are the functions of the LikeCoin button?](https://docs.like.co/user-guide/creator/likecoin-button)
+* [How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](https://docs.like.co/user-guide/reader/like)
+* [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](https://docs.like.co/user-guide/reader/superlike)
+* [How to embed LikeCoin button into a self-hosted WordPress?](https://docs.like.co/user-guide/creator/wordpress)
+* [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](https://docs.like.co/user-guide/creator/blogging-platforms)
 * wip
 
 ## ​[Civic Liker](https://docs.like.co/v/zh/user-guide/civic-liker)​ <a id="civic-liker"></a>
