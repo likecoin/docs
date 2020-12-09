@@ -4,8 +4,6 @@
 
 ## About LikeCoin
 
-* [Constitution](about-likecoin/background.md)
-
 ## 📙 user guide
 
 * [LikeCoin and Republic of Liker Land](user-guide/about/README.md)
@@ -37,6 +35,8 @@
     * [Activities and Events](user-guide/about/on-the-news/activities-and-events.md)
     * [Awards and Press Release](user-guide/about/on-the-news/press-release.md)
     * [Recommendations](user-guide/about/on-the-news/recommendations.md)
+  * [Constitution](user-guide/about/background.md)
+  * [Press Kit](user-guide/about/presskit.md)
 * [Content creators](user-guide/content-creators/README.md)
   * [LikeCoin button](user-guide/content-creators/how-it-works/README.md)
     * [Like - Turn Likes into Rewards](user-guide/content-creators/how-it-works/like-rewards.md)
