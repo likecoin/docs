@@ -27,8 +27,6 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 * 在讚賞鍵點 5 次，讚賞鍵的圖案會從拍掌圖案轉變成星形圖案，這時再點第 6 次，便使用了 Super Like。
 * 被 Super Like 了的文章會顯示在 Liker Land 上。你的追蹤者能在「[今日頭條](https://docs.like.co/v/zh/user-guide/reader/today-headline)」列表中看到，而所有人也能在「[Super Like 公海](https://docs.like.co/v/zh/user-guide/reader/today-headline#super-like-world-feed)」頁面看到。
 
-![](../../.gitbook/assets/superlike%20%281%29.gif)
-
 * 星型圖案中顯示了一個「勾號」，代表 Super Like 的機會已用畢。Super Like 功能逢中午 12 時及凌晨 12 時重置，用完一次需待重置時間後才能再次使用。讚賞鍵的綠色外圈是距離下次重置時間的進度條。
 * 右下方的廣播圖示亮著代表這篇文章已被分享到 Liker Land 上。
 * Super Like 的機會次數不會累積，若重置前沒有用掉，重置後也仍然只有一次機會，因此每天最多只能使用 Super Like 兩次。
