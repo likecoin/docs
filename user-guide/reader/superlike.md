@@ -35,7 +35,7 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 
 
 
-*  A tick will then appear on the star totem representing one chance of Super Like is being utilized. Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset occurs. 
+* A tick will then appear on the star totem representing one chance of Super Like is being utilized. Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset occurs. 
 * The RSS icon on the lower right hand turned on and the article is being shared to Liker Land.
 * Super Like cannot be accumulated, if it is not being used before the time to reset, it will be obsolete. You can only Super Like twice a day.
 * You can Super Like a single article for more than one time.
@@ -43,4 +43,10 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 ## **How to participate?** <a id="zen-yang-can-yu"></a>
 
 Only [Civic Liker](https://docs.like.co/user-guide/civic-liker) can enjoy Super Like twice a day.  \[[Join **Civic Liker**](https://liker.land/civic)\]
+
+## Super Like History
+
+Wanna review all the Super Liked articles? Go to your Portfolio Page https://liker.land/\[Your Liker ID\] and clicks "Super Likes" to check them out, if your Liker ID is ckxpress, the link is going to be https://liker.land/ckxpress. Users can also visit friends and celebrities' Portfolio Page and follow them, in order to understand their reading taste.
+
+![](../../.gitbook/assets/portfolio-page-2-en.png)
 
