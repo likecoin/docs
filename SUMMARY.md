@@ -71,6 +71,7 @@
     * [TIMELOG](user-guide/creator/content-platforms/timelog.md)
     * [Vocus](user-guide/creator/content-platforms/vocus.md)
     * [Youput](user-guide/creator/content-platforms/youput.md)
+  * [How to receive a Liker Land monthly report?](user-guide/creator/monthly-report.md)
   * [Rewards](user-guide/creator/rewards/README.md)
     * [Reward Release Time](user-guide/creator/rewards/reward-release-time.md)
     * [Cannot get reward?](user-guide/creator/rewards/cannot-get-reward.md)
