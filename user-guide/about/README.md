@@ -26,8 +26,6 @@ Some media empowered by LikeCoin include [Matters](https://matters.news/), [Stan
 
 Besides reading on your favourite content platforms, you can also read creative stories and insightful commentaries from the Content Jockeys that you trusted via [Liker Land mobile app](https://liker.land/getapp), download it on [Google Play Store](https://play.google.com/store/apps/details?id=com.oice&hl=en) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355).
 
-![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android%20%281%29.png)
-
 ## More about LikeCoin
 
 * **Website** : [Like.co](https://like.co) \( For all stakholders; in English \)、[Liker.Land](https://liker.land) \( For Readers and Content Jockey \) 
