@@ -8,17 +8,17 @@ description: Frequently Asked Questions
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGKCas6shf9dDCwB3j%2F-MHGMnmjM4yyGSTVqz7T%2FLikeCoin_AD27_Small_Update-01.png?alt=media&token=a3cb3c10-3742-4ef9-b99a-3e05e2f82a11)
 
-## ​[LikeCoin、讚賞公民共和國](https://docs.like.co/v/zh/user-guide/about)​ <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+## [​LikeCoin, Republic of Liker Land](https://docs.like.co/user-guide/about) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
-* ​[LikeCoin 是甚麼？](https://docs.like.co/v/zh/user-guide/about#likecoin)​What is LikeCoin?
+* [​What is LikeCoin?](https://docs.like.co/user-guide/about#likecoin)
 * ​[How about the Republic of Liker Land?](https://docs.like.co/user-guide/about#republic-of-liker-land)
 * ​[Seems interesting, how to follow updates on LikeCoin?](https://docs.like.co/user-guide/about#more-about-likecoin)
-* ​[大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://docs.like.co/v/zh/user-guide/about#contact-us)​I couldn't find the answers in the Docs, is there a way that I can contact customer service?
-* ​[LikeCoin 最近有些甚麼動向？](https://docs.like.co/v/zh/user-guide/about/updates)​What are the updates on LikeCoin?
-* ​[支援 LikeCoin 的網站都有哪些？我想加入，要申請麼？](https://docs.like.co/v/zh/user-guide/about/list-of-media)​Which websites are empowered by LikeCoin? How to apply?
-* ​[對於 LikeCoin，媒體怎麼說？](https://docs.like.co/v/zh/user-guide/about/on-the-news)​What does the media say about LikeCoin?
-* ​[LikeCoin 和整個社群怎樣一路走來？](https://docs.like.co/v/zh/user-guide/about/background)​How LikeCoin and the community growth?
-* ​[LikeCoin 有提供品牌形象指引和相關素材下載麼？](https://docs.like.co/v/zh/user-guide/about/presskit)​Does LikeCoin provide branding and design materials for download?
+* [​I couldn't find the answers in the Docs, is there a way that I can contact customer service?](https://docs.like.co/user-guide/about#contact-us)
+* [What are the updates on LikeCoin?](https://docs.like.co/user-guide/about/updates)
+* [​Which websites are empowered by LikeCoin? How to apply?](https://docs.like.co/user-guide/about/list-of-media)
+* [​What does the media say about LikeCoin?](https://docs.like.co/user-guide/about/on-the-news)
+* [​How LikeCoin and the community growth?](https://docs.like.co/user-guide/about/background)
+* [​Does LikeCoin provide branding and design materials for download?](https://docs.like.co/user-guide/about/presskit)
 
 ## ​[我是讀者](https://docs.like.co/v/zh/user-guide/reader)​ <a id="wo-shi-du-zhe"></a>
 
