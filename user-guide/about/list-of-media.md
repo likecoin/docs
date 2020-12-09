@@ -12,7 +12,7 @@ Anyone can use and enjoy the benefits of LikeCoin without prerequisites.
 
 {% page-ref page="../reader/" %}
 
-{% page-ref page="../content-creators/" %}
+{% page-ref page="../creator/" %}
 
 ## List of Media \( Update from time to time \)
 
