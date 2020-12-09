@@ -1,5 +1,5 @@
 ---
-description: LikeCoin Frequently Asked Questions
+description: LikeCoin 幫見問題
 ---
 
 # LikeCoin 答客問
