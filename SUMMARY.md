@@ -43,7 +43,7 @@
   * [Super Like - Decentralized Curation](user-guide/reader/superlike.md)
   * [Referral Bonus](user-guide/reader/referral.md)
   * [wip](user-guide/reader/wip.md)
-* [Content creators](user-guide/creator/README.md)
+* [Content Creators](user-guide/creator/README.md)
   * [LikeCoin button](user-guide/creator/likecoin-button/README.md)
     * [Like - Turn Likes into Rewards](user-guide/creator/likecoin-button/like-rewards.md)
   * [Self-Host](user-guide/creator/self-host/README.md)
