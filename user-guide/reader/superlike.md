@@ -38,7 +38,7 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 
 Only [Civic Liker](https://docs.like.co/user-guide/civic-liker) can enjoy Super Like twice a day.  \[[Join **Civic Liker**](https://liker.land/civic)\]
 
-## Super Like History
+## Super Likes History
 
 Wanna review all the Super Liked articles? Go to your Portfolio Page https://liker.land/\[Your Liker ID\] and click "Super Likes" to check them out, if your Liker ID is ckxpress, the link is going to be https://liker.land/ckxpress. Users can also visit friends and celebrities' Portfolio Page and follow them, in order to understand their reading taste.
 

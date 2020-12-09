@@ -12,21 +12,23 @@ Method 2: The Portfolio Page url is https://liker.land/\[Your Liker ID\], if you
 
 ## Personal Information
 
-The left hand side of the Portfolio Page displays information of the content creator, including name, Liker ID, the date became Civic Liker and the following functions:
+The left hand side of the Portfolio Page displays information of the content creator, including name, Liker ID, the date became Civic Liker with the following functions:
 
-* Become a Civic Liker - If readers click on it and become Civic Liker, Content Creator can receive USD5 equivalent LikeCoin bonus upon each successful Cvic Liker referral, to read more please go to [LikeCoin Token・Making LikeCoin](https://docs.like.co/user-guide/likecoin-token/how-do-i-make-likecoin)
-* 追蹤－點擊並追蹤作為內容伯樂的作者
-* LIKE Pay－直接轉帳 LikeCoin 予作者
+* Become a Civic Liker - If Readers click on it and become Civic Liker, Content Creator can receive USD5 equivalent LikeCoin bonus upon each successful Civic Liker referral, to read more please go to [LikeCoin Token・Making LikeCoin](https://docs.like.co/user-guide/likecoin-token/how-do-i-make-likecoin)
+* Follow - Click and follow Content Creator as a Content Jockey
+* LIKE Pay－Transfer LikeCoin to the Content Creator
 
 ![](../../.gitbook/assets/portfolio-page-3-en.png)
 
-## 作品
+## Works
 
-假若作者曾 Super Like 自己的文章均會展示於此頁。
+If the Content Creator Super Liked his/her own works, they will be displayed in here.
 
-![](../../.gitbook/assets/portfolio-page-1.png)
+![](../../.gitbook/assets/portfolio-page-1-en.png)
 
-## 已 Super Like 的內容
+## Super Likes
 
-Super Like 履歷功能展示作者曾經 Super Like 過甚麼好文。
+Super Likes history displayed all the other works and articles Super Liked by the Content Creator.
+
+![](../../.gitbook/assets/portfolio-page-2-en%20%281%29.png)
 
