@@ -37,7 +37,7 @@
   * [Press Kit](user-guide/about/presskit.md)
 * [Readers](user-guide/reader/README.md)
   * [Download Liker Land](user-guide/reader/download.md)
-  * [Today's Headline](user-guide/reader/today-headline.md)
+  * [Today's Headlines](user-guide/reader/today-headline.md)
   * [Readling List](user-guide/reader/readling-list.md)
   * [Like - Reinventing the Like](user-guide/reader/like.md)
   * [Super Like - Decentralized Curation](user-guide/reader/superlike.md)

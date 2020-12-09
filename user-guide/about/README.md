@@ -33,7 +33,7 @@ Besides reading on your favourite content platforms, you can also read creative 
 * **Website** : [Like.co](https://like.co) \( For all stakholders; in English \)、[Liker.Land](https://liker.land) \( For Readers and Content Jockey \) 
 * \*\*\*\*[**Matters**](https://matters.news/tags/VGFnOjgwOTQ) [**\#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) : Governance, Progress Update, Products; in Chinese
 * \*\*\*\*[**Medium**](https://medium.com/likecoin) [publication](https://medium.com/likecoin) : Governance, Progress Update, Products; in English
-* \*\*\*\*[**Twitter**](https://twitter.com/likecoin) : Announcement
+* \*\*\*\*[**Twitter**](https://twitter.com/likecoin) : Announcements
 * \*\*\*\*[**Telegram**](https://t.me/likecoin) : Stakeholders, general discussion
 * \*\*\*\*[**GitHub**](https://github.com/likecoin) : ****Open Source
 * \*\*\*\*[**Discord**](https://discord.com/invite/HbvhWZw) ****: Development, Governance discussion; in English

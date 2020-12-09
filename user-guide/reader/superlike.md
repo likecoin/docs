@@ -25,7 +25,7 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 ## Usage <a id="zen-yang-can-yu"></a>
 
 * Clicking the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When clicking on the 6th time, the article is being "Super Like".
-* The "Super Liked" article will be on Liker Land. Your followers can see it on "Today's headline" and everyone can see it on "The world has Super Liked".
+* The "Super Liked" article will be on Liker Land. Your followers can see it on "Today's headlines" and everyone can see it on "The world has Super Liked".
 
 ![](../../.gitbook/assets/superlike.gif)
 
@@ -40,7 +40,7 @@ Only [Civic Liker](https://docs.like.co/user-guide/civic-liker) can enjoy Super 
 
 ## Super Like History
 
-Wanna review all the Super Liked articles? Go to your Portfolio Page https://liker.land/\[Your Liker ID\] and clicks "Super Likes" to check them out, if your Liker ID is ckxpress, the link is going to be https://liker.land/ckxpress. Users can also visit friends and celebrities' Portfolio Page and follow them, in order to understand their reading taste.
+Wanna review all the Super Liked articles? Go to your Portfolio Page https://liker.land/\[Your Liker ID\] and click "Super Likes" to check them out, if your Liker ID is ckxpress, the link is going to be https://liker.land/ckxpress. Users can also visit friends and celebrities' Portfolio Page and follow them, in order to understand their reading taste.
 
 ![](../../.gitbook/assets/portfolio-page-2-en.png)
 
