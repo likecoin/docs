@@ -13,5 +13,3 @@ These are 2 circumstances that you do not receive your email report:
 
 ![](../../.gitbook/assets/monthly-report-email-setting-en.png)
 
-
-
