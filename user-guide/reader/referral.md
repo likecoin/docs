@@ -1,7 +1,7 @@
 ---
 description: >-
-  Refer your friend to download Liker Land, both of you can earn 100 LikeCoin
-  bonus, no ceiling
+  Liker Land seems nice, if I refer my friend to download the app, are there any
+  goodies for me?
 ---
 
 # Referral Bonus
