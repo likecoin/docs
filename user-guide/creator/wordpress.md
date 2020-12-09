@@ -18,16 +18,16 @@ Follow the steps:
 
 2. Click on the Menu on the left, go to "Plugin" and click on "install plugin" on top.
 
-![](../../../.gitbook/assets/wordpress-1-en.png)
+![](../../.gitbook/assets/wordpress-1-en.png)
 
 3. Search for "LikeCoin" and find the LikeCoin plugin, click "install" and wait for the system to finish the job.
 
-![](../../../.gitbook/assets/wordpress-2.png)
+![](../../.gitbook/assets/wordpress-2.png)
 
 4. After installation, there will be an "LikeCoin" option in the menu. Congratulations,  installation is done!  
 
 
-![](../../../.gitbook/assets/wordpress-3.png)
+![](../../.gitbook/assets/wordpress-3.png)
 
 ## Configuring LikeCoin plugin
 
@@ -37,13 +37,13 @@ Before configuring the LikeCoin plugin, please [register a Liker ID](https://doc
 
 On the menu, select "LikeCoin",  then fill in your Liker ID in the Liker ID field.
 
-![](../../../.gitbook/assets/wordpress-4.png)
+![](../../.gitbook/assets/wordpress-4.png)
 
 Then click "Confirm",  your LikeCoin button setup is finished.
 
-![](../../../.gitbook/assets/wordpress-5.png)
+![](../../.gitbook/assets/wordpress-5.png)
 
-After completing the above procedures, your LikeCoin button will appear underneath each article of your WordPress site.
+After completing the above procedures, your LikeCoin button will appear underneath each article of your WordPress site. You can also use shortcode \[likecoin\] to display extra LikeCoin buttons.
 
 ## How to support multiple Liker ID on a WordPress site
 
@@ -53,9 +53,9 @@ Sure, the LikeCoin plugin supports multiple Liker ID by default.
 
 1. In the LikeCoin plugin setting, there is an option  "Enable site Liker ID".  Please make sure that the option is "**NOT**" being selected.
 
-![](../../../.gitbook/assets/wordpress-6.png)
+![](../../.gitbook/assets/wordpress-6.png)
 
 2. You can add new WordPress users as usual, and this part is not related to the LikeCoin plugin. After adding new users, they can use their own WordPress account to login and set up their own Liker ID and LikeCoin button.
 
-![](../../../.gitbook/assets/wordpress-7.png)
+![](../../.gitbook/assets/wordpress-7.png)
 
