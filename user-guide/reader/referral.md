@@ -22,7 +22,7 @@ description: >-
 4. They also have to visit [https://like.co/in/settings](https://like.co/in/settings/) to complete a SMS authentication, go to Authcore Settings → Contact → Manage your contact → Phone
 5. After completing SMS authentication, reopen Liker Land again, the bonus will be sent to Liker Land wallets for both of you after a few days, with email notification too.
 
-![](../../../.gitbook/assets/referral-en.png)
+![](../../.gitbook/assets/referral-en.png)
 
 Each user can be referred for once, but no limit on the number of friends or readers you refer. Both referrer and referee have to complete SMS authentication.
 
