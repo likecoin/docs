@@ -2,7 +2,7 @@
 description: Reward your favourite contents
 ---
 
-# Content Discovery
+# Today's Headline
 
 [Liker Land mobile app](https://docs.like.co/user-guide/liker-land/liker-land-mobile-app) provides several methods for discovering contents that suit your needs.
 
@@ -11,7 +11,7 @@ description: Reward your favourite contents
 Follow all the creators that you've shown your appreciation, their new works will appear on the "Follow" page.  
 
 
-![Follow function](../../../.gitbook/assets/img_0815.jpg)
+![Follow function](../../.gitbook/assets/img_0815.jpg)
 
 If you want to stop following a creator, go to Liker Land mobile app, click on the avatar at the lower right hand corner, then click \[Following/Unfollow\] to change the settings. You may also go to Liker Land Web and change the [Follow/Unfollow setting](https://docs.like.co/user-guide/liker-land/liker-land-web#option-3-settings).
 
