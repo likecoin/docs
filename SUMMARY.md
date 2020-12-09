@@ -42,7 +42,6 @@
   * [Liker Land mobile app](user-guide/reader/liker-land-mobile-app/README.md)
     * [Content Discovery](user-guide/reader/liker-land-mobile-app/discovering-contents.md)
     * [Content Sharing - Super Like](user-guide/reader/liker-land-mobile-app/content-sharing-super-like.md)
-    * [LIKE pay](user-guide/reader/liker-land-mobile-app/like-pay-no.md)
     * [Referral Bonus](user-guide/reader/liker-land-mobile-app/referral.md)
   * [Super Like - Decentralized Curation](user-guide/reader/superlike.md)
 * [Content creators](user-guide/creator/README.md)
