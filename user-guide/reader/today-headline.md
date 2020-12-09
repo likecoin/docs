@@ -36,15 +36,15 @@ The default Content Jockey was managed by the Republic of Liker Land with Liquid
 
 If you finished reading an article, the system will add a green tick on it \(circled in red\), you can also click on the bookmark icon to save the article to Reading list for read it later.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MGqKolJFUC6O3lFoOka%2F-MGqX1Rg3rGYYd4wM7n3%2Fsuper-like-reader-1.png?alt=media&token=ab2185dc-3a3c-4a7f-ac30-ec5f20eebbcc)
+![](../../.gitbook/assets/super-like-reader-1-en.png)
 
 If you want to stop following a Content Jockey, you can click on the avatar at the lower right hand corner, then click "Content Jockey" under "Settings". You can also go to Liker Land Web to unfollow a Content Jockey.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MGqKolJFUC6O3lFoOka%2F-MGqbI0eJHIN1YqZivuH%2Fsuper-like-reader-2.png?alt=media&token=6822cbe8-1edb-49e4-a594-59a41adbc7f4)
+![](../../.gitbook/assets/super-like-reader-2-en.png)
 
 ## The world has Super Liked
 
 If Today's headlines got too less to read, click on the \[Globe\] at top right hand corner and read Super Liked articles by all the Content Jockeys and explore more wonderful contents. If you love his/her taste, click \[Follow\] and articles hand picked  by him/her will appear on your Today's headline. You can also click on the bookmark to save the article to Reading List.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MGqKolJFUC6O3lFoOka%2F-MGqkooyNCAqseczw3tK%2Fsuper-like-reader-3.png?alt=media&token=a96359da-37cc-4099-acb3-7371eac1b9ac)
+![](../../.gitbook/assets/super-like-reader-3-en.png)
 
