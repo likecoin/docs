@@ -24,8 +24,7 @@ There are also 1,400 websites, three hundreds thousand articles by 11,000 creato
 
 ## Deep Reading
 
-Bookmarking any web page to Liker Land Readling listing to read them later.  
-
+Bookmarking any web page to Liker Land Readling listing to read them later.
 
 ## **Reinventing the Like** <a id="hua-zan-wei-shang"></a>
 
