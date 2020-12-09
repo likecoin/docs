@@ -18,7 +18,7 @@ Currently, there are 5 default Content Jockeys in Liker Land:
 
 *  Stand News：[standnews](https://like.co/standnews)​
 * inmedia：[inmediahknet](https://like.co/inmediahknet)​
-* CitizenNews：[hkcitizennews](https://like.co/hkcitizennews)​
+* HKCNews：[hkcitizennews](https://like.co/hkcitizennews)​
 * Matters：[hi176-matters](https://like.co/hi176-matters)​
 * LikeCoin Foundation：[foundation](https://like.co/foundation)（Reports, Announcements、Proposals, etc）
 
