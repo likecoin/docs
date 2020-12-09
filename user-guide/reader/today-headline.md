@@ -1,6 +1,6 @@
 ---
 description: >-
-  Hand pick news is so primitive, why not use Artificial Intelligence for
+  Hand pick news is so primitive, why not using Artificial Intelligence for
   curations?
 ---
 

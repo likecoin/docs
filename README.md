@@ -20,13 +20,13 @@ description: Frequently Asked Questions
 * [​How LikeCoin and the community growth?](https://docs.like.co/user-guide/about/background)
 * [​Does LikeCoin provide branding and design materials for download?](https://docs.like.co/user-guide/about/presskit)
 
-## ​[我是讀者](https://docs.like.co/v/zh/user-guide/reader)​ <a id="wo-shi-du-zhe"></a>
+## [​I am a Reader](https://docs.like.co/user-guide/reader) <a id="wo-shi-du-zhe"></a>
 
-* ​[Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？](https://docs.like.co/v/zh/user-guide/reader#nei-rong-bo-lao)​
-* ​[我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](https://docs.like.co/v/zh/user-guide/reader/reading-list)​
-* ​[「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)​
-* ​[何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](https://docs.like.co/v/zh/user-guide/reader/superlike)​
-* ​[Liker Land 好像不錯，推薦朋友也下載，有好處麼？](https://docs.like.co/v/zh/user-guide/reader/referral)​
+* [Facebook has more than enough news, why do I have to use Liker Land? ](https://docs.like.co/user-guide/reader#content-jockey)
+* [Browsing and reading is good enough for me, why a Reading List?](https://docs.like.co/user-guide/reader/readling-list)
+* [How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](https://docs.like.co/user-guide/reader/like)
+* [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](https://docs.like.co/user-guide/reader/superlike)
+* [Liker Land seems nice, if I refer my friend to download the app, are there any goodies for me?](https://docs.like.co/user-guide/reader/referral)
 
 ## **​**[**我是創作者**](https://docs.like.co/v/zh/user-guide/content-creators)**​** <a id="wo-shi-chuang-zuo-zhe"></a>
 
