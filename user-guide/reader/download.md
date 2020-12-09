@@ -14,7 +14,7 @@ description: 要去哪裏下載 Liker Land？
 
 ## Liker Land 網頁版 - https://Liker.Land
 
-雖然 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)最為好用，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land/)，[發現、追蹤內容](https://docs.like.co/v/zh/user-guide/reader/today-headline)和設定[閱讀列表](https://docs.like.co/v/zh/user-guide/reader/reading-list)。‌
+雖然 Liker Land 手機應用程式最為好用，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land/)，[發現、追蹤內容](https://docs.like.co/v/zh/user-guide/reader/today-headline)和設定[閱讀列表](https://docs.like.co/v/zh/user-guide/reader/reading-list)。‌
 
 另，點擊右上角的菜單，會彈出其他選項。​‌
 
