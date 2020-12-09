@@ -1,5 +1,5 @@
 ---
-description: 'Browsing and reading is good for me, why a Reading List?'
+description: 'Browsing and reading is good enough for me, why a Reading List?'
 ---
 
 # Readling List
