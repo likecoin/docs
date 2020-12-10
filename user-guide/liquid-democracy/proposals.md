@@ -1,5 +1,5 @@
 ---
-description: How many proposals approved by the Republic of Liker Land?
+description: How many proposals proceeded by the Republic of Liker Land?
 ---
 
 # Proposals
