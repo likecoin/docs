@@ -10,7 +10,7 @@ description: Where to download Liker Land?
 * For users in China, or Android devices without Google Play, download [APK on GitHub](https://github.com/likecoin/likecoin-app/releases)
 * [After downloading Liker Land](https://liker.land/getapp), please register a Liker ID：
 
-{% page-ref page="../liker-id/how-to-register-a-liker-id.md" %}
+{% page-ref page="../liker-id/register.md" %}
 
 ## Liker Land web - https://Liker.Land
 
