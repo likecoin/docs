@@ -4,7 +4,7 @@ description: Does the "Republic" of Liker Land have democracy?
 
 # Liquid Democracy
 
-![](../.gitbook/assets/likecoin_staking_rewards_voting_eng.png)
+![](../../.gitbook/assets/likecoin_staking_rewards_voting_eng.png)
 
 LikeCoin is a token, LikeCoin chain is it's blockchain, adding together is a DAO \(decentralized autonomous/democratic organization\).
 
