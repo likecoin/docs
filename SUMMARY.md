@@ -95,6 +95,9 @@
   * [Registering on BitAsset](user-guide/likecoin-token/registering-on-bitasset.md)
   * [Trade in BitAsset](user-guide/likecoin-token/trade-in-bitasset.md)
   * [Register and Trade in MyEthShop](user-guide/likecoin-token/registering-and-trade-in-myethshop.md)
+  * [Migrating from ERC-20](user-guide/likecoin-token/migration/README.md)
+    * [Assisted Migration](user-guide/likecoin-token/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
+    * [LikeCoin Migration FAQ](user-guide/likecoin-token/migration/migration-faq.md)
 * [LikeCoin chain](user-guide/likecoin-chain/README.md)
   * [Liquid Democracy](user-guide/likecoin-chain/liquid-democracy.md)
   * [Validator](user-guide/likecoin-chain/what-is-a-validator.md)
@@ -111,9 +114,6 @@
   * [How to follow LikeCoin's news?](user-guide/faq/likecoin-news.md)
   * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/volunteer.md)
   * [Do you have a press kit?](user-guide/faq/press-kit.md)
-  * [Migrating from ERC-20](user-guide/faq/migration/README.md)
-    * [Assisted Migration](user-guide/faq/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
-    * [LikeCoin Migration FAQ](user-guide/faq/migration/migration-faq.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 

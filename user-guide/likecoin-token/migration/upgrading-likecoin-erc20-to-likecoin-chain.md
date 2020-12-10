@@ -59,6 +59,6 @@ Please visit [Google Play store](https://play.google.com/store/apps/details?id=c
 ![](../../../.gitbook/assets/likecoin-migration-7.png)
 
 {% hint style="info" %}
-If you can **login Liker by MetaMask only**, you can still follow the below instruction except that you should choose "Login by MetaMask" in the upper left corner of the login screen, and you will be asked to set up a new password during the process.
+If you can **login Liker ID by MetaMask only**, you can still follow the instruction above except that you should choose "Login by MetaMask" on the upper left corner of the login screen, and you will be asked to set up a new password during the process.
 {% endhint %}
 
