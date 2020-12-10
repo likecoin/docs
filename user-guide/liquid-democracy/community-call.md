@@ -4,8 +4,6 @@ description: 我對 LikeCoin 的發展有意見，可以表達麼？
 
 # 社群治理會議
 
-![](../../.gitbook/assets/likecoin_ad70_validators-01%20%281%29.png)
-
 ## 常規會議 <a id="monthly"></a>
 
 LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，主要使用英語。
