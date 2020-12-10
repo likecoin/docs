@@ -4,9 +4,9 @@ description: Why should I become a Civic Liker? Any benefits?
 
 # Civic Liker
 
-![](../../.gitbook/assets/civic-liker.png)
+{% embed url="https://www.youtube.com/watch?v=3tuXDmaxbIc" %}
 
-### **\[**[**Join Civic Liker**](https://liker.land/civic)**\]**
+## [**Join Civic Liker**](https://liker.land/civic)
 
 Civic Liker is a movement to reward open contents. For the cost of a cup of coffee, you become a Civic Liker. Whatever you Like will then be turned into a tangible reward to creators.
 
@@ -18,11 +18,13 @@ The USD5/HKD38 paid monthly by a Civic Liker will be distributed to creators in 
 
 Other than supporting creators, Civic Likers enjoy various benefits such as taking part in community voting, accessing bonus contents, receiving newsletters from idols and joining offline events.
 
-### **Influent Creators Reward Pool distribution**
+### **Benefits of Civic Liker**
 
+* Vote and support beloved content
 * Distribute own reward pool with every Like
 * Participate in community voting
 * Access bonus contents
+* Receive special treats
 * Receive idol newsletter
 * Join offline events
 * Detailed reward distribution report
@@ -31,4 +33,6 @@ Other than supporting creators, Civic Likers enjoy various benefits such as taki
 Civic Liker is a movement to reward open contents. For the cost of a cup of coffee, you become a Civic Liker. Whatever you Like will then be turned into a tangible reward to creators.
 
 ### \[[Join **Civic Liker**](https://liker.land/civic)\]
+
+![](../../.gitbook/assets/civic-liker.png)
 
