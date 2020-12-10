@@ -30,7 +30,7 @@ Moreover, readers can follow their trusted Content Jockeys. Click on the avatar 
 
 The default Content Jockeys was managed by the Republic of Liker Land with Liquid Democracy, Content Jockeys of good quality and Word of mouth are selected by community voting.
 
-{% page-ref page="../likecoin-chain/liquid-democracy.md" %}
+{% page-ref page="../liquid-democracy.md" %}
 
 ## Add to Reading List
 
