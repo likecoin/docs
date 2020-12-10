@@ -8,9 +8,5 @@ description: A brief introduction about exchanging LikeCoin
 
 [BitAsset](https://www.bitasset.com) supports TWD/LIKE and BTC/LIKE trading pairs. [Liquid](https://www.liquid.com/) supports BTC/LIKE and USDT/LIKE trading pairs. DigiFinex supports USDT/LIKE trading pairs. [MyEthShop](https://www.myethshop.com) provides HKD/LIKE exchange.  Those who are interested can buy or sell LikeCoin with them.
 
-### LikeCoin ERC-20
-
-Some of the crypto exchanges do not support LikeCoin from the LikeCoin chain, listing the old version ERC-20 LikeCoin, e.g. [IDEX](https://idex.market/eth/like). BitAseet and MyEthShop provide ERC-20 gateway for exchanging, but after transaction the LikeCoin will be on the LikeCoin chain as well..
-
-Transferring LikeCoin to crypto exchange requires the use of Liker Land mobile app and [LIKE pay](https://docs.like.co/user-guide/liker-land/like-pay), please do [download](https://like.co/in/getapp) it first.
+Transferring LikeCoin to crypto exchange requires the use of Liker Land mobile app and [LIKE pay](https://docs.like.co/user-guide/likecoin-token/like-pay), please do [download](https://liker.land/getapp) it first.
 
