@@ -38,7 +38,7 @@ description: Frequently Asked Questions
 * [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](https://docs.like.co/user-guide/creator/blogging-platforms)
 * wip
 
-## ​[Civic Liker](https://docs.like.co/v/zh/user-guide/civic-liker)​ <a id="civic-liker"></a>
+## ​[Civic Liker](https://docs.like.co/user-guide/civic-liker)​ <a id="civic-liker"></a>
 
 * wip
 * wip
