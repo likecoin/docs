@@ -13,7 +13,7 @@
 
 ## Proposal \#4 Direct democracy by stakeholders
 
-* Proposer: [Nicholas](https://likecoin.bigdipper.live/validator/DB061F8E3AED9013B9FC242D0A583D3E3B2C99E2)
+* Proposer: [Nicholas](https://matters.news/@nicholasyau/like-coin-chain-proposal-4-direct-democracy-by-stakeholders-bafyreifupmmlspfpu55mpjwtzbkqew3ji4wdud36er2uetcph7h72mfmea)
 * Proposal Type: Signaling Proposal
 * Date: Submit on 2020.09.21, Passed on 2020.10.05
 * Description: Allow individual LikeCoin stakeholders to raise proposal and vote
