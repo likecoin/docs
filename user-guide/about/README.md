@@ -36,7 +36,7 @@ Besides reading on your favourite content platforms, you can also read creative 
 * \*\*\*\*[**Twitter**](https://twitter.com/likecoin) : Announcements
 * \*\*\*\*[**Telegram**](https://t.me/likecoin) : Stakeholders, general discussion
 * \*\*\*\*[**GitHub**](https://github.com/likecoin) : ****Open Source
-* \*\*\*\*[**Discord**](https://discord.com/invite/HbvhWZw) ****: Development, Governance discussion; in English
+* \*\*\*\*[**Discord**](https://discord.com/invite/W4DQ6peZZZ) ****: Development, Governance discussion; in English
 * **Facebook**：[Page](https://www.facebook.com/Liker.Land/) \( Announcement \); [Group](https://www.facebook.com/groups/likecoin) \( Creators' sharing \); in Chinese
 
 ## Contact Us
