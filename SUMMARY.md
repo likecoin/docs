@@ -40,7 +40,7 @@
   * [Today's Headlines](user-guide/reader/today-headline.md)
   * [Readling List](user-guide/reader/readling-list.md)
   * [Like - Reinventing the Like](user-guide/reader/like.md)
-  * [Super Like - Decentralized Curation](user-guide/reader/superlike.md)
+  * [Super Like - Content Jockey](user-guide/reader/superlike.md)
   * [Referral Bonus](user-guide/reader/referral.md)
   * [wip](user-guide/reader/wip.md)
 * [Content Creators](user-guide/creator/README.md)
