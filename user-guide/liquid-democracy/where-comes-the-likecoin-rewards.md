@@ -1,3 +1,7 @@
+---
+description: It is definitely not talking interests from deposit.
+---
+
 # Where comes the LikeCoin rewards?
 
 ![](../../.gitbook/assets/likecoin_postlist_1216.png)
