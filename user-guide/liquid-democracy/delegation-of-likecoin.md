@@ -6,11 +6,11 @@ description: >-
 
 # Delegation of LikeCoin
 
-Delegation means delegating LikeCoin to one or more [validators](https://docs.like.co/constitution#9d28), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Delegation demonstrates [liquid democracy](https://docs.like.co/user-guide/likecoin-chain/liquid-democracy) and is vital to the autonomy for The Republic of Liker Land.
+Delegation means delegating LikeCoin to one or more [validators](https://docs.like.co/user-guide/about/background#9d28), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Delegation demonstrates [liquid democracy](https://docs.like.co/user-guide/liquid-democracy) and is vital to the autonomy for The Republic of Liker Land.
 
 ### Step 1: Select a validator
 
-Open the [Liker Land mobile app](https://docs.like.co/user-guide/liker-land/liker-land-mobile-app), click on the avatar at the lower right hand corner, then click the amount of LikeCoin to enter into the wallet page. In this page you can check the LikeCoin amount that you have and there is a list of validators underneath. To start with, there are seven organizations/corporations/groups as validators for The Republic of Liker Land. You can select one of them as you like.
+Open the [Liker Land mobile app](https://docs.like.co/user-guide/reader/download), click on the avatar at the lower right hand corner, then click the amount of LikeCoin to enter into the wallet page. In this page you can check the LikeCoin amount that you have and there is a list of validators underneath. To start with, there are seven organizations/corporations/groups as validators for The Republic of Liker Land. You can select one of them as you like.
 
 
 
