@@ -4,10 +4,6 @@ description: 若你有用 MetaMask 持有 LikeCoin，又已經綁定了社交媒
 
 # 升級 LikeCoin 到 LikeCoin chain
 
-自 2019年12月開始 LikeCoin ERC-20 升級為 LikeCoin chain 經已過了九個月，由於交易所經已完成所有升級程序，MyEthShop 及 BitAsset 自9月1日 12:00 UTC+8 起將不會再提供 LikeCoin ERC-20 交易渠道。假如用戶需要進行升級 LikeCoin，請直接到[官方轉換頁面](%20https://migration.like.co/%20) 辦理，留意所有相關手續費將由用者自付。此後 LikeCoin ERC-20 將成為歷史。
-
-
-
 LikeCoin 經已轉移到 [LikeCoin chain](https://docs.like.co/v/zh/user-guide/likecoin-chain)，用戶再不能使用 MetaMask 登入而需要使用 Liker Land 手機應用程式。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
 
 若你乎合以下條件：
