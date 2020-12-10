@@ -8,7 +8,7 @@ description: >-
 
 ### Advantage of referring your friend to download Liker Land
 
-* When readers download the [Liker Land mobile app](https://like.co/in/getapp) via your referral link, they follow your works too. Every time when the Reader opens Liker Land, your works appear on his/her following list. Like Land ensures that they have a read on your work.
+* When readers download the [Liker Land mobile app](https://like.co/in/getapp) via your referral link, they follow your works too. Every time when the Reader opens Liker Land, your works appear on his/her Today's Headlines. Like Land ensures that they have a read on your work.
 * You and your referee can earn 100 LikeCoin bonus.
 * More referrals for more bonus, no ceiling.
 * Readers clap on your article just like reflexes, help you to deepen the rewards.
