@@ -39,7 +39,7 @@
   * [Download Liker Land](user-guide/reader/download.md)
   * [Today's Headlines](user-guide/reader/today-headline.md)
   * [Readling List](user-guide/reader/readling-list.md)
-  * [Like - Reinventing the Like](user-guide/reader/like.md)
+  * [Like - Turn "Likes" into Rewards](user-guide/reader/like.md)
   * [Super Like - Content Jockey](user-guide/reader/superlike.md)
   * [Referral Bonus](user-guide/reader/referral.md)
   * [wip](user-guide/reader/wip.md)

@@ -4,7 +4,7 @@ description: >-
   money come from?
 ---
 
-# Like - Reinventing the Like
+# Like - Turn "Likes" into Rewards
 
 Any website embedded with a LikeCoin button can reinvent the likes, each clap can support the content creators and turn likes into actual income.
 
