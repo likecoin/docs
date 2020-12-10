@@ -12,6 +12,8 @@ description: LikeCoin 和整個社群怎樣一路走來？
 
 原文於2019年11月7日刊載於 [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)
 
+
+
 當這篇文章發佈的時候，LikeCoin chain 創世區塊 \( Genesis \) 亦經已誕生。假如你並不明白我們在說甚麼，或者可以嘗試這樣去理解：讚賞公民共和國經已正式成立。
 
 這篇文章經已盡量減少使用專門技術用語去介紹讚賞公民共和國各項原素及機制。歡迎工程師參閱我們的技術文件，或直接檢視我們在 [GitHub](https://github.com/likecoin) 的開放源碼。
