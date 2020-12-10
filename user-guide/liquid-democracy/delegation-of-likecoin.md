@@ -4,7 +4,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委托 ( Delegate ) 給�
 
 # 委託 LikeCoin
 
-委托的意思是把 LikeCoin 委托給一個或多個[驗證人 \( Validator \)](https://docs.like.co/v/zh/user-guide/about/background#9d28)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。委託機制是讚賞公民共和國[流動民主](https://docs.like.co/v/zh/user-guide/likecoin-chain/liquid-democracy)自治機制的一環。
+委托的意思是把 LikeCoin 委托給一個或多個[驗證人 \( Validator \)](https://docs.like.co/v/zh/user-guide/about/background#9d28)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。委託機制是讚賞公民共和國[流動民主](https://docs.like.co/v/zh/user-guide/liquid-democracy)自治機制的一環。
 
 ### 步驟一：選取驗證人
 
