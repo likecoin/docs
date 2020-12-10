@@ -1,10 +1,14 @@
+---
+description: What is a validator?
+---
+
 # Validator
 
-## What is a validator?
+![](../../.gitbook/assets/likecoin_ad78_postlist_1213.png)
+
+## Bank + Senator
 
 A validator on LikeCoin chain is both a bank and a senator in Liker Land.
-
-![](../../.gitbook/assets/likecoin_ad78_postlist_1213.png)
 
 Operates a set of servers 24x7 to validate all transactions of Likers, including token transfers, content publishing, voting and etc.
 
