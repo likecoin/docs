@@ -14,7 +14,7 @@ description: Liker Land 好像不錯，推薦朋友也下載，有好處麼？
 
 ### 推薦方法
 
-1. 把你的專屬推薦鏈結分享給朋友，請他/她點擊鏈結下載 [Liker Land 手機應用程式](https://like.co/in/getapp)
+1. 把你的專屬推薦鏈結分享給朋友，請他/她點擊鏈結下載 [Liker Land 手機應用程式](https://liker.land/getapp)
 2. 推薦鏈結的格式： https://likerland.app.link/?event=app\_referral&referrer=\[你的 Liker ID\]。例如若你的 Liker ID 是 ckxpress，鏈結便是 _https://likerland.app.link/?event=app\_referral&referrer=ckxpress_
 3. 朋友下載 Liker Land 後，若系統問及推薦人的 Liker ID，便請他填寫你的 Liker ID
 4. 請你的朋友到 [https://like.co/in/settings](https://like.co/in/settings/) 完成短訊認證程序，位置在 _Authcore 設定 → 聯絡方式 → 管理聯絡方式 → 電話號碼_
