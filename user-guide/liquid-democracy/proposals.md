@@ -10,7 +10,7 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 * Proposer: [guanyun](https://matters.news/@guanyun/like-coin-chain-proposal-6-increase-the-inflation-rate-from-2-to-7-bafyreibnqz6rbx2rcmc6o5nujogobaou2rh7sdtogmkkfgbdf2gjzq74lq)
 * Proposal Type: Parameter Change Proposal
-* Date: Submit on 2020.11.13, 2020.12.07 Deposit amount was not reached, proposal removed
+* Date: Submit on 2020.11.13, Unable to reach deposit amount, proposal removed on 2020.12.07 
 * Details: [https://likecoin.bigdipper.live/proposals/6](https://likecoin.bigdipper.live/proposals/6)
 
 ## Proposal \#5 Increasing the inflation rate from 1% to 2%
