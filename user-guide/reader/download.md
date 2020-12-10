@@ -6,15 +6,15 @@ description: Where to download Liker Land?
 
 ![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 
-* Download Liker Land in [Google Play](https://play.google.com/store/apps/details?id=com.oice) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355)
+* Download Liker Land on [Google Play](https://play.google.com/store/apps/details?id=com.oice) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355)
 * For users in China, or Android devices without Google Play, download [APK on GitHub](https://github.com/likecoin/likecoin-app/releases)
 * [After downloading Liker Land](https://liker.land/getapp), please register a Liker ID：
 
 {% page-ref page="../liker-id/how-to-register-a-liker-id.md" %}
 
-## Liker Land Web - https://Liker.Land
+## Liker Land web - https://Liker.Land
 
-Although Liker Land mobile app provides the "content clapping experiences" that best suit your needs, [Liker Land web](https://liker.land/) also brings the same convenience for [discovering, following](https://docs.like.co/user-guide/reader/today-headline) and [bookmarking content to Readling List](https://docs.like.co/user-guide/reader/readling-list).
+Although Liker Land mobile app provides the functions that best suit your needs, [Liker Land web](https://liker.land/) also brings the same convenience for [discovering, following](https://docs.like.co/user-guide/reader/today-headline) and [bookmarking content to Readling List](https://docs.like.co/user-guide/reader/readling-list).
 
 Click on the menu at the top right hand corner, there are other options.
 
@@ -37,8 +37,8 @@ Click and learn more about how to [embed a LikeCoin button](https://liker.land/c
 
 {% page-ref page="../liker-id/edit-avatar-displayname.md" %}
 
-* Civic Liker: Subscribing/Unsubscribe status
-* Creator: Registered/Not Registered
+* Civic Liker: Subscribing / Unsubscribe status
+* Creator: Registered / Not Registered
 * Follow / Unfollowed: Display Content Jockey that the user followed, can click to unfollow \(refer to the below\)
 
 ![](../../.gitbook/assets/liker-land-web-3-en.png)
