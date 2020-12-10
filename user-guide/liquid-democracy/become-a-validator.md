@@ -10,5 +10,5 @@ For more technical information about LikeCoin chan validaotr, please check out t
 
 [Setup mainnet node](https://docs.like.co/developer/likecoin-chain-node/setup-mainnet-node)
 
-If you have any questions please join the g0v slack at  [https://join.g0v.tw/](https://join.g0v.tw/) and select the \#likecoin channel.
+If you have any questions please join [LikeCoin Community Discord](https://discord.com/invite/W4DQ6peZZZ) channel.
 
