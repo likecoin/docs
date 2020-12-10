@@ -10,7 +10,7 @@
 
 [Setup mainnet node](https://docs.like.co/developer/likecoin-chain-node/setup-mainnet-node)
 
-如有疑問可加入 [Cosmo Community Discord](https://discord.com/invite/HbvhWZw) 在 ecosystem 選擇 \#likecoin 頻道獲得得協助。
+如有疑問可加入 [LikeCoin Community Discord](https://discord.com/invite/W4DQ6peZZZ) 頻道獲得得協助。
 
 #### 參考文章
 
