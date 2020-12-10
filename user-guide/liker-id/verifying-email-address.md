@@ -39,7 +39,10 @@ Continue from the previous step, the page displaying a QR Code now:
 
 ![](../../.gitbook/assets/2fa-5-en.png)
 
-1. Download Google Authenticator on your mobile phone [Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW) [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
+1. Download Google Authenticator on your mobile phone
+
+   [Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW) / [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
+
 2. Open the Google Authenticator app, click on the "+" sign on the top right hand corner
 3. Scan the QR Code on your desktop computer
 4. An entry of Authcore is added to Google Authenticator, displaying a 6-digit code, fill it into the blank space circled in red, and click "Next", it displays "Set up authenticator app" "Complete", then click "OK"
@@ -47,7 +50,7 @@ Continue from the previous step, the page displaying a QR Code now:
 
 ![](../../.gitbook/assets/2fa-6-en.png)
 
-2-step Verification set up is finished.
+2-step Verification set up is completed.
 
 ## Confirm your email address
 
