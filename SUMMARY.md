@@ -73,7 +73,7 @@
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
   * [How to pay Civic Liker yearly scubscription by PayMe or FPS](user-guide/civic-liker/civic-liker-paid-by-payme.md)
   * [How to pay Civic Liker yearly subscription by LikeCoin](user-guide/civic-liker/civic-liker-paid-by-likecoin.md)
-  * [Adjust Credit Card Information](user-guide/civic-liker/change-credit-card.md)
+  * [Change Credit Card Information](user-guide/civic-liker/change-credit-card.md)
   * [Unsubscribe Civic Liker](user-guide/civic-liker/unsubscribe-civic-liker.md)
 * [Liker ID](user-guide/liker-id/README.md)
   * [Register a Liker ID](user-guide/liker-id/how-to-register-a-liker-id.md)
