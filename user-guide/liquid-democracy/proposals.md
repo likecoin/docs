@@ -4,12 +4,19 @@
 
 
 
+## Proposal \#6 Increasing the inflation rate from 1% to 2%
 
+* Proposer: [guanyun](https://matters.news/@guanyun/like-coin-chain-proposal-6-increase-the-inflation-rate-from-2-to-7-bafyreibnqz6rbx2rcmc6o5nujogobaou2rh7sdtogmkkfgbdf2gjzq74lq)
+* Proposal Type: Parameter Change Proposal
+* Date: Submit on 2020.11.13, 2020.12.07 Deposit amount was not reached, proposal removed
+* Details: [https://likecoin.bigdipper.live/proposals/6](https://likecoin.bigdipper.live/proposals/6)
 
-* Proposer: 
-* Proposal Type: 
-* Date: 
-* Details:
+## Proposal \#5 Increasing the inflation rate from 1% to 2%
+
+* Proposer: [Oldcat](https://matters.news/@oldcat/like-coin-chain-proposal-5-increase-the-inflation-rate-from-1-to-2-bafyreigehviegtfl42orweqj5nc2wn2ccapukjm2jhwf3qzcntl7qyxaby)
+* Proposal Type: Parameter Change Proposal
+* Date: Submit on 2020.10.14, Passed on 2020.11.10
+* Details: [https://likecoin.bigdipper.live/proposals/5](https://likecoin.bigdipper.live/proposals/5)
 
 ## Proposal \#4 Direct democracy by stakeholders
 
