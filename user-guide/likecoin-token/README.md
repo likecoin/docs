@@ -2,7 +2,7 @@
 description: What is LikeCoin token?
 ---
 
-# LikeCoin Token
+# LikeCoin Transaction
 
 LikeCoin token is usually called LikeCoin for short, it is the de facto token in Liker Land. LikeCoin has the following usage:
 
