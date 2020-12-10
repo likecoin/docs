@@ -111,9 +111,6 @@
   * [LikeCoin Foundation](user-guide/faq/likecoin-foundation.md)
   * [Where comes the LikeCoin rewards?](user-guide/faq/where-comes-the-likecoin-rewards.md)
   * [How to undelegate LikeCoin?](user-guide/faq/how-to-undelegate-likecoin.md)
-  * [How to follow LikeCoin's news?](user-guide/faq/likecoin-news.md)
-  * [LikeCoin sounds cool. Can I volunteer to help?](user-guide/faq/volunteer.md)
-  * [Do you have a press kit?](user-guide/faq/press-kit.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
