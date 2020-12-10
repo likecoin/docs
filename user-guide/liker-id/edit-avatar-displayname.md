@@ -11,7 +11,7 @@ Login [Liker Land](https://liker.land/) and visit [https://like.co/in/settings](
 
 Your name and avatar will appear in various Liker Land scenarios.
 
-![](../../.gitbook/assets/huang-niu-shan-ren-.png)
+![](../../.gitbook/assets/avatar.png)
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJwVJtgYRij9lbzkTP%2F-MDJxZmmtXywRtonx1-U%2Fimg_2452.jpg?alt=media&token=0b156d94-f407-4711-83ce-948d342c7892)
 
