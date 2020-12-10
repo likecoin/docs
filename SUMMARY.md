@@ -107,6 +107,7 @@
   * [Undelegation of LikeCoin](user-guide/liquid-democracy/undelegation-of-likecoin.md)
   * [Redelegation of LikeCoin](user-guide/liquid-democracy/redelegation-of-likecoin.md)
   * [Where comes the LikeCoin rewards?](user-guide/liquid-democracy/where-comes-the-likecoin-rewards.md)
+  * [Community Call](user-guide/liquid-democracy/community-call.md)
   * [Proposals](user-guide/liquid-democracy/proposals.md)
 * [FAQ](user-guide/faq/README.md)
   * [LikeCoin Foundation](user-guide/faq/likecoin-foundation.md)
