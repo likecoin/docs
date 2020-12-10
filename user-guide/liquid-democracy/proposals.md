@@ -1,10 +1,12 @@
+---
+description: How many proposals approved by the Republic of Liker Land?
+---
+
 # Proposals
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
-
-
-## Proposal \#6 Increasing the inflation rate from 1% to 2%
+## Proposal \#6 Increasing the inflation rate from 2% to 7%
 
 * Proposer: [guanyun](https://matters.news/@guanyun/like-coin-chain-proposal-6-increase-the-inflation-rate-from-2-to-7-bafyreibnqz6rbx2rcmc6o5nujogobaou2rh7sdtogmkkfgbdf2gjzq74lq)
 * Proposal Type: Parameter Change Proposal
