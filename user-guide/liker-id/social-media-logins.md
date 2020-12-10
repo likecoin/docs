@@ -1,6 +1,6 @@
 ---
 description: >-
-  Linking Google / Facebook / Twitter / Matters  social logins, login easier and
+  Linking Google / Facebook / Twitter / Matters social logins, login easier and
   increase security
 ---
 
@@ -37,6 +37,6 @@ User has to go to Matters website for linkinging:
 4. Login Liker ID according to the instruction
 
 {% hint style="warning" %}
-**Once you link your Liker ID with Matters ID, they cannot be unbonded.**
+Once you link your Liker ID with Matters ID, they cannot be unbonded.
 {% endhint %}
 
