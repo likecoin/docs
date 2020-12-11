@@ -54,15 +54,13 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-4.png)
 
-Step 5: "Transaction is broadcasted." appears on Big Dipper, you can check your wallet details and verify your transaction result.
-
-步驟五：Big Dipper "Transaction is broadcasted."
+步驟五：Big Dipper 顯示 "Transaction is broadcasted."，你現在可以查看錢包明細並確認操作是否正確。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-5.png)
 
-## Delegate LikeCoin
+## 委托 LikeCoin 
 
-Step 1: Click on your desired validator among the [Big Dipper Validator section](https://likecoin.bigdipper.live/validators).
+步驟一：在 [Big Dipper 驗證人](https://likecoin.bigdipper.live/validators)中選取你屬意委托的驗證人。
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-1-en.png)
 
