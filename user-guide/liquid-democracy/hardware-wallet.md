@@ -46,7 +46,7 @@ Step 2: A window pops up and asks you to proceed with the withdrawal action, cli
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-2.png)
 
-Step 3:  Transaction details displayed, You will be asked to "SIGN" and confirm the withdrawal.
+Step 3:  Transaction details displayed, you will be asked to "SIGN" and confirm the withdrawal.
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-3.png)
 
