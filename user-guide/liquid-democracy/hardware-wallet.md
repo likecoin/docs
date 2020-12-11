@@ -70,7 +70,7 @@ Step 2: Click the green "DELEGATE" button on the "Voting Power" column of that v
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-3.png)
 
-Step 3: A window pops up and asks you to confirm the amount of LikeCoin that you are going to delegate to the validator. Fill in the amount of LikeCoin to delegate and any notes that you would like to add to the transaction, then click "NEXT".
+Step 3: A window pops up and asks you to fill in the amount of LikeCoin that you are going to delegate to the validator, add and any notes that you would like to remarks for the transaction, then click "NEXT".
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-4.png)
 
@@ -82,18 +82,27 @@ Step 5: The Ledger device will ask you to confirm the transaction, approve it an
 
 ## Redelegate LikeCoin
 
-Step 1: Click on the validator that you've delegated LikeCoin to.  
+Step 1: Click on the validator that you've delegated LikeCoin to.
 
+![](../../.gitbook/assets/hardwarewallet-redelegate-1.png)
 
-Step 2: Click the red "REDELEGATE" button on the "Voting Power" column.  
+Step 2: Click the red "REDELEGATE" button on the "Voting Power" column.
 
+![](../../.gitbook/assets/hardwarewallet-redelegate-2.png)
 
-Step 3: A window pops up and asks you to confirm the amount of LikeCoin that you are going to redelegate. Click "SELECT A VALIDATOR" to select the validator that you would like to redelegate to. Fill in the amount of LikeCoin to redelegate and any notes that you would like to add to the transaction, then click "NEXT".  
+Step 3: A window pops up and asks you to input the amount of LikeCoin that you are going to redelegate. Click "SELECT A VALIDATOR" to select the validator that you would like to redelegate to. 
 
+![](../../.gitbook/assets/hardwarewallet-redelegate-3.png)
 
-Step 4: A confirmation screen displays, if everything is correct, click "SIGN".  
+![](../../.gitbook/assets/hardwarewallet-redelegate-4.png)
 
+Step3: Fill in the amount of LikeCoin to redelegate and add any notes that you would like to remarks for the transaction, then click "NEXT".
 
-Step 5: The Ledger device will ask you to confirm the transaction, approve it and verify transaction details on Big Dipper.  
+![](../../.gitbook/assets/hardwarewallet-redelegate-5.png)
 
+Step 4: A confirmation screen displays, if everything is correct, click "SIGN".
+
+![](../../.gitbook/assets/hardwarewallet-redelegate-6.png)
+
+Step 5: The Ledger device will ask you to confirm the transaction, approve it and verify transaction details on Big Dipper.
 
