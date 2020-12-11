@@ -24,19 +24,19 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-3.png)
 
-### Step 4: Check wallet details
+### 步驟四：查看錢包明細
 
-After login the key icon changes to an avatar, you can then click on it to access the details of your wallet.
+成功登入後鑰匙符號轉變為頭像符號，點擊它即可登看錢包內帳戶明細。
 
 ![](../../.gitbook/assets/hardwarewallet-4.png)
 
 ![](../../.gitbook/assets/hardwarewallet-5.png)
 
-You can check your LikeCoin balance, delegation to validators, rewards and various other information.
+你可以登看你的 LikeCoin 數量、委托狀態、收益及其他內容。
 
 ![](../../.gitbook/assets/hardwarewallet-6.png)
 
-## Withdraw Rewards
+## 領取收益
 
 Step 1: Click on the green “WITHDRAW” button on Big Dipper.
 
