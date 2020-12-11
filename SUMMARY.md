@@ -42,7 +42,6 @@
   * [Like - Reinventing the Like](user-guide/reader/like.md)
   * [Super Like - Content Jockey](user-guide/reader/superlike.md)
   * [Referral Bonus](user-guide/reader/referral.md)
-  * [wip](user-guide/reader/wip.md)
 * [Content Creators](user-guide/creator/README.md)
   * [LikeCoin button](user-guide/creator/likecoin-button.md)
   * [Portfolio Page](user-guide/creator/portfolio-page.md)
