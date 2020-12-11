@@ -8,7 +8,7 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ## 讀取你的硬件錢包
 
-### 步驟一：以 USB  傳輸線接通你的電腦及Ledger
+### 步驟一：以 USB  傳輸線接通你的電腦及 Ledger
 
 ![](../../.gitbook/assets/hardwarewallet-1.png)
 
@@ -20,7 +20,7 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ### 步驟三：到 Big Dipper 網站登入
 
-在 [Big Dipper](https://likecoin.bigdipper.live/) 網站的右上角點擊鑰匙符號並登入，需要一些時間讓 Big Dipper 掃描並連接 Ledger 硬件。
+在 [Big Dipper](https://likecoin.bigdipper.live/) 網站的右上角點擊鑰匙符號並登入，會需要一些時間讓 Big Dipper 掃描並連接 Ledger 硬件。
 
 ![](../../.gitbook/assets/hardwarewallet-3.png)
 
@@ -46,11 +46,11 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-2.png)
 
-步驟三：確認頁面顯示你將要進行的動作，點擊「SIGN」確認你需要領取收益。
+步驟三：確認頁面顯示你將要進行的操作，點擊「SIGN」確認你需要領取收益。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-3.png)
 
-步驟四：你的 Ledger 顯示內容將變換並展示你的要進行的操作內容，讓你按鍵一一查閱。最後畫面顯示兩個選擇：「Approve」或「Reject」，按下 Ledger 兩邊的按鈕同意操作。
+步驟四：你的 Ledger 顯示內容將變換並展示你的要進行的操作，讓你按鍵一一查閱。最後畫面顯示兩個選擇：「Approve」或「Reject」，同時按下 Ledger 兩邊的按鈕同意操作。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-4.png)
 
@@ -74,7 +74,7 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-4.png)
 
-步驟四：確認頁面顯示你將要進行的動作，假如內容正確，點擊「SIGN」。
+步驟四：確認頁面顯示你將要進行的操作，假如內容正確，點擊「SIGN」。
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-5.png)
 
@@ -100,7 +100,7 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-5.png)
 
-步驟五：確認頁面顯示你將要進行的動作，假如內容正確，點擊「SIGN」。
+步驟五：確認頁面顯示你將要進行的操作，假如內容正確，點擊「SIGN」。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-6.png)
 
