@@ -90,17 +90,19 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-2.png)
 
-Step 3: A window pops up and asks you to input the amount of LikeCoin that you are going to redelegate. Click "SELECT A VALIDATOR" to select the validator that you would like to redelegate to. 
+步驟三：視窗彈出要求你填寫希望轉移委托的 LikeCoin 數量，點擊「SELECT A VALIDATOR」選擇你想轉移的目標驗證人。
 
-步驟三：視窗彈出要求你填寫希望轉移委托 LikeCoin 的數量，你亦可以加上附註，再點擊「NEXT」。
 
-![](../../.gitbook/assets/hardwarewallet-delegate-4.png)
+
+點事你亦可以加上附註，再點擊「NEXT」。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-3.png)
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-4.png)
 
 Step3: Fill in the amount of LikeCoin to redelegate and add any notes that you would like to remarks for the transaction, then click "NEXT".
+
+填寫委托 LikeCoin 的數量，你亦可以加上附註，再點擊「NEXT」。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-5.png)
 
