@@ -47,13 +47,14 @@ description: LikeCoin 幫見問題
 ## [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id)
 
 * [Liker ID 要怎樣註冊](https://docs.like.co/v/zh/user-guide/liker-id/register)[？](https://docs.like.co/v/zh/user-guide/liker-id/reset-password)
-* [無法以社交帳號登入 Liker ID，怎麼辦？](https://docs.like.co/v/zh/user-guide/liker-id/reset-password)
-* 不知何解無法登入嗎？試試重設密碼吧！
-* [甚麼是 Authco](https://docs.like.co/v/zh/user-guide/liker-id/what-is-authcore)？
+* [無法以社交帳號登入 Liker ID，怎麼辦？不知何解無法登入嗎？試試重設密碼吧！](https://docs.like.co/v/zh/user-guide/liker-id/reset-password)
+* [甚麼是 Authcore？](https://docs.like.co/v/zh/user-guide/liker-id/what-is-authcore)
 
 ## [LikeCoin 交易](https://docs.like.co/v/zh/user-guide/likecoin-token)
 
-* wip
+* [怎樣轉帳 LikeCoin 予其他人？](https://docs.like.co/v/zh/user-guide/likecoin-token/like-pay)
+* [LikeCoin 可以直接作為購買產品之用嗎？](https://docs.like.co/v/zh/user-guide/likecoin-token/products-and-services)
+* [如何兌換 LikeCoin 為其他密碼貨幣或法定貨幣？](https://docs.like.co/v/zh/user-guide/likecoin-token/how-to-buy-and-sell-likecoin)
 
 ## 流動民主
 
