@@ -92,23 +92,17 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 步驟三：視窗彈出要求你填寫希望轉移委托的 LikeCoin 數量，點擊「SELECT A VALIDATOR」選擇你想轉移的目標驗證人。
 
-
-
-點事你亦可以加上附註，再點擊「NEXT」。
-
 ![](../../.gitbook/assets/hardwarewallet-redelegate-3.png)
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-4.png)
 
-Step3: Fill in the amount of LikeCoin to redelegate and add any notes that you would like to remarks for the transaction, then click "NEXT".
-
-填寫委托 LikeCoin 的數量，你亦可以加上附註，再點擊「NEXT」。
+步驟四：填寫轉移委托 LikeCoin 的數量，你亦可以加上附註，再點擊「NEXT」。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-5.png)
 
-Step 4: A confirmation screen displays, if everything is correct, click "SIGN".
+步驟五：確認頁面顯示你將要進行的動作，假如內容正確，點擊「SIGN」。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-6.png)
 
-Step 5: The Ledger device will ask you to confirm the transaction, approve it and verify transaction details on Big Dipper.
+步驟六：Ledger 將詢問你是否確認操作，按鍵同意並於 Big Dipper 查閱錢包明細。
 
