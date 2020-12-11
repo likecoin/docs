@@ -68,9 +68,9 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 由現在開始你可以把 WordPress 網站的文章同步到 Mattres。只需簡單登入你的 Matters 電郵及密碼再撰寫文章即可啟用此功能。測試版本提供三個選項：
 
-* Auto save draft to Matters - Posts drafted will be sync to your Matters's draft box
-* Auto publish post to Matters - A copy of the post will be automatically published to Matter when you publish a post in your WordPress site.
-* Add post link in footer - Link of the original WordPress post will be added to the post in Matters.
+* 自動儲存草稿到 Matters － 文章草稿將同步到你的 Matters 草稿箱。
+* 自動發佈文章至 Matters － 當你在 WordPress 網站發佈文章時，該文章亦會同時於 Matters 發佈。
+* 在頁尾增加原文連結 － 在 Matters 文章中加入 WordPress 文章的原文連結。
 
 ![](../../.gitbook/assets/wordpress-8.png)
 
