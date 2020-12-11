@@ -64,3 +64,15 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 > [如何在 Medium 和 WordPress 設置錨點 \(Anchor\)](https://bchai.cc/2019/03/30/how-to-setup-anchor-medium-wordpress/)
 
+## 發佈設定（測試版）
+
+由現在開始你可以把 WordPress 網站的文章同步到 Mattres。只需簡單登入你的 Matters 電郵及密碼再撰寫文章即可啟用此功能。測試版本提供三個選項：
+
+* Auto save draft to Matters - Posts drafted will be sync to your Matters's draft box
+* Auto publish post to Matters - A copy of the post will be automatically published to Matter when you publish a post in your WordPress site.
+* Add post link in footer - Link of the original WordPress post will be added to the post in Matters.
+
+![](../../.gitbook/assets/wordpress-8.png)
+
+
+
