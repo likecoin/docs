@@ -4,7 +4,7 @@ description: How to manage your LikeCoin with a hardware wallet?
 
 # Secure your LikeCoin with hardware wallet
 
-Before using your hardware wallet, please configure it and install the Cosmos app. Take Ledger as an example, you may install Cosmos app via [Ledger Live](https://support.ledger.com/hc/en-us/articles/360013713840-Cosmos-ATOM-).
+Before using your hardware wallet, please configure it and install the Cosmos app. Take Ledger as an example, you may install the Cosmos app via [Ledger Live](https://support.ledger.com/hc/en-us/articles/360013713840-Cosmos-ATOM-).
 
 ## Access your hardware wallet
 
@@ -70,7 +70,7 @@ Step 2: Click the green "DELEGATE" button on the "Voting Power" column of that v
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-3.png)
 
-Step 3: A window pops up and asks you to fill in the amount of LikeCoin that you are going to delegate to the validator, add and any notes that you would like to remarks for the transaction, then click "NEXT".
+Step 3: A window pops up and asks you to fill in the amount of LikeCoin that you are going to delegate to the validator, add any notes that you would like to remarks for the transaction, then click "NEXT".
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-4.png)
 
