@@ -4,8 +4,6 @@ description: Frequently Asked Questions
 
 # LikeCoin FAQ
 
-
-
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGKCas6shf9dDCwB3j%2F-MHGMnmjM4yyGSTVqz7T%2FLikeCoin_AD27_Small_Update-01.png?alt=media&token=a3cb3c10-3742-4ef9-b99a-3e05e2f82a11)
 
 ## [​LikeCoin, Republic of Liker Land](https://docs.like.co/user-guide/about) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
@@ -43,19 +41,19 @@ description: Frequently Asked Questions
 * wip
 * wip
 
-## ​[Liker ID](https://docs.like.co/v/zh/user-guide/liker-id)​ <a id="liker-id"></a>
+## ​[Liker ID](https://docs.like.co/user-guide/liker-id)​ <a id="liker-id"></a>
 
 * wip
 
-## ​[LikeCoin 交易](https://docs.like.co/v/zh/user-guide/likecoin-token)​ <a id="likecoin-jiao-yi"></a>
+## ​[LikeCoin Token](https://docs.like.co/user-guide/likecoin-token) <a id="likecoin-jiao-yi"></a>
 
 * wip
 
-## 流動民主 <a id="liu-dong-min-zhu"></a>
+## [Liquid Democracy](https://docs.like.co/user-guide/liquid-democracy)
 
 * wip
-* ​[所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/user-guide/liquid-democracy)​
-* ​[讚賞公民共和國有過甚麼議案？](https://docs.like.co/v/zh/about/governance/proposals)​
-* ​[我對 LikeCoin 的發展有意見，可以怎樣表達？](https://docs.like.co/v/zh/about/governance/community-call)​
-* LikeCoin 好像挺有意思的，我可以怎樣參與？
+* ​[Does the "Republic" of Liker Land have democracy?](https://docs.like.co/user-guide/liquid-democracy)
+* ​​[How many proposals proceeded by the Republic of Liker Land?](https://docs.like.co/user-guide/liquid-democracy/proposals)
+* ​[I have some comments about LikeCoin, can I express them directly?](https://docs.like.co/user-guide/liquid-democracy/community-call)
+* LikeCoin seems interesting? How can I contribute to the community?
 
