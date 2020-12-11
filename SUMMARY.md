@@ -80,7 +80,7 @@
   * [委託 LikeCoin](user-guide/liquid-democracy/delegation-of-likecoin.md)
   * [取回委託 LikeCoin](user-guide/liquid-democracy/undelegation-of-likecoin.md)
   * [轉移委託 LikeCoin](user-guide/liquid-democracy/redelegation-of-likecoin.md)
-  * [以硬件錢包保障你的 LikeCoin 資產](user-guide/liquid-democracy/yi-ying-jian-qian-bao-bao-zhang-ni-de-likecoin-zi-chan.md)
+  * [以硬件錢包保障你的 LikeCoin 資產](user-guide/liquid-democracy/hardware-wallet.md)
   * [因委託而產生的 LikeCoin 回報，錢從何來？](user-guide/liquid-democracy/where-comes-the-likecoin-rewards.md)
   * [社群治理會議](user-guide/liquid-democracy/community-call.md)
   * [歷史議案](user-guide/liquid-democracy/proposals.md)

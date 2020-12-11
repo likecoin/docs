@@ -4,27 +4,25 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 # 以硬件錢包保障你的 LikeCoin 資產
 
-Before using your hardware wallet, please configure it and install the Cosmos app. Take Ledger as an example, you may install Cosmos app via [Ledger Live](https://support.ledger.com/hc/en-us/articles/360013713840-Cosmos-ATOM-).
+在使用你的硬件錢包前，請設定並安裝 Cosmos app。以 Ledger 為例，你可以到 [Ledger Live](https://support.ledger.com/hc/en-us/articles/360013713840-Cosmos-ATOM-) 安裝它。
 
-在使用你的
+## 讀取你的硬件錢包
 
-## Access your hardware wallet
-
-### Step 1: Connect the Ledger device to your computer by a USB cable
+### 步驟一：以 USB  傳輸線接通你的電腦及Ledger
 
 ![](../../.gitbook/assets/hardwarewallet-1.png)
 
-### Step 2: Open the Cosmos app on the Ledger
+### 步驟二：在 Ledger 打開 Cosmos app
 
-Choose the Cosmos app by pressing both of the buttons on the Ledger device and get the app “Cosmos ready”.
+選取 Cosmos app 再按下 Ledger 兩邊的按鈕，使 Ledger 出現 "Cosmos ready"
 
 ![](../../.gitbook/assets/hardwarewallet-2.png)
 
-### Step 3: Go to Big Dipper
+### 步驟三：到 Big Dipper 網站登入
 
-Click the key icon on the upper right hand corner on [Big Dipper](https://likecoin.bigdipper.live/) and login. You may have to wait for a while for BigDipper to detect the hardware wallet.
+在 [Big Dipper](https://likecoin.bigdipper.live/) 網站的右上角點擊鑰匙符號並登入，需要一些時間讓 Big Dipper 掃描並連接 Ledger 硬件。
 
-![](../../.gitbook/assets/hardwarewallet-3-en.png)
+![](../../.gitbook/assets/hardwarewallet-3.png)
 
 ### Step 4: Check wallet details
 
