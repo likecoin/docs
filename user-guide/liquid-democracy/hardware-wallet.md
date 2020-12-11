@@ -42,11 +42,11 @@ Step 1: Click on the green “WITHDRAW” button on Big Dipper.
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-1.png)
 
-Step 2: A window pops up and asks you to confirm the withdrawal action, click “NEXT” to proceed.
+Step 2: A window pops up and asks you to proceed with the withdrawal action, click “NEXT”.
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-2.png)
 
-Step 3: You will be asked to "SIGN" and confirm the transaction, click on it.
+Step 3:  Transaction details displayed, You will be asked to "SIGN" and confirm the withdrawal.
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-3.png)
 
