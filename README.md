@@ -34,7 +34,8 @@ description: LikeCoin 幫見問題
 * [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不用 AI 策展就好？](https://docs.like.co/v/zh/user-guide/reader/superlike)
 * [如何在自架 WordPress 加入 LikeCoin button？](https://docs.like.co/v/zh/user-guide/creator/wordpress)
 * [我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](https://docs.like.co/v/zh/user-guide/creator/blogging-platforms)
-* wip
+* [如何查看每週、每天、每篇文章所獲得的讚賞收益？](https://docs.like.co/v/zh/user-guide/creator/rewards)
+* [如何查看每月創作進度？  ](https://docs.like.co/v/zh/user-guide/creator/monthly-report)
 
 ## [Civic Liker](https://docs.like.co/v/zh/user-guide/civic-liker)
 
