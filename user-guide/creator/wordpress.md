@@ -48,7 +48,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 可以的，這是預設的設定。  
   
-步驟一：在 LikeCoin 外掛中的「外掛設定」分頁，有一個「強制所有 LikeCoin button 使用網站 Liker ID」的選項。請確保這選項 **\*沒有\*** 被勾選
+步驟一：在 LikeCoin 外掛中的「外掛設定」分頁，有一個「啟用網站 Liker ID－強制所有 LikeCoin button 使用網站 Liker ID」的選項。請確保這選項 **\*沒有\*** 被勾選
 
 ![](../../.gitbook/assets/wordpress-6.png)
 
