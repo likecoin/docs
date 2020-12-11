@@ -62,35 +62,39 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 步驟一：在 [Big Dipper 驗證人](https://likecoin.bigdipper.live/validators)中選取你屬意委托的驗證人。
 
-![](../../.gitbook/assets/hardwarewallet-delegate-1-en.png)
+![](../../.gitbook/assets/hardwarewallet-delegate-1.png)
 
-Step 2: Click the green "DELEGATE" button on the "Voting Power" column of that validator.
+步驟二：於該投票人的「投票權」一欄點擊綠色的「DELEGATE」按鈕。
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-2.png)
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-3.png)
 
-Step 3: A window pops up and asks you to fill in the amount of LikeCoin that you are going to delegate to the validator, add and any notes that you would like to remarks for the transaction, then click "NEXT".
+步驟三：視窗彈出要求你填寫委托 LikeCoin 的數量，你亦可以加上附註，再點擊「NEXT」。
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-4.png)
 
-Step 4: A confirmation screen displays, if everything is correct, click "SIGN".
+步驟四：確認頁面顯示你將要進行的動作，假如內容正確，點擊「SIGN」。
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-5.png)
 
-Step 5: The Ledger device will ask you to confirm the transaction, approve it and verify transaction details on Big Dipper.
+步驟五：Ledger 將詢問你是否確認操作，按鍵同意並於 Big Dipper 查閱錢包明細。
 
-## Redelegate LikeCoin
+## 轉移委托 LikeCoin
 
-Step 1: Click on the validator that you've delegated LikeCoin to.
+步驟一：選取已委托 LikeCoin 的驗證人。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-1.png)
 
-Step 2: Click the red "REDELEGATE" button on the "Voting Power" column.
+步驟二：於該投票人的「投票權」一欄點擊紅色的「REDELEGATE」按鈕。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-2.png)
 
 Step 3: A window pops up and asks you to input the amount of LikeCoin that you are going to redelegate. Click "SELECT A VALIDATOR" to select the validator that you would like to redelegate to. 
+
+步驟三：視窗彈出要求你填寫希望轉移委托 LikeCoin 的數量，你亦可以加上附註，再點擊「NEXT」。
+
+![](../../.gitbook/assets/hardwarewallet-delegate-4.png)
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-3.png)
 
