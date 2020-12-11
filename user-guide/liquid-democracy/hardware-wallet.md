@@ -18,7 +18,7 @@ Choose the Cosmos app by pressing both of the buttons on the Ledger device and g
 
 ![](../../.gitbook/assets/hardwarewallet-2.png)
 
-### Step 3: Go to Big Dipper
+### Step 3: Go to Big Dipper and login
 
 Click the key icon on the upper right hand corner on [Big Dipper](https://likecoin.bigdipper.live/) and login. You may have to wait for a while for BigDipper to detect the hardware wallet.
 
