@@ -50,7 +50,7 @@ Step 3:  A confirmation screen displays, you are asked to "SIGN" and confirm the
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-3.png)
 
-Step 4: The Ledger's screen will then be changed and display the details of the transaction, go through them by pressing the button. The last screen shows two options: "Approve" or "Reject". Press both buttons on the Ledger device to approve the transaction.
+Step 4: The Ledger's screen will then be changed and displays the details of the transaction, go through them by pressing the button. The last screen shows two options: "Approve" or "Reject". Press both buttons on the Ledger device to approve the transaction.
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-4.png)
 
@@ -60,11 +60,11 @@ Step 5: "Transaction is broadcasted." appears on Big Dipper, you can check your 
 
 ## Delegate LikeCoin
 
-Step 1: Click on your desired validator among the [Big Dipper Validator section](https://likecoin.bigdipper.live/validators).
+Step 1: Click on your desired validator among the [Big Dipper Validators](https://likecoin.bigdipper.live/validators).
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-1-en.png)
 
-Step 2: Click the green "DELEGATE" button on the "Voting Power" column of that validator.
+Step 2: Click on the green "DELEGATE" button on the "Voting Power" column of that validator.
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-2.png)
 
@@ -105,4 +105,6 @@ Step 5: A confirmation screen displays, if everything is correct, click "SIGN".
 ![](../../.gitbook/assets/hardwarewallet-redelegate-6.png)
 
 Step 6: The Ledger device will ask you to confirm the transaction, approve it and verify transaction details on Big Dipper.
+
+{% embed url="https://www.youtube.com/watch?v=RTmPdRmj0hc" caption="How to manage your LikeCoin by Ledger Nano S" %}
 
