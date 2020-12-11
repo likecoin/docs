@@ -6,7 +6,7 @@ description: How to embed LikeCoin button into Write.as
 
 Thanks to the user [夏](https://natsushyo.me/sha-gua-ru-he-jia-ru-likebuttondao-write-aswang-zhi-zhong) for the tutorial.
 
-Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
+Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
 
 First of all you have to register [Write.as Pro](https://write.as/pro) to use Javascript.
 

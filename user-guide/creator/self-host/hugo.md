@@ -6,7 +6,7 @@ description: How to embed LikeCoin button into Hugo
 
 Thanks to the user [Wancat](https://www.wancat.cc/post/hugo-install-likecoin/) for the tutorial.
 
-Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
+Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
 
 Choose a theme for your website first, the following is an example of [CleanWhite](https://themes.gohugo.io/hugo-theme-cleanwhite). 
 

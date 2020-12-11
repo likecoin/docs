@@ -6,7 +6,7 @@ description: How to embed LikeCoin button into Hexo
 
 Thanks to the user [只是個打字的](https://docs.like.co/v/zh/user-guide/likecoin-button/hexo-next) for the tutorial.
 
-Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
+Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
 
 ### Function: Add LikeCoin button automatically according to the post URL
 

@@ -8,7 +8,7 @@ description: >-
 
 Thanks [浩剛](https://danieltw.net/archives/2444) for creating the code to embed LikeCoin button into every blog post by adding Javascript to the sidebar tool or change the blog theme.
 
-Before adding the LikeCoin button, please register a Liker ID.
+Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
 
 ### **LikeCoin button on sidebar**
 
