@@ -46,15 +46,17 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-2.png)
 
-步驟三：顯示點擊「SIGN」確認你肯定要這樣做。
+步驟三：確認頁面顯示你將要進行的動作，點擊「SIGN」確認你需要領取收益。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-3.png)
 
-Step 4: The Ledger's screen will then be changed and display the details of the transaction, go through them by pressing the button. The last screen shows two options: "Approve" or "Reject". Press both buttons on the Ledger device to approve the transaction.
+步驟四：你的 Ledger 顯示內容將變換並展示你的要進行的操作內容，讓你按鍵一一查閱。最後畫面顯示兩個選擇：「Approve」或「Reject」，按下 Ledger 兩邊的按鈕同意操作。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-4.png)
 
-Step 5: "Transaction is broadcasted." appears on BigDipper, you can check your wallet details and verify your transaction result.
+Step 5: "Transaction is broadcasted." appears on Big Dipper, you can check your wallet details and verify your transaction result.
+
+步驟五：Big Dipper "Transaction is broadcasted."
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-5.png)
 
