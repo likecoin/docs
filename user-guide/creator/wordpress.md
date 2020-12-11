@@ -32,7 +32,7 @@ Follow the steps:
 
 Before configuring the LikeCoin plugin, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
 
-On the menu, select "LikeCoin",  then fill in your Liker ID in the Liker ID field.
+On the menu, select "Your LikeCoin button",  then fill in your Liker ID in the Liker ID field.
 
 ![](../../.gitbook/assets/wordpress-4-en.png)
 
@@ -48,7 +48,7 @@ There are many creators in one website, each of them got their own Liker ID, can
 
 Sure, the LikeCoin plugin supports multiple Liker ID by default.
 
-1. In the LikeCoin plugin setting, there is an option  "Enable site Liker ID - Override all LikeCoin button with site Likder ID".  Please make sure that the option is "**NOT**" being selected.
+1. In the LikeCoin "Plugin Setting", there is an option "Enable site Liker ID - Override all LikeCoin button with site Likder ID". Please make sure that the option is "**NOT**" being selected.
 
 ![](../../.gitbook/assets/wordpress-6-en.png)
 
