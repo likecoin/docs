@@ -20,7 +20,7 @@ Choose the Cosmos app by pressing both of the buttons on the Ledger device and g
 
 ### Step 3: Go to Big Dipper and login
 
-Click the key icon on the upper right hand corner on [Big Dipper](https://likecoin.bigdipper.live/) and login. You may have to wait for a while for BigDipper to detect the hardware wallet.
+Click the key icon on the upper right hand corner on [Big Dipper](https://likecoin.bigdipper.live/) and login. You may have to wait for a while for Big Dipper to detect the hardware wallet.
 
 ![](../../.gitbook/assets/hardwarewallet-3-en.png)
 
@@ -54,7 +54,7 @@ Step 4: The Ledger's screen will then be changed and display the details of the 
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-4.png)
 
-Step 5: "Transaction is broadcasted." appears on BigDipper, you can check your wallet details and verify your transaction result.
+Step 5: "Transaction is broadcasted." appears on Big Dipper, you can check your wallet details and verify your transaction result.
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-5.png)
 
