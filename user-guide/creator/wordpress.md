@@ -6,7 +6,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 ## 安裝 LikeCoin 外掛
 
-安裝 [LikeCoin WordPress Plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 亦即是外掛前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
+安裝 [LikeCoin WordPress Plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 亦即是外掛前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
 
 然後請執行以下步驟：
 
@@ -16,19 +16,17 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 ![](../../.gitbook/assets/wordpress-1.png)
 
-步驟三：搜尋關鍵字 "LikeCoin" ，找到 LikeCoin 的外掛，點擊「安裝」並等待完成
+步驟三：搜尋關鍵字 "LikeCoin" ，找到 LikeCoin 的外掛，點擊「立即安裝」並等待完成，再點擊「啟用」。
 
-![](../../.gitbook/assets/wordpress-2%20%281%29.png)
+![](../../.gitbook/assets/wordpress-2.png)
 
 步驟四：安裝完成後，你會發現在左方的菜單中多了一個 "LikeCoin" 的選項。恭喜你，你已經完成安裝了！
 
-![](../../.gitbook/assets/image%20%28104%29.png)
+![](../../.gitbook/assets/wordpress-3.png)
 
 ## 設定 LikeCoin 外掛 <a id="448e"></a>
 
-設定讚賞鍵外掛前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
-
-（2019 年 12 月 2 日起，LikeCoin 用戶將無須再連接 MetaMask 電子錢包。）
+設定讚賞鍵外掛前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
 
 在管理介面左方菜單，點選 "LikeCoin" 外掛設定，再選 "Your Like Rewards"。在右方畫面中，輸入你的 Liker ID
 
