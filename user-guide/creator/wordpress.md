@@ -20,20 +20,25 @@ Follow the steps:
 
 ![](../../.gitbook/assets/wordpress-1-en.png)
 
-3. Search for "LikeCoin" and find the LikeCoin plugin, click "install" and wait for the system to finish the job.
+3. Search for "LikeCoin" and find the LikeCoin plugin, click "Instal Nowl" and wait for the system to finish the job, then click "Activate".
 
-4. After installation, there will be an "LikeCoin" option in the menu. Congratulations,  installation is done!  
+![](../../.gitbook/assets/wordpress-2-en.png)
 
+4. After installation, there will be an "LikeCoin" option in the menu. Congratulations,  installation is done!
+
+![](../../.gitbook/assets/wordpress-3-en.png)
 
 ## Configuring LikeCoin plugin
 
-Before configuring the LikeCoin plugin, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).
-
- \( After 2019/12/2, Metamask is not required when using LikeCoin plugin. \) 
+Before configuring the LikeCoin plugin, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
 
 On the menu, select "LikeCoin",  then fill in your Liker ID in the Liker ID field.
 
+![](../../.gitbook/assets/wordpress-4-en.png)
+
 Then click "Confirm",  your LikeCoin button setup is finished.
+
+![](../../.gitbook/assets/wordpress-5-en.png)
 
 After completing the above procedures, your LikeCoin button will appear underneath each article of your WordPress site. You can also use shortcode \[likecoin\] to display extra LikeCoin buttons.
 
@@ -43,7 +48,11 @@ There are many creators in one website, each of them got their own Liker ID, can
 
 Sure, the LikeCoin plugin supports multiple Liker ID by default.
 
-1. In the LikeCoin plugin setting, there is an option  "Enable site Liker ID".  Please make sure that the option is "**NOT**" being selected.
+1. In the LikeCoin plugin setting, there is an option  "Enable site Liker ID - Override all LikeCoin button with site Likder ID".  Please make sure that the option is "**NOT**" being selected.
+
+![](../../.gitbook/assets/wordpress-6-en.png)
 
 2. You can add new WordPress users as usual, and this part is not related to the LikeCoin plugin. After adding new users, they can use their own WordPress account to login and set up their own Liker ID and LikeCoin button.
+
+![](../../.gitbook/assets/wordpress-7-en.png)
 
