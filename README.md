@@ -62,5 +62,5 @@ description: Frequently Asked Questions
 * ​[Does the "Republic" of Liker Land have democracy?](https://docs.like.co/user-guide/liquid-democracy)
 * ​​[How many proposals proceeded by the Republic of Liker Land?](https://docs.like.co/user-guide/liquid-democracy/proposals)
 * ​[I have some comments about LikeCoin, can I express them directly?](https://docs.like.co/user-guide/liquid-democracy/community-call)
-* [What are the channels to reach out the DAO?  ](https://docs.like.co/v/zh/user-guide/about#contact-us)
+* [What are the channels to reach out the DAO?  ](https://docs.like.co/user-guide/about#contact-us)
 
