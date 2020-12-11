@@ -6,7 +6,7 @@ description: 如何在 Hugo 開發環境的文章中加入 LikeCoin button
 
 感謝用戶  [Wancat](https://www.wancat.cc/) 的教學範本。
 
-安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
+安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
 
 先為你的網站選擇一個主題，以下採用 [CleanWhite](https://themes.gohugo.io/hugo-theme-cleanwhite) 這套主題作例子。
 

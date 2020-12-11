@@ -6,7 +6,7 @@ description: 如何在 Matters 寫作賺取 LikeCoin 成就？
 
 ## 在 Matters 加入讚賞鍵
 
-Matters 預設已經整合讚賞鍵。只需綁定 Liker ID 及 Matters ID，你的作品便立即可以化讚為賞了，建議你先 [註冊 Matters ID](https://matters.news/) 及 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
+Matters 預設已經整合讚賞鍵。只需綁定 Liker ID 及 Matters ID，你的作品便立即可以化讚為賞了，建議你先 [註冊 Matters ID](https://matters.news/) 及 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
 
 步驟一： [訪問 Matters 網站](https://matters.news/)
 

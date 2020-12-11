@@ -6,7 +6,7 @@ description: 如何在 Write.as 文章中加入 LikeCoin button
 
 感謝用戶 [夏](https://natsushyo.me/) 的教學範本。
 
-安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
+安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
 
 首先你需要加入 [Write.as Pro](https://write.as/pro) 服務方可使用 Javascript。
 

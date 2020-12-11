@@ -6,7 +6,7 @@ description: 如何在 mdBook 開發環境的文章中加入 LikeCoin button
 
 感謝用戶 [道場除草機](https://dltdojo.github.io/taichu-crypto/dao/likecoin.html) 的教學範本。
 
-安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/how-to-register-a-liker-id)。
+安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
 
 放入 mdBook 產出的 HTML 靜態文件的重點是需要使用 Javascript 來動態產生下面 HTML 片段於瀏覽器之中。
 
