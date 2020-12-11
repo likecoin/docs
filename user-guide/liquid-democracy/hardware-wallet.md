@@ -96,13 +96,13 @@ Step 3: A window pops up and asks you to input the amount of LikeCoin that you a
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-4.png)
 
-Step3: Fill in the amount of LikeCoin to redelegate and add any notes that you would like to remarks for the transaction, then click "NEXT".
+Step 4: Fill in the amount of LikeCoin to redelegate and add any notes that you would like to remarks for the transaction, then click "NEXT".
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-5.png)
 
-Step 4: A confirmation screen displays, if everything is correct, click "SIGN".
+Step 5: A confirmation screen displays, if everything is correct, click "SIGN".
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-6.png)
 
-Step 5: The Ledger device will ask you to confirm the transaction, approve it and verify transaction details on Big Dipper.
+Step 6: The Ledger device will ask you to confirm the transaction, approve it and verify transaction details on Big Dipper.
 
