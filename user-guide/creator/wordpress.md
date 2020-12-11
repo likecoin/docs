@@ -61,7 +61,7 @@ Sure, the LikeCoin plugin supports multiple Liker ID by default.
 From now on you can sync your WordPress article to Matters. Simply login your Matters email and password then write an article, the content will be on Matters as well. There are 3 options:
 
 * Auto save draft to Matters - Posts drafted will be sync to your Matters's draft box
-* Auto publish post to Matters - A copy of the post will be automatically published to Matter when you publish a post in your WordPress site.
+* Auto publish post to Matters - A copy of the post will be automatically published to Matter when you publish a post on your WordPress site.
 * Add post link in footer - Link of the original WordPress post will be added to the post in Matters.
 
 ![](../../.gitbook/assets/wordpress-8-en.png)
