@@ -42,7 +42,7 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-1.png)
 
-步驟二：視窗彈出並要求確認你希望領取收益,，點擊「NEXT」。
+步驟二：視窗彈出詢問你是否希望領取收益,，點擊「NEXT」。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-2.png)
 
