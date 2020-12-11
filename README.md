@@ -34,26 +34,32 @@ description: Frequently Asked Questions
 * [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](https://docs.like.co/user-guide/reader/superlike)
 * [How to embed LikeCoin button into a self-hosted WordPress?](https://docs.like.co/user-guide/creator/wordpress)
 * [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](https://docs.like.co/user-guide/creator/blogging-platforms)
-* wip
+* [How to check my daily and weekly rewards?](https://docs.like.co/user-guide/creator/rewards)
+* [How to check my monthly achievement?](https://docs.like.co/user-guide/creator/monthly-report)
 
 ## ​[Civic Liker](https://docs.like.co/user-guide/civic-liker)​ <a id="civic-liker"></a>
 
-* wip
-* wip
+* [Why should I become a Civic Liker? Any benefits?](https://docs.like.co/user-guide/civic-liker)
+* [How to pay Civic Liker yearly scubscription by PayMe or FPS?](https://docs.like.co/user-guide/civic-liker/civic-liker-paid-by-payme)
+* [How to pay Civic Liker yearly subscription by LikeCoin?](https://docs.like.co/user-guide/civic-liker/civic-liker-paid-by-likecoin)
+* [How to change credit card information?](https://docs.like.co/user-guide/civic-liker/change-credit-card)
+* [How to unsubscribe Civic Liker?](https://docs.like.co/user-guide/civic-liker/unsubscribe-civic-liker)
 
 ## ​[Liker ID](https://docs.like.co/user-guide/liker-id)​ <a id="liker-id"></a>
 
-* wip
+* [How to register a Liker ID?](https://docs.like.co/user-guide/liker-id/register)
+* [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](https://docs.like.co/user-guide/liker-id/reset-password)
+* [What is Authcore?](https://docs.like.co/user-guide/liker-id/what-is-authcore)
 
 ## ​[LikeCoin Token](https://docs.like.co/user-guide/likecoin-token) <a id="likecoin-jiao-yi"></a>
 
-* wip
+* [How to transfer LikeCoin using Liker Land mobile app?](https://docs.like.co/user-guide/likecoin-token/like-pay)
+* [Can I buy products or services with LikeCoin?](https://docs.like.co/user-guide/likecoin-token/products-and-services)
+* [How to trade LikeCoin into other cryptocurrency or fiat money?](https://docs.like.co/user-guide/likecoin-token/how-to-buy-and-sell-likecoin)
 
 ## [Liquid Democracy](https://docs.like.co/user-guide/liquid-democracy)
 
-* wip
 * ​[Does the "Republic" of Liker Land have democracy?](https://docs.like.co/user-guide/liquid-democracy)
 * ​​[How many proposals proceeded by the Republic of Liker Land?](https://docs.like.co/user-guide/liquid-democracy/proposals)
 * ​[I have some comments about LikeCoin, can I express them directly?](https://docs.like.co/user-guide/liquid-democracy/community-call)
-* LikeCoin seems interesting? How can I contribute to the community?
 
