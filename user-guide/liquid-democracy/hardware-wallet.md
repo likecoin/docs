@@ -46,7 +46,7 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-2.png)
 
-步驟三：點擊「SIGN」確認你肯定要這樣做。
+步驟三：顯示點擊「SIGN」確認你肯定要這樣做。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-3.png)
 
