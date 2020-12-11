@@ -58,9 +58,7 @@ description: LikeCoin 幫見問題
 
 ## 流動民主
 
-* wip
 * [所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/user-guide/liquid-democracy)
 * [讚賞公民共和國有過甚麼議案？](https://docs.like.co/v/zh/about/governance/proposals)
 * [我對 LikeCoin 的發展有意見，可以怎樣表達？](https://docs.like.co/v/zh/about/governance/community-call)
-* LikeCoin 好像挺有意思的，我可以怎樣參與？
 
