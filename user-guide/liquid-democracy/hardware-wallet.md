@@ -14,7 +14,7 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ### 步驟二：在 Ledger 打開 Cosmos app
 
-選取 Cosmos app 再按下 Ledger 兩邊的按鈕，使 Ledger 出現 "Cosmos ready"
+選取 Cosmos app 再按下 Ledger 兩邊的按鈕，使 Ledger 出現 "Cosmos ready"。
 
 ![](../../.gitbook/assets/hardwarewallet-2.png)
 
@@ -26,27 +26,27 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ### 步驟四：查看錢包明細
 
-成功登入後鑰匙符號轉變為頭像符號，點擊它即可登看錢包內帳戶明細。
+成功登入後鑰匙符號轉變為頭像符號，點擊它即可查看錢包內帳戶明細。
 
 ![](../../.gitbook/assets/hardwarewallet-4.png)
 
 ![](../../.gitbook/assets/hardwarewallet-5.png)
 
-你可以登看你的 LikeCoin 數量、委托狀態、收益及其他內容。
+你可以查看你的 LikeCoin 數量、委托狀態、收益及其他內容。
 
 ![](../../.gitbook/assets/hardwarewallet-6.png)
 
 ## 領取收益
 
-Step 1: Click on the green “WITHDRAW” button on Big Dipper.
+步驟一：在 Big Dipper 點擊綠色「WITHDRAW」按鈕。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-1.png)
 
-Step 2: A window pops up and asks you to confirm the withdrawal action, click “NEXT” to proceed.
+步驟二：視窗彈出並要求確認你希望領取收益,，點擊「NEXT」。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-2.png)
 
-Step 3: You will be asked to "SIGN" and confirm the transaction, click on it.
+步驟三：點擊「SIGN」確認你肯定要這樣做。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-3.png)
 
