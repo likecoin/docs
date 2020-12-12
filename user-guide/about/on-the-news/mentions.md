@@ -2,6 +2,12 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 12/11 晴報 黃雅麗專欄
+
+[當你失去銀行戶口時](https://skypost.ulifestyle.com.hk/column/article/2825631/%E7%95%B6%E4%BD%A0%E5%A4%B1%E5%8E%BB%E9%8A%80%E8%A1%8C%E6%88%B6%E5%8F%A3%E6%99%82)
+
+[當你失去銀行戶口](https://leonawong.hk/2020/12/11/%e7%95%b6%e4%bd%a0%e5%a4%b1%e5%8e%bb%e9%8a%80%e8%a1%8c%e6%88%b6%e5%8f%a3/)
+
 ### 12/06 明報
 
 [無定向學堂：facebook大選審查觸發「轉會」潮 社交新大陸 移民要留神](https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20201206/s00005/1607192537699/%E7%84%A1%E5%AE%9A%E5%90%91%E5%AD%B8%E5%A0%82-facebook%E5%A4%A7%E9%81%B8%E5%AF%A9%E6%9F%A5%E8%A7%B8%E7%99%BC%E3%80%8C%E8%BD%89%E6%9C%83%E3%80%8D%E6%BD%AE-%E7%A4%BE%E4%BA%A4%E6%96%B0%E5%A4%A7%E9%99%B8-%E7%A7%BB%E6%B0%91%E8%A6%81%E7%95%99%E7%A5%9E)
