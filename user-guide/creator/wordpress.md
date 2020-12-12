@@ -74,5 +74,5 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 ![](../../.gitbook/assets/wordpress-8.png)
 
-
+在 Matters 上發布的作品皆會上載到星際文件系統（InterPlanetary File System，IPFS）的節點上。
 
