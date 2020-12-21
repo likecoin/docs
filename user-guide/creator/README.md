@@ -15,7 +15,7 @@ description: 我是作者，LikeCoin 可以幫到我甚麼？
 ## 去中心讚賞 <a id="decentralized-rewards"></a>
 
 * **化讚為賞**：只需在內容加入 [LikeCoin button](https://docs.like.co/v/zh/user-guide/content-creators/likecoin-button) 讚賞鍵，每個讀者的按讚，都會化為實質回報
-* 作者回饋有兩個來源，一為讚賞公民每月贊助的 5 美元，二為基金會放大每份讚賞公民月費的配對基金
+* 作者回饋有兩個來源，一為讚賞公民每月贊助的 5 美元，二為基金會放大每份讚賞公民月費的創作基金
 
 ## 去中心策展 <a id="decentralized-curation"></a>
 
