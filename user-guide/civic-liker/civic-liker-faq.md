@@ -4,7 +4,7 @@ On December 21, 2020 Civic Liker evolved to Civic Liker 2.0. Have questions abou
 
 #### 1. I am a Civic Liker already, what is the Civic Liker 2.0 impact on me?
 
-If the Civic Liker does not unsubscribe from the old scheme, the mechanism will remain the same.
+If the Civic Liker does not unsubscribe from the old scheme, the mechanism of disturbing monthly fee by claps will remain the same.
 
 #### 2. Can I still join the Civic Liker old scheme now?
 
