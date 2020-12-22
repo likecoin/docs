@@ -21,7 +21,7 @@ description: 跟隨幾個簡單步驟即可
 
 讚賞公民 2.0 用戶選擇需要退訂的作者並點擊「編輯」
 
-![](../../.gitbook/assets/register-civic-liker-8.png)
+![](../../.gitbook/assets/unsubscribe-civic-liker-twopointzero-2.png)
 
 再點擊「取消訂閱」連結即可完成取消訂閱。
 
