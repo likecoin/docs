@@ -36,7 +36,7 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 
 ## **How to participate?** <a id="zen-yang-can-yu"></a>
 
-Only [Civic Liker](https://docs.like.co/user-guide/civic-liker) can enjoy Super Like twice a day.  \[[Join **Civic Liker**](https://liker.land/civic)\]
+Only [Civic Liker](https://docs.like.co/user-guide/civic-liker) can enjoy Super Like twice a day.  \[[Join **Civic Liker**](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker)\]
 
 ## Super Likes History
 
