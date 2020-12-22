@@ -69,6 +69,7 @@
     * [Cannot get reward?](user-guide/creator/rewards/cannot-get-reward.md)
   * [Monthly Achievement](user-guide/creator/monthly-report.md)
 * [Civic Liker](user-guide/civic-liker/README.md)
+  * [How to be a Civic Liker](user-guide/civic-liker/be-a-civic-liker.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
   * [How to pay Civic Liker yearly scubscription by PayMe or FPS](user-guide/civic-liker/civic-liker-paid-by-payme.md)
   * [How to pay Civic Liker yearly subscription by LikeCoin](user-guide/civic-liker/civic-liker-paid-by-likecoin.md)
