@@ -22,10 +22,6 @@ e.g. There are 1,000 Civic Likers in May, they all subscribed with USD5 and the 
 
 ## Refer friends and family
 
-Receive USD5 equivalent LikeCoin bonus upon each successful Civic Liker referral. Refer 10 fans for USD50 bonus, refer 100 fans for USD500 bonus. The bonus will be credited to your LikeCoin wallet in a few minutes.  More referrals, more bonus, no ceiling.
-
-**Referral Link**: https://liker.land/civic?from=​\[Your Liker ID\]​
-
 [Refer your friend to download Liker Land mobile app](https://docs.like.co/user-guide/liker-land/referral), both of you can earn 100 LikeCoin bonus
 
 **Referral Link**: https://likerland.app.link/?event=app\_referral&referrer=\[Your Liker ID\]
