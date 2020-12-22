@@ -14,9 +14,13 @@ Step 2: In the Setting page, select "Civic Liker". It shows "Subscribing", click
 
 ![](../../.gitbook/assets/subscribe-civic-liker-2-en.png)
 
-Step 3:  There is a link for "Change",  click on it.
+Step 3:  For Civic Liker old scheme, there is a link for "Change",  click on it.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MMT16wjjb4_9DY1thwL%2F-MMT1Yht-ai1LNMDz_cU%2Fimage.png?alt=media&token=63f4a9d0-4393-4bb3-bae4-a862204f9c58)
+
+For Civic Liker 2.0, click on "Manage Payment Method".
+
+![](../../.gitbook/assets/register-civic-liker-8-en.png)
 
 Step 4: Going into the Billing interface and change your credit card information.
 
