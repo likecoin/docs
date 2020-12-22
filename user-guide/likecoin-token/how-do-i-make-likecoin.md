@@ -8,13 +8,13 @@ description: 除了創作，有更多方法獲取 LikeCoin
 
 只需在作品中加入 LikeCoin button 讚賞鍵，便可把讀者的按讚轉化為 LikeCoin 收入，「化讚為賞」。
 
-[**Matters** ](https://matters.news/)的文章會自動附帶讚賞鍵。媒體博客可把 [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id) ****提供予 [**獨立媒體**](https://www.inmediahk.net/)、[**立場新聞**](https://thestandnews.com/)、[**眾新聞**](https://www.hkcnews.com/) ****等合作媒體；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 外掛](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上讚賞鍵。讚賞鍵也支援 [Medium](http://medium.com/)、[方格子](https://vocus.cc/)、[Blogspot \( Blogger.com \) ](https://www.blogger.com/)及[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)等。
+[**Matters** ](https://matters.news/)的文章會自動附帶讚賞鍵。媒體博客可把 [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id) ****提供予 [**獨立媒體**](https://www.inmediahk.net/)、[**立場新聞**](https://thestandnews.com/)、[**眾新聞**](https://www.hkcnews.com/) ****等合作媒體；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 外掛](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上讚賞鍵。讚賞鍵也支援 [Medium](http://medium.com/)、[方格子](https://vocus.cc/)、[Blogspot \( Blogger.com \) ](https://www.blogger.com/)及[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)等。此外作者亦可於任何渠道分享自己贊助鏈結（格式： https://liker.land/\[你的LikerID\]/civic），輕易地建立以月費支持自己的讚賞公民群體。
 
 創作者每天所得的回饋來自兩部份：
 
-**一、讚賞公民月費**：全數由個人支配，按 Like 數攤分。
+**一、讚賞公民月費**：讀者付出的月費會全數以等值 LikeCoin 的形式過帳給所支持的作者
 
-例：讚賞公民阿唯 5 月共對 500 篇文章按讚 500 次，每篇文章得到 1 美分（等值之 LikeCoin）。
+例：創作者阿唯 5 月獲得 1 位讀者 20 美元和 3 位讚者 5 美元，合共 35 美元（等值之 LikeCoin）。
 
 **二、創作基金**：基金會承擔，數額參考月費總和，按免費 Liker 與 **讚賞公民** 的總 Like 數攤分。
 
