@@ -47,13 +47,23 @@ Fill in your credit card information and then click "subscribe / 訂閱".
 
 ### Step 5: Becoming a Civic Liker
 
-After completing the previous step, a pop-up appears saying that "You have become the Civic Liker of \[Content Creator name\]". You can also go to his/her Portfolio Page and check out that you are "Supporting" him/her.
+After completing the previous step, a pop-up appears saying that "You have become the Civic Liker of \[Content Creator name\]".
+
+![](../../.gitbook/assets/register-civic-liker-6point5-en.png)
+
+You can also go to his/her Portfolio Page and check out that you are "Supporting" him/her.
 
 ![](../../.gitbook/assets/register-civic-liker-7-en.png)
 
 ### Step 6:  Manage Civic Liker Subscription
 
-Login in Liker Land web and select "Civic Liker'' on the menu right hand side, you can manage payment methods, click your billing history and check out who you are supporting. Changes made will be effective on the next billing date, the money paid for previous and current subscription will not be refunded.
+Login in Liker Land web and select "Civic Liker'' on the menu right hand side, you can manage payment methods and check your billing history. You can also check out who you are supporting and change the monthly supporting amount, click "Edit".
 
 ![](../../.gitbook/assets/register-civic-liker-8-en.png)
+
+Select the new amount to support and click confirm.
+
+![](../../.gitbook/assets/register-civic-liker-9-en.png)
+
+Changes made will be effective on the next billing date, please note the money paid for previous and current subscription will not be refunded.
 
