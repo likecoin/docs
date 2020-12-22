@@ -71,6 +71,7 @@
 * [Civic Liker](user-guide/civic-liker/README.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
   * [How to be a Civic Liker](user-guide/civic-liker/be-a-civic-liker.md)
+  * [Civic Liker 2.0 FAQ](user-guide/civic-liker/civic-liker-faq.md)
   * [Change Credit Card Information](user-guide/civic-liker/change-credit-card.md)
   * [Unsubscribe Civic Liker](user-guide/civic-liker/unsubscribe-civic-liker.md)
   * [How to pay Civic Liker yearly scubscription by PayMe or FPS](user-guide/civic-liker/civic-liker-paid-by-payme.md)
