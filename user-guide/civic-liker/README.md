@@ -12,11 +12,11 @@ Civic Liker is a movement to reward open contents, positioned as "a tool to enco
 
 ### **Monthly fee support the designated creator**
 
-The monthly supporting amount for LikeCoin will be credited to the content creator in full amount.\* The income is in proportion to the number of Civic Likers that support him/her and will be received in due course. Moreover, Civic Liker is still able to affect the daily creators fund distribution by their claps to the content so that creator can earn extra income.
+The monthly supporting amount for LikeCoin will be credited to the content creator in full amount.\* The income is in proportion to the number of Civic Likers that support him/her and will be received in due course. Moreover, Civic Liker is still able to affect the daily creators fund distribution by their claps to the content so that creators can earn extra income.
 
 ### **Share sponsor link in any medium**
 
-No matter the content is in what kind of format or if the platform supporting LikeCoin button or not, content creator can easily establish their own Civic Liker monthly payment supporting group. Content creator can share his/her sponsor link \(Format: https://liker.land/\[Your Liker ID\]/civic \) in any channels and medium, even in Facebook, Youtube, Instagram, Line or Telegram. And of course, platforms supporting the LikeCoin button can also earn extra LikeCoin from Creators Fund.
+No matter the content is in what kind of format or if the platform supports LikeCoin button or not, content creators can easily establish their own Civic Liker monthly payment supporting group. Content creator can share his/her sponsor link \(Format: https://liker.land/\[Your Liker ID\]/civic \) in any channels and medium, even in Facebook, Youtube, Instagram, Line or Telegram. And of course, platforms supporting the LikeCoin button can also earn extra LikeCoin from Creators Fund.
 
 Example of sponsor link: [https://liker.land/ckxpress/civic](https://liker.land/ckxpress/civic)
 
@@ -24,7 +24,7 @@ Example of sponsor link: [https://liker.land/ckxpress/civic](https://liker.land/
 
 We believe every penny has to be utilized to encourage openness and diversity, content creators should keep on creating in their familiar platform and publish their works as usual. It is not necessary for them to forfeit the engagement rate and get paid by keeping their work behind paywall. And of course, only open part of their works to the Civic Liker program is another option.
 
-Encourage more Civic Liker to participante is to encourage more open and viewable content.
+Encouraging more Civic Likers to participante is to encourage more open and viewable content.
 
 ### Pay as you go, Fancy or simple
 
