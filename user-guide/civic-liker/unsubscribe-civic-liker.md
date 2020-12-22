@@ -19,7 +19,7 @@ description: 跟隨幾個簡單步驟即可
 
 ![](../../.gitbook/assets/subscribe-civic-liker-3.png)
 
-讚賞公民 2.0 用戶點擊「編輯」
+讚賞公民 2.0 用戶選擇需要退訂的作者並點擊「編輯」
 
 ![](../../.gitbook/assets/register-civic-liker-8.png)
 
