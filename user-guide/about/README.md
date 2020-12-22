@@ -14,7 +14,7 @@ The core component of LikeCoin is [LikeCoin chain](https://likecoin.bigdipper.li
 
 ## Republic of Liker Land
 
-As of August 2020, [Republic of Liker Land](https://like.co/in/getapp) has **1,800+** [**Civic Likers**](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker), which is **2.2%** of all **84,216+ Likers**, who rewarded **37mil+ LikeCoin** to **312,599+ contents** by **11,956+ creators** on **1,300+ media**.
+As of August 2020, [Republic of Liker Land](https://like.co/in/getapp) has **1,800+** [**Civic Likers**](https://docs.like.co/user-guide/civic-liker), which is **2.2%** of all **84,216+ Likers**, who rewarded **37mil+ LikeCoin** to **312,599+ contents** by **11,956+ creators** on **1,300+ media**.
 
 Real-time statistics:[ ![Number of Liker](https://static.like.co/badge/stats/liker.svg)](https://like.co/) [![Number of creator](https://static.like.co/badge/stats/creator.svg)](https://like.co/) [![Number of content](https://static.like.co/badge/stats/content.svg)](https://like.co/) [![Number of LIKE given](https://static.like.co/badge/stats/LIKE.svg)](https://like.co/)
 
