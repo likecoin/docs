@@ -18,9 +18,13 @@ Step 3: For Civc Liker old scheme, there is a "Cancel Civic Liker subscription: 
 
 ![](../../.gitbook/assets/subscribe-civic-liker-3-en.png)
 
-For Civic Liker 2.0
+For Civic Liker 2.0, select the content creator to unscribe and click "Edit".
 
-![](../../.gitbook/assets/register-civic-liker-9-en.png)
+![](../../.gitbook/assets/register-civic-liker-8-en.png)
+
+Then click "Cancel subscription" to proceed.
+
+![](../../.gitbook/assets/subscribe-civic-liker-twopointzero-1-en.png)
 
 If you unsubscribe Civic Liker, the money paid will not be refunded. The subscription ends automatically on the next billing date.
 
