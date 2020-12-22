@@ -44,6 +44,7 @@
     * [未能收到獎勵？](user-guide/creator/rewards/cannot-get-reward.md)
   * [每月創作進度](user-guide/creator/monthly-report.md)
 * [Civic Liker 讚賞公民](user-guide/civic-liker/README.md)
+  * [如何訂閱讚賞公民](user-guide/civic-liker/be-a-civic-liker.md)
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
   * [如何以 PayMe 或轉數快繳付「讚賞公民」年費](user-guide/civic-liker/civic-liker-paid-by-payme.md)
   * [如何以 LikeCoin 繳付「讚賞公民」年費](user-guide/civic-liker/civic-liker-paid-by-likecoin.md)
