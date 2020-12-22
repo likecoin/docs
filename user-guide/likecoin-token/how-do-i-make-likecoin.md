@@ -20,16 +20,6 @@ description: 除了創作，有更多方法獲取 LikeCoin
 
 例：5 月共有 1000 位付費 5 美元，月費總和 5000 美元，基金會額外撥出 5000 美元，這額外部分（將被轉換成 LikeCoin）按所有用戶的總 Like 數攤分。
 
-## 推薦朋友
-
-每成功推薦一位朋友成為讚賞公民，便立即可獲約 5 美元的等值 LikeCoin 奬勵。推薦 10 位，獲 50 美元；推薦 100 位，獲 500 美元。奬金會在數分鐘內轉賬到你的電子錢包。多推薦，多賺，無上限。
-
-**推薦鏈結**： https://liker.land/civic?from=​\[你的 Liker ID\]​
-
-[推薦朋友下載 Liker Land](https://docs.like.co/v/zh/user-guide/liker-land/referral)，你和你推薦的朋友各得 100 LikeCoin 奬賞
-
-**推薦鏈結**： https://likerland.app.link/?event=app\_referral&referrer=\[你的 Liker ID\]
-
 ## 賞金任務
 
 社群持續需要賞金獵人協助完成如翻譯、設計、推廣、社群管理等任務，完成任務後能獲得 LikeCoin 奬勵。
