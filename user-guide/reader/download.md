@@ -22,7 +22,7 @@ Click on the menu at the top right hand corner, there are other options.
 
 ### **Option 1: Civic Liker**
 
-You can pay and become a [Civic Liker](https://liker.land/civic), check out the subscription status or unsubscribe. [Read this](https://docs.like.co/user-guide/civic-liker) to learn more about Civic Liker.
+You can pay and become a [Civic Liker](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker), check out the subscription status or unsubscribe. [Read this](https://docs.like.co/user-guide/civic-liker) to learn more about Civic Liker.
 
 ### **Option 2: I'm a Creator too**
 
