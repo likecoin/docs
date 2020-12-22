@@ -12,9 +12,9 @@ Creators embed LikeCoin button into their works, turn "Like" into actual income 
 
 The source of the creators' daily reward consists of two parts:
 
-**1. The monthly subscription fee**: paid by the Civic Likers who distribute their donation by their claps/"Likes".
+**1. The monthly subscription fee**: paid by Civic Liker, his/her monthly supporting amount will be credited to the content creator in the form of equivalent LikeCoin.
 
-e.g. Veryotaku clapped 500 articles for 500 times, each article received 1 cent \(equivalent in LikeCoin \).
+e.g. Veryotaku receive USD5 from 1 supporter and USD5 from 3 supporters, total USD 35 \(equivalent in LikeCoin \).
 
 **2. Creators matching fund**: managed by the foundation. The daily amount is adjusted according to the total amount donated by Civic Likers. Both of the likes given by Civic Liker and ordinary likers will be considered as votes for fund distribution.
 
