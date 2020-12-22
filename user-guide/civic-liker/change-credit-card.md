@@ -20,7 +20,7 @@ Step 3:  For Civic Liker old scheme, there is a link for "Change",  click on it.
 
 For Civic Liker 2.0, click on "Manage Payment Method".
 
-![](../../.gitbook/assets/register-civic-liker-8-en.png)
+![](../../.gitbook/assets/civic-liker-change-credit-card-info-en.png)
 
 Step 4: Going into the Billing interface and change your credit card information.
 
