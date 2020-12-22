@@ -14,9 +14,13 @@ description: 方法非常簡單
 
 ![](../../.gitbook/assets/subscribe-civic-liker-2.png)
 
-步驟三：進入頁面後你會見到「修改」的鏈結。點擊進入資料修改的頁面。
+步驟三：舊制讚賞公民的用戶進入頁面後你會見到「修改」的鏈結。點擊進入資料修改的頁面。
 
 ![](../../.gitbook/assets/image%20%28105%29.png)
+
+讚賞公民 2.0 用戶點擊「管理付款方法」。
+
+![](../../.gitbook/assets/register-civic-liker-8.png)
 
 步驟四：進入帳單修改頁面後，點擊「添加支付方式」，填入新的信用卡資料，設為默認。
 
