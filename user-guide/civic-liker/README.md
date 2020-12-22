@@ -4,9 +4,9 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 # Civic Liker 讚賞公民
 
-{% embed url="https://www.youtube.com/watch?v=L6yjFruMLnA&t=5s" %}
+![](../../.gitbook/assets/likecoin_ad98_2point0-01.png)
 
-## [成為讚賞公民](https://liker.land/civic)
+## 成為讚賞公民
 
 讚賞公民是一場回饋優秀內容的運動。讀者每月付出一杯咖啡的價錢，就能成為讚賞公民，從此每個點讚，都會化成對創作者的實質支持。
 
