@@ -20,7 +20,7 @@ description: 方法非常簡單
 
 讚賞公民 2.0 用戶點擊「管理付款方法」。
 
-![](../../.gitbook/assets/register-civic-liker-8.png)
+![](../../.gitbook/assets/civic-liker-change-credit-card-info.png)
 
 步驟四：進入帳單修改頁面後，點擊「添加支付方式」，填入新的信用卡資料，設為默認。
 
