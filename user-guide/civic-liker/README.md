@@ -8,7 +8,7 @@ description: Why should I become a Civic Liker? Any benefits?
 
 ## [**Join Civic Liker**](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker)
 
-Civic Liker is a movement to reward open contents, positioned as "a tool to encourage open subscription". Content creator can build his/her own paid supporting community in any platform, create an environment to focus on content creation and survive with sable income. For the cost from a cup of coffee to a bottle of campaign, you become a Civic Liker. Whatever you Like will then be turned into a tangible reward to creators.
+Civic Liker is a movement to reward open contents, positioned as "a tool to encourage open subscription". Content creator can build his/her own paid supporting community in any platform, create an environment to focus on content creation and survive with stable income. For the cost from a cup of coffee to a bottle of campaign, you become a Civic Liker. Whoever you support will then be turned into a tangible reward to creators.
 
 ### **Monthly fee support the designated creator**
 
@@ -16,7 +16,7 @@ The monthly supporting amount for LikeCoin will be credited to the content creat
 
 ### **Share sponsor link in any medium**
 
-No matter the content is in what kind of format or if the platform supports LikeCoin button or not, content creators can easily establish their own Civic Liker monthly payment supporting group. Content creator can share his/her sponsor link \(Format: https://liker.land/\[Your Liker ID\]/civic \) in any channels and medium, even in Facebook, Youtube, Instagram, Line or Telegram. And of course, platforms supporting the LikeCoin button can also earn extra LikeCoin from Creators Fund.
+No matter the content is in what kind of format or if the platform supports LikeCoin button or not, content creators can easily establish their own Civic Liker monthly payment supporting group. Content creator can share his/her sponsor link \(Format: https://liker.land/\[Your Liker ID\]/civic \) in any channels and medium, even in Facebook, Youtube, Instagram, Line or Telegram. And of course, platforms supporting the LikeCoin button can also earn extra LikeCoin reward from Creators Fund.
 
 Example of sponsor link: [https://liker.land/ckxpress/civic](https://liker.land/ckxpress/civic)
 
@@ -28,7 +28,7 @@ Encouraging more Civic Likers to participante is to encourage more open and view
 
 ### Pay as you go, Fancy or simple
 
-The new Civic Liker 2.0 all subscriptions to multiple content creators, USD5 is the minimum monthly support amount, feel free to pay more and support creations.
+The new Civic Liker 2.0 supports subscriptions to multiple content creators, USD5 is the minimum monthly support amount, feel free to pay more and support creations.
 
 ### **Benefiting from Giving**
 
