@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 12/23 寶博朋友說
+
+{% embed url="https://open.spotify.com/episode/3VgEUb0vP97y3bZtjCEAaw?si=tScKAduBTKqem0uDhoeI0g" %}
+
 ### 11/28 科創社工學會 Society for Innovation and Technology in Social Work
 
 [區塊鏈社會學與社會工作分享會](https://www.facebook.com/SITSWHK/posts/381713766500377)
