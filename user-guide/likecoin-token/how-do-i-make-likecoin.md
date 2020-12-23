@@ -16,7 +16,7 @@ The source of the creators' daily reward consists of two parts:
 
 e.g. Veryotaku receive USD5 from 1 supporter and USD5 from 3 supporters, total USD 35 \(equivalent in LikeCoin \).
 
-**2. Creators matching fund**: managed by the foundation. The daily amount is adjusted according to the total amount donated by Civic Likers. Both of the likes given by Civic Liker and ordinary likers will be considered as votes for fund distribution.
+**2. Creators fund**: managed by the foundation. The daily amount is adjusted according to the total amount donated by Civic Likers. Both of the likes given by Civic Liker and ordinary likers will be considered as votes for fund distribution.
 
 e.g. There are 1,000 Civic Likers in May, they all subscribed with USD5 and the sum is USD5000, foundation then pay USD5000 extra \(will be turned into LikeCoin\), this extra part will be distributed in proporation according to the total number of claps/Likes by all Likers.
 
