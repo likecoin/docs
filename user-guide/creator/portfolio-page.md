@@ -14,21 +14,21 @@ Method 2: The Portfolio Page url is https://liker.land/\[Your Liker ID\], if you
 
 The left hand side of the Portfolio Page displays information of the content creator, including name, Liker ID, the date became Civic Liker with the following functions:
 
-* Become a Civic Liker - If Readers click on it and become Civic Liker, Content Creator can receive USD5 equivalent LikeCoin bonus upon each successful Civic Liker referral, to read more please go to [LikeCoin Token・Making LikeCoin](https://docs.like.co/user-guide/likecoin-token/how-do-i-make-likecoin)
-* Follow - Click and follow the Content Creator as a Content Jockey
-* LIKE Pay－Transfer LikeCoin to the Content Creator
+* Become a Civic Liker - If Readers click on it and become Civic Liker, content creator can receive monthly support in LikeCoin. Read more: [Civic Liker](https://docs.like.co/user-guide/civic-liker) 
+* Follow - Click and follow the content creator as a Content Jockey
+* LIKE Pay－Transfer LikeCoin to the content creator
 
 ![](../../.gitbook/assets/portfolio-page-3-en.png)
 
 ## Works
 
-If the Content Creator Super Liked his/her own works, they will be displayed in here.
+If the content creator Super Liked his/her own works, they will be displayed in here.
 
 ![](../../.gitbook/assets/portfolio-page-1-en.png)
 
 ## Super Likes
 
-Super Likes history displayed all the other works and articles Super Liked by the Content Creator.
+Super Likes history displayed all the other works and articles Super Liked by the content creator.
 
 ![](../../.gitbook/assets/portfolio-page-2-en%20%281%29.png)
 
