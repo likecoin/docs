@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 12/28 Taiwan Blockchain Annual VIP Night
+
+{% embed url="https://www.facebook.com/BlockTempo/posts/1027656927644893" %}
+
 ### 12/03 FtO Tainan 面海松･台南 2020 × 午營咖啡 a break cafe × g0v Summit 2020
 
 {% embed url="https://www.youtube.com/watch?v=gf61JJvS1zI" %}
