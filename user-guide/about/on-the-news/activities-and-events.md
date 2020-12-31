@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2020" %}
+### 12/03 FtO Tainan 面海松･台南 2020 × 午營咖啡 a break cafe × g0v Summit 2020
+
+{% embed url="https://www.youtube.com/watch?v=gf61JJvS1zI" %}
+
 ### 11/22 第五届网络社会年会”实践智慧之网”
 
 [Panel4：加密主义](https://www.caa-ins.org/archives/6927)
