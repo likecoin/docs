@@ -12,7 +12,7 @@ Civic Liker is a movement to reward open contents, positioned as "a tool to enco
 
 ### **Monthly fee support the designated creator**
 
-The monthly supporting amount for LikeCoin will be credited to the content creator in full amount.\* The income is in proportion to the number of Civic Likers that support him/her and will be received in due course. Moreover, Civic Liker is still able to affect the daily creators fund distribution by their claps to the content so that creators can earn extra income.
+The monthly supporting amount for LikeCoin will be credited to the content creator in full amount.\* The income is in proportion to the number of Civic Likers that support him/her and will be received in due course. Moreover, Civic Liker is able to largely affect the daily creators fund distribution by their claps to the content so that creators can earn extra income.
 
 ### **Support content creators via any platforms** 
 
