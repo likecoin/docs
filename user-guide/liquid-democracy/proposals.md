@@ -6,6 +6,20 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+## Proposal \#8 Decrease minimum deposit for proposals
+
+* Proposer: [leafwind](https://matters.news/@leafwind/like-coin-chain-proposal-8-reduce-the-barrier-of-proposal-deposit-threshold-bafyreihrcgcmjgxjgsddsrdfdifmuptntsdlil4hvsahffn5lbwh72m7si)
+* Proposal Type: Parameter Change Proposal
+* Date: Submit on 2021.01.11
+* Details: [https://likecoin.bigdipper.live/proposals/8](https://likecoin.bigdipper.live/proposals/8)
+
+## Proposal \#7 Increase the inflation rate from 2% to dynamic inflation rate 7% - 20%
+
+* Proposer: [guanyun](https://matters.news/@guanyun/towards-a-republic-of-liker-land-the-7th-proposal-bafyreidbbvg5yuili2cglawzygkn4mvhg2ghjjdzlytonrnc4tcocyucsq)
+* Proposal Type: Parameter Change Proposal
+* Date: Submit on 2021.01.06
+* Details: [https://likecoin.bigdipper.live/proposals/7](https://likecoin.bigdipper.live/proposals/7)
+
 ## Proposal \#6 Increasing the inflation rate from 2% to 7%
 
 * Proposer: [guanyun](https://matters.news/@guanyun/like-coin-chain-proposal-6-increase-the-inflation-rate-from-2-to-7-bafyreibnqz6rbx2rcmc6o5nujogobaou2rh7sdtogmkkfgbdf2gjzq74lq)
