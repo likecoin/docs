@@ -28,7 +28,7 @@ If the content creator Super Liked his/her own works, they will be displayed in 
 
 ## Super Likes
 
-Super Likes history displayed all the other works and articles Super Liked by the content creator.
+Super Likes history displayed all the other works and articles [Super Liked by the content creator](https://docs.like.co/user-guide/reader/superlike).
 
 ![](../../.gitbook/assets/portfolio-page-2-en%20%281%29.png)
 
