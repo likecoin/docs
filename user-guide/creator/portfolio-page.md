@@ -28,7 +28,7 @@
 
 ## 已 Super Like 的內容
 
-Super Like 履歷功能展示創作者曾經 Super Like 過甚麼好文。
+Super Like 履歷功能展示創作者[曾經 Super Like 過甚麼好文](https://docs.like.co/v/zh/user-guide/creator/portfolio-page)。
 
 ![](../../.gitbook/assets/portfolio-page-2.png)
 
