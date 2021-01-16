@@ -16,6 +16,8 @@ description: 我不懂自架網站，有甚麼第三方寫作平台直接支援 
 
 然後，將該鏈結加到 [Medium](https://medium.com/) 文章（一般放到底部），輸入 "enter" 換行，讚賞鍵會自動出現。
 
+{% embed url="https://www.youtube.com/watch?v=qrxiNAzqOPE" %}
+
 ## Vocus 方格子 <a id="vocus"></a>
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
