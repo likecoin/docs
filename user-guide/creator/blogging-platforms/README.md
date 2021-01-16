@@ -18,6 +18,8 @@ For example, if your Liker ID is ckxpress, your LikeCoin button link is https://
 
 Then add the link into the [Medium](https://medium.com/) article \(usually at the end of it\), press "enter" to facilitate a carriage return, the LikeCoin button appears automatically.
 
+{% embed url="https://www.youtube.com/watch?v=qrxiNAzqOPE" %}
+
 ## Vocus
 
 [Vocus](https://vocus.cc/) only provides Chinese user interface, please refer to the instruction [here.](https://docs.like.co/v/zh/user-guide/creator/blogging-platforms#vocus)
