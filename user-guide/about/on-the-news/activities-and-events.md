@@ -1,6 +1,16 @@
 # Activities and Events
 
 {% tabs %}
+{% tab title="2021" %}
+### 01/17 2020年新媒體節 網絡媒體高峰會及工作坊
+
+[去中心化保存，公民共享記憶](https://www.facebook.com/culturemediahk/videos/223717656089852)
+
+{% embed url="https://www.facebook.com/culturemediahk/videos/223717656089852" %}
+
+🔚 
+{% endtab %}
+
 {% tab title="2020" %}
 ### 12/28 Taiwan Blockchain Annual VIP Night
 
@@ -769,6 +779,8 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 🔚 
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
