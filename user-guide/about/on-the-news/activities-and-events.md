@@ -8,6 +8,10 @@
 
 {% embed url="https://www.facebook.com/culturemediahk/videos/223717656089852" %}
 
+### 01/14 UniDao Cosmos Demo day
+
+{% embed url="https://twitter.com/poonphoebe/status/1349409669723291651" %}
+
 🔚 
 {% endtab %}
 
