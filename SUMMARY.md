@@ -136,6 +136,8 @@
     * [Usage](developer/like-pay/sdk/usage.md)
     * [Reference](developer/like-pay/sdk/reference.md)
 * [ISCN](developer/international-standard-content-number-iscn/README.md)
+  * [Web Widget \(testnet\)](developer/international-standard-content-number-iscn/web-widget-testnet/README.md)
+    * [Reference](developer/international-standard-content-number-iscn/web-widget-testnet/reference.md)
   * [Specification](developer/international-standard-content-number-iscn/specification.md)
 * [ISCN IPFS plugin](developer/iscn-ipfs-plugin.md)
 * [Badge](developer/badge.md)
