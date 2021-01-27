@@ -34,6 +34,8 @@ Production: [`https://like.co/in/widget/pay`](https://like.co/in/widget/pay)\`\`
 | :--- | :--- |
 | tx\_hash | transaction hash of resulting payment, verify status using transaction status query API |
 | state | locale state that was passed as input, used for data/security purpose |
+| error | set if any catchable error occur |
+| success | only if `blocking` is set, return true if transaction success |
 | remarks | remarks passed as input params |
 
 ### Transaction query API
