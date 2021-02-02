@@ -10,14 +10,14 @@ description: 讚賞公民共和國有過甚麼議案？
 
 * **提案**：[leafwind](https://matters.news/@leafwind/like-coin-chain-proposal-8-reduce-the-barrier-of-proposal-deposit-threshold-bafyreihrcgcmjgxjgsddsrdfdifmuptntsdlil4hvsahffn5lbwh72m7si)
 * **類型**：參數修訂議案 \( parameter change proposal \)
-* **日期**：2021.01.11 提案
+* **日期**：2021.01.11 提案，2020.01.25 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/8](https://likecoin.bigdipper.live/proposals/8)
 
 ## 議案 \#7 將現有的通脹率由 2% 改成 7% - 20% 的動態範圍
 
 * **提案**：[guanyun](https://matters.news/@guanyun/towards-a-republic-of-liker-land-the-7th-proposal-bafyreidbbvg5yuili2cglawzygkn4mvhg2ghjjdzlytonrnc4tcocyucsq)
 * **類型**：參數修訂議案 \( parameter change proposal \)
-* **日期**：2021.01.06 提案
+* **日期**：2021.01.06 提案，2020.01.22 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/7](https://likecoin.bigdipper.live/proposals/7)
 
 ## 議案 \#6 驗證交易的增發率由 2% 提升至 7%
