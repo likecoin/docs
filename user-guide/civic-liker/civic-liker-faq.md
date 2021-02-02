@@ -16,5 +16,3 @@
 
 請跟隨[如何訂閱讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker/be-a-civic-liker)步驟贊助一位作者，完成後，再以同樣步驟贊助另一位作者。第二位及隨後作者的贊助份額將於下一個付款日期生效。
 
-
-
