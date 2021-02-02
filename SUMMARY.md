@@ -42,6 +42,7 @@
   * [查看讚賞成就](user-guide/creator/rewards/README.md)
     * [奬勵發放時間](user-guide/creator/rewards/reward-release-time.md)
     * [未能收到獎勵？](user-guide/creator/rewards/cannot-get-reward.md)
+  * [查看讚賞公民支持者清單](user-guide/creator/cha-kan-zan-shang-gong-min-zhi-chi-zhe-qing-chan.md)
   * [每月創作進度](user-guide/creator/monthly-report.md)
 * [Civic Liker 讚賞公民](user-guide/civic-liker/README.md)
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
