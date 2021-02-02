@@ -16,7 +16,7 @@ description: 創作者的成績表
 
 ![](../../.gitbook/assets/yoursupporter-01.png)
 
-步驟三：查閱你的收入概覽及你的讚賞公民支持者清單、贊助份額和贊助生效日期。
+步驟三：你的收入概覽、讚賞公民支持者清單、支持份額和贊助生效日期一覽無遺。
 
 ![](../../.gitbook/assets/yoursupporter.jpg)
 
