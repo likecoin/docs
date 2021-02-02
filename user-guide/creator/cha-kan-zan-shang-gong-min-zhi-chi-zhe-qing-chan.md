@@ -12,5 +12,11 @@ description: 創作者的成績表
 
 ![](../../.gitbook/assets/subscribe-civic-liker-1.png)
 
-步驟二：
+步驟二：進入設定頁後，選第三個選項「你的支持者」。
+
+![](../../.gitbook/assets/yoursupporter-01.png)
+
+步驟三：查閱你的收入概覽及你的讚賞公民支持者清單、贊助份額和贊助生效日期。
+
+![](../../.gitbook/assets/yoursupporter.jpg)
 
