@@ -51,6 +51,8 @@ _\*每月到帳部分（部分支付方式如信用卡會收取手續費）會�
 #### 參考文章
 
 > [讚賞公民 2.0 正式上線](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-2-0-%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%B7%9A-bafyreifmc4wfadtkb7n66qs6weg5sbii73iegktqrlaguc45ji4f6nj2sq)
+>
+> [答客問：有關讚賞公民 1.0 跟 2.0 的常見問題](https://matters.news/@likecoin/%E7%AD%94%E5%AE%A2%E5%95%8F-%E6%9C%89%E9%97%9C%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-1-0-%E8%B7%9F-2-0-%E7%9A%84%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C-bafyreigbu2h6mseqi3lnws25u3uonqxylzvcivw2lees4foecv56kazudm)
 
 > 舊制讚賞公民 － [化讚為賞 \| 讚賞公民懶人包](https://matters.news/@likecoin/%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E6%87%B6%E4%BA%BA%E5%8C%85-zdpuAtWT6a2rjr75JZBzwnvy67vrxw5cBRqwnHbkFehRYHLXx)
 
