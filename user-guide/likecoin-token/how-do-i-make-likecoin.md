@@ -20,12 +20,6 @@ e.g. Veryotaku receive USD5 from 1 supporter and USD5 from 3 supporters, total U
 
 e.g. There are 1,000 Civic Likers in May, they all subscribed with USD5 and the sum is USD5000, foundation then pay USD5000 extra \(will be turned into LikeCoin\), this extra part will be distributed in proporation according to the total number of claps/Likes by all Likers.
 
-## Refer friends and family
-
-[Refer your friend to download Liker Land mobile app](https://docs.like.co/user-guide/liker-land/referral), both of you can earn 100 LikeCoin bonus
-
-**Referral Link**: https://likerland.app.link/?event=app\_referral&referrer=\[Your Liker ID\]
-
 ## Bounty
 
 The community constantly needs help on translation, design, promotion, community management, etc.. Complete the mission and receive LikeCoin.

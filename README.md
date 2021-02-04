@@ -24,7 +24,6 @@ description: Frequently Asked Questions
 * [Browsing and reading is good enough for me, why a Reading List?](https://docs.like.co/user-guide/reader/readling-list)
 * [How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](https://docs.like.co/user-guide/reader/like)
 * [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](https://docs.like.co/user-guide/reader/superlike)
-* [Liker Land seems nice, if I refer my friend to download the app, are there any goodies for me?](https://docs.like.co/user-guide/reader/referral)
 
 ## \*\*\*\*[**​I am a Content Creator**](https://docs.like.co/user-guide/creator) <a id="wo-shi-chuang-zuo-zhe"></a>
 
