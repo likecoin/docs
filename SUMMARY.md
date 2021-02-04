@@ -16,7 +16,6 @@
   * [閱讀列表](user-guide/reader/reading-list.md)
   * [Like — 化讚為賞](user-guide/reader/like.md)
   * [Super Like — 內容伯樂](user-guide/reader/superlike.md)
-  * [推薦下載奬賞](user-guide/reader/referral.md)
 * [我是創作者](user-guide/creator/README.md)
   * [LikeCoin button 讚賞鍵](user-guide/creator/likecoin-button.md)
   * [個人主頁](user-guide/creator/portfolio-page.md)

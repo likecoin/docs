@@ -24,7 +24,6 @@ description: LikeCoin 幫見問題
 * [我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](https://docs.like.co/v/zh/user-guide/reader/reading-list)
 * [「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)
 * [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](https://docs.like.co/v/zh/user-guide/reader/superlike)
-* [Liker Land 好像不錯，推薦朋友也下載，有好處麼？](https://docs.like.co/v/zh/user-guide/reader/referral)
 
 ## \*\*\*\*[**我是創作者**](https://docs.like.co/v/zh/user-guide/content-creators)\*\*\*\*
 
