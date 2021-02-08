@@ -8,11 +8,35 @@ description: 讓自己的性格更特出
 
 ![](../../.gitbook/assets/edit-avator-displayname.png)
 
-修改完成後，你的資訊會在 Liker Land 的各種使用場境中顯示。
+修改完成後，你的資訊會在 Liker Land 的各種使用場境中顯示：
 
-![LikeCoin button &#x8B9A;&#x8CDE;&#x9375;](../../.gitbook/assets/avatar.png)
+### 贊助鏈結
 
-![Liker Land &#x7DB2;&#x9801;&#x7248;&#x6216;&#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;](../../.gitbook/assets/img_2452.jpg)
+{% page-ref page="../creator/sponsor-link.md" %}
 
-![LIKE pay](../../.gitbook/assets/img_2453.jpg)
+![](../../.gitbook/assets/sponsor-link.png)
+
+### 個人主頁
+
+{% page-ref page="../creator/portfolio-page.md" %}
+
+![](../../.gitbook/assets/likerid-avatar.png)
+
+### LikeCoin button 讚賞鍵
+
+{% page-ref page="../creator/likecoin-button.md" %}
+
+![](../../.gitbook/assets/avatar.png)
+
+### Liker Land 網頁版或手機應用程式
+
+{% page-ref page="../reader/download.md" %}
+
+![](../../.gitbook/assets/img_2452.jpg)
+
+### LIKE pay
+
+{% page-ref page="../likecoin-token/like-pay.md" %}
+
+![](../../.gitbook/assets/img_2453.jpg)
 
