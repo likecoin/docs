@@ -14,7 +14,7 @@
 
 頁面的左手邊展示創作者個人資訊，包括姓名、Liker ID 及成為讚賞公民的日期，並提供以下功能：
 
-* 成為讚賞公民－讀者點擊連結成為讚賞公民能讓創作者每月獲得 LikeCoin 奬勵，詳見[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)
+* 成為讚賞公民－讀者點擊鏈結成為讚賞公民能讓創作者每月獲得 LikeCoin 奬勵，詳見[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)
 * 追蹤－點擊並追蹤作為內容伯樂的創作者
 * LIKE Pay－直接轉帳 LikeCoin 予創作者
 
