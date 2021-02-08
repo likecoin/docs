@@ -12,5 +12,5 @@ description: 創作者吸引贊助的利器
 
 你也可以登入 Liker Land 網頁版，打開位於畫面右上角的菜單，選「創作者加盟」 [https://liker.land/creators](https://liker.land/creators) 複製你的贊助連結。
 
-
+![](../../.gitbook/assets/sponsor-link-01.png)
 
