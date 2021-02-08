@@ -22,7 +22,7 @@ description: 跟隨幾個簡單步驟即可
 
 ![](../../.gitbook/assets/unsubscribe-civic-liker-twopointzero-2.png)
 
-再點擊「取消訂閱」連結即可完成取消訂閱。
+再點擊「取消訂閱」鏈結即可完成取消訂閱。
 
 ![](../../.gitbook/assets/subscribe-civic-liker-twopointzero-1.png)
 
