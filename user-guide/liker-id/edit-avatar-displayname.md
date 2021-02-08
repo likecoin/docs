@@ -9,7 +9,9 @@ Login [Liker Land](https://liker.land/) and visit [https://like.co/in/settings](
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDKVP-tBfwmogZNEzX9%2F-MDKVrXUT_uqkeoRnrVO%2Fedit-avator-displayname.png?alt=media&token=19230b80-bfd2-4ae3-b7dc-5077a5304169)
 
-Your name and avatar will appear in various Liker Land scenarios.
+Your name and avatar will appear in various Liker Land scenarios:
+
+
 
 ![](../../.gitbook/assets/avatar.png)
 
