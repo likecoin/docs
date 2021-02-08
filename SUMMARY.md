@@ -17,7 +17,7 @@
   * [Like — 化讚為賞](user-guide/reader/like.md)
   * [Super Like — 內容伯樂](user-guide/reader/superlike.md)
 * [我是創作者](user-guide/creator/README.md)
-  * [贊助連結](user-guide/creator/sponsor-link.md)
+  * [贊助鏈結](user-guide/creator/sponsor-link.md)
   * [LikeCoin button 讚賞鍵](user-guide/creator/likecoin-button.md)
   * [個人主頁](user-guide/creator/portfolio-page.md)
   * [Matters](user-guide/creator/matters.md)
