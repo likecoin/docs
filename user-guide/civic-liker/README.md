@@ -16,7 +16,7 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 ### 於任何渠道支持心儀作者
 
-無論創作者的內容是什麼格式，有否支援 LikeCoin button，讀者都可以全身投入支持作者。只需透過作者在任何渠道，例如在 Facebook、YouTube、Instagram、Line 或 Telegram 等平台中張貼的贊助鏈結（格式： https://liker.land/你的LikerID/civic ）即可成為以月費支持該作者的讚賞公民群體其中一員。成為讚賞公民後在支援 LikeCoin button 的創作平台按讚，作者還有賺得創作基金的好處。
+無論創作者的內容是什麼格式，有否支援 LikeCoin button，讀者都可以全身投入支持作者。只需透過作者在任何渠道，例如在 Facebook、YouTube、Instagram、Line 或 Telegram 等平台中張貼的[贊助鏈結](https://docs.like.co/v/zh/user-guide/creator/sponsor-link)（格式： https://liker.land/你的LikerID/civic ）即可成為以月費支持該作者的讚賞公民群體其中一員。成為讚賞公民後在支援 LikeCoin button 的創作平台按讚，作者還有賺得創作基金的好處。
 
 贊助鏈結例子：[https://liker.land/ckxpress/civic](https://liker.land/ckxpress/civic)
 
