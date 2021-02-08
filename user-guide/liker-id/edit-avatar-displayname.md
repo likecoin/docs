@@ -10,9 +10,9 @@ description: 讓自己的性格更特出
 
 修改完成後，你的資訊會在 Liker Land 的各種使用場境中顯示。
 
-![](../../.gitbook/assets/avatar.png)
+![LikeCoin button &#x8B9A;&#x8CDE;&#x9375;](../../.gitbook/assets/avatar.png)
 
-![](../../.gitbook/assets/img_2452.jpg)
+![Liker Land &#x7DB2;&#x9801;&#x7248;&#x6216;&#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;](../../.gitbook/assets/img_2452.jpg)
 
-![](../../.gitbook/assets/img_2453.jpg)
+![LIKE pay](../../.gitbook/assets/img_2453.jpg)
 
