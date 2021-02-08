@@ -11,11 +11,33 @@ Login [Liker Land](https://liker.land/) and visit [https://like.co/in/settings](
 
 Your name and avatar will appear in various Liker Land scenarios:
 
+### Sponsor Link
 
+{% page-ref page="../creator/sponsor-link.md" %}
+
+![](../../.gitbook/assets/sponsor-link-en.png)
+
+### Portfolio Page
+
+{% page-ref page="../creator/portfolio-page.md" %}
+
+![](../../.gitbook/assets/likerid-avatar-en.png)
+
+### LikeCoin button
+
+{% page-ref page="../creator/likecoin-button.md" %}
 
 ![](../../.gitbook/assets/avatar.png)
 
+### Liker Land app and Web
+
+{% page-ref page="../reader/download.md" %}
+
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJwVJtgYRij9lbzkTP%2F-MDJxZmmtXywRtonx1-U%2Fimg_2452.jpg?alt=media&token=0b156d94-f407-4711-83ce-948d342c7892)
+
+### LIKE Pay
+
+{% page-ref page="../likecoin-token/like-pay.md" %}
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M0wFlrQDwJgggiEM_rl%2F-M1UMYC6AP2gocep0YVW%2FIMG_2453.jpg?alt=media&token=c997d816-61a7-4bfa-a1a1-f319227fa636)
 
