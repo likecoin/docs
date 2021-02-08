@@ -70,7 +70,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 * 自動儲存草稿到 Matters － 文章草稿將同步到你的 Matters 草稿箱。
 * 自動發佈文章至 Matters － 當你在 WordPress 網站發佈文章時，該文章亦會同時於 Matters 發佈。
-* 在頁尾增加原文連結 － 在 Matters 文章中加入 WordPress 文章的原文鏈結。
+* 在頁尾增加原文鏈結 － 在 Matters 文章中加入 WordPress 文章的原文鏈結。
 
 ![](../../.gitbook/assets/wordpress-8.png)
 
