@@ -16,7 +16,7 @@ The monthly supporting amount for LikeCoin will be credited to the content creat
 
 ### **Support content creators via any platforms** 
 
-No matter the content is in what kind of format or if the platform supports a LikeCoin button or not, readers can still support the content creator. By clicking sponsor link of the content creator in any channels and medium such as Facebook, Youtube, Instagram, Line or Telegram \( Format: https://liker.land/\[Your Liker ID\]/civic \), readers become one of the sponsor of the content creator's Civic Liker monthly payment supporting group. And of course, clapping for the content creators in platforms supporting the LikeCoin button can also let them earn extra LikeCoin reward from Creators Fund.
+No matter the content is in what kind of format or if the platform supports a LikeCoin button or not, readers can still support the content creator. By clicking [sponsor link ](https://docs.like.co/user-guide/creator/sponsor-link)of the content creator in any channels and medium such as Facebook, Youtube, Instagram, Line or Telegram \( Format: https://liker.land/\[Your Liker ID\]/civic \), readers become one of the sponsor of the content creator's Civic Liker monthly payment supporting group. And of course, clapping for the content creators in platforms supporting the LikeCoin button can also let them earn extra LikeCoin reward from Creators Fund.
 
 Example of sponsor link: [https://liker.land/ckxpress/civic](https://liker.land/ckxpress/civic)
 
