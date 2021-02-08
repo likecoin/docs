@@ -8,11 +8,11 @@
 
 ![](../../.gitbook/assets/super-like-reader-4.png)
 
-方法二：個人主頁的網址是 https://liker.land/\[你的 Liker ID\] ，例如 Liker ID 是 ckxpress，鏈結便是 [https://liker.land/ckxpress](https://liker.land/ckxpress)。
+方法二：個人主頁的網址是 https://liker.land/\[你的 Liker ID\] ，例如 [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id) 是 ckxpress，鏈結便是 [https://liker.land/ckxpress](https://liker.land/ckxpress)。
 
 ## 個人資訊
 
-頁面的左手邊展示創作者個人資訊，包括姓名、Liker ID 及成為讚賞公民的日期，並提供以下功能：
+頁面的左手邊展示創作者個人資訊，包括姓名、[Liker ID](https://docs.like.co/v/zh/user-guide/liker-id) 及成為讚賞公民的日期，並提供以下功能：
 
 * 成為讚賞公民－讀者點擊鏈結成為讚賞公民能讓創作者每月獲得 LikeCoin 奬勵，詳見[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)
 * 追蹤－點擊並追蹤作為內容伯樂的創作者
