@@ -8,7 +8,7 @@ Method 1: Click on avatar on the LikeCoin button.
 
 ![](../../.gitbook/assets/super-like-reader-4.png)
 
-Method 2: The Portfolio Page url is https://liker.land/\[Your Liker ID\], if your Liker ID is ckxpress, your link is going to be https://liker.land/ckxpress. 
+Method 2: The Portfolio Page url is https://liker.land/\[Your Liker ID\], if your Liker ID is ckxpress, your link is going to be [https://liker.land/ckxpress](https://liker.land/ckxpress). 
 
 ## Personal Information
 
