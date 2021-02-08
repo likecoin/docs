@@ -8,7 +8,7 @@ description: 如何在 Blink 佈告欄文章中加入 LikeCoin button
 
 先登入 [Blink](https://blink.com.tw/)，撰寫文章並發佈。
 
-依照以下格式製作你的讚賞鍵連結：
+依照以下格式製作你的讚賞鍵鏈結：
 
 ```text
 https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]

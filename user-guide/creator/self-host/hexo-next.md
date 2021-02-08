@@ -8,7 +8,7 @@ description: 如何在 Hexo 開發環境的文章中加入 LikeCoin button
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
 
-### 增加根據文章網址，自動產生讚賞鍵連結
+### 增加根據文章網址，自動產生讚賞鍵鏈結
 
 在 `themes/next/layout/_custom/` 目錄下新增一檔案 `like_coin.ejs` 並貼上下列程式碼，並將 \[LikerID\] 更改為你的 Liker ID。
 
