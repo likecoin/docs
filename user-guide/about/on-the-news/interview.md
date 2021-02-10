@@ -2,7 +2,11 @@
 
 {% tabs %}
 {% tab title="2021" %}
-###  02/04 【菲妮莫屬】區塊鏈人才說 Proof of Talents
+### 02/05 The News Lens 關鍵評論網
+
+[專訪LikeCoin創辦人高重建：政府自言支持區塊鏈發展，但新監管制度自相矛盾 ](https://www.thenewslens.com/feature/crypto-hk/146508)
+
+### 02/04 【菲妮莫屬】區塊鏈人才說 Proof of Talents
 
 [第二季 海外人才篇 \#9 探討區塊鏈對價值、媒體、民主的再想像 -《區塊鏈社會學》作者 高重建](https://player.soundon.fm/p/558a3a20-12ce-4540-b78c-013717e8c6c7/episodes/7e2f78a6-0b8b-458c-a238-abc0dfa3d4f1)
 
