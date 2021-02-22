@@ -6,6 +6,13 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+## 議案 \#9 委託生態池的 LikeCoin
+
+* **提案**：[guanyun](https://matters.news/@guanyun/towards-a-republic-of-liker-land-the-9th-proposal-bafyreicn5r4jqcz267ksdcj3rjmxvkykwsrrw4q72as6j7k7k267k4xy24)
+* **類型**：文本式議案 \( Text Proposal \)
+* **日期**：2021.02.08 提案，2020.02.22 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/9](https://likecoin.bigdipper.live/proposals/9)
+
 ## 議案 \#8 降低提案門檻（押金）
 
 * **提案**：[leafwind](https://matters.news/@leafwind/like-coin-chain-proposal-8-reduce-the-barrier-of-proposal-deposit-threshold-bafyreihrcgcmjgxjgsddsrdfdifmuptntsdlil4hvsahffn5lbwh72m7si)
