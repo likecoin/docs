@@ -6,6 +6,13 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+## Proposal \#9 Delegate the LIKE in the ecological pool
+
+* Proposer: [guanyun](https://matters.news/@guanyun/towards-a-republic-of-liker-land-the-9th-proposal-bafyreicn5r4jqcz267ksdcj3rjmxvkykwsrrw4q72as6j7k7k267k4xy24)
+* Proposal Type: Text Proposal
+* Date: Submit on 2021.02.08, Passed on 2020.02.22
+* Details: [https://likecoin.bigdipper.live/proposals/9](https://likecoin.bigdipper.live/proposals/9)
+
 ## Proposal \#8 Decrease minimum deposit for proposals
 
 * Proposer: [leafwind](https://matters.news/@leafwind/like-coin-chain-proposal-8-reduce-the-barrier-of-proposal-deposit-threshold-bafyreihrcgcmjgxjgsddsrdfdifmuptntsdlil4hvsahffn5lbwh72m7si)
