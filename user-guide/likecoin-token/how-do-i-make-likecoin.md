@@ -26,6 +26,8 @@ The community constantly needs help on translation, design, promotion, community
 
 ## Be a validator
 
+_This article reflects the numbers during December 16, 2019_
+
 Validator's rewards for recording all transactions is from inflation. currently set up as 1% of the total LikeCoin circulation, which is ten million out of one billion LikeCoin.
 
 The inflation amount will be distributed when a block is created in LikeCoin chain, approximately in every 5-6 seconds
