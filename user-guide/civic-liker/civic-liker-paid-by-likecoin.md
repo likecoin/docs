@@ -6,7 +6,7 @@ description: 以 LikeCoin 購買讚賞公民會籍
 
 #### _**以下內容只適用於舊制讚賞公民**_
 
-你可於 Liker Land 手機應用程式，以 LikeCoin 繳付一年讚賞公民會藉年費 \( 15,000 LikeCoin \)。
+你可於 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/reader/download)，以 LikeCoin 繳付一年讚賞公民會藉年費 \( 15,000 LikeCoin \)。
 
 ### 步驟一：過帳 15,000 LikeCoin 
 
