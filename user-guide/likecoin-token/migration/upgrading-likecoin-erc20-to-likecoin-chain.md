@@ -54,7 +54,7 @@ You can check your LikeCoin balance in [https://like.co/in](https://like.co/in) 
 
 ### Download the Liker Land mobile app <a id="download-the-liker-land-mobile-app"></a>
 
-Please visit [Google Play store](https://play.google.com/store/apps/details?id=com.oice) or [Apple App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) to download the Liker Land mobile app.  Login by your social account and check your balance on the app.  You may also perform various operations of LikeCoin such as transfer and delegation there.
+Please visit [Google Play store](https://play.google.com/store/apps/details?id=com.oice) or [Apple App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) to download the [Liker Land mobile app](https://docs.like.co/user-guide/reader/download).  Login by your social account and check your balance on the app.  You may also perform various operations of LikeCoin such as transfer and delegation there.
 
 ![](../../../.gitbook/assets/likecoin-migration-7.png)
 
