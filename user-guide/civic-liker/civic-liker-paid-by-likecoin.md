@@ -10,7 +10,7 @@ You can use Liker Land mobile app to pay for Civic Liker yearly subscription fee
 
 ### Step 1: Transfer 15,000 LikeCoin
 
-Please use [Liker Land mobile app to transfer 15,000 LikeCoin](https://docs.like.co/v/zh/user-guide/likecoin-token/like-pay) to the following Liker ID:
+Please use [Liker Land mobile app to transfer 15,000 LikeCoin](https://docs.like.co/user-guide/likecoin-token/like-pay) to the following Liker ID:
 
 * **Liker ID:** [**foundation**](https://like.co/foundation/15000)\*\*\*\*
 * **Receive LikeCoin QR code**:
