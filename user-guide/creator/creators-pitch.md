@@ -4,7 +4,7 @@ description: 讓讀者更了解你
 
 # 給讀者的話
 
-要吸引眼球，不妨落力介紹自己的創作理念。創作者可使用「給讀者的話」功能突出自己的長處，招聚更多人贊助自己。
+要吸引眼球，不妨落力介紹自己的創作理念。創作者可使用「給讀者的話」功能突出自己的長處，招聚更多讀者贊助自己。
 
 「給讀者的話」設定非常簡單，請執行以下步驟：
 
@@ -20,7 +20,13 @@ description: 讓讀者更了解你
 
 ![](../../.gitbook/assets/creators-pitch-2.png)
 
+步驟四：你的說話將於各個場景中顯示。
 
+{% page-ref page="sponsor-link.md" %}
 
+![](../../.gitbook/assets/sponsor-link.png)
 
+{% page-ref page="portfolio-page.md" %}
+
+![](../../.gitbook/assets/likerid-avatar.png)
 
