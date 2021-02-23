@@ -6,6 +6,8 @@ description: It is definitely not talking interests from deposit.
 
 ![](../../.gitbook/assets/likecoin_postlist_1216.png)
 
+_This article reflects the status during December 16, 2019_
+
 Delegation generates rewards as each delegator helps to validate transactions.
 
 Delegate LikeCoin and earn rewards, this article explains where the LikeCoin rewards come from. As all the parameters can be modified according to community's autonomous mechanisms later on, please note the number below reflects the situation of December 2019.  
