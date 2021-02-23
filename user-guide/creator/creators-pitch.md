@@ -12,9 +12,13 @@ description: 讓讀者更了解你
 
 ![](../../.gitbook/assets/subscribe-civic-liker-1.png)
 
-步驟二：進入設定頁後，選第二個選項「讚賞公民」。正常你會見到帳號狀態是「生效中」。
+步驟二：進入設定頁後，選第三個選項「作者設定」。
 
+![](../../.gitbook/assets/creators-pitch-1.png)
 
+步驟三：點擊「編輯」撰寫給讀者的話，完成後點擊「確認」儲存內容。留意撰寫內容連同標點符號必須於 70 個中文字 / 150 英文字以內。
+
+![](../../.gitbook/assets/creators-pitch-2.png)
 
 
 
