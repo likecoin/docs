@@ -43,6 +43,7 @@
   * [Super Like - Content Jockey](user-guide/reader/superlike.md)
 * [Content Creators](user-guide/creator/README.md)
   * [Sponsor Link](user-guide/creator/sponsor-link.md)
+  * [Creator Pitch](user-guide/creator/creators-pitch.md)
   * [LikeCoin button](user-guide/creator/likecoin-button.md)
   * [Portfolio Page](user-guide/creator/portfolio-page.md)
   * [Matters](user-guide/creator/matters.md)
