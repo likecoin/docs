@@ -6,7 +6,7 @@ description: It is definitely not talking interests from deposit.
 
 ![](../../.gitbook/assets/likecoin_postlist_1216.png)
 
-_This article reflects the status during December 16, 2019_
+_This article reflects the numbers during December 16, 2019_
 
 Delegation generates rewards as each delegator helps to validate transactions.
 
