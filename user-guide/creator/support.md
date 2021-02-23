@@ -16,3 +16,5 @@ Step 2: In the Setting page, select "Creator Settings".
 
 Step 3: Your summary of Civic Liker supporters, supporting amount and start date are listed.
 
+![](../../.gitbook/assets/yoursupporter.jpg)
+
