@@ -12,7 +12,5 @@ Step1: Login in [Liker Land web](https://liker.land/), click on the menu at the 
 
 Step 2: In the Setting page, select "Your supporters". Click on it.
 
-![](../../.gitbook/assets/yoursupporter-01-en.png)
-
 Step 3: Your summary of Civic Liker supporters, supporting amount and start date are listed.
 
