@@ -6,7 +6,7 @@ description: 跟隨幾個簡單步驟即可
 
 請跟隨以下簡單步驟：  
   
-步驟一：到 [Likerand 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「設定」。
+步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「設定」。
 
 ![](../../.gitbook/assets/subscribe-civic-liker-1.png)
 
