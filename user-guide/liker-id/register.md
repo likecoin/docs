@@ -4,7 +4,7 @@ description: 'Citizens of The Republic of Liker Land, each of them have a unique
 
 # Register a Liker ID
 
-Registering a Liker ID is easy, please download [Liker Land mobile app](https://like.co/in/getapp) and follow the instructions below:
+Registering a Liker ID is easy, please download [Liker Land mobile app](https://liker.land/getapp) and follow the instructions below:
 
 ### Step 1: Open your Liker Land app, Click the "Sign Up" Button
 
