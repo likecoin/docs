@@ -45,11 +45,11 @@ description: 要去哪裏下載 Liker Land？
 
 ### 選項四：關於
 
-Liker Land 的簡介
+Liker Land 的簡介。
 
 ### 選項五：幫助
 
-聯繫客服留言對話‌
+聯繫客服留言對話‌。
 
 ### 選項六：登出
 
