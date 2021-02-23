@@ -43,7 +43,6 @@ Other than supporting creators, Civic Likers enjoy various benefits such as taki
 * Receive idol newsletter
 * Join offline events
 * Detailed reward distribution report
-* Unique, immutable badges
 
 Encourage more people to join Civic Liker and build a healthy creation ecosystem, please support the Republic of Liker Land.
 
