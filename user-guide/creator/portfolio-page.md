@@ -12,13 +12,13 @@ Method 2: The Portfolio Page url is https://liker.land/\[Your Liker ID\], if you
 
 ## Personal Information
 
-The left hand side of the Portfolio Page displays information of the content creator, including name, [Liker ID](https://docs.like.co/user-guide/liker-id), the date became Civic Liker with the following functions:
+The left hand side of the Portfolio Page displays information of the content creator, including name, [Liker ID](https://docs.like.co/user-guide/liker-id), the date became [Civic Liker](https://docs.like.co/user-guide/civic-liker) with the following functions:
 
 * Become a Civic Liker - If Readers click on it and become Civic Liker, content creator can receive monthly support in LikeCoin. Read more: [Civic Liker](https://docs.like.co/user-guide/civic-liker) 
-* Follow - Click and follow the content creator as a Content Jockey
-* LIKE Pay－Transfer LikeCoin to the content creator
+* Follow - Click and follow the content creator as a [Content Jockey](https://docs.like.co/user-guide/reader/superlike)
+* [LIKE Pay](https://docs.like.co/user-guide/likecoin-token/like-pay)－Transfer LikeCoin to the content creator
 
-![](../../.gitbook/assets/portfolio-page-3-en.png)
+![](../../.gitbook/assets/likerid-avatar-en.png)
 
 ## Works
 
