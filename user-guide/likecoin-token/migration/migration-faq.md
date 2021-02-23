@@ -44,7 +44,7 @@ If you lost your wallet address, please check if you have backed up the seed phr
 
 The system transfers LikeCoin ERC-20 from MetaMask to smart contract, therefore your LikeCoin will disappear for a few minutes, as they are on the way to the new LikeCoin chain, please be patient.
 
-### 7. During the migration process, encourage "Error: NOT\_ENOUGH\_GAS, NEED X.XXXXX"
+### 7. During the migration process, encounter "Error: NOT\_ENOUGH\_GAS, NEED X.XXXXX"
 
 You have to prepare enough ETH as GAS Fee, you may refer to [ETH GAS Station](https://ethgasstation.info/) for the fee required.
 
