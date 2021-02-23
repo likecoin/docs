@@ -54,7 +54,7 @@ LikeCoin 經已轉移到 [LikeCoin chain](https://docs.like.co/v/zh/user-guide/l
 
 ### 下載 Liker Land 手機應用程式 <a id="-liker-land-"></a>
 
-你可以到 [Google Play](https://play.google.com/store/apps/details?id=com.oice&hl=zh-TW) store 或 [Apple App Store](https://apps.apple.com/hk/app/liker-land/id1248232355)，[下載 Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)，以你的社交帳號登入，便可在 app 中查閱你的 LikeCoin 餘額了。
+你可以到 [Google Play](https://play.google.com/store/apps/details?id=com.oice&hl=zh-TW) store 或 [Apple App Store](https://apps.apple.com/hk/app/liker-land/id1248232355)，[下載 Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/reader/download)，以你的社交帳號登入，便可在 app 中查閱你的 LikeCoin 餘額了。
 
 ![](../../../.gitbook/assets/likecoin-migration-7.png)
 
