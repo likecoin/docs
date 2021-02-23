@@ -68,7 +68,7 @@
   * [Rewards](user-guide/creator/rewards/README.md)
     * [Reward Release Time](user-guide/creator/rewards/reward-release-time.md)
     * [Cannot get reward?](user-guide/creator/rewards/cannot-get-reward.md)
-  * [Supporters](user-guide/creator/support.md)
+  * [Supporters Summary](user-guide/creator/support.md)
   * [Monthly Achievement](user-guide/creator/monthly-report.md)
 * [Civic Liker](user-guide/civic-liker/README.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
