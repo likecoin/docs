@@ -43,6 +43,6 @@ Once a Liker ID has been created, it cannot be changed.  We suggest you keep it,
 {% endhint %}
 
 {% hint style="info" %}
-What is [Authcore](https://docs.like.co/user-guide/faq/what-is-authcore)?
+What is [Authcore](https://docs.like.co/user-guide/liker-id/what-is-authcore)?
 {% endhint %}
 
