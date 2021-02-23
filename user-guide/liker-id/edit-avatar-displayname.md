@@ -15,9 +15,13 @@ Your name and avatar will appear in various Liker Land scenarios:
 
 {% page-ref page="../creator/sponsor-link.md" %}
 
+![](../../.gitbook/assets/sponsor-link-en.png)
+
 ### Portfolio Page
 
 {% page-ref page="../creator/portfolio-page.md" %}
+
+![](../../.gitbook/assets/likerid-avatar-en.png)
 
 ### LikeCoin button
 
