@@ -26,7 +26,7 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 既然你沒有安裝過 MetaMask，即是你從沒用過自己的錢包儲存 LikeCoin， [Like.co/in](http://like.co/in) 網頁上顯示的 LikeCoin 數字只是系統幫你暫時寄存的。
 
-你不用跑升級流程，只需用慣常的方法登入 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/liker-land/liker-land-mobile-app)，待領的 LikeCoin 便會自動存入你的新錢包。
+你不用跑升級流程，只需用慣常的方法登入 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/reader/download)，待領的 LikeCoin 便會自動存入你的新錢包。
 
 ### **5. 錯誤：「請用已綁定你的 Liker ID 的以太坊地址 \[0x...\] 來簽署」**
 
@@ -44,4 +44,8 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 ### **6. 升級過程中，MetaMask 及 Like.co/in 網頁上顯示的 LikeCoin 數變成 0 了！**
 
 由於系統會先從你的 MetaMask 轉帳 LikeCoin ERC-20 到智能合約，所以你的 LikeCoin 會有數分鐘時間在你的 MetaMask 錢包中消失，因為你的 LikeCoin 正在被傳送的途中呢。請耐心等候一會。
+
+### 7. 升級過程中不斷出現「Error: NOT\_ENOUGH\_GAS, NEED X.XXXXX」
+
+你需要有足夠的 ETH 作為碼工費 \( GAS Fee \) 方可完成升級，有關數值請參考 [ETH GAS Station](https://ethgasstation.info/)。 
 
