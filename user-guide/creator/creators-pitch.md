@@ -1,5 +1,5 @@
 ---
-description: 讓讀者更了解你
+description: 爭取更多贊助
 ---
 
 # 給讀者的話
