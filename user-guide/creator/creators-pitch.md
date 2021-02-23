@@ -20,7 +20,7 @@ description: 讓讀者更了解你
 
 ![](../../.gitbook/assets/creators-pitch-2.png)
 
-步驟四：你的說話將於各個場景中顯示。
+步驟四：你的說話將會在 Liker Land 的各種使用場境中顯示：
 
 {% page-ref page="sponsor-link.md" %}
 
