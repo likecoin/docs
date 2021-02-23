@@ -18,7 +18,7 @@
 * 追蹤－點擊並追蹤作為內容伯樂的創作者
 * LIKE Pay－直接轉帳 LikeCoin 予創作者
 
-![](../../.gitbook/assets/portfolio-page-3.png)
+![](../../.gitbook/assets/likerid-avatar.png)
 
 ## 作品
 
