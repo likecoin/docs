@@ -22,7 +22,7 @@ Click on the menu at the top right hand corner, there are other options.
 
 ### **Option 1: Civic Liker**
 
-You can pay and become a [Civic Liker](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker), check out the subscription status or unsubscribe. [Read this](https://docs.like.co/user-guide/civic-liker) to learn more about Civic Liker.
+You can pay and [become a Civic Liker](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker), check out the subscription status or unsubscribe. [Read this](https://docs.like.co/user-guide/civic-liker) to learn more about Civic Liker.
 
 ### **Option 2: I'm a Creator too**
 
@@ -33,21 +33,25 @@ Click and learn more about how to [embed a LikeCoin button](https://liker.land/c
 5 preferences can be set up:
 
 * Language: This is talking about the Liker Land web language preference and is not going to alter your Liker Land mobile app setting \(You may refer to the mobile app setup\)
-* Liker ID: Redirect to [Like.co](https://like.co/in/settings) setting page. User can set up his/her Liker ID avatar, social media logins, etc. Read [this](https://docs.like.co/user-guide/liker-id) for more details
+* Liker ID: Redirect to [Like.co setting page](https://like.co/in/settings). User can set up his/her Liker ID avatar, social media logins, etc. Read [this](https://docs.like.co/user-guide/liker-id) for more details
 
 {% page-ref page="../liker-id/edit-avatar-displayname.md" %}
 
 * Civic Liker: Subscribing / Unsubscribe status
-* Creator: Registered / Not Registered
-* Follow / Unfollowed: Display Content Jockey that the user followed, can click to unfollow \(refer to the below\)
+* Creator Settings: Setup [Creator Pitch](https://docs.like.co/user-guide/creator/creators-pitch) and check [Summary](https://docs.like.co/user-guide/creator/support)
+* Follow / Unfollowed: Display [Content Jockey](https://docs.like.co/user-guide/reader/superlike) that the user followed, can click to unfollow \(refer to the below\)
 
 ![](../../.gitbook/assets/liker-land-web-3-en.png)
 
-### **Option 4: Support**
+### **Option 4: About**
 
-Redirect to [LikeCoin Help Center](https://docs.like.co/). Check out the FAQ, or click on the green bubble at the lower right hand corner to contact our help desk.
+Liker Land introduction.
 
-### **Option 5: Logout**
+### **Option 5: Support**
+
+Contact LikeCoin help desk.
+
+### **Option 6: Logout**
 
 Click and logout Liker Land. If you want to login with another Liker ID, you have to log out completely from the Liker Land web, otherwise you will be bounced back to the previous Liker ID during your next login attempt.
 
