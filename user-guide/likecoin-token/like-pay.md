@@ -6,7 +6,7 @@ description: 用 Liker Land 手機應用程式轉帳 LikeCoin，幾秒搞定
 
 ### **步驟一**
 
-首先你需要安裝 [Liker Land 手機應用程式](https://like.co/in/getapp)。我們暫時不支援在桌面電腦上瀏覽器操作轉帳。
+首先你需要安裝 [Liker Land 手機應用程式](https://liker.land/getapp)。我們暫時不支援在桌面電腦上瀏覽器操作轉帳。
 
 ### **步驟二**
 
