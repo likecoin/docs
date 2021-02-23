@@ -45,6 +45,6 @@ description: Liker ID 要怎樣註冊？
 {% endhint %}
 
 {% hint style="info" %}
-甚麼是 Authcore：[請參考此條目](https://docs.like.co/v/zh/user-guide/faq/what-is-authcore)
+甚麼是 Authcore：[請參考此條目](https://docs.like.co/v/zh/user-guide/liker-id/what-is-authcore)
 {% endhint %}
 
