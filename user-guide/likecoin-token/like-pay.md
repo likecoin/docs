@@ -6,7 +6,7 @@ description: 'Transfer LikeCoin using Liker Land mobile app in a few clicks, no 
 
 ### Step 1
 
-Download [Liker Land mobile app](https://like.co/in/getapp), we do not support transferring LikeCoin on desktop computers at the moment.
+Download [Liker Land mobile app](https://liker.land/getapp), we do not support transferring LikeCoin on desktop computers at the moment.
 
 ### Step 2
 
