@@ -12,11 +12,11 @@
 
 ## 個人資訊
 
-頁面的左手邊展示創作者個人資訊，包括姓名、[Liker ID](https://docs.like.co/v/zh/user-guide/liker-id) 及成為讚賞公民的日期，並提供以下功能：
+頁面的左手邊展示創作者個人資訊，包括姓名、[Liker ID](https://docs.like.co/v/zh/user-guide/liker-id) 及成為[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)的日期，並提供以下功能：
 
 * 成為讚賞公民－讀者點擊鏈結成為讚賞公民能讓創作者每月獲得 LikeCoin 奬勵，詳見[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)
-* 追蹤－點擊並追蹤作為內容伯樂的創作者
-* LIKE Pay－直接轉帳 LikeCoin 予創作者
+* 追蹤－點擊並追蹤作為[內容伯樂](https://docs.like.co/v/zh/user-guide/reader/superlike)的創作者
+* [LIKE Pay](https://docs.like.co/v/zh/user-guide/likecoin-token/like-pay)－直接轉帳 LikeCoin 予創作者
 
 ![](../../.gitbook/assets/likerid-avatar.png)
 
@@ -28,7 +28,7 @@
 
 ## 已 Super Like 的內容
 
-Super Like 履歷功能展示創作者[曾經 Super Like 過甚麼好文](https://docs.like.co/v/zh/user-guide/creator/portfolio-page)。
+Super Like 履歷功能展示創作者[曾經 Super Like 過甚麼好文](https://docs.like.co/v/zh/user-guide/reader/superlike)。
 
 ![](../../.gitbook/assets/portfolio-page-2.png)
 

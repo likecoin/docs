@@ -33,21 +33,25 @@ description: 要去哪裏下載 Liker Land？
 可設定以下五項系統偏好：‌
 
 * 介面語言：留意這只是指網頁版介面的語言，不影響手機應用程式的介面（手機應用程式請參考手機的系統設定）
-* Liker ID：會重新導向至 [Like.co](https://like.co/in/settings) 的設定頁面。用戶可設定 Liker ID 的頭像，社交帳戶登入方法等資料。詳情請看：
+* Liker ID：會重新導向至 [Like.co 的設定頁面](https://like.co/in/settings)。用戶可設定 Liker ID 的頭像，社交帳戶登入方法等資料。詳情請看：
 
 {% page-ref page="../liker-id/edit-avatar-displayname.md" %}
 
 * 讚賞公民：訂閱 / 退訂
-* 創作者：狀態為已註冊 / 未註冊
-* 追蹤設定：顯示用戶已追蹤的內容伯樂（Content Jockey），可在這裡取消追蹤（下圖）
+* 作者設定：設定[給讀者的話](https://docs.like.co/v/zh/user-guide/creator/creators-pitch)、查看[收入概覽](https://docs.like.co/v/zh/user-guide/creator/support)
+* 追蹤設定：顯示用戶已追蹤的[內容伯樂（Content Jockey](https://docs.like.co/v/zh/user-guide/reader/superlike)），可在這裡取消追蹤（下圖）
 
 ![](../../.gitbook/assets/liker-land-web-3.png)
 
-### 選項四：幫助
+### 選項四：關於
 
-會重新導向至 LikeCoin 的[常見問題頁面](https://docs.like.co/v/zh/)。在那裡可查閱常見問題文章，或點擊右下角的綠色圓形圖示聯繫客服留言對話。‌
+Liker Land 的簡介
 
-### 選項五：登出
+### 選項五：幫助
+
+聯繫客服留言對話‌
+
+### 選項六：登出
 
 在此登出 Liker Land。假若你想使用另一帳號登入，必須先於 Liker Land 網站登出才行，否則下次登入時仍會自動登入上次登入的帳戶。
 
