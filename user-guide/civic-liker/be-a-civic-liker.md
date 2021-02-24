@@ -19,6 +19,12 @@ description: 贊助創作者方法非常簡單
 
 ![](../../.gitbook/assets/register-civic-liker-2.png)
 
+* 在 Matters 點擊支作者並成為讚賞公民
+
+![](../../.gitbook/assets/register-civic-liker-10.png)
+
+![](../../.gitbook/assets/register-civic-liker-11.png)
+
 {% hint style="info" %}
 留意假如從 Liker Land 主頁點擊「成為讚賞公民」即代表直接贊助 LikeCoin 基金會
 {% endhint %}
