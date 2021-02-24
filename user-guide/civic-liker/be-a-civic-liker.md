@@ -19,7 +19,7 @@ description: 贊助創作者方法非常簡單
 
 ![](../../.gitbook/assets/register-civic-liker-2.png)
 
-* 在 Matters 點擊支作者並成為讚賞公民
+* 在 [Matters](https://matters.news/) 點擊支作者並成為讚賞公民
 
 ![](../../.gitbook/assets/register-civic-liker-10.png)
 
