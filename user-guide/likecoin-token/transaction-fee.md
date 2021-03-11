@@ -8,7 +8,7 @@ description: 目前轉帳 LikeCoin 每筆所需的手續費大約 0.059 LIKE，�
 
 ### 手續費的重要性
 
-LikeCoin chain 按照用戶執行不同類型的動作和交易 \(transaction – tx\) 所需要的程式運算步驟所衍生的 Gas 收取 Gas Fee，又可稱為 Transaction Fee 或手續費作為系統運作資源。假設毋須收取手續費而導致有人使用程式碼產生大量動作和交易佔據擠塞網絡，將嚴重影響 LikeCoin chain 的運作甚至造成惡意的無限迴圈 \( hostile infinite loops \)，是以手續費能幫助提升 LikeCoin chain 的安全性。
+LikeCoin chain 按照用戶執行不同類型的動作和交易 \( transaction – tx \) 所需要的程式運算步驟所衍生的 Gas 收取 Gas Fee，又可稱為 Transaction Fee 或手續費作為系統運作資源。假設毋須收取手續費而導致有人使用程式碼產生大量動作和交易佔據擠塞網絡，將嚴重影響 LikeCoin chain 的運作甚至造成惡意的無限迴圈 \( hostile infinite loops \)，是以手續費能幫助提升 LikeCoin chain 的安全性。
 
 ### 手續費的估算方式
 
