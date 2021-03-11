@@ -22,16 +22,20 @@ Select one of the validators and bring up the page below, list out percentage of
 
 Click \[Delegate\] and go to the next page.
 
-![](../../.gitbook/assets/likecoin-matters-en.png)
+![](../../.gitbook/assets/delegate-1-en.png)
 
 ### **Step 2: Input the amount of LikeCoin to delegate**
 
 Click \[Delegate\] to bring up the following page, input the amount of LikeCoin that you would like to delegate to the validator, then click \[Next\]  
 
 
-The confirmation page is displayed, showing the validator's wallet address, click \[Details\] to reconfirm the amount to delegate and handling fee \(currently there is no handling fee for all delegating actions\).
+![](../../.gitbook/assets/delegate-2-en.png)
+
+The confirmation page is displayed, showing the validator's wallet address, click \[Details\] to reconfirm the amount to delegate and check the transaction fee estimation.
 
 Click \[Confirm\], after a few seconds it displays "Transaction Completed", which means delegation of LikeCoin is completed.
+
+![](../../.gitbook/assets/delegate-3-en.png)
 
 ### **Step 3: Relax and earn rewards!**
 
@@ -40,4 +44,8 @@ Going back to the wallet page, you can drag down the screen and refresh wallet s
 The LikeCoin rewards earned from delegation will be released every 5 or 6 seconds. quicker than monthly interest from the bank! You can check out the \[Delegating Rewards\] amount from the validator page, or click \[Withdraw Rewards\] to save the rewards back to your wallet. The minimum withdrawal amount on the Liker Land app is 1 LikeCoin.
 
 Validator with your delegation will be displayed as green.
+
+{% hint style="warning" %}
+Delegate LikeCoin and Withdraw Reward require transaction fee.
+{% endhint %}
 
