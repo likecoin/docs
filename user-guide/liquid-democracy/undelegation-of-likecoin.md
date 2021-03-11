@@ -24,6 +24,6 @@ Once you've confirmed your undelegation, the following happens:
 2. Validator lost his/her voting power of the amount the LikeCoin withdrew.
 
 {% hint style="warning" %}
-Transaction fee are required for ‌Undelegate LikeCoin.
+Transaction fee is required for ‌Undelegate LikeCoin.
 {% endhint %}
 
