@@ -30,9 +30,13 @@ Details of redelegation are displayed, check them carefully, click \[Confirm\] a
 
 The transferred LikeCoin got a 21 days cooling-off period, they cannot be used in any way. Please note.
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Attention: If you previously delegated some LikeCoin to your new validator, the newly transferred LikeCoin will freeze the total LikeCoin amount for 21 days. Please make your decision carefully.
 {% endhint %}
 
 ![](../../.gitbook/assets/img_2332.jpg)
+
+{% hint style="warning" %}
+Transaction fee is required for ‌Redelegate LikeCoin.
+{% endhint %}
 
