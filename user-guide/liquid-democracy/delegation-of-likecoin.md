@@ -14,33 +14,37 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委托 ( Delegate ) 給�
 
 ![&#x9EDE;&#x64CA;&#x53F3;&#x4E0B;&#x89D2;&#x81EA;&#x5DF1;&#x7684;&#x982D;&#x50CF;](../../.gitbook/assets/img_2324.jpg)
 
-![ &#x9EDE;&#x64CA; LikeCoin &#x91D1;&#x984D;&#x9032;&#x5165;&#x9322;&#x5305;&#x4ECB;&#x9762;](../../.gitbook/assets/delegate.png)
+![ &#x9EDE;&#x64CA;&#x300C;&#x6211;&#x7684;&#x9322;&#x5305;&#x300D;&#x91D1;&#x984D;&#x9032;&#x5165;&#x9322;&#x5305;&#x4ECB;&#x9762;](../../.gitbook/assets/delegate.png)
 
 點選了其中一個驗證人後，顯示以下頁面，列出回報年率 \( Rewards \)，投票權佔比 \( Voting Power \)，已被委托的 LikeCoin \( Liker Share \) 等資料。
 
-點擊「委託」 / \[Delegate\] 進入下一頁。
+點擊「委託」進入下一頁。
 
-![](../../.gitbook/assets/img_2327.jpg)
+![](../../.gitbook/assets/delegate-1.png)
 
 ### 步驟二：輸入委托金額
 
-點擊「委託」 / \[Delegate\] 按鍵後出現以下畫面。輸入你想委托給驗證人的金額，點擊 \[Next\]。
+點擊「委託」按鍵後出現以下畫面。輸入你想委托給驗證人的金額，點擊「下一步」。
 
-![](../../.gitbook/assets/img_2087.png)
+![](../../.gitbook/assets/delegate-2.png)
 
-跳至確認畫面，顯示出驗證人的委托戶口地址，按 \[Details\] 還可以核查委托款項及有沒有收取交易費用（目前所有委托動作均沒有費用）。
+跳至確認畫面，顯示出驗證人的委托戶口地址，按「詳細資料」還可以核查委托款項及是次轉帳手續費的估算數值，
 
-點擊「確應」 / \[Confirm\]，稍待幾秒，畫面上方會出現 "Transaction Completed" 字樣，代表已完成委托。
+點擊「確認」，稍待幾秒，畫面上方會出現 "Transaction Completed" 字樣，代表已完成委托。
 
-![](../../.gitbook/assets/img_2089.png)
+![](../../.gitbook/assets/delegate-3.png)
 
 ### 步驟三：躺著賺回報吧！
 
 回到錢包的頁面，你可以下拉刷新錢包的狀態。
 
-回饋金額會 5 至 6 秒派發一次 - 什麼？跟銀行的每月派息快太多了吧！你可在錢包驗證人頁面中的 「未領取收益」 /  \[Delegating Rewards\] 欄查看累積的回饋金額，或按「領取收益」 / \[Withdraw Rewards\] 把回報存進錢包，留意 Liker Land 手機應用程式最低l收益存進數量為 1 LikeCoin，少於 1 LikeCoin 的收益將不能存進錢包。
+回饋金額會 5 至 6 秒派發一次 - 什麼？跟銀行的每月派息快太多了吧！你可在錢包驗證人頁面中的 「未領取收益」欄查看累積的回饋金額，或按「領取收益」把回報存進錢包，留意 Liker Land 手機應用程式最低收益存進數量為 1 LikeCoin，少於 1 LikeCoin 的收益將不能存進錢包。
 
 已委托的驗證人，會在下方列表中顯示為綠色。
+
+{% hint style="warning" %}
+留意委託或領取收益均需要[手續費](https://docs.like.co/v/zh/user-guide/likecoin-token/transaction-fee)。
+{% endhint %}
 
 ### 了解更多有關「委托」的原理
 
