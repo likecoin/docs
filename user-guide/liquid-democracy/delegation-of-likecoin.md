@@ -29,13 +29,9 @@ Click \[Delegate\] and go to the next page.
 Click \[Delegate\] to bring up the following page, input the amount of LikeCoin that you would like to delegate to the validator, then click \[Next\]  
 
 
-![](../../.gitbook/assets/img_2087.png)
-
 The confirmation page is displayed, showing the validator's wallet address, click \[Details\] to reconfirm the amount to delegate and handling fee \(currently there is no handling fee for all delegating actions\).
 
 Click \[Confirm\], after a few seconds it displays "Transaction Completed", which means delegation of LikeCoin is completed.
-
-![](../../.gitbook/assets/img_2089.png)
 
 ### **Step 3: Relax and earn rewards!**
 
