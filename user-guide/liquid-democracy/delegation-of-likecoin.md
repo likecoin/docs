@@ -46,6 +46,6 @@ The LikeCoin rewards earned from delegation will be released every 5 or 6 second
 Validator with your delegation will be displayed as green.
 
 {% hint style="warning" %}
-Delegate LikeCoin and Withdraw Reward require transaction fee.
+Transaction fee are required for ‌Delegate LikeCoin and Withdraw Rewards.
 {% endhint %}
 

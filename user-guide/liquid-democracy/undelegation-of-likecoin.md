@@ -23,3 +23,7 @@ Once you've confirmed your undelegation, the following happens:
 1. It takes 21 days cooling-off period to undelegate and get back the LikeCoin to your own wallet, the LikeCoin cannot be redelegated, rewarded or transferred as well.
 2. Validator lost his/her voting power of the amount the LikeCoin withdrew.
 
+{% hint style="warning" %}
+Transaction fee are required for ‌Undelegate LikeCoin.
+{% endhint %}
+
