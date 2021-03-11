@@ -48,3 +48,7 @@ _本文數據反映的是 2019年12月16日的情況_
 
 目前 [BitAsset](https://www.bitasset.com) 支援 LikeCoin 的 TWD/LIKE 及 BTC/LIKE 交易對，[Liquid](https://www.liquid.com/) 提供 BTC/LIKE 及 USDT/LIKE 交易對，[DigiFinex](https://www.digifinex.com/) 提供 USDT/LIKE 交易對，而 [MyEthShop](https://www.myethshop.com) 提供 HKD/LIKE 兌換。有興趣的朋友可以向他們購買 LikeCoin。 
 
+{% hint style="success" %}
+LikeCoin 推薦獎賞活動經已於2021年3月8日完結
+{% endhint %}
+
