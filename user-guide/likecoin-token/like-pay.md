@@ -10,15 +10,15 @@ Download [Liker Land mobile app](https://liker.land/getapp), we do not support t
 
 ### Step 2
 
-Open the mobile app, click on the avatar at the lower right hand corner, then click on the LikeCoin amount that you have on top. You can manage your wallet now. Then, Click the \[Send\] button.
+Open the mobile app, click on the avatar at the lower right hand corner, then click on \[My Wallet\] on top. You can manage your wallet now. Then, click the \[Send\] button.
 
 ![](../../.gitbook/assets/img_2154.jpg)
 
 ### Step 3
 
-You can fill in the Liker ID or wallet address into the \[Enter receiver address\] field, or else scanning the QR Code: Ask the LikeCoin receiver to open his/her wallet and click \[Receive\] button to show his/her QR Code. Then you can click on the icon circled in red, using your phone camera to scan the LikeCoin receiver's QR Code. 
+You can fill in the Liker ID or wallet address into the \[Receiver's Liker ID or address\] field, or else scanning the QR Code: Ask the LikeCoin receiver to open his/her wallet and click \[Receive\] button to show his/her QR Code. Then you can click on the icon circled in red, using your phone camera to scan the LikeCoin receiver's QR Code. 
 
-![](../../.gitbook/assets/img_2155.jpg)
+![](../../.gitbook/assets/like-pay-2-en.png)
 
 ### **Step 4**
 
@@ -34,5 +34,7 @@ Some crypto exchanges may require input of Tag/Memo, please fill in the value he
 
 ### **Step 6**
 
-Input the amount of LikeCoin that you have to transfer, click \[Next\] and then click \[Confirm\].
+****Input the amount of LikeCoin that you have to transfer, click \[Next\].  You may click on the \[Details\] to check the estimated Transaction fee for this LikeCoin transfer.  Make sure that your wallet has enough spare LikeCoin other than those you have to transfer. Click \[Confirm\] to finish the transfer.
+
+![](../../.gitbook/assets/like-pay-4-en.png)
 
