@@ -26,13 +26,13 @@ Liker Land Chrome / Brave / Firefox 插件除了可以[為網頁加上書籤儲�
 
 在影片的「描述」欄輸入代碼，格式是 https://button.like.co/你的Liker ID
 
-假設你的 Liker ID 是 foundation，代碼便是 https://button.like.co/foundation
+假設你的 Liker ID 是 [foundati](https://liker.land/foundation)這（，代碼便是 https://button.like.co/foundation
 
 ![](../../.gitbook/assets/youtube-2.png)
 
 ### 步驟三：查看影片的讚賞鍵
 
-你會發現你的 
+你會發現你個人專屬的讚賞鍵經已安裝就緒。
 
 ![](../../.gitbook/assets/youtube-3.png)
 
