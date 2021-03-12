@@ -36,5 +36,3 @@ Liker Land Chrome / Brave / Firefox 插件除了可以[為網頁加上書籤儲�
 
 ![](../../.gitbook/assets/youtube-3.png)
 
-
-
