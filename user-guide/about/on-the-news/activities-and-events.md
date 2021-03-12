@@ -2,6 +2,18 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 03/12 MozFest 2021
+
+[Business models on the web are broken! Let's fix them.](https://schedule.mozillafestival.org/session/FTCNBS-1)
+
+![](../../../.gitbook/assets/screenshot_2021-03-12_at_2.10.46_am.png)
+
+### 03/11 HKBU TriAngle
+
+[Blockchain Application Chaining up our Social Lives, the LikeCoin Experience💰 / 區塊鏈應用分享課: LikeCoin的化讚為賞社會學👍](https://www.facebook.com/HKBUTriAngle/posts/290607692396255)
+
+{% embed url="https://www.facebook.com/HKBUTriAngle/posts/290607692396255" %}
+
 ### 01/17 2020年新媒體節 網絡媒體高峰會及工作坊
 
 [去中心化保存，公民共享記憶](https://www.facebook.com/culturemediahk/videos/223717656089852)
