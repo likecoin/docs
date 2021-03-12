@@ -21,6 +21,7 @@
   * [給讀者的話](user-guide/creator/creators-pitch.md)
   * [LikeCoin button 讚賞鍵](user-guide/creator/likecoin-button.md)
   * [個人主頁](user-guide/creator/portfolio-page.md)
+  * [Youtube](user-guide/creator/youtube.md)
   * [Matters](user-guide/creator/matters.md)
   * [WordPress](user-guide/creator/wordpress.md)
   * [其他自架網站](user-guide/creator/self-host/README.md)
