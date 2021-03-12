@@ -17,6 +17,7 @@ description: 目前轉帳 LikeCoin 每筆所需的手續費大約 0.059 LIKE，�
 * [轉帳 \( LIKE pay \)](https://docs.like.co/v/zh/user-guide/likecoin-token/like-pay)：約 0.059 LIKE
 * [委託](https://docs.like.co/v/zh/user-guide/liquid-democracy/delegation-of-likecoin)：約 0.19 LIKE
 * [取回委託](https://docs.like.co/v/zh/user-guide/liquid-democracy/undelegation-of-likecoin)：約 0.32 LIKE 
+* [轉移委託](https://docs.like.co/v/zh/user-guide/liquid-democracy/redelegation-of-likecoin)：約 0.48 LIKE
 * [領取收益](https://docs.like.co/v/zh/user-guide/liquid-democracy/delegation-of-likecoin#bu-zhou-san-tang-zhu-zuan-hui-bao-ba)： 約 1.25 LIKE
 
 在 Liker Land 手機應用程式的錢包確認轉帳、委託、耶回委託或領取收益前都會顯示「詳細資料」，可點擊查看手續費的估算數值。
