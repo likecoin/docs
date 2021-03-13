@@ -91,7 +91,7 @@ _LikeCoin_ 在 2017 年首次面世時在以太坊區塊鏈以 「ERC-20 通證�
 
 當 LikeCoin ERC-20 轉換為 _LikeCoin_，前者將於以太坊被燒毀。故此 _LikeCoin_ 及 LikeCoin ERC-20 在市面的合計流通量將維持不變。
 
-發行新 _LikeCoin_ 的增發率 \( inflation \) 將由 _驗證人_ 全體決定。_讚賞公民共和國_ 創世區塊增發率為1%。新發行的 _LikeCoin_ 將被用作驗證交易的回報（詳情參閱下文[**驗證交易**](https://docs.like.co/v/zh/constitution#9e68)的段落）
+發行新 _LikeCoin_ 的通脹 / 增發率 \( inflation \) 將由 _驗證人_ 全體決定。_讚賞公民共和國_ 創世區塊增發率為1%。新發行的 _LikeCoin_ 將被用作驗證交易的回報（詳情參閱下文[**驗證交易**](https://docs.like.co/v/zh/constitution#9e68)的段落）
 
 ### 回報創意 支持共享 <a id="61ef"></a>
 
