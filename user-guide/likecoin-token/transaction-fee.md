@@ -6,11 +6,11 @@ description: >-
 
 # LikeCoin Transaction Fee
 
-Since March 9 2021, LikeCoin chain followed Cosmos Hub upgrades and added the Gas parameter, and stayed the same as other projects in the Cosmos Hub network. Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the blockchain. No only on Cosmos Hub, other blockchain platforms such as Ethereum also use Gas as the unit of measurement.
+Since March 9 2021, LikeCoin chain followed Cosmos Hub upgrades and added the Gas parameter, and stayed the same as other projects in the Cosmos Hub network. Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the blockchain. Not only on Cosmos Hub, other blockchain platforms such as Ethereum also use Gas as the unit of measurement.
 
 ### The importance of transaction fee
 
-LikeCoin chain charges Gas fee or name it as transaction fee according to the computational resources required calculated in Gas to successfully conduct a transaction. In short, transaction fees help keep the LikeCoin chain secure. By requiring a fee for every computation executed on the network, we prevent actors from spamming the network. In order to prevent accidental or hostile infinite loops or other computational wastage in code, each transaction is required to set a limit to how many computational steps of code execution it can use. The fundamental unit of computation is "Gas".
+LikeCoin chain charges Gas fee or name it as transaction fee according to the computational resources required  to successfully conduct a transaction which is calculated in Gas. In short, transaction fees help keep the LikeCoin chain secure. By requiring a fee for every computation executed on the network, we prevent actors from spamming the network. In order to prevent accidental or hostile infinite loops or other computational wastage in code, each transaction is required to set a limit to how many computational steps of code execution it can use. The fundamental unit of computation is "Gas".
 
 ### Estimation of transaction fee
 
