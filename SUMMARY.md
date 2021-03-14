@@ -35,6 +35,7 @@
   * [其他寫作平台](user-guide/creator/blogging-platforms/README.md)
     * [illustBuy](user-guide/creator/blogging-platforms/illustbuy.md)
     * [探路客 TIMELOG](user-guide/creator/blogging-platforms/timelog.md)
+    * [Tipga](user-guide/creator/blogging-platforms/tipga.md)
     * [生活譜記](user-guide/creator/blogging-platforms/youput.md)
     * [Blink](user-guide/creator/blogging-platforms/blink.md)
     * [Blogspot](user-guide/creator/blogging-platforms/blogspot.md)

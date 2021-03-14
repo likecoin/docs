@@ -6,7 +6,7 @@ description: 如何在 探路客 TIMELOG 寫作賺取 LikeCoin 成就？
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
 
-[探路客 TIMELOG](https://www.timelog.to/) 於 2020年8月11日開始支援讚賞鍵功能。
+[探路客 TIMELOG](https://www.timelog.to/) 於2020年8月11日開始支援讚賞鍵功能。
 
 在探路客 TIMELOG 中加入讚賞鍵 LikeCoin button 功能只需兩個簡單步驟：
 
