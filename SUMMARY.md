@@ -87,6 +87,7 @@
   * [Resetting password](user-guide/liker-id/reset-password.md)
   * [What is Authcore?](user-guide/liker-id/what-is-authcore.md)
 * [LikeCoin Token](user-guide/likecoin-token/README.md)
+  * [LikeCoin Transaction Fee](user-guide/likecoin-token/transaction-fee.md)
   * [LIKE Pay](user-guide/likecoin-token/like-pay.md)
   * [Products and Services](user-guide/likecoin-token/products-and-services.md)
   * [Making LikeCoin](user-guide/likecoin-token/how-do-i-make-likecoin.md)
