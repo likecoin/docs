@@ -60,6 +60,7 @@
   * [Blogging Platforms](user-guide/creator/blogging-platforms/README.md)
     * [illustBuy](user-guide/creator/blogging-platforms/illustbuy.md)
     * [TIMELOG](user-guide/creator/blogging-platforms/timelog.md)
+    * [Tipga](user-guide/creator/blogging-platforms/tipga.md)
     * [Youput](user-guide/creator/blogging-platforms/youput.md)
     * [Blink](user-guide/creator/blogging-platforms/blink.md)
     * [Blogspot](user-guide/creator/blogging-platforms/blogspot.md)
