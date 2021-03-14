@@ -24,7 +24,7 @@ LikeCoin chain 按照用戶執行不同類型的動作和交易 \( transaction �
 
 ![](../../.gitbook/assets/like-pay-4.png)
 
-### 重要事項
+### 請在錢包留下手續費
 
 {% hint style="danger" %}
 建議錢包時常預留 2 至 10 LikeCoin 作手續費之用。假如錢包內的 LikeCoin 不足以支付手續費而導致操作失敗，嘗試過帳時已使用的手續費並不會退還。
