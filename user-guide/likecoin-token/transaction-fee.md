@@ -6,7 +6,7 @@ description: >-
 
 # LikeCoin Transaction Fee
 
-Since March 9 2021, LikeCoin chain followed Cosmos Hub upgrades and added the Gas parameter, and stayed the same as other projects in the Cosmos Hub network. Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the blockchain. Not only on Cosmos Hub, other blockchain platforms such as Ethereum also use Gas as the unit of measurement.
+Since March 9 2021, LikeCoin chain followed Cosmos Hub upgrades and added the Gas parameter, which is the same as other projects in the Cosmos Hub network. Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the blockchain. Not only on Cosmos Hub, other blockchain platforms such as Ethereum also use Gas as the unit of measurement.
 
 ### The importance of transaction fee
 
@@ -14,7 +14,7 @@ LikeCoin chain charges Gas fee or name it as transaction fee according to the co
 
 ### Estimation of transaction fee
 
-Transaction fee is calculated according to the computational steps of code execution required for each transaction. As the network situation is difference during each transaction, the below are estimation of each scenario:
+Transaction fee is calculated according to the computational steps of code execution required for each transaction. As the network situation is difference during each transaction, the below are estimation of scenario:
 
 * LIKE pay: Around 0.059 LIKE
 * Delegate: Around 0.19 LIKE
@@ -26,7 +26,7 @@ Clicks on "Details" in the Liker Land app during LIKE pay, delegate, undelegate,
 
 ![](../../.gitbook/assets/like-pay-4-en.png)
 
-### Important
+### Leave transaction fee in your wallet
 
 {% hint style="danger" %}
 Suggested to leave around 2 to 10 LikeCoin as transaction fee in your wallet. If there is not enough LikeCoin to complete the transaction and it is failed, the transaction fee used in the attempt will not be returned.
