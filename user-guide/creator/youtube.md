@@ -32,7 +32,7 @@ For example if your Liker ID is foundation \( This the Liker ID of LikeCoin foun
 
 ![](../../.gitbook/assets/youtube-2-en.png)
 
-### Step 3: Check out the LikeCoin button on your video
+### Step 3: Check out the LikeCoin button on your Youtube video
 
 
 
