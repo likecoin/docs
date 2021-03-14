@@ -46,6 +46,7 @@
   * [Creator Pitch](user-guide/creator/creators-pitch.md)
   * [LikeCoin button](user-guide/creator/likecoin-button.md)
   * [Portfolio Page](user-guide/creator/portfolio-page.md)
+  * [Youtube](user-guide/creator/youtube.md)
   * [Matters](user-guide/creator/matters.md)
   * [WordPress](user-guide/creator/wordpress.md)
   * [Self-Host](user-guide/creator/self-host/README.md)
