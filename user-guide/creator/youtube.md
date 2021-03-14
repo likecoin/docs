@@ -10,7 +10,7 @@ Before installing the LikeCoin plugin, please [register a Liker ID](https://docs
 
 ### Step 1: Install Liker Land Chrome / Brave / Firefox extension
 
-Go to Chome / Firefox web store and add the extension to your browser.
+Go to Chrome / Firefox web store and add the extension to your browser.
 
 ![](../../.gitbook/assets/youtbe-en.png)
 
@@ -36,7 +36,7 @@ For example if your Liker ID is foundation \( This the Liker ID of LikeCoin foun
 
 
 
-Your Liker ID is ready and no longer display Temp LikerID. Supporter who installed the Liker Land Chrome / Brave / Firefox extension can clap and give you rewards now!
+Your Liker ID is ready and no longer displays Temp LikerID. Supporters who installed the Liker Land Chrome / Brave / Firefox extension can clap and give you rewards now!
 
 
 
