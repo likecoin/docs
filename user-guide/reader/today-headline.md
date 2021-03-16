@@ -30,7 +30,7 @@ Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://d
 
 ## Super Like 公海 <a id="super-like-world-feed"></a>
 
-覺得你的 Super Like 日報頭條不夠看？不打緊！點擊右上角的 \[地球\] 鍵，即可暢讀所有內容伯樂的 Super Like 精選文章，發堀更多精彩內容。假如你覺得他/她的品味不錯，更可點擊 \[追蹤\]，以後他/她經手 Super Like 的文章就會在你的頭條日報版面出現。
+覺得你的今日頭條不夠看？不打緊！點擊右上角的 \[地球\] 鍵，即可暢讀所有內容伯樂的 Super Like 精選文章，發堀更多精彩內容。假如你覺得他/她的品味不錯，更可點擊 \[追蹤\]，以後他/她經手 Super Like 的文章就會在你的頭條日報版面出現。
 
 ![](../../.gitbook/assets/super-like-reader-3.png)
 
