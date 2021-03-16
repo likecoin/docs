@@ -26,7 +26,7 @@ You can pay and [become a Civic Liker](https://docs.like.co/user-guide/civic-lik
 
 ### **Option 2: I'm a Creator too**
 
-Click and learn more about how to [embed a LikeCoin button](https://liker.land/creators) to a website.
+Click and learn more about how to invite your readers to become your Civic Liker to sponsor  you and ways to [embed a LikeCoin button](https://liker.land/creators) to a website.
 
 ### **Option 3: Settings**
 
