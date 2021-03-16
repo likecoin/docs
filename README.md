@@ -22,6 +22,7 @@ description: Frequently Asked Questions
 
 * [Facebook has more than enough news, why do I have to use Liker Land? ](https://docs.like.co/user-guide/reader#content-jockey)
 * [Browsing and reading is good enough for me, why a Reading List?](https://docs.like.co/user-guide/reader/readling-list)
+* [What is "Reinventing the Like"?](https://docs.like.co/user-guide/reader/readling-list)
 * [How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](https://docs.like.co/user-guide/reader/like)
 * [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](https://docs.like.co/user-guide/reader/superlike)
 
