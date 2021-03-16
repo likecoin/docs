@@ -22,6 +22,7 @@ description: LikeCoin 幫見問題
 
 * [Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？](https://docs.like.co/v/zh/user-guide/reader#nei-rong-bo-lao)
 * [我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](https://docs.like.co/v/zh/user-guide/reader/reading-list)
+* [甚麼是「化讚為賞」？](https://docs.like.co/v/zh/user-guide/reader/like)
 * [「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)
 * [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](https://docs.like.co/v/zh/user-guide/reader/superlike)
 
