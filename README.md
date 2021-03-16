@@ -21,6 +21,7 @@ description: Frequently Asked Questions
 ## [​I am a Reader](https://docs.like.co/user-guide/reader) <a id="wo-shi-du-zhe"></a>
 
 * [Facebook has more than enough news, why do I have to use Liker Land? ](https://docs.like.co/user-guide/reader#content-jockey)
+* [What's inside "Today's Headline"?](https://docs.like.co/user-guide/reader/today-headline)
 * [Browsing and reading is good enough for me, why a Reading List?](https://docs.like.co/user-guide/reader/readling-list)
 * [What is "Reinventing the Like"?](https://docs.like.co/user-guide/reader/readling-list)
 * [How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](https://docs.like.co/user-guide/reader/like)
