@@ -15,7 +15,6 @@ description: What are the updates on LikeCoin?
 
 ## More <a id="more"></a>
 
-* Follow [LikeCoin blog](https://medium.com/likecoin)  on Medium to receive our English monthly newsletter.
-* Follow [LikeCoin blog **Updates**](https://medium.com/likecoin/updates/home) column on Medium for our Semi-monthly Progress Update.
+* Follow [LikeCoin blog](https://medium.com/likecoin)  on Medium, check out the [LikeCoin blog **Updates**](https://medium.com/likecoin/updates/home) column for our Semi-monthly Progress Update.
 * Moreover, the tag [**\#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) ****on Matters serves updates in Chinese from time to time.
 
