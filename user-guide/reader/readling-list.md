@@ -16,6 +16,12 @@ The bookmark icon is highlighted after the content is saved
 
 ![](../../.gitbook/assets/likecoin-button-save-later-2.png)
 
+## Add to Reading List
+
+If you finished reading an article, the system will add a green tick on it \(circled in red\), you can also click on the bookmark icon to save the article to Reading list for read it later.
+
+![](../../.gitbook/assets/super-like-reader-1-en.png)
+
 ## Bookmark content on mobile and tablet to Liker Land
 
 Step 1: When reading an article on browser or mobile app \(e.g. Twitter\), click the "Share" button
