@@ -21,7 +21,7 @@ description: LikeCoin 幫見問題
 ## [我是讀者](https://docs.like.co/v/zh/user-guide/reader)
 
 * [Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？](https://docs.like.co/v/zh/user-guide/reader#nei-rong-bo-lao)
-* [「今日頭條」可以看到些甚麼？](https://docs.like.co/v/zh/user-guide/reader/today-headline)
+* [下載了手機應用程式可以看到些甚麼？](https://docs.like.co/v/zh/user-guide/reader/today-headline)
 * [我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](https://docs.like.co/v/zh/user-guide/reader/reading-list)
 * [甚麼是「化讚為賞」？](https://docs.like.co/v/zh/user-guide/reader/like)
 * [「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)
