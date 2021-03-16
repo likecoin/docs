@@ -26,7 +26,7 @@ description: 要去哪裏下載 Liker Land？
 
 ### 選項二：創作者加盟
 
-點擊這裡會被導到 Liker Land 的[相關頁面](https://liker.land/creators)，介紹如何在網站上生成作者的讚賞鍵。‌
+點擊這裡會被導到 Liker Land 的[相關頁面](https://liker.land/creators)，介紹如何在網站上邀請別人成為自己的讚賞公民贊助自己及生成創作者的讚賞鍵。‌
 
 ### 選項三：設定
 
@@ -38,7 +38,7 @@ description: 要去哪裏下載 Liker Land？
 {% page-ref page="../liker-id/edit-avatar-displayname.md" %}
 
 * 讚賞公民：訂閱 / 退訂
-* 作者設定：設定[給讀者的話](https://docs.like.co/v/zh/user-guide/creator/creators-pitch)、查看[收入概覽](https://docs.like.co/v/zh/user-guide/creator/support)
+* 作者設定：創作者可設定[給讀者的話](https://docs.like.co/v/zh/user-guide/creator/creators-pitch)、查看[收入概覽](https://docs.like.co/v/zh/user-guide/creator/support)
 * 追蹤設定：顯示用戶已追蹤的[內容伯樂（Content Jockey](https://docs.like.co/v/zh/user-guide/reader/superlike)），可在這裡取消追蹤（下圖）
 
 ![](../../.gitbook/assets/liker-land-web-3.png)
