@@ -4,7 +4,7 @@ description: Use LikeCoin to pay for Civic Liker
 
 # How to pay Civic Liker yearly subscription by LikeCoin
 
-_**Apply to Civic Liker old scheme only**_
+_**Apply to Civic Liker 1.0 scheme only**_
 
 You can use Liker Land mobile app to pay for Civic Liker yearly subscription fee \(15,000 LikeCoin\). 
 
