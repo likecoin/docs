@@ -12,7 +12,7 @@
 
 ## 個人資訊
 
-頁面的左手邊展示個人資訊，包括 [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id)姓名及[給讀者的話](https://docs.like.co/v/zh/user-guide/creator/creators-pitch)。假若用戶是讚賞公民則包括成為[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)的日期，並提供以下功能：
+頁面的左手邊展示個人資訊，包括 [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id)、姓名及[給讀者的話](https://docs.like.co/v/zh/user-guide/creator/creators-pitch)。假若用戶是讚賞公民則包括成為[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)的日期，並提供以下功能：
 
 * 成為讚賞公民－讀者點擊鏈結成為讚賞公民能讓創作者每月獲得 LikeCoin 奬勵，詳見[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)
 * 追蹤－點擊並[追蹤作為內容伯樂的用戶](https://docs.like.co/v/zh/user-guide/reader/today-headline#zhui-zong-nei-rong-bo-lao)
