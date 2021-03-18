@@ -54,3 +54,7 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 
 ![](../../.gitbook/assets/like-pay-6.png)
 
+{% hint style="danger" %}
+留意使用 Liker Land 網頁版轉帳並不會顯示所需手續費，轉帳前請確認你有足夠手續費完成此項操作。
+{% endhint %}
+
