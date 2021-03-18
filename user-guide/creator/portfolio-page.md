@@ -14,7 +14,7 @@ Method 2: The Portfolio Page url is https://liker.land/\[Your Liker ID\], if you
 
 The left hand side of the Portfolio Page displays information of the user, including [Liker ID](https://docs.like.co/user-guide/liker-id), name and [creator pitch](https://docs.like.co/user-guide/creator/creators-pitch). If the user is a [Civic Liker](https://docs.like.co/user-guide/civic-liker), the date he/she stated to be a Civic Liker and with the following functions:
 
-* Become a Civic Liker - If Readers click on it and become a Civic Liker, the content creator can receive monthly support in LikeCoin. Read more: [Civic Liker](https://docs.like.co/user-guide/civic-liker) 
+* Become a Civic Liker - If Readers click on it and become a Civic Liker, the content creators can receive monthly support in LikeCoin. Read more: [Civic Liker](https://docs.like.co/user-guide/civic-liker) 
 * Follow - Click and follow the user as a [Content Jockey](https://docs.like.co/user-guide/reader/superlike)
 * [LIKE Pay](https://docs.like.co/user-guide/likecoin-token/like-pay)－Transfer LikeCoin to the user
 
