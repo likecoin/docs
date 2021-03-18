@@ -1,12 +1,12 @@
 ---
-description: A couple of steps
+description: Just a couple of steps
 ---
 
 # Unsubscribe Civic Liker
 
 Please follow the steps:
 
-Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "settings".
+Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "Settings".
 
 ![](../../.gitbook/assets/subscribe-civic-liker-1-en.png)
 
