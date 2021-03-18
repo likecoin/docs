@@ -33,12 +33,15 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 * 右下方的廣播圖示亮著代表這篇文章已被分享到 Liker Land 上。
 * Super Like 的機會次數不會累積，若重置前沒有用掉，重置後也仍然只有一次機會，因此每天最多只能使用 Super Like 兩次。
 * 可重複給同一篇文章 Super Like。
+* 創作者 Super Like 自己的文章可以將作品放置於[個人主頁的作品集](https://docs.like.co/v/zh/user-guide/creator/portfolio-page#zuo-pin)。
 
 ## 怎樣參與
 
-只有[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)可獲每天兩次的 SuperLike 機會。【[成為讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker/be-a-civic-liker)】
+只有[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)可獲每天兩次的 SuperLike 機會。
 
-## Super Like 功能展示
+【[成為讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker/be-a-civic-liker)】
+
+## 功能展示
 
 {% embed url="https://www.youtube.com/watch?v=ImmKksiHMt0" caption="分享文章也能賺錢？Super Like 功能演示 （國語）" %}
 
