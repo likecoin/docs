@@ -4,7 +4,7 @@ description: For Hong Kong resident only
 
 # How to pay Civic Liker yearly scubscription by PayMe or FPS
 
-#### **P**_**lease contact LikeCoin help desk before making the payment.**_
+#### _**The following applies to Civic Liker 1.0, please contact LikeCoin help desk before making the payment.**_
 
 If you are from Hong Kong, you can pay for Civic Liker by PayMe or FPS, the **yearly subscription fee is HKD468**.
 
