@@ -22,7 +22,7 @@ The default Content Jockeys was managed by the Republic of Liker Land with [Liqu
 * Matters：[hi176-matters](https://like.co/hi176-matters)​
 * LikeCoin Foundation：[foundation](https://like.co/foundation)（Reports, Announcements, Proposals, etc）
 
-## Follow Content Jockey
+## Follow a Content Jockey
 
 Moreover, readers can follow their trusted Content Jockeys. Click on the avatar on the LikeCoin button will jump to the Portfolio Page for following them.
 
