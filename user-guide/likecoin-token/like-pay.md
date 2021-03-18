@@ -55,6 +55,6 @@ On the Send LikeCoin to page, input the number of LikeCoin that you have to send
 ![](../../.gitbook/assets/like-pay-6-en.png)
 
 {% hint style="danger" %}
-
+Using Like Land web to transfer LikeCoin will not display the estimated Transaction fee, Please make sure that your wallet has enough spare LikeCoin other than those you have to transfer.
 {% endhint %}
 
