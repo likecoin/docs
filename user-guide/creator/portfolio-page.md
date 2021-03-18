@@ -16,7 +16,7 @@
 
 * 成為讚賞公民－讀者點擊鏈結成為讚賞公民能讓創作者每月獲得 LikeCoin 奬勵，詳見[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)
 * 追蹤－點擊並[追蹤作為內容伯樂的用戶](https://docs.like.co/v/zh/user-guide/reader/today-headline#zhui-zong-nei-rong-bo-lao)
-* [LIKE Pay](https://docs.like.co/v/zh/user-guide/likecoin-token/like-pay)－直接轉帳 LikeCoin 予該用戶
+* [LIKE pay](https://docs.like.co/v/zh/user-guide/likecoin-token/like-pay)－直接轉帳 LikeCoin 予該用戶
 
 ![](../../.gitbook/assets/likerid-avatar.png)
 
