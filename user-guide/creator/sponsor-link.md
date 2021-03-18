@@ -8,7 +8,7 @@ Sponsor link supports various platforms and embrace openness. Creators create co
 
 Format of the sponsor link url is https://liker.land/\[Your Liker ID\]/civic, if your [Liker ID](https://docs.like.co/user-guide/liker-id) is edmondyu, your link is going to be [https://liker.land/edmondyu/civic](https://liker.land/edmondyu/civic).
 
-You can also login Liker Web, click on the menu at the top right hand corner, select "I'm a Creator too" [https://liker.land/creators](https://liker.land/creators) and copy your sponsor link.
+You can also login Liker Web, click on the menu at the top right hand corner, select "I'm a Creator too" or simply go to [https://liker.land/creators](https://liker.land/creators) and copy your sponsor link.
 
 ![](../../.gitbook/assets/sponsor-link-01-en.png)
 
