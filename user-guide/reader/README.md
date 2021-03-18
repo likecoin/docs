@@ -20,7 +20,7 @@ Pinpointing the problem of AI selection, Liker Land adopts "Zero AI curation str
 
 ## **A wide range of selection** <a id="duo-yuan-xuan-ze"></a>
 
-There are also 1,400 websites, three hundreds thousand articles by 11,000 content creators.
+There are also 1,400 websites, three hundreds thousand articles by 11,000 content creators \(Check out the [Real-time statistics](https://docs.like.co/user-guide/about#republic-of-liker-land)\).
 
 ## Deep Reading
 
@@ -28,5 +28,5 @@ Bookmarking any web page to Liker Land [Readling list](https://docs.like.co/user
 
 ## **Reinventing the Like** <a id="hua-zan-wei-shang"></a>
 
-From each clap the reader made, content creators can earn rewards.
+From [each clap](https://docs.like.co/user-guide/reader/like) the reader made, content creators can earn rewards.
 
