@@ -8,7 +8,7 @@ description: 用 Liker Land 手機應用程式轉帳 LikeCoin，幾秒搞定
 
 ### **步驟一**
 
-首先你需要安裝 [Liker Land 手機應用程式](https://liker.land/getapp)。
+首先你需要安裝並登入 [Liker Land 手機應用程式](https://liker.land/getapp)。
 
 ### **步驟二**
 
@@ -40,7 +40,17 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 
 ![](../../.gitbook/assets/like-pay-4.png)
 
-## 使用個人主頁轉帳 LikeCoin
+## 使用 Liker Land 網頁版轉帳 LikeCoin
 
+### 步驟一
 
+請先登入 [Liker Land 網頁版](https://docs.like.co/v/zh/user-guide/reader/download#liker-land-wang-ye-ban-httpslikerland)，並於[個人主頁](https://docs.like.co/v/zh/user-guide/creator/portfolio-page)點擊 Like pay。
+
+![](../../.gitbook/assets/like-pay-5.png)
+
+### 步驟二
+
+在轉帳頁面輸入需要轉帳的 LikeCoin 數量，再點擊「確認」 即可完成轉帳。
+
+![](../../.gitbook/assets/like-pay-6.png)
 
