@@ -33,6 +33,7 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 * The RSS icon on the lower right hand corner turned on and the article is being shared to Liker Land.
 * Super Like cannot be accumulated, if it is not being used before the time to reset, it will be obsolete. You can only Super Like twice a day.
 * You can Super Like a single article for more than one time.
+* Content creators click on the LikeCoin button of their own article can Super Like and put their article to [the "Works" section in Portfolio Page](https://docs.like.co/user-guide/creator/portfolio-page#works). 
 
 ## **How to participate?** <a id="zen-yang-can-yu"></a>
 
