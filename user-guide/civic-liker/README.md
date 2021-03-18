@@ -39,7 +39,6 @@ Other than supporting creators, Civic Likers enjoy various benefits such as taki
 * Vote and support beloved content
 * Participate in community voting
 * Access bonus contents
-* Receive special treats
 * Receive idol newsletter
 * Join offline events
 * Detailed reward distribution report
