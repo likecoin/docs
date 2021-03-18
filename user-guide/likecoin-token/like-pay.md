@@ -4,9 +4,11 @@ description: 'Transfer LikeCoin using Liker Land mobile app in a few clicks, no 
 
 # LIKE Pay
 
+## Like pay on Liker Land app
+
 ### Step 1
 
-Download [Liker Land mobile app](https://liker.land/getapp), we do not support transferring LikeCoin on desktop computers at the moment.
+Download and login [Liker Land mobile app](https://liker.land/getapp).
 
 ### Step 2
 
@@ -37,4 +39,22 @@ Some crypto exchanges may require input of Tag/Memo, please fill in the value he
 ****Input the amount of LikeCoin that you have to transfer, click \[Next\].  You may click on the \[Details\] to check the estimated [Transaction fee](https://docs.like.co/user-guide/likecoin-token/transaction-fee) for this LikeCoin transfer.  Make sure that your wallet has enough spare LikeCoin other than those you have to transfer. Click \[Confirm\] to finish the transfer.
 
 ![](../../.gitbook/assets/like-pay-4-en.png)
+
+### Like pay on Liker Land Web
+
+### Step 1
+
+Login [Liker Land web](https://docs.like.co/user-guide/reader/download#liker-land-web-https-liker-land) and click Like pay on the [Portfolio Page](https://docs.like.co/user-guide/creator/portfolio-page).
+
+![](../../.gitbook/assets/like-pay-5-en.png)
+
+### Step 2
+
+On the Send LikeCoin to page, input the number of LikeCoin that you have to send and click "Confirm" to finish the transfer.
+
+![](../../.gitbook/assets/like-pay-6-en.png)
+
+{% hint style="danger" %}
+
+{% endhint %}
 
