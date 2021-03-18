@@ -6,7 +6,7 @@ description: Get more sponsors
 
 In order to get more sponsors to become your [Civic Liker](https://docs.like.co/user-guide/civic-liker), an attractive creator pitch will help to leverage your image. The setup is easy, please follow the steps:
 
-Step 1: Login in Liker Land web, click on the menu at the top right hand corner, select "settings" or simply go to [https://liker.land/settings/](https://liker.land/settings/).
+Step 1: Login in Liker Land web, click on the menu at the top right hand corner, select "Settings" or simply go to [https://liker.land/settings/](https://liker.land/settings/) to check it out.
 
 ![](../../.gitbook/assets/subscribe-civic-liker-1-en.png)
 
