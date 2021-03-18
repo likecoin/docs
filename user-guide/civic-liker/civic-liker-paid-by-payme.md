@@ -4,7 +4,7 @@ description: For Hong Kong resident only
 
 # How to pay Civic Liker yearly scubscription by PayMe or FPS
 
-_**Apply to Civic Liker old scheme only**_
+_**Suspended for the current moment.**_
 
 If you are from Hong Kong, you can pay for Civic Liker by PayMe or FPS, the **yearly subscription fee is HKD468**.
 
