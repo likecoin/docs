@@ -8,7 +8,7 @@ description: 爭取更多贊助
 
 「給讀者的話」設定非常簡單，請執行以下步驟：
 
-步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「設定」或直接點擊 [https://liker.land/settings/](https://liker.land/settings/)。
+步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「設定」或直接點擊 [https://liker.land/settings/](https://liker.land/settings/) 跳轉至設定頁。
 
 ![](../../.gitbook/assets/subscribe-civic-liker-1.png)
 
