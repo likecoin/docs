@@ -36,19 +36,19 @@ description: 以台幣買賣 LikeCoin 最方便
 
 ### 步驟二：轉帳 LikeCoin 到 BitAsset
 
-過程就跟 PayMe 或 Line Pay 差不多。打開 [Liker Land 手機應用程式](https://like.co/in/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己口袋裡有多少錢。點畫面上的「轉帳」 / \[Send\] 鍵（下圖紅圈位置）。
+過程就跟 PayMe 或 Line Pay 差不多。打開 [Liker Land 手機應用程式](https://like.co/in/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己口袋裡有多少錢。點畫面上的「LIKE pay」（下圖紅圈位置）。
 
-![&#x5728; Liker Land &#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;&#x9322;&#x5305;&#x4ECB;&#x9762;&#x9078; \[Send\]&#xFF08;&#x7D05;&#x5708;&#xFF09;](../../.gitbook/assets/bitasset-trade-6.png)
+![&#x5728; Liker Land &#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;&#x9322;&#x5305;&#x4ECB;&#x9762;&#x9078;&#x300C;Like pay&#x300D;&#xFF08;&#x7D05;&#x5708;&#xFF09;](../../.gitbook/assets/like-pay-1.png)
 
 進入下一頁後，點下圖紅圈位置的二維碼圖示。app 會跳進照相機介面讓你掃描二維碼，請掃描【步驟一】中你的 BitAsset 帳戶 LikeCoin 錢包的二維碼，因為你想要轉錢到 BitAsset。 
 
 ![&#x9EDE;&#x4E0A;&#x5716;&#x7D05;&#x5708;&#x4F4D;&#x7F6E;&#x6253;&#x958B;&#x7167;&#x76F8;&#x6A5F;](../../.gitbook/assets/bitasset-trade-7.png)
 
-輸入你想要轉帳的 LikeCoin 金額，然後點擊「確認」 / \[Confirm\]。
+輸入你想要轉帳的 LikeCoin 金額，然後點擊「確認」。
 
 ![](../../.gitbook/assets/bitasset-trade-8.png)
 
-轉帳指示已發出，過程不用兩分鐘，很方便對吧？過去 LikeCoin 還是 ERC-20 版本時，要付以太幣作手續費及用 MetaMask 錢包轉帳的時代已經過去了。
+轉帳指示已發出，過程不用兩分鐘，很方便對吧？
 
 接下來便要等 BitAsset 那邊確認收款了。
 
