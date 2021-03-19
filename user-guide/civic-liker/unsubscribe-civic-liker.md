@@ -20,7 +20,7 @@ Step 3: For Civc Liker old scheme, there is a "Cancel Civic Liker subscription: 
 
 For Civic Liker 2.0, select the content creator to unscribe and click "Edit".
 
-![](../../.gitbook/assets/unsubscribe-civic-liker-twopointzero-2-en.png)
+![](../../.gitbook/assets/unsubscribe-civic-liker-twopointzero-2-en%20%281%29.png)
 
 Then click "Cancel subscription" to proceed.
 

@@ -10,7 +10,7 @@ description: Buy and Swap LikeCoin. Instantly
 
 **Please be reminded: The transaction amount affects the exchange rate, the system displays real time offers.**
 
-![](../../.gitbook/assets/quick-exchange-1.png)
+![](../../.gitbook/assets/quick-exchange-1%20%281%29.png)
 
 ![](../../.gitbook/assets/liquid-qe.gif)
 

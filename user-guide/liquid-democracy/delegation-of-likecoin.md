@@ -16,7 +16,7 @@ Please note the commission rate of each validator may not be the same.
 
 ![Click on the avatar at the lower right hand corner](../../.gitbook/assets/img_2324.jpg)
 
-![Click the amount of LikeCoin to enter into the wallet page](../../.gitbook/assets/delegate.png)
+![Click the amount of LikeCoin to enter into the wallet page](../../.gitbook/assets/delegate%20%281%29.png)
 
 Select one of the validators and bring up the page below, list out percentage of Rewards, Voting Power and how much LikeCoin is being delegated to this validator \(Liker Share\).
 

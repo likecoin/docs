@@ -34,11 +34,13 @@ For example if your Liker ID is foundation \( This the Liker ID of LikeCoin foun
 
 ### Step 3: Check out the LikeCoin button on your Youtube video
 
-
-
-Your Liker ID is ready and no longer displays Temp LikerID. Supporters who installed the Liker Land Chrome / Brave / Firefox extension can clap and give you rewards now!
+Your Liker ID is ready and no longer displays Temp LikerID.
 
 
 
 ![](../../.gitbook/assets/youtube-3-en.png)
+
+### Step 4: Invite your fans to install Liker Land Chrome / Brave / Firefox extension
+
+Invite your fans to install Liker Land Chrome / Brave / Firefox extension. Supporters who installed the Liker Land Chrome / Brave / Firefox extension can clap and reward you work at any time!
 
