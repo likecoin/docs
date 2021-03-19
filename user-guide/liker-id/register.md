@@ -18,7 +18,7 @@ Suggest to register with your social media accounts, which is safer and easier. 
 
 ### Step 3: Complete your account details
 
-Complete your social media account details, for example, if you have a Google Account, fill in your Gmail address and login password.
+Complete your social media account details, for example, if you have a Google Account, fill in your GMail address and login password.
 
 ![Fill in your social media account details \(e.g. GMail address\)](../../.gitbook/assets/img_2338.PNG)
 
