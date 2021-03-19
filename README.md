@@ -31,8 +31,12 @@ description: LikeCoin 幫見問題
 
 * [我是作者，LikeCoin 可以幫到我甚麼？](https://docs.like.co/v/zh/user-guide/content-creators)
 * [「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)
-* [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？可以怎樣幫助我展示自己的內容？](https://docs.like.co/v/zh/user-guide/reader/superlike)
+* [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](https://docs.like.co/v/zh/user-guide/reader/superlike)
+* [別人可透過甚麼方法贊助我？](https://docs.like.co/v/zh/user-guide/creator/sponsor-link)
+* [如何吸引更多人贊助我？](https://docs.like.co/v/zh/user-guide/creator/creators-pitch)
+* [個人主頁可以怎樣幫助我展示自己的作品？](https://docs.like.co/v/zh/user-guide/creator/portfolio-page)
 * [LikeCoin button 讚賞鍵有甚麼功能？](https://docs.like.co/v/zh/user-guide/content-creators/likecoin-button)\*\*\*\*
+* [在 YouTube 也可以按讚？要怎樣做呢？](https://docs.like.co/v/zh/user-guide/creator/youtube)
 * [如何在自架 WordPress 加入 LikeCoin button？](https://docs.like.co/v/zh/user-guide/creator/wordpress)
 * [我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](https://docs.like.co/v/zh/user-guide/creator/blogging-platforms)
 * [如何查看每週、每天、每篇文章所獲得的讚賞收益？](https://docs.like.co/v/zh/user-guide/creator/rewards)
