@@ -46,5 +46,5 @@ The system transfers LikeCoin ERC-20 from MetaMask to smart contract, therefore 
 
 ### 7. During the migration process, encounter "Error: NOT\_ENOUGH\_GAS, NEED X.XXXXX"
 
-You have to prepare enough ETH as GAS Fee, you may refer to [ETH GAS Station](https://ethgasstation.info/) for the fee required.
+You have to prepare enough ETH \(the number in NOT\_ENOUGH\_GAS, NEED X.XXXXX\)  as GAS Fee, you may refer to [ETH GAS Station](https://ethgasstation.info/) for the fee required.
 
