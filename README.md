@@ -30,9 +30,13 @@ description: Frequently Asked Questions
 ## \*\*\*\*[**​I am a Content Creator**](https://docs.like.co/user-guide/creator) <a id="wo-shi-chuang-zuo-zhe"></a>
 
 * [ I am a content creator, how can LikeCoin help me?](https://docs.like.co/user-guide/creator)
-* [What are the functions of the LikeCoin button?](https://docs.like.co/user-guide/creator/likecoin-button)
 * [How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](https://docs.like.co/user-guide/reader/like)
 * [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](https://docs.like.co/user-guide/reader/superlike)
+* [How can people sponsor me?](https://docs.like.co/user-guide/creator/sponsor-link)
+* [How to attract more sponsors?](https://docs.like.co/user-guide/creator/creators-pitch)
+* [Portfolio Page helps to display all of my works? How to use it?  ](https://docs.like.co/user-guide/creator/portfolio-page)
+* [What are the functions of the LikeCoin button?](https://docs.like.co/user-guide/creator/likecoin-button)
+* [Earn LikeCoin on YouTube？Wow!](https://docs.like.co/user-guide/creator/youtube)
 * [How to embed LikeCoin button into a self-hosted WordPress?](https://docs.like.co/user-guide/creator/wordpress)
 * [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](https://docs.like.co/user-guide/creator/blogging-platforms)
 * [How to check my daily and weekly rewards?](https://docs.like.co/user-guide/creator/rewards)
