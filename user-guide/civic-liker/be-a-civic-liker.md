@@ -15,7 +15,7 @@ description: 贊助創作者方法非常簡單
 
 ![](../../.gitbook/assets/register-civic-liker-1.png)
 
-* 點擊創作者 LikeCoin button 讚賞鍵的「成為讚賞公民」按鍵
+* 點擊創作者 LikeCoin button 讚賞鍵的「成為讚賞公民」
 
 ![](../../.gitbook/assets/register-civic-liker-2.png)
 

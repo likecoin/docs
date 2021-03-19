@@ -16,7 +16,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ### 步驟三：找到 MyEthShop 帳戶的 LikeCoin 錢包地址
 
-點「帳戶」鍵進入下方畫面，在上面綠色按鍵點擊「轉入」選 「LIKE」，又或者在一系列密碼貨幣當中選 LIKE 再點擊藍色「轉入」按鍵傳 LikeCoin 到 MyEthshop 以便賣出。你亦可以選「HKD」存入港幣買進 LikeCoin
+點「帳戶」鍵進入下方畫面，在上面綠色點擊「轉入」選 「LIKE」，又或者在一系列密碼貨幣當中選 LIKE 再點擊藍色「轉入」傳 LikeCoin 到 MyEthshop 以便賣出。你亦可以選「HKD」存入港幣買進 LikeCoin
 
 ![](../../.gitbook/assets/myethshop-1.png)
 
