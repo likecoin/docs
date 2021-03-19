@@ -30,9 +30,9 @@ description: LikeCoin 幫見問題
 ## \*\*\*\*[**我是創作者**](https://docs.like.co/v/zh/user-guide/content-creators)\*\*\*\*
 
 * [我是作者，LikeCoin 可以幫到我甚麼？](https://docs.like.co/v/zh/user-guide/content-creators)
-* [LikeCoin button 讚賞鍵有甚麼功能？](https://docs.like.co/v/zh/user-guide/content-creators/likecoin-button)\*\*\*\*
 * [「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)
-* [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不用 AI 策展就好？](https://docs.like.co/v/zh/user-guide/reader/superlike)
+* [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？可以怎樣幫助我展示自己的內容？](https://docs.like.co/v/zh/user-guide/reader/superlike)
+* [LikeCoin button 讚賞鍵有甚麼功能？](https://docs.like.co/v/zh/user-guide/content-creators/likecoin-button)\*\*\*\*
 * [如何在自架 WordPress 加入 LikeCoin button？](https://docs.like.co/v/zh/user-guide/creator/wordpress)
 * [我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](https://docs.like.co/v/zh/user-guide/creator/blogging-platforms)
 * [如何查看每週、每天、每篇文章所獲得的讚賞收益？](https://docs.like.co/v/zh/user-guide/creator/rewards)
