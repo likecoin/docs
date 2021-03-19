@@ -44,7 +44,7 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 
 ### 步驟一
 
-請先登入 [Liker Land 網頁版](https://docs.like.co/v/zh/user-guide/reader/download#liker-land-wang-ye-ban-httpslikerland)，並於[個人主頁](https://docs.like.co/v/zh/user-guide/creator/portfolio-page)點擊 Like pay。
+請先登入 [Liker Land 網頁版](https://docs.like.co/v/zh/user-guide/reader/download#liker-land-wang-ye-ban-httpslikerland)，並於[個人主頁](https://docs.like.co/v/zh/user-guide/creator/portfolio-page)點擊 LIKE pay。
 
 ![](../../.gitbook/assets/like-pay-5.png)
 
