@@ -15,7 +15,7 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 ### 步驟一
 
-登入 [Liker Land](https://liker.land/) 並前往 [https://like.co/in/settings](https://like.co/in/settings)，到 Authcore 設定的部份，點選「安全設定」；或於 Liker Land 手機應用程式選畫面右下角的帳戶頭像點選 \[Account Settings\]，再點選「社群登入」 / \[Social logins\]。
+登入 [Liker Land](https://liker.land/) 並前往 [https://like.co/in/settings](https://like.co/in/settings)，到「Authcore 設定」的部份，點選「安全設定」；或於 Liker Land 手機應用程式選畫面右下角的帳戶頭像點選「安全」，再點選「社交帳戶登入」。
 
 ![](../../.gitbook/assets/social-media-logins-1.png)
 
@@ -29,8 +29,8 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 用戶需要在 Matters 網站內設置綁定：
 
-1. 請登入 [matters.news](https://matters.news) 
-2. 點擊右上角的帳戶頭像，從菜單中選「設定」
+1. 請登入 [Matters.news](https://matters.news)
+2. 點擊右手邊的帳戶頭像，從菜單中選「設定」
 3. 在「錢包設定」部份，選綁定 Liker ID
 4. 按畫面指示登入 Liker ID
 
