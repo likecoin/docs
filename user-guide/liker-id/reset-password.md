@@ -14,8 +14,7 @@ Go to [https://liker.land/](https://liker.land/) and make sure that you are bein
 
 ### **Step 2**
 
-Login again, on the login box select "Reset Password".  
-
+Login again, on the login box select "Reset Password".
 
 ![](../../.gitbook/assets/resetpassword-1.png)
 
