@@ -48,8 +48,6 @@ description: Frequently Asked Questions
 * [How to be a Civic Liker?  ](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker)
 * [How to change credit card information?](https://docs.like.co/user-guide/civic-liker/change-credit-card)
 * [How to unsubscribe Civic Liker?](https://docs.like.co/user-guide/civic-liker/unsubscribe-civic-liker)
-* [How to pay Civic Liker yearly subscription by LikeCoin?](https://docs.like.co/user-guide/civic-liker/civic-liker-paid-by-likecoin)
-* [How to pay Civic Liker yearly scubscription by PayMe or FPS?](https://docs.like.co/user-guide/civic-liker/civic-liker-paid-by-payme)
 
 ## ​[Liker ID](https://docs.like.co/user-guide/liker-id)​ <a id="liker-id"></a>
 
