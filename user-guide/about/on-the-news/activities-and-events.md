@@ -12,7 +12,7 @@
 
 [Blockchain Application Chaining up our Social Lives, the LikeCoin Experience💰 / 區塊鏈應用分享課: LikeCoin的化讚為賞社會學👍](https://www.facebook.com/HKBUTriAngle/posts/290607692396255)
 
-{% embed url="https://www.facebook.com/HKBUTriAngle/posts/290607692396255" %}
+{% embed url="https://www.youtube.com/watch?v=D8jv3NeTwME" %}
 
 ### 01/17 2020年新媒體節 網絡媒體高峰會及工作坊
 
