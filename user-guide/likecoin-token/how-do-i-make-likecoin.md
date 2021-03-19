@@ -8,7 +8,7 @@ description: 除了創作，有更多方法獲取 LikeCoin
 
 只需在作品中加入 LikeCoin button 讚賞鍵，便可把讀者的按讚轉化為 LikeCoin 收入，「化讚為賞」。
 
-[**Matters** ](https://matters.news/)的文章會自動附帶讚賞鍵。媒體博客可把 [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id) **\*\*提供予 \[**獨立媒體**\]\(**[https://www.inmediahk.net/\)、\[](https://www.inmediahk.net/%29、[)立場新聞**\]\(**[https://thestandnews.com/\)、\[](https://thestandnews.com/%29、[)眾新聞**\]\(**[https://www.hkcnews.com/](https://www.hkcnews.com/)**\) \*\***等合作媒體；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 外掛](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上讚賞鍵。讚賞鍵也支援 [Medium](http://medium.com/)、[方格子](https://vocus.cc/)、[Blogspot \( Blogger.com \) ](https://www.blogger.com/)及[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)等。此外作者亦可於任何渠道分享自己[贊助鏈結](https://docs.like.co/v/zh/user-guide/creator/sponsor-link)（格式： [https://liker.land/\[你的](https://liker.land/[你的) Liker ID\]/civic），輕易地建立以月費支持自己的讚賞公民群體。
+[**Matters** ](https://matters.news/)的文章會自動附帶讚賞鍵。媒體博客可把 [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id) **\*\*** 提供予 \[獨立媒體\] \([https://www.inmediahk.net/](https://www.inmediahk.net/)\)、\[立場新聞\] \([https://thestandnews.com/](https://www.thestandnews.com/)\)、\[眾新聞\] \([https://www.hkcnews.com/](https://www.hkcnews.com/)\) **\*\*** 等合作媒體；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 外掛](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上讚賞鍵。讚賞鍵也支援 [Medium](http://medium.com/)、[方格子](https://vocus.cc/)、[Blogspot \( Blogger.com \) ](https://www.blogger.com/)及[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)等。此外作者亦可於任何渠道分享自己[贊助鏈結](https://docs.like.co/v/zh/user-guide/creator/sponsor-link)（格式： https://liker.land/\[你的 Liker ID\]/civic），輕易地建立以月費支持自己的讚賞公民群體。
 
 創作者每天所得的回饋來自兩部份：
 
