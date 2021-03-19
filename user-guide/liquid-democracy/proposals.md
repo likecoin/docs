@@ -6,6 +6,13 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+## Proposal \#10 Decrease minimum deposit for proposals to 10,000 LIKE
+
+* Proposer: [Askender](https://matters.news/@askender)
+* Proposal Type: Text Proposal
+* Date: Submit on 2021.02.27, Unable to reach deposit amount, proposal removed on 2020.03.18 
+* Details: [https://likecoin.bigdipper.live/proposals/10](https://likecoin.bigdipper.live/proposals/10)
+
 ## Proposal \#9 Delegate the LIKE in the ecological pool
 
 * Proposer: [guanyun](https://matters.news/@guanyun/towards-a-republic-of-liker-land-the-9th-proposal-bafyreicn5r4jqcz267ksdcj3rjmxvkykwsrrw4q72as6j7k7k267k4xy24)
