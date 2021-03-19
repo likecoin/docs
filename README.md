@@ -45,10 +45,16 @@ description: Frequently Asked Questions
 ## ​[Civic Liker](https://docs.like.co/user-guide/civic-liker)​ <a id="civic-liker"></a>
 
 * [Why should I become a Civic Liker? Any benefits?](https://docs.like.co/user-guide/civic-liker)
-* [How to pay Civic Liker yearly scubscription by PayMe or FPS?](https://docs.like.co/user-guide/civic-liker/civic-liker-paid-by-payme)
-* [How to pay Civic Liker yearly subscription by LikeCoin?](https://docs.like.co/user-guide/civic-liker/civic-liker-paid-by-likecoin)
-* [How to change credit card information?](https://docs.like.co/user-guide/civic-liker/change-credit-card)
+* * * [How to change credit card information?](https://docs.like.co/user-guide/civic-liker/change-credit-card)
 * [How to unsubscribe Civic Liker?](https://docs.like.co/user-guide/civic-liker/unsubscribe-civic-liker)
+
+
+
+* [How to pay Civic Liker yearly subscription by LikeCoin?](https://docs.like.co/user-guide/civic-liker/civic-liker-paid-by-likecoin)
+
+
+
+* [How to pay Civic Liker yearly scubscription by PayMe or FPS?](https://docs.like.co/user-guide/civic-liker/civic-liker-paid-by-payme)
 
 ## ​[Liker ID](https://docs.like.co/user-guide/liker-id)​ <a id="liker-id"></a>
 
