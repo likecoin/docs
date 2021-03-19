@@ -6,11 +6,11 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
-## 議案 \#10 委託生態池的 LikeCoin
+## 議案 \#10 發起議案的押金改為 10,000 LIKE
 
 * 提案：[Askender](https://matters.news/@askender)
 * 類型：文本式議案 \( Text Proposal \)
-* 日期：2021.02.27 提案，2021.03.18 押金不足，提案未獲通過
+* 日期：2021.02.27 提案，2021.03.18 押金不足，提案被移除
 * 詳情：[https://likecoin.bigdipper.live/proposals/10](https://likecoin.bigdipper.live/proposals/10)
 
 ## 議案 \#9 委託生態池的 LikeCoin
@@ -38,7 +38,7 @@ description: 讚賞公民共和國有過甚麼議案？
 
 * **提案**：[guanyun](https://matters.news/@guanyun/like-coin-chain-proposal-6-increase-the-inflation-rate-from-2-to-7-bafyreibnqz6rbx2rcmc6o5nujogobaou2rh7sdtogmkkfgbdf2gjzq74lq)
 * **類型**：參數修訂議案 \( parameter change proposal \)
-* **日期**：2020.11.13 提案，2020.12.07 押金不足，提案未獲通過
+* **日期**：2020.11.13 提案，2020.12.07 押金不足，提案被移除
 * **詳情**：[https://likecoin.bigdipper.live/proposals/6](https://likecoin.bigdipper.live/proposals/6)
 
 ## 議案 \#5 驗證交易的增發率由 1% 提升至 2%
