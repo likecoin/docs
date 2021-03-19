@@ -38,11 +38,11 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ## 領取收益
 
-步驟一：在 Big Dipper 點擊綠色「WITHDRAW」按鈕。
+步驟一：在 Big Dipper 點擊綠色「WITHDRAW」。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-1.png)
 
-步驟二：視窗彈出詢問你是否希望領取收益,，點擊「NEXT」。
+步驟二：視窗彈出詢問你是否希望領取收益，點擊「NEXT」。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-2.png)
 
@@ -64,7 +64,7 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-1.png)
 
-步驟二：於該投票人的「投票權」一欄點擊綠色的「DELEGATE」按鈕。
+步驟二：於該投票人的「投票權」一欄點擊綠色的「DELEGATE」。
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-2.png)
 
@@ -86,7 +86,7 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-1.png)
 
-步驟二：於該投票人的「投票權」一欄點擊紅色的「REDELEGATE」按鈕。
+步驟二：於該投票人的「投票權」一欄點擊紅色的「REDELEGATE」。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-2.png)
 
