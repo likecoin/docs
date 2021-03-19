@@ -10,7 +10,7 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 
 **請留意：交易量不同，匯率也會跟著改變，系統畫面會顯示實時報價。**
 
-![](../../.gitbook/assets/quick-exchange-1.png)
+![](../../.gitbook/assets/quick-exchange-1%20%281%29.png)
 
 ![](../../.gitbook/assets/liquid-qe.gif)
 
@@ -23,7 +23,7 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 * 輸入兌換數量後，系統會立即在「獲得」欄顯示出能兌到的幣種數量。若你覺得可以，點下方的「閃兌」鍵，交易便會進行，兌得的款項會立即轉入你的 Liquid 戶口
 * 你也可反過來在下方的「獲得」欄先輸入欲獲得的幣種數目，系統會在上方的「兌換」欄顯示你需要賣出的幣種數量
 
-![](../../.gitbook/assets/quick-exchange-2.png)
+![](../../.gitbook/assets/quick-exchange-2%20%281%29.png)
 
 ### 以信用卡買入 LikeCoin
 
@@ -31,11 +31,11 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 * 最低兌換額 78 港元 或 380 新台幣（約 10 美元）
 * 系統會即時顯示信用卡手續費及兌換率。畫面顯示的貨幣獲得數量已是扣除費用後所獲得的數量
 
-![](../../.gitbook/assets/quick-exchange-3.png)
+![](../../.gitbook/assets/quick-exchange-3%20%281%29.png)
 
 點擊 "Buy with VISA" 後，系統會要求你填寫信用卡資料，然後付款。
 
-![](../../.gitbook/assets/quick-exchange-4.png)
+![](../../.gitbook/assets/quick-exchange-4%20%281%29.png)
 
 你也可以直接往 [Like.co](https://like.co/) 購買 LikeCoin。
 

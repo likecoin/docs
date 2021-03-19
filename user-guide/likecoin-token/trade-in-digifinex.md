@@ -40,7 +40,7 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 
 在 \[Input memo \(optional\)" 欄中輸入你的 Tag/Memo 號碼
 
-![](../../.gitbook/assets/digifinex-tagmemo.png)
+![](../../.gitbook/assets/digifinex-tagmemo%20%281%29.png)
 
 輸入你想要轉帳的 LikeCoin 金額，然後點擊「確認」 / \[Confirm\]
 

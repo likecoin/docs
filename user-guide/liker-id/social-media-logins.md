@@ -23,7 +23,7 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 點擊欲綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
 
-![](../../.gitbook/assets/social-media-logins-2.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 ## 如何綁定 Matters 帳號
 

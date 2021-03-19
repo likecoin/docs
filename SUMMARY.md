@@ -94,7 +94,5 @@
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
----
-
-* [開發資源](kai-fa-zi-yuan.md)
+* [開發資源](developer/kai-fa-zi-yuan.md)
 

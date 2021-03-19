@@ -23,7 +23,7 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 1. 點擊「設立雙重認證」鍵
 2. 這裡先介紹以 Google Authenticator 設定的流程。請在畫面下方選「使用其他方式」
 
-![](../../.gitbook/assets/choose-2fa-method.png)
+![](../../.gitbook/assets/choose-2fa-method%20%281%29.png)
 
 在下一個頁面，選擇「認證應用程式」
 
@@ -33,7 +33,7 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 上一步後，屏幕上顯示的裡面是：
 
-![](../../.gitbook/assets/2fa-google-authenticator.png)
+![](../../.gitbook/assets/2fa-google-authenticator%20%281%29.png)
 
 1. 在手機上下載 Google Authenticator 應用程式 [安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW) [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 2. 打開 Google Authenticator 應用程式。點擊應用程式右上角的 「＋」
