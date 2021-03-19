@@ -8,7 +8,7 @@ description: What else can I do to make LikeCoin besides creating?
 
 Content creators embed LikeCoin button into their works, turn "Like" into actual income and earn LikeCoin.
 
-[**Matters**](https://matters.news/) is empowered by the LikeCoin button by default, creators can give their Liker ID to [**Standnews**](https://www.thestandnews.com/)**,** [**InMedia**](https://www.inmediahk.net/)**,** [**HKCNews**](https://www.hkcnews.com/) for embedding LikeCoin button. It can also be installed to [WordPress](https://wordpress.org/plugins/likecoin/) by the LikeCoin WordPress plugin. LikeCoin button also supports [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot \( Blogger.com\)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. Moreover content creator can share his/her [sponsor link](https://docs.like.co/user-guide/creator/sponsor-link) \(Format: https://liker.land/\[Your Liker ID\]/civic \) in any channels and medium, easily creating their own Civic Liker supporting group.
+[**Matters**](https://matters.news/) is empowered by the LikeCoin button by default, creators can give their Liker ID to **\*\* \[獨立媒體\]** \([https://www.inmediahk.net/\)、**\[**](https://www.inmediahk.net/%29、[)**立場新聞\]** \([https://thestandnews.com/](https://thestandnews.com/)\)、**\[眾新聞\]**\([https://www.hkcnews.com/](https://www.hkcnews.com/)\) **\*\*** for embedding LikeCoin button. It can also be installed to [WordPress](https://wordpress.org/plugins/likecoin/) by the LikeCoin WordPress plugin. LikeCoin button also supports [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot \( Blogger.com \)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. Moreover content creator can share his/her [sponsor link](https://docs.like.co/user-guide/creator/sponsor-link) \(Format: https://liker.land/\[Your Liker ID\]/civic \) in any channels and medium, easily creating their own Civic Liker supporting group.
 
 The source of the creators' daily reward consists of two parts:
 
@@ -18,7 +18,7 @@ e.g. Veryotaku receive USD5 from 1 supporter and USD5 from 3 supporters, total U
 
 **2. Creators fund**: managed by the foundation. The daily amount is adjusted according to the total amount donated by Civic Likers. Both of the likes given by Civic Liker and ordinary likers will be considered as votes for fund distribution.
 
-e.g. There are 1,000 Civic Likers in May, they all subscribed with USD5 and the sum is USD5000, foundation then pay USD5000 extra \(will be turned into LikeCoin\), this extra part will be distributed in proporation according to the total number of claps/Likes by all Likers.
+e.g. There are 1,000 Civic Likers in May, they all subscribed with USD5 and the sum is USD5000, foundation then pay USD5000 extra from the ecosystem pool \(will be turned into LikeCoin\), this extra part will be distributed in proporation according to the total number of claps/Likes by all Likers.
 
 ## Bounty
 
