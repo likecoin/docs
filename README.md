@@ -48,8 +48,6 @@ description: LikeCoin 幫見問題
 * [如何訂閱讚賞公民？](https://docs.like.co/v/zh/user-guide/civic-liker/be-a-civic-liker)
 * [如何修改付款信用卡資料？](https://docs.like.co/v/zh/user-guide/civic-liker/change-credit-card)
 * [如何退訂「讚賞公民」？](https://docs.like.co/v/zh/user-guide/civic-liker/unsubscribe-civic-liker)
-* [如何以 LikeCoin 繳付「讚賞公民」年費？](https://docs.like.co/v/zh/user-guide/civic-liker/civic-liker-paid-by-likecoin)
-* [如何以 PayMe 或轉數快繳付「讚賞公民」年費？](https://docs.like.co/v/zh/user-guide/civic-liker/civic-liker-paid-by-payme)
 
 ## [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id)
 
@@ -63,7 +61,7 @@ description: LikeCoin 幫見問題
 * [LikeCoin 可以直接作為購買產品之用嗎？](https://docs.like.co/v/zh/user-guide/likecoin-token/products-and-services)
 * [如何兌換 LikeCoin 為其他密碼貨幣或法定貨幣？](https://docs.like.co/v/zh/user-guide/likecoin-token/how-to-buy-and-sell-likecoin)
 
-## 流動民主
+## [流動民主](https://docs.like.co/v/zh/user-guide/liquid-democracy)
 
 * [所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/user-guide/liquid-democracy)
 * [讚賞公民共和國有過甚麼議案？](https://docs.like.co/v/zh/about/governance/proposals)
