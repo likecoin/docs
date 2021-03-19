@@ -6,6 +6,13 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+## 議案 \#10 委託生態池的 LikeCoin
+
+* 提案：[Askender](https://matters.news/@askender)
+* 類型：文本式議案 \( Text Proposal \)
+* 日期：2021.02.27 提案，2021.03.18 押金不足，提案未獲通過
+* 詳情：[https://likecoin.bigdipper.live/proposals/10](https://likecoin.bigdipper.live/proposals/10)
+
 ## 議案 \#9 委託生態池的 LikeCoin
 
 * **提案**：[guanyun](https://matters.news/@guanyun/towards-a-republic-of-liker-land-the-9th-proposal-bafyreicn5r4jqcz267ksdcj3rjmxvkykwsrrw4q72as6j7k7k267k4xy24)
