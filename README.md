@@ -45,10 +45,11 @@ description: LikeCoin 幫見問題
 ## [Civic Liker](https://docs.like.co/v/zh/user-guide/civic-liker)
 
 * [為何要成為讚賞公民？有什麼福利嗎？](https://docs.like.co/v/zh/user-guide/civic-liker/rationale-and-benefits)
-* [如何以 PayMe 或轉數快繳付「讚賞公民」年費？](https://docs.like.co/v/zh/user-guide/civic-liker/civic-liker-paid-by-payme)
-* [如何以 LikeCoin 繳付「讚賞公民」年費？](https://docs.like.co/v/zh/user-guide/civic-liker/civic-liker-paid-by-likecoin)
+* [如何訂閱讚賞公民？](https://docs.like.co/v/zh/user-guide/civic-liker/be-a-civic-liker)
 * [如何修改付款信用卡資料？](https://docs.like.co/v/zh/user-guide/civic-liker/change-credit-card)
 * [如何退訂「讚賞公民」？](https://docs.like.co/v/zh/user-guide/civic-liker/unsubscribe-civic-liker)
+* [如何以 LikeCoin 繳付「讚賞公民」年費？](https://docs.like.co/v/zh/user-guide/civic-liker/civic-liker-paid-by-likecoin)
+* [如何以 PayMe 或轉數快繳付「讚賞公民」年費？](https://docs.like.co/v/zh/user-guide/civic-liker/civic-liker-paid-by-payme)
 
 ## [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id)
 
