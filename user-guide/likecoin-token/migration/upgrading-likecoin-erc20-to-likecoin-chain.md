@@ -11,7 +11,8 @@ LikeCoin has been migrated to the LikeCoin chain and users no longer need MetaMa
 For those who fulfil the below conditions:
 
 1. Have LikeCoin on MetaMask
-2. Have bound your Liker ID with at least one social accounts \(Google/Facebook/Twitter/Matters\) besides MetaMask
+2. Have ETH on MetaMask as Gas Fee
+3. Have bound your Liker ID with at least one social accounts \(Google/Facebook/Twitter/Matters\) besides MetaMask
 
 ### Step 1: Visit Like.co/in <a id="step-1-visit-likecoin-"></a>
 
@@ -41,7 +42,7 @@ After clicking "Sign", the following MetaMask screens will be shown.  Click "Con
 
 ### Step 2.3: Waiting for the upgrading process to be finished <a id="step-23-waiting-for-the-upgrading-process-to-be-finished"></a>
 
-In this step, the system will firstly transfer your LikeCoin ERC-20 to a smart contract, and then deposit LikeCoin to your new wallet on the LikeCoin chain.  The process needs a few minutes, please be patient.
+In this step, the system will firstly transfer your LikeCoin ERC-20 to a smart contract, and then deposit LikeCoin to your new wallet on the LikeCoin chain.  The process needs a few minutes, please be patient. During the process, ETH as Gas Fee will be deducted.
 
 ![](../../../.gitbook/assets/likecoin-migration-5.png)
 
