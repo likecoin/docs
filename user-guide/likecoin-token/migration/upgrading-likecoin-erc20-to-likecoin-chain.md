@@ -9,7 +9,7 @@ LikeCoin 經已轉移到 [LikeCoin chain](https://docs.like.co/v/zh/user-guide/l
 若你乎合以下條件：
 
 1. 在 MetaMask 上有 LikeCoin 餘額
-2. 在 MetaMask 上已有足夠的 ETH 作為 Gas Fee
+2. 在 MetaMask 上已有足夠的 ETH 作為礦工費 \( Gas Fee \)
 3. Liker ID 已同時綁定 MetaMask 及任何一個社交帳號 \( Google/Facebook/Twitter/Matters \)
 
 請按照以下步驟升級至全新的 LikeCoin。

@@ -47,5 +47,5 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 ### 7. 升級過程中不斷出現「Error: NOT\_ENOUGH\_GAS, NEED X.XXXXX」
 
-你需要有足夠的 ETH 作為碼工費 \( GAS Fee \) 方可完成升級，有關數值請參考 [ETH GAS Station](https://ethgasstation.info/)。 
+你需要有足夠的 ETH \( NEED X.XXXXX 那個數值）作為碼工費 \( GAS Fee \) 方可完成升級，有關數值計算請參考 [ETH GAS Station](https://ethgasstation.info/)。 
 
