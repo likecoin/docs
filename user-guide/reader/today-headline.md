@@ -36,7 +36,7 @@ Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://d
 
 ## 停止追蹤內容伯樂
 
-若你想停止追蹤某位內容伯樂，可在 Liker Land app 選右下角的帳戶頭像，再點「設定」下的「Content Jockey」。你亦可以到 [Liker Land 網頁版](https://liker.land/settings/following/)中設定取消追蹤。
+若你想停止追蹤某位內容伯樂，可在 Liker Land 手機應用程式選右下角的帳戶頭像，再點「設定」下的「Content Jockey」。你亦可以到 [Liker Land 網頁版](https://liker.land/settings/following/)中設定取消追蹤。
 
 ![](../../.gitbook/assets/super-like-reader-2.png)
 
