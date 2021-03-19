@@ -26,7 +26,7 @@ LikeCoin 經已轉移到 [LikeCoin chain](https://docs.like.co/v/zh/user-guide/l
 
 升級過程其實是把目前你在 MetaMask 上的 LikeCoin ERC-20 轉移到 LikeCoin chain 上。系統會助你簡易完成這個步驟。
 
-第一個步驟是過程簡介，若有興趣明白更多的不妨一讀，然後請按「確認」。
+第一個步驟是過程簡介，若有興趣明白更多的不妨一讀，然後請點擊「確認」。
 
 ![&#x9EDE;&#x64CA;&#x300C;&#x78BA;&#x8A8D;&#x300D;](../../../.gitbook/assets/likecoin-migration-2.png)
 
