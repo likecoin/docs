@@ -29,7 +29,7 @@ Your name and avatar will appear in various Liker Land scenarios:
 
 ![](../../.gitbook/assets/avatar.png)
 
-### Liker Land app and Web
+### Liker Land app and web
 
 {% page-ref page="../reader/download.md" %}
 

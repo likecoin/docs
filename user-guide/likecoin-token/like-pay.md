@@ -40,7 +40,7 @@ Some crypto exchanges may require input of Tag/Memo, please fill in the value he
 
 ![](../../.gitbook/assets/like-pay-4-en.png)
 
-### Like pay on Liker Land Web
+## Like pay on Liker Land web
 
 ### Step 1
 
