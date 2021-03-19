@@ -59,7 +59,7 @@ LikeCoin 經已轉移到 [LikeCoin chain](https://docs.like.co/v/zh/user-guide/l
 ![](../../../.gitbook/assets/likecoin-migration-7.png)
 
 {% hint style="info" %}
-**若你過往只以 MetaMask 電子錢包登入**，從未綁定過其他的社交帳號登入方法的話，也可參照以上步驟，但請在登入頁面的左上角選擇「以 MetaMask 登入」的按鍵。過程中，系統會要求你設定一組密碼。
+**若你過往只以 MetaMask 電子錢包登入**，從未綁定過其他的社交帳號登入方法的話，也可參照以上步驟，但請在登入頁面的左上角選擇「以 MetaMask 登入」。過程中，系統會要求你設定一組密碼。
 {% endhint %}
 
 ### 參考文章
