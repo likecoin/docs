@@ -17,8 +17,6 @@ Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co
 
 * Click on the "Become a Civic Liker" button on the content creator's LikeCoin button
 
-![](../../.gitbook/assets/register-civic-liker-2.png)
-
 * Become a Civic Liker on [Matters](https://matters.news/)
 
 ![](../../.gitbook/assets/register-civic-liker-10.png)
