@@ -6,6 +6,8 @@
 
 方法一：點擊 LikeCoin button 讚賞鍵作者頭像
 
+![](../../.gitbook/assets/super-like-reader-4.png)
+
 方法二：個人主頁的網址是 https://liker.land/\[你的 Liker ID\] ，例如 [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id) 是 ckxpress，鏈結便是 [https://liker.land/ckxpress](https://liker.land/ckxpress)。
 
 ## 個人資訊
