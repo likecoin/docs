@@ -6,6 +6,8 @@ Portfolio Page helps user to share their reading history, there are two ways to 
 
 Method 1: Click on avatar on the LikeCoin button.
 
+![](../../.gitbook/assets/super-like-reader-4.png)
+
 Method 2: The Portfolio Page url is https://liker.land/\[Your Liker ID\], if your [Liker ID](https://docs.like.co/user-guide/liker-id) is ckxpress, your link is going to be [https://liker.land/ckxpress](https://liker.land/ckxpress). 
 
 ## Personal Information
