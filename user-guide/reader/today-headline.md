@@ -20,13 +20,9 @@ Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://d
 * Matters：[hi176-matters](https://like.co/hi176-matters)
 * 讚賞公民基金會：[foundation](https://like.co/foundation)（報告、公布、議案等）
 
-## 追蹤內容伯樂
+## 追蹤心儀內容伯樂
 
-除預設內容伯樂以外，讀者可自行追蹤其他可信賴，關注不同範疇的內容伯樂。
-
-![&#x9EDE;&#x64CA;&#x8B9A;&#x8CDE;&#x9375;&#x982D;&#x50CF;&#x5373;&#x53EF;&#x8DF3;&#x8F49;&#x81F3;&#x500B;&#x4EBA;&#x4E3B;&#x9801;&#x8FFD;&#x8E64;&#x5167;&#x5BB9;&#x4F2F;&#x6A02;](../../.gitbook/assets/super-like-reader-4.png)
-
-{% page-ref page="../creator/portfolio-page.md" %}
+除預設內容伯樂以外，讀者可自行追蹤其他可信賴，關注不同範疇的內容伯樂。到他們的[個人主頁](https://docs.like.co/v/zh/user-guide/creator/portfolio-page)點擊追蹤即可。
 
 ## Super Like 公海 <a id="super-like-world-feed"></a>
 
