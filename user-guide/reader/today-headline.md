@@ -24,11 +24,7 @@ The default Content Jockeys was managed by the Republic of Liker Land with [Liqu
 
 ## Follow a Content Jockey
 
-Moreover, readers can follow their trusted Content Jockeys. Click on the avatar on the LikeCoin button will jump to the Portfolio Page for following them.
-
-![Click on the avatar and bring you to the Portfolio Page for following the Content Jockey](../../.gitbook/assets/super-like-reader-4.png)
-
-{% page-ref page="../creator/portfolio-page.md" %}
+Readers can follow their trusted Content Jockeys, you can go to their [Portfolio Page](https://docs.like.co/user-guide/creator/portfolio-page) for following them.
 
 ## The world has Super Liked
 
