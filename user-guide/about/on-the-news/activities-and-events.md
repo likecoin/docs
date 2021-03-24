@@ -2,6 +2,12 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 03/23 Clubhouse HK Crypto 30 mins ep.10
+
+創作有價，Likecoin創辦人同你句句真
+
+![](../../../.gitbook/assets/fireshot-capture-2485-crypto-30-mins-ep.10-chuang-zuo-you-jia-likecoin-chuang-ban-ren-tong-ni-ju-ju-zhen-xiang-gang-jia-mi-huo-bi-crypto-85-www.joinclubhouse.com.png)
+
 ### 03/12 MozFest 2021
 
 [Business models on the web are broken! Let's fix them.](https://schedule.mozillafestival.org/session/FTCNBS-1)
