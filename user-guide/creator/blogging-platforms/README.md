@@ -6,10 +6,6 @@ description: >-
 
 # Blogging Platforms
 
-## Standnews, InMedia, HKCNews
-
-[Standnews](https://www.thestandnews.com/), [InMedia](https://www.inmediahk.net/), [HKCNews](https://www.hkcnews.com/) support integration of LikeCoin button, please contact your editor and provide your Liker ID.
-
 ## Medium
 
 Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/how-to-register-a-liker-id).

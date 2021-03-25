@@ -60,7 +60,6 @@
   * [Blogging Platforms](user-guide/creator/blogging-platforms/README.md)
     * [inmediahk.net](user-guide/creator/blogging-platforms/inmediahk.net.md)
     * [Stand News](user-guide/creator/blogging-platforms/stand-news.md)
-    * [CitizenNews](user-guide/creator/blogging-platforms/citizennews.md)
     * [illustBuy](user-guide/creator/blogging-platforms/illustbuy.md)
     * [TIMELOG](user-guide/creator/blogging-platforms/timelog.md)
     * [Tipga](user-guide/creator/blogging-platforms/tipga.md)
