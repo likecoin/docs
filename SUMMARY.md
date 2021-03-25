@@ -22,6 +22,7 @@
   * [個人主頁](user-guide/creator/portfolio-page.md)
   * [LikeCoin button 讚賞鍵](user-guide/creator/likecoin-button.md)
   * [Youtube](user-guide/creator/youtube.md)
+  * [香港獨立媒體網](user-guide/creator/inmediahk.net.md)
   * [Matters](user-guide/creator/matters.md)
   * [WordPress](user-guide/creator/wordpress.md)
   * [其他自架網站](user-guide/creator/self-host/README.md)
