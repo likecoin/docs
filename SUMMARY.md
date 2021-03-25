@@ -35,6 +35,7 @@
   * [其他寫作平台](user-guide/creator/blogging-platforms/README.md)
     * [香港獨立媒體網](user-guide/creator/blogging-platforms/inmediahk.net.md)
     * [立場新聞](user-guide/creator/blogging-platforms/thestandnews.md)
+    * [眾新聞](user-guide/creator/blogging-platforms/zhong-xin-wen.md)
     * [illustBuy](user-guide/creator/blogging-platforms/illustbuy.md)
     * [探路客 TIMELOG](user-guide/creator/blogging-platforms/timelog.md)
     * [Tipga](user-guide/creator/blogging-platforms/tipga.md)
