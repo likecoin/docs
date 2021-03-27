@@ -2,6 +2,12 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 03/23 theDesk Hong Kong
+
+香港傳媒再無大台，記者應重新思考其角色 【下集】 \| 眾新聞總編輯及行政總裁李月華 Daisy Li
+
+{% embed url="https://www.youtube.com/watch?v=rSEXpn7RmGs" %}
+
 ### 01/15 晴報 黃雅麗專欄
 
 [菜鳥再談加密幣](https://skypost.ulifestyle.com.hk/column/article/2853178/)
