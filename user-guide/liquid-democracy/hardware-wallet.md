@@ -32,7 +32,7 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-5.png)
 
-你可以查看你的 LikeCoin 數量、委托狀態、收益及其他內容。
+你可以查看你的 LikeCoin 數量、委託狀態、收益及其他內容。
 
 ![](../../.gitbook/assets/hardwarewallet-6.png)
 
@@ -58,9 +58,9 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-5.png)
 
-## 委托 LikeCoin 
+## 委託 LikeCoin 
 
-步驟一：在 [Big Dipper 驗證人](https://likecoin.bigdipper.live/validators)中選取你屬意委托的驗證人。
+步驟一：在 [Big Dipper 驗證人](https://likecoin.bigdipper.live/validators)中選取你屬意委託的驗證人。
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-1.png)
 
@@ -70,7 +70,7 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-3.png)
 
-步驟三：視窗彈出要求你填寫委托 LikeCoin 的數量，你亦可以加上附註，再點擊「NEXT」。
+步驟三：視窗彈出要求你填寫委託 LikeCoin 的數量，你亦可以加上附註，再點擊「NEXT」。
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-4.png)
 
@@ -80,9 +80,9 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 步驟五：Ledger 將詢問你是否確認操作，按鍵同意並於 Big Dipper 查閱錢包明細。
 
-## 轉移委托 LikeCoin
+## 轉移委託 LikeCoin
 
-步驟一：選取已委托 LikeCoin 的驗證人。
+步驟一：選取已委託 LikeCoin 的驗證人。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-1.png)
 
@@ -90,13 +90,13 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-2.png)
 
-步驟三：視窗彈出要求你填寫希望轉移委托的 LikeCoin 數量，點擊「SELECT A VALIDATOR」選擇你想轉移的目標驗證人。
+步驟三：視窗彈出要求你填寫希望轉移委託的 LikeCoin 數量，點擊「SELECT A VALIDATOR」選擇你想轉移的目標驗證人。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-3.png)
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-4.png)
 
-步驟四：填寫轉移委托 LikeCoin 的數量，你亦可以加上附註，再點擊「NEXT」。
+步驟四：填寫轉移委託 LikeCoin 的數量，你亦可以加上附註，再點擊「NEXT」。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-5.png)
 
