@@ -5,6 +5,7 @@
 ## 📙 user guide
 
 * [LikeCoin, Republic of Liker Land](user-guide/about/README.md)
+  * [Real-time statistics](user-guide/about/real-time-statistics.md)
   * [Progress Updates](user-guide/about/updates/README.md)
     * [2020.08.24](user-guide/about/updates/2020.08.24.md)
     * [2020.08.17](user-guide/about/updates/2020.08.17.md)
