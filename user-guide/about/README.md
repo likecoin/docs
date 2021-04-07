@@ -10,15 +10,7 @@ description: LikeCoin 是甚麼？讚賞公民共和國又是甚麼東東？
 
 [LikeCoin](https://like.co/) 為去中心出版的基礎建設，提供去中心註冊、去中心讚賞、去中心策展及去中心治理幾方面功能。
 
-LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) 公共區塊鏈，其支撐整個社群，[**讚賞公民共和國**](https://liker.land/getapp)。‌
-
-## 讚賞公民共和國 <a id="republic-of-liker-land"></a>
-
-截至 2020年8月，[讚賞公民共和國](https://like.co/in/getapp) 有 **1,800+ 名** [**讚賞公民**](https://docs.like.co/v/zh/user-guide/civic-liker)， 佔總數 **84,216+ Likers** 約 **2.2%**，共回饋了 **37mil+ LikeCoin** 給 **11,956+ 位創作者**於 **1,300+ 個媒體上**的 **312,599+ 筆內容**。‌
-
-即時數據更新：[ ![Number of Liker](https://static.like.co/badge/stats/liker.svg)](https://like.co/) [![Number of creator](https://static.like.co/badge/stats/creator.svg)](https://like.co/) [![Number of content](https://static.like.co/badge/stats/content.svg)](https://like.co/) [![Number of LIKE given](https://static.like.co/badge/stats/LIKE.svg)](https://like.co/)
-
-更詳細營運數據，[可參考這裡](https://datastudio.google.com/u/0/reporting/e6168171-b61d-4871-b39f-7b6308f2facc/page/qgR)（2020年起）。
+LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) 公共區塊鏈，其支撐整個社群：[**讚賞公民共和國**](https://liker.land/getapp)。‌
 
 支援 LikeCoin 的媒體包括 [Matters](https://matters.news/)、[立場新聞](https://www.thestandnews.com/)、[香港獨立媒體網](https://www.inmediahk.net/)、[眾新聞](https://www.hkcnews.com/) 及其他 1,300 多個網站。LikeCoin 也可在 [WordPress](https://zh-hk.wordpress.org/plugins/likecoin/)、[Medium](https://medium.com/)、[方格子](https://vocus.cc/)、[Blogspot \(Blogger.com\)](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331) 及其他平台上使用。‌
 
