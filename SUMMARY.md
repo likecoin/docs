@@ -85,7 +85,6 @@
 * [流動民主](user-guide/liquid-democracy/README.md)
   * [LikeCoin chain](user-guide/liquid-democracy/likecoin-chain.md)
   * [驗證人](user-guide/liquid-democracy/what-is-a-validator.md)
-  * [成為驗證人](user-guide/liquid-democracy/become-a-validator.md)
   * [北斗 Big Dipper](user-guide/liquid-democracy/big-dipper.md)
   * [委託 LikeCoin](user-guide/liquid-democracy/delegation-of-likecoin.md)
   * [取回委託 LikeCoin](user-guide/liquid-democracy/undelegation-of-likecoin.md)
@@ -97,5 +96,6 @@
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
+* [成為驗證人](developer/become-a-validator.md)
 * [開發資源](developer/kai-fa-zi-yuan.md)
 
