@@ -110,7 +110,6 @@
 * [Liquid Democracy](user-guide/liquid-democracy/README.md)
   * [LikeCoin chain](user-guide/liquid-democracy/likecoin-chain.md)
   * [Validator](user-guide/liquid-democracy/what-is-a-validator.md)
-  * [Become a validator](user-guide/liquid-democracy/become-a-validator.md)
   * [Big Dipper](user-guide/liquid-democracy/big-dipper.md)
   * [Delegation of LikeCoin](user-guide/liquid-democracy/delegation-of-likecoin.md)
   * [Undelegation of LikeCoin](user-guide/liquid-democracy/undelegation-of-likecoin.md)
@@ -122,6 +121,7 @@
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
+* [Become a validator](developer/become-a-validator.md)
 * [LikeCoin chain node](developer/likecoin-chain-node/README.md)
   * [Validator Technical Introduction](developer/likecoin-chain-node/validator-technical-introduction.md)
   * [Setup mainnet node](developer/likecoin-chain-node/setup-mainnet-node.md)
