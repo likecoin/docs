@@ -6,12 +6,19 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+## Proposal \#11 提高活躍驗證人名額由 25 名至 50 名
+
+* **提案**：[Oldcat](https://matters.news/@oldcat/like-coin-chain-proposal-11-increasing-the-maximum-number-of-active-validators-from-25-to-50-bafyreifshurtp5w4i7ovcwu274sr4iknrtdhsy2s2vrunlwzmnz4kp4mwa)
+* **類型**：參數修訂議案 \( parameter change proposal \)
+* **日期**：2021.03.27 提案，2020.04.12 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/11](https://likecoin.bigdipper.live/proposals/11)
+
 ## 議案 \#10 發起議案的押金改為 10,000 LIKE
 
-* 提案：[Askender](https://matters.news/@askender)
-* 類型：文本式議案 \( Text Proposal \)
-* 日期：2021.02.27 提案，2021.03.18 押金不足，提案被移除
-* 詳情：[https://likecoin.bigdipper.live/proposals/10](https://likecoin.bigdipper.live/proposals/10)
+* **提案**：[Askender](https://matters.news/@askender)
+* **類型**：文本式議案 \( Text Proposal \)
+* **日期**：2021.02.27 提案，2021.03.18 押金不足，提案被移除
+* **詳情**：[https://likecoin.bigdipper.live/proposals/10](https://likecoin.bigdipper.live/proposals/10)
 
 ## 議案 \#9 委託生態池的 LikeCoin
 
