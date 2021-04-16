@@ -6,6 +6,15 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+## 
+
+## Proposal \#11 Increasing the maximum number of active validators from 25 to 50
+
+* Proposer: [Oldcat](https://matters.news/@oldcat/like-coin-chain-proposal-11-increasing-the-maximum-number-of-active-validators-from-25-to-50-bafyreifshurtp5w4i7ovcwu274sr4iknrtdhsy2s2vrunlwzmnz4kp4mwa)
+* Proposal Type: Parameter Change Proposal
+* Date: Submit on 2021.03.27, Passed on 2020.04.12
+* Details: [https://likecoin.bigdipper.live/proposals/11](https://likecoin.bigdipper.live/proposals/11)
+
 ## Proposal \#10 Decrease minimum deposit for proposals to 10,000 LIKE
 
 * Proposer: [Askender](https://matters.news/@askender)
