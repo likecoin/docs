@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 04/18 明報
+
+[未來城市：熱潮捲到香港 fans贊助模式 養起創作人？](https://news.mingpao.com/pns/%e5%89%af%e5%88%8a/article/20210418/s00005/1618684493864/%e6%9c%aa%e4%be%86%e5%9f%8e%e5%b8%82-%e7%86%b1%e6%bd%ae%e6%8d%b2%e5%88%b0%e9%a6%99%e6%b8%af-fans%e8%b4%8a%e5%8a%a9%e6%a8%a1%e5%bc%8f-%e9%a4%8a%e8%b5%b7%e5%89%b5%e4%bd%9c%e4%ba%ba)
+
 ### 03/23 theDesk Hong Kong
 
 香港傳媒再無大台，記者應重新思考其角色 【下集】 \| 眾新聞總編輯及行政總裁李月華 Daisy Li
