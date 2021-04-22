@@ -148,5 +148,6 @@
     * [Reference](developer/international-standard-content-number-iscn/web-widget-testnet/reference.md)
   * [Specification](developer/international-standard-content-number-iscn/specification.md)
 * [ISCN IPFS plugin](developer/iscn-ipfs-plugin.md)
-* [Badge](developer/badge.md)
+* [Badge](developer/badge/README.md)
+  * [ISCN Badge](developer/badge/iscn-badge.md)
 
