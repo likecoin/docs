@@ -22,9 +22,11 @@ Transaction fee is calculated according to the computational steps of code execu
 * Redelegate: Around 0.48 LIKE
 * Withdraw Rewards: Around 1.25 LIKE
 
-Clicks on "Details" in the Liker Land app during LIKE pay, delegate, undelegate, redelegate and withdraw rewards and check the estimated transaction fee.
+Clicks on "Details" in the Liker Land app and web during LIKE pay, delegate, undelegate, redelegate and withdraw rewards and check the estimated transaction fee.
 
 ![](../../.gitbook/assets/like-pay-4-en.png)
+
+![](../../.gitbook/assets/1620197765521.png)
 
 ### Please leave transaction fee in your wallet
 
