@@ -2,6 +2,12 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 05/03 Clubhouse HK Crypto 30mins ep.11
+
+艱難見證，見證難難；我們的獅子山
+
+![](../../../.gitbook/assets/181890636_3249726758587346_8935775873217263295_n.png)
+
 ### 03/23 Clubhouse HK Crypto 30 mins ep.10
 
 創作有價，Likecoin創辦人同你句句真

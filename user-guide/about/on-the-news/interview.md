@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 04/29 台灣事實查核中心
+
+[【共享讚賞幣理念】LikeCoin創辦人高重建買下查核中心首份NFT藏品](https://tfc-taiwan.org.tw/articles/5348)
+
 ### 02/05 The News Lens 關鍵評論網
 
 [專訪LikeCoin創辦人高重建：政府自言支持區塊鏈發展，但新監管制度自相矛盾 ](https://www.thenewslens.com/feature/crypto-hk/146508)
