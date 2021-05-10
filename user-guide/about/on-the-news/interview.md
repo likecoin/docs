@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 05/09 堅離地球 · 沈旭暉
+
+{% embed url="https://www.youtube.com/watch?v=BTvpACIVMIg" %}
+
 ### 04/29 台灣事實查核中心
 
 [【共享讚賞幣理念】LikeCoin創辦人高重建買下查核中心首份NFT藏品](https://tfc-taiwan.org.tw/articles/5348)
