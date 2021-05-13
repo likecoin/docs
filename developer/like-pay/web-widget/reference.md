@@ -6,7 +6,7 @@ description: LIKE pay web widget API Reference
 
 ## Introduction
 
-This is still a feature under active development and testing, and not meant for production use for general public, please contact us if you are interested.
+While this feature is being used in production by our partners, many of the configurations needed are not made public accessible yet.Do contact us if you are interested.
 
 ## Formatting the widget URL
 
