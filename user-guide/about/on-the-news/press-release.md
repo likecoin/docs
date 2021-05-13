@@ -12,6 +12,8 @@
 
 ### 2020/04/30 Google GNI APAC Innovation Challenge 2020 - Winner in Hong Kong: Matters Lab Ltd. with LikeCoin
 
+[News Brief: April Updates from the Google News Initiative](https://blog.google/outreach-initiatives/google-news-initiative/news-brief-april-2021-updates-google-news-initiative/)
+
 [18 Asia Pacific news organizations with big ideas](https://www.blog.google/around-the-globe/google-asia/gni-innovation-challenge-apac/)
 
 [Selected Projects](https://newsinitiative.withgoogle.com/intl/en_gb/innovation-challenges/funding/)
