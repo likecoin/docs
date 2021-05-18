@@ -93,6 +93,7 @@
   * [因委託而產生的 LikeCoin 回報，錢從何來？](user-guide/liquid-democracy/where-comes-the-likecoin-rewards.md)
   * [社群治理會議](user-guide/liquid-democracy/community-call.md)
   * [歷史議案](user-guide/liquid-democracy/proposals.md)
+  * [LikeCoin Grants 計畫](user-guide/liquid-democracy/likecoin-grants.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
