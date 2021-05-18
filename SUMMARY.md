@@ -118,6 +118,7 @@
   * [Where comes the LikeCoin rewards?](user-guide/liquid-democracy/where-comes-the-likecoin-rewards.md)
   * [Community Call](user-guide/liquid-democracy/community-call.md)
   * [Proposals](user-guide/liquid-democracy/proposals.md)
+  * [LikeCoin Grants Program](user-guide/liquid-democracy/likecoin-grants.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
