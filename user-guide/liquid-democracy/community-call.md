@@ -12,6 +12,9 @@ LikeCoin community call conduct on the 1st Monday of each month at 1820 UTC+8, u
 
 ## Meeting Minutes
 
+
+
+* [LikeCoin Community Call \#202105 Minutes](https://medium.com/likecoin/likecoin-community-call-202105-minutes-be3e8bbfa9e5)
 * [LikeCoin Community Call \#202104 Minutes](https://medium.com/likecoin/likecoin-community-call-202104-minutes-a8e398e2a8a0)
 * [LikeCoin Community Call \#202103 Minutes](https://medium.com/likecoin/likecoin-community-call-202103-minutes-39c0f1c3d3d6)
 * [LikeCoin Community Call \#202102 Minutes](https://medium.com/likecoin/likecoin-community-call-202102-minutes-59a58295521)
