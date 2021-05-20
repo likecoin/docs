@@ -58,3 +58,7 @@ On the Send LikeCoin to page, input the number of LikeCoin that you have to send
 Using Like Land web to transfer LikeCoin will not display the estimated Transaction fee, Please make sure that your wallet has enough spare LikeCoin other than those you have to transfer.
 {% endhint %}
 
+{% hint style="info" %}
+You can also user Keplr wallet to manage your LikeCoin, please read: [The next step to decentralization: Use Keplr to manage your LikeCoin ](https://medium.com/likecoin/the-next-step-to-decentralization-use-keplr-to-store-your-likecoin-39128c77cdeb)
+{% endhint %}
+
