@@ -2,9 +2,21 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 05/19 立場新聞 黃牛山人專欄
+
+[備份香港，不能只用家中硬碟](https://beta.thestandnews.com/technology/%E5%82%99%E4%BB%BD%E9%A6%99%E6%B8%AF-%E4%B8%8D%E8%83%BD%E5%8F%AA%E7%94%A8%E5%AE%B6%E4%B8%AD%E7%A1%AC%E7%A2%9F)
+
+### 05/07 眾新聞 Pazu薯伯伯專欄
+
+[競投這回事，記蕭雲「我們的獅子山」NFT 一事](https://www.hkcnews.com/article/41101/%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3-%E5%A1%9E%E6%8B%89%E5%88%A9%E6%98%82-%E8%96%AF%E4%BC%AF%E4%BC%AF-41128/%E7%AB%B6%E6%8A%95%E9%80%99%E5%9B%9E%E4%BA%8B%EF%BC%8C%E8%A8%98%E8%95%AD%E9%9B%B2%E3%80%8C%E6%88%91%E5%80%91%E7%9A%84%E7%8D%85%E5%AD%90%E5%B1%B1%E3%80%8Dnft-%E4%B8%80%E4%BA%8B)
+
 ### 04/18 明報
 
 [未來城市：熱潮捲到香港 fans贊助模式 養起創作人？](https://news.mingpao.com/pns/%e5%89%af%e5%88%8a/article/20210418/s00005/1618684493864/%e6%9c%aa%e4%be%86%e5%9f%8e%e5%b8%82-%e7%86%b1%e6%bd%ae%e6%8d%b2%e5%88%b0%e9%a6%99%e6%b8%af-fans%e8%b4%8a%e5%8a%a9%e6%a8%a1%e5%bc%8f-%e9%a4%8a%e8%b5%b7%e5%89%b5%e4%bd%9c%e4%ba%ba)
+
+### 04/17 香港蘋果日報 尹思哲專欄
+
+[創業起義｜再談NFT：局限與機遇（尹思哲）](https://hk.appledaily.com/finance/20210417/6U7EIKYCLRFM5G4KPRHZFEM2UI/)
 
 ### 03/23 theDesk Hong Kong
 

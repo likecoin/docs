@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 05/21 眾新聞
+
+[【NFT拍賣熱潮】蕭雲作品《我們的獅子山》2.8萬元賣出　競投者：相片代表港人重要記憶](https://www.hkcnews.com/article/41482/%E4%BD%99%E5%AE%B6%E9%BD%8A_edmond_yu-nft-41542/nft)
+
 ### 05/15 城寨 Singjai
 
 {% embed url="https://www.youtube.com/watch?v=7qZJWlCNGAE" %}
@@ -10,7 +14,9 @@
 
 {% embed url="https://www.youtube.com/watch?v=Acta5luxVGM" %}
 
-### 05/09 堅離地球 · 沈旭暉
+### 05/09 堅離地傾 · 沈旭暉
+
+[【堅離地傾】高重建：全民區塊鏈．Backup 真香港](https://beta.thestandnews.com/society/%E5%A0%85%E9%9B%A2%E5%9C%B0%E5%82%BE-%E9%AB%98%E9%87%8D%E5%BB%BA-%E5%85%A8%E6%B0%91%E5%8D%80%E5%A1%8A%E9%8F%88-backup-%E7%9C%9F%E9%A6%99%E6%B8%AF)
 
 {% embed url="https://www.youtube.com/watch?v=BTvpACIVMIg" %}
 
