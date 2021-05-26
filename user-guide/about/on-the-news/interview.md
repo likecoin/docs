@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 05/26 QUARTZ
+
+[Hong Kongers are using blockchain archives to fight government censorship](https://qz.com/2008673/hong-kongers-use-blockchain-to-fight-government-censorship/)
+
 ### 05/21 眾新聞
 
 [【NFT拍賣熱潮】蕭雲作品《我們的獅子山》2.8萬元賣出　競投者：相片代表港人重要記憶](https://www.hkcnews.com/article/41482/%E4%BD%99%E5%AE%B6%E9%BD%8A_edmond_yu-nft-41542/nft)
