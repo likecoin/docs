@@ -16,7 +16,9 @@ Some commonly used fields:
 
 `response.result.value.coins` \(`[{amount: string, denom: string}]`\): the balance of the account. `response.result.value.account_number` \(`string`\): the account number, which is needed when signing transactions. `response.result.value.sequence` \(`string`\): the sequence for replay protection, which is needed when signing transactions.
 
-Example: [http://34.66.207.129:1317/auth/accounts/cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04](http://34.66.207.129:1317/auth/accounts/cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04)
+Example: 
+
+[https://mainnet-node.like.co/auth/accounts/cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04](https://mainnet-node.like.co/auth/accounts/cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04)
 
 ```text
 {
@@ -49,94 +51,198 @@ A transaction may contain multiple messages, and if any of them failed during ex
 
 User can check if the whole transaction succeeded by checking if the last object in `response.logs` shows `success: true` or not.
 
-Example: [http://34.66.207.129:1317/txs/4F5DC521E5A37F1EBB08B36DDA64A1051352C3F9070D6D969ADE28CA6F33B5C2](http://34.66.207.129:1317/txs/4F5DC521E5A37F1EBB08B36DDA64A1051352C3F9070D6D969ADE28CA6F33B5C2)
+Example: 
+
+[https://mainnet-node.like.co/txs/F7AE531BC8CDD70A8C69ADBCD1F77029C11965900F3F0F239627E1DAF2C72A77](https://mainnet-node.like.co/txs/F7AE531BC8CDD70A8C69ADBCD1F77029C11965900F3F0F239627E1DAF2C72A77)
 
 ```text
 {
-  "height":"574778",
-  "txhash":"4F5DC521E5A37F1EBB08B36DDA64A1051352C3F9070D6D969ADE28CA6F33B5C2",
-  "raw_log":"[{\"msg_index\":0,\"success\":true,\"log\":\"\"}]",
-  "logs":[
+  "height": "8606074",
+  "txhash": "F7AE531BC8CDD70A8C69ADBCD1F77029C11965900F3F0F239627E1DAF2C72A77",
+  "raw_log": "[{\\"msg_index\\":0,\\"success\\":true,\\"log\\":\\"\\",\\"events\\":[{\\"type\\":\\"message\\",\\"attributes\\":[{\\"key\\":\\"sender\\",\\"value\\":\\"cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0\\"},{\\"key\\":\\"module\\",\\"value\\":\\"bank\\"},{\\"key\\":\\"action\\",\\"value\\":\\"send\\"}]},{\\"type\\":\\"transfer\\",\\"attributes\\":[{\\"key\\":\\"recipient\\",\\"value\\":\\"cosmos1rtwfrx9cq2ly7l59gy9607pxtp5nnutc3l3x2u\\"},{\\"key\\":\\"amount\\",\\"value\\":\\"9000000000nanolike\\"}]}]},{\\"msg_index\\":1,\\"success\\":true,\\"log\\":\\"\\",\\"events\\":[{\\"type\\":\\"message\\",\\"attributes\\":[{\\"key\\":\\"sender\\",\\"value\\":\\"cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0\\"},{\\"key\\":\\"module\\",\\"value\\":\\"bank\\"},{\\"key\\":\\"action\\",\\"value\\":\\"send\\"}]},{\\"type\\":\\"transfer\\",\\"attributes\\":[{\\"key\\":\\"recipient\\",\\"value\\":\\"cosmos1yyrcdn5j5pw2vf8yk2r9u04kk8kltxza6jd0ke\\"},{\\"key\\":\\"amount\\",\\"value\\":\\"3000000000nanolike\\"}]}]}]",
+  "logs": [
     {
-      "msg_index":0,
-      "success":true,
-      "log":""
-    }
-  ],
-  "gas_wanted":"44000",
-  "gas_used":"43053",
-  "events":[
-    {
-      "type":"message",
-      "attributes":[
+      "msg_index": 0,
+      "success": true,
+      "log": "",
+      "events": [
         {
-          "key":"action",
-          "value":"send"
+          "type": "message",
+          "attributes": [
+            {
+              "key": "sender",
+              "value": "cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0"
+            },
+            {
+              "key": "module",
+              "value": "bank"
+            },
+            {
+              "key": "action",
+              "value": "send"
+            }
+          ]
         },
         {
-          "key":"sender",
-          "value":"cosmos1ca0zlqxjqv5gek5qxm602umtkmu88564hpyws4"
-        },
-        {
-          "key":"module",
-          "value":"bank"
+          "type": "transfer",
+          "attributes": [
+            {
+              "key": "recipient",
+              "value": "cosmos1rtwfrx9cq2ly7l59gy9607pxtp5nnutc3l3x2u"
+            },
+            {
+              "key": "amount",
+              "value": "9000000000nanolike"
+            }
+          ]
         }
       ]
     },
     {
-      "type":"transfer",
-      "attributes":[
+      "msg_index": 1,
+      "success": true,
+      "log": "",
+      "events": [
         {
-          "key":"recipient",
-          "value":"cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04"
+          "type": "message",
+          "attributes": [
+            {
+              "key": "sender",
+              "value": "cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0"
+            },
+            {
+              "key": "module",
+              "value": "bank"
+            },
+            {
+              "key": "action",
+              "value": "send"
+            }
+          ]
         },
         {
-          "key":"amount",
-          "value":"10000000000nanolike"
+          "type": "transfer",
+          "attributes": [
+            {
+              "key": "recipient",
+              "value": "cosmos1yyrcdn5j5pw2vf8yk2r9u04kk8kltxza6jd0ke"
+            },
+            {
+              "key": "amount",
+              "value": "3000000000nanolike"
+            }
+          ]
         }
       ]
     }
   ],
-  "tx":{
-    "type":"cosmos-sdk/StdTx",
-    "value":{
-      "msg":[
+  "gas_wanted": "90000",
+  "gas_used": "59405",
+  "tx": {
+    "type": "cosmos-sdk/StdTx",
+    "value": {
+      "msg": [
         {
-          "type":"cosmos-sdk/MsgSend",
-          "value":{
-            "from_address":"cosmos1ca0zlqxjqv5gek5qxm602umtkmu88564hpyws4",
-            "to_address":"cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04",
-            "amount":[
+          "type": "cosmos-sdk/MsgSend",
+          "value": {
+            "from_address": "cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0",
+            "to_address": "cosmos1rtwfrx9cq2ly7l59gy9607pxtp5nnutc3l3x2u",
+            "amount": [
               {
-                "denom":"nanolike",
-                "amount":"10000000000"
+                "denom": "nanolike",
+                "amount": "9000000000"
+              }
+            ]
+          }
+        },
+        {
+          "type": "cosmos-sdk/MsgSend",
+          "value": {
+            "from_address": "cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0",
+            "to_address": "cosmos1yyrcdn5j5pw2vf8yk2r9u04kk8kltxza6jd0ke",
+            "amount": [
+              {
+                "denom": "nanolike",
+                "amount": "3000000000"
               }
             ]
           }
         }
       ],
-      "fee":{
-        "amount":[
+      "fee": {
+        "amount": [
           {
-            "denom":"nanolike",
-            "amount":"44000000"
+            "denom": "nanolike",
+            "amount": "9000000"
           }
         ],
-        "gas":"44000"
+        "gas": "90000"
       },
-      "signatures":[
+      "signatures": [
         {
-          "pub_key":{
-            "type":"tendermint/PubKeySecp256k1",
-            "value":"AwqajsW8qgrN0evcrRzz893GeGt4wl2ALbqXbaoGoYiB"
+          "pub_key": {
+            "type": "tendermint/PubKeySecp256k1",
+            "value": "Ao6v0S5CPswEb9qqhtrgWo6asFYZtXKmxrBhISk5qfVe"
           },
-          "signature":"E18vj9ENpYtXD35CgbEtdFXMiMQPF/+MvoEJ7dBIuJ05trQJGDihJhki5ctne9TuW1tl4oafRED37sXwslR7Fg=="
+          "signature": "TtFrJq6shII+a/yUFBUtx06FnhC4bG/BYy7QaoSpra91aiaJAlBgjSJmFGvQwl0rICG/BhxG7V2mHysIkx8QZw=="
         }
       ],
-      "memo":""
+      "memo": "superlike: 2446920329705075"
     }
   },
-  "timestamp":"2019-10-16T07:40:27Z"
+  "timestamp": "2021-05-27T16:12:22Z",
+  "events": [
+    {
+      "type": "message",
+      "attributes": [
+        {
+          "key": "sender",
+          "value": "cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0"
+        },
+        {
+          "key": "module",
+          "value": "bank"
+        },
+        {
+          "key": "action",
+          "value": "send"
+        },
+        {
+          "key": "sender",
+          "value": "cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0"
+        },
+        {
+          "key": "module",
+          "value": "bank"
+        },
+        {
+          "key": "action",
+          "value": "send"
+        }
+      ]
+    },
+    {
+      "type": "transfer",
+      "attributes": [
+        {
+          "key": "recipient",
+          "value": "cosmos1rtwfrx9cq2ly7l59gy9607pxtp5nnutc3l3x2u"
+        },
+        {
+          "key": "amount",
+          "value": "9000000000nanolike"
+        },
+        {
+          "key": "recipient",
+          "value": "cosmos1yyrcdn5j5pw2vf8yk2r9u04kk8kltxza6jd0ke"
+        },
+        {
+          "key": "amount",
+          "value": "3000000000nanolike"
+        }
+      ]
+    }
+  ]
 }
 ```
 
