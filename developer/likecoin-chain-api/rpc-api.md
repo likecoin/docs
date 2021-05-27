@@ -8,8 +8,6 @@ Please refer to cosmos document for a full list of API
 
 ### GET /auth/accounts/{address}
 
-\(TODO\)
-
 Returns the information about the account.
 
 Some commonly used fields:
@@ -42,8 +40,6 @@ Example:
 ```
 
 ### GET /txs/{hash}
-
-\(TODO\)
 
 Fetch the transaction information.
 
@@ -247,8 +243,6 @@ Example:
 ```
 
 ### POST /txs
-
-\(TODO\)
 
 Sends a signed transaction.
 
