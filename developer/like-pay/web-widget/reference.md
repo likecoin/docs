@@ -42,7 +42,7 @@ Production: [`https://like.co/in/widget/pay`](https://like.co/in/widget/pay)\`\`
 
 Cosmos LCD: `https://api.like.co/cosmos/lcd/txs/${txHash}`
 
-\(TODO\) like.co API: `https://api.like.co/txs/id/${txHash}`
+like.co API: `https://api.like.co/tx/id/${txHash}`
 
 ### Example Link
 
@@ -52,7 +52,11 @@ Following links are in testnet.
 
 #### Redirect result:
 
-#### [`http://localhost:3000/?tx_hash=DAD08549E31744C8EA8DE27AC2F2DC691960D424CC7D589B9B904355AB8FDB15&state=123`](http://localhost:3000/?tx_hash=DAD08549E31744C8EA8DE27AC2F2DC691960D424CC7D589B9B904355AB8FDB15&state=123)
+#### [`http://localhost:3000/?tx_hash=08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C6&state=123&remarks=LIKE%20pay%20via%20kiutest0`](http://localhost:3000/?tx_hash=08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C6&state=123&remarks=LIKE%20pay%20via%20kiutest0)
 
-#### Tx Status Query:[`https://api.rinkeby.like.co/cosmos/lcd/txs/DAD08549E31744C8EA8DE27AC2F2DC691960D424CC7D589B9B904355AB8FDB15`](https://api.rinkeby.like.co/cosmos/lcd/txs/DAD08549E31744C8EA8DE27AC2F2DC691960D424CC7D589B9B904355AB8FDB15)
+#### Tx Status Query:
+
+#### [`https://api.rinkeby.like.co/cosmos/lcd/txs/08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C`](https://api.rinkeby.like.co/cosmos/lcd/txs/08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C6)
+
+#### [`https://api.rinkeby.like.co/tx/id/08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C6`](https://api.rinkeby.like.co/tx/id/08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C6) 
 
