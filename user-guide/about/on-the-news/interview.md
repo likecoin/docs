@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 05/27 Cointelegraph
+
+[Hong Kongers use blockchain to save evidence of anti-authoritarian struggles](https://cointelegraph.com/news/hong-kongers-use-blockchain-to-save-evidence-of-anti-authoritarian-struggles)
+
 ### 05/26 QUARTZ
 
 [Hong Kongers are using blockchain archives to fight government censorship](https://qz.com/2008673/hong-kongers-use-blockchain-to-fight-government-censorship/)
