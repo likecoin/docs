@@ -6,7 +6,8 @@ description: ISCN(iscn-dev) web widget API Reference
 
 ## Introduction
 
-This is a PoC web widget connected to iscn-dev network for testing/demo/development purpose. We will update this widget later when ISCN feature is released on our production chain.
+This is a PoC web widget connected to iscn-dev network for testing/demo/development purpose. We will update this widget later when ISCN feature is released on our production chain.  
+Based on testnet [https://github.com/likecoin/likecoin-chain/tree/iscn-hackathon-dev\#transactions](https://github.com/likecoin/likecoin-chain/tree/iscn-hackathon-dev#transactions)
 
 ## Formatting the widget URL <a id="formatting-the-widget-url"></a>
 
