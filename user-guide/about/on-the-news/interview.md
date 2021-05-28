@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 05/27 Decrypt
+
+[Hong Kong Media Turns to Blockchain to Preserve Protest Archives](https://decrypt.co/72057/hong-kong-media-turns-blockchain-preserve-protest-archives)
+
 ### 05/27 Cointelegraph
 
 [Hong Kongers use blockchain to save evidence of anti-authoritarian struggles](https://cointelegraph.com/news/hong-kongers-use-blockchain-to-save-evidence-of-anti-authoritarian-struggles)
