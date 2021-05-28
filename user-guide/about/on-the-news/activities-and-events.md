@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 05/28 DigiFinex - Cryptocurrency Exchange
+
+[LikeCoin Giving Back to Creators with Repurposed Likes](https://www.facebook.com/digifinex.global/posts/1778613915645705)
+
 ### 05/03 Clubhouse HK Crypto 30mins ep.11
 
 艱難見證，見證難難；我們的獅子山
