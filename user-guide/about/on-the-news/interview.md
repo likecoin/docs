@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 05/27 CryptoPotato
+
+[People in Hong Kong Use The Blockchain To Fight Against Media Censorship](https://cryptopotato.com/people-hong-kong-use-blockchain-fight-media-censorship/)
+
 ### 05/27 Decrypt
 
 [Hong Kong Media Turns to Blockchain to Preserve Protest Archives](https://decrypt.co/72057/hong-kong-media-turns-blockchain-preserve-protest-archives)
