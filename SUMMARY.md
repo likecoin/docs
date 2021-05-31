@@ -1,6 +1,7 @@
 # Table of contents
 
 * [LikeCoin FAQ](README.md)
+* [Community Calls](community-call.md)
 
 ## 📙 user guide
 
@@ -118,10 +119,6 @@
   * [Where comes the LikeCoin rewards?](user-guide/liquid-democracy/where-comes-the-likecoin-rewards.md)
   * [Proposals](user-guide/liquid-democracy/proposals.md)
   * [LikeCoin Grants Program](user-guide/liquid-democracy/likecoin-grants.md)
-
----
-
-* [Community Calls](community-call.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
