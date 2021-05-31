@@ -116,9 +116,12 @@
   * [Redelegation of LikeCoin](user-guide/liquid-democracy/redelegation-of-likecoin.md)
   * [Secure your LikeCoin with hardware wallet](user-guide/liquid-democracy/hardware-wallet.md)
   * [Where comes the LikeCoin rewards?](user-guide/liquid-democracy/where-comes-the-likecoin-rewards.md)
-  * [Community Call](user-guide/liquid-democracy/community-call.md)
   * [Proposals](user-guide/liquid-democracy/proposals.md)
   * [LikeCoin Grants Program](user-guide/liquid-democracy/likecoin-grants.md)
+
+---
+
+* [Community Calls](community-call.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 

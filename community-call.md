@@ -1,18 +1,47 @@
 ---
-description: 'I have some comments about LikeCoin, can I express them directly?'
+description: >-
+  You are invited to join our monthly public community calls. It is a recurrent
+  meeting where we cover items that are related to LikeCoin chain governance and
+  ecosystem development.
 ---
 
-# Community Call
+# Community Calls
 
-![](../../.gitbook/assets/likecoin_ad70_validators-01.png)
+### Call Link: [https://meet.google.com/ovn-smic-auu](https://meet.google.com/ovn-smic-auu) **Add to your Calendar:** [**https://bit.ly/3c5DaTH**](https://bit.ly/3c5DaTH)\*\*\*\*
 
-## Regular Meeting
+### **Agenda & Notes:** [**https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13**](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)\*\*\*\*
 
-LikeCoin community call conduct on the 1st Monday of each month at 1820 UTC+8, usually in English
+### **Questions? Join our** [**Discord**](https://discord.com/invite/W4DQ6peZZZ) **for help.**
+
+### **2021 Date & Schedule**
+
+| **Date**  | Description | Moderators |
+| :--- | :--- | :--- |
+| Monday, 7 June  | LikeCoin Development Grant Progress & 1st round submissions | Phoebe, Jiahe |
+| Monday, 5 July | LikeCoin chain upgrade preparation  |  |
+| Monday, 8 Aug | TBD |  |
+| Monday, 6 Sept | TBD |  |
+| Monday, 4 Oct | TBD |  |
+| Monday, 1 Nov | TBD |  |
+| Monday, 6 Dec | TBD |  |
+
+### **Call Time**
+
+| Location | Local Time | Time Zone | UTC Offset |
+| :--- | :--- | :--- | :--- |
+| Hong Kong | 18:30:00 | UTC+8 | UTC+8 |
+| Taipei | 18:30:00 | CST | UTC+8 |
+| Los Angelas | 03:00:00 | PDT | UTC-7 |
+| New York | 06:00:00 | EDT | UTC-4 |
+| London | 11:00:00 | BST | UTC+1 |
+| Toronto | 06:00:00 | EDT | UTC-4 |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+![](.gitbook/assets/likecoin_ad70_validators-01.png)
 
 ## Meeting Minutes
-
-
 
 * [LikeCoin Community Call \#202105 Minutes](https://medium.com/likecoin/likecoin-community-call-202105-minutes-be3e8bbfa9e5)
 * [LikeCoin Community Call \#202104 Minutes](https://medium.com/likecoin/likecoin-community-call-202104-minutes-a8e398e2a8a0)
