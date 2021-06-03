@@ -27,7 +27,7 @@ Run `./scripts/build.sh`.
 
 Download `genesis.json` [here](https://gist.githubusercontent.com/nnkken/1d1b9d4aae4acb3d835dd3150f546d44/raw/4d97fd471b4bf3be8c5475efbc0361f4926e65e5/genesis.json) and put it somewhere \(e.g. in `likecoin-chain` folder\).
 
-Run `./scripts/init.sh MONIKER genesis.json 913bd0f4bea4ef512ffba39ab90eae84c1420862@34.82.131.35:26656`, where `MONIKER` is your node's custom name.
+Run `./scripts/init.sh $(MONIKER) genesis.json 913bd0f4bea4ef512ffba39ab90eae84c1420862@34.82.131.35:26656`, where `$(MONIKER)` is your node's custom name.
 
 When asked, enter and repeat a passphrase for protecting your account key.
 
