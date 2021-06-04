@@ -1,37 +1,37 @@
 ---
-description: 我對 LikeCoin 的發展有意見，可以表達麼？
+description: 任何人也歡迎參與公開的社群會議。這個每月舉行會議涵蓋 LikeCoin 區塊鏈治理及生態發展
 ---
 
 # 社群治理會議
 
-### 會議連結：[https://meet.google.com/ovn-smic-auu](https://meet.google.com/ovn-smic-auu) 把會時加入你的行事：[**https://bit.ly/3c5DaTH**](https://bit.ly/3c5DaTH)\*\*\*\*
+### 會議連結：[https://meet.google.com/ovn-smic-auu](https://meet.google.com/ovn-smic-auu) 把會議加入你的行事曆：[**https://bit.ly/3c5DaTH**](https://bit.ly/3c5DaTH)\*\*\*\*
 
-### **Agenda & Notes:** [**https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13**](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)\*\*\*\*
+### **議程及筆記：**[**https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13**](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)\*\*\*\*
 
-### **Questions? Join our** [**Discord**](https://discord.com/invite/W4DQ6peZZZ) **for help.**
+### **有問題嗎？請參與** [**Discord**](https://discord.com/invite/W4DQ6peZZZ) **頻道尋求幫助。**
 
-### **2021 Date & Schedule**
+## **2021 日期及議程**
 
-| **Date**  | Description | Moderators |
+| 日期 | 描述 | 主持人 |
 | :--- | :--- | :--- |
-| Monday, 7 June  | LikeCoin Development Grant Progress & 1st round submissions | Phoebe, Jiahe |
-| Monday, 5 July | LikeCoin chain upgrade preparation  |  |
-| Monday, 8 Aug | TBD |  |
-| Monday, 6 Sept | TBD |  |
-| Monday, 4 Oct | TBD |  |
-| Monday, 1 Nov | TBD |  |
-| Monday, 6 Dec | TBD |  |
+| 星期一、6月7日  | LikeCoin Development Grant Progress & 1st round submissions | Phoebe, Jiahe |
+| 星期一、7月5日 | LikeCoin chain upgrade preparation  |  |
+| 星期一、8月8日 | TBD |  |
+| 星期一、9月6日 | TBD |  |
+| 星期一、10月4日 | TBD |  |
+| 星期一、11月1日 | TBD |  |
+| 星期一、12月6日 | TBD |  |
 
-### **Call Time**
+## 會議時間
 
-| Location | Local Time | Time Zone | UTC Offset |
+| 地區 | 當地時間 | 時區 | UTC 偏移 |
 | :--- | :--- | :--- | :--- |
-| Hong Kong | 18:30:00 | UTC+8 | UTC+8 |
-| Taipei | 18:30:00 | CST | UTC+8 |
-| Los Angelas | 03:00:00 | PDT | UTC-7 |
-| New York | 06:00:00 | EDT | UTC-4 |
-| London | 11:00:00 | BST | UTC+1 |
-| Toronto | 06:00:00 | EDT | UTC-4 |
+| 香港 | 18:30:00 | UTC+8 | UTC+8 |
+| 台北 | 18:30:00 | CST | UTC+8 |
+| 洛杉磯 | 03:00:00 | PDT | UTC-7 |
+| 紐約 | 06:00:00 | EDT | UTC-4 |
+| 倫敦 | 11:00:00 | BST | UTC+1 |
+| 多倫多 | 06:00:00 | EDT | UTC-4 |
 
 ![](.gitbook/assets/likecoin_ad70_validators-01.png)
 
