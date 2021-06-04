@@ -2,9 +2,9 @@
 
 ## RPC API
 
-Please refer to cosmos document for a full list of API
+Please refer to swagger document for a full list of API
 
-[https://v1.cosmos.network/rpc/v0.37.9](https://v1.cosmos.network/rpc/v0.37.9)
+[https://mainnet-node.like.co/swagger-ui/](https://mainnet-node.like.co/swagger-ui/)
 
 ### GET /auth/accounts/{address}
 
