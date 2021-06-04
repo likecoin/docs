@@ -17,13 +17,8 @@ description: >-
 
 | **Date**  | Description | Moderators |
 | :--- | :--- | :--- |
-| Monday, 7 June  | LikeCoin Development Grant Progress & 1st round submissions | Phoebe, Jiahe |
+| Monday, 7 June  | LikeCoin Development Grant Update  | Phoebe, Jiahe |
 | Monday, 5 July | LikeCoin chain upgrade preparation  |  |
-| Monday, 8 Aug | TBD |  |
-| Monday, 6 Sept | TBD |  |
-| Monday, 4 Oct | TBD |  |
-| Monday, 1 Nov | TBD |  |
-| Monday, 6 Dec | TBD |  |
 
 ## **Call Time**
 
