@@ -2,7 +2,7 @@
 description: >-
   You are invited to join our monthly public community calls. It is a recurrent
   meeting where we cover items that are related to LikeCoin chain governance and
-  ecosystem development.
+  ecosystem development
 ---
 
 # Community Calls
@@ -13,7 +13,7 @@ description: >-
 
 ### **Questions? Join our** [**Discord**](https://discord.com/invite/W4DQ6peZZZ) **for help.**
 
-### **2021 Date & Schedule**
+## **2021 Date & Schedule**
 
 | **Date**  | Description | Moderators |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: >-
 | Monday, 1 Nov | TBD |  |
 | Monday, 6 Dec | TBD |  |
 
-### **Call Time**
+## **Call Time**
 
 | Location | Local Time | Time Zone | UTC Offset |
 | :--- | :--- | :--- | :--- |
@@ -35,9 +35,6 @@ description: >-
 | New York | 06:00:00 | EDT | UTC-4 |
 | London | 11:00:00 | BST | UTC+1 |
 | Toronto | 06:00:00 | EDT | UTC-4 |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 
 ![](.gitbook/assets/likecoin_ad70_validators-01.png)
 
