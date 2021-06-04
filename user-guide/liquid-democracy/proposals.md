@@ -6,7 +6,7 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
-## Proposal \#11 提高活躍驗證人名額由 25 名至 50 名
+## 議案 \#11 提高活躍驗證人名額由 25 名至 50 名
 
 * **提案**：[Oldcat](https://matters.news/@oldcat/like-coin-chain-proposal-11-increasing-the-maximum-number-of-active-validators-from-25-to-50-bafyreifshurtp5w4i7ovcwu274sr4iknrtdhsy2s2vrunlwzmnz4kp4mwa)
 * **類型**：參數修訂議案 \( parameter change proposal \)
