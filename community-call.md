@@ -4,7 +4,36 @@ description: 我對 LikeCoin 的發展有意見，可以表達麼？
 
 # 社群治理會議
 
-![](../../.gitbook/assets/likecoin_ad70_validators-01.png)
+### 會議連結：[https://meet.google.com/ovn-smic-auu](https://meet.google.com/ovn-smic-auu) 把會時加入你的行事：[**https://bit.ly/3c5DaTH**](https://bit.ly/3c5DaTH)\*\*\*\*
+
+### **Agenda & Notes:** [**https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13**](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)\*\*\*\*
+
+### **Questions? Join our** [**Discord**](https://discord.com/invite/W4DQ6peZZZ) **for help.**
+
+### **2021 Date & Schedule**
+
+| **Date**  | Description | Moderators |
+| :--- | :--- | :--- |
+| Monday, 7 June  | LikeCoin Development Grant Progress & 1st round submissions | Phoebe, Jiahe |
+| Monday, 5 July | LikeCoin chain upgrade preparation  |  |
+| Monday, 8 Aug | TBD |  |
+| Monday, 6 Sept | TBD |  |
+| Monday, 4 Oct | TBD |  |
+| Monday, 1 Nov | TBD |  |
+| Monday, 6 Dec | TBD |  |
+
+### **Call Time**
+
+| Location | Local Time | Time Zone | UTC Offset |
+| :--- | :--- | :--- | :--- |
+| Hong Kong | 18:30:00 | UTC+8 | UTC+8 |
+| Taipei | 18:30:00 | CST | UTC+8 |
+| Los Angelas | 03:00:00 | PDT | UTC-7 |
+| New York | 06:00:00 | EDT | UTC-4 |
+| London | 11:00:00 | BST | UTC+1 |
+| Toronto | 06:00:00 | EDT | UTC-4 |
+
+![](.gitbook/assets/likecoin_ad70_validators-01.png)
 
 ## 常規會議 <a id="monthly"></a>
 
