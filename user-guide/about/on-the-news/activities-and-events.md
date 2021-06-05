@@ -6,9 +6,9 @@
 
 [LikeCoin Giving Back to Creators with Repurposed Likes](https://www.facebook.com/digifinex.global/posts/1778613915645705)
 
+[DigiFinex AMA Recap \| Decentralized Publishing Infrastructure](https://blog.digifinex.com/2021/06/04/digifinex-ama-recap-decentralized-publishing-infrastructure/)
+
 {% embed url="https://www.facebook.com/digifinex.global/videos/331988538550815" %}
-
-
 
 ### 05/03 Clubhouse HK Crypto 30mins ep.11
 
