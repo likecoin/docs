@@ -6,6 +6,13 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+##  議案 \#12 修改委託生態池的 LikeCoin 予驗證人的做法 <a id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
+
+* **提案**：[guanyun](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHAN5XbPEY/)​
+* **類型**：文本式議案 \( Text Proposal \)
+* **日期**：2021.05.18 提案，2020.06.02 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/12](https://likecoin.bigdipper.live/proposals/12)
+
 ## 議案 \#11 提高活躍驗證人名額由 25 名至 50 名
 
 * **提案**：[Oldcat](https://matters.news/@oldcat/like-coin-chain-proposal-11-increasing-the-maximum-number-of-active-validators-from-25-to-50-bafyreifshurtp5w4i7ovcwu274sr4iknrtdhsy2s2vrunlwzmnz4kp4mwa)
