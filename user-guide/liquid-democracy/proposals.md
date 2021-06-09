@@ -6,7 +6,12 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
-## 
+## Proposal \#12 Changing the way of delegate the ecological's LikeCoin in the validators
+
+* Proposer: [guanyun](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHAN5XbPEY/)
+* Proposal Type: Text Proposal
+* Date: Submit on 2021.05.18, Passed on 2020.06.02
+* Details: https://likecoin.bigdipper.live/proposals/12
 
 ## Proposal \#11 Increasing the maximum number of active validators from 25 to 50
 
