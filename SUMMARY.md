@@ -125,6 +125,7 @@
 * [Become a validator](validator/become-a-validator.md)
 * [LikeCoin chain node](validator/likecoin-chain-node/README.md)
   * [Validator Technical Introduction](validator/likecoin-chain-node/validator-technical-introduction.md)
+  * [Setup local test node](validator/likecoin-chain-node/setup-local-test-node.md)
   * [Setup mainnet node](validator/likecoin-chain-node/setup-mainnet-node.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
