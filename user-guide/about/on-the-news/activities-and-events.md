@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 06/17 DeFi Summit
+
+{% embed url="https://youtu.be/4E995anHkRA?t=9121" %}
+
 ### 05/28 DigiFinex - Cryptocurrency Exchange
 
 [LikeCoin Giving Back to Creators with Repurposed Likes](https://www.facebook.com/digifinex.global/posts/1778613915645705)
