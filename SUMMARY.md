@@ -132,6 +132,7 @@
 * [LikeCoin chain API](developer/likecoin-chain-api/README.md)
   * [Cosmos concepts](developer/likecoin-chain-api/cosmos-concepts.md)
   * [RPC API](developer/likecoin-chain-api/rpc-api.md)
+  * [Setup local test node](developer/likecoin-chain-api/setup-local-test-node.md)
   * [Sample](developer/likecoin-chain-api/sample/README.md)
     * [Javascript](developer/likecoin-chain-api/sample/javascript.md)
 * [LikeCoin API](developer/likecoin-api/README.md)
