@@ -120,12 +120,12 @@
   * [Proposals](user-guide/liquid-democracy/proposals.md)
   * [LikeCoin Grants Program](user-guide/liquid-democracy/likecoin-grants.md)
 
-## 🗣️ Validator Resources
+## 🗣️ Validator Resources <a id="validator"></a>
 
-* [Become a validator](validator-resources/become-a-validator.md)
-* [LikeCoin chain node](validator-resources/likecoin-chain-node/README.md)
-  * [Validator Technical Introduction](validator-resources/likecoin-chain-node/validator-technical-introduction.md)
-  * [Setup mainnet node](validator-resources/likecoin-chain-node/setup-mainnet-node.md)
+* [Become a validator](validator/become-a-validator.md)
+* [LikeCoin chain node](validator/likecoin-chain-node/README.md)
+  * [Validator Technical Introduction](validator/likecoin-chain-node/validator-technical-introduction.md)
+  * [Setup mainnet node](validator/likecoin-chain-node/setup-mainnet-node.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
