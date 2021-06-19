@@ -1,15 +1,19 @@
 # Node configuration
 
+Note that most of the configurations could be overridden by environment variables or command line arguments when starting the node.
+
 ## app.toml
 
 app.toml is a configuration file located in `~/.likerd/config/app.toml` which controls the behaviour of node application logic.
 
 ### minimum-gas-prices
 
+The minimum price per gas which your node will accept a transaction. The amount part should be in decimal format, e.g. `1000.0nanolike`, otherwise the node will fail to start. Note that if there is another node proposed a block including a transaction with gas price lower than this value, this node will still process the transaction. An ordinary LikeCoin transfer transaction takes about 40000 gas.
+
 Validators are recommend to set a `minimum-gas-prices` to a non zero value,  e.g. 
 
 ```text
-minimum-gas-prices = "0.01 nanolike" // or "1 nanolike"
+minimum-gas-prices = "0.01 nanolike" // or "1.0 nanolike"
 ```
 
 Transaction that has a gas price lower than the configured value would not be processed by the validator. Forcing a minimum gas price to be set for all transactions helps combatting spam transactions.
@@ -20,7 +24,37 @@ For details, please refer to [cosmos documentation](https://docs.cosmos.network/
 
 config.toml is a configuration file located in `~/.likerd/config/config.toml` which controls node tendermint configurations.
 
+See [Tendermint docs](https://tendermint.com/docs/tendermint-core/configuration.html) for the detailed lists.
+
 ### moniker
 
 Edit your node's moniker\(name\) when appeared in other connected node.
+
+### rpc.laddr
+
+HTTP RPC endpoint for querying node infos, default is only for localhost.
+
+### p2p.laddr
+
+Endpoint which other P2P nodes can connect with this node.
+
+### p2p.external\_address
+
+External IP address which this node claims to others. If this field is not set, Tendermint will use `p2p.laddr` address \(which usually doesn't work, see [issues and workarounds](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#ip-address-exchange) below\).
+
+### p2p.seeds
+
+Bootstrap nodes which this node will connect to and obtain addresses from for more peers.
+
+### p2p.persistent\_peers
+
+ This node will connect to these nodes persistently.
+
+### p2p.private\_peer\_ids
+
+These nodes' addresses will not be exchanged with others. Can be used to hide the validator signing node's address. See [Sentry Node Architecture](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#sentry-node-architecture) below.
+
+### consensus.timeout\_commit
+
+This value controls the blocktime.
 

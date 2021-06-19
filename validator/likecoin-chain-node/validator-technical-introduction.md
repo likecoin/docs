@@ -2,31 +2,6 @@
 
 This document includes some technical information which LikeCoin Chain validators should know.
 
-* [Overview](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#overview)
-  * [Tendermint](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#tendermint)
-  * [Cosmos SDK Application](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#cosmos-sdk-application)
-* [Command Line Interface](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#command-line-interface)
-  * [liked](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#liked)
-  * [likecli](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#likecli)
-* [Configurations](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#configurations)
-  * [Tendermint](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#tendermint-1)
-  * [Cosmos SDK](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#cosmos-sdk)
-* [Deployment](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#deployment)
-  * [Basic Launching Flow](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#basic-launching-flow)
-  * [Availability](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#availability)
-  * [Key Management](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#key-management)
-* [Transactions](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#transactions)
-  * [Transaction Structure](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#transaction-structure)
-  * [Transaction Execution Flow](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#transaction-execution-flow)
-* [Common Modules, Transactions and Queries](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#common-modules-transactions-and-queries)
-  * [Auth](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#auth)
-  * [Bank](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#bank)
-  * [Staking related modules](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#staking-related-modules)
-  * [Governance](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#governance)
-* [Known Issues and Workarounds](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#known-issues-and-workarounds)
-  * [IP Address Exchange](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#ip-address-exchange)
-  * [Empty Blocks](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#empty-blocks)
-
 ## Overview
 
 LikeCoin Chain is developed base on Cosmos SDK. When started, the software will launch 2 components: Tendermint, which communicates with other nodes and process blockchain / consensus related stuffs; Cosmos SDK application, which receives transactions from Tendermint and process them according to the application logic.
@@ -177,40 +152,6 @@ likecli tx send faucet cosmos1mw2l98asefxev9s9mvdtm2j5mcap9mn5t3u8lh 10000000000
 This command starts the lite client, which exposes the node APIs as understandable RESTful APIs.
 
 See the [Cosmos SDK RPC doc](https://cosmos.network/rpc/) for more details.
-
-## Configurations
-
-Note that most of the configurations could be overridden by environment variables or command line arguments when starting the node.
-
-### Tendermint
-
-Tendermint configurations are related to the consensus part, e.g. node's name, P2P seed address, blocktime.
-
-#### config.toml
-
-See [Tendermint docs](https://tendermint.com/docs/tendermint-core/configuration.html) for the detailed lists.
-
-Some notable items:
-
-* `rpc.laddr`: HTTP RPC endpoint for querying node infos, default is only for localhost.
-* `p2p.laddr`: Endpoint which other P2P nodes can connect with this node.
-* `p2p.external_address`: External IP address which this node claims to others. If this field is not set, Tendermint will use `p2p.laddr` address \(which usually doesn't work, see [issues and workarounds](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#ip-address-exchange) below\).
-* `p2p.seeds`: Bootstrap nodes which this node will connect to and obtain addresses from for more peers.
-* `p2p.persistent_peers`: This node will conenct to these nodes persistently.
-* `p2p.private_peer_ids`: These nodes' addresses will not be exchanged with others. Can be used to hide the validator signing node's address. See [Sentry Node Architecture](https://github.com/likecoin/likecoin-chain/wiki/LikeCoin-Chain-Validator-101-%28Technical-Part%29#sentry-node-architecture) below.
-* `consensus.timeout_commit`: This value controls the blocktime.
-
-### Cosmos SDK
-
-#### app.toml
-
-This file contains application specific configurations.
-
-* `minimum-gas-prices`: The minimum price per gas which your node will accept a transaction. The amount part should be in decmial format, e.g. `1000.0nanolike`, otherwise the node will fail to start. Note that if there is another node proposed a block including a transaction with gas price lower than this value, this node will still process the transaction. An ordinary LikeCoin transfer transaction takes about 40000 gas.
-
-#### genesis.json
-
-This file contains the genesis state of the blockchain. Every node in the same network should share the same `genesis.json`, otherwise they will fail to achieve consensus.
 
 ## Deployment
 
