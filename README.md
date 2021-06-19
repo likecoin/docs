@@ -18,6 +18,8 @@ description: Frequently Asked Questions
 * [​How LikeCoin and the community growth?](https://docs.like.co/user-guide/about/background)
 * [​Does LikeCoin provide branding and design materials for download?](https://docs.like.co/user-guide/about/presskit)
 
+{% page-ref page="./" %}
+
 ## [​I am a Reader](https://docs.like.co/user-guide/reader) <a id="wo-shi-du-zhe"></a>
 
 * [Facebook has more than enough news, why do I have to use Liker Land? ](https://docs.like.co/user-guide/reader#content-jockey)
