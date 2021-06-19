@@ -128,6 +128,7 @@
   * [Setup local test node](validator/likecoin-chain-node/setup-local-test-node.md)
   * [Setup mainnet node](validator/likecoin-chain-node/setup-mainnet-node.md)
   * [Node configuration](validator/likecoin-chain-node/node-configuration.md)
+  * [Command line interface](validator/likecoin-chain-node/command-line-interface.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
 
