@@ -6,11 +6,6 @@
 
 ## 📙  使用手冊 <a id="user-guide"></a>
 
-* [去中心出版](user-guide/depub/README.md)
-  * [什麼是 ISCN?](user-guide/depub/what-is-iscn.md)
-  * [ISCN 和 IPFS 的關係是什麼？](user-guide/depub/iscn-ipfs-relationship.md)
-  * [ISCN 的去中心特性對內容生態有什麼好處？](user-guide/depub/benefits.md)
-  * [ISCN 支援什麼內容格式？](user-guide/depub/formats.md)
 * [LikeCoin 項目概覽](user-guide/likecoin-xiang-mu-gai-lan/README.md)
   * [即時數據更新](user-guide/likecoin-xiang-mu-gai-lan/real-time-statistic.md)
   * [進度更新](user-guide/likecoin-xiang-mu-gai-lan/updates.md)
@@ -20,6 +15,11 @@
 * [開發者資源](user-guide/developer-resources/README.md)
   * [開發資源](user-guide/developer-resources/kai-fa-zi-yuan.md)
   * [成為驗證人](user-guide/developer-resources/become-a-validator.md)
+* [去中心出版](user-guide/depub/README.md)
+  * [什麼是 ISCN?](user-guide/depub/what-is-iscn.md)
+  * [ISCN 和 IPFS 的關係是什麼？](user-guide/depub/iscn-ipfs-relationship.md)
+  * [ISCN 的去中心特性對內容生態有什麼好處？](user-guide/depub/benefits.md)
+  * [ISCN 支援什麼內容格式？](user-guide/depub/formats.md)
 * [我是讀者](user-guide/reader/README.md)
   * [下載 Liker Land](user-guide/reader/download.md)
   * [今日頭條](user-guide/reader/today-headline.md)
