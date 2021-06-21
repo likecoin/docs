@@ -9,6 +9,7 @@
   * [去中心出版](user-guide/about/qu-zhong-xin-chu-ban.md)
   * [什麼是 ISCN?](user-guide/about/shen-me-shi-iscn.md)
   * [ISCN 和 IPFS 的關係是什麼？](user-guide/about/iscn-he-ipfs-de-guan-xi-shi-shen-me.md)
+  * [ISCN 的去中心特性對內容生態有什麼好處？](user-guide/about/iscn-de-qu-zhong-xin-te-xing-dui-nei-rong-sheng-tai-you-shen-me-hao-chu.md)
   * [即時數據更新](user-guide/about/real-time-statistic.md)
   * [進度更新](user-guide/about/updates.md)
   * [支援網站列表](user-guide/about/list-of-media.md)
