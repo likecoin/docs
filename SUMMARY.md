@@ -6,6 +6,7 @@
 ## 📙  使用手冊 <a id="user-guide"></a>
 
 * [LikeCoin - 去中心出版](user-guide/about/README.md)
+  * [去中心出版](user-guide/about/qu-zhong-xin-chu-ban.md)
   * [即時數據更新](user-guide/about/real-time-statistic.md)
   * [進度更新](user-guide/about/updates.md)
   * [支援網站列表](user-guide/about/list-of-media.md)
