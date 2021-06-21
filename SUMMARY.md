@@ -17,7 +17,9 @@
   * [傳媒報導](user-guide/likecoin-xiang-mu-gai-lan/on-the-news.md)
   * [品牌素材下載](user-guide/likecoin-xiang-mu-gai-lan/presskit.md)
   * [支援網站列表](user-guide/likecoin-xiang-mu-gai-lan/list-of-media.md)
-* [發展史](user-guide/background.md)
+* [開發者資源](user-guide/developer-resources/README.md)
+  * [開發資源](user-guide/developer-resources/kai-fa-zi-yuan.md)
+  * [成為驗證人](user-guide/developer-resources/become-a-validator.md)
 * [我是讀者](user-guide/reader/README.md)
   * [下載 Liker Land](user-guide/reader/download.md)
   * [今日頭條](user-guide/reader/today-headline.md)
@@ -100,9 +102,7 @@
   * [因委託而產生的 LikeCoin 回報，錢從何來？](user-guide/liquid-democracy/where-comes-the-likecoin-rewards.md)
   * [歷史議案](user-guide/liquid-democracy/proposals.md)
   * [LikeCoin Grants 計畫](user-guide/liquid-democracy/likecoin-grants.md)
+* [發展史](user-guide/background.md)
 
 ## 🔬 Developer Resources <a id="developer"></a>
-
-* [成為驗證人](developer/become-a-validator.md)
-* [開發資源](developer/kai-fa-zi-yuan.md)
 
