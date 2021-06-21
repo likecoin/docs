@@ -6,12 +6,12 @@
 
 ## 📙  使用手冊 <a id="user-guide"></a>
 
-* [LikeCoin 項目概覽](user-guide/likecoin-xiang-mu-gai-lan/README.md)
-  * [即時數據更新](user-guide/likecoin-xiang-mu-gai-lan/real-time-statistic.md)
-  * [進度更新](user-guide/likecoin-xiang-mu-gai-lan/updates.md)
-  * [傳媒報導](user-guide/likecoin-xiang-mu-gai-lan/on-the-news.md)
-  * [品牌素材下載](user-guide/likecoin-xiang-mu-gai-lan/presskit.md)
-  * [支援網站列表](user-guide/likecoin-xiang-mu-gai-lan/list-of-media.md)
+* [LikeCoin 項目概覽](user-guide/likecoin/README.md)
+  * [即時數據更新](user-guide/likecoin/real-time-statistic.md)
+  * [進度更新](user-guide/likecoin/updates.md)
+  * [傳媒報導](user-guide/likecoin/on-the-news.md)
+  * [品牌素材下載](user-guide/likecoin/presskit.md)
+  * [支援網站列表](user-guide/likecoin/list-of-media.md)
 * [開發者資源](user-guide/developer-resources/README.md)
   * [開發資源](user-guide/developer-resources/kai-fa-zi-yuan.md)
   * [成為驗證人](user-guide/developer-resources/become-a-validator.md)
