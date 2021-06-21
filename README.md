@@ -9,15 +9,15 @@ description: LikeCoin 常見問題
 ## [LikeCoin - 去中心出版](https://docs.like.co/v/zh/user-guide/about#likecoin)
 
 * [LikeCoin 是甚麼？](https://docs.like.co/v/zh/user-guide/about#likecoin)
-* 什麼是去中心出版 \#DePub？
-* ISCN 是什麼？
-* ISCN 和 IPFS 的關係是什麼？
-* ISCN 的分散特性對內容生態有什麼好處？ 
-* 註冊 ISCN 要費用嗎？ ISCN 記錄是永遠的嗎？ 
-* 若內容更新了怎麼辦？
-* ISCN 支援內容版本嗎？ 
-* ISCN 記錄的內容只支援 IPFS 上的檔案嗎？ 
-* ISCN 支援什麼內容格式？
+* [什麼是去中心出版 \#DePub？](https://docs.like.co/v/zh/user-guide/about/qu-zhong-xin-chu-ban)
+* [ISCN 是什麼？](https://docs.like.co/v/zh/user-guide/about/shen-me-shi-iscn)
+* [ISCN 和 IPFS 的關係是什麼？](https://docs.like.co/v/zh/user-guide/about/iscn-he-ipfs-de-guan-xi-shi-shen-me)
+* [ISCN 的分散特性對內容生態有什麼好處？ ](https://docs.like.co/v/zh/user-guide/about/iscn-de-qu-zhong-xin-te-xing-dui-nei-rong-sheng-tai-you-shen-me-hao-chu)
+* [註冊 ISCN 要費用嗎？](https://docs.like.co/v/zh/user-guide/about/shen-me-shi-iscn)
+* [ISCN 記錄是永遠的嗎？](https://docs.like.co/v/zh/user-guide/about/iscn-de-qu-zhong-xin-te-xing-dui-nei-rong-sheng-tai-you-shen-me-hao-chu) 
+* [若內容更新了怎麼辦？ISCN 支援內容版本嗎？ ](https://docs.like.co/v/zh/user-guide/about/shen-me-shi-iscn)
+* [ISCN 記錄的內容只支援 IPFS 上的檔案嗎？](https://docs.like.co/v/zh/user-guide/about/iscn-he-ipfs-de-guan-xi-shi-shen-me) 
+* [ISCN 支援什麼內容格式？](https://docs.like.co/v/zh/user-guide/about/zhu-ce-iscn-xu-yao-fei-yong-ma)
 
 ## LikeCoin 項目和社群
 
