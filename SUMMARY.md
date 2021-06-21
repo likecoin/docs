@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LikeCoin 答客問](README.md)
+* [LikeCoin - 去中心出版](README.md)
 * [LikeCoin - 去中心出版](about/README.md)
   * [去中心出版](about/qu-zhong-xin-chu-ban.md)
   * [什麼是 ISCN?](about/shen-me-shi-iscn.md)

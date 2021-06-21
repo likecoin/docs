@@ -4,6 +4,8 @@ description: 有關 LikeCoin、去中心出版、及讚賞公民共和國
 
 # LikeCoin - 去中心出版
 
+
+
 ![](../.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
 
 LikeCoin 是去中心出版基建，協助作者把內容註冊到區塊鏈，寫下永久的憑據 - ISCN \( International Standard Content Number \)，達至內容授權、核查及溯源等目的。
