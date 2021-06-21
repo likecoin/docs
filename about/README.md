@@ -4,7 +4,7 @@ description: 有關 LikeCoin、去中心出版、及讚賞公民共和國
 
 # LikeCoin - 去中心出版
 
-![](../../.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
+![](../.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png)
 
 LikeCoin 是去中心出版基建，協助作者把內容註冊到區塊鏈，寫下永久的憑據 - ISCN \( International Standard Content Number \)，達至內容授權、核查及溯源等目的。
 
@@ -14,7 +14,7 @@ LikeCoin 提供出版相關的 SDK / 插件予平台進行整合，發展各種�
 
 LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) 公共區塊鏈，其支撐整個社群：[**讚賞公民共和國**](https://liker.land/getapp)。‌
 
-{% page-ref page="../likecoin-xiang-mu-gai-lan/list-of-media.md" %}
+{% page-ref page="../user-guide/likecoin-xiang-mu-gai-lan/list-of-media.md" %}
 
 ## 關注 LikeCoin
 
