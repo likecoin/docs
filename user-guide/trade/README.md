@@ -2,7 +2,7 @@
 description: LikeCoin 通證（token）是什麼？
 ---
 
-# LikeCoin 交易
+# 交易
 
 LikeCoin 通證（token）一般會直接稱為 LikeCoin，社群通用的貨幣，可用作：
 
