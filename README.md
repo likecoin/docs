@@ -1,72 +1,34 @@
 ---
-description: Frequently Asked Questions
+description: 'What is LikeCoin, #DePub, and the Republic of Liker Land'
 ---
 
-# LikeCoin FAQ
+# LikeCoin - Decentralized Publishing
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGKCas6shf9dDCwB3j%2F-MHGMnmjM4yyGSTVqz7T%2FLikeCoin_AD27_Small_Update-01.png?alt=media&token=a3cb3c10-3742-4ef9-b99a-3e05e2f82a11)
+![](.gitbook/assets/image.png)
 
-## [​LikeCoin, Republic of Liker Land](https://docs.like.co/user-guide/about) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+LikeCoin is a Decentralized Publishing Infrastructure to empower content ownership, authenticity, and provenance. LikeCoin works as a repository for immutable digital content metadata. Content creators can records the data and guarantees its integrity using LikeCoin's content registry protocol, ISCN \(International Standard Content Number\).
 
-* [​What is LikeCoin?](https://docs.like.co/user-guide/about#likecoin)
-* ​[How about the Republic of Liker Land?](https://docs.like.co/user-guide/about#republic-of-liker-land)
-* ​[Seems interesting, how to follow updates on LikeCoin?](https://docs.like.co/user-guide/about#more-about-likecoin)
-* [​I couldn't find the answers in the Docs, is there a way that I can contact customer service?](https://docs.like.co/user-guide/about#contact-us)
-* [What are the updates on LikeCoin?](https://docs.like.co/user-guide/about/updates)
-* [​Which websites are empowered by LikeCoin? How to apply?](https://docs.like.co/user-guide/about/list-of-media)
-* [​What does the media say about LikeCoin?](https://docs.like.co/user-guide/about/on-the-news)
-* [​How LikeCoin and the community growth?](https://docs.like.co/user-guide/about/background)
-* [​Does LikeCoin provide branding and design materials for download?](https://docs.like.co/user-guide/about/presskit)
+The ISCN functions like an ISBN \(International Standard Book Number\) for digital content; this unique, immutable content identifier contains metadata including timestamp, author, title, publisher, licensing, and versions. At its core, content metadata will be registered in the LikeCoin public blockchain and link to decentrazlied storage solution like the [IPFS](https://medium.com/u/30a067dbeb93) or [Arweave](https://medium.com/u/6dc77d82a3ce) for storing and serving ISCN-linked content.
 
-{% page-ref page="./" %}
+LikeCoin provides publication related SDK/ plugins that can integrate with publication platforms like news outlet, social media and blogging websites.  Some media empowered by LikeCoin include [Matters](https://matters.news/), [Standnews](https://www.thestandnews.com/), [InMedia](https://www.inmediahk.net/), [HKCNews](https://www.hkcnews.com/) and other 1,300+ websites. LikeCoin can also be utilized on [WordPress](https://wordpress.org/plugins/likecoin/), [Medium](https://medium.com), [Vocus](https://vocus.cc/), [Blogspot \( Blogger.com \)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. LikeCoin also provides LikeCoin button to let Media be rewarded by clapping by readers.
 
-## [​I am a Reader](https://docs.like.co/user-guide/reader) <a id="wo-shi-du-zhe"></a>
+The core component of LikeCoin is [LikeCoin chain](https://likecoin.bigdipper.live/), a public blockchain itailor-made for content publishing, supporting the [**Republic of Liker Land**](https://liker.land/getapp).
 
-* [Facebook has more than enough news, why do I have to use Liker Land? ](https://docs.like.co/user-guide/reader#content-jockey)
-* [What can I read on the Liker Land app?](https://docs.like.co/user-guide/reader/today-headline)
-* [Browsing and reading is good enough for me, why a Reading List?](https://docs.like.co/user-guide/reader/readling-list)
-* [What is "Reinventing the Like"?](https://docs.like.co/user-guide/reader/readling-list)
-* [How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](https://docs.like.co/user-guide/reader/like)
-* [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](https://docs.like.co/user-guide/reader/superlike)
+{% page-ref page="user-guide/about/list-of-media.md" %}
 
-## \*\*\*\*[**​I am a Content Creator**](https://docs.like.co/user-guide/creator) <a id="wo-shi-chuang-zuo-zhe"></a>
+## More about LikeCoin
 
-* [ I am a content creator, how can LikeCoin help me?](https://docs.like.co/user-guide/creator)
-* [How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](https://docs.like.co/user-guide/reader/like)
-* [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](https://docs.like.co/user-guide/reader/superlike)
-* [How can people sponsor me?](https://docs.like.co/user-guide/creator/sponsor-link)
-* [How to attract more sponsors?](https://docs.like.co/user-guide/creator/creators-pitch)
-* [Portfolio Page helps to display all of my works? How to use it?  ](https://docs.like.co/user-guide/creator/portfolio-page)
-* [What are the functions of the LikeCoin button?](https://docs.like.co/user-guide/creator/likecoin-button)
-* [Earn LikeCoin on YouTube？Wow!](https://docs.like.co/user-guide/creator/youtube)
-* [How to embed LikeCoin button into a self-hosted WordPress?](https://docs.like.co/user-guide/creator/wordpress)
-* [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](https://docs.like.co/user-guide/creator/blogging-platforms)
-* [How to check my daily and weekly rewards?](https://docs.like.co/user-guide/creator/rewards)
-* [How to check my monthly achievement?](https://docs.like.co/user-guide/creator/monthly-report)
+* **Website** : [Like.co](https://like.co) \( For all stakholders; in English \)、[Liker.Land](https://liker.land) \( For Readers and Content Jockey \) 
+* [**Discord**](https://discord.com/invite/W4DQ6peZZZ) ****: Development, Governance discussion
+* \*\*\*\*[**Telegram**](https://t.me/likecoin) : Stakeholders, general discussion
+* [**Medium**](https://medium.com/likecoin) [publication](https://medium.com/likecoin) : Governance, Progress Update, Products; in English
+* \*\*\*\*[**Twitter**](https://twitter.com/likecoin) : Announcements
+* \*\*\*\*[**Matters**](https://matters.news/tags/VGFnOjgwOTQ) [**\#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) : Governance, Progress Update, Products; in Chinese
+* \*\*\*\*[**GitHub**](https://github.com/likecoin) : ****Open Source
+* **Facebook**：[Page](https://www.facebook.com/Liker.Land/) \( Announcement \); [Group](https://www.facebook.com/groups/likecoin) \( Creators' sharing \); in Chinese
 
-## ​[Civic Liker](https://docs.like.co/user-guide/civic-liker)​ <a id="civic-liker"></a>
+## Contact Us
 
-* [Why should I become a Civic Liker? Any benefits?](https://docs.like.co/user-guide/civic-liker)
-* [How to be a Civic Liker?  ](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker)
-* [How to change credit card information?](https://docs.like.co/user-guide/civic-liker/change-credit-card)
-* [How to unsubscribe Civic Liker?](https://docs.like.co/user-guide/civic-liker/unsubscribe-civic-liker)
-
-## ​[Liker ID](https://docs.like.co/user-guide/liker-id)​ <a id="liker-id"></a>
-
-* [How to register a Liker ID?](https://docs.like.co/user-guide/liker-id/register)
-* [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](https://docs.like.co/user-guide/liker-id/reset-password)
-* [What is Authcore?](https://docs.like.co/user-guide/liker-id/what-is-authcore)
-
-## ​[LikeCoin Token](https://docs.like.co/user-guide/likecoin-token) <a id="likecoin-jiao-yi"></a>
-
-* [How to transfer LikeCoin using Liker Land mobile app?](https://docs.like.co/user-guide/likecoin-token/like-pay)
-* [Can I buy products or services with LikeCoin?](https://docs.like.co/user-guide/likecoin-token/products-and-services)
-* [How to trade LikeCoin into other cryptocurrency or fiat money?](https://docs.like.co/user-guide/likecoin-token/how-to-buy-and-sell-likecoin)
-
-## [Liquid Democracy](https://docs.like.co/user-guide/liquid-democracy)
-
-* ​[Does the "Republic" of Liker Land have democracy?](https://docs.like.co/user-guide/liquid-democracy)
-* ​​[How many proposals proceeded by the Republic of Liker Land?](https://docs.like.co/user-guide/liquid-democracy/proposals)
-* ​[I have some comments about LikeCoin, can I express them directly?](https://docs.like.co/user-guide/liquid-democracy/community-call)
-* [What are the channels to reach out the DAO?  ](https://docs.like.co/user-guide/about#contact-us)
+* Customer Service: [Please click here](https://go.crisp.chat/chat/embed/?website_id=5c009125-5863-4059-ba65-43f177ca33f7), or visit [like.co](https://like.co/) and click the lower right hand corner help desk dialogue box \(icon in green\)
+* Partners and Cooperation：[partner@like.co](mailto:partner@like.co)
 

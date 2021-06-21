@@ -4,6 +4,8 @@ description: 'What is LikeCoin, #DePub, and the Republic of Liker Land'
 
 # LikeCoin - Decentralized Publishing
 
+
+
 ![](.gitbook/assets/image.png)
 
 LikeCoin is a Decentralized Publishing Infrastructure to empower content ownership, authenticity, and provenance. LikeCoin works as a repository for immutable digital content metadata. Content creators can records the data and guarantees its integrity using LikeCoin's content registry protocol, ISCN \(International Standard Content Number\).

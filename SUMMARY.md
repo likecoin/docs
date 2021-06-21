@@ -1,8 +1,9 @@
 # Table of contents
 
-* [LikeCoin FAQ](README.md)
+* [LikeCoin - Decentralized Publishing](README.md)
 * [Community Calls](community-call.md)
 * [LikeCoin - Decentralized Publishing](likecoin-decentralized-publishing.md)
+* [LikeCoin FAQ](faq.md)
 
 ## 📙 user guide
 
