@@ -8,6 +8,7 @@
 * [LikeCoin - 去中心出版](user-guide/about/README.md)
   * [去中心出版](user-guide/about/qu-zhong-xin-chu-ban.md)
   * [什麼是 ISCN?](user-guide/about/shen-me-shi-iscn.md)
+  * [ISCN 和 IPFS 的關係是什麼？](user-guide/about/iscn-he-ipfs-de-guan-xi-shi-shen-me.md)
   * [即時數據更新](user-guide/about/real-time-statistic.md)
   * [進度更新](user-guide/about/updates.md)
   * [支援網站列表](user-guide/about/list-of-media.md)
