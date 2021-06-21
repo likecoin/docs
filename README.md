@@ -9,7 +9,8 @@ description: LikeCoin 常見問題
 ## [LikeCoin - 去中心出版](https://docs.like.co/v/zh/user-guide/about#likecoin)
 
 * [LikeCoin 是甚麼？](https://docs.like.co/v/zh/user-guide/about#likecoin)
-* * [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://docs.like.co/v/zh/user-guide/about#contact-us)
+* 什麼是去中心出版 \#DePub？
+* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://docs.like.co/v/zh/user-guide/about#contact-us)
 * [LikeCoin 最近有些甚麼動向？](https://docs.like.co/v/zh/user-guide/about/updates)
 * [支援 LikeCoin 的網站都有哪些？我想加入，要申請麼？](https://docs.like.co/v/zh/user-guide/about/list-of-media)
 * [對於 LikeCoin，媒體怎麼說？](https://docs.like.co/v/zh/user-guide/about/on-the-news)
