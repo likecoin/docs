@@ -20,6 +20,7 @@
   * [ISCN 和 IPFS 的關係是什麼？](user-guide/depub/iscn-ipfs-relationship.md)
   * [ISCN 的去中心特性對內容生態有什麼好處？](user-guide/depub/benefits.md)
   * [ISCN 支援什麼內容格式？](user-guide/depub/formats.md)
+* [錢包](user-guide/wallet.md)
 * [我是讀者](user-guide/reader/README.md)
   * [下載 Liker Land](user-guide/reader/download.md)
   * [今日頭條](user-guide/reader/today-headline.md)
