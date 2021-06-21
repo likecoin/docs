@@ -12,7 +12,7 @@
   * [品牌素材下載](guides/likecoin/presskit.md)
   * [支援網站列表](guides/likecoin/list-of-media.md)
 * [開發者資源](guides/developer-resources/README.md)
-  * [開發資源](guides/developer-resources/kai-fa-zi-yuan.md)
+  * [開發者](guides/developer-resources/developer.md)
   * [成為驗證人](guides/developer-resources/become-a-validator.md)
 * [去中心出版](guides/depub/README.md)
   * [什麼是 ISCN?](guides/depub/what-is-iscn.md)

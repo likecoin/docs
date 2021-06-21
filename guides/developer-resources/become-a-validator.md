@@ -2,6 +2,8 @@
 
 驗證人完全開放，參選免入閘免審查，任何人都能架起伺服器做驗證人。
 
+{% page-ref page="../governance/" %}
+
 關於 LikeCoin chain 驗證人設定，請參考這幾篇文檔：
 
 [Validator Technical Introduction](https://docs.like.co/developer/likecoin-chain-node/validator-technical-introduction)
@@ -15,4 +17,6 @@
 #### 參考文章
 
 > [如何成為驗證人 \( Validator \)？](https://daisymarisfung.gitbook.io/likecoincollection/newbie-village/validator)
+
+
 
