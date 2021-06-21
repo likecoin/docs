@@ -10,6 +10,7 @@
   * [What is ISCN](user-guide/decentralized-publishing/what-is-iscn.md)
   * [What is the relationship between ISCN and IPFS?](user-guide/decentralized-publishing/what-is-the-relationship-between-iscn-and-ipfs.md)
   * [What's the point of decentralization to the content ecosystem](user-guide/decentralized-publishing/whats-the-point-of-decentralization-to-the-content-ecosystem.md)
+  * [What type of content is supported by ISCN?](user-guide/decentralized-publishing/what-type-of-content-is-supported-by-iscn.md)
 * [LikeCoin, Republic of Liker Land](user-guide/about/README.md)
   * [Real-time statistics](user-guide/about/real-time-statistics.md)
   * [Progress Updates](user-guide/about/updates/README.md)
