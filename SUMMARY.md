@@ -6,7 +6,7 @@
 
 ## 📙  使用手冊 <a id="user-guide"></a>
 
-* [什麼是去中心出版](user-guide/depub/README.md)
+* [去中心出版](user-guide/depub/README.md)
   * [什麼是 ISCN?](user-guide/depub/what-is-iscn.md)
   * [ISCN 和 IPFS 的關係是什麼？](user-guide/depub/iscn-ipfs-relationship.md)
   * [ISCN 的去中心特性對內容生態有什麼好處？](user-guide/depub/benefits.md)
