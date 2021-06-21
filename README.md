@@ -10,6 +10,17 @@ description: LikeCoin 常見問題
 
 * [LikeCoin 是甚麼？](https://docs.like.co/v/zh/user-guide/about#likecoin)
 * 什麼是去中心出版 \#DePub？
+* ISCN 是什麼？
+* ISCN 和 IPFS 的關係是什麼？
+* ISCN 的分散特性對內容生態有什麼好處？ 
+* 註冊 ISCN 要費用嗎？ ISCN 記錄是永遠的嗎？ 
+* 若內容更新了怎麼辦？
+* ISCN 支援內容版本嗎？ 
+* ISCN 記錄的內容只支援 IPFS 上的檔案嗎？ 
+* ISCN 支援什麼內容格式？
+
+## LikeCoin 項目和社群
+
 * [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://docs.like.co/v/zh/user-guide/about#contact-us)
 * [LikeCoin 最近有些甚麼動向？](https://docs.like.co/v/zh/user-guide/about/updates)
 * [支援 LikeCoin 的網站都有哪些？我想加入，要申請麼？](https://docs.like.co/v/zh/user-guide/about/list-of-media)
