@@ -6,6 +6,7 @@
 
 ## 📙 user guide
 
+* [Decentralized Publishing](user-guide/decentralized-publishing.md)
 * [LikeCoin, Republic of Liker Land](user-guide/about/README.md)
   * [Real-time statistics](user-guide/about/real-time-statistics.md)
   * [Progress Updates](user-guide/about/updates/README.md)
