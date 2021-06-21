@@ -2,6 +2,7 @@
 
 * [LikeCoin FAQ](README.md)
 * [Community Calls](community-call.md)
+* [LikeCoin - Decentralized Publishing](likecoin-decentralized-publishing.md)
 
 ## 📙 user guide
 
