@@ -36,7 +36,7 @@ description: 讓自己的性格更特出
 
 ### LIKE pay
 
-{% page-ref page="../wallet/like-pay.md" %}
+{% page-ref page="../../guides/wallet/like-pay.md" %}
 
 ![](../../.gitbook/assets/img_2453.jpg)
 
