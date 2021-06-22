@@ -8,5 +8,5 @@ For more technical information about LikeCoin chan validator, please check out t
 
 {% page-ref page="../../developer/likecoin-chain-node/" %}
 
-If you have any questions please join [LikeCoin Community Discord](https://discord.com/invite/W4DQ6peZZZ) channel.
+If you have any questions please join [LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) and raise your hand in \#developer channel.
 
