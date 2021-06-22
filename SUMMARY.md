@@ -5,7 +5,7 @@
 
 ## 📙 Guides
 
-* [Project Overview](guides/about/README.md)
+* [LikeCoin Project Overview](guides/about/README.md)
   * [Progress Updates](guides/about/updates/README.md)
     * [2020.08.24](guides/about/updates/2020.08.24.md)
     * [2020.08.17](guides/about/updates/2020.08.17.md)

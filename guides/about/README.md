@@ -2,7 +2,7 @@
 description: What is LikeCoin? What is the Republic of Liker Land?
 ---
 
-# Project Overview
+# LikeCoin Project Overview
 
 ## LikeCoin
 
