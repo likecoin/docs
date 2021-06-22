@@ -5,10 +5,10 @@
 
 ## 📙  指南 <a id="guides"></a>
 
-* [LikeCoin 項目概覽](guides/introduction/README.md)
-  * [進度更新](guides/introduction/updates.md)
-  * [傳媒報導](guides/introduction/on-the-news.md)
-  * [品牌素材下載](guides/introduction/presskit.md)
+* [LikeCoin 項目概覽](guides/about/README.md)
+  * [進度更新](guides/about/updates.md)
+  * [傳媒報導](guides/about/on-the-news.md)
+  * [品牌素材下載](guides/about/presskit.md)
 * [開發者資源](guides/developer-resources/README.md)
   * [開發者](guides/developer-resources/developer.md)
   * [成為驗證人](guides/developer-resources/become-a-validator.md)
