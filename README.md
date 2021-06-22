@@ -14,7 +14,7 @@ LikeCoin 提供出版相關的 SDK / 插件予平台進行整合，發展各種�
 
 LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) 公共區塊鏈，其支撐整個社群：[**讚賞公民共和國**](https://liker.land/getapp)。‌
 
-{% page-ref page="guides/likecoin/list-of-media.md" %}
+{% page-ref page="guides/introduction/list-of-media.md" %}
 
 ## 關注 LikeCoin
 
