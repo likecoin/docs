@@ -2,6 +2,8 @@
 
 Validator is completely open, no entry requirement, anyone who can build a server can be a validator.
 
+{% page-ref page="../governance/" %}
+
 For more technical information about LikeCoin chan validator, please check out the docs below:
 
 
