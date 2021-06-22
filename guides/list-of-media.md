@@ -4,15 +4,15 @@ description: Which websites are empowered by LikeCoin? How to apply?
 
 # List of Media
 
-![](../../.gitbook/assets/media-list.png)
+![](../.gitbook/assets/media-list.png)
 
 ## No Prerequisites
 
 Anyone can use and enjoy the benefits of LikeCoin without prerequisites.
 
-{% page-ref page="../reader/" %}
+{% page-ref page="reader/" %}
 
-{% page-ref page="../creator/" %}
+{% page-ref page="creator/" %}
 
 ## List of Media \( Update from time to time \)
 

@@ -2,12 +2,10 @@
 
 * [LikeCoin - Decentralized Publishing](README.md)
 * [Community Calls](community-call.md)
-* [LikeCoin FAQ](faq.md)
 
 ## 📙 Guides
 
-* [LikeCoin Overview](guides/about/README.md)
-  * [Real-time statistics](guides/about/real-time-statistics.md)
+* [Project Overview](guides/about/README.md)
   * [Progress Updates](guides/about/updates/README.md)
     * [2020.08.24](guides/about/updates/2020.08.24.md)
     * [2020.08.17](guides/about/updates/2020.08.17.md)
@@ -29,20 +27,20 @@
     * [2020.04.27](guides/about/updates/2020.04.27.md)
     * [2020.04.20](guides/about/updates/20200420.md)
     * [2020.04.13](guides/about/updates/20200413.md)
-  * [List of Media](guides/about/list-of-media.md)
   * [On the News](guides/about/on-the-news/README.md)
     * [Interview and Features](guides/about/on-the-news/interview.md)
     * [Mentions](guides/about/on-the-news/mentions.md)
     * [Activities and Events](guides/about/on-the-news/activities-and-events.md)
     * [Awards and Press Release](guides/about/on-the-news/press-release.md)
     * [Recommendations](guides/about/on-the-news/recommendations.md)
-  * [Background](guides/about/background.md)
   * [Press Kit](guides/about/presskit.md)
+* [Developoer Resources](guides/developer-resources/README.md)
+  * [Become a validator](guides/developer-resources/become-a-validator.md)
 * [Decentralized Publishing](guides/decentralized-publishing/README.md)
   * [What is ISCN](guides/decentralized-publishing/what-is-iscn.md)
-  * [What is the relationship between ISCN and IPFS?](guides/decentralized-publishing/what-is-the-relationship-between-iscn-and-ipfs.md)
-  * [What's the point of decentralization to the content ecosystem](guides/decentralized-publishing/whats-the-point-of-decentralization-to-the-content-ecosystem.md)
-  * [What type of content is supported by ISCN?](guides/decentralized-publishing/what-type-of-content-is-supported-by-iscn.md)
+  * [What is the relationship between ISCN and IPFS?](guides/decentralized-publishing/iscn-ipfs-relationship.md)
+  * [What's the point of decentralization to the content ecosystem](guides/decentralized-publishing/benefits.md)
+  * [What type of content is supported by ISCN?](guides/decentralized-publishing/content-type.md)
 * [Readers](guides/reader/README.md)
   * [Download Liker Land](guides/reader/download.md)
   * [Today's Headlines](guides/reader/today-headline.md)
@@ -125,20 +123,20 @@
   * [Where comes the LikeCoin rewards?](guides/liquid-democracy/where-comes-the-likecoin-rewards.md)
   * [Proposals](guides/liquid-democracy/proposals.md)
   * [LikeCoin Grants Program](guides/liquid-democracy/likecoin-grants.md)
+* [List of Media](guides/list-of-media.md)
+* [Background](guides/background.md)
+* [Real-time statistics](guides/real-time-statistics.md)
+* [LikeCoin FAQ](guides/faq.md)
 
-## 🗣️ Validator Resources <a id="validator"></a>
+## 🔬 Developer Guide <a id="developer"></a>
 
-* [Become a validator](validator/become-a-validator.md)
-* [LikeCoin chain node](validator/likecoin-chain-node/README.md)
-  * [Validator Technical Introduction](validator/likecoin-chain-node/validator-technical-introduction.md)
-  * [Setup local test node](validator/likecoin-chain-node/setup-local-test-node.md)
-  * [Setup mainnet node](validator/likecoin-chain-node/setup-mainnet-node.md)
-  * [Node configuration](validator/likecoin-chain-node/node-configuration.md)
-  * [Command line interface](validator/likecoin-chain-node/command-line-interface/README.md)
-    * [Useful commands](validator/likecoin-chain-node/command-line-interface/useful-commands.md)
-
-## 🔬 Developer Resources <a id="developer"></a>
-
+* [LikeCoin chain node](developer/likecoin-chain-node/README.md)
+  * [Validator Technical Introduction](developer/likecoin-chain-node/validator-technical-introduction.md)
+  * [Setup local test node](developer/likecoin-chain-node/setup-local-test-node.md)
+  * [Setup mainnet node](developer/likecoin-chain-node/setup-mainnet-node.md)
+  * [Node configuration](developer/likecoin-chain-node/node-configuration.md)
+  * [Command line interface](developer/likecoin-chain-node/command-line-interface/README.md)
+    * [Useful commands](developer/likecoin-chain-node/command-line-interface/useful-commands.md)
 * [LikeCoin chain API](developer/likecoin-chain-api/README.md)
   * [Cosmos concepts](developer/likecoin-chain-api/cosmos-concepts.md)
   * [RPC API](developer/likecoin-chain-api/rpc-api.md)
