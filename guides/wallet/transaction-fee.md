@@ -2,7 +2,7 @@
 description: 目前轉帳 LikeCoin 每筆所需的手續費大約 0.059 LIKE，約等於 0.0006 美元，便宜到可被忽略，大家不用擔心
 ---
 
-# LikeCoin 手續費
+# 交易手續費
 
 自2021年3月9日起，LikeCoin chain 秉承 Cosmos Hub 疊代更新同步調整 Gas 參數與 Cosmos Hub 其他項目看齊。Gas 用於表達每項動作和交易對區塊所造成的壓力，亦是運行和讀寫內容到區塊鏈所需要花費的勞動力的表達方式。不單止是 Cosmos Hub，其他區塊鏈平台如以太坊 \( Ethereum \) 亦使用 Gas 作為計算單位。
 
