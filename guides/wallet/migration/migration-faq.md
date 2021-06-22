@@ -10,7 +10,7 @@ Please check out our FAQ below. Don't see an answer to your question? Feel free 
 
 If you did not install MetaMask, that means you never use a wallet to accumulate LikeCoin, The numbers displayed on [Like.co/in](https://like.co/in/) is just in temporary storage by the system.
 
-You do not have to migrate your LikeCoin, login Liker Land mobile app, the LikeCoin in temporary storage will go into your new wallet.
+You do not have to migrate your LikeCoin, login [Liker Land mobile app](https://liker.land/getapp), the LikeCoin in temporary storage will go into your new wallet.
 
 ### 2. During the migration process, encounter "Error: NOT\_ENOUGH\_GAS, NEED X.XXXXX"
 
