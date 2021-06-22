@@ -1,5 +1,5 @@
 ---
-description: 如何使用硬件錢包處理 LikeCoin？
+description: 如何使用硬件錢包管理 LikeCoin？
 ---
 
 # 以硬件錢包保障你的 LikeCoin 資產
@@ -32,7 +32,7 @@ description: 如何使用硬件錢包處理 LikeCoin？
 
 ![](../../.gitbook/assets/hardwarewallet-5.png)
 
-你可以查看你的 LikeCoin 數量、委託狀態、收益及其他內容。
+你可以查看你的 LikeCoin 數量、委託狀態、收益及其他內容，進行提存或其他操作。
 
 ![](../../.gitbook/assets/hardwarewallet-6.png)
 
