@@ -14,7 +14,7 @@ Download and login [Liker Land mobile app](https://liker.land/getapp).
 
 Open the mobile app, click on the avatar at the lower right hand corner, then click on \[My Wallet\] on top. You can manage your wallet now. Then, click the \[Send\] button.
 
-![](../../.gitbook/assets/img_2154.jpg)
+![](../../.gitbook/assets/like-pay-1-en.png)
 
 ### Step 3
 
@@ -36,7 +36,7 @@ Some crypto exchanges may require input of Tag/Memo, please fill in the value he
 
 ### **Step 6**
 
-****Input the amount of LikeCoin that you have to transfer, click \[Next\].  You may click on the \[Details\] to check the estimated [Transaction fee](https://docs.like.co/user-guide/likecoin-token/transaction-fee) for this LikeCoin transfer.  Make sure that your wallet has enough spare LikeCoin other than those you have to transfer. Click \[Confirm\] to finish the transfer.
+****Input the amount of LikeCoin that you have to transfer, click \[Next\].  You may click on the \[Details\] to check the estimated [Transaction fee](https://docs.like.co/guides/wallet/transaction-fee) for this LikeCoin transfer.  Make sure that your wallet has enough spare LikeCoin other than those you have to transfer. Click \[Confirm\] to finish the transfer.
 
 ![](../../.gitbook/assets/like-pay-4-en.png)
 
@@ -44,21 +44,13 @@ Some crypto exchanges may require input of Tag/Memo, please fill in the value he
 
 ### Step 1
 
-Login [Liker Land web](https://docs.like.co/user-guide/reader/download#liker-land-web-https-liker-land) and click Like pay on the [Portfolio Page](https://docs.like.co/user-guide/creator/portfolio-page).
+Login [Liker Land web](https://docs.like.co/user-guide/reader/download#liker-land-web-https-liker-land) and click LIKE pay on the receiver's [Portfolio Page](https://docs.like.co/user-guide/creator/portfolio-page).
 
 ![](../../.gitbook/assets/like-pay-5-en.png)
 
 ### Step 2
 
-On the Send LikeCoin to page, input the number of LikeCoin that you have to send and click "Confirm" to finish the transfer.
+On the Send LikeCoin to page, check on the transaction and make sure that your wallet has enough spare LikeCoin other than those you have to transfer. Input the number of LikeCoin that you have to send and click "Confirm" to finish the transfer.
 
-![](../../.gitbook/assets/like-pay-6-en.png)
-
-{% hint style="danger" %}
-Using Like Land web to transfer LikeCoin will not display the estimated Transaction fee, Please make sure that your wallet has enough spare LikeCoin other than those you have to transfer.
-{% endhint %}
-
-{% hint style="info" %}
-You can also user Keplr wallet to manage your LikeCoin, please read: [The next step to decentralization: Use Keplr to manage your LikeCoin ](https://medium.com/likecoin/the-next-step-to-decentralization-use-keplr-to-store-your-likecoin-39128c77cdeb)
-{% endhint %}
+![Transaction Fee displayed below the \[Confirm\] button](../../.gitbook/assets/like-pay-6-en.png)
 
