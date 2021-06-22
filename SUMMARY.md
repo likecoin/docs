@@ -35,6 +35,7 @@
     * [Recommendations](guides/about/on-the-news/recommendations.md)
   * [Press Kit](guides/about/presskit.md)
 * [Developoer Resources](guides/developer-resources/README.md)
+  * [Developer](guides/developer-resources/developer.md)
   * [Become a validator](guides/developer-resources/become-a-validator.md)
 * [Decentralized Publishing](guides/decentralized-publishing/README.md)
   * [What is ISCN](guides/decentralized-publishing/what-is-iscn.md)
