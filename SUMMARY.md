@@ -43,6 +43,7 @@
   * [What's the point of decentralization to the content ecosystem](guides/decentralized-publishing/benefits.md)
   * [What type of content is supported by ISCN?](guides/decentralized-publishing/content-type.md)
 * [Wallet](guides/wallet/README.md)
+  * [Keplr](guides/wallet/keplr.md)
   * [LIKE Pay](guides/wallet/like-pay.md)
   * [Secure your LikeCoin with hardware wallet](guides/wallet/hardware-wallet.md)
   * [Transaction Fee](guides/wallet/transaction-fee.md)
