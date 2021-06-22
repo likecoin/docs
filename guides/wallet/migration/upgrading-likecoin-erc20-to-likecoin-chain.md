@@ -60,14 +60,8 @@ LikeCoin 經已轉移到 [LikeCoin chain](https://docs.like.co/v/zh/user-guide/l
 ![](../../../.gitbook/assets/likecoin-migration-7.png)
 
 {% hint style="info" %}
-**若你過往只以 MetaMask 電子錢包登入**，從未綁定過其他的社交帳號登入方法的話，也可參照以上步驟，但請在登入頁面的左上角選擇「以 MetaMask 登入」。過程中，系統會要求你設定一組密碼。
+**若你過往只以 MetaMask 電子錢包登入**，從未綁定過其他的社交帳號登入方法的話，也可參照以上步驟，但請在登入頁面的左上角選擇「以 MetaMask 登入」。過程中，系統會要求你設定一組密碼。[](https://matters.news/@likecoin/my-eth-shop%E5%B0%87%E6%94%AF%E6%8F%B4%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84like-coin-zdpuAwgQLCHC7afNfU6Cn7EuUeLT6MKUTptUGj5i9jgqPt6Kj)
 {% endhint %}
 
-### 參考文章
-
-> [LikeCoin 升級前忘記綁定 Google、Facebook、Twitter 或 Matters 登入方式，怎麼辦？](https://medium.com/internet-meme/likecoin-upgrade-ea8379e20718)
-
-> [BitAsset將支援新版本的LikeCoin](https://matters.news/@likecoin/bit-asset%E5%B0%87%E6%94%AF%E6%8F%B4%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84like-coin-zdpuAsJJ9jfbJ4J29tqQmanz58dDiQwQ9m7pA9onAUvyqViz3)
-
-> [MyETHShop將支援新版本的LikeCoin](https://matters.news/@likecoin/my-eth-shop%E5%B0%87%E6%94%AF%E6%8F%B4%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84like-coin-zdpuAwgQLCHC7afNfU6Cn7EuUeLT6MKUTptUGj5i9jgqPt6Kj)
+![](../../../.gitbook/assets/login-with-metamask.png)
 
