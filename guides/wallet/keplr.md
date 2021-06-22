@@ -50,3 +50,5 @@ You can see your balance.
 
 ![](../../.gitbook/assets/keplr09.png)
 
+You may use Keplr to manage your LikeCoin such as transfer or delegation. Keplr also support hardware wallets.
+
