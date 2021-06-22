@@ -10,9 +10,9 @@ description: Which websites are empowered by LikeCoin? How to apply?
 
 Anyone can use and enjoy the benefits of LikeCoin without prerequisites.
 
-{% page-ref page="reader/" %}
+{% page-ref page="../dapp/reader/" %}
 
-{% page-ref page="creator/" %}
+{% page-ref page="../dapp/creator/" %}
 
 ## List of Media \( Update from time to time \)
 
