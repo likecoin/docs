@@ -31,7 +31,7 @@ Your name and avatar will appear in various Liker Land scenarios:
 
 ### Liker Land app and web
 
-{% page-ref page="../reader/download.md" %}
+{% page-ref page="../liker-land/download.md" %}
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJwVJtgYRij9lbzkTP%2F-MDJxZmmtXywRtonx1-U%2Fimg_2452.jpg?alt=media&token=0b156d94-f407-4711-83ce-948d342c7892)
 

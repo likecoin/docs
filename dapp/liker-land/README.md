@@ -2,7 +2,7 @@
 description: 'Facebook can give likes, why LikeCoin?'
 ---
 
-# Readers
+# Liker Land
 
 ![](../../.gitbook/assets/likecoin_ad72_appstore_og_ios_android.png)
 

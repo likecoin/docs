@@ -73,12 +73,12 @@
 
 ## 💻  DApp
 
-* [Readers](dapp/reader/README.md)
-  * [Download Liker Land](dapp/reader/download.md)
-  * [Today's Headlines](dapp/reader/today-headline.md)
-  * [Readling List](dapp/reader/readling-list.md)
-  * [Like - Reinventing the Like](dapp/reader/like.md)
-  * [Super Like - Content Jockey](dapp/reader/superlike.md)
+* [Liker Land](dapp/liker-land/README.md)
+  * [Download Liker Land](dapp/liker-land/download.md)
+  * [Today's Headlines](dapp/liker-land/today-headline.md)
+  * [Readling List](dapp/liker-land/readling-list.md)
+  * [Like - Reinventing the Like](dapp/liker-land/like.md)
+  * [Super Like - Content Jockey](dapp/liker-land/superlike.md)
 * [Civic Liker](dapp/civic-liker/README.md)
   * [Rationale and benefits](dapp/civic-liker/rationale-and-benefits.md)
   * [How to be a Civic Liker](dapp/civic-liker/be-a-civic-liker.md)
