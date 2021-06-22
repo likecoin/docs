@@ -6,7 +6,7 @@ description: LikeCoin 最近有些甚麼動向？
 
 ![](../../.gitbook/assets/likecoin_ad69_stat_sept_artwork1-06.png)
 
-## 進度報告 <a id="recent-updates"></a>
+## 進度報告
 
 * 追蹤 Medium 上的 [LikeCoin](https://medium.com/likecoin)，每月收取英文電郵月報，上面的 LikeCoin Progress Updates 欄目 ，有更細緻的半月刊進度更新。
 * Matters [**\#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) ****標籤，不定期發出中文更新。
