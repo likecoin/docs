@@ -18,6 +18,7 @@
   * [ISCN 的去中心特性對內容生態有什麼好處？](guides/decentralized-publishing/benefits.md)
   * [ISCN 支援什麼內容格式？](guides/decentralized-publishing/content-type.md)
 * [錢包](guides/wallet/README.md)
+  * [Keplr](guides/wallet/keplr.md)
   * [LIKE pay](guides/wallet/like-pay.md)
   * [以硬件錢包保障你的 LikeCoin 資產](guides/wallet/hardware-wallet.md)
   * [LikeCoin 手續費](guides/wallet/transaction-fee.md)
