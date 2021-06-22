@@ -16,11 +16,11 @@ LikeCoin chain charges Gas fee or name it as transaction fee according to the co
 
 Transaction fee is calculated according to the computational steps of code execution required for each transaction. As the network situation is difference during each transaction, the below are estimation of scenario:
 
-* LIKE pay: Around 0.059 LIKE
-* Delegate: Around 0.19 LIKE
-* Undelegate: Around 0.32 LIKE 
-* Redelegate: Around 0.48 LIKE
-* Withdraw Rewards: Around 1.25 LIKE
+* [LIKE pay](https://docs.like.co/guides/wallet/like-pay): Around 0.059 LIKE
+* [Delegate](https://docs.like.co/guides/stake/delegation-of-likecoin): Around 0.19 LIKE
+* [Undelegate](https://docs.like.co/guides/stake/undelegation-of-likecoin): Around 0.32 LIKE 
+* [Redelegate](https://docs.like.co/guides/stake/redelegation-of-likecoin): Around 0.48 LIKE
+* [Withdraw Rewards](https://docs.like.co/guides/stake/delegation-of-likecoin#step-3-relax-and-earn-rewards): Around 1.25 LIKE
 
 Clicks on "Details" in the Liker Land app and web during LIKE pay, delegate, undelegate, redelegate and withdraw rewards and check the estimated transaction fee.
 
