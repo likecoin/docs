@@ -52,5 +52,5 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 
 在轉帳頁面輸入需要轉帳的 LikeCoin 數量，請留意錢包內有定夠手續費，再點擊「確認」 即可完成轉帳。
 
-![](../../.gitbook/assets/like-pay-6%20%281%29.png)
+![&#x624B;&#x7E8C;&#x8CBB;&#x65BC;&#x300C;&#x78BA;&#x8A8D;&#x300D;&#x4E0B;&#x65B9;&#x986F;&#x793A;](../../.gitbook/assets/like-pay-6%20%281%29.png)
 

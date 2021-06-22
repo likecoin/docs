@@ -4,7 +4,7 @@
 
 {% page-ref page="../governance/" %}
 
-關於 LikeCoin chain 驗證人設定，請參考 [LikeCoin chain node](https://docs.like.co/developer/likecoin-chain-node)
+關於 LikeCoin chain 驗證人設定，請參考 [LikeCoin chain node](https://docs.like.co/developer/likecoin-chain-node) 。
 
 如有疑問可加入 [LikeCoin Community Discord](https://discord.com/invite/W4DQ6peZZZ) 頻道獲得得協助。[](https://daisymarisfung.gitbook.io/likecoincollection/newbie-village/validator)
 

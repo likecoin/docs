@@ -21,8 +21,8 @@ LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) �
 * **網站**： [Like.co](https://like.co)（所有持份者；英文）、[Liker.Land](https://liker.land)（讀者、內容伯樂）
 * [**Discord**](https://discord.com/invite/W4DQ6peZZZ)：開發、治理相關討論
 * [**Telegram**](https://t.me/likecoin)：持份者、一般討論
+* [**Medium**](https://medium.com/likecoin) [publication](https://medium.com/likecoin)：治理、進度更新、產品理念；英文
 * [**Matters**](https://matters.news/tags/VGFnOjgwOTQ) [**\#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ)：治理、進度更新、產品理念；中文
-* \*\*\*\*[**Medium**](https://medium.com/likecoin) [publication](https://medium.com/likecoin)：治理、進度更新、產品理念；英文
 * \*\*\*\*[**Twitter**](https://twitter.com/likecoin)：公告
 * \*\*\*\*[**GitHub**](https://github.com/likecoin)：開放代碼
 * **Facebook**：[粉專](https://www.facebook.com/Liker.Land/)（一般公告）；[社團](https://www.facebook.com/groups/likecoin)（作者分享）；中文
