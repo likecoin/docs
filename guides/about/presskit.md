@@ -2,7 +2,7 @@
 description: Does LikeCoin provide branding and design materials for download?
 ---
 
-# Press Kit
+# Brand Guidelines
 
 
 

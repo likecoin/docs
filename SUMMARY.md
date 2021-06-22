@@ -33,7 +33,7 @@
     * [Activities and Events](guides/about/on-the-news/activities-and-events.md)
     * [Awards and Press Release](guides/about/on-the-news/press-release.md)
     * [Recommendations](guides/about/on-the-news/recommendations.md)
-  * [Press Kit](guides/about/presskit.md)
+  * [Brand Guidelines](guides/about/presskit.md)
 * [Developoer Resources](guides/developer-resources/README.md)
   * [Developer](guides/developer-resources/developer.md)
   * [Become a validator](guides/developer-resources/become-a-validator.md)
