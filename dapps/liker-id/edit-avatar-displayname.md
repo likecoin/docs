@@ -30,7 +30,7 @@ description: 讓自己的性格更特出
 
 ### Liker Land 手機應用程式或網頁版
 
-{% page-ref page="../reader/download.md" %}
+{% page-ref page="../liker-land/download.md" %}
 
 ![](../../.gitbook/assets/img_2452.jpg)
 
