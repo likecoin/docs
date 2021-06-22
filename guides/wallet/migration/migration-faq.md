@@ -6,27 +6,27 @@ description: Having trouble during migration? See if the FAQ helps
 
 Please check out our FAQ below. Don't see an answer to your question? Feel free to contact us.
 
-### 1. Stuck in "Waiting for ETH TX" for a very long time
+### **1. I never installed MetaMask, how to migrate?**
+
+If you did not install MetaMask, that means you never use a wallet to accumulate LikeCoin, The numbers displayed on [Like.co/in](https://like.co/in/) is just in temporary storage by the system.
+
+You do not have to migrate your LikeCoin, login Liker Land mobile app, the LikeCoin in temporary storage will go into your new wallet.
+
+### 2. During the migration process, encounter "Error: NOT\_ENOUGH\_GAS, NEED X.XXXXX"
+
+You have to prepare enough ETH \(the number in NOT\_ENOUGH\_GAS, NEED X.XXXXX\)  as GAS Fee, you may refer to [ETH GAS Station](https://ethgasstation.info/) for the fee required.
+
+### 3. Stuck in "Waiting for ETH TX" for a very long time
 
 The system transfers LikeCoin ERC-20 from MetaMask to smart contract, then deposits new LikeCoin to your new LikeCoin chain wallet. These 2 steps involve transfers and usually take at least 5 to 10 minutes, please be patient.
 
 If the whole migration process is more than 15 minutes and do not get done, please contact our customer service.
 
-### **2. The amount of LikeCoin in Like.co is not the same as the Liker Land mobile app**
-
-It may be the case that you never link your Etherscan wallet to your Like ID and there are rewards waiting to be released. Please check it a few days later.
-
-### **3.** In the "Sign" process experiences "Cannot detect web3 in browser" error
+### **4.** In the "Sign" process experiences "Cannot detect web3 in browser" error
 
 ![](../../../.gitbook/assets/likecoin-migration-faq.png)
 
 This error indicates that the system cannot detect MetaMask, please check if you are using Chrome and have Metamask installed.
-
-### **4. I never installed MetaMask, how to migrate?**
-
-If you did not install MetaMask, that means you never use a wallet to accumulate LikeCoin, The numbers displayed on [Like.co/in](https://like.co/in/) is just in temporary storage by the system.
-
-You do not have to migrate your LikeCoin, login Liker Land mobile app, the LikeCoin in temporary storage will go into your new wallet.
 
 ### **5.** Error: "Please use the Etherscan address \[0x...\] linking with your LikeCoin to sign"
 
@@ -44,7 +44,11 @@ If you lost your wallet address, please check if you have backed up the seed phr
 
 The system transfers LikeCoin ERC-20 from MetaMask to smart contract, therefore your LikeCoin will disappear for a few minutes, as they are on the way to the new LikeCoin chain, please be patient.
 
-### 7. During the migration process, encounter "Error: NOT\_ENOUGH\_GAS, NEED X.XXXXX"
+### **7. The amount of LikeCoin in Like.co is not the same as the Liker Land mobile app**
 
-You have to prepare enough ETH \(the number in NOT\_ENOUGH\_GAS, NEED X.XXXXX\)  as GAS Fee, you may refer to [ETH GAS Station](https://ethgasstation.info/) for the fee required.
+It may be the case that you never link your Etherscan wallet to your Like ID and there are rewards waiting to be released. Please check it a few days later.
+
+### 8. I purchase my LikeCoin in a crypto exchange and I never register a Liker ID, what to do?
+
+Please transfer your LikeCoin to the Metamask wallet, then [register a Liker ID](https://docs.like.co/dapp/liker-id/register) or a Keplr wallet. Go to [https://migration.like.co/](https://migration.like.co/) and fill in the Cosmos address of the Liker ID or Keplr wallet and facilitate the upgrade.
 

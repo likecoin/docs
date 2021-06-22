@@ -1,24 +1,24 @@
 ---
 description: >-
-  If you have LikeCoin showing in MetaMask, follow these simple steps. You won't
-  need MetaMask anymore.​
+  If you have LikeCoin in MetaMask, follow these simple steps. You won't need
+  MetaMask anymore.​
 ---
 
 # Assisted Migration
 
-LikeCoin has been migrated to the LikeCoin chain and users no longer need MetaMask to login but should use Liker Land mobile app instead.  This document is for legacy users who created Liker ID with MetaMask and did not complete the Liker ID migration process only.
+LikeCoin has been migrated to the [LikeCoin chain](https://docs.like.co/guides/governance/likecoin-chain) and users no longer need MetaMask to login but should use [Liker Land mobile app](https://liker.land/getapp) instead.  This document is for legacy users who created Liker ID with MetaMask and did not complete the Liker ID migration process only.
 
 For those who fulfil the below conditions:
 
 1. Have LikeCoin on MetaMask
 2. Have ETH on MetaMask as Gas Fee
-3. Have bound your Liker ID with at least one social accounts \(Google/Facebook/Twitter/Matters\) besides MetaMask
+3. Have bound your Liker ID with at least one social accounts \( Google/Facebook/Twitter/Matters \) besides MetaMask
 
 ### Step 1: Visit Like.co/in <a id="step-1-visit-likecoin-"></a>
 
 Your task is to upgrade the LikeCoin in your MetaMask wallet to LikeCoin chain, so the first step is to make sure that you have the MetaMask with the correct wallet address installed in your Chrome browser.
 
-Login Liker Land by Chrome with your social account \(Google / Facebook / Twitter / Matters\) and go to [https://like.co/in/](https://like.co/in/).  The system will pop up the below screen \(probably in English\).
+Login [Liker Land](https://liker.land/) by Chrome with your social account \( Google / Facebook / Twitter / Matters \) and go to [https://like.co/in/](https://like.co/in/).  The system will pop up the screen below \( probably in English \).
 
 ![Choose &quot;Migrate Now&quot;](../../../.gitbook/assets/likecoin-migration-1.png)
 
@@ -30,13 +30,11 @@ The system will lead you to the migration page and help you upgrade your LikeCoi
 
 ### Step 2.2: Sign
 
-The system is going to perform a transaction from your MetaMask, and need your signature for authorization. Click "Sign".  
-
+The system is going to perform a transaction from your MetaMask, and need your signature for authorization. Click "Sign".
 
 ![Click &quot;Sign&quot;](../../../.gitbook/assets/likecoin-migration-3.png)
 
-After clicking "Sign", the following MetaMask screens will be shown.  Click "Connect" and then "Sign".  
-
+After clicking "Sign", the following MetaMask screens will be shown.  Click "Connect" and then "Sign".
 
 ![Click &quot;Connect&quot; and then &quot;Sign&quot;](../../../.gitbook/assets/likecoin-migration-4.png)
 
@@ -48,14 +46,13 @@ In this step, the system will firstly transfer your LikeCoin ERC-20 to a smart c
 
 ### Step 3: Check your LikeCoin balance <a id="step-3-check-your-likecoin-balance"></a>
 
-You can check your LikeCoin balance in [https://like.co/in](https://like.co/in) after migration completion.  
-
+You can check your LikeCoin balance in [https://like.co/in](https://like.co/in) after migration completion.
 
 ![](../../../.gitbook/assets/likecoin-migration-6.png)
 
 ### Download the Liker Land mobile app <a id="download-the-liker-land-mobile-app"></a>
 
-Please visit [Google Play store](https://play.google.com/store/apps/details?id=com.oice) or [Apple App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) to download the [Liker Land mobile app](https://docs.like.co/user-guide/reader/download).  Login by your social account and check your balance on the app.  You may also perform various operations of LikeCoin such as transfer and delegation there.
+Please visit Google Play store or Apple App Store to [download the Liker Land mobile app](https://liker.land/getapp).  Login by your social account and check your balance on the app.  You may also perform various operations of LikeCoin such as transfer and delegation there.
 
 ![](../../../.gitbook/assets/likecoin-migration-7.png)
 
