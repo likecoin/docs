@@ -32,7 +32,7 @@ After login the key icon changes to an avatar, you can then click on it to acces
 
 ![](../../.gitbook/assets/hardwarewallet-5.png)
 
-You can check your LikeCoin balance, delegation to validators, rewards and various other information.
+You can check your LikeCoin balance, delegation to validators, rewards and various other information. You perform deposit, withdrawal and various other transactions.
 
 ![](../../.gitbook/assets/hardwarewallet-6.png)
 
