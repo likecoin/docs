@@ -6,6 +6,8 @@ description: 如何使用硬件錢包管理 LikeCoin？
 
 在使用你的硬件錢包前，請設定並安裝 Cosmos app。以 Ledger 為例，你可以到 [Ledger Live](https://support.ledger.com/hc/en-us/articles/360013713840-Cosmos-ATOM-) 安裝它。
 
+以下示範採用 [Big Dipper](https://docs.like.co/v/zh/guides/governance/big-dipper) 區塊鏈瀏覽器進行，你也可以使用 [Keplr](https://docs.like.co/v/zh/guides/wallet/keplr) 配合硬體錢包管理你的 LikeCoin。
+
 ## 讀取你的硬件錢包
 
 ### 步驟一：以 USB  傳輸線接通你的電腦及 Ledger
