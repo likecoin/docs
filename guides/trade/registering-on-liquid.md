@@ -35,7 +35,7 @@ Fill in the code correctly and the set up of 2-Factor Authentication is complete
 
 #### Liquid Official Tutorial
 
-> [How to set up 2FA?](https://help.liquid.com/en/articles/2273273-how-to-set-up-2fa)
+> [How to set up 2FA?](https://help.liquid.com/en/articles/4883860-how-to-set-up-2fa)
 
 ### Step 3: Send the documents required for account verification
 

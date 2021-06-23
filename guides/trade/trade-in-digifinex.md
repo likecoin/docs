@@ -4,7 +4,7 @@ description: Buy and Sell LikeCoin with DigiFinex
 
 # Trade in DigiFinex
 
-DigiFinex is a top 20+ exchange in CoinMarketCap, trade and exchange volume are on top level, providing LIKE/USDT trading pairs. If you do not have a DigiFinex account, please take a look at [this](https://docs.like.co/user-guide/likecoin-token/registering-on-digifinex). Moreover, you have to download the [Liker Land mobile app](https://docs.like.co/user-guide/liker-land/liker-land-mobile-app) to send/receive LikeCoin. The following instructions are base on DigiFinex web, you may also use [DigiFinex app](https://digifinex.zendesk.com/hc/en-us/articles/360000603862-How-to-download-APP) to trade LikeCoin.
+DigiFinex is a top 20+ exchange in CoinMarketCap, trade and exchange volume are on top level, providing LIKE/USDT trading pairs. If you do not have a DigiFinex account, please take a look at [this](https://docs.like.co/guides/trade/registering-on-digifinex). Moreover, you have to download the [Liker Land mobile app](https://liker.land/getapp) to send/receive LikeCoin. The following instructions are base on DigiFinex web, you may also use [DigiFinex app](https://digifinex.zendesk.com/hc/en-us/articles/360000603862-How-to-download-APP) to trade LikeCoin.
 
 ### Step 1: Create your LikeCoin wallet on DigiFinex
 
@@ -25,12 +25,12 @@ Click on the "Show QR Code" button to show your LikeCoin wallet QR Code.
 ![](../../.gitbook/assets/digifinex-16-en.png)
 
 {% hint style="danger" %}
-BitAseet has a minimum deposit amount of 1**00 LikeCoin**, **a single deposit which is less than the minimum will disappear!** Please make sure that you deposit the correct amount.
+BitAseet has a minimum deposit amount of **100 LikeCoin**, **a single deposit which is less than the minimum will disappear!** Please make sure that you deposit the correct amount.
 {% endhint %}
 
 ### Step 2: Transfer LikeCoin to DigiFinex
 
-Open the [Liker Land mobile app](https://like.co/in/getapp), click on the avatar at the lower right hand corner, and you can check the amount of LikeCoin in your wallet. Click on the \[Send\] button \(circled in red below\)
+Open the [Liker Land mobile app](https://liker.land/getapp), click on the avatar at the lower right hand corner, and you can check the amount of LikeCoin in your wallet. Click on the \[Send\] button \(circled in red below\)
 
 ![On Liker Land mobile app select \[Send\] \(circled in red\)](../../.gitbook/assets/bitasset-trade-6.png)
 
