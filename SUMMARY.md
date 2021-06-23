@@ -26,7 +26,6 @@
     * [升級 LikeCoin 到 LikeCoin chain](guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
     * [升級 LikeCoin 時的常見問題](guides/wallet/migration/migration-faq.md)
 * [交易](guides/trade/README.md)
-  * [交易 LikeCoin](guides/trade/how-to-buy-and-sell-likecoin.md)
   * [註冊 Liquid 帳號](guides/trade/registering-on-liquid.md)
   * [在 Liquid 交易](guides/trade/trade-in-liquid.md)
   * [註冊 DigiFinex 帳號](guides/trade/registering-on-digifinex.md)
