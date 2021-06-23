@@ -51,7 +51,6 @@
     * [Assisted Migration](guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
     * [LikeCoin Migration FAQ](guides/wallet/migration/migration-faq.md)
 * [Trade](guides/trade/README.md)
-  * [Trading LikeCoin](guides/trade/how-to-buy-and-sell-likecoin.md)
   * [Registering on Liquid](guides/trade/registering-on-liquid.md)
   * [Trade in Liquid](guides/trade/trade-in-liquid.md)
   * [Registering on DigiFinex](guides/trade/registering-on-digifinex.md)
