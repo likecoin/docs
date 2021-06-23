@@ -34,13 +34,17 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](../../.gitbook/assets/delegate-3.png)
 
-### 步驟三：躺著賺回報吧！
+### 步驟三：領取收益，躺著賺回報吧！
 
 回到錢包的頁面，你可以下拉刷新錢包的狀態。
 
 回饋金額會 5 至 6 秒派發一次 - 什麼？跟銀行的每月派息快太多了吧！你可在錢包驗證人頁面中的 「未領取收益」欄查看累積的回饋金額，或按「領取收益」把回報存進錢包，留意 Liker Land 手機應用程式最低收益存進數量為 1 LikeCoin，少於 1 LikeCoin 的收益將不能存進錢包。
 
 已委託的驗證人，會在下方列表中顯示為綠色。
+
+{% hint style="warning" %}
+留意領取收益需要[手續費](https://docs.like.co/v/zh/guides/wallet/transaction-fee)。
+{% endhint %}
 
 ### 了解更多有關「委託」的原理
 
