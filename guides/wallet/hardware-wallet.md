@@ -1,8 +1,8 @@
 ---
-description: How to manage your LikeCoin with a hardware wallet?
+description: Secure your LikeCoin with hardware wallet
 ---
 
-# Secure your LikeCoin with hardware wallet
+# Ledger
 
 Before using your hardware wallet, please configure it and install the Cosmos app. Take Ledger as an example, you may install the Cosmos app via [Ledger Live](https://support.ledger.com/hc/en-us/articles/360013713840-Cosmos-ATOM-).
 

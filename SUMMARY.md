@@ -45,7 +45,7 @@
 * [Wallet](guides/wallet/README.md)
   * [Keplr](guides/wallet/keplr.md)
   * [LIKE Pay](guides/wallet/like-pay.md)
-  * [Secure your LikeCoin with hardware wallet](guides/wallet/hardware-wallet.md)
+  * [Ledger](guides/wallet/hardware-wallet.md)
   * [Transaction Fee](guides/wallet/transaction-fee.md)
   * [Migrating from ERC-20](guides/wallet/migration/README.md)
     * [Assisted Migration](guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
