@@ -4,19 +4,19 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 # 委託 LikeCoin
 
-委託的意思是把 LikeCoin 委託給一個或多個[驗證人 \( Validator \)](https://docs.like.co/v/zh/user-guide/about/background#9d28)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。委託機制是讚賞公民共和國[流動民主](https://docs.like.co/v/zh/user-guide/liquid-democracy)自治機制的一環。
+委託的意思是把 LikeCoin 委託給一個或多個[驗證人 \( Validator \)](https://docs.like.co/v/zh/guides/governance/what-is-a-validator)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。委託機制是讚賞公民共和國[流動民主](https://docs.like.co/v/zh/guides/governance/liquid-democracy)自治機制的一環。
 
 ### 步驟一：選取驗證人
 
-於 [Liker Land 手機應用程式](https://docs.like.co/v/zh/user-guide/reader/download)的右下方點擊自己的頭像，再點 LikeCoin 的餘額進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人。《讚賞公民共和國》立國之初共有七個機構 /公司 /組織擔當驗證人的角色，你可以按你喜歡選其中一個。
+於 [Liker Land 手機應用程式](https://liker.land/getapp)的點擊「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
+
+![&#x9EDE;&#x64CA;&#x6211;&#x7684;&#x9322;&#x5305;](../../.gitbook/assets/delegate-4.png)
+
+![&#x9A57;&#x8B49;&#x4EBA;&#x5217;&#x8868;](../../.gitbook/assets/delegate-5.png)
 
 注意每個驗證人提供的回饋年回報率可能略有不同。
 
-![&#x9EDE;&#x64CA;&#x53F3;&#x4E0B;&#x89D2;&#x81EA;&#x5DF1;&#x7684;&#x982D;&#x50CF;](../../.gitbook/assets/img_2324.jpg)
-
-![ &#x9EDE;&#x64CA;&#x300C;&#x6211;&#x7684;&#x9322;&#x5305;&#x300D;&#x91D1;&#x984D;&#x9032;&#x5165;&#x9322;&#x5305;&#x4ECB;&#x9762;](../../.gitbook/assets/delegate%20%281%29.png)
-
-點選了其中一個驗證人後，顯示以下頁面，列出回報年率 \( Rewards \)，投票權佔比 \( Voting Power \)，已被委託的 LikeCoin \( Liker Share \) 等資料。
+點選了其中一個驗證人後，顯示以下頁面，列出收益年率 \( Rewards \)，投票權佔比 \( Voting Power \)，已被委託的 LikeCoin \( Liker Share \) 等資料。
 
 點擊「委託」進入下一頁。
 
@@ -28,7 +28,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](../../.gitbook/assets/delegate-2.png)
 
-跳至確認畫面，顯示出驗證人的委託戶口地址，按「詳細資料」還可以核查委託款項及是次轉帳手續費的估算數值，
+跳至確認畫面，顯示出驗證人的委託戶口地址，按「詳細資料」還可以核查委託款項及是次轉帳[手續費](https://docs.like.co/v/zh/guides/wallet/transaction-fee)的估算數值，
 
 點擊「確認」，稍待幾秒，畫面上方會出現 "Transaction Completed" 字樣，代表已完成委託。
 
@@ -41,10 +41,6 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 回饋金額會 5 至 6 秒派發一次 - 什麼？跟銀行的每月派息快太多了吧！你可在錢包驗證人頁面中的 「未領取收益」欄查看累積的回饋金額，或按「領取收益」把回報存進錢包，留意 Liker Land 手機應用程式最低收益存進數量為 1 LikeCoin，少於 1 LikeCoin 的收益將不能存進錢包。
 
 已委託的驗證人，會在下方列表中顯示為綠色。
-
-{% hint style="warning" %}
-留意委託或領取收益均需要[手續費](https://docs.like.co/v/zh/user-guide/likecoin-token/transaction-fee)。
-{% endhint %}
 
 ### 了解更多有關「委託」的原理
 
