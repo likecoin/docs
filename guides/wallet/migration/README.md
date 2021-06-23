@@ -6,3 +6,5 @@ description: >-
 
 # Migrating from ERC-20
 
+If you still get hold of LikeCoin ERC-20, please upgrade to the LikeCoin chain as soon as possible.
+
