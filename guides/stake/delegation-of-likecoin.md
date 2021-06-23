@@ -37,11 +37,15 @@ Click \[Confirm\], after a few seconds it displays "Transaction Completed", whic
 
 ![](../../.gitbook/assets/delegate-3-en.png)
 
-### **Step 3: Relax and earn rewards!**
+### **Step 3: Relax and Withdraw Rewards!**
 
 Going back to the wallet page, you can drag down the screen and refresh wallet status.
 
 The LikeCoin rewards earned from delegation will be released every 5 or 6 seconds. quicker than monthly interest from the bank! You can check out the \[Delegating Rewards\] amount from the validator page, or click \[Withdraw Rewards\] to save the rewards back to your wallet. The minimum withdrawal amount on the Liker Land app is 1 LikeCoin.
 
 Validator with your delegation will be displayed as green.
+
+{% hint style="warning" %}
+[Transaction fee](https://docs.like.co/guides/wallet/transaction-fee) is required for ‌Withdraw Rewards.
+{% endhint %}
 
