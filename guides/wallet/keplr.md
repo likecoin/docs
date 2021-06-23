@@ -8,11 +8,11 @@ description: 去中化管理你的 LikeCoin
 
 ### 步驟一：安裝 Keplr
 
-到 Chrome / Firefox 線上應用程式商店按「加到 Chrome」安裝 [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)。
+到 Chrome 線上應用程式商店按「加到 Chrome」安裝 [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)。
 
 ![](../../.gitbook/assets/keplr01.png)
 
-點擊並將 Keplr 插件「Add extension」加到 Chrome / Firefox / Brave。
+點擊並將 Keplr 插件「Add extension」加到 Chrome / Brave。
 
 ![](../../.gitbook/assets/keplr02.png)
 
