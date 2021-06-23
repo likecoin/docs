@@ -34,9 +34,6 @@
     * [Awards and Press Release](guides/about/on-the-news/press-release.md)
     * [Recommendations](guides/about/on-the-news/recommendations.md)
   * [Brand Guidelines](guides/about/presskit.md)
-* [Developoer Resources](guides/developer-resources/README.md)
-  * [Developer](guides/developer-resources/developer.md)
-  * [Become a validator](guides/developer-resources/become-a-validator.md)
 * [Decentralized Publishing](guides/decentralized-publishing/README.md)
   * [What is ISCN](guides/decentralized-publishing/what-is-iscn.md)
   * [What is the relationship between ISCN and IPFS?](guides/decentralized-publishing/iscn-ipfs-relationship.md)
@@ -135,6 +132,9 @@
 
 ## 🔬 Developer Guide <a id="developer"></a>
 
+* [Developoer Resources](developer/developer-resources/README.md)
+  * [Developer](developer/developer-resources/developer.md)
+  * [Become a validator](developer/developer-resources/become-a-validator.md)
 * [LikeCoin chain node](developer/likecoin-chain-node/README.md)
   * [Validator Technical Introduction](developer/likecoin-chain-node/validator-technical-introduction.md)
   * [Setup local test node](developer/likecoin-chain-node/setup-local-test-node.md)
@@ -164,10 +164,10 @@
     * [Usage](developer/like-pay/sdk/usage.md)
     * [Reference](developer/like-pay/sdk/reference.md)
 * [ISCN](developer/international-standard-content-number-iscn/README.md)
-  * [Web Widget \(testnet\)](developer/international-standard-content-number-iscn/web-widget-testnet/README.md)
-    * [Reference](developer/international-standard-content-number-iscn/web-widget-testnet/reference.md)
-  * [Specification](developer/international-standard-content-number-iscn/specification.md)
-* [ISCN IPFS plugin](developer/iscn-ipfs-plugin.md)
-* [Badge](developer/badge/README.md)
-  * [ISCN Badge](developer/badge/iscn-badge.md)
+  * [ISCN IPFS plugin](developer/international-standard-content-number-iscn/iscn-ipfs-plugin.md)
+  * [ISCN Badge](developer/international-standard-content-number-iscn/iscn-badge.md)
+  * [Specification](developer/international-standard-content-number-iscn/specification/README.md)
+    * [Web Widget \(testnet\)](developer/international-standard-content-number-iscn/specification/web-widget-testnet/README.md)
+      * [Reference](developer/international-standard-content-number-iscn/specification/web-widget-testnet/reference.md)
+* [Ecosystem statistics](developer/badge.md)
 
