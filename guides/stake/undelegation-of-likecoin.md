@@ -8,7 +8,7 @@ description: >-
 
 ### **Undelegation of LikeCoin from your validator**
 
-If you delegated LikeCoin to a validator but you want to get them back, you can utilize the \[Undelegate\] function of [Liker Land mobile app](https://docs.like.co/user-guide/reader/download). Please follow the steps:
+If you delegated LikeCoin to a validator but you want to get them back, you can utilize the \[Undelegate\] function of [Liker Land mobile app](https://liker.land/getapp). Please follow the steps:
 
 1.  In the LikeCoin wallet page, click on the validator that you delegated \(displayed as green\)
 2. Go to the validatior page, click \[Undelegate\]
@@ -24,6 +24,6 @@ Once you've confirmed your undelegation, the following happens:
 2. Validator lost his/her voting power of the amount the LikeCoin withdrew.
 
 {% hint style="warning" %}
-[Transaction fee](https://docs.like.co/user-guide/likecoin-token/transaction-fee) is required for ‌Undelegate LikeCoin.
+[Transaction fee](https://docs.like.co/guides/wallet/transaction-fee) is required for ‌Undelegate LikeCoin.
 {% endhint %}
 
