@@ -4,7 +4,7 @@ description: 支援 LikeCoin 的交易所
 
 # 交易
 
-目前
+目前：
 
 * [Liquid](https://www.liquid.com/) 提供 BTC/LIKE 及 USDT/LIKE 交易對
 * [DigiFinex](https://www.digifinex.com/) 提供 USDT/LIKE 交易對
