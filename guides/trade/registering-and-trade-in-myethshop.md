@@ -30,7 +30,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ### 步驟四：轉帳 LikeCoin 到 MyEthShop
 
-打開 [Liker Land 手機應用程式](https://like.co/in/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己的 LikeCoin 結餘。點畫面上的「轉帳」 / \[Send\] 鍵（下圖紅圈位置）
+打開 [Liker Land 手機應用程式](https://liker.land/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己的 LikeCoin 結餘。點畫面上的 \[LIKE oay\] 鍵（下圖紅圈位置）
 
 ![&#x5728; Liker Land &#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;&#x9322;&#x5305;&#x4ECB;&#x9762;&#x9078;&#x300C;Like pay&#x300D;&#xFF08;&#x7D05;&#x5708;&#xFF09;](../../.gitbook/assets/like-pay-1.png)
 
@@ -50,7 +50,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ![](../../.gitbook/assets/myethshop-4.png)
 
-會跳出畫開啟瀏覽器顯示 [北斗 Big Dipper](https://docs.like.co/v/zh/user-guide/likecoin-chain/big-dipper) 內容，\# 號開始的就是哈希 Transaction Hash / TXID，並說明從你的錢包地址轉帳到 MyEthshop 的錢包 cosmos1zr8fwqpkj0sydpjfjqa4uk4ptu6tahgfw8deyq。按哈希打開交易明細，並複製哈希地址
+會跳出畫開啟瀏覽器顯示 [北斗 Big Dipper](https://docs.like.co/v/zh/guides/governance/big-dipper) 內容，\# 號開始的就是哈希 Transaction Hash / TXID，並說明從你的錢包地址轉帳到 MyEthshop 的錢包 cosmos1zr8fwqpkj0sydpjfjqa4uk4ptu6tahgfw8deyq。按哈希打開交易明細，並複製哈希地址
 
 ![](../../.gitbook/assets/myethshop-5.png)
 
