@@ -24,7 +24,7 @@ If a block is created on every 6 seconds, the number of new blocks created per y
 
 = 1.86 LikeCoin
 
-That means 1.86 LikeCoin is minted every 6 seconds for validators and stakeholders to distribute according to their delegation ratio. Currently the commission rate is 50%, therefore the LikeCoin given to stakeholders every 6 seconds is 1.86/2 = 0.93.
+That means 1.86 LikeCoin is minted every 6 seconds for validators and stakeholders to distribute according to their delegation ratio. If the commission rate of a validator is 50%, the LikeCoin given to stakeholders every 6 seconds will be 1.86/2 = 0.93.
 
 The above calculation based on the assumption of a new block is created every 6 second, but in fact there are deviations in real life. Adding to the 98% from inflation, 98% transaction fee from each transaction will also be distributed to validators and stakeholders according to their delegation ratio.
 
