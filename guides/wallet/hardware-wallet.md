@@ -1,8 +1,8 @@
 ---
-description: 如何使用硬件錢包管理 LikeCoin？
+description: 以硬件錢包保障你的 LikeCoin 資產
 ---
 
-# 以硬件錢包保障你的 LikeCoin 資產
+# Ledger
 
 在使用你的硬件錢包前，請設定並安裝 Cosmos app。以 Ledger 為例，你可以到 [Ledger Live](https://support.ledger.com/hc/en-us/articles/360013713840-Cosmos-ATOM-) 安裝它。
 

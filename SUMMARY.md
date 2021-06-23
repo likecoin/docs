@@ -20,7 +20,7 @@
 * [錢包](guides/wallet/README.md)
   * [Keplr](guides/wallet/keplr.md)
   * [LIKE pay](guides/wallet/like-pay.md)
-  * [以硬件錢包保障你的 LikeCoin 資產](guides/wallet/hardware-wallet.md)
+  * [Ledger](guides/wallet/hardware-wallet.md)
   * [交易手續費](guides/wallet/transaction-fee.md)
   * [由 ERC-20 升級](guides/wallet/migration/README.md)
     * [升級 LikeCoin 到 LikeCoin chain](guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
