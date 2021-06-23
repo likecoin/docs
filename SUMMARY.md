@@ -9,9 +9,6 @@
   * [進度更新](guides/about/updates.md)
   * [傳媒報導](guides/about/on-the-news.md)
   * [品牌素材下載](guides/about/presskit.md)
-* [開發者資源](guides/developer-resources/README.md)
-  * [開發者](guides/developer-resources/developer.md)
-  * [成為驗證人](guides/developer-resources/become-a-validator.md)
 * [去中心出版](guides/decentralized-publishing/README.md)
   * [什麼是 ISCN?](guides/decentralized-publishing/what-is-iscn.md)
   * [ISCN 和 IPFS 的關係是什麼？](guides/decentralized-publishing/iscn-ipfs-relationship.md)
@@ -107,4 +104,9 @@
 * [購買產品與服務](dapps/products-and-services.md)
 * [獲得 LikeCoin](dapps/how-do-i-make-likecoin.md)
 * [發展史](dapps/background.md)
+
+## 🔬  開發者資源
+
+* [開發者](kai-fa-zhe-zi-yuan/developer.md)
+* [成為驗證人](kai-fa-zhe-zi-yuan/become-a-validator.md)
 
