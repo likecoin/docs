@@ -58,7 +58,7 @@ Liker Land Chrome / Brave / Firefox 插件讓你為網頁加上書籤儲存，�
 
 ## 查看已收藏文章
 
-點擊 Liker Land 手機應用程式或 [Liker Land web 的書籤](https://liker.land/bookmarks)（紅圈）即可查看已收藏文章。
+點擊 Liker Land 手機應用程式或 [Liker Land web 的書籤](https://liker.land/bookmarks)即可查看已收藏文章。
 
 ![](../../.gitbook/assets/likecoin-button-save-later-9.png)
 
