@@ -57,3 +57,7 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 
 ![](../../.gitbook/assets/portfolio-page-2.png)
 
+{% hint style="warning" %}
+讚賞公民為自己的作品 Super Like 並不會獲得 LikeCoin
+{% endhint %}
+
