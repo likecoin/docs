@@ -6,7 +6,9 @@ description: 人工挑選內容那麼古早，為甚麼不靠 AI 策展就好？
 
 ## 不是瀏覽，而是閱讀
 
-打開 Liker Land 手機應用程式再點擊底下的「星星」，即可看到「我的 Content Jockey」，就像以往的報紙，每天選出有限的、重要的新聞。
+打開 Liker Land 手機應用程式再點擊底下的「星星」圖示，即可看到「我的 Content Jockey」，就像以往的報紙，每天選出有限的、重要的新聞。
+
+![](../../.gitbook/assets/contentjockey-01.png)
 
 「我的 Content Jockey」內容由內容伯樂 \( Content Jockey \) 每天使用 [Super Like](https://docs.like.co/v/zh/dapps/liker-land/superlike) 人手挑選，完全不使用 AI。每位內容伯樂每天只有兩個限額，一方面確保精挑細選，另方面亦確保讀者不會浸沒於內容大海。
 
@@ -22,13 +24,11 @@ Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://d
 
 除預設內容伯樂以外，讀者可自行追蹤其他可信賴，關注不同範疇的內容伯樂。到他們的[個人主頁](https://docs.like.co/v/zh/dapps/creator/portfolio-page)點擊追蹤即可。
 
-點擊 Liker Land 手機應用程式的星星鍵，即可在「我的 Content Jockey」查看你已追蹤的內容伯樂所提供的內容。
+點擊 Liker Land 手機應用程式的「星星」圖示，即可在「我的 Content Jockey」查看你已追蹤的內容伯樂所提供的內容。
 
-![](../../.gitbook/assets/contentjockey-01.png)
+## 所有 Content Jockey <a id="super-like-world-feed"></a>
 
-## Super Like 公海 <a id="super-like-world-feed"></a>
-
-覺得你的「我的 Content Jockey」不夠看？不打緊！點擊地球標示「所有」即可暢讀所有內容伯樂的 Super Like 精選文章，發堀更多精彩內容。假如你覺得他/她的品味不錯，更可點擊「追蹤」，以後他/她經手 Super Like 的文章就會在你的「我的 Content Jockey」版面出現。
+覺得你的「我的 Content Jockey」不夠看？不打緊！點擊地球圖示「所有」即可暢讀「所有 Content Jockey」的 Super Like 精選文章，發堀更多精彩內容。假如你覺得他/她的品味不錯，更可點擊「追蹤」，以後他/她經手 Super Like 的文章就會在你的「我的 Content Jockey」版面出現。
 
 ![](../../.gitbook/assets/contentjockey-02.png)
 

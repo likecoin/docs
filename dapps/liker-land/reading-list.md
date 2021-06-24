@@ -18,7 +18,7 @@ description: 我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？
 
 ## 在 Liker Land 手機應用程式收藏文章
 
-假如你在[今日頭條](https://docs.like.co/v/zh/user-guide/reader/today-headline)或 [Super Liker 公海](https://docs.like.co/v/zh/user-guide/reader/today-headline#super-like-world-feed)經已閱讀過一篇文章，系統會顯示為綠剔已讀（紅圈），你亦可以點擊書籤（紅箭嘴）收藏文章到閱讀列表以供日後翻閱。
+假如你在我的Content Jockey 或 [Super Liker 公海](https://docs.like.co/v/zh/user-guide/reader/today-headline#super-like-world-feed)經已閱讀過一篇文章，系統會顯示為綠剔已讀（紅圈），你亦可以點擊書籤（紅箭嘴）收藏文章到閱讀列表以供日後翻閱。
 
 ## 在手機與平板收藏文章到 Liker land <a id="mobile"></a>
 
