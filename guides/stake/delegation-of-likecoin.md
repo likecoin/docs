@@ -46,6 +46,10 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 留意領取收益需要[手續費](https://docs.like.co/v/zh/guides/wallet/transaction-fee)。
 {% endhint %}
 
+你也許想看看如何使用硬件錢包委託 LikeCoin：
+
+{% page-ref page="../wallet/hardware-wallet.md" %}
+
 ### 了解更多有關「委託」的原理
 
 委託的功能，是讚賞公民共和國「流動民主」機制的重要一環。想知道更多有關概念，請閱讀以下文章：
