@@ -52,7 +52,7 @@
   * [閱讀列表](dapps/liker-land/reading-list.md)
   * [Like — 化讚為賞](dapps/liker-land/like.md)
   * [Super Like — 內容伯樂](dapps/liker-land/superlike.md)
-  * [創作者數據](dapps/liker-land/real-time-statistic.md)
+  * [創作數據](dapps/liker-land/real-time-statistic.md)
 * [Civic Liker 讚賞公民](dapps/civic-liker/README.md)
   * [專屬優惠](dapps/civic-liker/rationale-and-benefits.md)
   * [如何訂閱讚賞公民](dapps/civic-liker/be-a-civic-liker.md)
