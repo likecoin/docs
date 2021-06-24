@@ -10,7 +10,7 @@ description: 人工挑選內容那麼古早，為甚麼不靠 AI 策展就好？
 
 打開 Liker Land 手機應用程式，即可看到「今日頭條」，就像以往的報紙，每天選出有限的、重要的新聞。
 
-今日頭條由[「內容伯樂」（Content Jockey）](https://docs.like.co/v/zh/user-guide/reader/superlike)每天人手挑選，完全不使用 AI。每位內容伯樂每天只有兩個限額，一方面確保精挑細選，另方面亦確保讀者不會浸沒於內容大海。
+今日頭條由[「內容伯樂」\( Content Jockey \)](https://docs.like.co/v/zh/dapps/liker-land/superlike) 每天人手挑選，完全不使用 AI。每位內容伯樂每天只有兩個限額，一方面確保精挑細選，另方面亦確保讀者不會浸沒於內容大海。
 
 Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://docs.like.co/v/zh/user-guide/liquid-democracy)治理，由社群投票選出質量高、具口碑的內容伯樂。現時，Liker Land 設有五個預設內容伯樂：
 
@@ -22,7 +22,7 @@ Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://d
 
 ## 追蹤心儀內容伯樂
 
-除預設內容伯樂以外，讀者可自行追蹤其他可信賴，關注不同範疇的內容伯樂。到他們的[個人主頁](https://docs.like.co/v/zh/user-guide/creator/portfolio-page)點擊追蹤即可。
+除預設內容伯樂以外，讀者可自行追蹤其他可信賴，關注不同範疇的內容伯樂。到他們的[個人主頁](https://docs.like.co/v/zh/dapps/creator/portfolio-page)點擊追蹤即可。
 
 ## Super Like 公海 <a id="super-like-world-feed"></a>
 
