@@ -28,5 +28,5 @@ Bookmarking any web page to Liker Land [Readling list](https://docs.like.co/dapp
 
 ## **Reinventing the Like** <a id="hua-zan-wei-shang"></a>
 
-From [each clap](https://docs.like.co/user-guide/reader/like) the reader made, content creators can earn rewards.
+From [each clap](https://docs.like.co/dapp/liker-land/like) the reader made, content creators can earn rewards.
 
