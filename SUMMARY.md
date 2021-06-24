@@ -41,18 +41,18 @@
   * [北斗 Big Dipper](guides/governance/big-dipper.md)
   * [歷史議案](guides/governance/proposals.md)
   * [LikeCoin Grants 計畫](guides/governance/likecoin-grants.md)
-* [即時數據更新](guides/real-time-statistic.md)
 * [支援網站列表](guides/list-of-media.md)
 * [LikeCoin 答客問](guides/likecoin-da-ke-wen.md)
 
 ## 💻  去中心應用 <a id="dapps"></a>
 
-* [我是讀者](dapps/liker-land/README.md)
+* [Liker Land](dapps/liker-land/README.md)
   * [下載 Liker Land](dapps/liker-land/download.md)
   * [今日頭條](dapps/liker-land/today-headline.md)
   * [閱讀列表](dapps/liker-land/reading-list.md)
   * [Like — 化讚為賞](dapps/liker-land/like.md)
   * [Super Like — 內容伯樂](dapps/liker-land/superlike.md)
+  * [創作者數據](dapps/liker-land/real-time-statistic.md)
 * [Civic Liker 讚賞公民](dapps/civic-liker/README.md)
   * [專屬優惠](dapps/civic-liker/rationale-and-benefits.md)
   * [如何訂閱讚賞公民](dapps/civic-liker/be-a-civic-liker.md)
