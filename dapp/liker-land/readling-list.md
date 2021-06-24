@@ -20,8 +20,6 @@ The bookmark icon is highlighted after the content is saved
 
 If you finished reading an article on [Today's Headine](https://docs.like.co/user-guide/reader/today-headline) or [The world has Super Liked](https://docs.like.co/user-guide/reader/today-headline#the-world-has-super-liked), the system will add a green tick on it \(circled in red\), you can also click on the bookmark icon \(red arrow\) to save the article to Reading list for read it later.
 
-![](../../.gitbook/assets/super-like-reader-1-en.png)
-
 ## Bookmark content on mobile and tablet to Liker Land
 
 Step 1: When reading an article on browser or mobile app \(e.g. Twitter\), click the "Share" button

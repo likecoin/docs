@@ -30,11 +30,7 @@ Readers can follow their trusted Content Jockeys, you can go to their [Portfolio
 
 If Today's headlines got too less to read, click on the \[Globe\] at top right hand corner and read Super Liked articles by all the Content Jockeys and explore more wonderful contents. If you love his/her taste, click \[Follow\] and articles hand picked by him/her will appear on your Today's headline.
 
-![](../../.gitbook/assets/super-like-reader-3-en.png)
-
 ## Stop Following a Content Jockey
 
 If you want to stop following a Content Jockey, you can click on the avatar at the lower right hand corner, then click "Content Jockey" under "Settings". You can also go to [Liker Land web](https://liker.land/settings/following/) to unfollow a Content Jockey.
-
-![](../../.gitbook/assets/super-like-reader-2-en.png)
 
