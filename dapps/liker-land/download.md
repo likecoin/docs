@@ -38,7 +38,7 @@ description: 要去哪裏下載 Liker Land？
 {% page-ref page="../liker-id/edit-avatar-displayname.md" %}
 
 * 讚賞公民：訂閱 / 退訂
-* 作者設定：創作者可設定[給讀者的話](https://docs.like.co/v/zh/dapps/creator/creators-pitch)、查看[收入概覽](https://docs.like.co/v/zh/dapps/creator/rewards)
+* 作者設定：創作者可設定[給讀者的話](https://docs.like.co/v/zh/dapps/creator/creators-pitch)、查看[讚賞公民支持者清單](https://docs.like.co/v/zh/dapps/creator/rewards/support)
 * 追蹤設定：顯示用戶已追蹤的[內容伯樂 \( Content Jockey \)](https://docs.like.co/v/zh/dapps/liker-land/superlike)，可在這裡取消追蹤（下圖）
 
 ![](../../.gitbook/assets/liker-land-web-3.png)
