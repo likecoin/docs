@@ -59,7 +59,7 @@
   * [讚賞公民 2.0 常見問題](dapps/civic-liker/civic-liker-faq.md)
   * [如何修改付款信用卡資料](dapps/civic-liker/change-credit-card.md)
   * [如何退訂「讚賞公民」](dapps/civic-liker/unsubscribe-civic-liker.md)
-  * [如何以 LikeCoin 繳付「讚賞公民」年費](dapps/civic-liker/civic-liker-paid-by-likecoin.md)
+  * [如何以 LikeCoin 繳付讚賞公民年費](dapps/civic-liker/civic-liker-paid-by-likecoin.md)
   * [如何以 PayMe 或轉數快繳付「讚賞公民」年費](dapps/civic-liker/civic-liker-paid-by-payme.md)
 * [Liker ID](dapps/liker-id/README.md)
   * [註冊 Liker ID](dapps/liker-id/register.md)
