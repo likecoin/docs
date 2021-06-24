@@ -8,9 +8,9 @@ description: 人工挑選內容那麼古早，為甚麼不靠 AI 策展就好？
 
 打開 Liker Land 手機應用程式再點擊底下的「星星」，即可看到「我的 Content Jockey」，就像以往的報紙，每天選出有限的、重要的新聞。
 
-今日頭條由[「內容伯樂」\( Content Jockey \)](https://docs.like.co/v/zh/dapps/liker-land/superlike) 每天人手挑選，完全不使用 AI。每位內容伯樂每天只有兩個限額，一方面確保精挑細選，另方面亦確保讀者不會浸沒於內容大海。
+「我的 Content Jockey」內容由內容伯樂 \( Content Jockey \) 每天使用 [Super Like](https://docs.like.co/v/zh/dapps/liker-land/superlike) 人手挑選，完全不使用 AI。每位內容伯樂每天只有兩個限額，一方面確保精挑細選，另方面亦確保讀者不會浸沒於內容大海。
 
-Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://docs.like.co/v/zh/user-guide/liquid-democracy)治理，由社群投票選出質量高、具口碑的內容伯樂。現時，Liker Land 設有五個預設內容伯樂：
+Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://docs.like.co/v/zh/guides/governance/liquid-democracy)治理，由社群投票選出質量高、具口碑的內容伯樂。現時，Liker Land 設有五個預設內容伯樂：
 
 * 立場新聞：[standnews](https://like.co/standnews)
 * 獨立媒體：[inmediahknet](https://like.co/inmediahknet)
@@ -34,7 +34,7 @@ Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://d
 
 ## 停止追蹤內容伯樂
 
-若你想停止追蹤某位內容伯樂，可在 Liker Land 手機應用程式選右下角的「設定」下的「Content Jockey」，再點擊頭像取消追蹤。你亦可以到 [Liker Land 網頁版](https://liker.land/settings/following/)中設定取消追蹤。
+若你想停止追蹤某位內容伯樂，可在 Liker Land 手機應用程式選右下角的「設定」下的「Content Jockey」，再點擊頭像，然後點擊「取消追蹤」確認。你亦可以到 [Liker Land 網頁版](https://liker.land/settings/following/)中設定取消追蹤。
 
 ![](../../.gitbook/assets/contentjockey-03.png)
 
