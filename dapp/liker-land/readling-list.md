@@ -58,5 +58,3 @@ Step 2: When reading an article on a website, click on the icon to bookmark the 
 
 Click the bookmark icon on Liker Land app or [Liker Land web](https://liker.land/bookmarks) \(circled in red\) and check all the articles that you've saved.
 
-![](../../.gitbook/assets/likecoin-button-save-later-9-en.png)
-
