@@ -4,7 +4,7 @@ description: 我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？
 
 # 閱讀列表
 
-好文章留待空閒時深度閱讀，Liker Land 帶給你貼心的便利。無論使用桌面電腦、手機、平板電腦或 Liker Land 手機應用程式，都可以閱讀隨意加上書籤收藏任何網頁，動人文章隨時回看。
+好文章留待空閒時深度閱讀，Liker Land 帶給你貼心的便利。無論使用桌面電腦、手機、平板電腦或 Liker Land 手機應用程式，都可以閱讀並隨意加上書籤收藏任何網頁，動人文章隨時回看。
 
 ## 以 LikeCoin button 收藏文章 <a id="mobile"></a>
 
@@ -56,9 +56,9 @@ Liker Land Chrome / Brave / Firefox 插件讓你為網頁加上書籤儲存，�
 
 ![](../../.gitbook/assets/liker-land-firefox-3.png)
 
-## 查看已收藏文章
+## 查看閱讀列表
 
-點擊 Liker Land 手機應用程式或 [Liker Land web 的書籤](https://liker.land/bookmarks)即可查看已收藏文章。
+點擊 Liker Land 手機應用程式或 [Liker Land web](https://liker.land/bookmarks) 點擊「書籤」圖示可查看已收藏文章。
 
 ![](../../.gitbook/assets/likecoin-button-save-later-9.png)
 
