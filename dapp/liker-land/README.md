@@ -12,7 +12,7 @@ Liker Land is the user interface of LikeCoin, with function collaboration on rea
 
 ## **Content Jockey**
 
-Standnews, InMedia, HKCNews and Matters help you to select [Today's headlines](https://docs.like.co/user-guide/reader/today-headline).
+Standnews, InMedia, HKCNews and Matters help you to select [Today's headlines](https://docs.like.co/dapp/liker-land/today-headline).
 
 Artificial Intelligence helps on time saving and efficiency, but it doesn't work on news selection. Take Facebook as an example, although it's algorithms predict what arouses your emotions and interests you most, the intels are not important at all. Your newsfeed is long but the content may not be relevant to you, the information is lack of transparency and cannot be traced. Users really don't know that they have missed.
 
@@ -20,7 +20,7 @@ Pinpointing the problem of AI selection, Liker Land adopts "Zero AI curation str
 
 ## **A wide range of selection** <a id="duo-yuan-xuan-ze"></a>
 
-There are also 1,400 websites, three hundreds thousand articles by 11,000 content creators \(Check out the [Real-time statistics](https://docs.like.co/user-guide/about#republic-of-liker-land)\).
+There are also 1,400 websites, three hundreds thousand articles by 11,000 content creators \(Check out the [Creator statistics](https://docs.like.co/user-guide/about#republic-of-liker-land)\).
 
 ## Deep Reading
 
