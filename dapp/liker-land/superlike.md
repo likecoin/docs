@@ -47,3 +47,7 @@ Wanna review all the Super Liked articles? Go to your Portfolio Page https://lik
 
 ![](../../.gitbook/assets/portfolio-page-2-en.png)
 
+{% hint style="warning" %}
+Civic Liker Super Like his/her own work will not earn any LikeCoin.
+{% endhint %}
+
