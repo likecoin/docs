@@ -25,7 +25,7 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 ## Usage <a id="zen-yang-can-yu"></a>
 
 * Clicking the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When clicking on the 6th time, the article is being "Super Liked".
-* The "Super Liked" article will be on Liker Land. Your followers can see it on "[Today's headlines](https://docs.like.co/user-guide/reader/today-headline)" and everyone can see it on "[The world has Super Liked](https://docs.like.co/user-guide/reader/today-headline#the-world-has-super-liked)".
+* The "Super Liked" article will be on Liker Land. Your followers can see it on "[My Content Jockey](https://docs.like.co/dapp/liker-land/today-headline#follow-a-content-jockey)"  and everyone can see it on ["The world has Super Liked"](https://docs.like.co/dapp/liker-land/today-headline#the-world-has-super-liked).
 
 ![](../../.gitbook/assets/superlike.gif)
 
@@ -33,13 +33,13 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 * The RSS icon on the lower right hand corner turned on and the article is being shared to Liker Land.
 * Super Like cannot be accumulated, if it is not being used before the time to reset, it will be obsolete. You can only Super Like twice a day.
 * You can Super Like a single article for more than one time.
-* Content creators click on the LikeCoin button of their own article can Super Like and put their article to [the "Works" section in Portfolio Page](https://docs.like.co/user-guide/creator/portfolio-page#works). 
+* Content creators click on the LikeCoin button of their own article can Super Like and put their article to [the "Works" section in Portfolio Page](https://docs.like.co/dapp/creator/portfolio-page). 
 
 ## **How to participate?** <a id="zen-yang-can-yu"></a>
 
-Only [Civic Liker](https://docs.like.co/user-guide/civic-liker) can enjoy Super Like twice a day.
+Only [Civic Liker](https://docs.like.co/dapp/civic-liker) can enjoy Super Like twice a day.
 
-\[[Join **Civic Liker**](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker)\]
+\[[Join **Civic Liker**](https://docs.like.co/dapp/civic-liker/be-a-civic-liker)\]
 
 ## Super Likes History
 
