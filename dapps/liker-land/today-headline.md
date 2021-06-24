@@ -28,13 +28,13 @@ Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://d
 
 ## Super Like 公海 <a id="super-like-world-feed"></a>
 
-覺得你的「我的 Content Jockey」不夠看？不打緊！點擊地球標示「所有」即可暢讀所有內容伯樂的 Super Like 精選文章，發堀更多精彩內容。假如你覺得他/她的品味不錯，更可點擊「追蹤」，以後他/她經手 Super Like 的文章就會在你的頭條日報版面出現。
+覺得你的「我的 Content Jockey」不夠看？不打緊！點擊地球標示「所有」即可暢讀所有內容伯樂的 Super Like 精選文章，發堀更多精彩內容。假如你覺得他/她的品味不錯，更可點擊「追蹤」，以後他/她經手 Super Like 的文章就會在你的「我的 Content Jockey」版面出現。
 
 ![](../../.gitbook/assets/contentjockey-02.png)
 
 ## 停止追蹤內容伯樂
 
-若你想停止追蹤某位內容伯樂，可在 Liker Land 手機應用程式選右下角的「設定」下的「Content Jockey」，再點擊頭像，然後點擊「取消追蹤」確認。你亦可以到 [Liker Land 網頁版](https://liker.land/settings/following/)中設定取消追蹤。
+若你想停止追蹤某位內容伯樂，可在 Liker Land 手機應用程式選右下角設定下的「Content Jockey」，再點擊頭像，然後點擊「取消追蹤」確認。你亦可以到 [Liker Land 網頁版](https://liker.land/settings/following/)中設定取消追蹤。
 
 ![](../../.gitbook/assets/contentjockey-03.png)
 
