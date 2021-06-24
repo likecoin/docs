@@ -85,7 +85,7 @@
   * [Change Credit Card Information](dapp/civic-liker/change-credit-card.md)
   * [Unsubscribe Civic Liker](dapp/civic-liker/unsubscribe-civic-liker.md)
   * [How to pay Civic Liker yearly subscription by LikeCoin](dapp/civic-liker/civic-liker-paid-by-likecoin.md)
-  * [How to pay Civic Liker yearly scubscription by PayMe or FPS](dapp/civic-liker/civic-liker-paid-by-payme.md)
+  * [How to pay Civic Liker yearly subscription](dapp/civic-liker/civic-liker-1.0-yearly.md)
 * [Liker ID](dapp/liker-id/README.md)
   * [Register a Liker ID](dapp/liker-id/register.md)
   * [Edit Avatar and Name](dapp/liker-id/edit-avatar-displayname.md)
