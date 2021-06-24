@@ -2,13 +2,11 @@
 description: 人工挑選內容那麼古早，為甚麼不靠 AI 策展就好？
 ---
 
-# 今日頭條
-
-![Liker Land &#x4ECA;&#x65E5;&#x982D;&#x689D;](../../.gitbook/assets/photo6332505717323442883.jpg)
+# 我的 Content Jockey
 
 ## 不是瀏覽，而是閱讀
 
-打開 Liker Land 手機應用程式，即可看到「今日頭條」，就像以往的報紙，每天選出有限的、重要的新聞。
+打開 Liker Land 手機應用程式再點擊底下的「星星」，即可看到「我的 Content Jockey」，就像以往的報紙，每天選出有限的、重要的新聞。
 
 今日頭條由[「內容伯樂」\( Content Jockey \)](https://docs.like.co/v/zh/dapps/liker-land/superlike) 每天人手挑選，完全不使用 AI。每位內容伯樂每天只有兩個限額，一方面確保精挑細選，另方面亦確保讀者不會浸沒於內容大海。
 
@@ -24,15 +22,19 @@ Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://d
 
 除預設內容伯樂以外，讀者可自行追蹤其他可信賴，關注不同範疇的內容伯樂。到他們的[個人主頁](https://docs.like.co/v/zh/dapps/creator/portfolio-page)點擊追蹤即可。
 
+點擊 Liker Land 手機應用程式的星星鍵，即可在「我的 Content Jockey」查看你已追蹤的內容伯樂所提供的內容。
+
+![](../../.gitbook/assets/contentjockey-01.png)
+
 ## Super Like 公海 <a id="super-like-world-feed"></a>
 
-覺得你的今日頭條不夠看？不打緊！點擊右上角的 \[地球\] 鍵，即可暢讀所有內容伯樂的 Super Like 精選文章，發堀更多精彩內容。假如你覺得他/她的品味不錯，更可點擊 \[追蹤\]，以後他/她經手 Super Like 的文章就會在你的頭條日報版面出現。
+覺得你的「我的 Content Jockey」不夠看？不打緊！點擊地球標示「所有」即可暢讀所有內容伯樂的 Super Like 精選文章，發堀更多精彩內容。假如你覺得他/她的品味不錯，更可點擊「追蹤」，以後他/她經手 Super Like 的文章就會在你的頭條日報版面出現。
 
-![](../../.gitbook/assets/super-like-reader-3.png)
+![](../../.gitbook/assets/contentjockey-02.png)
 
 ## 停止追蹤內容伯樂
 
-若你想停止追蹤某位內容伯樂，可在 Liker Land 手機應用程式選右下角的帳戶頭像，再點「設定」下的「Content Jockey」。你亦可以到 [Liker Land 網頁版](https://liker.land/settings/following/)中設定取消追蹤。
+若你想停止追蹤某位內容伯樂，可在 Liker Land 手機應用程式選右下角的「設定」下的「Content Jockey」，再點擊頭像取消追蹤。你亦可以到 [Liker Land 網頁版](https://liker.land/settings/following/)中設定取消追蹤。
 
-![](../../.gitbook/assets/super-like-reader-2.png)
+![](../../.gitbook/assets/contentjockey-03.png)
 

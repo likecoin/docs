@@ -20,8 +20,6 @@ description: 我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？
 
 假如你在[今日頭條](https://docs.like.co/v/zh/user-guide/reader/today-headline)或 [Super Liker 公海](https://docs.like.co/v/zh/user-guide/reader/today-headline#super-like-world-feed)經已閱讀過一篇文章，系統會顯示為綠剔已讀（紅圈），你亦可以點擊書籤（紅箭嘴）收藏文章到閱讀列表以供日後翻閱。
 
-![](../../.gitbook/assets/super-like-reader-1.png)
-
 ## 在手機與平板收藏文章到 Liker land <a id="mobile"></a>
 
 步驟一：在瀏覽器或應用程式（例如 Twitter）閱讀文章時，點擊 \[分享\] 鍵
