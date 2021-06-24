@@ -66,7 +66,6 @@
   * [Big Dipper](guides/governance/big-dipper.md)
   * [Proposals](guides/governance/proposals.md)
   * [LikeCoin Grants Program](guides/governance/likecoin-grants.md)
-* [List of Media](guides/list-of-media.md)
 * [LikeCoin FAQ](guides/faq.md)
 
 ## 💻  DApp
@@ -77,7 +76,8 @@
   * [Readling List](dapp/liker-land/readling-list.md)
   * [Like - Reinventing the Like](dapp/liker-land/like.md)
   * [Super Like - Content Jockey](dapp/liker-land/superlike.md)
-  * [Real-time statistics](dapp/liker-land/real-time-statistics.md)
+  * [Liker Land Statistics](dapp/liker-land/real-time-statistics.md)
+  * [List of Media](dapp/liker-land/list-of-media.md)
 * [Civic Liker](dapp/civic-liker/README.md)
   * [Rationale and benefits](dapp/civic-liker/rationale-and-benefits.md)
   * [How to be a Civic Liker](dapp/civic-liker/be-a-civic-liker.md)
