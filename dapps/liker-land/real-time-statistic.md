@@ -1,4 +1,4 @@
-# 創作數據
+# Liker Land 數據
 
 截至 2020年8月，[讚賞公民共和國](https://like.co/in/getapp) 有 **1,800+ 名** [**讚賞公民**](https://docs.like.co/v/zh/user-guide/civic-liker)， 佔總數 **84,216+ Likers** 約 **2.2%**，共回饋了 **37mil+ LikeCoin** 給 **11,956+ 位創作者**於 **1,300+ 個媒體上**的 **312,599+ 筆內容**。‌
 
