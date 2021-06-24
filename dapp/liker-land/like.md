@@ -1,7 +1,5 @@
 ---
-description: >-
-  How does the "Reinventing the Like" Decentralized Rewards work? Where does
-  money come from?
+description: How does the "Reinventing the Like" Decentralized Rewards work?
 ---
 
 # Like - Reinventing the Like
@@ -13,6 +11,4 @@ Using the [Liker Land mobile app to surf for articles](https://docs.like.co/dapp
 Furthermore, creators can check their [weekly, daily rewards](https://docs.like.co/dapp/creator/rewards) received from each article, they will also receive a Liker Land [monthly reports](https://docs.like.co/dapp/creator/monthly-report) from the Foundation in order to understand their achievement.
 
 Readers can also send LikeCoin to the creator directly via [LIKE pay](https://docs.like.co/guides/wallet/like-pay).
-
-
 
