@@ -6,7 +6,7 @@ description: 贊助創作者方法非常簡單
 
 成為讚賞公民前請先 [註冊 Liker ID](https://docs.like.co/v/zh/dapps/liker-id/register)。
 
-## 訂閱讚賞公民
+## 訂閱心儀創作者
 
 ### 步驟一：瞄準心儀創作者
 
