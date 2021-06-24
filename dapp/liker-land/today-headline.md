@@ -10,6 +10,8 @@ description: >-
 
 Open the Liker Land app and click on the star icon underneath, you can see the "My Content Jockey", just like newspapers, the most important news are selected.
 
+![](../../.gitbook/assets/contentjockey-01-en.png)
+
 "My Content Jockey" are hand picked by Content Jockey with [Super Like](https://docs.like.co/dapp/liker-land/superlike), and without the use of AI. Every Content Jockey has two quotas per day, to ensure every selection is the finest. On the other hand to make sure that readers will not sumerge to the seas of junk content.
 
 The default Content Jockeys was managed by the Republic of Liker Land with [Liquid Democracy](https://docs.like.co/guides/governance/liquid-democracy), Content Jockeys of good quality and word of mouth are selected by community voting. Currently, there are 5 default Content Jockeys in Liker Land:
@@ -25,8 +27,6 @@ The default Content Jockeys was managed by the Republic of Liker Land with [Liqu
 Readers can follow their trusted Content Jockeys, you can go to their [Portfolio Page](https://docs.like.co/dapp/creator/portfolio-page) for following them.
 
 Click on the star icon underneath in the Liker Land app, you can check the content provided by your beloved Content Jockey, in "My Content Jockey".
-
-![](../../.gitbook/assets/contentjockey-01-en.png)
 
 ## The world has Super Liked
 
