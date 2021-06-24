@@ -49,3 +49,7 @@ Validator with your delegation will be displayed as green.
 [Transaction fee](https://docs.like.co/guides/wallet/transaction-fee) is required for ‌Withdraw Rewards.
 {% endhint %}
 
+You may also want to check out the following for delegation by hardware wallet.
+
+{% page-ref page="../wallet/hardware-wallet.md" %}
+
