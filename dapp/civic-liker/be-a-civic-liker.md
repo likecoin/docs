@@ -6,6 +6,8 @@ description: Supporting content creator is easy
 
 Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co/dapp/liker-id/register).
 
+## Subscribe to a content creator
+
 ### Step 1：Target your favourite content creator
 
 You can support your content creator starting from the following:
@@ -72,4 +74,8 @@ Select the new amount to support and click confirm.
 ![](../../.gitbook/assets/register-civic-liker-9-en.png)
 
 Changes made will be effective on the next billing date, please note the money paid for previous and current subscription will not be refunded.
+
+## Subscribe to more than one content creator
+
+Please subscribe to the 1st content creator. Then follow the same steps to subscribe to the 2nd and the other creators. Please note the newly added monthly subscription amount will be charged on the next billing date.
 
