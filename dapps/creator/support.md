@@ -10,13 +10,13 @@ description: 創作者的成績表
   
 步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「設定」。
 
-![](../../../.gitbook/assets/subscribe-civic-liker-1.png)
+![](../../.gitbook/assets/subscribe-civic-liker-1.png)
 
 步驟二：進入設定頁後，選第三個選項「作者設定」。
 
-![](../../../.gitbook/assets/creators-pitch-1.png)
+![](../../.gitbook/assets/creators-pitch-1.png)
 
 步驟三：你的收入概覽、讚賞公民支持者清單、支持份額和贊助生效日期一覽無遺。
 
-![](../../../.gitbook/assets/yoursupporter.jpg)
+![](../../.gitbook/assets/yoursupporter.jpg)
 
