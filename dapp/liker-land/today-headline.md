@@ -4,17 +4,15 @@ description: >-
   curations?
 ---
 
-# Today's Headlines
-
-![Liker Land Today&apos;s Headlines](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MIxM2Gj5gZytWRtDfOy%2F-MIxwLL6REhjwHPRVJo8%2Fphoto6332505717323442883.jpg?alt=media&token=92003ce5-7e02-4a05-9e50-6d4c7cdab7fb)
+# My Content Jockey
 
 ## Not Browsing, But Reading <a id="bu-shi-liu-lan-er-shi-yue-du"></a>
 
-Open the Liker Land app and you can see the "Today's headlines", just like newspapers, the most important news are selected.
+Open the Liker Land app and click on the star icon underneath, you can see the "My Content Jockey", just like newspapers, the most important news are selected.
 
-Today's headlines are hand picked by [Content Jockey](https://docs.like.co/user-guide/reader/superlike) without the use of AI. Every Content Jockey has two quotas per day, to ensure every selection is the finest. On the other hand to make sure that readers will not sumerge to the seas of junk content.
+"My Content Jockey" are hand picked by Content Jockey with [Super Like](https://docs.like.co/dapp/liker-land/superlike), and without the use of AI. Every Content Jockey has two quotas per day, to ensure every selection is the finest. On the other hand to make sure that readers will not sumerge to the seas of junk content.
 
-The default Content Jockeys was managed by the Republic of Liker Land with [Liquid Democracy](https://docs.like.co/user-guide/liquid-democracy), Content Jockeys of good quality and word of mouth are selected by community voting. Currently, there are 5 default Content Jockeys in Liker Land:
+The default Content Jockeys was managed by the Republic of Liker Land with [Liquid Democracy](https://docs.like.co/guides/governance/liquid-democracy), Content Jockeys of good quality and word of mouth are selected by community voting. Currently, there are 5 default Content Jockeys in Liker Land:
 
 *  Stand News：[standnews](https://like.co/standnews)​
 * inmedia：[inmediahknet](https://like.co/inmediahknet)​
@@ -24,13 +22,21 @@ The default Content Jockeys was managed by the Republic of Liker Land with [Liqu
 
 ## Follow a Content Jockey
 
-Readers can follow their trusted Content Jockeys, you can go to their [Portfolio Page](https://docs.like.co/user-guide/creator/portfolio-page) for following them.
+Readers can follow their trusted Content Jockeys, you can go to their [Portfolio Page](https://docs.like.co/dapp/creator/portfolio-page) for following them.
+
+Click on the star icon underneath in the Liker Land app, you can check the content provided by your beloved Content Jockey, in "My Content Jockey".
+
+![](../../.gitbook/assets/contentjockey-01-en.png)
 
 ## The world has Super Liked
 
-If Today's headlines got too less to read, click on the \[Globe\] at top right hand corner and read Super Liked articles by all the Content Jockeys and explore more wonderful contents. If you love his/her taste, click \[Follow\] and articles hand picked by him/her will appear on your Today's headline.
+If "My Content Jockey" got too less to read, click on the Global icon and read Super Liked articles by all the Content Jockeys and explore more wonderful contents. If you love his/her taste, click \[Follow\] and articles hand picked by him/her will appear on your "My Content Jockey".
+
+![](../../.gitbook/assets/contentjockey-02-en.png)
 
 ## Stop Following a Content Jockey
 
-If you want to stop following a Content Jockey, you can click on the avatar at the lower right hand corner, then click "Content Jockey" under "Settings". You can also go to [Liker Land web](https://liker.land/settings/following/) to unfollow a Content Jockey.
+If you want to stop following a Content Jockey, you can click on settings at the lower right hand corner and select \[Content Jockey\], click on the avatar and click \[Unfollow\] to  confirm. You can also go to [Liker Land web](https://liker.land/settings/following/) to unfollow a Content Jockey.
+
+![](../../.gitbook/assets/contentjockey-03-en.png)
 

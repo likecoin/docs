@@ -73,7 +73,7 @@
 
 * [Liker Land](dapp/liker-land/README.md)
   * [Download Liker Land](dapp/liker-land/download.md)
-  * [Today's Headlines](dapp/liker-land/today-headline.md)
+  * [My Content Jockey](dapp/liker-land/today-headline.md)
   * [Readling List](dapp/liker-land/readling-list.md)
   * [Like - Reinventing the Like](dapp/liker-land/like.md)
   * [Super Like - Content Jockey](dapp/liker-land/superlike.md)
