@@ -25,7 +25,7 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 ## 使用方法
 
 * 在讚賞鍵點 5 次，讚賞鍵的圖案會從拍掌圖案轉變成星形圖案，這時再點第 6 次，便使用了 Super Like。
-* 被 Super Like 了的文章會顯示在 Liker Land 上。你的追蹤者能在「[我的 Content Jockey](https://docs.like.co/v/zh/dapps/liker-land/today-headline#my-content-jockey)」列表中看到，而所有人也能在「[所有 Content Jockey](https://docs.like.co/v/zh/dapps/liker-land/today-headline#super-like-world-feed)」頁面看到。
+* 被 Super Like 了的文章會顯示在 Liker Land 上。你的追蹤者能在「[我的 Content Jockey](https://docs.like.co/v/zh/dapps/liker-land/today-headline#my-content-jockey)」列表中看到，而所有人也能在「[所有 Content Jockey](https://docs.like.co/v/zh/dapps/liker-land/today-headline#the-world-has-super-liked)」頁面看到。
 
 ![](../../.gitbook/assets/superlike.gif)
 
@@ -33,7 +33,7 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 * 右下方的廣播圖示亮著代表這篇文章已被分享到 Liker Land 上。
 * Super Like 的機會次數不會累積，若重置前沒有用掉，重置後也仍然只有一次機會，因此每天最多只能使用 Super Like 兩次。
 * 可重複給同一篇文章 Super Like。
-* 創作者點擊自己的文章的讚賞鍵可 Super Like 並將作品放置於[個人主頁的作品集](https://docs.like.co/v/zh/dapps/creator/portfolio-page)及「[所有 Content Jockey](https://docs.like.co/v/zh/dapps/liker-land/today-headline#super-like-world-feed)」頁面。
+* 創作者點擊自己的文章的讚賞鍵可 Super Like 並將作品放置於[個人主頁的作品集](https://docs.like.co/v/zh/dapps/creator/portfolio-page)及「[所有 Content Jockey](https://docs.like.co/v/zh/dapps/liker-land/today-headline#the-world-has-super-liked)」頁面。
 
 ## 怎樣參與
 
@@ -53,7 +53,7 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 
 ## Super Like 履歷
 
-想回顧曾經 Super Like 過哪些好文章？請到個人主頁 https://liker.land/\[你的 Liker ID\] 點擊「已 Super Like 內容」查看，例如你的 Liker ID 是 ckxpress，鏈結便是 https://liker.land/ckxpress。用戶也可以直接輸入網址訪問朋友或名人的個人主頁並追蹤，了解他們的閱讀品味。
+想回顧曾經 Super Like 過哪些好文章？請到[個人主頁](https://docs.like.co/v/zh/dapps/creator/portfolio-page) https://liker.land/\[你的 Liker ID\] 點擊「已 Super Like 內容」查看，例如你的 Liker ID 是 ckxpress，鏈結便是 https://liker.land/ckxpress。用戶也可以直接輸入網址訪問朋友或名人的個人主頁並追蹤，了解他們的閱讀品味。
 
 ![](../../.gitbook/assets/portfolio-page-2.png)
 
