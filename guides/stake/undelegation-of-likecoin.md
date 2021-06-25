@@ -25,3 +25,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 留意取回委託需要[手續費](https://docs.like.co/v/zh/guides/wallet/transaction-fee)。
 {% endhint %}
 
+{% hint style="danger" %}
+假如發現取回委託時 LikeCoin 本金比原本的少了，有機會是因為驗證人不在線無法驗證交易而被罰款，詳見驗證交易。故此，請慎選可靠的驗證人。
+{% endhint %}
+
