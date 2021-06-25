@@ -14,7 +14,7 @@ description: Where to download Liker Land?
 
 ## Liker Land web - https://Liker.Land <a id="liker-land-web"></a>
 
-Although Liker Land mobile app provides the functions that best suit your needs, [Liker Land web](https://liker.land/) also brings the same convenience for [discovering, following](https://docs.like.co/dapp/liker-land/today-headline) and [bookmarking content to Readling List](https://docs.like.co/dapp/liker-land/readling-list).
+Although Liker Land mobile app provides the functions that best suit your needs, [Liker Land web](https://liker.land/) also brings the same convenience for [discovering, following](https://docs.like.co/user-guide/liker-land/today-headline) and [bookmarking content to Readling List](https://docs.like.co/user-guide/liker-land/readling-list).
 
 Click on the menu at the top right hand corner, there are other options.
 
@@ -22,7 +22,7 @@ Click on the menu at the top right hand corner, there are other options.
 
 ### **Option 1: Civic Liker**
 
-You can pay and [become a Civic Liker](https://docs.like.co/dapp/civic-liker/be-a-civic-liker), check out the subscription status or unsubscribe. [Read this](https://docs.like.co/dapp/civic-liker) to learn more about Civic Liker.
+You can pay and [become a Civic Liker](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker), check out the subscription status or unsubscribe. [Read this](https://docs.like.co/user-guide/civic-liker) to learn more about Civic Liker.
 
 ### **Option 2: I'm a Creator too**
 
@@ -38,8 +38,8 @@ Click and learn more about how to invite your readers [to become your Civic Like
 {% page-ref page="../liker-id/edit-avatar-displayname.md" %}
 
 * Civic Liker: Subscribing / Unsubscribe status
-* Creator Settings: Setup [Creator Pitch](https://docs.like.co/dapp/creator/creators-pitch) and check [Supporters Summary](https://docs.like.co/dapp/creator/rewards/support)
-* Follow / Unfollowed: Display [Content Jockey](https://docs.like.co/dapp/liker-land/superlike) that the user followed, can click to unfollow \(refer to the below\)
+* Creator Settings: Setup [Creator Pitch](https://docs.like.co/user-guide/creatortools/creators-pitch) and check [Supporters Summary](https://docs.like.co/user-guide/creatortools/support)
+* Follow / Unfollowed: Display [Content Jockey](https://docs.like.co/user-guide/liker-land/superlike) that the user followed, can click to unfollow \(refer to the below\)
 
 ![](../../.gitbook/assets/liker-land-web-3-en.png)
 
