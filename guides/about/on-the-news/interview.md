@@ -6,11 +6,35 @@
 
 [Hong Kong's Apple Daily to live on in blockchain, free of censors](https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-live-blockchain-free-censors-2021-06-24/)
 
+### 06/25 Taipei Times
+
+[HK’s ‘Apple Daily’ to live on in blockchain](https://www.taipeitimes.com/News/world/archives/2021/06/25/2003759792)
+
+### 06/25 The Business Times
+
+[Queues form for final issue as Apple Daily closes](https://www.businesstimes.com.sg/government-economy/queues-form-for-final-issue-as-apple-daily-closes)
+
+### 06/24 聯合早報
+
+[香港网民将苹果文章上传至区块链平台](https://www.zaobao.com/realtime/china/story20210624-1160475)
+
 ### 06/24 鏈新聞
 
 [香港蘋果日報最終章！支持者利用去中心化平台保護「新聞自由」](https://www.abmedia.io/20210624-using-blockchain-to-preserve-apple-daily)
 
-### 06/24 CNBC
+### 06/24 Les Echos
+
+[A Hong Kong, ruée sur le dernier numéro du quotidien pro démocratie « Apple Daily »](https://www.lesechos.fr/monde/asie-pacifique/a-hong-kong-ruee-sur-le-dernier-numero-du-quotidien-pro-democratie-apple-daily-1326489)
+
+### 06/24 Objetivo Famosos
+
+[A Hong Kong, ruée sur le dernier numéro du quotidien pro démocratie « Apple Daily »](https://www.objetivofamosos.com/apple-daily-en-hong-kong-para-vivir-en-blockchain-sin-censura/)
+
+06/24 RTHK
+
+[Cyber activists race to back up Apple Daily articles](https://news.rthk.hk/rthk/en/component/k2/1597503-20210624.htm)
+
+### 06/24 CNBC
 
 [Hong Kong’s Apple Daily to live on in blockchain, free of censors](https://www.cnbc.com/2021/06/24/hong-kongs-apple-daily-to-live-on-in-blockchain-free-of-censors.html)
 
@@ -20,11 +44,19 @@
 
 ### 05/27 Decrypt
 
-[Hong Kong Media Turns to Blockchain to Preserve Protest Archives](https://decrypt.co/72057/hong-kong-media-turns-blockchain-preserve-protest-archives)
+[Hong Kong Media Turns to Blockchain to Preserve Protest Archives](https://decrypt.co/72057/hong-kong-media-turns-blockchain-preserve-protest-archives)
 
-### 05/27 Cointelegraph
+### 05/27 Business AM
+
+[Hoe Hongkong de geschiedenis wil censureren en blockchain-technologie de oplossing werd](https://businessam.be/hoe-hongkong-de-geschiedenis-wil-censureren-en-blockchain-technologie-de-oplossing-werd/)
+
+### 05/27 Cointelegraph
 
 [Hong Kongers use blockchain to save evidence of anti-authoritarian struggles](https://cointelegraph.com/news/hong-kongers-use-blockchain-to-save-evidence-of-anti-authoritarian-struggles)
+
+[Los habitantes de Hong Kong usan blockchain para guardar evidencia de luchas antiautoritarias](https://es.cointelegraph.com/news/hong-kongers-use-blockchain-to-save-evidence-of-anti-authoritarian-struggles)
+
+[Gli abitanti di Hong Kong usano la blockchain per salvare le prove della lotta anti-autoritaria](https://it.cointelegraph.com/news/hong-kongers-use-blockchain-to-save-evidence-of-anti-authoritarian-struggles)
 
 {% embed url="https://www.youtube.com/watch?v=xu3ORKd7sGU" %}
 
