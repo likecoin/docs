@@ -24,9 +24,9 @@ Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://d
 
 除預設內容伯樂以外，讀者可自行追蹤其他可信賴，關注不同範疇的內容伯樂。到他們的[個人主頁](https://docs.like.co/v/zh/dapps/creator/portfolio-page)點擊追蹤即可。
 
-點擊 Liker Land 手機應用程式的「星星」圖示，即可在「我的 Content Jockey」查看你已追蹤的內容伯樂所提供的內容。
+點擊 Liker Land 手機應用程式的「星星」圖示，即可在「我的 Content Jockey」查看你已追蹤的內容伯樂所提供的內容。或登入 [Liker Land 網頁版](https://liker.land/following)你也可以看到相同的內容。
 
-
+![](../../.gitbook/assets/contentjockey-04.png)
 
 ## 所有 Content Jockey <a id="the-world-has-super-liked"></a>
 
