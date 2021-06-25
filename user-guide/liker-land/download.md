@@ -12,7 +12,7 @@ description: Where to download Liker Land?
 
 {% page-ref page="../liker-id/register.md" %}
 
-## Liker Land web - https://Liker.Land
+## Liker Land web - https://Liker.Land <a id="liker-land-web"></a>
 
 Although Liker Land mobile app provides the functions that best suit your needs, [Liker Land web](https://liker.land/) also brings the same convenience for [discovering, following](https://docs.like.co/dapp/liker-land/today-headline) and [bookmarking content to Readling List](https://docs.like.co/dapp/liker-land/readling-list).
 
