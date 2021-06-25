@@ -25,7 +25,7 @@ Your name and avatar will appear in various Liker Land scenarios:
 
 ### LikeCoin button
 
-{% page-ref page="../creatoir/" %}
+{% page-ref page="../creator/" %}
 
 ![](../../.gitbook/assets/avatar.png)
 

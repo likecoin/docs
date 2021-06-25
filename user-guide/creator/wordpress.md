@@ -40,7 +40,11 @@ Then click "Confirm",  your LikeCoin button setup is finished.
 
 ![](../../.gitbook/assets/wordpress-5-en.png)
 
-After completing the above procedures, your LikeCoin button will appear underneath each article of your WordPress site. You can also use shortcode \[likecoin\] to display extra LikeCoin buttons.
+After completing the above procedures, your LikeCoin button will appear underneath each article of your WordPress site. 
+
+### Config LikeCoin button to appear in anywhere of the articles
+
+You can also use shortcode \[likecoin\] to display extra LikeCoin buttons.
 
 ## How to support multiple Liker ID on a WordPress site
 

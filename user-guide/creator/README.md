@@ -1,28 +1,20 @@
 ---
-description: 'I am a content creator, how can LikeCoin help me?'
+description: What are the functions of the LikeCoin button?
 ---
 
-# Content Creators
+# LikeCoin button
 
-As a Decentralized Publishing Infrastructure, LikeCoin provides Decentralized Registry, Decentralized Rewards and Decentralized Editorial for content creators.
+LikeCoin button is the core medium to interact with your readers for Like, Share and Archive.
 
-## Decentralized Registry
+From the LikeCoin button on each creations, readers can:
 
-* Help creators to write content to IPFS
-* Achieve through [Matters](https://matters.news/)
-* For [WordPress](https://docs.like.co/user-guide/creator/wordpress) at the moment
+* [Turn "Likes" into Rewards](https://docs.like.co/user-guide/liker-land/like): Turn every Like into actual, quantifiable income
+* Feature content: Be a Content Jockey, [Super Like](https://docs.like.co/user-guide/liker-land/superlike) the content and recommend it to the community
+* Save content into blockchain with traceability and immutability after the LikeCoin chain upgrade into the FoTan version. 
 
-## Decentralized Rewards
+## Use Case
 
-* **Reinventing the Like**：By simply attaching a [LikeCoin button](https://docs.like.co/user-guide/creator/likecoin-button) beneath your content and without setting up a paywall, every Like by readers is turned into measurable rewards in LikeCoin tokens.
-* Rewards to creators are from two sources, [Civic Liker](https://docs.like.co/user-guide/civic-liker) contribute USD5/mo、USD20/mo、USD100/mo to reward creativity and journalism, while the creators fund, distributed according to the Likes of all users, doubles the rewarding pool.
+[Matters](https://matters.news/) is empowered with the LikeCoin button by default, content creators can give their [Liker ID](https://docs.like.co/user-guide/liker-id) to [Standnews](https://www.thestandnews.com/) and [InMedia](https://www.inmediahk.net/) for embedding LikeCoin button. We-Media may install [LikeCoin  WordPress plugin](https://wordpress.org/plugins/likecoin/) and a LikeCoin button will be automatically added to the end of each article. [Medium](https://medium.com/) writers can insert the [LikeCoin button link](https://liker.land/creators) to embed it into an article, LikeCoin button also supports [Vocus](https://vocus.cc), [Blogspot \( Blogger.com \)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. 
 
-## Decentralized Editorial
-
-* [Liker Land](https://docs.like.co/user-guide/reader/download): "Not Browsing, But Reading", our mobile app designed to be scarce to cut out noise from signals.
-* Apart from rewarding creators as a Liker, readers may go further to become a [Content Jockey](https://docs.like.co/user-guide/reader/superlike), help distribute creative stories and insightful commentaries with Super Likes.
-
-
-
-The following sections will introduce how to use the 3 features on each content platform.
+![LikeCoin button demo](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MAXu9Lxx14vpKr9dO54%2F-MAXwN5NxScgV0FwK61i%2FSuperLike.gif?alt=media&token=a965b055-7c80-4b38-9d05-776d694d0ff1)
 
