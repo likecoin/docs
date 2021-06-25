@@ -12,19 +12,19 @@ description: 讓自己的性格更特出
 
 ### 贊助鏈結
 
-{% page-ref page="../creator/sponsor-link.md" %}
+{% page-ref page="../creatorbox/sponsor-link.md" %}
 
 ![](../../.gitbook/assets/sponsor-link.png)
 
 ### 個人主頁
 
-{% page-ref page="../creator/portfolio-page.md" %}
+{% page-ref page="../creatorbox/portfolio-page.md" %}
 
 ![](../../.gitbook/assets/likerid-avatar.png)
 
 ### LikeCoin button 讚賞鍵
 
-{% page-ref page="../creator-1/" %}
+{% page-ref page="../creator/" %}
 
 ![](../../.gitbook/assets/avatar.png)
 
