@@ -41,7 +41,7 @@ description: Liker ID 要怎樣註冊？
 ![](../../.gitbook/assets/img_2342.PNG)
 
 {% hint style="warning" %}
-一旦創建了 Liker ID，便不能修改。若不想再用某個 Liker ID，建議你把它留著不用，再創建一個新的。
+一旦創建了 Liker ID，便不能修改。若不想再用某個 Liker ID，建議你把它留著不用，再創建一個新的。留意一個電郵地址只可以註冊一個 Liker ID。
 {% endhint %}
 
 {% hint style="info" %}
