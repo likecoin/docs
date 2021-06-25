@@ -1,2 +1,2 @@
-# Developoer Resources
+# Developer Resources
 
