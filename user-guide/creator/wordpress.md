@@ -10,9 +10,9 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 然後請執行以下步驟：
 
-步驟一：進入 WordPress 網站管理員頁面並登入（若網址是 www.abc.com ，管理員頁面一般便是 www.abc.com/wp-admin ）  
+步驟一：進入 WordPress 網站管理員頁面並登入（若網址是 www.abc.com ，管理員頁面一般便是 www.abc.com/wp-admin）。  
   
-步驟二：如圖點擊左方「外掛 \( plugin \)」，再點擊上方「安裝外掛 \( install plugin \)」
+步驟二：如圖點擊左方「外掛 \( plugin \)」，再點擊上方「安裝外掛 \( install plugin \)」。
 
 ![](../../.gitbook/assets/wordpress-1.png)
 
@@ -28,7 +28,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 設定讚賞鍵外掛前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
 
-在管理介面左方菜單，點選 "LikeCoin" 外掛設定，再選「你的 LikeCoin button」。在右方畫面中，輸入你的 Liker ID
+在管理介面左方菜單，點選 "LikeCoin" 外掛設定，再選「你的 LikeCoin button」。在右方畫面中，輸入你的 Liker ID。
 
 ![](../../.gitbook/assets/wordpress-4.png)
 
@@ -36,11 +36,13 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 ![](../../.gitbook/assets/wordpress-5.png)
 
-別忘了「確認」以儲存設定值喔
+別忘了「確認」以儲存設定值喔。
 
--------------------------
+完成以上步驟後，你的讚賞鍵便會自動出現在網頁貼文的下方了。
 
-完成以上步驟後，你的讚賞鍵便會自動出現在網頁貼文的下方了。你亦可使用短代碼 \[likecoin\] 在文章中任何位置顯示額外的讚賞鍵。
+### 於任何位置顯示 LikeCoin ID
+
+你亦可使用短代碼 \[likecoin\] 在文章中任何位置顯示額外的讚賞鍵。
 
 ## 如何於一個 WordPress 網站支援多個作者
 
@@ -48,7 +50,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 可以的，這是預設的設定。  
   
-步驟一：在 LikeCoin 外掛中的「外掛設定」分頁，有一個「啟用網站 Liker ID－強制所有 LikeCoin button 使用網站 Liker ID」的選項。請確保這選項 **\*沒有\*** 被勾選
+步驟一：在 LikeCoin 外掛中的「外掛設定」分頁，有一個「啟用網站 Liker ID－強制所有 LikeCoin button 使用網站 Liker ID」的選項。請確保這選項 **\*沒有\*** 被勾選。
 
 ![](../../.gitbook/assets/wordpress-6.png)
 
