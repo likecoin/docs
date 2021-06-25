@@ -14,7 +14,7 @@ The core component of LikeCoin is [LikeCoin chain](https://likecoin.bigdipper.li
 
 Some media empowered by LikeCoin include [Matters](https://matters.news/), [Standnews](https://www.thestandnews.com/), [InMedia](https://www.inmediahk.net/), [HKCNews](https://www.hkcnews.com/) and other 1,300+ websites. LikeCoin can also be utilized on [WordPress](https://wordpress.org/plugins/likecoin/), [Medium](https://medium.com), [Vocus](https://vocus.cc/), [Blogspot \( Blogger.com \)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. 
 
-{% page-ref page="../../dapp/liker-land/list-of-media.md" %}
+{% page-ref page="../../user-guide/liker-land/list-of-media.md" %}
 
 Besides reading on your favourite content platforms, you can also read creative stories and insightful commentaries from the Content Jockeys that you trusted via [Liker Land mobile app](https://liker.land/getapp), download it on [Google Play Store](https://play.google.com/store/apps/details?id=com.oice&hl=en) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355).
 

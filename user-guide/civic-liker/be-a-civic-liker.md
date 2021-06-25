@@ -4,14 +4,16 @@ description: Supporting content creator is easy
 
 # How to be a Civic Liker
 
-Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
+Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co/dapp/liker-id/register).
+
+## Subscribe to a content creator
 
 ### Step 1：Target your favourite content creator
 
 You can support your content creator starting from the following:
 
-* Click on the [sponsor link](https://docs.like.co/user-guide/creator/sponsor-link) provided by the content creator, for example  [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic%20)
-* Click on the "Become a Civic Liker" button on the content creator's   [Portfolio Page](https://docs.like.co/user-guide/creator/portfolio-page)
+* Click on the [sponsor link](https://docs.like.co/dapp/creator/sponsor-link) provided by the content creator, for example  [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic%20)
+* Click on the "Become a Civic Liker" button on the content creator's   [Portfolio Page](https://docs.like.co/dapp/creator/portfolio-page)
 
 ![](../../.gitbook/assets/register-civic-liker-1-en.png)
 
@@ -72,4 +74,8 @@ Select the new amount to support and click confirm.
 ![](../../.gitbook/assets/register-civic-liker-9-en.png)
 
 Changes made will be effective on the next billing date, please note the money paid for previous and current subscription will not be refunded.
+
+## Subscribe to more than one content creator
+
+Please subscribe to the 1st content creator. Then follow the same steps to subscribe to the 2nd and the other creators. Please note the newly added monthly subscription amount will be charged on the next billing date.
 

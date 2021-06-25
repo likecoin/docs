@@ -14,7 +14,7 @@ LikeCoin provides publication related SDK/ plugins that can integrate with publi
 
 The core component of LikeCoin is [LikeCoin chain](https://likecoin.bigdipper.live/), a public blockchain itailor-made for content publishing, supporting the [**Republic of Liker Land**](https://liker.land/getapp).
 
-{% page-ref page="dapp/liker-land/list-of-media.md" %}
+{% page-ref page="user-guide/liker-land/list-of-media.md" %}
 
 ## More about LikeCoin
 

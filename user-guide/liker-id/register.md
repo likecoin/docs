@@ -6,7 +6,7 @@ description: 'Citizens of The Republic of Liker Land, each of them have a unique
 
 Registering a Liker ID is easy, please download [Liker Land mobile app](https://liker.land/getapp) and follow the instructions below:
 
-### Step 1: Open your Liker Land app, Click the "Sign Up" Button
+### Step 1: Open your Liker Land mobile app, Click the "Sign Up" Button
 
 ![](../../.gitbook/assets/sign-in.png)
 
@@ -39,7 +39,7 @@ One final step to go. After clicking the "OK" button, a green page appears as be
 ![](../../.gitbook/assets/img_3461.jpg)
 
 {% hint style="warning" %}
-Once a Liker ID has been created, it cannot be changed.  We suggest you keep it, or just create another one.
+Once a Liker ID has been created, it cannot be changed.  We suggest you keep it, or just create another one. Please note that a email address can only register one Liker ID.
 {% endhint %}
 
 {% hint style="info" %}
