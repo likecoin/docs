@@ -26,7 +26,9 @@ The default Content Jockeys was managed by the Republic of Liker Land with [Liqu
 
 Readers can follow their trusted Content Jockeys, you can go to their [Portfolio Page](https://docs.like.co/dapp/creator/portfolio-page) for following them.
 
-Click on the star icon underneath in the Liker Land app, you can check the content provided by your beloved Content Jockey, in "My Content Jockey".
+Click on the star icon underneath in the Liker Land app, you can check the content provided by your beloved Content Jockey, go to [Liker Land web](https://liker.land/following) and login will do the same.
+
+![](../../.gitbook/assets/contentjockey-04-en.png)
 
 ## The world has Super Liked
 
