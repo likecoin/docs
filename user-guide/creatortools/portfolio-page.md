@@ -8,7 +8,7 @@ Portfolio Page helps user to share their reading history, The Portfolio Page url
 
 The left hand side of the Portfolio Page displays information of the user, including [Liker ID](https://docs.like.co/user-guide/liker-id), name and [creator pitch](https://docs.like.co/user-guide/creatortools/creators-pitch). If the user is a [Civic Liker](https://docs.like.co/user-guide/civic-liker), the date he/she started to be a Civic Liker and with the following functions:
 
-* Become a Civic Liker - If Readers click on it and become a Civic Liker, the content creators can receive monthly support in LikeCoin. Read more: [Civic Liker](https://docs.like.co/user-guide/civic-liker) 
+* Become a Civic Liker - If Readers click on it and become a Civic Liker, the content creators can receive monthly support in LikeCoin. Read more about [Civic Liker](https://docs.like.co/user-guide/civic-liker). 
 * Follow - Click and follow the user as a [Content Jockey](https://docs.like.co/user-guide/liker-land/superlike)
 * [LIKE Pay](https://docs.like.co/guides/wallet/like-pay)－Transfer LikeCoin to the user
 
