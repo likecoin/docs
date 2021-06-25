@@ -130,18 +130,22 @@
 * [Making LikeCoin](user-guide/how-do-i-make-likecoin.md)
 * [Background](user-guide/background.md)
 
+## 👥 Validator Guide <a id="validator"></a>
+
+---
+
+* [Become a validator](become-a-validator.md)
+* [Validator Technical Introduction](validator-technical-introduction.md)
+* [LikeCoin chain node](likecoin-chain-node/README.md)
+  * [Setup local test node](likecoin-chain-node/setup-local-test-node.md)
+  * [Setup mainnet node](likecoin-chain-node/setup-mainnet-node.md)
+  * [Node configuration](likecoin-chain-node/node-configuration.md)
+  * [Command line interface](likecoin-chain-node/command-line-interface/README.md)
+    * [Useful commands](likecoin-chain-node/command-line-interface/useful-commands.md)
+
 ## 🔬 Developer Guide <a id="developer"></a>
 
-* [Developoer Resources](developer/developer-resources/README.md)
-  * [Developer](developer/developer-resources/developer.md)
-  * [Become a validator](developer/developer-resources/become-a-validator.md)
-* [LikeCoin chain node](developer/likecoin-chain-node/README.md)
-  * [Validator Technical Introduction](developer/likecoin-chain-node/validator-technical-introduction.md)
-  * [Setup local test node](developer/likecoin-chain-node/setup-local-test-node.md)
-  * [Setup mainnet node](developer/likecoin-chain-node/setup-mainnet-node.md)
-  * [Node configuration](developer/likecoin-chain-node/node-configuration.md)
-  * [Command line interface](developer/likecoin-chain-node/command-line-interface/README.md)
-    * [Useful commands](developer/likecoin-chain-node/command-line-interface/useful-commands.md)
+* [Developer Introduction](developer/introduction.md)
 * [LikeCoin chain API](developer/likecoin-chain-api/README.md)
   * [Cosmos concepts](developer/likecoin-chain-api/cosmos-concepts.md)
   * [RPC API](developer/likecoin-chain-api/rpc-api.md)
@@ -169,5 +173,5 @@
   * [Specification](developer/international-standard-content-number-iscn/specification/README.md)
     * [Web Widget \(testnet\)](developer/international-standard-content-number-iscn/specification/web-widget-testnet/README.md)
       * [Reference](developer/international-standard-content-number-iscn/specification/web-widget-testnet/reference.md)
-* [Ecosystem statistics](developer/badge.md)
+* [Ecosystem Statistics Badge](developer/badge.md)
 
