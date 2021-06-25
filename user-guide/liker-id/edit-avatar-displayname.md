@@ -24,7 +24,7 @@ description: 讓自己的性格更特出
 
 ### LikeCoin button 讚賞鍵
 
-{% page-ref page="../likecoin-button/" %}
+{% page-ref page="../creator-1/" %}
 
 ![](../../.gitbook/assets/avatar.png)
 
