@@ -28,7 +28,7 @@ Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://d
 
 
 
-## 所有 Content Jockey <a id="super-like-world-feed"></a>
+## 所有 Content Jockey <a id="the-world-has-super-liked"></a>
 
 覺得你的「我的 Content Jockey」不夠看？不打緊！點擊地球圖示「所有」即可暢讀「所有 Content Jockey」的 Super Like 精選文章，發堀更多精彩內容。假如你覺得他/她的品味不錯，更可點擊「追蹤」，以後他/她經手 Super Like 的文章就會在你的「我的 Content Jockey」版面出現。
 
