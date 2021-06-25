@@ -4,7 +4,7 @@ description: Supporting content creator is easy
 
 # How to be a Civic Liker
 
-Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co/dapp/liker-id/register).
+Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
 
 ## Subscribe to a content creator
 
@@ -12,8 +12,8 @@ Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co
 
 You can support your content creator starting from the following:
 
-* Click on the [sponsor link](https://docs.like.co/dapp/creator/sponsor-link) provided by the content creator, for example  [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic%20)
-* Click on the "Become a Civic Liker" button on the content creator's   [Portfolio Page](https://docs.like.co/dapp/creator/portfolio-page)
+* Click on the [sponsor link](https://docs.like.co/user-guide/creatortools/sponsor-link) provided by the content creator, for example  [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic%20)
+* Click on the "Become a Civic Liker" button on the content creator's   [Portfolio Page](https://docs.like.co/user-guide/creatortools/portfolio-page)
 
 ![](../../.gitbook/assets/register-civic-liker-1-en.png)
 
