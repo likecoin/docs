@@ -4,7 +4,7 @@ description: 'Check the Weekly, Daily rewards received from each articles'
 
 # Rewards
 
-Click on the avatar at the lower right hand corner of the [Liker Land mobile app](https://docs.like.co/user-guide/reader/download), and check the amount of LikeCoin rewarded this week in the \[Rewarded\] column.
+Click on the avatar at the lower right hand corner of the [Liker Land mobile app](https://liker.land/getapp), and check the amount of LikeCoin rewarded this week in the \[Rewarded\] column.
 
 ![LikeCoin rewarded this week](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDKMSCLmfO7W7pRfp9_%2F-MDKNfIMaqa7uwe6M8r3%2FIMG_0668.PNG?alt=media&token=345300b5-7d58-429e-8e32-880f825d0a4e)
 
