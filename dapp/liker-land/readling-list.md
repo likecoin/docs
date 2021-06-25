@@ -24,7 +24,7 @@ If you finished reading an article on "My Content Jockey" or "The world has Supe
 
 ## Bookmark content on mobile and tablet to Liker Land
 
-Step 1: When reading an article on browser or mobile app \( e.g. Twitter \), click the "Share" button
+Step 1: When reading an article on browser or mobile app \(e.g. Twitter\), click the "Share" button
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MF-k0N8KQO1RK3mjec0%2F-MF-n53DS3rtisxWw5HN%2Flikecoin-button-save-later-6.png?alt=media&token=93a0a381-1837-425b-8877-f2a8eef2a694)
 

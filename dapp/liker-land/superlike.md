@@ -25,7 +25,7 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 ## Usage <a id="zen-yang-can-yu"></a>
 
 * Clicking the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When clicking on the 6th time, the article is being "Super Liked".
-* The "Super Liked" article will be on Liker Land. Your followers can see it on "[My Content Jockey](https://docs.like.co/dapp/liker-land/today-headline#follow-a-content-jockey)"  and everyone can see it on ["The world has Super Liked"](https://docs.like.co/dapp/liker-land/today-headline#the-world-has-super-liked).
+* The "Super Liked" article will be on Liker Land. Your followers can see it on "[My Content Jockey](https://docs.like.co/dapp/liker-land/today-headline#my-content-jockey)"  and everyone can see it on ["The world has Super Liked"](https://docs.like.co/dapp/liker-land/today-headline#the-world-has-super-liked).
 
 ![](../../.gitbook/assets/superlike.gif)
 
