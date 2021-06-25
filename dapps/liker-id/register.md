@@ -10,7 +10,7 @@ description: Liker ID 要怎樣註冊？
 
 ### 步驟一：打開 Liker Land 手機應用程式，點擊「註冊」/ \[Sign Up\] 鍵 <a id="1"></a>
 
-![](../../.gitbook/assets/sign-in.png)
+![](../../.gitbook/assets/sign-up.png)
 
 ### 步驟二：選擇註冊方式
 
@@ -36,7 +36,7 @@ description: Liker ID 要怎樣註冊？
 
 ### 步驟四：創建 Liker ID
 
-最後一步。點擊 \[OK\] 後會彈出一個綠色的畫面如下，請輸入你喜歡的 Liker ID。系統已為你預設選了一個，若不滿意可在此步驟中修改。填上 Liker ID 後，選「確認」 / \[Confirm\] 完成程序。
+最後一步。點擊 \[OK\] 後會彈出一個綠色的畫面如下，請輸入你喜歡的 Liker ID。系統已為你預設選了一個，若不滿意可在此步驟中修改。填上 Liker ID 後，選「確認」完成程序。
 
 ![](../../.gitbook/assets/img_2342.PNG)
 
