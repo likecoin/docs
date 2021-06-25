@@ -26,6 +26,6 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 {% endhint %}
 
 {% hint style="danger" %}
-假如發現取回委託時 LikeCoin 本金比原本的少了，有機會是因為驗證人不在線無法驗證交易而被罰款，詳見驗證交易。故此，請慎選可靠的驗證人。
+假如發現取回委託時 LikeCoin 本金比原本的少了，有機會是因為驗證人不在線無法[驗證交易](https://docs.like.co/v/zh/dapps/background#9e68)而被罰款。故此，請慎選可靠的驗證人。
 {% endhint %}
 
