@@ -2,7 +2,7 @@
 description: 'Transfer LikeCoin using Liker Land mobile app in a few clicks, no handling fee'
 ---
 
-# LIKE Pay
+# LIKE pay
 
 ## Like pay on Liker Land app
 
