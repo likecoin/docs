@@ -14,6 +14,10 @@
 
 [Queues form for final issue as Apple Daily closes](https://www.businesstimes.com.sg/government-economy/queues-form-for-final-issue-as-apple-daily-closes)
 
+### 06/25 動區 BlockTempo
+
+[香港蘋果日報停刊，歷年報導被放上區塊鏈：不因為喜歡，因是需要做的事！](https://www.blocktempo.com/apple-daily-news-was-put-on-blockchain/)
+
 ### 06/24 聯合早報
 
 [香港网民将苹果文章上传至区块链平台](https://www.zaobao.com/realtime/china/story20210624-1160475)
@@ -42,7 +46,7 @@
 
 [網民備份《蘋果》報道 IT界倡開放CC授權](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20210623/s00002/1624385871098/%E7%B6%B2%E6%B0%91%E5%82%99%E4%BB%BD%E3%80%8A%E8%98%8B%E6%9E%9C%E3%80%8B%E5%A0%B1%E9%81%93-it%E7%95%8C%E5%80%A1%E9%96%8B%E6%94%BEcc%E6%8E%88%E6%AC%8A)
 
-### 06/23 
+### 06/23 HK01
 
 [《蘋果日報》網站即將停運　民間倡內容共享創意授權保存未有下文](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/641736/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1-%E7%B6%B2%E7%AB%99%E5%8D%B3%E5%B0%87%E5%81%9C%E9%81%8B-%E6%B0%91%E9%96%93%E5%80%A1%E5%85%A7%E5%AE%B9%E5%85%B1%E4%BA%AB%E5%89%B5%E6%84%8F%E6%8E%88%E6%AC%8A%E4%BF%9D%E5%AD%98%E6%9C%AA%E6%9C%89%E4%B8%8B%E6%96%87)
 
