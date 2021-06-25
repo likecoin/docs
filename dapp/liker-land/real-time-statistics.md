@@ -1,4 +1,4 @@
-# Liker Land Statistics
+# Real Time Statistics
 
 As of August 2020, [Republic of Liker Land](https://like.co/in/getapp) has **1,800+** [**Civic Likers**](https://docs.like.co/user-guide/civic-liker), which is **2.2%** of all **84,216+ Likers**, who rewarded **37mil+ LikeCoin** to **312,599+ contents** by **11,956+ creators** on **1,300+ media**.
 

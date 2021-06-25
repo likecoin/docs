@@ -76,7 +76,7 @@
   * [Readling List](dapp/liker-land/readling-list.md)
   * [Like - Reinventing the Like](dapp/liker-land/like.md)
   * [Super Like - Content Jockey](dapp/liker-land/superlike.md)
-  * [Liker Land Statistics](dapp/liker-land/real-time-statistics.md)
+  * [Real Time Statistics](dapp/liker-land/real-time-statistics.md)
   * [List of Media](dapp/liker-land/list-of-media.md)
 * [Civic Liker](dapp/civic-liker/README.md)
   * [Rationale and benefits](dapp/civic-liker/rationale-and-benefits.md)
