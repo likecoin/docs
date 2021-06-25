@@ -49,6 +49,6 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 
 ### 去中心策展
 
-* [Liker Land](https://docs.like.co/v/zh/user-guide/liker-land/download)：「不是瀏覽，而是閱讀。」針對深度閱讀開發的手機應用，為讀者提供清淨閱讀環境。
-* 部分讀者化身[內容伯樂 \( Content Jockey \)](https://docs.like.co/v/zh/user-guide/liker-land/today-headline)，透過 Super Like，推薦內容成為 Liker Land 的頭條
+* [Liker Land](https://docs.like.co/v/zh/user-guide/liker-land/today-headline)：「不是瀏覽，而是閱讀。」針對深度閱讀開發的手機應用，為讀者提供清淨閱讀環境。
+* 部分讀者化身[內容伯樂 \( Content Jockey \)](https://docs.like.co/v/zh/user-guide/liker-land/superlike)，透過 Super Like，推薦內容成為 Liker Land 的頭條
 
