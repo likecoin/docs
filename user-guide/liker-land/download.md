@@ -14,7 +14,7 @@ description: 要去哪裏下載 Liker Land？
 
 ## Liker Land 網頁版 - https://Liker.Land <a id="liker-land-web"></a>
 
-雖然 Liker Land 手機應用程式最為好用，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land/)，[發現、追蹤內容](https://docs.like.co/v/zh/dapps/liker-land/today-headline)和設定[閱讀列表](https://docs.like.co/v/zh/dapps/liker-land/reading-list)。‌
+雖然 Liker Land 手機應用程式最為好用，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land/)，[發現、追蹤內容](https://docs.like.co/v/zh/user-guide/liker-land/today-headline)和設定[閱讀列表](https://docs.like.co/v/zh/user-guide/liker-land/reading-list)。‌
 
 另，點擊右上角的菜單，會彈出其他選項。​‌
 
@@ -22,7 +22,7 @@ description: 要去哪裏下載 Liker Land？
 
 ### 選項一：讚賞公民
 
-用戶可付費[申請成為讚賞公民](https://docs.like.co/v/zh/dapps/civic-liker/be-a-civic-liker)，查看訂閱狀態及退訂。[按此查看](https://docs.like.co/v/zh/dapps/civic-liker)有關讚賞公民的詳細資訊。‌
+用戶可付費[申請成為讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker/be-a-civic-liker)，查看訂閱狀態及退訂。[按此查看](https://docs.like.co/v/zh/user-guide/civic-liker)有關讚賞公民的詳細資訊。‌
 
 ### 選項二：創作者加盟
 
@@ -38,8 +38,8 @@ description: 要去哪裏下載 Liker Land？
 {% page-ref page="../liker-id/edit-avatar-displayname.md" %}
 
 * 讚賞公民：訂閱 / 退訂
-* 作者設定：創作者可設定[給讀者的話](https://docs.like.co/v/zh/dapps/creator/creators-pitch)、查看[讚賞公民支持者清單](https://docs.like.co/v/zh/dapps/creator/rewards/support)
-* 追蹤設定：顯示用戶已追蹤的[內容伯樂 \( Content Jockey \)](https://docs.like.co/v/zh/dapps/liker-land/superlike)，可在這裡取消追蹤（下圖）
+* 作者設定：創作者可設定[給讀者的話](https://docs.like.co/v/zh/user-guide/creatortools/creators-pitch)、查看[讚賞公民支持者清單](https://docs.like.co/v/zh/user-guide/creatortools/support)
+* 追蹤設定：顯示用戶已追蹤的[內容伯樂 \( Content Jockey \)](https://docs.like.co/v/zh/user-guide/liker-land/superlike)，可在這裡取消追蹤（下圖）
 
 ![](../../.gitbook/assets/liker-land-web-3.png)
 

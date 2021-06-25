@@ -10,7 +10,7 @@ description: 人工挑選內容那麼古早，為甚麼不靠 AI 策展就好？
 
 ![](../../.gitbook/assets/contentjockey-01.png)
 
-「我的 Content Jockey」內容由內容伯樂 \( Content Jockey \) 每天使用 [Super Like](https://docs.like.co/v/zh/dapps/liker-land/superlike) 人手挑選，完全不使用 AI。每位內容伯樂每天只有兩個限額，一方面確保精挑細選，另方面亦確保讀者不會浸沒於內容大海。
+「我的 Content Jockey」內容由內容伯樂 \( Content Jockey \) 每天使用 [Super Like](https://docs.like.co/v/zh/user-guide/liker-land/superlike) 人手挑選，完全不使用 AI。每位內容伯樂每天只有兩個限額，一方面確保精挑細選，另方面亦確保讀者不會浸沒於內容大海。
 
 Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://docs.like.co/v/zh/guides/governance/liquid-democracy)治理，由社群投票選出質量高、具口碑的內容伯樂。現時，Liker Land 設有五個預設內容伯樂：
 
@@ -22,7 +22,7 @@ Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](https://d
 
 ## 我的 Content Jockey：追蹤心儀內容伯樂 <a id="my-content-jockey"></a>
 
-除預設內容伯樂以外，讀者可自行追蹤其他可信賴，關注不同範疇的內容伯樂。到他們的[個人主頁](https://docs.like.co/v/zh/dapps/creator/portfolio-page)點擊追蹤即可。
+除預設內容伯樂以外，讀者可自行追蹤其他可信賴，關注不同範疇的內容伯樂。到他們的[個人主頁](https://docs.like.co/v/zh/user-guide/creatortools/portfolio-page)點擊追蹤即可。
 
 點擊 Liker Land 手機應用程式的「星星」圖示，即可在「我的 Content Jockey」查看你已追蹤的內容伯樂所提供的內容。或登入 [Liker Land 網頁版](https://liker.land/following)你也可以看到相同的內容。
 
