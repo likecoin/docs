@@ -2,9 +2,15 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 06/20 城寨 x Yolo 街
+
+[城寨 x Yolo 街 - 科技與香港人身份證同行動\(1\)：海外香港人網絡與科技創新](https://twitter.com/bonkat/status/1406443103179837444)
+
 ### 06/17 DeFi Summit
 
-{% embed url="https://youtu.be/4E995anHkRA?t=9121" %}
+{% embed url="https://twitter.com/Defi\_Summit/status/1405593511748059142/photo/1" %}
+
+{% embed url="https://www.youtube.com/watch?v=4E995anHkRA" %}
 
 ### 05/28 DigiFinex - Cryptocurrency Exchange
 

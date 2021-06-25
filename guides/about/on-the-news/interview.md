@@ -2,6 +2,18 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 06/25 REUTERS
+
+[Hong Kong's Apple Daily to live on in blockchain, free of censors](https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-live-blockchain-free-censors-2021-06-24/)
+
+### 06/24 鏈新聞
+
+[香港蘋果日報最終章！支持者利用去中心化平台保護「新聞自由」](https://www.abmedia.io/20210624-using-blockchain-to-preserve-apple-daily)
+
+### 06/24 CNBC
+
+[Hong Kong’s Apple Daily to live on in blockchain, free of censors](https://www.cnbc.com/2021/06/24/hong-kongs-apple-daily-to-live-on-in-blockchain-free-of-censors.html)
+
 ### 05/27 CryptoPotato
 
 [People in Hong Kong Use The Blockchain To Fight Against Media Censorship](https://cryptopotato.com/people-hong-kong-use-blockchain-fight-media-censorship/)
