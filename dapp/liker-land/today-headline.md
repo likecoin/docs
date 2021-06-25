@@ -22,7 +22,7 @@ The default Content Jockeys was managed by the Republic of Liker Land with [Liqu
 * Matters：[hi176-matters](https://like.co/hi176-matters)​
 * LikeCoin Foundation：[foundation](https://like.co/foundation)（Reports, Announcements, Proposals, etc）
 
-## Follow a Content Jockey
+## My Content Jockey: Follow a Content Jockey <a id="my-content-jockey"></a>
 
 Readers can follow their trusted Content Jockeys, you can go to their [Portfolio Page](https://docs.like.co/dapp/creator/portfolio-page) for following them.
 
