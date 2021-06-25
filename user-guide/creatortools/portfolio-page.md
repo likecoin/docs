@@ -16,7 +16,7 @@ The left hand side of the Portfolio Page displays information of the user, inclu
 
 ## Works
 
-If the content creator [Super Liked his/her own works](https://docs.like.co/user-guide/liker-land/superlike), they will be displayed here. Content creators have to be a [Civic Liker](https://docs.like.co/user-guide/civic-liker) to Super Liker their own work and this action cannot earn LikeCoin.
+If the content creator [Super Liked his/her own works](https://docs.like.co/user-guide/liker-land/superlike), they will be displayed here. Content creators have to [be a Civic Liker](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker) to Super Liker their own work and this action cannot earn LikeCoin.
 
 ![](../../.gitbook/assets/portfolio-page-1-en.png)
 
