@@ -4,7 +4,7 @@ description: 如何在 Youtube 創作影片賺取 LikeCoin 成就？
 
 # Youtube
 
-Liker Land Chrome / Brave / Firefox 插件除了可以[為網頁加上書籤儲存於 Liker Land](https://docs.like.co/v/zh/user-guide/reader/reading-list#computer) 留待有空時細閱，更能讓 YouTuber 賺取 LikeCoin，上載影片時一拼完成簡單設定即可。
+Liker Land Chrome / Brave / Firefox 插件除了可以[為網頁加上書籤儲存於 Liker Land](https://docs.like.co/v/zh/user-guide/liker-land/reading-list#computer) 留待有空時細閱，更能讓 YouTuber 賺取 LikeCoin，上載影片時一拼完成簡單設定即可。
 
 執行以下步驟前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
 
