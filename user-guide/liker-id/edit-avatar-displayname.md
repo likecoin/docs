@@ -12,13 +12,13 @@ description: 讓自己的性格更特出
 
 ### 贊助鏈結
 
-{% page-ref page="../creatorbox/sponsor-link.md" %}
+{% page-ref page="../creatortools/sponsor-link.md" %}
 
 ![](../../.gitbook/assets/sponsor-link.png)
 
 ### 個人主頁
 
-{% page-ref page="../creatorbox/portfolio-page.md" %}
+{% page-ref page="../creatortools/portfolio-page.md" %}
 
 ![](../../.gitbook/assets/likerid-avatar.png)
 
