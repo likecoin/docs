@@ -103,6 +103,7 @@
   * [每月創作進度](user-guide/creatortools/monthly-report.md)
 * [社群](user-guide/community/README.md)
   * [LikeCoin Discord](user-guide/community/discord.md)
+  * [Liker.Social](user-guide/community/liker-social.md)
   * [購買產品與服務](user-guide/community/products-and-services.md)
 * [獲得 LikeCoin](user-guide/how-do-i-make-likecoin.md)
 * [發展史](user-guide/background.md)
