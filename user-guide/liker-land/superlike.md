@@ -35,6 +35,10 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 * 可重複給同一篇文章 Super Like。
 * 創作者點擊自己的文章的讚賞鍵可 Super Like 並將作品放置於[個人主頁的作品集](https://docs.like.co/v/zh/user-guide/creatortools/portfolio-page)及「[所有 Content Jockey](https://docs.like.co/v/zh/user-guide/liker-land/today-headline#the-world-has-super-liked)」頁面。
 
+{% hint style="info" %}
+讚賞公民為自己的作品 Super Like 並不會獲得 LikeCoin
+{% endhint %}
+
 ## 怎樣參與
 
 只有[讚賞公民](https://docs.like.co/v/zh/user-guide/civic-liker)可獲每天兩次的 SuperLike 機會。
@@ -56,8 +60,4 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 想回顧曾經 Super Like 過哪些好文章？請到[個人主頁](https://docs.like.co/v/zh/user-guide/creatortools/portfolio-page) https://liker.land/\[你的 Liker ID\] 點擊「已 Super Like 內容」查看，例如你的 Liker ID 是 ckxpress，鏈結便是 https://liker.land/ckxpress。用戶也可以直接輸入網址訪問朋友或名人的個人主頁並追蹤，了解他們的閱讀品味。
 
 ![](../../.gitbook/assets/portfolio-page-2.png)
-
-{% hint style="warning" %}
-讚賞公民為自己的作品 Super Like 並不會獲得 LikeCoin
-{% endhint %}
 
