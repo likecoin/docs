@@ -1,22 +1,8 @@
 ---
-description: How LikeCoin and the community growth?
+description: 'From this glossary, you can learn more about the mechanism of Liker Land'
 ---
 
-# Background
-
-![](../.gitbook/assets/likecoin_ad71_timeline-01.png)
-
-## LikeCoin — Republic of Liker Land
-
-### The new generation of LikeCoin with high-speed, low-cost and liquid democracy
-
-Originally posted on [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6?source=collection_home---4------0-----------------------) on Nov 7, 2019 · 9 min read
-
-
-
-By the time this is published, Genesis block of LikeCoin chain has been produced. If that is not your language, try understand it this way: Republic of Liker Land was established on the cyberspace.
-
-This article introduces the elements and the mechanism of Liker Land, using as little technical jargon as possible. Developers are encouraged to check out our technical documentations or, better yet, our source codes which are open on [GitHub](https://github.com/likecoin).
+# Glossary
 
 ## Basic concepts <a id="448e"></a>
 
