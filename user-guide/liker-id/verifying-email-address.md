@@ -45,7 +45,7 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 所有設定雙重認證的步驟至此完成了。
 
-## 認證電郵地址 <a id="email-authentication"></a>
+## 認證電郵地址 <a id="confirm-your-email-address"></a>
 
 1. 訪問 [https://like.co/in/settings](https://like.co/in/settings) ，在「AuthCore 設定」下點擊「個人檔案」，再點「聯絡方式」，並點擊「電郵」，跳入「管理電郵」的頁面
 
