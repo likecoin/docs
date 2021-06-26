@@ -109,8 +109,8 @@
 * [獲得 LikeCoin](user-guide/how-do-i-make-likecoin.md)
 * [詞彙表](user-guide/background.md)
 
-## 🔬  開發者資源
+## 🔬  開發者資源 <a id="developer-resources"></a>
 
-* [開發者](kai-fa-zhe-zi-yuan/developer.md)
-* [成為驗證人](kai-fa-zhe-zi-yuan/become-a-validator.md)
+* [開發者](developer-resources/developer.md)
+* [成為驗證人](developer-resources/become-a-validator.md)
 
