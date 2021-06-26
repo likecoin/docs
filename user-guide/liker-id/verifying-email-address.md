@@ -6,7 +6,7 @@ description: >-
 
 # Securing my Liker ID
 
-## 2-step Verification \(2FA\) <a id="shuang-zhong-ren-zheng-2fa"></a>
+## 2-step Verification \(2FA\) <a id="2fa"></a>
 
 After setting up 2FA, a 6 digital passcode is required to login from a new device.
 
@@ -52,7 +52,7 @@ Continue from the previous step, the page displaying a QR Code now:
 
 2-step Verification set up is completed.
 
-## Confirm your email address
+## Confirm your email address <a id="confirm-your-email-address"></a>
 
 1. Visit [https://like.co/in/settings](https://like.co/in/settings), select "Profile" on "AuthCore Settings", click "Contact" then click "Email",  going into the "Manage email" page
 
