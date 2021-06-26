@@ -102,7 +102,7 @@
   * [查看讚賞公民支持者清單](user-guide/creatortools/support.md)
   * [每月創作進度](user-guide/creatortools/monthly-report.md)
 * [社群](user-guide/community/README.md)
-  * [Discord](user-guide/community/discord.md)
+  * [LikeCoin Discord](user-guide/community/discord.md)
   * [購買產品與服務](user-guide/community/products-and-services.md)
 * [獲得 LikeCoin](user-guide/how-do-i-make-likecoin.md)
 * [發展史](user-guide/background.md)
