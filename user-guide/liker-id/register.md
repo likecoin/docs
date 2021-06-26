@@ -46,3 +46,7 @@ Once a Liker ID has been created, it cannot be changed.  We suggest you keep it,
 What is [Authcore](https://docs.like.co/user-guide/liker-id/what-is-authcore)?
 {% endhint %}
 
+{% hint style="success" %}
+All LikeCoin referral programs ended on March 8, 2021.
+{% endhint %}
+
