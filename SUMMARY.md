@@ -107,7 +107,7 @@
   * [讚賞車車](user-guide/community/likecoin_leafwind_bot.md)
   * [購買產品與服務](user-guide/community/products-and-services.md)
 * [獲得 LikeCoin](user-guide/how-do-i-make-likecoin.md)
-* [發展史](user-guide/background.md)
+* [詞彙表](user-guide/background.md)
 
 ## 🔬  開發者資源
 

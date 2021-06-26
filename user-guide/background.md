@@ -1,26 +1,12 @@
 ---
-description: LikeCoin 和整個社群怎樣一路走來？
+description: 以下為一些詞彙的解說，助你了解 LikeCoin 機制
 ---
 
-# 發展史
-
-![](../.gitbook/assets/likecoin_ad71_timeline-01.png)
-
-## LikeCoin — 讚賞公民共和國
-
-### 全新 LikeCoin 邁向高速、低成本及流動民主新世代
-
-原文於2019年11月7日刊載於 [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)
-
-
-
-當這篇文章發佈的時候，LikeCoin chain 創世區塊 \( Genesis \) 亦經已誕生。假如你並不明白我們在說甚麼，或者可以嘗試這樣去理解：讚賞公民共和國經已正式成立。
-
-這篇文章經已盡量減少使用專門技術用語去介紹讚賞公民共和國各項原素及機制。歡迎工程師參閱我們的技術文件，或直接檢視我們在 [GitHub](https://github.com/likecoin) 的開放源碼。
+# 詞彙表
 
 ## 基本概念 <a id="448e"></a>
 
-### 讚賞公民共和國 \( Liker Land \) <a id="84f4"></a>
+### 讚賞公民共和國 \( Liker Land \)
 
 或簡稱 [_Liker Land_](https://liker.land/) ，是一個由作者及內容消費者組成，並共同管治的分散式網絡社群。
 
