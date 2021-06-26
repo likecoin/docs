@@ -117,7 +117,7 @@
     * [SteemCN](user-guide/creator/blogging-platforms/steemcn.md)
     * [Wix / Weebly](user-guide/creator/blogging-platforms/wix.md)
     * [Write.as](user-guide/creator/blogging-platforms/write.as.md)
-* [Content Creators](user-guide/creatortools/README.md)
+* [Content Creator Tools](user-guide/creatortools/README.md)
   * [Sponsor Link](user-guide/creatortools/sponsor-link.md)
   * [Creator Pitch](user-guide/creatortools/creators-pitch.md)
   * [Portfolio Page](user-guide/creatortools/portfolio-page.md)
