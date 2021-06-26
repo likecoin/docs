@@ -126,7 +126,9 @@
     * [Cannot get reward?](user-guide/creatortools/rewards/cannot-get-reward.md)
   * [Supporters Summary](user-guide/creatortools/support.md)
   * [Monthly Achievement](user-guide/creatortools/monthly-report.md)
-* [Products and Services](user-guide/products-and-services.md)
+* [Community](user-guide/community/README.md)
+  * [Discord](user-guide/community/discord.md)
+  * [Products and Services](user-guide/community/products-and-services.md)
 * [Making LikeCoin](user-guide/how-do-i-make-likecoin.md)
 * [Background](user-guide/background.md)
 
