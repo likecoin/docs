@@ -25,7 +25,7 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 ![](../../.gitbook/assets/image%20%2815%29.png)
 
-## 如何綁定 Matters 帳號
+## 如何綁定 Matters 帳號 <a id="matters"></a>
 
 用戶需要在 Matters 網站內設置綁定：
 
