@@ -35,8 +35,10 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 * You can Super Like a single article for more than one time.
 * Content creators click on the LikeCoin button of their own article can Super Like and put their article to the ["Works" section in Portfolio Page](https://docs.like.co/user-guide/creatortools/portfolio-page)  and "[The world has Super Liked](https://docs.like.co/user-guide/liker-land/today-headline#the-world-has-super-liked)".
 
-  
+{% hint style="info" %}
+Civic Liker Super Like his/her own work will not earn any LikeCoin.  
 
+{% endhint %}
 
 ## **How to participate?** <a id="zen-yang-can-yu"></a>
 
@@ -49,8 +51,4 @@ Only [Civic Liker](https://docs.like.co/user-guide/civic-liker) can enjoy Super 
 Wanna review all the Super Liked articles? Go to your [Portfolio Page](https://docs.like.co/user-guide/creatortools/portfolio-page) https://liker.land/\[Your Liker ID\] and click "Super Likes" to check them out, if your Liker ID is ckxpress, the link is going to be https://liker.land/ckxpress. Users can also visit friends and celebrities' Portfolio Page and follow them, in order to understand their reading taste.
 
 ![](../../.gitbook/assets/portfolio-page-2-en.png)
-
-{% hint style="warning" %}
-Civic Liker Super Like his/her own work will not earn any LikeCoin.
-{% endhint %}
 
