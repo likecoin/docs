@@ -1,3 +1,7 @@
+---
+description: What is the difference between Civic Liker 1.0 and 2.0?
+---
+
 # Civic Liker 2.0 FAQ
 
 On December 21, 2020 Civic Liker evolved to Civic Liker 2.0. Have questions about the new scheme? Check out the following FAQ.
