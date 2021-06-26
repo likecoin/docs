@@ -129,7 +129,7 @@
 * [Community](user-guide/community/README.md)
   * [LikeCoin Discord](user-guide/community/discord.md)
   * [Liker.Social](user-guide/community/liker-social.md)
-  * [Likecoin Leafwind Lot](user-guide/community/likecoin_leafwind_bot.md)
+  * [Likecoin Leafwind Bot](user-guide/community/likecoin_leafwind_bot.md)
   * [Products and Services](user-guide/community/products-and-services.md)
 * [Making LikeCoin](user-guide/how-do-i-make-likecoin.md)
 * [Background](user-guide/background.md)
