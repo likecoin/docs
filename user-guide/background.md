@@ -135,11 +135,3 @@ In case quorum is not reached or the proposal is vetoed, the 1 mil _LikeCoin_ de
 
 ![](../.gitbook/assets/validator.png)
 
-## Future Development <a id="b575"></a>
-
-With the Genesis of _Liker Land_, _LikeCoin_ ecosystem __is entering a whole new paradigm. Services and governance of _Liker Land_ is designed in a way closely resembling a modern society, with some enhancements. With the governance by liquid democracy in place, every aspect of _Liker Land_ can be improved through proposals of change, including, most fundamentally, the constitution.
-
-As a result, the design and governance of the Republic will no longer be solely in the hands of core development team, who will nonetheless continue to dedicate their time and effort to _LikeCoin._ From now on, _Liker Land_ will be collectively owned and governed by her stakeholders, all _Likers_.
-
-Despite all the exciting development, it is just the Genesis.
-
