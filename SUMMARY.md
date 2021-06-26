@@ -51,7 +51,7 @@
   * [閱讀列表](user-guide/liker-land/reading-list.md)
   * [Like — 化讚為賞](user-guide/liker-land/like.md)
   * [Super Like — 內容伯樂](user-guide/liker-land/superlike.md)
-  * [Liker Land 即時數據](user-guide/liker-land/real-time-statistic.md)
+  * [即時數據](user-guide/liker-land/real-time-statistic.md)
   * [支援網站列表](user-guide/liker-land/list-of-media.md)
 * [Civic Liker 讚賞公民](user-guide/civic-liker/README.md)
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
