@@ -92,7 +92,7 @@
     * [SteemCN](user-guide/creator/blogging-platforms/steemcn.md)
     * [Wix / Weebly](user-guide/creator/blogging-platforms/wix.md)
     * [Write.as](user-guide/creator/blogging-platforms/write.as.md)
-* [我是創作者](user-guide/creatortools/README.md)
+* [創作者工具](user-guide/creatortools/README.md)
   * [贊助鏈結](user-guide/creatortools/sponsor-link.md)
   * [給讀者的話](user-guide/creatortools/creators-pitch.md)
   * [個人主頁](user-guide/creatortools/portfolio-page.md)
