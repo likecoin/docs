@@ -48,3 +48,7 @@ description: Liker ID 要怎樣註冊？
 甚麼是 Authcore：[請參考此條目](https://docs.like.co/v/zh/user-guide/liker-id/what-is-authcore)
 {% endhint %}
 
+{% hint style="success" %}
+所有 LikeCoin 推薦獎賞活動經已於2021年3月8日完結
+{% endhint %}
+
