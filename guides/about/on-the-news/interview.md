@@ -14,6 +14,10 @@
 
 [Queues form for final issue as Apple Daily closes](https://www.businesstimes.com.sg/government-economy/queues-form-for-final-issue-as-apple-daily-closes)
 
+### 06/25 區塊客
+
+[香港《蘋果》停刊、網站熄燈！網友自發備份「上鏈永存」](https://blockcast.it/2021/06/25/cyber-activists-are-backing-up-articles-from-apple-daily-using-blockchain/)
+
 ### 06/25 動區 BlockTempo
 
 [香港蘋果日報停刊，歷年報導被放上區塊鏈：不因為喜歡，因是需要做的事！](https://www.blocktempo.com/apple-daily-news-was-put-on-blockchain/)
