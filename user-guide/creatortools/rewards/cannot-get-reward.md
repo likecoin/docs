@@ -4,7 +4,7 @@ description: Any conditions that I cannot get my reward?
 
 # Cannot get reward?
 
-Civic Liker's monthly budget will always be delivered with likes.  There is no circumstances that the system will hold the fund from releasing.
+Civic Liker's monthly budget will always be delivered accordingly to claps.  There is no circumstances that the system will hold the fund from releasing.
 
 For the Creators fund, however, there are several conditions that the system won't release to one's wallet:
 
