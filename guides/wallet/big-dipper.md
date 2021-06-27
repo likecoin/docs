@@ -12,7 +12,7 @@ Big Dipper 支援使用硬件錢包進行轉帳、委託、轉移委託、領取
 
 ## 如何使用 Big Dipper
 
-在 Liker Land 手機應用程式點擊「我的錢包」，再移動到最底，點擊「在 Big Dipper 查看開放數據」
+在 [Liker Land 手機應用程式](https://liker.land/getapp)點擊「我的錢包」，再移動到最底，點擊「在 Big Dipper 查看開放數據」
 
 ![](../../.gitbook/assets/bigdipper.png)
 
