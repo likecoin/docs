@@ -10,7 +10,7 @@ The [12th Proposal](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHA
 2. Write a self introduction in Matters and use the function \# Add Tag to tag [Validator Intro](https://matters.news/tags/VGFnOjUzMTkw) in their article.
 3. Join [LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) and write an application post in this channel \#community-funds-apply, tell the community what their commission rate is.
 
-Validators are also encouraged to introduce themselves in the LikeCoin community call.
+Validators are also encouraged to introduce themselves in the [LikeCoin community call](https://docs.like.co/community-call).
 
 Validators' application for community fund cut off day is on the 15th of each month, at 1200 UTC+8. The 7 approvers elected by community consensus will then process the application in batch and make a decision by the 21st of each month, 1200 UTC+8. 5 Validators have to get at least 5 Aye to receive the delegation.
 
