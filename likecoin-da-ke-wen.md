@@ -6,17 +6,17 @@ description: LikeCoin 常見問題
 
 ![](.gitbook/assets/likecoin_ad27_small_update-01.png)
 
-## [LikeCoin - 去中心出版](https://docs.like.co/v/zh/)
+## [LikeCoin - 去中心出版](./)
 
-* [什麼是去中心出版 \#DePub？](https://docs.like.co/v/zh/user-guide/about/qu-zhong-xin-chu-ban)
-* [ISCN 是什麼？](https://docs.like.co/v/zh/user-guide/about/shen-me-shi-iscn)
-* [ISCN 和 IPFS 的關係是什麼？](https://docs.like.co/v/zh/user-guide/about/iscn-he-ipfs-de-guan-xi-shi-shen-me)
-* [ISCN 的分散特性對內容生態有什麼好處？ ](https://docs.like.co/v/zh/user-guide/about/iscn-de-qu-zhong-xin-te-xing-dui-nei-rong-sheng-tai-you-shen-me-hao-chu)
-* [註冊 ISCN 要費用嗎？](https://docs.like.co/v/zh/user-guide/about/shen-me-shi-iscn)
-* [ISCN 記錄是永遠的嗎？](https://docs.like.co/v/zh/user-guide/about/iscn-de-qu-zhong-xin-te-xing-dui-nei-rong-sheng-tai-you-shen-me-hao-chu) 
-* [若內容更新了怎麼辦？ISCN 支援內容版本嗎？ ](https://docs.like.co/v/zh/user-guide/about/shen-me-shi-iscn)
-* [ISCN 記錄的內容只支援 IPFS 上的檔案嗎？](https://docs.like.co/v/zh/user-guide/about/iscn-he-ipfs-de-guan-xi-shi-shen-me) 
-* [ISCN 支援什麼內容格式？](https://docs.like.co/v/zh/user-guide/about/zhu-ce-iscn-xu-yao-fei-yong-ma)
+* [什麼是去中心出版 \#DePub？](./)
+* [ISCN 是甚麼？](guides/decentralized-publishing/what-is-iscn.md)
+* [ISCN 和 IPFS 的關係是甚麼？](guides/decentralized-publishing/iscn-ipfs-relationship.md)
+* [ISCN 的分散特性對內容生態有什麼好處？ ](guides/decentralized-publishing/benefits.md)
+* [註冊 ISCN 要費用嗎？](guides/decentralized-publishing/what-is-iscn.md)
+* [ISCN 記錄是永遠的嗎？](guides/decentralized-publishing/benefits.md) 
+* [若內容更新了怎麼辦？ISCN 支援內容版本嗎？ ](guides/decentralized-publishing/what-is-iscn.md)
+* [ISCN 記錄的內容只支援 IPFS 上的檔案嗎？ ](guides/decentralized-publishing/iscn-ipfs-relationship.md)
+* [ISCN 支援什麼內容格式？](guides/decentralized-publishing/content-type.md)
 
 ## LikeCoin 項目和社群
 
@@ -34,6 +34,7 @@ description: LikeCoin 常見問題
 * 有沒有去中心化的錢包可以提供？
 * LikeCoin 支授硬件錢包嗎？
 * 操作 LikeCoin 需要手續費嗎？
+* LikeCoin 有區塊鏈瀏覽器嗎？
 
 ## 交易
 
@@ -50,9 +51,11 @@ description: LikeCoin 常見問題
 * [所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/user-guide/liquid-democracy)
 * LikeCoin chain 是甚麼？
 * 甚麼是驗證人？
+* 如何成為驗證人？
+* 驗證人如何獲得社群基金的委託？
 * [讚賞公民共和國有過甚麼議案？](https://docs.like.co/v/zh/about/governance/proposals)
-* LikeCoin Grants 計畫又是？
-* [我對 LikeCoin 的發展有意見，可以怎樣表達？](https://docs.like.co/v/zh/about/governance/community-call)
+* LikeCoin Grants 計畫又是甚麼？
+* [我對 LikeCoin 的發展有意見，如何參與社群會議？](https://docs.like.co/v/zh/about/governance/community-call)
 
 ## 去中心應用
 
