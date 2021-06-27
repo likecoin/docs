@@ -98,6 +98,7 @@ description: LikeCoin 常見問題
 
 ### [社群](user-guide/community/)
 
+* [如何聯系 LikeCoin 社群？](user-guide/community/discord.md)
 * [LikeCoin 社群衍生出甚麼項目？](user-guide/community/liker-social.md)
 * [LikeCoin 可以直接作為購買產品之用嗎？](user-guide/community/products-and-services.md)
 
