@@ -30,3 +30,7 @@ The validator who performs its duty, and has the most of the delegated LikeCoin 
 
 Validator does not perform its duty or "Jailed",  or doesn't have sufficient amount of LikeCoin delegation and is outnumbered by the active validators, governed by the constitution.
 
+## Become a validator
+
+{% page-ref page="../../../become-a-validator.md" %}
+
