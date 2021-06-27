@@ -62,40 +62,40 @@ description: Frequently Asked Questions
 
 ### [I am a Reader](user-guide/liker-land/#for-readers)
 
-* Facebook has more than enough news, why do I have to use Liker Land? 
-* [What can I read on the Liker Land app?](https://docs.like.co/user-guide/reader/today-headline)
-* [Browsing and reading is good enough for me, why a Reading List?](https://docs.like.co/user-guide/reader/readling-list)
-* [What is "Reinventing the Like"?](https://docs.like.co/user-guide/reader/readling-list)
-* [How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](https://docs.like.co/user-guide/reader/like)
-* [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](https://docs.like.co/user-guide/reader/superlike)
+* [Facebook has more than enough news, why do I have to use Liker Land? ](user-guide/liker-land/#for-readers)
+* [What can I read on the Liker Land app?](user-guide/liker-land/today-headline.md)
+* [Browsing and reading is good enough for me, why a Reading List?](user-guide/liker-land/readling-list.md)
+* [What is "Reinventing the Like"? How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](user-guide/liker-land/like.md)
+* [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](user-guide/liker-land/superlike.md)
 
-### \*\*\*\*[**​I am a Content Creator**](https://docs.like.co/user-guide/creator)
+### \*\*\*\*[**​I am a Content Creator**](user-guide/liker-land/#for-content-creators)
 
-* [ I am a content creator, how can LikeCoin help me?](https://docs.like.co/user-guide/creator)
-* [How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](https://docs.like.co/user-guide/reader/like)
-* [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](https://docs.like.co/user-guide/reader/superlike)
-* [How can people sponsor me?](https://docs.like.co/user-guide/creator/sponsor-link)
-* [How to attract more sponsors?](https://docs.like.co/user-guide/creator/creators-pitch)
-* [Portfolio Page helps to display all of my works? How to use it?  ](https://docs.like.co/user-guide/creator/portfolio-page)
-* [What are the functions of the LikeCoin button?](https://docs.like.co/user-guide/creator/likecoin-button)
-* [Earn LikeCoin on YouTube？Wow!](https://docs.like.co/user-guide/creator/youtube)
-* [How to embed LikeCoin button into a self-hosted WordPress?](https://docs.like.co/user-guide/creator/wordpress)
-* [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](https://docs.like.co/user-guide/creator/blogging-platforms)
-* [How to check my daily and weekly rewards?](https://docs.like.co/user-guide/creator/rewards)
-* [How to check my monthly achievement?](https://docs.like.co/user-guide/creator/monthly-report)
+* [I am a content creator, how can LikeCoin help me?](user-guide/liker-land/#for-content-creators)
+* [How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](user-guide/liker-land/like.md)
+* [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](user-guide/liker-land/superlike.md)
+* [What are the functions of the LikeCoin button?](user-guide/creator/)
+* [Earn LikeCoin on YouTube？Wow!](user-guide/creator/youtube.md)
+* [How to embed LikeCoin button into a self-hosted WordPress?](user-guide/creator/wordpress.md)
+* [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](user-guide/creator/blogging-platforms/)
+* [How can people sponsor me?](user-guide/creatortools/sponsor-link.md)
+* [How to attract more sponsors?](user-guide/creatortools/creators-pitch.md)
+* [Portfolio Page helps to display all of my works? How to use it?  ](user-guide/creatortools/portfolio-page.md)
+* [How to check my daily and weekly rewards?](user-guide/creatortools/rewards/)
+* [How to check the number of Civic Likers that support me?](user-guide/creatortools/support.md)
+* [How to check my monthly achievement?](user-guide/creatortools/monthly-report.md)
 
 ## ​[Civic Liker](https://docs.like.co/user-guide/civic-liker)​ <a id="civic-liker"></a>
 
-* [Why should I become a Civic Liker? Any benefits?](https://docs.like.co/user-guide/civic-liker)
-* [How to be a Civic Liker?  ](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker)
-* [How to change credit card information?](https://docs.like.co/user-guide/civic-liker/change-credit-card)
-* [How to unsubscribe Civic Liker?](https://docs.like.co/user-guide/civic-liker/unsubscribe-civic-liker)
+* [Why should I become a Civic Liker? Any benefits?](user-guide/civic-liker/)
+* [How to be a Civic Liker?  ](user-guide/civic-liker/be-a-civic-liker.md)
+* [How to change credit card information?](user-guide/civic-liker/change-credit-card.md)
+* [How to unsubscribe Civic Liker?](user-guide/civic-liker/unsubscribe-civic-liker.md)
 
 ## ​[Liker ID](https://docs.like.co/user-guide/liker-id)​ <a id="liker-id"></a>
 
-* [How to register a Liker ID?](https://docs.like.co/user-guide/liker-id/register)
-* [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](https://docs.like.co/user-guide/liker-id/reset-password)
-* [What is Authcore?](https://docs.like.co/user-guide/liker-id/what-is-authcore)
+* [How to register a Liker ID?](user-guide/liker-id/register.md)
+* [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](user-guide/liker-id/reset-password.md)
+* [What is Authcore?](user-guide/liker-id/what-is-authcore.md)
 
 
 
