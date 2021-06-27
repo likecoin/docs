@@ -8,7 +8,7 @@ description: 有甚麼條件？
 
 {% page-ref page="../guides/governance/" %}
 
-關於 LikeCoin chain 驗證人設定，請參考 [LikeCoin chain node](https://docs.like.co/likecoin-chain-node) 。
+關於 LikeCoin chain 驗證人設定，請參考 [Validator Technical Introduction](https://docs.like.co/validator-technical-introduction) 及 [LikeCoin chain node](https://docs.like.co/likecoin-chain-node)。
 
 如有疑問可加入 [LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) \#開發者交流 頻道獲得得協助。[](https://daisymarisfung.gitbook.io/likecoincollection/newbie-village/validator)
 
