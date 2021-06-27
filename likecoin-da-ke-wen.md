@@ -61,7 +61,7 @@ description: LikeCoin 常見問題
 
 ### [我是讀者](user-guide/liker-land/#du-zhe-xiang)
 
-* [Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？](https://docs.like.co/v/zh/user-guide/reader#nei-rong-bo-lao)
+* [Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？](user-guide/liker-land/today-headline.md#bu-shi-liu-lan-er-shi-yue-du)
 * [下載了 Liker Land 手機應用程式可以看到些甚麼？](https://docs.like.co/v/zh/user-guide/reader/today-headline)
 * [我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](https://docs.like.co/v/zh/user-guide/reader/reading-list)
 * [甚麼是「化讚為賞」？](https://docs.like.co/v/zh/user-guide/reader/like)

@@ -4,7 +4,7 @@ description: 人工挑選內容那麼古早，為甚麼不靠 AI 策展就好？
 
 # 我的 Content Jockey
 
-## 不是瀏覽，而是閱讀
+## 不是瀏覽，而是閱讀 <a id="not-browsing-but-reading"></a>
 
 打開 Liker Land 手機應用程式再點擊底下的「星星」圖示，即可看到「我的 Content Jockey」，就像以往的報紙，每天選出有限的、重要的新聞。
 
