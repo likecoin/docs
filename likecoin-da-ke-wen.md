@@ -16,7 +16,7 @@ description: LikeCoin 常見問題
 * [ISCN 記錄是永遠的嗎？](guides/decentralized-publishing/benefits.md) 
 * [若內容更新了怎麼辦？ISCN 支援內容版本嗎？ ](guides/decentralized-publishing/what-is-iscn.md)
 * [ISCN 記錄的內容只支援 IPFS 上的檔案嗎？ ](guides/decentralized-publishing/iscn-ipfs-relationship.md)
-* [ISCN 支援什麼內容格式？](guides/decentralized-publishing/content-type.md)
+* [ISCN 支援甚麼內容格式？](guides/decentralized-publishing/content-type.md)
 
 ## [LikeCoin 項目和社群](guides/about/)
 
