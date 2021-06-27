@@ -32,7 +32,7 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 
 每個[按讚](https://docs.like.co/v/zh/user-guide/liker-land/like)都會成為對創作者的實質鼓勵。
 
-## 創作者向
+## 創作者向 <a id="for-content-creators"></a>
 
 作為去中心出版基礎建設，LikeCoin 為作者提供去中心註冊、去中心讚賞和去中心策展三大功能。
 
