@@ -61,43 +61,43 @@ description: LikeCoin 常見問題
 
 ### [我是讀者](user-guide/liker-land/#du-zhe-xiang)
 
-* [Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？](user-guide/liker-land/today-headline.md#bu-shi-liu-lan-er-shi-yue-du)
-* [下載了 Liker Land 手機應用程式可以看到些甚麼？](https://docs.like.co/v/zh/user-guide/reader/today-headline)
-* [我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](https://docs.like.co/v/zh/user-guide/reader/reading-list)
-* [甚麼是「化讚為賞」？](https://docs.like.co/v/zh/user-guide/reader/like)
-* [「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)
-* [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](https://docs.like.co/v/zh/user-guide/reader/superlike)
+* [Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？](user-guide/liker-land/#du-zhe-xiang)
+* [下載了 Liker Land 手機應用程式可以看到些甚麼？](user-guide/liker-land/today-headline.md#not-browsing-but-reading)
+* [我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](user-guide/liker-land/reading-list.md)
+* [甚麼是「化讚為賞」？「化讚為賞」的去中心讚賞如何運作？錢從何來？](user-guide/liker-land/like.md)
+* [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](user-guide/liker-land/superlike.md)
 
 ### [我是創作者](user-guide/liker-land/#for-content-creators)
 
-* [我是作者，LikeCoin 可以幫到我甚麼？](https://docs.like.co/v/zh/user-guide/content-creators)
-* [「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)
-* [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](https://docs.like.co/v/zh/user-guide/reader/superlike)
-* [別人可透過甚麼方法贊助我？](https://docs.like.co/v/zh/user-guide/creator/sponsor-link)
-* [如何吸引更多人贊助我？](https://docs.like.co/v/zh/user-guide/creator/creators-pitch)
-* [個人主頁可以怎樣幫助我展示自己的作品？](https://docs.like.co/v/zh/user-guide/creator/portfolio-page)
-* [LikeCoin button 讚賞鍵有甚麼功能？](https://docs.like.co/v/zh/user-guide/content-creators/likecoin-button)\*\*\*\*
-* [在 YouTube 也可以按讚？要怎樣做呢？](https://docs.like.co/v/zh/user-guide/creator/youtube)
-* [如何在自架 WordPress 加入 LikeCoin button？](https://docs.like.co/v/zh/user-guide/creator/wordpress)
-* [我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](https://docs.like.co/v/zh/user-guide/creator/blogging-platforms)
-* [如何查看每週、每天、每篇文章所獲得的讚賞收益？](https://docs.like.co/v/zh/user-guide/creator/rewards)
-* [如何查看每月創作進度？  ](https://docs.like.co/v/zh/user-guide/creator/monthly-report)
+* [我是作者，LikeCoin 可以幫到我甚麼？](user-guide/liker-land/#for-content-creators)
+* [「化讚為賞」的去中心讚賞如何運作？錢從何來？](user-guide/liker-land/like.md)
+* [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](user-guide/liker-land/superlike.md)
+* [LikeCoin button 讚賞鍵有甚麼功能？](user-guide/creator/)
+* [在 YouTube 也可以按讚？要怎樣做呢？](user-guide/creator/youtube.md)
+* [如何在自架 WordPress 加入 LikeCoin button？](user-guide/creator/wordpress.md)
+* [我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](user-guide/creator/blogging-platforms/)
+* [別人可透過甚麼方法贊助我？](user-guide/creatortools/sponsor-link.md)
+* [如何吸引更多人贊助我？](user-guide/creatortools/creators-pitch.md)
+* [個人主頁可以怎樣幫助我展示自己的作品？](user-guide/creatortools/portfolio-page.md)
+* [如何查看每週、每天、每篇文章所獲得的讚賞收益？](user-guide/creatortools/rewards/)
+* [如何查看有多少讚賞公民支持我？](user-guide/creatortools/support.md)
+* [如何查看每月創作進度？](user-guide/creatortools/monthly-report.md)
 
-### [Civic Liker](https://docs.like.co/v/zh/user-guide/civic-liker)
+### [Civic Liker](user-guide/civic-liker/)
 
-* [為何要成為讚賞公民？有甚麼福利嗎？](https://docs.like.co/v/zh/user-guide/civic-liker/rationale-and-benefits)
-* [如何訂閱讚賞公民？](https://docs.like.co/v/zh/user-guide/civic-liker/be-a-civic-liker)
-* [如何修改付款信用卡資料？](https://docs.like.co/v/zh/user-guide/civic-liker/change-credit-card)
-* [如何退訂「讚賞公民」？](https://docs.like.co/v/zh/user-guide/civic-liker/unsubscribe-civic-liker)
+* [為何要成為讚賞公民？有甚麼福利嗎？](user-guide/civic-liker/rationale-and-benefits.md)
+* [如何訂閱讚賞公民？](user-guide/civic-liker/be-a-civic-liker.md)
+* [如何修改付款信用卡資料？](user-guide/civic-liker/change-credit-card.md)
+* [如何退訂「讚賞公民」？](user-guide/civic-liker/unsubscribe-civic-liker.md)
 
-### [Liker ID](https://docs.like.co/v/zh/user-guide/liker-id)
+### [Liker ID](user-guide/liker-id/)
 
-* [Liker ID 要怎樣註冊](https://docs.like.co/v/zh/user-guide/liker-id/register)[？](https://docs.like.co/v/zh/user-guide/liker-id/reset-password)
-* [無法以社交帳號登入 Liker ID，怎麼辦？不知何解無法登入嗎？試試重設密碼吧！](https://docs.like.co/v/zh/user-guide/liker-id/reset-password)
-* [甚麼是 Authcore？](https://docs.like.co/v/zh/user-guide/liker-id/what-is-authcore)
+* [Liker ID 要怎樣註冊？](user-guide/liker-id/register.md)
+* [無法以社交帳號登入 Liker ID，怎麼辦？不知何解無法登入嗎？試試重設密碼吧！](user-guide/liker-id/reset-password.md)
+* [甚麼是 Authcore？](user-guide/liker-id/what-is-authcore.md)
 
-### 社群
+### [社群](user-guide/community/)
 
-* LikeCoin 社群衍生出甚麼項目？
-* [LikeCoin 可以直接作為購買產品之用嗎？](https://docs.like.co/v/zh/user-guide/likecoin-token/products-and-services)
+* [LikeCoin 社群衍生出甚麼項目？](user-guide/community/liker-social.md)
+* [LikeCoin 可以直接作為購買產品之用嗎？](user-guide/community/products-and-services.md)
 
