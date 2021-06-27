@@ -26,7 +26,7 @@ LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) �
 * \*\*\*\*[**Twitter**](https://twitter.com/likecoin)：公告
 * \*\*\*\*[**GitHub**](https://github.com/likecoin)：開放代碼
 * **Facebook**：[粉專](https://www.facebook.com/Liker.Land/)（一般公告）；[社團](https://www.facebook.com/groups/likecoin)（作者分享）；中文
-* [Reddit](https://www.reddit.com/r/LikeCoin/)： 🆕 
+* [**Reddit**](https://www.reddit.com/r/LikeCoin/)： 🆕 
 
 ## 聯繫我們 <a id="contact-us"></a>
 

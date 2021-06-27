@@ -19,6 +19,7 @@
   * [LIKE pay](guides/wallet/like-pay.md)
   * [Keplr](guides/wallet/keplr.md)
   * [Ledger](guides/wallet/hardware-wallet.md)
+  * [Big Dipper](guides/wallet/big-dipper.md)
   * [交易手續費](guides/wallet/transaction-fee.md)
   * [由 ERC-20 升級](guides/wallet/migration/README.md)
     * [升級 LikeCoin 到 LikeCoin chain](guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
@@ -39,7 +40,6 @@
   * [LikeCoin chain](guides/governance/likecoin-chain.md)
   * [驗證人](guides/governance/what-is-a-validator/README.md)
     * [生態池社群基金](guides/governance/what-is-a-validator/community-funds.md)
-  * [北斗 Big Dipper](guides/governance/big-dipper.md)
   * [歷史議案](guides/governance/proposals.md)
   * [LikeCoin Grants 計畫](guides/governance/likecoin-grants.md)
 
