@@ -1,3 +1,7 @@
+---
+description: 驗證人可如何獲得委託？
+---
+
 # 生態池社群基金
 
 讚賞公民共和國[第 12 議案](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHAN5XbPEY/)於2021年6月2日通過，此議案旨在進一步釐清[第 9 議案](https://matters.news/@guanyun/towards-a-republic-of-liker-land-the-9th-proposal-bafyreicn5r4jqcz267ksdcj3rjmxvkykwsrrw4q72as6j7k7k267k4xy24)對委託生態池 LikeCoin 予驗證人的要求。此後驗證人要獲得生態池的 LikeCoin 委託，必須：

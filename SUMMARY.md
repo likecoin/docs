@@ -106,11 +106,10 @@
   * [Liker.Social](user-guide/community/liker-social.md)
   * [讚賞車車](user-guide/community/likecoin_leafwind_bot.md)
   * [購買產品與服務](user-guide/community/products-and-services.md)
-* [獲得 LikeCoin](user-guide/how-do-i-make-likecoin.md)
 * [詞彙表](user-guide/background.md)
 
 ## 🔬  開發者資源 <a id="developer-resources"></a>
 
-* [開發者](developer-resources/developer.md)
 * [成為驗證人](developer-resources/become-a-validator.md)
+* [開發者](developer-resources/developer.md)
 
