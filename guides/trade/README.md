@@ -15,6 +15,8 @@ description: 支援 LikeCoin 的交易所
 
 轉帳 LikeCoin 到交易所須使用支援 LikeCoin 的[錢包](https://docs.like.co/v/zh/guides/wallet)。
 
+你也可能對以下條目有興趣：
+
 {% page-ref page="../../user-guide/community/products-and-services.md" %}
 
 
