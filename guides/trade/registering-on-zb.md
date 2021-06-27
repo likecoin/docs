@@ -8,6 +8,10 @@ Buy and Sell LikeCoin on ZB requires an account, please go to [ZB website](https
 
 
 
+Switch to English on top right hand corner
+
+![](../../.gitbook/assets/zb-english.png)
+
 ### Step 1: Confirm password and email or mobile phone number
 
 On the right hand corner of the website, click "Register"
