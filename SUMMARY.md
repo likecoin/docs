@@ -2,6 +2,7 @@
 
 * [LikeCoin - 去中心出版](README.md)
 * [社群治理會議](community-call.md)
+* [LikeCoin 答客問](likecoin-da-ke-wen.md)
 
 ## 📙  指南 <a id="guides"></a>
 
@@ -41,7 +42,6 @@
   * [北斗 Big Dipper](guides/governance/big-dipper.md)
   * [歷史議案](guides/governance/proposals.md)
   * [LikeCoin Grants 計畫](guides/governance/likecoin-grants.md)
-* [LikeCoin 答客問](guides/likecoin-da-ke-wen.md)
 
 ## 💻  去中心應用 <a id="user-guide"></a>
 

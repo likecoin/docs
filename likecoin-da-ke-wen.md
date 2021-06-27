@@ -4,7 +4,7 @@ description: LikeCoin 常見問題
 
 # LikeCoin 答客問
 
-![](../.gitbook/assets/likecoin_ad27_small_update-01.png)
+![](.gitbook/assets/likecoin_ad27_small_update-01.png)
 
 ## [LikeCoin - 去中心出版](https://docs.like.co/v/zh/user-guide/about#likecoin)
 
