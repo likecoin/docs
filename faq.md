@@ -6,9 +6,9 @@ description: Frequently Asked Questions
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGKCas6shf9dDCwB3j%2F-MHGMnmjM4yyGSTVqz7T%2FLikeCoin_AD27_Small_Update-01.png?alt=media&token=a3cb3c10-3742-4ef9-b99a-3e05e2f82a11)
 
-## [​LikeCoin, Republic of Liker Land](https://docs.like.co/user-guide/about) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+## [​LikeCoin, Republic of Liker Land](./) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
-* [​What is LikeCoin?](https://docs.like.co/user-guide/about#likecoin)
+* [​What is LikeCoin?](./)
 * ​[How about the Republic of Liker Land?](https://docs.like.co/user-guide/about#republic-of-liker-land)
 * ​[Seems interesting, how to follow updates on LikeCoin?](https://docs.like.co/user-guide/about#more-about-likecoin)
 * [​I couldn't find the answers in the Docs, is there a way that I can contact customer service?](https://docs.like.co/user-guide/about#contact-us)

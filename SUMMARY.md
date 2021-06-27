@@ -1,6 +1,7 @@
 # Table of contents
 
 * [LikeCoin - Decentralized Publishing](README.md)
+* [LikeCoin FAQ](faq.md)
 * [Community Calls](community-call.md)
 
 ## 📙 Guides
@@ -66,7 +67,6 @@
     * [Community Funds Application](guides/governance/what-is-a-validator/community-funds-application.md)
   * [Proposals](guides/governance/proposals.md)
   * [LikeCoin Grants Program](guides/governance/likecoin-grants.md)
-* [LikeCoin FAQ](guides/faq.md)
 
 ## 💻  DApp <a id="user-guide"></a>
 
