@@ -1,4 +1,4 @@
-# What's the point of decentralization to the content ecosystem
+# What's the point of decentralization to the content ecosystem?
 
 Decentralized Publishing has the follow features so that the content will be perpetuated and distributed on the internet:
 
