@@ -6,9 +6,8 @@ description: LikeCoin 常見問題
 
 ![](.gitbook/assets/likecoin_ad27_small_update-01.png)
 
-## [LikeCoin - 去中心出版](https://docs.like.co/v/zh/user-guide/about#likecoin)
+## [LikeCoin - 去中心出版](https://docs.like.co/v/zh/)
 
-* [LikeCoin 是甚麼？](https://docs.like.co/v/zh/user-guide/about#likecoin)
 * [什麼是去中心出版 \#DePub？](https://docs.like.co/v/zh/user-guide/about/qu-zhong-xin-chu-ban)
 * [ISCN 是什麼？](https://docs.like.co/v/zh/user-guide/about/shen-me-shi-iscn)
 * [ISCN 和 IPFS 的關係是什麼？](https://docs.like.co/v/zh/user-guide/about/iscn-he-ipfs-de-guan-xi-shi-shen-me)
@@ -21,12 +20,26 @@ description: LikeCoin 常見問題
 
 ## LikeCoin 項目和社群
 
-* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://docs.like.co/v/zh/user-guide/about#contact-us)
-* [LikeCoin 最近有些甚麼動向？](https://docs.like.co/v/zh/user-guide/about/updates)
-* [支援 LikeCoin 的網站都有哪些？我想加入，要申請麼？](https://docs.like.co/v/zh/user-guide/about/list-of-media)
-* [對於 LikeCoin，媒體怎麼說？](https://docs.like.co/v/zh/user-guide/about/on-the-news)
-* [LikeCoin 和整個社群怎樣一路走來？](https://docs.like.co/v/zh/user-guide/about/background)
+* [LikeCoin 是甚麼？](https://docs.like.co/v/zh/)
+* 營運表現如何？
+* 在那兒可參看最新工作進展？
+* 有媒體報導可以參詳嗎？
 * [LikeCoin 有提供品牌形象指引和相關素材下載麼？](https://docs.like.co/v/zh/user-guide/about/presskit)
+* 項目好像挺有趣的，怎樣聯絡 LikeCoin 和關注最新動向？
+* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://docs.like.co/v/zh/user-guide/about#contact-us)
+
+錢包
+
+
+
+* * [LikeCoin 可以直接作為購買產品之用嗎？](https://docs.like.co/v/zh/user-guide/likecoin-token/products-and-services)
+* [如何兌換 LikeCoin 為其他密碼貨幣或法定貨幣？](https://docs.like.co/v/zh/user-guide/likecoin-token/how-to-buy-and-sell-likecoin)
+
+
+
+
+
+* [支援 LikeCoin 的網站都有哪些？我想加入，要申請麼？](https://docs.like.co/v/zh/user-guide/about/list-of-media)
 
 ## [我是讀者](https://docs.like.co/v/zh/user-guide/reader)
 
@@ -67,10 +80,7 @@ description: LikeCoin 常見問題
 
 ## [LikeCoin 交易](https://docs.like.co/v/zh/user-guide/likecoin-token)
 
-* [怎樣轉帳 LikeCoin 予其他人？](https://docs.like.co/v/zh/user-guide/likecoin-token/like-pay)
-* [LikeCoin 可以直接作為購買產品之用嗎？](https://docs.like.co/v/zh/user-guide/likecoin-token/products-and-services)
-* [如何兌換 LikeCoin 為其他密碼貨幣或法定貨幣？](https://docs.like.co/v/zh/user-guide/likecoin-token/how-to-buy-and-sell-likecoin)
-
+* 
 ## [流動民主](https://docs.like.co/v/zh/user-guide/liquid-democracy)
 
 * [所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/user-guide/liquid-democracy)
