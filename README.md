@@ -26,7 +26,7 @@ The core component of LikeCoin is [LikeCoin chain](https://likecoin.bigdipper.li
 * \*\*\*\*[**Matters**](https://matters.news/tags/VGFnOjgwOTQ) [**\#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) : Governance, Progress Update, Products; in Chinese
 * \*\*\*\*[**GitHub**](https://github.com/likecoin) : ****Open Source
 * **Facebook**：[Page](https://www.facebook.com/Liker.Land/) \( Announcement \); [Group](https://www.facebook.com/groups/likecoin) \( Creators' sharing \); in Chinese
-* [Reddit](https://www.reddit.com/r/LikeCoin/)： 🆕 
+* [**Reddit**](https://www.reddit.com/r/LikeCoin/)： 🆕 
 
 ## Contact Us
 
