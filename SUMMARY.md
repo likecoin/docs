@@ -55,6 +55,7 @@
   * [Trade in Liquid](guides/trade/trade-in-liquid.md)
   * [Registering on DigiFinex](guides/trade/registering-on-digifinex.md)
   * [Trade in DigiFinex](guides/trade/trade-in-digifinex.md)
+  * [Registering on ZB](guides/trade/registering-on-zb.md)
   * [Register and Trade in MyEthShop](guides/trade/registering-and-trade-in-myethshop.md)
 * [Stake](guides/stake/README.md)
   * [Delegation of LikeCoin](guides/stake/delegation-of-likecoin.md)

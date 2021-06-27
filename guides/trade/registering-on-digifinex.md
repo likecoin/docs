@@ -4,7 +4,7 @@ description: How to register on DigiFinex Exchange
 
 # Registering on DigiFinex
 
-Buy and Sell LikeCoin in DigiFinex requires an account, please go to [DigiFinex website](https://www.digifinex.com/zh-cn/?ts=1597115837) and follow these steps to register a account:
+Buy and Sell LikeCoin on DigiFinex requires an account, please go to [DigiFinex website](https://www.digifinex.com/zh-cn/?ts=1597115837) and follow these steps to register a account:
 
 
 
