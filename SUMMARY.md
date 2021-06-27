@@ -40,6 +40,7 @@
   * [What is the relationship between ISCN and IPFS?](guides/decentralized-publishing/iscn-ipfs-relationship.md)
   * [What's the point of decentralization to the content ecosystem](guides/decentralized-publishing/benefits.md)
   * [What type of content is supported by ISCN?](guides/decentralized-publishing/content-type.md)
+* [LikeCoin Token](guides/likecoin-token.md)
 * [Wallet](guides/wallet/README.md)
   * [LIKE pay](guides/wallet/like-pay.md)
   * [Keplr](guides/wallet/keplr.md)
