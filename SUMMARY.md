@@ -1,7 +1,7 @@
 # Table of contents
 
 * [LikeCoin - 去中心出版](README.md)
-* [LikeCoin 答客問](likecoin-da-ke-wen.md)
+* [LikeCoin 答客問](faq.md)
 * [社群治理會議](community-call.md)
 
 ## 📙  指南 <a id="guides"></a>
