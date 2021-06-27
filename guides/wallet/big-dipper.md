@@ -16,7 +16,7 @@ Big Dipper 支援使用硬件錢包進行轉帳、委託、轉移委託、領取
 
 ![](../../.gitbook/assets/bigdipper.png)
 
-瀏覽器彈出 Big Dipper 介面。你也可以使用複製（紅圈）功能記下 Cosmos 錢包地址，再於桌機輸入地址（紅箭嘴）瀏覽錢包明細。
+瀏覽器彈出 Big Dipper 介面。你也可以使用複製（紅圈）功能記下你 Liker ID 對應的 Cosmos 錢包地址，再於桌機輸入地址（紅箭嘴）瀏覽錢包明細。
 
 ![](../../.gitbook/assets/bigdipper-01.png)
 
