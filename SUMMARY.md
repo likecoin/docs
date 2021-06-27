@@ -132,7 +132,6 @@
   * [Likecoin Leafwind Bot](user-guide/community/likecoin_leafwind_bot.md)
   * [Products and Services](user-guide/community/products-and-services.md)
 * [Glossary](user-guide/background.md)
-* [Making LikeCoin](user-guide/how-do-i-make-likecoin.md)
 
 ## 👥 Validator Guide <a id="validator"></a>
 

@@ -1,3 +1,7 @@
+---
+description: What is the requirement?
+---
+
 # Become a validator
 
 Validator is completely open, no entry requirement, anyone who can build a server can be a validator.
