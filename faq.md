@@ -100,6 +100,6 @@ description: Frequently Asked Questions
 ## [Community](user-guide/community/)
 
 * [How to mingle with the LikeCoin community?](user-guide/community/discord.md)
-* What are the projects derived from the LikeCoin community?
+* [What are the projects derived from the LikeCoin by the community?](user-guide/community/derived-projects/)
 * [Can I buy products or services with LikeCoin?](user-guide/community/products-and-services.md)
 
