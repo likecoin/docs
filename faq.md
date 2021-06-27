@@ -103,3 +103,7 @@ description: Frequently Asked Questions
 * [What are the projects derived from the LikeCoin by the community?](user-guide/community/derived-projects/)
 * [Can I buy products or services with LikeCoin?](user-guide/community/products-and-services.md)
 
+You may also want to check out:
+
+{% page-ref page="user-guide/background.md" %}
+
