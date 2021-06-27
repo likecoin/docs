@@ -18,7 +18,7 @@ description: LikeCoin 常見問題
 * [ISCN 記錄的內容只支援 IPFS 上的檔案嗎？ ](guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [ISCN 支援甚麼內容格式？](guides/decentralized-publishing/content-type.md)
 
-## [LikeCoin 項](guides/about/)
+## [LikeCoin 項目概覽](guides/about/)
 
 * [LikeCoin 是甚麼？](./)
 * 營運表現如何？
