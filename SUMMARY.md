@@ -129,8 +129,9 @@
   * [Monthly Achievement](user-guide/creatortools/monthly-report.md)
 * [Community](user-guide/community/README.md)
   * [LikeCoin Discord](user-guide/community/discord.md)
-  * [Liker.Social](user-guide/community/liker-social.md)
-  * [Likecoin Leafwind Bot](user-guide/community/likecoin_leafwind_bot.md)
+  * [Derived Projects](user-guide/community/derived-projects/README.md)
+    * [Liker.Social](user-guide/community/derived-projects/liker-social.md)
+    * [Likecoin Leafwind Bot](user-guide/community/derived-projects/likecoin_leafwind_bot.md)
   * [Products and Services](user-guide/community/products-and-services.md)
 * [Glossary](user-guide/background.md)
 
