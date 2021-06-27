@@ -84,22 +84,21 @@ description: Frequently Asked Questions
 * [How to check the number of Civic Likers that support me?](user-guide/creatortools/support.md)
 * [How to check my monthly achievement?](user-guide/creatortools/monthly-report.md)
 
-## ​[Civic Liker](https://docs.like.co/user-guide/civic-liker)​ <a id="civic-liker"></a>
+## [​Civic Liker​](user-guide/civic-liker/) <a id="civic-liker"></a>
 
 * [Why should I become a Civic Liker? Any benefits?](user-guide/civic-liker/)
 * [How to be a Civic Liker?  ](user-guide/civic-liker/be-a-civic-liker.md)
 * [How to change credit card information?](user-guide/civic-liker/change-credit-card.md)
 * [How to unsubscribe Civic Liker?](user-guide/civic-liker/unsubscribe-civic-liker.md)
 
-## ​[Liker ID](https://docs.like.co/user-guide/liker-id)​ <a id="liker-id"></a>
+## [​Liker ID​](user-guide/liker-id/) <a id="liker-id"></a>
 
 * [How to register a Liker ID?](user-guide/liker-id/register.md)
 * [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](user-guide/liker-id/reset-password.md)
 * [What is Authcore?](user-guide/liker-id/what-is-authcore.md)
 
+## [Community](user-guide/community/)
 
-
-* [Can I buy products or services with LikeCoin?](https://docs.like.co/user-guide/likecoin-token/products-and-services)
-
-
+* [How to mingle with the LikeCoin community?](user-guide/community/discord.md)
+* * [Can I buy products or services with LikeCoin?](user-guide/community/products-and-services.md)
 
