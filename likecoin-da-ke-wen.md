@@ -18,15 +18,15 @@ description: LikeCoin 常見問題
 * [ISCN 記錄的內容只支援 IPFS 上的檔案嗎？ ](guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [ISCN 支援什麼內容格式？](guides/decentralized-publishing/content-type.md)
 
-## LikeCoin 項目和社群
+## [LikeCoin 項目和社群](guides/about/)
 
-* [LikeCoin 是甚麼？](https://docs.like.co/v/zh/)
+* [LikeCoin 是甚麼？](./)
 * 營運表現如何？
-* 在那兒可參看最新工作進展？
-* 有媒體報導可以參詳嗎？
-* [LikeCoin 有提供品牌形象指引和相關素材下載麼？](https://docs.like.co/v/zh/user-guide/about/presskit)
-* 項目好像挺有趣的，怎樣聯絡 LikeCoin 和關注最新動向？
-* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://docs.like.co/v/zh/user-guide/about#contact-us)
+* [在那兒可參看最新工作進展？](guides/about/updates.md)
+* [有媒體報導可以參詳嗎？](guides/about/on-the-news.md)
+* [LikeCoin 有提供品牌形象指引和相關素材下載麼？](guides/about/presskit.md)
+* [項目好像挺有趣的，怎樣聯絡 LikeCoin 和關注最新動向？](./#guan-zhu-likecoin)
+* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](./#contact-us)
 
 ## 錢包
 
