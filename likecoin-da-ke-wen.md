@@ -59,7 +59,7 @@ description: LikeCoin 常見問題
 
 ## 去中心應用
 
-### 我是讀者
+### [我是讀者](user-guide/liker-land/#du-zhe-xiang)
 
 * [Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？](https://docs.like.co/v/zh/user-guide/reader#nei-rong-bo-lao)
 * [下載了 Liker Land 手機應用程式可以看到些甚麼？](https://docs.like.co/v/zh/user-guide/reader/today-headline)
@@ -68,7 +68,7 @@ description: LikeCoin 常見問題
 * [「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)
 * [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](https://docs.like.co/v/zh/user-guide/reader/superlike)
 
-### \*\*\*\*[**我是創作者**](https://docs.like.co/v/zh/user-guide/content-creators)\*\*\*\*
+### [我是創作者](user-guide/liker-land/#for-content-creators)
 
 * [我是作者，LikeCoin 可以幫到我甚麼？](https://docs.like.co/v/zh/user-guide/content-creators)
 * [「化讚為賞」的去中心讚賞如何運作？錢從何來？](https://docs.like.co/v/zh/user-guide/reader/like)
