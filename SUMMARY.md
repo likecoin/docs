@@ -104,8 +104,9 @@
   * [每月創作進度](user-guide/creatortools/monthly-report.md)
 * [社群](user-guide/community/README.md)
   * [LikeCoin Discord](user-guide/community/discord.md)
-  * [Liker.Social](user-guide/community/liker-social.md)
-  * [讚賞車車](user-guide/community/likecoin_leafwind_bot.md)
+  * [衍生項目](user-guide/community/derived-projects/README.md)
+    * [Liker.Social](user-guide/community/derived-projects/liker-social.md)
+    * [讚賞車車](user-guide/community/derived-projects/likecoin_leafwind_bot.md)
   * [購買產品與服務](user-guide/community/products-and-services.md)
 * [詞彙表](user-guide/background.md)
 
