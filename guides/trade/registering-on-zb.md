@@ -55,6 +55,12 @@ description: 如何註冊 ZB 交易所帳號
 
 ![](../../.gitbook/assets/zb-09.png)
 
+### 步驟四：身份認證（非必須）
+
+ZB 區分不同用戶等級，VIP0 亦即是未認證身份的用戶亦可進行交易，只是交易費率與已認證用戶不同，詳見「[费率标准](https://www.zb.com/help/rate)」。有需要的用戶可點擊「身份认证」進行驗證。
+
+![](../../.gitbook/assets/zb-10.png)
+
 ### 如有疑難，聯絡 ZB 客服
 
 若你在開戶或任何交易所服務的過程中遇到困難，請參考 [ZB 新手指導](https://www.zb.com/help/guides)或直接聯絡 ZB 客服。
