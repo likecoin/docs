@@ -28,38 +28,38 @@ description: LikeCoin 常見問題
 * [項目好像挺有趣的，怎樣聯絡 LikeCoin 和關注最新動向？](./#learn-more)
 * [大百科沒有我想要的答案，怎聯繫客戶服務專員？](./#contact-us)
 
-## 錢包
+## [錢包](guides/wallet/)
 
-* 如何轉帳 LikeCoin？
-* 有沒有去中心化的錢包可以提供？
-* LikeCoin 支授硬件錢包嗎？
-* 操作 LikeCoin 需要手續費嗎？
-* LikeCoin 有區塊鏈瀏覽器嗎？
+* [如何轉帳 LikeCoin？](guides/wallet/like-pay.md)
+* [有沒有去中心化的錢包可以提供？](guides/wallet/keplr.md)
+* [LikeCoin 支援硬件錢包嗎？](guides/wallet/hardware-wallet.md)
+* [操作 LikeCoin 需要手續費嗎？](guides/wallet/transaction-fee.md)
+* [LikeCoin 有區塊鏈瀏覽器嗎？](guides/wallet/big-dipper.md)
 
-## 交易
+## [交易](guides/trade/)
 
-* [如何兌換 LikeCoin 為其他密碼貨幣或法定貨幣？](https://docs.like.co/v/zh/user-guide/likecoin-token/how-to-buy-and-sell-likecoin)
-* 可以使用信用卡購買 LikeCoin 嗎？
+* [如何兌換 LikeCoin 為其他密碼貨幣或法定貨幣？](guides/trade/)
+* [可以使用信用卡購買 LikeCoin 嗎？](guides/trade/trade-in-liquid.md#yi-xin-yong-ka-mai-ru-likecoin)
 
-## 委託
+## [委託](guides/stake/)
 
-* 委託 LikeCoin 有甚麼好處？
-* 因委託而產生的 LikeCoin 回報，錢從何來？
+* [委託 LikeCoin 有甚麼好處？](guides/stake/delegation-of-likecoin.md)
+* [因委託而產生的 LikeCoin 回報，錢從何來？](guides/stake/where-comes-the-likecoin-rewards.md)
 
-## 社群治理
+## [治理](guides/governance/)
 
-* [所謂讚賞公民共和國，有民主麼？](https://docs.like.co/v/zh/user-guide/liquid-democracy)
-* LikeCoin chain 是甚麼？
-* 甚麼是驗證人？
-* 如何成為驗證人？
-* 驗證人如何獲得社群基金的委託？
-* [讚賞公民共和國有過甚麼議案？](https://docs.like.co/v/zh/about/governance/proposals)
-* LikeCoin Grants 計畫又是甚麼？
-* [我對 LikeCoin 的發展有意見，如何參與社群會議？](https://docs.like.co/v/zh/about/governance/community-call)
+* [所謂讚賞公民共和國，有民主麼？](guides/governance/liquid-democracy.md)
+* [LikeCoin chain 是甚麼？](guides/governance/likecoin-chain.md)
+* [甚麼是驗證人？](guides/governance/what-is-a-validator/)
+* [如何成為驗證人？](developer-resources/become-a-validator.md)
+* [驗證人如何獲得社群基金的委託？](guides/governance/what-is-a-validator/community-funds.md)
+* [讚賞公民共和國有過甚麼議案？](guides/governance/proposals.md)
+* [LikeCoin Grants 計畫又是甚麼？](guides/governance/likecoin-grants.md)
+* [我對 LikeCoin 的發展有意見，如何參與社群會議？](community-call.md)
 
 ## 去中心應用
 
-### [我是讀者](https://docs.like.co/v/zh/user-guide/reader)
+### 我是讀者
 
 * [Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？](https://docs.like.co/v/zh/user-guide/reader#nei-rong-bo-lao)
 * [下載了 Liker Land 手機應用程式可以看到些甚麼？](https://docs.like.co/v/zh/user-guide/reader/today-headline)

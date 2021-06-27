@@ -2,7 +2,7 @@
 description: LikeCoin 採用去中心治理
 ---
 
-# 社群治理
+# 治理
 
 LikeCoin 不止用於回報創作者及內容伯樂，它更被使用作為分散式自治機構 \( Decentralized Autonomous/Democratic Organization, DAO \)，亦即是讚賞公民共和國的治理代幣。
 
