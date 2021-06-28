@@ -31,6 +31,7 @@
   * [註冊 DigiFinex 帳號](guides/trade/registering-on-digifinex.md)
   * [在 DigiFinex 交易](guides/trade/trade-in-digifinex.md)
   * [註冊 ZB 帳號](guides/trade/registering-on-zb.md)
+  * [在 ZB 交易](guides/trade/trade-in-zb.md)
   * [註冊及在 MyEthShop 交易](guides/trade/registering-and-trade-in-myethshop.md)
 * [委託](guides/stake/README.md)
   * [委託 LikeCoin](guides/stake/delegation-of-likecoin.md)

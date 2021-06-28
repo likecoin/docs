@@ -30,7 +30,7 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 
 ### 步驟二：轉帳 LikeCoin 到 DigiFinex
 
-打開 [Liker Land 手機應用程式](https://liker.land/getapp)，在畫面右下角選錢包介面，點畫面上的「Like pay」（下圖紅圈位置）
+打開 [Liker Land 手機應用程式](https://liker.land/getapp)，點擊「我的錢包」，點畫面上的「Like pay」（下圖紅圈位置）
 
 ![&#x5728; Liker Land &#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;&#x9322;&#x5305;&#x4ECB;&#x9762;&#x9078;&#x300C;Like pay&#x300D;&#xFF08;&#x7D05;&#x5708;&#xFF09;](../../.gitbook/assets/like-pay-1.png)
 
@@ -80,7 +80,7 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈，假如你�
 
 查看畫面右邊的「交易掛單」上方紅色列出的是掛出在市場上的「賣單」，以下圖的例子舉例，有人願意以 0.007200 USDT/LIKE 的價格賣出 500 LikeCoin，然後再有人願意以 0.007300 USDT/LIKE 的價格賣出 417.44 LikeCoin。假設你想買入 900 LikeCoin，你便可以最高價 0.007300 USDT/LIKE 的價格全數買入
 
-若你想賣出 LikeCoin ，你便要觀察綠色的「買單」找買家。以下圖為例，假設你想要賣出 200 LIKE，可保證以 0.007100 USDT/LIKE 的價格賣出，因為目前有人出的最高價是 0.007100 購買 300 LikeCoin
+若你想賣出 LikeCoin，你便要觀察綠色的「買單」找買家。以下圖為例，假設你想要賣出 200 LIKE，可保證以 0.007100 USDT/LIKE 的價格賣出，因為目前有人出的最高價是 0.007100 購買 300 LikeCoin
 
 總而言之，賣 LikeCoin 時看下方綠色的買單；買 LikeCoin 時看上方紅色的賣單，此外你可以參考最下方的「最新成交」數據
 
