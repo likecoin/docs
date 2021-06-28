@@ -42,9 +42,11 @@ LikeCoin 經已轉移到 [LikeCoin chain](https://docs.like.co/v/zh/guides/gover
 
 ![&#x6309; &quot;Connect&quot; &#x7136;&#x5F8C; &quot;sign&quot;](../../../.gitbook/assets/likecoin-migration-4.png)
 
-### 步驟 2.3：等候轉帳完成 <a id="step-23-waiting-for-the-upgrading-process-to-be-finished"></a>
+### 步驟 2.3：等候轉帳完成
 
-這裡系統會先從你的 MetaMask 轉帳 LikeCoin ERC-20 到智能合約，再把新 LikeCoin 存款到你的 LikeCoin chain 錢包中。 過程一般需要幾分鐘，請耐心等候。轉帳期間會扣除 ETH 作為操作的 Gas Fee。
+這裡系統會先從你的 MetaMask 轉帳 LikeCoin ERC-20 到智能合約，再把新 LikeCoin 存款到你的 LikeCoin chain 錢包中。
+
+過程一般需要幾分鐘，請耐心等候。轉帳期間會扣除 ETH 作為操作的 Gas Fee。
 
 ![](../../../.gitbook/assets/likecoin-migration-5.png)
 
