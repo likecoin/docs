@@ -12,7 +12,7 @@ Download and login [Liker Land mobile app](https://liker.land/getapp).
 
 ### Step 2
 
-Open the mobile app, click on the avatar at the lower right hand corner, then click on \[My Wallet\] on top. You can manage your wallet now. Then, click the \[Send\] button.
+Open the mobile app and click on \[My Wallet\] on top. You can manage your wallet now. Then, click the \[Send\] button.
 
 ![](../../.gitbook/assets/like-pay-1-en.png)
 
