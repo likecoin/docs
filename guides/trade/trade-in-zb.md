@@ -8,7 +8,7 @@ description: 在 ZB 買賣 LikeCoin
 
 ### 步驟一：開立 ZB 帳戶的 LikeCoin 錢包收款地址
 
-第一步要把你的 LikeCoin 轉賬到 ZB 交易所。點擊 ZB 網站右上角的「财务」 ，並在搜尋欄輸入 "LIKE"。
+第一步要把你的 LikeCoin 轉賬到 ZB 交易所。點擊 ZB 網站右上角的「财务」 ，並在搜尋欄輸入 "LIKE"
 
 ![](../../.gitbook/assets/zb-trade-01.png)
 
