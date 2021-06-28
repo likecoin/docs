@@ -12,7 +12,7 @@ LikeCoin 提供的 ISCN 標準可類比為數位內容的 ISBN。ISCN 處理的�
 
 LikeCoin 提供出版相關的 SDK / 插件予平台進行整合，發展各種服務如新聞網站、社交媒體、博客網站等等。支援 LikeCoin 的媒體包括 [Matters](https://matters.news/)、[立場新聞](https://www.thestandnews.com/)、[香港獨立媒體網](https://www.inmediahk.net/)、[眾新聞](https://www.hkcnews.com/) 及其他 1,300 多個網站。LikeCoin 也可在 [WordPress](https://zh-hk.wordpress.org/plugins/likecoin/)、[Medium](https://medium.com/)、[方格子](https://vocus.cc/)、[Blogspot \(Blogger.com\)](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331) 及其他平台上使用。除了內容註冊服務，LikeCoin 也提供 LikeCoin button ，讓用戶化讚為賞，回饋創作。
 
-LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) 公共區塊鏈，其支撐整個社群：[**讚賞公民共和國**](https://liker.land/getapp)。‌
+LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) 區塊鏈，支撐整個社群：[**讚賞公民共和國**](https://liker.land/getapp)。‌
 
 {% page-ref page="user-guide/liker-land/list-of-media.md" %}
 
