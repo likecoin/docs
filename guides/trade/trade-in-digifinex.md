@@ -91,7 +91,7 @@ Once you decide the price and amount to buy or sell, go to the "Spot" to confirm
 You have to input 3 parameters:
 
 * Select the right action for "Buy LIKE" or "Sell LIKE
-* Input "Price": using the order book above as example, fill in 0.006600 for selling LikeCoin
+* Input "Price": using the order book above as an example, fill in 0.006600 for selling LikeCoin
 * Input "Amount": Fill in 200 for selling 200 LikeCoin, or adjust the percentage e.g. 100%, 50%, etc
 
 ![](../../.gitbook/assets/digifinex-21-en.png)

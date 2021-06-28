@@ -51,45 +51,52 @@ You can check "Deposit Record" by clicking "Deposit" in \[Step 1\] and see if th
 ### Step 4: Buy or Sell
 
 {% hint style="info" %}
-Transaction Fee, Withdrawel Fees & Limits are listed in "Fee Rate"
+Transaction Fee, Withdrawel Fees & Limits are listed in "[Fee Rate](https://www.zb.com/help/rate)"
 {% endhint %}
 
-On the top left corner of DigiFinex website there are "Market" and "Spot" on the menu
+On the top left corner of ZB website there are "Markets" and "Trade" on the menu
 
-### 步驟四：選個好價錢買入/賣出 <a id="bu-zhou-si-xuan-ge-hao-jia-qian-mai-ru-mai-chu"></a>
+![](../../.gitbook/assets/zb-trade-05-en.png)
 
-「交易费率」及「提现费率 & 额度」，可參考「[费率标准](https://www.zb.com/help/rate)」
+Click "Markets", on the search box input "LIKE" will show the chart. LikeCoin is now on the "New Market" tab
 
-在 ZB 網頁的左上角有「行情」及「交易」等選項。先看看行情![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MdFmXWe-uvJKDfgCSoY%2F-MdGCb-ivNcXf3mw4s4k%2FZB-trade-05.png?alt=media&token=50faf7ca-16c7-4987-b150-0b329aa0b5f0)
+![](../../.gitbook/assets/zb-trade-06-en.png)
 
-點選「行情」，在搜尋欄輸入 "LIKE" 出現走勢圖表。現時 LIKE 新上市故此在「新币区」![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MdFmXWe-uvJKDfgCSoY%2F-MdGCtuOgACu1e7Y6hOI%2FZB-trade-06.png?alt=media&token=680ba497-f121-4a6d-a386-d9f69beaf0bd)
+There are several ways to start trade: Click on LIKE in "New Market" or click on "Trade" in the "Funds" page indicated in \[Step 1\] to reach the "Exchange Pro". Or click on the top left hand corner of the ZB website and click on "Exchange Basic" or "Exchange Pro"
 
-到達交易頁面有幾種途徑：在「新币区」點擊 LIKE 或在【步驟一】的「财务」頁面選取 LIKE 再點擊交易，可直接到達「现货专业版」页面。又或者點擊 ZB 網頁的左上角「交易」再選取「现货标准版」或「现货专业版」交易頁面![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MdFmXWe-uvJKDfgCSoY%2F-MdGFN0zzDGF4JoWWxIC%2FZB-trade-07.png?alt=media&token=7d548bdc-5d8d-46a4-9329-86106b55118b)![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MdFmXWe-uvJKDfgCSoY%2F-MdGHAR2Ji9lhaGMa9kR%2FZB-trade-08.png?alt=media&token=cb52881a-9733-4f2d-97ad-9cb2c79e1ed4)「现货专业版」LIKE/USDT 交易頁面
+![](../../.gitbook/assets/zb-trade-07-en.png)
 
-查看畫面右邊的「交易掛單」上方紅色列出的是掛出在市場上的「賣單」，以下圖的例子舉例，有人願意以 0.15720 USDT/LIKE 的價格賣出 362 LikeCoin，然後再有人願意以 0.016800 USDT/LIKE 的價格賣出 3300 LikeCoin。假設你想買入 3600 LikeCoin，你便可以最高價 0.016800 USDT/LIKE 的價格全數買入
+![Exchange Pro Like/USDT interface](../../.gitbook/assets/zb-trade-08-en.png)
 
-若你想賣出 LikeCoin，你便要觀察綠色的「買單」找買家。以下圖為例，假設你想要賣出 7000 LIKE，可保證以 0.015700 USDT/LIKE 的價格賣出，因為目前有人出的最高價是 0.015700 購買 7719 LikeCoin
+Take a look at the order book on the right hand side. The figures in red are those orders who want to "Sell", for example below there are people who want to sell 362 LikeCoin at the price of 0.15720 USDT/LIKE, and then some other people want to sell 3300 LikeCoin at 0.016800 USDT/LIKE. If you want to buy 3600 LikeCoin, you can buy them all at 0.016800 USDT/LIKE
 
-總而言之，賣 LikeCoin 時看下方綠色的買單；買 LikeCoin 時看上方紅色的賣單，此外你可以參考右手邊的「最新成交」數據![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MdFmXWe-uvJKDfgCSoY%2F-MdGMs0-fSuQ0wxYHhTR%2FZB-trade-09.png?alt=media&token=24fbddfa-28d4-43f0-b40b-286fb0c0233e)
+If you want to sell your LikeCoin, you have to monitor the seller in green. For example below if you want to sell 7000 LikeCoin, it is guaranteed to be sold at 0.015700 USDT/LIKE because the highest selling price is 0.015700 to buy 7719 LikeCoin
 
-決定了買賣的價錢和數量後，可在畫面下方的「限价委托」欄下單：
+To make it simple, if you want to sell, check out the orders in green; if you want to buy, check out the orders in red. You can also take a look at the "Latest" transaction statistic on the right hand side.
 
-你需要輸入三項資料：
+![](../../.gitbook/assets/zb-trade-09-en.png)
 
-1. 確認選對了「买入 LIKE」或「卖出 LIKE」，這一步很多時候也會被忽略了然後做錯事
-2. 輸入「卖出价」：以上圖的掛單簿為例，若我想賣出 LikeCoin 這裡應填上 "0.015700"
-3. 輸入「卖出量」：若我想賣出 200 LikeCoin 這裡應填上 200。你也可以隨意選擇庫存的百份比
+Once you decide the price and amount to buy or sell, go to "Limit" to sell:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MdFmXWe-uvJKDfgCSoY%2F-MdGQiemhYKGI-wpnwmJ%2FZB-trade-10.png?alt=media&token=b7bc48b8-c05a-443a-b0c4-0ef08101545e)
+you have to input 3 parameters:
 
-資料填妥後，系統會自動計算成交額。確認無誤後，點擊「卖出 LIKE」，操作完成！
+* Select the right action for "Buy LIKE" or "Sell LIKE
+* Input "Price": using the order book above as an example, fill in 0.015700 for selling LikeCoin
+* Input "Amount": Fill in 200 for selling 200 LikeCoin, or adjust the percentage e.g. 100%, 50%, etc
 
-### 步驟五：查看交易詳情 <a id="bu-zhou-wu-cha-kan-jiao-yi-xiang-qing"></a>
+![](../../.gitbook/assets/zb-trade-10-en.png)
 
-交易完成後，你可在畫面右上角點擊「订单」查看交易的詳情，你的錢包亦會反映餘額。![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MdFmXWe-uvJKDfgCSoY%2F-MdGT-2_OonTNGn1d0em%2FZB-trade-11.png?alt=media&token=5ff0130d-cb56-401b-9ffe-4424bb248e0f)
+The system will calculate "Total", confirm if they are correct or not, then click "Sell LIKE" to complete the transaction. 
 
-### 步驟六：提幣 <a id="bu-zhou-liu-ti-bi"></a>
+### Step 5: Check Transaction details
 
-回到【步驟一】的「财务」頁面尋找幣種，再點擊「提现」，到「LIKE 提现」或「USDT 提现」畫面（視乎你是購買還是賣出），再填寫你的「提现地址」及輸入你的「提现数量」然後點擊「提现」，系統會要求你輸入「动态验证码」及「[资金密码](https://docs.like.co/v/zh/guides/trade/registering-on-zb#bu-zhou-san-zi-jin-mi-ma)」，再點擊「確認」即可完成提幣。你亦可以隨時在下方查看「提现纪录」。  
+Click on the top right hand corner "Order" to check the transaction details. your wallets reflect new balances as well.
 
+![](../../.gitbook/assets/zb-trade-11-en.png)
+
+### Step 6: Withdrawal
+
+Going back to "Funds" page in \[Step 1\] and find the coins that you need to withdraw, click on "Withdrawal" and go to "LIKEWithdrawal" or "USDTWithdrawal" page \( depends on if you are buying or selling LikeConi \). Fill in the "Withdrawal address" and "Amount" then click "Withdrawal" and your coins will be transferred. You can also check the Withdrawal Records underneath.
+
+![](../../.gitbook/assets/zb-trade-12-en.png)
 
