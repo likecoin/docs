@@ -20,7 +20,7 @@ description: 在 ZB 買賣 LikeCoin
 
 ![](../../.gitbook/assets/zb-trade-03.png)
 
-出現你專屬的充幣地址及二維碼
+出現你專屬的充值地址及二維碼
 
 ![](../../.gitbook/assets/zb-trade-04.png)
 
