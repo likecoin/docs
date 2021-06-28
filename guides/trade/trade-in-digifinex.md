@@ -30,7 +30,7 @@ BitAseet has a minimum deposit amount of **100 LikeCoin**, **a single deposit wh
 
 ### Step 2: Transfer LikeCoin to DigiFinex
 
-Open the [Liker Land mobile app](https://liker.land/getapp), click on the avatar at the lower right hand corner, and you can check the amount of LikeCoin in your wallet. Click on the \[Send\] button \(circled in red below\)
+Open the [Liker Land mobile app](https://liker.land/getapp), click on "My Wallet. Then, click on the \[Send\] button \(circled in red below\)
 
 ![On Liker Land mobile app select \[Send\] \(circled in red\)](../../.gitbook/assets/bitasset-trade-6.png)
 
