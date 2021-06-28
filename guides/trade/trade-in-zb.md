@@ -96,7 +96,7 @@ ZB 充值最小限额為 0.1 LikeCoin
 
 ### 步驟六：提幣
 
-回到【步驟一】的「财务」頁面尋找幣種，再點擊「提现」，到「LIKE 提现」或「USDT 提现」畫面（視乎你是購買還是賣出），再填寫你的「提现地址」及輸入你的「提现数量」然後點擊「提现」，系統會要求你輸入「动态验证码」及「[资金密码](https://docs.like.co/v/zh/guides/trade/registering-on-zb#bu-zhou-san-zi-jin-mi-ma)」，再點擊「確認」即可完成提幣。你亦可以隨時在下方查看「提现纪录」。
+回到【步驟一】的「财务」頁面尋找幣種，再點擊「提现」，在「LIKE 提现」或「USDT 提现」畫面（視乎你是購買還是賣出 LikeCoin），再填寫你的「提现地址」及輸入你的「提现数量」然後點擊「提现」，系統會要求你輸入「动态验证码」及「[资金密码](https://docs.like.co/v/zh/guides/trade/registering-on-zb#bu-zhou-san-zi-jin-mi-ma)」，再點擊「確認」即可完成提幣。你亦可以隨時在下方查看「提现纪录」。
 
 ![](../../.gitbook/assets/zb-trade-12.png)
 
