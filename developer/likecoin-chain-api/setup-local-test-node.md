@@ -6,8 +6,8 @@
 
 ```text
 git clone https://github.com/likecoin/likecoin-chain \
---branch fotan-1 --single-branch \
-likecoin-chain-fotan && cd likecoin-chain-fotan
+--branch sheungwan --single-branch \
+likecoin-chain-sheungwan && cd likecoin-chain-sheungwan
 ```
 
 * For FoTan
