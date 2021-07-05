@@ -2,8 +2,6 @@
 
 {% tabs %}
 {% tab title="2021" %}
-### 
-
 ### 06/26 cointribune
 
 [Quand la blockchain contourne la censure d’Hong-Kong](https://www.cointribune.com/blockchain/ecosysteme/quand-la-blockchain-contourne-la-censure-dhong-kong/)
