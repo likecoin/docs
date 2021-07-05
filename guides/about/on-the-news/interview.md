@@ -2,6 +2,12 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 
+
+### 06/26 cointribune
+
+[Quand la blockchain contourne la censure d’Hong-Kong](https://www.cointribune.com/blockchain/ecosysteme/quand-la-blockchain-contourne-la-censure-dhong-kong/)
+
 ### 06/25 REUTERS
 
 [Hong Kong's Apple Daily to live on in blockchain, free of censors](https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-live-blockchain-free-censors-2021-06-24/)
@@ -30,13 +36,25 @@
 
 [香港蘋果日報最終章！支持者利用去中心化平台保護「新聞自由」](https://www.abmedia.io/20210624-using-blockchain-to-preserve-apple-daily)
 
-### 06/24 Les Echos
+### 06/24 Bitcoin Mexico
+
+[El diario Apple Daily se convierte en Blockchain](https://www.boursorama.com/bourse/actualites/hong-kong-les-contenus-d-apple-daily-transferes-sur-des-serveurs-decentralises-0fab802ad878fc61f1a7272dcf9a524f)
+
+### 06/24 Bourse
+
+[Hong Kong-Les contenus d'Apple Daily transférés sur des serveurs décentralisés](https://www.boursorama.com/bourse/actualites/hong-kong-les-contenus-d-apple-daily-transferes-sur-des-serveurs-decentralises-0fab802ad878fc61f1a7272dcf9a524f)
+
+### 06/24 Les Echos
 
 [A Hong Kong, ruée sur le dernier numéro du quotidien pro démocratie « Apple Daily »](https://www.lesechos.fr/monde/asie-pacifique/a-hong-kong-ruee-sur-le-dernier-numero-du-quotidien-pro-democratie-apple-daily-1326489)
 
 ### 06/24 Objetivo Famosos
 
 [A Hong Kong, ruée sur le dernier numéro du quotidien pro démocratie « Apple Daily »](https://www.objetivofamosos.com/apple-daily-en-hong-kong-para-vivir-en-blockchain-sin-censura/)
+
+### 06/24 Business World
+
+[Apple Daily to live on in blockchain, free of censors](https://www.bworldonline.com/apple-daily-to-live-on-in-blockchain-free-of-censors/)
 
 ### 06/24 RTHK
 
