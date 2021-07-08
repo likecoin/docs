@@ -47,6 +47,6 @@ What is [Authcore](https://docs.like.co/user-guide/liker-id/what-is-authcore)?
 {% endhint %}
 
 {% hint style="success" %}
-All LikeCoin referral programs ended on March 8, 2021.
+All LikeCoin referral programs and airdrop ended on March 8, 2021.
 {% endhint %}
 
