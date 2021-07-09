@@ -45,10 +45,10 @@
   * [Command line interface](validator/likecoin-chain-node/command-line-interface/README.md)
     * [Useful commands](validator/likecoin-chain-node/command-line-interface/useful-commands.md)
 * [Become a validator](validator/become-a-validator.md)
-* [Public Testnets](validator/public-testnets/README.md)
-  * [Overview](validator/public-testnets/overview.md)
-  * [Software Changes Overview](validator/public-testnets/software-changes-overview.md)
-  * [Upgrade Step-by-step](validator/public-testnets/upgrade-step-by-step.md)
+* [FoTan Upgrade \(Testnet\)](validator/fotan-upgrade-testnet/README.md)
+  * [Overview](validator/fotan-upgrade-testnet/overview.md)
+  * [Software Changes Overview](validator/fotan-upgrade-testnet/software-changes-overview.md)
+  * [Upgrade Step-by-step](validator/fotan-upgrade-testnet/upgrade-step-by-step.md)
 
 ## 📙 General Guides
 
