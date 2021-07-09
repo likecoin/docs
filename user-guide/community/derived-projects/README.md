@@ -8,5 +8,5 @@ LikeCoin encourages the community to explore different ideas, and works on featu
 
 Grants for LikeCoin development:
 
-{% page-ref page="../../../guides/governance/likecoin-grants.md" %}
+{% page-ref page="../../../general-guides/governance/likecoin-grants.md" %}
 

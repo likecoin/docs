@@ -37,7 +37,7 @@ Your name and avatar will appear in various Liker Land scenarios:
 
 ### LIKE pay
 
-{% page-ref page="../../guides/wallet/like-pay.md" %}
+{% page-ref page="../../general-guides/wallet/like-pay.md" %}
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M0wFlrQDwJgggiEM_rl%2F-M1UMYC6AP2gocep0YVW%2FIMG_2453.jpg?alt=media&token=c997d816-61a7-4bfa-a1a1-f319227fa636)
 

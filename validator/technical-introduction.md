@@ -1,4 +1,4 @@
-# Validator Technical Introduction
+# Technical Introduction
 
 This document includes some technical information which LikeCoin Chain validators should know.
 

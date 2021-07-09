@@ -32,5 +32,5 @@ Validator does not perform its duty or "Jailed",  or doesn't have sufficient amo
 
 ## Become a validator
 
-{% page-ref page="../../../become-a-validator.md" %}
+{% page-ref page="../../../validator/become-a-validator.md" %}
 

@@ -31,7 +31,7 @@ description: >-
 | London | 11:00:00 | BST | UTC+1 |
 | Toronto | 06:00:00 | EDT | UTC-4 |
 
-![](.gitbook/assets/likecoin_ad70_validators-01.png)
+![](../../.gitbook/assets/likecoin_ad70_validators-01.png)
 
 ## Meeting Minutes
 

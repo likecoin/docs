@@ -16,5 +16,5 @@ In Liquid Democracy, all the holders of LikeCoin are stakeholders. The amount of
 
 
 
-{% page-ref page="../../community-call.md" %}
+{% page-ref page="community-call.md" %}
 

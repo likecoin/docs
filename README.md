@@ -2,7 +2,7 @@
 description: 'What is LikeCoin, #DePub, and the Republic of Liker Land'
 ---
 
-# LikeCoin - Decentralized Publishing
+# Decentralized Publishing
 
 ![](.gitbook/assets/image.png)
 
