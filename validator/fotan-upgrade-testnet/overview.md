@@ -8,11 +8,13 @@ description: The Public Testnet is a preview of what the LikeCoin FoTan Mainnet 
 
 The Public Testnet is a preview of what the LikeCoin FoTan Mainnet will be.
 
-The Testnet aims to provide a platform for validators to have rehearsal on upgrading the chain to FoTan. The main goal is to let validators to get used to the upgrade procedures, so the upgrade of Mainnet can be more fluent. It also helps to discover software issues early before the Mainnet upgrade.
+The Testnet aims to provide a platform for validators to have rehearsal on upgrading the chain to FoTan. The main goal is to let validators get used to the upgrade procedures, so the upgrade of Mainnet can be more fluent. It also helps to discover software issues early before the Mainnet upgrade.
 
 The Testnet also acts as a platform for developers to test chain features and APIs and could be reused in future upgrades for rehearsal. 
 
-**Participating validators are expected to keep the testnet running.**
+{% hint style="warning" %}
+\*\*\*\*🧙♂ **Participating validators are expected to keep the Testnet running.**
+{% endhint %}
 
 ## What are we going to do in the upgrade?
 
@@ -28,7 +30,7 @@ The Testnet also acts as a platform for developers to test chain features and AP
 #### Which application state to upgrade from?
 
 * The snapshot at a certain time which validators have consensus \(e.g. 2021-01-01 00:00:00 UTC\)
-* Such consensus would be determined by proposal
+* Such consensus would be determined by the proposal
 
 #### Changes required
 
