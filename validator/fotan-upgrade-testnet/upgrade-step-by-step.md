@@ -79,7 +79,7 @@ description: >-
   * after upgrade: [https://github.com/likecoin/likecoin-chain/tree/fotan-1](https://github.com/likecoin/likecoin-chain/tree/fotan-1)
     * commit: `393bb96449896ee1bbed8e7ab87791d5b4df7913`
 * Faucet: [https://likecoin-public-testnet-faucet.nnkken.dev](https://likecoin-public-testnet-faucet.nnkken.dev)
-* Explorer: TODO
+* Explorer: [https://likecoin-chain-public-testnet-2.netlify.app/](https://likecoin-chain-public-testnet-2.netlify.app/)
 * Denom \(unit of token\): `nanoekil` \(ekil is reverse of like\)
 
 ### Setup procedure
