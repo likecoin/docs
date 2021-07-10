@@ -7,7 +7,6 @@
 ## 📙  指南 <a id="guides"></a>
 
 * [LikeCoin 項目概覽](guides/about/README.md)
-  * [進度更新](guides/about/updates.md)
   * [傳媒報導](guides/about/on-the-news.md)
   * [品牌素材下載](guides/about/presskit.md)
 * [LikeCoin 通證](guides/likecoin-token.md)
@@ -116,4 +115,9 @@
 
 * [成為驗證人](developer-resources/become-a-validator.md)
 * [開發者](developer-resources/developer.md)
+
+## 存檔
+
+* [存檔](cun-dang/archive/README.md)
+  * [進度更新](cun-dang/archive/updates.md)
 
