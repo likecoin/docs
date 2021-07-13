@@ -88,7 +88,7 @@ description: >-
 2. Clone the deployment repo with the corresponding branch:
 
    ```text
-   git clone <https://github.com/likecoin/likecoin-chain> --branch sheungwan-2
+   git clone https://github.com/likecoin/likecoin-chain --branch sheungwan-2
    ```
 
 3. Go into the cloned repo:
