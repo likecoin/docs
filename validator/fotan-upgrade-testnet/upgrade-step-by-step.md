@@ -109,7 +109,7 @@ description: >-
    * `LIKECOIN_CHAIN_ID`: `"likecoin-chain-public-testnet-2"`
    * `LIKECOIN_UID`: normally keep it as `"1000"` is fine, but if you are using root user under Linux \(e.g. in some VPS\) then you should change it to `"0"`.
    * `LIKECOIN_MONIKER`: any name you want to call your node. Will be displayed on validator list as the name of the validator.
-   * `LIKECOIN_GENESIS_URL`: `"<https://gist.githubusercontent.com/nnkken/a4eff0359b1acd816aa536bd664eb7ed/raw/207206a952078184b7dea1f152d4068612ef7bd6/genesis.json>"`
+   * `LIKECOIN_GENESIS_URL`: `"https://gist.githubusercontent.com/nnkken/a4eff0359b1acd816aa536bd664eb7ed/raw/207206a952078184b7dea1f152d4068612ef7bd6/genesis.json"`
    * `LIKECOIN_SEED_NODES`: `"c5e678f14219c1f161cb608aaeda37933d71695d@nnkken.dev:31801"`
 6. Initialize the node:
 
@@ -157,10 +157,10 @@ description: >-
 13. You may check the balance by:
 
     ```text
-    docker-compose run --rm likecli-command \\
-    query account \\
-    --chain-id likecoin-chain-public-testnet-2 \\
-    --node tcp://liked-service:26657 \\
+    docker-compose run --rm likecli-command \
+    query account \
+    --chain-id likecoin-chain-public-testnet-2 \
+    --node tcp://liked-service:26657 \
     <OPERATOR_ADDRESS>
     ```
 
@@ -169,9 +169,9 @@ description: >-
 14. Sign and send a transaction for creating a validator:
 
     ```text
-    docker-compose run --rm create-validator \\
-    --amount <AMOUNT> \\
-    --details <DETAILS> \\
+    docker-compose run --rm create-validator \
+    --amount <AMOUNT> \
+    --details <DETAILS> \
     --commission-rate <COMMISSION_RATE>
     ```
 
@@ -189,9 +189,9 @@ description: >-
 15. You should be able to query the validator by:
 
     ```text
-    docker-compose run --rm likecli-command \\
-    query staking validators \\
-    --chain-id likecoin-chain-public-testnet-2 \\
+    docker-compose run --rm likecli-command \
+    query staking validators \
+    --chain-id likecoin-chain-public-testnet-2 \
     --node tcp://liked-service:26657
     ```
 
@@ -210,14 +210,14 @@ description: >-
    To raise a proposal, one of the validators run the following command:
 
    ```text
-   docker-compose run --rm likecli-command \\
-   tx gov submit-proposal \\
-   --chain-id likecoin-chain-public-testnet-2 \\
-   --node tcp://liked-service:26657 \\
-   --from validator \\
-   --title "Upgrade software version to fotan-1" \\
-   --type text \\
-   --deposit 10000000000000nanoekil \\
+   docker-compose run --rm likecli-command \
+   tx gov submit-proposal \
+   --chain-id likecoin-chain-public-testnet-2 \
+   --node tcp://liked-service:26657 \
+   --from validator \
+   --title "Upgrade software version to fotan-1" \
+   --type text \
+   --deposit 10000000000000nanoekil \
    --description <DESCRIPTION>
    ```
 
@@ -234,9 +234,9 @@ description: >-
 2. After the creation of the proposal, one may query the content of the proposal by:
 
    ```text
-   docker-compose run --rm likecli-command \\
-   query gov proposals \\
-   --chain-id likecoin-chain-public-testnet-2 \\
+   docker-compose run --rm likecli-command \
+   query gov proposals \
+   --chain-id likecoin-chain-public-testnet-2 \
    --node tcp://liked-service:26657
    ```
 
@@ -306,9 +306,9 @@ description: >-
 10. Export chain state:
 
     ```text
-    docker-compose run --rm liked-command \\
-    export --for-zero-height \\
-    --height <HEIGHT> \\
+    docker-compose run --rm liked-command \
+    export --for-zero-height \
+    --height <HEIGHT> \
     > exported.json
     ```
 
@@ -318,9 +318,9 @@ description: >-
 
     ```text
     mkdir keys
-    cp .liked/config/node_key.json \\
-    .liked/config/priv_validator_key.json \\
-    .liked/config/addrbook.json \\
+    cp .liked/config/node_key.json \
+    .liked/config/priv_validator_key.json \
+    .liked/config/addrbook.json \
     keys
     ```
 
@@ -348,13 +348,13 @@ description: >-
 16. Migrate genesis state:
 
     ```text
-    docker-compose run --rm liked-command \\
-    migrate /host/exported.json \\
-    --log_level "error" \\
-    --chain-id <NEW_CHAIN_ID> \\
-    --iscn-registry-name <ISCN_REGISTRY_NAME> \\
-    --iscn-fee-per-byte <ISCN_FEE_PER_BYTE> \\
-    --genesis-time <GENESIS_TIME> \\
+    docker-compose run --rm liked-command \
+    migrate /host/exported.json \
+    --log_level "error" \
+    --chain-id <NEW_CHAIN_ID> \
+    --iscn-registry-name <ISCN_REGISTRY_NAME> \
+    --iscn-fee-per-byte <ISCN_FEE_PER_BYTE> \
+    --genesis-time <GENESIS_TIME> \
     --output /host/genesis.json
     ```
 
@@ -417,16 +417,16 @@ description: >-
 23. Re-import node key, consensus key and address book:
 
     ```text
-    cp keys/node_key.json \\
-    keys/priv_validator_key.json \\
-    keys/addrbook.json \\
+    cp keys/node_key.json \
+    keys/priv_validator_key.json \
+    keys/addrbook.json \
     .liked/config
     ```
 
 24. Verify the consensus key has been properly imported:
 
     ```text
-    docker-compose run --rm liked-command \\
+    docker-compose run --rm liked-command \
     tendermint show-validator
     ```
 
@@ -435,7 +435,7 @@ description: >-
 25. Verify the node key has been properly imported:
 
     ```text
-    docker-compose run --rm liked-command \\
+    docker-compose run --rm liked-command \
     tendermint show-node-id
     ```
 
