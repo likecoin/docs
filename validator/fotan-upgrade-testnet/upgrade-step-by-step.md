@@ -77,7 +77,7 @@ description: >-
   * before upgrade: [https://github.com/likecoin/likecoin-chain/tree/sheungwan-2](https://github.com/likecoin/likecoin-chain/tree/sheungwan-2)
     * commit: `f81b7c728c0cdf22db4c324d8a12003c99b09703`
   * after upgrade: [https://github.com/likecoin/likecoin-chain/tree/fotan-1](https://github.com/likecoin/likecoin-chain/tree/fotan-1)
-    * commit: `393bb96449896ee1bbed8e7ab87791d5b4df7913`
+    * commit: `32056fc4759d276a11180256474cc4ed5e3ed8d4`
 * Faucet: [https://likecoin-public-testnet-faucet.nnkken.dev](https://likecoin-public-testnet-faucet.nnkken.dev)
 * Explorer: [https://likecoin-chain-public-testnet-2.netlify.app/](https://likecoin-chain-public-testnet-2.netlify.app/)
 * Denom \(unit of token\): `nanoekil` \(ekil is reverse of like\)
