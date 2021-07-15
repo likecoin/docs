@@ -35,6 +35,7 @@ description: >-
 
 ## Meeting Minutes
 
+* [LikeCoin Community Call \#202107 Minutes](https://medium.com/likecoin/likecoin-community-call-202107-minutes-7edeb276198d)
 * [LikeCoin Community Call \#202106 Minutes](https://medium.com/likecoin/likecoin-community-call-202106-minutes-3f971d47bf2f)
 * [LikeCoin Community Call \#202105 Minutes](https://medium.com/likecoin/likecoin-community-call-202105-minutes-be3e8bbfa9e5)
 * [LikeCoin Community Call \#202104 Minutes](https://medium.com/likecoin/likecoin-community-call-202104-minutes-a8e398e2a8a0)
