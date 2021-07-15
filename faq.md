@@ -56,7 +56,7 @@ description: LikeCoin 常見問題
 * [驗證人如何獲得社群基金的委託？](guides/governance/what-is-a-validator/community-funds.md)
 * [讚賞公民共和國有過甚麼議案？](guides/governance/proposals.md)
 * [LikeCoin Grants 計畫又是甚麼？](guides/governance/likecoin-grants.md)
-* [我對 LikeCoin 的發展有意見，如何參與社群會議？](community-call.md)
+* [我對 LikeCoin 的發展有意見，如何參與社群會議？](guides/governance/community-call.md)
 
 ## 去中心應用
 

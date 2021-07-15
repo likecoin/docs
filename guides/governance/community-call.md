@@ -29,7 +29,7 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 | 倫敦 | 11:00:00 | BST | UTC+1 |
 | 多倫多 | 06:00:00 | EDT | UTC-4 |
 
-![](.gitbook/assets/likecoin_ad70_validators-01.png)
+![](../../.gitbook/assets/likecoin_ad70_validators-01.png)
 
 ## 常規會議 <a id="monthly"></a>
 
@@ -37,6 +37,7 @@ LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，�
 
 ## 會議記錄 <a id="minutes"></a>
 
+* [LikeCoin Community Call \#202107 Minutes  ](https://medium.com/likecoin/likecoin-community-call-202107-minutes-7edeb276198d)
 * [LikeCoin Community Call \#202106 Minutes  ](https://medium.com/likecoin/likecoin-community-call-202106-minutes-3f971d47bf2f)
 * [LikeCoin Community Call \#202105 Minutes  ](https://medium.com/likecoin/likecoin-community-call-202105-minutes-be3e8bbfa9e5)
 * [LikeCoin Community Call \#202104 Minutes](https://medium.com/likecoin/likecoin-community-call-202104-minutes-a8e398e2a8a0)

@@ -2,7 +2,6 @@
 
 * [LikeCoin - 去中心出版](README.md)
 * [LikeCoin 答客問](faq.md)
-* [社群治理會議](community-call.md)
 
 ## 📙  指南 <a id="guides"></a>
 
@@ -38,6 +37,7 @@
   * [轉移委託 LikeCoin](guides/stake/redelegation-of-likecoin.md)
   * [因委託而產生的 LikeCoin 回報，錢從何來？](guides/stake/where-comes-the-likecoin-rewards.md)
 * [治理](guides/governance/README.md)
+  * [社群治理會議](guides/governance/community-call.md)
   * [流動民主](guides/governance/liquid-democracy.md)
   * [LikeCoin chain](guides/governance/likecoin-chain.md)
   * [驗證人](guides/governance/what-is-a-validator/README.md)
