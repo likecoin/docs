@@ -75,7 +75,7 @@ Select the new amount to support and click confirm.
 
 Changes made will be effective on the next billing date, please note the money paid for previous and current subscription will not be refunded.
 
-## Subscribe to more than one content creator
+### Step 7: Subscribe to more than one content creator
 
 Please subscribe to the 1st content creator. Then follow the same steps to subscribe to the 2nd and the other creators. Please note the newly added monthly subscription amount will be charged on the next billing date.
 
