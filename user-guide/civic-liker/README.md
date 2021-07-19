@@ -28,7 +28,8 @@ Encouraging more Civic Likers to participante is to encourage more open and view
 
 ### Pay as you go, Fancy or simple
 
-The new Civic Liker 2.0 supports subscriptions to multiple content creators, USD5 is the minimum monthly support amount, feel free to pay more and support creations.
+* The new Civic Liker 2.0 supports subscriptions to multiple content creators, 5 USD is the minimum monthly support amount, feel free to pay more and support creations.
+* Civic Liker Classic: Donate 5 USD per month. The sum will be distributed to different creators based on your claps/likes.
 
 ### **Benefiting from Giving**
 
