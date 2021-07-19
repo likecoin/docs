@@ -1,16 +1,16 @@
 ---
-description: 年費計劉只適用於購買讚賞公民 1.0 會籍
+description: 年費計劉只適用於購買讚賞公民 Civic Liker Classic 會籍
 ---
 
 # 以年費訂閱讚賞公民
 
-## 以 LikeCoin 繳付讚賞買公民 1.0 年費
+## 以 LikeCoin 繳付 Civic Liker Classic 年費
 
-直接到連結 [https://liker.land/civic/register/likepay](https://liker.land/civic/register/likepay) 支付 15,000 LikeCoin，即可啟動會籍。
+直接到連結 [https://liker.land/civic/register/likepay](https://liker.land/civic/register/likepay) 支付 Civic Liker Classic 15,000 LikeCoin 年費，即可啟動會籍。
 
 ![](../../.gitbook/assets/15000likecoin-civicliker.png)
 
-## 以 PayMe 或轉數快繳付讚賞公民 1.0 年費
+## 以 PayMe 或轉數快繳付 Civic Liker Classic 年費
 
 若你是香港用戶，可選用 PayMe 或 FPS 轉數快付款，目前只設繳付**一年**年費 \( HKD 468 \)。
 
