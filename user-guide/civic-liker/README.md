@@ -43,6 +43,7 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 * 收取偶像個人通訊
 * 參與線下活動
 * 詳細贊助報告
+* [購書優惠](https://docs.like.co/v/zh/user-guide/civic-liker/rationale-and-benefits)
 
 請鼓勵更多人加入讚賞公民，共建更健康的創作生態，請支持讚賞公民共和國發展。
 
