@@ -8,7 +8,7 @@ Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co
 
 ## Civic Liker 2.0 Subscribe to a content creator
 
-### Step 1：Target your favourite content creator
+### Step 1: Target your favourite content creator
 
 You can support your content creator starting from the following:
 
@@ -80,4 +80,36 @@ Changes made will be effective on the next billing date, please note the money p
 ### Step 7: Subscribe to more than one content creator
 
 Please subscribe to the 1st content creator. Then follow the same steps to subscribe to the 2nd and the other creators. Please note the newly added monthly subscription amount will be charged on the next billing date.
+
+## Civic Liker Classic
+
+### Step 1: **Identify** "Special Subscription"
+
+Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "Civic Liker".
+
+![](../../.gitbook/assets/civic-liker-menu-en.png)
+
+On "You are supporting", click "Subscribe" in Civic Liker Classic.
+
+![](../../.gitbook/assets/subscribe-civic-liker-classic-01-en.png)
+
+### Step 2: Confirm Subscription
+
+Click "Subscribe Now".
+
+![](../../.gitbook/assets/subscribe-civic-liker-classic-02-en.png)
+
+Click "Confirm".
+
+![](../../.gitbook/assets/subscribe-civic-liker-classic-03-en.png)
+
+### Step 3  :  Fill in your credit card information
+
+Refer to [Civic Liker 2.0 Subscribe to a content creator Fill in your credit card information](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker#step-4-fill-in-your-credit-card-information).
+
+### Step 4: Successful subscribe Civic Liker Classic
+
+On "You are supporting", Civic Liker Classic is "Active".
+
+![](../../.gitbook/assets/subscribe-civic-liker-classic-04-en.png)
 
