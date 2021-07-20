@@ -108,7 +108,7 @@
   * [Real Time Statistics](user-guide/liker-land/real-time-statistics.md)
   * [List of Media](user-guide/liker-land/list-of-media.md)
 * [Civic Liker](user-guide/civic-liker/README.md)
-  * [Dashboard](user-guide/civic-liker/dashboard.md)
+  * [Civic Liker Dashboard](user-guide/civic-liker/dashboard.md)
   * [How to be a Civic Liker](user-guide/civic-liker/be-a-civic-liker.md)
   * [Change Credit Card Information](user-guide/civic-liker/change-credit-card.md)
   * [Unsubscribe Civic Liker](user-guide/civic-liker/unsubscribe-civic-liker.md)
