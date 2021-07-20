@@ -14,8 +14,6 @@ description: 創作者的成績表
 
 步驟二：進入設定頁後，選第三個選項「作者設定」。
 
-![](../../.gitbook/assets/creators-pitch-1.png)
-
 步驟三：你的收入概覽、讚賞公民支持者清單、支持份額和贊助生效日期一覽無遺。
 
 ![](../../.gitbook/assets/yoursupporter.jpg)
