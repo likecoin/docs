@@ -61,7 +61,9 @@ You can also go to his/her Portfolio Page and check out that you are "Supporting
 
 ### Step 6:  Manage Civic Liker Subscription
 
-Login in Liker Land web and select "Civic Liker'' on the menu on the right hand side, you can manage payment methods and check your billing history. You can also check out who you are supporting and change the monthly supporting amount, click "Edit" on the content creator that you subscribed to.
+Login in [Liker Land web](https://liker.land/) and select "Civic Liker'' on the menu on the right hand side, you can manage payment methods and check your billing history. You can also check out who you are supporting and change the monthly supporting amount, click "Edit" on the content creator that you subscribed to.
+
+![](../../.gitbook/assets/civic-liker-menu-en.png)
 
 ![](../../.gitbook/assets/register-civic-liker-8-en.png)
 
