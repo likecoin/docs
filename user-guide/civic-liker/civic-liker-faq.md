@@ -16,7 +16,7 @@ Civic Liker 2.0 is to arouse the interest of content creators to attract their o
 
 #### 3. Can I subscribe to both Civic Liker Classic and 2.0?
 
-Yes, you can subscribe to both plan on a monthly basis.
+Yes, you can subscribe to both Civic Liker Classic and 2.0 on a monthly basis.
 
 #### 4.  Can I subscribe to Civic Liker on a yearly basis?
 
