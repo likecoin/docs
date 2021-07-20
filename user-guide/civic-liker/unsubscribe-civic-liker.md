@@ -6,6 +6,8 @@ description: 跟隨幾個簡單步驟即可
 
 請跟隨以下簡單步驟：
 
+## Civic Liker 2.0
+
 步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「讚賞公民」。
 
 ![](../../.gitbook/assets/civic-liker-menu.png)
@@ -14,9 +16,15 @@ description: 跟隨幾個簡單步驟即可
 
 ![](../../.gitbook/assets/unsubscribe-civic-liker-two-point-zero-01.png)
 
-步驟二：再點擊「取消訂閱」鏈結即可完成取消訂閱。
+步驟三：再點擊「取消訂閱」鏈結
 
 ![](../../.gitbook/assets/unsubscribe-civic-liker-two-point-zero-02.png)
+
+步驟四：再次點擊「取消訂閱」即可完成取消訂閱。
+
+![](../../.gitbook/assets/unsubscribe-civic-liker-two-point-zero-03.png)
+
+## Civic Liker Classic
 
 
 
