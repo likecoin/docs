@@ -105,7 +105,7 @@ description: 贊助創作者方法非常簡單
 
 ### 步驟三：填寫信用卡資料
 
-請參考 [Civic Liker 2.0 訂閱心儀創作者步驟四：填寫信用卡資料](https://docs.like.co/v/zh/user-guide/civic-liker/be-a-civic-liker#bu-zhou-si-tian-xie-xin-yong-ka-zi-liao)。
+請參考[訂閱心儀創作者步驟四：填寫信用卡資料](be-a-civic-liker.md#bu-zhou-si-tian-xie-xin-yong-ka-zi-liao)。
 
 ### 步驟四：成功訂閱 Civic Liker Classic
 
