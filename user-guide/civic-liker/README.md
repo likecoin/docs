@@ -51,6 +51,8 @@ _\*每月到帳部分（部分支付方式如信用卡會收取手續費）會�
 
 #### 參考文章
 
+> [讚賞公民產品更新：Civic Liker Classic](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E7%94%A2%E5%93%81%E6%9B%B4%E6%96%B0-civic-liker-classic-bafyreidjvf424wkcmwrwqrr2dhgh6qtgo2cponm7ndasb33agmqmdonpuq)
+
 > [讚賞公民 2.0 正式上線](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-2-0-%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%B7%9A-bafyreifmc4wfadtkb7n66qs6weg5sbii73iegktqrlaguc45ji4f6nj2sq)
 >
 > [答客問：有關讚賞公民 1.0 跟 2.0 的常見問題](https://matters.news/@likecoin/%E7%AD%94%E5%AE%A2%E5%95%8F-%E6%9C%89%E9%97%9C%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-1-0-%E8%B7%9F-2-0-%E7%9A%84%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C-bafyreigbu2h6mseqi3lnws25u3uonqxylzvcivw2lees4foecv56kazudm)
