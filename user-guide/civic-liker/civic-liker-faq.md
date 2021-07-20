@@ -22,7 +22,7 @@ description: 讚賞公民 2.0 與 Civic Liker Classic 有何分別
 
 #### 5. 能以年費訂閱讚賞公民嗎？
 
-用戶可以使用 15,000 LikeCoin 或港幣 468 元參加 Civic Liker Classic 年費計劃。然而此計劃並不能與讚賞公民 2.0 的月費計劃共存。
+用戶可以使用 15,000 LikeCoin 或港幣 468 元參加 Civic Liker Classic 年費計劃。然而此計劃並不能與讚賞公民 2.0 的月費計劃並存。
 
 
 
