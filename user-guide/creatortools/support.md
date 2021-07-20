@@ -6,9 +6,11 @@ description: Achievement Report for Content Creators
 
 Please follow the steps:
 
-Step1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "Settings".
+Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "I'm a Creator too".
 
-Step 2: In the Setting page, select "Creator Settings".
+![](../../.gitbook/assets/civic-liker-menu-en.png)
 
-Step 3: Your summary of Civic Liker supporters, supporting amount and start date are listed.
+Step 2: Your summary of Monthly Subscription income, Civic Liker list amount and start date are listed.
+
+![](../../.gitbook/assets/supporter-en.png)
 
