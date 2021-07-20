@@ -12,11 +12,11 @@ Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the
 
 ![](../../.gitbook/assets/civic-liker-menu-en.png)
 
-Step 2: On "You are supporting", choose the content creator that you subscribed and click "Edit".
+Step 2: On "You are supporting", choose the content creator that you subscribed to and click "Edit".
 
 ![](../../.gitbook/assets/unsubscribe-civic-liker-two-point-zero-01-en.png)
 
-Step 3: Click "Cancel subsscription".
+Step 3: Click "Cancel subscription".
 
 ![](../../.gitbook/assets/unsubscribe-civic-liker-two-point-zero-02-en.png)
 
@@ -30,7 +30,7 @@ Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the
 
 ![](../../.gitbook/assets/civic-liker-menu-en.png)
 
-Step 2: On "You are supporting", click Civic Liker Classic that you've subscribed.
+Step 2: On "You are supporting", click Civic Liker Classic that you've subscribed to.
 
 ![](../../.gitbook/assets/unsubscribe-civic-liker-classic-01-en.png)
 
@@ -38,7 +38,7 @@ Step 3: Click "Cancel Civic Liker Classic Subscription".
 
 ![](../../.gitbook/assets/unsubscribe-civic-liker-classic-02-en.png)
 
-Step 4: Click "Cancel subscripiton" again and you are free to go.
+Step 4: Click "Cancel subscription" again and you are free to go.
 
 ![](../../.gitbook/assets/unsubscribe-civic-liker-classic-03-en.png)
 
