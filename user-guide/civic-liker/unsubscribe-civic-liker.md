@@ -6,7 +6,7 @@ description: 跟隨幾個簡單步驟即可
 
 請跟隨以下簡單步驟：
 
-## Civic Liker 2.0
+## Civic Liker
 
 步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「讚賞公民」。
 
