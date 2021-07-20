@@ -8,8 +8,6 @@ In order to get more sponsors to become your [Civic Liker](https://docs.like.co/
 
 Step 1: Login in Liker Land web, click on the menu at the top right hand corner, select "Settings".
 
-![](../../.gitbook/assets/subscribe-civic-liker-1-en.png)
-
 Step 2: In the Setting page, select "Creator Settings".
 
 ![](../../.gitbook/assets/creators-pitch-1-en.png)

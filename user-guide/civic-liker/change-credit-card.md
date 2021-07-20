@@ -8,11 +8,7 @@ Please follow the steps:
 
 Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "Settings".
 
-![](../../.gitbook/assets/subscribe-civic-liker-1-en.png)
-
 Step 2: In the Setting page, select "Civic Liker". It shows "Subscribing", click on it.
-
-![](../../.gitbook/assets/subscribe-civic-liker-2-en.png)
 
 Step 3:  For Civic Liker 1.0 old scheme, there is a link for "Change",  click on it.
 
