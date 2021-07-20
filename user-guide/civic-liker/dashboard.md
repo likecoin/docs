@@ -19,9 +19,9 @@ description: 查看目前贊助了誰，每月付出的金額，增訂、退訂�
 
 ![](../../.gitbook/assets/image%20%2814%29.png)
 
-用戶能方便地在讚賞公民 Dashboard 管理當前的訂閱設定，所有已訂閱的作者都會在這裡顯示出來，可點「編輯」連結修改訂閱金額或取消訂閱。
+用戶能方便地在讚賞公民 Dashboard 管理當前的訂閱設定，所有已訂閱的作者都會在這裡顯示出來，可點「編輯」連結[修改訂閱金額](be-a-civic-liker.md#bu-zhou-liu-guan-li-zan-shang-gong-min-ding-yue)或[取消訂閱](unsubscribe-civic-liker.md)。
 
-除了於訂閱個別作者的贊助選項，用戶也可同時在這頁面購買 "Civic Liker Classic" 會藉，每月定額的 5 美元月費會根據用戶的按讚數分配給作者，按讚次數不限，每月贊助金額不會超過 5 美元。用戶可贊助多於一位作者，但 Civic Liker Classic 會籍只可購買一份。
+除了於訂閱個別作者的贊助選項，用戶也可同時在這頁面[購買 "Civic Liker Classic" 會藉](be-a-civic-liker.md#civic-liker-classic)，每月定額的 5 美元月費會根據用戶的按讚數分配給作者，按讚次數不限，每月贊助金額不會超過 5 美元。用戶可贊助多於一位作者，但 Civic Liker Classic 會籍只可購買一份。
 
 若用戶同時買了普通讚賞公民支持個別作者及 Civic Liker Classic，每月付出的金額將會按訂閱數量疊加。
 
