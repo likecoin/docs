@@ -61,7 +61,9 @@ description: 贊助創作者方法非常簡單
 
 ### 步驟六：管理讚賞公民訂閱
 
-登入 Liker Land  網頁版，在右手邊的選單選擇讚賞公民，即可管理付款方法和查看付款紀錄。你也可以查看你正在支持的作者清單並編輯每月支持作者的金額。在已支持的作者底下點擊「編輯」。
+登入 [Liker Land 網頁版](https://liker.land/)，在右手邊的選單選擇讚賞公民，即可管理付款方法和查看付款紀錄。你也可以查看你正在支持的作者清單並編輯每月支持作者的金額。在已支持的作者底下點擊「編輯」。
+
+![](../../.gitbook/assets/civic-liker-menu.png)
 
 ![](../../.gitbook/assets/register-civic-liker-8.png)
 
@@ -78,4 +80,36 @@ description: 贊助創作者方法非常簡單
 ### 步驟七：訂閱多於一位作者
 
 請先訂閱一位作者，完成後，再以同樣步驟贊助另一位作者。第二位及隨後作者的贊助份額將於下一個付款日期生效。
+
+## Civic Liker Classic
+
+### 步驟一：尋找「特別訂閱」
+
+到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「讚賞公民」。
+
+![](../../.gitbook/assets/civic-liker-menu.png)
+
+在「你正在支持」的 Civic Liker Classic 點擊「立即訂閱」。
+
+![](../../.gitbook/assets/subscribe-civic-liker-classic-01.png)
+
+### 步驟二：確認訂閱
+
+點擊「立即訂閱」。
+
+![](../../.gitbook/assets/subscribe-civic-liker-classic-02.png)
+
+再點擊「確認」。
+
+![](../../.gitbook/assets/subscribe-civic-liker-classic-03.png)
+
+### 步驟三：填寫信用卡資料
+
+請參考 [Civic Liker 2.0 訂閱心儀創作者步驟四：填寫信用卡資料](https://docs.like.co/v/zh/user-guide/civic-liker/be-a-civic-liker#bu-zhou-si-tian-xie-xin-yong-ka-zi-liao)。
+
+### 步驟四：成功訂閱 Civic Liker Classic
+
+「你正在支持」顯示「已訂閱」Civic Liker Classic。
+
+![](../../.gitbook/assets/subscribe-civic-liker-classic-04.png)
 
