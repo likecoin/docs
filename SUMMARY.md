@@ -56,7 +56,7 @@
   * [即時數據](user-guide/liker-land/real-time-statistic.md)
   * [支援網站列表](user-guide/liker-land/list-of-media.md)
 * [Civic Liker 讚賞公民](user-guide/civic-liker/README.md)
-  * [讚賞公民 Dashboard](user-guide/civic-liker/zan-shang-gong-min-dashboard.md)
+  * [讚賞公民 Dashboard](user-guide/civic-liker/dashboard.md)
   * [如何訂閱讚賞公民](user-guide/civic-liker/be-a-civic-liker.md)
   * [如何修改付款信用卡資料](user-guide/civic-liker/change-credit-card.md)
   * [如何退訂「讚賞公民」](user-guide/civic-liker/unsubscribe-civic-liker.md)
