@@ -6,7 +6,7 @@ description: Supporting content creator is easy
 
 Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
 
-## Civic Liker 2.0 Subscribe to a content creator
+## Subscribe to a content creator
 
 ### Step 1: Target your favourite content creator
 

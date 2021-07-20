@@ -6,7 +6,7 @@ description: Just a couple of steps
 
 Please follow the steps:
 
-## Civic Liker 2.0
+## Civic Liker
 
 Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "Civic Liker".
 

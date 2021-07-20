@@ -14,9 +14,9 @@ If the Civic Liker does not unsubscribe from the Civic Liker Classic, the mechan
 
 Civic Liker 2.0 is to arouse the interest of content creators to attract their own Civic Liker and make it easier to understand. However, we do understand that many users may prefer the old scheme. If you still want to join the Civic Liker Classic, you may donate 5 USD per month. The sum will be distributed to different creators based on your claps/likes.
 
-#### 3. Can I subscribe to both Civic Liker Classic and 2.0?
+#### 3. Can I subscribe to both Civic Liker 2.0  and Classic?
 
-Yes, you can subscribe to both Civic Liker Classic and 2.0 on a monthly basis.
+Yes, you can subscribe to both Civic Liker 2.0 and Classic on a monthly basis.
 
 #### 4.  Can I subscribe to Civic Liker on a yearly basis?
 
