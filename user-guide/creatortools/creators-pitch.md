@@ -10,8 +10,6 @@ Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the
 
 ![](../../.gitbook/assets/civic-liker-menu-en.png)
 
-
-
 Step 2: On Creator Pitch, click "Edit"
 
 ![](../../.gitbook/assets/creators-pitch-1-en.png)
