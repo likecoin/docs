@@ -8,11 +8,7 @@ description: 方法非常簡單
   
 步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「設定」。
 
-![](../../.gitbook/assets/subscribe-civic-liker-1.png)
-
 步驟二：進入設定頁後，選第二個選項「讚賞公民」。正常你會見到帳號狀態是「生效中」。
-
-![](../../.gitbook/assets/subscribe-civic-liker-2.png)
 
 步驟三：舊制讚賞公民 1.0 的用戶進入頁面後你會見到「修改」的鏈結。點擊進入資料修改的頁面。
 
