@@ -8,13 +8,13 @@ description: Yearly plan only applicable for subscription to Civic Liker Classic
 Please note if you subscribe to the Civic Liker Classic yearly plan, you are not able to subscribe to the Civic 2.0 monthly plan. However you can subscribe to Civic Liker Classic and 2.0 all together on a monthly basis.
 {% endhint %}
 
-## **Subscribe Civic Liker Classic yearly plan by LikeCoin**
+## **Subscribe to Civic Liker Classic yearly plan by LikeCoin**
 
 Go to URL [https://liker.land/civic/register/likepay](https://liker.land/civic/register/likepay) and pay 15,000 LikeCoin to start the subscription.
 
 ![](../../.gitbook/assets/15000likecoin-civicliker-en.png)
 
-## **Subscribe Civic Liker Classic yearly plan by Payme or FPS**
+## **Subscribe to Civic Liker Classic yearly plan by Payme or FPS**
 
 If you are from Hong Kong, you can pay for Civic Liker Classic yearly plan by PayMe or FPS, the fee is HKD468.
 
