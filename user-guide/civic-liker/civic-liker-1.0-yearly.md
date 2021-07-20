@@ -4,6 +4,10 @@ description: Yearly plan only applicable for subscription to Civic Liker Classic
 
 # How to pay Civic Liker yearly subscription
 
+{% hint style="warning" %}
+Please note if you subscribe to the Civic Liker Classic yearly plan, you are not able to subscribe to the Civic 2.0 monthly plan. However you can subscribe to Civic Liker Classic and 2.0 all together on a monthly basis.
+{% endhint %}
+
 ## **Subscribe Civic Liker Classic yearly plan by LikeCoin**
 
 Go to URL [https://liker.land/civic/register/likepay](https://liker.land/civic/register/likepay) and pay 15,000 LikeCoin to start the subscription.
