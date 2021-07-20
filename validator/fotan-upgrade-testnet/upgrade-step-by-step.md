@@ -58,7 +58,7 @@ description: >-
 {% hint style="success" %}
 ## Requirements
 
-* [ ] A server/ computer which will be always be online.
+* [ ] A server/ computer which will always be online.
 * [ ] May get one from [Google Cloud Compute Engine free tier](https://cloud.google.com/free/docs/gcp-free-tier/#compute), though the networking may have some cost.
 * [ ] Or use a free trial quota from cloud providers
 * [ ] At least 40 GB of disk space
