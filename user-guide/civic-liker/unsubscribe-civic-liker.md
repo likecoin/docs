@@ -6,15 +6,43 @@ description: Just a couple of steps
 
 Please follow the steps:
 
-Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "Settings".
+## Civic Liker 2.0
 
-Step 2: In the Setting page, select "Civic Liker". It shows "Subscribing", click on it.
+Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "Civic Liker".
 
-Step 3: For Civc Liker 1.0 old scheme, there is a "Cancel Civic Liker subscription: Paypal / oice". Click and you are free to go.
+![](../../.gitbook/assets/civic-liker-menu-en.png)
 
-For Civic Liker 2.0, select the content creator to unscribe and click "Edit".
+Step 2: On "You are supporting", choose the content creator that you subscribed and click "Edit".
 
-Then click "Cancel subscription" to proceed.
+![](../../.gitbook/assets/unsubscribe-civic-liker-two-point-zero-01-en.png)
 
+Step 3: Click "Cancel subsscription".
+
+![](../../.gitbook/assets/unsubscribe-civic-liker-two-point-zero-02-en.png)
+
+Step 4:  Click "Cancel subscription" again and you are free to go.
+
+![](../../.gitbook/assets/unsubscribe-civic-liker-two-point-zero-03-en.png)
+
+## Civic Liker Classic
+
+Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "Civic Liker".
+
+![](../../.gitbook/assets/civic-liker-menu-en.png)
+
+Step 2: On "You are supporting", click Civic Liker Classic that you've subscribed.
+
+![](../../.gitbook/assets/unsubscribe-civic-liker-classic-01-en.png)
+
+Step 3: Click "Cancel Civic Liker Classic Subscription".
+
+![](../../.gitbook/assets/unsubscribe-civic-liker-classic-02-en.png)
+
+Step 4: Click "Cancel subscripiton" again and you are free to go.
+
+![](../../.gitbook/assets/unsubscribe-civic-liker-classic-03-en.png)
+
+{% hint style="warning" %}
 If you unsubscribe Civic Liker, the money paid will not be refunded. The subscription ends automatically on the next billing date.
+{% endhint %}
 
