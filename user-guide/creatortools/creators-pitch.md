@@ -10,11 +10,7 @@ Step 1: Login in Liker Land web, click on the menu at the top right hand corner,
 
 Step 2: In the Setting page, select "Creator Settings".
 
-![](../../.gitbook/assets/creators-pitch-1-en.png)
-
 Step 3: Click on "Edit" and write your creator pitch, click "Confirm" after editing. Please note that the content must be within 150 words.
-
-![](../../.gitbook/assets/creators-pitch-2-en.png)
 
 Step 4: Your creator pitch will appear in various Liker Land scenarios:
 
