@@ -26,7 +26,21 @@ description: 跟隨幾個簡單步驟即可
 
 ## Civic Liker Classic
 
+步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「讚賞公民」。
 
+![](../../.gitbook/assets/civic-liker-menu.png)
+
+步驟二：在「你正在支持」下點擊已訂閱的 Civic Liker Classic。
+
+![](../../.gitbook/assets/unsubscribe-civic-liker-classic-01.png)
+
+步驟三：點擊「取消讚賞公民 Classic 訂閱」。
+
+![](../../.gitbook/assets/unsubscribe-civic-liker-classic-02.png)
+
+步驟四：再次點擊「取消訂閱」即可完成取消訂閱。
+
+![](../../.gitbook/assets/unsubscribe-civic-liker-classic-03.png)
 
 {% hint style="warning" %}
 請留意，成功取消訂閱後，已付的金額不會退還，訂閱將於下一個帳單結算日自動終止。
