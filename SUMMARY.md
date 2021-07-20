@@ -61,7 +61,7 @@
   * [如何修改付款信用卡資料](user-guide/civic-liker/change-credit-card.md)
   * [如何退訂「讚賞公民」](user-guide/civic-liker/unsubscribe-civic-liker.md)
   * [以年費訂閱讚賞公民](user-guide/civic-liker/civic-liker-1.0-yearly.md)
-  * [讚賞公民 2.0 常見問題](user-guide/civic-liker/civic-liker-faq.md)
+  * [讚賞公民常見問題](user-guide/civic-liker/civic-liker-faq.md)
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
 * [Liker ID](user-guide/liker-id/README.md)
   * [註冊 Liker ID](user-guide/liker-id/register.md)
