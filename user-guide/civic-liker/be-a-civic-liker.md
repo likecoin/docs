@@ -105,7 +105,7 @@ Click "Confirm".
 
 ### Step 3  :  Fill in your credit card information
 
-Refer to [Civic Liker 2.0 Subscribe to a content creator Fill in your credit card information](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker#step-4-fill-in-your-credit-card-information).
+Refer to [Subscribe to a content creator Fill in your credit card information](be-a-civic-liker.md#step-4-fill-in-your-credit-card-information).
 
 ### Step 4: Successful subscribe Civic Liker Classic
 

@@ -21,9 +21,9 @@ On the [Liker Land web](https://liker.land/) menu, click on Civic Liker and laun
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MeKmLTvuocOgqqpfBg8%2F-MeKmrDERzA2dxRoZ6X8%2Fimage.png?alt=media&token=9e5eee70-442d-43be-a12a-93aeba060331)
 
-Users can easily manage their subscriptions on Civic Liker Dashboard, all content creators subscribed will be listed.  Click on "Edit" to change the subscription amount or unsubscribe.
+Users can easily manage their subscriptions on Civic Liker Dashboard, all content creators subscribed will be listed.  [Click on "Edit" to change the subscription amount](be-a-civic-liker.md#step-6-manage-civic-liker-subscription) or [unsubscribe](unsubscribe-civic-liker.md).
 
-Besides subscribing to a content creator, users can also subscribe for "Civic Liker Classic'', the amount of USD 5 per month will be distributed according to the claps that the users had made. The number of claps does not have a limit and the monthly subscription fee will not exceed USD 5. Each user can subscribe to more than one content creator, but only one Civic Liker Classic subscription can be purchased.
+Besides subscribing to a content creator, users can also [subscribe for "Civic Liker Classic''](be-a-civic-liker.md#civic-liker-classic), the amount of USD 5 per month will be distributed according to the claps that the users had made. The number of claps does not have a limit and the monthly subscription fee will not exceed USD 5. Each user can subscribe to more than one content creator, but only one Civic Liker Classic subscription can be purchased.
 
 If the user subscribes to both Civic Liker and Civic Liker Classic, the amount have to pay will be added up accordingly.
 
