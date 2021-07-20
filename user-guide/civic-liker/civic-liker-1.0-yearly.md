@@ -4,6 +4,10 @@ description: 年費計劃只適用於購買 Civic Liker Classic 會籍
 
 # 以年費訂閱讚賞公民
 
+{% hint style="warning" %}
+留意訂閱 Civic Liker Classic 年費並不能同時以月費訂閱 Civic Liker 2.0。但你可以同時訂閱 Civic Liker Classic 和 2.0 月費計劃。 
+{% endhint %}
+
 ## 以 LikeCoin 繳付 Civic Liker Classic 年費
 
 直接到連結 [https://liker.land/civic/register/likepay](https://liker.land/civic/register/likepay) 支付 15,000 LikeCoin 年費，即可啟動會籍。
