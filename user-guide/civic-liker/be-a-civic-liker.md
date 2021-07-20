@@ -6,18 +6,18 @@ description: 贊助創作者方法非常簡單
 
 成為讚賞公民前請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
 
-## 訂閱心儀創作者
+## Civic Liker 2.0 訂閱心儀創作者
 
 ### 步驟一：瞄準心儀創作者
 
 你可以從以下渠道開始支持創作者：
 
 * 點擊創作者提供的[贊助鏈結](https://docs.like.co/v/zh/user-guide/creatortools/sponsor-link)，例如 [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic%20)
-* 從創作者的[個人主頁](https://docs.like.co/v/zh/dapps/creator/portfolio-page)點擊「成為讚賞公民」
+* 從創作者的[個人主頁](https://docs.like.co/v/zh/user-guide/creatortools/portfolio-page)點擊「成為讚賞公民」
 
 ![](../../.gitbook/assets/register-civic-liker-1.png)
 
-* 點擊創作者 LikeCoin button 讚賞鍵的「按月贊助」
+* 點擊創作者 [LikeCoin button 讚賞鍵](https://docs.like.co/v/zh/user-guide/creator)的「按月贊助」
 
 ![](../../.gitbook/assets/register-civic-liker-2.png)
 
@@ -27,17 +27,13 @@ description: 贊助創作者方法非常簡單
 
 ![](../../.gitbook/assets/register-civic-liker-11.png)
 
-{% hint style="info" %}
-留意假如從 Liker Land 主頁點擊「成為讚賞公民」即代表直接贊助 LikeCoin 基金會
-{% endhint %}
-
 ### 步驟二：選擇贊助金額
 
-畫面出現你想要贊助創作者的頭像及讚賞公民簡介。點擊「+」號變更贊助金額。如不想變更贊助金額可以點擊「立即訂閱」。
+畫面出現你想要贊助創作者的頭像及讚賞公民簡介。點擊「+」號變更贊助金額。如不想變更贊助金額可以直接點擊「確認」即可以每月五美元訂閱該作者。
 
 ![](../../.gitbook/assets/register-civic-liker-3.png)
 
-現時讚賞公民月費選擇為每月 5、20 及 100 美元。你選擇金額的到帳部分會全數兌換成讚賞幣支持該名創作者。完成選擇後點擊「下一步」。
+現時讚賞公民月費選擇為每月 5、20 及 100 美元。你選擇金額的到帳部分會全數兌換成讚賞幣支持該名創作者。修改贊助金額後點擊「下一步」
 
 ![](../../.gitbook/assets/register-civic-liker-4.png)
 
@@ -65,13 +61,17 @@ description: 贊助創作者方法非常簡單
 
 ### 步驟六：管理讚賞公民訂閱
 
-登入 Liker Land  網頁版，在右手邊的選單選擇讚賞公民，即可管理付款方法和查看付款紀錄。 你也可以查看你正在支持的作者清單並編輯每月支持作者的金額，點擊「編輯」。
+登入 Liker Land  網頁版，在右手邊的選單選擇讚賞公民，即可管理付款方法和查看付款紀錄。你也可以查看你正在支持的作者清單並編輯每月支持作者的金額。在已支持的作者底下點擊「編輯」。
 
 ![](../../.gitbook/assets/register-civic-liker-8.png)
 
-選擇新的支持金額並點擊「確認」。
+選擇新的支持金額並點擊「下一步」。
 
-![](../../.gitbook/assets/register-civic-liker-9.png)
+![](../../.gitbook/assets/register-civic-liker-9a.png)
+
+再點擊「確認」即可完成修改。
+
+![](../../.gitbook/assets/register-civic-liker-9b.png)
 
 留意所作更改將於下一個付款日期方能生效，已付的金額將不能更改用途也不會退還。
 
