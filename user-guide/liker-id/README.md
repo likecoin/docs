@@ -6,3 +6,12 @@ description: Liker ID 是甚麼？
 
 讚賞公民共和國的市民。每位 Liker 擁有一獨特的 Liker ID 以資識別；Likers 是作者、攝影師、繪師、編輯、及內容管理者，也是內容消費者。
 
+現時用戶可透過兩種途徑註冊 Liker ID：
+
+* [Liker Land](register.md) －以 [Liker Land 手機應用程式](../liker-land/download.md)註冊 Liker ID 及使用[轉帳](../../guides/wallet/like-pay.md)、[委託](../../guides/stake/delegation-of-likecoin.md)等各種功能
+* [Keplr](register-with-keplr.md)－以 Keplr Chrome / Brave 插件去中化註冊 Liker ID 並以 [Stake.like.co](https://stake.like.co/) 進行轉帳及委託，支援硬件錢包
+
+
+
+
+

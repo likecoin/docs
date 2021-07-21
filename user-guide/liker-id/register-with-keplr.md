@@ -1,5 +1,5 @@
 ---
-description: 去中化註冊 Liker Land 及管理你的 LikeCoin
+description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 ---
 
 # 以 Keplr 註冊

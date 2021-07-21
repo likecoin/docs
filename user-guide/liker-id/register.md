@@ -4,8 +4,6 @@ description: Liker ID 要怎樣註冊？
 
 # 以 Liker Land 註冊
 
-## 註冊 Liker ID
-
 只需下載 [Liker Land 手機應用程式](https://liker.land/getapp)，並執行以下程序即可：
 
 ### 步驟一：打開 Liker Land 手機應用程式，點擊「註冊」/ \[Sign Up\] 鍵 <a id="1"></a>
