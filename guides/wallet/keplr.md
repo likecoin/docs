@@ -16,7 +16,7 @@ description: 去中化管理你的 LikeCoin
 
 ![](../../.gitbook/assets/keplr02.png)
 
-安裝完成後，點擊 Keplr 圖示並顯示登記畫面。點擊並「Create new account」。
+安裝完成後，點擊 Keplr 圖示並顯示註冊畫面。點擊並「Create new account」。
 
 ![](../../.gitbook/assets/keplr03.png)
 
@@ -34,7 +34,7 @@ Keplr 的 Cosmos 的錢包地址是通用的，把 LikeCoin 轉帳到這個地�
 
 ### 步驟三：查看 LikeCoin 餘額
 
-到 [stake.like.co](http://stake.like.co/) 網站，再點擊「Keplr Browser Extension」。
+到 [stake.like.co](http://stake.like.co/) 網站，點擊「Keplr Browser Extension」。
 
 ![](../../.gitbook/assets/keplr06.png)
 
@@ -50,5 +50,5 @@ Keplr 的 Cosmos 的錢包地址是通用的，把 LikeCoin 轉帳到這個地�
 
 ![](../../.gitbook/assets/keplr09.png)
 
-你可以使用 Keplr 進行各種操作並管理你的 LikeCoin，包括轉帳和委託等。你也可以配合硬件錢包使用。
+你可以使用 Keplr 進行各種操作並管理你的 LikeCoin，包括轉帳和委託等。你也可以配合硬件錢包使用 Keplr。
 

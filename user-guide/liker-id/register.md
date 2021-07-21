@@ -2,7 +2,7 @@
 description: Liker ID 要怎樣註冊？
 ---
 
-# 註冊 Liker ID
+# 以 Liker Land 註冊 Liker ID
 
 ## 註冊 Liker ID
 
