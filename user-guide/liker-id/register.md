@@ -47,6 +47,6 @@ description: Liker ID 要怎樣註冊？
 {% endhint %}
 
 {% hint style="success" %}
-所有 LikeCoin 推薦獎賞及空投活動經已於2021年3月8日完結
+所有 LikeCoin 推薦獎賞及空投活動經已於2021年3月8日完結。
 {% endhint %}
 
