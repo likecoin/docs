@@ -8,7 +8,7 @@ You can now manage your LikeCoin with the Keplr wallet, which is an interchain w
 
 ### **Step 1: Install Keplr extension**
 
-Go to Chrome Webstore and click "Add to Chrome" to install the [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
+Go to the Chrome Webstore and click "Add to Chrome" to install the [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
 
 ![](../../.gitbook/assets/keplr01.png)
 
@@ -50,5 +50,5 @@ You can see your balance.
 
 ![](../../.gitbook/assets/keplr09.png)
 
-You may use Keplr to manage your LikeCoin such as transfer or delegation. Keplr also support hardware wallets.
+You may use Keplr to manage your LikeCoin such as transfer or delegation. Keplr also supports hardware wallets.
 
