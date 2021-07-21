@@ -84,12 +84,14 @@ You can see your balance.
 
 You may use Keplr to manage your LikeCoin such as transfer or delegation. Keplr also supports hardware wallets.
 
-### Important Note
+{% hint style="warning" %}
+**Important Notes**
 
 1. Keplr only supports registering a new Liker ID; current Liker IDs are not able to bind with Keplr.
 2. An email address cannot register a Liker ID with Keplr and Liker Land at the same time.
 3. Liker ID registered by Keplr cannot login Liker Land mobile app or use it's functions.
-4. If you have to receive [Liker Land monthly reports](../creatortools/monthly-report.md), please input your email in settings. You will receive Liker Land monthly report and communications after authenticating your email address.
+4. If you have to receive [Liker Land monthly reports](../creatortools/monthly-report.md), please input your email in settings. You will receive Liker Land monthly report and communications after authenticating your email address
+{% endhint %}
 
 ![](../../.gitbook/assets/keplr-liker-id-07.png)
 
