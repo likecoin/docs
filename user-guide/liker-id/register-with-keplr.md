@@ -1,6 +1,10 @@
+---
+description: Decentralized Liker ID sign up and LikeCoin management
+---
+
 # Register with Keplr
 
-Besides registering with an email, GMail or Social Media Login, users can now register with Keplr and manage their LikeCoin in a decentralized way with their own private key. Registering with Keplr does not require email or any other personal details, users only have to use Keplr on sign up/login.
+Besides [registering with an email, GMail or Social Media Login](register.md), users can now register with Keplr and manage their LikeCoin in a decentralized way with their own private key. Registering with Keplr does not require email or any other personal details, users only have to use Keplr on sign up/login.
 
 ### **Step 1: Install Keplr extension**
 
