@@ -39,7 +39,7 @@ One final step to go. After clicking the "OK" button, a green page appears as be
 ![](../../.gitbook/assets/img_3461.jpg)
 
 {% hint style="warning" %}
-Once a Liker ID has been created, it cannot be changed.  We suggest you keep it, or just create another one. Please note that a email address can only register one Liker ID.
+Once a Liker ID has been created, it cannot be changed.  We suggest you keep it, or just create another one. Please note that an email address can only register one Liker ID.
 {% endhint %}
 
 {% hint style="info" %}
