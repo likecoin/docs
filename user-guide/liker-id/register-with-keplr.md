@@ -16,7 +16,7 @@ Click and "Add extension" to Chrome / Brave.
 
 ![](../../.gitbook/assets/keplr02.png)
 
-After installation click on Keplr icon and the registration screen appears. Click and “Create new account”
+After installation click on Keplr icon and the registration screen appears. Click and “Create new account”,
 
 ![](../../.gitbook/assets/keplr03.png)
 
