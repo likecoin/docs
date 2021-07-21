@@ -2,7 +2,7 @@
 description: 去中化註冊 Liker Land 及管理你的 LikeCoin
 ---
 
-# 以 Keplr 註冊 Liker ID
+# 以 Keplr 註冊
 
 除了[以電郵、GMail、社交帳號等方式註冊 Liker ID](register.md) 以外，現在用戶可以 Keplr 電子錢包註冊，以更去中心化的方式管理 LikeCoin 並自行掌握私鑰。註冊時無需透露電郵地址等個人資料。用戶只需在註冊/登入畫面選「以錢包登入」即可選擇以 Keplr 登入。
 
@@ -25,6 +25,10 @@ description: 去中化註冊 Liker Land 及管理你的 LikeCoin
 ![](../../.gitbook/assets/keplr04.png)
 
 輸入你的 Account name、新密碼、確認密碼然後點擊「Next」，再確認助記詞後系統將顯示 Keplr 錢包介面。
+
+{% hint style="danger" %}
+請把助記詞及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Keplr 錢包。
+{% endhint %}
 
 ### 步驟二：註冊 Liker ID
 
@@ -56,7 +60,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 
 ### 步驟三：查看錢包
 
-到  Liker Land 網頁版設定頁面，你會看到你 Liker ID 對應的 LikeCoin 錢包地址和 Keplr 所顯示的錢包地址相同，亦即代表你已成功使用 Keplr 開立 Liker ID。
+到 Liker Land 網頁版設定頁面，你會看到你 Liker ID 對應的 LikeCoin 錢包地址和 Keplr 所顯示的錢包地址相同，亦即代表你已成功使用 Keplr 開立 Liker ID。
 
 ![](../../.gitbook/assets/keplr-liker-id-06.png)
 
@@ -79,6 +83,10 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 ![](../../.gitbook/assets/keplr09.png)
 
 你可以使用 Keplr 進行各種操作並管理你的 LikeCoin，包括轉帳和委託等。你也可以配合硬件錢包使用  Keplr。
+
+
+
+
 
 ### 步驟五：確認電郵地址
 
