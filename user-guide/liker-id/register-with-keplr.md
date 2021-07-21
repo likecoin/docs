@@ -28,19 +28,19 @@ description: 去中化註冊 Liker Land 及管理你的 LikeCoin
 
 ### 步驟二：註冊 Liker ID
 
-在 Liker Land 網頁版選「註冊」
+在 [Liker Land 網頁版](https://liker.land/)選「註冊」。
 
 ![](../../.gitbook/assets/keplr-liker-id-00.png)
 
-點擊右上角「以錢包登入」
+點擊右上角「以錢包登入」。
 
 ![](../../.gitbook/assets/keplr-liker-id-01.png)
 
-點擊「以 Keplr 註冊」
+點擊「以 Keplr 註冊」。
 
 ![](../../.gitbook/assets/keplr-liker-id-02.png)
 
-點擊「接受」
+點擊「接受」。
 
 ![](../../.gitbook/assets/keplr-liker-id-03-en.png)
 
