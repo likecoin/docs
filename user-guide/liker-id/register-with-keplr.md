@@ -26,6 +26,10 @@ The 1st roll is the seed phrase. Find a secure place to encrypt and store the se
 
 Fill in your Account name, password and click "Next", after validating the seed phrase, the wallet interface of Keplr appears.
 
+{% hint style="danger" %}
+Please keep your seed phase and password in a safe place. If you forget them you are not able to manage your LikeCoin. No one can reset your wallet for you.
+{% endhint %}
+
 ### Step 2: Register a Liker ID
 
 On [Liker Land web](https://liker.land/), click "Sign up".
