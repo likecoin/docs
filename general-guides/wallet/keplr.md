@@ -6,6 +6,10 @@ description: LikeCoin decentralized management
 
 You can now manage your LikeCoin with the Keplr wallet, which is an interchain wallet and your can manage your own private key.
 
+You can also register a Liker ID with Keplr, please take a look at:
+
+{% page-ref page="../../user-guide/liker-id/register-with-keplr.md" %}
+
 ### **Step 1: Install Keplr extension**
 
 Go to the Chrome Webstore and click "Add to Chrome" to install the [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
