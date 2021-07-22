@@ -6,6 +6,10 @@ description: >-
 
 # Resetting password
 
+{% hint style="info" %}
+he followings are for [Liker ID registered with Liker Land](register.md).
+{% endhint %}
+
 If you cannot login your Liker ID with your social logins, please try the following steps to reset password and see if it helps. 
 
 ### Step 1

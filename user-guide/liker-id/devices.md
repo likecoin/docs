@@ -4,6 +4,10 @@ description: See devices that have used your Liker ID
 
 # Manage logged in devices
 
+{% hint style="info" %}
+he followings are for [Liker ID registered with Liker Land](register.md).
+{% endhint %}
+
 You can see computers, phones, and other devices that are currently using or have recently used your Liker ID. You can check this info to make sure no one else has signed in to your account.
 
 Login [Liker Land](https://liker.land/) and go to [https://like.co/in/settings](https://like.co/in/settings), go to "AuthCore Settings", click "Security settings", or open the Liker Land mobile app, click on the avatar at the lower right hand corner and select \[Security\], then click \[Devices\].

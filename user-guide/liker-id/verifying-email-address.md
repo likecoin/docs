@@ -6,7 +6,9 @@ description: >-
 
 # Securing my Liker ID
 
-The followings are for Liker ID registered with Liker Land.
+{% hint style="info" %}
+The followings are for [Liker ID registered with Liker Land](register.md).
+{% endhint %}
 
 ## 2-step Verification \(2FA\) <a id="2fa"></a>
 
