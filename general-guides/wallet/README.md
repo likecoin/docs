@@ -4,7 +4,7 @@ description: Which wallet supports LikeCoin
 
 # Wallet
 
-* [Liker Land mobile app](../../user-guide/liker-land/download.md)
+* [Liker Land mobile app](like-pay.md)
 * [Keplr Chrome extension](keplr.md)
 * [Ledger](hardware-wallet.md)
 
