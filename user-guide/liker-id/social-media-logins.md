@@ -36,6 +36,8 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 ### 參考文章
 
+{% page-ref page="../creator/matters.md" %}
+
 > [現有 LikeCoin 用戶如何在 Matters 綁定 Liker ID？實在太簡單了！](https://matters.news/@daisy/%E7%8F%BE%E6%9C%89-like-coin-%E7%94%A8%E6%88%B6%E5%A6%82%E4%BD%95%E5%9C%A8-matters-%E7%B6%81%E5%AE%9A-liker-id-%E5%AF%A6%E5%9C%A8%E5%A4%AA%E7%B0%A1%E5%96%AE%E4%BA%86-zdpuB1VXByRv19fhiPD8zRDyB5YsxY231LsncTGnETPGnmav1)
 
 {% hint style="warning" %}

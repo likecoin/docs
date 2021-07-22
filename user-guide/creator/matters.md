@@ -10,7 +10,7 @@ Matters 預設已經整合讚賞鍵。只需綁定 Liker ID 及 Matters ID，你
 
 步驟一：[訪問 Matters 網站](https://matters.news/)
 
-步驟二：畫面會彈出以下視窗。若你已註冊了 Liker ID，請點擊「綁定 Liker ID」；若你還未註冊 Liker ID 並想立即生成一個新的 Liker ID，點擊「生成 Liker ID」
+步驟二：畫面會彈出以下視窗。**若你已註冊了 Liker ID，請點擊「綁定 Liker ID」**；若你還未註冊 Liker ID 並想立即生成一個新的 Liker ID，點擊「生成 Liker ID」
 
 ![](../../.gitbook/assets/matters-1.png)
 
