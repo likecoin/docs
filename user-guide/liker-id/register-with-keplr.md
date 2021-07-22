@@ -85,7 +85,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 你可以使用 Keplr 進行各種操作並管理你的 LikeCoin，包括轉帳和委託等。你也可以配合硬件錢包使用  Keplr。
 
 {% hint style="warning" %}
-**註意事項**
+**注意事項**
 
 1. 目前只支援以 Keplr 註冊新 Liker ID，所以現有 Liker ID 無法綁定 Keplr。
 2. 同一電郵地址也不能同時以 Keplr 和 Liker Land 註冊 Liker ID。
