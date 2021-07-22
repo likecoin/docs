@@ -6,6 +6,8 @@ description: >-
 
 # Securing my Liker ID
 
+The followings are for Liker ID registered with Liker Land.
+
 ## 2-step Verification \(2FA\) <a id="2fa"></a>
 
 After setting up 2FA, a 6 digital passcode is required to login from a new device.
