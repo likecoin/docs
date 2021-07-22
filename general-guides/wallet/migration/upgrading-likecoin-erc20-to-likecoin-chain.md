@@ -60,5 +60,3 @@ Please visit Google Play store or Apple App Store to [download the Liker Land mo
 If you can **login Liker ID by MetaMask only**, you can still follow the instruction above except that you should choose "Login by MetaMask" on the upper left corner of the login screen, and you will be asked to set up a new password during the process.
 {% endhint %}
 
-![](../../../.gitbook/assets/login-with-metamask-en.png)
-
