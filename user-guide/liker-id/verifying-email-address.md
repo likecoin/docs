@@ -4,6 +4,8 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 # 保護你的 Liker ID
 
+以下內容只適用於以 Liker Land 註冊的 Liker ID
+
 ## 雙重認證 \( 2FA \) <a id="2fa"></a>
 
 設定雙重認證後，新裝置登入時會要求填上認證碼產生器生成的 6 位數字認證碼。
