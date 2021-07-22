@@ -51,5 +51,5 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 ### 8. 我的 LikeCoin 是在交易所中購買，我從來沒有註冊過 Liker ID，可怎樣升級？
 
-請先將 LikeCoin 轉移到 Metamask 錢包，然後[註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register) 又或者開設 [Keplr](https://docs.like.co/v/zh/guides/wallet/keplr) 錢包。接下來到 [https://migration.like.co/](https://migration.like.co/) 輸入該 Liker ID 或 Keplr 的 Cosmos 地址，即可進行升級。
+請先將 LikeCoin 轉移到一個 Metamask 錢包，然後[註冊 Liker ID](../../../user-guide/liker-id/register.md) 又或者[開設 Keplr 錢包](../../../user-guide/liker-id/register-with-keplr.md)。接下來到 [https://migration.like.co/](https://migration.like.co/) 輸入該 Liker ID 或 Keplr 的 Cosmos 地址，即可進行升級。
 
