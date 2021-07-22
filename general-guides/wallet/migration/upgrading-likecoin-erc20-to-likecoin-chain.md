@@ -57,6 +57,10 @@ Please visit Google Play store or Apple App Store to [download the Liker Land mo
 ![](../../../.gitbook/assets/likecoin-migration-7.png)
 
 {% hint style="info" %}
-If you can **login Liker ID by MetaMask only**, you can still follow the instruction above except that you should choose "Login by MetaMask" on the upper left corner of the login screen, and you will be asked to set up a new password during the process.
+If you can **login Liker ID by MetaMask only**, you can still follow the instruction above except that you should choose "Sign in with your wallet" on the upper right hand corner of the login screen, then choose "Metamask" and you will be asked to set up a new password during the process.
 {% endhint %}
+
+![](../../../.gitbook/assets/keplr-liker-id-01-en.png)
+
+![](../../../.gitbook/assets/keplr-liker-id-02-en.png)
 
