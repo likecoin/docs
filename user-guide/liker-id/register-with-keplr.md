@@ -82,7 +82,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 
 ![](../../.gitbook/assets/keplr09.png)
 
-你可以使用 Keplr 進行各種操作並管理你的 LikeCoin，包括轉帳和委託等。你也可以配合硬件錢包使用  Keplr。
+你可以在  [stake.like.co](http://stake.like.co/) 配合 Keplr 進行各種操作並管理你的 LikeCoin，包括轉帳和委託等。你也可以配合硬件錢包使用 Keplr。
 
 {% hint style="warning" %}
 **注意事項**
