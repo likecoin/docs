@@ -88,9 +88,10 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 **注意事項**
 
 1. 目前只支援以 Keplr 註冊新 Liker ID，所以現有 Liker ID 無法綁定 Keplr。
-2. 同一電郵地址也不能同時以 Keplr 和 Liker Land 註冊 Liker ID。
-3. 使用 Keplr 註冊的 Liker ID 並不能登入 Liker Land 手機應用程式及使用其功能，也不能綁定如 Facebook、 Apple ID 等社交帳號。
-4. 用戶如需接收 [Liker Land 每月報告](../creatortools/monthly-report.md)，請於設定中輸入電郵地址，並按照指示進行認證方可收到 Liker Land 每月報告及各種最新資訊。
+2. 使用 Keplr 註冊的 Liker ID 並不能登入 Liker Land 手機應用程式及使用其功能，例如[查看每日讚賞成就](../creatortools/rewards/)。也不能綁定如 Facebook、 Apple ID 等社交帳號。
+3. 由於註冊 Keplr 並不一定需要提供電郵地址，假如用戶不添加及確認電郵地址就不會收到轉帳通知及 [Liker Land 每月報告](../creatortools/monthly-report.md)。
+4. 用戶如需接收轉帳通知、Liker Land 每月報告及各種最新資訊請於設定中輸入電郵地址，並按照指示進行認證即可。
+5. 同一電郵地址不能同時以 Keplr 和 Liker Land 註冊 Liker ID。
 {% endhint %}
 
 ![](../../.gitbook/assets/keplr-liker-id-07.png)
