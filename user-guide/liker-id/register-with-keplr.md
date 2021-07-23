@@ -82,7 +82,7 @@ You can see your balance.
 
 ![](../../.gitbook/assets/keplr09.png)
 
-You may use Keplr to manage your LikeCoin such as transfer or delegation. Keplr also supports hardware wallets.
+You may use Keplr on [stake.like.co](http://stake.like.co) to manage your LikeCoin such as transfer or delegation. Keplr also supports hardware wallets.
 
 {% hint style="warning" %}
 **Important Notes**
