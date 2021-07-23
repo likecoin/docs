@@ -2,6 +2,14 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 07/21 財科暗戰
+
+{% embed url="https://www.youtube.com/watch?v=OfbJa7lBK-s" %}
+
+### 07/21 區塊勢
+
+[去中心化出版的基礎建設 ft. LikeCoin 創辦人高重建](https://blocktrend.substack.com/p/ep124)
+
 ### 06/26 cointribune
 
 [Quand la blockchain contourne la censure d’Hong-Kong](https://www.cointribune.com/blockchain/ecosysteme/quand-la-blockchain-contourne-la-censure-dhong-kong/)
