@@ -52,7 +52,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 ![](../../.gitbook/assets/keplr-liker-id-04.png)
 
-填寫你心儀的 Liker ID 並點擊確認。
+填寫你心儀的 Liker ID 及電郵地址並點擊確認。
 
 ![](../../.gitbook/assets/keplr-liker-id-05.png)
 
