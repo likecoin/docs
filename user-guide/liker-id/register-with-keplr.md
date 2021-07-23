@@ -88,9 +88,10 @@ You may use Keplr to manage your LikeCoin such as transfer or delegation. Keplr 
 **Important Notes**
 
 1. Keplr only supports registering a new Liker ID; current Liker IDs are not able to bind with Keplr.
-2. An email address cannot register a Liker ID with Keplr and Liker Land at the same time.
-3. Liker ID registered by Keplr cannot login Liker Land mobile app or use it's functions, or connect to other social profiles such as Facebook or Apple ID.
-4. If you have to receive [Liker Land monthly reports](../creatortools/monthly-report.md), please input your email in settings. You will receive Liker Land monthly report and communications after authenticating your email address
+2. Liker ID registered by Keplr cannot login Liker Land mobile app or use it's functions such as checking rewards on a daily or weekly basis,  and also cannot connect to other social profiles such as Facebook or Apple ID.
+3. Since registering a Liker ID with Keplr does not require an email,  if you do not add the email and confirm it, you will not receive [Liker Land monthly reports](../creatortools/monthly-report.md) and [LIKE pay](../../general-guides/wallet/like-pay.md) transaction notice.
+4. If you have to receive transaction notice, Liker Land monthly reports and news updated, please input your email in settings and authenticate it.
+5. An email address cannot register a Liker ID with Keplr and Liker Land at the same time.
 {% endhint %}
 
 ![](../../.gitbook/assets/keplr-liker-id-07.png)
