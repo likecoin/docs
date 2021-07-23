@@ -7,7 +7,7 @@ description: >-
 # Connecting to my social profile
 
 {% hint style="info" %}
-he followings are for [Liker ID registered with Liker Land](register.md).
+The followings are for [Liker ID registered with Liker Land](register.md).
 {% endhint %}
 
 ## Why linking different social media logins:
