@@ -52,7 +52,7 @@ The Keplr wallet pop-up, clicks "Approve".
 
 ![](../../.gitbook/assets/keplr-liker-id-04.png)
 
-Fill in your desired Liker ID and click "Confirm".
+Fill in your desired Liker ID and email address, then click "Confirm".
 
 ![](../../.gitbook/assets/keplr-liker-id-05.png)
 
