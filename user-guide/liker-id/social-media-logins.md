@@ -4,6 +4,10 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 # 綁定社交帳號
 
+{% hint style="info" %}
+以下內容只適用於[以 Liker Land 註冊的 Liker ID](register.md)。
+{% endhint %}
+
 ## 為什麼要綁定社交帳號
 
 把 Liker ID 綁定社交帳號有兩個好處：

@@ -1,5 +1,5 @@
 ---
-description: 去中化管理你的 LikeCoin
+description: 去中心化管理你的 LikeCoin
 ---
 
 # Keplr
