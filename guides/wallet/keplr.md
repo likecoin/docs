@@ -58,5 +58,13 @@ Keplr 的 Cosmos 的錢包地址是通用的，把 LikeCoin 轉帳到這個地�
 
 ![](../../.gitbook/assets/keplr09.png)
 
-你可以在 [stake.like.co](http://stake.like.co/) 搭配 Keplr 進行各種操作並管理你的 LikeCoin，包括轉帳和委託等。你也可以透過硬件錢包使用 Keplr。
+此外在 Keplr 頂端的菜單選擇「LikeCoin chain」。
+
+![](../../.gitbook/assets/keplr-liker-id-07%20%281%29.png)
+
+亦會顯示你的 LikeCoin 餘額。
+
+![](../../.gitbook/assets/keplr-liker-id-08.png)
+
+你可以在 Keplr 介面直接傳送 LikeCoin，你也可以使用 [stake.like.co](http://stake.like.co/) 搭配 Keplr 進行各種操作包括轉帳和委託等，及透過硬件錢包使用 Keplr。
 

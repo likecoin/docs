@@ -64,9 +64,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 
 ![](../../.gitbook/assets/keplr-liker-id-06.png)
 
-### 
-
-### 步驟四：在 Stalk.like.co 使用各種功能
+### 步驟四：在 stake.like.co 使用各種功能
 
 到 [stake.like.co](http://stake.like.co/) 網站，點擊「Keplr Browser Extension」。
 
@@ -84,7 +82,15 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 
 ![](../../.gitbook/assets/keplr09.png)
 
-你可以在 [stake.like.co](http://stake.like.co/) 搭配 Keplr 進行各種操作並管理你的 LikeCoin，包括轉帳和委託等。你也可以透過硬件錢包使用 Keplr。
+此外在 Keplr 頂端的菜單選擇「LikeCoin chain」。
+
+![](../../.gitbook/assets/keplr-liker-id-07%20%281%29.png)
+
+亦會顯示你的 LikeCoin 餘額。
+
+![](../../.gitbook/assets/keplr-liker-id-08.png)
+
+你可以在 Keplr 介面直接傳送 LikeCoin，你也可以使用 [stake.like.co](http://stake.like.co/) 搭配 Keplr 進行各種操作包括轉帳和委託等，及透過硬件錢包使用 Keplr。
 
 {% hint style="warning" %}
 **注意事項**
