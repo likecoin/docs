@@ -103,3 +103,5 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 
 ![](../../.gitbook/assets/keplr-liker-id-07.png)
 
+{% embed url="https://www.youtube.com/watch?v=wYnNp8YrxvY&feature=youtu.be" %}
+
