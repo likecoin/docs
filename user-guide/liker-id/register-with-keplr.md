@@ -103,3 +103,5 @@ You may use Keplr to transfer LikeCoin directly. You may also manage your LikeCo
 
 ![](../../.gitbook/assets/keplr-liker-id-07.png)
 
+{% embed url="https://www.youtube.com/watch?v=wtsve9zwqk8" %}
+
