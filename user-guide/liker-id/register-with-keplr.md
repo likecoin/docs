@@ -4,7 +4,24 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 # 以 Keplr 註冊 Liker ID
 
-除了[以電郵、GMail、社交帳號等方式註冊 Liker ID](register.md) 以外，現在用戶可以 Keplr 電子錢包註冊，以更去中心化的方式管理 LikeCoin 並自行掌握私鑰。註冊時無需透露電郵地址等個人資料。用戶只需在註冊/登入畫面選「以錢包登入」即可選擇以 Keplr 登入。
+除了[以電郵、GMail、社交帳號等方式註冊 Liker ID](register.md) 以外，現在用戶可以 Keplr 電子錢包註冊，以更去中心化的方式管理 LikeCoin 並自行掌握私鑰。註冊時無需透露電郵地址等個人資料。用戶只需在註冊/登入畫面選「以錢包登入」即可選擇以 Keplr 登入。注意目前只支援以 Keplr 註冊新 Liker ID。
+
+### 功能比較
+
+| **以一般方式註冊 Liker ID** | **以 Keplr 錢包註冊 Liker ID** |
+| :--- | :--- |
+| 可以社交帳號或電郵登入 | 只能以 Keplr 錢包登入 |
+| 由 Authcore 提供的密碼管理支術管理用戶私鑰 | 用戶需自行管理私鑰 |
+| 提供較簡單的用戶體驗 | 需對區塊鏈及密碼貸幣有一定認識 |
+| 可登入 Liker Land 手機應用程式，也可以手機瀏覽器登入 | 只能以桌面電腦瀏覽器的 Keplr extension 登入 |
+| 只支援 LikeCoin | 支援包括 LikeCoin 的多種貨幣，如 ATOM、OSMO、AKT、CRO、KAVA 等等 |
+| 只支援 LikeCoin chain 內的轉帳 | 支援 IBC  \(Inter Blockchain Communication\) |
+| 以 Liker Land app 委託 LikeCoin | 以 stake.like.co 委託 LikeCoin |
+| 可輸入收款方的 Liker ID 轉帳 | 必需要轉入收款方的錢包地址轉帳 |
+
+### 影片教學
+
+{% embed url="https://www.youtube.com/watch?v=wYnNp8YrxvY" %}
 
 ### 步驟一：安裝 Keplr
 
@@ -91,17 +108,4 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 ![](../../.gitbook/assets/keplr-liker-id-08.png)
 
 你可以在 Keplr 介面直接傳送 LikeCoin，你也可以使用 [stake.like.co](http://stake.like.co/) 搭配 Keplr 進行各種操作包括轉帳和委託等，及透過硬件錢包使用 Keplr。
-
-{% hint style="warning" %}
-**注意事項**
-
-1. 目前只支援以 Keplr 註冊新 Liker ID，所以現有 Liker ID 無法綁定 Keplr。
-2. 同一電郵地址不能同時以 Keplr 和 Liker Land 註冊 Liker ID。
-3. 使用 Keplr 註冊的 Liker ID 並不能登入 Liker Land 手機應用程式及使用其功能，例如[查看每日讚賞成就](../creatortools/rewards/)。也不能綁定如 Facebook、 Apple ID 等社交帳號。
-4. 由於註冊 Keplr 及使用並不一定需要驗證電郵地址，假如用戶不驗證電郵地址就不會收到轉帳通知及 [Liker Land 每月報告](../creatortools/monthly-report.md)。用戶如需接收相關通知，請按照電郵指示進行驗證即可。
-{% endhint %}
-
-![](../../.gitbook/assets/keplr-liker-id-07.png)
-
-{% embed url="https://www.youtube.com/watch?v=wYnNp8YrxvY&feature=youtu.be" %}
 
