@@ -4,7 +4,24 @@ description: Decentralized Liker ID sign up and LikeCoin management
 
 # Register a Liker ID with Keplr
 
-Besides [registering with an email, GMail or Social Media Login](register.md), users can now register with Keplr and manage their LikeCoin in a decentralized way with their own private key. Registering with Keplr does not require email or any other personal details, users only have to use Keplr on sign up/login.
+Besides [registering with an email, GMail or Social Media Login](register.md), users can now register with Keplr and manage their LikeCoin in a decentralized way with their own private key. Registering with Keplr does not require email or any other personal details, users only have to use Keplr on sign up/login. Keplr only supports registering a new Liker ID at this moment.
+
+### **Comparison**
+
+| **Register a Liker ID with Liker Land** | **Register a Liker ID with Keplr** |
+| :--- | :--- |
+| Login with Social logins or email | Login with Keplr only |
+| Manage the private key with Authcore secure and frictionless sig-in solution | User has to manage his/her own private key |
+| User friendly user experiences | Must have some knowledge on blockchain and cryptocurrency |
+| Login with Liker Land mobile app or mobile web | Can only login with Keplr extension on desktop computer |
+| Supports LikeCoin only | Supports crypto currencies other than LikeCoin, such as ATOM, OSMO, AKT, CRO, KAVA, etc |
+| Support transfer within the LikeCoin chain | Supports IBC \(Inter Blockchain Communication\) |
+| Use Liker Land mobile app to delegate LikeCoin | Use stake.like.co to delegate LikeCoin |
+| Enter receiver's Liker ID during LIKE pay | Need to enter the full wallet address during transfer |
+
+### **Video Tutorial**
+
+{% embed url="https://www.youtube.com/watch?v=wtsve9zwqk8" %}
 
 ### **Step 1: Install Keplr extension**
 
@@ -91,17 +108,4 @@ It shows your LikeCoin balance.
 ![](../../.gitbook/assets/keplr-liker-id-08.png)
 
 You may use Keplr to transfer LikeCoin directly. You may also manage your LikeCoin with [stake.like.co](https://stake.like.co) and Keplr together to transfer or delegate. Keplr also supports hardware wallets.
-
-{% hint style="warning" %}
-**Important Notes**
-
-1. Keplr only supports registering a new Liker ID; current Liker IDs are not able to bind with Keplr.
-2. An email address cannot register a Liker ID with Keplr and Liker Land at the same time.
-3. Liker ID registered by Keplr cannot login Liker Land mobile app or use it's functions such as checking rewards on a daily or weekly basis,  and also cannot connect to other social profiles such as Facebook or Apple ID.
-4. Since registering a Liker ID with Keplr does not require email authentication, if you do not confirm your email address you will not receive the Liker Land monthly reports and LikeCoin transaction notice. If you have to receive these communications, follow the instruction in your mailbox to authenticate your emai address.
-{% endhint %}
-
-![](../../.gitbook/assets/keplr-liker-id-07.png)
-
-{% embed url="https://www.youtube.com/watch?v=wtsve9zwqk8" %}
 
