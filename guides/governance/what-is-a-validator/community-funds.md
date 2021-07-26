@@ -8,7 +8,7 @@ description: 驗證人可如何獲得委託？
 
 1. 經已滿足第 12 議案所列對社群參與度的要求，例如積極投入社群事務
 2. 於 Matters 網站撰文自我介紹，並為文章加上標籤 [\#Validator Intro](https://matters.news/tags/VGFnOjUzMTkw)
-3. 加入 [LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) 再於 \#community-funds-apply 頻道發文申請，並公告社群佣金策略為何
+3. 加入 [LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) 再於 \#apply-for-delegation 頻道發文申請，並公告社群佣金策略為何
 
 此外亦鼓勵驗證人參與每月一次的[社群治理會議](https://docs.like.co/v/zh/community-call)作自我介紹。
 
