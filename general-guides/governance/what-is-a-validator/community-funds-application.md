@@ -8,7 +8,7 @@ The [12th Proposal](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHA
 
 1. They have done what you have to do in Proposal 12, for example make an honest effort to participate in community affairs.
 2. Write a self introduction in Matters and use the function \# Add Tag to tag [Validator Intro](https://matters.news/tags/VGFnOjUzMTkw) in their article.
-3. Join [LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) and write an application post in this channel \#community-funds-apply, tell the community what their commission rate is.
+3. Join [LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) and write an application post in this channel \#apply-for-delegation, tell the community what their commission rate is.
 
 Validators are also encouraged to introduce themselves in the [LikeCoin community call](https://docs.like.co/community-call).
 
