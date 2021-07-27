@@ -19,6 +19,7 @@ description: >-
 | :--- | :--- | :--- |
 | Monday, 7 June  | LikeCoin Development Grant Update  | Phoebe, Jiahe |
 | Monday, 5 July | LikeCoin chain upgrade preparation  |  |
+| Monday, 2 August |  |  |
 
 ## **Call Time**
 
