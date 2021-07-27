@@ -108,3 +108,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 
 你可以在 Keplr 介面直接傳送 LikeCoin，你也可以使用 [stake.like.co](http://stake.like.co/) 搭配 Keplr 進行各種操作包括轉帳和委託等，及透過硬件錢包使用 Keplr。
 
+### 延伸閱讀
+
+> [以 Keplr 錢包註冊 Liker ID](https://matters.news/@likecoin/%E4%BB%A5-keplr-%E9%8C%A2%E5%8C%85%E8%A8%BB%E5%86%8A-liker-id-bafyreidnwfvgapbpgfjgvayj4nqdodnldk3wm6x4hakw7yq2yytpzbuamu)
+
