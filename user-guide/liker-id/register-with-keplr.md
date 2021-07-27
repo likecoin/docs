@@ -11,7 +11,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 | **以一般方式註冊 Liker ID** | **以 Keplr 錢包註冊 Liker ID** |
 | :--- | :--- |
 | 可以社交帳號或電郵登入 | 只能以 Keplr 錢包登入 |
-| 由 Authcore 提供的密碼管理支術管理用戶私鑰 | 用戶需自行管理私鑰 |
+| 由 Authcore 提供的密碼管理技術管理用戶私鑰 | 用戶需自行管理私鑰 |
 | 提供較簡單的用戶體驗 | 需對區塊鏈及密碼貸幣有一定認識 |
 | 可登入 Liker Land 手機應用程式，也可以手機瀏覽器登入 | 只能以桌面電腦瀏覽器的 Keplr extension 登入 |
 | 只支援 LikeCoin | 支援包括 LikeCoin 的多種貨幣，如 ATOM、OSMO、AKT、CRO、KAVA 等等 |
