@@ -327,25 +327,31 @@ description: >-
     This is to preserve the same keys and address book for the new fotan node.  
 
 12. Discuss with others the new genesis time, should have consensus according to the progress of the majority. 
-13. Checkout to the new software:
+13. Fetch the newest software branch for the upgrade:
+
+    ```text
+    git fetch
+    ```
+
+14. Checkout to the new software:
 
     ```text
     git checkout fotan-1
     ```
 
-14. Use new template of `docker-compose.yml` from the new software:
+15. Use new template of `docker-compose.yml` from the new software:
 
     ```text
     cp docker-compose.yml docker-compose.yml.old
     cp docker-compose.yml.template docker-compose.yml
     ```
 
-15. Modify `.env` for the new chain:
+16. Modify `.env` for the new chain:
     * `LIKECOIN_DOCKER_IMAGE`: `likecoin/likecoin-chain:fotan-1-testnet`
     * `LIKECOIN_CHAIN_ID`: the new chain ID specified in the proposal.
     * `LIKECOIN_HALT_TIME`: `"0"` so that the new chain node can start up.
     * `LIKECOIN_GENESIS_URL`: `"genesis.json"`. The init script will detect that it is a local file and copy it from the migrated genesis file generated in the next step. 
-16. Migrate genesis state:
+17. Migrate genesis state:
 
     ```text
     docker-compose run --rm liked-command \
@@ -360,13 +366,13 @@ description: >-
 
     Where `<NEW_CHAIN_ID>`, `<ISCN_REGISTRY_NAME>` and `<ISCN_FEE_PER_BYTE>` should be modified to the values specified in the upgrade proposal, and `<GENESIS_TIME>` is determined in the previous step \(format: `YYYY-MM-DDThh:mm:ssZ`, in UTC\).  
 
-17. Archive the old `.liked` folder:
+18. Archive the old `.liked` folder:
 
     ```text
     mv .liked .liked-old
     ```
 
-18. Compute the checksum of genesis state with others:
+19. Compute the checksum of genesis state with others:
 
     ```text
     sha256sum genesis.json
@@ -380,7 +386,7 @@ description: >-
 
     Verify the output checksum with other validators.  
 
-19. Re-initialize the node:
+20. Re-initialize the node:
 
     ```text
     docker-compose run --rm init
@@ -388,13 +394,13 @@ description: >-
 
     Note that this will create and write a new consensus public key at the end of `.env` file, which won't be used since we will use the original key instead. If you are already a validator, you will probably never use the field again so this is fine, but you are free to delete this line.  
 
-20. \(optional\) Configure the new node \(`config.toml` & `app.toml`, both are in `.liked/config`\)
+21. \(optional\) Configure the new node \(`config.toml` & `app.toml`, both are in `.liked/config`\)
     * in `app.toml`:
       * setup `minimum-gas-prices` if needed, see the setting in your sheungwan node config
       * under `[api]` section, if you need a local RESTful API server, then set `enable` to `true`, and also setup the corresponding port mapping in `docker-compose.yml`
     * in `config.toml`:
       * under `[p2p]` section, if you don't want to use the `--get-ip` option in the command parameter when starting the node for retrieving your externally accessible IP from third parties, then you need to enter your external address and port in `external_address` \(e.g. `123.123.123.123:26656`\) 
-21. Migrate the operator key:
+22. Migrate the operator key:
 
     ```text
     docker-compose run liked-command keys migrate /host/.likecli
@@ -406,7 +412,7 @@ description: >-
 
     Note that when it asks `Skip key migration? [y/N]:`, `N` actually means `not skipping`, which is what we need.  
 
-22. Verify the operator key is properly imported:
+23. Verify the operator key is properly imported:
 
     ```text
     docker-compose run --rm liked-command keys list
@@ -414,7 +420,7 @@ description: >-
 
     Check if the key with operator's address is listed and is the same address as before.  
 
-23. Re-import node key, consensus key and address book:
+24. Re-import node key, consensus key and address book:
 
     ```text
     cp keys/node_key.json \
@@ -423,7 +429,7 @@ description: >-
     .liked/config
     ```
 
-24. Verify the consensus key has been properly imported:
+25. Verify the consensus key has been properly imported:
 
     ```text
     docker-compose run --rm liked-command \
@@ -432,7 +438,7 @@ description: >-
 
     Verify that the output is the same as the previous recorded consensus public key.  
 
-25. Verify the node key has been properly imported:
+26. Verify the node key has been properly imported:
 
     ```text
     docker-compose run --rm liked-command \
@@ -441,20 +447,20 @@ description: >-
 
     Verify that the output is the same as the previous recorded node ID.  
 
-26. Restart the node:
+27. Restart the node:
 
     ```text
     docker-compose up -d
     ```
 
-27. Monitor the logs:
+28. Monitor the logs:
 
     ```text
     docker-compose logs -f
     ```
 
-28. Wait for the new genesis time to see if anything goes wrong.
-29. Properly process the `.liked-old`, `.likecli` and `keys` folders, so the credentials are not leaked.
+29. Wait for the new genesis time to see if anything goes wrong.
+30. Properly process the `.liked-old`, `.likecli` and `keys` folders, so the credentials are not leaked.
 
 ## When Upgrade failed
 
