@@ -16,7 +16,7 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 | :--- | :--- | :--- |
 | 星期一、6月7日  | LikeCoin Development Grant Progress & 1st round submissions | Phoebe, Jiahe |
 | 星期一、7月5日 | LikeCoin chain upgrade preparation  |  |
-|  |  |  |
+| 星期一、8月2日 |  |  |
 
 ## 會議時間
 
