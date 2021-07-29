@@ -9,17 +9,16 @@ description: >-
 
 ### Call Link: [https://meet.google.com/ovn-smic-auu](https://meet.google.com/ovn-smic-auu) **Add to your Calendar:** [**https://bit.ly/3c5DaTH**](https://bit.ly/3c5DaTH)\*\*\*\*
 
-### **Agenda & Notes:** [**https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13**](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)\*\*\*\*
-
 ### **Questions? Join our** [**Discord**](https://discord.com/invite/W4DQ6peZZZ) **for help.**
 
 ## **2021 Date & Schedule**
 
-| **Date**  | Description | Moderators |
-| :--- | :--- | :--- |
-| Monday, 7 June  | LikeCoin Development Grant Update  | Phoebe, Jiahe |
-| Monday, 5 July | LikeCoin chain upgrade preparation  |  |
-| Monday, 2 August |  |  |
+| **Date**  | Description |
+| :--- | :--- |
+| Monday, 7 June  | LikeCoin Development Grant Update  |
+| Monday, 5 July | LikeCoin chain Upgrade Overview, ISCN product prototype |
+| Monday, 2 August | Recap Testnet Upgrade, LikeCoin Grant Update |
+| Monday, 9 September |  |
 
 ## **Call Time**
 
@@ -48,5 +47,8 @@ description: >-
 * [LikeCoin Community Call 2020.10](https://medium.com/likecoin/likecoin-community-call-2020-10-df33b5a99fa7)
 * [LikeCoin Community Call 2020.09](https://medium.com/likecoin/likecoin-community-call-2020-09-8531b7c7cfd3)、[2020.09 社群治理會議紀錄](https://matters.news/@ckxpress/like-coin-2020-09-%E7%A4%BE%E7%BE%A4%E6%B2%BB%E7%90%86%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-bafyreiakhujndhwbwk53q6q55pr3rb3j64d75tamewgyfzjwmdpz2h7sfa)
 * [LikeCoin 2020.08 Community Governance Meeting](https://medium.com/likecoin/likecoin-2020-08-community-governance-meeting-bfbfb54012c0)
-* [2020.05 社群治理會議紀錄](https://matters.news/@likecoin/like-coin-%E7%A4%BE%E7%BE%A4%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-2020-05-04-bafyreib5u65c4wtqd5rseezr63gos67xqqa2anyc4xbprqrtvvv5gidevq)
+* [2020.05 社群治理會議紀錄](https://matters.news/@likecoin/like-coin-%E7%A4%BE%E7%BE%A4%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-2020-05-04-bafyreib5u65c4wtqd5rseezr63gos67xqqa2anyc4xbprqrtvvv5gidevq)\*\*\*\*
+
+  
+**Notes:** [**https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13**](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)
 
