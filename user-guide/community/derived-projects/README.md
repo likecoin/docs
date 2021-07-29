@@ -2,7 +2,7 @@
 description: How does the community develop on LikeCoin?
 ---
 
-# Derived Projects
+# Derived Products
 
 LikeCoin encourages the community to explore different ideas, and works on features to enhance LikeCoin decentralizedly.
 
