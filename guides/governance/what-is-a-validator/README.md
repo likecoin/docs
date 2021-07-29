@@ -34,3 +34,7 @@ Likers 透過委託的方法授權給驗證人。委託 LikeCoin 代表 Liker �
 
 {% page-ref page="../../../developer-resources/become-a-validator.md" %}
 
+你也可能對以下條目有興趣：
+
+{% page-ref page="../../../user-guide/community/derived-projects/likecoin\_leafwind\_bot.md" %}
+
