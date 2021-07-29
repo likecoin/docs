@@ -17,6 +17,8 @@ description: 支援 LikeCoin 的交易所
 
 你也可能對以下條目有興趣：
 
+{% page-ref page="../../user-guide/community/derived-projects/matters-bank.md" %}
+
 {% page-ref page="../../user-guide/community/products-and-services.md" %}
 
 
