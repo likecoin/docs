@@ -161,6 +161,7 @@
   * [LikeCoin Discord](user-guide/community/discord.md)
   * [Derived Products](user-guide/community/derived-projects/README.md)
     * [Liker.Social](user-guide/community/derived-projects/liker-social.md)
+    * [Matters Bank](user-guide/community/derived-projects/matters-bank.md)
     * [Likecoin Leafwind Bot](user-guide/community/derived-projects/likecoin_leafwind_bot.md)
   * [Products and Services](user-guide/community/products-and-services.md)
 * [Glossary](user-guide/background.md)
