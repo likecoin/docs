@@ -17,7 +17,13 @@ Transferring LikeCoin to crypto exchange requires the use of a [wallet](https://
 
 You may also want to check out:
 
+{% page-ref page="../../user-guide/community/derived-projects/matters-bank.md" %}
+
+
+
 {% page-ref page="../../user-guide/community/products-and-services.md" %}
+
+
 
 
 
