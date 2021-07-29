@@ -101,7 +101,7 @@ As stated in the very beginning, _Liker Land_ is collectively owned and governed
 
 ### Delegation <a id="c538"></a>
 
-When a _Liker_ delegates _LikeCoin_ to a _validator_, not only does the _Liker_ helps validating transactions in the community and earns rewards, she also endorses the _validator_ to represent her to raise proposals and vote for or against the proposals. This is called [liquid democracy](https://en.wikipedia.org/wiki/Liquid_democracy). In this aspect, delegation is like voting in a representative democracy society, except even better, a _Liker_ may also decide how much _LikeCoin_ to delegate to reflect the level of endorsement, and may delegate to one or more _validators_.
+When a _Liker_ delegates _LikeCoin_ to a _validator_, not only does the _Liker_ help validating transactions for the network and earns rewards, but the _Liker_ also endorses the _validator_ to raise proposals and vote on behalf of them. A _Liker_ may also decide the amount of _LikeCoin_ to delegate to reflect the level of endorsement, and may delegate to one or more _validators_. Delegation is like voting in a society under representative democracy but in a more flexible way.
 
 ### Raising a proposal <a id="81f6"></a>
 
@@ -109,29 +109,31 @@ Every proposal is a change to the current system. After all, it is not very mean
 
 Some aspects of proposals include:
 
-* **On technical issues**. Such as software updates, new features and other technical changes.
-* **On economics**. Such as increasing or decreasing the inflation rate and minting _LikeCoin_ in **Creator Pool** to reward creators.
-* **On media and contents**. Such as new ways to reward creativity, measures to combat disinformation, malinformation and infringement of intellectual property right.
+* **Parameter Change proposal**: to change one or more parameters. If accepted, the requested parameter change is updated automatically by the proposal handler upon conclusion of the voting period.
+* **Community Pool Spend proposal**: to decide the usage of the community pool
+* **Text proposal**: All the proposals that are not covered by the above two types go under this type, e.g.: about governance principle. Examples in the past: 4th proposal about direct democracy implementation, and the 9th proposal about delegation of ecosystem development fund.
 
-In order for a proposal to enter the voting period, 1mil _LikeCoin_ has to be deposited within 2 weeks. Instead of having the _validator_ who raised the proposal to deposit all 1mil _LikeCoin_, the deposit may come from other _validators_ and _Likers._
+By the way, two more proposal types will be supported after the FoTan chain upgrade: **Software Upgrade Proposal** and **Cancel Software Upgrade Proposal**. See the [Cosmos SDK documentation](https://docs.cosmos.network/master/modules/gov/01_concepts.html) for details.
 
-In case the proposal receive less than 1mil _LikeCoin_ deposit, the proposal will be abandoned and the deposit goes to the **Community Pool**, exact use of which determined by other proposals.
+Any validator can raise a proposal. In order to have a proposal to enter the voting period, 100k _LikeCoin_ has to be deposited within 2 weeks. The deposit may come from other _validators_ and _Likers._
+
+In case the proposal fails to get 100k _LikeCoin_ deposit in 2-week time, the proposal will be abandoned and the deposit will be forfeit and go to the **Community Pool.** The usage of the pool is determined by further proposals.
 
 ### Voting <a id="a839"></a>
 
-All _validators_ may then vote during a 2-week voting period. There are four options to every proposal: **Yes**, **No**, **Abstain** and **Veto**. Veto is to express a “No” so strong that the _validator_ believes the proposal should not be proposed in the first place, and should have its deposit expropriated to **Community Pool**.
+Once a proposal reaches 100K LikeCoin, it immediately enters Voting period. All _validators_ may then vote during the Voting period. There are four options to every proposal: **Yes**, **No**, **Abstain** and **Veto**. Veto is to express a “No” so strong that the _validator_ believes the proposal should not be proposed in the first place, and should have its deposit expropriated to **Community Pool**.
 
-During the voting period, if a _Liker_ does not agree with the option picked by the _validator_ representing her, she may transfer her delegated _LikeCoin_ to another _validator_. This is another area liquid democracy improves over tradition representative democracy.
+During the voting period, if a _Liker_ does not agree with the option picked by the _validator_ representing them, they may transfer their delegated _LikeCoin_ to another _validator_. This is another point that liquid democracy outperforms tradition representative democracy.
 
 ### Result <a id="a4c5"></a>
 
 The proposal would be implemented if it is passed. It happens when:
 
-* **Quorum**. _Validators_ holding 40% or more delegated LikeCoin particated in the voting.
-* **Simple majority**. With the exception of Abstain, more than 50% of the votes \(voting power is proportional to delegated _LikeCoin_\) go to Yes.
-* **No veto**. Less than one-third of the votes go to Veto.
+* Quorum: The voting power \(delegated LikeCoin\) that participated in the Voting period has passed the minimum percentage 40%
+* Simple majority: Not counting the abstention votes, there are more votes \(&gt;50%\) in favour than against.
+* No veto: Less than 30% voting power has voted a veto.
 
-In case quorum is not reached or the proposal is vetoed, the 1 mil _LikeCoin_ deposit goes to the **Community Pool**. In other cases, the deposit will be returned to the _Likers._
+If the proposal fails to achieve quorum, or gets more than 1/3 voting power as veto, then the proposal will be turned down and the deposited LikeCoin will be expropriated to the **Community Pool;** else the deposit will be transfer back to the owners.
 
 ![](../.gitbook/assets/validator.png)
 
