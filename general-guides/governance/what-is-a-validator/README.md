@@ -34,3 +34,7 @@ Validator does not perform its duty or "Jailed",  or doesn't have sufficient amo
 
 {% page-ref page="../../../validator/become-a-validator.md" %}
 
+You may also want to check out:
+
+{% page-ref page="../../../user-guide/community/derived-projects/likecoin\_leafwind\_bot.md" %}
+
