@@ -49,6 +49,10 @@
   * [Overview](validator/fotan-upgrade-testnet/overview.md)
   * [Software Changes Overview](validator/fotan-upgrade-testnet/software-changes-overview.md)
   * [Upgrade Step-by-step](validator/fotan-upgrade-testnet/upgrade-step-by-step.md)
+* [FoTan Upgrade \(Mainnet\)](validator/fotan-upgrade-mainnet/README.md)
+  * [Upgrade Step-by-step](validator/fotan-upgrade-mainnet/upgrade-step-by-step.md)
+  * [For other full node operators](validator/fotan-upgrade-mainnet/for-other-full-node-operators.md)
+  * [Miscellaneous](validator/fotan-upgrade-mainnet/faq-1.md)
 
 ## 📙 General Guides
 
