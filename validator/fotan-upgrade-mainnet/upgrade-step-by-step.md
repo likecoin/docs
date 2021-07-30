@@ -274,7 +274,7 @@
     ```
 
 16. Modify `.env` for the new chain:
-    * `LIKECOIN_DOCKER_IMAGE`: `likecoin/likecoin-chain:fotan-1-testnet`
+    * `LIKECOIN_DOCKER_IMAGE`: `likecoin/likecoin-chain:fotan-1`
     * `LIKECOIN_CHAIN_ID`: the new chain ID specified in the proposal.
     * `LIKECOIN_HALT_TIME`: `"0"` so that the new chain node can start up.
     * `LIKECOIN_GENESIS_URL`: `"genesis.json"`. The init script will detect that it is a local file and copy it from the migrated genesis file generated in the next step. 
