@@ -6,7 +6,28 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
-##  議案 \#12 修改委託生態池的 LikeCoin 予驗證人的做法 <a id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
+## 議案 \#15 升級主鏈到 FoTan 版本 <a id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
+
+* **提案**：[sixwood​](https://matters.news/@sixwood/proposal-15-upgrade-like-coin-chain-mainnet-to-fo-tan-bafyreietjtpwddkxkwo563a4zeo2ftzf4yc6f4s3zfn632suf3rpmjmbb4)
+* **類型**：文本式議案 \( Text Proposal \)
+* **日期**：2021.08.01 提案
+* **詳情**：[https://likecoin.bigdipper.live/proposals/15](https://likecoin.bigdipper.live/proposals/15)
+
+## 議案 \#14 升級主鏈到 FoTan 版本 <a id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
+
+* **提案**：sixwood​
+* **類型**：文本式議案 \( Text Proposal \)
+* **日期**：2021.07.31 提案但被廢棄
+* **詳情**：[https://likecoin.bigdipper.live/proposals/14](https://likecoin.bigdipper.live/proposals/14)
+
+## 議案 \#13 升級主鏈到 FoTan 版本
+
+* **提案**：sixwood​
+* **類型**：文本式議案 \( Text Proposal \)
+* **日期**：2021.07.30 提案但因內容錯誤被廢棄
+* **詳情**：[https://likecoin.bigdipper.live/proposals/13](https://likecoin.bigdipper.live/proposals/13)
+
+## 議案 \#12 修改委託生態池的 LikeCoin 予驗證人的做法 <a id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
 
 * **提案**：[guanyun](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHAN5XbPEY/)​
 * **類型**：文本式議案 \( Text Proposal \)
