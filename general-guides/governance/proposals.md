@@ -6,6 +6,27 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+## Proposal \#15 Upgrade LikeCoin chain mainnet to FoTan <a id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
+
+* Proposer: [sixwood​](https://matters.news/@sixwood/proposal-15-upgrade-like-coin-chain-mainnet-to-fo-tan-bafyreietjtpwddkxkwo563a4zeo2ftzf4yc6f4s3zfn632suf3rpmjmbb4)
+* Proposal Type: Text Proposal
+* Date: Submit on 2021.08.01
+* Details: [https://likecoin.bigdipper.live/proposals/15](https://likecoin.bigdipper.live/proposals/15)
+
+## Proposal \#14 Upgrade LikeCoin chain mainnet to FoTanProposer: sixwood​
+
+* Proposer: sixwood​
+* Proposal Type: Text Proposal
+* Date: Submit on 2021.07.30 but abandoned due to wrong context
+* Details: [https://likecoin.bigdipper.live/proposals/14](https://likecoin.bigdipper.live/proposals/14)
+
+## Proposal \#13 Upgrade LikeCoin chain mainnet to FoTan
+
+* Proposer: sixwood​
+* Proposal Type: Text Proposal
+* Date: Submit on 2021.07.30 but abandoned due to wrong context
+* Details: [https://likecoin.bigdipper.live/proposals/13](https://likecoin.bigdipper.live/proposals/13)
+
 ## Proposal \#12 Changing the way of delegate the ecological's LikeCoin in the validators
 
 * Proposer: [guanyun](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHAN5XbPEY/)
