@@ -13,7 +13,7 @@ description: How many proposals proceeded by the Republic of Liker Land?
 * Date: Submit on 2021.08.01
 * Details: [https://likecoin.bigdipper.live/proposals/15](https://likecoin.bigdipper.live/proposals/15)
 
-## Proposal \#14 Upgrade LikeCoin chain mainnet to FoTanProposer: sixwood​
+## Proposal \#14 Upgrade LikeCoin chain mainnet to FoTan
 
 * Proposer: sixwood​
 * Proposal Type: Text Proposal
