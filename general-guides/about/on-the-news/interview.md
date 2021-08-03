@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 07/29 財科暗戰
+
+{% embed url="https://www.youtube.com/watch?v=V1S3M9V2t9Y" %}
+
 ### 07/25 財科暗戰
 
 {% embed url="https://www.youtube.com/watch?v=1r1WVu9retk" %}
