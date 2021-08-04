@@ -20,6 +20,8 @@ The `bank` module mainly defines transfer of coins.
 
 Send coins to recipient.
 
+* \[COINS\] should be formatted like `1000000000nanolike` \(1 LIKE in this example\)
+
 ```text
 likecli tx send [FROM_ADDRESS_OR_KEY_NAME] [TO_ADDRESS] [COINS]
 ```
@@ -57,7 +59,7 @@ See `--help` for available options.
 Delegate to a validator, increasing its voting power, collecting block rewards and transaction fee as return.
 
 ```text
-likecli tx staking delegate [VALIDATOR_ADDRESS] [COINS]
+likecli tx staking delegate [VALIDATOR_ADDRESS] --from [DELEGATOR_ADDRESS] [COINS] --chain-id [CHAIN_ID]
 ```
 
 ### Transaction: Redelegate
@@ -69,7 +71,7 @@ Unlike unbond, this action takes effect immediately and does not need to wait fo
 However, user needs to wait for 3 weeks before the same redelegation can be redelegated again. For example, user delegated to A and then redelegated from A to B, then the user needs to wait for 3 weeks before redelegating from B to C.
 
 ```text
-likecli tx staking redelegate [FROM_VALIDATOR_ADDRESS] [TO_VALIDATOR_ADDRESS] [COINS]
+likecli tx staking redelegate [FROM_VALIDATOR_ADDRESS] [TO_VALIDATOR_ADDRESS] --from [DELEGATOR_ADDRESS] [COINS] --chain-id [CHAIN_ID]
 ```
 
 ### Transaction: Unbond
@@ -79,7 +81,7 @@ Take away some delegations from a validator.
 The delegation will enter unbonding state, which is locked for unbond period \(3 weeks\) before moving back into available balance.
 
 ```text
-likecli tx staking unbond [VALIDATOR_ADDRESS] [COINS]
+likecli tx staking unbond [VALIDATOR_ADDRESS] --from [DELEGATOR_ADDRESS] [COINS] --chain-id [CHAIN_ID]
 ```
 
 ### Transaction: Withdraw Rewards
@@ -87,7 +89,7 @@ likecli tx staking unbond [VALIDATOR_ADDRESS] [COINS]
 Get the accumulated rewards from a delegation. Can add the `--commission` flag to also withdraw validator's commission.
 
 ```text
-likecli tx distribution withdraw-rewards [VALIDATOR_ADDRESS] [--commission]
+likecli tx distribution withdraw-rewards [VALIDATOR_ADDRESS] --from [DELEGATOR_ADDRESS] [--commission] --chain-id [CHAIN_ID]
 ```
 
 ### Transaction: Withdraw All Rewards
@@ -95,7 +97,7 @@ likecli tx distribution withdraw-rewards [VALIDATOR_ADDRESS] [--commission]
 Get the accumulated rewards from all delegations among different validators.
 
 ```text
-likecli tx distribution withdraw-all-rewards
+likecli tx distribution withdraw-all-rewards --from [DELEGATOR_ADDRESS] --chain-id [CHAIN_ID]
 ```
 
 ### Transaction: Unjail
@@ -113,7 +115,7 @@ likecli tx slashing unjail
 Get current delegations info from a delegator.
 
 ```text
-likecli query staking delegations [DELEGATOR_ADDRESS]
+likecli query staking delegations [DELEGATOR_ADDRESS] --chain-id [CHAIN_ID]
 ```
 
 ### Query: Validators
@@ -137,7 +139,7 @@ likecli query mint inflation
 Get current rewards which are not yet withdrawn.
 
 ```text
-likecli query distribution rewards [DELEGATOR_ADDRESS] [OPTIONAL_VALIDATOR_ADDRESS]
+likecli query distribution rewards [DELEGATOR_ADDRESS] --chain-id [CHAIN_ID] [OPTIONAL_VALIDATOR_ADDRESS]
 ```
 
 ## Governance
