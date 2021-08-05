@@ -8,7 +8,6 @@ The **LikeCoin Grants**, co-initiated by [LikeCoin Foundation](https://like.co/)
 
 Fore more details:
 
-* Official [GitHub page](https://github.com/likegrants/info/blob/main/introduction-en.md)
 * [Proposal Warehouse](https://www.notion.so/893cdd65f9f34851a92ca99e0cd969d0?v=d2f6efe098f64b68a9c21f239f1c90f4)
 * [LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) \#grants channel.
 
