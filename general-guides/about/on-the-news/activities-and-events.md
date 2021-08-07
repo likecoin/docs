@@ -2,6 +2,14 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 07/17 Hong Kong Open Souce Conference 2021
+
+[備份香港：紀錄歷史（區塊鏈存檔技術的應用）](https://hkoscon.org/2021/topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong)
+
+{% embed url="https://www.youtube.com/watch?v=ZGFDYlXGADI" %}
+
+
+
 ### 06/20 城寨 x Yolo 街
 
 [城寨 x Yolo 街 - 科技與香港人身份證同行動\(1\)：海外香港人網絡與科技創新](https://twitter.com/bonkat/status/1406443103179837444)
