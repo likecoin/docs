@@ -6,18 +6,18 @@
 
 Chain data, consensus key, node key and configuration files will be stored in `.liked` folder, default location is `$HOME/.liked`.
 
-In the init script, we are running `liked` in Docker \(image `likechain/likechain`\) and the `.liked` directory is placed in `likechain` root directory. So to run the commands below, you may need:
+In the init script, we are running `liked` in Docker \(image `likechain_liked`\) and the `.liked` directory is placed in `likechain` root directory. So to run the commands below, you may need:
 
 ```text
-docker run --rm -it -v `pwd`/.liked:/likechain/.liked likechain/likechain liked --home /likechain/.liked COMMANDS...
+docker run --rm -it -v `pwd`/.liked:/likechain/.liked likechain_likechain liked --home /likechain/.liked COMMANDS...
 ```
 
 \(Sometimes you may also need the `.likecli` directory mounted into the container, e.g. `gentx` which uses the keys managed by `likecli` to sign transaction\)
 
-If you already have the `likechain/liked` container running and wants to connect to it, you may need:
+If you already have the `likechain_liked` container running and wants to connect to it, you may need:
 
 ```text
-docker exec -it likechain/liked liked --home /likechain/.liked COMMANDS...
+docker exec -it likechain_liked liked --home /likechain/.liked COMMANDS...
 ```
 
 Common usage:
