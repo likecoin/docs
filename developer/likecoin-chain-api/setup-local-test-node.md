@@ -21,7 +21,7 @@ likecoin-chain-fotan && cd likecoin-chain-fotan
 2. Build the chain Docker image
 
 ```text
-./docker/build.sh
+./scripts/build.sh
 ```
 
 3. Add a key for local use, please record the **mnemonic** shown
