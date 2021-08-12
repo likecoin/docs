@@ -1,5 +1,5 @@
 ---
-description: What is the impact to Liker?
+description: What is the impact on Liker?
 ---
 
 # FoTan upgrade FAQ
