@@ -1,10 +1,10 @@
 ---
-description: 常見問題
+description: 是次升級對 Liker 有甚麼影響？
 ---
 
-# FoTan 升級
+# FoTan 升級常見問題
 
-LikeCoin chain 將於 2021年8月18日 19:45 GMT+8 晚上升級主鏈到 FoTan 版本，屆時驗證人將於 [Google Meet](https://meet.google.com/hhu-gniq-exd) 同步進行升級，任何人都歡迎參與線上會議。升級進行期間 Liker Land 所有操作暫停。你對這次升級有疑問嗎？不妨參考以下常見問題。
+LikeCoin chain 將於 2021年8月18日 19:45 GMT+8 晚上升級主鏈到 FoTan 版本，此後將支援 [ISCN \( International Standard Content Number \)](../decentralized-publishing/what-is-iscn.md) 內容註冊，及 IBC \( Inter Blockchain Communication \) 以支援跨鏈交易等多項重要功能。屆時驗證人將於 [Google Meet](https://meet.google.com/hhu-gniq-exd) 同步進行升級，任何人都歡迎參與線上會議。升級進行期間 Liker Land 所有操作暫停。你對這次升級有疑問嗎？不妨參考以下常見問題。
 
 ### 我的拍手會不見了嗎？
 
