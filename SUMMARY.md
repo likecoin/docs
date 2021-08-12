@@ -76,6 +76,7 @@
   * [Ledger](general-guides/wallet/hardware-wallet.md)
   * [Big Dipper](general-guides/wallet/big-dipper.md)
   * [Transaction Fee](general-guides/wallet/transaction-fee.md)
+  * [FoTan upgrade FAQ](general-guides/wallet/fotan.md)
   * [Migrating from ERC-20](general-guides/wallet/migration/README.md)
     * [Assisted Migration](general-guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
     * [LikeCoin Migration FAQ](general-guides/wallet/migration/migration-faq.md)
