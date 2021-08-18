@@ -8,17 +8,13 @@
 
 {% embed url="https://www.youtube.com/watch?v=ZGFDYlXGADI" %}
 
-
-
 ### 06/20 城寨 x Yolo 街
 
 [城寨 x Yolo 街 - 科技與香港人身份證同行動\(1\)：海外香港人網絡與科技創新](https://twitter.com/bonkat/status/1406443103179837444)
 
 ### 06/17 DeFi Summit
 
-{% embed url="https://twitter.com/Defi\_Summit/status/1405593511748059142/photo/1" %}
-
-{% embed url="https://www.youtube.com/watch?v=4E995anHkRA" %}
+{% embed url="https://www.youtube.com/watch?v=xh9xBh564lE" %}
 
 ### 05/28 DigiFinex - Cryptocurrency Exchange
 
@@ -26,7 +22,7 @@
 
 [DigiFinex AMA Recap \| Decentralized Publishing Infrastructure](https://blog.digifinex.com/2021/06/04/digifinex-ama-recap-decentralized-publishing-infrastructure/)
 
-{% embed url="https://www.facebook.com/digifinex.global/videos/331988538550815" %}
+{% embed url="https://www.youtube.com/watch?v=tY6oIrVvGLM" %}
 
 ### 05/03 Clubhouse HK Crypto 30mins ep.11
 
@@ -58,9 +54,9 @@
 
 {% embed url="https://www.facebook.com/culturemediahk/videos/223717656089852" %}
 
-### 01/14 UniDao Cosmos Demo day
+### 01/13 UniDao Cosmos Demo day
 
-{% embed url="https://twitter.com/poonphoebe/status/1349409669723291651" %}
+{% embed url="https://www.youtube.com/watch?v=z4L8H2rQrKI" %}
 
 🔚 
 {% endtab %}
