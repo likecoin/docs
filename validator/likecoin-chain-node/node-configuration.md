@@ -13,16 +13,32 @@ The minimum price per gas which your node will accept a transaction. The amount 
 Validators are recommend to set a `minimum-gas-prices` to a non zero value,  e.g. 
 
 ```text
-minimum-gas-prices = "0.01 nanolike" // or "1.0 nanolike"
+minimum-gas-prices = "1.0nanolike"
 ```
 
 Transaction that has a gas price lower than the configured value would not be processed by the validator. Forcing a minimum gas price to be set for all transactions helps combatting spam transactions.
 
 For details, please refer to [cosmos documentation](https://docs.cosmos.network/v0.39/modules/auth/01_concepts.html)
 
+### RESTful API
+
+Under the `[api]` section are the config for the RESTful API. Basically, if you need to enable the RESTful API, you may set `enable = true` under this section, and open the `1317` port \(or any other ports you configure by the `address` option in this section\) in the Docker config \(or any other configs  according to your setup\).
+
+### gRPC API
+
+Similar to the RESTful API, the gRPC API is controlled under the `[grpc]` section. It is enabled by default, so you may just need to setup in Docker config.
+
+### State Sync
+
+Under the `[state-sync]` section is the state sync functionality configs.
+
+State sync is for other nodes to synchronize by state snapshots without downloading the blocks one by one.
+
+It is disabled by default. To enable this option, set `snapshot-interval` to a multiple of 500 \(or other value according to the `pruning-keep-every` config\).
+
 ## config.toml
 
-config.toml is a configuration file located in `~/.likerd/config/config.toml` which controls node tendermint configurations.
+config.toml is a configuration file located in `.liked/config/config.toml` which controls node tendermint configurations.
 
 See [Tendermint docs](https://tendermint.com/docs/tendermint-core/configuration.html) for the detailed lists.
 

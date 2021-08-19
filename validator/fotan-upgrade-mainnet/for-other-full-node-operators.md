@@ -30,11 +30,11 @@ For non-validator nodes, or for validator nodes who cannot join the upgrade proc
 5. Get the genesis URL, which will be generated \(uploaded\) during the upgrade process by validators.
 6. Setup `.env` file according to the chain parameter:
    * `LIKECOIN_DOCKER_IMAGE`: `"likecoin/likecoin-chain:fotan-1"`
-   * `LIKECOIN_CHAIN_ID`: to be decided by the upgrade proposal
+   * `LIKECOIN_CHAIN_ID`: `"likecoin-mainnet-2"`
    * `LIKECOIN_UID`: normally keep it as `"1000"` is fine, but if you are using root user under Linux \(e.g. in some VPS\) then you should change it to `"0"`.
    * `LIKECOIN_MONIKER`: the original moniker \(in `.liked/config/config.toml`, search for `moniker`\). If not sure, any name indicating your node is OK.
-   * `LIKECOIN_GENESIS_URL`: the genesis URL you obtained from the previous step.
-   * `LIKECOIN_SEED_NODES`: to be setup
+   * `LIKECOIN_GENESIS_URL`: `https://gist.githubusercontent.com/williamchong/de1bdf2b2a8f3bce50a4b5e46af26959/raw/4e21bff586771c849d22e1916bcb88c6463fbaa0/genesis.json`
+   * `LIKECOIN_SEED_NODES`: `913bd0f4bea4ef512ffba39ab90eae84c1420862@34.82.131.35:26656,e44a2165ac573f84151671b092aa4936ac305e2a@nnkken.dev:26656`
 7. Backup the original node if you have one:
 
    ```text

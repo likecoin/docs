@@ -40,7 +40,7 @@
 * [Technical Introduction](validator/technical-introduction.md)
 * [LikeCoin chain node](validator/likecoin-chain-node/README.md)
   * [Setup local test node](validator/likecoin-chain-node/setup-local-test-node.md)
-  * [Setup mainnet node](validator/likecoin-chain-node/setup-mainnet-node.md)
+  * [Setup a node](validator/likecoin-chain-node/setup-a-node.md)
   * [Node configuration](validator/likecoin-chain-node/node-configuration.md)
   * [Command line interface](validator/likecoin-chain-node/command-line-interface/README.md)
     * [Useful commands](validator/likecoin-chain-node/command-line-interface/useful-commands.md)
