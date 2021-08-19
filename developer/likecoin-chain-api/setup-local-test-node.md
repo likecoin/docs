@@ -1,67 +1,61 @@
 # Setup local test node
 
-1. Clone the [likecoin-chain](https://github.com/likecoin/likecoin-chain) git repository
-
-* For SheungWan
-
-```text
-git clone https://github.com/likecoin/likecoin-chain \
---branch sheungwan --single-branch \
-likecoin-chain-sheungwan && cd likecoin-chain-sheungwan
-```
-
-* For FoTan
+1. Clone the [likecoin-chain](https://github.com/likecoin/likecoin-chain) git repository at the `fotan-1` branch
 
 ```text
 git clone https://github.com/likecoin/likecoin-chain \
 --branch fotan-1 --single-branch \
-likecoin-chain-fotan && cd likecoin-chain-fotan
+likecoin-chain && cd likecoin-chain
 ```
 
-2. Build the chain Docker image
+2. \(optional\) Build the chain Docker image
 
 ```text
-./scripts/build.sh
+./build.sh
 ```
 
-3. Add a key for local use, please record the **mnemonic** shown
+3. Setup the needed files and folders
+
+```text
+cp docker-compose.template.yml docker-compose.yml
+cp .env.template .env
+mkdir -p .liked
+```
+
+4. Add a key for local use, please record the **mnemonic** shown
 
 ```text
 export YOUR_KEY_NAME=<type your key name here>
-export CHAIN_ID=likechain-local-testnet
-docker-compose run --rm liked \
-liked --home /likechain/.liked \
-keys add $YOUR_KEY_NAME
+export CHAIN_ID=<type your chain ID here>
+docker-compose run --rm liked-command \
+    keys add $YOUR_KEY_NAME
 ```
 
-4. Init the testnet
+5. Init the testnet
 
 ```text
-docker-compose run --rm liked \
-liked --home /likechain/.liked \
-init testnet --chain-id $CHAIN_ID
+docker-compose run --rm liked-command \
+    init testnet --chain-id $CHAIN_ID
 ```
 
 5. Set all denom in `genesis.json` to nanolike
 
 ```text
-docker-compose run --rm liked \
-sed -i  's/"stake"/"nanolike"/g' /likechain/.liked/config/genesis.json
+docker-compose run --rm liked-service \
+    sed -i 's/"stake"/"nanolike"/g' /likechain/.liked/config/genesis.json
 ```
 
 6. Init the testnet accounts
 
 ```text
-docker-compose run --rm liked \
-liked --home /likechain/.liked \
-add-genesis-account $YOUR_KEY_NAME 1000000000000000000nanolike
+docker-compose run --rm liked-command \
+    add-genesis-account $YOUR_KEY_NAME 1000000000000000000nanolike
 
-docker-compose run --rm liked \
-liked --home /likechain/.liked \
-gentx $YOUR_KEY_NAME 1000000000000000000nanolike --chain-id $CHAIN_ID
+docker-compose run --rm liked-command
+    gentx $YOUR_KEY_NAME 1000000000000000000nanolike --chain-id $CHAIN_ID
 
-docker-compose run --rm liked \
-liked --home /likechain/.liked collect-gentxs
+docker-compose run --rm liked-command \
+    collect-gentxs
 ```
 
 7. Modify `docker-compose.yml` and `./.liked/config/app.toml` if you need lcd / grpc services

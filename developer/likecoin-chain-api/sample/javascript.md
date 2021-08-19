@@ -10,7 +10,7 @@ This example would show how to sign a simple transaction
 
 ```javascript
 const secp256k1 = require('secp256k1');
-const bech32 = require('bech32');
+const { bech32 } = require('bech32');
 const createHash = require('create-hash');
 const jsonStringify = require('fast-json-stable-stringify');
 const bip39 = require('bip39');
@@ -59,10 +59,10 @@ const signBytes = jsonStringify({
     "amount": [
       {
         "denom": "nanolike",
-        "amount": "44000000"
+        "amount": "100000000"
       }
     ],
-    "gas": "44000"
+    "gas": "100000"
   },
   "msgs": [
     {
@@ -89,7 +89,7 @@ signer.sign(signBytes);
 // private key: 0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
 // public key: A0ZGrlBHMWtCMNAIbIrOxofwCxzZ0dxjT2yzWKwKmo//
 // address: cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04
-// signature: yXcQvLVEHZMIzZijEgmcL5S7orusBURZoRjWuG1IpoItt5DhY8P9TUaxx31huxV200l6GcEbUlB/Y7jONuf3Bw==
+// signature: iBIA5d+tZ99hlcjdzvpm8/eHtK31kblp1lCHWb4CSzEQUm/Wns/emogUn6VsSQVt2eYPpLjnfNXas5PMgWzdnw==
 ```
 
 ### Broadcasting a signed transaction
@@ -119,15 +119,15 @@ Then we can format our transaction for calling the chain RPC API `POST /txs`, to
             "amount": [
                 {
                     "denom": "nanolike",
-                    "amount": "44000000"
+                    "amount": "100000000"
                 }
             ],
-            "gas": "44000"
+            "gas": "100000"
         },
         "memo": "",
         "signatures": [
             {
-                "signature": "yXcQvLVEHZMIzZijEgmcL5S7orusBURZoRjWuG1IpoItt5DhY8P9TUaxx31huxV200l6GcEbUlB/Y7jONuf3Bw==",
+                "signature": "iBIA5d+tZ99hlcjdzvpm8/eHtK31kblp1lCHWb4CSzEQUm/Wns/emogUn6VsSQVt2eYPpLjnfNXas5PMgWzdnw==",
                 "pub_key": {
                     "type": "tendermint/PubKeySecp256k1",
                     "value": "A0ZGrlBHMWtCMNAIbIrOxofwCxzZ0dxjT2yzWKwKmo//"
@@ -148,9 +148,9 @@ For verifying a transaction, we would need to know the public key of the signatu
 const secp256k1 = require('secp256k1');
 const createHash = require('create-hash');
 
-const signature = Buffer.from('yXcQvLVEHZMIzZijEgmcL5S7orusBURZoRjWuG1IpoItt5DhY8P9TUaxx31huxV200l6GcEbUlB/Y7jONuf3Bw==', 'base64');
+const signature = Buffer.from('iBIA5d+tZ99hlcjdzvpm8/eHtK31kblp1lCHWb4CSzEQUm/Wns/emogUn6VsSQVt2eYPpLjnfNXas5PMgWzdnw==', 'base64');
 const publicKey = Buffer.from('A0ZGrlBHMWtCMNAIbIrOxofwCxzZ0dxjT2yzWKwKmo//', 'base64');
-const msg = '{"account_number":"21","chain_id":"likechain-testnet-taipei-1","fee":{"amount":[{"amount":"44000000","denom":"nanolike"}],"gas":"44000"},"memo":"","msgs":[{"type":"cosmos-sdk/MsgSend","value":{"amount":[{"amount":"123456789","denom":"nanolike"}],"from_address":"cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04","to_address":"cosmos1ca0zlqxjqv5gek5qxm602umtkmu88564hpyws4"}}],"sequence":"0"}'
+const msg = '{"account_number":"21","chain_id":"likechain-testnet-taipei-1","fee":{"amount":[{"amount":"100000000","denom":"nanolike"}],"gas":"100000"},"memo":"","msgs":[{"type":"cosmos-sdk/MsgSend","value":{"amount":[{"amount":"123456789","denom":"nanolike"}],"from_address":"cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04","to_address":"cosmos1ca0zlqxjqv5gek5qxm602umtkmu88564hpyws4"}}],"sequence":"0"}'
 const msgSha256 = createHash('sha256');
 msgSha256.update(msg);
 const msgHash = msgSha256.digest();

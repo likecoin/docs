@@ -18,25 +18,20 @@ See [here](https://gist.github.com/nnkken/90428d73f38d957de1b75ec3992d9342#file-
 
 To use the RPC APIs, we need a a lite client endpoint, which communicates with full nodes and verify the data from full nodes cryptographically \(e.g. verifying Merkle proof\).
 
-For the Taipei testnet, users can use the following endpoint:
-
-```text
-Lite client endpoint: https://node.taipei.like.co
-Chain ID: likechain-testnet-taipei-1
-```
-
-For the SheungWan mainnet:
+For the FoTan mainnet:
 
 ```text
 Lite client endpoint: https://mainnet-node.like.co
-Chain ID: likecoin-chain-sheungwan
+Chain ID: likecoin-mainnet-2
 ```
 
 Users can also run a full node and a lite client.
 
-To setup a full node, please follow the instruction from this document: [https://github.com/likecoin/likecoin-chain/wiki/Setup-LikeCoin-chain-mainnet-node](https://github.com/likecoin/likecoin-chain/wiki/Setup-LikeCoin-chain-mainnet-node)
+To setup a full node, please follow the instruction from this document: [https://github.com/likecoin/likecoin-chain/wiki/Setup-LikeCoin-chain-mainnet-node](https://github.com/likecoin/likecoin-chain/tree/fotan-1#readme)
 
-For lite client, users can host a lite client using the `likecli` command in the Docker image.
+\(TODO: genesis URL and seed node\)
+
+Since the FoTan upgraed, the RESTful API is built into the `liked` command. You may modify `.liked/config/app.toml` for enabling the RESTful API if needed.
 
 [Here](https://gist.github.com/nnkken/90428d73f38d957de1b75ec3992d9342#file-docker-compose-yml) is an example Docker Compose config file for running the Taipei network full node and lite client. This hosts an RPC API endpoint on port 1317.  
 

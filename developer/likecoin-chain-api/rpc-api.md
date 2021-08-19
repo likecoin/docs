@@ -2,9 +2,9 @@
 
 ## RPC API
 
-Please refer to swagger document for a full list of API
+Since LikeCoin chain is based on Cosmos SDK, you may refer to the Cosmos SDK documents for most of the API:
 
-[https://mainnet-node.like.co/swagger-ui/](https://mainnet-node.like.co/swagger-ui/)
+[https://v1.cosmos.network/rpc/v0.42.6](https://v1.cosmos.network/rpc/v0.42.6)
 
 ### GET /auth/accounts/{address}
 
@@ -49,33 +49,31 @@ User can check if the whole transaction succeeded by checking if the last object
 
 Example: 
 
-[https://mainnet-node.like.co/txs/F7AE531BC8CDD70A8C69ADBCD1F77029C11965900F3F0F239627E1DAF2C72A77](https://mainnet-node.like.co/txs/F7AE531BC8CDD70A8C69ADBCD1F77029C11965900F3F0F239627E1DAF2C72A77)
+[https://mainnet-node.like.co/txs/F7AE531BC8CDD70A8C69ADBCD1F77029C11965900F3F0F239627E1DAF2C72A77](https://mainnet-node.like.co/txs/0311566B20DDE13FD8323513E94366EFD379812EA3A7283065398BE212399B60)
 
 ```text
 {
-  "height": "8606074",
-  "txhash": "F7AE531BC8CDD70A8C69ADBCD1F77029C11965900F3F0F239627E1DAF2C72A77",
-  "raw_log": "[{\\"msg_index\\":0,\\"success\\":true,\\"log\\":\\"\\",\\"events\\":[{\\"type\\":\\"message\\",\\"attributes\\":[{\\"key\\":\\"sender\\",\\"value\\":\\"cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0\\"},{\\"key\\":\\"module\\",\\"value\\":\\"bank\\"},{\\"key\\":\\"action\\",\\"value\\":\\"send\\"}]},{\\"type\\":\\"transfer\\",\\"attributes\\":[{\\"key\\":\\"recipient\\",\\"value\\":\\"cosmos1rtwfrx9cq2ly7l59gy9607pxtp5nnutc3l3x2u\\"},{\\"key\\":\\"amount\\",\\"value\\":\\"9000000000nanolike\\"}]}]},{\\"msg_index\\":1,\\"success\\":true,\\"log\\":\\"\\",\\"events\\":[{\\"type\\":\\"message\\",\\"attributes\\":[{\\"key\\":\\"sender\\",\\"value\\":\\"cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0\\"},{\\"key\\":\\"module\\",\\"value\\":\\"bank\\"},{\\"key\\":\\"action\\",\\"value\\":\\"send\\"}]},{\\"type\\":\\"transfer\\",\\"attributes\\":[{\\"key\\":\\"recipient\\",\\"value\\":\\"cosmos1yyrcdn5j5pw2vf8yk2r9u04kk8kltxza6jd0ke\\"},{\\"key\\":\\"amount\\",\\"value\\":\\"3000000000nanolike\\"}]}]}]",
+  "height": "6455",
+  "txhash": "0311566B20DDE13FD8323513E94366EFD379812EA3A7283065398BE212399B60",
+  "data": "0A060A0473656E64",
+  "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"send\"},{\"key\":\"sender\",\"value\":\"cosmos1ww3qews2y5jxe8apw2zt8stqqrcu2tptejfwaf\"},{\"key\":\"module\",\"value\":\"bank\"}]},{\"type\":\"transfer\",\"attributes\":[{\"key\":\"recipient\",\"value\":\"cosmos1ecrze4q94n7je5jyeueeym73t47px8ev0xfjtj\"},{\"key\":\"sender\",\"value\":\"cosmos1ww3qews2y5jxe8apw2zt8stqqrcu2tptejfwaf\"},{\"key\":\"amount\",\"value\":\"1nanolike\"}]}]}]",
   "logs": [
     {
-      "msg_index": 0,
-      "success": true,
-      "log": "",
       "events": [
         {
           "type": "message",
           "attributes": [
             {
+              "key": "action",
+              "value": "send"
+            },
+            {
               "key": "sender",
-              "value": "cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0"
+              "value": "cosmos1ww3qews2y5jxe8apw2zt8stqqrcu2tptejfwaf"
             },
             {
               "key": "module",
               "value": "bank"
-            },
-            {
-              "key": "action",
-              "value": "send"
             }
           ]
         },
@@ -84,56 +82,23 @@ Example:
           "attributes": [
             {
               "key": "recipient",
-              "value": "cosmos1rtwfrx9cq2ly7l59gy9607pxtp5nnutc3l3x2u"
+              "value": "cosmos1ecrze4q94n7je5jyeueeym73t47px8ev0xfjtj"
             },
-            {
-              "key": "amount",
-              "value": "9000000000nanolike"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "msg_index": 1,
-      "success": true,
-      "log": "",
-      "events": [
-        {
-          "type": "message",
-          "attributes": [
             {
               "key": "sender",
-              "value": "cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0"
-            },
-            {
-              "key": "module",
-              "value": "bank"
-            },
-            {
-              "key": "action",
-              "value": "send"
-            }
-          ]
-        },
-        {
-          "type": "transfer",
-          "attributes": [
-            {
-              "key": "recipient",
-              "value": "cosmos1yyrcdn5j5pw2vf8yk2r9u04kk8kltxza6jd0ke"
+              "value": "cosmos1ww3qews2y5jxe8apw2zt8stqqrcu2tptejfwaf"
             },
             {
               "key": "amount",
-              "value": "3000000000nanolike"
+              "value": "1nanolike"
             }
           ]
         }
       ]
     }
   ],
-  "gas_wanted": "90000",
-  "gas_used": "59405",
+  "gas_wanted": "200000",
+  "gas_used": "64621",
   "tx": {
     "type": "cosmos-sdk/StdTx",
     "value": {
@@ -141,105 +106,29 @@ Example:
         {
           "type": "cosmos-sdk/MsgSend",
           "value": {
-            "from_address": "cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0",
-            "to_address": "cosmos1rtwfrx9cq2ly7l59gy9607pxtp5nnutc3l3x2u",
+            "from_address": "cosmos1ww3qews2y5jxe8apw2zt8stqqrcu2tptejfwaf",
+            "to_address": "cosmos1ecrze4q94n7je5jyeueeym73t47px8ev0xfjtj",
             "amount": [
               {
                 "denom": "nanolike",
-                "amount": "9000000000"
-              }
-            ]
-          }
-        },
-        {
-          "type": "cosmos-sdk/MsgSend",
-          "value": {
-            "from_address": "cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0",
-            "to_address": "cosmos1yyrcdn5j5pw2vf8yk2r9u04kk8kltxza6jd0ke",
-            "amount": [
-              {
-                "denom": "nanolike",
-                "amount": "3000000000"
+                "amount": "1"
               }
             ]
           }
         }
       ],
       "fee": {
-        "amount": [
-          {
-            "denom": "nanolike",
-            "amount": "9000000"
-          }
-        ],
-        "gas": "90000"
+        "amount": [],
+        "gas": "200000"
       },
-      "signatures": [
-        {
-          "pub_key": {
-            "type": "tendermint/PubKeySecp256k1",
-            "value": "Ao6v0S5CPswEb9qqhtrgWo6asFYZtXKmxrBhISk5qfVe"
-          },
-          "signature": "TtFrJq6shII+a/yUFBUtx06FnhC4bG/BYy7QaoSpra91aiaJAlBgjSJmFGvQwl0rICG/BhxG7V2mHysIkx8QZw=="
-        }
-      ],
-      "memo": "superlike: 2446920329705075"
+      "signatures": [],
+      "memo": "",
+      "timeout_height": "0"
     }
   },
-  "timestamp": "2021-05-27T16:12:22Z",
-  "events": [
-    {
-      "type": "message",
-      "attributes": [
-        {
-          "key": "sender",
-          "value": "cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0"
-        },
-        {
-          "key": "module",
-          "value": "bank"
-        },
-        {
-          "key": "action",
-          "value": "send"
-        },
-        {
-          "key": "sender",
-          "value": "cosmos1w4hq98jtjg729ft4um63y7z4l9wdtgrlv9n5y0"
-        },
-        {
-          "key": "module",
-          "value": "bank"
-        },
-        {
-          "key": "action",
-          "value": "send"
-        }
-      ]
-    },
-    {
-      "type": "transfer",
-      "attributes": [
-        {
-          "key": "recipient",
-          "value": "cosmos1rtwfrx9cq2ly7l59gy9607pxtp5nnutc3l3x2u"
-        },
-        {
-          "key": "amount",
-          "value": "9000000000nanolike"
-        },
-        {
-          "key": "recipient",
-          "value": "cosmos1yyrcdn5j5pw2vf8yk2r9u04kk8kltxza6jd0ke"
-        },
-        {
-          "key": "amount",
-          "value": "3000000000nanolike"
-        }
-      ]
-    }
-  ]
+  "timestamp": "2021-08-19T02:57:22Z"
 }
+
 ```
 
 ### POST /txs
