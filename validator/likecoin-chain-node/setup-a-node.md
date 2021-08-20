@@ -1,4 +1,4 @@
-# Setup a node
+# Setup a node \(mainnet / public testnet\)
 
 ### Requirements
 

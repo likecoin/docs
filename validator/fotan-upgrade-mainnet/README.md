@@ -1,4 +1,4 @@
-# FoTan Upgrade \(Mainnet\)
+# FoTan Upgrade
 
-Please also see: [Overview](../fotan-upgrade-testnet/overview.md), [Software Changes Overview](../fotan-upgrade-testnet/software-changes-overview.md)
+Both testnet and mainnet upgrades are completed. For setting up a mainnet or testnet node, see [here](../likecoin-chain-node/setup-a-node.md).
 

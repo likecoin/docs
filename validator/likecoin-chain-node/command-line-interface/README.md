@@ -6,19 +6,13 @@
 
 Chain data, consensus key, node key and configuration files will be stored in `.liked` folder, default location is `$HOME/.liked`.
 
-In the init script, we are running `liked` in Docker \(image `likechain_liked`\) and the `.liked` directory is placed in `likechain` root directory. So to run the commands below, you may need:
+With the setup guide, we are running `liked` in Docker and the `.liked` directory is placed in `likecoin-chain` root directory. We provided some convenient shortcuts using Docker Compose profiles, so you can run the `liked` command by:
 
 ```text
-docker run --rm -it -v `pwd`/.liked:/likechain/.liked likechain_likechain liked --home /likechain/.liked COMMANDS...
+docker-compose run --rm liked-command SUB-COMMANDS...    
 ```
 
-\(Sometimes you may also need the `.likecli` directory mounted into the container, e.g. `gentx` which uses the keys managed by `likecli` to sign transaction\)
-
-If you already have the `likechain_liked` container running and wants to connect to it, you may need:
-
-```text
-docker exec -it likechain_liked liked --home /likechain/.liked COMMANDS...
-```
+If you met permission issues \(e.g. `panic: could not create directory "//.liked": mkdir //.liked: permission denied`\), please add `--user 0` after `--rm` to run as root.
 
 Common usage:
 
@@ -88,32 +82,10 @@ This command provides subcommands for querying info about Tendermint, e.g. conse
 
 See `--help` for more details.
 
-## likecli
-
-`likecli` is for communicating with nodes, e.g. query chain info, send transactions.
-
-It also manages address private keys and starts lite client.
-
-Keys and lite client data will be stored in `.likecli` folder, default location is `$HOME/.likecli`.
-
-In the init script, we are running `likecli` in Docker \(image `likechain/likechain`\) and the `.likecli` directory is placed in `likechain` root directory. So to run the commands below, you may need:
-
-```text
-docker run --rm -it -v `pwd`/.likecli:/likechain/.likecli likechain/likechain likecli --home /likechain/.likecli COMMANDS...
-```
-
-If you already have the `likechain/liked` container running and wants to connect to it, you may need:
-
-```text
-docker exec -it likechain/liked likecli --home /likechain/.likecli COMMANDS...
-```
-
-Common usage:
-
 ### Key management
 
 ```text
-likecli keys [SUBCOMMANDS]
+liked keys [SUBCOMMANDS]
 ```
 
 This command provides subcommands for managing address keys, e.g. adding, removing, exporting, importing keys.
@@ -121,19 +93,19 @@ This command provides subcommands for managing address keys, e.g. adding, removi
 #### List keys available
 
 ```text
-likecli keys list
+liked keys list
 ```
 
 #### Create a new key
 
 ```text
-likecli keys add [KEY_NAME]
+liked keys add [KEY_NAME]
 ```
 
 #### Import a recovery phase
 
 ```text
-likecli keys add --recover [KEY_NAME]
+liked keys add --recover [KEY_NAME]
 ```
 
 See `--help` for more details.
@@ -141,7 +113,7 @@ See `--help` for more details.
 ### Querying chain info
 
 ```text
-likecli query [SUBCOMMANDS]
+liked query [SUBCOMMANDS]
 ```
 
 This command aggregates subcommands provided by Cosmos SDK modules for querying chain data.
@@ -149,35 +121,33 @@ This command aggregates subcommands provided by Cosmos SDK modules for querying 
 #### Querying account info
 
 ```text
-likecli query auth account cosmos1xvymudttgxrypxwy0ujnu5pgd6fq6c079yuf92
+liked query auth account cosmos1xvymudttgxrypxwy0ujnu5pgd6fq6c079yuf92
 ```
 
 ### Signing and sending transactions
 
 ```text
-likecli tx [SUBCOMMANDS]
+liked tx [SUBCOMMANDS]
 ```
 
 This command aggregates subcommands provided by Cosmos SDK modules for generating and signing transactions.
 
-Example: sending 1000 LikeCoins from the `faucet` account managed by `likecli`
+Example: sending 1000 LIKE from the `faucet` account managed by `liked`
 
 ```text
-likecli tx send faucet cosmos1mw2l98asefxev9s9mvdtm2j5mcap9mn5t3u8lh 1000000000000nanolike \
-    --chain-id likechain-testnet-taipei-1 \
-    --gas 44000 \
-    --gas-prices 1000.0nanolike
+likecli tx bank send faucet cosmos1mw2l98asefxev9s9mvdtm2j5mcap9mn5t3u8lh 1000000000000nanolike \
+    --chain-id likecoin-public-testnet-3 \
+    --gas 100000 \
+    --gas-prices 100.0nanolike
 ```
 
-## Lite client
+## likecli
 
-```text
-likecli rest-server
-```
+In the old SheungWan software, commands are split into two executables: `liked` for server and `likecli` for client.
 
-This command starts the lite client, which exposes the node APIs as understandable RESTful APIs.
+However, since the FoTan upgrade, two commands are now combined, so `likecli` is deprecated.
 
+If you have keys managed by `likecli`, you can migrate those keys by `liked keys migrate`.
 
-
-See the [Cosmos SDK RPC doc](https://cosmos.network/rpc/) for more details.
+For the RESTful API, it is also built into `liked`, you may enable the APIs from `.liked/config/app.toml` and open the corresponding ports.
 
