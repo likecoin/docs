@@ -30,9 +30,9 @@
 * [ISCN](developer/international-standard-content-number-iscn/README.md)
   * [ISCN IPFS plugin](developer/international-standard-content-number-iscn/iscn-ipfs-plugin.md)
   * [ISCN Badge](developer/international-standard-content-number-iscn/iscn-badge.md)
-  * [Specification](developer/international-standard-content-number-iscn/specification/README.md)
-    * [Web Widget \(testnet\)](developer/international-standard-content-number-iscn/specification/web-widget-testnet/README.md)
-      * [Reference](developer/international-standard-content-number-iscn/specification/web-widget-testnet/reference.md)
+  * [Web Widget](developer/international-standard-content-number-iscn/web-widget-testnet/README.md)
+    * [Reference](developer/international-standard-content-number-iscn/web-widget-testnet/reference.md)
+  * [Specification](developer/international-standard-content-number-iscn/specification.md)
 * [Ecosystem Statistics Badge](developer/badge.md)
 
 ## 👥 Validator Guide <a id="validator"></a>
