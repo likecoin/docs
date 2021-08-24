@@ -16,7 +16,8 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 | :--- | :--- | :--- |
 | 星期一、6月7日  | LikeCoin Development Grant Progress & 1st round submissions | Phoebe, Jiahe |
 | 星期一、7月5日 | LikeCoin chain upgrade preparation  |  |
-| 星期一、8月2日 |  |  |
+| 星期一、8月2日 | Recap Testnet Upgrade, LikeCoin Grant Update |  |
+| 星期一、9月9日 |  |  |
 
 ## 會議時間
 
@@ -37,6 +38,7 @@ LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，�
 
 ## 會議記錄 <a id="minutes"></a>
 
+* [LikeCoin Community Update \#202108](https://medium.com/likecoin/likecoin-community-update-202108-abb71c67145c)
 * [LikeCoin Community Call \#202107 Minutes  ](https://medium.com/likecoin/likecoin-community-call-202107-minutes-7edeb276198d)
 * [LikeCoin Community Call \#202106 Minutes  ](https://medium.com/likecoin/likecoin-community-call-202106-minutes-3f971d47bf2f)
 * [LikeCoin Community Call \#202105 Minutes  ](https://medium.com/likecoin/likecoin-community-call-202105-minutes-be3e8bbfa9e5)
