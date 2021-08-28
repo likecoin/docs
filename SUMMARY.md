@@ -66,7 +66,7 @@
   * [What is the relationship between ISCN and IPFS?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
   * [What's the point of decentralization to the content ecosystem?](general-guides/decentralized-publishing/benefits.md)
   * [What type of content is supported by ISCN?](general-guides/decentralized-publishing/content-type.md)
-  * [app.like.co](general-guides/decentralized-publishing/app.like.co.md)
+  * [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co.md)
 * [LikeCoin Token](general-guides/likecoin-token.md)
 * [Wallet](general-guides/wallet/README.md)
   * [LIKE pay](general-guides/wallet/like-pay.md)
