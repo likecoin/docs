@@ -53,7 +53,7 @@ app.like.co 仍在開發階段，現時用戶可使用測試版本嘗試註冊�
 * Author - URL 創作者的網址 
 * Keywords 關鍵字，幫助人們搜尋你的內容
 * URL 該內容的網址
-* License 內容授權 不妨參考共享創意的授權條款
+* License 內容授權，不妨參考共享創意的授權條款
 
 ![](../../.gitbook/assets/iscn-register-07.png)
 
@@ -77,7 +77,7 @@ app.like.co 仍在開發階段，現時用戶可使用測試版本嘗試註冊�
 
 ![](../../.gitbook/assets/iscn-register-10.png)
 
-點擊項目出現已註冊的內容明細。
+點擊項目出現已註冊的元資料內容明細。
 
 ![](../../.gitbook/assets/iscn-register-11.png)
 
