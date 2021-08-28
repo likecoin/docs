@@ -14,7 +14,7 @@
   * [ISCN 和 IPFS 的關係是什麼？](guides/decentralized-publishing/iscn-ipfs-relationship.md)
   * [ISCN 的去中心特性對內容生態有什麼好處？](guides/decentralized-publishing/benefits.md)
   * [ISCN 支援什麼內容格式？](guides/decentralized-publishing/content-type.md)
-  * [app.like.co](guides/decentralized-publishing/app.like.co.md)
+  * [如何註冊 ISCN](guides/decentralized-publishing/app.like.co.md)
 * [錢包](guides/wallet/README.md)
   * [LIKE pay](guides/wallet/like-pay.md)
   * [Keplr](guides/wallet/keplr.md)
