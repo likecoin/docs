@@ -12,7 +12,7 @@ Users can also check an ISCN record and it's details in app.like.co.
 
 ![](../../.gitbook/assets/app.like.co.png)
 
-app.like.co is still under development, users can use the prototype to try out and register his/her ISCN.
+app.like.co is still under development but users can use the prototype to try out and register his/her ISCN.
 
 ### Step 1: Login app.like.co
 
@@ -20,7 +20,7 @@ app.like.co is still under development, users can use the prototype to try out a
 Please register a Keplr wallet before registering an ISCN. There are two ways to register a Keplr wallet: Register a [Keplr](../wallet/keplr.md) wallet without bonding a Liker ID, or register a Liker ID with Keplr. Please note if you have registered a Liker ID with Liker Land by an email address, the same email cannot be utilized to register a Liker ID with Keplr.
 {% endhint %}
 
-Please login your Keplr wallet and go to apple.ike.co. Click "Keplr" on the top right hand corner, Keplr wallet  may  require you to sign please click "Approve".
+Please login your Keplr wallet and go to [apple.ike.co](https://app.like.co/). Click "Keplr" on the top right hand corner, Keplr wallet  may  require you to sign, please click "Approve".
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBLd7NJUTXXefb_k9_%2Fiscn%20register%2001.png?alt=media&token=b99dfa89-601a-4b93-8c85-c342e95baef4)
 
@@ -51,8 +51,8 @@ Fill in the information about this content:
 * Author - Creator Name, can fill in more than one creators
 * Author - Wallet Address
 * Author - URL, of the creator
-* Keywords, help other to find your content
-* URL,  of the content
+* Keywords, help others to find your content
+* URL, of the content
 * License, may refer to Creative Commons for reference
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBn9at4WpwovqKDCh6%2Fiscn%20register%2007.png?alt=media&token=60587674-6ef6-4de7-8c7c-f7b580b238b4)
@@ -63,7 +63,7 @@ After filling in the information, click "Register".
 
 ### Step 4:  Getting the ISCN <a id="bu-zhou-si-huo-qu-iscn"></a>
 
-A Keplr transaction screen will appear, select the speed that you need: Low, Average or High then click "Approve". Registering an ISCN requires less than one LikeCoin now so no worry, just try on it.
+A Keplr transaction screen will appear, select the speed that you need: Low, Average or High, then click "Approve". Registering an ISCN requires less than one LikeCoin now so no worry, just try on it.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBoJ_Pt6exkBifDOCu%2Fiscn%20register%2008.png?alt=media&token=ae40db4f-f625-428a-a146-198df4837544)
 
@@ -75,7 +75,7 @@ Click on "Your Publishing", all the ISCN that you've registered is in here.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBrLPsMJ5qilDTUQka%2Fiscn%20register%2010.png?alt=media&token=c0f1b33c-60d1-428b-b116-0f7cab96ef96)
 
-_Click on the ISCN item and display the metadata._
+Click on the ISCN item and display the metadata.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBrSx8ySFu2Z-DfEgE%2Fiscn%20register%2011.png?alt=media&token=dfb44d02-75bf-4506-9021-fa21f9c95046)
 
