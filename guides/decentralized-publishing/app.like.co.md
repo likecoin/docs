@@ -59,11 +59,17 @@ app.like.co 仍在開發階段，現時用戶可使用測試版本嘗試註冊�
 
 ![](../../.gitbook/assets/iscn-register-06.png)
 
+雖然很多欄目也不是必填，但建議盡量填寫讓別人可容易發堀你的內容。
+
+填寫作者時可加入多於一位作者。
+
 完成後，點擊「Register」。
 
 ### 步驟四：獲取 ISCN
 
 此時將彈出 Keplr 視窗，選擇所需要完成註冊的速度（慢 Low、平均 Average、快 High）並點擊「Approve」。暫時註冊 ISCN 費用少於 1 LikeCoin，大家可放心測試。
+
+出版到區塊鏈過程只需數秒。
 
 
 
