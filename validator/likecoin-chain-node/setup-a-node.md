@@ -1,6 +1,6 @@
 # Setup a node \(mainnet / public testnet\)
 
-### Requirements
+## Requirements
 
 1 core machine with 2 GB RAM, running Linux or Mac, with Docker and Docker Compose \(version &gt;= 1.28\) installed.
 
@@ -8,22 +8,22 @@ At least 100 GB storage for chain data. \(Estimated storage requirement: 40 GB p
 
 Please make sure that your TCP port 26656 is connectable from external network.
 
-### Setup steps
+## Setup steps
 
 1. [Clone the project](https://github.com/likecoin/likecoin-chain/wiki/Setup-LikeCoin-chain-mainnet-node#clone-the-project)
 2. [Build the Docker image](https://github.com/likecoin/likecoin-chain/wiki/Setup-LikeCoin-chain-mainnet-node#build-the-docker-image)
 3. [Initialize the node and account keys](https://github.com/likecoin/likecoin-chain/wiki/Setup-LikeCoin-chain-mainnet-node#initialize-the-node-and-account-keys)
 4. [Start up the node](https://github.com/likecoin/likecoin-chain/wiki/Setup-LikeCoin-chain-mainnet-node#start-up-the-node) and wait for synchronization catch up
 
-#### Clone the project
+### Clone the project
 
 Run `git clone https://github.com/likecoin/likecoin-chain --branch fotan-1 --single-branch`, then `cd likecoin-chain`.
 
-#### Build the Docker image
+### Build the Docker image
 
 Run `./build.sh`.
 
-#### Initialize the node and account keys
+### Initialize the node and account keys
 
 Run
 
@@ -58,17 +58,32 @@ Run `docker-compose run --rm liked-command keys add validator` to add an operato
 
 When asked, enter and repeat a passphrase for protecting your account key.
 
-#### Start up the node
+### Start up the node
 
 Run `docker-compose up -d`. This will create and run the Docker containers in background.
 
 To see if the node is running well, you can input `docker-compose logs` to see if there is any error.
 
-The node will connect to the network and start to synchronize blocks, which may take some time depends on how long the network is started.
+The node will connect to the network and start to synchronize blocks, which may take some time depends on how long the network is started. You can also consider using state sync described below to quickly catch up with latest blocks.
 
 You can check the synchronization progress at http://{YOUR\_NODES\_IP}:26657/status. `result.sync_info.catching_up` will be `false` if the node has already caught up the network's blocks.
 
-#### Becoming a validator
+### State Sync
+
+Figure out latest block height from the API [https://mainnet-node.like.co/blocks/latest](https://mainnet-node.like.co/blocks/latest).  Get the block hash of a past block closest to a multiple of 500. Say if the latest block is `225512`, we would use block number `225500` which hash `10737475ED545C9BE1A48E1F99BD8D2941E7E286EDB71FC1B9E15E27032144DB` can be found at [https://mainnet-node.like.co/blocks/225500](https://mainnet-node.like.co/blocks/225500).
+
+To enable state sync, modify the `[statesync]` session of config.yaml as below, using our example height `225500` from above. You should modify the config according to latest block height.
+
+```text
+[statesync]
+enable = true
+rpc_servers = "https://fotan-node-1.like.co/rpc/,https://fotan-node-2.like.co/rpc/"
+trust_height = 225500
+trust_hash = "10737475ED545C9BE1A48E1F99BD8D2941E7E286EDB71FC1B9E15E27032144DB"
+trust_period = "168h0m0s"
+```
+
+### Becoming a validator
 
 For a validator node, you will need a node synchronized, which you may setup following the steps above.
 
