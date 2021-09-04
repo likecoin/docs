@@ -55,7 +55,7 @@ description: Real time LikeCoin info display badges
       <td style="text-align:left">
         <img src="../.gitbook/assets/light-badge (1).svg" alt/>
       </td>
-      <td style="text-align:left"><a href="https://static.like.co/badge/iscn/dev/976F3D3D32F32B2496E5D48273A61080F08F8C3A40F7EFDB878519107787DF12.svg?dark=0&amp;responsive=0&amp;width=82">/iscn/dev/&lt;iscn-hash&gt;.svg</a>
+      <td style="text-align:left"><a href="international-standard-content-number-iscn/iscn-badge.md">/iscn/dev/&lt;iscn-hash&gt;.svg</a>
       </td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@ description: Real time LikeCoin info display badges
       <td style="text-align:left">
         <img src="../.gitbook/assets/dark-badge.svg" alt/>
       </td>
-      <td style="text-align:left"><a href="https://static.like.co/badge/iscn/dev/976F3D3D32F32B2496E5D48273A61080F08F8C3A40F7EFDB878519107787DF12.svg?dark=1&amp;responsive=0&amp;width=82">/iscn/dev/&lt;iscn-hash&gt;.svg?dark=1</a>
+      <td style="text-align:left"><a href="international-standard-content-number-iscn/iscn-badge.md">/iscn/dev/&lt;iscn-hash&gt;.svg?dark=1</a>
       </td>
     </tr>
   </tbody>

@@ -9,7 +9,7 @@ description: >-
 **You can add one of the following query string after the "`?`" of the Base URL below. Base URL:**   
 `https://static.like.co/badge/iscn/<iscn_tx_hash>.svg?`
 
-Success Example: [https://static.like.co/badge/iscn/dev/976F3D3D32F32B2496E5D48273A61080F08F8C3A40F7EFDB878519107787DF12.svg?dark=1&responsive=0&width=82](https://static.like.co/badge/iscn/dev/976F3D3D32F32B2496E5D48273A61080F08F8C3A40F7EFDB878519107787DF12.svg?dark=1&responsive=0&width=82)
+Success Example: [https://static.like.co/badge/iscn/3513633D18BA70EB9DA38CD1AC779D6D4372326B3D65B7A14EC75DB8C86C0E6D.svg?dark=1&responsive=0&width=82](https://static.like.co/badge/iscn/3513633D18BA70EB9DA38CD1AC779D6D4372326B3D65B7A14EC75DB8C86C0E6D.svg?dark=1&responsive=0&width=82)
 
 <table>
   <thead>
