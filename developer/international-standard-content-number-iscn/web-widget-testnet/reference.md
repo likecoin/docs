@@ -55,8 +55,6 @@ this.windowOpener.postMessage(message, this.redirectOrigin);
 window.close();
 ```
 
-> >
-
 ### Example Link <a id="example-link"></a>
 
 Following links are in testnet.

@@ -28,14 +28,14 @@
     * [Usage](developer/like-pay/sdk/usage.md)
     * [Reference](developer/like-pay/sdk/reference.md)
 * [ISCN](developer/international-standard-content-number-iscn/README.md)
+  * [Specification](developer/international-standard-content-number-iscn/specification.md)
   * [JavaScript](developer/international-standard-content-number-iscn/javascript/README.md)
     * [iscn-js](developer/international-standard-content-number-iscn/javascript/iscn-js.md)
     * [iscn-message-types](developer/international-standard-content-number-iscn/javascript/iscn-message-types.md)
-  * [ISCN IPFS plugin](developer/international-standard-content-number-iscn/iscn-ipfs-plugin.md)
-  * [ISCN Badge](developer/international-standard-content-number-iscn/iscn-badge.md)
   * [Web Widget](developer/international-standard-content-number-iscn/web-widget-testnet/README.md)
     * [Reference](developer/international-standard-content-number-iscn/web-widget-testnet/reference.md)
-  * [Specification](developer/international-standard-content-number-iscn/specification.md)
+  * [ISCN Badge](developer/international-standard-content-number-iscn/iscn-badge.md)
+  * [ISCN IPFS plugin](developer/international-standard-content-number-iscn/iscn-ipfs-plugin.md)
 * [Ecosystem Statistics Badge](developer/badge.md)
 
 ## 👥 Validator Guide <a id="validator"></a>
