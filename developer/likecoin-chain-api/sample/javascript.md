@@ -138,7 +138,7 @@ Then we can format our transaction for calling the chain RPC API `POST /txs`, to
 }
 ```
 
-For details of the [`POST /txs`](../rpc-api.md#post-txs) and other chain RPC API, please refer to the [LikeCoin chain RPC API section](../rpc-api.md).
+For details of the [`POST /txs`](../rpc-api/#post-txs) and other chain RPC API, please refer to the [LikeCoin chain RPC API section](../rpc-api/).
 
 ### Verifying a signed transaction
 
