@@ -36,6 +36,7 @@
     * [iscn-message-types](developer/international-standard-content-number-iscn/javascript/iscn-message-types.md)
   * [Web Widget](developer/international-standard-content-number-iscn/web-widget-testnet/README.md)
     * [Reference](developer/international-standard-content-number-iscn/web-widget-testnet/reference.md)
+  * [Batch upload tool](developer/international-standard-content-number-iscn/batch-upload-tool.md)
   * [ISCN Badge](developer/international-standard-content-number-iscn/iscn-badge.md)
   * [ISCN IPFS plugin](developer/international-standard-content-number-iscn/iscn-ipfs-plugin.md)
 * [Ecosystem Statistics Badge](developer/badge.md)
