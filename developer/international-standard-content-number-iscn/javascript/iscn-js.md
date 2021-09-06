@@ -10,13 +10,13 @@ Github: [https://github.com/likecoin/iscn-js](https://github.com/likecoin/iscn-j
 
 npm: [https://www.npmjs.com/package/@likecoin/iscn-js](https://www.npmjs.com/package/@likecoin/iscn-js)
 
-### Install
+## Install
 
 ```bash
 npm i -S @cosmjs/stargate @likecoin/iscn-js
 ```
 
-### Usage
+## Usage
 
 Please refer to `*.spec.ts` test cases for more example
 
