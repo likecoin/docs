@@ -47,9 +47,9 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 
 ## 功能展示
 
-{% embed url="https://www.youtube.com/watch?v=ImmKksiHMt0" caption="分享文章也能賺錢？Super Like 功能演示 （國語），留意現時可獲分配上限經已改為 4 LIKE" %}
+{% embed url="https://www.youtube.com/watch?v=ImmKksiHMt0" caption="分享文章也能賺錢？Super Like 功能演示 （國語），留意自2021/9/6 開始可獲分配上限經已改為 4 LIKE" %}
 
-{% embed url="https://www.youtube.com/watch?v=XXSfQm15KdQ" caption="分享文章都賺到錢？Super Like 功能示範 （廣東話），留意現時可獲分配上限經已改為 4 LIKE" %}
+{% embed url="https://www.youtube.com/watch?v=XXSfQm15KdQ" caption="分享文章都賺到錢？Super Like 功能示範 （廣東話），留意自2021/9/6 開始可獲分配上限經已改為 4 LIKE" %}
 
 #### 參考文章
 
