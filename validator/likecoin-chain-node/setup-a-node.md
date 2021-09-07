@@ -64,20 +64,24 @@ Run `docker-compose up -d`. This will create and run the Docker containers in ba
 
 To see if the node is running well, you can input `docker-compose logs` to see if there is any error.
 
-The node will connect to the network and start to synchronize blocks, which may take some time depends on how long the network is started. You can also consider using state sync described below to quickly catch up with latest blocks.
+The node will connect to the network and start to synchronize blocks, which may take some time depends on how long the network is started. **Using state sync described below to quickly catch up with latest blocks.**
 
 You can check the synchronization progress at http://{YOUR\_NODES\_IP}:26657/status. `result.sync_info.catching_up` will be `false` if the node has already caught up the network's blocks.
 
 ### State Sync
 
-Figure out latest block height from the API [https://mainnet-node.like.co/blocks/latest](https://mainnet-node.like.co/blocks/latest).  Get the block hash of a past block closest to a multiple of 500. Say if the latest block is `225512`, we would use block number `225500` which hash `10737475ED545C9BE1A48E1F99BD8D2941E7E286EDB71FC1B9E15E27032144DB` can be found at [https://mainnet-node.like.co/blocks/225500](https://mainnet-node.like.co/blocks/225500).
+For state sync to work, we would need to configure a trusted block height and hash in `config.toml`.
 
-To enable state sync, modify the `[statesync]` session of config.yaml as below, using our example height `225500` from above. You should modify the config according to latest block height.
+* Figure out latest block height from the node API [https://mainnet-node.like.co/blocks/latest](https://mainnet-node.like.co/blocks/latest). 
+* Target a pas block height closest to a multiple of 500. Say if the latest block is `225512`, we would use block number `225500`
+* Find out the  hash of the target block height. For `225500` , the hash can be found at [https://mainnet-node.like.co/blocks/225500](https://mainnet-node.like.co/blocks/225500), which is `10737475ED545C9BE1A48E1F99BD8D2941E7E286EDB71FC1B9E15E27032144DB`
+
+To enable state sync, modify the `[statesync]` session of `config.yaml` as below, using  example height `225500` . You should modify the config according to latest block height. The RPC servers [https://fotan-node-1.like.co:443/rpc/](https://fotan-node-1.like.co:443/rpc/), [https://fotan-node-2.like.co:443/rpc/](https://fotan-node-2.like.co:443/rpc/) are used here, but any two trusted RPC servers can also be used.
 
 ```text
 [statesync]
 enable = true
-rpc_servers = "https://fotan-node-1.like.co/rpc/,https://fotan-node-2.like.co/rpc/"
+rpc_servers = "https://fotan-node-1.like.co:443/rpc/,https://fotan-node-2.like.co:443/rpc/"
 trust_height = 225500
 trust_hash = "10737475ED545C9BE1A48E1F99BD8D2941E7E286EDB71FC1B9E15E27032144DB"
 trust_period = "168h0m0s"
