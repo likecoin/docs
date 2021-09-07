@@ -56,6 +56,7 @@
   * [Software Changes Overview](validator/fotan-upgrade-mainnet/software-changes-overview.md)
   * [For other full node operators](validator/fotan-upgrade-mainnet/for-other-full-node-operators.md)
   * [Miscellaneous](validator/fotan-upgrade-mainnet/faq-1.md)
+* [Legacy endpoints](validator/legacy-endpoints.md)
 
 ## 📙 General Guides
 
