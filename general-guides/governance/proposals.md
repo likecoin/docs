@@ -6,6 +6,13 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+## Proposal \#16 Token swap proposal between LIKE and NUM
+
+* Proposer: [Numbers Protocol](https://stake.like.co/validators/cosmosvaloper1hq97q6y84lmree83mg980c4twhtayjdfyvt8ar)
+* Proposal Type: Text Proposal
+* Date: Submit on 2021.09.04
+* Details: [https://stake.like.co/proposals/16](https://stake.like.co/proposals/16)
+
 ## Proposal \#15 Upgrade LikeCoin chain mainnet to FoTan <a id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
 
 * Proposer: [sixwood​](https://matters.news/@sixwood/proposal-15-upgrade-like-coin-chain-mainnet-to-fo-tan-bafyreietjtpwddkxkwo563a4zeo2ftzf4yc6f4s3zfn632suf3rpmjmbb4)
