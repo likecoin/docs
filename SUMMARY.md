@@ -101,6 +101,7 @@
 * [Governance](general-guides/governance/README.md)
   * [Community Calls](general-guides/governance/community-call.md)
   * [Liquid Democracy](general-guides/governance/liquid-democracy.md)
+  * [Direct Voting](general-guides/governance/direct-vote.md)
   * [LikeCoin chain](general-guides/governance/likecoin-chain.md)
   * [Validator](general-guides/governance/what-is-a-validator/README.md)
     * [Community Funds Application](general-guides/governance/what-is-a-validator/community-funds-application.md)
