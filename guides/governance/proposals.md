@@ -6,6 +6,13 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+## 議案 \#16 LIKE 與 NUM 進行通證互換
+
+* **提案**：[Numbers Protocol](https://stake.like.co/validators/cosmosvaloper1hq97q6y84lmree83mg980c4twhtayjdfyvt8ar)
+* **類型**：文本式議案 \( Text Proposal \)
+* **日期**：2021.09.04 提案
+* **詳情**：[https://stake.like.co/proposals/16](https://stake.like.co/proposals/16)
+
 ## 議案 \#15 升級主鏈到 FoTan 版本 <a id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
 
 * **提案**：[sixwood​](https://matters.news/@sixwood/proposal-15-upgrade-like-coin-chain-mainnet-to-fo-tan-bafyreietjtpwddkxkwo563a4zeo2ftzf4yc6f4s3zfn632suf3rpmjmbb4)
