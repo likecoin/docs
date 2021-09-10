@@ -4,7 +4,11 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 # 委託 LikeCoin
 
-委託的意思是把 LikeCoin 委託給一個或多個[驗證人 \( Validator \)](https://docs.like.co/v/zh/guides/governance/what-is-a-validator)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。委託機制是讚賞公民共和國[流動民主](https://docs.like.co/v/zh/guides/governance/liquid-democracy)自治機制的一環。
+委託的意思是把 LikeCoin 委託給一個或多個[驗證人 \( Validator \)](https://docs.like.co/v/zh/guides/governance/what-is-a-validator)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。自 LikeCoin chain 升級 FoTan 後，每位經已委託 LikeCoin 予驗證人的持份者都可以直接就議案投票。
+
+{% page-ref page="../governance/direct-vote.md" %}
+
+委託機制是讚賞公民共和國[流動民主](https://docs.like.co/v/zh/guides/governance/liquid-democracy)自治機制的一環。
 
 ### 步驟一：選取驗證人
 
