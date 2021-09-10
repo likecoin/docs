@@ -12,12 +12,12 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 ## **2021 日期及議程**
 
-| 日期 | 描述 | 主持人 |
-| :--- | :--- | :--- |
-| 星期一、6月7日  | LikeCoin Development Grant Progress & 1st round submissions | Phoebe, Jiahe |
-| 星期一、7月5日 | LikeCoin chain upgrade preparation  |  |
-| 星期一、8月2日 | Recap Testnet Upgrade, LikeCoin Grant Update |  |
-| 星期一、9月6日 | LikeCoin chain upgrade follow up, ISCN in action |  |
+| 日期 | 描述 |
+| :--- | :--- |
+| 星期一、6月7日  | LikeCoin Development Grant Progress & 1st round submissions |
+| 星期一、7月5日 | LikeCoin chain upgrade preparation  |
+| 星期一、8月2日 | Recap Testnet Upgrade, LikeCoin Grant Update |
+| 星期一、9月6日 | LikeCoin chain upgrade follow up, ISCN in action |
 
 ## 會議時間
 
