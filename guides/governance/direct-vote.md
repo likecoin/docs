@@ -24,7 +24,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ### 步驟三：選擇議案
 
-登入後，到左手邊菜單選擇「Proposals」顯示正在投票階段的議案，點選你需要投票的議案
+登入後，到左手邊菜單選擇「Proposals」顯示正在投票階段的議案，點選你需要投票的議案。
 
 ![](../../.gitbook/assets/direct-vote-02.png)
 
@@ -36,7 +36,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ### 步驟五：開始投票
 
-點選右上角的「Vote」，然後在頁面右下角出現Yes（支持）、No（反對）、No with Veto（強烈反對）、Abstain（棄權）四個投票選項。選擇其中一項後點擊「Next」。
+點選右上角的「Vote」，然後在頁面右下角出現 Yes（支持）、No（反對）、No with Veto（強烈反對）、Abstain（棄權）四個投票選項。選擇其中一項後點擊「Next」。
 
 ![](../../.gitbook/assets/direct-vote-04.png)
 
