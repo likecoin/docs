@@ -6,7 +6,11 @@ description: >-
 
 # Delegation of LikeCoin
 
-Delegation means delegating LikeCoin to one or more [validators](https://docs.like.co/guides/governance/what-is-a-validator), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Delegation demonstrates [liquid democracy](https://docs.like.co/guides/governance/liquid-democracy) and is vital to the autonomy for The Republic of Liker Land.
+Delegation means delegating LikeCoin to one or more [validators](https://docs.like.co/guides/governance/what-is-a-validator), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Since the LikeCoin chain upgraded to FoTan, Likers who delegate LikeCoin to validators can directly vote on proposals.
+
+{% page-ref page="../governance/direct-vote.md" %}
+
+Delegation demonstrates [liquid democracy](https://docs.like.co/guides/governance/liquid-democracy) and is vital to the autonomy for The Republic of Liker Land.
 
 ### Step 1: Select a validator
 

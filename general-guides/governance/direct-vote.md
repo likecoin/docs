@@ -1,3 +1,7 @@
+---
+description: 'How much LikeCoin you stake, how much voting power you have'
+---
+
 # Direct Voting
 
 Since the LikeCoin chain upgraded to FoTan, Likers who delegate LikeCoin to validators can directly vote on proposals.
