@@ -7,13 +7,13 @@ description: >-
 
 # Community Calls
 
-#### Call Link: [https://meet.google.com/ovn-smic-auu](https://meet.google.com/ovn-smic-auu)
+### Call Link: [https://meet.google.com/ovn-smic-auu](https://meet.google.com/ovn-smic-auu)
 
-#### Add to your Calendar: [https://bit.ly/3c5DaTH](https://bit.ly/3c5DaTH)
+### Add to your Calendar: [https://bit.ly/3c5DaTH](https://bit.ly/3c5DaTH)
 
-#### Agenda and Notes: [https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)
+### Agenda and Notes: [https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)
 
-#### Questions? Join our [Discord](https://discord.com/invite/W4DQ6peZZZ) for help.
+### Questions? Join our [Discord](https://discord.com/invite/W4DQ6peZZZ) for help.
 
 ## **2021 Date & Schedule**
 
