@@ -4,11 +4,13 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 # 社群治理會議
 
-### 會議連結：[https://meet.google.com/ovn-smic-auu](https://meet.google.com/ovn-smic-auu) 把會議加入你的行事曆：[**https://bit.ly/3c5DaTH**](https://bit.ly/3c5DaTH)\*\*\*\*
+### 會議連結：[https://meet.google.com/ovn-smic-auu](https://meet.google.com/ovn-smic-auu)
 
-### **議程及筆記：**[**https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13**](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)\*\*\*\*
+### 把會議加入你的行事曆：[https://bit.ly/3c5DaTH](https://bit.ly/3c5DaTH)
 
-### **有問題嗎？請參與** [**Discord**](https://discord.com/invite/W4DQ6peZZZ) **頻道尋求幫助。**
+### 議程及筆記：[https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)
+
+### 有問題嗎？請參與 [Discord](https://discord.com/invite/W4DQ6peZZZ) 頻道尋求幫助。
 
 ## **2021 日期及議程**
 
