@@ -4,7 +4,7 @@ description: 'How much LikeCoin you stake, how much voting power you have'
 
 # Direct Voting
 
-Since the LikeCoin chain upgraded to FoTan, Likers who delegate LikeCoin to validators can directly vote on proposals.
+Likers who has delegated LikeCoin to validators can directly vote on proposals since the FoTan upgrade.  
 
 In the past validators represented likers to vote, but now you can vote for yourself. For example if your validator votes for "No", you can vote "Yes" based on the stake that you have. But if you do not cast your vote, your trusted validator is still representing you to vote.
 
