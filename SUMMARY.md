@@ -48,7 +48,7 @@
   * [歷史議案](guides/governance/proposals.md)
   * [LikeCoin Grants 計畫](guides/governance/likecoin-grants.md)
 
-## ��  去中心應用 <a id="user-guide"></a>
+## 💻 去中心應用 <a id="user-guide"></a>
 
 * [Liker Land](user-guide/liker-land/README.md)
   * [下載 Liker Land](user-guide/liker-land/download.md)
