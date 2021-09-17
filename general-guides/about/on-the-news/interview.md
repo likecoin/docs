@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 09/15 信報 徐家健
+
+[沒有大台，出版還意味着什麼?](https://www1.hkej.com/dailynews/investment/article/2913449/%E6%B2%92%E6%9C%89%E5%A4%A7%E5%8F%B0%EF%BC%8C%E5%87%BA%E7%89%88%E9%82%84%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E9%BA%BC%3F)
+
 ### 07/29 財科暗戰
 
 {% embed url="https://www.youtube.com/watch?v=V1S3M9V2t9Y" %}
