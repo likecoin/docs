@@ -34,7 +34,7 @@ for setting up the `docker-compose.yml` and `.env`.
 
 Modify `.env` file for the network config.
 
-For mainnet:
+For [mainnet](https://github.com/likecoin/mainnet):
 
 `LIKECOIN_MONIKER="<change this for your node's name>"  
 LIKECOIN_DOCKER_IMAGE="likecoin/likecoin-chain:fotan-1"  
@@ -42,7 +42,7 @@ LIKECOIN_CHAIN_ID="likecoin-mainnet-2"
 LIKECOIN_GENESIS_URL="https://gist.githubusercontent.com/williamchong/de1bdf2b2a8f3bce50a4b5e46af26959/raw/4e21bff586771c849d22e1916bcb88c6463fbaa0/genesis.json"  
 LIKECOIN_SEED_NODES="913bd0f4bea4ef512ffba39ab90eae84c1420862@34.82.131.35:26656,e44a2165ac573f84151671b092aa4936ac305e2a@nnkken.dev:26656"`
 
-For testnet:
+For [testnet](https://github.com/likecoin/testnets):
 
 `LIKECOIN_MONIKER="<change this for your node's name>"  
 LIKECOIN_DOCKER_IMAGE="likecoin/likecoin-chain:fotan-1"  
