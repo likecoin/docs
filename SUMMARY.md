@@ -74,6 +74,7 @@
   * [What's the point of decentralization to the content ecosystem?](general-guides/decentralized-publishing/benefits.md)
   * [What type of content is supported by ISCN?](general-guides/decentralized-publishing/content-type.md)
   * [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co.md)
+  * [Register ISCN in batch](general-guides/decentralized-publishing/iscn-batch-uploader.md)
 * [LikeCoin Token](general-guides/likecoin-token.md)
 * [Wallet](general-guides/wallet/README.md)
   * [LIKE pay](general-guides/wallet/like-pay.md)
