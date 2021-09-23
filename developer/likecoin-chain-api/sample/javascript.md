@@ -122,13 +122,6 @@ const txBytes = TxRaw.encode(tx).finish();
 
 console.log("Your tx_bytes:");
 console.log(txBytes.toString('base64'));
-Commit a Transaction
-Put the tx_bytes from above step in the JSON request body as below, and post the localhost:1317/cosmos/tx/v1beta1/txs endpoint.
-
-{
-  "tx_bytes": "Your tx bytes here",
-  "mode": "BROADCAST_MODE_SYNC"
-}
 ```
 
 ### Commit a Transaction
