@@ -1,163 +1,146 @@
 ---
-description: Using Javascript/node.js to sign and verify a transaction
+description: Using Javascript/node.js to sign a transaction
 ---
 
 # Javascript
 
-### Signing a transaction
+### Encode and Sign Raw Message
 
-This example would show how to sign a simple transaction
+The parameters should consist with your account information. The `accountNumber` and `sequence` could be found by querying LCD `/cosmos/auth/v1beta1/accounts/{fromAddress}` endpoint.
 
 ```javascript
 const secp256k1 = require('secp256k1');
-const { bech32 } = require('bech32');
 const createHash = require('create-hash');
-const jsonStringify = require('fast-json-stable-stringify');
-const bip39 = require('bip39');
-const bip32 = require('bip32');
+const Long = require('long');
+const { MsgSend } = require("cosmjs-types/cosmos/bank/v1beta1/tx");
+const { TxBody, AuthInfo, SignDoc, TxRaw } = require("cosmjs-types/cosmos/tx/v1beta1/tx");
+const { PubKey } = require("cosmjs-types/cosmos/crypto/secp256k1/keys");
 
-// the code of `seedToPrivateKey` is derived from @lunie/cosmos-key
-// https://github.com/luniehq/cosmos-keys/blob/2586e7af82fc52c2c2603383e850a1969539f4f1/src/cosmos-keys.ts
-function seedToPrivateKey(mnemonic, hdPath = `m/44'/118'/0'/0/0`) {
-  const seed = bip39.mnemonicToSeedSync(mnemonic)
-  const masterKey = bip32.fromSeed(seed)
-  const { privateKey } = masterKey.derivePath(hdPath)
-  return privateKey
-}
+// define parameters
+const chainId = "likechain-local-testnet";
+const privateKey = "69b4e47d3aa61ad6184493529cd0feb0d2dfb55ea31aa9799af42607de3cd1a9";
+const publicKey = "A4Fj1Y4k77Qaxuy496CHYB2rpfWXkM3LCnlyrU8eKbH7";
+const accountNumber = 1;
+const fromAddress = "cosmos1lsagfzrm4gz28he4wunt63sts5xzmczw8pkek3";
+const toAddress = "cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04";
+const tokenAmount = 1000000;
+const memo = "Enjoy your money";
+const gasLimit = 100000;
+const sequence = 10;
 
-function createSigner(privateKey) {
-  console.log(`private key: ${privateKey.toString('hex')}`);
-  const publicKeyArr = secp256k1.publicKeyCreate(privateKey, true);
-  const publicKey = Buffer.from(publicKeyArr);
-  console.log(`public key: ${publicKey.toString('base64')}`);
-  const sha256 = createHash('sha256');
-  const ripemd = createHash('ripemd160');
-  sha256.update(publicKey);
-  ripemd.update(sha256.digest());
-  const rawAddr = ripemd.digest();
-  const cosmosAddress = bech32.encode('cosmos', bech32.toWords(rawAddr));
-  console.log(`address: ${cosmosAddress}`);
-  const sign = (msg) => {
-    const msgSha256 = createHash('sha256');
-    msgSha256.update(msg);
-    const msgHash = msgSha256.digest();
-    const { signature: signatureArr } = secp256k1.ecdsaSign(msgHash, privateKey);
-    const signature = Buffer.from(signatureArr)
-    console.log(`signature: ${signature.toString('base64')}`);
-    return { signature, publicKey };
-  }
-  return { cosmosAddress, sign };
-}
-
-const privKey = Buffer.from('0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef', 'hex');
-// may also derive private key from seed words:
-// const seed = "novel novel novel novel novel novel novel novel novel novel novel novel novel novel novel novel novel novel novel novel novel novel novel novel";
-// const privKey = seedToPrivateKey(seed);
-const signer = createSigner(privKey);
-const signBytes = jsonStringify({
-  "fee": {
-    "amount": [
+const messages = [{
+  typeUrl: "/cosmos.bank.v1beta1.MsgSend",
+  value: {
+    fromAddress,
+    toAddress,
+    amount: [
       {
-        "denom": "nanolike",
-        "amount": "100000000"
-      }
+        denom: "nanolike",
+        amount: tokenAmount.toString(),
+      },
     ],
-    "gas": "100000"
-  },
-  "msgs": [
-    {
-      "type": "cosmos-sdk/MsgSend",
-      "value": {
-        "from_address": "cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04",
-        "to_address": "cosmos1ca0zlqxjqv5gek5qxm602umtkmu88564hpyws4",
-        "amount": [
-          {
-            "denom": "nanolike",
-            "amount": "123456789"
-          }
-        ]
-      }
-    }
-  ],
-  "chain_id": "likechain-testnet-taipei-1",
-  "account_number": "21",
-  "sequence": "0",
-  "memo": "",
-});
-signer.sign(signBytes);
+  }
+}];
 
-// private key: 0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
-// public key: A0ZGrlBHMWtCMNAIbIrOxofwCxzZ0dxjT2yzWKwKmo//
-// address: cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04
-// signature: iBIA5d+tZ99hlcjdzvpm8/eHtK31kblp1lCHWb4CSzEQUm/Wns/emogUn6VsSQVt2eYPpLjnfNXas5PMgWzdnw==
+const wrappedMessages = messages.map(msg => {
+  return {
+    typeUrl: msg.typeUrl,
+    value: MsgSend.encode(msg.value).finish(),
+  }
+})
+
+const body = {
+  typeUrl: "/cosmos.tx.v1beta1.TxBody",
+  value: {
+    memo,
+    messages: wrappedMessages,
+    timeoutHeight: Long.UZERO,
+    extensionOptions: [],
+    nonCriticalExtensionOptions: [],
+  },
+}
+const bodyBytes = TxBody.encode(body.value).finish();
+
+const pubkeyBytes = PubKey.encode({ key: publicKey }).finish();
+
+const authInfo = {
+  signerInfos: [
+    {
+      sequence: Long.fromNumber(sequence),
+      publicKey: {
+        typeUrl: "/cosmos.crypto.secp256k1.PubKey",
+        value: pubkeyBytes,
+      },
+      modeInfo: {
+        single: {
+          mode: 1,
+        },
+      },
+    },
+  ],
+  fee: {
+    gasLimit: Long.fromNumber(gasLimit),
+    payer: "",
+    granter: "",
+    amount: [
+      {
+        denom: "nanolike",
+        amount: "0",
+      },
+    ],
+  },
+}
+
+const authInfoBytes = AuthInfo.encode(authInfo).finish();
+const signDoc = {
+  bodyBytes,
+  authInfoBytes,
+  chainId,
+  accountNumber: Long.fromNumber(accountNumber),
+}
+const signBytes = SignDoc.encode(signDoc).finish();
+
+const privkeyBytes = Buffer.from(privateKey, 'hex')
+
+const sign = (msg, privateKey) => {
+  const msgSha256 = createHash('sha256');
+  msgSha256.update(msg);
+  const msgHash = msgSha256.digest();
+  const { signature: signatureArr } = secp256k1.ecdsaSign(msgHash, privateKey);
+  const signature = Buffer.from(signatureArr)
+  return signature;
+}
+const signatureBytes = sign(signBytes, privkeyBytes);
+
+const tx = {
+  bodyBytes,
+  authInfoBytes,
+  signatures: [signatureBytes],
+}
+
+const txBytes = TxRaw.encode(tx).finish();
+
+console.log("Your tx_bytes:");
+console.log(txBytes.toString('base64'));
+Commit a Transaction
+Put the tx_bytes from above step in the JSON request body as below, and post the localhost:1317/cosmos/tx/v1beta1/txs endpoint.
+
+{
+  "tx_bytes": "Your tx bytes here",
+  "mode": "BROADCAST_MODE_SYNC"
+}
 ```
 
-### Broadcasting a signed transaction
+### Commit a Transaction
 
-Then we can format our transaction for calling the chain RPC API `POST /txs`, to broadcast our signed transaction.
+Put the `tx_bytes` from above step in the JSON request body as below, and post the LCD`/cosmos/tx/v1beta1/txs` endpoint.
 
-```javascript
+```text
 {
-    "mode": "sync",
-    "tx": {
-        "msg": [
-            {
-                "type": "cosmos-sdk/MsgSend",
-                "value": {
-                "from_address": "cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04",
-                "to_address": "cosmos1ca0zlqxjqv5gek5qxm602umtkmu88564hpyws4",
-                    "amount": [
-                        {
-                            "denom": "nanolike",
-                            "amount": "123456789"
-                        }
-                    ]
-                }
-            }
-        ],
-        "fee": {
-            "amount": [
-                {
-                    "denom": "nanolike",
-                    "amount": "100000000"
-                }
-            ],
-            "gas": "100000"
-        },
-        "memo": "",
-        "signatures": [
-            {
-                "signature": "iBIA5d+tZ99hlcjdzvpm8/eHtK31kblp1lCHWb4CSzEQUm/Wns/emogUn6VsSQVt2eYPpLjnfNXas5PMgWzdnw==",
-                "pub_key": {
-                    "type": "tendermint/PubKeySecp256k1",
-                    "value": "A0ZGrlBHMWtCMNAIbIrOxofwCxzZ0dxjT2yzWKwKmo//"
-                }
-            }
-        ]
-    }
+  "tx_bytes": "Your tx bytes here",
+  "mode": "BROADCAST_MODE_SYNC"
 }
 ```
 
 For details of the [`POST /txs`](../rpc-api/#post-txs) and other chain RPC API, please refer to the [LikeCoin chain RPC API section](../rpc-api/).
-
-### Verifying a signed transaction
-
-For verifying a transaction, we would need to know the public key of the signature.
-
-```javascript
-const secp256k1 = require('secp256k1');
-const createHash = require('create-hash');
-
-const signature = Buffer.from('iBIA5d+tZ99hlcjdzvpm8/eHtK31kblp1lCHWb4CSzEQUm/Wns/emogUn6VsSQVt2eYPpLjnfNXas5PMgWzdnw==', 'base64');
-const publicKey = Buffer.from('A0ZGrlBHMWtCMNAIbIrOxofwCxzZ0dxjT2yzWKwKmo//', 'base64');
-const msg = '{"account_number":"21","chain_id":"likechain-testnet-taipei-1","fee":{"amount":[{"amount":"100000000","denom":"nanolike"}],"gas":"100000"},"memo":"","msgs":[{"type":"cosmos-sdk/MsgSend","value":{"amount":[{"amount":"123456789","denom":"nanolike"}],"from_address":"cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04","to_address":"cosmos1ca0zlqxjqv5gek5qxm602umtkmu88564hpyws4"}}],"sequence":"0"}'
-const msgSha256 = createHash('sha256');
-msgSha256.update(msg);
-const msgHash = msgSha256.digest();
-console.log(secp256k1.ecdsaVerify(signature, msgHash, publicKey));
-
-// true
-```
-
-
 

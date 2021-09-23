@@ -13,6 +13,8 @@
   * [Setup local test node](developer/likecoin-chain-api/setup-local-test-node.md)
   * [Sample](developer/likecoin-chain-api/sample/README.md)
     * [Javascript](developer/likecoin-chain-api/sample/javascript.md)
+    * [CosmJS \(Recommended\)](developer/likecoin-chain-api/sample/cosmjs.md)
+    * [Keplr](developer/likecoin-chain-api/sample/keplr.md)
 * [LikeCoin API](developer/likecoin-api/README.md)
   * [Calling API](developer/likecoin-api/calling-api.md)
   * [Authetication](developer/likecoin-api/authetication.md)
