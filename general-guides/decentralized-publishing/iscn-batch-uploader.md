@@ -8,9 +8,9 @@ description: How to register large amount of ISCN records in one go
 
 ### Before you start <a id="a5db"></a>
 
-1. Choose a tool for editing CSV file. Free Google spreadsheet is recommended. Prepare the data to be registered in CSV format.
+1. Choose a tool for editing CSV files. Free Google spreadsheet is recommended. Prepare the data to be registered in CSV format.
 2. A Mac or Linux computer as we are going to demonstrate on a Mac console. The computer should have node.js and git installed, the latter is optional. The operation in Windows should be more or less the same.
-3. A wallet with small amount of LikeCoin. Keplr is recommended as you will need the seed words of the wallet for one of the steps. ISCN registration costs LikeCoin and that’s really a steal at the moment. Try it out before the price rises.
+3. A wallet with a small amount of LikeCoin. Keplr is recommended as you will need the seed words of the wallet for one of the steps. ISCN registration costs LikeCoin and that’s really a steal at the moment. Try it out before the price rises.
 
 ### Step 1: Prepare your data <a id="bafb"></a>
 
@@ -18,7 +18,7 @@ This step does not require technical background, but it is time-consuming. Below
 
 ![](../../.gitbook/assets/iscn-batch-uploader-01.png)
 
-The[ ISCN spec](https://iscn.io/) recommends fields defined according to [CreativeWork](https://schema.org/CreativeWork) type in schema.org. Most raw data’s fields do not comply to this standard in the first place. We are going to change the column headers in the CSV file to comply with the standard.
+The[ ISCN spec](https://iscn.io/) recommends fields defined according to [CreativeWork](https://schema.org/CreativeWork) type in schema.org. Most raw data’s fields do not comply with this standard in the first place. We are going to change the column headers in the CSV file to comply with the standard.
 
 Here is my tuned version \(original fields &gt; CreativeWork fields\):
 
@@ -34,16 +34,16 @@ Note that the following two columns are not defined in CreativeWork fields, but 
 
 The two fields:
 
-* ipfsHash: iscn-batch-uploader tool treat this field as the “[Content Fingerprints](https://iscn.io/schema/contentFingerprints)” of ISCN record.
-* type: it’s the type defined in schema.org, e.g.: Creative Work, Book, Game, Painting, Article, Photograph, Episode, etc. iscn-batch-uploader treat all record as “CreativeWork” type by default if this field is not specified in the CSV file.
+* ipfsHash: iscn-batch-uploader tool treats this field as the “[Content Fingerprints](https://iscn.io/schema/contentFingerprints)” of ISCN record.
+* type: it’s the type defined in schema.org, e.g.: Creative Work, Book, Game, Painting, Article, Photograph, Episode, etc. iscn-batch-uploader treats all records as “CreativeWork” type by default if this field is not specified in the CSV file.
 
-Blockchain transaction is expensive so it is not cost-effective to store large data file, but storing smaller content such as poem text seems reasonable. For demonstration purpose, however, the poem text will be put to a separate txt file as well and upload them to [Pinata IPFS service](https://www.pinata.cloud/) so that  an IPFS hash for ISCN content fingerprint will be acquired for each record. iscn-batch-uploader does not support [Arweave](https://www.arweave.org/) link as content fingerprint at the moment, expect to have this feature in the near future.
+Blockchain transaction are expensive so it is not cost-effective to store large data files, but storing smaller content such as poem text seems reasonable. For demonstration purposes, however, the poem text will be put to a separate txt file as well and uploaded  them to [Pinata IPFS service](https://www.pinata.cloud/) so that  an IPFS hash for ISCN content fingerprint will be acquired for each record. iscn-batch-uploader does not support [Arweave](https://www.arweave.org/) link as content fingerprint at the moment, expect to have this feature in the near future.
 
-You will need a batch uploading tool for IPFS batch uploading and pinning. but this feature is not catered by iscn-batch-uploader. You may have to use the Pinata GUI to upload the files one-by-one and then copy the hash to the CSV file if you are not a programmer. The IPFS upload process is tedious and not suitable for processing large amount of data.  You are suggested to complete the IPFS task later with better tool, as you can upload all the metadata in the CSV file for ISCN. You can always update the registered ISCN records, say, filling up the IPFS hashes as content fingerprints, to new versions later.
+You will need a batch uploading tool for IPFS batch uploading and pinning. but this feature is not catered by iscn-batch-uploader. You may have to use the Pinata GUI to upload the files one-by-one and then copy the hash to the CSV file if you are not a programmer. The IPFS upload process is tedious and not suitable for processing large amounts of data.  You are suggested to complete the IPFS task later with a better tool, as you can upload all the metadata in the CSV file for ISCN. You can always update the registered ISCN records, say, filling up the IPFS hashes as content fingerprints, to new versions later.
 
 If you know coding, however, you may try my [python tool for Pinata](https://github.com/edmondyu/pinata-python-util). Welcome for pull requests.
 
-Our example of Tang Poems contains 300 records only. You may prepare much larger amount of data in the same way, however. Feel free to commit all verses of “The Bible”, Shakespeare’s scripts, all of your blogs, music scores, newspaper archives, or minutes of public authorities to the LikeCoin chain. There is a lot of work to do for those without any technical background.
+Our example of Tang Poems contains 300 records only. You may prepare a much larger amount of data in the same way, however. Feel free to commit all verses of “The Bible”, Shakespeare’s scripts, all of your blogs, music scores, newspaper archives, or minutes of public authorities to the LikeCoin chain. There is a lot of work to do for those without any technical background.
 
 ### Step 2: Install iscn-batch-uploader <a id="c676"></a>
 
@@ -95,13 +95,13 @@ node index.js TangPoems300.csv
 
 ![](../../.gitbook/assets/iscn-batch-uploader-04.gif)
 
-Registering 300+ ISCN records costs less than 1 LIKE?! It’s a real good deal. Try it out now.
+Registering 300+ ISCN records costs less than 1 LIKE?! It’s a really good deal. Try it out now.
 
 ### Step 6: Verify on blockchain <a id="c2b3"></a>
 
 A new file “output.csv” will be generated after you execute the command successfully. Two more columns are added to the new CSV when comparing with the original data file: _txHash_ and _iscnId_.
 
-txHash is the transaction hash on LikeCoin chain. You can search the tx hash by supported block explorer such as Big Dipper, e.g. try this tx hash:
+txHash is the transaction hash on the LikeCoin chain. You can search the tx hash by supported block explorer such as Big Dipper, e.g. try this tx hash:
 
 ```text
 C75B2BD9C79A83670C49F97522E7670CBB7E4892CAC26D5F09E5913C57870E5C
@@ -127,16 +127,16 @@ You can check all the registered ISCN records in app.like.co. Login \(by Keplr\)
 
 iscn-batch-uploader supports updating metadata versions:
 
-* Prepare the data that need to be updated in the CSV file. Entire set of field values are needed, the ISCN record will be overwritten by the rows in the data file except the iscnId.
+* Prepare the data that needs to be updated in the CSV file. Entire set of field values are needed, the ISCN record will be overwritten by the rows in the data file except the iscnId.
 * Run the command index.js again, with the parameter “_update_”, syntax:
 
 ```text
 node index.js TangPoems300A.csv --update
 ```
 
-When the script reads records that with iscnId ready, it will update the record with the new version of metadata, but not registering a new ISCN. The last digit after the backslash reflects the version number, e.g. /1 represents version 1, and /2 represents version 2. [app.like.co](https://app.like.co/) get the most updated version of ISCN records by default if no version number is given.
+When the script reads records with iscnId ready, it will update the record with the new version of metadata, but not register a new ISCN. The last digit after the backslash reflects the version number, e.g. /1 represents version 1, and /2 represents version 2. [app.like.co](https://app.like.co/) gets the most updated version of ISCN records by default if no version number is given.
 
-## Issue: what to do if registration fail?
+## Issue: what to do if registration fails?
 
 iscn-batch-uploader fails to register particular ISCN records occasionally for unknown reason. The program retries 1 time upon failure, and will skip to next record if retry fail. You need to inspect the details of _output.csv_ for any records that misses iscnId and txHash.
 
@@ -146,5 +146,5 @@ The best way to amend the missed records is to re-run _index.js_ with the rename
 node index.js fromOutputFile.csv
 ```
 
-The script will skip those records that already have iscnId, you the “_update_” parameter is not given upon execution.
+The script will skip those records that already have iscnId, the “_update_” parameter is not given upon execution.
 
