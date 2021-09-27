@@ -23,6 +23,7 @@ description: >-
 | Monday, 5 July | LikeCoin chain Upgrade Overview, ISCN product prototype |
 | Monday, 2 August | Recap Testnet Upgrade, LikeCoin Grant Update |
 | Monday, 6 September | LikeCoin chain upgrade follow up, ISCN in action |
+| Monday, 4 October | IBC on LikeCoin chain, ISCN card released  |
 
 ## **Call Time**
 
