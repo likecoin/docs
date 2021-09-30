@@ -6,18 +6,25 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+## 議案 \#17 LIKE 與 NUM 進行通證互換
+
+* **提案：**[moonbeam](https://matters.news/@moonbeamwow/enable-ibc-send-and-receive-the-17th-proposal-bafyreibbxfkjtxnvcam6mf77tukiw2twzx57zcekfom3vuhl27tpssdpea)
+* **類型**：參數修訂議案 \( parameter change proposal \)
+* **日期**：2021.09.27 提案，
+* **詳情**：[https://likecoin.bigdipper.live/proposals/17](https://likecoin.bigdipper.live/proposals/17)
+
 ## 議案 \#16 LIKE 與 NUM 進行通證互換
 
 * **提案**：[Numbers Protocol](https://stake.like.co/validators/cosmosvaloper1hq97q6y84lmree83mg980c4twhtayjdfyvt8ar)
 * **類型**：文本式議案 \( Text Proposal \)
 * **日期**：2021.09.04 提案，2021.09.23 通過
-* **詳情**：[https://stake.like.co/proposals/16](https://stake.like.co/proposals/16)
+* **詳情**：[https://likecoin.bigdipper.live/proposals/16](https://likecoin.bigdipper.live/proposals/16)
 
 ## 議案 \#15 升級主鏈到 FoTan 版本 <a id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
 
 * **提案**：[sixwood​](https://matters.news/@sixwood/proposal-15-upgrade-like-coin-chain-mainnet-to-fo-tan-bafyreietjtpwddkxkwo563a4zeo2ftzf4yc6f4s3zfn632suf3rpmjmbb4)
 * **類型**：文本式議案 \( Text Proposal \)
-* **日期**：2021.08.01 提案，2021.08.17 通過
+* **日期**：2021.08.01 提案，2021.08.15 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/15](https://likecoin.bigdipper.live/proposals/15)
 
 ## 議案 \#14 升級主鏈到 FoTan 版本 <a id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
