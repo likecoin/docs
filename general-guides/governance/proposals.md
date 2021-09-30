@@ -6,6 +6,13 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
+## Proposal \#17 Enable IBC send and receive
+
+* Proposer: [moonbeam](https://matters.news/@moonbeamwow/enable-ibc-send-and-receive-the-17th-proposal-bafyreibbxfkjtxnvcam6mf77tukiw2twzx57zcekfom3vuhl27tpssdpea)
+* Proposal Type: Parameter Change Proposal
+* Date: Submit on 2021.09.27, 
+* [https://likecoin.bigdipper.live/proposals/17](https://likecoin.bigdipper.live/proposals/17)
+
 ## Proposal \#16 Token swap proposal between LIKE and NUM
 
 * Proposer: [Numbers Protocol](https://stake.like.co/validators/cosmosvaloper1hq97q6y84lmree83mg980c4twhtayjdfyvt8ar)
