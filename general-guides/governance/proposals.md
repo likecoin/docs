@@ -10,8 +10,8 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 * Proposer: [Numbers Protocol](https://stake.like.co/validators/cosmosvaloper1hq97q6y84lmree83mg980c4twhtayjdfyvt8ar)
 * Proposal Type: Text Proposal
-* Date: Submit on 2021.09.04
-* Details: [https://stake.like.co/proposals/16](https://stake.like.co/proposals/16)
+* Date: Submit on 2021.09.04, Passed on 2020.09.23
+* Details: [https://likecoin.bigdipper.live/proposals/16](https://likecoin.bigdipper.live/proposals/16)
 
 ## Proposal \#15 Upgrade LikeCoin chain mainnet to FoTan <a id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
 
