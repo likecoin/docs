@@ -19,11 +19,11 @@ description: >-
 
 | **Date**  | Description |
 | :--- | :--- |
-| Monday, 7 June  | LikeCoin Development Grant Update  |
-| Monday, 5 July | LikeCoin chain Upgrade Overview, ISCN product prototype |
-| Monday, 2 August | Recap Testnet Upgrade, LikeCoin Grant Update |
-| Monday, 6 September | LikeCoin chain upgrade follow up, ISCN in action |
 | Monday, 4 October | IBC on LikeCoin chain, ISCN card released  |
+| Monday, 6 September | LikeCoin chain upgrade follow up, ISCN in action |
+| Monday, 2 August | Recap Testnet Upgrade, LikeCoin Grant Update |
+| Monday, 5 July | LikeCoin chain Upgrade Overview, ISCN product prototype |
+| Monday, 7 June  | LikeCoin Development Grant Update  |
 
 ## **Call Time**
 
@@ -40,6 +40,7 @@ description: >-
 
 ## Meeting Minutes
 
+* [LikeCoin Community Update \#202109](https://medium.com/likecoin/likecoin-community-update-202109-a5722cb838dd)
 * [LikeCoin Community Update \#202108](https://medium.com/likecoin/likecoin-community-update-202108-abb71c67145c)
 * [LikeCoin Community Call \#202107 Minutes](https://medium.com/likecoin/likecoin-community-call-202107-minutes-7edeb276198d)
 * [LikeCoin Community Call \#202106 Minutes](https://medium.com/likecoin/likecoin-community-call-202106-minutes-3f971d47bf2f)
