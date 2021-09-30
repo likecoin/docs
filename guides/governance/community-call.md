@@ -16,10 +16,11 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 | 日期 | 描述 |
 | :--- | :--- |
-| 星期一、6月7日  | LikeCoin Development Grant Progress & 1st round submissions |
-| 星期一、7月5日 | LikeCoin chain upgrade preparation  |
-| 星期一、8月2日 | Recap Testnet Upgrade, LikeCoin Grant Update |
+| 星期一、10月4日 | IBC on LikeCoin chain, ISCN card released  |
 | 星期一、9月6日 | LikeCoin chain upgrade follow up, ISCN in action |
+| 星期一、8月2日 | Recap Testnet Upgrade, LikeCoin Grant Update |
+| 星期一、7月5日 | LikeCoin chain upgrade preparation  |
+| 星期一、6月7日  | LikeCoin Development Grant Progress & 1st round submissions |
 
 ## 會議時間
 
@@ -40,6 +41,7 @@ LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，�
 
 ## 會議記錄 <a id="minutes"></a>
 
+* [LikeCoin Community Update \#202109](https://medium.com/likecoin/likecoin-community-update-202109-a5722cb838dd)
 * [LikeCoin Community Update \#202108](https://medium.com/likecoin/likecoin-community-update-202108-abb71c67145c)
 * [LikeCoin Community Call \#202107 Minutes  ](https://medium.com/likecoin/likecoin-community-call-202107-minutes-7edeb276198d)
 * [LikeCoin Community Call \#202106 Minutes  ](https://medium.com/likecoin/likecoin-community-call-202106-minutes-3f971d47bf2f)
