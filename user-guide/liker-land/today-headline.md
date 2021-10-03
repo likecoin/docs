@@ -12,9 +12,9 @@ Open the Liker Land app and click on the star icon underneath, you can see the "
 
 ![](../../.gitbook/assets/contentjockey-01-en.png)
 
-"My Content Jockey" are hand picked by Content Jockey with [Super Like](https://docs.like.co/user-guide/liker-land/superlike), and without the use of AI. Every Content Jockey has two quotas per day, to ensure every selection is the finest. On the other hand to make sure that readers will not sumerge to the seas of junk content.
+"My Content Jockey" are hand picked by Content Jockey with [Super Like](superlike.md), and without the use of AI. Every Content Jockey has two quotas per day, to ensure every selection is the finest. On the other hand to make sure that readers will not sumerge to the seas of junk content.
 
-The default Content Jockeys was managed by the Republic of Liker Land with [Liquid Democracy](https://docs.like.co/guides/governance/liquid-democracy), Content Jockeys of good quality and word of mouth are selected by community voting. Currently, there are 5 default Content Jockeys in Liker Land:
+The default Content Jockeys was managed by the Republic of Liker Land with [Liquid Democracy](../../general-guides/governance/liquid-democracy.md), Content Jockeys of good quality and word of mouth are selected by community voting. Currently, there are 5 default Content Jockeys in Liker Land:
 
 *  Stand News：[standnews](https://like.co/standnews)​
 * inmedia：[inmediahknet](https://like.co/inmediahknet)​
@@ -24,17 +24,17 @@ The default Content Jockeys was managed by the Republic of Liker Land with [Liqu
 
 ## My Content Jockey: Follow a Content Jockey <a id="my-content-jockey"></a>
 
-Readers can follow their trusted Content Jockeys, you can go to their [Portfolio Page](https://docs.like.co/user-guide/creatortools/portfolio-page) for following them.
+Readers can follow their trusted Content Jockeys, you can go to their [Portfolio Page](../creatortools/portfolio-page.md) for following them.
 
 Click on the star icon underneath in the Liker Land app, you can check the content provided by your beloved Content Jockey, go to [Liker Land web](https://liker.land/following) and login will do the same.
 
-![](../../.gitbook/assets/contentjockey-04-en.png)
+![Super Likes from your content jockeys](../../.gitbook/assets/contentjockey-04-en.png)
 
 ## The world has Super Liked
 
 If "My Content Jockey" got too less to read, click on the Global icon and read Super Liked articles by all the Content Jockeys and explore more wonderful contents. If you love his/her taste, click \[Follow\] and articles hand picked by him/her will appear on your "My Content Jockey".
 
-![](../../.gitbook/assets/contentjockey-02-en.png)
+![All Super Likes](../../.gitbook/assets/contentjockey-02-en.png)
 
 ## Stop Following a Content Jockey
 
