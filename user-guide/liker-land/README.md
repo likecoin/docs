@@ -38,7 +38,7 @@ As a Decentralized Publishing Infrastructure, LikeCoin provides Decentralized Re
 
 ### Decentralized Registry
 
-* Help creators to write content to IPFS
+* Help creators to write content to [IPFS](https://ipfs.io/)
 * Achieve through [Matters](https://matters.news/)
 * For [WordPress](../creator/wordpress.md) at the moment
 
