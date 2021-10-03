@@ -22,7 +22,7 @@ Pinpointing the problem of AI selection, Liker Land adopts "Zero AI curation str
 
 ### **A wide range of selection**
 
-There are also 1,400 websites, three hundreds thousand articles by 11,000 content creators \(Check out the [Real Time statistics](real-time-statistics.md)\).
+There are also 1,400 websites, six hundreds thousand articles by 19,000 content creators \(Check out the latest [Real Time statistics](real-time-statistics.md)\).
 
 ### Deep Reading
 
