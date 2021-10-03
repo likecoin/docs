@@ -48,7 +48,7 @@ description: 要去哪裏下載 Liker Land？
 
 ### 選項四：App
 
-下載 Liker Land 的連結。
+[下載 Liker Land](https://liker.land/getapp) 的連結。
 
 ### 選項五：關於
 
