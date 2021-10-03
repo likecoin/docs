@@ -8,13 +8,13 @@ Besides [registering with an email, GMail or Social Media Login](register.md), u
 
 ### **Comparison**
 
-| **Register a Liker ID with Liker Land** | **Register a Liker ID with Keplr** |
+| **Register a Liker IDwith Liker Land（Authcore sign-in）** | **Register a Liker ID with Keplr** |
 | :--- | :--- |
 | Manage the private key with Authcore secure and frictionless sign-in solution, easy to use | User has to manage his/her own private key, it's safer 👍  |
 | Wallet supports LikeCoin only | Wallet supports crypto currencies other than LikeCoin, such as ATOM, OSMO, AKT, CRO, KAVA, etc 👍  |
 | Login with Social logins \( Google, Facebok, etc \) or email | Login with Keplr only |
 | User friendly user experiences 👍  | Must have some knowledge on blockchain and cryptocurrency |
-| Login with Liker Land mobile app or mobile web 👍  | Can only login with Keplr extension on desktop computer |
+| Login with Liker Land mobile app or mobile web 👍  | Can only login with Chrome Keplr extension on desktop computer |
 | Use Liker Land mobile app to delegate LikeCoin | Use stake.like.co to delegate LikeCoin |
 | Enter receiver's Liker ID or wallet address during LIKE pay 👍  | Need to enter the full wallet address during transfer |
 
