@@ -6,7 +6,7 @@ description: 社群從 LikeCoin 發展出甚麼？
 
 LikeCoin Grants 鼓勵社群發揮創意，去中化地為 LikeCoin 及 Liker Land 實現更多功能。
 
-{% page-ref page="../../../guides/governance/likecoin-grants.md" %}
+{% page-ref page="../../guides/governance/likecoin-grants.md" %}
 
 <table>
   <thead>

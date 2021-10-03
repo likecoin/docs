@@ -4,7 +4,7 @@ description: 社群溝通平台
 
 # LikeCoin Discord
 
-[LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) 歡迎任何人參與，在上面有中文及英文頻道，涵蓋創作、開發、治理、產品討論及開發基金等各種話題，並與驗證人及各個持份者進行交流。
+[LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) 歡迎任何人參與，在上面有中文及英文頻道，涵蓋創作、開發、治理、產品討論及開發基金等各種話題，並與驗證人及各個持份者進行交流。以下為 LikeCoin Discord 各個頻道簡介：
 
 ### 基礎頻道
 
