@@ -4,7 +4,7 @@ description: 贊助創作者方法非常簡單
 
 # 如何訂閱讚賞公民
 
-成為讚賞公民前請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
+成為讚賞公民前請先 [註冊 Liker ID](../liker-id/)。
 
 ## 訂閱心儀創作者
 
@@ -12,12 +12,12 @@ description: 贊助創作者方法非常簡單
 
 你可以從以下渠道開始支持創作者：
 
-* 點擊創作者提供的[贊助鏈結](https://docs.like.co/v/zh/user-guide/creatortools/sponsor-link)，例如 [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic%20)
-* 從創作者的[個人主頁](https://docs.like.co/v/zh/user-guide/creatortools/portfolio-page)點擊「成為讚賞公民」
+* 點擊創作者提供的[贊助鏈結](../creatortools/sponsor-link.md)，例如 [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic%20)
+* 從創作者的[個人主頁](../creatortools/portfolio-page.md)點擊「成為讚賞公民」
 
 ![](../../.gitbook/assets/register-civic-liker-1.png)
 
-* 點擊創作者 [LikeCoin button 讚賞鍵](https://docs.like.co/v/zh/user-guide/creator)的「按月贊助」
+* 點擊創作者 [LikeCoin button 讚賞鍵](../creator/)的「按月贊助」
 
 ![](../../.gitbook/assets/register-civic-liker-2.png)
 
@@ -61,7 +61,7 @@ description: 贊助創作者方法非常簡單
 
 ### 步驟六：管理讚賞公民訂閱
 
-登入 [Liker Land 網頁版](https://liker.land/)，在右手邊的選單選擇讚賞公民，即可管理付款方法和查看付款紀錄。你也可以查看你正在支持的作者清單並編輯每月支持作者的金額。在已支持的作者底下點擊「編輯」。
+登入 [Liker Land 網頁版](https://liker.land/)，在右手邊的選單選擇[讚賞公民](https://liker.land/civic/dashboard)，即可管理付款方法和查看付款紀錄。你也可以查看你正在支持的作者清單並編輯每月支持作者的金額。在已支持的作者底下點擊「編輯」。
 
 ![](../../.gitbook/assets/civic-liker-menu.png)
 
