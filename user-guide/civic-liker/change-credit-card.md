@@ -6,7 +6,7 @@ description: 方法非常簡單
 
 請跟隨以下簡單步驟：  
   
-步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「讚賞公民」。
+步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「[讚賞公民](https://liker.land/civic/dashboard)」。
 
 ![](../../.gitbook/assets/civic-liker-menu.png)
 

@@ -8,7 +8,7 @@ description: 跟隨幾個簡單步驟即可
 
 ## Civic Liker
 
-步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「讚賞公民」。
+步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「[讚賞公民](https://liker.land/civic/dashboard)」。
 
 ![](../../.gitbook/assets/civic-liker-menu.png)
 
@@ -26,7 +26,7 @@ description: 跟隨幾個簡單步驟即可
 
 ## Civic Liker Classic
 
-步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「讚賞公民」。
+步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「[讚賞公民](https://liker.land/civic/dashboard)」。
 
 ![](../../.gitbook/assets/civic-liker-menu.png)
 
@@ -43,6 +43,6 @@ description: 跟隨幾個簡單步驟即可
 ![](../../.gitbook/assets/unsubscribe-civic-liker-classic-03.png)
 
 {% hint style="warning" %}
-請留意，成功取消訂閱後，已付的金額不會退還，訂閱將於下一個帳單結算日自動終止。
+請留意，成功取消訂閱後，已付的金額不會退還，訂閱將於下一個帳單結算日之結算時間自動終止。
 {% endhint %}
 
