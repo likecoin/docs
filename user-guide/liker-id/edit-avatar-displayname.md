@@ -28,7 +28,7 @@ description: 讓自己的性格更特出
 
 ![](../../.gitbook/assets/avatar.png)
 
-### Liker Land 手機應用程式或網頁版
+### Liker Land 手機應用程式及網頁版
 
 {% page-ref page="../liker-land/download.md" %}
 

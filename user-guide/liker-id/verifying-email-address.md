@@ -67,5 +67,3 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 {% embed url="https://www.youtube.com/watch?v=QPwvRI-vdWE" %}
 
-
-
