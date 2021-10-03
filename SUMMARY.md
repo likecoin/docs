@@ -113,7 +113,6 @@
   * [LikeCoin Discord](user-guide/community/discord.md)
   * [衍生項目](user-guide/community/derived-projects/README.md)
     * [Liker.Social](user-guide/community/derived-projects/liker-social.md)
-    * [馬特市銀行](user-guide/community/derived-projects/matters-bank.md)
     * [讚賞車車](user-guide/community/derived-projects/likecoin_leafwind_bot.md)
   * [購買產品與服務](user-guide/community/products-and-services.md)
 * [詞彙表](user-guide/background.md)
