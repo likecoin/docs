@@ -26,7 +26,7 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 
 ### **深度閱讀**
 
-把任何網頁儲存到 Liker Land [閱讀列表](https://docs.like.co/v/zh/user-guide/liker-land/reading-list)，慢慢細看。
+把任何網頁儲存到 Liker Land [閱讀列表](reading-list.md)，慢慢細看。
 
 ### **化讚為賞**
 
@@ -40,7 +40,7 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 
 * 替作者把內容存放到 [IPFS](https://ipfs.io)。
 * 透過 [Matters](https://matters.news/) 實現
-* 暫時只適用於 [WordPress](https://docs.like.co/v/zh/user-guide/creator/wordpress)
+* 暫時只適用於 [WordPress](../creator/wordpress.md)
 
 ### 去中心讚賞
 
@@ -49,6 +49,6 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 
 ### 去中心策展
 
-* [Liker Land](https://docs.like.co/v/zh/user-guide/liker-land/today-headline)：「不是瀏覽，而是閱讀。」針對深度閱讀開發的手機應用，為讀者提供清淨閱讀環境。
-* 部分讀者化身[內容伯樂 \( Content Jockey \)](https://docs.like.co/v/zh/user-guide/liker-land/superlike)，透過 Super Like，推薦內容成為 Liker Land 的頭條
+* [Liker Land](today-headline.md)：「不是瀏覽，而是閱讀。」針對深度閱讀開發的手機應用，為讀者提供清淨閱讀環境。
+* 部分讀者化身[內容伯樂 \( Content Jockey \)](superlike.md)，透過 Super Like，推薦內容成為 Liker Land 的頭條
 
