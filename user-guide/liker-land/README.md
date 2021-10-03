@@ -22,7 +22,7 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 
 ### **多元選擇**
 
-另有 1,400 個網站、11,000 作者的 30 多萬篇文章（查看 [Liker Land即時數據](real-time-statistic.md)）。
+另有 1,400 個網站、19,000 作者的 60 多萬篇文章（最新數據請查看 [Liker Land即時數據](real-time-statistic.md)）。
 
 ### **深度閱讀**
 
