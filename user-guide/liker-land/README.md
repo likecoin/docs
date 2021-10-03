@@ -14,7 +14,7 @@ Liker Land is the user interface of LikeCoin, with function collaboration on rea
 
 ### **Content Jockey**
 
-Standnews, InMedia, HKCNews and Matters help you to select [Today's headlines](https://docs.like.co/user-guide/liker-land/today-headline).
+Standnews, InMedia, HKCNews and Matters help you to select [Today's headlines](today-headline.md).
 
 Artificial Intelligence helps on time saving and efficiency, but it doesn't work on news selection. Take Facebook as an example, although it's algorithms predict what arouses your emotions and interests you most, the intels are not important at all. Your newsfeed is long but the content may not be relevant to you, the information is lack of transparency and cannot be traced. Users really don't know that they have missed.
 
@@ -22,15 +22,15 @@ Pinpointing the problem of AI selection, Liker Land adopts "Zero AI curation str
 
 ### **A wide range of selection**
 
-There are also 1,400 websites, three hundreds thousand articles by 11,000 content creators \(Check out the [Real Time statistics](https://docs.like.co/user-guide/liker-land/real-time-statistics)\).
+There are also 1,400 websites, three hundreds thousand articles by 11,000 content creators \(Check out the [Real Time statistics](real-time-statistics.md)\).
 
 ### Deep Reading
 
-Bookmarking any web page to Liker Land [Readling list](https://docs.like.co/user-guide/liker-land/readling-list) to read them later.
+Bookmarking any web page to Liker Land [Readling list](readling-list.md) to read them later.
 
 ### **Reinventing the Like**
 
-From [each clap](https://docs.like.co/user-guide/liker-land/like) the reader made, content creators can earn rewards.
+From [each clap](like.md) the reader made, content creators can earn rewards.
 
 ## For Content Creators
 
@@ -40,15 +40,15 @@ As a Decentralized Publishing Infrastructure, LikeCoin provides Decentralized Re
 
 * Help creators to write content to IPFS
 * Achieve through [Matters](https://matters.news/)
-* For [WordPress](https://docs.like.co/user-guide/creatoir/wordpress) at the moment
+* For [WordPress](../creator/wordpress.md) at the moment
 
 ### Decentralized Rewards
 
-* **Reinventing the Like**：By simply attaching a [LikeCoin button](https://docs.like.co/user-guide/creatoir) beneath your content and without setting up a paywall, every Like by readers is turned into measurable rewards in LikeCoin tokens.
-* Rewards to creators are from two sources, [Civic Liker](https://docs.like.co/user-guide/civic-liker) contribute USD5/mo、USD20/mo、USD100/mo to reward creativity and journalism, while the creators fund, distributed according to the Likes of all users, doubles the rewarding pool.
+* **Reinventing the Like**：By simply attaching a [LikeCoin button](../creator/) beneath your content and without setting up a paywall, every Like by readers is turned into measurable rewards in LikeCoin tokens.
+* Rewards to creators are from two sources, [Civic Liker](../civic-liker/) contribute USD5/mo、USD20/mo、USD100/mo to reward creativity and journalism, while the creators fund, distributed according to the Likes of all users, doubles the rewarding pool.
 
 ### Decentralized Editorial
 
-* [Liker Land](https://docs.like.co/user-guide/liker-land/today-headline): "Not Browsing, But Reading", our mobile app designed to be scarce to cut out noise from signals.
+* [Liker Land](today-headline.md): "Not Browsing, But Reading", our mobile app designed to be scarce to cut out noise from signals.
 * Apart from rewarding creators as a Liker, readers may go further to become a [Content Jockey](https://docs.like.co/user-guide/liker-land/superlike), help distribute creative stories and insightful commentaries with Super Likes.
 
