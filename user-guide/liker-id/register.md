@@ -43,7 +43,7 @@ Once a Liker ID has been created, it cannot be changed.  We suggest you keep it,
 {% endhint %}
 
 {% hint style="info" %}
-Liker Land mobile app uses Authcore as a sign-in solution. Check out**:** What is [Authcore](https://docs.like.co/user-guide/liker-id/what-is-authcore)?
+Liker Land mobile app uses Authcore as a sign-in solution. Check out**:** What is [Authcore](what-is-authcore.md)?
 {% endhint %}
 
 {% hint style="success" %}
