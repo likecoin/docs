@@ -8,7 +8,7 @@ description: 發想創意計畫並執行
 
 更多詳情：
 
-* [提案庫](https://www.notion.so/893cdd65f9f34851a92ca99e0cd969d0?v=d2f6efe098f64b68a9c21f239f1c90f4)
+* [LikeCoin Grants](https://www.notion.so/likecoingrants/MainPage-32d790bb3d3b4b6ea9832dc0fe8bda62) 官方網址
 * 到 [LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) \#讚賞幣提昇提案-開發基金 頻道查閱最新詳情。
 
 {% page-ref page="../../user-guide/community/derived-projects/" %}
