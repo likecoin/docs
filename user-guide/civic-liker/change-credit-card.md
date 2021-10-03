@@ -6,7 +6,7 @@ description: It's easy to do
 
 Please follow the steps:
 
-Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "Civic Liker".
+Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "[Civic Liker](https://liker.land/civic/dashboard)".
 
 ![](../../.gitbook/assets/civic-liker-menu-en.png)
 
