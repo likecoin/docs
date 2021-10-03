@@ -67,5 +67,3 @@ LikeCoin Grants 鼓勵社群發揮創意，去中化地為 LikeCoin 及 Liker La
   </tbody>
 </table>
 
-
-
