@@ -8,13 +8,13 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 ### 功能比較
 
-| **以一般方法註冊 Liker ID** | **以 Keplr 錢包註冊 Liker ID** |
+| **以一般方法（Authcore）註冊 Liker ID** | **以 Keplr 錢包註冊 Liker ID** |
 | :--- | :--- |
 | 由 Authcore 提供的密碼管理技術管理用戶私鑰，較容易使用  | 用戶需自行管理私鑰，安全性較高 👍  |
 | 錢包只支援 LikeCoin  | 錢包支援包括 LikeCoin 的多種貨幣，如 ATOM、OSMO、AKT、CRO、KAVA 等等 👍  |
 | 可以社交帳號 \( Google, Facebook, etc \) 或電郵登入 | 只能以 Keplr 錢包登入 |
 | 提供較簡單的用戶體驗 👍  | 需對區塊鏈及密碼貨幣有一定認識 |
-| 可登入 Liker Land 手機應用程式，也可以手機瀏覽器登入 👍  | 只能以桌面電腦瀏覽器的 Keplr extension 登入 |
+| 可登入 Liker Land 手機應用程式，也可以手機瀏覽器登入 👍  | 只能以桌面電腦 Chrome 瀏覽器的 Keplr extension 登入 |
 | 以 Liker Land app 委託 LikeCoin | 以 stake.like.co 委託 LikeCoin |
 | 可輸入收款方的 Liker ID 或地址轉帳 👍  | 必需要轉入收款方的錢包地址轉帳 |
 
