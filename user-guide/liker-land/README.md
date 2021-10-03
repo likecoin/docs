@@ -38,9 +38,9 @@ As a Decentralized Publishing Infrastructure, LikeCoin provides Decentralized Re
 
 ### Decentralized Registry
 
-* Help creators to write content to [IPFS](https://ipfs.io/)
-* Achieve through [Matters](https://matters.news/)
-* For [WordPress](../creator/wordpress.md) at the moment
+* Help creators to register content metadata in the LikeCoin public blockchain as [ISCN](../../general-guides/decentralized-publishing/)
+* Help creators to write content to [IPFS](https://ipfs.io/), achieve it through [Matters](https://matters.news/)
+* DePub + ISCN in one go is available on [WordPress](../creator/wordpress.md) at the moment
 
 ### Decentralized Rewards
 
