@@ -14,7 +14,7 @@ description: Where to download Liker Land?
 
 ## Liker Land web - https://Liker.Land <a id="liker-land-web"></a>
 
-Although Liker Land mobile app provides the functions that best suit your needs, [Liker Land web](https://liker.land/) also brings the same convenience for [discovering, following](https://docs.like.co/user-guide/liker-land/today-headline) and [bookmarking content to Readling List](https://docs.like.co/user-guide/liker-land/readling-list).
+Although Liker Land mobile app provides the functions that best suit your needs, [Liker Land web](https://liker.land/) also brings the same convenience for [discovering, following](today-headline.md) and [bookmarking content to Readling List](readling-list.md).
 
 Click on the menu at the top right hand corner, there are other options.
 
@@ -22,36 +22,43 @@ Click on the menu at the top right hand corner, there are other options.
 
 ### **Option 1: Civic Liker**
 
-You can pay and [become a Civic Liker](https://docs.like.co/user-guide/civic-liker/be-a-civic-liker), check out the subscription status or unsubscribe. [Read this](https://docs.like.co/user-guide/civic-liker) to learn more about Civic Liker.
+You can pay and [become a Civic Liker](../civic-liker/be-a-civic-liker.md), check out the subscription status or unsubscribe. [Read this](../civic-liker/) to learn more about Civic Liker.
 
 ### **Option 2: I'm a Creator too**
 
-Click and learn more about how to invite your readers [to become your Civic Liker and sponsor you](https://liker.land/creators), and also ways to embed a LikeCoin button to a website.
+* Click and setup your [Creator Pitch](../creatortools/creators-pitch.md), copy your [Sponsor Link](../creatortools/sponsor-link.md) and check [Supporters Summary](../creatortools/support.md)
+* Click "Tips for Creators" and goes to the "[You deserve to be rewarded](https://liker.land/creators)" page to learn more about how to invite your readers to become your Civic Liker and sponsor you, and also [ways to embed a LikeCoin button to a website](https://liker.land/creators/setup)
+
+{% page-ref page="like.md" %}
+
+{% page-ref page="../creator/" %}
 
 ### **Option 3: Settings**
 
-5 preferences can be set up:
+3 preferences can be set up:
 
 * Language: This is talking about the Liker Land web language preference and is not going to alter your Liker Land mobile app setting \(You may refer to the mobile app setup\)
 * Liker ID: Redirect to [Like.co setting page](https://like.co/in/settings). User can set up his/her Liker ID avatar, social media logins, etc. Read this for more details:
 
 {% page-ref page="../liker-id/edit-avatar-displayname.md" %}
 
-* Civic Liker: Subscribing / Unsubscribe status
-* Creator Settings: Setup [Creator Pitch](https://docs.like.co/user-guide/creatortools/creators-pitch) and check [Supporters Summary](https://docs.like.co/user-guide/creatortools/support)
-* Follow / Unfollowed: Display [Content Jockey](https://docs.like.co/user-guide/liker-land/superlike) that the user followed, can click to unfollow \(refer to the below\)
+* Follow / Unfollowed: Display [Content Jockey](superlike.md) that the user followed, can click to unfollow \(refer to the below\)
 
 ![](../../.gitbook/assets/liker-land-web-3-en.png)
 
-### **Option 4: About**
+### **Option 4: App**
+
+Link to [download Liker Land mobile app](https://liker.land/getapp).
+
+### **Option 5: About**
 
 Liker Land introduction.
 
-### **Option 5: Support**
+### **Option 6: Support**
 
 Contact LikeCoin help desk.
 
-### **Option 6: Logout**
+### **Option 7: Logout**
 
 Click and logout Liker Land. If you want to login with another Liker ID, you have to log out completely from the Liker Land web, otherwise you will be bounced back to the previous Liker ID during your next login attempt.
 
