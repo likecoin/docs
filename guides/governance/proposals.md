@@ -6,7 +6,7 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](../../.gitbook/assets/likecoin_ad59_banner%20%281%29.png)
 
-## 議案 \#17 LIKE 與 NUM 進行通證互換
+## 議案 \#17 啟動 IBC 傳送及接收
 
 * **提案：**[moonbeam](https://matters.news/@moonbeamwow/enable-ibc-send-and-receive-the-17th-proposal-bafyreibbxfkjtxnvcam6mf77tukiw2twzx57zcekfom3vuhl27tpssdpea)
 * **類型**：參數修訂議案 \( parameter change proposal \)
