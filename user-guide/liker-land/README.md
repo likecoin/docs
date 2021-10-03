@@ -50,5 +50,5 @@ As a Decentralized Publishing Infrastructure, LikeCoin provides Decentralized Re
 ### Decentralized Editorial
 
 * [Liker Land](today-headline.md): "Not Browsing, But Reading", our mobile app designed to be scarce to cut out noise from signals.
-* Apart from rewarding creators as a Liker, readers may go further to become a [Content Jockey](https://docs.like.co/user-guide/liker-land/superlike), help distribute creative stories and insightful commentaries with Super Likes.
+* Apart from rewarding creators as a Liker, readers may go further to become a [Content Jockey](superlike.md), help distribute creative stories and insightful commentaries with Super Likes.
 
