@@ -39,8 +39,7 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 ### 去中心註冊
 
 * 協助作者把內容註冊到區塊鏈，寫下永久的憑據 - [ISCN](../../guides/decentralized-publishing/)
-* 替作者把內容存放到 [IPFS](https://ipfs.io)
-* 透過 [Matters](https://matters.news/) 實現
+* 替作者把內容存放到 [IPFS](https://ipfs.io)透過 [Matters](https://matters.news/) 實現
 * 暫時只有 [WordPress](../creator/wordpress.md) 可一次過實踐出版 + 註冊功能
 
 ### 去中心讚賞
