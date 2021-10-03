@@ -12,12 +12,12 @@ Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co
 
 You can support your content creator starting from the following:
 
-* Click on the [sponsor link](https://docs.like.co/user-guide/creatortools/sponsor-link) provided by the content creator, for example  [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic%20)
-* Click on the "Become a Civic Liker" button on the content creator's   [Portfolio Page](https://docs.like.co/user-guide/creatortools/portfolio-page)
+* Click on the [sponsor link](../creatortools/sponsor-link.md) provided by the content creator, for example  [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic%20)
+* Click on the "Become a Civic Liker" button on the content creator's   [Portfolio Page](../creatortools/portfolio-page.md)
 
 ![](../../.gitbook/assets/register-civic-liker-1-en.png)
 
-* Click on the "Become a Civic Liker" button on the content creator's [LikeCoin button](https://docs.like.co/user-guide/creator)
+* Click on the "Become a Civic Liker" button on the content creator's [LikeCoin button](../creator/)
 
 ![](../../.gitbook/assets/register-civic-liker-2.png)
 
@@ -61,7 +61,7 @@ You can also go to his/her Portfolio Page and check out that you are "Supporting
 
 ### Step 6:  Manage Civic Liker Subscription
 
-Login in [Liker Land web](https://liker.land/) and select "Civic Liker'' on the menu on the right hand side, you can manage payment methods and check your billing history. You can also check out who you are supporting and change the monthly supporting amount, click "Edit" on the content creator that you subscribed to.
+Login in [Liker Land web](https://liker.land/) and select "[Civic Liker](https://liker.land/civic/dashboard)'' on the menu on the right hand side, you can manage payment methods and check your billing history. You can also check out who you are supporting and change the monthly supporting amount, click "Edit" on the content creator that you subscribed to.
 
 ![](../../.gitbook/assets/civic-liker-menu-en.png)
 
