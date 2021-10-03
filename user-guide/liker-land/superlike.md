@@ -36,7 +36,7 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 * Content creators click on the LikeCoin button of their own article can Super Like and put their article to the ["Works" section in Portfolio Page](../creatortools/portfolio-page.md#works)  and "[The world has Super Liked](today-headline.md#the-world-has-super-liked)".
 
 {% hint style="info" %}
-Civic Liker Super Like his/her own work will not earn any LikeCoin.  
+Civic Liker Super Like his/her own work will not earn any LikeCoin from creators fund  
 
 {% endhint %}
 
