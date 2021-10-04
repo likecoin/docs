@@ -2,7 +2,7 @@
 
 #### Query all ISCN related transactions 
 
-\`\`[`https://mainnet-node.like.co/cosmos/tx/v1beta1/txs?events=message.module=%27iscn%27&pagination.offset=1&pagination.limit=100`](https://mainnet-node.like.co/cosmos/tx/v1beta1/txs?events=message.module=%27iscn%27&pagination.offset=1&pagination.limit=100)\`\`
+[`https://mainnet-node.like.co/txs?message.module=iscn`](https://mainnet-node.like.co/txs?message.module=iscn)\`\`
 
 #### Query ISCN by ID
 
