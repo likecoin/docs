@@ -18,7 +18,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 | 可輸入收款方的 Liker ID 或地址[轉帳](../../guides/wallet/like-pay.md)👍  | 必需要轉入收款方的錢包地址轉帳 |
 | 以 Liker Land app 或 stake.like.co [委託](../../guides/stake/) LikeCoin👍 | 以 stake.like.co 委託 LikeCoin |
 | 以 stake.like.co 存入[議案保證](../../guides/governance/proposal-deposit.md)金或[投票](../../guides/governance/direct-vote.md) | 以 stake.like.co 存入議案[保證金](../../guides/governance/proposal-deposit.md)或[投票](../../guides/governance/direct-vote.md) |
-| 在 Liker Land app 以視覺化方式查看每篇文章所獲讚賞👍  | 逐筆查看交易紀錄 |
+| 在 Liker Land app 以視覺化方式查看每篇文章所獲[讚賞成就](../creatortools/rewards/)👍  | 逐筆查看交易紀錄 |
 | 不支援 | 註冊 [ISCN](../../guides/decentralized-publishing/app.like.co.md)👍 |
 
 ### 影片教學
