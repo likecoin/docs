@@ -35,10 +35,11 @@ Click on the social media login \(except Matters\), follow on screen instruction
 
 User has to go to Matters website for linkinging:
 
-1. Login [Matters.news](https://matters.news/)
-2. Click on avatar, select「設定」from the menu
-3. On「錢包設定」, select「綁定 Liker ID」
-4. Login Liker ID according to the instruction
+1. Switch to English interface on the right hand corner
+2. Login [Matters.news](https://matters.news/)
+3. Click on "My Page" on the left hand side, select "setting" from the menu
+4. On "Wallet setting" , select "Liker ID"
+5. Login your Liker ID and link with Matters according to the instructions
 
 {% hint style="warning" %}
 Once you link your Liker ID with Matters ID, they cannot be unbonded.
