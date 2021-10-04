@@ -38,7 +38,7 @@ Matters 的讚賞鍵很簡潔，位於文章的最底部，見下圖。
 
 ![](../../.gitbook/assets/matters-4.png)
 
-你還可以在 Matters 介面點擊自己的頭像，再點選「[我的讚賞](https://matters.news/me/appreciations/received)」查看自已獲得的拍手。
+你還可以在 Matters 介面點擊自己的頭像，再點選「我的讚賞我的」查看自已獲得的拍手。
 
 留意在 Matters「設定」、「錢包設定」中的所顯示的「我的創作價值」是你在 Matters 創作所獲得的 LikeCoin 數量，並不代表該 Liker ID 所獲得的整體 LikeCoin 數量。
 
