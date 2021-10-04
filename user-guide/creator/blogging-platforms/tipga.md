@@ -4,7 +4,7 @@ description: 如何在 Tipga 寫作賺取 LikeCoin 成就？
 
 # Tipga
 
-安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
+安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
 
 [Tipga](https://www.tipga.com/) 於2021年3月13日開始支援讚賞鍵功能。
 

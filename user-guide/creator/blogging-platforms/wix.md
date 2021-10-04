@@ -4,7 +4,7 @@ description: 如何在 Wix 文章中加入 LikeCoin button
 
 # Wix / Weebly
 
-安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
+安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
 
 依照以下格式製作你的讚賞鍵鏈結：
 

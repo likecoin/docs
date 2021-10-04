@@ -4,7 +4,7 @@ description: 如何在 SteemCN 寫作賺取 LikeCoin 成就？
 
 # SteemCN
 
-安裝讚賞鍵以前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
+安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
 
 登入 [SteemCN](https://steem.buzz/)，點選「設置」 / "Settings" 
 
