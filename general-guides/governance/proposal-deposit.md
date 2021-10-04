@@ -1,6 +1,6 @@
 # Proposal Deposit
 
-Since the [FoTan](https://cloudflare-ipfs.com/ipfs/Qmb7AYNsbRJ95dWXCYCkUbpypAVfuxMZwB1D8wFHfwrLyc/) upgrade, likers can directly deposit the likecoin required to click start a proposal 
+Since the [FoTan](https://cloudflare-ipfs.com/ipfs/Qmb7AYNsbRJ95dWXCYCkUbpypAVfuxMZwB1D8wFHfwrLyc/) upgrade, likers can directly deposit the likecoin required to click start proposal voting. 
 
 Any validator can raise a proposal. In order to have a proposal to enter the voting period, 100k LikeCoin has to be deposited within 2 weeks. The deposit may come from other validators and Likers.
 
