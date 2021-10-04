@@ -10,15 +10,16 @@ Besides [registering with an email, GMail or Social Media Login](register.md), u
 
 | **Register a Liker IDwith Liker Land（Authcore sign-in）** | **Register a Liker ID with Keplr** |
 | :--- | :--- |
-| Manage the private key with Authcore secure and frictionless sign-in solution, easy to use | User has to manage his/her own private key, it's safer 👍  |
-| Wallet supports LikeCoin only | Wallet supports crypto currencies other than LikeCoin, such as ATOM, OSMO, AKT, CRO, KAVA, etc 👍  |
-| Login with Social logins \( Google, Facebok, etc \) or email | Login with Keplr only |
-| User friendly user experiences 👍  | Must have some knowledge on blockchain and cryptocurrency |
-| Enter receiver's Liker ID or wallet address during LIKE pay 👍  | Need to enter the full wallet address during transfer |
-| Login with Liker Land mobile app or mobile web 👍  | Can only login with Chrome Keplr extension on desktop computer |
-| Use Liker Land mobile app or stake.like.co to delegate LikeCoin👍  | Use stake.like.co to delegate LikeCoin |
-| Use stake.like.co to deposit or vote for a proposal | Use stake.like.co to deposit or vote for a proposal |
-| Rewards Visualization from each piece of content on Liker Land app 👍  | By transaction only |
+| Manage the private key with Authcore secure and frictionless sign-in solution, easy to use | User has to manage his/her own private key, it's safer👍  |
+| Wallet supports LikeCoin only | Wallet supports crypto currencies other than LikeCoin, such as ATOM, OSMO, AKT, CRO, KAVA, etc👍  |
+| Login with [Social logins](social-media-logins.md) \( Google, Facebok, etc \) or email | Login with Keplr only |
+| User friendly user experiences👍  | Must have some knowledge on blockchain and cryptocurrency |
+| Login with [Liker Land mobile app](https://liker.land/getapp) or mobile web👍  | Can only login with Chrome Keplr extension on desktop computer |
+| Enter receiver's Liker ID or wallet address during [LIKE pay](../../general-guides/wallet/like-pay.md)👍  | Need to enter the full wallet address during transfer |
+| Use Liker Land mobile app or stake.like.co to [delegate](../../general-guides/stake/delegation-of-likecoin.md) LikeCoin👍  | Use stake.like.co to delegate LikeCoin |
+| Use stake.like.co to [deposit](../../general-guides/governance/proposal-deposit.md) or [direct vote](../../general-guides/governance/direct-vote.md) for a proposal | Use stake.like.co to deposit or vote for a proposal |
+| [Rewards](../creatortools/rewards/) visualization from each piece of content on Liker Land app👍  | Check rewards by transaction only |
+| Not support | Register [ISCN](../../general-guides/decentralized-publishing/app.like.co.md)👍  |
 
 ### **Video Tutorial**
 
