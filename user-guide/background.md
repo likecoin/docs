@@ -133,7 +133,7 @@ The proposal would be implemented if it is passed. It happens when:
 * Simple majority: Not counting the abstention votes, there are more votes \(&gt;50%\) in favour than against.
 * No veto: Less than 30% voting power has voted a veto.
 
-If the proposal fails to achieve quorum, or gets more than 1/3 voting power as veto, then the proposal will be turned down and the deposited LikeCoin will be expropriated to the **Community Pool;** else the deposit will be transfer back to the owners.
+If the proposal fails to achieve quorum, or gets more than 1/3 voting power as veto, then the proposal will be turned down and the deposited LikeCoin will be expropriated to the **Community Pool;** else the deposit will be transferred back to the owners.
 
 ![](../.gitbook/assets/validator.png)
 

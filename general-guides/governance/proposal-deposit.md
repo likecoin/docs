@@ -1,12 +1,12 @@
 # Proposal Deposit
 
-自 LikeCoin chain 升級 FoTan 後，每位 Liker 都可以直接存入議案進入投票程序所需的保證金。
+Since the [FoTan](https://cloudflare-ipfs.com/ipfs/Qmb7AYNsbRJ95dWXCYCkUbpypAVfuxMZwB1D8wFHfwrLyc/) upgrade, likers can directly deposit the likecoin required to click start a proposal 
 
-所有驗證人均可以動議議案，議案需於兩週內獲任何人存入十萬 LikeCoin 保證金才可以進入投票程序。
+Any validator can raise a proposal. In order to have a proposal to enter the voting period, 100k LikeCoin has to be deposited within 2 weeks. The deposit may come from other validators and Likers.
 
-假若動議只獲得少於十萬 LikeCoin 保證金，動議將被中止。已提交的保證金將撥入社群基金 \( Community Pool \)，由其他議案決定其用途。
+In case the proposal fails to get 100k LikeCoin deposit in 2-week time, the proposal will be abandoned and the deposit will be forfeit and go to the Community Pool. The usage of the pool is determined by further proposals.
 
-留意，若未能超過法定投票權，又或者三份一以上投票權強烈反對（被視為「惡意提案」），則議案不通過之餘，LikeCoin 保證金也會被沒收並撥入社群基金**；**否則保證金將歸還予出資的 Likers。
+Please note, if the proposal fails to achieve quorum, or gets more than 1/3 voting power as veto, then the proposal will be turned down and the deposited LikeCoin will be expropriated to the Community Pool; else the deposit will be transferred back to the owners.
 
 ## How to deposit LikeCoin for a proposal 
 
@@ -24,43 +24,47 @@ Go to the left hand side menu and select "Proposal", click on the proposal which
 
 ![](../../.gitbook/assets/proposal-deposit-01.png)
 
-### 步驟三：進入議案頁面
+### Step 3. Proposal detail page
 
-進入議案頁面出現議案內容，點擊右上角「Deposit」
+The proposal page outlined the proposal content, click "Deposit".
 
 ![](../../.gitbook/assets/proposal-deposit-02.png)
 
-### 步驟四：存入保證金
+### Step 4: Deposit your LikeCoin to a proposal
 
-在「Amount」空格輸入需要存入的保證金數量。
+Input the amount that you would like to deposit for the proposal.
 
 ![](../../.gitbook/assets/proposal-deposit-03.png)
 
-存入需要手續費，查看並同意後再點擊「Next」。
+Transaction fee is required, check it out and agree with "Next".
 
 
 
 ![](../../.gitbook/assets/proposal-deposit-04.png)
 
-系統要求簽署確認，Authcore 用戶直接點擊「Send」。Keplr Browser Extension 及 Ledger Nano 點擊 Send 以後會彈出視窗或要求按鈕確認。
+Confirmation is required. Authcore users directly click "Send", Keplr Browser Extension and Ledger Nano will need to accept a pop-up box or press a button to confirm it.
+
+
 
 ![](../../.gitbook/assets/proposal-deposit-05.png)
 
-完成確認後系統顯示指令下達，請等待存入完成並不要關掉這個畫面。
+The deposit is on it's way, please wait for the transaction to finish.
+
+
 
 ![](../../.gitbook/assets/proposal-deposit-06.png)
 
-成功存入保證金。
+Successful deposit for a proposal!
 
 ![](../../.gitbook/assets/proposal-deposit-07.png)
 
-### 步驟五：查看存入紀錄
+### Step 5: Check deposit record
 
-到左手邊菜單選擇「Transactions」會看到存入保證金紀錄。
+Go to the left hand side menu and select "Transactions" and check out your deposit record.
 
 ![](../../.gitbook/assets/proposal-deposit-08.png)
 
 {% hint style="info" %}
-議案投票通過後保證金將發還予出資的 Liker。
+If the proposal passed, the deposit will be transfer back to the likers.
 {% endhint %}
 
