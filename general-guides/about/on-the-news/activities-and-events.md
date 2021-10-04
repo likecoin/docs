@@ -52,7 +52,7 @@
 
 [去中心化保存，公民共享記憶](https://www.facebook.com/culturemediahk/videos/223717656089852)
 
-{% embed url="https://www.facebook.com/culturemediahk/videos/223717656089852" %}
+{% embed url="https://www.youtube.com/watch?v=hb7H3gTl1rk" %}
 
 ### 01/13 UniDao Cosmos Demo day
 
