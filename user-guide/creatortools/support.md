@@ -8,7 +8,7 @@ description: 創作者的成績表
 
 請跟隨以下簡單步驟：  
   
-步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「創作者」。
+步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「[創作者](https://liker.land/creators/dashboard)」。
 
 ![](../../.gitbook/assets/civic-liker-menu.png)
 
