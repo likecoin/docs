@@ -90,7 +90,11 @@
 
 [《蘋果日報》網站即將停運　民間倡內容共享創意授權保存未有下文](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/641736/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1-%E7%B6%B2%E7%AB%99%E5%8D%B3%E5%B0%87%E5%81%9C%E9%81%8B-%E6%B0%91%E9%96%93%E5%80%A1%E5%85%A7%E5%AE%B9%E5%85%B1%E4%BA%AB%E5%89%B5%E6%84%8F%E6%8E%88%E6%AC%8A%E4%BF%9D%E5%AD%98%E6%9C%AA%E6%9C%89%E4%B8%8B%E6%96%87)
 
-### 05/27 CryptoPotato
+### 06/20 城寨 x Yolo 街
+
+[城寨 x Yolo 街 - 科技與香港人身份證同行動\(1\)：海外香港人網絡與科技創新](https://twitter.com/bonkat/status/1406443103179837444)
+
+### 05/27 CryptoPotato
 
 [People in Hong Kong Use The Blockchain To Fight Against Media Censorship](https://cryptopotato.com/people-hong-kong-use-blockchain-fight-media-censorship/)
 
