@@ -4,7 +4,7 @@ description: Get more sponsors
 
 # Creator Pitch
 
-In order to get more sponsors to become your [Civic Liker](https://docs.like.co/user-guide/civic-liker), an attractive creator pitch will help to leverage your image. The setup is easy, please follow the steps:
+In order to get more sponsors to become your [Civic Liker](../civic-liker/), an attractive creator pitch will help to leverage your image. The setup is easy, please follow the steps:
 
 Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "I'm a Creator too".
 
