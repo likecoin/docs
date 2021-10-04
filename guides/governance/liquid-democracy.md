@@ -16,6 +16,8 @@ LikeCoin 除了是個通證 \( token \)，LikeCoin chain 是區塊鏈，加起�
 
 [LikeCoin 治理議案流程簡介](https://matters.news/@likecoin/like-coin-%E6%B2%BB%E7%90%86%E8%AD%B0%E6%A1%88%E6%B5%81%E7%A8%8B%E7%B0%A1%E4%BB%8B-bafyreigjlcrzlfall5jduxigs2sh7miciqzt553w4fiipnggo73oqhv4nu)
 
+{% page-ref page="proposal-deposit.md" %}
+
 {% page-ref page="direct-vote.md" %}
 
 {% page-ref page="community-call.md" %}

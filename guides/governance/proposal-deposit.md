@@ -1,3 +1,7 @@
+---
+description: 讓議案得以
+---
+
 # Liker 為議案存入保證金
 
 自 LikeCoin chain 升級 FoTan 後，每位 Liker 都可以直接存入議案進入投票程序所需的保證金。
