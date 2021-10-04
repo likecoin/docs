@@ -14,9 +14,11 @@ Besides [registering with an email, GMail or Social Media Login](register.md), u
 | Wallet supports LikeCoin only | Wallet supports crypto currencies other than LikeCoin, such as ATOM, OSMO, AKT, CRO, KAVA, etc 👍  |
 | Login with Social logins \( Google, Facebok, etc \) or email | Login with Keplr only |
 | User friendly user experiences 👍  | Must have some knowledge on blockchain and cryptocurrency |
-| Login with Liker Land mobile app or mobile web 👍  | Can only login with Chrome Keplr extension on desktop computer |
-| Use Liker Land mobile app to delegate LikeCoin | Use stake.like.co to delegate LikeCoin |
 | Enter receiver's Liker ID or wallet address during LIKE pay 👍  | Need to enter the full wallet address during transfer |
+| Login with Liker Land mobile app or mobile web 👍  | Can only login with Chrome Keplr extension on desktop computer |
+| Use Liker Land mobile app or stake.like.co to delegate LikeCoin👍  | Use stake.like.co to delegate LikeCoin |
+| Use stake.like.co to deposit or vote for a proposal | Use stake.like.co to deposit or vote for a proposal |
+| Rewards Visualization from each piece of content on Liker Land app 👍  | By transaction only |
 
 ### **Video Tutorial**
 
