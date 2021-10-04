@@ -24,7 +24,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ### 步驟三：選擇議案
 
-登入後，到左手邊菜單選擇「Proposals」顯示正在投票階段的議案，點選你需要投票的議案。
+登入後，到左手邊菜單選擇「Proposals」顯示所有議案，點選你需要投票的議案。
 
 ![](../../.gitbook/assets/direct-vote-02.png)
 
