@@ -34,13 +34,17 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 用戶需要在 Matters 網站內設置綁定：
 
 1. 請登入 [Matters.news](https://matters.news)
-2. 點擊帳戶頭像，從菜單中選「設定」
-3. 在「錢包設定」部份，選綁定 Liker ID
-4. 按畫面指示登入 Liker ID
+2. 點擊左手邊「我的」，從菜單中選「設定」
+3. 在「錢包設定」部份，選 Liker ID
+4. 按畫面指示登入並綁定 Liker ID
 
-### 參考文章
+### 更多詳盡介紹
 
 {% page-ref page="../creator/matters.md" %}
+
+> [Matters 作者工具箱 \| 新手必看（2021.07.30更新）](https://matters.news/@hi176/matters-%E4%BD%9C%E8%80%85%E5%B7%A5%E5%85%B7%E7%AE%B1-%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B-2021-07-30%E6%9B%B4%E6%96%B0-bafyreiaycr64hciqsxnrsecnw3wlnelpqj6p3d3fluiavxcoz4esild35e)
+
+> [Matters 讀者工具箱 \| 新手必看（2021.07.30更新）](https://matters.news/@hi176/matters-%E8%AE%80%E8%80%85%E5%B7%A5%E5%85%B7%E7%AE%B1-%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B-2021-07-30%E6%9B%B4%E6%96%B0-bafyreif6eaqozxvawujd63ucl4zymuhprxdx7hbqtvxftvdw5fvlkdcbqm)
 
 > [現有 LikeCoin 用戶如何在 Matters 綁定 Liker ID？實在太簡單了！](https://matters.news/@daisy/%E7%8F%BE%E6%9C%89-like-coin-%E7%94%A8%E6%88%B6%E5%A6%82%E4%BD%95%E5%9C%A8-matters-%E7%B6%81%E5%AE%9A-liker-id-%E5%AF%A6%E5%9C%A8%E5%A4%AA%E7%B0%A1%E5%96%AE%E4%BA%86-zdpuB1VXByRv19fhiPD8zRDyB5YsxY231LsncTGnETPGnmav1)
 
