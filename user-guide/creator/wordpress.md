@@ -10,7 +10,7 @@ Installing LikeCoin WordPress plugin is easy-peasy, it takes only a few steps, w
 
 ### Install LikeCoin plugin  <a id="-likecoin-"></a>
 
-Before installing the LikeCoin plugin, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
+Before installing the LikeCoin plugin, please [register a Liker ID](../liker-id/).
 
 Follow the steps:
 

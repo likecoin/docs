@@ -4,7 +4,7 @@ description: How to embed LikeCoin button into SteemCN
 
 # SteemCN
 
-Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
+Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).
 
 Login SteenCN, click "Settings"
 

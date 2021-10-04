@@ -6,7 +6,7 @@ description: How to embed LikeCoin button into mdBook
 
 Thanks to the user [道場除草機](https://dltdojo.github.io/taichu-crypto/dao/likecoin.html#likecoin) for the tutorial.
 
-Before adding the LikeCoin button, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
+Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).
 
 Use Javascript to create the following HTML in browsers and put it into static HTML created by mdBook.
 
