@@ -6,7 +6,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 ## 安裝 LikeCoin 外掛
 
-安裝 [LikeCoin WordPress Plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 亦即是外掛前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
+安裝 [LikeCoin WordPress Plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 亦即是外掛前，請先 [註冊 Liker ID](../liker-id/)。
 
 然後請執行以下步驟：
 
@@ -26,7 +26,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 ## 設定 LikeCoin 外掛 <a id="448e"></a>
 
-設定讚賞鍵外掛前，請先 [註冊 Liker ID](https://docs.like.co/v/zh/user-guide/liker-id/register)。
+設定讚賞鍵外掛前，請先 [註冊 Liker ID](../liker-id/)。
 
 在管理介面左方菜單，點選 "LikeCoin" 外掛設定，再選「你的 LikeCoin button」。在右方畫面中，輸入你的 Liker ID。
 
