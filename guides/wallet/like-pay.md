@@ -36,7 +36,7 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 
 ### **步驟六**
 
-輸入要轉帳的金額，選「下一步」出現確認畫面，你可點擊「詳細資料」查看是次轉帳[手續費](https://docs.like.co/v/zh/guides/wallet/transaction-fee)的估算數值。請確定你的錢包在轉帳以外留有足夠手續費，再點擊「確認」 即可完成轉帳。
+輸入要轉帳的金額，選「下一步」出現確認畫面，你可點擊「詳細資料」查看是次轉帳[手續費](transaction-fee.md)的估算數值。請確定你的錢包在轉帳以外留有足夠手續費，再點擊「確認」 即可完成轉帳。
 
 ![](../../.gitbook/assets/like-pay-4.png)
 
@@ -44,13 +44,17 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 
 ### 步驟一
 
-請先登入 [Liker Land 網頁版](https://docs.like.co/v/zh/user-guide/liker-land/download#liker-land-web)，並於轉帳對象的[個人主頁](https://docs.like.co/v/zh/user-guide/creatortools/portfolio-page)點擊 LIKE pay。
+請先登入 [Liker Land 網頁版](../../user-guide/liker-land/download.md#liker-land-web)，並於轉帳對象的[個人主頁](../../user-guide/creatortools/portfolio-page.md)點擊 LIKE pay。
 
 ![](../../.gitbook/assets/like-pay-5.png)
 
 ### 步驟二
 
-在轉帳頁面輸入需要轉帳的 LikeCoin 數量，請留意錢包內需要有定夠手續費，再點擊「確認」 即可完成轉帳。
+在轉帳頁面輸入需要轉帳的 LikeCoin 數量，請留意錢包內需要有定夠[手續費](transaction-fee.md)，再點擊「確認」 即可完成轉帳。
 
 ![&#x624B;&#x7E8C;&#x8CBB;&#x65BC;&#x300C;&#x78BA;&#x8A8D;&#x300D;&#x4E0B;&#x65B9;&#x986F;&#x793A;](../../.gitbook/assets/like-pay-6%20%281%29.png)
+
+{% hint style="info" %}
+[Matters](../../user-guide/creator/matters.md) 使用者可任意對任何一篇文章「支持作者」轉帳，詳見[Matters 支付與提現功能指南（2020.08.14更新）](https://matters.news/@hi176/matters-%E6%94%AF%E4%BB%98%E8%88%87%E6%8F%90%E7%8F%BE%E5%8A%9F%E8%83%BD%E6%8C%87%E5%8D%97-2020-08-14%E6%9B%B4%E6%96%B0-bafyreicfgnpk4jamnhkjecq32kdlmhhtp6xrwpkxoalp37wayd4sqmjo54)
+{% endhint %}
 
