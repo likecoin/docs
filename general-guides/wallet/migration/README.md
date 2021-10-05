@@ -1,7 +1,7 @@
 ---
 description: >-
-  Genesis block of LikeCoin chain has been produced on December 2, 2019,
-  upgraded from ERC-20 to LikeCoin chain
+  Genesis block of Cosmos SDK based LikeCoin chain has been produced on December
+  2, 2019
 ---
 
 # Migrating from ERC-20
