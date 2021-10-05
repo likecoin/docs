@@ -54,9 +54,9 @@ DigiFinex requires you to input your "Tag/Memo" into the chain during deposit, i
 
 #### DigiFinex Official Tutorial
 
-> [【Deposit】- How to Deposit in Website](https://digifinex.zendesk.com/hc/en-us/articles/360000519282-How-to-Deposite-In-Website-)
+> [【Deposit】- How to Deposit in Website](https://digifinex.zendesk.com/hc/en-us/articles/360000519282--Deposit-How-to-Deposit-in-Website)
 
-> [【Deposit】- How to Deposit in APP](https://digifinex.zendesk.com/hc/en-us/articles/360002689614-How-to-Deposite-In-APP-)
+> [【Deposit】- How to Deposit in APP](https://digifinex.zendesk.com/hc/en-us/articles/360002689614--Deposit-How-to-Deposit-in-APP)
 
 ### Step 3: Confirm the transfer to DigiFinex
 
@@ -100,11 +100,7 @@ The system will calculate "Total", confirm if they are correct or not, then clic
 
 #### DigiFinex Official Tutorial
 
-> [【Spot trading】- What is Token Trading](https://digifinex.zendesk.com/hc/en-us/articles/360010693193-What-is-Token-Trading)
-
-> [【Spot trading】- How to do Spot Trading on DigiFinex Website](https://digifinex.zendesk.com/hc/en-us/articles/360000523002-How-to-Start-Spot-Trading-In-Website-)
-
-> [【Spot trading】- How to do Spot Trading on DigiFinex APP](https://digifinex.zendesk.com/hc/en-us/articles/360007599713-How-to-Start-Spot-Trading-In-APP-)
+> [Spot Trading Tutorial - DigiFinex Guide](https://www.youtube.com/watch?v=o3aV16hrDt0)[](https://digifinex.zendesk.com/hc/en-us/articles/360007599713-How-to-Start-Spot-Trading-In-APP-)
 
 ### Step 5: Check Transaction details
 
