@@ -8,3 +8,9 @@ description: >-
 
 If you still get hold of LikeCoin ERC-20, please migrate to the LikeCoin chain as soon as possible.
 
+{% page-ref page="upgrading-likecoin-erc20-to-likecoin-chain.md" %}
+
+{% page-ref page="migration-faq.md" %}
+
+
+
