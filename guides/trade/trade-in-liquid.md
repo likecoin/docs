@@ -50,7 +50,7 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 > [液體交換常見問題](https://help.liquid.com/zh-TW/articles/2607590-%E6%B6%B2%E9%AB%94%E4%BA%A4%E6%8F%9B%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)[](https://help.liquid.com/zh-TW/articles/2607590-%E6%B6%B2%E9%AB%94%E4%BA%A4%E6%8F%9B%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)
 
 {% hint style="info" %}
-Liquid [不對數字貨幣及法定貨幣充值收取相應費用](https://help.liquid.com/en/articles/3297509-deposit-fees)，而最低最低提現金額及交易手續費等最新資訊可參考續[手費用](https://www.liquid.com/zhtw/fees/)。留意並不是每一種法定貨幣都支援提現而且有銀行手續費，詳見 [Liquid Withdrawal fees](https://help.liquid.com/en/articles/3297510-withdrawal-fees)。
+Liquid [不對數字貨幣及法定貨幣充值收取相應費用](https://help.liquid.com/en/articles/3297509-deposit-fees)，而最低最低提現金額及交易手續費等最新資訊可參考[手續費用](https://www.liquid.com/zhtw/fees/)。留意並不是每一種法定貨幣都支援提現而且有銀行手續費，詳見 [Liquid Withdrawal fees](https://help.liquid.com/en/articles/3297510-withdrawal-fees)。
 {% endhint %}
 
 #### 參考文章
