@@ -52,7 +52,7 @@ LikeCoin 經已轉移到 [LikeCoin chain](../../governance/likecoin-chain.md)，
 
 ### 步驟 3：檢查 LikeCoin 金額 <a id="step-3-check-your-likecoin-balance"></a>
 
- 升級完成後，你可到 [https://Like.co/in](https://like.co/in) 檢查你的 LikeCoin 餘額。  
+ 升級完成後，你可到 [https://like.co/in](https://like.co/in) 檢查你的 LikeCoin 餘額。  
 
 
 ![](../../../.gitbook/assets/likecoin-migration-6.png)
