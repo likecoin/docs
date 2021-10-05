@@ -6,6 +6,10 @@ description: How to register on Liquid Exchange
 
 You have to register a Liquid account and pass the account verification in order to use their service.
 
+Please note that you cannot use Liquid if you are in certain countries.
+
+> [Can I use Liquid in my country?](https://help.liquid.com/en/articles/2272984-can-i-use-liquid-in-my-country)
+
 ### Step 1: Complete basic info
 
 Go to [Liquid.com](https://www.liquid.com/) and [register](https://www.liquid.com/sign-up/?affiliate=zlgAOAX564083) an account, simply fill in the details however please fill in your \[Legal First Name\] \[Legal Last Name\] as account verification is required
@@ -37,6 +41,8 @@ Fill in the code correctly and the set up of 2-Factor Authentication is complete
 
 > [How to set up 2FA?](https://help.liquid.com/en/articles/4883860-how-to-set-up-2fa)
 
+> [Compatible 2FA Applications](https://help.liquid.com/en/articles/5200243-compatible-2fa-applications)
+
 ### Step 3: Send the documents required for account verification
 
 After completing 2FA, you can have a look at the exchange panel but the only thing you can do is deposit. To facilitate withdrawal, account verification has to be completed, please follow the steps:
@@ -60,11 +66,15 @@ Submit the documents and wait for Liquid to confirm your application. It takes a
 
 #### Liquid Official Tutorial
 
-> [Liquid Account Verification & Identification Changes](https://help.liquid.com/en/articles/4246962-liquid-account-verification-identification-changes)
+> [How do I verify \(KYC\) my Liquid account?](https://help.liquid.com/en/articles/2273305-how-do-i-verify-kyc-my-liquid-account)
 
-> [How do I submit the required KYC documents?](https://help.liquid.com/en/articles/4250426-how-do-i-submit-the-required-kyc-documents)
+> [How do I submit the required KYC documents](https://help.liquid.com/en/articles/4250426-how-do-i-submit-the-required-kyc-documents)
+
+> [How does video call account verification work?](https://help.liquid.com/en/articles/3104816-how-does-video-call-account-verification-work)[](https://help.liquid.com/en/articles/4250426-how-do-i-submit-the-required-kyc-documents)
+
+> [Liquid Account Verification & Identification Changes](https://help.liquid.com/en/articles/4246962-liquid-account-verification-identification-changes)
 
 ### **If you experience difficulties, contact Liquid Help Desk**
 
-If you have any questions about using Liquid and their products,  please check [Liquid Help Center](https://help.liquid.com/en/) or contact Liquid customer service. Click on the bubble at the lower right hand corner of Liquid website or Liquid Help Center and find instant support.
+If you have any questions about using Liquid and their products,  please check [Liquid Help Center](https://help.liquid.com/en/) or contact Liquid customer service.
 
