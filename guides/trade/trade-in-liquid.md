@@ -28,7 +28,7 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 ### 以信用卡買入 LikeCoin
 
 * 只接受 VISA 信用卡
-* 最低兌換額 78 港元 或 380 新台幣（約 10 美元）
+* 最低兌換額約為 15 美元或同等幣值貨幣
 * 系統會即時顯示信用卡手續費及兌換率。畫面顯示的貨幣獲得數量已是扣除費用後所獲得的數量
 
 ![](../../.gitbook/assets/quick-exchange-3%20%281%29.png)
@@ -36,10 +36,6 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 點擊 "Buy with VISA" 後，系統會要求你填寫信用卡資料，然後付款。
 
 ![](../../.gitbook/assets/quick-exchange-4%20%281%29.png)
-
-你也可以直接往 [Like.co](https://like.co/) 購買 LikeCoin。
-
-![](../../.gitbook/assets/quick-exchange-5.png)
 
 {% hint style="info" %}
 Liquid 不對數字貨幣及法定貨幣存款收取相應費用，而最低委託數量、最低提款金額及交易手續費等最新資訊可於 [Liquid 幫助中心（繁体中文）](https://help.liquid.com/en/collections/1490333-liquid-%E5%B9%AB%E5%8A%A9%E4%B8%AD%E5%BF%83-%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87)參看

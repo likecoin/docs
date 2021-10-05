@@ -13,7 +13,7 @@ description: 支援 LikeCoin 的交易所
 
 有興趣的朋友可以向他們購買或交易 LikeCoin。 
 
-轉帳 LikeCoin 到交易所須使用支援 LikeCoin 的[錢包](https://docs.like.co/v/zh/guides/wallet)。
+轉帳 LikeCoin 到交易所須使用支援 LikeCoin 的[錢包](../wallet/)。
 
 你也可能對以下條目有興趣：
 
