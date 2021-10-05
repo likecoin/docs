@@ -12,7 +12,7 @@ description: 第一個 ISCN 的概念示範應用
 
 ![](../../.gitbook/assets/app.like.co.png)
 
-app.like.co 仍在開發階段，現時用戶可使用測試版本嘗試註冊自己的 ISCN。
+用戶可使用 [app.like.co](https://app.like.co/) 嘗試註冊自己的 ISCN。
 
 ### 步驟一：登入 app.like.co
 
