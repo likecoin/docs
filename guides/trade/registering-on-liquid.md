@@ -6,6 +6,10 @@ description: 如何註冊 Liquid 交易所帳號
 
 使用 Liquid 交易所的服務，必須先註冊 Liquid 帳號並通過實名認證。
 
+留意若干國家並不能使用 Liquid 的服務，詳見：
+
+> [我可以在我的國家使用Liquid嗎？](https://help.liquid.com/zh-TW/articles/2272984-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%9C%A8%E6%88%91%E7%9A%84%E5%9C%8B%E5%AE%B6%E4%BD%BF%E7%94%A8liquid%E5%97%8E)
+
 ### 步驟一：填寫基本資料
 
 請到 [Liquid.com 註冊帳號](https://www.liquid.com/sign-up/?affiliate=zlgAOAX564083)。過程中你只需填上簡單的資料，但由於需要實名認證，請填寫你的身份證明文件上的真實姓名 \[Legal First Name\] \[Legal Last Name\]
@@ -35,9 +39,11 @@ Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請�
 
 #### Liquid 官方教學
 
-> [設置兩步驗證 \(2FA\)](https://help.liquid.com/en/articles/2581804-%E8%A8%AD%E7%BD%AE%E5%85%A9%E6%AD%A5%E9%A9%97%E8%AD%89-2fa)
+> [如何設置2FA](https://help.liquid.com/zh-TW/articles/4883860-%E5%A6%82%E4%BD%95%E8%A8%AD%E7%BD%AE2fa)
 
-### 步驟三：提交文件作實名認證
+> [兼容的2FA應用程序](https://help.liquid.com/zh-TW/articles/5200243-%E5%85%BC%E5%AE%B9%E7%9A%842fa%E6%87%89%E7%94%A8%E7%A8%8B%E5%BA%8F)
+
+### 步驟三：提交文件作實名認證
 
 完成雙重認證設定後，你雖已可以進到交易所的交易畫面，但只能存款，不能領款；原因是你還未完成實名認證的程序。請執行以下程序：
 
@@ -59,7 +65,9 @@ Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請�
 
 #### Liquid 官方教學
 
-> [驗證 \(了解你的客戶/KYC\) 您的個人Liquid賬戶](https://help.liquid.com/en/articles/2581687-%E9%A9%97%E8%AD%89-%E4%BA%86%E8%A7%A3%E4%BD%A0%E7%9A%84%E5%AE%A2%E6%88%B6-kyc-%E6%82%A8%E7%9A%84%E5%80%8B%E4%BA%BAliquid%E8%B3%AC%E6%88%B6)
+> [如何驗證（KYC）我的流動賬](https://help.liquid.com/zh-TW/articles/2273305-%E5%A6%82%E4%BD%95%E9%A9%97%E8%AD%89-kyc-%E6%88%91%E7%9A%84%E6%B5%81%E5%8B%95%E8%B3%AC%E6%88%B6)
+
+> [視頻通話帳戶驗證如何工作？](https://help.liquid.com/zh-TW/articles/3104816-%E8%A6%96%E9%A0%BB%E9%80%9A%E8%A9%B1%E5%B8%B3%E6%88%B6%E9%A9%97%E8%AD%89%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C)
 
 #### 參考文章
 
@@ -67,7 +75,7 @@ Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請�
 
 ### 如有疑難，聯絡 Liquid 客服 <a id="-liquid-"></a>
 
-若你在開戶或任何交易所服務的過程中遇到困難，請參考 [Liquid 幫助中心（繁体中文）](https://help.liquid.com/en/collections/1490333-liquid-%E5%B9%AB%E5%8A%A9%E4%B8%AD%E5%BF%83-%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87#%E9%97%9C%E6%96%BC%E8%B3%AC%E6%88%B6-user-account)或直接聯絡 Liquid 客服。點擊 Liquid 網站或幫助中心畫面右下角藍色的對話圖示，可獲即時在線支援，十分方便。
+若你在開戶或任何交易所服務的過程中遇到困難，請參考 [Liquid 幫助中心（繁体中文）](https://help.liquid.com/zh-TW/)或直接聯絡 Liquid 客服。
 
 {% hint style="info" %}
 點擊你的頭像進入 My Profile，點選 Language Default 可以將使用者界面預換為繁體中文或简体中文，又或者在網頁下方語言列進行轉換
