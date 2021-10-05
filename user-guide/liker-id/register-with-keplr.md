@@ -4,7 +4,7 @@ description: Decentralized Liker ID sign up and LikeCoin management
 
 # Register a Liker ID with Keplr
 
-Besides [registering with an email, GMail or Social Media Login](register.md), users can now register with Keplr and manage their LikeCoin in a decentralized way with their own private key. Users can choose "Sign in with your wallet" on the top right hand corner during sign up/login. Keplr currently supports registering a new Liker ID or bond your existing Keplr wallet with a Liker ID.
+Besides [registering with an email, GMail or Social Media Login](register.md), users can now register with Keplr and manage their LikeCoin in a decentralized way with their own private key. Users can choose "Sign in with your wallet" on the top right hand corner during sign up/login. Keplr currently supports registering a new Liker ID or bond your existing Keplr wallet with a Liker ID \(Skip Step 1\).
 
 ### **Comparison**
 
