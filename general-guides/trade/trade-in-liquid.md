@@ -4,7 +4,7 @@ description: Buy and Swap LikeCoin. Instantly
 
 # Trade in Liquid
 
-### Quick Exchange
+## Quick Exchange
 
 [Quick Exchange ](https://app.liquid.com/quick-exchange)provides a simple interface for users to exchange LikeCoin.
 
