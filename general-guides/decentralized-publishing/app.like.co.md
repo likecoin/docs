@@ -12,7 +12,7 @@ Users can also check an ISCN record and it's details in app.like.co.
 
 ![](../../.gitbook/assets/app.like.co.png)
 
-app.like.co is still under development but users can use the prototype to try out and register his/her ISCN.
+ Users can use [app.like.co](https://app.like.co/) to try out and register his/her ISCN.
 
 ### Step 1: Login app.like.co
 
@@ -79,9 +79,9 @@ ISCN with a unique content fingerprint is ready.
 
 Back to app.like.co homepage, click **\[Your Publishing\]** to list all your publications.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBrLPsMJ5qilDTUQka%2Fiscn%20register%2010.png?alt=media&token=c0f1b33c-60d1-428b-b116-0f7cab96ef96)
+![](../../.gitbook/assets/iscn-register-10.png)
 
 Click on a particular piece to check out the metadata and the original file.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBrSx8ySFu2Z-DfEgE%2Fiscn%20register%2011.png?alt=media&token=dfb44d02-75bf-4506-9021-fa21f9c95046)
+![](../../.gitbook/assets/iscn-register-11.png)
 
