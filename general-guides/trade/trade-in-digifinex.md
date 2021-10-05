@@ -111,7 +111,7 @@ Go to the bottom of the screen and find "Trade History" to check out the transac
 ### Step 6: Withdrawal
 
 {% hint style="info" %}
-About the minimum withdrawal requirement and withdrawal free, you can check out 【[Contract List】- Fees](https://digifinex.zendesk.com/hc/en-us/articles/360000328422-Fee-Structure-on-DigiFinex). Please also note that you have to complete 2FA before withdrawal.
+About the minimum withdrawal requirement and withdrawal free, you can check out [【Contract List】- Fees](https://digifinex.zendesk.com/hc/en-us/articles/360000328422--Contract-List-Fees). Please also note that you have to complete [2FA](registering-on-digifinex.md#3-google-) before withdrawal.
 {% endhint %}
 
 Going back to "My Balance" page in Step 1, select USDT or LIKE and click "Withdrawal", then click "Add withdraw address" to add your USDT or LikeCoin address for transfer, and follow the steps to complete withdrawal.
@@ -128,9 +128,7 @@ Going back to "My Balance" page in Step 1, select USDT or LIKE and click "Withdr
 
 #### DigiFinex Official Tutorial
 
-> [【Withdraw】- How to Withdraw in Website](https://digifinex.zendesk.com/hc/en-us/articles/360000521962-How-to-withdraw-In-Website-)
+> [【Withdraw】- How to Withdraw in Website](https://digifinex.zendesk.com/hc/en-us/articles/360000521962--Withdraw-How-to-Withdraw-in-Website)
 
-> [【Withdraw】- How to withdraw in APP](https://digifinex.zendesk.com/hc/en-us/articles/360002955534-How-to-withdraw-In-APP-)
-
-> [【New User Guide】- New user introduction article directory](https://digifinex.zendesk.com/hc/en-us/articles/360000499281--New-User-Guide-New-user-introduction-article-directory)
+> [【Withdraw】- How to withdraw in APP](https://digifinex.zendesk.com/hc/en-us/articles/360002955534--Withdraw-How-to-withdraw-in-APP)
 
