@@ -98,7 +98,7 @@ After the upload is completed, wait for approval. Review will be completed in 1-
 
 #### DigiFinex Official Tutorial
 
-> [【New User Guide】- How to do ID-verification \(a.k.a KYC\)](https://digifinex.zendesk.com/hc/en-us/articles/360006473334--New-User-Guide-How-to-do-ID-verification-a-k-a-KYC-)
+> [How to do ID-verification \(a.k.a KYC\)](https://digifinex.zendesk.com/hc/en-us/articles/360006473334--How-to-do-ID-verification-a-k-a-KYC-)
 
 ### Step 3: Set up 2-Factor Authentication \(2FA\) <a id="3-google-"></a>
 
@@ -125,11 +125,7 @@ Click "Send Code" to acquire verification code, and fill in the 6-digit 2FA code
 
 #### DigiFinex Official Tutorial
 
-> [【2FA】- How to set up 2FA](https://digifinex.zendesk.com/hc/en-us/articles/360007869553--2FA-How-to-set-up-2FA)
-
-> [【2FA】- What is the Use of 2FA](https://digifinex.zendesk.com/hc/en-us/articles/360000511061--2FA-What-is-the-Use-of-2FA)
-
-> [【2FA】- FAQs](https://digifinex.zendesk.com/hc/en-us/articles/360000518802-FAQ-about-2FA)
+> [How to set up 2FA？](https://digifinex.zendesk.com/hc/en-us/articles/360007869553-How-to-set-up-2FA-)[](https://digifinex.zendesk.com/hc/en-us/articles/360000518802-FAQ-about-2FA)
 
 ### If you experience difficulties, contact DigiFinex Help Desk
 
