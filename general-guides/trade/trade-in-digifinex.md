@@ -38,7 +38,7 @@ Go to the next page, click on the QR Code icon circled in red, the app will open
 
 ![Click the QR Code icon circled in red to open camera](../../.gitbook/assets/bitasset-trade-7.png)
 
-Input the Tag/Memo number into the "Input memo \(optional\)" field 
+Input the Tag/Memo number into the "Input memo \(optional\)" field \(**Very Important!**\)
 
 ![](../../.gitbook/assets/digifinex-tagmemo%20%281%29.png)
 
@@ -48,8 +48,8 @@ Input the amount of LikeCoin that you want to transfer, then click \[Confirm\]
 
 Next step is to wait for DigiFinex to confirm the transfer.
 
-{% hint style="warning" %}
-DigiFinex requires you to input your "Tag/Memo" into the chain during deposit, if you forgot to input this information, please contact [DigiFinex Customer Service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service) after deposting LikeCoin.
+{% hint style="danger" %}
+DigiFinex requires you to input your "Tag/Memo" into the chain during deposit, if you forgot to input this information, please contact [DigiFinex Customer Service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241--New-User-Guide-How-to-Find-the-Customer-Service) after deposting LikeCoin.
 {% endhint %}
 
 #### DigiFinex Official Tutorial
