@@ -54,6 +54,6 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 請先將 LikeCoin 轉移到一個 Metamask 錢包，然後[註冊 Liker ID](../../../user-guide/liker-id/) 又或者[開設 Keplr 錢包](../keplr.md)。接下來到 [https://migration.like.co/](https://migration.like.co/) 輸入該 Liker ID 或 Keplr 的 Cosmos 地址，即可進行升級。
 
 {% hint style="danger" %}
-使用 [https://migration.like.co/](https://migration.like.co/) 升級時請不要直接輸入交易所的 Cosmos 錢包地址，例如某些交易所需要輸入 tag/memo 才能存幣，會導致損失並有機會不能認領你的 LikeCoin。
+使用 [https://migration.like.co/](https://migration.like.co/) 升級時請不要直接輸入交易所的 Cosmos 錢包地址，例如某些交易所需要輸入 tag/memo 才能存幣，這樣會導致損失並有機會讓你不能認領你的 LikeCoin。請先將 LikeCoin 轉入自己的錢包才進行其他交易或轉換。
 {% endhint %}
 
