@@ -18,7 +18,7 @@ LikeCoin 的技術核心為 [LikeCoin chain](https://likecoin.bigdipper.live/) �
 
 ## 關注 LikeCoin <a id="learn-more"></a>
 
-* **網站**：[Like.co](https://like.co)（所有持份者；英文）、[Liker.Land](https://liker.land)（讀者、內容伯樂）、[ISCN App](https://app.like.co/)（ISCN 註冊）
+* **網站**：[Like.co](https://like.co)（所有持份者；英文）、[Liker.Land](https://liker.land)（讀者、內容伯樂）、[ISCN App](https://app.like.co/)（ISCN 註冊）、[iscn.io](https://iscn.io/)（ISCN 技術細節）
 * [**Discord**](https://discord.com/invite/W4DQ6peZZZ)：開發、治理相關討論
 * [**Telegram**](https://t.me/likecoin)：持份者、一般討論
 * [**Medium**](https://medium.com/likecoin) [publication](https://medium.com/likecoin)：治理、進度更新、產品理念；英文
