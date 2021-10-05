@@ -36,7 +36,7 @@ Some crypto exchanges may require input of Tag/Memo, please fill in the value he
 
 ### **Step 6**
 
-****Input the amount of LikeCoin that you have to transfer, click \[Next\].  You may click on the \[Details\] to check the estimated [Transaction fee](https://docs.like.co/guides/wallet/transaction-fee) for this LikeCoin transfer.  Make sure that your wallet has enough spare LikeCoin other than those you have to transfer. Click \[Confirm\] to finish the transfer.
+****Input the amount of LikeCoin that you have to transfer, click \[Next\].  You may click on the \[Details\] to check the estimated [Transaction fee](transaction-fee.md) for this LikeCoin transfer.  Make sure that your wallet has enough spare LikeCoin other than those you have to transfer. Click \[Confirm\] to finish the transfer.
 
 ![](../../.gitbook/assets/like-pay-4-en.png)
 
@@ -44,13 +44,13 @@ Some crypto exchanges may require input of Tag/Memo, please fill in the value he
 
 ### Step 1
 
-Login [Liker Land web](https://docs.like.co/user-guide/liker-land/download#liker-land-web) and click LIKE pay on the receiver's [Portfolio Page](https://docs.like.co/user-guide/creatortools/portfolio-page).
+Login [Liker Land web](../../user-guide/liker-land/download.md#liker-land-web) and click LIKE pay on the receiver's [Portfolio Page](../../user-guide/creatortools/portfolio-page.md).
 
 ![](../../.gitbook/assets/like-pay-5-en.png)
 
 ### Step 2
 
-On the Send LikeCoin to page, check on the transaction and make sure that your wallet has enough spare LikeCoin other than those you have to transfer. Input the number of LikeCoin that you have to send and click "Confirm" to finish the transfer.
+On the Send LikeCoin to page, check on the transaction and make sure that your wallet has enough spare LikeCoin for [transaction fee](transaction-fee.md) other than those you have to transfer. Input the number of LikeCoin that you have to send and click "Confirm" to finish the transfer.
 
 ![Transaction Fee displayed below the \[Confirm\] button](../../.gitbook/assets/like-pay-6-en.png)
 
