@@ -4,7 +4,7 @@ description: 在 DigiFinex 買賣 LikeCoin
 
 # 在 DigiFinex 交易
 
-DigiFinex 是一所在 CoinMarketCap 排名 20+，交易及流通量均位列國際頂級的交易所，提供 LIKE/USDT 交易對。若你還未有 DigiFinex 帳號，[請參考這篇](https://docs.like.co/v/zh/guides/trade/registering-on-digifinex)。此外你也需要[下載 Liker Land 手機應用程式](https://liker.land/getapp)用來傳送/提取 LikeCoin。以下示範以 DigiFinex 網頁版為例，你亦可使用 [DigiFinex 手機應用程式](https://digifinex.zendesk.com/hc/zh-cn/articles/360000603862--%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD-%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDD%E7%BD%91APP)進行交易。
+DigiFinex 是一所在 CoinMarketCap 排名 20+，交易及流通量均位列國際頂級的交易所，提供 LIKE/USDT 交易對。若你還未有 DigiFinex 帳號，[請參考這篇](registering-on-digifinex.md)。此外你也需要[下載 Liker Land 手機應用程式](https://liker.land/getapp)用來傳送/提取 LikeCoin。以下示範以 DigiFinex 網頁版為例，你亦可使用 [DigiFinex 手機應用程式](https://digifinex.zendesk.com/hc/zh-tw/articles/360000603862--%E5%AE%A2%E6%88%B6%E7%AB%AF%E4%B8%8B%E8%BC%89-%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BC%89D%E7%B6%B2APP)進行交易。
 
 ### 步驟一：開立 DigiFinex 帳戶的 LikeCoin 錢包收款地址
 
@@ -38,7 +38,7 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 
 ![&#x9EDE;&#x4E0A;&#x5716;&#x7D05;&#x5708;&#x4F4D;&#x7F6E;&#x6253;&#x958B;&#x7167;&#x76F8;&#x6A5F;](../../.gitbook/assets/bitasset-trade-7.png)
 
-在「輸入 memo（可省略）」中輸入你的 Tag/Memo 號碼
+在「輸入 memo（可省略）」中輸入你的 Tag/Memo 號碼（**非常重要！**）
 
 ![](../../.gitbook/assets/like-pay-3.png)
 
@@ -48,8 +48,8 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 
 接下來便要等 DigiFinex 確認收款了。
 
-{% hint style="warning" %}
-DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈，假如你忘記輸入，轉帳後請[聯絡 DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)處理。
+{% hint style="danger" %}
+DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈，假如你忘記輸入，轉帳後請聯絡 [DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-tw/articles/360000525241--%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B-%E5%A6%82%E4%BD%95%E5%B0%8B%E6%B1%82D%E7%B6%B2-DigiFinex-%E5%AE%A2%E6%9C%8D%E5%B9%AB%E5%8A%A9)處理。
 {% endhint %}
 
 #### DigiFinex 官方教學
