@@ -53,6 +53,6 @@ If you lost your wallet address, please check if you have backed up the seed phr
 Please transfer your LikeCoin to a Metamask wallet, then [register a Liker ID](../../../user-guide/liker-id/) or a [Keplr wallet](../keplr.md). Go to [https://migration.like.co/](https://migration.like.co/) and fill in the Cosmos address of the Liker ID or Keplr wallet and facilitate the upgrade.
 
 {% hint style="danger" %}
-Do not use and directly input the crypto exchange Cosmos wallet address into [https://migration.like.co/](https://migration.like.co/). If that particular exchange required tag/memo or other operations, you will not be able to claim your LikeCoin.
+Do not use and directly input the crypto exchange Cosmos wallet address into [https://migration.like.co/](https://migration.like.co/). If that particular exchange required tag/memo or other operations, you will not be able to claim your LikeCoin. Therefore please migratie the LikeCoin to your own wallet before performing other exchanges or operations.
 {% endhint %}
 
