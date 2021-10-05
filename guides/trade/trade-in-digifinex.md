@@ -111,7 +111,7 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈，假如你�
 ### 步驟六：提幣
 
 {% hint style="info" %}
-關於單次最小提幣數量及手續費，可參考[【协议列表】- 费率说明](https://digifinex.zendesk.com/hc/zh-cn/articles/360000328422-%E8%B4%B9%E7%8E%87%E8%AF%B4%E6%98%8E-D%E7%BD%91-DigiFinex-com-)，又，提幣前必須先完成[雙重認證](https://docs.like.co/v/zh/user-guide/likecoin-token/registering-on-digifinex#3-google-)。
+關於單次最小提幣數量及手續費，可參考 [DigiFinex交易所费率说明](https://digifinex.zendesk.com/hc/zh-tw/articles/360000328422-DigiFinex%E4%BA%A4%E6%98%93%E6%89%80%E8%B4%B9%E7%8E%87%E8%AF%B4%E6%98%8E) ，又，提幣前必須先完成[雙重認證](registering-on-digifinex.md#3-google-)。
 {% endhint %}
 
 回到【步驟一】中「我的資產」頁面尋找幣種，再點擊「提幣」並「添加提幣地址」添加你的 USDT 或 LikeCoin 轉帳地址，再按照指示即可完成提幣。
@@ -128,9 +128,5 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈，假如你�
 
 #### DigiFinex 官方教學
 
-> [【提币】- 如何从D网提币到其他平台（网页版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360000521962-%E5%A6%82%E4%BD%95%E4%BB%8ED%E7%BD%91%E6%8F%90%E5%B8%81%E5%88%B0%E5%85%B6%E4%BB%96%E5%B9%B3%E5%8F%B0-%E7%BD%91%E9%A1%B5%E7%89%88-)
-
-> [【提币】- 如何从D网提币到其他平台（APP版）](https://digifinex.zendesk.com/hc/zh-cn/articles/360002955534-%E5%A6%82%E4%BD%95%E4%BB%8ED%E7%BD%91%E6%8F%90%E5%B8%81%E5%88%B0%E5%85%B6%E4%BB%96%E5%B9%B3%E5%8F%B0-APP%E7%89%88-)
-
-> [【新用户必读】- 入门教学文章目录](https://digifinex.zendesk.com/hc/zh-cn/articles/360000499281--%E6%96%B0%E7%94%A8%E6%88%B7%E5%BF%85%E8%AF%BB-%E5%85%A5%E9%97%A8%E6%95%99%E5%AD%A6%E6%96%87%E7%AB%A0%E7%9B%AE%E5%BD%95)
+> [【提幣】- 如何從D網提幣到其他平臺（APP版）](https://digifinex.zendesk.com/hc/en-us/categories/360000257814-User-Guide)
 
