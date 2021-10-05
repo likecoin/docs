@@ -39,9 +39,15 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 
 #### Liquid 官方教學
 
-> [如何通過液體購買和交換立即購買加密貨幣](https://help.liquid.com/zh-TW/articles/5143957-%E5%A6%82%E4%BD%95%E9%80%9A%E9%81%8E%E6%B6%B2%E9%AB%94%E8%B3%BC%E8%B2%B7%E5%92%8C%E4%BA%A4%E6%8F%9B%E7%AB%8B%E5%8D%B3%E8%B3%BC%E8%B2%B7%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3)
+> [我如何存入加密貨幣？](https://help.liquid.com/zh-TW/articles/2275493-%E6%88%91%E5%A6%82%E4%BD%95%E5%AD%98%E5%85%A5%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3)
 
-> [液體交換常見問題](https://help.liquid.com/zh-TW/articles/2607590-%E6%B6%B2%E9%AB%94%E4%BA%A4%E6%8F%9B%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)[](https://help.liquid.com/zh-TW/articles/2607590-%E6%B6%B2%E9%AB%94%E4%BA%A4%E6%8F%9B%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)
+> [我的加密存款需要多長時間？](https://help.liquid.com/zh-TW/articles/3473156-%E6%88%91%E7%9A%84%E5%8A%A0%E5%AF%86%E5%AD%98%E6%AC%BE%E9%9C%80%E8%A6%81%E5%A4%9A%E9%95%B7%E6%99%82%E9%96%93)[](https://help.liquid.com/zh-TW/articles/2275493-%E6%88%91%E5%A6%82%E4%BD%95%E5%AD%98%E5%85%A5%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3)
+
+> [如何通過液體購買和交換立即購買加密貨幣](https://help.liquid.com/zh-TW/articles/5143957-%E5%A6%82%E4%BD%95%E9%80%9A%E9%81%8E%E6%B6%B2%E9%AB%94%E8%B3%BC%E8%B2%B7%E5%92%8C%E4%BA%A4%E6%8F%9B%E7%AB%8B%E5%8D%B3%E8%B3%BC%E8%B2%B7%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3)
+
+> [液體購買常見問題解答](https://help.liquid.com/zh-TW/articles/4141955-%E6%B6%B2%E9%AB%94%E8%B3%BC%E8%B2%B7%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94)
+
+> [液體交換常見問題](https://help.liquid.com/zh-TW/articles/2607590-%E6%B6%B2%E9%AB%94%E4%BA%A4%E6%8F%9B%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)[](https://help.liquid.com/zh-TW/articles/2607590-%E6%B6%B2%E9%AB%94%E4%BA%A4%E6%8F%9B%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)
 
 {% hint style="info" %}
 Liquid [不對數字貨幣及法定貨幣充值收取相應費用](https://help.liquid.com/en/articles/3297509-deposit-fees)，而最低委託數量、最低提現金額及交易手續費等最新資訊可參考[交易費用](https://www.liquid.com/zhtw/fees/)。留意並不是每一種法定貨幣都支援提現而且有手續費，詳見 [Liquid Withdrawal fees](https://help.liquid.com/en/articles/3297510-withdrawal-fees)。
