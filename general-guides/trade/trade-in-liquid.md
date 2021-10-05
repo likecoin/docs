@@ -29,7 +29,7 @@ description: Buy and Swap LikeCoin. Instantly
 
 Only accept Visa
 
-* Minimum purchase amount is HKD78 or TWD380 \(approximately USD10\)
+* Minimum purchase amount is approximately USD15 or equivalent fiats
 * The system displays credit card service fee and exchange rate, the currency amount displayed is the amount after deduction of service fee 
 
 ![](../../.gitbook/assets/quick-exchange-2-en.png)
@@ -38,13 +38,9 @@ Click on "Buy with VISA", fill in credit card information and pay for it
 
 ![](../../.gitbook/assets/quick-exchange-3-en.png)
 
-You can also go to [Like.co](https://like.co/) to purchase LikeCoin.
-
-![](../../.gitbook/assets/quick-exchange-5.png)
-
 #### Liquid Official Tutorial
 
-> [Liquid Swap FAQ](https://help.liquid.com/en/articles/2607590-liquid-swap-faq)
+> [Liquid Buy FAQ](https://help.liquid.com/en/articles/4141955-liquid-buy-faq)
 
 {% hint style="info" %}
 Liquid does not charge fees for incoming fiat deposits, for information about withdrawal fees, minimum order quantity and other service fees, please check [Liquid Help Center](https://help.liquid.com/en/).

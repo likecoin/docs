@@ -13,7 +13,7 @@ Currently:
 
 Those who are interested can buy or sell LikeCoin with them.
 
-Transferring LikeCoin to crypto exchange requires the use of a [wallet](https://docs.like.co/guides/wallet) supporting LikeCoin.
+Transferring LikeCoin to crypto exchange requires the use of a [wallet](../wallet/) supporting LikeCoin.
 
 You may also want to check out:
 
