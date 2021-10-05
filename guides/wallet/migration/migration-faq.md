@@ -2,7 +2,7 @@
 description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 ---
 
-# 升級 LikeCoin 時的常見問題
+# 升級 LikeCoin 的常見問題
 
 這篇集合了一些常見的問題及解決辦法，看看有沒有你需要的答案吧！
 

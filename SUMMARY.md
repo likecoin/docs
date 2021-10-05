@@ -24,7 +24,7 @@
   * [手續費](guides/wallet/transaction-fee.md)
   * [由 ERC-20 升級](guides/wallet/migration/README.md)
     * [升級 LikeCoin 到 LikeCoin chain](guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
-    * [升級 LikeCoin 時的常見問題](guides/wallet/migration/migration-faq.md)
+    * [升級 LikeCoin 的常見問題](guides/wallet/migration/migration-faq.md)
   * [FoTan 升級常見問題](guides/wallet/fotan.md)
 * [交易](guides/trade/README.md)
   * [註冊 Liquid 帳號](guides/trade/registering-on-liquid.md)
