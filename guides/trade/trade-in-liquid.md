@@ -4,13 +4,15 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 
 # 在 Liquid 交易
 
-### 閃兌
+## 閃兌
 
 [Liquid 閃兌 \( Quick Exchange \)](https://app.liquid.com/quick-exchange) 服務提供了簡單的介面，讓用戶方便快捷地兌換 LikeCoin。
 
 **請留意：交易量不同，匯率也會跟著改變，系統畫面會顯示實時報價。**
 
 ![](../../.gitbook/assets/quick-exchange-1%20%281%29.png)
+
+![](../../.gitbook/assets/liquid-qe.gif)
 
 ### 以其他法定貨幣或密碼貨幣兌換 LikeCoin
 
@@ -20,7 +22,6 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 * 在「兌換」欄輸入賣出數量。若你的 Liquid 帳戶中沒有充足餘額，介面會即時提示
 * 輸入兌換數量後，系統會立即在「獲得」欄顯示出能兌到的幣種數量。若你覺得可以，點下方的「閃兌」鍵，交易便會進行，兌得的款項會立即轉入你的 Liquid 戶口
 * 你也可反過來在下方的「獲得」欄先輸入欲獲得的幣種數目，系統會在上方的「兌換」欄顯示你需要賣出的幣種數量
-* 留意並不是每一種法定貨幣都支援提款而提款有手續費，更多詳情請參考 [Liquid 入門提款](https://help.liquid.com/zh-TW/collections/1110080-%E6%82%A8%E7%9A%84liquid-account%E5%85%A5%E9%96%80#%E6%8F%90%E6%AC%BE)
 
 ![](../../.gitbook/assets/quick-exchange-2%20%281%29.png)
 
@@ -36,8 +37,20 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 
 ![](../../.gitbook/assets/quick-exchange-4%20%281%29.png)
 
+#### Liquid 官方教學
+
+[如何通過液體購買和交換立即購買加密貨幣](https://help.liquid.com/zh-TW/articles/5143957-%E5%A6%82%E4%BD%95%E9%80%9A%E9%81%8E%E6%B6%B2%E9%AB%94%E8%B3%BC%E8%B2%B7%E5%92%8C%E4%BA%A4%E6%8F%9B%E7%AB%8B%E5%8D%B3%E8%B3%BC%E8%B2%B7%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3)
+
+[液體交換常見問題](https://help.liquid.com/zh-TW/articles/2607590-%E6%B6%B2%E9%AB%94%E4%BA%A4%E6%8F%9B%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)
+
 {% hint style="info" %}
-Liquid 不對數字貨幣及法定貨幣存款收取相應費用，而最低委託數量、最低提款金額及交易手續費等最新資訊可於 [Liquid 幫助中心（繁体中文）](https://help.liquid.com/en/collections/1490333-liquid-%E5%B9%AB%E5%8A%A9%E4%B8%AD%E5%BF%83-%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87)參看
+
+{% endhint %}
+
+
+
+{% hint style="info" %}
+Liquid [不對數字貨幣及法定貨幣存進收取相應費用](https://help.liquid.com/en/articles/3297509-deposit-fees)，而最低委託數量、最低提款金額及交易手續費等最新資訊可參考[交易費](https://www.liquid.com/zhtw/fees/)。留意並不是每一種法定貨幣都支援提款而提款有手續費，詳見 [Liquid Withdrawal fees](https://help.liquid.com/en/articles/3297510-withdrawal-fees)。
 {% endhint %}
 
 #### 參考文章
