@@ -30,7 +30,7 @@ description: Buy and Swap LikeCoin. Instantly
 Only accept Visa
 
 * Minimum purchase amount is approximately USD15 or equivalent fiats
-* The system displays credit card service fee and exchange rate, the currency amount displayed is the amount after deduction of service fee 
+* The system displays credit card service fee and exchange rate, the currency amount displayed is the amount after deduction of service fee
 
 ![](../../.gitbook/assets/quick-exchange-2-en.png)
 
@@ -40,9 +40,19 @@ Click on "Buy with VISA", fill in credit card information and pay for it
 
 #### Liquid Official Tutorial
 
-> [Liquid Buy FAQ](https://help.liquid.com/en/articles/4141955-liquid-buy-faq)
+> [How to Buy Crypto Instantly with Liquid Buy and Swap](https://help.liquid.com/en/articles/5143957-how-to-buy-crypto-instantly-with-liquid-buy-and-swap)
+
+> [Liquid Buy FAQ](https://help.liquid.com/en/articles/4141955-liquid-buy-faq)
+
+> [Liquid Swap FAQ](https://help.liquid.com/en/articles/2607590-liquid-swap-faq)
+
+{% hint style="danger" %}
+
+
+
+{% endhint %}
 
 {% hint style="info" %}
-Liquid does not charge fees for incoming fiat deposits, for information about withdrawal fees, minimum order quantity and other service fees, please check [Liquid Help Center](https://help.liquid.com/en/).
+Liquid [does not charge fees for incoming cryptos or fiat deposits](https://help.liquid.com/en/articles/3297509-deposit-fees), for information about withdrawal fees, minimum order quantity and other service fees, please check [Trading Fees](https://www.liquid.com/fees/). For the type of fiat supported and withdrawal fees, please check Liquid Withdrawal fees. 
 {% endhint %}
 
