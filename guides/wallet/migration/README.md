@@ -1,5 +1,5 @@
 ---
-description: LikeCoin chain 已於2019年12月2日上線
+description: 建基於 Cosmos SDK 的 LikeCoin chain 已於2019年12月2日上線
 ---
 
 # 由 ERC-20 升級
