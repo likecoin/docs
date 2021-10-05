@@ -20,7 +20,7 @@ Yes you can, however the "Civic Liker monthly sponsor" and "Rewarded" column wil
 
 ### Can I delegate or redelegate my LikeCoin?
 
-The delegate, redelegate and undelegate function is not available during upgrade.
+The delegate, redelegate and undelegate function is not available during upgrade. During the upgrade the system will withdraw all rewards for your delegation therefore do not worry about the rewards missing.
 
 ### If I LIKE pay during the upgrade, will my LikeCoin disappear?
 
