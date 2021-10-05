@@ -78,6 +78,6 @@ Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請�
 若你在開戶或任何交易所服務的過程中遇到困難，請參考 [Liquid 幫助中心（繁体中文）](https://help.liquid.com/zh-TW/)或直接聯絡 Liquid 客服。
 
 {% hint style="info" %}
-點擊你的頭像進入 My Profile，點選 Language Default 可以將使用者界面預換為繁體中文或简体中文，又或者在網頁下方語言列進行轉換
+點擊你的頭像進入 My Profile，點選 Language Default 可以將使用者界面預換為繁體中文或简体中文，又或者在網頁的語言列進行轉換
 {% endhint %}
 
