@@ -48,7 +48,9 @@ Click on "Buy with VISA", fill in credit card information and pay for it
 
 > [Liquid Buy FAQ](https://help.liquid.com/en/articles/4141955-liquid-buy-faq)
 
-> [Liquid Swap FAQ](https://help.liquid.com/en/articles/2607590-liquid-swap-faq)
+> [Liquid Swap FAQ](https://help.liquid.com/en/articles/2607590-liquid-swap-faq)
+
+> [How to withdraw funds from my Liquid account](https://help.liquid.com/en/articles/2275670-how-to-withdraw-funds-from-my-liquid-account)
 
 {% hint style="info" %}
 Liquid [does not charge fees for incoming cryptos or fiat deposits](https://help.liquid.com/en/articles/3297509-deposit-fees), for information about minimum withdraw amount and other service fees, please check [Fees Structure](https://www.liquid.com/fees/). For the type of fiats supported and their bank processing fee, please check [Liquid Withdrawal fees](https://help.liquid.com/en/articles/3297510-withdrawal-fees).
