@@ -50,7 +50,7 @@ If you lost your wallet address, please check if you have backed up the seed phr
 
 ### 8. I purchase my LikeCoin in a crypto exchange and I never register a Liker ID, what to do?
 
-Please transfer your LikeCoin to a Metamask wallet, then [register a Liker ID](../../../user-guide/liker-id/register.md) or a [Keplr wallet](../../../user-guide/liker-id/register-with-keplr.md). Go to [https://migration.like.co/](https://migration.like.co/) and fill in the Cosmos address of the Liker ID or Keplr wallet and facilitate the upgrade.
+Please transfer your LikeCoin to a Metamask wallet, then [register a Liker ID](../../../user-guide/liker-id/) or a [Keplr wallet](../keplr.md). Go to [https://migration.like.co/](https://migration.like.co/) and fill in the Cosmos address of the Liker ID or Keplr wallet and facilitate the upgrade.
 
 {% hint style="danger" %}
 Do not use and directly input the crypto exchange Cosmos wallet address into [https://migration.like.co/](https://migration.like.co/). If that particular exchange required tag/memo or other operations, you will not be able to claim your LikeCoin.
