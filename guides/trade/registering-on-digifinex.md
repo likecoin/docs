@@ -36,7 +36,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 #### DigiFinex 官方教學
 
-> [【新手教程】- 如何注册帐号](https://digifinex.zendesk.com/hc/zh-cn/articles/360006576493-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%B8%90%E5%8F%B7)
+> [如何注册D网账号？](https://digifinex.zendesk.com/hc/zh-cn/articles/360006576493-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8CD%E7%BD%91%E8%B4%A6%E5%8F%B7-)
 
 ### 步驟二：身份認證 <a id="2"></a>
 
@@ -90,7 +90,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 #### DigiFinex 官方教學
 
-> [【新手教程】- 如何进行实名认证](https://digifinex.zendesk.com/hc/zh-cn/articles/360006473334-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81)
+> [如何完成实名认证？](https://digifinex.zendesk.com/hc/zh-cn/articles/360006473334-%E5%A6%82%E4%BD%95%E5%AE%8C%E6%88%90%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81-)
 
 ### 步驟三：雙重驗證 <a id="3-google-"></a>
 
@@ -115,11 +115,11 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 #### DigiFinex 官方教學
 
-> [【谷歌验证】- 如何开启谷歌验证](https://digifinex.zendesk.com/hc/zh-cn/articles/360007869553--%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81-%E5%A6%82%E4%BD%95%E5%BC%80%E5%90%AF%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81)
+> [如何绑定谷歌验证器？](https://digifinex.zendesk.com/hc/zh-cn/articles/360007869553-%E5%A6%82%E4%BD%95%E7%BB%91%E5%AE%9A%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81%E5%99%A8-)
 
-> [【谷歌验证】- 开启谷歌验证有什么作用？](https://digifinex.zendesk.com/hc/zh-cn/articles/360000511061-%E5%BC%80%E5%90%AF%E5%8F%8C%E9%87%8D%E9%AA%8C%E8%AF%81%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8-)
+> [谷歌验证器常见问题指引](https://digifinex.zendesk.com/hc/zh-cn/articles/900006394763-%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81%E5%99%A8%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%8C%87%E5%BC%95)
 
 ### 如有疑難，聯絡 DigiFinex 客服
 
-若你在開戶或任何交易所服務的過程中遇到困難，請參考 [DigiFinex 幫助中心](https://digifinex.zendesk.com/hc/zh-cn)或直接[聯絡 DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)。點擊 DigiFinex 網站畫面右下角綠色的對話圖示即可獲得支援。
+若你在開戶或任何交易所服務的過程中遇到困難，請參考 [DigiFinex 幫助中心](https://digifinex.zendesk.com/hc/zh-cn)或直接聯絡 [DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)。點擊 DigiFinex 網站畫面右下角綠色的對話圖示即可獲得支援。
 
