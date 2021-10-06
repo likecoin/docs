@@ -37,6 +37,6 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 ![](../../.gitbook/assets/img_2332.jpg)
 
 {% hint style="warning" %}
-留意轉移委託需要[手續費](https://docs.like.co/v/zh/guides/wallet/transaction-fee)。
+留意轉移委託需要[手續費](../wallet/transaction-fee.md)。
 {% endhint %}
 
