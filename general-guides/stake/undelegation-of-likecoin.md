@@ -24,10 +24,10 @@ Once you've confirmed your undelegation, the following happens:
 2. Validator lost his/her voting power of the amount the LikeCoin withdrew.
 
 {% hint style="warning" %}
-[Transaction fee](https://docs.like.co/guides/wallet/transaction-fee) is required for ‌Undelegate LikeCoin.
+[Transaction fee](../wallet/transaction-fee.md) is required for ‌Undelegate LikeCoin.
 {% endhint %}
 
 {% hint style="danger" %}
-If you find that your LikeCoin undelegated was less than what you delegated to the validator, it may be the case that your validator cannot [validate the transaction](https://docs.like.co/user-guide/background#9e68) properly and was penalized. Therefore, please choose your validator wisely.
+If you find that your LikeCoin undelegated was less than what you delegated to the validator, it may be the case that your [validator cannot validate the transaction properly](../../user-guide/background.md#9e68) and was penalized. Therefore, please choose your validator wisely.
 {% endhint %}
 

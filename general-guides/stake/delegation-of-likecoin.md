@@ -6,11 +6,11 @@ description: >-
 
 # Delegation of LikeCoin
 
-Delegation means delegating LikeCoin to one or more [validators](https://docs.like.co/guides/governance/what-is-a-validator), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Since the LikeCoin chain upgraded to FoTan, Likers who delegate LikeCoin to validators can directly vote on proposals.
+Delegation means delegating LikeCoin to one or more [validators](../governance/what-is-a-validator/), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Since the LikeCoin chain upgraded to FoTan, Likers who delegate LikeCoin to validators can directly vote for proposals.
 
 {% page-ref page="../governance/direct-vote.md" %}
 
-Delegation demonstrates [liquid democracy](https://docs.like.co/guides/governance/liquid-democracy) and is vital to the autonomy for The Republic of Liker Land.
+Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) and is vital to the autonomy for The Republic of Liker Land.
 
 ### Step 1: Select a validator
 
@@ -35,7 +35,7 @@ Click \[Delegate\] to bring up the following page, input the amount of LikeCoin 
 
 ![](../../.gitbook/assets/delegate-2-en.png)
 
-The confirmation page is displayed, showing the validator's wallet address, click \[Details\] to reconfirm the amount to delegate and check the [transaction fee](https://docs.like.co/guides/wallet/transaction-fee) estimation.
+The confirmation page is displayed, showing the validator's wallet address, click \[Details\] to reconfirm the amount to delegate and check the [transaction fee](../wallet/transaction-fee.md) estimation.
 
 Click \[Confirm\], after a few seconds it displays "Transaction Completed", which means delegation of LikeCoin is completed.
 
@@ -50,7 +50,7 @@ The LikeCoin rewards earned from delegation will be released every 5 or 6 second
 Validator with your delegation will be displayed as green.
 
 {% hint style="warning" %}
-[Transaction fee](https://docs.like.co/guides/wallet/transaction-fee) is required for ‌Withdraw Rewards.
+[Transaction fee](../wallet/transaction-fee.md) is required for ‌Withdraw Rewards.
 {% endhint %}
 
 You may also want to check out the following for delegation by hardware wallet:
