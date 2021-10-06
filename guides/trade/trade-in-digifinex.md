@@ -49,7 +49,7 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 接下來便要等 DigiFinex 確認收款了。
 
 {% hint style="danger" %}
-DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈，假如你忘記輸入，轉帳後請聯絡 [DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-tw/articles/360000525241--%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B-%E5%A6%82%E4%BD%95%E5%B0%8B%E6%B1%82D%E7%B6%B2-DigiFinex-%E5%AE%A2%E6%9C%8D%E5%B9%AB%E5%8A%A9)處理。
+DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈。充值未填寫/填錯 "Tag/Memo" 將會導致無法識別充值信息及不能入賬，需技術人員手動核實確認，預計需要 7-21 個工作日並需要扣除 10USDT手續費，你的 DigiFinex 賬號中也必須有等額或以上資產。請聯絡 [DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-tw/articles/360000525241--%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B-%E5%A6%82%E4%BD%95%E5%B0%8B%E6%B1%82D%E7%B6%B2-DigiFinex-%E5%AE%A2%E6%9C%8D%E5%B9%AB%E5%8A%A9)處理。
 {% endhint %}
 
 #### DigiFinex 官方教學
