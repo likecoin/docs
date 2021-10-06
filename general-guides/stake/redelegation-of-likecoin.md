@@ -37,6 +37,6 @@ Attention: If you previously delegated some LikeCoin to your new validator, the 
 ![](../../.gitbook/assets/img_2332.jpg)
 
 {% hint style="warning" %}
-[Transaction fee](https://docs.like.co/guides/wallet/transaction-fee) is required for ‌Redelegate LikeCoin.
+[Transaction fee](../wallet/transaction-fee.md) is required for ‌Redelegate LikeCoin.
 {% endhint %}
 
