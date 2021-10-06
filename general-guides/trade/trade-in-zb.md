@@ -4,7 +4,7 @@ description: Buy and Sell LikeCoin with ZB
 
 # Trade in ZB
 
-[ZB](https://www.zb.com/) is the world’s leading digital asset trading platform. Since its establishment in 2013, it has provided digital asset trading services for more than 10 million users worldwide. It has been operating steadily for more than 8 years, with an average daily transaction volume of more than 1.5 billion US dollars. BTC, ZB, EOS, and XRP mainstream currencies have long been among the top for a long time. ZB now offers LIKE/USDT trading pairs, if you do not have a ZB account, please take a look at [this](https://docs.like.co/guides/trade/registering-on-zb). Moreover, you have to download the [Liker Land mobile app](https://liker.land/getapp) to send/receive LikeCoin. The following instructions are based on ZB web, you may also use the [ZB app](https://www.zb.com/en/download) to trade LikeCoin.
+[ZB](https://www.zb.com/) is the world’s leading digital asset trading platform. Since its establishment in 2013, it has provided digital asset trading services for more than 10 million users worldwide. It has been operating steadily for more than 8 years, with an average daily transaction volume of more than 1.5 billion US dollars. BTC, ZB, EOS, and XRP mainstream currencies have long been among the top for a long time. ZB now offers LIKE/USDT trading pairs, if you do not have a ZB account, please take a look at [this](registering-on-zb.md). Moreover, you have to download the [Liker Land mobile app](https://liker.land/getapp) to send/receive LikeCoin. The following instructions are based on ZB web, you may also use the [ZB app](https://www.zb.com/en/download) to trade LikeCoin.
 
 ### Step 1: Create your LikeCoin wallet on ZB
 
