@@ -11,7 +11,7 @@ Fore more details:
 * [LikeCoin Grants](https://www.notion.so/likecoingrants/MainPage-32d790bb3d3b4b6ea9832dc0fe8bda62) Offcial Page
 * [LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) \#grants channel.
 
-{% page-ref page="../../user-guide/community/derived-projects.md" %}
+{% page-ref page="../../user-guide/community/derivative-projects.md" %}
 
 
 
