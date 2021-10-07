@@ -6,7 +6,7 @@ description: >-
 
 # Assisted Migration
 
-LikeCoin has been migrated to the Cosmos SDK based [LikeCoin chain](../../governance/likecoin-chain.md) from ERC-20 and users no longer need MetaMask to login but should use [Liker Land mobile app](https://liker.land/getapp) instead.  This document is for legacy users who created Liker ID with MetaMask and did not complete the Liker ID migration process only.
+LikeCoin has been migrated to the Cosmos Hub ecosystem based [LikeCoin chain](../../governance/likecoin-chain.md) from ERC-20 and users no longer need MetaMask to login but should use [Liker Land mobile app](https://liker.land/getapp) instead.  This document is for legacy users who created Liker ID with MetaMask and did not complete the Liker ID migration process only.
 
 For those who fulfil the below conditions:
 
