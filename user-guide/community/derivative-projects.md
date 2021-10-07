@@ -32,7 +32,7 @@ LikeCoin encourages the community to explore different ideas, and works on featu
       </td>
       <td style="text-align:left"><a href="https://play.google.com/store/apps/details?id=com.noahliu.likebalance">LikeCoin Android Widget</a>
       </td>
-      <td style="text-align:left">Widget for checking LikeCoin balance and exchange rate.</td>
+      <td style="text-align:left">Widget on Android for checking LikeCoin balance and exchange rate.</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://www.notion.so/07-Matters-d93f7803ba76422fbbda2614572ea7b8">#07 - Matters &#x5100;&#x8868;&#x677F;</a>
