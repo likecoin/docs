@@ -19,6 +19,7 @@ description: >-
 
 | **Date**  | Description |
 | :--- | :--- |
+| Monday, 1 November |  |
 | Monday, 4 October | IBC on LikeCoin chain, ISCN card released  |
 | Monday, 6 September | LikeCoin chain upgrade follow up, ISCN in action |
 | Monday, 2 August | Recap Testnet Upgrade, LikeCoin Grant Update |
