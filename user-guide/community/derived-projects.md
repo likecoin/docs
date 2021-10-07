@@ -2,7 +2,7 @@
 description: How does the community develop on LikeCoin?
 ---
 
-# LikeCoin Gran Derived Projects
+# LikeCoin Grants Derived Projects
 
 LikeCoin encourages the community to explore different ideas, and works on features to enhance LikeCoin and Liker Land decentralizedly.
 
