@@ -4,7 +4,7 @@ description: 若你有用 MetaMask 持有 LikeCoin，又已經綁定了社交媒
 
 # 升級 LikeCoin 到 LikeCoin chain
 
-LikeCoin 經已從 ERC-20 轉移到以 Cosmos SDK 為基礎 [LikeCoin chain](../../governance/likecoin-chain.md)，用戶再不能使用 MetaMask 登入而需要使用 [Liker Land 手機應用程式](https://liker.land/getapp)。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
+LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin chain](../../governance/likecoin-chain.md)，用戶再不能使用 MetaMask 登入而需要使用 [Liker Land 手機應用程式](https://liker.land/getapp)。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
 
 若你乎合以下條件：
 
