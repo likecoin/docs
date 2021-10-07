@@ -24,7 +24,7 @@ Endorsement by Likers is reflected by delegation. When a Liker delegates her Lik
 
 ### Active Validator
 
-The validator who performs its duty, and has the most of the delegated LikeCoin within the active validator numbers governed by the constitution.
+The validator who performs its duty of [validating transactions](../../../user-guide/background.md#9e68), and has the most of the delegated LikeCoin within the active validator numbers governed by the constitution.
 
 ### Inactive Validator
 
