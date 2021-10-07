@@ -16,6 +16,7 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 | 日期 | 描述 |
 | :--- | :--- |
+| 星期一，11月1日 |  |
 | 星期一、10月4日 | IBC on LikeCoin chain, ISCN card released  |
 | 星期一、9月6日 | LikeCoin chain upgrade follow up, ISCN in action |
 | 星期一、8月2日 | Recap Testnet Upgrade, LikeCoin Grant Update |
