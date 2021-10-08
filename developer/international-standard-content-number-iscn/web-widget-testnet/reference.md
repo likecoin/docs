@@ -61,7 +61,7 @@ Following links are in testnet.
 
 #### Input Link: <a id="input-link-https-rinkeby-like-co-in-widget-pay-to-ckxpress-and-amount-1-and-via-kiutest-0-and-fee-1-and-state-123-and-redirect_uri-http-3-a-2-f-2-flocalhost-3-a3000"></a>
 
-#### [`https://rinkeby.like.co/in/widget/iscn?fingerprint=QmcTD5FbyBimKbd3EZ8PtR19PyeMnouZ7hZ178z75hZGrs&publisher=matters&title=iscn&tags=%5B"iscn"%5D&opener=1&redirect_uri=http%3A%2F%2Flocalhost%3A8080`](https://rinkeby.like.co/in/widget/iscn?fingerprint=QmcTD5FbyBimKbd3EZ8PtR19PyeMnouZ7hZ178z75hZGrs&publisher=matters&title=iscn&tags=%5B%22iscn%22%5D&opener=1&redirect_uri=http%3A%2F%2Flocalhost%3A8080)​ <a id="input-link-https-rinkeby-like-co-in-widget-pay-to-ckxpress-and-amount-1-and-via-kiutest-0-and-fee-1-and-state-123-and-redirect_uri-http-3-a-2-f-2-flocalhost-3-a3000"></a>
+#### [`https://rinkeby.like.co/in/widget/iscn?fingerprint=QmcTD5FbyBimKbd3EZ8PtR19PyeMnouZ7hZ178z75hZGrs&publisher=matters&title=iscn&tags=%5B"iscn"%5D`](https://rinkeby.like.co/in/widget/iscn?fingerprint=QmcTD5FbyBimKbd3EZ8PtR19PyeMnouZ7hZ178z75hZGrs&publisher=matters&title=iscn&tags=%5B%22iscn%22%5D)​ <a id="input-link-https-rinkeby-like-co-in-widget-pay-to-ckxpress-and-amount-1-and-via-kiutest-0-and-fee-1-and-state-123-and-redirect_uri-http-3-a-2-f-2-flocalhost-3-a3000"></a>
 
 #### Tx Status Query:[`https://rinkeby.like.co/in/tx/iscn/dev/5108A861A1B21EB78ABEE8522F5933F0CB97CC11D2866FC93F4B8038C3B3730`](https://rinkeby.like.co/in/tx/iscn/dev/5108A861A1B21EB78ABEE8522F5933F0CB97CC11D2866FC93F4B8038C3B37301)\`\`[ ](https://docs.like.co/developer/like-pay/web-widget)
 
