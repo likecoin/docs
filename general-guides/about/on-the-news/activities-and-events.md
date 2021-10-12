@@ -4,37 +4,37 @@
 {% tab title="2021" %}
 ### 07/31 COSCUP 2021
 
-[\#decentralizehk - 分散式紀錄香港以至人類歷史，免被威權篡改](https://coscup.org/2021/zh-TW/session/HDH3NQ)
+[#decentralizehk - 分散式紀錄香港以至人類歷史，免被威權篡改](https://coscup.org/2021/zh-TW/session/HDH3NQ)
 
-{% embed url="https://www.youtube.com/watch?v=onIK4tpCSh0" %}
+[Video](https://www.youtube.com/watch?v=onIK4tpCSh0)
 
 [Cosmos生態系的NFT用例](https://coscup.org/2021/zh-TW/session/WEQ8A3)
 
-{% embed url="https://www.youtube.com/watch?v=hTV9MbQw4RA" %}
+[Video](https://www.youtube.com/watch?v=hTV9MbQw4RA\&t=65s)
 
 ### 07/17 Hong Kong Open Souce Conference 2021
 
-[備份香港：紀錄歷史（區塊鏈存檔技術的應用）](https://hkoscon.org/2021/topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong)
+[備份香港：紀錄歷史（區塊鏈存檔技術的應用）](https://hkoscon.org/2021/topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong)
 
-{% embed url="https://www.youtube.com/watch?v=ZGFDYlXGADI" %}
+[Video](https://www.youtube.com/watch?v=ZGFDYlXGADI)
 
 ### 06/17 DeFi Summit
 
-{% embed url="https://www.youtube.com/watch?v=xh9xBh564lE" %}
+[Video](https://www.youtube.com/watch?v=xh9xBh564lE)
 
 ### 05/28 DigiFinex - Cryptocurrency Exchange
 
 [LikeCoin Giving Back to Creators with Repurposed Likes](https://www.facebook.com/digifinex.global/posts/1778613915645705)
 
-[DigiFinex AMA Recap \| Decentralized Publishing Infrastructure](https://blog.digifinex.com/2021/06/04/digifinex-ama-recap-decentralized-publishing-infrastructure/)
+[DigiFinex AMA Recap | Decentralized Publishing Infrastructure](https://blog.digifinex.com/2021/06/04/digifinex-ama-recap-decentralized-publishing-infrastructure/)
 
-{% embed url="https://www.youtube.com/watch?v=tY6oIrVvGLM" %}
+[Video](https://www.youtube.com/watch?v=tY6oIrVvGLM)
 
 ### 05/03 Clubhouse HK Crypto 30mins ep.11
 
 艱難見證，見證難難；我們的獅子山
 
-![](../../../.gitbook/assets/181890636_3249726758587346_8935775873217263295_n.png)
+![](../../../.gitbook/assets/181890636\_3249726758587346\_8935775873217263295\_n.png)
 
 ### 03/23 Clubhouse HK Crypto 30 mins ep.10
 
@@ -46,25 +46,25 @@
 
 [Business models on the web are broken! Let's fix them.](https://schedule.mozillafestival.org/session/FTCNBS-1)
 
-![](../../../.gitbook/assets/screenshot_2021-03-12_at_2.10.46_am.png)
+![](../../../.gitbook/assets/screenshot\_2021-03-12\_at\_2.10.46\_am.png)
 
 ### 03/11 HKBU TriAngle
 
 [Blockchain Application Chaining up our Social Lives, the LikeCoin Experience💰 / 區塊鏈應用分享課: LikeCoin的化讚為賞社會學👍](https://www.facebook.com/HKBUTriAngle/posts/290607692396255)
 
-{% embed url="https://www.youtube.com/watch?v=D8jv3NeTwME" %}
+[Video](https://www.youtube.com/watch?v=D8jv3NeTwME)
 
 ### 01/17 2020年新媒體節 網絡媒體高峰會及工作坊
 
 [去中心化保存，公民共享記憶](https://www.facebook.com/culturemediahk/videos/223717656089852)
 
-{% embed url="https://www.youtube.com/watch?v=hb7H3gTl1rk" %}
+[Video](https://www.youtube.com/watch?v=hb7H3gTl1rk)
 
 ### 01/13 UniDao Cosmos Demo day
 
-{% embed url="https://www.youtube.com/watch?v=z4L8H2rQrKI" %}
+[Video](https://www.youtube.com/watch?v=z4L8H2rQrKI)
 
-🔚 
+:end: 
 {% endtab %}
 
 {% tab title="2020" %}
@@ -80,7 +80,7 @@
 
 [Panel4：加密主义](https://www.caa-ins.org/archives/6927)
 
-[高重建 \| LikeCoin链：去中心化出版基建](https://www.caa-ins.org/archives/7782)
+[高重建 | LikeCoin链：去中心化出版基建](https://www.caa-ins.org/archives/7782)
 
 ### 11/19-21 社企民間高峰會 2020
 
@@ -90,7 +90,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=W3GLR1C4Cac" %}
 
-### 10/16 IPFS Virtual Meetup
+### 10/16 &#xD;IPFS Virtual Meetup
 
 Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
@@ -112,11 +112,11 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.youtube.com/watch?v=oeSzWL5KphA&t" %}
 
-{% embed url="https://docs.google.com/presentation/d/1m5IxlSNpvTRGBYwBk9TQgHLx\_Q9v8zOcsi8YNaTRbe0/edit\#slide=id.g7c06a933ee\_0\_0" %}
+{% embed url="https://docs.google.com/presentation/d/1m5IxlSNpvTRGBYwBk9TQgHLx_Q9v8zOcsi8YNaTRbe0/edit#slide=id.g7c06a933ee_0_0" %}
 
-### 07/14 Elementor HK Meetup \#3: Content monetisation by creation and curation \(English\)
+### 07/14 Elementor HK Meetup #3: Content monetisation by creation and curation (English)&#xD;
 
-[Elementor HK Meetup \#3: Content monetisation by creation and curation \(English\)](https://www.meetup.com/Elementor-Hong-Kong)
+[Elementor HK Meetup #3: Content monetisation by creation and curation (English)](https://www.meetup.com/Elementor-Hong-Kong)
 
 ### 06/13 Hong Kong Open Source Conference 2020
 
@@ -124,17 +124,17 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.youtube.com/watch?v=mS2i2ptqJM8" %}
 
-{% embed url="https://docs.google.com/presentation/d/1Xxgt-gllLqydQgZ8N6xFlDIP\_b2aNPirYNIAYmjSUqw/edit" %}
+{% embed url="https://docs.google.com/presentation/d/1Xxgt-gllLqydQgZ8N6xFlDIP_b2aNPirYNIAYmjSUqw/edit" %}
 
 ### 06/12 Hong Kong Open Source Conference 2020
 
 [Open by default: trying to run a startup with open source culture in mind](https://hkoscon.org/2020/topics/open-default-trying-run-startup-open-source-culture-mind)
 
-{% embed url="https://www.youtube.com/watch?v=o\_U3JaNgzVk" %}
+{% embed url="https://www.youtube.com/watch?v=o_U3JaNgzVk" %}
 
 {% embed url="https://www.youtube.com/watch?v=PL4GuVw2AKI" %}
 
-{% embed url="https://docs.google.com/presentation/d/1AEM23HHeFupGqR2UmdT82mF0PRP95mfKZFuky0RXS2s/edit\#slide=id.g8817281211\_0\_8" %}
+{% embed url="https://docs.google.com/presentation/d/1AEM23HHeFupGqR2UmdT82mF0PRP95mfKZFuky0RXS2s/edit#slide=id.g8817281211_0_8" %}
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2964325993794092" %}
 
@@ -148,11 +148,11 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 ### 5/21 北科大-葛如鈞 － 區塊鏈技術與應用（通識）2020/05/21
 
-\[錄影\] 區塊鏈技術與應用（通識）2020/05/21（影音不同步😢）
+\[錄影] 區塊鏈技術與應用（通識）2020/05/21（影音不同步😢）
 
 {% embed url="https://youtu.be/oXnFTgy7NRQ?t=1757" %}
 
-### 05/08 北科大-葛如鈞 － 你還不知道「區塊鏈」是什麼？區塊鏈技術與兩大應用解析
+### 05/08 北科大-葛如鈞 － 你還不知道「區塊鏈」是什麼？區塊鏈技術與兩大應用解析&#xD;
 
 北科大 2020/05/08 區塊鏈講座錄影（完整版）- 高重建x徐嘉凱x葛如鈞
 
@@ -172,7 +172,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [讚客松簡介會 Likerthon Introduction](https://www.facebook.com/events/684752365669706/)
 
-### 04/22 LikeCoin Foundation － Liker Land發展藍圖的線上分享會\(國語\)
+### 04/22 LikeCoin Foundation － Liker Land發展藍圖的線上分享會(國語)
 
 {% embed url="https://www.youtube.com/watch?v=XjogARunD44&t=619s" %}
 
@@ -190,7 +190,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [g0v tw hackath38n — 中場短講 — 讚賞公民共和國 Republic of Liker Land ／ kin ko — 在家黑客松](https://g0v.hackmd.io/c/g0v-hackath38n/)
 
-{% embed url="https://www.youtube.com/watch?v=\_m\_k\_2Yc8fM" %}
+{% embed url="https://www.youtube.com/watch?v=_m_k_2Yc8fM" %}
 
 {% embed url="https://www.youtube.com/watch?v=-T5Qb6XXZm8" %}
 
@@ -198,17 +198,17 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [LikeCoin chain 節點設定教學 Validator node tutorial](https://www.facebook.com/events/251386609195639/)
 
-### 02/10 CBA亞洲區塊鏈學院 － 區塊鏈x社群媒體【奪回你的話語權！讓流量變現】CBA區塊鏈小聚\#7
+### 02/10 CBA亞洲區塊鏈學院 － 區塊鏈x社群媒體【奪回你的話語權！讓流量變現】CBA區塊鏈小聚#7
 
-[區塊鏈x社群媒體【奪回你的話語權！讓流量變現】CBA區塊鏈小聚\#7](https://www.accupass.com/event/2001070344522135805323)
+[區塊鏈x社群媒體【奪回你的話語權！讓流量變現】CBA區塊鏈小聚#7](https://www.accupass.com/event/2001070344522135805323)
 
-[區塊鏈與社群媒體](https://dylanparis53.pixnet.net/blog/post/3936992-%e5%8d%80%e5%a1%8a%e9%8f%88%e8%88%87%e7%a4%be%e7%be%a4%e5%aa%92%e9%ab%94)
+[區塊鏈與社群媒體](https://dylanparis53.pixnet.net/blog/post/3936992-%E5%8D%80%E5%A1%8A%E9%8F%88%E8%88%87%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94)
 
 {% embed url="https://www.facebook.com/CollegeBlockchainAsia/photos/a.1492569984242512/1492571327575711/?type=3&theater" %}
 
-### 01/15 數位時代【創業小聚】－【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！
+### 01/15 數位時代【創業小聚】－【創業小聚#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！
 
- [【創業小聚\#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)（1:37:00 開始）
+ [【創業小聚#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)（1:37:00 開始）
 
 {% embed url="https://www.facebook.com/watch/live/?v=510807239550417" %}
 
@@ -220,7 +220,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2811410102419016" %}
 
-🔚 
+:end: 
 {% endtab %}
 
 {% tab title="2019" %}
@@ -258,7 +258,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/MattersLab2018/videos/436842663685441/" %}
 
-### 10/31 區塊客 Blockcast － 2019 Q4 季敘： 新北區塊新動能
+### 10/31 區塊客 Blockcast － 2019 Q4 季敘： 新北區塊新動能&#xD;
 
 [2019 Q4 季敘： 新北區塊新動能](https://www.accupass.com/event/1909200208204486024680)
 
@@ -292,7 +292,9 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2726129987613695" %}
 
-{% embed url="https://www.youtube.com/watch?v=Bd3kSy8fTw0&feature=youtu.be" caption="【小比兒】項目活動專場\#3 一起來看聖人大盜吧 feat徐嘉凱.丁丁" %}
+{% embed url="https://www.youtube.com/watch?v=Bd3kSy8fTw0&feature=youtu.be" %}
+【小比兒】項目活動專場#3 一起來看聖人大盜吧 feat徐嘉凱.丁丁
+{% endembed %}
 
 ### 09/23 SayIt
 
@@ -332,19 +334,19 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2644225359137492" %}
 
-### 06/15 Hong Kong Open Source Conference 2019
+### 06/15 Hong Kong Open Source Conference 2019&#xD;
 
 [Random number generation for simulation, blockchain and cryptography](https://hkoscon.org/2019/topics/random-number-generation-simulation-blockchain-and-cryptography)
 
 {% embed url="https://www.youtube.com/watch?v=wej1eAWB3Is" %}
 
-### 06/04 AppWorks Demo Day \#18
+### 06/04 AppWorks Demo Day #18
 
-[AppWorks Demo Day \#18 精彩登場，25 支大東南亞新創讓人驚艷！AppWorks 生態系突破千位創業者、創造上萬份工作機會](https://appworks.tw/demo-day-18/)
+[AppWorks Demo Day #18 精彩登場，25 支大東南亞新創讓人驚艷！AppWorks 生態系突破千位創業者、創造上萬份工作機會](https://appworks.tw/demo-day-18/)
 
-[台湾AppWorks（之初創投）、AI・IoT・ブロックチェーン・仮想通貨に特化した第18期のデモデイを開催——25組中18組を海外勢が占める](https://thebridge.jp/2019/06/appworks-demo-day_18)
+[台湾AppWorks（之初創投）、AI・IoT・ブロックチェーン・仮想通貨に特化した第18期のデモデイを開催——25組中18組を海外勢が占める](https://thebridge.jp/2019/06/appworks-demo-day\_18)
 
-[林之晨接台灣大總經理後，首場AppWorks \#18有哪些潛力新創？](https://www.bnext.com.tw/article/53524/appworks-demoday-18)
+[林之晨接台灣大總經理後，首場AppWorks #18有哪些潛力新創？](https://www.bnext.com.tw/article/53524/appworks-demoday-18)
 
 [這些新創正在服務「真實用戶」，AppWorks 第 18 期發表會，台灣區塊鏈創業走向多元成熟](https://www.blocktempo.com/appworks-demo-day-18-these-blockchain-startup-gain-real-user/)
 
@@ -352,7 +354,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [直擊！AppWorks Demo Day＃18， 10分鐘看完25支新創團隊項目 本次亮點：超過７成的海外新創團隊](https://www.barneystalk.taipei/appworks-demo-day-18/)
 
-[【AppWorks Demo Day \#18】25 支 AI／區塊鏈新創團隊，創造毫無冷場的新創盛會](https://buzzorange.com/techorange/2019/06/04/appworks-demo-day_18/)
+[【AppWorks Demo Day #18】25 支 AI／區塊鏈新創團隊，創造毫無冷場的新創盛會](https://buzzorange.com/techorange/2019/06/04/appworks-demo-day\_18/)
 
 {% embed url="https://www.facebook.com/Liker.Land/videos/689971981436774/" %}
 
@@ -396,7 +398,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2600506510176044" %}
 
-### 04/28 WordPress 台中小聚 \#10 - Blogathon \#1
+### 04/28 WordPress 台中小聚 #10 - Blogathon #1&#xD;
 
 [LikeCoin 簡介](https://wp-meetups.com/likecoin-%E7%B0%A1%E4%BB%8B/)
 
@@ -410,11 +412,11 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2566235190269843" %}
 
-### 03/23 BitAsset － 透過區塊鏈技術創造數位內容新價值
+### 03/23 BitAsset － 透過區塊鏈技術創造數位內容新價值&#xD;
 
 [透過區塊鏈技術創造數位內容新價值](https://www.accupass.com/event/1902270300001410408830)
 
-[強棒出擊！透過區塊鏈創造數位內容新價值強勢登場 - 快來報名 利用區塊鏈技術將「創作當飯吃」可行嗎？讚賞幣 \(LikeCoin\) 創辦人跨海來台分享 來聽就對](https://www.cna.com.tw/postwrite/Detail/250351.aspx)
+[強棒出擊！透過區塊鏈創造數位內容新價值強勢登場 - 快來報名 利用區塊鏈技術將「創作當飯吃」可行嗎？讚賞幣 (LikeCoin) 創辦人跨海來台分享 來聽就對](https://www.cna.com.tw/postwrite/Detail/250351.aspx)
 
 {% embed url="https://www.facebook.com/BitAssetAsia/videos/385528828950574/" %}
 
@@ -422,7 +424,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2566193026940726" %}
 
-### 03/13 Asia Crypto Week - Ethereum Supermeetup!
+### 03/13 Asia Crypto Week&#xD; \- Ethereum Supermeetup!
 
 [Token2049: Ethereum Supermeetup!](https://www.facebook.com/Liker.Land/posts/2559758537584175)
 
@@ -438,7 +440,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2560260180867344" %}
 
-### 02/27 序言書室 － 從面書社群到讚賞公民 暨LikeCoin一周年聚會
+### 02/27 序言書室 － 從面書社群到讚賞公民 暨LikeCoin一周年聚會&#xD;
 
 [從面書社群到讚賞公民 暨LikeCoin一周年聚會](https://www.facebook.com/Liker.Land/posts/2549752591918103)
 
@@ -446,9 +448,9 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2550986958461333" %}
 
-### 02/25 LikeCoin Hong Kong Meetup － Civic Liker Community Meetup
+### 02/25&#xD; LikeCoin Hong Kong Meetup － Civic Liker Community Meetup
 
-[Civic Liker Community Meetup \(paid in LikeCoin!\)](https://www.facebook.com/Liker.Land/photos/a.2358370647722966/2549288198631209/)
+[Civic Liker Community Meetup (paid in LikeCoin!)](https://www.facebook.com/Liker.Land/photos/a.2358370647722966/2549288198631209/)
 
 ### 02/16 TEDxYouth VictoriaHarbour
 
@@ -458,9 +460,9 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/watch/?v=529309280912177" %}
 
-{% embed url="https://www.facebook.com/watch/live/?v=233176147489859&ref=watch\_permalink" %}
+{% embed url="https://www.facebook.com/watch/live/?v=233176147489859&ref=watch_permalink" %}
 
-### 01/28 9up.io - 9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application
+### 01/28 9up.io&#xD; \- 9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application&#xD;
 
 [BC1110 BLOCKCHAIN EVERYDAY APPLICATION](https://www.facebook.com/cityu.dietcode/photos/a.1975690915810822/2070479752998604/?type=3)
 
@@ -472,11 +474,11 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [網路寫作者交流小聚：分享 WordPress、Medium、Vocus 等使用的經驗分享與討論](https://www.facebook.com/events/762421520800549)
 
-🔚 
+:end: 
 {% endtab %}
 
 {% tab title="2018" %}
-### 12/20 eCoinomy Blockchain And Cryptocurrency Platform[](https://www.eventbrite.hk/e/48019296007#) - eCoinomy開講: 2019 x 中國 x 香港 x 加密貨幣
+### 12/20 eCoinomy Blockchain And Cryptocurrency Platform[&#xD;](https://www.eventbrite.hk/e/48019296007#) - eCoinomy開講: 2019 x 中國 x 香港 x 加密貨幣&#xD;
 
 [eCoinomy開講: 2019 x 中國 x 香港 x 加密貨幣](https://www.meetup.com/eCoinomy-Blcokchain-And-Cryptocurrency-Platform)
 
@@ -512,9 +514,9 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2493102044249825" %}
 
-### 12/01 LikeCoin Taipei Meetup － 12/01 \(六\) 微小說工作坊（免費活動）
+### 12/01 LikeCoin Taipei Meetup － 12/01 (六) 微小說工作坊（免費活動）
 
-[12/01 \(六\) 微小說工作坊（免費活動）](https://www.facebook.com/events/2242495909367502/permalink/2251014871848939/)
+[12/01 (六) 微小說工作坊（免費活動）](https://www.facebook.com/events/2242495909367502/permalink/2251014871848939/)
 
 {% embed url="https://www.facebook.com/Jingrandesign/photos/gm.2251014871848939/1227837970732738/?type=3&theater" %}
 
@@ -544,9 +546,9 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://wordpress.tv/2019/06/25/kin-ko-generating-passive-income-with-likecoin-blockchain-plugin/" %}
 
-### 10/21 WordCamp Taipei 2018
+### 10/21 WordCamp Taipei 2018&#xD;
 
-[讚賞幣 \(LikeCoin\) 基金會](https://2018.taipei.wordcamp.org/sponsor/likecoin-foundation-limited/)
+[讚賞幣 (LikeCoin) 基金會](https://2018.taipei.wordcamp.org/sponsor/likecoin-foundation-limited/)
 
 {% embed url="https://twitter.com/likecoin/status/1053873841850576896" %}
 
@@ -560,7 +562,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2452907778269252" %}
 
-{% embed url="https://docs.google.com/presentation/d/1ABd9jVsidu-gip-TuTMpl2lXzk0rfFRkN3tZWkoApPU/edit\#slide=id.g3439b855e4\_0\_296" %}
+{% embed url="https://docs.google.com/presentation/d/1ABd9jVsidu-gip-TuTMpl2lXzk0rfFRkN3tZWkoApPU/edit#slide=id.g3439b855e4_0_296" %}
 
 ### 10/06 LikeCoin Taipei Meetup － 寫作者交流會：寫作者怎麼創造收入？
 
@@ -584,13 +586,13 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 ### 09/15 BarCamp Hong Kong 2018
 
-[一步一點讚，窺探 \#Likecoin 的藍圖](https://docs.google.com/spreadsheets/d/1ZmeLhRy3sDTb9yoL6l2kNOkY0Hx0hORXQK8iuxZtC9M/htmlview)（1:30:00 開始）
+[一步一點讚，窺探 #Likecoin 的藍圖](https://docs.google.com/spreadsheets/d/1ZmeLhRy3sDTb9yoL6l2kNOkY0Hx0hORXQK8iuxZtC9M/htmlview)（1:30:00 開始）
 
 {% embed url="https://www.facebook.com/BarCampHongKong/videos/2647168362176209/" %}
 
 ### 09/11 Hong Kong WordPress Meetup
 
-[WordPress Meetup \#22: 「點讚成金」- 如何靠Like賺取收入 & Banner 位置優化 \(Cantonese 廣東話\)](https://www.meetup.com/Hong-Kong-WordPress-Meetup/events/254113246/)
+[WordPress Meetup #22: 「點讚成金」- 如何靠Like賺取收入 & Banner 位置優化 (Cantonese 廣東話)](https://www.meetup.com/Hong-Kong-WordPress-Meetup/events/254113246/)
 
 {% embed url="https://www.youtube.com/watch?v=gxI6iZycPUg" %}
 
@@ -610,7 +612,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [【討論精華】區塊鏈如何幫助內容產業？以 Matters 跟 LikeCoin 為例](https://matters.news/@yingshinlee/%E8%A8%8E%E8%AB%96%E7%B2%BE%E8%8F%AF-%E5%8D%80%E5%A1%8A%E9%8F%88%E5%A6%82%E4%BD%95%E5%B9%AB%E5%8A%A9%E5%85%A7%E5%AE%B9%E7%94%A2%E6%A5%AD-%E4%BB%A5-matters-%E8%B7%9F-like-coin-%E7%82%BA%E4%BE%8B-zdpuAmByi15PWvjUHZe53LLVGNN7xCABvtFXkfedo9B3SVuLN)
 
-### 08/21 LikeCoin 角川國際動漫教育 － 「化讚為賞 ─ 為創作者帶來被動收入」台北交流會
+### 08/21 LikeCoin 角川國際動漫教育 － 「化讚為賞 ─ 為創作者帶來被動收入」台北交流會&#xD;
 
 [「化讚為賞 ─ 為創作者帶來被動收入」台北交流會](https://oice.kktix.cc/events/likecoin)
 
@@ -622,33 +624,33 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/oiceapp/posts/604316089962871" %}
 
-### 07/21 TiDeal － 港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？
+### 07/21&#xD; TiDeal － 港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？
 
 [港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？](https://www.eventbrite.hk/e/48019296007#)
 
 {% embed url="https://www.facebook.com/TiDeal.official/posts/294554014631245" %}
 
-### 07/18 World Blockchain Conference
+### 07/18 World Blockchain Conference&#xD;
 
 [Reinventing the Like. Reward contents by Proof of Creativity](https://medium.com/likecoin/likecoin-world-blockchain-conference-singapore-july-17-18-bfbe00556209)
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2383028978590466" %}
 
-### 07/13 DRC金融科技 － 直播\|创始人面对面：DRC-LikeCoin
+### 07/13 DRC金融科技 － 直播|创始人面对面：DRC-LikeCoin
 
-[直播\|创始人面对面：DRC-LikeCoin](https://www.jianshu.com/p/1883bdb216f7)
+[直播|创始人面对面：DRC-LikeCoin](https://www.jianshu.com/p/1883bdb216f7)
 
-[LikeCoin创始人高重建：相信价值投资的 DRC 社群](https://mp.weixin.qq.com/s?__biz=MzU1NTM1ODc1MQ==&mid=2247485082&idx=3&sn=d5cfb383151d6714ab4c95b2108dc684&chksm)
+[LikeCoin创始人高重建：相信价值投资的 DRC 社群](https://mp.weixin.qq.com/s?\__biz=MzU1NTM1ODc1MQ==\&mid=2247485082\&idx=3\&sn=d5cfb383151d6714ab4c95b2108dc684\&chksm)
 
 ### 06/28 Design Incubation Programme
 
-[7+1 Entrepreneurship for Design & Creative Business Certificate Programme 2018](https://www.hkdesignincubation.org/?route=happening-detail&id=Incubatees%20joining%207plus1%20Programme%202018-06-28)
+[7+1 Entrepreneurship for Design & Creative Business Certificate Programme 2018](https://www.hkdesignincubation.org/?route=happening-detail\&id=Incubatees%20joining%207plus1%20Programme%202018-06-28)
 
 {% embed url="https://www.facebook.com/dip.hkdc/posts/1905857209481566" %}
 
 ### 06/22 DRC金融科技 － DRC尽调 LikeCoin 赞赏币
 
-[千聊直播\|LikeCoin项目分享会](https://twitter.com/communitydrc/status/1010150430616125440)
+[千聊直播|LikeCoin项目分享会](https://twitter.com/communitydrc/status/1010150430616125440)
 
 ### 06/17 Hong Kong Open Source Conference 2018
 
@@ -688,13 +690,13 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [LikeCoin opensource projects](https://www.tgv4plus.com/hong-kong-9-10-may-2018.html)
 
-{% embed url="https://www.facebook.com/watch/live/?v=2323271851232846&ref=watch\_permalink" %}
+{% embed url="https://www.facebook.com/watch/live/?v=2323271851232846&ref=watch_permalink" %}
 
 {% embed url="https://www.facebook.com/watch/live/?v=2323291704564194" %}
 
 ### 05/05 ZEROZONE - LikeCoin 技術原理與經濟模型
 
-[ZEROZONE x LikeCoin \| 化Like為Coin：LikeCoin 技術原理與經濟模型](https://zerozone.co/portfolio/zerozone-x-likecoin-%e5%8c%96like%e7%82%bacoin/)
+[ZEROZONE x LikeCoin | 化Like為Coin：LikeCoin 技術原理與經濟模型](https://zerozone.co/portfolio/zerozone-x-likecoin-%E5%8C%96like%E7%82%BAcoin/)
 
 {% embed url="https://www.facebook.com/Liker.Land/posts/2320981438128554" %}
 
@@ -762,9 +764,9 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/oiceapp/posts/494373780957103" %}
 
-### 03/01 Open Source Hong Kong － Open Source Developer Meetup \#12
+### 03/01 Open Source Hong Kong － Open Source Developer Meetup #12&#xD;
 
-[Open Source Developer Meetup \#12](https://opensource.hk/developer-meetup-12/)
+[Open Source Developer Meetup #12](https://opensource.hk/developer-meetup-12/)
 
 [以太坊代幣付款委託](https://medium.com/likecoin/ethereum-payment-proxy-755d7eae3db0)
 
@@ -772,9 +774,9 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.slideshare.net/AludirkWong/in-open-source-developer-meetup-12" %}
 
-### 03 PolyU InnoHub - FinTech Training
+### 03 PolyU InnoHub&#xD; \- FinTech Training
 
-[FinTech Training \(March – April 2018\)](https://www.polyu.edu.hk/ife/corp/en/publications/entre_newsletter.php?eeid=19877)
+[FinTech Training (March – April 2018)](https://www.polyu.edu.hk/ife/corp/en/publications/entre_newsletter.php?eeid=19877)
 
 ### 02/28 序言書室 － 區塊鏈如何為創意帶來回報
 
@@ -786,7 +788,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [Blockchain - LikeCoin Workshop](https://cityu-hall2.github.io/it/feb2018/poster.jpeg)
 
-{% embed url="https://www.facebook.com/watch/live/?v=2098014853558930&ref=watch\_permalink" %}
+{% embed url="https://www.facebook.com/watch/live/?v=2098014853558930&ref=watch_permalink" %}
 
 {% embed url="https://www.facebook.com/CityuAppsLab/videos/2098013360225746/" %}
 
@@ -794,11 +796,11 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/CityuAppsLab/photos/a.698457616848001/2098030580224024/?type=3" %}
 
-### 02/23 BLOOM - \[Cantonese\] The Story of LikeCoin: Applying Blockchain Technology on Creative Contents
+### 02/23 BLOOM - \[Cantonese] The Story of LikeCoin: Applying Blockchain Technology on Creative Contents&#xD;
 
 [\[Cantonese\] The Story of LikeCoin: Applying Blockchain Technology on Creative Contents](https://www.whub.io/events/cantonese-the-story-of-likecoin-applying-blockchain-technology-on-creative-contents-1518425757)
 
-[MEET THE FOUNDER SERIES \#3: LIKE COIN](https://www.bloom.work/meet-the-founder-series-3-like-coin/)
+[MEET THE FOUNDER SERIES #3: LIKE COIN](https://www.bloom.work/meet-the-founder-series-3-like-coin/)
 
 [LikeCoin Sharing by kin ko at BLOOM](https://medium.com/likecoin/likecoin-sharing-by-kin-ko-at-bloom-1e5865386ac6)
 
@@ -808,7 +810,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.slideshare.net/kinko2/likecoin-sharing-at-bloom-hong-kong-20180223" %}
 
-🔚 
+:end: 
 {% endtab %}
 
 {% tab title="2017" %}
@@ -818,7 +820,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.facebook.com/BarCampHongKong/videos/1378710728905865/" %}
 
-### 12/03 2017網絡媒體高峰會－－圍城下的網媒能如何守住新聞自由
+### &#xD;12/03 2017網絡媒體高峰會－－圍城下的網媒能如何守住新聞自由&#xD;
 
 [網媒如何透過資訊科技合作共贏](https://www.hkcnews.com/article/8746/%E5%8D%80%E5%A1%8A%E9%8F%88-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3-likecoin-8746/%E7%B6%B2%E5%AA%92%E5%A6%82%E4%BD%95%E9%80%8F%E9%81%8E%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80%E5%90%88%E4%BD%9C%E5%85%B1%E8%B4%8F)
 
@@ -836,7 +838,6 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 {% embed url="https://www.slideshare.net/kinko2/ss-82136576" %}
 
-🔚 
+:end: 
 {% endtab %}
 {% endtabs %}
-
