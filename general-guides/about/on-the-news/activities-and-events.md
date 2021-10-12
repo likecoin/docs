@@ -2,6 +2,12 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 10/05  北科大區塊鏈研究社 NTUT Blockchain 新生茶會
+
+Photos
+
+[Video](https://www.facebook.com/NTUTBlockchain/videos/553765389031360)
+
 ### 07/31 COSCUP 2021
 
 [#decentralizehk - 分散式紀錄香港以至人類歷史，免被威權篡改](https://coscup.org/2021/zh-TW/session/HDH3NQ)
