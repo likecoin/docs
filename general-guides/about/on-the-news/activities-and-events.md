@@ -80,6 +80,8 @@
 
 ### 12/03 FtO Tainan 面海松･台南 2020 × 午營咖啡 a break cafe × g0v Summit 2020
 
+[Video](https://www.youtube.com/watch?v=gf61JJvS1zI)
+
 ### 11/22 第五届网络社会年会”实践智慧之网”
 
 [Panel4：加密主义](https://www.caa-ins.org/archives/6927)
@@ -91,8 +93,6 @@
 [講者高重建](https://www.ses.org.hk/zh-hant/content/%E9%AB%98%E9%87%8D%E5%BB%BA) [亂中自有我所屬](https://ses.org.hk/zh-hant/content/%E4%BA%82%E4%B8%AD%E8%87%AA%E6%9C%89%E6%88%91%E6%89%80%E5%B1%AC)
 
 [LikeCoin化讚為賞, 用文字創富](https://ses.org.hk/content/likecoin%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E7%94%A8%E6%96%87%E5%AD%97%E5%89%B5%E5%AF%8C)
-
-{% embed url="https://www.youtube.com/watch?v=W3GLR1C4Cac" %}
 
 ### 10/16 &#xD;IPFS Virtual Meetup
 
