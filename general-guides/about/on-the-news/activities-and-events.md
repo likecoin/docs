@@ -94,6 +94,8 @@
 
 [LikeCoin化讚為賞, 用文字創富](https://ses.org.hk/content/likecoin%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E7%94%A8%E6%96%87%E5%AD%97%E5%89%B5%E5%AF%8C)
 
+[Video](https://www.youtube.com/watch?v=W3GLR1C4Cac)
+
 ### 10/16 &#xD;IPFS Virtual Meetup
 
 Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
