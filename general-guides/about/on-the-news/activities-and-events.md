@@ -102,7 +102,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 
 
-[Video](https://www.youtube.com/watch?v=xFTelpMw9Uc)
+Video
 
 
 
