@@ -148,9 +148,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [g0v tw hackath39n — 提案 — LikeCoin 狂想曲 ／ Phoebe — 又在家黑客松](https://g0v.hackmd.io/c/g0v-hackath39n)
 
-
-
-v8d
+[Video](../../../)
 
 {% embed url="https://www.youtube.com/watch?v=Qyapcuur6Lk" %}
 
