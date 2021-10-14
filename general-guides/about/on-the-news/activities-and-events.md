@@ -116,7 +116,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [針對數位內容的公共區塊鏈 - LikeCoin chain](https://coscup.org/2020/zh-TW/agenda/W3SFGQ)
 
-{% embed url="https://www.youtube.com/watch?v=oeSzWL5KphA&t" %}
+[Video](https://www.youtube.com/watch?v=oeSzWL5KphA)
 
 {% embed url="https://docs.google.com/presentation/d/1m5IxlSNpvTRGBYwBk9TQgHLx_Q9v8zOcsi8YNaTRbe0/edit#slide=id.g7c06a933ee_0_0" %}
 
@@ -127,8 +127,6 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 ### 06/13 Hong Kong Open Source Conference 2020
 
 [Decentralized content registry: expanding IPFS functionality with cosmos based blockchain](https://hkoscon.org/2020/topics/decentralized-content-registry-expanding-ipfs-functionality-cosmos-based-blockchain)
-
-{% embed url="https://www.youtube.com/watch?v=mS2i2ptqJM8" %}
 
 {% embed url="https://docs.google.com/presentation/d/1Xxgt-gllLqydQgZ8N6xFlDIP_b2aNPirYNIAYmjSUqw/edit" %}
 
