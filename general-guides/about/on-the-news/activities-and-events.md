@@ -226,17 +226,15 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [Kin Ko: 404 Not found 遇得多；402 有見過麼？探討現有的網上內容流通性和網頁的收入模式。 / “404 Not Found” is Common, But Have You Seen “402](https://2019.taipei.wordcamp.org/session/404-not-found-is-common-but-have-you-seen-402-payment-required/)
 
-{% embed url="https://wordpress.tv/2020/06/16/kin-ko-404-not-found-%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402-%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F%E6%8E%A2%E8%A8%8E%E7%8F%BE%E6%9C%89%E7%9A%84%E7%B6%B2%E4%B8%8A%E5%85%A7%E5%AE%B9%E6%B5%81/" %}
+[Video](https://wordpress.tv/2020/06/16/kin-ko-404-not-found-%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402-%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F%E6%8E%A2%E8%A8%8E%E7%8F%BE%E6%9C%89%E7%9A%84%E7%B6%B2%E4%B8%8A%E5%85%A7%E5%AE%B9%E6%B5%81/)
 
 ### 12/14 2019網絡媒體高峰會 － LIHKG，Telegram與網媒，我們的知與未知
 
 [資訊戰中，事實核查該如何做好？](https://www.cmef.org.hk/post/2019%E7%B6%B2%E7%B5%A1%E5%AA%92%E9%AB%94%E9%AB%98%E5%B3%B0%E6%9C%83)
 
-{% embed url="https://www.facebook.com/standnewshk/videos/465604741021383" %}
+[Video](https://www.facebook.com/standnewshk/videos/465604741021383/)
 
-{% embed url="https://www.facebook.com/watch/live/?v=461855731402800" %}
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2788894528003907" %}
+[Video](https://www.facebook.com/Liker.Land/videos/%E9%A6%99%E6%B8%AF%E6%B4%BB%E5%8B%95%E7%8F%BE%E5%A0%B4%E7%9B%B4%E6%92%AD%E7%B6%B2%E7%B5%A1%E5%AA%92%E9%AB%94%E9%AB%98%E5%B3%B0%E6%9C%83-%E5%B7%A5%E4%BD%9C%E5%9D%8A%E4%BA%8C-%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B/461855731402800)
 
 ### 11/03 鏈上生活節 2019
 
@@ -244,9 +242,9 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [送你人生第一個比特幣！週末去華山｢鏈上生活節 2019｣，用比特幣暢飲啤酒、看電影!](https://www.abmedia.io/blockchain-event/)
 
-{% embed url="https://www.facebook.com/LifeOnChain/photos/a.128571291881989/137603950978723/?type=3&theater" %}
+[Photo](https://www.facebook.com/LifeOnChain/photos/a.128571291881989/137603950978723/?type=3)
 
-{% embed url="https://www.facebook.com/LifeOnChain/videos/3286585588079952/" %}
+[Video](https://www.facebook.com/LifeOnChain/videos/3286585588079952/)
 
 ### 11/02 Matters － 好內容獲得回報之後，我們的下一步是？
 
@@ -254,19 +252,19 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [【感想 Matters x LikeCoin活動】「讓99%的創作者實現價值」vs. Winners Take All](https://matters.news/@fide/%E6%84%9F%E6%83%B3-matters-x-like-coin%E6%B4%BB%E5%8B%95-%E8%AE%9399-%E7%9A%84%E5%89%B5%E4%BD%9C%E8%80%85%E5%AF%A6%E7%8F%BE%E5%83%B9%E5%80%BC-vs-winners-take-all-zdpuAsqPnzojL1p9nSt4Bsu7GHhMDCKDGBEDGxmVp2BpMuUbp)
 
-{% embed url="https://www.facebook.com/MattersLab2018/videos/436842663685441/" %}
+[Video](https://www.facebook.com/MattersLab2018/videos/436842663685441)
 
 ### 10/31 區塊客 Blockcast － 2019 Q4 季敘： 新北區塊新動能&#xD;
 
-[2019 Q4 季敘： 新北區塊新動能](https://www.accupass.com/event/1909200208204486024680)
+[2019 Q4 季敘： 新北區塊新動能](https://www.accupass.com/event/1909200208204486024680)
 
-{% embed url="https://www.facebook.com/blockcast.it/photos/a.967244173660648/967245956993803/?type=3" %}
+[Photo](https://www.facebook.com/blockcast.it/photos/a.967244173660648/967245956993803/?type=3)
 
 ### 10/21 區塊客 Blockcast － 深入認識 IPFS 及動手實作技術小聚
 
 [深入認識 IPFS 及動手實作技術小聚](https://www.accupass.com/event/1910020715311900809277)
 
-{% embed url="https://www.facebook.com/blockcast.it/videos/715009185670826/" %}
+[Video](https://www.facebook.com/blockcast.it/videos/715009185670826/)
 
 {% embed url="https://www.facebook.com/groups/757804584406557/permalink/1210573572462987/" %}
 
@@ -278,9 +276,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [Edmond Yu: 404 Not Found遇得多；402有見過麼？](https://2019.hongkong.wordcamp.org/files/2019/10/06-404-Not-Found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F-Edmond-Yu.pdf)
 
-{% embed url="https://wordpress.tv/2019/10/25/edmond-yu-404-not-found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F/" %}
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2724967981063229" %}
+[Video](https://wordpress.tv/2019/10/25/edmond-yu-404-not-found%E9%81%87%E5%BE%97%E5%A4%9A%EF%BC%9B402%E6%9C%89%E8%A6%8B%E9%81%8E%E9%BA%BC%EF%BC%9F/)
 
 ### 10/11 《鏈結新世界：區塊鏈落地應用》《聖人大盜》特映會
 
@@ -288,11 +284,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [全球領先數位資產交易所BitAsset「鏈結新世界：區塊鏈落地應用」論壇圓滿落幕 從電影看未來、窺探產業新趨勢](https://www.cna.com.tw/postwrite/Detail/262532.aspx)
 
-{% embed url="https://www.facebook.com/Liker.Land/posts/2726129987613695" %}
-
-{% embed url="https://www.youtube.com/watch?v=Bd3kSy8fTw0&feature=youtu.be" %}
-【小比兒】項目活動專場#3 一起來看聖人大盜吧 feat徐嘉凱.丁丁
-{% endembed %}
+[Video](https://www.youtube.com/watch?v=Bd3kSy8fTw0)
 
 ### 09/23 SayIt
 
@@ -304,17 +296,13 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [當基進市場遇上區塊鏈——與唐鳳談流動民主 III](https://ckxpress.com/radicalmarkets-x-blockchain/)
 
-### 09/18 民院教育 － 【DCH2201】區塊鏈社會學 Blockchain Sociology
-
-{% embed url="https://www.facebook.com/intercommoneducation/posts/1786558478157117/" %}
-
 ### 08/18 COSCUP 2019
 
 [區鏈塊如何幫助打擊虛假訊息（假新聞） BoF](https://coscup.org/2019/programs/02074a14-c171-42e8-895a-f000e2959c18/)
 
 [HackMD Note](https://hackmd.io/oF80EGROQB2F0ka5yrc0Aw)
 
-{% embed url="https://youtu.be/EJs99IFiLfA?t=583" %}
+[Video](https://www.youtube.com/watch?v=EJs99IFiLfA\&t=583s)
 
 ### 08/17 COSCUP 2019
 
@@ -322,21 +310,17 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [Hack MD Note](https://hackmd.io/@coscup/HyeAAzgNr/%2F%40coscup%2FBkQ2CGeVB)
 
-{% embed url="https://www.youtube.com/watch?v=cMessqiYKs4" %}
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2675736805986347" %}
+[Video](https://www.youtube.com/watch?v=cMessqiYKs4)
 
 ### 07/06 LikeCoin Hong Kong Meetup － 點樣將 LikeCoin 變返做港幣？ － 香港讚賞公民小聚
 
 [點樣將 LikeCoin 變返做港幣？ － 香港讚賞公民小聚](https://www.facebook.com/events/1133334446853952/)
 
-{% embed url="https://www.facebook.com/Liker.Land/posts/2644225359137492" %}
-
 ### 06/15 Hong Kong Open Source Conference 2019&#xD;
 
 [Random number generation for simulation, blockchain and cryptography](https://hkoscon.org/2019/topics/random-number-generation-simulation-blockchain-and-cryptography)
 
-{% embed url="https://www.youtube.com/watch?v=wej1eAWB3Is" %}
+[Video](https://www.youtube.com/watch?v=wej1eAWB3Is)
 
 ### 06/04 AppWorks Demo Day #18
 
@@ -354,15 +338,11 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [【AppWorks Demo Day #18】25 支 AI／區塊鏈新創團隊，創造毫無冷場的新創盛會](https://buzzorange.com/techorange/2019/06/04/appworks-demo-day\_18/)
 
-{% embed url="https://www.facebook.com/Liker.Land/videos/689971981436774/" %}
+[Video](https://www.facebook.com/Liker.Land/videos/kin-ko-64-%E6%96%BC-appworks-demo-day-18-%E7%9A%84-7-%E5%88%86%E9%90%98%E8%B6%B3%E6%9C%AC%E6%BC%94%E8%AC%9B%E5%BD%B1%E7%89%87%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BE%86%E5%8F%B0%E7%81%A3%E5%9B%A0%E7%82%BA%E9%80%99%E8%A3%A1%E6%B0%91%E4%B8%BB%E5%A4%9A%E5%85%83%E6%8A%8A%E6%96%87%E5%89%B5%E5%92%8C%E7%A7%91%E6%8A%80%E7%B5%90%E5%90%88%E5%BE%97%E5%BE%88%E5%A5%BD%E4%BD%9C%E8%80%85%E9%80%99%E5%80%8B%E8%81%B7%E6%A5%AD%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%94%BF/689971981436774)
 
-{% embed url="https://www.youtube.com/watch?v=WN7mV9nCR7I" %}
+[Video](https://www.youtube.com/watch?v=WN7mV9nCR7I)
 
 {% embed url="https://twitter.com/likecoin/status/1135809366114807808/photo/1" %}
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2614906208736074" %}
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2618641418362553" %}
 
 ### 5/21 讚賞公民基金會 － 網媒的未來：免費和訂閱制以外的第三條路
 
@@ -370,15 +350,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [\[活動筆記\] 網媒的未來：免費和訂閱制以外的第三條路](https://matters.news/@mingnhsu/%E6%B4%BB%E5%8B%95%E7%AD%86%E8%A8%98-%E7%B6%B2%E5%AA%92%E7%9A%84%E6%9C%AA%E4%BE%86-%E5%85%8D%E8%B2%BB%E5%92%8C%E8%A8%82%E9%96%B1%E5%88%B6%E4%BB%A5%E5%A4%96%E7%9A%84%E7%AC%AC%E4%B8%89%E6%A2%9D%E8%B7%AF-zdpuAyQCnxBLC8b58TBNdbceBmktnSmXZM91sCZ5swKaUAwNc)
 
-{% embed url="https://www.youtube.com/watch?v=FOMbZ-GpirU" %}
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2609497219276973" %}
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2610147002545328" %}
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2610128165880545" %}
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2608858736007488" %}
+[Video](https://www.youtube.com/watch?v=FOMbZ-GpirU)
 
 ### 05/11 Creative Commons Global Summit 2019
 
@@ -394,21 +366,17 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [左而不膠 淺談開放商業模式](https://ckxpress.com/creative-commons-likecoin/)
 
-{% embed url="https://www.facebook.com/Liker.Land/posts/2600506510176044" %}
-
 ### 04/28 WordPress 台中小聚 #10 - Blogathon #1&#xD;
 
 [LikeCoin 簡介](https://wp-meetups.com/likecoin-%E7%B0%A1%E4%BB%8B/)
 
-{% embed url="https://youtu.be/j4rhPqnemMo?t=7068" %}
+[Video](https://www.youtube.com/watch?v=j4rhPqnemMo\&t=7068s)
 
 ### 03/29 Deloitte HK
 
 {% embed url="https://twitter.com/likecoin/status/1111589857703284736/photo/1" %}
 
 ### 03/23 嶺南大學商科碩士班分享
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2566235190269843" %}
 
 ### 03/23 BitAsset － 透過區塊鏈技術創造數位內容新價值&#xD;
 
@@ -420,8 +388,6 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/watch/live/?v=368986780621279" %}
 
-{% embed url="https://www.facebook.com/Liker.Land/posts/2566193026940726" %}
-
 ### 03/13 Asia Crypto Week&#xD; \- Ethereum Supermeetup!
 
 [Token2049: Ethereum Supermeetup!](https://www.facebook.com/Liker.Land/posts/2559758537584175)
@@ -430,21 +396,15 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [讚賞公民 - 香港用戶組聚會 - 廣東話大哂！](https://www.facebook.com/events/317910845534260/)
 
-{% embed url="https://www.facebook.com/Liker.Land/posts/2560903320803030" %}
-
 ### 03/09 香港中文大學動漫畫研究社 － 次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作
 
 [次文化業界分享會：探討區塊鏈與ACG作品 以「LikeCoin」回饋創作](https://hkdoujin.com/2019/03/8992/)
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2560260180867344" %}
 
 ### 02/27 序言書室 － 從面書社群到讚賞公民 暨LikeCoin一周年聚會&#xD;
 
 [從面書社群到讚賞公民 暨LikeCoin一周年聚會](https://www.facebook.com/Liker.Land/posts/2549752591918103)
 
-{% embed url="https://www.facebook.com/watch/live/?v=809296619272316" %}
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2550986958461333" %}
+[Video](https://www.facebook.com/hkreaders/videos/%E5%8D%80%E5%A1%8A%E9%8F%88%E5%A6%82%E4%BD%95%E7%82%BA%E5%89%B5%E6%84%8F%E5%B8%B6%E4%BE%86%E5%9B%9E%E5%A0%B1%E8%AC%9B%E8%80%85%E9%AB%98%E9%87%8D%E5%BB%BA/809296619272316)
 
 ### 02/25&#xD; LikeCoin Hong Kong Meetup － Civic Liker Community Meetup
 
@@ -458,15 +418,13 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://www.facebook.com/watch/?v=529309280912177" %}
 
-{% embed url="https://www.facebook.com/watch/live/?v=233176147489859&ref=watch_permalink" %}
+[Video](https://www.facebook.com/TEDxYouthvictoriaharbour/videos/233176147489859/)
 
 ### 01/28 9up.io&#xD; \- 9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application&#xD;
 
 [BC1110 BLOCKCHAIN EVERYDAY APPLICATION](https://www.facebook.com/cityu.dietcode/photos/a.1975690915810822/2070479752998604/?type=3)
 
 [9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application](https://www.eventbrite.com/e/9upio-blockchain-seminar-series-bc1110-blockchain-everyday-application-tickets-54397023963#)
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2529235923969770" %}
 
 ### 01/22 LikeCoin Taipei Meetup － 網路寫作者交流小聚：分享 WordPress、Medium、Vocus 等使用的經驗分享與討論
 
