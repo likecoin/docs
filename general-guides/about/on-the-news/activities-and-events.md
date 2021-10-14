@@ -76,7 +76,7 @@
 {% tab title="2020" %}
 ### 12/28 Taiwan Blockchain Annual VIP Night
 
-{% embed url="https://www.facebook.com/BlockTempo/posts/1027656927644893" %}
+[Facebook Post](https://www.facebook.com/BlockTempo/posts/1027656927644893)
 
 ### 12/03 FtO Tainan 面海松･台南 2020 × 午營咖啡 a break cafe × g0v Summit 2020
 
@@ -142,8 +142,6 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://docs.google.com/presentation/d/1AEM23HHeFupGqR2UmdT82mF0PRP95mfKZFuky0RXS2s/edit#slide=id.g8817281211_0_8" %}
 
-{% embed url="https://www.facebook.com/Liker.Land/posts/2964325993794092" %}
-
 ### 5/23 g0v tw hackath39n
 
 [g0v tw hackath39n — 提案 — LikeCoin 狂想曲 ／ Phoebe — 又在家黑客松](https://g0v.hackmd.io/c/g0v-hackath39n)
@@ -162,13 +160,13 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 北科大 2020/05/08 區塊鏈講座錄影（完整版）- 高重建x徐嘉凱x葛如鈞
 
-[Video](https://www.youtube.com/watch?v=i4IOJrnutXU)
+[Facebook Post](https://www.facebook.com/TaipeiTech.aca/photos/a.1322614154541871/1833528753450406/?type=3)
 
-{% embed url="https://www.facebook.com/TaipeiTech.aca/photos/a.1322614154541871/1833528753450406/?type=3&theater" %}
+[Video](https://www.youtube.com/watch?v=i4IOJrnutXU)
 
 ### 05/06 LikeCoin Foundation － Likerthon 讚客松分享會：想法很便宜？點子很廉價？
 
-{% embed url="https://www.youtube.com/watch?v=bfg96upeDt8&t" %}
+[Video](https://www.youtube.com/watch?v=bfg96upeDt8)
 
 ### 04/29 LikeCoin Foundation － LikeCoin 101
 
@@ -180,7 +178,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 ### 04/22 LikeCoin Foundation － Liker Land發展藍圖的線上分享會(國語)
 
-{% embed url="https://www.youtube.com/watch?v=XjogARunD44&t=619s" %}
+[Video](https://www.youtube.com/watch?v=XjogARunD44\&t=619s)
 
 ### 04/15 LikeCoin Foundation － GitHub Action 使用經驗分享
 
@@ -190,15 +188,15 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [線上參與 Liker Land 發展](https://www.facebook.com/events/1135178743494284/)
 
-{% embed url="https://www.youtube.com/watch?v=C8MNiZBzadE" %}
+[Video](https://www.youtube.com/watch?v=C8MNiZBzadE)
 
 ### 03/14 g0v tw hackath38n
 
 [g0v tw hackath38n — 中場短講 — 讚賞公民共和國 Republic of Liker Land ／ kin ko — 在家黑客松](https://g0v.hackmd.io/c/g0v-hackath38n/)
 
-{% embed url="https://www.youtube.com/watch?v=_m_k_2Yc8fM" %}
+[Video](https://www.youtube.com/watch?v=\_m_k\_2Yc8fM)
 
-{% embed url="https://www.youtube.com/watch?v=-T5Qb6XXZm8" %}
+[Video](https://www.youtube.com/watch?v=-T5Qb6XXZm8)
 
 ### 03/18 LikeCoin Foundation － LikeCoin chain 節點設定教學 Validator node tutorial
 
@@ -210,21 +208,15 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [區塊鏈與社群媒體](https://dylanparis53.pixnet.net/blog/post/3936992-%E5%8D%80%E5%A1%8A%E9%8F%88%E8%88%87%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94)
 
-{% embed url="https://www.facebook.com/CollegeBlockchainAsia/photos/a.1492569984242512/1492571327575711/?type=3&theater" %}
+[Facebook Post](https://www.facebook.com/CollegeBlockchainAsia/photos/a.1492569984242512/1492571327575711/?type=3)
 
 ### 01/15 數位時代【創業小聚】－【創業小聚#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！
 
- [【創業小聚#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)（1:37:00 開始）
-
-{% embed url="https://www.facebook.com/watch/live/?v=510807239550417" %}
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2829178830642143" %}
+ [【創業小聚#109】萬物上鏈時代！？ 與生活接軌的區塊鏈應用！](https://www.accupass.com/event/1912161013158109562610)
 
 ### 01/03 路向四肢傷殘人士協會 LikeCoin工作坊
 
 [LikeCoin工作坊](https://www.4limb.org/2019/12/17/likecoinworkshop/#)
-
-{% embed url="https://www.facebook.com/Liker.Land/posts/2811410102419016" %}
 
 :end: 
 {% endtab %}
