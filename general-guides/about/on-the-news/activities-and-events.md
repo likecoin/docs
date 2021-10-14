@@ -128,7 +128,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [Decentralized content registry: expanding IPFS functionality with cosmos based blockchain](https://hkoscon.org/2020/topics/decentralized-content-registry-expanding-ipfs-functionality-cosmos-based-blockchain)
 
-{% embed url="https://www.youtube.com/watch?v=mS2i2ptqJM8" %}
+[Video](https://www.youtube.com/watch?v=mS2i2ptqJM8)
 
 {% embed url="https://docs.google.com/presentation/d/1Xxgt-gllLqydQgZ8N6xFlDIP_b2aNPirYNIAYmjSUqw/edit" %}
 
