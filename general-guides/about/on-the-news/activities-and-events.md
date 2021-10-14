@@ -758,7 +758,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 [\[Event Review\] DCC 6.0：Emigration from Facebook and the Rise of Writer-Rewarded Contents / 「數碼社區聚腳點」6.0：從臉書外移潮到寫手有賞內容之崛起](http://www.cdiorg.hk/event-review-dcc-6-0%EF%BC%9Aemigration-from-facebook-and-the-rise-of-writer-rewarded-contents-%E3%80%8C%E6%95%B8%E7%A2%BC%E7%A4%BE%E5%8D%80%E8%81%9A%E8%85%B3%E9%BB%9E%E3%80%8D6-0%EF%BC%9A/)
 
-{% embed url="https://www.facebook.com/IncuLab/posts/872907196203117" %}
+[Facebook Post](https://www.facebook.com/IncuLab/posts/872907196203117)
 
 {% embed url="https://www.slideshare.net/kinko2/ss-82873767" %}
 
