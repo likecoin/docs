@@ -150,7 +150,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [Video](../../../)
 
-{% embed url="https://www.youtube.com/watch?v=Qyapcuur6Lk" %}
+[Video](https://www.youtube.com/watch?v=Qyapcuur6Lk)
 
 ### 5/21 北科大-葛如鈞 － 區塊鏈技術與應用（通識）2020/05/21
 
@@ -161,8 +161,6 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 ### 05/08 北科大-葛如鈞 － 你還不知道「區塊鏈」是什麼？區塊鏈技術與兩大應用解析&#xD;
 
 北科大 2020/05/08 區塊鏈講座錄影（完整版）- 高重建x徐嘉凱x葛如鈞
-
-{% embed url="https://www.youtube.com/watch?v=i4IOJrnutXU" %}
 
 {% embed url="https://www.facebook.com/TaipeiTech.aca/photos/a.1322614154541871/1833528753450406/?type=3&theater" %}
 
