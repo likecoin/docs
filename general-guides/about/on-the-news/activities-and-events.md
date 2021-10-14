@@ -136,9 +136,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [Open by default: trying to run a startup with open source culture in mind](https://hkoscon.org/2020/topics/open-default-trying-run-startup-open-source-culture-mind)
 
-Video (Cantonese)
-
-{% embed url="https://www.youtube.com/watch?v=PL4GuVw2AKI" %}
+[Video (Cantonese)](https://www.youtube.com/watch?v=o_U3JaNgzVk)
 
 {% embed url="https://docs.google.com/presentation/d/1AEM23HHeFupGqR2UmdT82mF0PRP95mfKZFuky0RXS2s/edit#slide=id.g8817281211_0_8" %}
 
