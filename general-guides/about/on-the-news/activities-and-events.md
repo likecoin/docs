@@ -412,11 +412,11 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 ### 02/16 TEDxYouth VictoriaHarbour
 
-{% embed url="https://www.facebook.com/TEDxYouthvictoriaharbour/posts/2585104528182886" %}
+[Facebook Post](https://www.facebook.com/TEDxYouthvictoriaharbour/posts/2585104528182886)
 
-{% embed url="https://www.facebook.com/TEDxYouthvictoriaharbour/posts/2520884851271521" %}
+[Facebook Post](https://www.facebook.com/TEDxYouthvictoriaharbour/posts/2520884851271521)
 
-{% embed url="https://www.facebook.com/watch/?v=529309280912177" %}
+[Video](https://www.facebook.com/TEDxYouthvictoriaharbour/videos/529309280912177/)
 
 [Video](https://www.facebook.com/TEDxYouthvictoriaharbour/videos/233176147489859/)
 
