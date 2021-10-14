@@ -404,8 +404,6 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [從面書社群到讚賞公民 暨LikeCoin一周年聚會](https://www.facebook.com/Liker.Land/posts/2549752591918103)
 
-[Video](https://www.facebook.com/hkreaders/videos/%E5%8D%80%E5%A1%8A%E9%8F%88%E5%A6%82%E4%BD%95%E7%82%BA%E5%89%B5%E6%84%8F%E5%B8%B6%E4%BE%86%E5%9B%9E%E5%A0%B1%E8%AC%9B%E8%80%85%E9%AB%98%E9%87%8D%E5%BB%BA/809296619272316)
-
 ### 02/25&#xD; LikeCoin Hong Kong Meetup － Civic Liker Community Meetup
 
 [Civic Liker Community Meetup (paid in LikeCoin!)](https://www.facebook.com/Liker.Land/photos/a.2358370647722966/2549288198631209/)
@@ -716,15 +714,17 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 ### 02/26 Cityu Apps Lab - Workshop on Blockchain - Case Study: LikeCoin
 
-[Blockchain - LikeCoin Workshop](https://cityu-hall2.github.io/it/feb2018/poster.jpeg)
+[Blockchain - LikeCoin Workshop](https://cityu-hall2.github.io/it/feb2018/poster.jpeg)
+
+[Facebook Post](https://www.facebook.com/CityuAppsLab/photos/a.698457616848001/2098139120213170/?type=3)
+
+[Facebook Post](https://www.facebook.com/CityuAppsLab/photos/a.698457616848001/2098030580224024/?type=3)
+
+
 
 {% embed url="https://www.facebook.com/watch/live/?v=2098014853558930&ref=watch_permalink" %}
 
 {% embed url="https://www.facebook.com/CityuAppsLab/videos/2098013360225746/" %}
-
-{% embed url="https://www.facebook.com/CityuAppsLab/photos/a.698457616848001/2098139120213170/?type=3&theater" %}
-
-{% embed url="https://www.facebook.com/CityuAppsLab/photos/a.698457616848001/2098030580224024/?type=3" %}
 
 ### 02/23 BLOOM - \[Cantonese] The Story of LikeCoin: Applying Blockchain Technology on Creative Contents&#xD;
 
