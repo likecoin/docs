@@ -97,31 +97,3 @@ You cannot use the same email address to register a Liker ID with Authcore and K
 On Liker Land Web settings, your LikeCoin wallet address is the same as the Keplr address, which means you successfully register your Liker ID with Keplr.
 
 ![](../../.gitbook/assets/keplr-liker-id-06-en.png)
-
-### Step 4: Manage LikeCoin on stake.like.co
-
-Go to [stake.like.co](http://stake.like.co) and click "Keplr Browser Extension".
-
-![](../../.gitbook/assets/keplr06.png)
-
-Then click "Approve".
-
-![](../../.gitbook/assets/keplr07.png)
-
-Click on "Approve" again.
-
-![](../../.gitbook/assets/keplr08.png)
-
-You can see your balance.
-
-![](../../.gitbook/assets/keplr09.png)
-
-Moreover, on the top menu of Keplr select "LikeCoin chain".
-
-![](<../../.gitbook/assets/keplr-liker-id-07 (1).png>)
-
-It shows your LikeCoin balance.
-
-![](../../.gitbook/assets/keplr-liker-id-08.png)
-
-You may use Keplr to transfer LikeCoin directly. You may also manage your LikeCoin with [stake.like.co](https://stake.like.co) and Keplr together to transfer or delegate. Keplr also supports hardware wallets.
