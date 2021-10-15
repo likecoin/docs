@@ -34,7 +34,7 @@ description: 去中心化管理你的 LikeCoin
 
 ![](../../.gitbook/assets/keplr10.png)
 
-在 Recipient 填入收款方的 Cosmos 錢包地址、Token 經已選為 LIKE、Amount 填示戶口內的 LIKE 總數。請填寫需要傳送的 LikeCoin 數量，並留意必須預留[手續費](transaction-fee.md)Memo (Optional) 一欄填進收款方需要 Tag/Memo（如有）。再點「Send」。
+在 Recipient 填入收款方的 Cosmos 錢包地址、Token 經已選為 LIKE、Amount 填示錢包內的 LIKE 總數。請填寫需要傳送的 LikeCoin 數量，並留意必須預留[手續費](transaction-fee.md)。Memo (Optional) 一欄填進收款方需要 Tag/Memo（如有）。再點「Send」。
 
 ![](../../.gitbook/assets/keplr11.png)
 
@@ -46,7 +46,7 @@ Keplr 出現 Tx is pending 並回到 LikeCoin 餘額畫面。
 
 ![](../../.gitbook/assets/keplr13.png)
 
-## 使用 stake.like.co 
+## 使用 stake.like.co 查看交易明細、轉帳及委託
 
 你也可以使用 [stake.like.co](http://stake.like.co) 搭配 Keplr 進行各種操作包括轉帳和委託等，及透過硬件錢包使用 Keplr。
 
@@ -65,4 +65,3 @@ Keplr 出現 Tx is pending 並回到 LikeCoin 餘額畫面。
 你會看到你的 LikeCoin 餘額。
 
 ![](../../.gitbook/assets/keplr09.png)
-
