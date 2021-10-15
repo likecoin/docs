@@ -15,12 +15,22 @@ Please note all upgrade procedures has to be done on desktop computer, not suppo
 For those who fulfil the below conditions:
 
 1. Can still login the MetaMask wallet bond with the Liker ID
-2. Your Liker ID bond with MetMask and at least one social accounts ( Google/Facebook/Twitter/Matters ) besides MetaMask
+2. Your Liker ID bond with MetaMask and at least one social accounts ( Google/Facebook/Twitter/Matters ) besides MetaMask
 3. Have ETH on MetaMask as Gas Fee
+
+Please follow the steps and upgrade from LikeCoin ERC-20 to LikeCoin chain.
 
 ### Step 1: Login MetaMask
 
 Login the MetaMask wallet that bonds with your Liker ID, if you have change your computer, please use your [Secret Recovery Phrase](https://community.metamask.io/t/what-is-a-secret-recovery-phrase-and-how-to-keep-your-crypto-wallet-secure/3440) or private key to establish your MetaMask wallet again.
+
+{% hint style="danger" %}
+Please note if you cannot manage the MetaMask wallet bond with your Liker, you are not able to upgrade and access the LikeCoin in your wallet.
+
+Moreover, using the MetaMask wallet that does not bond with the Liker ID cannot upgrade as well, which means, you cannot use the same Liker ID in the new LikeCoin chain.
+
+Keep the Secret Recovery Phrase or private key is the responsibility of the user, no one can reset your MetaMask wallet unless yourself.
+{% endhint %}
 
 ### Step 2: Visit Like.co/in <a href="step-1-visit-likecoin" id="step-1-visit-likecoin"></a>
 
@@ -48,7 +58,7 @@ After clicking "Sign", the following MetaMask screens will be shown.  Click "Con
 
 ### Step 3.3: Waiting for the upgrading process to be finished <a href="step-23-waiting-for-the-upgrading-process-to-be-finished" id="step-23-waiting-for-the-upgrading-process-to-be-finished"></a>
 
-In this step, the system will firstly transfer your LikeCoin ERC-20 to a smart contract, and then deposit LikeCoin to your new wallet on the LikeCoin chain.  The process needs a few minutes, please be patient. During the process, ETH as Gas Fee will be deducted.
+In this step, the system will firstly transfer your LikeCoin ERC-20 to a smart contract, and then deposit LikeCoin to your new wallet on the LikeCoin chain. The process needs a few minutes, please be patient. During the process, ETH as Gas Fee will be deducted.
 
 ![](../../../.gitbook/assets/likecoin-migration-5.png)
 
@@ -60,14 +70,36 @@ You can check your LikeCoin balance in [https://like.co/in](https://like.co/in) 
 
 ### Step 5: Download the Liker Land mobile app <a href="download-the-liker-land-mobile-app" id="download-the-liker-land-mobile-app"></a>
 
-Please visit Google Play store or Apple App Store to [download the Liker Land mobile app](https://liker.land/getapp).  Login by your social account and check your balance on the app.  You may also perform various operations of LikeCoin such as transfer and delegation there.
+Please visit Google Play store or Apple App Store to [download the Liker Land mobile app](https://liker.land/getapp). Login by your social account and check your balance on the app. You may also perform various operations of LikeCoin such as transfer and delegation there.
 
 ![](../../../.gitbook/assets/likecoin-migration-7.png)
 
-{% hint style="info" %}
-If you can **login Liker ID by MetaMask only**, you can still follow the instruction above except that you should choose "Sign in with your wallet" on the upper right hand corner of the login screen, then choose "Metamask" and you will be asked to set up a new password during the process.
-{% endhint %}
+## Liker ID bond with MetaMask but doesn't bond with Social Accounts
+
+If you login Liker ID by MetaMask wallet only, you can still follow the instruction above except that you should choose "Sign in with your wallet" on the upper right hand corner of the login screen, then choose "MetaMask" and you will be asked to set up a new password during the process.
 
 ![](../../../.gitbook/assets/keplr-liker-id-01-en.png)
 
 ![](../../../.gitbook/assets/keplr-liker-id-02-en.png)
+
+## Upgrade without a Liker ID
+
+Please [register a Liker ID with Liker Land](../../../user-guide/liker-id/register.md) or a [Keplr wallet](../../../user-guide/liker-id/register-with-keplr.md) or even just [register a Keplr wallet and do not bond with Liker ID](../keplr.md) in order to obtain a Cosmos wallet address.
+
+You may want to check this out for checking the Cosmos wallet address on Big Dipper:
+
+{% content-ref url="../big-dipper.md" %}
+[big-dipper.md](../big-dipper.md)
+{% endcontent-ref %}
+
+### If you purchased your LikeCoin in a crypto exchange
+
+Transfer your LikeCoin to a Metamask wallet, then go to [https://migration.like.co/](https://migration.like.co) and fill in the Cosmos wallet address of the Liker ID or Keplr wallet and facilitate the upgrade.
+
+### If your LikeCoin is stored in a hardware wallet
+
+Connect the hardware wallet with Metamask, go to [https://migration.like.co/](https://migration.like.co) and fill in the Cosmos wallet address of the Liker ID or Keplr wallet and facilitate the upgrade.
+
+{% hint style="danger" %}
+Do not use and directly input the crypto exchange Cosmos wallet address into [https://migration.like.co/](https://migration.like.co). If that particular exchange required Tag/Memo or other operations, you will not be able to deposit your LikeCoin. Therefore please migratie the LikeCoin to your own wallet before performing other trades or operations.
+{% endhint %}
