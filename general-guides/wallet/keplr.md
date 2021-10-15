@@ -30,9 +30,23 @@ The LikeCoin balance will appear after the transfer is completed.
 
 ![](../../.gitbook/assets/keplr-liker-id-08.png)
 
-### **Send LikeCoin from Keplr to another wallet**
+## **Send LikeCoin from Keplr to another wallet**
 
-****
+You can send LikeCoin via Keplr to other wallet that support LikeCoin. Change the display on top to show LikeCoin chain and click "Send".
+
+![](../../.gitbook/assets/keplr10.png)
+
+On Recipient fill in the cosmos wallet of the receiver, Token is being selected as LIKE, Amount shows the total amount of LIKE in the wallet. Please fill in the number of LikeCoin that need to be sent and reserve some LIKE for the [transaction fee](transaction-fee.md). Memo (Optional) fill in the Tag/Memo which may be required by the receiver. Then click "Send".
+
+![](../../.gitbook/assets/keplr11.png)
+
+On the confirmation screen, check the details again then click "Approve".
+
+![](../../.gitbook/assets/keplr12.png)
+
+Keplr will show Tx is pending and back to the LikeCoin balance screen.
+
+![](../../.gitbook/assets/keplr13.png)
 
 ### **Step 3: Check LikeCoin balance on Keplr**
 
