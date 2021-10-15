@@ -132,7 +132,7 @@
   * [Civic Liker FAQ](user-guide/civic-liker/civic-liker-faq.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
 * [Liker ID](user-guide/liker-id/README.md)
-  * [Register a Liker ID with Liker Land](user-guide/liker-id/register.md)
+  * [Register a Liker ID with Authcore](user-guide/liker-id/register.md)
   * [Register a Liker ID with Keplr](user-guide/liker-id/register-with-keplr.md)
   * [Edit Avatar and Name](user-guide/liker-id/edit-avatar-displayname.md)
   * [Securing my Liker ID](user-guide/liker-id/verifying-email-address.md)

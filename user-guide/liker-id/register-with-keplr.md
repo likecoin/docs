@@ -4,22 +4,23 @@ description: Decentralized Liker ID sign up and LikeCoin management
 
 # Register a Liker ID with Keplr
 
-Besides [registering with an email, GMail or Social Media Login](register.md), users can now register with Keplr and manage their LikeCoin in a decentralized way with their own private key. Users can choose "Sign in with your wallet" on the top right hand corner during sign up/login. Keplr currently supports registering a new Liker ID or bond your existing Keplr wallet with a Liker ID \(Skip Step 1\).
+Besides [registering with an email, GMail or Social Media Login](register.md), users can now register with Keplr and manage their LikeCoin in a decentralized way with their own private key. Users can choose "Sign in with your wallet" on the top right hand corner during sign up/login. Keplr currently supports registering a new Liker ID or bond your existing Keplr wallet with a Liker ID (Skip Step 1).
 
 ### **Comparison**
 
-| **Register a Liker IDwith Liker Land（Authcore sign-in）** | **Register a Liker ID with Keplr** |
-| :--- | :--- |
-| Manage the private key with Authcore secure and frictionless sign-in solution, easy to use | User has to manage his/her own private key, it's safer👍  |
-| Wallet supports LikeCoin only | Wallet supports crypto currencies other than LikeCoin, such as ATOM, OSMO, AKT, CRO, KAVA, etc👍  |
-| Login with [Social logins](social-media-logins.md) \( Google, Facebok, etc \) or email | Login with Keplr only |
-| User friendly user experiences👍  | Must have some knowledge on blockchain and cryptocurrency |
-| Login with [Liker Land mobile app](https://liker.land/getapp) or mobile web👍  | Can only login with Chrome Keplr extension on desktop computer |
-| Enter receiver's Liker ID or wallet address during [LIKE pay](../../general-guides/wallet/like-pay.md)👍  | Need to enter the full wallet address during transfer |
-| Use Liker Land mobile app or stake.like.co to [delegate](../../general-guides/stake/delegation-of-likecoin.md) LikeCoin👍  | Use stake.like.co to delegate LikeCoin |
-| Use stake.like.co to [deposit](../../general-guides/governance/proposal-deposit.md) or [direct vote](../../general-guides/governance/direct-vote.md) for a proposal | Use stake.like.co to deposit or vote for a proposal |
-| [Rewards](../creatortools/rewards/) visualization from each piece of content on Liker Land app👍  | Check rewards by transaction only |
-| Not support | Register [ISCN](../../general-guides/decentralized-publishing/app.like.co.md)👍  |
+| **Register a Liker ID with Authcore**                                                                                                                               | **Register a Liker ID with Keplr**                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Manage the private key with Authcore secure and frictionless sign-in solution, easy to use                                                                          | User has to manage his/her own private key, it's safer:thumbsup:                                          |
+| Wallet supports LikeCoin only                                                                                                                                       | Wallet supports crypto currencies other than LikeCoin, such as ATOM, OSMO, AKT, CRO, KAVA, etc:thumbsup:  |
+| Login with [Social logins](social-media-logins.md) ( Google, Facebok, etc ) or email                                                                                | Login with Keplr only                                                                                     |
+| Can bond with Matters Login:thumbsup:                                                                                                                               | Cannot bond with Matters ID                                                                               |
+| User friendly user experiences:thumbsup:                                                                                                                            | Must have some knowledge on blockchain and cryptocurrency                                                 |
+| Login with [Liker Land mobile app](https://liker.land/getapp) or mobile web:thumbsup:                                                                               | Can only login with Chrome Keplr extension on desktop computer                                            |
+| Enter receiver's Liker ID or wallet address during [LIKE pay](../../general-guides/wallet/like-pay.md):thumbsup:                                                    | Need to enter the full wallet address during transfer                                                     |
+| Use Liker Land mobile app or stake.like.co to [delegate](../../general-guides/stake/delegation-of-likecoin.md) LikeCoin:thumbsup:                                   | Use stake.like.co to delegate LikeCoin                                                                    |
+| Use stake.like.co to [deposit](../../general-guides/governance/proposal-deposit.md) or [direct vote](../../general-guides/governance/direct-vote.md) for a proposal | Use stake.like.co to deposit or vote for a proposal                                                       |
+| [Rewards](../creatortools/rewards/) visualization from each piece of content on Liker Land app:thumbsup:                                                            | Check rewards by transaction only                                                                         |
+| Cannot register ISCN                                                                                                                                                | Register [ISCN](../../general-guides/decentralized-publishing/app.like.co.md):thumbsup:                   |
 
 ### **Video Tutorial**
 
@@ -51,7 +52,7 @@ Please keep your seed phase and password in a safe place. If you forget them you
 
 ### Step 2: Register a Liker ID
 
-On [Liker Land web](https://liker.land/), click "Sign up".
+On [Liker Land web](https://liker.land), click "Sign up".
 
 ![](../../.gitbook/assets/keplr-liker-id-00-en.png)
 
@@ -76,6 +77,12 @@ Fill in your desired Liker ID and email address, then click "Confirm".
 ![](../../.gitbook/assets/keplr-liker-id-05.png)
 
 Liker ID is created and will go back to the Liker Land web.
+
+{% hint style="warning" %}
+Once a Liker ID has been created, the letter combination and login method cannot be changed.  We suggest you keep it, or just create another one. Please note that an email address can only register one Liker ID.
+
+You cannot use the same email address to register a Liker ID with Authcore and Keplr.
+{% endhint %}
 
 ### Step 3: Check the Wallet
 
@@ -103,11 +110,10 @@ You can see your balance.
 
 Moreover, on the top menu of Keplr select "LikeCoin chain".
 
-![](../../.gitbook/assets/keplr-liker-id-07%20%281%29.png)
+![](<../../.gitbook/assets/keplr-liker-id-07 (1).png>)
 
 It shows your LikeCoin balance.
 
 ![](../../.gitbook/assets/keplr-liker-id-08.png)
 
 You may use Keplr to transfer LikeCoin directly. You may also manage your LikeCoin with [stake.like.co](https://stake.like.co) and Keplr together to transfer or delegate. Keplr also supports hardware wallets.
-
