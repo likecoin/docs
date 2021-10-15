@@ -3,7 +3,7 @@
 * [LikeCoin - 去中心出版](README.md)
 * [LikeCoin 答客問](faq.md)
 
-## 📙  指南 <a id="guides"></a>
+## 📙  指南 <a href="guides" id="guides"></a>
 
 * [LikeCoin 項目概覽](guides/about/README.md)
   * [傳媒報導](guides/about/on-the-news.md)
@@ -23,7 +23,7 @@
   * [Big Dipper](guides/wallet/big-dipper.md)
   * [手續費](guides/wallet/transaction-fee.md)
   * [由 ERC-20 升級](guides/wallet/migration/README.md)
-    * [升級 LikeCoin 到 LikeCoin chain](guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
+    * [升級 LikeCoin ERC-20 到 LikeCoin chain](guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
     * [升級 LikeCoin 的常見問題](guides/wallet/migration/migration-faq.md)
   * [FoTan 升級常見問題](guides/wallet/fotan.md)
 * [交易](guides/trade/README.md)
@@ -50,7 +50,7 @@
   * [歷史議案](guides/governance/proposals.md)
   * [LikeCoin Grants 計畫](guides/governance/likecoin-grants.md)
 
-## 💻 去中心應用 <a id="user-guide"></a>
+## 💻 去中心應用 <a href="user-guide" id="user-guide"></a>
 
 * [Liker Land](user-guide/liker-land/README.md)
   * [下載 Liker Land](user-guide/liker-land/download.md)
@@ -117,7 +117,7 @@
   * [購買產品與服務](user-guide/community/products-and-services.md)
 * [詞彙表](user-guide/background.md)
 
-## 🔬  開發者資源 <a id="developer-resources"></a>
+## 🔬  開發者資源 <a href="developer-resources" id="developer-resources"></a>
 
 * [成為驗證人](developer-resources/become-a-validator.md)
 * [開發者](developer-resources/developer.md)
@@ -126,4 +126,3 @@
 
 * [存檔](cun-dang/archive/README.md)
   * [進度更新](cun-dang/archive/updates.md)
-
