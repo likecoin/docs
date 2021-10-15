@@ -108,7 +108,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 {% hint style="danger" %}
 使用 [https://migration.like.co/](https://migration.like.co) 升級時請不要直接輸入交易所的 Cosmos 錢包地址，假如某些交易所需要輸入 Tag/Memo 才能存幣，這樣會導致損失並有機會讓你不能成功存入你的 LikeCoin。請先將 LikeCoin 轉入自己的 Cosmos 錢包地址後才進行其他交易或轉換。
 
-**也不要不使用  **[**https://migration.like.co/**](upgrading-likecoin-erc20-to-likecoin-chain.md#liker-id-yi-bang-ding-metamask-ji-she-jiao-zhang-hao)** 並直接將幣倒進相關的 Smart Contract 地址。**
+**也不要直接將幣倒進相關的 Smart Contract 地址。**你必須使用 [https://migration.like.co/](upgrading-likecoin-erc20-to-likecoin-chain.md#liker-land) 進行升級。
 
 錯誤的升級操作將無法挽回。
 {% endhint %}
