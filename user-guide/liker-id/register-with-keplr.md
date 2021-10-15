@@ -56,6 +56,8 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 ![](../../.gitbook/assets/keplr-liker-id-00.png)
 
+又或者到 like.co/in
+
 點擊右上角「以錢包登入」。
 
 ![](../../.gitbook/assets/keplr-liker-id-01.png)
