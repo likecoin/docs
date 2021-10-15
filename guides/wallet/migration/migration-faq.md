@@ -20,9 +20,9 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 很可能是你從來都沒有綁定以太坊錢包地址到你的 Liker ID，導致你所賺得的 LikeCoin 積存了在系統上還未派出。請你耐心等待幾天再查看。
 
-### 4. 升級過程中不斷出現「Error: NOT\_ENOUGH\_GAS, NEED X.XXXXX」
+### 4. 升級過程中不斷出現「Error: NOT_ENOUGH_GAS, NEED X.XXXXX」
 
-你需要有足夠的 ETH \( NEED X.XXXXX 那個數值）作為碼工費 \( GAS Fee \) 方可完成升級，有關數值計算請參考 [ETH GAS Station](https://ethgasstation.info/)。 
+你需要有足夠的 ETH ( NEED X.XXXXX 那個數值）作為碼工費 ( GAS Fee ) 方可完成升級，有關數值計算請參考 [ETH GAS Station](https://ethgasstation.info)。 
 
 ### **5. 卡在「正在等待 ETH TX」很久**
 
@@ -36,9 +36,9 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 這個錯誤是指偵測不到 MetaMask 電子錢包。請檢查你是否在用 Chrome 瀏覽器，及 MetaMask Chrome extension 是否已安裝好。
 
-### **7. 錯誤：「請用已綁定你的 Liker ID 的以太坊地址 \[0x...\] 來簽署」**
+### **7. 錯誤：「請用已綁定你的 Liker ID 的以太坊地址 \[0x...] 來簽署」**
 
-你正在使用的 MetaMask 的當前電子錢包地址，跟你 Liker ID 綁定的地址不乎。請留意 MetaMask 只是一個電子錢包管理工具，可以管理多個地址。  
+你正在使用的 MetaMask 的當前電子錢包地址，跟你 Liker ID 綁定的地址不乎。請留意 MetaMask 只是一個電子錢包管理工具，可以管理多個地址。\
 請仔細想想：
 
 * 有沒有重新安裝過 MetaMask？
@@ -47,13 +47,4 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 建議你找回你註冊時的 MetaMask 電子錢包，再跑一次升級流程。
 
-假若你懷疑自己遺失了電子錢包的地址，請查看你是否有備份助記詞 \( seed phrase \) 或私鑰。私鑰及助記詞是恢復電子錢包的唯一方法。若你不幸同時遺失了兩者，便像在街上掉了錢包一樣，永遠無法再操作錢包了。
-
-### 8. 我的 LikeCoin 是在交易所中購買，我從來沒有註冊過 Liker ID，可怎樣升級？
-
-請先將 LikeCoin 轉移到一個 Metamask 錢包，然後[註冊 Liker ID](../../../user-guide/liker-id/) 又或者[開設 Keplr 錢包](../keplr.md)。接下來到 [https://migration.like.co/](https://migration.like.co/) 輸入該 Liker ID 或 Keplr 的 Cosmos 地址，即可進行升級。
-
-{% hint style="danger" %}
-使用 [https://migration.like.co/](https://migration.like.co/) 升級時請不要直接輸入交易所的 Cosmos 錢包地址，例如某些交易所需要輸入 tag/memo 才能存幣，這樣會導致損失並有機會讓你不能認領你的 LikeCoin。請先將 LikeCoin 轉入自己的錢包才進行其他交易或轉換。
-{% endhint %}
-
+假若你懷疑自己遺失了電子錢包的地址，請查看你是否有備份助記詞 ( Seed Phrase ) 或私鑰。私鑰及助記詞是恢復電子錢包的唯一方法。若你不幸同時遺失了兩者，便像在街上掉了錢包一樣，永遠無法再操作錢包了。
