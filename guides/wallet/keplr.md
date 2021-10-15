@@ -48,7 +48,7 @@ Keplr 出現 Tx is pending 並回到 LikeCoin 餘額畫面。
 
 ## 使用 stake.like.co 查看交易明細、轉帳及委託
 
-你也可以使用 [stake.like.co](http://stake.like.co) 搭配 Keplr 進行各種操作包括轉帳和委託等，及透過硬件錢包使用 Keplr。
+你可以使用 [stake.like.co](http://stake.like.co) 搭配 Keplr 進行各種操作包括查看交易明細、轉帳及委託等。
 
 到 [stake.like.co](http://stake.like.co) 網站，點擊「Keplr Browser Extension」。
 
