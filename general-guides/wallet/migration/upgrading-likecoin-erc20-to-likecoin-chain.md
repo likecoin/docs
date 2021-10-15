@@ -103,7 +103,7 @@ Connect the hardware wallet with MetaMask, go to [https://migration.like.co/](ht
 {% hint style="danger" %}
 Do not use and directly input the crypto exchange Cosmos wallet address into [https://migration.like.co/](https://migration.like.co). If that particular exchange required Tag/Memo or other operations, you will not be able to deposit your LikeCoin. Therefore please migratie the LikeCoin to your own wallet before performing other trades or operations.
 
-**Do not directly send your LikeCoin to the smart contract address. You really have to use   **[**https://migration.like.co/**](https://migration.like.co)** to facilitate migration.**
+**Do not directly send your LikeCoin to the smart contract address. **You really have to use   [https://migration.like.co/](https://migration.like.co) to facilitate migration.
 
 Wrongly operated the LikeCoin ERC-20 migration will result in irreversible failure**.**
 {% endhint %}
