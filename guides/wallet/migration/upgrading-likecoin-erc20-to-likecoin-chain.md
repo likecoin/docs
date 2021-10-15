@@ -20,7 +20,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 ### 步驟 1：登入 MetaMask
 
-使用 MetaMask 登入與你 Liker ID 戶口綁定的 MetaMask 錢包。假如你更換了電腦，請以 [Secret Recovery Phrase](https://community.metamask.io/t/what-is-a-secret-recovery-phrase-and-how-to-keep-your-crypto-wallet-secure/3440) 或私鑰重新導入錢包。
+使用 MetaMask 登入與你 Liker ID 綁定的 MetaMask 錢包。假如你更換了電腦，請以 [Secret Recovery Phrase](https://community.metamask.io/t/what-is-a-secret-recovery-phrase-and-how-to-keep-your-crypto-wallet-secure/3440) 或私鑰重新導入錢包。
 
 {% hint style="danger" %}
 留意如果你經已不能操作與 Liker ID 綁定的 MetaMask 錢包將不能升級，也不能取用 MetaMask 錢包內的 LikeCoin。
