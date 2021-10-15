@@ -48,29 +48,9 @@ Keplr will show Tx is pending and back to the LikeCoin balance screen.
 
 ![](../../.gitbook/assets/keplr13.png)
 
-### **Step 3: Check LikeCoin balance on Keplr**
+## **Use stake.like.co to check LikeCoin transaction details, transfer or delegate**
 
-Go to [stake.like.co](http://stake.like.co) and click "Keplr Browser Extension".
-
-
-
-![](../../.gitbook/assets/keplr06.png)
-
-Then click "Approve".
-
-![](../../.gitbook/assets/keplr07.png)
-
-Click on "Approve" again.
-
-![](../../.gitbook/assets/keplr08.png)
-
-You can see your balance.
-
-![](../../.gitbook/assets/keplr09.png)
-
-You may use Keplr to transfer LikeCoin directly. You may also manage your LikeCoin with [stake.like.co](https://stake.like.co) and Keplr together to transfer or delegate. Keplr also supports hardware wallets.
-
-### Step 4: Manage LikeCoin on stake.like.co
+You may manage your LikeCoin with [stake.like.co](https://stake.like.co) and Keplr together to check the LikeCoin transaction details, transfer or delegate.
 
 Go to [stake.like.co](http://stake.like.co) and click "Keplr Browser Extension".
 
@@ -87,5 +67,3 @@ Click on "Approve" again.
 You can see your balance.
 
 ![](../../.gitbook/assets/keplr09.png)
-
-You may use Keplr to transfer LikeCoin directly. You may also manage your LikeCoin with [stake.like.co](https://stake.like.co) and Keplr together to transfer or delegate. Keplr also supports hardware wallets.
