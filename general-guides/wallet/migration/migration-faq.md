@@ -48,4 +48,10 @@ Suggest to use the MetaMask wallet when you register your Liker ID and try to mi
 
 If you lost your wallet address, please check if you have backed up the seed phrase or not. Private key or seed phrase are the only way to recover a crypto wallet. If you lose both, you will never be able access your wallet again.
 
+
+
+### 8. Error: "Your MetaMask wallet does not register any Liker ID, if you need to register a new account, please go back and use Authcore"
+
+The same reason as 7.
+
 ### &#xD;
