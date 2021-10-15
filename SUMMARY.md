@@ -3,7 +3,7 @@
 * [Decentralized Publishing](README.md)
 * [FAQ](faq.md)
 
-## 🔬 Developer Guide <a id="developer"></a>
+## 🔬 Developer Guide <a href="developer" id="developer"></a>
 
 * [Developer Introduction](developer/introduction.md)
 * [LikeCoin chain API](developer/likecoin-chain-api/README.md)
@@ -13,7 +13,7 @@
   * [Setup local test node](developer/likecoin-chain-api/setup-local-test-node.md)
   * [Sample](developer/likecoin-chain-api/sample/README.md)
     * [Javascript](developer/likecoin-chain-api/sample/javascript.md)
-    * [CosmJS \(Recommended\)](developer/likecoin-chain-api/sample/cosmjs/README.md)
+    * [CosmJS (Recommended)](developer/likecoin-chain-api/sample/cosmjs/README.md)
       * [Keplr](developer/likecoin-chain-api/sample/cosmjs/keplr.md)
       * [ISCN](developer/likecoin-chain-api/sample/cosmjs/iscn.md)
 * [LikeCoin API](developer/likecoin-api/README.md)
@@ -44,12 +44,12 @@
   * [ISCN IPFS plugin](developer/international-standard-content-number-iscn/iscn-ipfs-plugin.md)
 * [Ecosystem Statistics Badge](developer/badge.md)
 
-## 👥 Validator Guide <a id="validator"></a>
+## 👥 Validator Guide <a href="validator" id="validator"></a>
 
 * [Technical Introduction](validator/technical-introduction.md)
 * [LikeCoin chain node](validator/likecoin-chain-node/README.md)
   * [Setup local test node](validator/likecoin-chain-node/setup-local-test-node.md)
-  * [Setup a node \(mainnet / public testnet\)](validator/likecoin-chain-node/setup-a-node.md)
+  * [Setup a node (mainnet / public testnet)](validator/likecoin-chain-node/setup-a-node.md)
   * [Node configuration](validator/likecoin-chain-node/node-configuration.md)
   * [Command line interface](validator/likecoin-chain-node/command-line-interface/README.md)
     * [Useful commands](validator/likecoin-chain-node/command-line-interface/useful-commands.md)
@@ -86,7 +86,7 @@
   * [Big Dipper](general-guides/wallet/big-dipper.md)
   * [Transaction Fee](general-guides/wallet/transaction-fee.md)
   * [Migrating from ERC-20](general-guides/wallet/migration/README.md)
-    * [Assisted Migration](general-guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
+    * [Upgrade LikeCoin to LikeCoin chain](general-guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
     * [LikeCoin Migration FAQ](general-guides/wallet/migration/migration-faq.md)
   * [FoTan upgrade FAQ](general-guides/wallet/fotan.md)
 * [Trade](general-guides/trade/README.md)
@@ -113,7 +113,7 @@
   * [Proposals](general-guides/governance/proposals.md)
   * [LikeCoin Grants Program](general-guides/governance/likecoin-grants.md)
 
-## 💻  DApp <a id="user-guide"></a>
+## 💻  DApp <a href="user-guide" id="user-guide"></a>
 
 * [Liker Land](user-guide/liker-land/README.md)
   * [Download Liker Land](user-guide/liker-land/download.md)
@@ -183,7 +183,7 @@
 ## Archive
 
 * [Archive](archive/archive/README.md)
-  * [FoTan Upgrade \(Testnet\)](archive/archive/fotan-upgrade-testnet/README.md)
+  * [FoTan Upgrade (Testnet)](archive/archive/fotan-upgrade-testnet/README.md)
     * [Upgrade Step-by-step](archive/archive/fotan-upgrade-testnet/upgrade-step-by-step.md)
   * [Upgrade Step-by-step](archive/archive/upgrade-step-by-step-1.md)
   * [Progress Updates](archive/archive/updates/README.md)
@@ -207,4 +207,3 @@
     * [2020.04.27](archive/archive/updates/2020.04.27.md)
     * [2020.04.20](archive/archive/updates/20200420.md)
     * [2020.04.13](archive/archive/updates/20200413.md)
-

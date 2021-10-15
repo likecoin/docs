@@ -4,7 +4,7 @@ description: >-
   MetaMask anymore
 ---
 
-# Assisted Migration
+# Upgrade LikeCoin to LikeCoin chain
 
 LikeCoin has been migrated to the Cosmos Hub ecosystem [LikeCoin chain](../../governance/likecoin-chain.md) from ERC-20 and users no longer need MetaMask wallet to login but should use [Liker Land mobile app](https://liker.land/getapp) or Keplr instead.  This document is for legacy users who created Liker ID with MetaMask and did not complete the Liker ID migration process only.
 
@@ -94,12 +94,16 @@ You may want to check this out for checking the Cosmos wallet address on Big Dip
 
 ### If you purchased your LikeCoin in a crypto exchange
 
-Transfer your LikeCoin to a Metamask wallet, then go to [https://migration.like.co/](https://migration.like.co) and fill in the Cosmos wallet address of the Liker ID or Keplr wallet and facilitate the upgrade.
+Transfer your LikeCoin to a MetaMask wallet, then go to [https://migration.like.co/](https://migration.like.co) and fill in the Cosmos wallet address of the Liker ID or Keplr wallet and facilitate the upgrade.
 
 ### If your LikeCoin is stored in a hardware wallet
 
-Connect the hardware wallet with Metamask, go to [https://migration.like.co/](https://migration.like.co) and fill in the Cosmos wallet address of the Liker ID or Keplr wallet and facilitate the upgrade.
+Connect the hardware wallet with MetaMask, go to [https://migration.like.co/](https://migration.like.co) and fill in the Cosmos wallet address of the Liker ID or Keplr wallet and facilitate the upgrade.
 
 {% hint style="danger" %}
 Do not use and directly input the crypto exchange Cosmos wallet address into [https://migration.like.co/](https://migration.like.co). If that particular exchange required Tag/Memo or other operations, you will not be able to deposit your LikeCoin. Therefore please migratie the LikeCoin to your own wallet before performing other trades or operations.
+
+**Do not directly send your LikeCoin to the smart contract address and not using  **[**https://migration.like.co/**](https://migration.like.co)**.**
+
+Wrongly operated the LikeCoin ERC-20 migration will result in irreversible failure**.**
 {% endhint %}
