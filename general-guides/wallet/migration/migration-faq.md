@@ -52,6 +52,6 @@ If you lost your wallet address, please check if you have backed up the seed phr
 
 ### 8. Error: "Your MetaMask wallet does not register any Liker ID, if you need to register a new account, please go back and use Authcore"
 
-The same reason as 7.
+Same reason as 7.
 
 ### &#xD;
