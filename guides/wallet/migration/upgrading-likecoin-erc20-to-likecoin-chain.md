@@ -23,7 +23,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 使用 MetaMask 登入與你 Liker ID 戶口綁定的 MetaMask 錢包。假如你更換了電腦，請以 [Secret Recovery Phrase](https://community.metamask.io/t/what-is-a-secret-recovery-phrase-and-how-to-keep-your-crypto-wallet-secure/3440) 或私鑰重新導入錢包。
 
 {% hint style="danger" %}
-留意如果你經已不能操作與 Liker ID 相連的 MetaMask 錢包將不能升級，也不能取用於 MetaMask 錢包內的 LikeCoin。
+留意如果你經已不能操作與 Liker ID 綁定的 MetaMask 錢包將不能升級，也不能取用於 MetaMask 錢包內的 LikeCoin。
 
 此外，使用與 Liker ID 無關的 MetaMask 也不能進行升級操作，亦代表不能於 LikeCoin chain 重新使用該 Liker ID。
 
@@ -81,7 +81,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 ## Liker ID 已綁定 MetaMask 但沒有綁定社交帳號
 
-若你過往只以 MetaMask 電子錢包登入，從未綁定過其他的社交帳號登入方法的話，也可參照以上步驟，但請在登入頁面的右上角選擇「以錢包登入」後再選「MetaMask」。過程中，系統會要求你設定一組密碼。[](https://matters.news/@likecoin/my-eth-shop%E5%B0%87%E6%94%AF%E6%8F%B4%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84like-coin-zdpuAwgQLCHC7afNfU6Cn7EuUeLT6MKUTptUGj5i9jgqPt6Kj)
+若你過往只以 MetaMask 錢包登入，從未綁定過其他的社交帳號登入方法的話，也可參照以上步驟，但請在登入頁面的右上角選擇「以錢包登入」後再選「MetaMask」。過程中，系統會要求你設定一組密碼。[](https://matters.news/@likecoin/my-eth-shop%E5%B0%87%E6%94%AF%E6%8F%B4%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84like-coin-zdpuAwgQLCHC7afNfU6Cn7EuUeLT6MKUTptUGj5i9jgqPt6Kj)
 
 ![](../../../.gitbook/assets/keplr-liker-id-01.png)
 
