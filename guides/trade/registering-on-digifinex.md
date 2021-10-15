@@ -4,9 +4,9 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 # 註冊 DigiFinex 帳號
 
-在 DigiFinex 買賣 LikeCoin，請先註冊帳號。請到 [DigiFinex 網站](https://www.digifinex.com/)並按以下步驟註冊：
+在 DigiFinex 買賣 LikeCoin，請先註冊帳號。請到 [DigiFinex 網站](https://www.digifinex.com)並按以下步驟註冊：
 
-### 步驟一：確認密碼，及電子郵箱或手機號碼 <a id="1"></a>
+### 步驟一：確認密碼，及電子郵箱或手機號碼 <a href="1" id="1"></a>
 
 於網站右上角，點選「註冊」
 
@@ -36,11 +36,11 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 #### DigiFinex 官方教學
 
-> [【新手教程】- 如何註冊帳號](https://digifinex.zendesk.com/hc/zh-tw/articles/360006576493--%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B-%E5%A6%82%E4%BD%95%E8%A8%BB%E5%86%8A%E5%B8%B3%E8%99%9F)
+> [【新手教程】- 如何註冊帳號>>> ](https://digifinex.zendesk.com/hc/zh-tw/articles/360006576493--%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B-%E5%A6%82%E4%BD%95%E8%A8%BB%E5%86%8A%E5%B8%B3%E8%99%9F)
 
-### 步驟二：身份認證 <a id="2"></a>
+### 步驟二：身份認證 <a href="2" id="2"></a>
 
-在「基本訊息」頁面的「身份認證」欄點選「未認證」出現下圖。掃描二維碼或到 [https://download.digifinex.xyz/](https://download.digifinex.xyz/) 下載 DigiFinex app
+在「基本訊息」頁面的「身份認證」欄點選「未認證」出現下圖。掃描二維碼或到 [https://download.digifinex.xyz/](https://download.digifinex.xyz) 下載 DigiFinex app
 
 ![](../../.gitbook/assets/digifinex-11.png)
 
@@ -48,11 +48,11 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-mobile-1.png)
 
-輸入電子郵箱或手機號碼及密碼，點選 \[登錄\]
+輸入電子郵箱或手機號碼及密碼，點選 \[登錄]
 
 ![](../../.gitbook/assets/digifinex-mobile-2.png)
 
-點選 \[發送\] 並於郵箱或手機取得驗證碼，輸入再點選 \[確定\]
+點選 \[發送] 並於郵箱或手機取得驗證碼，輸入再點選 \[確定]
 
 ![](../../.gitbook/assets/digifinex-mobile-3.png)
 
@@ -60,15 +60,15 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-mobile-4.png)
 
-點選左上角頭像出現選單，再點選 \[帳戶安全\]
+點選左上角頭像出現選單，再點選 \[帳戶安全]
 
 ![](../../.gitbook/assets/digifinex-mobile-5.png)
 
-點選 \[身份認證\] 中的 \[未認證\]
+點選 \[身份認證] 中的 \[未認證]
 
 ![](../../.gitbook/assets/digifinex-mobile-6.png)
 
-填寫實名認證資料，選擇中國大陸用戶或非中國大陸用戶再點選 \[下一步\]
+填寫實名認證資料，選擇中國大陸用戶或非中國大陸用戶再點選 \[下一步]
 
 ![](../../.gitbook/assets/digifinex-mobile-7.png)
 
@@ -90,13 +90,13 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 #### DigiFinex 官方教學
 
-> [【新手教程】- 如何進行實名認證](https://digifinex.zendesk.com/hc/zh-tw/articles/360006473334--%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B-%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8C%E5%AF%A6%E5%90%8D%E8%AA%8D%E8%AD%89)
+> [【新手教程】- 如何進行實名認證>> ](https://digifinex.zendesk.com/hc/zh-tw/articles/360006473334--%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B-%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8C%E5%AF%A6%E5%90%8D%E8%AA%8D%E8%AD%89)
 
-### 步驟三：雙重驗證 <a id="3-google-"></a>
+### 步驟三：雙重驗證 <a href="3-google" id="3-google"></a>
 
 你必須要設定雙重驗證碼否則將不能提幣，請使用手機下載  Google Authenticator 應用程式
 
-[安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
+[安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh_TW)\
 [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
 在「基本訊息」頁面的「雙重驗證」欄點選「未開啟」出現下圖，點選「下一步」
@@ -115,9 +115,8 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 #### DigiFinex 官方教學
 
-> [【谷歌驗證】- 如何開啟谷歌驗證](https://digifinex.zendesk.com/hc/zh-tw/articles/360007869553--%E8%B0%B7%E6%AD%8C%E9%A9%97%E8%AD%89-%E5%A6%82%E4%BD%95%E9%96%8B%E5%95%9F%E8%B0%B7%E6%AD%8C%E9%A9%97%E8%AD%89)
+> [【谷歌驗證】- 如何開啟谷歌驗證>>> ](https://digifinex.zendesk.com/hc/zh-tw/articles/360007869553--%E8%B0%B7%E6%AD%8C%E9%A9%97%E8%AD%89-%E5%A6%82%E4%BD%95%E9%96%8B%E5%95%9F%E8%B0%B7%E6%AD%8C%E9%A9%97%E8%AD%89)
 
 ### 如有疑難，聯絡 DigiFinex 客服
 
 若你在開戶或任何交易所服務的過程中遇到困難，請參考 [DigiFinex 幫助中心](https://digifinex.zendesk.com/hc/zh-tw)或直接聯絡 [DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-tw/articles/360000525241)。點擊 DigiFinex 網站畫面右下角綠色的對話圖示即可獲得支援。
-

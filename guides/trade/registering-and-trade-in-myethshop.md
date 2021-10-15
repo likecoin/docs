@@ -8,11 +8,11 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ### 步驟一：註冊 MyEthShop 帳號並通過實名認證
 
-使用 [MyEthShop](https://www.myethshop.com/) 找換店的服務，必須先於 MyEthShop [開戶](https://www.myethshop.com/register)並通過實名認證。詳情可參考 MyEthShop 官方教學 [MyEthShop 開戶詳細說明](https://myethlabs.wordpress.com/2019/07/12/myethshop%e9%96%8b%e6%88%b6%e8%a9%b3%e7%b4%b0%e8%aa%aa%e6%98%8e/)。
+使用 [MyEthShop](https://www.myethshop.com) 找換店的服務，必須先於 MyEthShop [開戶](https://www.myethshop.com/register)並通過實名認證。詳情可參考 MyEthShop 官方教學 [MyEthShop 開戶詳細說明](https://myethlabs.wordpress.com/2019/07/12/myethshop%E9%96%8B%E6%88%B6%E8%A9%B3%E7%B4%B0%E8%AA%AA%E6%98%8E/)。
 
 ### 步驟二：設定雙重認證
 
-請參考 [MyEthShop雙重驗證\(2FA\)的設定教學](https://myethlabs.wordpress.com/2019/01/24/myethshop%e9%9b%99%e9%87%8d%e9%a9%97%e8%ad%892fa%e7%9a%84%e8%a8%ad%e5%ae%9a%e6%95%99%e5%ad%b8/)。
+請參考 [MyEthShop雙重驗證(2FA)的設定教學](https://myethlabs.wordpress.com/2019/01/24/myethshop%E9%9B%99%E9%87%8D%E9%A9%97%E8%AD%892fa%E7%9A%84%E8%A8%AD%E5%AE%9A%E6%95%99%E5%AD%B8/)。
 
 ### 步驟三：找到 MyEthShop 帳戶的 LikeCoin 錢包地址
 
@@ -26,13 +26,13 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ### 步驟四：轉帳 LikeCoin 到 MyEthShop
 
-打開 [Liker Land 手機應用程式](https://liker.land/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己的 LikeCoin 結餘。點畫面上的 \[LIKE pay\]（下圖紅圈位置）
+打開 [Liker Land 手機應用程式](https://liker.land/getapp)，在畫面右下角選錢包介面，你會在這裡查到自己的 LikeCoin 結餘。點畫面上的 \[LIKE pay]（下圖紅圈位置）
 
-![&#x5728; Liker Land &#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;&#x9322;&#x5305;&#x4ECB;&#x9762;&#x9078;&#x300C;Like pay&#x300D;&#xFF08;&#x7D05;&#x5708;&#xFF09;](../../.gitbook/assets/like-pay-1.png)
+![在 Liker Land 手機應用程式錢包介面選「Like pay」（紅圈）](../../.gitbook/assets/like-pay-1.png)
 
 進入下一頁後，點下圖紅圈位置的二維碼圖示。app 會跳進照相機介面讓你掃描二維碼，請掃描【步驟三】中 MyEthShop 的 LikeCoin 錢包二維碼，或可直接於「收款人的 Liker ID 或錢包地址」填上收款方 MyEthShop 的錢包地址或 Liker ID myethshop
 
-![&#x9EDE;&#x4E0A;&#x5716;&#x7D05;&#x5708;&#x4F4D;&#x7F6E;&#x6253;&#x958B;&#x7167;&#x76F8;&#x6A5F;](../../.gitbook/assets/bitasset-trade-7.png)
+![點上圖紅圈位置打開照相機](../../.gitbook/assets/bitasset-trade-7.png)
 
 輸入你想要轉帳的 LikeCoin 金額，然後點擊「確認」
 
@@ -42,7 +42,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ### 步驟五：複製哈希 Transaction Hash / TXID
 
-回到 Liker Land 手機應用程式錢包介面，往下點擊 \[在 Big Dipper 查看開放數據\]
+回到 Liker Land 手機應用程式錢包介面，往下點擊 \[在 Big Dipper 查看開放數據]
 
 ![](../../.gitbook/assets/bigdipper.png)
 
@@ -52,7 +52,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ![](../../.gitbook/assets/myethshop-04.png)
 
-假如在手機開啟北斗時出現問題，你亦可使用桌面電腦，打開北斗網站 [https://likecoin.bigdipper.live/](https://likecoin.bigdipper.live/) 並在紅箭嘴位置輸入你的錢包地址，同樣可以查看交易內容。
+假如在手機開啟北斗時出現問題，你亦可使用桌面電腦，打開北斗網站 [https://likecoin.bigdipper.live/](https://likecoin.bigdipper.live) 並在紅箭嘴位置輸入你的錢包地址，同樣可以查看交易內容。
 
 ![](../../.gitbook/assets/bigdipper-02.png)
 
@@ -70,7 +70,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 #### MyEthShop 官方教學
 
-> [MYETHSHOP加密貨幣轉入詳細說明](https://myethlabs.wordpress.com/2019/07/16/myethshop-2/)
+> [MYETHSHOP加密貨幣轉入詳細說明> ](https://myethlabs.wordpress.com/2019/07/16/myethshop-2/)
 
 ### 步驟七：選個好價錢買入/賣出
 
@@ -82,7 +82,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 #### MyEthShop 官方教學
 
-> [MYETHSHOP限價盤交易詳細說明](https://myethlabs.wordpress.com/2019/07/16/myethshop%e9%99%90%e5%83%b9%e7%9b%a4%e4%ba%a4%e6%98%93%e8%a9%b3%e7%b4%b0%e8%aa%aa%e6%98%8e/)
+> [MYETHSHOP限價盤交易詳細說明> ](https://myethlabs.wordpress.com/2019/07/16/myethshop%E9%99%90%E5%83%B9%E7%9B%A4%E4%BA%A4%E6%98%93%E8%A9%B3%E7%B4%B0%E8%AA%AA%E6%98%8E/)
 
 ### 步驟八：提幣
 
@@ -90,13 +90,12 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 #### MyEthShop 官方教學
 
-> [MYETHSHOP港幣轉出詳細說明](https://myethlabs.wordpress.com/2019/07/17/myethshop-3/)
+> [MYETHSHOP港幣轉出詳細說明>>> ](https://myethlabs.wordpress.com/2019/07/17/myethshop-3/)
 
-> [MYETHSHOP加密貨幣轉出詳細說明](https://myethlabs.wordpress.com/2019/07/17/myethshop-4/)[](https://medium.com/internet-meme/likecoin-chain-myethshop-715afcbfa03f)
+> [MYETHSHOP加密貨幣轉出詳細說明](https://myethlabs.wordpress.com/2019/07/17/myethshop-4/)[> ](https://medium.com/internet-meme/likecoin-chain-myethshop-715afcbfa03f)
 
-> [MYETHSHOP 交易方法](https://myethlabs.wordpress.com/2019/07/17/myethshop-%e4%ba%a4%e6%98%93%e6%96%b9%e6%b3%95/)
+> [MYETHSHOP 交易方法> ](https://myethlabs.wordpress.com/2019/07/17/myethshop-%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95/)
 
 ### 如有疑難，聯絡 MyEthShop 客服
 
-若你在開戶或任何交易所服務的過程中遇到困難，請參考 [MYETHLABS 實用秘技](https://myethlabs.wordpress.com/category/%e5%af%a6%e7%94%a8%e7%a7%98%e6%8a%80/) 或直接以 Facebook、Whatsapp 或電郵聯絡 MyEthShop 客服，詳情見 [MyEthShop 網頁](https://www.myethshop.com/) 右下角。
-
+若你在開戶或任何交易所服務的過程中遇到困難，請參考 [MYETHLABS 實用秘技](https://myethlabs.wordpress.com/category/%E5%AF%A6%E7%94%A8%E7%A7%98%E6%8A%80/) 或直接以 Facebook、Whatsapp 或電郵聯絡 MyEthShop 客服，詳情見 [MyEthShop 網頁](https://www.myethshop.com) 右下角。

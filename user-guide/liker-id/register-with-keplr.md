@@ -26,7 +26,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 {% embed url="https://www.youtube.com/watch?v=wYnNp8YrxvY" %}
 
-### 步驟一：安裝 Keplr
+### 步驟一：安裝 Keplr 錢包
 
 到 Chrome 線上應用程式商店按「加到 Chrome」安裝 [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)。
 
@@ -56,7 +56,9 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 ![](../../.gitbook/assets/keplr-liker-id-00.png)
 
-又或者到 like.co/in
+又或者到 [like.co/in](https://like.co) 選「建立帳戶」。
+
+![](<../../.gitbook/assets/Keplr Liker ID 000.png>)
 
 點擊右上角「以錢包登入」。
 
@@ -70,11 +72,15 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 ![](../../.gitbook/assets/keplr-liker-id-03-en.png)
 
-此時將彈出 Keplr 視窗，選「Approve」。
+此時將彈出 Keplr 視窗 Chain Add Request，選「Approve」。
 
-![](../../.gitbook/assets/keplr-liker-id-04.png)
+![](<../../.gitbook/assets/Keplr Liker ID 04.png>)
 
-填寫你心儀的 Liker ID 及電郵地址並點擊確認。
+你需要授權 Keplr 與 LikeCoin chain 之間的連結，於 Requesting Connection 選「Approve」。
+
+![](<../../.gitbook/assets/Keplr Liker ID 04dot5.png>)
+
+在歡迎頁填寫你心儀的 Liker ID 及電郵地址並點擊確認。
 
 ![](../../.gitbook/assets/keplr-liker-id-05.png)
 

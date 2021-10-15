@@ -10,9 +10,9 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 然後請執行以下步驟：
 
-步驟一：進入 WordPress 網站管理員頁面並登入（若網址是 www.abc.com ，管理員頁面一般便是 www.abc.com/wp-admin）。  
-  
-步驟二：如圖點擊左方「外掛 \( plugin \)」，再點擊上方「安裝外掛 \( install plugin \)」。
+步驟一：進入 WordPress 網站管理員頁面並登入（若網址是 www.abc.com ，管理員頁面一般便是 www.abc.com/wp-admin）。\
+\
+步驟二：如圖點擊左方「外掛 ( plugin )」，再點擊上方「安裝外掛 ( install plugin )」。
 
 ![](../../.gitbook/assets/wordpress-1.png)
 
@@ -24,7 +24,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 ![](../../.gitbook/assets/wordpress-3.png)
 
-## 設定 LikeCoin 外掛 <a id="448e"></a>
+## 設定 LikeCoin 外掛 <a href="448e" id="448e"></a>
 
 設定讚賞鍵外掛前，請先 [註冊 Liker ID](../liker-id/)。
 
@@ -42,14 +42,14 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 ### 於任何位置顯示 LikeCoin ID
 
-你亦可使用短代碼 \[likecoin\] 在文章中任何位置顯示額外的讚賞鍵。
+你亦可使用短代碼 \[likecoin] 在文章中任何位置顯示額外的讚賞鍵。
 
 ## 如何於一個 WordPress 網站支援多個作者
 
 網站中有很多作者，各人有自己的 Liker ID，可以安裝每個作者的讚賞鍵於他們的作品中嗎？
 
-可以的，這是預設的設定。  
-  
+可以的，這是預設的設定。\
+\
 步驟一：在 LikeCoin 外掛中的「外掛設定」分頁，有一個「啟用網站 Liker ID－強制所有 LikeCoin button 使用網站 Liker ID」的選項。請確保這選項 **\*沒有\*** 被勾選。
 
 ![](../../.gitbook/assets/wordpress-6.png)
@@ -60,11 +60,11 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 ### 廷伸閱讀
 
-> [LikeCoin｜WordPress上如何安裝設定LikeCoin](https://coralive.site/likecoin-wordpress%e4%b8%8a%e5%a6%82%e4%bd%95%e5%ae%89%e8%a3%9d%e8%a8%ad%e5%ae%9alikecoin/)
+> [LikeCoin｜WordPress上如何安裝設定LikeCoin> ](https://coralive.site/likecoin-wordpress%E4%B8%8A%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%9D%E8%A8%AD%E5%AE%9Alikecoin/)
 
 > [請人幫忙分享、留言、拍手的好東西：「可重複使用區塊」](https://xrine.com/gutenburg-%E5%8F%AF%E9%87%8D%E8%A4%87%E4%BD%BF%E7%94%A8%E5%8D%80%E5%A1%8A/)
 
-> [如何在 Medium 和 WordPress 設置錨點 \(Anchor\)](https://bchai.cc/2019/03/30/how-to-setup-anchor-medium-wordpress/)
+> [如何在 Medium 和 WordPress 設置錨點 (Anchor)](https://bchai.cc/2019/03/30/how-to-setup-anchor-medium-wordpress/)
 
 ## 發佈設定（測試版）
 
@@ -79,4 +79,3 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 在 Matters 上發布的作品皆會被上載到星際文件系統（InterPlanetary File System，IPFS）的節點之上。
 
 {% embed url="https://www.youtube.com/watch?v=514hB5znwds" %}
-
