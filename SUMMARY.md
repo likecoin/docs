@@ -86,7 +86,7 @@
   * [Big Dipper](general-guides/wallet/big-dipper.md)
   * [Transaction Fee](general-guides/wallet/transaction-fee.md)
   * [Migrating from ERC-20](general-guides/wallet/migration/README.md)
-    * [Upgrade LikeCoin to LikeCoin chain](general-guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
+    * [Upgrade LikeCoin ERC-20 to LikeCoin chain](general-guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
     * [LikeCoin Migration FAQ](general-guides/wallet/migration/migration-faq.md)
   * [FoTan upgrade FAQ](general-guides/wallet/fotan.md)
 * [Trade](general-guides/trade/README.md)

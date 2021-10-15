@@ -1,10 +1,8 @@
 ---
-description: >-
-  If you have LikeCoin in MetaMask, follow these simple steps. You won't need
-  MetaMask anymore
+description: Please follow the steps carefully
 ---
 
-# Upgrade LikeCoin to LikeCoin chain
+# Upgrade LikeCoin ERC-20 to LikeCoin chain
 
 LikeCoin has been migrated to the Cosmos Hub ecosystem [LikeCoin chain](../../governance/likecoin-chain.md) from ERC-20 and users no longer need MetaMask wallet to login but should use [Liker Land mobile app](https://liker.land/getapp) or Keplr instead.  This document is for legacy users who created Liker ID with MetaMask and did not complete the Liker ID migration process only.
 
