@@ -32,7 +32,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 ### 步驟 2：訪問 Like.co/in <a href="1-likecoin" id="1-likecoin"></a>
 
-由於現在的目的是升級 MetaMask 錢包中的 LikeCoin，所以你必須使用能操作該 MetaMask 錢包地址的電腦來執行以下步驟。
+由於現在的目的是升級 Liker ID 綁定的 MetaMask 錢包中的 LikeCoin，所以你必須使用能操作該 MetaMask 錢包地址的電腦來執行以下步驟。
 
 請以你常用的社交帳戶 ( Google/Facebook/Twitter/Matters ) 登入 [Liker Land](https://liker.land) 再訪問 [https://like.co/in/](https://like.co/in/)。系統會彈出以下視窗。點擊「現在轉移」。
 
