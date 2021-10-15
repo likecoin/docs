@@ -4,7 +4,9 @@ description: 是次升級對 Liker 有甚麼影響？
 
 # FoTan 升級常見問題
 
-LikeCoin chain 將於 2021年8月18日 19:45 GMT+8 晚上升級主鏈由 SheungWan 到 FoTan 版本，此後將支援 [ISCN \( International Standard Content Number \)](../decentralized-publishing/what-is-iscn.md) 內容註冊，及 IBC \( Inter Blockchain Communication \) 以支援跨鏈交易等多項重要功能。屆時驗證人將於 Google Meet 同步進行升級，任何人都歡迎參與線上會議。升級進行期間 Liker Land 所有操作暫停。你對這次升級有疑問嗎？不妨參考以下常見問題。
+LikeCoin chain 經已於 2021年8月18日 19:45 GMT+8 晚上升級主鏈由 SheungWan 到 FoTan 版本，此後將支援 [ISCN ( International Standard Content Number )](../decentralized-publishing/what-is-iscn.md) 內容註冊，及 IBC ( Inter Blockchain Communication ) 以支援跨鏈交易等多項重要功能。當天驗證人於 Google Meet 同步進行升級。升級進行期間 Liker Land 所有操作暫停。
+
+你對這次升級有疑問嗎？不妨參考以下常見問題。
 
 ### 整個升級大約需時多久？
 
@@ -36,5 +38,4 @@ LikeCoin [ERC-20 升級](migration/)到 LikeCoin chain 的方式維持不變，�
 
 ### 假如發現升級後的我 Liker ID 帳戶有問題，可以怎樣做？
 
-請到 [Liker Land 手機應用程式](https://liker.land/getapp)或[網頁版](https://liker.land/)聯絡客服。
-
+請到 [Liker Land 手機應用程式](https://liker.land/getapp)或[網頁版](https://liker.land)聯絡客服。
