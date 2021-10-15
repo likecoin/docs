@@ -10,7 +10,7 @@ description: Buy and Swap LikeCoin. Instantly
 
 **Please be reminded: The transaction amount affects the exchange rate, the system displays real time offers.**
 
-![](../../.gitbook/assets/quick-exchange-1%20%281%29.png)
+![](<../../.gitbook/assets/quick-exchange-1 (1).png>)
 
 ![](../../.gitbook/assets/liquid-qe.gif)
 
@@ -41,17 +41,16 @@ Click on "Buy with VISA", fill in credit card information and pay for it
 
 > [How do I deposit crypto](https://help.liquid.com/en/articles/2275493-how-do-i-deposit-crypto)
 
-> [How long will my crypto deposit take?](https://help.liquid.com/en/articles/3473156-how-long-will-my-crypto-deposit-take)
+> [How long will my crypto deposit take?> ](https://help.liquid.com/en/articles/3473156-how-long-will-my-crypto-deposit-take)
 
-> [How to Buy Crypto Instantly with Liquid Buy and Swap](https://help.liquid.com/en/articles/5143957-how-to-buy-crypto-instantly-with-liquid-buy-and-swap)
+> [How to Buy Crypto Instantly with Liquid Buy and Swap> ](https://help.liquid.com/en/articles/5143957-how-to-buy-crypto-instantly-with-liquid-buy-and-swap)
 
-> [Liquid Buy FAQ](https://help.liquid.com/en/articles/4141955-liquid-buy-faq)
+> [Liquid Buy FAQ> ](https://help.liquid.com/en/articles/4141955-liquid-buy-faq)
 
 > [Liquid Swap FAQ](https://help.liquid.com/en/articles/2607590-liquid-swap-faq)
 
-> [How to withdraw funds from my Liquid account](https://help.liquid.com/en/articles/2275670-how-to-withdraw-funds-from-my-liquid-account)
+> [How to withdraw funds from my Liquid account>> ](https://help.liquid.com/en/articles/2275670-how-to-withdraw-funds-from-my-liquid-account)
 
 {% hint style="info" %}
 Liquid [does not charge fees for incoming cryptos or fiat deposits](https://help.liquid.com/en/articles/3297509-deposit-fees), for information about minimum withdraw amount and other service fees, please check [Fee Structure](https://www.liquid.com/fees/). For the type of fiats supported and their bank processing fee, please check [Liquid Withdrawal fees](https://help.liquid.com/en/articles/3297510-withdrawal-fees).
 {% endhint %}
-

@@ -4,40 +4,49 @@ description: Set up your unique identity
 
 # Edit Avatar and Name
 
-Login [Liker Land](https://liker.land/) and visit [https://like.co/in/settings](https://like.co/in/settings), the following appears. Please check on the avatar and profile name to change them.  
+Login [Liker Land](https://liker.land) and visit [https://like.co/in/settings](https://like.co/in/settings), the following appears. Please check on the avatar and profile name to change them.\
 
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDKVP-tBfwmogZNEzX9%2F-MDKVrXUT_uqkeoRnrVO%2Fedit-avator-displayname.png?alt=media&token=19230b80-bfd2-4ae3-b7dc-5077a5304169)
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDKVP-tBfwmogZNEzX9%2F-MDKVrXUT_uqkeoRnrVO%2Fedit-avator-displayname.png?alt=media\&token=19230b80-bfd2-4ae3-b7dc-5077a5304169)
 
 Your name and avatar will appear in various Liker Land scenarios:
 
 ### Sponsor Link
 
-{% page-ref page="../creatortools/sponsor-link.md" %}
+{% content-ref url="../creatortools/sponsor-link.md" %}
+[sponsor-link.md](../creatortools/sponsor-link.md)
+{% endcontent-ref %}
 
 ![](../../.gitbook/assets/sponsor-link-en.png)
 
 ### Portfolio Page
 
-{% page-ref page="../creatortools/portfolio-page.md" %}
+{% content-ref url="../creatortools/portfolio-page.md" %}
+[portfolio-page.md](../creatortools/portfolio-page.md)
+{% endcontent-ref %}
 
 ![](../../.gitbook/assets/likerid-avatar-en.png)
 
 ### LikeCoin button
 
-{% page-ref page="../creator/" %}
+{% content-ref url="../creator/" %}
+[creator](../creator/)
+{% endcontent-ref %}
 
 ![](../../.gitbook/assets/avatar.png)
 
 ### Liker Land app and web
 
-{% page-ref page="../liker-land/download.md" %}
+{% content-ref url="../liker-land/download.md" %}
+[download.md](../liker-land/download.md)
+{% endcontent-ref %}
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJwVJtgYRij9lbzkTP%2F-MDJxZmmtXywRtonx1-U%2Fimg_2452.jpg?alt=media&token=0b156d94-f407-4711-83ce-948d342c7892)
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJwVJtgYRij9lbzkTP%2F-MDJxZmmtXywRtonx1-U%2Fimg\_2452.jpg?alt=media\&token=0b156d94-f407-4711-83ce-948d342c7892)
 
 ### LIKE pay
 
-{% page-ref page="../../general-guides/wallet/like-pay.md" %}
+{% content-ref url="../../general-guides/wallet/like-pay.md" %}
+[like-pay.md](../../general-guides/wallet/like-pay.md)
+{% endcontent-ref %}
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M0wFlrQDwJgggiEM_rl%2F-M1UMYC6AP2gocep0YVW%2FIMG_2453.jpg?alt=media&token=c997d816-61a7-4bfa-a1a1-f319227fa636)
-
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M0wFlrQDwJgggiEM_rl%2F-M1UMYC6AP2gocep0YVW%2FIMG\_2453.jpg?alt=media\&token=c997d816-61a7-4bfa-a1a1-f319227fa636)

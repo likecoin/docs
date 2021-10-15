@@ -8,11 +8,11 @@ Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co
 
 ## Subscribe to a content creator
 
-### Step 1: Target your favourite content creator
+### Step 1: Target your favourite content creator&#xD;
 
 You can support your content creator starting from the following:
 
-* Click on the [sponsor link](../creatortools/sponsor-link.md) provided by the content creator, for example  [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic%20)
+* Click on the [sponsor link](../creatortools/sponsor-link.md) provided by the content creator, for example  [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic)
 * Click on the "Become a Civic Liker" button on the content creator's   [Portfolio Page](../creatortools/portfolio-page.md)
 
 ![](../../.gitbook/assets/register-civic-liker-1-en.png)
@@ -21,7 +21,7 @@ Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co
 
 ![](../../.gitbook/assets/register-civic-liker-2.png)
 
-* Become a Civic Liker on [Matters](https://matters.news/)
+* Become a Civic Liker on [Matters](https://matters.news)
 
 ![](../../.gitbook/assets/register-civic-liker-10.png)
 
@@ -51,7 +51,7 @@ Fill in your credit card information and then click "subscribe / 訂閱".
 
 ### Step 5: Becoming a Civic Liker
 
-After completing the previous step, a pop-up appears saying that "You have become the Civic Liker of \[Content Creator name\]".
+After completing the previous step, a pop-up appears saying that "You have become the Civic Liker of \[Content Creator name]".
 
 ![](../../.gitbook/assets/register-civic-liker-6point5-en.png)
 
@@ -61,7 +61,7 @@ You can also go to his/her Portfolio Page and check out that you are "Supporting
 
 ### Step 6:  Manage Civic Liker Subscription
 
-Login in [Liker Land web](https://liker.land/) and select "[Civic Liker](https://liker.land/civic/dashboard)'' on the menu on the right hand side, you can manage payment methods and check your billing history. You can also check out who you are supporting and change the monthly supporting amount, click "Edit" on the content creator that you subscribed to.
+Login in [Liker Land web](https://liker.land) and select "[Civic Liker](https://liker.land/civic/dashboard)'' on the menu on the right hand side, you can manage payment methods and check your billing history. You can also check out who you are supporting and change the monthly supporting amount, click "Edit" on the content creator that you subscribed to.
 
 ![](../../.gitbook/assets/civic-liker-menu-en.png)
 
@@ -85,7 +85,7 @@ Please subscribe to the 1st content creator. Then follow the same steps to subsc
 
 ### Step 1: **Identify** "Special Subscription"
 
-Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "Civic Liker".
+Login in [Liker Land web](https://liker.land), click on the menu at the top right hand corner, select "Civic Liker".
 
 ![](../../.gitbook/assets/civic-liker-menu-en.png)
 
@@ -112,4 +112,3 @@ Refer to [Subscribe to a content creator Fill in your credit card information](b
 On "You are supporting", Civic Liker Classic is "Active".
 
 ![](../../.gitbook/assets/subscribe-civic-liker-classic-04-en.png)
-

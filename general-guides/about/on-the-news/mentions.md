@@ -12,7 +12,7 @@
 
 ### 04/18 明報
 
-[未來城市：熱潮捲到香港 fans贊助模式 養起創作人？](https://news.mingpao.com/pns/%e5%89%af%e5%88%8a/article/20210418/s00005/1618684493864/%e6%9c%aa%e4%be%86%e5%9f%8e%e5%b8%82-%e7%86%b1%e6%bd%ae%e6%8d%b2%e5%88%b0%e9%a6%99%e6%b8%af-fans%e8%b4%8a%e5%8a%a9%e6%a8%a1%e5%bc%8f-%e9%a4%8a%e8%b5%b7%e5%89%b5%e4%bd%9c%e4%ba%ba)
+[未來城市：熱潮捲到香港 fans贊助模式 養起創作人？](https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20210418/s00005/1618684493864/%E6%9C%AA%E4%BE%86%E5%9F%8E%E5%B8%82-%E7%86%B1%E6%BD%AE%E6%8D%B2%E5%88%B0%E9%A6%99%E6%B8%AF-fans%E8%B4%8A%E5%8A%A9%E6%A8%A1%E5%BC%8F-%E9%A4%8A%E8%B5%B7%E5%89%B5%E4%BD%9C%E4%BA%BA)
 
 ### 04/17 香港蘋果日報 尹思哲專欄
 
@@ -20,7 +20,7 @@
 
 ### 03/23 theDesk Hong Kong
 
-香港傳媒再無大台，記者應重新思考其角色 【下集】 \| 眾新聞總編輯及行政總裁李月華 Daisy Li
+香港傳媒再無大台，記者應重新思考其角色 【下集】 | 眾新聞總編輯及行政總裁李月華 Daisy Li
 
 {% embed url="https://www.youtube.com/watch?v=rSEXpn7RmGs" %}
 
@@ -28,17 +28,17 @@
 
 [菜鳥再談加密幣](https://skypost.ulifestyle.com.hk/column/article/2853178/)
 
-### 01/13 Heinrich Böll Stiftung Hong Kong \| Asia Global Dialogue
+### 01/13 Heinrich Böll Stiftung Hong Kong | Asia Global Dialogue
 
 [Contribution to Creativity](https://hk.boell.org/en/2021/01/13/contribution-creativity)
 {% endtab %}
 
 {% tab title="2020" %}
-### 12/11 晴報 黃雅麗專欄
+### 12/11 晴報 黃雅麗專欄&#xD;
 
 [當你失去銀行戶口時](https://skypost.ulifestyle.com.hk/column/article/2825631/%E7%95%B6%E4%BD%A0%E5%A4%B1%E5%8E%BB%E9%8A%80%E8%A1%8C%E6%88%B6%E5%8F%A3%E6%99%82)
 
-[當你失去銀行戶口](https://leonawong.hk/2020/12/11/%e7%95%b6%e4%bd%a0%e5%a4%b1%e5%8e%bb%e9%8a%80%e8%a1%8c%e6%88%b6%e5%8f%a3/)
+[當你失去銀行戶口](https://leonawong.hk/2020/12/11/%E7%95%B6%E4%BD%A0%E5%A4%B1%E5%8E%BB%E9%8A%80%E8%A1%8C%E6%88%B6%E5%8F%A3/)
 
 ### 12/06 明報
 
@@ -72,7 +72,7 @@
 
 [數位政治教材──讀《區塊鏈社會學》](https://paratext.hk/?p=2822)
 
-### 08/14 晴報 黃雅麗專欄
+### 08/14 晴報 黃雅麗專欄&#xD;
 
 [《區塊鏈社會學》](https://skypost.ulifestyle.com.hk/column/article/2723925/%E3%80%8A%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A4%BE%E6%9C%83%E5%AD%B8%E3%80%8B)
 
@@ -106,7 +106,7 @@
 
 [區塊鍵、流動民主與基督教堂會去中心化的初步思考](https://faith100.media/%E5%8D%80%E5%A1%8A%E9%8D%B5%E3%80%81%E6%B5%81%E5%8B%95%E6%B0%91%E4%B8%BB%E8%88%87%E5%9F%BA%E7%9D%A3%E6%95%99%E5%A0%82%E6%9C%83%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E5%88%9D%E6%AD%A5%E6%80%9D/63010)
 
-### 03/03 INSIDE 許明恩專欄
+### 03/03 INSIDE 許明恩專欄&#xD;
 
 [區塊鏈的《世紀帝國》學](https://www.inside.com.tw/article/19084-blockchain-and-Age-of-Empires)
 
@@ -116,7 +116,7 @@
 
 ### 02/01 信報財經月刊 515期
 
-[「無大台」自主經濟 黃色代幣聲稱三大優勢](http://ebook.hkej.com/magazine/magazine/tablet/monthlyMob.issue_preview2.php?env=PROD&p_issno=515)
+[「無大台」自主經濟 黃色代幣聲稱三大優勢](http://ebook.hkej.com/magazine/magazine/tablet/monthlyMob.issue_preview2.php?env=PROD\&p_issno=515)
 {% endtab %}
 
 {% tab title="2019" %}
@@ -134,7 +134,7 @@
 
 ### 12/18 CUHK 
 
-[CU Alumni Magazine \(December 2019\)](https://issuu.com/cuhk_alumni_publications/docs/201912)  第33頁
+[CU Alumni Magazine (December 2019)](https://issuu.com/cuhk_alumni_publications/docs/201912)  第33頁
 
 ### 12/24 立場新聞 利世民專欄
 
@@ -160,7 +160,7 @@
 
 [如果說 Medium 是以 iPhone 的手法演繹媒體，Matters x LikeCoin 就是以 Android 的進路建構開放媒體生態](https://blockcast.it/2019/10/16/the-difference-between-medium-and-matters-x-likecoin/)
 
-### 09/23 明報 沈旭暉專欄
+### 09/23 明報 沈旭暉專欄&#xD;
 
 [「時代革命」：工業革命4.0 與「真．香港」的未來	](https://simonshen.blog/2019/09/23/%E3%80%8C%E6%99%82%E4%BB%A3%E9%9D%A9%E5%91%BD%E3%80%8D%EF%BC%9A%E5%B7%A5%E6%A5%AD%E9%9D%A9%E5%91%BD4-0-%E8%88%87%E3%80%8C%E7%9C%9F%EF%BC%8E%E9%A6%99%E6%B8%AF%E3%80%8D%E7%9A%84%E6%9C%AA%E4%BE%86/)
 
@@ -194,7 +194,7 @@
 
 [LikeChain 讚賞鏈悄悄地產生首個區塊了](https://www.thestandnews.com/technology/likechain-%E8%AE%9A%E8%B3%9E%E9%8F%88%E6%82%84%E6%82%84%E5%9C%B0%E7%94%A2%E7%94%9F%E9%A6%96%E5%80%8B%E5%8D%80%E5%A1%8A%E4%BA%86/)
 
-### 04/10 香港蘋果日報
+### 04/10 香港蘋果日報&#xD;
 
 [蘋人誌：香港仔向世界出發　經營廣東話](https://hk.appledaily.com/local/20190410/IYEODKRCTOLLPKKFC4ABCDBUXY/)
 
@@ -202,9 +202,9 @@
 
 [『沉香视野』未来已来：区块链在香港](http://cdhk.org/blockchainhk)
 
-### 3/24《財富潛藏區塊鏈金融革命2.0》 亂博\|伍展揚著 第112頁
+### 3/24《財富潛藏區塊鏈金融革命2.0》 亂博|伍展揚著 第112頁
 
-[為何要 ICO 募資？](https://books.google.com.hk/books?id=gg2ODwAAQBAJ&printsec=frontcover&dq=%E8%B2%A1%E5%AF%8C%E6%BD%9B%E8%97%8F%E5%8D%80%E5%A1%8A%E9%8F%88%E9%87%91%E8%9E%8D%E9%9D%A9%E5%91%BD2.0&hl=zh-TW&sa=X&ved=2ahUKEwjUv5D7lIvrAhXVa94KHTptABAQ6AEwAHoECAUQAg#v=onepage&q=%E8%B2%A1%E5%AF%8C%E6%BD%9B%E8%97%8F%E5%8D%80%E5%A1%8A%E9%8F%88%E9%87%91%E8%9E%8D%E9%9D%A9%E5%91%BD2.0&f=false)
+[為何要 ICO 募資？](https://books.google.com.hk/books?id=gg2ODwAAQBAJ\&printsec=frontcover\&dq=%E8%B2%A1%E5%AF%8C%E6%BD%9B%E8%97%8F%E5%8D%80%E5%A1%8A%E9%8F%88%E9%87%91%E8%9E%8D%E9%9D%A9%E5%91%BD2.0\&hl=zh-TW\&sa=X\&ved=2ahUKEwjUv5D7lIvrAhXVa94KHTptABAQ6AEwAHoECAUQAg#v=onepage\&q=%E8%B2%A1%E5%AF%8C%E6%BD%9B%E8%97%8F%E5%8D%80%E5%A1%8A%E9%8F%88%E9%87%91%E8%9E%8D%E9%9D%A9%E5%91%BD2.0\&f=false)
 
 ### 02/07 香港蘋果日報 宋漢生專欄
 
@@ -242,7 +242,7 @@
 
 [區塊鏈Vs互聯網](https://skypost.ulifestyle.com.hk/column/article/2145330/%E5%8D%80%E5%A1%8A%E9%8F%88Vs%E4%BA%92%E8%81%AF%E7%B6%B2)
 
-### 08/17 晴報 黃雅麗專欄
+### 08/17 晴報 黃雅麗專欄&#xD;
 
 [菜鳥初涉加密幣](https://skypost.ulifestyle.com.hk/column/article/2139805/%E8%8F%9C%E9%B3%A5%E5%88%9D%E6%B6%89%E5%8A%A0%E5%AF%86%E5%B9%A3)
 
@@ -306,21 +306,21 @@
 
 ### 05/01 信報財經月刊 494 期 徐家健、梁天卓、曾國平 訪問
 
-[ICO 短炒長揸 低流動性有溢價](https://ebook.hkej.com/magazine/magazine/tablet/monthly.issue_preview.php?env=PROD&p_issno=494)
+[ICO 短炒長揸 低流動性有溢價](https://ebook.hkej.com/magazine/magazine/tablet/monthly.issue_preview.php?env=PROD\&p_issno=494)
 
 ### 04/17 明報 章濤專欄
 
-[專欄﹕以太幣或名過其實 ／文﹕章濤](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20180417/s00002/1523902234962/%e5%b0%88%e6%ac%84-%e4%bb%a5%e5%a4%aa%e5%b9%a3%e6%88%96%e5%90%8d%e9%81%8e%e5%85%b6%e5%af%a6-%e6%96%87-%e7%ab%a0%e6%bf%a4)
+[專欄﹕以太幣或名過其實 ／文﹕章濤](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20180417/s00002/1523902234962/%E5%B0%88%E6%AC%84-%E4%BB%A5%E5%A4%AA%E5%B9%A3%E6%88%96%E5%90%8D%E9%81%8E%E5%85%B6%E5%AF%A6-%E6%96%87-%E7%AB%A0%E6%BF%A4)
 
 [以太幣或名過其實　前景未明](https://www.thestandnews.com/technology/%E4%BB%A5%E5%A4%AA%E5%B9%A3%E6%88%96%E5%90%8D%E9%81%8E%E5%85%B6%E5%AF%A6-%E5%89%8D%E6%99%AF%E6%9C%AA%E6%98%8E/)
 
 ### 04/06 AM730 梁天卓專欄
 
-[LikeCoin改變網上創作生態](https://www.am730.com.hk/column/%E8%B2%A1%E7%B6%93/likecoin%e6%94%b9%e8%ae%8a-%e7%b6%b2%e4%b8%8a%e5%89%b5%e4%bd%9c%e7%94%9f%e6%85%8b-121666)
+[LikeCoin改變網上創作生態](https://www.am730.com.hk/column/%E8%B2%A1%E7%B6%93/likecoin%E6%94%B9%E8%AE%8A-%E7%B6%B2%E4%B8%8A%E5%89%B5%E4%BD%9C%E7%94%9F%E6%85%8B-121666)
 
 ### 04/01 信報財經月刊 493期 渾水專欄
 
-[嚴防ICO欺詐 fb、Google封殺廣告](http://ebook.hkej.com/magazine/magazine/tablet/monthly.issue_preview.php?env=PROD&p_issno=493)
+[嚴防ICO欺詐 fb、Google封殺廣告](http://ebook.hkej.com/magazine/magazine/tablet/monthly.issue_preview.php?env=PROD\&p_issno=493)
 
 ### 03/28 AM730 徐家健專欄
 
@@ -330,7 +330,7 @@
 
 [龍蛇混雜的ICO市場](http://preview.hkej.com/dailynews/investment/article/1801290/%E9%BE%8D%E8%9B%87%E6%B7%B7%E9%9B%9C%E7%9A%84ICO%E5%B8%82%E5%A0%B4)
 
-### 03/24 iMoney 智富雜誌
+### 03/24 iMoney&#xD; 智富雜誌
 
 [【愈禁愈升】ICO掀融資革命 專訪奧雲談加密電子幣](http://www.etnet.com.hk/www/tc/forex/features_detail.php?newsid=8722)
 
@@ -348,7 +348,7 @@
 
 [高總出市區](https://www.thestandnews.com/technology/%E9%AB%98%E7%B8%BD%E5%87%BA%E5%B8%82%E5%8D%80/)
 
-### 03/08 香港蘋果日報 郭釗專欄
+### 03/08 香港蘋果日報 郭釗&#xD;專欄
 
 [Hea富生活：LikeCoin有利創作人](https://hk.appledaily.com/finance/20180308/YTT2JAQIORGX5CTJWK5VUPXZ3A/)
 
@@ -358,7 +358,7 @@
 
 ### 03/08 時代論壇 李卓乘專欄
 
-[教會可以發展Church-coin？](https://www.truth-light.org.hk/nt/article/%e6%95%99%e6%9c%83%e5%8f%af%e4%bb%a5%e7%99%bc%e5%b1%95churchcoin%ef%bc%9f)
+[教會可以發展Church-coin？](https://www.truth-light.org.hk/nt/article/%E6%95%99%E6%9C%83%E5%8F%AF%E4%BB%A5%E7%99%BC%E5%B1%95churchcoin%EF%BC%9F)
 
 ### 01/22 立場新聞 高重建專欄
 
@@ -378,9 +378,9 @@
 
 [網媒如何透過資訊科技合作共贏](https://www.hkcnews.com/article/8746/%E5%8D%80%E5%A1%8A%E9%8F%88-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3-likecoin-8746/%E7%B6%B2%E5%AA%92%E5%A6%82%E4%BD%95%E9%80%8F%E9%81%8E%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80%E5%90%88%E4%BD%9C%E5%85%B1%E8%B4%8F)
 
-### 11/23 壹周刊 利世民專欄
+### 11/23 壹周刊 利世民專欄&#xD;
 
-[金融創新所為何事？](https://hk.nextmgz.com/article/2_560099_0)
+[金融創新所為何事？](https://hk.nextmgz.com/article/2\_560099\_0)
 
 ### 11/17 The Standard, Simon Lee Column
 
@@ -396,11 +396,9 @@
 
 ### 10/09 立場新聞 高重建專欄
 
-[Like幣：讚賞不單用拇指 \#2](https://www.thestandnews.com/technology/like%E5%B9%A3-%E8%AE%9A%E8%B3%9E%E4%B8%8D%E5%96%AE%E7%94%A8%E6%8B%87%E6%8C%87-2-%E6%A7%8B%E5%BB%BA%E5%9F%BA%E6%96%BC%E5%8D%80%E5%A1%8A%E9%8F%88%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/)
+[Like幣：讚賞不單用拇指 #2](https://www.thestandnews.com/technology/like%E5%B9%A3-%E8%AE%9A%E8%B3%9E%E4%B8%8D%E5%96%AE%E7%94%A8%E6%8B%87%E6%8C%87-2-%E6%A7%8B%E5%BB%BA%E5%9F%BA%E6%96%BC%E5%8D%80%E5%A1%8A%E9%8F%88%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/)
 {% endtab %}
 {% endtabs %}
-
-
 
 
 

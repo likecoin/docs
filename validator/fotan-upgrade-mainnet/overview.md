@@ -13,7 +13,7 @@ The Testnet aims to provide a platform for validators to have rehearsal on upgra
 The Testnet also acts as a platform for developers to test chain features and APIs and could be reused in future upgrades for rehearsal. 
 
 {% hint style="warning" %}
-\*\*\*\*🧙♂ **Participating validators are expected to keep the Testnet running.**
+****:man_mage: **Participating validators are expected to keep the Testnet running.**
 {% endhint %}
 
 ## What are we going to do in the upgrade?
@@ -21,7 +21,7 @@ The Testnet also acts as a platform for developers to test chain features and AP
 ### Basic idea
 
 * To set up a completely new chain starting from block 1 while preserving necessary data
-  * Chain data: application state \(balance, delegations, ...\)
+  * Chain data: application state (balance, delegations, ...)
     * blocks and transactions are abandoned and aggregated into one final state for genesis
   * Validator's personal data: private keys, address books, node config files
 
@@ -29,7 +29,7 @@ The Testnet also acts as a platform for developers to test chain features and AP
 
 #### Which application state to upgrade from?
 
-* The snapshot at a certain time which validators have consensus \(e.g. 2021-01-01 00:00:00 UTC\)
+* The snapshot at a certain time which validators have consensus (e.g. 2021-01-01 00:00:00 UTC)
 * Such consensus would be determined by the proposal
 
 #### Changes required
@@ -40,7 +40,7 @@ The Testnet also acts as a platform for developers to test chain features and AP
   * ISCN registry name
   * ISCN fee per byte
 * Default states for new modules
-  * e.g. ISCN records \(an empty list since there is no previous records\)
+  * e.g. ISCN records (an empty list since there is no previous records)
 * Some differences from old software to new software
   * e.g. genesis format changes in accounts
   * handled by the migration software
@@ -51,4 +51,3 @@ The Testnet also acts as a platform for developers to test chain features and AP
 * Then migrated to by new chain software
   * Input new chain ID and parameters
   * Also input the new genesis time
-

@@ -56,6 +56,10 @@ On [Liker Land web](https://liker.land), click "Sign up".
 
 ![](../../.gitbook/assets/keplr-liker-id-00-en.png)
 
+Or go to [like.co/in](https://like.co) and choose "Create account".
+
+![](<../../.gitbook/assets/Keplr Liker ID 000  en.png>)
+
 On the top right hand corner, click "Sign in with your wallet".
 
 ![](../../.gitbook/assets/keplr-liker-id-01-en.png)
@@ -68,11 +72,15 @@ Click "Accept".
 
 ![](../../.gitbook/assets/keplr-liker-id-03.png)
 
-The Keplr wallet pop-up, clicks "Approve".
+The Keplr wallet Chain Add Request pop-up, click "Approve".
 
-![](../../.gitbook/assets/keplr-liker-id-04.png)
+![](<../../.gitbook/assets/Keplr Liker ID 04.png>)
 
-Fill in your desired Liker ID and email address, then click "Confirm".
+Now you have to authorize the connection between Keplr and LikeCoin: On Requesting Connection window, click "Approve" to continue.
+
+![](<../../.gitbook/assets/Keplr Liker ID 04dot5.png>)
+
+On the welcome screen, fill in your desired Liker ID and email address, then click "Confirm".
 
 ![](../../.gitbook/assets/keplr-liker-id-05.png)
 

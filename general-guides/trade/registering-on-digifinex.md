@@ -18,13 +18,13 @@ On the right hand corner of the website, click "Register"
 Please note that you have to declare that you are not a citizen from Singapore or the US.
 {% endhint %}
 
-Fill in your email, password and referral code \(Optional\). You may also choose to register by mobile phone number, check on the switch below in red
+Fill in your email, password and referral code (Optional). You may also choose to register by mobile phone number, check on the switch below in red
 
 ![](../../.gitbook/assets/digifinex-2-en.png)
 
 ![](../../.gitbook/assets/digifinex-3-en.png)
 
-No matter if you are using email or phone, you have to click the "Send Code'' \(indicated by the red arrow above\) and complete verification to get your verification code. After receiving the code from your email or phone, enter it and click "Submit" and your account is created. When you set up your account, you are required to provide verification code all the time, and validity of the code just lasts for 10 minutes, therefore please ensure that your internet connection is good during registration.
+No matter if you are using email or phone, you have to click the "Send Code'' (indicated by the red arrow above) and complete verification to get your verification code. After receiving the code from your email or phone, enter it and click "Submit" and your account is created. When you set up your account, you are required to provide verification code all the time, and validity of the code just lasts for 10 minutes, therefore please ensure that your internet connection is good during registration.
 
 ![](../../.gitbook/assets/digifinex-4-en.png)
 
@@ -38,41 +38,41 @@ Then go into the "Basic Information" page, you have to proceed with Real-name ve
 
 #### DigiFinex Official Tutorial
 
-> [【New User Guide】- How to register an account](https://digifinex.zendesk.com/hc/en-us/articles/360006576493--New-User-Guide-How-to-register-an-account)
+> [【New User Guide】- How to register an account> ](https://digifinex.zendesk.com/hc/en-us/articles/360006576493--New-User-Guide-How-to-register-an-account)
 
-### Step 2: Real-name verification <a id="2"></a>
+### Step 2: Real-name verification <a href="2" id="2"></a>
 
-On the "Basic Information" page "Real-name verification", click on the "Unverified" and the following page appears. Scan QR Code or go to [https://download.digifinex.xyz/](https://download.digifinex.xyz/) and download DigiFinex app
+On the "Basic Information" page "Real-name verification", click on the "Unverified" and the following page appears. Scan QR Code or go to [https://download.digifinex.xyz/](https://download.digifinex.xyz) and download DigiFinex app
 
 ![](../../.gitbook/assets/digifinex-11-en.png)
 
-Open the app, click on the top right hand corner bell icon \(circled in red\) and login your account
+Open the app, click on the top right hand corner bell icon (circled in red) and login your account
 
 ![](../../.gitbook/assets/digifinex-mobile-1.png)
 
-Enter your email or mobile phone number and password then click \[Login\]
+Enter your email or mobile phone number and password then click \[Login]
 
 ![](../../.gitbook/assets/digifinex-mobile-2.png)
 
-Click \[Send\] and get the verification code from email or phone, enter the code and click \[Confirm\]
+Click \[Send] and get the verification code from email or phone, enter the code and click \[Confirm]
 
 ![](../../.gitbook/assets/digifinex-mobile-3.png)
 
-For the first time using DigiFinex app, you have to set up the "connect-the-dots" grid password \(or other authentication method, depend on the model of your phone\), then you don't have to enter password for accessing the app, please remember what pattern you have created
+For the first time using DigiFinex app, you have to set up the "connect-the-dots" grid password (or other authentication method, depend on the model of your phone), then you don't have to enter password for accessing the app, please remember what pattern you have created
 
 
 
 ![](../../.gitbook/assets/digifinex-mobile-4.png)
 
-Click on the top left hand corner avatar and a menu appears, click the \[Security\] setting
+Click on the top left hand corner avatar and a menu appears, click the \[Security] setting
 
 ![](../../.gitbook/assets/digifinex-mobile-5.png)
 
-Click on \[Unverified\] of the \[Real-name verification\] 
+Click on \[Unverified] of the \[Real-name verification] 
 
 ![](../../.gitbook/assets/digifinex-mobile-6.png)
 
-Fill in your real-name verification information, select China or Non-China user and click \[Next\]
+Fill in your real-name verification information, select China or Non-China user and click \[Next]
 
 ![](../../.gitbook/assets/digifinex-mobile-7.png)
 
@@ -80,7 +80,7 @@ Fill in the details, you have to provide nationality, legal name on the document
 
 ![](../../.gitbook/assets/digifinex-mobile-8.png)
 
-Upload a photo of your ID \(make sure the ID is in HD\). Then upload a photo of a handheld ID Card + White paper write "digifinex.com"
+Upload a photo of your ID (make sure the ID is in HD). Then upload a photo of a handheld ID Card + White paper write "digifinex.com"
 
 Hand-held photo requires ID card + Note with handwritten DigiFinex + date of upload. Make sure the uploaded photos are clear and consistent. 
 
@@ -92,19 +92,19 @@ Picture formats must be in JPG, PNG f and the size must not exceed 2MB
 
 ![](../../.gitbook/assets/shi-ming-ren-zheng-yuan-tu-560-tu-.jpg)
 
-If the approval is failed the system will show an error message. You may resubmit real-name verification again or contact [customer service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service) for manual approval \(a dialogue box will appear if the approval is failed\)
+If the approval is failed the system will show an error message. You may resubmit real-name verification again or contact [customer service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service) for manual approval (a dialogue box will appear if the approval is failed)
 
 After the upload is completed, wait for approval. Review will be completed in 1-3 business days.
 
 #### DigiFinex Official Tutorial
 
-> [How to do ID-verification \(a.k.a KYC\)](https://digifinex.zendesk.com/hc/en-us/articles/360006473334--How-to-do-ID-verification-a-k-a-KYC-)
+> [How to do ID-verification (a.k.a KYC)>> ](https://digifinex.zendesk.com/hc/en-us/articles/360006473334--How-to-do-ID-verification-a-k-a-KYC-)
 
-### Step 3: Set up 2-Factor Authentication \(2FA\) <a id="3-google-"></a>
+### Step 3: Set up 2-Factor Authentication&#xD; (2FA) <a href="3-google" id="3-google"></a>
 
 You have to set up 2-Factor Authentication otherwise you are not able to withdraw from DigiFinex, please download Google Authenticator on your mobile
 
-[Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)  
+[Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh_TW)\
 [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
 On the "Basic Information" page "2FA", click on the "Off" and the following page appears, click "Next Step"
@@ -125,9 +125,8 @@ Click "Send Code" to acquire verification code, and fill in the 6-digit 2FA code
 
 #### DigiFinex Official Tutorial
 
-> [How to set up 2FA？](https://digifinex.zendesk.com/hc/en-us/articles/360007869553-How-to-set-up-2FA-)[](https://digifinex.zendesk.com/hc/en-us/articles/360000518802-FAQ-about-2FA)
+> [How to set up 2FA？> ](https://digifinex.zendesk.com/hc/en-us/articles/360007869553-How-to-set-up-2FA-)[> ](https://digifinex.zendesk.com/hc/en-us/articles/360000518802-FAQ-about-2FA)
 
 ### If you experience difficulties, contact DigiFinex Help Desk
 
 If you have any questions about using DigiFinex and their products,  please check [DigiFinex Help Center](https://digifinex.zendesk.com/hc/en-us) or contact [DigiFinex customer service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service). Click on the bubble at the lower right hand corner of DigiFinex website and find support.
-

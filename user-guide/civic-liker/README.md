@@ -4,7 +4,7 @@ description: Why should I become a Civic Liker? Any benefits?
 
 # Civic Liker
 
-![](../../.gitbook/assets/likecoin_ad98_2point0-01.png)
+![](../../.gitbook/assets/likecoin_ad98\_2point0-01.png)
 
 ## [**Join Civic Liker**](be-a-civic-liker.md)
 
@@ -14,9 +14,9 @@ Civic Liker is a movement to reward open contents, positioned as "a tool to enco
 
 The monthly supporting amount for LikeCoin will be credited to the content creator in full amount.\* The income is in proportion to the number of Civic Likers that support him/her and will be received in due course. Moreover, Civic Liker is able to largely affect the daily creators fund distribution by their claps to the content so that creators can earn extra income.
 
-### **Support content creators via any platforms** 
+### **Support content creators via any platforms **
 
-No matter the content is in what kind of format or if the platform supports a LikeCoin button or not, readers can still support the content creator. By clicking [sponsor link ](../creatortools/sponsor-link.md)of the content creator in any channels and medium such as Facebook, Youtube, Instagram, Line or Telegram \( Format: https://liker.land/\[Your Liker ID\]/civic \), readers become one of the sponsor of the content creator's Civic Liker monthly payment supporting group. And of course, clapping for the content creators in platforms supporting the LikeCoin button can also let them earn extra LikeCoin reward from Creators Fund.
+No matter the content is in what kind of format or if the platform supports a LikeCoin button or not, readers can still support the content creator. By clicking [sponsor link ](../creatortools/sponsor-link.md)of the content creator in any channels and medium such as Facebook, Youtube, Instagram, Line or Telegram ( Format: https://liker.land/\[Your Liker ID]/civic ), readers become one of the sponsor of the content creator's Civic Liker monthly payment supporting group. And of course, clapping for the content creators in platforms supporting the LikeCoin button can also let them earn extra LikeCoin reward from Creators Fund.
 
 Example of sponsor link: [https://liker.land/ckxpress/civic](https://liker.land/ckxpress/civic)
 
@@ -26,7 +26,7 @@ We believe every penny has to be utilized to encourage openness and diversity, c
 
 Encouraging more Civic Likers to participante is to encourage more open and viewable content.
 
-### Pay as you go, Fancy or simple
+### Pay as you go, Fancy or simple&#xD;
 
 * The new Civic Liker 2.0 supports subscriptions to multiple content creators, 5 USD is the minimum monthly support amount, feel free to pay more and support creations.
 * Civic Liker Classic: Donate 5 USD per month. The sum will be distributed to different creators based on your claps/likes.
@@ -47,9 +47,8 @@ Other than supporting creators, Civic Likers enjoy various benefits such as taki
 
 Encourage more people to join Civic Liker and build a healthy creation ecosystem, please support the Republic of Liker Land.
 
-\*The monthly supporting amount \(deducting the credit card transaction fee\) will be exchanged to LikeCoin. Creators from all around the world will exchange them back into local currencies. 
+\*The monthly supporting amount (deducting the credit card transaction fee) will be exchanged to LikeCoin. Creators from all around the world will exchange them back into local currencies. 
 
-### \[[Join **Civic Liker**](be-a-civic-liker.md)\]
+### \[[Join **Civic Liker**](be-a-civic-liker.md)]
 
 ![](../../.gitbook/assets/civic-liker.png)
-

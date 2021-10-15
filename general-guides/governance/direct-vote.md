@@ -1,5 +1,5 @@
 ---
-description: 'How much LikeCoin you stake, how much voting power you have'
+description: How much LikeCoin you stake, how much voting power you have
 ---
 
 # Direct Voting
@@ -14,7 +14,9 @@ Besides delegating your voting powers to validators to let them vote on behalf o
 
 Before voting please delegate your LikeCoin to any  validators that you trust.
 
-{% page-ref page="../stake/delegation-of-likecoin.md" %}
+{% content-ref url="../stake/delegation-of-likecoin.md" %}
+[delegation-of-likecoin.md](../stake/delegation-of-likecoin.md)
+{% endcontent-ref %}
 
 ### Step 2. Login stake.like.co
 
@@ -22,13 +24,13 @@ Go to [stake.like.co](https://stake.like.co/welcome) and choose [Keplr Browser E
 
 ![](../../.gitbook/assets/direct-vote-01.png)
 
-### Step 3. Select the proposal to vote
+### &#xD;Step 3. Select the proposal to vote
 
 Go to the left hand side menu and select "Proposal", click on the proposal which is on voting period.
 
 ![](../../.gitbook/assets/direct-vote-02.png)
 
-### Step 4. Proposal detail page
+### &#xD;Step 4. Proposal detail page
 
 The proposal page listed out the proposal content, current votes, etc. Only validators wil have a thumbnail when they vote.
 
@@ -60,7 +62,7 @@ Voting success.
 
 ![](../../.gitbook/assets/direct-vote-08.png)
 
-### Step 6. Check voting record
+### &#xD;Step 6. Check voting record
 
 Go to the left hand side menu and select "Transactions" and check out your past voting record.
 
@@ -69,4 +71,3 @@ Go to the left hand side menu and select "Transactions" and check out your past 
 {% hint style="warning" %}
 If the stakeholder votes for a proposal for more than once, the last vote choice will be counted.
 {% endhint %}
-

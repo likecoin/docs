@@ -14,7 +14,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=1r1WVu9retk" %}
 
-### 07/21 財科暗戰
+### 07/21 &#xD;財科暗戰
 
 {% embed url="https://www.youtube.com/watch?v=OfbJa7lBK-s" %}
 
@@ -62,7 +62,7 @@
 
 [Hong Kong-Les contenus d'Apple Daily transférés sur des serveurs décentralisés](https://www.boursorama.com/bourse/actualites/hong-kong-les-contenus-d-apple-daily-transferes-sur-des-serveurs-decentralises-0fab802ad878fc61f1a7272dcf9a524f)
 
-### 06/24 Les Echos
+### &#xD;06/24 Les Echos
 
 [A Hong Kong, ruée sur le dernier numéro du quotidien pro démocratie « Apple Daily »](https://www.lesechos.fr/monde/asie-pacifique/a-hong-kong-ruee-sur-le-dernier-numero-du-quotidien-pro-democratie-apple-daily-1326489)
 
@@ -78,7 +78,7 @@
 
 [Cyber activists race to back up Apple Daily articles](https://news.rthk.hk/rthk/en/component/k2/1597503-20210624.htm)
 
-### 06/24 CNBC
+### &#xD;06/24 CNBC
 
 [Hong Kong’s Apple Daily to live on in blockchain, free of censors](https://www.cnbc.com/2021/06/24/hong-kongs-apple-daily-to-live-on-in-blockchain-free-of-censors.html)
 
@@ -90,9 +90,9 @@
 
 [《蘋果日報》網站即將停運　民間倡內容共享創意授權保存未有下文](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/641736/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1-%E7%B6%B2%E7%AB%99%E5%8D%B3%E5%B0%87%E5%81%9C%E9%81%8B-%E6%B0%91%E9%96%93%E5%80%A1%E5%85%A7%E5%AE%B9%E5%85%B1%E4%BA%AB%E5%89%B5%E6%84%8F%E6%8E%88%E6%AC%8A%E4%BF%9D%E5%AD%98%E6%9C%AA%E6%9C%89%E4%B8%8B%E6%96%87)
 
-### 06/20 城寨 x Yolo 街
+### &#xD;06/20 城寨 x Yolo 街
 
-[城寨 x Yolo 街 - 科技與香港人身份證同行動\(1\)：海外香港人網絡與科技創新](https://twitter.com/bonkat/status/1406443103179837444)
+[城寨 x Yolo 街 - 科技與香港人身份證同行動(1)：海外香港人網絡與科技創新](https://twitter.com/bonkat/status/1406443103179837444)
 
 ### 05/27 CryptoPotato
 
@@ -106,7 +106,7 @@
 
 [Hoe Hongkong de geschiedenis wil censureren en blockchain-technologie de oplossing werd](https://businessam.be/hoe-hongkong-de-geschiedenis-wil-censureren-en-blockchain-technologie-de-oplossing-werd/)
 
-### 05/27 Cointelegraph
+### &#xD;05/27 Cointelegraph
 
 [Hong Kongers use blockchain to save evidence of anti-authoritarian struggles](https://cointelegraph.com/news/hong-kongers-use-blockchain-to-save-evidence-of-anti-authoritarian-struggles)
 
@@ -116,7 +116,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=xu3ORKd7sGU" %}
 
-### [](https://cointelegraph.com/news/hong-kongers-use-blockchain-to-save-evidence-of-anti-authoritarian-struggles)05/26 QUARTZ
+### [&#xD;](https://cointelegraph.com/news/hong-kongers-use-blockchain-to-save-evidence-of-anti-authoritarian-struggles)05/26 QUARTZ
 
 [Hong Kongers are using blockchain archives to fight government censorship](https://qz.com/2008673/hong-kongers-use-blockchain-to-fight-government-censorship/)
 
@@ -128,7 +128,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=7qZJWlCNGAE" %}
 
-### 05/15 theDesk Hong Kong
+### 05/15 &#xD;theDesk Hong Kong
 
 {% embed url="https://www.youtube.com/watch?v=Acta5luxVGM" %}
 
@@ -148,11 +148,11 @@
 
 ### 02/04 【菲妮莫屬】區塊鏈人才說 Proof of Talents
 
-[第二季 海外人才篇 \#9 探討區塊鏈對價值、媒體、民主的再想像 -《區塊鏈社會學》作者 高重建](https://player.soundon.fm/p/558a3a20-12ce-4540-b78c-013717e8c6c7/episodes/7e2f78a6-0b8b-458c-a238-abc0dfa3d4f1)
+[第二季 海外人才篇 #9 探討區塊鏈對價值、媒體、民主的再想像 -《區塊鏈社會學》作者 高重建](https://player.soundon.fm/p/558a3a20-12ce-4540-b78c-013717e8c6c7/episodes/7e2f78a6-0b8b-458c-a238-abc0dfa3d4f1)
 
 {% embed url="https://www.youtube.com/watch?v=A6A7BknIpyQ" %}
 
-🔚 
+:end: 
 {% endtab %}
 
 {% tab title="2020" %}
@@ -190,9 +190,9 @@
 
 [LikeCoin發起人：區塊鏈可還權於民](https://hk.appledaily.com/finance/20200817/MDJN6LLEHVCMVDSSFCAFTIQY2E/)
 
-![](../../../.gitbook/assets/202008170401100_apple_b02_1.jpg)
+![](../../../.gitbook/assets/202008170401100\_apple_b02\_1.jpg)
 
-![](../../../.gitbook/assets/202008170400961_apple_b02_1.jpg)
+![](../../../.gitbook/assets/202008170400961\_apple_b02\_1.jpg)
 
 ### 08/07 香港無線電視財經 ‧ 資訊台 看出個未來
 
@@ -242,13 +242,13 @@
 
 {% embed url="https://meet.bnext.com.tw/articles/view/45970" %}
 
-### 01/02 CUHK Engineering Faculty Alumni Association \(ERGAA\).
+### 01/02 CUHK Engineering Faculty Alumni Association (ERGAA).
 
 中大工程校友「你問我答」第一回：區塊鏈
 
 {% embed url="https://www.facebook.com/597613692/videos/10157067927003693/" %}
 
-🔚 
+:end: 
 {% endtab %}
 
 {% tab title="2019" %}
@@ -260,7 +260,7 @@
 
 {% embed url="https://www.findit.org.tw/researchPageV2.aspx?pageId=1275" %}
 
-[全球早期資金趉勢觀測月報 2019.11](https://findit.org.tw/upload/research/news_201912161930304057-1.pdf)
+[全球早期資金趉勢觀測月報 2019.11](https://findit.org.tw/upload/research/news\_201912161930304057-1.pdf)
 
 ### 10/9 AIre VOICE
 
@@ -276,7 +276,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=OBnVs3nPPgQ" %}
 
-### 7/31 CIBS節目：區塊鏈與你 \(Blockchain and You\) 
+### 7/31 CIBS節目：區塊鏈與你 (Blockchain and You) 
 
 第四集
 
@@ -296,7 +296,7 @@
 
 ### 05/24 明報
 
-[「讚賞公民」運動 化讚賞為作者收入](https://www.mpfinance.com/fin/daily2.php?node=1558639282687&issue=20190524)
+[「讚賞公民」運動 化讚賞為作者收入](https://www.mpfinance.com/fin/daily2.php?node=1558639282687\&issue=20190524)
 
 ### 05/22 眾新聞
 
@@ -314,7 +314,7 @@
 
 {% embed url="https://newtalk.tw/news/view/2019-01-01/187217" %}
 
-🔚 
+:end: 
 {% endtab %}
 
 {% tab title="2018" %}
@@ -326,7 +326,7 @@
 
 [\[一文搞懂\] 給內容創作者的《LikeCoin》讚賞幣 含WordPress加入「LikeButton」教學](https://zeekmagazine.com/archives/77926)
 
-### 09/20 港台電視31 講錢。講呢啲：21世紀揾錢搞革命都靠條鏈?
+### 09/20 港台電視31 講錢。講呢啲：21世紀揾錢搞革命都靠條鏈?&#xD;
 
 {% embed url="https://youtu.be/2sDaYdtUm0Y?t=1089" %}
 
@@ -346,19 +346,19 @@
 
 ### **08/01 突破書誌 054期 搵真銀**
 
-\*\*\*\*[價值重組實驗](https://like.co/pdf/articles/breakazine.pdf)
+****[價值重組實驗](https://like.co/pdf/articles/breakazine.pdf)
 
-![](../../../.gitbook/assets/breakazine_9.png)
+![](../../../.gitbook/assets/breakazine\_9.png)
 
-### 06/11 Cryptocurrency Satellite
+### 06/11 Cryptocurrency Satellite&#xD;
 
-[【LikeCoin\(ライクコイン\)】Kin\(キン\)CEOへインタビュー](https://web.archive.org/web/20180724091850/https://cryptocurrency-sat.com/topic/interview/likecoin-ceo/)
+[【LikeCoin(ライクコイン)】Kin(キン)CEOへインタビュー](https://web.archive.org/web/20180724091850/https://cryptocurrency-sat.com/topic/interview/likecoin-ceo/)
 
 ### 06/06 HK01
 
 {% embed url="https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/196190/%E6%B8%AF%E7%94%A2ico-likecoin%E9%9B%86%E8%B3%87%E9%80%BE4000%E8%90%AC-%E5%86%80-%E5%8C%96like%E7%82%BAcoin-%E5%9B%9E%E9%A5%8B%E5%89%B5%E4%BD%9C%E4%BA%BA" %}
 
-### 06/01 Liquid
+### 06/01 &#xD;Liquid
 
 QUOINE x LikeCoin: The Future of the Like
 
@@ -366,15 +366,15 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 05/23 **壹**周刊
 
-{% embed url="https://hk.nextmgz.com/article/2\_588342\_0" %}
+{% embed url="https://hk.nextmgz.com/article/2_588342_0" %}
 
-{% embed url="https://hk.nextmgz.com/article/2\_588463\_0" %}
+{% embed url="https://hk.nextmgz.com/article/2_588463_0" %}
 
-{% embed url="https://hk.nextmgz.com/article/2\_588408\_0" %}
+{% embed url="https://hk.nextmgz.com/article/2_588408_0" %}
 
 {% embed url="https://www.youtube.com/watch?v=b8ra392rlCM" %}
 
-### 05/14 opensource.com
+### &#xD;05/14 opensource.com&#xD;
 
 {% embed url="https://opensource.com/article/18/5/likecoin" %}
 
@@ -386,7 +386,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### **05/02 彭博商業周刊/中文版 第114期**
 
-\*\*\*\*[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html) [PDF](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/financial-services/deloitte-cn-fs-bloomberg-business-megazine-ico-zh-180518.pdf)
+****[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html) [PDF](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/financial-services/deloitte-cn-fs-bloomberg-business-megazine-ico-zh-180518.pdf)
 
 ![](../../../.gitbook/assets/bloomberg_likecoin_tiny.jpg)
 
@@ -408,13 +408,13 @@ QUOINE x LikeCoin: The Future of the Like
 
 [首隻港產加密幣點讚成金 創辦人冀改網絡歪風](http://startupbeat.hkej.com/?p=57661)
 
-![](../../../.gitbook/assets/20180409_hkej.jpg)
+![](../../../.gitbook/assets/20180409\_hkej.jpg)
 
 ### 04/09 ejinsight
 
 {% embed url="https://www.ejinsight.com/eji/article/id/1811904/20180409-hk-based-likecoin-uses-token-to-reward-online-content-creators" %}
 
-### 04/02 香港電台普通話台 AM621 CIBS 節目 - 追趕科技世界 \(The World towards Information Technology\) 科技Band房
+### 04/02 香港電台普通話台 AM621 CIBS 節目 - 追趕科技世界 (The World towards Information Technology) 科技Band房
 
 第十三集
 
@@ -424,7 +424,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 {% embed url="https://www.youtube.com/watch?v=6wj1MmQaydA" %}
 
-### 03/30 文化土豆
+### 03/30 文化土豆&#xD;
 
 [042 爱国我说不出口【張潔平, 高重建】](http://www.culturepotato.com/blog/042)
 
@@ -440,9 +440,9 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 03/19 明周
 
-[【當金錢變成數碼】高重建：擁抱觸不到的付款方法 化like成coin支持創作](https://www.mpweekly.com/culture/%e9%9b%bb%e5%ad%90%e8%b2%a8%e5%b9%a3-%e9%9b%bb%e5%ad%90%e6%94%af%e4%bb%98-%e6%94%af%e4%bb%98%e5%af%b6-69230)
+[【當金錢變成數碼】高重建：擁抱觸不到的付款方法 化like成coin支持創作](https://www.mpweekly.com/culture/%E9%9B%BB%E5%AD%90%E8%B2%A8%E5%B9%A3-%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98-%E6%94%AF%E4%BB%98%E5%AF%B6-69230)
 
-![](../../../.gitbook/assets/maig-pao-weekly_0.jpg)
+![](../../../.gitbook/assets/maig-pao-weekly\_0.jpg)
 
 ![](../../../.gitbook/assets/maig-pao-weekly.jpg)
 
@@ -460,7 +460,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 Winnier of Mr.Block x Blockshow Taipei Meetup
 
-{% embed url="https://www.youtube.com/watch?v=x4\_-UY1baT8" %}
+{% embed url="https://www.youtube.com/watch?v=x4_-UY1baT8" %}
 
 {% embed url="https://www.youtube.com/watch?v=Acw3C5O29H8" %}
 
@@ -478,7 +478,7 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 
 ![](../../../.gitbook/assets/903.jpg)
 
-🔚 
+:end: 
 {% endtab %}
 
 {% tab title="2017" %}
@@ -490,13 +490,11 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 
 ### **10/08 明報**
 
-\*\*\*\*[科網世代﹕LikeCoin將Like變成錢有可能？ 直落創作人口袋](https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20171008/s00005/1507399895326/%E7%A7%91%E7%B6%B2%E4%B8%96%E4%BB%A3-likecoin%E5%B0%87like%E8%AE%8A%E6%88%90%E9%8C%A2%E6%9C%89%E5%8F%AF%E8%83%BD-%E7%9B%B4%E8%90%BD%E5%89%B5%E4%BD%9C%E4%BA%BA%E5%8F%A3%E8%A2%8B)
+****[科網世代﹕LikeCoin將Like變成錢有可能？ 直落創作人口袋](https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20171008/s00005/1507399895326/%E7%A7%91%E7%B6%B2%E4%B8%96%E4%BB%A3-likecoin%E5%B0%87like%E8%AE%8A%E6%88%90%E9%8C%A2%E6%9C%89%E5%8F%AF%E8%83%BD-%E7%9B%B4%E8%90%BD%E5%89%B5%E4%BD%9C%E4%BA%BA%E5%8F%A3%E8%A2%8B)
 
-![](../../../.gitbook/assets/ming2_tiny.jpg)
+![](../../../.gitbook/assets/ming2\_tiny.jpg)
 
-🔚 
+:end: 
 {% endtab %}
 {% endtabs %}
-
-
 

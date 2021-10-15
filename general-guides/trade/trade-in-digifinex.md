@@ -12,7 +12,7 @@ First of all you have to create your wallet address on DigiFinex so as to transf
 
 ![](../../.gitbook/assets/digifinex-13-en.png)
 
-This action brings you to the page "LikeCoin \(LIKE\) Deposit", click "Generate deposit address". You can also check your "Deposit History" underneath
+This action brings you to the page "LikeCoin (LIKE) Deposit", click "Generate deposit address". You can also check your "Deposit History" underneath
 
 ![](../../.gitbook/assets/digifinex-14-en.png)
 
@@ -30,19 +30,19 @@ DigiFinex has a minimum deposit amount of **100 LikeCoin**, **a single deposit w
 
 ### Step 2: Transfer LikeCoin to DigiFinex
 
-Open the [Liker Land mobile app](https://liker.land/getapp), click on "My Wallet. Then, click on the \[Send\] button \(circled in red below\)
+Open the [Liker Land mobile app](https://liker.land/getapp), click on "My Wallet. Then, click on the \[Send] button (circled in red below)
 
-![On Liker Land mobile app select \[Send\] \(circled in red\)](../../.gitbook/assets/bitasset-trade-6.png)
+![On Liker Land mobile app select \[Send\] (circled in red)](../../.gitbook/assets/bitasset-trade-6.png)
 
 Go to the next page, click on the QR Code icon circled in red, the app will open camera mode for you to scan the QR Code, please scan the QRCode that you have on Step 1, cause you have to transfer LikeCon to DigiFinex
 
 ![Click the QR Code icon circled in red to open camera](../../.gitbook/assets/bitasset-trade-7.png)
 
-Input the Tag/Memo number into the "Input memo \(optional\)" field \(**Very Important!**\)
+Input the Tag/Memo number into the "Input memo (optional)" field (**Very Important!**)
 
-![](../../.gitbook/assets/digifinex-tagmemo%20%281%29.png)
+![](<../../.gitbook/assets/digifinex-tagmemo (1).png>)
 
-Input the amount of LikeCoin that you want to transfer, then click \[Confirm\]
+Input the amount of LikeCoin that you want to transfer, then click \[Confirm]
 
 ![](../../.gitbook/assets/bitasset-trade-8.png)
 
@@ -54,21 +54,21 @@ DigiFinex requires you to input your "Tag/Memo" into the chain during deposit. I
 
 #### DigiFinex Official Tutorial
 
-> [【Deposit】- How to Deposit in Website](https://digifinex.zendesk.com/hc/en-us/articles/360000519282--Deposit-How-to-Deposit-in-Website)
+> [【Deposit】- How to Deposit in Website> ](https://digifinex.zendesk.com/hc/en-us/articles/360000519282--Deposit-How-to-Deposit-in-Website)
 
-> [【Deposit】- How to Deposit in APP](https://digifinex.zendesk.com/hc/en-us/articles/360002689614--Deposit-How-to-Deposit-in-APP)
+> [【Deposit】- How to Deposit in APP> ](https://digifinex.zendesk.com/hc/en-us/articles/360002689614--Deposit-How-to-Deposit-in-APP)
 
 ### Step 3: Confirm the transfer to DigiFinex
 
-You can check your wallet balance in "My Balance" following Step 1.
+You can check your wallet balance in "My Balance" following Step 1\.
 
-### Step 4: Buy or Sell
+### Step 4: Buy or Sell&#xD;
 
 On the top left corner of DigiFinex website there are "Market" and "Spot" on the menu
 
 ![](../../.gitbook/assets/digifinex-17-en.png)
 
-Click "Market", on the search box input "Like" will show the chart \(As LikeCoin is just into the market, there is no line graph at the moment\)
+Click "Market", on the search box input "Like" will show the chart (As LikeCoin is just into the market, there is no line graph at the moment)
 
 ![](../../.gitbook/assets/digifinex-18-en.png)
 
@@ -100,7 +100,7 @@ The system will calculate "Total", confirm if they are correct or not, then clic
 
 #### DigiFinex Official Tutorial
 
-> [Spot Trading Tutorial - DigiFinex Guide](https://www.youtube.com/watch?v=o3aV16hrDt0)[](https://digifinex.zendesk.com/hc/en-us/articles/360007599713-How-to-Start-Spot-Trading-In-APP-)
+> [Spot Trading Tutorial - DigiFinex Guide>> ](https://www.youtube.com/watch?v=o3aV16hrDt0)[> ](https://digifinex.zendesk.com/hc/en-us/articles/360007599713-How-to-Start-Spot-Trading-In-APP-)
 
 ### Step 5: Check Transaction details
 
@@ -124,11 +124,10 @@ Going back to "My Balance" page in Step 1, select USDT or LIKE and click "Withdr
 
 ![](../../.gitbook/assets/digifinex-26-en.png)
 
-#### 
+####
 
 #### DigiFinex Official Tutorial
 
-> [【Withdraw】- How to Withdraw in Website](https://digifinex.zendesk.com/hc/en-us/articles/360000521962--Withdraw-How-to-Withdraw-in-Website)
+> [【Withdraw】- How to Withdraw in Website>> ](https://digifinex.zendesk.com/hc/en-us/articles/360000521962--Withdraw-How-to-Withdraw-in-Website)
 
-> [【Withdraw】- How to withdraw in APP](https://digifinex.zendesk.com/hc/en-us/articles/360002955534--Withdraw-How-to-withdraw-in-APP)
-
+> [【Withdraw】- How to withdraw in APP>> ](https://digifinex.zendesk.com/hc/en-us/articles/360002955534--Withdraw-How-to-withdraw-in-APP)

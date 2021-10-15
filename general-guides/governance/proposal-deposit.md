@@ -8,7 +8,7 @@ In case the proposal fails to get 100k LikeCoin deposit in 2-week time, the prop
 
 Please note, if the proposal fails to achieve quorum, or gets more than 1/3 voting power as veto, then the proposal will be turned down and the deposited LikeCoin will be expropriated to the Community Pool; else the deposit will be transferred back to the owners.
 
-## How to deposit LikeCoin for a proposal 
+## &#xD;How to deposit LikeCoin for a proposal 
 
 ### Step 1. Login stake.like.co
 
@@ -16,7 +16,7 @@ Go to [stake.like.co](https://stake.like.co/welcome) and choose [Keplr Browser E
 
 ![](../../.gitbook/assets/direct-vote-01.png)
 
-### Step 2. Select the proposal to deposit
+### &#xD;&#xD;Step 2. Select the proposal to deposit
 
 Go to the left hand side menu and select "Proposal", click on the proposal which is on deposit period.
 
@@ -24,7 +24,7 @@ Go to the left hand side menu and select "Proposal", click on the proposal which
 
 ![](../../.gitbook/assets/proposal-deposit-01.png)
 
-### Step 3. Proposal detail page
+### &#xD;Step 3. Proposal detail page
 
 The proposal page outlined the proposal content, click "Deposit".
 
@@ -58,7 +58,7 @@ Successful deposit for a proposal!
 
 ![](../../.gitbook/assets/proposal-deposit-07.png)
 
-### Step 5: Check deposit record
+### &#xD;Step 5: Check deposit record
 
 Go to the left hand side menu and select "Transactions" and check out your deposit record.
 
@@ -67,4 +67,3 @@ Go to the left hand side menu and select "Transactions" and check out your depos
 {% hint style="info" %}
 If the proposal passed, the deposit will be transfer back to the likers.
 {% endhint %}
-

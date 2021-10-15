@@ -4,13 +4,13 @@ description: What is Super Like? What is a Content Jockey?
 
 # Super Like - Content Jockey
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDKKfTTMClruYgMEN2z%2F-MDKL9uOAcQBWwTt-7PY%2Flikecoin_ad92_super_like_dragonball.png?alt=media&token=aebf61cf-24c0-4d70-9cce-a582d82122e8)
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDKKfTTMClruYgMEN2z%2F-MDKL9uOAcQBWwTt-7PY%2Flikecoin_ad92\_super_like_dragonball.png?alt=media\&token=aebf61cf-24c0-4d70-9cce-a582d82122e8)
 
 ## Concept
 
 Clicking on the LikeCoin button for the 6th time, _**share your favourite, worth exploring contents to Liker Land.**_
 
-### Browsing, is for reading
+### Browsing, is for reading&#xD;
 
 The time for daily reading is limited and you are not able to digest the ocean of knowledge. Moreover, speed reading won't make you smarter. Liker Land helps readers to precisely follow the content that they love, spending their valuable time on deep reading.
 
@@ -18,11 +18,11 @@ The time for daily reading is limited and you are not able to digest the ocean o
 
 Every Super Like shares the same content to Liker Land, and attracts friends with similar tastes. The quota of the Super Like is limited each day, only your favourite contents can be shared to others.
 
-### Like, is to reward
+### Like, is to reward&#xD;
 
 Super Like redefines the definition of "Share", Share = Rewards. Not only creators earn rewards, content jockeys who share the piece of content can earn rewards too.
 
-## Usage <a id="zen-yang-can-yu"></a>
+## Usage <a href="zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
 * Clicking the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When clicking on the 6th time, the article is being "Super Liked".
 * The "Super Liked" article will be on Liker Land. Your followers can see it on "[My Content Jockey](today-headline.md#my-content-jockey)"  and everyone can see it on "[The world has Super Liked](today-headline.md#the-world-has-super-liked)".
@@ -36,19 +36,18 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 * Content creators click on the LikeCoin button of their own article can Super Like and put their article to the ["Works" section in Portfolio Page](../creatortools/portfolio-page.md#works)  and "[The world has Super Liked](today-headline.md#the-world-has-super-liked)".
 
 {% hint style="info" %}
-Civic Liker Super Like his/her own work will not earn any LikeCoin from creators fund  
+Civic Liker Super Like his/her own work will not earn any LikeCoin from creators fund\
 
 {% endhint %}
 
-## **How to participate?** <a id="zen-yang-can-yu"></a>
+## **How to participate?** <a href="zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
 Only [Civic Liker](../civic-liker/) can enjoy Super Like twice a day.
 
-\[[Join **Civic Liker**](../civic-liker/be-a-civic-liker.md)\]
+\[[Join **Civic Liker**](../civic-liker/be-a-civic-liker.md)]
 
 ## Super Likes History
 
-Wanna review all the Super Liked articles? Go to your [Portfolio Page](../creatortools/portfolio-page.md) https://liker.land/\[Your Liker ID\] and click "Super Likes" to check them out, if your Liker ID is ckxpress, the link is going to be https://liker.land/ckxpress. Users can also visit friends and celebrities' Portfolio Page and follow them, in order to understand their reading taste.
+Wanna review all the Super Liked articles? Go to your [Portfolio Page](../creatortools/portfolio-page.md) https://liker.land/\[Your Liker ID] and click "Super Likes" to check them out, if your Liker ID is ckxpress, the link is going to be https://liker.land/ckxpress. Users can also visit friends and celebrities' Portfolio Page and follow them, in order to understand their reading taste.
 
 ![](../../.gitbook/assets/portfolio-page-2-en.png)
-
