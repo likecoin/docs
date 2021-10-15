@@ -23,7 +23,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 使用 MetaMask 登入與你 Liker ID 戶口綁定的 MetaMask 錢包。假如你更換了電腦，請以 [Secret Recovery Phrase](https://community.metamask.io/t/what-is-a-secret-recovery-phrase-and-how-to-keep-your-crypto-wallet-secure/3440) 或私鑰重新導入錢包。
 
 {% hint style="danger" %}
-留意如果你經已不能操作與 Liker ID 綁定的 MetaMask 錢包將不能升級，也不能取用於 MetaMask 錢包內的 LikeCoin。
+留意如果你經已不能操作與 Liker ID 綁定的 MetaMask 錢包將不能升級，也不能取用 MetaMask 錢包內的 LikeCoin。
 
 此外，使用與 Liker ID 無關的 MetaMask 也不能進行升級操作，亦代表不能於 LikeCoin chain 重新使用該 Liker ID。
 
@@ -101,10 +101,14 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 請先將那些 LikeCoin 轉移到一個 MetaMask 錢包，接下來到 [https://migration.like.co/](https://migration.like.co) 輸入 Cosmos 錢包地址，即可進行升級。
 
-### 假如你的 LikeCoin 儲存於硬件錢包
+### 假如你的 LikeCoin ERC-20 儲存於硬件錢包
 
-請直接將它與 MetaMask 連接，再以 [https://migration.like.co/](https://migration.like.co) 進行升級
+請直接將它與 MetaMask 連接，再以 [https://migration.like.co/](https://migration.like.co) 輸入 Cosmos 錢包地址進行升級。
 
 {% hint style="danger" %}
 使用 [https://migration.like.co/](https://migration.like.co) 升級時請不要直接輸入交易所的 Cosmos 錢包地址，假如某些交易所需要輸入 Tag/Memo 才能存幣，這樣會導致損失並有機會讓你不能成功存入你的 LikeCoin。請先將 LikeCoin 轉入自己的 Cosmos 錢包地址後才進行其他交易或轉換。
+
+**也不要不使用  **[**https://migration.like.co/**](upgrading-likecoin-erc20-to-likecoin-chain.md#liker-id-yi-bang-ding-metamask-ji-she-jiao-zhang-hao)** 並直接將幣倒進相關的 Smart Contract 地址。**
+
+錯誤的升級操作將無法挽回。
 {% endhint %}
