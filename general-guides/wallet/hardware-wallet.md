@@ -6,7 +6,7 @@ description: Secure your LikeCoin with hardware wallet
 
 Before using your hardware wallet, please configure it and install the Cosmos app. Take Ledger as an example, you may install the Cosmos app via [Ledger Live](https://support.ledger.com/hc/en-us/articles/360013713840-Cosmos-ATOM-).
 
-The following demo is on the block explorer [Big Dipper](big-dipper.md) environment, you may also manage your LikeCoin with hardware wallet on [Keplr](keplr.md).
+The following demo is on the block explorer [Big Dipper](big-dipper.md) environment, you may also manage your LikeCoin with hardware wallet on [Keplr](keplr.md), referring to [How to use Ledger Nano hardware wallet with Keplr](https://medium.com/chainapsis/how-to-use-ledger-nano-hardware-wallet-with-keplr-9ea7f07826c2).
 
 ## Access your hardware wallet
 
@@ -22,7 +22,7 @@ Choose the Cosmos app by pressing both of the buttons on the Ledger device and g
 
 ### Step 3: Go to Big Dipper and login
 
-Click the key icon on the upper right hand corner on [Big Dipper](https://likecoin.bigdipper.live/) and login. You may have to wait for a while for Big Dipper to detect the hardware wallet.
+Click the key icon on the upper right hand corner on [Big Dipper](https://likecoin.bigdipper.live) and login. You may have to wait for a while for Big Dipper to detect the hardware wallet.
 
 ![](../../.gitbook/assets/hardwarewallet-3-en.png)
 
@@ -108,5 +108,6 @@ Step 5: A confirmation screen displays, if everything is correct, click "SIGN".
 
 Step 6: The Ledger device will ask you to confirm the transaction, approve it and verify transaction details on Big Dipper.
 
-{% embed url="https://www.youtube.com/watch?v=RTmPdRmj0hc" caption="How to manage your LikeCoin by Ledger Nano S" %}
-
+{% embed url="https://www.youtube.com/watch?v=RTmPdRmj0hc" %}
+How to manage your LikeCoin by Ledger Nano S
+{% endembed %}
