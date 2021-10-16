@@ -98,3 +98,29 @@ You cannot use the same email address to register a Liker ID with Authcore and K
 On Liker Land Web settings, your LikeCoin wallet address is the same as the Keplr address, which means you successfully register your Liker ID with Keplr.
 
 ![](../../.gitbook/assets/keplr-liker-id-06-en.png)
+
+### Step 4: User Keplr to Login Liker Land
+
+After registration, if you would like to login Liker Land again, please login Keplr and on on [Liker Land web](https://liker.land), click "Sign in".
+
+![](../../.gitbook/assets/keplr-liker-id-00-en.png)
+
+On the top right hand corner, click "Sign in with your wallet".
+
+![](../../.gitbook/assets/keplr-liker-id-01-en.png)
+
+Click "Sign in with Keplr".
+
+![](<../../.gitbook/assets/Keplr Liker ID 10-en.png>)
+
+Click "Accept".
+
+![](<../../.gitbook/assets/Keplr Liker ID 09-en.png>)
+
+The Keplr wallet Chain Add Request pop-up, click "Approve" and you can login to Liker Land web.
+
+![](<../../.gitbook/assets/Keplr Liker ID 04.png>)
+
+{% hint style="info" %}
+If you have Liker ID registered by Authcore and Keplr, please make sure that you log out completely by clicking logout in the menu before sign in another account.
+{% endhint %}
