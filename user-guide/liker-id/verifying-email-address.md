@@ -7,7 +7,7 @@ description: >-
 # Securing my Liker ID
 
 {% hint style="info" %}
-The followings are for [Liker ID registered with Liker Land](register.md).
+The followings are for [Liker ID registered as usual (with Authcore)](register.md).
 {% endhint %}
 
 ## 2-step Verification (2FA) <a href="2fa" id="2fa"></a>
