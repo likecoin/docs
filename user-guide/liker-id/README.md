@@ -8,10 +8,8 @@ description: Liker ID 是甚麼？
 
 現時用戶可透過兩種途徑註冊 Liker ID：
 
-* [Liker Land](register.md) －以 [Liker Land 手機應用程式](../liker-land/download.md)註冊 Liker ID 及使用[轉帳](../../guides/wallet/like-pay.md)、[委託](../../guides/stake/delegation-of-likecoin.md)及[查看讚賞成就](../creatortools/rewards/)等各種功能
-* [Keplr](register-with-keplr.md)－以 Keplr Chrome / Brave 插件去中化註冊 Liker ID 並以 [Stake.like.co](https://stake.like.co/) 進行轉帳及委託，支援硬件錢包
-
-
+* [一般方法](register.md)－以[Liker Land 手機應用程式](../liker-land/download.md)或[網頁版](https://liker.land)註冊 Liker ID 及使用[轉帳](../../guides/wallet/like-pay.md)、[委託](../../guides/stake/delegation-of-likecoin.md)及[查看讚賞成就](../creatortools/rewards/)等各種功能
+* [Keplr](register-with-keplr.md)－以 Keplr Chrome / Brave 插件去中化註冊 Liker ID 並以 [stake.like.co](https://stake.like.co) 進行轉帳及委託，支援硬件錢包
 
 
 
