@@ -124,3 +124,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 此時將彈出 Keplr 視窗 Chain Add Request，選「Approve」，即可登入 Liker Land。
 
 ![](<../../.gitbook/assets/Keplr Liker ID 04.png>)
+
+{% hint style="info" %}
+假如你擁有以 Authcore 及 Keplr 註冊的 Liker ID，請確認使用菜單上的登出功能完全登出才登入另一個 Liker ID。
+{% endhint %}
