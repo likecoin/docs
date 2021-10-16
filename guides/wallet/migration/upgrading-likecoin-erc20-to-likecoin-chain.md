@@ -89,9 +89,9 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 ## 沒有 Liker ID 如何升級
 
-請先 [以 Liker Land 註冊 Liker ID](../../../user-guide/liker-id/register.md) 又或者 [以 Keplr 註冊 Liker ID](../../../user-guide/liker-id/register-with-keplr.md) 甚至 [只開設 Keplr 錢包不綁定 Liker ID](../keplr.md) 獲取一個 Cosmos 錢包地址。
+請先 [以一般方法 ( Authcore ) 註冊 Liker ID](../../../user-guide/liker-id/register.md) 又或者 [以 Keplr 註冊 Liker ID](../../../user-guide/liker-id/register-with-keplr.md) 獲取一個 Cosmos 錢包地址。
 
-如何在 Liker Land 手機應用程式查看  Cosmos 錢包地址可參看：
+如何在 Liker Land 手機應用程式查看 Cosmos 錢包地址可參看：
 
 {% content-ref url="../big-dipper.md" %}
 [big-dipper.md](../big-dipper.md)
