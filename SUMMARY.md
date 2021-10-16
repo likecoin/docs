@@ -84,6 +84,7 @@
   * [LIKE pay](general-guides/wallet/like-pay.md)
   * [Keplr](general-guides/wallet/keplr.md)
   * [Ledger](general-guides/wallet/hardware-wallet.md)
+  * [Wallet Address](general-guides/wallet/wallet-address.md)
   * [Big Dipper](general-guides/wallet/big-dipper.md)
   * [Transaction Fee](general-guides/wallet/transaction-fee.md)
   * [Migrating from ERC-20](general-guides/wallet/migration/README.md)
