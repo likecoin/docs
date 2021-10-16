@@ -5,7 +5,7 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 # 保護你的 Liker ID
 
 {% hint style="info" %}
-以下內容只適用於[以 Liker Land 註冊的 Liker ID](register.md)。
+以下內容只適用於[以一般方法 ( Authcore ) 註冊的 Liker ID](register.md)。
 {% endhint %}
 
 ## 雙重認證 ( 2FA ) <a href="2fa" id="2fa"></a>

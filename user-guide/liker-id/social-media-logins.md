@@ -1,11 +1,11 @@
 ---
-description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方便，帳號更安全'
+description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方便，帳號更安全
 ---
 
 # 綁定社交帳號
 
 {% hint style="info" %}
-以下內容只適用於[以 Liker Land 註冊的 Liker ID](register.md)。
+以下內容只適用於[以一般方法 ( Authcore ) 註冊的 Liker ID](register.md)。
 {% endhint %}
 
 ## 為什麼要綁定社交帳號
@@ -19,7 +19,7 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 ### 步驟一
 
-登入 [Liker Land](https://liker.land/) 並前往 [https://like.co/in/settings](https://like.co/in/settings)，到「Authcore 設定」的部份，點選「安全設定」；或於 Liker Land 手機應用程式選畫面右下角設定點選「安全」，再點選「社交帳戶登入」。
+登入 [Liker Land](https://liker.land) 並前往 [https://like.co/in/settings](https://like.co/in/settings)，到「Authcore 設定」的部份，點選「安全設定」；或於 Liker Land 手機應用程式選畫面右下角設定點選「安全」，再點選「社交帳戶登入」。
 
 ![](../../.gitbook/assets/social-media-logins-1.png)
 
@@ -27,9 +27,9 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 點擊欲綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](<../../.gitbook/assets/image (15).png>)
 
-## 如何綁定 Matters 帳號 <a id="matters"></a>
+## 如何綁定 Matters 帳號 <a href="matters" id="matters"></a>
 
 用戶需要在 Matters 網站內設置綁定：
 
@@ -40,15 +40,16 @@ description: '綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方
 
 ### 更多詳盡介紹
 
-{% page-ref page="../creator/matters.md" %}
+{% content-ref url="../creator/matters.md" %}
+[matters.md](../creator/matters.md)
+{% endcontent-ref %}
 
-> [Matters 作者工具箱 \| 新手必看（2021.07.30更新）](https://matters.news/@hi176/matters-%E4%BD%9C%E8%80%85%E5%B7%A5%E5%85%B7%E7%AE%B1-%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B-2021-07-30%E6%9B%B4%E6%96%B0-bafyreiaycr64hciqsxnrsecnw3wlnelpqj6p3d3fluiavxcoz4esild35e)
+> [Matters 作者工具箱 | 新手必看（2021.07.30更新）](https://matters.news/@hi176/matters-%E4%BD%9C%E8%80%85%E5%B7%A5%E5%85%B7%E7%AE%B1-%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B-2021-07-30%E6%9B%B4%E6%96%B0-bafyreiaycr64hciqsxnrsecnw3wlnelpqj6p3d3fluiavxcoz4esild35e)
 
-> [Matters 讀者工具箱 \| 新手必看（2021.07.30更新）](https://matters.news/@hi176/matters-%E8%AE%80%E8%80%85%E5%B7%A5%E5%85%B7%E7%AE%B1-%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B-2021-07-30%E6%9B%B4%E6%96%B0-bafyreif6eaqozxvawujd63ucl4zymuhprxdx7hbqtvxftvdw5fvlkdcbqm)
+> [Matters 讀者工具箱 | 新手必看（2021.07.30更新）](https://matters.news/@hi176/matters-%E8%AE%80%E8%80%85%E5%B7%A5%E5%85%B7%E7%AE%B1-%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B-2021-07-30%E6%9B%B4%E6%96%B0-bafyreif6eaqozxvawujd63ucl4zymuhprxdx7hbqtvxftvdw5fvlkdcbqm)
 
 > [現有 LikeCoin 用戶如何在 Matters 綁定 Liker ID？實在太簡單了！](https://matters.news/@daisy/%E7%8F%BE%E6%9C%89-like-coin-%E7%94%A8%E6%88%B6%E5%A6%82%E4%BD%95%E5%9C%A8-matters-%E7%B6%81%E5%AE%9A-liker-id-%E5%AF%A6%E5%9C%A8%E5%A4%AA%E7%B0%A1%E5%96%AE%E4%BA%86-zdpuB1VXByRv19fhiPD8zRDyB5YsxY231LsncTGnETPGnmav1)
 
 {% hint style="warning" %}
 一旦綁定 Matters ID 跟 Liker ID，便無法解綁。敬請留意。
 {% endhint %}
-

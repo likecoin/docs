@@ -5,12 +5,12 @@ description: 查看有哪些裝置登入過你的 Liker ID
 # 管理登入裝置
 
 {% hint style="info" %}
-以下內容只適用於[以 Liker Land 註冊的 Liker ID](register.md)。
+以下內容只適用於[以一般方法 ( Authcore ) 註冊的 Liker ID](register.md)。
 {% endhint %}
 
 你可以查看有哪些電腦、手機或其他裝置目前正在使用或最近曾經使用您的 Liker ID。這項資訊可協助你確認沒有其他人登入你的帳戶。
 
-登入 [Liker Land](https://liker.land/) 並前住 [https://like.co/in/settings](https://like.co/in/settings)，到「Authcore 設定」的部份，點選「安全設定」；或於 Liker Land 手機應用程式選畫面右下角的帳戶頭像點擊「安全」，再點 「裝置」。
+登入 [Liker Land](https://liker.land) 並前住 [https://like.co/in/settings](https://like.co/in/settings)，到「Authcore 設定」的部份，點選「安全設定」；或於 Liker Land 手機應用程式選畫面右下角的帳戶頭像點擊「安全」，再點 「裝置」。
 
 ![](../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-1.png)
 
@@ -26,4 +26,3 @@ description: 查看有哪些裝置登入過你的 Liker ID
 * 您不再具備擁有權或遺失的裝置
 * 不屬於您的裝置
 {% endhint %}
-
