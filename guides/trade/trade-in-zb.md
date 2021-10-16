@@ -4,7 +4,7 @@ description: 在 ZB 買賣 LikeCoin
 
 # 在 ZB 交易
 
-[中幣 \( ZB \) ](https://zb.com)集團是全球領先的區塊鏈和數字資產金融服務商，旗下業務涵蓋數字資產交易平台集群、電子錢包、投資基金、研究機構等區塊鏈產業上下游，中幣集團在新加坡、美國、韓國、中國香港、瑞士、馬耳他、馬來西亞均有業務佈局。現時 ZB 提供 LIKE/USDT 交易對，若你還未有 ZB 帳號，[請參考這篇](registering-on-zb.md)。此外你也需要[下載 Liker Land 手機應用程式](https://liker.land/getapp)用來傳送/提取 LikeCoin。以下示範以 ZB 網頁版為例，你亦可使用 [ZB 手機應用程式](https://www.zb.com/cn/download)進行交易。
+[中幣 ( ZB ) ](https://zb.com)集團是全球領先的區塊鏈和數字資產金融服務商，旗下業務涵蓋數字資產交易平台集群、電子錢包、投資基金、研究機構等區塊鏈產業上下游，中幣集團在新加坡、美國、韓國、中國香港、瑞士、馬耳他、馬來西亞均有業務佈局。現時 ZB 提供 LIKE/USDT 交易對，若你還未有 ZB 帳號，[請參考這篇](registering-on-zb.md)。此外你也需要[下載 Liker Land 手機應用程式](https://liker.land/getapp)用來傳送/提取 LikeCoin。以下示範以 ZB 網頁版為例，你亦可使用 [ZB 手機應用程式](https://www.zb.com/cn/download)進行交易。
 
 ### 步驟一：開立 ZB 帳戶的 LikeCoin 錢包收款地址
 
@@ -26,13 +26,13 @@ description: 在 ZB 買賣 LikeCoin
 
 ### 步驟二：轉帳 LikeCoin 到 ZB
 
-打開 [Liker Land 手機應用程式](https://liker.land/getapp)，點擊「我的錢包」，再點畫面上的「Like pay」（下圖紅圈位置）
+打開 [Liker Land 手機應用程式](https://liker.land/getapp)，點擊「我的錢包」，再點畫面上的「LIKE pay」（下圖紅圈位置）
 
-![&#x5728; Liker Land &#x624B;&#x6A5F;&#x61C9;&#x7528;&#x7A0B;&#x5F0F;&#x9322;&#x5305;&#x4ECB;&#x9762;&#x9078;&#x300C;Like pay&#x300D;&#xFF08;&#x7D05;&#x5708;&#xFF09;](../../.gitbook/assets/like-pay-1.png)
+![在 Liker Land 手機應用程式錢包介面選「Like pay」（紅圈）](../../.gitbook/assets/like-pay-1.png)
 
 進入下一頁後，點下圖紅圈位置的二維碼圖示。app 會跳進照相機介面讓你掃描二維碼，請掃描【步驟一】中你的 ZB 帳戶 LikeCoin 錢包二維碼
 
-![&#x9EDE;&#x4E0A;&#x5716;&#x7D05;&#x5708;&#x4F4D;&#x7F6E;&#x6253;&#x958B;&#x7167;&#x76F8;&#x6A5F;](../../.gitbook/assets/bitasset-trade-7.png)
+![點上圖紅圈位置打開照相機](../../.gitbook/assets/bitasset-trade-7.png)
 
 輸入你想要轉帳的 LikeCoin 金額，然後點擊「確認」
 
@@ -66,7 +66,7 @@ ZB 充值最小限额為 0.1 LikeCoin
 
 ![](../../.gitbook/assets/zb-trade-07.png)
 
-![&#x300C;&#x73B0;&#x8D27;&#x4E13;&#x4E1A;&#x7248;&#x300D;LIKE/USDT &#x4EA4;&#x6613;&#x9801;&#x9762;](../../.gitbook/assets/zb-trade-08.png)
+![「现货专业版」LIKE/USDT 交易頁面](../../.gitbook/assets/zb-trade-08.png)
 
 查看畫面右邊的「交易掛單」上方紅色列出的是掛出在市場上的「賣單」，以下圖的例子舉例，有人願意以 0.15720 USDT/LIKE 的價格賣出 362 LikeCoin，然後再有人願意以 0.016800 USDT/LIKE 的價格賣出 3300 LikeCoin。假設你想買入 3600 LikeCoin，你便可以最高價 0.016800 USDT/LIKE 的價格全數買入
 
@@ -99,4 +99,3 @@ ZB 充值最小限额為 0.1 LikeCoin
 回到【步驟一】的「财务」頁面尋找幣種，再點擊「提现」，在「LIKE 提现」或「USDT 提现」畫面（視乎你是購買還是賣出 LikeCoin），再填寫你的「提现地址」及輸入你的「提现数量」然後點擊「提现」，系統會要求你輸入「动态验证码」及「[资金密码](https://docs.like.co/v/zh/guides/trade/registering-on-zb#bu-zhou-san-zi-jin-mi-ma)」，再點擊「確認」即可完成提幣。你亦可以隨時在下方查看「提现纪录」。
 
 ![](../../.gitbook/assets/zb-trade-12.png)
-
