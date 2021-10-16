@@ -21,6 +21,7 @@
   * [Keplr](guides/wallet/keplr.md)
   * [Ledger](guides/wallet/hardware-wallet.md)
   * [Big Dipper](guides/wallet/big-dipper.md)
+  * [錢包地址](<guides/wallet/wallet address.md>)
   * [手續費](guides/wallet/transaction-fee.md)
   * [由 ERC-20 升級](guides/wallet/migration/README.md)
     * [升級 LikeCoin ERC-20 到 LikeCoin chain](guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
