@@ -82,7 +82,7 @@ If you login Liker ID by MetaMask wallet only, you can still follow the instruct
 
 ## Upgrade without a Liker ID
 
-Please [register a Liker ID with Liker Land](../../../user-guide/liker-id/register.md) or a [Keplr wallet](../../../user-guide/liker-id/register-with-keplr.md) in order to obtain a Cosmos wallet address.
+Please [register a Liker ID as usual ( with authcore )](../../../user-guide/liker-id/register.md) or a [Keplr wallet](../../../user-guide/liker-id/register-with-keplr.md) in order to obtain a Cosmos wallet address.
 
 You may want to check this out for checking the Cosmos wallet address on Big Dipper:
 
