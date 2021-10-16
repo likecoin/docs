@@ -147,3 +147,7 @@ node index.js fromOutputFile.csv
 ```
 
 The script will skip those records that already have iscnId, the “_update_” parameter is not given upon execution.
+
+{% hint style="info" %}
+If you would like to test on it before actual deployment, feel free to use the [LikeCoin chain testnet](https://github.com/likecoin/testnets/tree/master/likecoin-public-testnet-3).
+{% endhint %}
