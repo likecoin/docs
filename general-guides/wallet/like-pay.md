@@ -4,7 +4,7 @@ description: Transfer LikeCoin using Liker Land mobile app in a few clicks, no h
 
 # LIKE pay
 
-## Like pay on Liker Land app
+## LIKE pay on Liker Land app
 
 ### Step 1&#xD;
 
@@ -40,7 +40,7 @@ Some crypto exchanges may require input of Tag/Memo, please fill in the value he
 
 ![](../../.gitbook/assets/like-pay-4-en.png)
 
-## Like pay on Liker Land web
+## LIKE pay on Liker Land web
 
 ### Step 1
 
