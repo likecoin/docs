@@ -129,3 +129,7 @@ node index.js fromOutputFile.csv
 ```
 
 若沒加上 --update 參數，程式會自動跳過已有 iscnId 的記錄，只執行漏掉註冊的記錄。
+
+{% hint style="info" %}
+若希望先作測試才進行大量註冊，可使用 [LikeCoin Chain testnet](https://github.com/likecoin/testnets/tree/master/likecoin-public-testnet-3) 進行測試。
+{% endhint %}
