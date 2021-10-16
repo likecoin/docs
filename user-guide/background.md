@@ -1,5 +1,5 @@
 ---
-description: 以下為一些詞彙的解說，助你了解 LikeCoin 機制
+description: 以下為一些詞彙的解說，亦是憲法基礎，助你了解 LikeCoin 機制
 ---
 
 # 詞彙表
