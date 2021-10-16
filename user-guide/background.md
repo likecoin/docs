@@ -1,5 +1,7 @@
 ---
-description: From this glossary, you can learn more about the mechanism of Liker Land
+description: >-
+  From this Glossary and Constitution basic, you can learn more about the
+  mechanism of Liker Land
 ---
 
 # Glossary
