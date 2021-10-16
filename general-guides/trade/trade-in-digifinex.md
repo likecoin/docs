@@ -48,11 +48,15 @@ Input the amount of LikeCoin that you want to transfer, then click \[Confirm]
 
 Next step is to wait for DigiFinex to confirm the transfer.
 
+If you are using [Keplr](../wallet/keplr.md), please insert the memo in "Memo (Optional)" field.
+
+![](../../.gitbook/assets/keplr11.png)
+
 {% hint style="danger" %}
 DigiFinex requires you to input your "Tag/Memo" into the chain during deposit. If you do not fill in the "Tag/Memo" will result in not being able to deposit into DigiFinex. They will have to find a technician to assist you and require 7-21 days to fix it and a 10 USDT service fee. Your DigiFinext account needs to have such an amount of fee. Please contact [DigiFinex Customer Service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241--New-User-Guide-How-to-Find-the-Customer-Service) for handling.
 {% endhint %}
 
-#### DigiFinex Official Tutorial
+#### &#xD;DigiFinex Official Tutorial
 
 > [【Deposit】- How to Deposit in Website> ](https://digifinex.zendesk.com/hc/en-us/articles/360000519282--Deposit-How-to-Deposit-in-Website)
 
