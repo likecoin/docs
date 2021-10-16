@@ -53,7 +53,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 ### 步驟二：註冊 Liker ID
 
-在 [Liker Land 網頁版](https://liker.land)選「註冊」。
+在 [Liker Land 網頁版](https://liker.land) 選「註冊」。
 
 ![](../../.gitbook/assets/keplr-liker-id-00.png)
 
@@ -95,10 +95,32 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 
 ### 步驟三：查看錢包
 
-到 Liker Land 網頁版設定頁面，你會看到你 Liker ID 對應的 LikeCoin 錢包地址和 Keplr 所顯示的錢包地址相同，亦即代表你已成功使用 Keplr 開立 Liker ID。
+到 Liker Land 網頁版[設定頁面](https://like.co/in/settings)，你會看到你 Liker ID 對應的 LikeCoin 錢包地址和 Keplr 所顯示的錢包地址相同，亦即代表你已成功使用 Keplr 開立 Liker ID。
 
 ![](../../.gitbook/assets/keplr-liker-id-06.png)
 
 #### 延伸閱讀
 
 > [以 Keplr 錢包註冊 Liker ID> ](https://matters.news/@likecoin/%E4%BB%A5-keplr-%E9%8C%A2%E5%8C%85%E8%A8%BB%E5%86%8A-liker-id-bafyreidnwfvgapbpgfjgvayj4nqdodnldk3wm6x4hakw7yq2yytpzbuamu)
+
+### 步驟四：以 Keplr 登入 Liker Land
+
+註冊完成後，假如你需要重新登入 Liker Land，請先登入 Keplr，然後在 [Liker Land 網頁版](https://liker.land) 點「登入」。
+
+![](../../.gitbook/assets/keplr-liker-id-00.png)
+
+點擊右上角「以錢包登入」。
+
+![](../../.gitbook/assets/keplr-liker-id-01.png)
+
+點擊「以 Keplr 登入」。
+
+![](<../../.gitbook/assets/Keplr Liker ID 10.png>)
+
+點擊「接受」。
+
+![](<../../.gitbook/assets/Keplr Liker ID 09.png>)
+
+此時將彈出 Keplr 視窗 Chain Add Request，選「Approve」，即可登入 Liker Land。
+
+![](<../../.gitbook/assets/Keplr Liker ID 04.png>)
