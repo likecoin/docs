@@ -8,11 +8,11 @@ description: >-
 
 ### **Undelegation of LikeCoin from your validator**
 
-If you delegated LikeCoin to a validator but you want to get them back, you can utilize the \[Undelegate\] function of [Liker Land mobile app](https://liker.land/getapp). Please follow the steps:
+If you delegated LikeCoin to a validator but you want to get them back, you can utilize the \[Undelegate] function of [Liker Land mobile app](https://liker.land/getapp). Please follow the steps:
 
-1.  In the LikeCoin wallet page, click on the validator that you delegated \(displayed as green\)
-2. Go to the validatior page, click \[Undelegate\]
-3. Input the number of LikeCoin that you have to withdraw, click \[Confirm\]
+1.   In the LikeCoin wallet page, click on the validator that you delegated (displayed as green)
+2. Go to the validatior page, click \[Undelegate]
+3. Input the number of LikeCoin that you have to withdraw, click \[Confirm]
 
 ![](../../.gitbook/assets/undelegation-en.png)
 
@@ -28,6 +28,5 @@ Once you've confirmed your undelegation, the following happens:
 {% endhint %}
 
 {% hint style="danger" %}
-If you find that your LikeCoin undelegated was less than what you delegated to the validator, it may be the case that your [validator cannot validate the transaction properly](../../user-guide/background.md#9e68) and was penalized. Therefore, please choose your validator wisely.
+If you find that your LikeCoin undelegated was less than what you delegated to the validator, it may be the case that your validator [cannot validate the transaction properly](../../user-guide/background.md#9e68) and was penalized. Therefore, please choose your validator wisely.
 {% endhint %}
-
