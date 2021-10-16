@@ -1,5 +1,5 @@
 ---
-description: Transfer LikeCoin using Liker Land mobile app in a few clicks, no handling fee
+description: Transfer LikeCoin using Liker Land mobile app in a few clicks
 ---
 
 # LIKE pay
