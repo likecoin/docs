@@ -21,7 +21,7 @@ The core component of the infrastructure is [LikeCoin chain](https://likecoin.bi
 ## More about LikeCoin
 
 * **Website**: [Like.co](https://like.co) (for all stakeholders; in English), [Liker.Land](https://liker.land) (for readers and Content Jockey ), [ISCN App](https://app.like.co) (ISCN Registry), [iscn.io](https://iscn.io) (ISCN Specifications)
-* [**Discord**](https://discord.com/invite/W4DQ6peZZZ): development, governance discussion
+* ****[**Discord**](http://discord.gg/likecoin): development, governance discussion
 * ****[**Twitter**](https://twitter.com/likecoin):** **announcements
 * [**Telegram**](https://t.me/likecoin): announcements
 * [**Medium**](https://medium.com/likecoin) [publication](https://medium.com/likecoin): governance, progress update, products; in English

@@ -6,13 +6,18 @@ description: What is the requirement?
 
 Validator is completely open, no entry requirement, anyone who can build a server can be a validator.
 
-{% page-ref page="../general-guides/governance/" %}
+{% content-ref url="../general-guides/governance/" %}
+[governance](../general-guides/governance/)
+{% endcontent-ref %}
 
 For more technical information about LikeCoin chan validator, please check out the docs below:
 
-{% page-ref page="technical-introduction.md" %}
+{% content-ref url="technical-introduction.md" %}
+[technical-introduction.md](technical-introduction.md)
+{% endcontent-ref %}
 
-{% page-ref page="likecoin-chain-node/" %}
+{% content-ref url="likecoin-chain-node/" %}
+[likecoin-chain-node](likecoin-chain-node/)
+{% endcontent-ref %}
 
-If you have any questions please join [LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) and raise your hand in \#developer channel.
-
+If you have any questions please join [LikeCoin Discord](http://discord.gg/likecoin) and raise your hand.
