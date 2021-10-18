@@ -10,7 +10,7 @@ description: 社群溝通平台
 
 | **頻道名稱**        | **簡介**                    |
 | --------------- | ------------------------- |
-| read first      | 頻道介紹 Channel Introduction |
+| read-first      | 頻道介紹 Channel Introduction |
 | announcement 📣 | 必讀 Must Read              |
 | resource-link   | LikeCoin 知識庫              |
 
