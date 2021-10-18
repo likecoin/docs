@@ -41,6 +41,7 @@ description: >-
 
 ## Meeting Minutes
 
+* [LikeCoin Community Update #202110](https://medium.com/likecoin/likecoin-community-update-202110-8b4b2aab4e4f)
 * [LikeCoin Community Update #202109](https://medium.com/likecoin/likecoin-community-update-202109-a5722cb838dd)
 * [LikeCoin Community Update #202108](https://medium.com/likecoin/likecoin-community-update-202108-abb71c67145c)
 * [LikeCoin Community Call #202107 Minutes](https://medium.com/likecoin/likecoin-community-call-202107-minutes-7edeb276198d)
