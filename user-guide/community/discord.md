@@ -26,7 +26,7 @@ description: 社群溝通平台
 | **頻道名稱**                | 簡介                                                 |
 | ----------------------- | -------------------------------------------------- |
 | self-intro 🙋           | Tell us about yourself                             |
-| general 👥              | General Discussion                                 |
+| random 👥               | General Discussion                                 |
 | developers 🛠           | Anything related to LikeCoin technical development |
 | iscn 📚                 | Decentralized Publishing discussion                |
 | bug-report 🐛           | Report bugs on Liker Land DApps and network        |
