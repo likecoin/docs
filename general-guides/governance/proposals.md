@@ -22,7 +22,7 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ## Proposal #16 Token swap proposal between LIKE and NUM
 
-* Proposer: [Numbers Protocol](https://stake.like.co/validators/cosmosvaloper1hq97q6y84lmree83mg980c4twhtayjdfyvt8ar)
+* Proposer: Numbers Protocol
 * Proposal Type: Text Proposal
 * Date: Submit on 2021.09.04, Passed on 2020.09.23
 * Details: [https://likecoin.bigdipper.live/proposals/16](https://likecoin.bigdipper.live/proposals/16)
@@ -64,14 +64,14 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ## Proposal #10 Decrease minimum deposit for proposals to 10,000 LIKE&#xD;
 
-* Proposer: [Askender](https://matters.news/@askender)
+* Proposer: Askender
 * Proposal Type: Text Proposal
 * Date: Submit on 2021.02.27, Unable to reach deposit amount, proposal removed on 2020.03.18 
 * Details: [https://likecoin.bigdipper.live/proposals/10](https://likecoin.bigdipper.live/proposals/10)
 
 ## Proposal #9 Delegate the LIKE in the ecological pool
 
-* Proposer: [guanyun](https://matters.news/@guanyun/towards-a-republic-of-liker-land-the-9th-proposal-bafyreicn5r4jqcz267ksdcj3rjmxvkykwsrrw4q72as6j7k7k267k4xy24)
+* Proposer: guanyun
 * Proposal Type: Text Proposal
 * Date: Submit on 2021.02.08, Passed on 2020.02.22
 * Details: [https://likecoin.bigdipper.live/proposals/9](https://likecoin.bigdipper.live/proposals/9)
@@ -85,21 +85,21 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ## Proposal #7 Increase the inflation rate from 2% to dynamic inflation rate 7% - 20%
 
-* Proposer: [guanyun](https://matters.news/@guanyun/towards-a-republic-of-liker-land-the-7th-proposal-bafyreidbbvg5yuili2cglawzygkn4mvhg2ghjjdzlytonrnc4tcocyucsq)
+* Proposer: guanyun
 * Proposal Type: Parameter Change Proposal
 * Date: Submit on 2021.01.06, Passed on 2021.01.22
 * Details: [https://likecoin.bigdipper.live/proposals/7](https://likecoin.bigdipper.live/proposals/7)
 
 ## Proposal #6 Increasing the inflation rate from 2% to 7%
 
-* Proposer: [guanyun](https://matters.news/@guanyun/like-coin-chain-proposal-6-increase-the-inflation-rate-from-2-to-7-bafyreibnqz6rbx2rcmc6o5nujogobaou2rh7sdtogmkkfgbdf2gjzq74lq)
+* Proposer: guanyun
 * Proposal Type: Parameter Change Proposal
 * Date: Submit on 2020.11.13, Unable to reach deposit amount, proposal removed on 2020.12.07 
 * Details: [https://likecoin.bigdipper.live/proposals/6](https://likecoin.bigdipper.live/proposals/6)
 
 ## Proposal #5 Increasing the inflation rate from 1% to 2%
 
-* Proposer: [Oldcat](https://matters.news/@oldcat/like-coin-chain-proposal-5-increase-the-inflation-rate-from-1-to-2-bafyreigehviegtfl42orweqj5nc2wn2ccapukjm2jhwf3qzcntl7qyxaby)
+* Proposer: [Old Cat](https://matters.news/@oldcat/like-coin-chain-proposal-5-increase-the-inflation-rate-from-1-to-2-bafyreigehviegtfl42orweqj5nc2wn2ccapukjm2jhwf3qzcntl7qyxaby)
 * Proposal Type: Parameter Change Proposal
 * Date: Submit on 2020.10.14, Passed on 2020.11.10
 * Details: [https://likecoin.bigdipper.live/proposals/5](https://likecoin.bigdipper.live/proposals/5)
@@ -114,7 +114,7 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ## Proposal #3 Increasing the number of active validators from 10 to 25
 
-* Proposer: [NTUT (Taipei Tech)](https://likecoin.bigdipper.live/validator/9A810D60E0BF1D5D1C81B03CCF2923C6404FECE3)
+* Proposer: NTUT (Taipei Tech)
 * Proposal Type: Parameter Change Proposal
 * Date: Submit on 2020.07.10, Passed on 2020.07.26
 * Details: [https://likecoin.bigdipper.live/proposals/3](https://likecoin.bigdipper.live/proposals/3)
