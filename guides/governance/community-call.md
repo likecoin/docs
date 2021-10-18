@@ -42,6 +42,7 @@ LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，�
 
 ## 會議記錄 <a href="minutes" id="minutes"></a>
 
+* [LikeCoin Community Update #202110](https://medium.com/likecoin/likecoin-community-update-202110-8b4b2aab4e4f)
 * [LikeCoin Community Update #202109](https://medium.com/likecoin/likecoin-community-update-202109-a5722cb838dd)
 * [LikeCoin Community Update #202108](https://medium.com/likecoin/likecoin-community-update-202108-abb71c67145c)
 * [LikeCoin Community Call #202107 Minutes  ](https://medium.com/likecoin/likecoin-community-call-202107-minutes-7edeb276198d)
