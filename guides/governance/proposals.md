@@ -22,7 +22,7 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ## 議案 #16 LIKE 與 NUM 進行通證互換
 
-* **提案**：[Numbers Protocol](https://stake.like.co/validators/cosmosvaloper1hq97q6y84lmree83mg980c4twhtayjdfyvt8ar)
+* **提案**：Numbers Protocol
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2021.09.04 提案，2021.09.23 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/16](https://likecoin.bigdipper.live/proposals/16)
@@ -57,21 +57,21 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ## 議案 #11 提高活躍驗證人名額由 25 名至 50 名&#xD;
 
-* **提案**：[Oldcat](https://matters.news/@oldcat/like-coin-chain-proposal-11-increasing-the-maximum-number-of-active-validators-from-25-to-50-bafyreifshurtp5w4i7ovcwu274sr4iknrtdhsy2s2vrunlwzmnz4kp4mwa)
+* **提案**：[Old Cat](https://matters.news/@oldcat/like-coin-chain-proposal-11-increasing-the-maximum-number-of-active-validators-from-25-to-50-bafyreifshurtp5w4i7ovcwu274sr4iknrtdhsy2s2vrunlwzmnz4kp4mwa)
 * **類型**：參數修訂議案 ( parameter change proposal )
 * **日期**：2021.03.27 提案，2020.04.12 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/11](https://likecoin.bigdipper.live/proposals/11)
 
 ## 議案 #10 發起議案的押金改為 10,000 LIKE
 
-* **提案**：[Askender](https://matters.news/@askender)
+* **提案**：Askender
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2021.02.27 提案，2021.03.18 押金不足，提案被移除
 * **詳情**：[https://likecoin.bigdipper.live/proposals/10](https://likecoin.bigdipper.live/proposals/10)
 
 ## 議案 #9 委託生態池的 LikeCoin
 
-* **提案**：[guanyun](https://matters.news/@guanyun/towards-a-republic-of-liker-land-the-9th-proposal-bafyreicn5r4jqcz267ksdcj3rjmxvkykwsrrw4q72as6j7k7k267k4xy24)
+* **提案**：guanyun
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2021.02.08 提案，2020.02.22 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/9](https://likecoin.bigdipper.live/proposals/9)
@@ -85,21 +85,21 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ## 議案 #7 將現有的通脹率由 2% 改成 7% - 20% 的動態範圍
 
-* **提案**：[guanyun](https://matters.news/@guanyun/towards-a-republic-of-liker-land-the-7th-proposal-bafyreidbbvg5yuili2cglawzygkn4mvhg2ghjjdzlytonrnc4tcocyucsq)
+* **提案**：guanyun
 * **類型**：參數修訂議案 ( parameter change proposal )
 * **日期**：2021.01.06 提案，2020.01.22 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/7](https://likecoin.bigdipper.live/proposals/7)
 
 ## 議案 #6 驗證交易的增發率由 2% 提升至 7%
 
-* **提案**：[guanyun](https://matters.news/@guanyun/like-coin-chain-proposal-6-increase-the-inflation-rate-from-2-to-7-bafyreibnqz6rbx2rcmc6o5nujogobaou2rh7sdtogmkkfgbdf2gjzq74lq)
+* **提案**：guanyun
 * **類型**：參數修訂議案 ( parameter change proposal )
 * **日期**：2020.11.13 提案，2020.12.07 押金不足，提案被移除
 * **詳情**：[https://likecoin.bigdipper.live/proposals/6](https://likecoin.bigdipper.live/proposals/6)
 
 ## 議案 #5 驗證交易的增發率由 1% 提升至 2%
 
-* **提案**：[Oldcat](https://matters.news/@oldcat/like-coin-chain-proposal-5-increase-the-inflation-rate-from-1-to-2-bafyreigehviegtfl42orweqj5nc2wn2ccapukjm2jhwf3qzcntl7qyxaby)
+* **提案**：[Old Cat](https://matters.news/@oldcat/like-coin-chain-proposal-5-increase-the-inflation-rate-from-1-to-2-bafyreigehviegtfl42orweqj5nc2wn2ccapukjm2jhwf3qzcntl7qyxaby)
 * **類型**：參數修訂議案 ( parameter change proposal )
 * **日期**：2020.10.14 提案，2020.11.10 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/5](https://likecoin.bigdipper.live/proposals/5)
@@ -114,7 +114,7 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ## 議案 #3 提高驗證人名額至 25 名 <a href="3" id="3"></a>
 
-* **提案**：[北科大區塊鏈社](https://likecoin.bigdipper.live/validator/9A810D60E0BF1D5D1C81B03CCF2923C6404FECE3)
+* **提案**：北科大區塊鏈社
 * **類型**：參數修訂議案 ( parameter change proposal )
 * **日期**：2020.07.10 提案，2020.07.26 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/3](https://likecoin.bigdipper.live/proposals/3)
