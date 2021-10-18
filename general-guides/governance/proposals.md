@@ -57,7 +57,7 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ## Proposal #11 Increasing the maximum number of active validators from 25 to 50&#xD;
 
-* Proposer: [Oldcat](https://matters.news/@oldcat/like-coin-chain-proposal-11-increasing-the-maximum-number-of-active-validators-from-25-to-50-bafyreifshurtp5w4i7ovcwu274sr4iknrtdhsy2s2vrunlwzmnz4kp4mwa)
+* Proposer: [Old Cat](https://matters.news/@oldcat/like-coin-chain-proposal-11-increasing-the-maximum-number-of-active-validators-from-25-to-50-bafyreifshurtp5w4i7ovcwu274sr4iknrtdhsy2s2vrunlwzmnz4kp4mwa)
 * Proposal Type: Parameter Change Proposal
 * Date: Submit on 2021.03.27, Passed on 2020.04.12
 * Details: [https://likecoin.bigdipper.live/proposals/11](https://likecoin.bigdipper.live/proposals/11)
