@@ -19,7 +19,7 @@ description: A communication platform
 | **Channel Name**        | **Description**                                    |
 | ----------------------- | -------------------------------------------------- |
 | self-intro 🙋           | Tell us about yourself                             |
-| genera 👥               | General Discussion                                 |
+| random 👥               | General Discussion                                 |
 | developers 🛠           | Anything related to LikeCoin technical development |
 | iscn 📚                 | Decentralized Publishing discussion                |
 | bug-report 🐛           | Report bugs on Liker Land DApps and network        |
