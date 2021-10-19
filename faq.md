@@ -4,7 +4,7 @@ description: Frequently Asked Questions
 
 # FAQ
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGKCas6shf9dDCwB3j%2F-MHGMnmjM4yyGSTVqz7T%2FLikeCoin_AD27\_Small_Update-01.png?alt=media\&token=a3cb3c10-3742-4ef9-b99a-3e05e2f82a11)
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGKCas6shf9dDCwB3j%2F-MHGMnmjM4yyGSTVqz7T%2FLikeCoin\_AD27\_Small\_Update-01.png?alt=media\&token=a3cb3c10-3742-4ef9-b99a-3e05e2f82a11)
 
 ## [​LikeCoin - Decentralized Publishing](./) <a href="likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
@@ -17,12 +17,14 @@ description: Frequently Asked Questions
 * [What will happen if the content is updated? Does ISCN support versioning?](general-guides/decentralized-publishing/what-is-iscn.md)
 * [Does ISCN support content stored on IPFS only?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [What type of content is supported by ISCN?](general-guides/decentralized-publishing/content-type.md)
+* [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co.md)
+* [Can I register for ISCN in a batch?](general-guides/decentralized-publishing/iscn-batch-uploader.md)
 
-## [LikeCoin Overview&#xD;](general-guides/about/) <a href="likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+[LikeCoin Overview](general-guides/about/) <a href="likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+----------------------------------------------------------------------------------------------------------------------------
 
 * ​[What is LikeCoin?](./)
 * [What is the usage of LikeCoin token?](general-guides/likecoin-token.md)
-* What are the operation statistics?
 * [What are the updates on LikeCoin?](archive/archive/updates/)
 * [What does the media say about LikeCoin?](general-guides/about/on-the-news/)
 * [Does LikeCoin provide branding and design materials for download?](general-guides/about/presskit.md)
@@ -34,13 +36,15 @@ description: Frequently Asked Questions
 * [How to transfer LikeCoin?](general-guides/wallet/like-pay.md)
 * [Is there a decentralized wallet for LikeCoin?  ](general-guides/wallet/keplr.md)
 * [Does LikeCoin support hardware wallets?](general-guides/wallet/hardware-wallet.md)
+* [How to find my wallet address?](general-guides/wallet/wallet-address.md)
 * [Any block explorer for LikeCoin?](general-guides/wallet/big-dipper.md)
 * [Is there a transaction fee?](general-guides/wallet/transaction-fee.md)
+* [How to handle my LikeCoin ERC-20 token?](general-guides/wallet/migration/)
 
 ## [Trade](general-guides/trade/)
 
 * [How to trade LikeCoin into other cryptocurrency or fiat money?](general-guides/trade/)
-* [Can I buy LikeCoin by credit card?](general-guides/trade/trade-in-liquid.md#purchase-likecoin-with-credit-card)
+* [Can I buy LikeCoin by credit card?](general-guides/trade/trade-in-liquid.md#bylikecoinwithcreditcard)
 
 ## [Stake](general-guides/stake/) <a href="wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
@@ -55,6 +59,8 @@ description: Frequently Asked Questions
 * [How to become a validator?](validator/become-a-validator.md)****
 * [How can the validator receive community fund delegation from ccological pools‌?](general-guides/governance/what-is-a-validator/community-funds-application.md)
 * ​​[How many proposals proceeded by the Republic of Liker Land?](general-guides/governance/proposals.md)
+* [How to deposit for a proposal?](general-guides/governance/proposal-deposit.md)
+* [How to vote for a proposal?](general-guides/governance/direct-vote.md)
 * [What is LikeCoin Grants?](general-guides/governance/likecoin-grants.md)
 * [​How to join the community call?](general-guides/governance/community-call.md)
 
@@ -93,7 +99,7 @@ description: Frequently Asked Questions
 
 ## [​Liker ID​](user-guide/liker-id/) <a href="liker-id" id="liker-id"></a>
 
-* [How to register a Liker ID?](user-guide/liker-id/register.md)
+* [How to register a Liker ID?](user-guide/liker-id/)
 * [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](user-guide/liker-id/reset-password.md)
 * [What is Authcore?](user-guide/liker-id/what-is-authcore.md)
 
