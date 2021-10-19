@@ -1,5 +1,5 @@
 ---
-description: Exchanging LikeCoin
+description: How to trade LikeCoin
 ---
 
 # Trade
@@ -21,8 +21,8 @@ Transferring LikeCoin to crypto exchange requires the use of a [wallet](../walle
 
 You may also want to check out:
 
-
-
 {% content-ref url="../../user-guide/community/products-and-services.md" %}
 [products-and-services.md](../../user-guide/community/products-and-services.md)
 {% endcontent-ref %}
+
+
