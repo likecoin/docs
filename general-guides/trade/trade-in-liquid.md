@@ -4,7 +4,7 @@ description: Buy and Swap LikeCoin. Instantly
 
 # Trade in Liquid
 
-## Quick Exchange
+## Quick Exchange <a href="quickexchange" id="quickexchange"></a>
 
 [Quick Exchange ](https://app.liquid.com/quick-exchange)provides a simple interface for users to exchange LikeCoin.
 
@@ -14,7 +14,7 @@ description: Buy and Swap LikeCoin. Instantly
 
 ![](../../.gitbook/assets/liquid-qe.gif)
 
-### **Exchange LikeCoin with fiat money or others cryptocurrency**
+### **Exchange LikeCoin with fiat money or others cryptocurrency** <a href="tradelikecoin" id="tradelikecoin"></a>
 
 * On the Quick Exchange interface, select the "Swap" tab
 * Select the type of currency that you would like to sell, on "EXCHANGE" select LIKE, on "RECEIVE" select fiat or other cryptocurrency for example BTC/ETH/USDC/USDT. If you would like to buy LikeCoin, revise the logic.
@@ -25,7 +25,7 @@ description: Buy and Swap LikeCoin. Instantly
 
 ![](../../.gitbook/assets/quick-exchange-1-en.png)
 
-### Purchase LikeCoin with credit card
+### Purchase LikeCoin with credit card <a href="bylikecoinwithcreditcard" id="bylikecoinwithcreditcard"></a>
 
 * Accept Visa or MasterCard in some of the countries
 * Minimum purchase amount is approximately USD15 or equivalent fiats
