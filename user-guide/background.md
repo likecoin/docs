@@ -1,5 +1,5 @@
 ---
-description: 以下為一些詞彙的解說，亦是憲法基礎，助你了解 LikeCoin 機制
+description: 以下為一些詞彙的解說，亦是憲法基礎，助你了解讚賞公民共和國機制
 ---
 
 # 詞彙表
@@ -61,7 +61,7 @@ _讚賞公民共和國 _立國後，第一批共 7 組承擔重任的 _驗證人
 * [Matters Lab](https://matters.news)
 * [GLOs](https://www.glos.world) x [UDomain](https://www.udomain.com)
 
-![LikeCoin chain 首批驗證人](../.gitbook/assets/likecoin_ad70\_validators-01.png)
+![LikeCoin chain 首批驗證人](../.gitbook/assets/likecoin\_ad70\_validators-01.png)
 
 ## 機制 <a href="d993" id="d993"></a>
 
@@ -122,7 +122,7 @@ _Liker_ 委託 _LikeCoin_ 予 _驗證人_ 不只可以參與驗證帳目及賺�
 * **社群基金議案** － 社群可透過議案動用**社群基金**。
 * **文字議案 **－ 任何無法以上述兩種議案照顧到的議題，都可藉文字議案取得基礎共識，例如：治理原則議案。過往曾通過的文字議案，如需開發直接民主選項、授權委託生態發展池基金等。
 
- 現版本 LikeCoin chain 升級到 FoTan 後，將多支援兩種議案類型：**軟件升級議案**、及**取消軟件升級議案**。
+&#x20;現版本 LikeCoin chain 升級到 FoTan 後，將多支援兩種議案類型：**軟件升級議案**、及**取消軟件升級議案**。
 
 所有 _驗證人_ 均可以動議議案，議案需於_**兩週內**_ 獲任何人存入十萬 _LikeCoin_ 保證金才可以進入投票程序。保證金不一定完全來自提出動議的 _驗證人_，也可以由其他 _驗證人_ 及 _Likers_ 提供。
 
