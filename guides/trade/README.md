@@ -1,5 +1,5 @@
 ---
-description: 支援 LikeCoin 的交易所
+description: 如何交易 LikeCoin？
 ---
 
 # 交易
@@ -17,13 +17,10 @@ description: 支援 LikeCoin 的交易所
 
 ### 場外交易
 
-LikeCoin Grants 衍生項目 LikeCoin 場外交易 讓買賣雙方直接聯繫與交易，詳見 [馬特市銀行](https://matters.news/\~lotc)。
+[LikeCoin Grants](../governance/likecoin-grants.md) 衍生項目 [LikeCoin 場外交易](https://lotc.netlify.app) 讓買賣雙方直接聯繫與交易，詳見 [馬特市銀行](https://matters.news/\~lotc)。
 
 你也可能對以下條目有興趣：
 
 {% content-ref url="../../user-guide/community/products-and-services.md" %}
 [products-and-services.md](../../user-guide/community/products-and-services.md)
 {% endcontent-ref %}
-
-
-
