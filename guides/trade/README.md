@@ -17,7 +17,7 @@ description: 支援 LikeCoin 的交易所
 
 ### 場外交易
 
-LikeCoin Grants 衍生項目 LikeCoin 場外交易 讓買賣雙方直接聯繫與交易，詳見 [馬特市銀行](https://matters.news/\~lotc)
+LikeCoin Grants 衍生項目 LikeCoin 場外交易 讓買賣雙方直接聯繫與交易，詳見 [馬特市銀行](https://matters.news/\~lotc)。
 
 你也可能對以下條目有興趣：
 
