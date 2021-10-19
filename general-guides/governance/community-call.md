@@ -17,7 +17,7 @@ description: >-
 
 ## **2021 Date & Schedule**
 
-| **Date **           | Description                                             |
+| **Date **           | **Description**                                         |
 | ------------------- | ------------------------------------------------------- |
 | Monday, 1 November  |                                                         |
 | Monday, 4 October   | IBC on LikeCoin chain, ISCN card released               |
@@ -28,16 +28,16 @@ description: >-
 
 ## **Call Time**
 
-| Location    | Local Time | Time Zone | UTC Offset |
-| ----------- | ---------- | --------- | ---------- |
-| Hong Kong   | 18:30:00   | UTC+8     | UTC+8      |
-| Taipei      | 18:30:00   | CST       | UTC+8      |
-| Los Angelas | 03:00:00   | PDT       | UTC-7      |
-| New York    | 06:00:00   | EDT       | UTC-4      |
-| London      | 11:00:00   | BST       | UTC+1      |
-| Toronto     | 06:00:00   | EDT       | UTC-4      |
+| **Location** | **Local Time** | **Time Zone** | **UTC Offset** |
+| ------------ | -------------- | ------------- | -------------- |
+| Hong Kong    | 18:30:00       | UTC+8         | UTC+8          |
+| Taipei       | 18:30:00       | CST           | UTC+8          |
+| Los Angelas  | 03:00:00       | PDT           | UTC-7          |
+| New York     | 06:00:00       | EDT           | UTC-4          |
+| London       | 11:00:00       | BST           | UTC+1          |
+| Toronto      | 06:00:00       | EDT           | UTC-4          |
 
-![](../../.gitbook/assets/likecoin_ad70\_validators-01.png)
+![](../../.gitbook/assets/likecoin\_ad70\_validators-01.png)
 
 ## Meeting Minutes
 

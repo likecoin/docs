@@ -1,6 +1,10 @@
+---
+description: Deposit LikeCoin and make the voting starts
+---
+
 # Proposal Deposit
 
-Since the [FoTan](https://cloudflare-ipfs.com/ipfs/Qmb7AYNsbRJ95dWXCYCkUbpypAVfuxMZwB1D8wFHfwrLyc/) upgrade, likers can directly deposit the likecoin required to click start proposal voting. 
+Since the [FoTan](https://cloudflare-ipfs.com/ipfs/Qmb7AYNsbRJ95dWXCYCkUbpypAVfuxMZwB1D8wFHfwrLyc/) upgrade, likers can directly deposit the likecoin required to click start proposal voting.&#x20;
 
 Any validator can raise a proposal. In order to have a proposal to enter the voting period, 100k LikeCoin has to be deposited within 2 weeks. The deposit may come from other validators and Likers.
 
@@ -8,7 +12,8 @@ In case the proposal fails to get 100k LikeCoin deposit in 2-week time, the prop
 
 Please note, if the proposal fails to achieve quorum, or gets more than 1/3 voting power as veto, then the proposal will be turned down and the deposited LikeCoin will be expropriated to the Community Pool; else the deposit will be transferred back to the owners.
 
-## &#xD;How to deposit LikeCoin for a proposal 
+How to deposit LikeCoin for a proposal&#x20;
+--------------------------------------------
 
 ### Step 1. Login stake.like.co
 
