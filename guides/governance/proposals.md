@@ -4,7 +4,7 @@ description: 讚賞公民共和國有過甚麼議案？
 
 # 歷史議案
 
-![](<../../.gitbook/assets/likecoin_ad59\_banner (1).png>)
+![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
 ## 議案 #18 議案投票期縮短為 7 天
 
@@ -55,7 +55,8 @@ description: 讚賞公民共和國有過甚麼議案？
 * **日期**：2021.05.18 提案，2020.06.02 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/12](https://likecoin.bigdipper.live/proposals/12)
 
-## 議案 #11 提高活躍驗證人名額由 25 名至 50 名&#xD;
+議案 #11 提高活躍驗證人名額由 25 名至 50 名
+
 
 * **提案**：[Old Cat](https://matters.news/@oldcat/like-coin-chain-proposal-11-increasing-the-maximum-number-of-active-validators-from-25-to-50-bafyreifshurtp5w4i7ovcwu274sr4iknrtdhsy2s2vrunlwzmnz4kp4mwa)
 * **類型**：參數修訂議案 ( parameter change proposal )
