@@ -8,11 +8,15 @@ Matters 預設已經整合讚賞鍵。只需綁定 Liker ID 及 Matters ID，你
 
 假若你經已有 Liker ID 請留意綁定細節，否則有機會在註冊 Matters 時生成了多餘的 Liker ID。
 
+{% hint style="danger" %}
+Matters 並不支援綁定[以 Keplr 註冊的 Liker ID](../liker-id/register-with-keplr.md)。
+{% endhint %}
+
 ## 如何綁定現有 Liker ID
 
 ### 步驟一
 
-訪問 [Matters 網站](https://matters.news/)。
+訪問 [Matters 網站](https://matters.news)。
 
 ### 步驟二
 
@@ -44,7 +48,7 @@ Matters 的讚賞鍵很簡潔，位於文章的最底部，見下圖。
 
 ### 參考文章
 
-> > [Matters 作者工具箱 \| 新手必看（2021.07.30更新）](https://matters.news/@hi176/matters-%E4%BD%9C%E8%80%85%E5%B7%A5%E5%85%B7%E7%AE%B1-%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B-2021-07-30%E6%9B%B4%E6%96%B0-bafyreiaycr64hciqsxnrsecnw3wlnelpqj6p3d3fluiavxcoz4esild35e)[](https://matters.news/guide)
+> > [Matters 作者工具箱 | 新手必看（2021.07.30更新）](https://matters.news/@hi176/matters-%E4%BD%9C%E8%80%85%E5%B7%A5%E5%85%B7%E7%AE%B1-%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B-2021-07-30%E6%9B%B4%E6%96%B0-bafyreiaycr64hciqsxnrsecnw3wlnelpqj6p3d3fluiavxcoz4esild35e)[> > ](https://matters.news/guide)
 
 ## 「一鍵搬家」功能
 
@@ -52,9 +56,8 @@ Matters 於 2020年3月推出[一鍵搬家](https://matters.news/migration)功�
 
 ### 參考文章
 
-> [一鍵從 Medium 搬家到 Matters](https://matters.news/@mingnhsu/%E4%B8%80%E9%8D%B5%E5%BE%9E-medium-%E6%90%AC%E5%AE%B6%E5%88%B0-matters-bafyreiggcgm7kn2el26rxsydny6obyklqlfo6rd3dphkc27olio4eqiyxi)
+> [一鍵從 Medium 搬家到 Matters> ](https://matters.news/@mingnhsu/%E4%B8%80%E9%8D%B5%E5%BE%9E-medium-%E6%90%AC%E5%AE%B6%E5%88%B0-matters-bafyreiggcgm7kn2el26rxsydny6obyklqlfo6rd3dphkc27olio4eqiyxi)
 
 > [Medium「一鍵搬家」功能試用手記](https://matters.news/@fkh01/medium-%E4%B8%80%E9%8D%B5%E6%90%AC%E5%AE%B6-%E5%8A%9F%E8%83%BD%E8%A9%A6%E7%94%A8%E6%89%8B%E8%A8%98-bafyreigbozowkdvkn7hujosrwsgonjdyzhtohiunlkhsakmgxk2gr3og3a)
 
-> [一樣菜 百樣賣：Medium一鍵搬家到Matters的試用心得](https://matters.news/@islander/%E4%B8%80%E6%A8%A3%E8%8F%9C-%E7%99%BE%E6%A8%A3%E8%B3%A3-medium%E4%B8%80%E9%8D%B5%E6%90%AC%E5%AE%B6%E5%88%B0matters%E7%9A%84%E8%A9%A6%E7%94%A8%E5%BF%83%E5%BE%97-bafyreicoek6ybzguk3vwwtajuwt2dmxf5367qsahpgpstyp3sryu6wtfle)
-
+> [一樣菜 百樣賣：Medium一鍵搬家到Matters的試用心得> ](https://matters.news/@islander/%E4%B8%80%E6%A8%A3%E8%8F%9C-%E7%99%BE%E6%A8%A3%E8%B3%A3-medium%E4%B8%80%E9%8D%B5%E6%90%AC%E5%AE%B6%E5%88%B0matters%E7%9A%84%E8%A9%A6%E7%94%A8%E5%BF%83%E5%BE%97-bafyreicoek6ybzguk3vwwtajuwt2dmxf5367qsahpgpstyp3sryu6wtfle)
