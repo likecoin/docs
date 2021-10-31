@@ -4,13 +4,34 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 # Proposals
 
-![](<../../.gitbook/assets/likecoin_ad59\_banner (1).png>)
+![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
+
+## Proposal #21 Allocate USDe250,000 of LIKE to LIKE/ATOM pool on Emeris
+
+* Proposer: [LikeCoin Foundation](https://matters.news/@likecoin/allocate-us-de250-000-of-like-to-like-atom-pool-on-emeris-bafyreidx5ydsusdgtf2baz5wzt7uzk7m2awkbt2mbprpr5rn2bzwzik7ey)
+* Proposal Type: Text Proposal
+* Date: Submit on 2021.10.26, Passed on&#x20;
+* Details: [https://likecoin.bigdipper.live/proposals/21](https://likecoin.bigdipper.live/proposals/21)
+
+## Proposal #20 Propose new set of rules and structure of the Community Delegation Committee
+
+* Proposer: [yasu](https://gateway.pinata.cloud/ipfs/QmePqxk7n2329ceR323i2asYHyiXYnWaKgmNA3wrfu1tqX)
+* Proposal Type: Text Proposal
+* Date: Submit on 2021.10.23, Passed on&#x20;
+* Details: [https://likecoin.bigdipper.live/proposals/20](https://likecoin.bigdipper.live/proposals/20)
+
+## Proposal #19 Sponsor Cosmos HackAtom VI with ecosystem development fund
+
+* Proposer: [Liker.Social](https://ipfs.io/ipfs/QmNkaSYvapxtMitLxxYAra5C3hrMFgKJPjGZcgjNPc2w5o/)
+* Proposal Type: Text Proposal
+* Date: Submit on 2021.10.23, Passed on&#x20;
+* Details: [https://likecoin.bigdipper.live/proposals/19](https://likecoin.bigdipper.live/proposals/19)
 
 ## Proposal #18 Change the voting period of governance proposals from 14 days to 7 days
 
 * Proposer: [Old Cat](https://matters.news/@oldcat/like-coin-chain-proposal-18-change-the-voting-period-of-governance-proposals-from-14-days-to-7-days-bafyreihe667tt2chrqtpzjumigtc2uljjlzo3nomcsguuovlupzerovjc4)
 * Proposal Type: Parameter Change Proposal
-* Date: Submit on 2021.10.09, 
+* Date: Submit on 2021.10.09, Passed on 2020.10.22
 * Details: [https://likecoin.bigdipper.live/proposals/18](https://likecoin.bigdipper.live/proposals/18)
 
 ## Proposal #17 Enable IBC send and receive
@@ -41,37 +62,41 @@ description: How many proposals proceeded by the Republic of Liker Land?
 * Date: Submit on 2021.07.30 but abandoned due to wrong context
 * Details: [https://likecoin.bigdipper.live/proposals/14](https://likecoin.bigdipper.live/proposals/14)
 
-## Proposal #13 Upgrade LikeCoin chain mainnet to FoTan&#xD;
+Proposal #13 Upgrade LikeCoin chain mainnet to FoTan
+
 
 * Proposer: sixwood​
 * Proposal Type: Text Proposal
 * Date: Submit on 2021.07.30 but abandoned due to wrong context
 * Details: [https://likecoin.bigdipper.live/proposals/13](https://likecoin.bigdipper.live/proposals/13)
 
-## Proposal #12 Changing the way of delegate the ecological's LikeCoin in the validators&#xD;
+Proposal #12 Changing the way of delegate the ecological's LikeCoin in the validators
+
 
 * Proposer: [guanyun](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHAN5XbPEY/)
 * Proposal Type: Text Proposal
 * Date: Submit on 2021.05.18, Passed on 2020.06.02
 * Details: [https://likecoin.bigdipper.live/proposals/12](https://likecoin.bigdipper.live/proposals/12)
 
-## Proposal #11 Increasing the maximum number of active validators from 25 to 50&#xD;
+Proposal #11 Increasing the maximum number of active validators from 25 to 50
+
 
 * Proposer: [Old Cat](https://matters.news/@oldcat/like-coin-chain-proposal-11-increasing-the-maximum-number-of-active-validators-from-25-to-50-bafyreifshurtp5w4i7ovcwu274sr4iknrtdhsy2s2vrunlwzmnz4kp4mwa)
 * Proposal Type: Parameter Change Proposal
 * Date: Submit on 2021.03.27, Passed on 2020.04.12
 * Details: [https://likecoin.bigdipper.live/proposals/11](https://likecoin.bigdipper.live/proposals/11)
 
-## Proposal #10 Decrease minimum deposit for proposals to 10,000 LIKE&#xD;
+Proposal #10 Decrease minimum deposit for proposals to 10,000 LIKE
+
 
 * Proposer: Askender
 * Proposal Type: Text Proposal
-* Date: Submit on 2021.02.27, Unable to reach deposit amount, proposal removed on 2020.03.18 
+* Date: Submit on 2021.02.27, Unable to reach deposit amount, proposal removed on 2020.03.18&#x20;
 * Details: [https://likecoin.bigdipper.live/proposals/10](https://likecoin.bigdipper.live/proposals/10)
 
 ## Proposal #9 Delegate the LIKE in the ecological pool
 
-* Proposer: guanyun
+* Proposer: [guanyun](https://ipfs.io/ipfs/QmeQH8ucbPnerrbTEkJ3GnjWfLUo9DAioq6EHcmHXvNsL9/)
 * Proposal Type: Text Proposal
 * Date: Submit on 2021.02.08, Passed on 2020.02.22
 * Details: [https://likecoin.bigdipper.live/proposals/9](https://likecoin.bigdipper.live/proposals/9)
@@ -94,7 +119,7 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 * Proposer: guanyun
 * Proposal Type: Parameter Change Proposal
-* Date: Submit on 2020.11.13, Unable to reach deposit amount, proposal removed on 2020.12.07 
+* Date: Submit on 2020.11.13, Unable to reach deposit amount, proposal removed on 2020.12.07&#x20;
 * Details: [https://likecoin.bigdipper.live/proposals/6](https://likecoin.bigdipper.live/proposals/6)
 
 ## Proposal #5 Increasing the inflation rate from 1% to 2%
@@ -119,14 +144,16 @@ description: How many proposals proceeded by the Republic of Liker Land?
 * Date: Submit on 2020.07.10, Passed on 2020.07.26
 * Details: [https://likecoin.bigdipper.live/proposals/3](https://likecoin.bigdipper.live/proposals/3)
 
-## Proposal #2 Increasing the number of active validators from 10 to 25&#xD;
+Proposal #2 Increasing the number of active validators from 10 to 25
+
 
 * Proposer: [NTUT (Taipei Tech)](https://matters.news/@dAAAb/like-coin-chain-proposal-2-increasing-the-number-of-active-validators-from-10-to-25-bafyreic2jaqtzaaql2dkauay5ogybtqy3tlltwzrj665ong2sg7uks7zsu)
 * Proposal Type: Signaling Proposal
 * Date: Submit on 2020.06.17, Passed on 2020.07.08
 * Details: [https://likecoin.bigdipper.live/proposals/2](https://likecoin.bigdipper.live/proposals/2)
 
-## Proposal #1 Relaxing validator requirements to transform LikeCoin chain to a permissionless, BPoS mechanism&#xD;
+Proposal #1 Relaxing validator requirements to transform LikeCoin chain to a permissionless, BPoS mechanism
+
 
 * Proposer: [Matters](https://matters.news/@likecoin/like-coin-chain-proposal-1-relaxing-validator-requirements-to-transform-like-coin-chain-to-a-permissionless-b-po-s-mechanism-bafyreienrrgu5a35wvgztutzjzl6hey5csqdhimukzrpxfp64xn223fi5q)
 * Proposal Type: Parameter Change Proposal
