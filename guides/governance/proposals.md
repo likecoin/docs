@@ -6,11 +6,32 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## 議案 #21 使用等值 USDe250,000 的 LIKE 建立 Emeris 的 LIKE/ATOM 流動性池
+
+* **提案：**[LikeCoin Foundation](https://matters.news/@likecoin/allocate-us-de250-000-of-like-to-like-atom-pool-on-emeris-bafyreidx5ydsusdgtf2baz5wzt7uzk7m2awkbt2mbprpr5rn2bzwzik7ey)
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2021.10.26 提案，
+* **詳情**：[https://likecoin.bigdipper.live/proposals/21](https://likecoin.bigdipper.live/proposals/21)
+
+## 議案 #20 社群基金審批委員新架構
+
+* **提案：**[yasu](https://gateway.pinata.cloud/ipfs/QmePqxk7n2329ceR323i2asYHyiXYnWaKgmNA3wrfu1tqX)
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2021.10.23 提案，
+* **詳情**：[https://likecoin.bigdipper.live/proposals/20](https://likecoin.bigdipper.live/proposals/20)
+
+## 議案 #19 用生態池基金贊助 Cosmos HackAtom VI
+
+* **提案：**[Liker.Social](https://ipfs.io/ipfs/QmNkaSYvapxtMitLxxYAra5C3hrMFgKJPjGZcgjNPc2w5o/)
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2021.10.23 提案，
+* **詳情**：[https://likecoin.bigdipper.live/proposals/19](https://likecoin.bigdipper.live/proposals/19)
+
 ## 議案 #18 議案投票期縮短為 7 天
 
 * **提案：**[Old Cat](https://matters.news/@oldcat/like-coin-chain-proposal-18-change-the-voting-period-of-governance-proposals-from-14-days-to-7-days-bafyreihe667tt2chrqtpzjumigtc2uljjlzo3nomcsguuovlupzerovjc4)
 * **類型**：參數修訂議案 ( parameter change proposal )
-* **日期**：2021.10.09 提案，
+* **日期**：2021.10.09 提案，2021.10.22 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/18](https://likecoin.bigdipper.live/proposals/18)
 
 ## 議案 #17 啟動 IBC 傳送及接收
@@ -72,7 +93,7 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ## 議案 #9 委託生態池的 LikeCoin
 
-* **提案**：guanyun
+* **提案**：[guanyun](https://ipfs.io/ipfs/QmeQH8ucbPnerrbTEkJ3GnjWfLUo9DAioq6EHcmHXvNsL9/)
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2021.02.08 提案，2020.02.22 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/9](https://likecoin.bigdipper.live/proposals/9)
