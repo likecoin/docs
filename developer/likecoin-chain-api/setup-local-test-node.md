@@ -1,10 +1,10 @@
 # Setup local test node
 
-1. Clone the [likecoin-chain](https://github.com/likecoin/likecoin-chain) git repository at the `fotan-1` branch
+1. Clone the [likecoin-chain](https://github.com/likecoin/likecoin-chain) git repository at the `fotan-1.1` branch
 
 ```
 git clone https://github.com/likecoin/likecoin-chain \
---branch fotan-1 --single-branch \
+--branch fotan-1.1 --single-branch \
 likecoin-chain && cd likecoin-chain
 ```
 
