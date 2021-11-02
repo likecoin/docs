@@ -4,13 +4,49 @@ description: 驗證人可如何獲得委託？
 
 # 生態池社群基金
 
-讚賞公民共和國[第 12 議案](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHAN5XbPEY/)於2021年6月2日通過，此議案旨在進一步釐清第 9 議案對委託生態池 LikeCoin 予驗證人的要求。此後驗證人要獲得生態池的 LikeCoin 委託，必須：
+讚賞公民共和國[第 12 議案](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHAN5XbPEY/)於2021年6月2日通過，此議案旨在進一步釐清第 9 議案對委託生態池 LikeCoin 予驗證人的要求。
 
-1. 經已滿足第 12 議案所列對社群參與度的要求，例如積極投入社群事務
-2. 於 Matters 網站撰文自我介紹，並為文章加上標籤 [\#Validator Intro](https://matters.news/tags/VGFnOjUzMTkw)；或於 Medium 網站為文章加上 \#Validator Intro 及 \#LikeCoin 標籤並投稿到 [LikeCoin Publication](https://medium.com/likecoin)
-3. 加入 [LikeCoin Discord](https://discord.com/invite/W4DQ6peZZZ) 再於 \#apply-for-delegation 頻道發文申請，並公告社群佣金策略為何
+### 生態池社群基金委託－申請程序
 
-此外亦鼓勵驗證人參與每月一次的[社群治理會議](../community-call.md)作自我介紹。
+驗證人要獲得生態池的委託，必須：
 
-截止申請日期為香港時間每月15日中午12時 UTC+8，由社群共識選出的七位評審將進行評選，驗證人需獲得起碼五個同意 \( Aye \) 才能獲得委託。申請結果於每月21日中午12時 UTC+8 公佈。
+A. 經已滿足 [第 12 議案](https://bit.ly/3yvsvep) 所列對社群參與度的要求，例如積極投入社群事務
 
+B. 針對第 12 議案點 1 的要求
+
+中文驗證人－於 [Matters 網站](https://matters.news)撰文自我介紹，並為文章加上標籤 [#Validator Intro](https://matters.news/tags/VGFnOjUzMTkw)
+
+英文驗證人－於 Matters 或 [Medium 網站](https://medium.com)撰文再加上 #Validator Intro 及 #LikeCoin 標籤
+
+（假如你不知怎樣撰文，請搜尋相關標籤觀看其他驗證人的文章）
+
+C. 提供電郵地址
+
+D. 加入 LikeCoin Discord 再於  [#💰apply-for-delegation](https://discord.gg/APqVAztuf4)頻道發文申請，並公告社群佣金策略為何
+
+此外亦鼓勵驗證人為 BigDipper 的節點加入頭像，網站及簡介，雖然這樣不是獲得委託的必須條件。亦希望參與每月一次的[社群治理會議](../community-call.md)作自我介紹。
+
+額外條件
+
+I. 委託並不是平均分配，而是依照驗證人的貢獻度為準則。
+
+II. 假如驗證人掉線超過一星期又不回應社群成員的呼召，委託會立即被撤回。
+
+截止申請日期為香港時間每月15日4時 UTC+8，由社群共識選出的七位評審將進行評選，驗證人需獲得起碼五個同意 ( Aye ) 才能獲得委託。申請結果於每月21日4時 UTC+8 公佈。
+
+### 續期程序
+
+驗證人獲得社群基金委託後需於獲得基金的第 6 個月重新申請。
+
+驗證人必預撰寫報告說明在過去幾個月他們為社群作出了甚麼貢獻。未能成功提出續期申請會導致委託被撤回。社群基金審批委員會檢視：
+
+1. 驗證人是不是時常在線。
+2. 驗證人有沒有在 Discord 活躍於 LikeCoin 的發展。
+3. 驗證人有沒有在網站或其他渠道宣傳 LikeCoin 及與他們的持份者溝通。
+4. 驗證人的佣金設定是不是依照社區共識的最低佣金進行調節，及是否合理。
+5. 驗證人有沒有參與議案投票。
+6. 驗證人有沒有依照他們在 #Validator Intro 所寫的為社群帶來好處
+
+並考慮是否為他們的委託延期。
+
+舉例：於 6 月獲得第一輪社群基金委託的驗證人必須於 11月15日申請續期，假如獲得 Aye 即可繼續保有他們的委託。假如驗證人不續期申請，委託將被撤回。
