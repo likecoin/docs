@@ -41,13 +41,12 @@ Validators who receive their community delegation will have to re-apply again on
 Validators have to _present a summary of what they have achieved in the past months_ to ensure that their delegation will be continued. Failing to comply will result in withdrawing the delegation. The committee will review and check if:&#x20;
 
 1. The validator is always online.
-2. The validator is active on Discord regarding the development of LikeCoin.
+2. The validator is active on [LikeCoin Discord](http://discord.gg/likecoin) regarding the development of LikeCoin.
 3. The validator promotes the identity of LikeCoin on other media/websites and communicates to their delegators.
 4. The validator commission rate policy obligates the minimum commission rate and does make sense or not.
 5. The validator participates in proposal voting.
-
-The validator do work on what they promised on their #Validator Intro and consider the continuity of the delegation.&#x20;
+6. The validator do work on what they promised on their #Validator Intro and consider the continuity of the delegation.&#x20;
 
 Example: The validators who received the 1st round of delegation in June may re-apply again in November before the 15th, if they have 5 Aye from the committee they can keep the delegation. If the validator does not re-apply, the delegation will be withdrawn.&#x20;
 
-The current Community Delegation Committee members are @chairoikominer, @Kcat, @sixwood, @Wright Fu, @yasu, @philipmak and @Daisy.
+The current Community Delegation Committee members endorsed by [proposal 20](https://likecoin.bigdipper.live/proposals/20) are @chairoikominer, @Kcat, @sixwood, @Wright Fu, @yasu, @philipmak and @Daisy.
