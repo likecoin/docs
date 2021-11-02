@@ -4,7 +4,7 @@ description: 驗證人可如何獲得委託？
 
 # 生態池社群基金
 
-讚賞公民共和國[第 12 議案](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHAN5XbPEY/)於2021年6月2日通過，此議案旨在進一步釐清第 9 議案對委託生態池 LikeCoin 予驗證人的要求。
+讚賞公民共和國 [第 12 議案](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHAN5XbPEY/) 於2021年6月2日通過，此議案旨在進一步釐清第 9 議案對委託生態池 LikeCoin 予驗證人的要求。
 
 ### 生態池社群基金委託－申請程序
 
@@ -22,7 +22,7 @@ B. 針對第 12 議案點 1 的要求
 
 C. 提供電郵地址
 
-D. 加入 LikeCoin Discord 再於  [#💰apply-for-delegation](https://discord.gg/APqVAztuf4)頻道發文申請，並公告社群佣金策略為何
+D. 加入 LikeCoin Discord 再於 [#💰apply-for-delegation](https://discord.gg/APqVAztuf4) 頻道發文申請，並公告社群佣金策略為何
 
 此外亦鼓勵驗證人為 BigDipper 的節點加入頭像，網站及簡介，雖然這樣不是獲得委託的必須條件。亦希望參與每月一次的[社群治理會議](../community-call.md)作自我介紹。
 
@@ -41,7 +41,7 @@ II. 假如驗證人掉線超過一星期又不回應社群成員的呼召，委�
 驗證人必預撰寫報告說明在過去幾個月他們為社群作出了甚麼貢獻。未能成功提出續期申請會導致委託被撤回。社群基金審批委員會檢視：
 
 1. 驗證人是不是時常在線。
-2. 驗證人有沒有在 Discord 活躍於 LikeCoin 的發展。
+2. 驗證人有沒有在 [Discord](http://discord.gg/likecoin) 活躍於 LikeCoin 的發展。
 3. 驗證人有沒有在網站或其他渠道宣傳 LikeCoin 及與他們的持份者溝通。
 4. 驗證人的佣金設定是不是依照社區共識的最低佣金進行調節，及是否合理。
 5. 驗證人有沒有參與議案投票。
@@ -49,4 +49,6 @@ II. 假如驗證人掉線超過一星期又不回應社群成員的呼召，委�
 
 並考慮是否為他們的委託延期。
 
-舉例：於 6 月獲得第一輪社群基金委託的驗證人必須於 11月15日申請續期，假如獲得 Aye 即可繼續保有他們的委託。假如驗證人不續期申請，委託將被撤回。
+舉例：於 6 月獲得第一輪社群基金委託的驗證人必須於11月15日申請續期，假如獲得 5 Aye 即可繼續保有他們的委託。假如驗證人不申請續期，委託將被撤回。
+
+現時由 [第 20 議案](https://likecoin.bigdipper.live/proposals/20) 認可的社群基金審批委員會成員為 @chairoikominer, @Kcat, @sixwood, @Wright Fu, @yasu, @philipmak 及 @Daisy。
