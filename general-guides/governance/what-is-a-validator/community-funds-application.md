@@ -36,7 +36,7 @@ II. If the validator who got the community delegation is offline for more than a
 
 ### Renewal Procedure
 
-Validators who receive their community delegation will have to re-apply again on the 6th month upon receiving their delegation.&#x20;
+Validators who received their community delegation will have to re-apply again on the 6th month upon receiving their delegation.&#x20;
 
 Validators have to _present a summary of what they have achieved in the past months_ to ensure that their delegation will be continued. Failing to comply will result in withdrawing the delegation. The committee will review and check if:&#x20;
 
