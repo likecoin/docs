@@ -35,7 +35,7 @@ Go to the Chrome Webstore and click "Add to Chrome" to install the [Keplr extens
 
 ![](../../.gitbook/assets/keplr01.png)
 
-Click and "Add extension" to Chrome / Brave.
+Click and "Add extension" to Chrome.
 
 ![](../../.gitbook/assets/keplr02.png)
 
@@ -127,7 +127,7 @@ The Keplr wallet Chain Add Request pop-up, click "Approve" and you can login to 
 If you have Liker ID registered by Authcore and Keplr, please make sure that you log out completely by clicking logout in the menu before sign in another account.
 {% endhint %}
 
-## Transfer LikeCoin to Keplr
+## Deposit LikeCoin to Keplr
 
 {% content-ref url="../../general-guides/wallet/keplr.md" %}
 [keplr.md](../../general-guides/wallet/keplr.md)
