@@ -60,7 +60,7 @@ After several pop-up screens appeared, IBC Transfer Successful!
 
 ### Step 5: Trade LikeCoin
 
-Go to the menu on the left and click Trade. On From select LIKE, on To select the cryptocurrency that you would like to trade. You can check out the Rate, Swap Fee and Estimate Slippage amount. Confirm the details and click "Swap" to perform the trade.
+Go to the menu on the left and click Trade. On "From" select LIKE, on "To" select the cryptocurrency that you would like to trade. You can check out the Rate, Swap Fee and Estimate Slippage amount. Confirm the details and click "Swap" to perform the trade.
 
 ![](<../../.gitbook/assets/Osmosis 08.png>)
 
@@ -72,4 +72,4 @@ After the trade, check on Assets and the cryptocurrency that you traded is there
 
 ### Step 6: Withdraw Cryptocurrency
 
-Go to "Assets" and click "Withdraw >" and IBC Withdraw your cryptocurrency to Keplr for sending them to crypto exchange or another wallet.
+Go to Assets and click "Withdraw >" then IBC Withdraw your cryptocurrency to Keplr for sending them to crypto exchange or another wallet.
