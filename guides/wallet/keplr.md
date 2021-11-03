@@ -20,7 +20,7 @@ description: 去中心化管理你的 LikeCoin
 
 ### 步驟二
 
-然後點擊錢包地址進行複製並黏貼到所要的地方。又或者點「Deposit」出現 QRCode。
+然後點擊錢包地址進行複製並黏貼到所要的地方（交易所或另一個錢包）。又或者點「Deposit」出現 QRCode。
 
 ![](../../.gitbook/assets/keplr05.png)
 
