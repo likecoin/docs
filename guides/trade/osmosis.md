@@ -42,11 +42,11 @@ description: 去中心交易所，無需註冊，立即交易
 
 Osmosis 本身也是一條區塊鏈，它的鏈叫做 Osmosis blockchain，要在 Osmosis 交易 LikeCoin，要先在 Osmosis blockchain 存進資產。
 
-到左手邊菜單選「Assets」，找到 LikeCoin - LIKE 後，點「Deposit >」進行 IBC Deposit。
+到左手邊菜單選 Assets，找到 LikeCoin - LIKE 後，點「Deposit >」進行 IBC Deposit。
 
 ![](<../../.gitbook/assets/Osmosis 04.png>)
 
-出現 Deposit IBC Asset 頁面，在 Amount To Deposit 輸入需要存進的 LikeCoin 數量，再點「Deposit」。留意請在 Keplr 錢包保留一點 LikeCoin 作[手續費](../wallet/transaction-fee.md)，否則將不能成功存入。
+出現 Deposit IBC Asset 頁面，在「Amount To Deposit」輸入需要存進的 LikeCoin 數量，再點「Deposit」。留意請在 Keplr 錢包保留一點 LikeCoin 作[手續費](../wallet/transaction-fee.md)，否則將不能成功存進。
 
 ![](<../../.gitbook/assets/Osmosis 05.png>)
 
@@ -60,7 +60,7 @@ Osmosis 彈出視窗，出現 IBC Transfer Successful 即代表成功存進 Osmo
 
 ### 步驟五：交易 LikeCoin
 
-點左手邊菜單選「Trade」，在 From 下拉選單點 LIKE，並在 To 下拉選單選取需要交易的密碼貨幣。在下方可查看兌換率 Rate，及需要付出的互換交易費用 Swap Fee，以及預計的滑點 Estimate Slippage。查看無誤後點「Swap」進行交易。
+點左手邊菜單選 Trade，在「From」下拉選單點 LIKE，並在「To」下拉選單選取需要交易的密碼貨幣。在下方可查看兌換率 Rate，及需要付出的互換交易費用 Swap Fee，以及預計的滑點 Estimate Slippage。查看無誤後點「Swap」進行交易。
 
 ![](<../../.gitbook/assets/Osmosis 08.png>)
 
@@ -72,4 +72,4 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 
 ### 步驟六：取回密碼貸幣
 
-請將密碼貨幣先從「Assets」的「Withdraw >」使用 IBC Withdraw 提取回你的 Keplr 錢包後再傳送到交易所或其他錢包。
+請將密碼貨幣先從 Assets 的「Withdraw >」使用 IBC Withdraw 提取回你的 Keplr 錢包後再傳送到交易所或其他錢包。
