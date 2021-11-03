@@ -40,7 +40,7 @@ description: 去中心交易所，無需註冊，立即交易
 
 ### 步驟四：將 LikeCoin 存進 Osmosis
 
-Osmosis 本身也是一條區塊鏈，它的鏈叫做 Osmosis blockchain，要在 Osmosis 交易 LikeCoin，要先存進資產。
+Osmosis 本身也是一條區塊鏈，它的鏈叫做 Osmosis blockchain，要在 Osmosis 交易 LikeCoin，要先在 Osmosis blockchain 存進資產。
 
 到左手邊菜單選「Assets」，找到 LikeCoin - LIKE 後，點「Deposit >」進行 IBC Deposit。
 
