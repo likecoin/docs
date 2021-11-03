@@ -26,7 +26,7 @@ Click on the wallet address and copy it and paste to somewhere else (A crypto ex
 
 ![](../../.gitbook/assets/keplr05.png)
 
-Scan the QRCode and deposit LikeCoin to your Keplr wallet with [LIKE pay](like-pay.md). Suggest to transfer a small sum to try out first.
+Scan the QRCode and deposit LikeCoin to your Keplr wallet with [LIKE pay](like-pay.md). Suggest to deposit a small sum to try out first.
 
 ![](../../.gitbook/assets/keplr05dot5.png)
 
