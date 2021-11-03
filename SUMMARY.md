@@ -122,7 +122,7 @@
   * [My Content Jockey](user-guide/liker-land/today-headline.md)
   * [Readling List](user-guide/liker-land/readling-list.md)
   * [Like - Reinventing the Like](user-guide/liker-land/like.md)
-  * [Super Like - Content Jockey](user-guide/liker-land/superlike.md)
+  * [Super Like - be a Content Jockey](user-guide/liker-land/superlike.md)
   * [Real Time Statistics](user-guide/liker-land/real-time-statistics.md)
   * [List of Media](user-guide/liker-land/list-of-media.md)
 * [Civic Liker](user-guide/civic-liker/README.md)
