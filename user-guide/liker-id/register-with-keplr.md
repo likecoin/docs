@@ -6,7 +6,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 除了[以電郵、GMail、社交帳號等方式註冊 Liker ID](register.md) 以外，現在用戶可以 Keplr 電子錢包註冊，以更去中心化的方式管理 LikeCoin 並自行掌握私鑰。用戶只需在註冊/登入畫面右上角選「以錢包登入」即可選擇以 Keplr 登入。目前用戶可選擇以 Keplr 註冊新 Liker ID，又或者為現有的 Keplr 錢包綁定 Liker ID（請略過步驟一）。&#x20;
 
-### 功能比較
+## 功能比較
 
 | **以一般方法 ( Authcore ) 註冊 Liker ID**                                                                                  | **以 Keplr 錢包註冊 Liker ID**                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -22,6 +22,8 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 | 以 stake.like.co 存入[議案保證](../../guides/governance/proposal-deposit.md)金或[投票](../../guides/governance/direct-vote.md) | 以 stake.like.co 存入議案[保證金](../../guides/governance/proposal-deposit.md)或[投票](../../guides/governance/direct-vote.md) |
 | 在 Liker Land app 以視覺化方式查看每篇文章所獲[讚賞成就](../creatortools/rewards/):thumbsup:                                           | 逐筆查看交易紀錄                                                                                                            |
 | 不支援註冊 ISCN                                                                                                          | 支援註冊 [ISCN](../../guides/decentralized-publishing/app.like.co.md):thumbsup:                                         |
+
+## 如何以 Keplr 註冊 Liker ID
 
 ### 影片教學
 
@@ -128,3 +130,9 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 {% hint style="info" %}
 假如你擁有以 Authcore 及 Keplr 註冊的 Liker ID，請確認使用菜單上的登出功能完全登出才登入另一個 Liker ID。
 {% endhint %}
+
+## 如何轉帳到 Keplr 錢包
+
+{% content-ref url="../../guides/wallet/keplr.md" %}
+[keplr.md](../../guides/wallet/keplr.md)
+{% endcontent-ref %}
