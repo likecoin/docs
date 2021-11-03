@@ -116,7 +116,7 @@
 
 ### 02/01 信報財經月刊 515期
 
-[「無大台」自主經濟 黃色代幣聲稱三大優勢](http://ebook.hkej.com/magazine/magazine/tablet/monthlyMob.issue_preview2.php?env=PROD\&p_issno=515)
+[「無大台」自主經濟 黃色代幣聲稱三大優勢](http://ebook.hkej.com/magazine/magazine/tablet/monthlyMob.issue\_preview2.php?env=PROD\&p\_issno=515)
 {% endtab %}
 
 {% tab title="2019" %}
@@ -132,9 +132,9 @@
 
 [【黃色經濟圈．四】是一場黃色虛火 還是一種發展模式？](https://www.hk01.com/%E5%91%A8%E5%A0%B1/410632/%E9%BB%83%E8%89%B2%E7%B6%93%E6%BF%9F%E5%9C%88-%E5%9B%9B-%E6%98%AF%E4%B8%80%E5%A0%B4%E9%BB%83%E8%89%B2%E8%99%9B%E7%81%AB-%E9%82%84%E6%98%AF%E4%B8%80%E7%A8%AE%E7%99%BC%E5%B1%95%E6%A8%A1%E5%BC%8F)
 
-### 12/18 CUHK 
+### 12/18 CUHK&#x20;
 
-[CU Alumni Magazine (December 2019)](https://issuu.com/cuhk_alumni_publications/docs/201912)  第33頁
+[CU Alumni Magazine (December 2019)](https://issuu.com/cuhk\_alumni\_publications/docs/201912) &#x20;第33頁
 
 ### 12/24 立場新聞 利世民專欄
 
@@ -198,7 +198,7 @@
 
 [蘋人誌：香港仔向世界出發　經營廣東話](https://hk.appledaily.com/local/20190410/IYEODKRCTOLLPKKFC4ABCDBUXY/)
 
-### 3/27 沉香 成电 香港校友会 
+### 3/27 沉香 成电 香港校友会&#x20;
 
 [『沉香视野』未来已来：区块链在香港](http://cdhk.org/blockchainhk)
 
@@ -226,11 +226,11 @@
 
 [萬維網何時實現再去中心化？](https://news.mingpao.com/pns/%E4%BD%9C%E5%AE%B6%E5%B0%88%E6%AC%84/article/20181218/s00018/1545070958488/%E4%B8%96%E7%B4%80-%E4%BA%8C%E5%85%83%E5%B0%8D%E5%9D%90-%E8%90%AC%E7%B6%AD%E7%B6%B2%E4%BD%95%E6%99%82%E5%AF%A6%E7%8F%BE%E5%86%8D%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96)
 
-### 11/13 信報 方保僑專欄 
+### 11/13 信報 方保僑專欄&#x20;
 
 [加密幣規範化助發展](http://startupbeat.hkej.com/?p=65799)
 
-### 10/10 明光社 李卓乘專欄 
+### 10/10 明光社 李卓乘專欄&#x20;
 
 [歐盟通過影響全球的歐盟網路版權指令](https://www.truth-light.org.hk/nt/article/%E6%AD%90%E7%9B%9F%E9%80%9A%E9%81%8E%E5%BD%B1%E9%9F%BF%E5%85%A8%E7%90%83%E7%9A%84%E6%AD%90%E7%9B%9F%E7%B6%B2%E8%B7%AF%E7%89%88%E6%AC%8A%E6%8C%87%E4%BB%A4)
 
@@ -306,7 +306,7 @@
 
 ### 05/01 信報財經月刊 494 期 徐家健、梁天卓、曾國平 訪問
 
-[ICO 短炒長揸 低流動性有溢價](https://ebook.hkej.com/magazine/magazine/tablet/monthly.issue_preview.php?env=PROD\&p_issno=494)
+[ICO 短炒長揸 低流動性有溢價](https://ebook.hkej.com/magazine/magazine/tablet/monthly.issue\_preview.php?env=PROD\&p\_issno=494)
 
 ### 04/17 明報 章濤專欄
 
@@ -320,7 +320,7 @@
 
 ### 04/01 信報財經月刊 493期 渾水專欄
 
-[嚴防ICO欺詐 fb、Google封殺廣告](http://ebook.hkej.com/magazine/magazine/tablet/monthly.issue_preview.php?env=PROD\&p_issno=493)
+[嚴防ICO欺詐 fb、Google封殺廣告](http://ebook.hkej.com/magazine/magazine/tablet/monthly.issue\_preview.php?env=PROD\&p\_issno=493)
 
 ### 03/28 AM730 徐家健專欄
 
@@ -332,7 +332,7 @@
 
 ### 03/24 iMoney&#xD; 智富雜誌
 
-[【愈禁愈升】ICO掀融資革命 專訪奧雲談加密電子幣](http://www.etnet.com.hk/www/tc/forex/features_detail.php?newsid=8722)
+[【愈禁愈升】ICO掀融資革命 專訪奧雲談加密電子幣](http://www.etnet.com.hk/www/tc/forex/features\_detail.php?newsid=8722)
 
 ### 03/23 iMoney 智富雜誌
 
