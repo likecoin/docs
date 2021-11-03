@@ -35,7 +35,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 ![](../../.gitbook/assets/keplr01.png)
 
-點擊並將 Keplr 插件「Add extension」加到 Chrome / Brave。
+點擊並將 Keplr 插件「Add extension」加到 Chrome。
 
 ![](../../.gitbook/assets/keplr02.png)
 
