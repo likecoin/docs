@@ -12,37 +12,49 @@ description: 去中心化管理你的 LikeCoin
 
 ## 轉帳 LikeCoin 到 Keplr
 
+### 步驟一
+
 轉帳 LikeCoin 到 Keplr 錢包，請先把 Keplr 頂部的密碼貸幣菜單轉為顯示 LikeCoin chain。
 
 ![](<../../.gitbook/assets/keplr-liker-id-07 (1).png>)
+
+### 步驟二
 
 然後點擊錢包地址進行複製並黏貼到所要的地方。又或者點「Deposit」出現 QRCode。
 
 ![](../../.gitbook/assets/keplr05.png)
 
-直接使用 [LIKE Pay](like-pay.md) 掃描 QRCode 就可以傳送 LikeCoin 到你的 Keplr 錢包。建議最初只轉帳小量 LikeCoin 作測試。
+直接使用 [LIKE Pay](like-pay.md) 掃描 QRCode 就可以轉帳 LikeCoin 到你的 Keplr 錢包。建議最初只轉帳小量 LikeCoin 作測試。
 
 ![](../../.gitbook/assets/keplr05dot5.png)
+
+### 步驟三
 
 轉帳完成後查看你的 LikeCoin 餘額。
 
 ![](../../.gitbook/assets/keplr-liker-id-08.png)
 
-## 從 Keplr 傳送 LikeCoin 到其他錢包
+## 從 Keplr 轉帳 LikeCoin 到其他錢包
 
-你可以在 Keplr 介面直接傳送 LikeCoin 到其他支援 LikeCoin 的錢包，把 Keplr 頂部的密碼貸幣菜單轉為顯示 LikeCoin chain 後點「Send」。
+### 步驟一
+
+你可以在 Keplr 介面直接轉帳 LikeCoin 到其他支援 LikeCoin 的錢包，把 Keplr 頂部的密碼貸幣菜單轉為顯示 LikeCoin chain 後點「Send」。
 
 ![](../../.gitbook/assets/keplr10.png)
 
-在 Recipient 填入收款方的 Cosmos 錢包地址、Token 經已選為 LIKE、Amount 填示錢包內的 LIKE 總數。請填寫需要傳送的 LikeCoin 數量，並留意必須預留[手續費](transaction-fee.md)。Memo (Optional) 一欄填進收款方需要 Tag/Memo（如有）。再點「Send」。
+### 步驟二
+
+在 Recipient 填入收款方的 Cosmos 錢包地址、Token 經已自動選為 LIKE、Amount 填示錢包內的 LIKE 總數。請填寫需要轉帳的 LikeCoin 數量，並留意必須預留[手續費](transaction-fee.md)。Memo (Optional) 一欄填進收款方需要 Tag/Memo（如有）。再點「Send」。
 
 ![](../../.gitbook/assets/keplr11.png)
+
+### 步驟三
 
 出現確認畫面，確認一切無誤後選「Approve」。
 
 ![](../../.gitbook/assets/keplr12.png)
 
-Keplr 出現 Tx is pending 並回到 LikeCoin 餘額畫面。
+Keplr 出現 Tx is pending 並回到 LikeCoin 餘額畫面，轉帳完成。
 
 ![](../../.gitbook/assets/keplr13.png)
 
