@@ -2,7 +2,7 @@
 description: Citizens of The Republic of Liker Land, each of them have a unique Liker ID
 ---
 
-# Register a Liker ID with Authcore
+# Register a Liker ID as usual (with Authcore)
 
 Registering a Liker ID is easy, please download [Liker Land mobile app](https://liker.land/getapp) and follow the instructions below:
 
@@ -49,5 +49,5 @@ Liker Land mobile app uses Authcore as a sign-in solution. Check out**:** What i
 {% endhint %}
 
 {% hint style="success" %}
-All LikeCoin referral programs and airdrop ended on March 8, 2021.
+All LikeCoin and Civic Liker referral programs ended on March 8, 2021.
 {% endhint %}
