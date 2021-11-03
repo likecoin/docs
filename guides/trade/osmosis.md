@@ -54,7 +54,7 @@ Keplr 彈出 IBC Transfer 畫面，點「Approve」。
 
 ![](<../../.gitbook/assets/Osmosis 06.png>)
 
-Osmosis 彈出視窗，出現 IBC Transfer Successul 即代表成功存進 Osmosis。
+Osmosis 彈出視窗，出現 IBC Transfer Successful 即代表成功存進 Osmosis。
 
 ![](<../../.gitbook/assets/Osmosis 07.png>)
 
