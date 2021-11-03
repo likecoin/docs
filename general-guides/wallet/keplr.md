@@ -12,39 +12,51 @@ You can also register a Liker ID with Keplr or bond your existing Keplr wallet w
 [register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
 {% endcontent-ref %}
 
-## **Transfer your LikeCoin to Keplr**
+## **Deposit your LikeCoin to Keplr**
 
-Before transferring LikeCoin to your Keplr wallet, please change the display on top to show LikeCoin chain.
+### Step 1
+
+Before depositing LikeCoin to your Keplr wallet, please change the display on top to show the LikeCoin chain.
 
 ![](<../../.gitbook/assets/keplr-liker-id-07 (1).png>)
 
-Click on the wallet address and copy it and paste to somewhere else. Or click "Deposit" to show your QRCode.
+### Step 2
+
+Click on the wallet address and copy it and paste to somewhere else (A crypto exchange or another wallet). Or click "Deposit" to show your QRCode.
 
 ![](../../.gitbook/assets/keplr05.png)
 
-Scan the QRCode and transfer LikeCoin to your Keplr wallet with [LIKE pay](like-pay.md). Suggest to transfer a small sum to try out first.
+Scan the QRCode and deposit LikeCoin to your Keplr wallet with [LIKE pay](like-pay.md). Suggest to transfer a small sum to try out first.
 
 ![](../../.gitbook/assets/keplr05dot5.png)
 
-The LikeCoin balance will appear after the transfer is completed.
+### Step 3
+
+The LikeCoin balance will appear after the deposit is completed.
 
 ![](../../.gitbook/assets/keplr-liker-id-08.png)
 
 ## **Send LikeCoin from Keplr to another wallet**
 
+### Step 1
+
 You can send LikeCoin via Keplr to other wallet that support LikeCoin. Change the display on top to show LikeCoin chain and click "Send".
 
 ![](../../.gitbook/assets/keplr10.png)
 
-On Recipient fill in the cosmos wallet of the receiver, Token is being selected as LIKE, Amount shows the total amount of LIKE in the wallet. Please fill in the number of LikeCoin that need to be sent and reserve some LIKE for the [transaction fee](transaction-fee.md). Memo (Optional) fill in the Tag/Memo which may be required by the receiver. Then click "Send".
+### Step 2
+
+On Recipient fill in the cosmos wallet of the receiver, Token is being selected automatically as LIKE, Amount shows the total amount of LIKE in the wallet. Please fill in the number of LikeCoin that need to be sent and reserve some LIKE for the [transaction fee](transaction-fee.md). Memo (Optional) fill in the Tag/Memo which may be required by the receiver. Then click "Send".
 
 ![](../../.gitbook/assets/keplr11.png)
+
+### Step 3
 
 On the confirmation screen, check the details again then click "Approve".
 
 ![](../../.gitbook/assets/keplr12.png)
 
-Keplr will show Tx is pending and back to the LikeCoin balance screen.
+Send complete. Keplr will show Tx is pending and back to the LikeCoin balance screen.
 
 ![](../../.gitbook/assets/keplr13.png)
 
