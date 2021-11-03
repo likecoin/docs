@@ -6,7 +6,11 @@ description: 如何交易 LikeCoin？
 
 可透過以下渠道交易 LikeCoin：
 
-### 交易所
+### 去中心化交易所 DEX
+
+* [Osmosis](https://app.osmosis.zone) 提供 ATOM、AKT、DVPN、IRIS、CRO、XPRT、REGEN、IOV、UST 等與 LIKE 之間交易
+
+### 中心化交易所 CEX
 
 * [Liquid](https://www.liquid.com) 提供 BTC/LIKE 及 USDT/LIKE 交易對
 * [DigiFinex](https://www.digifinex.com) 提供 USDT/LIKE 交易對
