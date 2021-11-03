@@ -72,4 +72,4 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 
 ### 步驟六：取回密碼貸幣
 
-請將密碼貨幣先從「Assets」的的「Withdraw >」使用 IBC Withdraw 提取回你的 Keplr 錢包後再傳送到交易所或其他錢包。
+請將密碼貨幣先從「Assets」的「Withdraw >」使用 IBC Withdraw 提取回你的 Keplr 錢包後再傳送到交易所或其他錢包。
