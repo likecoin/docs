@@ -2,7 +2,7 @@
 description: Liker ID 要怎樣註冊？
 ---
 
-# 以 Liker Land 註冊 Liker ID
+# 以一般方法 ( Authcore ) 註冊 Liker ID
 
 只需下載 [Liker Land 手機應用程式](https://liker.land/getapp)，並執行以下程序即可：
 
@@ -49,5 +49,5 @@ Liker Land 手機應用程式使用 Authcore 登入。甚麼是 Authcore？[請�
 {% endhint %}
 
 {% hint style="success" %}
-所有 LikeCoin 推薦獎賞及空投活動經已於2021年3月8日完結。
+所有 LikeCoin 推薦獎賞及讚賞公民推廣活動經已於2021年3月8日完結。
 {% endhint %}
