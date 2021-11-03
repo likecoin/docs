@@ -20,7 +20,7 @@ description: 去中心化管理你的 LikeCoin
 
 ![](../../.gitbook/assets/keplr05.png)
 
-直接掃描 QRCode 就可以傳送 LikeCoin 到你的 Keplr 錢包。建議最初只轉帳小量 LikeCoin 作測試。
+直接使用 [LIKE Pay](like-pay.md) 掃描 QRCode 就可以傳送 LikeCoin 到你的 Keplr 錢包。建議最初只轉帳小量 LikeCoin 作測試。
 
 ![](../../.gitbook/assets/keplr05dot5.png)
 

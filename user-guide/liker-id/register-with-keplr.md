@@ -4,7 +4,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 # 以 Keplr 註冊 Liker ID
 
-除了[以電郵、GMail、社交帳號等方式註冊 Liker ID](register.md) 以外，現在用戶可以 Keplr 電子錢包註冊，以更去中心化的方式管理 LikeCoin 並自行掌握私鑰。用戶只需在註冊/登入畫面右上角選「以錢包登入」即可選擇以 Keplr 登入。目前用戶可選擇以 Keplr 註冊新 Liker ID，又或者為現有的 Keplr 錢包綁定 Liker ID（請略過步驟一）。 
+除了[以電郵、GMail、社交帳號等方式註冊 Liker ID](register.md) 以外，現在用戶可以 Keplr 電子錢包註冊，以更去中心化的方式管理 LikeCoin 並自行掌握私鑰。用戶只需在註冊/登入畫面右上角選「以錢包登入」即可選擇以 Keplr 登入。目前用戶可選擇以 Keplr 註冊新 Liker ID，又或者為現有的 Keplr 錢包綁定 Liker ID（請略過步驟一）。&#x20;
 
 ### 功能比較
 
@@ -73,7 +73,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 ![](../../.gitbook/assets/keplr-liker-id-03-en.png)
 
-此時將彈出 Keplr 視窗 Chain Add Request，選「Approve」。
+此時將彈出 Keplr 視窗 LikeCoin chain Add Request，選「Approve」。
 
 ![](<../../.gitbook/assets/Keplr Liker ID 04.png>)
 
@@ -88,9 +88,9 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 
 {% hint style="warning" %}
-一旦創建了 Liker ID，便不能修改字詞組合或登入方式。若不想再用某個 Liker ID，建議你把它留著不用，再創建一個新的。留意一個電郵地址只可以註冊一個 Liker ID。
+一旦創建了 Liker ID，便不能修改字詞組合或登入方式。若不想再用某個 Liker ID，建議你把它留著不用，再創建一個新的。留意**一個電郵地址只可以註冊一個 Liker ID**。
 
-同一電郵地址並不能同時以 Liker Land 及 Keplr 註冊 Liker ID。
+**同一電郵地址並不能同時以 Liker Land 及 Keplr 註冊 Liker ID。**
 {% endhint %}
 
 ### 步驟三：查看錢包
