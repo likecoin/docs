@@ -131,7 +131,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 假如你擁有以 Authcore 及 Keplr 註冊的 Liker ID，請確認使用菜單上的登出功能完全登出才登入另一個 Liker ID。
 {% endhint %}
 
-## 轉帳/存入 LikeCoin 到 Keplr 錢包
+## 如何轉帳/存入 LikeCoin 到 Keplr 錢包
 
 {% content-ref url="../../guides/wallet/keplr.md" %}
 [keplr.md](../../guides/wallet/keplr.md)
