@@ -16,20 +16,20 @@ The creators get the monthly sponsorship on a fixed date of their billing cycle.
 
 ### **Support content creators via any platforms **
 
-No matter the content is in what kind of format or if the platform supports a LikeCoin button or not, readers can still support the content creator. By clicking [sponsor link ](../creatortools/sponsor-link.md)of the content creator in any channels and medium such as Facebook, Youtube, Instagram, Line or Telegram ( Format: https://liker.land/\[Your Liker ID]/civic ), readers become one of the sponsor of the content creator's Civic Liker monthly payment supporting group. And of course, clapping for the content creators in platforms supporting the LikeCoin button can also let them earn extra LikeCoin reward from Creators Fund.
+Creators do not need to be bound by a single platform in order to get support from Civic Likers, just share the Civic Liker sponsor link via any channels such as Facebook, YouTube, Whatsapp, Telegram or Line, etc (format: [https://liker.land/\[yourLikerID\]/civic](https://liker.land/\[yourLikerID]/civic) ) and supporters can become the Civic Liker by subscribing the monthly plan with credit card.
 
 Example of sponsor link: [https://liker.land/ckxpress/civic](https://liker.land/ckxpress/civic)
 
-### **Encourage openness and diversity**
+### **Support openness and diversity**
 
-We believe every penny has to be utilized to encourage openness and diversity, content creators should keep on creating in their familiar platform and publish their works as usual. It is not necessary for them to forfeit the engagement rate and get paid by keeping their work behind paywall. And of course, only open part of their works to the Civic Liker program is another option.
+We wish to utilize every penny well to encourage openness and diversity. Creators do not need to lock their content behind a paywall, forfeit the reach-rate in order to get their effort paid. Civic Liker is an option for an open business model, or a hybrid model for free and paid content.
 
-Encouraging more Civic Likers to participante is to encourage more open and viewable content.
+Support Civic Liker, encourage more open content.
 
-### Pay as you go, Fancy or simple&#xD;
+### Pay as you go, flexible pricing&#xD;
 
-* The new Civic Liker 2.0 supports subscriptions to multiple content creators, 5 USD is the minimum monthly support amount, feel free to pay more and support creations.
-* Civic Liker Classic: Donate 5 USD per month. The sum will be distributed to different creators based on your claps/likes.
+* Civic Liker supports subscriptions to multiple content creators, the minimum price is 5 USD per month, welcome to support more.
+* Civic Liker Classic: 5 USD per month. The sum will be distributed to different creators based on your claps/likes via LikeCoin buttons.
 
 ### **Benefiting from Giving**
 
