@@ -8,7 +8,7 @@ description: Why should I become a Civic Liker? Any benefits?
 
 ## [Be a** Civic Liker**](be-a-civic-liker.md)
 
-Civic Liker is a movement to reward good content and encourage openness. The Civic Liker monthly subscription plan provides a convenient way for supporters to sponsor creators by monthly subscription, and let the creators focus on their work with decent rewards. Readers can pay for at least the cost of a coffee, or up to the cost of a bottle of champagne, to support creators.
+Civic Liker is a movement to reward good content and encourage openness. The Civic Liker subscription plan provides a convenient way for supporters to sponsor creators by monthly subscription, and let the creators focus on their work with decent rewards. Readers can pay for at least the cost of a coffee, or up to the cost of a bottle of champagne, to support creators.
 
 ### **Monthly subscription fee for designated creators**
 
@@ -37,7 +37,7 @@ Other than supporting creators, Civic Likers enjoy various benefits such as taki
 
 ### **Benefits of Civic Liker**
 
-* Vote and support beloved content
+* Clap to support beloved content by the Creators Fund
 * Participate in community voting
 * Access bonus contents
 * Receive idol newsletter
@@ -45,9 +45,9 @@ Other than supporting creators, Civic Likers enjoy various benefits such as taki
 * Detailed reward distribution report
 * [Bookstores discount  ](rationale-and-benefits.md)
 
-Encourage more people to join Civic Liker and build a healthy creation ecosystem, please support the Republic of Liker Land.
+Encourage more people to join Civic Liker and build a healthy decentralized publishing ecosystem, please support the Republic of Liker Land.
 
-\*The monthly supporting amount (deducting the credit card transaction fee) will be exchanged to LikeCoin. Creators from all around the world will exchange them back into local currencies.&#x20;
+\*The monthly supporting amount (deducting the credit card transaction fee) will be changed to LikeCoin. Creators from all around the world can trade LikeCoin to any currencies.&#x20;
 
 ### \[[Join **Civic Liker**](be-a-civic-liker.md)]
 
