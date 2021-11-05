@@ -28,7 +28,7 @@
     * [升級 LikeCoin 的常見問題](guides/wallet/migration/migration-faq.md)
   * [FoTan 升級常見問題](guides/wallet/fotan.md)
 * [交易](guides/trade/README.md)
-  * [在 Osmosis 交易](<guides/trade/trade in osmosis.md>)
+  * [在 Osmosis 交易](guides/trade/trade-in-osmosis.md)
   * [註冊 Liquid 帳號](guides/trade/registering-on-liquid.md)
   * [在 Liquid 交易](guides/trade/trade-in-liquid.md)
   * [註冊 DigiFinex 帳號](guides/trade/registering-on-digifinex.md)
