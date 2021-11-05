@@ -2,9 +2,9 @@
 description: DEX, registration no required, immediate trade
 ---
 
-# Osmosis
+# Trade on Osmosis
 
-On October 20, 2021, LikeCoin can be traded on Osmosis DEX with UST and more than 10 cryptocurrencies. Registration is not required and no minimum deposit or withdrawal limit. Users can operate with their wallet all the way down, and experience decentralized trading.
+On October 20, 2021, Likers can access LIKE in a permissionless and frictionless way with LikeCoin's first DEX listing of LIKE on Osmosis. For instance, swap LIKE to different listed tokens on Osmosis (or vice versa), including USD stablecoin — UST.. Registration is not required and no minimum deposit or withdrawal limit. Users can operate with their wallet all the way down, and experience decentralized trading.
 
 You will have to use Keplr to login to Osmosis. If you are used to managing your LikeCoin on Liker Land wallet, you will have to deposit them to Keplr and login to Osmosis.
 

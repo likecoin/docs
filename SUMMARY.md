@@ -92,7 +92,7 @@
     * [LikeCoin Migration FAQ](general-guides/wallet/migration/migration-faq.md)
   * [FoTan upgrade FAQ](general-guides/wallet/fotan.md)
 * [Trade](general-guides/trade/README.md)
-  * [Osmosis](general-guides/trade/osmosis.md)
+  * [Trade on Osmosis](general-guides/trade/trade-on-osmosis.md)
   * [Registering on Liquid](general-guides/trade/registering-on-liquid.md)
   * [Trade in Liquid](general-guides/trade/trade-in-liquid.md)
   * [Registering on DigiFinex](general-guides/trade/registering-on-digifinex.md)
