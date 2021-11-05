@@ -4,15 +4,15 @@ description: Why should I become a Civic Liker? Any benefits?
 
 # Civic Liker
 
-![](../../.gitbook/assets/likecoin_ad98\_2point0-01.png)
+![](../../.gitbook/assets/likecoin\_ad98\_2point0-01.png)
 
-## [**Join Civic Liker**](be-a-civic-liker.md)
+## [Be a** Civic Liker**](be-a-civic-liker.md)
 
-Civic Liker is a movement to reward open contents, positioned as "a tool to encourage open subscription", helping readers to support his/her beloved content creators via any platforms. Therefore content creators can focus on content creation and survive with stable income. For the cost from a cup of coffee to a bottle of campaign, you become a Civic Liker. Whoever you support will then be turned into a tangible reward to the creators.
+Civic Liker is a movement to reward good content and encourage openness. The Civic Liker monthly subscription plan provides a convenient way for supporters to sponsor creators by monthly subscription, and let the creators focus on their work with decent rewards. Readers can pay for at least the cost of a coffee, or up to the cost of a bottle of champagne, to support creators.
 
-### **Monthly fee support the designated creator**
+### **Monthly subscription fee for designated creators**
 
-The monthly supporting amount for LikeCoin will be credited to the content creator in full amount.\* The income is in proportion to the number of Civic Likers that support him/her and will be received in due course. Moreover, Civic Liker is able to largely affect the daily creators fund distribution by their claps to the content so that creators can earn extra income.
+The creators get the monthly sponsorship on a fixed date of their billing cycle. Equivalent amount of LikeCoin will be transferred to creators' wallet. Civic Likers also has the prestige power to vote for the daily distribution of the Creator's Fund by clicking LikeCoin buttons on any creative works.
 
 ### **Support content creators via any platforms **
 
@@ -47,7 +47,7 @@ Other than supporting creators, Civic Likers enjoy various benefits such as taki
 
 Encourage more people to join Civic Liker and build a healthy creation ecosystem, please support the Republic of Liker Land.
 
-\*The monthly supporting amount (deducting the credit card transaction fee) will be exchanged to LikeCoin. Creators from all around the world will exchange them back into local currencies. 
+\*The monthly supporting amount (deducting the credit card transaction fee) will be exchanged to LikeCoin. Creators from all around the world will exchange them back into local currencies.&#x20;
 
 ### \[[Join **Civic Liker**](be-a-civic-liker.md)]
 
