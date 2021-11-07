@@ -88,23 +88,26 @@ On My Bondings shows the number of tokens that you've bonded.
 
 On the top left hand corner, the bonded liquidity is increased.
 
-![](broken-reference)
+![](<../../.gitbook/assets/Osmosis LP 09.png>)
 
-Step 4: Rewards
+### Step 3: Rewards
 
 On Daily Epoch 17:00 UTC, the liquidity mining rewards in OSMO will be automatically delivered to your Keplr wallet.
 
-Unbond LP Token and withdraw the cryptocurrencies
+## Unbond LP Token and withdraw the cryptocurrencies
 
-Step 1: Unbond LP Token
+### Step 1: Unbond LP Token
 
 Go back to My Bondings, on the gauge that to be unbonded, click "Unbond All".
 
+![](<../../.gitbook/assets/Osmosis LP 07.png>)
+
 Please note the unbonding period is the time that you selected the gauge, e.g. 14 days requires 14 days to completely unbond, 7 days requires 7 days to unbond. During the unbonding period, you can still earn liquidity mining rewards until you are fully unbonded.
 
-Step 2: Remove Liquidity and withdraw the cryptocurrencies
+### Step 2: Remove Liquidity and withdraw the cryptocurrencies
 
 Click "Add / Remove Liquidity", on Manage Liquidity select Remove Liquidity. You may select the full amount 100%, 75%, 50% and 25% to withdraw. Removing liquidity requires Exit fee, while you can get swap fee according to the proportion of your LP shares.
 
-Click on the left menu and select Assets and check the amount of funds that you've withdrawn.
+![](<../../.gitbook/assets/Osmosis LP 08.png>)
 
+Click on the left menu and select Assets and check the amount of funds that you've withdrawn.
