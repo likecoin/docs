@@ -88,7 +88,7 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 左上角 Bonded 亦顯示經已綁定的流動性總值經已增加。
 
-![](<../../.gitbook/assets/Osmosis LP 07 (1).png>)
+![](<../../.gitbook/assets/Osmosis LP 09.png>)
 
 ### 步驟四：獎勵派發
 
