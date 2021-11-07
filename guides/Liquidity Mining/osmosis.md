@@ -106,6 +106,8 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 ### 步驟二：取回密碼貨幣
 
-點「Add / Remove Liquidity」，在 Manage Liquidity 將畫面切換到 Remove Liquidity 選擇取回 100% 即全部、75%、50% 或 25%，即可將密碼貨幣取回。取回貨幣需要支付出池費，並可依照你提供的流動性的份額比例一拼取回互換交易費。取回的密碼貨幣可於左手邊菜單選 Assets 查看，
+點「Add / Remove Liquidity」，在 Manage Liquidity 將畫面切換到 Remove Liquidity 選擇取回 100% 即全部、75%、50% 或 25%，即可將密碼貨幣取回。取回貨幣需要支付出池費，並可依照你提供的流動性的份額比例一拼取回互換交易費。
 
 ![](<../../.gitbook/assets/Osmosis LP 08.png>)
+
+取回的密碼貨幣可於左手邊菜單選 Assets 查看，
