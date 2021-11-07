@@ -4,9 +4,13 @@ description: 是次升級對 Liker 有甚麼影響？
 
 # FoTan 升級常見問題
 
-LikeCoin chain 經已於 2021年8月18日 19:45 GMT+8 晚上升級主鏈由 SheungWan 到 FoTan 版本，此後將支援 [ISCN ( International Standard Content Number )](../decentralized-publishing/what-is-iscn.md) 內容註冊，及 IBC ( Inter Blockchain Communication ) 以支援跨鏈交易等多項重要功能。當天驗證人於 Google Meet 同步進行升級。升級進行期間 Liker Land 所有操作暫停。
+LikeCoin chain 經已於 2021年8月18日 19:45 GMT+8 晚上升級主鏈由 SheungWan 到 FoTan 版本，並支援 [ISCN ( International Standard Content Number )](../decentralized-publishing/what-is-iscn.md) 內容註冊及 IBC ( Inter Blockchain Communication ) 以支援跨鏈交易等多項重要功能。當天驗證人於 Google Meet 同步進行升級。升級進行期間 Liker Land 所有操作暫停。
 
 你對這次升級有疑問嗎？不妨參考以下常見問題。
+
+### 如何查閱以往交易？
+
+到 [https://likecoin-chain-sheungwan.netlify.app/welcome](https://likecoin-chain-sheungwan.netlify.app/welcome) 並在「Explore with any address」輸入你的錢包地址即可直看。
 
 ### 整個升級大約需時多久？
 
@@ -22,7 +26,9 @@ LikeCoin chain 經已於 2021年8月18日 19:45 GMT+8 晚上升級主鏈由 Sheu
 
 ### 我可以委託及轉移委託 LikeCoin 嗎？
 
-在升級期間委託、轉移委託及取回委託功能將不能使用。升級時系統會直接為你提領一次收益，所以升級後如不見了有待提領的收益時無須擔心。
+在升級期間委託、轉移委託及取回委託功能將不能使用。
+
+升級時系統會直接為你提領一次收益，所以升級後如不見了有待提領的收益時無須擔心。
 
 ### 升級期間不慎發出了轉帳指示，我的 LikeCoin 會不見了嗎？
 

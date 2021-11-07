@@ -4,7 +4,9 @@ description: 去中心化管理你的 LikeCoin
 
 # Keplr
 
-使用 Keplr 錢包你可以將自己的 LikeCoin 去中心化保存並自行掌握私鑰。你可以直接以 Keplr 註冊 Liker ID，或為現有的 Keplr 錢包綁定 Liker ID，詳見：
+使用 Keplr 錢包你可以將自己的 LikeCoin 去中心化保存並自行掌握私鑰。
+
+你可以直接以 Keplr 註冊 Liker ID，或為現有的 Keplr 錢包綁定 Liker ID，詳見：
 
 {% content-ref url="../../user-guide/liker-id/register-with-keplr.md" %}
 [register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)

@@ -8,7 +8,7 @@ description: 用 Liker Land 手機應用程式轉帳 LikeCoin，幾秒搞定
 
 ### **步驟一**
 
-首先你需要安裝、[註冊 Liker ID](../../user-guide/liker-id/register.md) 並登入 [Liker Land 手機應用程式](https://liker.land/getapp)。
+首先你需要安裝、[以一般方法 ( Authcore ) 註冊 Liker ID](../../user-guide/liker-id/register.md) 並登入 [Liker Land 手機應用程式](https://liker.land/getapp)。
 
 ### **步驟二**
 
@@ -26,7 +26,7 @@ description: 用 Liker Land 手機應用程式轉帳 LikeCoin，幾秒搞定
 
 Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款方的二維碼掃描。然後再按「下一步」。
 
-![](../../.gitbook/assets/img_2158.png)
+![](../../.gitbook/assets/img\_2158.png)
 
 ### **步驟五**
 
@@ -52,9 +52,8 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 
 在轉帳頁面輸入需要轉帳的 LikeCoin 數量，請留意錢包內需要有定夠[手續費](transaction-fee.md)，再點擊「確認」 即可完成轉帳。
 
-![&#x624B;&#x7E8C;&#x8CBB;&#x65BC;&#x300C;&#x78BA;&#x8A8D;&#x300D;&#x4E0B;&#x65B9;&#x986F;&#x793A;](../../.gitbook/assets/like-pay-6%20%281%29.png)
+![手續費於「確認」下方顯示](<../../.gitbook/assets/like-pay-6 (1).png>)
 
 {% hint style="info" %}
 [Matters](../../user-guide/creator/matters.md) 使用者可任意對任何一篇文章「支持作者」轉帳，詳見[Matters 支付與提現功能指南（2020.08.14更新）](https://matters.news/@hi176/matters-%E6%94%AF%E4%BB%98%E8%88%87%E6%8F%90%E7%8F%BE%E5%8A%9F%E8%83%BD%E6%8C%87%E5%8D%97-2020-08-14%E6%9B%B4%E6%96%B0-bafyreicfgnpk4jamnhkjecq32kdlmhhtp6xrwpkxoalp37wayd4sqmjo54)
 {% endhint %}
-
