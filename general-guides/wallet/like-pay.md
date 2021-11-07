@@ -8,7 +8,7 @@ description: Transfer LikeCoin using Liker Land mobile app in a few clicks
 
 ### Step 1&#xD;
 
-Download [Liker Land mobile app](https://liker.land/getapp),  [register a Liker ID](../../user-guide/liker-id/register.md) and login.
+Download [Liker Land mobile app](https://liker.land/getapp),  [register a Liker ID as usual (with Authcore)](../../user-guide/liker-id/register.md) and login.
 
 ### Step 2
 
@@ -18,7 +18,7 @@ Open the mobile app and click on \[My Wallet] on top. You can manage your wallet
 
 ### Step 3&#xD;
 
-You can fill in the Liker ID or wallet address into the \[Receiver's Liker ID or address] field, or else scanning the QR Code: Ask the LikeCoin receiver to open his/her wallet and click \[Receive] button to show his/her QR Code. Then you can click on the icon circled in red, using your phone camera to scan the LikeCoin receiver's QR Code. 
+You can fill in the Liker ID or wallet address into the \[Receiver's Liker ID or address] field, or else scanning the QR Code: Ask the LikeCoin receiver to open his/her wallet and click \[Receive] button to show his/her QR Code. Then you can click on the icon circled in red, using your phone camera to scan the LikeCoin receiver's QR Code.&#x20;
 
 ![](../../.gitbook/assets/like-pay-2-en.png)
 
