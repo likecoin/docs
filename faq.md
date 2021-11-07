@@ -33,18 +33,23 @@ description: Frequently Asked Questions
 
 ## [Wallet](general-guides/wallet/) <a href="wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
-* [How to transfer LikeCoin?](general-guides/wallet/like-pay.md)
-* [Is there a decentralized wallet for LikeCoin?  ](general-guides/wallet/keplr.md)
+* [Is there a decentralized wallet for LikeCoin?](general-guides/wallet/keplr.md)
+* [How to transfer LikeCoin?](general-guides/wallet/like-pay.md)[  ](general-guides/wallet/keplr.md)
 * [Does LikeCoin support hardware wallets?](general-guides/wallet/hardware-wallet.md)
 * [How to find my wallet address?](general-guides/wallet/wallet-address.md)
 * [Any block explorer for LikeCoin?](general-guides/wallet/big-dipper.md)
 * [Is there a transaction fee?](general-guides/wallet/transaction-fee.md)
 * [How to handle my LikeCoin ERC-20 token?](general-guides/wallet/migration/)
+* [What is a FoTan upgrade? How is it going to affect me?](general-guides/wallet/fotan.md)
 
 ## [Trade](general-guides/trade/)
 
 * [How to trade LikeCoin into other cryptocurrency or fiat money?](general-guides/trade/)
 * [Can I buy LikeCoin by credit card?](general-guides/trade/trade-in-liquid.md#bylikecoinwithcreditcard)
+
+## [Liquidity Mining](faq.md#undefined)
+
+* [How to earn liquidity mining incentives on Osmosis?](general-guides/liquidity-mining/osmosis.md)
 
 ## [Stake](general-guides/stake/) <a href="wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
