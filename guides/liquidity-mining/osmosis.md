@@ -112,6 +112,6 @@ Osmosis 的流動性挖礦獎勵將以 OSMO 回饋予流動性挖礦者，並於
 
 取回的密碼貨幣可於左手邊菜單選 Assets 查看，
 
-### 查看以往數據
+## 查看以往數據
 
 點左手邊菜單 Stats 或到 [https://info.osmosis.zone/](https://info.osmosis.zone) 可以查看各個流動性池的數據。
