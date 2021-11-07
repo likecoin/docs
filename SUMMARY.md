@@ -100,6 +100,8 @@
   * [Registering on ZB](general-guides/trade/registering-on-zb.md)
   * [Trade in ZB](general-guides/trade/trade-in-zb.md)
   * [Register and Trade in MyEthShop](general-guides/trade/registering-and-trade-in-myethshop.md)
+* [Liquidity Mining](general-guides/liquidity-mining/README.md)
+  * [Osmosis](general-guides/liquidity-mining/osmosis.md)
 * [Stake](general-guides/stake/README.md)
   * [Delegation of LikeCoin](general-guides/stake/delegation-of-likecoin.md)
   * [Undelegation of LikeCoin](general-guides/stake/undelegation-of-likecoin.md)
