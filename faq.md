@@ -32,18 +32,23 @@ description: LikeCoin 常見問題
 
 ## [錢包](guides/wallet/)
 
-* [如何轉帳 LikeCoin？](guides/wallet/like-pay.md)
 * [有沒有去中心化的錢包可以提供？](guides/wallet/keplr.md)
+* [如何轉帳 LikeCoin？](guides/wallet/like-pay.md)
 * [LikeCoin 支援硬件錢包嗎？](guides/wallet/hardware-wallet.md)
 * [如何找到自己的錢包地址？](guides/wallet/wallet-address.md)
 * [LikeCoin 有區塊鏈瀏覽器嗎？](guides/wallet/big-dipper.md)
 * [操作 LikeCoin 需要手續費嗎？](guides/wallet/transaction-fee.md)
 * [我的舊版 LikeCoin ERC-20 應該怎處理？](guides/wallet/migration/)
+* [甚麼是 FoTan 升級，對我的錢包有影響嗎？](guides/wallet/fotan.md)
 
 ## [交易](guides/trade/)
 
 * [如何兌換 LikeCoin 為其他密碼貨幣或法定貨幣？](guides/trade/)
 * [可以使用信用卡購買 LikeCoin 嗎？](guides/trade/trade-in-liquid.md#bylikecoinwithcreditcard)
+
+## [流動性挖礦](faq.md#undefined)
+
+*
 
 ## [委託](guides/stake/)
 
