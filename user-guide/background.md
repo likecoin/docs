@@ -54,7 +54,7 @@ Operates a set of servers 24x7 to validate all transactions of _Likers_, includi
 
 To start with, _validators_ of _LikeCoin chain_ include [**National Taipei University of Technology**](https://www.ntut.edu.tw), [**Taiwan FactCheck Center**](https://tfc-taiwan.org.tw),[**Forbole**](https://www.forbole.com), **The **[**Standnews**](https://thestandnews.com), [**Culture and Media Education Foundation**](https://www.cmef.org.hk/eng), [**Hong Kong Creative Open Technology Association**](https://cota.hk), [**Matters Lab**](https://matters.news), [**GLOs**](https://www.glos.world), [**Enyk Security**](https://enyk.io), [**UDomain**](https://www.udomain.com) and [**OurSky**](https://oursky.com).
 
-![first batch of validators of LikeCoin chain](../.gitbook/assets/likecoin_ad70\_validators-01.png)
+![first batch of validators of LikeCoin chain](../.gitbook/assets/likecoin\_ad70\_validators-01.png)
 
 ## Mechanism <a href="d993" id="d993"></a>
 
@@ -99,11 +99,13 @@ In blockchain jargon, the above mechanism of decentralized consensus is called B
 
 ## **Governance** <a href="ca09" id="ca09"></a>
 
-As stated in the very beginning, _Liker Land_ is collectively owned and governed by the community. A [liquid democracy](https://en.wikipedia.org/wiki/Liquid_democracy) system is designed and deployed upon Genesis to enable the self governance of Liker Land by all _Likers_ though _validators_.
+As stated in the very beginning, _Liker Land_ is collectively owned and governed by the community. A [liquid democracy](https://en.wikipedia.org/wiki/Liquid\_democracy) system is designed and deployed upon Genesis to enable the self governance of Liker Land by all _Likers_ though _validators_.
 
 ### Delegation <a href="c538" id="c538"></a>
 
-When a _Liker_ delegates _LikeCoin_ to a _validator_, not only does the _Liker_ help validating transactions for the network and earns rewards, but the _Liker_ also endorses the _validator_ to raise proposals and vote on behalf of them. A _Liker_ may also decide the amount of _LikeCoin_ to delegate to reflect the level of endorsement, and may delegate to one or more _validators_. Delegation is like voting in a society under representative democracy but in a more flexible way.
+When a _Liker_ delegates _LikeCoin_ to a _validator_, not only does the _Liker_ help validating transactions for the network and earns rewards, but the _Liker_ also endorses the _validator_ to raise proposals and vote on behalf of them. A _Liker_ as stakeholder may also decide the amount of _LikeCoin_ to delegate to reflect the level of endorsement, and may delegate to one or more _validators_. Delegation is like voting in a society under representative democracy but in a more flexible way.
+
+After the LikeCoin chain upgraded to FoTan on August 18, 2021, stakeholders can [direct vote](../general-guides/governance/direct-vote.md) for a proposal.
 
 ### Raising a proposal <a href="81f6" id="81f6"></a>
 
@@ -115,7 +117,7 @@ Some aspects of proposals include:
 * **Community Pool Spend proposal**: to decide the usage of the community pool
 * **Text proposal**: All the proposals that are not covered by the above two types go under this type, e.g.: about governance principle. Examples in the past: 4th proposal about direct democracy implementation, and the 9th proposal about delegation of ecosystem development fund.
 
-By the way, two more proposal types will be supported after the FoTan chain upgrade: **Software Upgrade Proposal** and **Cancel Software Upgrade Proposal**. See the [Cosmos SDK documentation](https://docs.cosmos.network/master/modules/gov/01\_concepts.html) for details.
+By the way, two more proposal types are supported after the FoTan chain upgrade: **Software Upgrade Proposal** and **Cancel Software Upgrade Proposal**. See the [Cosmos SDK documentation](https://docs.cosmos.network/master/modules/gov/01\_concepts.html) for details.
 
 Any validator can raise a proposal. In order to have a proposal to enter the voting period, 100k _LikeCoin_ has to be deposited within 2 weeks. The deposit may come from other _validators_ and _Likers._
 
@@ -123,9 +125,9 @@ In case the proposal fails to get 100k _LikeCoin_ deposit in 2-week time, the pr
 
 ### Voting <a href="a839" id="a839"></a>
 
-Once a proposal reaches 100K LikeCoin, it immediately enters Voting period. All _validators_ may then vote during the Voting period. There are four options to every proposal: **Yes**, **No**, **Abstain** and **Veto**. Veto is to express a “No” so strong that the _validator_ believes the proposal should not be proposed in the first place, and should have its deposit expropriated to **Community Pool**.
+Once a proposal reaches 100K LikeCoin, it immediately enters Voting period. All _validators_ and stakeholders may then vote during the one week Voting period. There are four options to every proposal: **Yes**, **No**, **Abstain** and **Veto**. Veto is to express a “No” so strong that the _validator_ believes the proposal should not be proposed in the first place, and should have its deposit expropriated to **Community Pool**.
 
-During the voting period, if a _Liker_ does not agree with the option picked by the _validator_ representing them, they may transfer their delegated _LikeCoin_ to another _validator_. This is another point that liquid democracy outperforms tradition representative democracy.
+During the voting period, if a stakeholder does not agree with the option picked by the _validator_ representing them, they may transfer their delegated _LikeCoin_ to another _validator _or direct vote to overrule. This is another point that liquid democracy outperforms traditional representative democracy.
 
 ### Result <a href="a4c5" id="a4c5"></a>
 
