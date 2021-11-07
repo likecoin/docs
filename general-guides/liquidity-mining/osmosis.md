@@ -24,15 +24,15 @@ and depositing LikeCoin to Keplr.
 
 ### Step 1: Select the liquidity pool
 
-Currently LikeCoin install three liquidity pools in [Osmosis](https://app.osmosis.zone), which two of them offer liquidity providing incentives:
+Currently LikeCoin install three liquidity pools, which two of them offer liquidity providing incentives:
 
 [Pool #553 LIKE/OSMO](https://app.osmosis.zone/pool/553)
 
 [Pool #555 LIKE/ATOM](https://app.osmosis.zone/pool/555)
 
-On the menu of Osmosis select Pools, on Incentivized Pools searching for 533 or 555. The following example is for pool 553.
+On the left menu of Osmosis select Pools, on Incentivized Pools searching for 533 or 555. The following example is for pool 553.
 
-### Step 2: Prepare your funds
+### Step 2: Prepare your cryptocurrencies
 
 Each Liquidity pool has its own ratio, Pool#553 LIKE/OSMO ratio is 50% / 50%, which means you have to prepare 50% LIKE to match with 50% OSMO.
 
@@ -66,7 +66,7 @@ If you would like to trade more funds for adding liquidity, click "Swap Token" a
 
 Providing liquidity will receive a swap fee.
 
-## Bonding LP Token for Liquidity Mining Incentives
+### Bonding LP Token for Liquidity Mining Incentives
 
 After adding liquidity, you will receive LP Token according to the shares that you have provided in proportion to the whole liquidity pool. Bonding these LP Tokens will receive liquidity mining rewards.
 
@@ -94,7 +94,7 @@ On the top left hand corner, the bonded liquidity is increased.
 
 On Daily Epoch 17:00 UTC, the liquidity mining rewards in OSMO will be automatically delivered to your Keplr wallet.
 
-## Unbond LP Token and withdraw the funds
+## Unbond LP Token and withdraw the cryptocurrencies
 
 ### Step 1: Unbond LP Token
 
@@ -104,14 +104,10 @@ Go back to My Bondings, on the gauge that to be unbonded, click "Unbond All".
 
 Please note the unbonding period is the time that you selected the gauge, e.g. 14 days requires 14 days to completely unbond, 7 days requires 7 days to unbond. During the unbonding period, you can still earn liquidity mining rewards until you are fully unbonded.
 
-### Step 2: Remove Liquidity and withdraw funds
+### Step 2: Remove Liquidity and withdraw the cryptocurrencies
 
 Click "Add / Remove Liquidity", on Manage Liquidity select Remove Liquidity. You may select the full amount 100%, 75%, 50% and 25% to withdraw. Removing liquidity requires Exit fee, while you can get swap fee according to the proportion of your LP shares.
 
 ![](<../../.gitbook/assets/Osmosis LP 08.png>)
 
 Click on the left menu and select Assets and check the amount of funds that you've withdrawn.
-
-## Check out past performance
-
-Go to Stats on the menu or [https://info.osmosis.zone/](https://info.osmosis.zone) will provide statistics of the liquidity pool.

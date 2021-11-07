@@ -2,7 +2,7 @@
 description: DEX, registration no required, immediate trade
 ---
 
-# Trade on Osmosis
+# Trade in Osmosis
 
 On October 20, 2021, Likers can access LIKE in a permissionless and frictionless way with LikeCoin's first DEX listing of LIKE on Osmosis. For instance, swap LIKE to different listed tokens on Osmosis (or vice versa), including USD stablecoin — UST.. Registration is not required and no minimum deposit or withdrawal limit. Users can operate with their wallet all the way down, and experience decentralized trading.
 
@@ -68,8 +68,8 @@ On Keplr pop-up screen, click "Approve" to continue.
 
 ![](<../../.gitbook/assets/Osmosis 09.png>)
 
-After the trade, check on Assets and the cryptocurrency that you traded is there.
+After the trade, check on Assets and the funds that you traded is there.
 
-### Step 6: Withdraw Cryptocurrency
+### Step 6: Withdraw Funds
 
-Go to Assets and click "Withdraw >" then IBC Withdraw your cryptocurrency to Keplr for sending them to crypto exchange or another wallet.
+Go to Assets and click "Withdraw >" then IBC Withdraw your funds to Keplr for sending them to crypto exchange or another wallet.
