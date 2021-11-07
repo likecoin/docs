@@ -90,7 +90,7 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 ![](<../../.gitbook/assets/Osmosis LP 09.png>)
 
-### 步驟四：獎勵派發
+### 步驟三：獎勵派發
 
 流動性挖礦獎勵將以 OSMO 回饋予流動性挖礦者，並於每天紀元 ( Daily Epoch ) 17:00 UTC 直接發送到 Keplr 錢包。
 
