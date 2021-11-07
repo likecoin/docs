@@ -24,7 +24,7 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 ### 步驟一：選定流動性池
 
-現時 LikeCoin 在 Osmosis 中設置了三個流動性池，其中兩個提供流動性挖礦獎勵：
+現時 LikeCoin 在 [Osmosis](https://app.osmosis.zone) 中設置了三個流動性池，其中兩個提供流動性挖礦獎勵：
 
 [Pool #553 LIKE/OSMO](https://app.osmosis.zone/pool/553)
 
@@ -92,7 +92,7 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 ### 步驟三：獎勵派發
 
-流動性挖礦獎勵將以 OSMO 回饋予流動性挖礦者，並於每天紀元 ( Daily Epoch ) 17:00 UTC 直接發送到 Keplr 錢包。
+Osmosis 的流動性挖礦獎勵將以 OSMO 回饋予流動性挖礦者，並於每天紀元 ( Daily Epoch ) 17:00 UTC 直接發送到 Keplr 錢包。
 
 ## 解綁 LP Token 取回密碼貨幣
 
@@ -106,8 +106,12 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 ### 步驟二：取回密碼貨幣
 
-點「Add / Remove Liquidity」，在 Manage Liquidity 將畫面切換到 Remove Liquidity 選擇取回 100% 即全部、75%、50% 或 25%，即可將密碼貨幣取回。取回貨幣需要支付出池費，並可依照你提供的流動性的份額比例一拼取回互換交易費。
+點「Add / Remove Liquidity」，在 Manage Liquidity 將畫面切換到 Remove Liquidity 選擇取回 100% 即全部、75%、50% 或 25%，即可將密碼貨幣取回。取回貨幣需要支付出池費，並可依照你提供的流動性份額比例一拼取回互換交易費。
 
 ![](<../../.gitbook/assets/Osmosis LP 08.png>)
 
 取回的密碼貨幣可於左手邊菜單選 Assets 查看，
+
+### 查看以往數據
+
+點左手邊菜單 Stats 或到 [https://info.osmosis.zone/](https://info.osmosis.zone) 可以查看各個流動性池的數據。
