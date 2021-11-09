@@ -13,7 +13,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 ![](../../.gitbook/assets/digifinex-1.png)
 
 {% hint style="warning" %}
-留意你必須承諾不是來自美國或新加坡的用戶
+留意你必須承諾不是來自美國或新加坡的用戶。2021年6月開始中國用戶不能使用 DigiFinex。
 {% endhint %}
 
 請輸入電子郵件信箱、自定登錄密碼及邀請碼（可選填）。你也可以選擇使用手機註冊（下圖紅圈位置）
@@ -96,7 +96,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 你必須要設定雙重驗證碼否則將不能提幣，請使用手機下載  Google Authenticator 應用程式
 
-[安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh_TW)\
+[安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh\_TW)\
 [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
 在「基本訊息」頁面的「雙重驗證」欄點選「未開啟」出現下圖，點選「下一步」
