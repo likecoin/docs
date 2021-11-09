@@ -15,7 +15,7 @@ On the right hand corner of the website, click "Register"
 ![](../../.gitbook/assets/digifinex-1-en.png)
 
 {% hint style="warning" %}
-Please note that you have to declare that you are not a citizen from Singapore or the US.
+Please note that you have to declare that you are not a citizen from Singapore or the US. Starting in June 2021, DigiFinext is not available in China.
 {% endhint %}
 
 Fill in your email, password and referral code (Optional). You may also choose to register by mobile phone number, check on the switch below in red
@@ -68,7 +68,7 @@ Click on the top left hand corner avatar and a menu appears, click the \[Securit
 
 ![](../../.gitbook/assets/digifinex-mobile-5.png)
 
-Click on \[Unverified] of the \[Real-name verification] 
+Click on \[Unverified] of the \[Real-name verification]&#x20;
 
 ![](../../.gitbook/assets/digifinex-mobile-6.png)
 
@@ -82,7 +82,7 @@ Fill in the details, you have to provide nationality, legal name on the document
 
 Upload a photo of your ID (make sure the ID is in HD). Then upload a photo of a handheld ID Card + White paper write "digifinex.com"
 
-Hand-held photo requires ID card + Note with handwritten DigiFinex + date of upload. Make sure the uploaded photos are clear and consistent. 
+Hand-held photo requires ID card + Note with handwritten DigiFinex + date of upload. Make sure the uploaded photos are clear and consistent.&#x20;
 
 Picture formats must be in JPG, PNG f and the size must not exceed 2MB
 
@@ -104,7 +104,7 @@ After the upload is completed, wait for approval. Review will be completed in 1-
 
 You have to set up 2-Factor Authentication otherwise you are not able to withdraw from DigiFinex, please download Google Authenticator on your mobile
 
-[Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh_TW)\
+[Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh\_TW)\
 [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
 On the "Basic Information" page "2FA", click on the "Off" and the following page appears, click "Next Step"
