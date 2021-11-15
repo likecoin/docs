@@ -17,7 +17,7 @@ likecoin-chain && cd likecoin-chain
 3\. Setup the needed files and folders
 
 ```
-cp docker-compose.template.yml docker-compose.yml
+cp docker-compose.yml.template docker-compose.yml
 cp .env.template .env
 mkdir -p .liked
 ```
