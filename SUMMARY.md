@@ -50,7 +50,7 @@
   * [持份者直接投票](guides/governance/direct-vote.md)
   * [LikeCoin chain](guides/governance/likecoin-chain.md)
   * [驗證人](guides/governance/what-is-a-validator/README.md)
-    * [生態池社群基金](guides/governance/what-is-a-validator/community-funds.md)
+    * [社群基金委託](guides/governance/what-is-a-validator/community-delegation.md)
   * [歷史議案](guides/governance/proposals.md)
   * [LikeCoin Grants 計畫](guides/governance/likecoin-grants.md)
 

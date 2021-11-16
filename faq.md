@@ -48,7 +48,7 @@ description: LikeCoin 常見問題
 
 ## [流動性挖礦](faq.md#undefined)
 
-*
+* [如何在 Osmosis 進行流動性挖礦？](guides/liquidity-mining/osmosis.md)
 
 ## [委託](guides/stake/)
 
@@ -61,7 +61,7 @@ description: LikeCoin 常見問題
 * [LikeCoin chain 是甚麼？](guides/governance/likecoin-chain.md)
 * [甚麼是驗證人？](guides/governance/what-is-a-validator/)
 * [如何成為驗證人？](developer-resources/become-a-validator.md)
-* [驗證人如何獲得社群基金的委託？](guides/governance/what-is-a-validator/community-funds.md)
+* [驗證人如何獲得社群基金的委託？](guides/governance/what-is-a-validator/community-delegation.md)
 * [讚賞公民共和國有過甚麼議案？](guides/governance/proposals.md)
 * [如何為議案存入保證金？](guides/governance/proposal-deposit.md)&#x20;
 * [如何就議案投票？](guides/governance/direct-vote.md)
