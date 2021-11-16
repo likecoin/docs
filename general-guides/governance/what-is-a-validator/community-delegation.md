@@ -1,8 +1,8 @@
 ---
-description: Community Fund delegation from Ecological pools
+description: Community Delegation from Community Pool
 ---
 
-# Community Funds Application
+# Community Delegation
 
 The delegation process is mainly governed under proposal [9](../proposals.md#proposal-9-delegate-the-like-in-the-ecological-pool), [12](../proposals.md#proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators-1) and [20](../proposals.md#proposal-20-propose-new-set-of-rules-and-structure-of-the-community-delegation-committee).
 
@@ -14,7 +14,9 @@ A. Post about yourself and why you want to participate in LikeCoin at [matters.n
 
 Chinese Validator - Use the function “add tag” on matters.news to tag [#Validator Intro](https://matters.news/tags/VGFnOjUzMTkw) in your article.
 
-English Validator - You may post on matters.news or post on medium.com with the tag #Validator Intro and #LikeCoin (Please search the tag for previous Validator Intro examples from your counterpart if you don’t know how to write yours.)
+English Validator - You may post on matters.news or post on medium.com with the tag #Validator Intro and #LikeCoin
+
+(Please search the tag for previous Validator Intro examples from your counterpart if you don’t know how to write yours.)
 
 B. Provide your email address.
 
@@ -26,22 +28,22 @@ Please note validators' application for community fund cut off day is on the 15t
 
 ### Renewal Procedure
 
-Validators who receive their community delegation will have to re-apply again on the 6th month upon receiving their delegation if they want to continue the status. Validators have to present a summary/report of what they have achieved in the past months. Failing to comply will result in withdrawing the delegation.
+Validators who receive their community delegation will have to re-apply again on the 6th month upon receiving their delegation if they want to continue the status. Validators have to present a summary/report of what they have achieved in the past months. Failure to comply will result in withdrawing the delegation.
 
-Example: The validators who received the 1st round of delegation in June may re-apply again in November before the 15th, if they have 5 Aye from the committee they can keep the delegation. If the validator does not re-apply, the delegation will be withdrawn.
+Example: The validators who received the 1st round of delegation in June may re-apply again in November before the 15th 1200 GMT. If the validator does not re-apply, the delegation will be withdrawn.
 
-### Review Criterias
+### Review Criteria
 
 The Community Delegation Committee will review and check (including but not limited to) if:
 
 1. The validator is always online.
-2. The validator actively participates in Discord regarding the development of LikeCoin and has enough recognition from others.
+2. The validator actively participates in [Discord](http://discord.gg/likecoin) regarding the development of LikeCoin and has enough recognition from others.
 3. The validator promotes the identity of LikeCoin on other media/websites and communicates with his/her delegators/stakeholders.
 4. The validator commission rate policy obligates the minimum commission rate and does make sense or not.
 5. The validator participates in proposal voting.
 6. The validator do work on what they promised on the #Validator Intro
 
-When the validator makes an honest effort to participate in community affairs, recognition will reveal itself. Validator gets at least 5 Aye from the committee will receive the delegation.
+When the validator makes an honest effort to participate in community affairs, recognition will reveal itself. Validator gets at least 5 Aye from the committee will receive the delegation or renewal.
 
 ### **Additional rules**
 

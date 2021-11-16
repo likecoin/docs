@@ -114,7 +114,7 @@
   * [Direct Voting](general-guides/governance/direct-vote.md)
   * [LikeCoin chain](general-guides/governance/likecoin-chain.md)
   * [Validator](general-guides/governance/what-is-a-validator/README.md)
-    * [Community Funds Application](general-guides/governance/what-is-a-validator/community-funds-application.md)
+    * [Community Delegation](general-guides/governance/what-is-a-validator/community-delegation.md)
   * [Proposals](general-guides/governance/proposals.md)
   * [LikeCoin Grants Program](general-guides/governance/likecoin-grants.md)
 

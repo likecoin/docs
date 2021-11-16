@@ -62,7 +62,7 @@ description: Frequently Asked Questions
 * [What is LikeCoin chain?](general-guides/governance/likecoin-chain.md)
 * [What is a validator?](general-guides/governance/what-is-a-validator/)
 * [How to become a validator?](validator/become-a-validator.md)****
-* [How can the validator receive community fund delegation from ccological pools‌?](general-guides/governance/what-is-a-validator/community-funds-application.md)
+* [How can the validator receive community fund delegation from ccological pools‌?](general-guides/governance/what-is-a-validator/community-delegation.md)
 * ​​[How many proposals proceeded by the Republic of Liker Land?](general-guides/governance/proposals.md)
 * [How to deposit for a proposal?](general-guides/governance/proposal-deposit.md)
 * [How to vote for a proposal?](general-guides/governance/direct-vote.md)
