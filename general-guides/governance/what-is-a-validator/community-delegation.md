@@ -6,7 +6,7 @@ description: Community Delegation from Community Pool
 
 The Community delegation program aimed to support newly onboard validators of some startup funds who wish to contribute to the LikeCoin chain governance.&#x20;
 
-We also support service providers like block explorer, wallet or other technical/business partners who wish to recieve delegation as a validator. Feel free to email team@liker.land or reach our team on [Discord](community-delegation.md#application-procedure).&#x20;
+We also support service providers like block explorer, wallet or other technical/business partners who wish to receive delegation as a validator. Feel free to email team@liker.land or reach our team on [Discord](community-delegation.md#application-procedure).&#x20;
 
 ### Application Procedure
 
