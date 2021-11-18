@@ -4,7 +4,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 # 以 Keplr 註冊 Liker ID
 
-除了[以電郵、GMail、社交帳號等方式註冊 Liker ID](register.md) 以外，現在用戶可以 Keplr 電子錢包註冊，以更去中心化的方式管理 LikeCoin 並自行掌握私鑰。用戶只需在註冊/登入畫面右上角選「以錢包登入」即可選擇以 Keplr 登入。目前用戶可選擇以 Keplr 註冊新 Liker ID，又或者為現有的 Keplr 錢包綁定 Liker ID（請略過步驟一）。&#x20;
+除了[以電郵、GMail、社交帳號等方式註冊 Liker ID](register.md) 以外，現在用戶可以 Keplr 電子錢包註冊，以更去中心化的方式管理 LikeCoin 並自行掌握私鑰。用戶只需在註冊/登入畫面右上角選「以錢包登入」即可選擇以 Keplr 登入。留意每個 Liker ID 只能選一種方式註冊和登入，不能同時使用一般方法 (Authcore) 及 Keplr，選定後無法更改至另一種方式。
 
 ## 功能比較
 
@@ -30,6 +30,8 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 {% embed url="https://www.youtube.com/watch?v=wYnNp8YrxvY" %}
 
 ### 步驟一：安裝 Keplr 錢包
+
+（若已安裝了 Keplr 錢包，請跳過此步驟。）
 
 到 Chrome 線上應用程式商店按「加到 Chrome」安裝 [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)。
 
