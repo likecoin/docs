@@ -4,11 +4,11 @@ description: Decentralized Liker ID sign up and LikeCoin management
 
 # Register a Liker ID with Keplr
 
-Besides [registering with email/passowrd, GMail or social media account](register.md), user can now register with Keplr and manage their LikeCoin in a more decentralized way with their own private key. Choose "Sign in with your wallet" on the top right hand corner to sign up/login by Keplr.  Keplr currently supports registering a new Liker ID or bond your existing Keplr wallet with a Liker ID (Please skip Step 1).
+Besides [registering with email/passowrd, GMail or social media account](register.md), user can also register with Keplr and manage their LikeCoin in a more decentralized way and keep their own private key. Choose "Sign in with your wallet" on the top right corner of the login screen to sign up/login by Keplr.  Note that user can choose either Liker ID registration method (General Registration, or Keplr), the two login method cannot be interchanged for a given Liker ID once it is confirmed.
 
 ## **Comparison**
 
-| **Register a Liker ID as usual (with Authcore)**                                                                                                                    | **Register a Liker ID with Keplr**                                                                                                                           |
+| **General Registration (Authcore)**                                                                                                                                 | **Register Liker ID with Keplr**                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | User friendly user experiences:thumbsup:                                                                                                                            | Must have some knowledge on blockchain and cryptocurrency                                                                                                    |
 | Manage the private key with Authcore secure and frictionless sign-in solution, easy to use                                                                          | User has to manage his/her own private key, it's safer:thumbsup:                                                                                             |
