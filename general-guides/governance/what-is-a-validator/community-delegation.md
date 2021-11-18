@@ -4,11 +4,13 @@ description: Community Delegation from Community Pool
 
 # Community Delegation
 
-The delegation process is mainly governed under proposal [9](../proposals.md#proposal-9-delegate-the-like-in-the-ecological-pool), [12](../proposals.md#proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators-1) and [20](../proposals.md#proposal-20-propose-new-set-of-rules-and-structure-of-the-community-delegation-committee).
+The Community delegation program aimed to support newly onboard validators of some startup funds who wish to contribute to the LikeCoin chain governance.&#x20;
+
+We also support service providers like block explorer, wallet or other technical/business partners who wish to recieve delegation as a validator. Feel free to email team@liker.land or reach our team on [Discord](community-delegation.md#application-procedure).&#x20;
 
 ### Application Procedure
 
-If a validator would like to apply community fund delegation, please:&#x20;
+If a validator would like to apply for community fund delegation, please:&#x20;
 
 A. Post about yourself and why you want to participate in LikeCoin at [matters.news](https://matters.news) or [medium.com](https://medium.com).&#x20;
 
@@ -52,3 +54,7 @@ I. Delegation will be allocated according to contribution and will not be on ave
 II. If the validator who got the community delegation is offline for more than a week and not replying to the cue from community members, their delegation will be revoked immediately.
 
 The current Community Delegation Committee members endorsed by proposal 20 are chairoikominer, Kcat, sixwood, Wright Fu, yasu, philipmak and Daisy.
+
+
+
+Related dicussions: proposal [9](../proposals.md#proposal-9-delegate-the-like-in-the-ecological-pool), [12](../proposals.md#proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators-1) and [20](../proposals.md#proposal-20-propose-new-set-of-rules-and-structure-of-the-community-delegation-committee).
