@@ -41,9 +41,9 @@ One final step to go. After clicking the "OK" button, a green page appears as be
 ![](../../.gitbook/assets/IMG\_3461.jpeg)
 
 {% hint style="warning" %}
-Once a Liker ID has been created, the letter combination and login method cannot be changed.  We suggest you keep it, or just create another one. Please note that an email address can only register one Liker ID.
+You cannot change the Liker ID nor the login method once it has been created.  If you want another Liker ID, just create a new account. Please note that **an email address can only register one Liker ID**.
 
-You cannot use the same email address to register a Liker ID with Authcore and Keplr.
+**You cannot use the same email address to register a Liker ID with Authcore and Keplr.**
 {% endhint %}
 
 {% hint style="info" %}
