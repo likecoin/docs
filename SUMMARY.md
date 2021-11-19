@@ -138,7 +138,7 @@
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
 * [Liker ID](user-guide/liker-id/README.md)
   * [Register a Liker ID with Keplr](user-guide/liker-id/register-with-keplr.md)
-  * [Register a Liker ID as usual (with Authcore)](user-guide/liker-id/register.md)
+  * [Register Liker ID by general method (with Authcore)](user-guide/liker-id/register.md)
   * [Edit Avatar and Name](user-guide/liker-id/edit-avatar-displayname.md)
   * [Securing my Liker ID](user-guide/liker-id/verifying-email-address.md)
   * [Connecting to my social profile](user-guide/liker-id/social-media-logins.md)

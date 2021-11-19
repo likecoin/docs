@@ -1,8 +1,8 @@
 ---
-description: Citizens of The Republic of Liker Land, each of them have a unique Liker ID
+description: Login by social media accounts, Matters, or email/password
 ---
 
-# Register a Liker ID as usual (with Authcore)
+# Register Liker ID by general method (with Authcore)
 
 ## Register a Liker ID with Authcore on Liker Land
 
