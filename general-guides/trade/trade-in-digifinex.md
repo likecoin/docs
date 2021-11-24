@@ -4,7 +4,7 @@ description: Buy and Sell LikeCoin with DigiFinex
 
 # Trade in DigiFinex
 
-DigiFinex is a top 20+ exchange in CoinMarketCap, trade and exchange volume are on top level, providing LIKE/USDT trading pairs. If you do not have a DigiFinex account, please take a look at [this](registering-on-digifinex.md). Moreover, you have to download the [Liker Land mobile app](https://liker.land/getapp) to send/receive LikeCoin. The following instructions are based on DigiFinex web, you may also use [DigiFinex app](https://digifinex.zendesk.com/hc/en-us/articles/360000603862-How-to-download-APP) to trade LikeCoin.
+DigiFinex is a top 20+ exchange in CoinMarketCap, trade and exchange volume are on top level, providing LIKE/USDT trading pairs. If you do not have a DigiFinex account, please take a look at [this](registering-on-digifinex.md). Moreover, you have to download the [Liker Land mobile app](https://liker.land/getapp) or Keplr wallet to send/receive LikeCoin. The following instructions are based on DigiFinex web, you may also use [DigiFinex app](https://digifinex.zendesk.com/hc/en-us/articles/360000603862-How-to-download-APP) to trade LikeCoin.
 
 ### Step 1: Create your LikeCoin wallet on DigiFinex
 
@@ -53,7 +53,7 @@ If you are using [Keplr](../wallet/keplr.md), please insert the memo in "Memo (O
 ![](../../.gitbook/assets/keplr11.png)
 
 {% hint style="danger" %}
-DigiFinex requires you to input your "Tag/Memo" into the chain during deposit. If you do not fill in the "Tag/Memo" will result in not being able to deposit into DigiFinex. They will have to find a technician to assist you and require 7-21 days to fix it and a 10 USDT service fee. Your DigiFinext account needs to have such an amount of fee. Please contact [DigiFinex Customer Service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241--New-User-Guide-How-to-Find-the-Customer-Service) for handling.
+DigiFinex requires you to input your "Tag/Memo" into the chain during deposit. If you do not fill in the "Tag/Memo" will result in not being able to deposit into DigiFinex. They will have to find a technician to assist you and require 7-21 days to fix it and a 10 USDT service fee. Your DigiFinext account needs to have such an amount of fee.&#x20;Please contact [DigiFinex Customer Service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241--New-User-Guide-How-to-Find-the-Customer-Service) for handling.
 {% endhint %}
 
 #### &#xD;DigiFinex Official Tutorial
@@ -64,7 +64,7 @@ DigiFinex requires you to input your "Tag/Memo" into the chain during deposit. I
 
 ### Step 3: Confirm the transfer to DigiFinex
 
-You can check your wallet balance in "My Balance" following Step 1\.
+You can check your wallet balance in "My Balance" following Step&#x20;1\.
 
 ### Step 4: Buy or Sell&#xD;
 
@@ -100,7 +100,7 @@ You have to input 3 parameters:
 
 ![](../../.gitbook/assets/digifinex-21-en.png)
 
-The system will calculate "Total", confirm if they are correct or not, then click "Sell LIKE" to complete the transaction. 
+The system will calculate "Total", confirm if they are correct or not, then click "Sell LIKE" to complete the transaction.&#x20;
 
 #### DigiFinex Official Tutorial
 

@@ -4,7 +4,7 @@ description: Buy and Sell LikeCoin with ZB
 
 # Trade in ZB
 
-[ZB](https://www.zb.com/) is the world’s leading digital asset trading platform. Since its establishment in 2013, it has provided digital asset trading services for more than 10 million users worldwide. It has been operating steadily for more than 8 years, with an average daily transaction volume of more than 1.5 billion US dollars. BTC, ZB, EOS, and XRP mainstream currencies have long been among the top for a long time. ZB now offers LIKE/USDT trading pairs, if you do not have a ZB account, please take a look at [this](registering-on-zb.md). Moreover, you have to download the [Liker Land mobile app](https://liker.land/getapp) to send/receive LikeCoin. The following instructions are based on ZB web, you may also use the [ZB app](https://www.zb.com/en/download) to trade LikeCoin.
+[ZB](https://www.zb.com) is the world’s leading digital asset trading platform. Since its establishment in 2013, it has provided digital asset trading services for more than 10 million users worldwide. It has been operating steadily for more than 8 years, with an average daily transaction volume of more than 1.5 billion US dollars. BTC, ZB, EOS, and XRP mainstream currencies have long been among the top for a long time. ZB now offers LIKE/USDT trading pairs, if you do not have a ZB account, please take a look at [this](registering-on-zb.md). Moreover, you have to download the [Liker Land mobile app](https://liker.land/getapp) or Keplr wallet to send/receive LikeCoin. The following instructions are based on ZB web, you may also use the [ZB app](https://www.zb.com/en/download) to trade LikeCoin.
 
 ### Step 1: Create your LikeCoin wallet on ZB
 
@@ -26,27 +26,27 @@ You wallet address and QR Code appears
 
 ### Step 2: Transfer LikeCoin to ZB
 
-Open the [Liker Land mobile app](https://liker.land/getapp), click on "My Wallet. Then, click on the \[Send\] button \(circled in red below\)
+Open the [Liker Land mobile app](https://liker.land/getapp), click on "My Wallet. Then, click on the \[Send] button (circled in red below)
 
-![On Liker Land mobile app select \[Send\] \(circled in red\)](../../.gitbook/assets/bitasset-trade-6.png)
+![On Liker Land mobile app select \[Send\] (circled in red)](../../.gitbook/assets/bitasset-trade-6.png)
 
 Go to the next page, click on the QR Code icon circled in red, the app will open camera mode for you to scan the QR Code, please scan the QRCode that you have on Step 1, cause you have to transfer LikeCon to ZB
 
 ![Click the QR Code icon circled in red to open camera](../../.gitbook/assets/bitasset-trade-7.png)
 
-Input the amount of LikeCoin that you want to transfer, then click \[Confirm\]
+Input the amount of LikeCoin that you want to transfer, then click \[Confirm]
 
 ![](../../.gitbook/assets/bitasset-trade-8.png)
 
 Next step is to wait for ZB to confirm the transfer.
 
 {% hint style="info" %}
-The Minimum Deposit Amount	of ZB is 0.1 LIKE
+The Minimum Deposit Amount of ZB is 0.1 LIKE
 {% endhint %}
 
 ### Step 3: Confirm the transfer to ZB
 
-You can check "Deposit Record" by clicking "Deposit" in \[Step 1\] and see if the LikeCoin is being received or not.
+You can check "Deposit Record" by clicking "Deposit" in \[Step 1] and see if the LikeCoin is being received or not.
 
 ### Step 4: Buy or Sell
 
@@ -62,7 +62,7 @@ Click "Markets", on the search box input "LIKE" will show the chart. LikeCoin is
 
 ![](../../.gitbook/assets/zb-trade-06-en.png)
 
-There are several ways to start trade: Click on LIKE in "New Market" or click on "Trade" in the "Funds" page indicated in \[Step 1\] to reach the "Exchange Pro". Or click on the top left hand corner of the ZB website and click on "Exchange Basic" or "Exchange Pro"
+There are several ways to start trade: Click on LIKE in "New Market" or click on "Trade" in the "Funds" page indicated in \[Step 1] to reach the "Exchange Pro". Or click on the top left hand corner of the ZB website and click on "Exchange Basic" or "Exchange Pro"
 
 ![](../../.gitbook/assets/zb-trade-07-en.png)
 
@@ -86,7 +86,7 @@ you have to input 3 parameters:
 
 ![](../../.gitbook/assets/zb-trade-10-en.png)
 
-The system will calculate "Total", confirm if they are correct or not, then click "Sell LIKE" to complete the transaction. 
+The system will calculate "Total", confirm if they are correct or not, then click "Sell LIKE" to complete the transaction.&#x20;
 
 ### Step 5: Check Transaction details
 
@@ -96,7 +96,6 @@ Click on the top right hand corner "Order" to check the transaction details. you
 
 ### Step 6: Withdrawal
 
-Going back to "Funds" page in \[Step 1\] and find the coins that you need to withdraw, click on "Withdrawal" and go to "LIKEWithdrawal" or "USDTWithdrawal" page \( depends on if you are buying or selling LikeConi \). Fill in the "Withdrawal address" and "Amount" then click "Withdrawal" and your coins will be transferred. You can also check the Withdrawal Records underneath.
+Going back to "Funds" page in \[Step 1] and find the coins that you need to withdraw, click on "Withdrawal" and go to "LIKEWithdrawal" or "USDTWithdrawal" page ( depends on if you are buying or selling LikeConi ). Fill in the "Withdrawal address" and "Amount" then click "Withdrawal" and your coins will be transferred. You can also check the Withdrawal Records underneath.
 
 ![](../../.gitbook/assets/zb-trade-12-en.png)
-

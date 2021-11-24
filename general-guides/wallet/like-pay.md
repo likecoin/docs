@@ -8,7 +8,7 @@ description: Transfer LikeCoin using Liker Land mobile app in a few clicks
 
 ### Step 1&#xD;
 
-Download [Liker Land mobile app](https://liker.land/getapp),  [register a Liker ID as usual (with Authcore)](../../user-guide/liker-id/register.md) and login.
+Download [Liker Land mobile app](https://liker.land/getapp), [register a Liker ID by general method (with Authcore)](../../user-guide/liker-id/register.md) and login.
 
 ### Step 2
 
