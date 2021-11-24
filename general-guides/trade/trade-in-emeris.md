@@ -1,5 +1,5 @@
 ---
-description: Cross-Chain DEX aggregator, registration no required, immediate trade
+description: Cross-Chain DEX aggregator, registration not required, immediate trade
 ---
 
 # Trade in Emeris
