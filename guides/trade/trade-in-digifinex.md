@@ -4,7 +4,7 @@ description: 在 DigiFinex 買賣 LikeCoin
 
 # 在 DigiFinex 交易
 
-DigiFinex 是一所在 CoinMarketCap 排名 20+，交易及流通量均位列國際頂級的交易所，提供 LIKE/USDT 交易對。若你還未有 DigiFinex 帳號，[請參考這篇](registering-on-digifinex.md)。此外你也需要[下載 Liker Land 手機應用程式](https://liker.land/getapp)用來傳送/提取 LikeCoin。以下示範以 DigiFinex 網頁版為例，你亦可使用 [DigiFinex 手機應用程式](https://digifinex.zendesk.com/hc/zh-tw/articles/360000603862--%E5%AE%A2%E6%88%B6%E7%AB%AF%E4%B8%8B%E8%BC%89-%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BC%89D%E7%B6%B2APP)進行交易。
+DigiFinex 是一所在 CoinMarketCap 排名 20+，交易及流通量均位列國際頂級的交易所，提供 LIKE/USDT 交易對。若你還未有 DigiFinex 帳號，[請參考這篇](registering-on-digifinex.md)。此外你也需要[下載 Liker Land 手機應用程式](https://liker.land/getapp)或 Keplr 錢包用來傳送/提取 LikeCoin。以下示範以 DigiFinex 網頁版為例，你亦可使用 [DigiFinex 手機應用程式](https://digifinex.zendesk.com/hc/zh-tw/articles/360000603862--%E5%AE%A2%E6%88%B6%E7%AB%AF%E4%B8%8B%E8%BC%89-%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BC%89D%E7%B6%B2APP)進行交易。
 
 ### 步驟一：開立 DigiFinex 帳戶的 LikeCoin 錢包收款地址
 
@@ -115,7 +115,7 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈。充值未�
 ### 步驟六：提幣
 
 {% hint style="info" %}
-關於單次最小提幣數量及手續費，可參考 [DigiFinex交易所费率说明](https://digifinex.zendesk.com/hc/zh-tw/articles/360000328422-DigiFinex%E4%BA%A4%E6%98%93%E6%89%80%E8%B4%B9%E7%8E%87%E8%AF%B4%E6%98%8E) ，又，提幣前必須先完成[雙重認證](registering-on-digifinex.md#3-google-)。
+關於單次最小提幣數量及手續費，可參考 [DigiFinex交易所费率说明](https://digifinex.zendesk.com/hc/zh-tw/articles/360000328422-DigiFinex%E4%BA%A4%E6%98%93%E6%89%80%E8%B4%B9%E7%8E%87%E8%AF%B4%E6%98%8E)&#x20;，又，提幣前必須先完成[雙重認證](registering-on-digifinex.md#3-google-)。
 {% endhint %}
 
 回到【步驟一】中「我的資產」頁面尋找幣種，再點擊「提幣」並「添加提幣地址」添加你的 USDT 或 LikeCoin 轉帳地址，再按照指示即可完成提幣。
