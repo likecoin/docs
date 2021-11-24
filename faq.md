@@ -48,7 +48,7 @@ description: LikeCoin 常見問題
 
 ## [流動性挖礦](faq.md#undefined)
 
-* [如何在 Osmosis 進行流動性挖礦？](guides/liquidity-mining/osmosis.md)
+* [如何在 Osmosis 進行流動性挖礦？](guides/liquidity/osmosis.md)
 
 ## [委託](guides/stake/)
 

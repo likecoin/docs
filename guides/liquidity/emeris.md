@@ -76,7 +76,7 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 
 ### 步驟五：確認添加流動性
 
-Review your pool liquidity provision 畫面顯示提供流動性的幣、Receive (estimated) 亦即是在此池中預計可獲得的流動性份額及 Transaction Fee 手續費。確認無誤後點「Confirm and continue」。
+Review your pool liquidity provision 畫面顯示提供流動性的幣、Receive (estimated) 亦即是在此池中預計可獲得的流動性份額及 Transaction fee 手續費。確認無誤後點「Confirm and continue」。
 
 ![Keplr 彈出交易畫面，點「Approve 」繼續。](<../../.gitbook/assets/Emeris LP 12.png>)
 
