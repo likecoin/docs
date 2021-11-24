@@ -64,8 +64,8 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 
 ### 步驟六：取回密碼貸幣
 
-以上述例子，交易完成後，你可以使用幾種方去取回或轉帳你的幣：
+交易完成後，你可以使用幾種方去取回或轉帳你的幣：
 
 * 使用 Emeris 的 Send to address 功能，將密碼貨幣轉帳到其他他址。
 * 使用 Emeris 的 Move Assets 功能，將密碼貨幣於不同的區塊鏈之間進行轉移。
-* 使用 [Keplr 轉帳](../wallet/keplr.md#cong-keplr-zhuan-zhang-likecoin-dao-qi-ta-qian-bao)
+* 使用 [Keplr 轉帳](../wallet/keplr.md#cong-keplr-zhuan-zhang-likecoin-dao-qi-ta-qian-bao)。
