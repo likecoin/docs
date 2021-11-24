@@ -4,7 +4,7 @@ description: DEX, registration no required, immediate trade
 
 # Trade in Osmosis
 
-On October 20, 2021, Likers can access LIKE in a permissionless and frictionless way with LikeCoin's first DEX listing of LIKE on Osmosis. For instance, swap LIKE to different listed tokens on Osmosis (or vice versa), including USD stablecoin — UST.. Registration is not required and no minimum deposit or withdrawal limit. Users can operate with their wallet all the way down, and experience decentralized trading.
+On October 20, 2021, Likers can access LIKE in a permissionless and frictionless way with LikeCoin's first DEX listing of LIKE on Osmosis. For instance, swap LIKE to different listed tokens on Osmosis (or vice versa), including USD stablecoin — UST. Registration is not required and no minimum deposit or withdrawal limit. Users can operate with their wallet all the way down, and experience decentralized trading.
 
 You will have to use Keplr to login to Osmosis. If you are used to managing your LikeCoin on Liker Land wallet, you will have to deposit them to Keplr and login to Osmosis.
 
@@ -58,7 +58,7 @@ After several pop-up screens appeared, IBC Transfer Successful!
 
 ![](<../../.gitbook/assets/Osmosis 07.png>)
 
-### Step 5: Trade LikeCoin
+### Step 5: Trade
 
 Go to the menu on the left and click Trade. On "From" select LIKE, on "To" select the cryptocurrency that you would like to trade. You can check out the Rate, Swap Fee and Estimate Slippage amount. Confirm the details and click "Swap" to perform the trade.
 

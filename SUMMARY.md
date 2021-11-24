@@ -93,6 +93,7 @@
   * [FoTan upgrade FAQ](general-guides/wallet/fotan.md)
 * [Trade](general-guides/trade/README.md)
   * [Trade in Osmosis](general-guides/trade/trade-in-osmosis.md)
+  * [Trade in Emeris](general-guides/trade/trade-in-emeris.md)
   * [Registering on Liquid](general-guides/trade/registering-on-liquid.md)
   * [Trade in Liquid](general-guides/trade/trade-in-liquid.md)
   * [Registering on DigiFinex](general-guides/trade/registering-on-digifinex.md)
