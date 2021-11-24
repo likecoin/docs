@@ -20,7 +20,7 @@ and depositing LikeCoin to Keplr.
 [keplr.md](../wallet/keplr.md)
 {% endcontent-ref %}
 
-## Providing liquidity to the liquidity pool.
+## Providing liquidity to the liquidity pool
 
 ### Step 1: Select the liquidity pool
 

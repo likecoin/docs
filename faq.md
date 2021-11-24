@@ -49,7 +49,7 @@ description: Frequently Asked Questions
 
 ## [Liquidity Mining](faq.md#undefined)
 
-* [How to earn liquidity mining incentives on Osmosis?](general-guides/liquidity-mining/osmosis.md)
+* [How to earn liquidity mining incentives on Osmosis?](general-guides/liquidity/osmosis.md)
 
 ## [Stake](general-guides/stake/) <a href="wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
