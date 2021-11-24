@@ -6,13 +6,13 @@ description: Share your works and reading taste
 
 ## How to access your Portfolio Page
 
-Portfolio Page helps user to share their reading history, The Portfolio Page url is https://liker.land/\[Your Liker ID\], if your [Liker ID](https://docs.like.co/user-guide/liker-id) is ckxpress, your link is going to be [https://liker.land/ckxpress](https://liker.land/ckxpress). 
+Portfolio Page helps user to share their reading history, The Portfolio Page url is https://liker.land/\[Your Liker ID], if your [Liker ID](../liker-id/) is ckxpress, your link is going to be [https://liker.land/ckxpress](https://liker.land/ckxpress).&#x20;
 
 ## Personal Information
 
 The left hand side of the Portfolio Page displays information of the user, including [Liker ID](../liker-id/), name and [creator pitch](creators-pitch.md). If the user is a [Civic Liker](../civic-liker/), the date he/she started to be a Civic Liker and with the following functions:
 
-* Become a Civic Liker - If Readers click on it and become a Civic Liker, the content creators can receive monthly support in LikeCoin. Read more about [Civic Liker](../civic-liker/). 
+* Become a Civic Liker - If Readers click on it and become a Civic Liker, the content creators can receive monthly support in LikeCoin. Read more about [Civic Liker](../civic-liker/).&#x20;
 * Follow - Click and follow the user as a [Content Jockey](../liker-land/superlike.md)
 * [LIKE Pay](../../developer/like-pay/)－Transfer LikeCoin to the user
 
@@ -28,5 +28,4 @@ If the content creator [Super Liked his/her own works](../liker-land/superlike.m
 
 Super Likes history displayed all the other works and articles Super Liked by the user.
 
-![](../../.gitbook/assets/portfolio-page-2-en%20%281%29.png)
-
+![](<../../.gitbook/assets/portfolio-page-2-en (1).png>)

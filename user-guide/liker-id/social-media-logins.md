@@ -7,7 +7,7 @@ description: >-
 # Connecting to my social profile
 
 {% hint style="info" %}
-The followings are for [Liker ID registered as usual (with Authcore)](register.md).
+The followings are for [Liker ID registered by general method (with Authcore)](register.md).
 {% endhint %}
 
 ## Why linking different social media logins:

@@ -5,7 +5,7 @@ description: See devices that have used your Liker ID
 # Manage logged in devices
 
 {% hint style="info" %}
-The followings are for [Liker ID registered as usual (with Authcore)](register.md).
+The followings are for [Liker ID registered by general method (with Authcore)](register.md).
 {% endhint %}
 
 You can see computers, phones, and other devices that are currently using or have recently used your Liker ID. You can check this info to make sure no one else has signed in to your account.

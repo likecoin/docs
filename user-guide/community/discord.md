@@ -18,12 +18,16 @@ description: A communication platform
 
 | **Channel Name**        | **Description**                                    |
 | ----------------------- | -------------------------------------------------- |
+| welcome 👋🏼            | Landing LikeCoin Discord                           |
 | self-intro 🙋           | Tell us about yourself                             |
 | random 👥               | General Discussion                                 |
 | developers 🛠           | Anything related to LikeCoin technical development |
 | iscn 📚                 | Decentralized Publishing discussion                |
 | bug-report 🐛           | Report bugs on Liker Land DApps and network        |
 | validators 🆙           | For validators                                     |
+| dex-osmosis 🧪          | Discussion about Osmosis                           |
+| ibc-status 🤖           | Monitor IBC status                                 |
+| dex-emeris 🔮           | Discussion about Emeris                            |
 | proposal-discussions ⚖  | LikeCoin governance discussion                     |
 | apply-for-delegation 💰 | Apply delegation from LikeCoin community funds     |
 | mainnet-node-status 📊  | Check out of the validator node status             |

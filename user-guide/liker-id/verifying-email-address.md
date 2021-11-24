@@ -7,7 +7,7 @@ description: >-
 # Securing my Liker ID
 
 {% hint style="info" %}
-The followings are for [Liker ID registered as usual (with Authcore)](register.md).
+The followings are for [Liker ID registered by general method (with Authcore)](register.md).
 {% endhint %}
 
 ## 2-step Verification (2FA) <a href="2fa" id="2fa"></a>
@@ -45,7 +45,7 @@ Continue from the previous step, the page displaying a QR Code now:
 
 1.  Download Google Authenticator on your mobile phone
 
-    [Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh_TW) / [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
+    [Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh\_TW) / [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 2. Open the Google Authenticator app, click on the "+" sign on the top right hand corner
 3. Scan the QR Code on your desktop computer
 4. An entry of Authcore is added to Google Authenticator, displaying a 6-digit code, fill it into the blank space circled in red, and click "Next", it displays "Set up authenticator app" "Complete", then click "OK"
@@ -69,4 +69,4 @@ Continue from the previous step, the page displaying a QR Code now:
 
 4\. If you see the page below, it's done.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJpVUgHk4bjk15P_XD%2Fauth-email-3.png?alt=media\&token=6aaa354d-ef5a-4179-a00a-08c3ca9f7495)
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJpVUgHk4bjk15P\_XD%2Fauth-email-3.png?alt=media\&token=6aaa354d-ef5a-4179-a00a-08c3ca9f7495)
