@@ -54,7 +54,11 @@ ATOM-LIKE 流動性池的比率為 50%/50%，填入 ATOM 數字，LIKE 數字自
 
 ### 步驟四：將 LIKE 帶進 Cosmos Hub 網絡
 
-Emeris 的操作位於 Cosmos Hub 鏈上，所以你需要把 LikeCoin 帶進 Cosmos Hub 網絡。以下畫面顯示 LIKE 由 LikeCoin chain 傳送到 Cosmos Hub，Transaction Fee 手續費。確認無誤後點「Confirm and continue」。
+Emeris 的操作位於 Cosmos Hub 鏈上，所以你需要把 LikeCoin 帶進 Cosmos Hub 網絡。在 Pools are on the Cosmos Hub 畫面點「Continue」。
+
+![](<../../.gitbook/assets/Emeris LP 07.png>)
+
+以下畫面顯示 LIKE 由 LikeCoin chain 傳送到 Cosmos Hub，Transaction Fee 手續費。確認無誤後點「Confirm and continue」。
 
 ![](<../../.gitbook/assets/Emeris LP 08.png>)
 
