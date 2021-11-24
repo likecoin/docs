@@ -14,7 +14,7 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 [register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
 {% endcontent-ref %}
 
-及將 LikeCoin 傳送到錢包內。
+及將 LikeCoin 轉帳到錢包內。
 
 {% content-ref url="../wallet/keplr.md" %}
 [keplr.md](../wallet/keplr.md)

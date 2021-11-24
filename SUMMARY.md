@@ -39,6 +39,7 @@
   * [註冊及在 MyEthShop 交易](guides/trade/registering-and-trade-in-myethshop.md)
 * [流動性挖礦](guides/liquidity-mining/README.md)
   * [Osmosis](guides/liquidity-mining/osmosis.md)
+  * [Emeris](guides/liquidity-mining/emeris.md)
 * [委託](guides/stake/README.md)
   * [委託 LikeCoin](guides/stake/delegation-of-likecoin.md)
   * [取回委託 LikeCoin](guides/stake/undelegation-of-likecoin.md)
