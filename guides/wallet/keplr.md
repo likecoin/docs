@@ -12,7 +12,7 @@ description: 去中心化管理你的 LikeCoin
 [register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
 {% endcontent-ref %}
 
-## 轉帳 LikeCoin 到 Keplr
+## 轉帳 LikeCoin 到 Keplr <a href="deposit-your-likecoin-to-keplr" id="deposit-your-likecoin-to-keplr"></a>
 
 ### 步驟一
 
@@ -38,7 +38,7 @@ description: 去中心化管理你的 LikeCoin
 
 ## 從 Keplr 轉帳 LikeCoin 到其他錢包
 
-### 步驟一
+### 步驟一 <a href="send-likecoin-from-keplr-to-another-wallet" id="send-likecoin-from-keplr-to-another-wallet"></a>
 
 你可以在 Keplr 介面直接轉帳 LikeCoin 到其他支援 LikeCoin 的錢包，把 Keplr 頂部的密碼貸幣菜單轉為顯示 LikeCoin chain 後點「Send」。
 
@@ -60,7 +60,7 @@ Keplr 出現 Tx is pending 並回到 LikeCoin 餘額畫面，轉帳完成。
 
 ![](../../.gitbook/assets/keplr13.png)
 
-## 使用 stake.like.co 查看交易明細、轉帳及委託
+## 使用 stake.like.co 查看交易明細、轉帳及委託 <a href="use-stake.like.co-to-check-likecoin-transaction-details-transfer-or-delegate" id="use-stake.like.co-to-check-likecoin-transaction-details-transfer-or-delegate"></a>
 
 你可以使用 [stake.like.co](http://stake.like.co) 搭配 Keplr 進行各種操作包括查看交易明細、轉帳及委託等。
 

@@ -58,7 +58,7 @@ Osmosis 彈出視窗，出現 IBC Transfer Successful 即代表成功存進 Osmo
 
 ![](<../../.gitbook/assets/Osmosis 07.png>)
 
-### 步驟五：交易 LikeCoin
+### 步驟五：進行交易
 
 點左手邊菜單選 Trade，在「From」下拉選單點 LIKE，並在「To」下拉選單選取需要交易的密碼貨幣。在下方可查看兌換率 Rate，及需要付出的互換交易費用 Swap Fee，以及預計的滑點 Estimate Slippage。查看無誤後點「Swap」進行交易。
 

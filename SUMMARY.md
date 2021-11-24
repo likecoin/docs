@@ -29,6 +29,7 @@
   * [FoTan 升級常見問題](guides/wallet/fotan.md)
 * [交易](guides/trade/README.md)
   * [在 Osmosis 交易](guides/trade/trade-in-osmosis.md)
+  * [在 Emeris 交易](guides/trade/trade-in-emeris.md)
   * [註冊 Liquid 帳號](guides/trade/registering-on-liquid.md)
   * [在 Liquid 交易](guides/trade/trade-in-liquid.md)
   * [註冊 DigiFinex 帳號](guides/trade/registering-on-digifinex.md)

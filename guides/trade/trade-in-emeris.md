@@ -1,0 +1,67 @@
+---
+description: 去中心交易所，無需註冊，立即交易
+---
+
+# 在 Emeris 交易
+
+2021年11月23日開始你可在 Emeris Cross-Chain DEX aggregator 跨鏈 DEX 聚合器，以 LikeCoin 交易多種貨幣。過程無需註冊、不設入金出金門檻、用戶只需一個電子錢包即可操作，全程去中心化。
+
+使用 Emeris，需使用 Keplr 錢包登入。若你慣用 Liker Land 錢包儲存 LikeCoin，可以把 LikeCoin 轉帳到 Keplr 管理的地址，再登入 Emeris。
+
+### 步驟一：註冊
+
+請先以 Keplr 註冊 Liker ID。
+
+{% content-ref url="../../user-guide/liker-id/register-with-keplr.md" %}
+[register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
+{% endcontent-ref %}
+
+### 步驟二：轉帳
+
+轉帳 LikeCoin 到 Keplr。
+
+{% content-ref url="../wallet/keplr.md" %}
+[keplr.md](../wallet/keplr.md)
+{% endcontent-ref %}
+
+### 步驟三：接通 Emeris
+
+到 Emeris 網址 [https://app.osmosis.zone/](https://app.emeris.com)，點右上角「Connect wallet」。
+
+![](<../../.gitbook/assets/Emeris Swap 01.png>)
+
+出現 Connect your wallet 畫面，點「Connect Keplr」。
+
+![](<../../.gitbook/assets/Emeris Swap 02.png>)
+
+進入 Portfolio 頁面左上角出現你的錢包名稱及你的資產值。你亦可以點擊它再點「Disconnect wallet」退出 Emeris。
+
+![](<../../.gitbook/assets/Emeris Swap 03.png>)
+
+### 步驟四：使用 Swap 功能交易
+
+在 Portfolio 頁面右手邊 Swap 功能視窗調節下拉選單選擇需要交易的幣種，例如下圖以 ATOM 交換 LIKE。
+
+![](<../../.gitbook/assets/Emeris Swap 04.png>)
+
+你也可以點 Swap 字右手邊三個點點調節能接受的滑點百份比。
+
+![](<../../.gitbook/assets/Emeris Swap 05.png>)
+
+確應無誤後點「Review」繼續。
+
+### 步驟五：核實交易細節
+
+出現 Review your swap details 畫面讓你查看付出的幣種、收獲的幣種、Price 價格、Min. received if 100% swapped 如所有貨幣成功交易換到的最低數量、Limite Price 限價、Transaction 手續費及 Swap Fee 互換交易費。確應無誤後點「Confirm and Continue」繼續。
+
+![](<../../.gitbook/assets/Emeris Swap 06.png>)
+
+Keplr 彈出交易畫面，點「Approve 」繼續。
+
+![](<../../.gitbook/assets/Emeris Swap 07.png>)
+
+換幣完成後，回到 Portfolio 頁面可看到交易的密碼貨幣增加了。
+
+### 步驟六：取回密碼貸幣
+
+以上述例子，交易完成後，你可以
