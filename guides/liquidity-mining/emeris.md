@@ -4,11 +4,11 @@ description: 如何在 Emeris 提供流動性
 
 # Emeris
 
-現時 LikeCoin 在 Emeris 有一個 ATOM-LIKE 流動性池，提供流動性就能獲得互換交易費 ( Swap Fee ) 。
+現時 LikeCoin 在 Emeris 有一個 ATOM-LIKE 流動性池，提供流動性 ( Liquidity Providing ) 就能獲得互換交易費 ( Swap Fee ) 。
 
-注意流動性挖礦有機會讓用戶遭遇無常損失 ( Impermanent Loss )，請自行評估相關風險。
+注意提供流動性有機會讓用戶遭遇無常損失 ( Impermanent Loss )，請自行評估相關風險。
 
-進行流動性挖礦方法很簡單，首先你需要先註冊 Keplr 錢包
+提供流動性方法很簡單，首先你需要先註冊 Keplr 錢包
 
 {% content-ref url="../../user-guide/liker-id/register-with-keplr.md" %}
 [register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
@@ -97,5 +97,5 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 ![](<../../.gitbook/assets/Emeris LP 16.png>)
 
 {% hint style="info" %}
-Emeris 現時處於 Beta 階段，並未提供流力性挖礦獎勵。
+Emeris 現時處於 Beta 階段，並未提供流動性挖礦獎勵。
 {% endhint %}

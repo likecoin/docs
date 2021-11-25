@@ -6,6 +6,13 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## 議案 #22 將生態池所有 LikeCoin 傳送到社群池
+
+* **提案：**[Old Cat](https://ipfs.io/ipfs/QmXnJNuo4tDak7uk9JG7nHczzF14KhYDqoZXu8nsDNamBW/)
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2021.11.10 提案，2021.11.18 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/22](https://likecoin.bigdipper.live/proposals/22)
+
 ## 議案 #21 使用等值 USDe250,000 的 LIKE 建立 Emeris 的 LIKE/ATOM 流動性池
 
 * **提案：**[LikeCoin Foundation](https://matters.news/@likecoin/allocate-us-de250-000-of-like-to-like-atom-pool-on-emeris-bafyreidx5ydsusdgtf2baz5wzt7uzk7m2awkbt2mbprpr5rn2bzwzik7ey)
