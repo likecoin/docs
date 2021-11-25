@@ -6,6 +6,13 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## Proposal #22 Transfer all LikeCoin in the Ecosystem Pool to Community Pool
+
+* Proposer: [Old Cat](https://ipfs.io/ipfs/QmXnJNuo4tDak7uk9JG7nHczzF14KhYDqoZXu8nsDNamBW/)
+* Proposal Type: Text Proposal
+* Date: Submit on 2021.11.10, Passed on 2021.11.18
+* Details: [https://likecoin.bigdipper.live/proposals/22](https://likecoin.bigdipper.live/proposals/22)
+
 ## Proposal #21 Allocate USDe250,000 of LIKE to LIKE/ATOM pool on Emeris
 
 * Proposer: [LikeCoin Foundation](https://matters.news/@likecoin/allocate-us-de250-000-of-like-to-like-atom-pool-on-emeris-bafyreidx5ydsusdgtf2baz5wzt7uzk7m2awkbt2mbprpr5rn2bzwzik7ey)
