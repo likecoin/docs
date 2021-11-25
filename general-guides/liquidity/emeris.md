@@ -1,5 +1,5 @@
 ---
-description: How to provide liquidity on Osmosis
+description: How to provide liquidity on Emeris
 ---
 
 # Emeris
