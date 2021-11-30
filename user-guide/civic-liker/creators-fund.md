@@ -6,6 +6,8 @@ description: >-
 
 # Creators Fund
 
+![](../../.gitbook/assets/creators\_reward\_artwork.png)
+
 Creator's reward consists of two parts: Civic Liker monthly subscription and Creators Fund.
 
 The funding source is from LikeCoin ecosystem pool, budget is roughly matched with the fiat revenue amount of Civic Liker. A fixed amount of fund is distributed to creators daily according to the total likes given by Civic Likers and Free Likers on previous day.
