@@ -3,7 +3,7 @@
 * [Decentralized Publishing](README.md)
 * [FAQ](faq.md)
 
-## 🔬 Developer Guide <a href="developer" id="developer"></a>
+## 🔬 Developer Guide <a href="#developer" id="developer"></a>
 
 * [Developer Introduction](developer/introduction.md)
 * [LikeCoin chain API](developer/likecoin-chain-api/README.md)
@@ -44,7 +44,7 @@
   * [ISCN IPFS plugin](developer/international-standard-content-number-iscn/iscn-ipfs-plugin.md)
 * [Ecosystem Statistics Badge](developer/badge.md)
 
-## 👥 Validator Guide <a href="validator" id="validator"></a>
+## 👥 Validator Guide <a href="#validator" id="validator"></a>
 
 * [Technical Introduction](validator/technical-introduction.md)
 * [LikeCoin chain node](validator/likecoin-chain-node/README.md)
@@ -120,7 +120,7 @@
   * [Proposals](general-guides/governance/proposals.md)
   * [LikeCoin Grants Program](general-guides/governance/likecoin-grants.md)
 
-## 💻  DApp <a href="user-guide" id="user-guide"></a>
+## 💻  DApp <a href="#user-guide" id="user-guide"></a>
 
 * [Liker Land](user-guide/liker-land/README.md)
   * [Download Liker Land](user-guide/liker-land/download.md)
@@ -134,6 +134,7 @@
   * [Civic Liker Dashboard](user-guide/civic-liker/dashboard.md)
   * [How to be a Civic Liker](user-guide/civic-liker/be-a-civic-liker.md)
   * [Change Credit Card Information](user-guide/civic-liker/change-credit-card.md)
+  * [Creators Fund](user-guide/civic-liker/creators-fund.md)
   * [Unsubscribe Civic Liker](user-guide/civic-liker/unsubscribe-civic-liker.md)
   * [How to pay Civic Liker yearly subscription](user-guide/civic-liker/civic-liker-1.0-yearly.md)
   * [Civic Liker FAQ](user-guide/civic-liker/civic-liker-faq.md)
