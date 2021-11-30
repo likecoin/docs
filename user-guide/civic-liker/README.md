@@ -6,7 +6,7 @@ description: Why should I become a Civic Liker? Any benefits?
 
 ![](../../.gitbook/assets/likecoin\_ad98\_2point0-01.png)
 
-## [Be a** Civic Liker**](be-a-civic-liker.md)
+## [Be a **Civic Liker**](be-a-civic-liker.md)
 
 Civic Liker is a movement to reward good content and encourage openness. The Civic Liker subscription plan provides a convenient way for supporters to sponsor creators by monthly subscription, and let the creators focus on their work with decent rewards. Readers can pay for at least the cost of a coffee, or up to the cost of a bottle of champagne, to support creators.
 
@@ -14,7 +14,7 @@ Civic Liker is a movement to reward good content and encourage openness. The Civ
 
 The creators get the monthly sponsorship on a fixed date of their billing cycle. Equivalent amount of LikeCoin will be transferred to creators' wallet. Civic Likers also has the prestige power to vote for the daily distribution of the Creator's Fund by clicking LikeCoin buttons on any creative works.
 
-### **Support content creators via any platforms **
+### **Support content creators via any platforms**&#x20;
 
 Creators do not need to be bound by a single platform in order to get support from Civic Likers, just share the Civic Liker sponsor link via any channels such as Facebook, YouTube, Whatsapp, Telegram or Line, etc (format: [https://liker.land/\[yourLikerID\]/civic](https://liker.land/\[yourLikerID]/civic) ) and supporters can become the Civic Liker by subscribing the monthly plan with credit card.
 

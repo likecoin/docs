@@ -59,7 +59,7 @@ adding source code after `</div>` and become
 </b:if>
 ```
 
-If there are two **data:post.body **when "Edit HTML", You have to edit both because one is for desktop and the other is for mobile. Please note that you have to change to "Custom" for the mobile version in order for the LikeCoin button to display.
+If there are two **data:post.body** when "Edit HTML", You have to edit both because one is for desktop and the other is for mobile. Please note that you have to change to "Custom" for the mobile version in order for the LikeCoin button to display.
 
 \-------------------------
 

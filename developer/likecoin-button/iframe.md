@@ -23,11 +23,11 @@ https://button.like.co/in/embed/{{LikerID}}/button?referrer={{referrer}}&type={{
 
 > In case of iframe sandbox, `allow-scripts`, `allow-same-origin`, `allow-popups` `allow-popups-to-escape-sandbox`, `allow-top-navigation-by-user-activation`, `allow-storage-access-by-user-activation` are needed for proper register/login functionality.
 
-**2 Embed the **[**sample HTML**](https://github.com/likecoin/LikeCoinButton-integration/blob/master/web/index.html)** and replace {{ src }} with the embed URL into your HTML**
+**2 Embed the** [**sample HTML**](https://github.com/likecoin/LikeCoinButton-integration/blob/master/web/index.html) **and replace {{ src }} with the embed URL into your HTML**
 
-**3 Include the **[**CSS code**](https://github.com/likecoin/LikeCoinButton-integration/blob/master/web/style.css)****
+**3 Include the** [**CSS code**](https://github.com/likecoin/LikeCoinButton-integration/blob/master/web/style.css)****
 
-**4 (Optional) Update referrer via **[**postMessage**](https://github.com/likecoin/LikeCoinButton-integration/blob/master/web/postMessage.html)****
+**4 (Optional) Update referrer via** [**postMessage**](https://github.com/likecoin/LikeCoinButton-integration/blob/master/web/postMessage.html)****
 
 The LikeCoin button `<iframe>`'s src (especially the `referrer` param) should be updated to when the URL is changed. In case updating `<iframe>`'s src is not possible (e.g. for some SPA usecases), you may call `postMessage()` to the `<iframe>` with following payload to update the `referrer`.
 

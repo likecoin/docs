@@ -22,15 +22,15 @@ The core component of the infrastructure is [LikeCoin chain](https://likecoin.bi
 
 * **Website**: [Like.co](https://like.co) (for all stakeholders; in English), [Liker.Land](https://liker.land) (for readers and Content Jockey ), [ISCN App](https://app.like.co) (ISCN Registry), [iscn.io](https://iscn.io) (ISCN Specifications)
 * ****[**Discord**](http://discord.gg/likecoin): development, governance discussion
-* ****[**Twitter**](https://twitter.com/likecoin):** **announcements
+* ****[**Twitter**](https://twitter.com/likecoin): **** announcements
 * [**Telegram**](https://t.me/likecoin): announcements
 * [**Medium**](https://medium.com/likecoin) [publication](https://medium.com/likecoin): governance, progress update, products; in English
-* ****[**Matters**](https://matters.news/tags/VGFnOjgwOTQ) [**#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ)** **:** **governance, progress update, products; in Chinese
-* ****[**GitHub**](https://github.com/likecoin):** **source codes
-* **Facebook**:** **[page](https://www.facebook.com/Liker.Land/) (announcement); [group](https://www.facebook.com/groups/likecoin) (creators' sharing); in Chinese
-* [**Reddit**](https://www.reddit.com/r/LikeCoin/):** **:new:
+* ****[**Matters**](https://matters.news/tags/VGFnOjgwOTQ) [**#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) **** : **** governance, progress update, products; in Chinese
+* ****[**GitHub**](https://github.com/likecoin): **** source codes
+* **Facebook**: **** [page](https://www.facebook.com/Liker.Land/) (announcement); [group](https://www.facebook.com/groups/likecoin) (creators' sharing); in Chinese
+* [**Reddit**](https://www.reddit.com/r/LikeCoin/): **** :new:
 
 ## Contact Us
 
-* Customer Service: [please click here](https://go.crisp.chat/chat/embed/?website_id=5c009125-5863-4059-ba65-43f177ca33f7), or visit [Liker Land](https://liker.land) or [like.co](https://like.co) and click the lower right hand corner help desk dialogue box (icon in green)
+* Customer Service: [please click here](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7), or visit [Liker Land](https://liker.land) or [like.co](https://like.co) and click the lower right hand corner help desk dialogue box (icon in green)
 * Partners and Cooperation: [partners@like.co](mailto:partners@like.co)

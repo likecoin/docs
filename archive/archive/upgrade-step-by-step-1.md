@@ -1,6 +1,6 @@
 # Upgrade Step-by-step
 
-## Overview 
+## Overview&#x20;
 
 ### Preparation
 
@@ -8,7 +8,7 @@
 
 ### Pre-upgrade
 
-*   Make sure you have all keys 
+*   Make sure you have all keys&#x20;
 
     * operator key in `.likecli` folder, or in mnemonic format,
     * node key in `.liked/config/node_key.json`
@@ -21,7 +21,7 @@
 ### During upgrade
 
 * Run a web conference with other validators
-  * Need to discuss **export height** and **genesis time **in realtime
+  * Need to discuss **export height** and **genesis time** in realtime
 * Export keys and files
   * Export node key and consensus key by copying the key files
   * Export address book by copying the key files
@@ -43,7 +43,7 @@
 ## Setup sheungwan-2 node software
 
 {% hint style="info" %}
-### :man_mage:Part I - Setup sheungwan-2 node software
+### :man\_mage:Part I - Setup sheungwan-2 node software
 {% endhint %}
 
 ### Requirements
@@ -112,7 +112,7 @@
 ## Pre-upgrade: proposal & preparation
 
 {% hint style="info" %}
-### ​​ :man_mage: Part II - Pre-upgrade: proposal & preparation
+### ​​ :man\_mage: Part II - Pre-upgrade: proposal & preparation
 {% endhint %}
 
 ### Pre-upgrade
@@ -180,7 +180,7 @@
 ## During upgrade
 
 {% hint style="info" %}
-### :man_mage: Part III - During the upgrade
+### :man\_mage: Part III - During the upgrade
 {% endhint %}
 
 1. Right before the upgrade, validators should jot down the content of the proposal, since chain explorers and APIs may not work during the upgrade.
@@ -377,7 +377,7 @@
 ## When Upgrade failed
 
 {% hint style="warning" %}
-### :man_mage: Part IV - When Upgrade failed
+### :man\_mage: Part IV - When Upgrade failed
 {% endhint %}
 
 If fatal issues happened during the upgrade (e.g. serious software bugs), then with the consent from the majority of the validators, validators may give up the upgrade and restart the SheungWan chain.

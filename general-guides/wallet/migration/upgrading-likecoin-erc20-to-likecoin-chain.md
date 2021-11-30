@@ -30,7 +30,7 @@ Moreover, using the MetaMask wallet that does not bond with the Liker ID cannot 
 Keep the Secret Recovery Phrase or private key is the responsibility of the user, no one can reset your MetaMask wallet unless yourself.
 {% endhint %}
 
-### Step 2: Visit Like.co/in <a href="step-1-visit-likecoin" id="step-1-visit-likecoin"></a>
+### Step 2: Visit Like.co/in <a href="#step-1-visit-likecoin" id="step-1-visit-likecoin"></a>
 
 Your task is to upgrade the LikeCoin in your MetaMask wallet to LikeCoin chain, so the first step is to make sure that you have the MetaMask with the correct wallet address installed in your Chrome browser.
 
@@ -38,7 +38,7 @@ Login [Liker Land](https://liker.land) by Chrome with your social account ( Goog
 
 ![Choose "Migrate Now"](../../../.gitbook/assets/likecoin-migration-1.png)
 
-### Step 3.1: Read the introduction <a href="step-21-read-the-introduction" id="step-21-read-the-introduction"></a>
+### Step 3.1: Read the introduction <a href="#step-21-read-the-introduction" id="step-21-read-the-introduction"></a>
 
 The system will lead you to the migration page and help you upgrade your LikeCoin step by step.  After reading the background introduction in the below screen, click "Confirm".
 
@@ -54,19 +54,19 @@ After clicking "Sign", the following MetaMask screens will be shown.  Click "Con
 
 ![Click "Connect" and then "Sign"](../../../.gitbook/assets/likecoin-migration-4.png)
 
-### Step 3.3: Waiting for the upgrading process to be finished <a href="step-23-waiting-for-the-upgrading-process-to-be-finished" id="step-23-waiting-for-the-upgrading-process-to-be-finished"></a>
+### Step 3.3: Waiting for the upgrading process to be finished <a href="#step-23-waiting-for-the-upgrading-process-to-be-finished" id="step-23-waiting-for-the-upgrading-process-to-be-finished"></a>
 
 In this step, the system will firstly transfer your LikeCoin ERC-20 to a smart contract, and then deposit LikeCoin to your new wallet on the LikeCoin chain. The process needs a few minutes, please be patient. During the process, ETH as Gas Fee will be deducted.
 
 ![](../../../.gitbook/assets/likecoin-migration-5.png)
 
-### Step 4: Check your LikeCoin balance <a href="step-3-check-your-likecoin-balance" id="step-3-check-your-likecoin-balance"></a>
+### Step 4: Check your LikeCoin balance <a href="#step-3-check-your-likecoin-balance" id="step-3-check-your-likecoin-balance"></a>
 
 You can check your LikeCoin balance in [https://like.co/in](https://like.co/in) after migration completion.
 
 ![](../../../.gitbook/assets/likecoin-migration-6.png)
 
-### Step 5: Download the Liker Land mobile app <a href="download-the-liker-land-mobile-app" id="download-the-liker-land-mobile-app"></a>
+### Step 5: Download the Liker Land mobile app <a href="#download-the-liker-land-mobile-app" id="download-the-liker-land-mobile-app"></a>
 
 Please visit Google Play store or Apple App Store to [download the Liker Land mobile app](https://liker.land/getapp). Login by your social account and check your balance on the app. You may also perform various operations of LikeCoin such as transfer and delegation there.
 
@@ -101,7 +101,7 @@ Connect the hardware wallet with MetaMask, go to [https://migration.like.co/](ht
 {% hint style="danger" %}
 Do not use and directly input the crypto exchange Cosmos wallet address into [https://migration.like.co/](https://migration.like.co). If that particular exchange required Tag/Memo or other operations, you will not be able to deposit your LikeCoin. Therefore please migratie the LikeCoin to your own wallet before performing other trades or operations.
 
-**Do not directly send your LikeCoin to the smart contract address. **You really have to use   [https://migration.like.co/](https://migration.like.co) to facilitate migration.
+**Do not directly send your LikeCoin to the smart contract address.** You really have to use   [https://migration.like.co/](https://migration.like.co) to facilitate migration.
 
 Wrongly operated the LikeCoin ERC-20 migration will result in irreversible failure**.**
 {% endhint %}

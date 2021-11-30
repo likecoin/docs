@@ -6,7 +6,7 @@ description: >-
 
 # Upgrade Step-by-step
 
-## Overview 
+## Overview&#x20;
 
 ### Preparation
 
@@ -14,7 +14,7 @@ description: >-
 
 ### Pre-upgrade
 
-*   Make sure you have all keys 
+*   Make sure you have all keys&#x20;
 
     * operator key in `.likecli` folder, or in mnemonic format,
     * node key in `.liked/config/node_key.json`
@@ -27,7 +27,7 @@ description: >-
 ### During upgrade
 
 * Run a web conference with other validators
-  * Need to discuss **export height** and **genesis time **in realtime
+  * Need to discuss **export height** and **genesis time** in realtime
 * Export keys and files
   * Export node key and consensus key by copying the key files
   * Export address book by copying the key files
@@ -49,7 +49,7 @@ description: >-
 ## Setup Testnet with SheungWan software
 
 {% hint style="info" %}
-### :man_mage:Part I - Setup Testnet with SheungWan software
+### :man\_mage:Part I - Setup Testnet with SheungWan software
 {% endhint %}
 
 ### Requirements
@@ -69,9 +69,9 @@ description: >-
 ### Parameters
 
 * **Chain ID:** `likecoin-chain-public-testnet-2`
-* **Genesis file: **[https://gist.githubusercontent.com/nnkken/a4eff0359b1acd816aa536bd664eb7ed/raw/207206a952078184b7dea1f152d4068612ef7bd6/genesis.json](https://www.notion.so/a4eff0359b1acd816aa536bd664eb7ed)
+* **Genesis file:** [https://gist.githubusercontent.com/nnkken/a4eff0359b1acd816aa536bd664eb7ed/raw/207206a952078184b7dea1f152d4068612ef7bd6/genesis.json](https://www.notion.so/a4eff0359b1acd816aa536bd664eb7ed)
   * SHA256: `313f93afce5438655239f8f6915af02fd500a7485c6e0a2a0fb8ae8b6ed1decb`
-* **Seed node: **`c5e678f14219c1f161cb608aaeda37933d71695d@nnkken.dev:31801`
+* **Seed node:** `c5e678f14219c1f161cb608aaeda37933d71695d@nnkken.dev:31801`
 * Software:
   * before upgrade: [https://github.com/likecoin/likecoin-chain/tree/sheungwan-2](https://github.com/likecoin/likecoin-chain/tree/sheungwan-2)
     * commit: `f81b7c728c0cdf22db4c324d8a12003c99b09703`
@@ -195,7 +195,7 @@ description: >-
 ## Pre-upgrade: proposal & preparation
 
 {% hint style="info" %}
-### ​​ :man_mage: Part II - Pre-upgrade: proposal & preparation
+### ​​ :man\_mage: Part II - Pre-upgrade: proposal & preparation
 {% endhint %}
 
 ### Pre-upgrade
@@ -257,7 +257,7 @@ description: >-
 ## During upgrade
 
 {% hint style="info" %}
-### :man_mage: Part III - During the upgrade
+### :man\_mage: Part III - During the upgrade
 {% endhint %}
 
 1. Right before the upgrade, validators should jot down the content of the proposal, since chain explorers and APIs may not work during the upgrade.
@@ -454,7 +454,7 @@ description: >-
 ## When Upgrade failed
 
 {% hint style="warning" %}
-### :man_mage: Part IV - When Upgrade failed
+### :man\_mage: Part IV - When Upgrade failed
 {% endhint %}
 
 If fatal issues happened during the upgrade (e.g. serious software bugs), then with the consent from the majority of the validators, validators may give up the upgrade and restart the SheungWan chain.

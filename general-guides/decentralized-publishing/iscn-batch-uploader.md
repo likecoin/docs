@@ -6,13 +6,13 @@ description: How to register large amount of ISCN records in one go
 
 ## Register multiple ISCN records
 
-### Before you start <a href="a5db" id="a5db"></a>
+### Before you start <a href="#a5db" id="a5db"></a>
 
 1. Choose a tool for editing CSV files. Free Google spreadsheet is recommended. Prepare the data to be registered in CSV format.
 2. A Mac or Linux computer as we are going to demonstrate on a Mac console. The computer should have node.js and git installed, the latter is optional. The operation in Windows should be more or less the same.
 3. A wallet with a small amount of LikeCoin. Keplr is recommended as you will need the seed words of the wallet for one of the steps. ISCN registration costs LikeCoin and that’s really a steal at the moment. Try it out before the price rises.
 
-### Step 1: Prepare your data <a href="bafb" id="bafb"></a>
+### Step 1: Prepare your data <a href="#bafb" id="bafb"></a>
 
 This step does not require technical background, but it is time-consuming. Below is an example of the [300 Tang Poems](https://github.com/edmondyu/TangPoems300/blob/main/TangPoems300.csv) data file.
 
@@ -45,7 +45,7 @@ If you know coding, however, you may try my [python tool for Pinata](https://git
 
 Our example of Tang Poems contains 300 records only. You may prepare a much larger amount of data in the same way, however. Feel free to commit all verses of “The Bible”, Shakespeare’s scripts, all of your blogs, music scores, newspaper archives, or minutes of public authorities to the LikeCoin chain. There is a lot of work to do for those without any technical background.
 
-### Step 2: Install iscn-batch-uploader <a href="c676" id="c676"></a>
+### Step 2: Install iscn-batch-uploader <a href="#c676" id="c676"></a>
 
 ```
 git clone https://github.com/likecoin/iscn-batch-uploader.git
@@ -65,13 +65,13 @@ npm install
 
 ### Step 3: Edit the config file
 
-There is a “config.js” file under the “config” directory of the program directory. Edit it with any text editor tool, modify the line config.COSMOS_MNEMONIC and fill in the seed phrase of your LikeCoin wallet, for example:
+There is a “config.js” file under the “config” directory of the program directory. Edit it with any text editor tool, modify the line config.COSMOS\_MNEMONIC and fill in the seed phrase of your LikeCoin wallet, for example:
 
 ```
 config.COSMOS_MNEMONIC = ‘paint man cloud google winnie pool think hell imposition police illegal tyranny’;
 ```
 
-### Step 4: Copy CSV data file to the working directory <a href="f95a" id="f95a"></a>
+### Step 4: Copy CSV data file to the working directory <a href="#f95a" id="f95a"></a>
 
 Copy the CSV data file that you want to register ISCN, in our demo “TangPoem300.csv”, to the iscn-batch-uploader directory.
 
@@ -79,7 +79,7 @@ Copy the CSV data file that you want to register ISCN, in our demo “TangPoem30
 
 
 
-### Step 5: Execute the uploader command <a href="3737" id="3737"></a>
+### Step 5: Execute the uploader command <a href="#3737" id="3737"></a>
 
 The installation is ready. After confirming iscn-batch-uploader as the current directory and execute the following command:
 
@@ -97,7 +97,7 @@ node index.js TangPoems300.csv
 
 Registering 300+ ISCN records costs less than 1 LIKE?! It’s a really good deal. Try it out now.
 
-### Step 6: Verify on blockchain <a href="c2b3" id="c2b3"></a>
+### Step 6: Verify on blockchain <a href="#c2b3" id="c2b3"></a>
 
 A new file “output.csv” will be generated after you execute the command successfully. Two more columns are added to the new CSV when comparing with the original data file: _txHash_ and _iscnId_.
 
@@ -117,7 +117,7 @@ iscn://likecoin-chain/9MewrmZqHT55nJLtW7EGqo8szOwKtp42AmhKyhWrImw/1
 
 in app.like.co to view the poem registry.
 
-![ISCN ID iscn://likecoin-chain/gYfyLhuE941XFQFW_YMGnoxvx2nB3Y_CBdqreCUmyKo/1](../../.gitbook/assets/iscn-batch-uploader-05.png)
+![ISCN ID iscn://likecoin-chain/gYfyLhuE941XFQFW\_YMGnoxvx2nB3Y\_CBdqreCUmyKo/1](../../.gitbook/assets/iscn-batch-uploader-05.png)
 
 You can check all the registered ISCN records in app.like.co. Login (by Keplr) with the wallet that you have filled the seed words into the config file of iscn-batch-uploader, click “Your Publishing” and check your registration. Only the first 100 records can be displayed in app.like.co however.
 
@@ -140,7 +140,7 @@ When the script reads records with iscnId ready, it will update the record with 
 
 iscn-batch-uploader fails to register particular ISCN records occasionally for unknown reason. The program retries 1 time upon failure, and will skip to next record if retry fail. You need to inspect the details of _output.csv_ for any records that misses iscnId and txHash.
 
-The best way to amend the missed records is to re-run _index.js _with the renamed _output.csv_ as the input file parameter. e.g.:
+The best way to amend the missed records is to re-run _index.js_ with the renamed _output.csv_ as the input file parameter. e.g.:
 
 ```
 node index.js fromOutputFile.csv

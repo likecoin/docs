@@ -17,7 +17,7 @@ description: >-
 
 ## **2021 Date & Schedule**
 
-| **Date **           | **Description**                                                                                                                                                                                       |
+| **Date**            | **Description**                                                                                                                                                                                       |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Monday, 1 November  | <ul><li>LikeCoin chain status on IBC relayers &#x26; node sync issue</li><li>DEX listing on Osmosis &#x26; Emeris</li><li>Governance &#x26; proposals </li><li>Cosmos event month, HackAtom</li></ul> |
 | Monday, 4 October   | IBC on LikeCoin chain, ISCN card released                                                                                                                                                             |

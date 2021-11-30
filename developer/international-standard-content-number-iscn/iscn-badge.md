@@ -6,7 +6,7 @@ description: >-
 
 # ISCN Badge
 
-**You can add one of the following query string after the "`?`" of the Base URL below. Base URL: **\
+**You can add one of the following query string after the "`?`" of the Base URL below. Base URL:** \
 `https://static.like.co/badge/iscn/<iscn_tx_hash>.svg?`
 
 Success Example: [https://static.like.co/badge/iscn/3513633D18BA70EB9DA38CD1AC779D6D4372326B3D65B7A14EC75DB8C86C0E6D.svg?dark=1\&responsive=0\&width=82](https://static.like.co/badge/iscn/3513633D18BA70EB9DA38CD1AC779D6D4372326B3D65B7A14EC75DB8C86C0E6D.svg?dark=1\&responsive=0\&width=82)
@@ -27,7 +27,7 @@ Success Example: [https://static.like.co/badge/iscn/3513633D18BA70EB9DA38CD1AC77
 | responsive=0\&height=sf | <p>400</p><p>Height in wrong format (NaN).</p>                                      |
 | responsive=0\&wodth=sf  | <p>400</p><p>Height in wrong format (NaN).</p>                                      |
 
-**Note:** 
+**Note:**&#x20;
 
 When providing both height & width, but the ratio does not fit to 164 (width) \* 64 (height), we will anchor the size of the badge on **width**.\
 For example, user provides `width=200&height=400`, the overall size for the badge would be: `width=200&height=200*64/164`.

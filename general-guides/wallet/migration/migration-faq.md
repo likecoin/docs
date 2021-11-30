@@ -20,9 +20,9 @@ The system transfers LikeCoin ERC-20 from MetaMask to smart contract, therefore 
 
 It may be the case that you never link your Etherscan wallet to your Like ID and there are rewards waiting to be released. Please check it a few days later.
 
-### 4. During the migration process, encounter "Error: NOT_ENOUGH_GAS, NEED X.XXXXX"
+### 4. During the migration process, encounter "Error: NOT\_ENOUGH\_GAS, NEED X.XXXXX"
 
-You have to prepare enough ETH (the number in NOT_ENOUGH_GAS, NEED X.XXXXX)  as GAS Fee, you may refer to [ETH GAS Station](https://ethgasstation.info) for the fee required.
+You have to prepare enough ETH (the number in NOT\_ENOUGH\_GAS, NEED X.XXXXX)  as GAS Fee, you may refer to [ETH GAS Station](https://ethgasstation.info) for the fee required.
 
 ### 5. Stuck in "Waiting for ETH TX" for a very long time&#xD;
 
@@ -30,13 +30,13 @@ The system transfers LikeCoin ERC-20 from MetaMask to smart contract, then depos
 
 If the whole migration process is more than 15 minutes and do not get done, please contact our customer service.
 
-### **6. **In the "Sign" process experiences "Cannot detect web3 in browser" error
+### **6.** In the "Sign" process experiences "Cannot detect web3 in browser" error
 
 ![](../../../.gitbook/assets/likecoin-migration-faq.png)
 
 This error indicates that the system cannot detect MetaMask, please check if you are using Chrome and have Metamask installed.
 
-### **7. **Error: "Please use the Etherscan address \[0x...] linking with your LikeCoin to sign"&#xD;
+### **7.** Error: "Please use the Etherscan address \[0x...] linking with your LikeCoin to sign"&#xD;
 
 The MetaMask wallet address that you are using, does not match the Liker ID that you link to. Metamask is a cryptocurrency wallet for managing different crypto addresses. Please try to remember:
 
