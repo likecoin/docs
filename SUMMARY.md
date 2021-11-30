@@ -3,7 +3,7 @@
 * [LikeCoin - 去中心出版](README.md)
 * [LikeCoin 答客問](faq.md)
 
-## 📙  指南 <a href="guides" id="guides"></a>
+## 📙  指南 <a href="#guides" id="guides"></a>
 
 * [LikeCoin 項目概覽](guides/about/README.md)
   * [傳媒報導](guides/about/on-the-news.md)
@@ -56,7 +56,7 @@
   * [歷史議案](guides/governance/proposals.md)
   * [LikeCoin Grants 計畫](guides/governance/likecoin-grants.md)
 
-## 💻 去中心應用 <a href="user-guide" id="user-guide"></a>
+## 💻 去中心應用 <a href="#user-guide" id="user-guide"></a>
 
 * [Liker Land](user-guide/liker-land/README.md)
   * [下載 Liker Land](user-guide/liker-land/download.md)
@@ -74,6 +74,7 @@
   * [以年費訂閱讚賞公民](user-guide/civic-liker/civic-liker-1.0-yearly.md)
   * [讚賞公民常見問題](user-guide/civic-liker/civic-liker-faq.md)
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
+  * [創作基金](user-guide/civic-liker/chuang-zuo-ji-jin.md)
 * [Liker ID](user-guide/liker-id/README.md)
   * [以 Keplr 註冊 Liker ID](user-guide/liker-id/register-with-keplr.md)
   * [以一般方法 ( Authcore ) 註冊 Liker ID](user-guide/liker-id/register.md)
@@ -123,7 +124,7 @@
   * [購買產品與服務](user-guide/community/products-and-services.md)
 * [詞彙表](user-guide/background.md)
 
-## 🔬  開發者資源 <a href="developer-resources" id="developer-resources"></a>
+## 🔬  開發者資源 <a href="#developer-resources" id="developer-resources"></a>
 
 * [成為驗證人](developer-resources/become-a-validator.md)
 * [開發者](developer-resources/developer.md)
