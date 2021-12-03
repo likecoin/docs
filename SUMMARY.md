@@ -28,9 +28,6 @@
   * [Web Widget](developer/like-pay/web-widget/README.md)
     * [Reference](developer/like-pay/web-widget/reference.md)
     * [Webhook](developer/like-pay/web-widget/webhook.md)
-  * [SDK](developer/like-pay/sdk/README.md)
-    * [Usage](developer/like-pay/sdk/usage.md)
-    * [Reference](developer/like-pay/sdk/reference.md)
 * [ISCN](developer/international-standard-content-number-iscn/README.md)
   * [Specification](developer/international-standard-content-number-iscn/specification.md)
   * [Chain API](developer/international-standard-content-number-iscn/chain-api.md)
@@ -42,6 +39,7 @@
   * [Batch upload tool](developer/international-standard-content-number-iscn/batch-upload-tool.md)
   * [ISCN Badge](developer/international-standard-content-number-iscn/iscn-badge.md)
   * [ISCN IPFS plugin](developer/international-standard-content-number-iscn/iscn-ipfs-plugin.md)
+* [likecoin-js](developer/likecoin-js.md)
 * [Ecosystem Statistics Badge](developer/badge.md)
 
 ## 👥 Validator Guide <a href="#validator" id="validator"></a>
