@@ -14,34 +14,40 @@ Delegation means delegating LikeCoin to one or more [validators](../governance/w
 
 Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) and is vital to the autonomy for The Republic of Liker Land.
 
+You may checkout the tutorial clip and the step-by-step instructions below.
+
+{% embed url="https://youtu.be/nxSy-kEMy0Q" %}
+
 ### Step 1: Select a validator&#xD;
 
 Open the [Liker Land mobile app](https://liker.land/getapp), click on \[My Wallet] to enter into the wallet page. In this page you can check the LikeCoin amount that you have and there is a list of validators underneath. You can select one of them as you like.
 
-![Click on \[My Wallet\]](../../.gitbook/assets/delegate-4-en.png)
+![](<../../.gitbook/assets/delegate-4-en (1).png>)
 
-![List of Validators](../../.gitbook/assets/delegate-5-en.png)
 
-Please note the commission rate of each validator may not be the same.
+
+![](<../../.gitbook/assets/delegate-5-en (1).png>)
+
+Please note the commission rate of each validator may not be the same.
 
 Select one of the validators and bring up the page below, it lists out percentage of Rewards, Voting Power and how much LikeCoin is being delegated to this validator (Liker Share).
 
 Click \[Delegate] and go to the next page.
 
-![](../../.gitbook/assets/delegate-1-en.png)
+![](<../../.gitbook/assets/delegate-1-en (1).png>)
 
 ### **Step 2: Input the amount of LikeCoin to delegate**
 
 Click \[Delegate] to bring up the following page, input the amount of LikeCoin that you would like to delegate to the validator, then click \[Next]\
 
 
-![](../../.gitbook/assets/delegate-2-en.png)
+![](<../../.gitbook/assets/delegate-2-en (1).png>)
 
 The confirmation page is displayed, showing the validator's wallet address, click \[Details] to reconfirm the amount to delegate and check the [transaction fee](../wallet/transaction-fee.md) estimation.
 
 Click \[Confirm], after a few seconds it displays "Transaction Completed", which means delegation of LikeCoin is completed.
 
-![](../../.gitbook/assets/delegate-3-en.png)
+![](<../../.gitbook/assets/delegate-3-en (1).png>)
 
 ### **Step 3: Relax and Withdraw Rewards!**
 
