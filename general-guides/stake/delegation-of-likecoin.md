@@ -22,9 +22,23 @@ Checkout the below tutorial clip for staking via stake.like.co.
 
 {% embed url="https://youtu.be/7soCRDCGYCw" %}
 
+### Step 1: Select a validator&#xD;
+
+Login [stake.like.co](https://stake.like.co) by one of the provided method.  Choose "Validators" in the menu on the left, then choose one validator on the right.
+
+### **Step 2: Decide how much to stake**
+
+Click the "stake" button on the upper right corner of the screen, a pop up "Stake" window will appear.  Fill in the the amount to stake, and confirm the transaction and gas fee.
+
+### **Step 3: Check your delegation**
+
+You should be able to check your new stakes in the portfolio page.
+
+
+
 ## Delegate via Liker Land
 
-You may checkout the tutorial clip and the step-by-step instructions below.
+You can also use Liker Land mobile app to stake LikeCoin.  You may checkout the tutorial clip and the step-by-step instructions below.
 
 {% embed url="https://youtu.be/nxSy-kEMy0Q" %}
 
