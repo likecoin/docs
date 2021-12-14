@@ -6,6 +6,41 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## Proposal #27 Community-pool-spend proposal: transfer 50,000USDe of LIKE to Numbers Protocol
+
+* **提案：**Kin Ko
+* **類型**：社群池花費議案 ( Community Pool Spend Proposal )
+* **日期**：2021.12.14 提案, Passed on&#x20;
+* **詳情**：[https://likecoin.bigdipper.live/proposals/27](https://likecoin.bigdipper.live/proposals/27)
+
+## Proposal #26 Transfer funding from Community Pool to multisig wallet of the Community Delegation Committee (CDC) to manage community fund delegation
+
+* **提案：**[Old Cat](https://ipfs.io/ipfs/QmazuBvdEGDrvBjbsa5FEd78dAHuGJLGxz9TzRfL9xUZPP/)
+* **類型**：社群池花費議案 ( Community Pool Spend Proposal )
+* **日期**：2021.12.13 提案, Passed on&#x20;
+* **詳情**：[https://likecoin.bigdipper.live/proposals/26](https://likecoin.bigdipper.live/proposals/26)
+
+## Proposal #25 Proposal to Fairdrop LikeCoin to the Cosmos Community and Civic Likers
+
+* **提案：**[Kin Ko](https://matters.news/@ckxpress/proposal-to-fairdrop-like-coin-to-the-cosmos-community-and-civic-likers-bafyreibhl3hcsgz6vwvgumpqyhsfkar2aznjq4wfqbtd2lugolxqgxfyly)
+* **類型**：社群池花費議案 ( Community Pool Spend Proposal )
+* **日期**：2021.12.09 提案, Passed on&#x20;
+* **詳情**：[https://likecoin.bigdipper.live/proposals/25](https://likecoin.bigdipper.live/proposals/25)
+
+## Proposal #24 Testing the functionality of Community Pool Spend
+
+* **提案：**Chung Wu
+* **類型**：社群池花費議案 ( Community Pool Spend Proposal )
+* **日期**：2021.11.29 提案，2021.12.06 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/24](https://likecoin.bigdipper.live/proposals/24)
+
+## Proposal #23 Endorse a committee to manage the Creator's Fund
+
+* **提案：**[Edmond](https://matters.news/@edmond/like-coin-chain-proposal-23-endorse-a-committee-to-manage-the-creators-fund-bafyreiefu5a4tm7jnnq2vr7kqqs3v7tb2iosurroa57hj2bj6qxfqn3laq) and [碼農日常](https://matters.news/@thumbb13555)
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2021.11.25 提案，2021.12.08 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/23](https://likecoin.bigdipper.live/proposals/23)
+
 ## 議案 #22 將生態池所有 LikeCoin 傳送到社群池
 
 * **提案：**[Old Cat](https://ipfs.io/ipfs/QmXnJNuo4tDak7uk9JG7nHczzF14KhYDqoZXu8nsDNamBW/)
@@ -55,14 +90,14 @@ description: 讚賞公民共和國有過甚麼議案？
 * **日期**：2021.09.04 提案，2021.09.23 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/16](https://likecoin.bigdipper.live/proposals/16)
 
-## 議案 #15 升級主鏈到 FoTan 版本 <a href="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators" id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
+## 議案 #15 升級主鏈到 FoTan 版本 <a href="#proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators" id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
 
 * **提案**：[sixwood​](https://matters.news/@sixwood/proposal-15-upgrade-like-coin-chain-mainnet-to-fo-tan-bafyreietjtpwddkxkwo563a4zeo2ftzf4yc6f4s3zfn632suf3rpmjmbb4)
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2021.08.01 提案，2021.08.15 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/15](https://likecoin.bigdipper.live/proposals/15)
 
-## 議案 #14 升級主鏈到 FoTan 版本 <a href="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators" id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
+## 議案 #14 升級主鏈到 FoTan 版本 <a href="#proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators" id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
 
 * **提案**：sixwood​
 * **類型**：文本式議案 ( Text Proposal )
@@ -76,7 +111,7 @@ description: 讚賞公民共和國有過甚麼議案？
 * **日期**：2021.07.30 提案但因內容錯誤被廢棄
 * **詳情**：[https://likecoin.bigdipper.live/proposals/13](https://likecoin.bigdipper.live/proposals/13)
 
-## 議案 #12 修改委託生態池的 LikeCoin 予驗證人的做法 <a href="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators" id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
+## 議案 #12 修改委託生態池的 LikeCoin 予驗證人的做法 <a href="#proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators" id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
 
 * **提案**：[guanyun](https://ipfs.io/ipfs/QmNu5dc1WBn8yicTqG42AotvdXpRa7Ay5ytBPHAN5XbPEY/)​
 * **類型**：文本式議案 ( Text Proposal )
@@ -141,7 +176,7 @@ description: 讚賞公民共和國有過甚麼議案？
 * 重點：建議每位 LikeCoin 持份者都可以發起議案及進行技票
 * 詳情：[https://likecoin.bigdipper.live/proposals/4](https://likecoin.bigdipper.live/proposals/4)
 
-## 議案 #3 提高驗證人名額至 25 名 <a href="3" id="3"></a>
+## 議案 #3 提高驗證人名額至 25 名 <a href="#3" id="3"></a>
 
 * **提案**：北科大區塊鏈社
 * **類型**：參數修訂議案 ( parameter change proposal )
@@ -155,7 +190,7 @@ description: 讚賞公民共和國有過甚麼議案？
 * **日期**：2020.06.17 提案，2020.07.08 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/2](https://likecoin.bigdipper.live/proposals/2)
 
-## 議案 #1 **開放驗證人資格及提高驗證人名額至 10 名** <a href="1" id="1"></a>
+## 議案 #1 **開放驗證人資格及提高驗證人名額至 10 名** <a href="#1" id="1"></a>
 
 * **提案**：[Matters](https://matters.news/@likecoin/like-coin-chain-proposal-1-relaxing-validator-requirements-to-transform-like-coin-chain-to-a-permissionless-b-po-s-mechanism-bafyreienrrgu5a35wvgztutzjzl6hey5csqdhimukzrpxfp64xn223fi5q)
 * **類型**：參數修訂議案 ( parameter change proposal )

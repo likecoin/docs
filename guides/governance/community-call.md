@@ -22,8 +22,7 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 | **日期**    | **描述**                                                                                                                                         |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 星期一，1月3日  |                                                                                                                                                |
-| 星期一，12月6日 | LikeCoin Airdop                                                                                                                                |
+| 星期一，12月6日 | LikeCoin Airdrop                                                                                                                               |
 | 星期一，11月1日 | LikeCoin chain status on IBC relayers & node sync issue, DEX listing on Osmosis & Emeris, Governance & proposals, Cosmos event month, HackAtom |
 | 星期一、10月4日 | IBC on LikeCoin chain, ISCN card released                                                                                                      |
 | 星期一、9月6日  | LikeCoin chain upgrade follow up, ISCN in action                                                                                               |
