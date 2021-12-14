@@ -15,16 +15,23 @@ description: >-
 
 ### Questions? Join our [Discord](http://discord.gg/likecoin) for help.
 
+## **2022 Date & Schedule**
+
+| **Date**          | **Description** |
+| ----------------- | --------------- |
+| Monday, 3 January |                 |
+
 ## **2021 Date & Schedule**
 
-| **Date**            | **Description**                                                                                                                                                                                       |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Monday, 1 November  | <ul><li>LikeCoin chain status on IBC relayers &#x26; node sync issue</li><li>DEX listing on Osmosis &#x26; Emeris</li><li>Governance &#x26; proposals </li><li>Cosmos event month, HackAtom</li></ul> |
-| Monday, 4 October   | IBC on LikeCoin chain, ISCN card released                                                                                                                                                             |
-| Monday, 6 September | LikeCoin chain upgrade follow up, ISCN in action                                                                                                                                                      |
-| Monday, 2 August    | Recap Testnet Upgrade, LikeCoin Grant Update                                                                                                                                                          |
-| Monday, 5 July      | LikeCoin chain Upgrade Overview, ISCN product prototype                                                                                                                                               |
-| Monday, 7 June      | LikeCoin Development Grant Update                                                                                                                                                                     |
+| **Date**            | **Description**                                                                                                                                 |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Monday, 6 December  | LikeCoin Airdrop                                                                                                                                |
+| Monday, 1 November  | LikeCoin chain status on IBC relayers & node sync issue, DEX listing on Osmosis & Emeris, Governance & proposals , Cosmos event month, HackAtom |
+| Monday, 4 October   | IBC on LikeCoin chain, ISCN card released                                                                                                       |
+| Monday, 6 September | LikeCoin chain upgrade follow up, ISCN in action                                                                                                |
+| Monday, 2 August    | Recap Testnet Upgrade, LikeCoin Grant Update                                                                                                    |
+| Monday, 5 July      | LikeCoin chain Upgrade Overview, ISCN product prototype                                                                                         |
+| Monday, 7 June      | LikeCoin Development Grant Update                                                                                                               |
 
 ## **Call Time**
 
@@ -41,6 +48,7 @@ description: >-
 
 ## Meeting Minutes
 
+* [LikeCoin Community Update #202112](https://medium.com/likecoin/likecoin-community-update-202112-87ccb81518d1)
 * [LikeCoin Community Update #202110](https://medium.com/likecoin/likecoin-community-update-202110-8b4b2aab4e4f)
 * [LikeCoin Community Update #202109](https://medium.com/likecoin/likecoin-community-update-202109-a5722cb838dd)
 * [LikeCoin Community Update #202108](https://medium.com/likecoin/likecoin-community-update-202108-abb71c67145c)
