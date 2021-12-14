@@ -6,6 +6,41 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## Proposal #27 Community-pool-spend proposal: transfer 50,000USDe of LIKE to Numbers Protocol
+
+* Proposer: Kin Ko
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2021.12.14, Passed on&#x20;
+* Details: [https://likecoin.bigdipper.live/proposals/27](https://likecoin.bigdipper.live/proposals/27)
+
+## Proposal #26 Transfer funding from Community Pool to multisig wallet of the Community Delegation Committee (CDC) to manage community fund delegation
+
+* Proposer: [Old Cat](https://ipfs.io/ipfs/QmazuBvdEGDrvBjbsa5FEd78dAHuGJLGxz9TzRfL9xUZPP/)
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2021.12.13, Passed on&#x20;
+* Details: [https://likecoin.bigdipper.live/proposals/26](https://likecoin.bigdipper.live/proposals/26)
+
+## Proposal #25 Proposal to Fairdrop LikeCoin to the Cosmos Community and Civic Likers
+
+* Proposer: [Kin Ko](https://matters.news/@ckxpress/proposal-to-fairdrop-like-coin-to-the-cosmos-community-and-civic-likers-bafyreibhl3hcsgz6vwvgumpqyhsfkar2aznjq4wfqbtd2lugolxqgxfyly)
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2021.12.09, Passed on&#x20;
+* Details: [https://likecoin.bigdipper.live/proposals/25](https://likecoin.bigdipper.live/proposals/25)
+
+## Proposal #24 Testing the functionality of Community Pool Spend
+
+* Proposer: Chung Wu
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2021.11.29, Passed on 2021.12.06
+* Details: [https://likecoin.bigdipper.live/proposals/24](https://likecoin.bigdipper.live/proposals/24)
+
+## Proposal #23 Endorse a committee to manage the Creator's Fund
+
+* Proposer: [Edmond](https://matters.news/@edmond/like-coin-chain-proposal-23-endorse-a-committee-to-manage-the-creators-fund-bafyreiefu5a4tm7jnnq2vr7kqqs3v7tb2iosurroa57hj2bj6qxfqn3laq) and [碼農日常](https://matters.news/@thumbb13555)
+* Proposal Type: Text Proposal
+* Date: Submit on 2021.11.25, Passed on 2021.12.08
+* Details: [https://likecoin.bigdipper.live/proposals/23](https://likecoin.bigdipper.live/proposals/23)
+
 ## Proposal #22 Transfer all LikeCoin in the Ecosystem Pool to Community Pool
 
 * Proposer: [Old Cat](https://ipfs.io/ipfs/QmXnJNuo4tDak7uk9JG7nHczzF14KhYDqoZXu8nsDNamBW/)
@@ -55,7 +90,7 @@ description: How many proposals proceeded by the Republic of Liker Land?
 * Date: Submit on 2021.09.04, Passed on 2021.09.23
 * Details: [https://likecoin.bigdipper.live/proposals/16](https://likecoin.bigdipper.live/proposals/16)
 
-## Proposal #15 Upgrade LikeCoin chain mainnet to FoTan <a href="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators" id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
+## Proposal #15 Upgrade LikeCoin chain mainnet to FoTan <a href="#proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators" id="proposal-12-changing-the-way-of-delegate-the-ecologicals-likecoin-in-the-validators"></a>
 
 * Proposer: [sixwood​](https://matters.news/@sixwood/proposal-15-upgrade-like-coin-chain-mainnet-to-fo-tan-bafyreietjtpwddkxkwo563a4zeo2ftzf4yc6f4s3zfn632suf3rpmjmbb4)
 * Proposal Type: Text Proposal
