@@ -9,28 +9,28 @@ description: 讚賞公民共和國有過甚麼議案？
 ## Proposal #27 Community-pool-spend proposal: transfer 50,000USDe of LIKE to Numbers Protocol
 
 * **提案：**Kin Ko
-* **類型**：社群池花費議案 ( Community Pool Spend Proposal )
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.12.14 提案, Passed on&#x20;
 * **詳情**：[https://likecoin.bigdipper.live/proposals/27](https://likecoin.bigdipper.live/proposals/27)
 
 ## Proposal #26 Transfer funding from Community Pool to multisig wallet of the Community Delegation Committee (CDC) to manage community fund delegation
 
 * **提案：**[Old Cat](https://ipfs.io/ipfs/QmazuBvdEGDrvBjbsa5FEd78dAHuGJLGxz9TzRfL9xUZPP/)
-* **類型**：社群池花費議案 ( Community Pool Spend Proposal )
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.12.13 提案, Passed on&#x20;
 * **詳情**：[https://likecoin.bigdipper.live/proposals/26](https://likecoin.bigdipper.live/proposals/26)
 
 ## Proposal #25 Proposal to Fairdrop LikeCoin to the Cosmos Community and Civic Likers
 
 * **提案：**[Kin Ko](https://matters.news/@ckxpress/proposal-to-fairdrop-like-coin-to-the-cosmos-community-and-civic-likers-bafyreibhl3hcsgz6vwvgumpqyhsfkar2aznjq4wfqbtd2lugolxqgxfyly)
-* **類型**：社群池花費議案 ( Community Pool Spend Proposal )
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.12.09 提案, Passed on&#x20;
 * **詳情**：[https://likecoin.bigdipper.live/proposals/25](https://likecoin.bigdipper.live/proposals/25)
 
 ## Proposal #24 Testing the functionality of Community Pool Spend
 
 * **提案：**Chung Wu
-* **類型**：社群池花費議案 ( Community Pool Spend Proposal )
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.11.29 提案，2021.12.06 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/24](https://likecoin.bigdipper.live/proposals/24)
 
