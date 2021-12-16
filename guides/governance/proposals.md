@@ -6,35 +6,35 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
-## Proposal #27 Community-pool-spend proposal: transfer 50,000USDe of LIKE to Numbers Protocol
+## 議案 #27 Proposal 傳送 50,000USDe LIKE 予 Numbers Protocol
 
 * **提案：**Kin Ko
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.12.14 提案, Passed on&#x20;
 * **詳情**：[https://likecoin.bigdipper.live/proposals/27](https://likecoin.bigdipper.live/proposals/27)
 
-## Proposal #26 Transfer funding from Community Pool to multisig wallet of the Community Delegation Committee (CDC) to manage community fund delegation
+## 議案 #26 將資產轉移至社群基金委員會的多重簽署錢包
 
 * **提案：**[Old Cat](https://ipfs.io/ipfs/QmazuBvdEGDrvBjbsa5FEd78dAHuGJLGxz9TzRfL9xUZPP/)
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.12.13 提案, Passed on&#x20;
 * **詳情**：[https://likecoin.bigdipper.live/proposals/26](https://likecoin.bigdipper.live/proposals/26)
 
-## Proposal #25 Proposal to Fairdrop LikeCoin to the Cosmos Community and Civic Likers
+## 議案 #25 為 Cosmos 社群及讚賞公民提供空投
 
 * **提案：**[Kin Ko](https://matters.news/@ckxpress/proposal-to-fairdrop-like-coin-to-the-cosmos-community-and-civic-likers-bafyreibhl3hcsgz6vwvgumpqyhsfkar2aznjq4wfqbtd2lugolxqgxfyly)
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.12.09 提案, Passed on&#x20;
 * **詳情**：[https://likecoin.bigdipper.live/proposals/25](https://likecoin.bigdipper.live/proposals/25)
 
-## Proposal #24 Testing the functionality of Community Pool Spend
+## 議案 #24 測試社群池支出功能
 
 * **提案：**Chung Wu
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.11.29 提案，2021.12.06 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/24](https://likecoin.bigdipper.live/proposals/24)
 
-## Proposal #23 Endorse a committee to manage the Creator's Fund
+## 議案 #23 成立創作基金委員會
 
 * **提案：**[Edmond](https://matters.news/@edmond/like-coin-chain-proposal-23-endorse-a-committee-to-manage-the-creators-fund-bafyreiefu5a4tm7jnnq2vr7kqqs3v7tb2iosurroa57hj2bj6qxfqn3laq) and [碼農日常](https://matters.news/@thumbb13555)
 * **類型**：文本式議案 ( Text Proposal )
@@ -48,14 +48,14 @@ description: 讚賞公民共和國有過甚麼議案？
 * **日期**：2021.11.10 提案，2021.11.18 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/22](https://likecoin.bigdipper.live/proposals/22)
 
-## 議案 #21 使用等值 USDe250,000 的 LIKE 建立 Emeris 的 LIKE/ATOM 流動性池
+## 議案 #21 使用等值 USDe 250,000 的 LIKE 建立 Emeris 的 LIKE/ATOM 流動性池
 
 * **提案：**[LikeCoin Foundation](https://matters.news/@likecoin/allocate-us-de250-000-of-like-to-like-atom-pool-on-emeris-bafyreidx5ydsusdgtf2baz5wzt7uzk7m2awkbt2mbprpr5rn2bzwzik7ey)
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2021.10.26 提案，2021.11.03 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/21](https://likecoin.bigdipper.live/proposals/21)
 
-## 議案 #20 社群基金審批委員新架構
+## 議案 #20 社群基金委員會新架構
 
 * **提案：**[yasu](https://gateway.pinata.cloud/ipfs/QmePqxk7n2329ceR323i2asYHyiXYnWaKgmNA3wrfu1tqX)
 * **類型**：文本式議案 ( Text Proposal )
@@ -72,14 +72,14 @@ description: 讚賞公民共和國有過甚麼議案？
 ## 議案 #18 議案投票期縮短為 7 天
 
 * **提案：**[Old Cat](https://matters.news/@oldcat/like-coin-chain-proposal-18-change-the-voting-period-of-governance-proposals-from-14-days-to-7-days-bafyreihe667tt2chrqtpzjumigtc2uljjlzo3nomcsguuovlupzerovjc4)
-* **類型**：參數修訂議案 ( parameter change proposal )
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2021.10.09 提案，2021.10.22 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/18](https://likecoin.bigdipper.live/proposals/18)
 
 ## 議案 #17 啟動 IBC 傳送及接收
 
 * **提案：**[moonbeam](https://matters.news/@moonbeamwow/enable-ibc-send-and-receive-the-17th-proposal-bafyreibbxfkjtxnvcam6mf77tukiw2twzx57zcekfom3vuhl27tpssdpea)
-* **類型**：參數修訂議案 ( parameter change proposal )
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2021.09.27 提案，2021.10.13 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/17](https://likecoin.bigdipper.live/proposals/17)
 
@@ -122,7 +122,7 @@ description: 讚賞公民共和國有過甚麼議案？
 
 
 * **提案**：[Old Cat](https://matters.news/@oldcat/like-coin-chain-proposal-11-increasing-the-maximum-number-of-active-validators-from-25-to-50-bafyreifshurtp5w4i7ovcwu274sr4iknrtdhsy2s2vrunlwzmnz4kp4mwa)
-* **類型**：參數修訂議案 ( parameter change proposal )
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2021.03.27 提案，2021.04.12 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/11](https://likecoin.bigdipper.live/proposals/11)
 
@@ -143,35 +143,35 @@ description: 讚賞公民共和國有過甚麼議案？
 ## 議案 #8 降低提案門檻（押金）
 
 * **提案**：[leafwind](https://matters.news/@leafwind/like-coin-chain-proposal-8-reduce-the-barrier-of-proposal-deposit-threshold-bafyreihrcgcmjgxjgsddsrdfdifmuptntsdlil4hvsahffn5lbwh72m7si)
-* **類型**：參數修訂議案 ( parameter change proposal )
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2021.01.11 提案，2021.01.25 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/8](https://likecoin.bigdipper.live/proposals/8)
 
 ## 議案 #7 將現有的增發率由 2% 改成 7% - 20% 的動態範圍
 
 * **提案**：guanyun
-* **類型**：參數修訂議案 ( parameter change proposal )
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2021.01.06 提案，2021.01.22 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/7](https://likecoin.bigdipper.live/proposals/7)
 
 ## 議案 #6 驗證交易的增發率由 2% 提升至 7%
 
 * **提案**：guanyun
-* **類型**：參數修訂議案 ( parameter change proposal )
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2020.11.13 提案，2020.12.07 押金不足，提案被移除
 * **詳情**：[https://likecoin.bigdipper.live/proposals/6](https://likecoin.bigdipper.live/proposals/6)
 
 ## 議案 #5 驗證交易的增發率由 1% 提升至 2%
 
 * **提案**：[Old Cat](https://matters.news/@oldcat/like-coin-chain-proposal-5-increase-the-inflation-rate-from-1-to-2-bafyreigehviegtfl42orweqj5nc2wn2ccapukjm2jhwf3qzcntl7qyxaby)
-* **類型**：參數修訂議案 ( parameter change proposal )
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2020.10.14 提案，2020.11.10 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/5](https://likecoin.bigdipper.live/proposals/5)
 
 ## 議案 #4 持份者參與直接民主
 
 * 提案：[Nicholas](https://matters.news/@nicholasyau/like-coin-chain-proposal-4-direct-democracy-by-stakeholders-bafyreifupmmlspfpu55mpjwtzbkqew3ji4wdud36er2uetcph7h72mfmea)
-* 類型：指引式議案 ( signaling proposal )
+* 類型：指引式議案 ( Signaling Proposal )
 * 日期：2020.09.21 提案，2020.10.05 通過
 * 重點：建議每位 LikeCoin 持份者都可以發起議案及進行技票
 * 詳情：[https://likecoin.bigdipper.live/proposals/4](https://likecoin.bigdipper.live/proposals/4)
@@ -179,21 +179,21 @@ description: 讚賞公民共和國有過甚麼議案？
 ## 議案 #3 提高驗證人名額至 25 名 <a href="#3" id="3"></a>
 
 * **提案**：北科大區塊鏈社
-* **類型**：參數修訂議案 ( parameter change proposal )
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2020.07.10 提案，2020.07.26 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/3](https://likecoin.bigdipper.live/proposals/3)
 
 ## 議案 #2 提高驗證人名額至 25 名
 
 * **提案**：[北科大區塊鏈社](https://matters.news/@dAAAb/like-coin-chain-proposal-2-increasing-the-number-of-active-validators-from-10-to-25-bafyreic2jaqtzaaql2dkauay5ogybtqy3tlltwzrj665ong2sg7uks7zsu)
-* **類型**：指引式議案 ( signaling proposal )
+* **類型**：指引式議案 ( Signaling Proposal )
 * **日期**：2020.06.17 提案，2020.07.08 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/2](https://likecoin.bigdipper.live/proposals/2)
 
 ## 議案 #1 **開放驗證人資格及提高驗證人名額至 10 名** <a href="#1" id="1"></a>
 
 * **提案**：[Matters](https://matters.news/@likecoin/like-coin-chain-proposal-1-relaxing-validator-requirements-to-transform-like-coin-chain-to-a-permissionless-b-po-s-mechanism-bafyreienrrgu5a35wvgztutzjzl6hey5csqdhimukzrpxfp64xn223fi5q)
-* **類型**：參數修訂議案 ( parameter change proposal )
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2020.2.18 提案，2020.03.16 通過
 * **三大重點**：驗證人的數目由 7 位增加到 10位；驗證人完全開放，參選免入閘免審查，任何人都能架起伺服器做驗證人，委託數最高的 10 個為活躍驗證人 ( active validator )；驗證人可於 40%-60% 間自定佣金（提案時佣金是 50%，沒有選擇）
 *   **詳情**：[https://likecoin.bigdipper.live/proposals/1](https://likecoin.bigdipper.live/proposals/1)****
