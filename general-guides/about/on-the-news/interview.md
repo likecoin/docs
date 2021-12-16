@@ -2,6 +2,16 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 12/14 立場新聞
+
+{% embed url="https://www.youtube.com/watch?v=QRX20PAUEB0" %}
+
+### 12/14 中廣新聞
+
+10 分鐘「新書快報」周詳 《區塊鏈社會學》
+
+{% embed url="https://www.youtube.com/watch?v=gVkYUHtpvcU" %}
+
 ### 09/15 信報 徐家健
 
 [沒有大台，出版還意味着什麼?](https://www1.hkej.com/dailynews/investment/article/2913449/%E6%B2%92%E6%9C%89%E5%A4%A7%E5%8F%B0%EF%BC%8C%E5%87%BA%E7%89%88%E9%82%84%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E9%BA%BC%3F)
@@ -122,7 +132,7 @@
 
 ### 05/21 眾新聞
 
-[【NFT拍賣熱潮】蕭雲作品《我們的獅子山》2.8萬元賣出　競投者：相片代表港人重要記憶](https://www.hkcnews.com/article/41482/%E4%BD%99%E5%AE%B6%E9%BD%8A_edmond_yu-nft-41542/nft)
+[【NFT拍賣熱潮】蕭雲作品《我們的獅子山》2.8萬元賣出　競投者：相片代表港人重要記憶](https://www.hkcnews.com/article/41482/%E4%BD%99%E5%AE%B6%E9%BD%8A\_edmond\_yu-nft-41542/nft)
 
 ### 05/15 城寨 Singjai
 
@@ -132,9 +142,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=Acta5luxVGM" %}
 
-### 05/09 堅離地傾 · 沈旭暉
-
-[【堅離地傾】高重建：全民區塊鏈．Backup 真香港](https://beta.thestandnews.com/society/%E5%A0%85%E9%9B%A2%E5%9C%B0%E5%82%BE-%E9%AB%98%E9%87%8D%E5%BB%BA-%E5%85%A8%E6%B0%91%E5%8D%80%E5%A1%8A%E9%8F%88-backup-%E7%9C%9F%E9%A6%99%E6%B8%AF)
+### 05/09 堅離地傾 · 沈旭暉[&#xD;](https://beta.thestandnews.com/society/%E5%A0%85%E9%9B%A2%E5%9C%B0%E5%82%BE-%E9%AB%98%E9%87%8D%E5%BB%BA-%E5%85%A8%E6%B0%91%E5%8D%80%E5%A1%8A%E9%8F%88-backup-%E7%9C%9F%E9%A6%99%E6%B8%AF)
 
 {% embed url="https://www.youtube.com/watch?v=BTvpACIVMIg" %}
 
@@ -152,7 +160,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=A6A7BknIpyQ" %}
 
-:end: 
+:end:&#x20;
 {% endtab %}
 
 {% tab title="2020" %}
@@ -190,9 +198,9 @@
 
 [LikeCoin發起人：區塊鏈可還權於民](https://hk.appledaily.com/finance/20200817/MDJN6LLEHVCMVDSSFCAFTIQY2E/)
 
-![](../../../.gitbook/assets/202008170401100\_apple_b02\_1.jpg)
+![](../../../.gitbook/assets/202008170401100\_apple\_b02\_1.jpg)
 
-![](../../../.gitbook/assets/202008170400961\_apple_b02\_1.jpg)
+![](../../../.gitbook/assets/202008170400961\_apple\_b02\_1.jpg)
 
 ### 08/07 香港無線電視財經 ‧ 資訊台 看出個未來
 
@@ -204,7 +212,7 @@
 
 [Lighthouse Presents: NExT - How Event Professionals Make the Comeback Stronger than the Setback](https://www.lighthouse.hk/Lighthouse%20Presents%3A%20NExT%20%232)
 
-[Virtual Book Fair](https://www.linkedin.com/posts/lighthouse-consultant-limited_lighthouseconsultant-eventplanning-eventmanagement-activity-6698471598539845632-1hFO)
+[Virtual Book Fair](https://www.linkedin.com/posts/lighthouse-consultant-limited\_lighthouseconsultant-eventplanning-eventmanagement-activity-6698471598539845632-1hFO)
 
 {% embed url="https://www.facebook.com/cozijnsenlaura/photos/a.100229125031776/154359286285426/?type=3&theater" %}
 
@@ -248,7 +256,7 @@
 
 {% embed url="https://www.facebook.com/597613692/videos/10157067927003693/" %}
 
-:end: 
+:end:&#x20;
 {% endtab %}
 
 {% tab title="2019" %}
@@ -276,7 +284,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=OBnVs3nPPgQ" %}
 
-### 7/31 CIBS節目：區塊鏈與你 (Blockchain and You) 
+### 7/31 CIBS節目：區塊鏈與你 (Blockchain and You)&#x20;
 
 第四集
 
@@ -314,7 +322,7 @@
 
 {% embed url="https://newtalk.tw/news/view/2019-01-01/187217" %}
 
-:end: 
+:end:&#x20;
 {% endtab %}
 
 {% tab title="2018" %}
@@ -388,7 +396,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 ****[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html) [PDF](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/financial-services/deloitte-cn-fs-bloomberg-business-megazine-ico-zh-180518.pdf)
 
-![](../../../.gitbook/assets/bloomberg_likecoin_tiny.jpg)
+![](../../../.gitbook/assets/bloomberg\_likecoin\_tiny.jpg)
 
 ### 05/01 Cryptoground
 
@@ -454,7 +462,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 [首隻港產加密貨幣 化Like為Coin](https://imoney.hket.com/article/2031727/%E9%A6%96%E9%9A%BB%E6%B8%AF%E7%94%A2%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%20%E5%8C%96Like%E7%82%BACoin)
 
-![](../../../.gitbook/assets/likecoin_imoney.jpg)
+![](../../../.gitbook/assets/likecoin\_imoney.jpg)
 
 ### 03/09 Mr.Block 區塊先生
 
@@ -470,7 +478,7 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 
 [金融中心：ICO籌幾千萬？港產加密貨幣誕生](https://hk.appledaily.com/finance/20180305/HBHYRDIFNDKOXIV2RYX4CJAJHU/)
 
-![](../../../.gitbook/assets/apple_blur_tiny.jpg)
+![](../../../.gitbook/assets/apple\_blur\_tiny.jpg)
 
 ### **01/01 903**
 
@@ -478,7 +486,7 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 
 ![](../../../.gitbook/assets/903.jpg)
 
-:end: 
+:end:&#x20;
 {% endtab %}
 
 {% tab title="2017" %}
@@ -494,7 +502,7 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 
 ![](../../../.gitbook/assets/ming2\_tiny.jpg)
 
-:end: 
+:end:&#x20;
 {% endtab %}
 {% endtabs %}
 
