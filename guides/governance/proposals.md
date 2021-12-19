@@ -6,7 +6,7 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
-## 議案 #27 Proposal 傳送 50,000USDe LIKE 予 Numbers Protocol
+## 議案 #27 傳送 50,000USDe LIKE 予 Numbers Protocol
 
 * **提案：**Kin Ko
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
