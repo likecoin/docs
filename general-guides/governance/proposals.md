@@ -24,7 +24,7 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 * Proposer: [Kin Ko](https://matters.news/@ckxpress/proposal-to-fairdrop-like-coin-to-the-cosmos-community-and-civic-likers-bafyreibhl3hcsgz6vwvgumpqyhsfkar2aznjq4wfqbtd2lugolxqgxfyly)
 * Proposal Type: Community Pool Spend Proposal
-* Date: Submit on 2021.12.09, Passed on&#x20;
+* Date: Submit on 2021.12.09, Passed on 2021.12.18
 * Details: [https://likecoin.bigdipper.live/proposals/25](https://likecoin.bigdipper.live/proposals/25)
 
 ## Proposal #24 Testing the functionality of Community Pool Spend
@@ -43,7 +43,7 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ## Proposal #22 Transfer all LikeCoin in the Ecosystem Pool to Community Pool
 
-* Proposer: [Old Cat](https://ipfs.io/ipfs/QmXnJNuo4tDak7uk9JG7nHczzF14KhYDqoZXu8nsDNamBW/)
+* Proposer: [Old Cat](https://ipfs.io/ipfs/QmXx4oArUBnKv5nAkp4tKtTN2xvni44pBAeBXfEAEs47NG/)
 * Proposal Type: Text Proposal
 * Date: Submit on 2021.11.10, Passed on 2021.11.18
 * Details: [https://likecoin.bigdipper.live/proposals/22](https://likecoin.bigdipper.live/proposals/22)
