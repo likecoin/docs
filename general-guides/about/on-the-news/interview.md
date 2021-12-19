@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 12/18 財科暗戰
+
+{% embed url="https://www.youtube.com/watch?v=xIchXGKpBuU" %}
+
 ### 12/14 立場新聞
 
 {% embed url="https://www.youtube.com/watch?v=QRX20PAUEB0" %}
@@ -244,11 +248,11 @@
 
 ### 02/05 Meet 創業小聚
 
-{% embed url="https://meet.bnext.com.tw/articles/view/46021" %}
+[\[創業小聚NO.109\] 區塊鏈的N種應用：打造超有感的生活體驗！](https://meet.bnext.com.tw/articles/view/46021)
 
 ### 01/14 Meet 創業小聚
 
-{% embed url="https://meet.bnext.com.tw/articles/view/45970" %}
+[按讚有錢賺！LikeCoin 用區塊鏈打造創作者生態系，實現創作可當飯吃](https://meet.bnext.com.tw/articles/view/45970)
 
 ### 01/02 CUHK Engineering Faculty Alumni Association (ERGAA).
 

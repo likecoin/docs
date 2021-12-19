@@ -2,6 +2,12 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 12/18 第六届网络社会年会｜时刻互惠：合作生活的瞬间
+
+[自由三幅被 The Saam Fuk Pei of Freedom](https://www.caa-ins.org/archives/8017)
+
+[Video](https://youtu.be/YWHEzGaZicg?t=5421)
+
 ### 12/11 WordCamp Taiwan 2021 - Lightning Talks
 
 [Video](https://youtu.be/xs3a4HaCtZo?t=2474)
