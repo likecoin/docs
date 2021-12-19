@@ -13,7 +13,7 @@ description: 讚賞公民共和國有過甚麼議案？
 * **日期**：2021.12.14 提案, Passed on&#x20;
 * **詳情**：[https://likecoin.bigdipper.live/proposals/27](https://likecoin.bigdipper.live/proposals/27)
 
-## 議案 #26 將資產轉移至社群基金委託員會的多重簽署錢包
+## 議案 #26 將資產轉移至社群基金委託委員會的多重簽署錢包
 
 * **提案：**[Old Cat](https://ipfs.io/ipfs/QmazuBvdEGDrvBjbsa5FEd78dAHuGJLGxz9TzRfL9xUZPP/)
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
