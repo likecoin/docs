@@ -24,7 +24,7 @@ description: 讚賞公民共和國有過甚麼議案？
 
 * **提案：**[Kin Ko](https://matters.news/@ckxpress/proposal-to-fairdrop-like-coin-to-the-cosmos-community-and-civic-likers-bafyreibhl3hcsgz6vwvgumpqyhsfkar2aznjq4wfqbtd2lugolxqgxfyly)
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
-* **日期**：2021.12.09 提案, Passed on&#x20;
+* **日期**：2021.12.09 提案，2021.12.18 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/25](https://likecoin.bigdipper.live/proposals/25)
 
 ## 議案 #24 測試社群池支出功能
@@ -43,7 +43,7 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ## 議案 #22 將生態池所有 LikeCoin 傳送到社群池
 
-* **提案：**[Old Cat](https://ipfs.io/ipfs/QmXnJNuo4tDak7uk9JG7nHczzF14KhYDqoZXu8nsDNamBW/)
+* **提案：**[Old Cat](https://ipfs.io/ipfs/QmXx4oArUBnKv5nAkp4tKtTN2xvni44pBAeBXfEAEs47NG/)
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2021.11.10 提案，2021.11.18 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/22](https://likecoin.bigdipper.live/proposals/22)
