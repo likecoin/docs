@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2021" %}
+### 12/26 明報
+
+未[來城市：元宇宙之DAO 無大台社群 投票話事](https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20211226/s00005/1640456257406/%E6%9C%AA%E4%BE%86%E5%9F%8E%E5%B8%82-%E5%85%83%E5%AE%87%E5%AE%99%E4%B9%8Bdao-%E7%84%A1%E5%A4%A7%E5%8F%B0%E7%A4%BE%E7%BE%A4-%E6%8A%95%E7%A5%A8%E8%A9%B1%E4%BA%8B)
+
 ### 12/18 財科暗戰
 
 {% embed url="https://www.youtube.com/watch?v=xIchXGKpBuU" %}
