@@ -1,7 +1,19 @@
 # Mentions
 
 {% tabs %}
+{% tab title="2022" %}
+
+{% endtab %}
+
 {% tab title="2021" %}
+### 12/30 鏈新聞
+
+[Cosmos展望2022：DeFi、跨鏈NFT市場、兼容以太坊將至，預告大量空投](https://www.abmedia.io/20211230-cosmos-in-2022)
+
+### 12/23 Cosmos
+
+[What’s Coming to Cosmos in 2022?](https://blog.cosmos.network/whats-coming-to-cosmos-in-2022-ce8e48d383ab)
+
 ### 05/19 立場新聞 黃牛山人專欄
 
 [備份香港，不能只用家中硬碟](https://beta.thestandnews.com/technology/%E5%82%99%E4%BB%BD%E9%A6%99%E6%B8%AF-%E4%B8%8D%E8%83%BD%E5%8F%AA%E7%94%A8%E5%AE%B6%E4%B8%AD%E7%A1%AC%E7%A2%9F)
