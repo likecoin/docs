@@ -4,7 +4,7 @@
 {% tab title="2022" %}
 ### 01/04 OPENBOOK 閱讀誌
 
-話題》另一種元宇宙：烏托邦主義者的metaverse
+[話題》另一種元宇宙：烏托邦主義者的metaverse](https://www.openbook.org.tw/article/p-65758)
 {% endtab %}
 
 {% tab title="2021" %}
