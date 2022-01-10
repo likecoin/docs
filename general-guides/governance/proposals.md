@@ -6,7 +6,7 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
-## Proposal #30 Transfer all the LikeCoin in the Migration Pool and Team Pool to the Community Pool
+## Proposal #30 \[Rectify Proposal 25]Proposal to Fairdrop LikeCoin to the Cosmos Community and Civic Likers
 
 * Proposer: Paul Tsang
 * Proposal Type: Text Proposal
