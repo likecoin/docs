@@ -2,7 +2,9 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 01/04 OPENBOOK 閱讀誌
 
+話題》另一種元宇宙：烏托邦主義者的metaverse
 {% endtab %}
 
 {% tab title="2021" %}
@@ -411,6 +413,10 @@
 [Like幣：讚賞不單用拇指 #2](https://www.thestandnews.com/technology/like%E5%B9%A3-%E8%AE%9A%E8%B3%9E%E4%B8%8D%E5%96%AE%E7%94%A8%E6%8B%87%E6%8C%87-2-%E6%A7%8B%E5%BB%BA%E5%9F%BA%E6%96%BC%E5%8D%80%E5%A1%8A%E9%8F%88%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/)
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 
 
