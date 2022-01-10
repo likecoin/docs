@@ -6,18 +6,39 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## 議案 #30 【修正議案 25】為 Cosmos 社群及讚賞公民提供空投
+
+* **提案：**Paul Tsang
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2022.01.10 提案，通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/30](https://likecoin.bigdipper.live/proposals/30)
+
+## 議案 #29 將轉移池及團隊池的 LikeCoin 傳送到社群池
+
+* **提案：**Kin Ko
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2021.12.31 提案，2022.12.30 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/29](https://likecoin.bigdipper.live/proposals/29)
+
+## 議案 #28 以社群池聘用 Irtysh Digital
+
+* **提案：**Phoebe Poon
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2021.12.14 提案，2021.12.30 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/28](https://likecoin.bigdipper.live/proposals/28)
+
 ## 議案 #27 傳送 50,000USDe LIKE 予 Numbers Protocol
 
 * **提案：**Kin Ko
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
-* **日期**：2021.12.14 提案, Passed on&#x20;
+* **日期**：2021.12.14 提案，2021.12.27 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/27](https://likecoin.bigdipper.live/proposals/27)
 
 ## 議案 #26 將資產轉移至社群基金委託委員會的多重簽署錢包
 
 * **提案：**[Old Cat](https://ipfs.io/ipfs/QmazuBvdEGDrvBjbsa5FEd78dAHuGJLGxz9TzRfL9xUZPP/)
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
-* **日期**：2021.12.13 提案, Passed on&#x20;
+* **日期**：2021.12.13 提案，2021.12.22 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/26](https://likecoin.bigdipper.live/proposals/26)
 
 ## 議案 #25 為 Cosmos 社群及讚賞公民提供空投
