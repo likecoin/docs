@@ -70,7 +70,7 @@
   * [讚賞公民 Dashboard](user-guide/civic-liker/dashboard.md)
   * [如何訂閱讚賞公民](user-guide/civic-liker/be-a-civic-liker.md)
   * [如何修改付款信用卡資料](user-guide/civic-liker/change-credit-card.md)
-  * [創作基金](user-guide/civic-liker/chuang-zuo-ji-jin.md)
+  * [創作基金](user-guide/civic-liker/creators-fund.md)
   * [如何退訂「讚賞公民」](user-guide/civic-liker/unsubscribe-civic-liker.md)
   * [以年費訂閱讚賞公民](user-guide/civic-liker/civic-liker-1.0-yearly.md)
   * [讚賞公民常見問題](user-guide/civic-liker/civic-liker-faq.md)
