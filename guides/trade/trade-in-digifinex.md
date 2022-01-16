@@ -48,7 +48,7 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 
 接下來便要等 DigiFinex 確認收款了。
 
-使用 [Keplr](../wallet/keplr.md) 錢包，請於 Memo (Optional) 一欄貼上 Tag/Memo 號碼。
+使用 [Keplr](../wallet/keplr/) 錢包，請於 Memo (Optional) 一欄貼上 Tag/Memo 號碼。
 
 ![](../../.gitbook/assets/keplr11.png)
 
