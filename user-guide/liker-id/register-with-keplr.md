@@ -31,27 +31,9 @@ Besides [registering with email/passowrd, GMail or social media account](registe
 
 ### **Step 1: Install Keplr extension**
 
-Go to the Chrome Webstore and click "Add to Chrome" to install the [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
-
-![](../../.gitbook/assets/keplr01.png)
-
-Click "Add extension"&#x20;
-
-![](../../.gitbook/assets/keplr02.png)
-
-After installation, click on Keplr icon on the upper right corner of your browser and you will see the registration screen. Click “Create new account”.
-
-![](../../.gitbook/assets/keplr03.png)
-
-The screen shows up your seed phrase. Find a secure place to encrypt and store the seed phrase as it is needed for account recovery.&#x20;
-
-![](../../.gitbook/assets/keplr04.png)
-
-Fill in your Account name, password and click "Next", after validating the seed phrase, the wallet interface of Keplr appears.
-
-{% hint style="danger" %}
-Please keep your seed phase and password safe. If you lose them you are not able to manage your LikeCoin. No one can reset your wallet for you.
-{% endhint %}
+{% content-ref url="../../general-guides/wallet/keplr/how-to-install-keplr-extension.md" %}
+[how-to-install-keplr-extension.md](../../general-guides/wallet/keplr/how-to-install-keplr-extension.md)
+{% endcontent-ref %}
 
 ### Step 2: Register a Liker ID
 

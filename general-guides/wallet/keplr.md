@@ -4,10 +4,12 @@ description: LikeCoin decentralized management
 
 # Keplr
 
-You can now manage your LikeCoin with the Keplr wallet, which is an interchain wallet that you can manage your own private key.  Keplr is a Google extension, refer to the following guide for how to install Keplr.  Note that Keplr mobile app does not support LikeCoin yet.
+You can now manage your LikeCoin with the Keplr wallet, which is an interchain wallet and your can manage your own private key.
 
-{% content-ref url="keplr/how-to-install-keplr-extension.md" %}
-[how-to-install-keplr-extension.md](keplr/how-to-install-keplr-extension.md)
+You can also register a Liker ID with Keplr or bond your existing Keplr wallet with a Liker ID, please take a look at:
+
+{% content-ref url="../../user-guide/liker-id/register-with-keplr.md" %}
+[register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
 {% endcontent-ref %}
 
 ## **Deposit your LikeCoin to Keplr**
@@ -77,11 +79,3 @@ Click on "Approve" again.
 You can see your balance.
 
 ![](../../.gitbook/assets/keplr09.png)
-
-You can also register a Liker ID with Keplr or bond your existing Keplr wallet with a Liker ID, please take a look at:
-
-{% content-ref url="../../user-guide/liker-id/register-with-keplr.md" %}
-[register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
-{% endcontent-ref %}
-
-## ****
