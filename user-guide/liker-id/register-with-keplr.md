@@ -129,6 +129,6 @@ If you have more than one Liker IDs that registered by Authcore and Keplr, pleas
 
 ## Deposit LikeCoin to Keplr
 
-{% content-ref url="../../general-guides/wallet/keplr.md" %}
-[keplr.md](../../general-guides/wallet/keplr.md)
+{% content-ref url="../../general-guides/wallet/keplr/" %}
+[keplr](../../general-guides/wallet/keplr/)
 {% endcontent-ref %}

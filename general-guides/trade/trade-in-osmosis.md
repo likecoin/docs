@@ -20,8 +20,8 @@ Register a Liker ID with Keplr.
 
 Deposit LikeCoin to Keplr.
 
-{% content-ref url="../wallet/keplr.md" %}
-[keplr.md](../wallet/keplr.md)
+{% content-ref url="../wallet/keplr/" %}
+[keplr](../wallet/keplr/)
 {% endcontent-ref %}
 
 ### Step 3: Connect Osmosis

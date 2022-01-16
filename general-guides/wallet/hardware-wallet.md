@@ -6,7 +6,7 @@ description: Secure your LikeCoin with hardware wallet
 
 Before using your hardware wallet, please configure it and install the Cosmos app. Take Ledger as an example, you may install the Cosmos app via [Ledger Live](https://support.ledger.com/hc/en-us/articles/360013713840-Cosmos-ATOM-).
 
-The following demo is on the block explorer [Big Dipper](big-dipper.md) environment, you may also manage your LikeCoin with hardware wallet on [Keplr](keplr.md), referring to [How to use Ledger Nano hardware wallet with Keplr](https://medium.com/chainapsis/how-to-use-ledger-nano-hardware-wallet-with-keplr-9ea7f07826c2).
+The following demo is on the block explorer [Big Dipper](big-dipper.md) environment, you may also manage your LikeCoin with hardware wallet on [Keplr](keplr/), referring to [How to use Ledger Nano hardware wallet with Keplr](https://medium.com/chainapsis/how-to-use-ledger-nano-hardware-wallet-with-keplr-9ea7f07826c2).
 
 ## Access your hardware wallet
 
@@ -92,7 +92,7 @@ Step 2: Click the red "REDELEGATE" button on the "Voting Power" column.
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-2.png)
 
-Step 3: A window pops up and asks you to input the amount of LikeCoin that you are going to redelegate. Click "SELECT A VALIDATOR" to select the validator that you would like to redelegate to. 
+Step 3: A window pops up and asks you to input the amount of LikeCoin that you are going to redelegate. Click "SELECT A VALIDATOR" to select the validator that you would like to redelegate to.&#x20;
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-3.png)
 

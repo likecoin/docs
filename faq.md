@@ -6,7 +6,7 @@ description: Frequently Asked Questions
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGKCas6shf9dDCwB3j%2F-MHGMnmjM4yyGSTVqz7T%2FLikeCoin\_AD27\_Small\_Update-01.png?alt=media\&token=a3cb3c10-3742-4ef9-b99a-3e05e2f82a11)
 
-## [​LikeCoin - Decentralized Publishing](./) <a href="likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+## [​LikeCoin - Decentralized Publishing](./) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
 * [What is Decentralized Publishing #DePub?](./)
 * [What is ISCN?](developer/international-standard-content-number-iscn/)
@@ -20,8 +20,8 @@ description: Frequently Asked Questions
 * [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co.md)
 * [Can I register for ISCN in a batch?](general-guides/decentralized-publishing/iscn-batch-uploader.md)
 
-[LikeCoin Overview](general-guides/about/) <a href="likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
-----------------------------------------------------------------------------------------------------------------------------
+[LikeCoin Overview](general-guides/about/) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+-----------------------------------------------------------------------------------------------------------------------------
 
 * ​[What is LikeCoin?](./)
 * [What is the usage of LikeCoin token?](general-guides/likecoin-token.md)
@@ -31,10 +31,10 @@ description: Frequently Asked Questions
 * ​[Seems interesting, how to follow updates on LikeCoin?](./#more-about-likecoin)
 * [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](./#contact-us)[​](https://docs.like.co/user-guide/about#contact-us)
 
-## [Wallet](general-guides/wallet/) <a href="wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
+## [Wallet](general-guides/wallet/) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
-* [Is there a decentralized wallet for LikeCoin?](general-guides/wallet/keplr.md)
-* [How to transfer LikeCoin?](general-guides/wallet/like-pay.md)[  ](general-guides/wallet/keplr.md)
+* [Is there a decentralized wallet for LikeCoin?](general-guides/wallet/keplr/)
+* [How to transfer LikeCoin?](general-guides/wallet/like-pay.md)[  ](general-guides/wallet/keplr/)
 * [Does LikeCoin support hardware wallets?](general-guides/wallet/hardware-wallet.md)
 * [How to find my wallet address?](general-guides/wallet/wallet-address.md)
 * [Any block explorer for LikeCoin?](general-guides/wallet/big-dipper.md)
@@ -51,12 +51,12 @@ description: Frequently Asked Questions
 
 * [How to earn liquidity mining incentives on Osmosis?](general-guides/liquidity/osmosis.md)
 
-## [Stake](general-guides/stake/) <a href="wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
+## [Stake](general-guides/stake/) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
 * [What is the advantage of delegating LikeCoin?](general-guides/stake/delegation-of-likecoin.md)
 * [Where comes the LikeCoin rewards?](general-guides/stake/where-comes-the-likecoin-rewards.md)
 
-## [Governance](general-guides/governance/) <a href="wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
+## [Governance](general-guides/governance/) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
 * [​Does the "Republic" of Liker Land have democracy?](general-guides/governance/liquid-democracy.md)
 * [What is LikeCoin chain?](general-guides/governance/likecoin-chain.md)
@@ -69,7 +69,7 @@ description: Frequently Asked Questions
 * [What is LikeCoin Grants?](general-guides/governance/likecoin-grants.md)
 * [​How to join the community call?](general-guides/governance/community-call.md)
 
-## Dapps <a href="wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
+## Dapps <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
 ### [I am a Reader](user-guide/liker-land/#for-readers)
 
@@ -95,14 +95,14 @@ description: Frequently Asked Questions
 * [How to check the number of Civic Likers that support me?](user-guide/creatortools/support.md)
 * [How to check my monthly achievement?](user-guide/creatortools/monthly-report.md)
 
-## [​Civic Liker​](user-guide/civic-liker/) <a href="civic-liker" id="civic-liker"></a>
+## [​Civic Liker​](user-guide/civic-liker/) <a href="#civic-liker" id="civic-liker"></a>
 
 * [Why should I become a Civic Liker? Any benefits?](user-guide/civic-liker/)
 * [How to be a Civic Liker?  ](user-guide/civic-liker/be-a-civic-liker.md)
 * [How to change credit card information?](user-guide/civic-liker/change-credit-card.md)
 * [How to unsubscribe Civic Liker?](user-guide/civic-liker/unsubscribe-civic-liker.md)
 
-## [​Liker ID​](user-guide/liker-id/) <a href="liker-id" id="liker-id"></a>
+## [​Liker ID​](user-guide/liker-id/) <a href="#liker-id" id="liker-id"></a>
 
 * [How to register a Liker ID?](user-guide/liker-id/)
 * [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](user-guide/liker-id/reset-password.md)

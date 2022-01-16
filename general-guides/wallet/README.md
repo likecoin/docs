@@ -4,6 +4,6 @@ description: Which wallet supports LikeCoin
 
 # Wallet
 
-* [Keplr](keplr.md)
+* [Keplr](keplr/)
 * [Liker Land - LIKE pay](like-pay.md)
 * [Ledger](hardware-wallet.md)
