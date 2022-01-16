@@ -60,7 +60,7 @@ description: 以硬件錢包保障你的 LikeCoin 資產
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-5.png)
 
-## 委託 LikeCoin&#x20;
+## 委託 LikeCoin 
 
 步驟一：在 [Big Dipper 驗證人](https://likecoin.bigdipper.live/validators)中選取你屬意委託的驗證人。
 
