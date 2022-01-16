@@ -92,7 +92,7 @@ Step 2: Click the red "REDELEGATE" button on the "Voting Power" column.
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-2.png)
 
-Step 3: A window pops up and asks you to input the amount of LikeCoin that you are going to redelegate. Click "SELECT A VALIDATOR" to select the validator that you would like to redelegate to.&#x20;
+Step 3: A window pops up and asks you to input the amount of LikeCoin that you are going to redelegate. Click "SELECT A VALIDATOR" to select the validator that you would like to redelegate to. 
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-3.png)
 

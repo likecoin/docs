@@ -10,12 +10,6 @@ You can now manage your LikeCoin with the Keplr wallet, which is an interchain w
 [how-to-install-keplr-extension.md](keplr/how-to-install-keplr-extension.md)
 {% endcontent-ref %}
 
-You can also register a Liker ID with Keplr or bond your existing Keplr wallet with a Liker ID, please take a look at:
-
-{% content-ref url="../../user-guide/liker-id/register-with-keplr.md" %}
-[register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
-{% endcontent-ref %}
-
 ## **Deposit your LikeCoin to Keplr**
 
 ### Step 1
@@ -83,3 +77,11 @@ Click on "Approve" again.
 You can see your balance.
 
 ![](../../.gitbook/assets/keplr09.png)
+
+You can also register a Liker ID with Keplr or bond your existing Keplr wallet with a Liker ID, please take a look at:
+
+{% content-ref url="../../user-guide/liker-id/register-with-keplr.md" %}
+[register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
+{% endcontent-ref %}
+
+## ****
