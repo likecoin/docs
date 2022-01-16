@@ -48,7 +48,7 @@ Input the amount of LikeCoin that you want to transfer, then click \[Confirm]
 
 Next step is to wait for DigiFinex to confirm the transfer.
 
-If you are using [Keplr](../wallet/keplr/), please insert the memo in "Memo (Optional)" field.
+If you are using [Keplr](../wallet/keplr.md), please insert the memo in "Memo (Optional)" field.
 
 ![](../../.gitbook/assets/keplr11.png)
 
