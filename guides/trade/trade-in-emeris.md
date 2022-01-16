@@ -20,8 +20,8 @@ description: 跨鏈 DEX 聚合器，無需註冊，立即交易
 
 轉帳 LikeCoin 到 Keplr。
 
-{% content-ref url="../wallet/keplr/" %}
-[keplr](../wallet/keplr/)
+{% content-ref url="../wallet/keplr.md" %}
+[keplr.md](../wallet/keplr.md)
 {% endcontent-ref %}
 
 ### 步驟三：接通 Emeris
@@ -68,4 +68,4 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 
 * 使用 Emeris 的 Send to address 功能，將密碼貨幣轉帳到其他地址。
 * 使用 Emeris 的 Move Assets 功能，將密碼貨幣於不同的區塊鏈之間進行轉移。
-* 使用 [Keplr 轉帳](../wallet/keplr/#cong-keplr-zhuan-zhang-likecoin-dao-qi-ta-qian-bao)。
+* 使用 [Keplr 轉帳](../wallet/keplr.md#cong-keplr-zhuan-zhang-likecoin-dao-qi-ta-qian-bao)。

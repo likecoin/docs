@@ -32,7 +32,7 @@ description: LikeCoin 常見問題
 
 ## [錢包](guides/wallet/)
 
-* [有沒有去中心化的錢包可以提供？](guides/wallet/keplr/)
+* [有沒有去中心化的錢包可以提供？](guides/wallet/keplr.md)
 * [如何轉帳 LikeCoin？](guides/wallet/like-pay.md)
 * [LikeCoin 支援硬件錢包嗎？](guides/wallet/hardware-wallet.md)
 * [如何找到自己的錢包地址？](guides/wallet/wallet-address.md)

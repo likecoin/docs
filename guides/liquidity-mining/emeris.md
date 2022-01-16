@@ -16,8 +16,8 @@ description: 如何在 Emeris 提供流動性
 
 及將 LikeCoin 傳送到錢包內。
 
-{% content-ref url="../wallet/keplr/" %}
-[keplr](../wallet/keplr/)
+{% content-ref url="../wallet/keplr.md" %}
+[keplr.md](../wallet/keplr.md)
 {% endcontent-ref %}
 
 ## 為流動性池提供流動性

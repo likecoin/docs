@@ -20,8 +20,8 @@ description: 去中心交易所，無需註冊，立即交易
 
 轉帳 LikeCoin 到 Keplr。
 
-{% content-ref url="../wallet/keplr/" %}
-[keplr](../wallet/keplr/)
+{% content-ref url="../wallet/keplr.md" %}
+[keplr.md](../wallet/keplr.md)
 {% endcontent-ref %}
 
 ### 步驟三：接通 Osmosis

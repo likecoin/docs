@@ -135,6 +135,6 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 
 ## 轉帳/存入 LikeCoin 到 Keplr 錢包
 
-{% content-ref url="../../guides/wallet/keplr/" %}
-[keplr](../../guides/wallet/keplr/)
+{% content-ref url="../../guides/wallet/keplr.md" %}
+[keplr.md](../../guides/wallet/keplr.md)
 {% endcontent-ref %}
