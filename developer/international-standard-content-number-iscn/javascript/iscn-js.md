@@ -51,7 +51,7 @@ const client = new ISCNQueryClient();
 const signingClient = new ISCNSigningClient();
 await signingClient.connectWithSigner('https://mainnet-node.like.co/rpc/', wallet);
 
-const res = await signingClient.createISCNRecord(wallet.address, {,
+const res = await signingClient.createISCNRecord(wallet.address, {
   'contentFingerprints': [
     'hash://sha256/9564b85669d5e96ac969dd0161b8475bbced9e5999c6ec598da718a3045d6f2e'
   ],
@@ -73,4 +73,3 @@ const res = await signingClient.createISCNRecord(wallet.address, {,
 
 const iscnID = await client.queryISCNIdsByTx(res.transactionHash);
 ```
-

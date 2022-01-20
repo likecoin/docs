@@ -38,14 +38,14 @@ docker-compose run --rm liked-command \
     init testnet --chain-id $CHAIN_ID
 ```
 
-5\. Set all denom in `genesis.json` to nanolike
+6\. Set all denom in `genesis.json` to nanolike
 
 ```
 docker-compose run --rm liked-service \
     sed -i 's/"stake"/"nanolike"/g' /likechain/.liked/config/genesis.json
 ```
 
-6\. Init the testnet accounts
+7\. Init the testnet accounts
 
 ```
 docker-compose run --rm liked-command \
@@ -58,11 +58,11 @@ docker-compose run --rm liked-command \
     collect-gentxs
 ```
 
-7\. Modify `docker-compose.yml` and `./.liked/config/app.toml` if you need lcd / grpc services
+8\. Modify `docker-compose.yml` and `./.liked/config/app.toml` if you need lcd / grpc services
 
 ```
 #docker-compose.yml
-				ports:
+	    ports:
             - 1317:1317
             - 9090:9090
             - 26656:26656
@@ -77,7 +77,7 @@ docker-compose run --rm liked-command \
 enable = true
 ```
 
-8\. Start running the node
+9\. Start running the node
 
 ```
 docker-compose up -d
