@@ -49,7 +49,7 @@ docker-compose run --rm liked-service \
 
 ```
 docker-compose run --rm liked-command \
-    add-genesis-account $YOUR_KEY_NAME 1000000000000000000nanolike
+    add-genesis-account $YOUR_KEY_NAME 2000000000000000000nanolike
 
 docker-compose run --rm liked-command \
     gentx $YOUR_KEY_NAME 1000000000000000000nanolike --chain-id $CHAIN_ID
