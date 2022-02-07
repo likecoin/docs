@@ -22,7 +22,7 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ## Proposal #31 Community pool spend proposal: transfer 50,000USDe of LIKE to Tendermint (HackAtom VI)
 
-* Proposer: BusinessAsMission
+* Proposer: Phoebe Poon
 * Proposal Type: Community Pool Spend Proposal
 * Date: Submit on 2022.01.11, Passed on 2022.01.19
 * Details: [https://likecoin.bigdipper.live/proposals/31](https://likecoin.bigdipper.live/proposals/31)
