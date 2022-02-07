@@ -6,11 +6,32 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## Proposal #33 Hire OurSky developers with community pool
+
+* Proposer: moonbeam
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.01.21, Passed on 2022.01.31
+* Details: [https://likecoin.bigdipper.live/proposals/33](https://likecoin.bigdipper.live/proposals/33)
+
+## Proposal #32 **Dismiss LikeCoin Community Delegation Committee**
+
+* Proposer: 1% Potato
+* Proposal Type: Text Proposal
+* Date: Submit on 2022.01.18, Rejected on 2022.02.03
+* Details: [https://likecoin.bigdipper.live/proposals/32](https://likecoin.bigdipper.live/proposals/32)
+
+## Proposal #31 Community pool spend proposal: transfer 50,000USDe of LIKE to Tendermint (HackAtom VI)
+
+* Proposer: BusinessAsMission
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.01.11, Passed on 2022.01.19
+* Details: [https://likecoin.bigdipper.live/proposals/31](https://likecoin.bigdipper.live/proposals/31)
+
 ## Proposal #30 \[Rectify Proposal 25]Proposal to Fairdrop LikeCoin to the Cosmos Community and Civic Likers
 
-* Proposer: Paul Tsang
+* Proposer: BusinessAsMission
 * Proposal Type: Text Proposal
-* Date: Submit on 2022.01.10, Passed on&#x20;
+* Date: Submit on 2022.01.10, Passed on 2022.01.17
 * Details: [https://likecoin.bigdipper.live/proposals/30](https://likecoin.bigdipper.live/proposals/30)
 
 ## Proposal #29 Transfer all the LikeCoin in the Migration Pool and Team Pool to the Community Pool
