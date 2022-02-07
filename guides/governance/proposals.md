@@ -6,9 +6,30 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## 議案 #33 傳送 50,000USDe LIKE 到 Tendermint (HackAtom VI)
+
+* **提案：**moonbeam
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.01.21 提案，2022.01.31 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/33](https://likecoin.bigdipper.live/proposals/33)
+
+## 議案 #32 將轉移池及團隊池的 LikeCoin 傳送到社群池
+
+* **提案：**1% Potato
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2022.01.18 提案，2022.02.03 被否決
+* **詳情**：[https://likecoin.bigdipper.live/proposals/32](https://likecoin.bigdipper.live/proposals/32)
+
+## 議案 #31 傳送 50,000USDe LIKE 到 Tendermint (HackAtom VI)
+
+* **提案：**Phoebe Poon
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.01.11 提案，2022.01.19 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/31](https://likecoin.bigdipper.live/proposals/31)
+
 ## 議案 #30 【修正議案 25】為 Cosmos 社群及讚賞公民提供空投
 
-* **提案：**Paul Tsang
+* **提案：**BusinessAsMission
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2022.01.10 提案，通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/30](https://likecoin.bigdipper.live/proposals/30)
