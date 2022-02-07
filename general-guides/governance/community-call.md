@@ -17,10 +17,10 @@ description: >-
 
 ## **2022 Date & Schedule**
 
-| **Date**           | **Description**                                  |
-| ------------------ | ------------------------------------------------ |
-| Monday, 7 February |                                                  |
-| Monday, 3 January  | LikeCoin Airdrop, Twitter Analytics, 2021 Sum up |
+| **Date**           | **Description**                                                               |
+| ------------------ | ----------------------------------------------------------------------------- |
+| Monday, 7 February | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
+| Monday, 3 January  | LikeCoin Airdrop, Twitter Analytics, 2021 Sum up                              |
 
 ## **2021 Date & Schedule**
 
