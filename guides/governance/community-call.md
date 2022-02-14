@@ -16,7 +16,8 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 | **日期**   | **描述**                                           |
 | -------- | ------------------------------------------------ |
-| 星期一，2月7日 |                                                  |
+| 星期一，3月7日 |                                                  |
+| 星期一，2月7日 | Updates from each work group                     |
 | 星期一，1月3日 | LikeCoin Airdrop, Twitter Analytics, 2021 Sum up |
 
 ## **2021 日期及議程**
@@ -50,6 +51,10 @@ LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，�
 
 ## 會議記錄 <a href="#minutes" id="minutes"></a>
 
+
+
+* [LikeCoin Community Update #202202](https://medium.com/p/17c025a79820)
+* [LikeCoin Community Update #202201](https://medium.com/likecoin/likecoin-community-update-202201-56cd832486cd)
 * [LikeCoin Community Update #202112](https://medium.com/likecoin/likecoin-community-update-202112-87ccb81518d1)
 * [LikeCoin Community Update #202110](https://medium.com/likecoin/likecoin-community-update-202110-8b4b2aab4e4f)
 * [LikeCoin Community Update #202109](https://medium.com/likecoin/likecoin-community-update-202109-a5722cb838dd)
