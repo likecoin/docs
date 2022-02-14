@@ -6,6 +6,20 @@ description: How many proposals proceeded by the Republic of Liker Land?
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## Proposal #35 Community Pool Spend February 2022
+
+* Proposer: Yoitsu
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.02.07
+* Details: [https://likecoin.bigdipper.live/proposals/35](https://likecoin.bigdipper.live/proposals/35)
+
+## Proposal #34 Move Community Delegation to Public Node
+
+* Proposer: 1% Potato
+* Proposal Type: Text Proposal
+* Date: Submit on 2022.02.07,&#x20;
+* Details: [https://likecoin.bigdipper.live/proposals/34](https://likecoin.bigdipper.live/proposals/34)
+
 ## Proposal #33 Hire OurSky developers with community pool
 
 * Proposer: moonbeam
