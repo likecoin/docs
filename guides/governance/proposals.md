@@ -6,6 +6,20 @@ description: 讚賞公民共和國有過甚麼議案？
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## 議案 #35 2022年2月的社群池支出
+
+* **提案：**Yoitsu
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.02.07 提案，
+* **詳情**：[https://likecoin.bigdipper.live/proposals/35](https://likecoin.bigdipper.live/proposals/35)
+
+## 議案 #34 將社群委託轉移到 Public Node
+
+* **提案：**1% Potato
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2022.02.07 提案，
+* **詳情**：[https://likecoin.bigdipper.live/proposals/34](https://likecoin.bigdipper.live/proposals/34)
+
 ## 議案 #33 傳送 50,000USDe LIKE 到 Tendermint (HackAtom VI)
 
 * **提案：**moonbeam
