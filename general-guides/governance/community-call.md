@@ -19,6 +19,7 @@ description: >-
 
 | **Date**           | **Description**                                                               |
 | ------------------ | ----------------------------------------------------------------------------- |
+| Monday, 7 March    |                                                                               |
 | Monday, 7 February | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
 | Monday, 3 January  | LikeCoin Airdrop, Twitter Analytics, 2021 Sum up                              |
 
@@ -49,6 +50,8 @@ description: >-
 
 ## Meeting Minutes
 
+* [LikeCoin Community Update #202202](https://blog.like.co/likecoin-community-update-202202-17c025a79820)
+* [LikeCoin Community Update #202201](https://medium.com/likecoin/likecoin-community-update-202201-56cd832486cd)
 * [LikeCoin Community Update #202112](https://medium.com/likecoin/likecoin-community-update-202112-87ccb81518d1)
 * [LikeCoin Community Update #202110](https://medium.com/likecoin/likecoin-community-update-202110-8b4b2aab4e4f)
 * [LikeCoin Community Update #202109](https://medium.com/likecoin/likecoin-community-update-202109-a5722cb838dd)
