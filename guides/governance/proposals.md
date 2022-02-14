@@ -27,7 +27,7 @@ description: 讚賞公民共和國有過甚麼議案？
 * **日期**：2022.01.21 提案，2022.01.31 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/33](https://likecoin.bigdipper.live/proposals/33)
 
-## 議案 #32 將轉移池及團隊池的 LikeCoin 傳送到社群池
+## 議案 #32 解散社群委託委員會
 
 * **提案：**1% Potato
 * **類型**：文本式議案 ( Text Proposal )
