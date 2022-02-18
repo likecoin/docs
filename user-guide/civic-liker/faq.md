@@ -50,7 +50,7 @@ If you are a Hong Kong user, you can purchase LikeCoin in person at [MyEthShop](
 
 **8. How to cancel a Civic Liker subscription?**
 
-Simply [undelegate](../../general-guides/stake/undelegation-of-likecoin.md) to the Civic Liker validator node, and the subscription will be canceled. Please note that it takes 21 days to cancel the subscription.
+Simply undelegate to the Civic Liker validator node, and the subscription will be canceled. Please note that it takes 21 days to cancel the subscription.
 
 **9. After canceling the Civic Liker subscription, can I get back the delegation rewards that have not been dispatched?**
 
