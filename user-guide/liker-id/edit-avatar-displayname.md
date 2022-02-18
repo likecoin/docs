@@ -13,8 +13,8 @@ Your name and avatar will appear in various Liker Land scenarios:
 
 ### Sponsor Link
 
-{% content-ref url="../creatortools/sponsor-link.md" %}
-[sponsor-link.md](../creatortools/sponsor-link.md)
+{% content-ref url="../../archive/archive/creatortools/sponsor-link.md" %}
+[sponsor-link.md](../../archive/archive/creatortools/sponsor-link.md)
 {% endcontent-ref %}
 
 ![](../../.gitbook/assets/sponsor-link-en.png)

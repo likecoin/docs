@@ -28,7 +28,7 @@ You can pay and [become a Civic Liker](../../archive/archive/civic-liker-classic
 
 ### **Option 2: I'm a Creator too**
 
-* Click and setup your [Creator Pitch](../creatortools/creators-pitch.md), copy your [Sponsor Link](../creatortools/sponsor-link.md) and check [Supporters Summary](../creatortools/support.md)
+* Click and setup your [Creator Pitch](../creatortools/creators-pitch.md), copy your [Sponsor Link](../../archive/archive/creatortools/sponsor-link.md) and check [Supporters Summary](../../archive/archive/creatortools/support.md)
 * Click "Tips for Creators" and goes to the "[You deserve to be rewarded](https://liker.land/creators)" page to learn more about how to invite your readers to become your Civic Liker and sponsor you, and also [ways to embed a LikeCoin button to a website](https://liker.land/creators/setup)
 
 {% content-ref url="like.md" %}

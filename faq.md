@@ -88,11 +88,11 @@ description: Frequently Asked Questions
 * [Earn LikeCoin on YouTube？Wow!](user-guide/creator/youtube.md)
 * [How to embed LikeCoin button into a self-hosted WordPress?](user-guide/creator/wordpress.md)
 * [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](user-guide/creator/blogging-platforms/)
-* [How can people sponsor me?](user-guide/creatortools/sponsor-link.md)
+* [How can people sponsor me?](archive/archive/creatortools/sponsor-link.md)
 * [How to attract more sponsors?](user-guide/creatortools/creators-pitch.md)
 * [Portfolio Page helps to display all of my works? How to use it?  ](user-guide/creatortools/portfolio-page.md)
 * [How to check my daily and weekly rewards?](user-guide/creatortools/rewards/)
-* [How to check the number of Civic Likers that support me?](user-guide/creatortools/support.md)
+* [How to check the number of Civic Likers that support me?](archive/archive/creatortools/support.md)
 * [How to check my monthly achievement?](user-guide/creatortools/monthly-report.md)
 
 ## [​Civic Liker​](user-guide/civic-liker/) <a href="#civic-liker" id="civic-liker"></a>
