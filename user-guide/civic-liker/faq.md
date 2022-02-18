@@ -7,12 +7,12 @@ description: 對讚賞公民 Web3 有問題嗎？可以在這兒找答案
 ### 改版日程安排
 
 * 新版「讚賞公民 Web3 (beta)」於 2022 年 2 月 21 日推出
-* 現有月費客戶的信用卡 / Paypal 自動付款將於下一個結算日自動停止。在此以前，讚賞公民會籍仍然生效。
+* 現有月費客戶的信用卡 / Paypal 自動付款將於下一個結算日自動停止。在此以前，讚賞公民會籍仍然生效
 * 現有讚賞公民已付出的法定貨幣餘額，將混合新計劃中的委託回報，可繼續以按讚方式回饋作者
 * Liker Land 停止支援信用卡收款，停止新的讚賞公民註冊，直至新版推出
 * 年費用戶：將按比例退還餘下月份金額等值的 LikeCoin
 
-### 讚賞公民 Web3 常見問題
+### 常見問題
 
 **1. 讚賞公民對創作社群有何貢獻？**
 
@@ -44,7 +44,7 @@ description: 對讚賞公民 Web3 有問題嗎？可以在這兒找答案
 
 欲成為讚賞公民，必先得購入 LikeCoin。[Osmosis](../../guides/trade/trade-in-osmosis.md) 是目前流通量最高的去中心交易所，你可以另外 32 種密碼貨幣換得 LikeCoin。
 
-若你持有的是法定貨幣如港幣、台幣或美元，請先於支援法定貨幣的交易所或場外交易購得美元穩定幣 USDT，再於 [Liquid](../../guides/trade/trade-in-liquid.md)，Digifinex 或 [ZB](../../guides/trade/trade-in-zb.md) 等交易所直接購入 LikeCoin。 你也可以購入 UST，再在 Osmosis 兌換 LikeCoin，但留意你必須有少許 LUNA 幣支付交易費用。
+若你持有的是法定貨幣如港幣、台幣或美元，請先於支援法定貨幣的交易所或場外交易購得美元穩定幣 USDT，再於 [Liquid](../../guides/trade/trade-in-liquid.md)，[Digifinex](../../guides/trade/trade-in-digifinex.md) 或 [ZB](../../guides/trade/trade-in-zb.md) 等交易所直接購入 LikeCoin。 你也可以購入 UST，再在 Osmosis 兌換 LikeCoin，但留意你必須有少許 LUNA 幣支付交易費用。
 
 若你是香港用戶，可親身到 [MyEthShop](../../guides/trade/registering-and-trade-in-myethshop.md) 購買 LikeCoin。
 
