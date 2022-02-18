@@ -14,7 +14,7 @@ description: 要去哪裏下載 Liker Land？
 [register.md](../liker-id/register.md)
 {% endcontent-ref %}
 
-## Liker Land 網頁版 - https://Liker.Land <a href="liker-land-web" id="liker-land-web"></a>
+## Liker Land 網頁版 - https://Liker.Land <a href="#liker-land-web" id="liker-land-web"></a>
 
 雖然 Liker Land 手機應用程式最為好用，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land)，[發現、追蹤內容](today-headline.md)和設定[閱讀列表](reading-list.md)。‌
 
@@ -24,7 +24,7 @@ description: 要去哪裏下載 Liker Land？
 
 ### 選項一：讚賞公民
 
-用戶可付費[申請成為讚賞公民](../civic-liker/be-a-civic-liker.md)，查看訂閱狀態及退訂。[按此查看](../civic-liker/)有關讚賞公民的詳細資訊。‌
+用戶可付費[申請成為讚賞公民](../../cun-dang/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)，查看訂閱狀態及退訂。[按此查看](../civic-liker/)有關讚賞公民的詳細資訊。‌
 
 ### 選項二：創作者
 
