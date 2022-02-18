@@ -2,11 +2,11 @@
 description: Why should I become a Civic Liker? Any benefits?
 ---
 
-# Civic Liker
+# Civic Liker Classic and 2.0
 
-![](../../.gitbook/assets/likecoin\_ad98\_2point0-01.png)
+![](../../../.gitbook/assets/likecoin\_ad98\_2point0-01.png)
 
-## [Be a **Civic Liker**](../../archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)
+## [Be a **Civic Liker**](be-a-civic-liker.md)
 
 Civic Liker is a movement to reward good content and encourage openness. The Civic Liker subscription plan provides a convenient way for supporters to sponsor creators by monthly subscription, and let the creators focus on their work with decent rewards. Readers can pay for at least the cost of a coffee, or up to the cost of a bottle of champagne, to support creators.
 
@@ -43,12 +43,12 @@ Other than supporting creators, Civic Likers enjoy various benefits such as taki
 * Receive idol newsletter
 * Join offline events
 * Detailed reward distribution report
-* [Bookstores discount  ](rationale-and-benefits.md)
+* [Bookstores discount  ](../../../user-guide/civic-liker/rationale-and-benefits.md)
 
 Encourage more people to join Civic Liker and build a healthy decentralized publishing ecosystem, please support the Republic of Liker Land.
 
 \*The monthly supporting amount (deducting the credit card transaction fee) will be changed to LikeCoin. Creators from all around the world can trade LikeCoin to any currencies.&#x20;
 
-### \[[Join **Civic Liker**](../../archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)]
+### \[[Join **Civic Liker**](be-a-civic-liker.md)]
 
-![](../../.gitbook/assets/civic-liker.png)
+![](../../../.gitbook/assets/civic-liker.png)

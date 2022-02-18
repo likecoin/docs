@@ -12,7 +12,7 @@ Please note if you subscribe to the Civic Liker Classic yearly plan, you are not
 
 Go to URL [https://liker.land/civic/register/likepay](https://liker.land/civic/register/likepay) and pay 15,000 LikeCoin to start the subscription.
 
-![](../../.gitbook/assets/15000likecoin-civicliker-en.png)
+![](../../../.gitbook/assets/15000likecoin-civicliker-en.png)
 
 ## **Subscribe to Civic Liker Classic yearly plan by Payme or FPS**
 
@@ -23,7 +23,7 @@ If you are from Hong Kong, you can pay for Civic Liker Classic yearly plan by Pa
 * **PayMe ID: 6636369**
 * **PayMe QR code:**
 
-![](../../.gitbook/assets/payme.png)
+![](../../../.gitbook/assets/payme.png)
 
 ### **Step 2: Send the transaction record**
 

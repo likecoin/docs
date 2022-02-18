@@ -2,9 +2,9 @@
 description: What is Super Like? What is a Content Jockey?
 ---
 
-# Super Like - Content Jockey
+# Super Like - be a Content Jockey
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDKKfTTMClruYgMEN2z%2F-MDKL9uOAcQBWwTt-7PY%2Flikecoin_ad92\_super_like_dragonball.png?alt=media\&token=aebf61cf-24c0-4d70-9cce-a582d82122e8)
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDKKfTTMClruYgMEN2z%2F-MDKL9uOAcQBWwTt-7PY%2Flikecoin\_ad92\_super\_like\_dragonball.png?alt=media\&token=aebf61cf-24c0-4d70-9cce-a582d82122e8)
 
 ## Concept
 
@@ -22,14 +22,14 @@ Every Super Like shares the same content to Liker Land, and attracts friends wit
 
 Super Like redefines the definition of "Share", Share = Rewards. Not only creators earn rewards, content jockeys who share the piece of content can earn rewards too.
 
-## Usage <a href="zen-yang-can-yu" id="zen-yang-can-yu"></a>
+## Usage <a href="#zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
 * Clicking the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When clicking on the 6th time, the article is being "Super Liked".
 * The "Super Liked" article will be on Liker Land. Your followers can see it on "[My Content Jockey](today-headline.md#my-content-jockey)"  and everyone can see it on "[The world has Super Liked](today-headline.md#the-world-has-super-liked)".
 
 ![](../../.gitbook/assets/superlike.gif)
 
-* A tick will then appear on the star totem representing one chance of Super Like is being utilized. Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset occurs. 
+* A tick will then appear on the star totem representing one chance of Super Like is being utilized. Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset occurs.&#x20;
 * The RSS icon on the lower right hand corner turned on and the article is being shared to Liker Land.
 * Super Like cannot be accumulated, if it is not being used before the time to reset, it will be obsolete. You can only Super Like twice a day.
 * You can Super Like a single article for more than one time.
@@ -40,11 +40,11 @@ Civic Liker Super Like his/her own work will not earn any LikeCoin from creators
 
 {% endhint %}
 
-## **How to participate?** <a href="zen-yang-can-yu" id="zen-yang-can-yu"></a>
+## **How to participate?** <a href="#zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
 Only [Civic Liker](../civic-liker/) can enjoy Super Like twice a day.
 
-\[[Join **Civic Liker**](../civic-liker/be-a-civic-liker.md)]
+\[[Join **Civic Liker**](../../archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)]
 
 ## Super Likes History
 
