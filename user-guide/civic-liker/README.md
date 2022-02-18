@@ -6,7 +6,7 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 ![](../../.gitbook/assets/likecoin\_ad98\_2point0-01.png)
 
-## 成為讚賞公民
+## [成為讚賞公民](<be-a-civic-liker (1).md>)
 
 讚賞公民是一場回饋優秀內容的運動，方便讀者支持作者，讓作者建立持續穩定的收入，創造讓自己可專注創作的生活條件。
 
@@ -76,4 +76,4 @@ _\*創作者收到讚賞幣需自行兌換成當地貨幣。_
 
 > [讚賞公民 Web3 有奬活動](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-web3-%E6%9C%89%E5%A5%AC%E6%B4%BB%E5%8B%95-bafyreidwehb6frufh556lzwfr4b6vq7a2nvdmrjvy4rhhtzsw24mco5tse)
 
-### 【[成為讚賞公民](be-a-civic-liker.md)】
+### 【[成為讚賞公民](<be-a-civic-liker (1).md>)】
