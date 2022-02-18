@@ -4,15 +4,15 @@ description: 如何在 Hexo 開發環境的文章中加入 LikeCoin button
 
 # Hexo
 
-感謝用戶 [只是個打字的](https://blog.typeart.cc/) 的教學範本。
+感謝用戶 [只是個打字的](https://blog.typeart.cc) 的教學範本。
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
 
 ### 增加根據文章網址，自動產生讚賞鍵鏈結
 
-在 `themes/next/layout/_custom/` 目錄下新增一檔案 `like_coin.ejs` 並貼上下列程式碼，並將 \[LikerID\] 更改為你的 Liker ID。
+在 `themes/next/layout/_custom/` 目錄下新增一檔案 `like_coin.ejs` 並貼上下列程式碼，並將 \[LikerID] 更改為你的 Liker ID。
 
-```text
+```
 <div>
   <script type="text/javascript">
     document.write(
@@ -26,17 +26,20 @@ description: 如何在 Hexo 開發環境的文章中加入 LikeCoin button
 
 打開 `themes/next/layout/_macro/post.swig` 在合適的位置把 `like_coin.ejs` 放置好
 
-```text
- {% if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %}
+```
+ {% raw %}
+{% if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %}
 +      {% include '../_custom/like_coin.ejs' %}
       {% include '../_partials/post/post-related.swig' with { post: post } %}
     {% endif %}
+{% endraw %}
 ```
 
- 如果您沒有開啟相關文章的話，則加在往上幾行的 `{{ post.content }}` 後方
+&#x20;如果您沒有開啟相關文章的話，則加在往上幾行的 `{{ post.content }}` 後方
 
-```text
-        {% else %}
+```
+        {% raw %}
+{% else %}
           {% if post.type === 'picture' %}
             <a href="{{ url_for(post.path) }}">{{ post.content }}</a>
           {% else %}
@@ -48,6 +51,7 @@ description: 如何在 Hexo 開發環境的文章中加入 LikeCoin button
         {{ post.content }}
 +      {% include '../_custom/like_coin.ejs' %}
       {% endif %}
+{% endraw %}
     </div>
 ```
 
@@ -59,7 +63,6 @@ description: 如何在 Hexo 開發環境的文章中加入 LikeCoin button
 
 > [如何将Liker按钮集成到Hexo](https://hive.blog/cn/@aafeng/liker-hexo)
 
-> [藍圖重生（一）：給 Hexo 文章 加上 LikeCoin 的贊賞鍵](https://blog.mykeyvans.science/posts/add-likebutton-for-hexo.html)
+> [藍圖重生（一）：給 Hexo 文章 加上 LikeCoin 的贊賞鍵> ](https://blog.mykeyvans.science/posts/add-likebutton-for-hexo.html)
 
-> [Hexo教學2 iframe\(likecoin\)](https://allem40306.github.io/blog/posts/183a/)
-
+> [Hexo教學2 iframe(likecoin)> ](https://allem40306.github.io/blog/posts/183a/)

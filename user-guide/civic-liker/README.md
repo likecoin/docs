@@ -2,40 +2,55 @@
 description: 為何要成為讚賞公民？有什麼福利嗎？
 ---
 
-# Civic Liker 讚賞公民
+# Civic Liker 讚賞公民 Web 3
 
 ![](../../.gitbook/assets/likecoin\_ad98\_2point0-01.png)
 
-## [成為讚賞公民](be-a-civic-liker.md)
+## 成為讚賞公民
 
-讚賞公民是一場回饋優秀內容的運動。定位為「鼓勵開放的月費訂閱工具」，方便讀者在任何平台付費支持作者，讓作者建立持續穩定的收入，創造讓自己可專注創作的生活條件。讀者每月付出小至一杯咖啡，多至一枝香檳的價錢就能成為讚賞公民，從此每份贊助，都會化成對創作者的實質支持。
+讚賞公民是一場回饋優秀內容的運動，方便讀者支持作者，讓作者建立持續穩定的收入，創造讓自己可專注創作的生活條件。
 
-### 月費全數贊助指定作者&#xD;
+### 讚賞公民 Web 3 (beta)
 
-讀者付出的月費會全數以等值 LikeCoin 的形式過帳給所支持的作者，支持創作\*。作者的收入將完全跟擁有多少讚賞公民成正比，而且定時收到款項。除此以外讚賞公民按讚可以大比數分配每天發放的「創作基金」，令作者獲得額外收入。
+在 2022 年 2 月 21 日 讚賞公民再向前踏出一步。去中心出版，是我們對這時代的回應。
 
-### 於任何渠道支持心儀作者
+Web3 社群是超越者，追求在體制外創新及獨立。LikeCoin 按此原則一步步去中心化：註銷法定組織、發展 LikeCoin DAO 管理公款、逐步降低參與治理的門檻。接下來，讚賞公民也要進一步去中心化，離開傳統金融體制，發展自己獨特的經濟循環。
 
-無論創作者的內容是什麼格式，有否支援 LikeCoin button，讀者都可以全身投入支持作者。只需透過作者在任何渠道，例如在 Facebook、YouTube、Instagram、Line 或 Telegram 等平台中張貼的[贊助鏈結](../creatortools/sponsor-link.md)（格式： https://liker.land/你的 Liker ID/civic ）即可成為以月費支持該作者的讚賞公民群體其中一員。成為讚賞公民後在支援 LikeCoin button 讚賞鍵的創作平台按讚，作者還有賺得創作基金的好處。
+此外，Web3 的核心是「擁有權」。讚賞公民為社群作出貢獻，是重要的持份者，理應獲得更大的話語權及社群地位。
 
-贊助鏈結例子：[https://liker.land/ckxpress/civic](https://liker.land/ckxpress/civic)
+為創造未來，也為應對挑戰，讚賞公民進化到 Web3 版本：只要委託 LikeCoin 至「[讚賞公民節點](https://likecoin.bigdipper.live/validators/cosmosvaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwzda6rn)」，即能成為讚賞公民。另外，為了不再浪費資源於迎合傳統法規及規避政策風險，讚賞公民停止支援信用卡付款，大步邁向純 Web3 的世界。
+
+讀者只要委託 LikeCoin 至「Civic Liker 讚賞公民節點」，即能成為讚賞公民，按讚支持創作者，從此每份贊助，都會化成對創作者的實質支持。
+
+### 按讚分配「創作基金」&#xD;
+
+創作者所得的回饋來自兩部份：讚賞公民月費和「[創作基金](creators-fund.md)」奬勵。
+
+創作基金來自 LikeCoin 的社群池，數額參考月費總和，按免費 Liker 與 讚賞公民 的總 Like 數攤分，回饋給創作者。讚賞公民相比免費 Liker，按讚可以大比數分配每天發放的「創作基金」，對基金的分配有更大的影響力，令作者獲得額外收入。
+
+### 以委託回報金，回饋創作
+
+讚賞公民 Web3 beta 有以下特點：
+
+#### 不花分亳，即能回饋創作
+
+* 委託 LikeCoin 能產生年化 7%-20% 的回報（[詳見議案 7](https://stake.like.co/proposals/7)）。按讚分配這些回報金額，回饋創作
+* 隨時可取回 LikeCoin 本金（冷卻期 21 天）
+
+#### 成為持份者，參與 LikeCoin DAO
+
+* 委託了的 LikeCoin 代表投票權，可[直接就社群議案投票](../../guides/governance/direct-vote.md)
+
+#### 貢獻愈多，影響力愈大
+
+* 委託的 LikeCoin 愈多，投票權也愈大，以按讚分配的創作基金也愈多
+* 委託不同的金額，將獲獨特的讚賞公民頭像光環，表揚你的貢獻
 
 ### 鼓勵開放多元&#xD;
 
 我們相信讚賞付出的每分每亳應該用作鼓勵開放多元，因此作者只管在慣用的平台繼續發表作品，不需把作品收在付費牆後犧牲觸及率都能獲得讀者支持。當然，只選擇開放部份內容以讚賞公民方式營運亦是一個選項。
 
 鼓勵更多讚賞公民用戶加入，等於鼓勵更多開放的內容誕生。
-
-### 按讚分配「創作基金」&#xD;
-
-創作者所得的回饋來自兩部份：讚賞公民月費和「創作基金」奬勵。
-
-創作基金來自 LikeCoin 的生態發展池，數額參考月費總和，按免費 Liker 與 讚賞公民 的總 Like 數攤分，回饋給創作者。讚賞公民相比免費 Liker ，對基金的分配有更大的影響力。
-
-### 隨緣樂助 豐儉由人&#xD;
-
-* 讚賞公民可以贊助多位作者，每位最少贊助 5 美元，有能力者歡迎多付。
-* Civic Liker Classic 每月定額付出 5 美元，贊助金額按拍手 Like 數攤分給不同作者。
 
 ### &#xD;豐富福利 利人利己
 
@@ -51,20 +66,14 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 * 詳細贊助報告
 * [購書優惠](rationale-and-benefits.md)
 
-請鼓勵更多人加入讚賞公民，共建更健康的創作生態，請支持讚賞公民共和國發展。
+請鼓勵更多人加入讚賞公民，共建更健康的創作生態，請支持 LikeCoin DAO 發展。
 
-_\*每月到帳部分（部分支付方式如信用卡會收取手續費）會全數兌換成讚賞幣，再由各地創作者自行兌換成當地貨幣。_
+_\*創作者收到讚賞幣需自行兌換成當地貨幣。_
 
-#### 參考文章
+### 參考文章
 
-> [讚賞公民產品更新：Civic Liker Classic](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E7%94%A2%E5%93%81%E6%9B%B4%E6%96%B0-civic-liker-classic-bafyreidjvf424wkcmwrwqrr2dhgh6qtgo2cponm7ndasb33agmqmdonpuq)
+> [讚賞公民 Web3 改版迎虎年](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-web3-%E6%94%B9%E7%89%88%E8%BF%8E%E8%99%8E%E5%B9%B4-bafyreiayqigrxbmpsrtzgauwpz5muo2lgssmjlfydafqindgupp3gs7syy)
 
-> [讚賞公民 2.0 正式上線](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-2-0-%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%B7%9A-bafyreifmc4wfadtkb7n66qs6weg5sbii73iegktqrlaguc45ji4f6nj2sq)
->
-> [答客問：有關讚賞公民 1.0 跟 2.0 的常見問題](https://matters.news/@likecoin/%E7%AD%94%E5%AE%A2%E5%95%8F-%E6%9C%89%E9%97%9C%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-1-0-%E8%B7%9F-2-0-%E7%9A%84%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C-bafyreigbu2h6mseqi3lnws25u3uonqxylzvcivw2lees4foecv56kazudm)
-
-> Civic Liker Classic － [化讚為賞 | 讚賞公民懶人包> ](https://matters.news/@likecoin/%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E6%87%B6%E4%BA%BA%E5%8C%85-zdpuAtWT6a2rjr75JZBzwnvy67vrxw5cBRqwnHbkFehRYHLXx)
+> [讚賞公民 Web3 有奬活動](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-web3-%E6%9C%89%E5%A5%AC%E6%B4%BB%E5%8B%95-bafyreidwehb6frufh556lzwfr4b6vq7a2nvdmrjvy4rhhtzsw24mco5tse)
 
 ### 【[成為讚賞公民](be-a-civic-liker.md)】
-
-![](../../.gitbook/assets/civic-liker.png)
