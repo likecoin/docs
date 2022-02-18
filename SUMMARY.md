@@ -193,6 +193,7 @@
     * [Unsubscribe Civic Liker](archive/archive/civic-liker-classic-and-2.0/unsubscribe-civic-liker.md)
     * [How to pay Civic Liker yearly subscription](archive/archive/civic-liker-classic-and-2.0/civic-liker-1.0-yearly.md)
     * [Civic Liker FAQ](archive/archive/civic-liker-classic-and-2.0/civic-liker-faq.md)
+  * [Content Creator Tools](archive/archive/creatortools.md)
   * [FoTan Upgrade (Testnet)](archive/archive/fotan-upgrade-testnet/README.md)
     * [Upgrade Step-by-step](archive/archive/fotan-upgrade-testnet/upgrade-step-by-step.md)
     * [Upgrade Step-by-step](archive/archive/fotan-upgrade-testnet/upgrade-step-by-step-1.md)
