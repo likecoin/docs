@@ -17,12 +17,12 @@ description: Civic Liker Web 3
 **1. What is the contribution of Civic Liker to the creators community?**
 
 * Use the reward of delegating LikeCoin to reward creators by clicking on the LikeCoin button and giving likes. The more the delegation, the greater the contribution.
-* Clicking the LikeCoin button also affects the distribution of the Creators Fund, Reinventing the Likes.&#x20;
+* Clicking the LikeCoin button also affects the distribution of the Creators Fund, Reinventing the Likes by turning them into income.&#x20;
 * Have the right to participate in community voting to decide policies
 
 **2. How to become a Civic Liker?**
 
-Register a Liker ID and delegate a certain amount of LikeCoin to the "Civic Liker" validator node to become a Civic Liker.
+Register a Liker ID and delegate a certain amount of LikeCoin to the "Civic Liker" node to become a Civic Liker.
 
 **3. How can Civic Liker support creators?**
 
@@ -50,7 +50,7 @@ If you are a Hong Kong user, you can purchase LikeCoin in person at [MyEthShop](
 
 **8. How to cancel a Civic Liker subscription?**
 
-Simply undelegate to the Civic Liker validator node, and the subscription will be canceled. Please note that it takes 21 days to cancel the subscription.
+Simply undelegate to the Civic Liker node, and the subscription will be canceled. Please note that it takes 21 days to cancel the subscription.
 
 **9. After canceling the Civic Liker subscription, can I get back the delegation rewards that have not been dispatched?**
 
@@ -60,11 +60,11 @@ No, the accumulated rewards will always be stored in the system and can only be 
 
 Yes, but it cannot affect the distribution of the Creators Fund.
 
-**11. Who is responsible for operating the Civic Liker validator node?**
+**11. Who is responsible for operating the Civic Liker node?**
 
-The Civic Liker Validator node is operated by Liker Land Corporation.
+The Civic Liker node is operated by Liker Land Corporation.
 
-**12. Will the Civic Liker validator node vote?**
+**12. Will the Civic Liker node vote?**
 
 Liker Land will not vote as a validator, but will encourage delegated Civic Liker to pay attention to community issues and vote actively.
 

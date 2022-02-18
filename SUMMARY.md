@@ -130,7 +130,7 @@
   * [Real Time Statistics](user-guide/liker-land/real-time-statistics.md)
   * [List of Media](user-guide/liker-land/list-of-media.md)
 * [Civic Liker](user-guide/civic-liker/README.md)
-  * [Page 1](user-guide/civic-liker/be-a-civic-liker.md)
+  * [How to be a Civic Liker](user-guide/civic-liker/be-a-civic-liker.md)
   * [FAQ](user-guide/civic-liker/faq.md)
   * [Creators Fund](user-guide/civic-liker/creators-fund.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
