@@ -87,11 +87,11 @@ description: LikeCoin 常見問題
 * [在 YouTube 也可以按讚？要怎樣做呢？](user-guide/creator/youtube.md)
 * [如何在自架 WordPress 加入 LikeCoin button？](user-guide/creator/wordpress.md)
 * [我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](user-guide/creator/blogging-platforms/)
-* [別人可透過甚麼方法贊助我？](user-guide/creatortools/sponsor-link.md)
+* [別人可透過甚麼方法贊助我？](cun-dang/archive/creatortools/sponsor-link.md)
 * [如何吸引更多人贊助我？](user-guide/creatortools/creators-pitch.md)
 * [個人主頁可以怎樣幫助我展示自己的作品？](user-guide/creatortools/portfolio-page.md)
 * [如何查看每週、每天、每篇文章所獲得的讚賞收益？](user-guide/creatortools/rewards/)
-* [如何查看有多少讚賞公民支持我？](user-guide/creatortools/support.md)
+* [如何查看有多少讚賞公民支持我？](cun-dang/archive/creatortools/support.md)
 * [如何查看每月創作進度？](user-guide/creatortools/monthly-report.md)
 
 ### [Civic Liker](user-guide/civic-liker/)

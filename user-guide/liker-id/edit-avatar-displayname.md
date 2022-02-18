@@ -12,8 +12,8 @@ description: 讓自己的性格更特出
 
 ### 贊助鏈結
 
-{% content-ref url="../creatortools/sponsor-link.md" %}
-[sponsor-link.md](../creatortools/sponsor-link.md)
+{% content-ref url="../../cun-dang/archive/creatortools/sponsor-link.md" %}
+[sponsor-link.md](../../cun-dang/archive/creatortools/sponsor-link.md)
 {% endcontent-ref %}
 
 ![](../../.gitbook/assets/sponsor-link.png)

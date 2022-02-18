@@ -14,7 +14,7 @@ description: 要去哪裏下載 Liker Land？
 [register.md](../liker-id/register.md)
 {% endcontent-ref %}
 
-## Liker Land 網頁版 - https://Liker.Land <a href="liker-land-web" id="liker-land-web"></a>
+## Liker Land 網頁版 - https://Liker.Land <a href="#liker-land-web" id="liker-land-web"></a>
 
 雖然 Liker Land 手機應用程式最為好用，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land)，[發現、追蹤內容](today-headline.md)和設定[閱讀列表](reading-list.md)。‌
 
@@ -28,7 +28,7 @@ description: 要去哪裏下載 Liker Land？
 
 ### 選項二：創作者
 
-* 點擊這裡可設定[給讀者的話](../creatortools/creators-pitch.md)、複製[贊助連結](../creatortools/sponsor-link.md)及查看[讚賞公民支持者清單](../creatortools/support.md)
+* 點擊這裡可設定[給讀者的話](../creatortools/creators-pitch.md)、複製[贊助連結](../../cun-dang/archive/creatortools/sponsor-link.md)及查看[讚賞公民支持者清單](../../cun-dang/archive/creatortools/support.md)
 * 點擊「創作者須知」會被引導到[化讚為賞 回饋創作](https://liker.land/creators)的頁面，介紹相關機制及如何在網站上邀請別人成為自己的讚賞公民贊助自己及[如何設定 LikeCoin 讚賞鍵](https://liker.land/creators/setup)
 
 {% content-ref url="like.md" %}
