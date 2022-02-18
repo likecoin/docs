@@ -4,7 +4,7 @@ description: 何謂 Super Like？內容伯樂又是甚麼？
 
 # Super Like — 內容伯樂
 
-![](../../.gitbook/assets/likecoin\_ad92\_super\_like\_dragonball.png)
+![](../../.gitbook/assets/likecoin_ad92\_super_like_dragonball.png)
 
 ## 概念
 
