@@ -24,7 +24,7 @@ description: 要去哪裏下載 Liker Land？
 
 ### 選項一：讚賞公民
 
-用戶可付費[申請成為讚賞公民](../../cun-dang/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)，查看訂閱狀態及退訂。[按此查看](../civic-liker/)有關讚賞公民的詳細資訊。‌
+用戶可付費[申請成為讚賞公民](../civic-liker/be-a-civic-liker.md)，查看訂閱狀態及退訂。[按此查看](../civic-liker/)有關讚賞公民的詳細資訊。‌
 
 ### 選項二：創作者
 

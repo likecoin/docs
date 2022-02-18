@@ -4,7 +4,7 @@ description: 查看目前贊助了誰，每月付出的金額，增訂、退訂�
 
 # 讚賞公民 Dashboard
 
-![讚賞公民 Dashboard](<../../../.gitbook/assets/image (5).png>)
+![讚賞公民 Dashboard](<../../.gitbook/assets/image (5).png>)
 
 從 [Liker Land 網站](https://liker.land)主菜單，訪問[讚賞公民 Dashboard](https://liker.land/civic/dashboard)。用戶可在此頁查看讚賞公民會籍狀態，例如：
 
@@ -17,7 +17,7 @@ description: 查看目前贊助了誰，每月付出的金額，增訂、退訂�
 
 ### 管理訂閱
 
-![](<../../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
 用戶能方便地在讚賞公民 Dashboard 管理當前的訂閱設定，所有已訂閱的作者都會在這裡顯示出來，可點「編輯」連結[修改訂閱金額](be-a-civic-liker.md#bu-zhou-liu-guan-li-zan-shang-gong-min-ding-yue)或[取消訂閱](unsubscribe-civic-liker.md)。
 

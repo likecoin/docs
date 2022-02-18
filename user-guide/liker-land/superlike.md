@@ -43,7 +43,7 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 
 只有[讚賞公民](../civic-liker/)可獲每天兩次的 SuperLike 機會。
 
-【[成為讚賞公民](../../cun-dang/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)】
+【[成為讚賞公民](../civic-liker/be-a-civic-liker.md)】
 
 ## 功能展示
 

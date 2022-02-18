@@ -97,9 +97,9 @@ description: LikeCoin 常見問題
 ### [Civic Liker](user-guide/civic-liker/)
 
 * [為何要成為讚賞公民？有甚麼福利嗎？](user-guide/civic-liker/rationale-and-benefits.md)
-* [如何訂閱讚賞公民？](cun-dang/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)
-* [如何修改付款信用卡資料？](cun-dang/archive/civic-liker-classic-and-2.0/change-credit-card.md)
-* [如何退訂「讚賞公民」？](cun-dang/archive/civic-liker-classic-and-2.0/unsubscribe-civic-liker.md)
+* [如何訂閱讚賞公民？](user-guide/civic-liker/be-a-civic-liker.md)
+* [如何修改付款信用卡資料？](user-guide/civic-liker/change-credit-card.md)
+* [如何退訂「讚賞公民」？](user-guide/civic-liker/unsubscribe-civic-liker.md)
 
 ### [Liker ID](user-guide/liker-id/)
 
