@@ -15,13 +15,13 @@ Please note, if the proposal fails to achieve quorum, or gets more than 1/3 voti
 How to deposit LikeCoin for a proposal&#x20;
 --------------------------------------------
 
-### Step 1. Login dao.like.co
+### Step 1: Login dao.like.co
 
 Go to [dao.like.co](https://dao.like.co) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) or [Authcore](../../user-guide/liker-id/register.md) to login.
 
 ![](<../../.gitbook/assets/direct vote 01.png>)
 
-### &#xD;&#xD;Step 2. Select the proposal to deposit
+### &#xD;&#xD;Step 2: Select the proposal to deposit
 
 Go to the left hand side menu and select "Proposal", click on the proposal which is on deposit period.
 
@@ -29,7 +29,7 @@ Go to the left hand side menu and select "Proposal", click on the proposal which
 
 ![](../../.gitbook/assets/proposal-deposit-01.png)
 
-### &#xD;Step 3. Proposal detail page
+### &#xD;Step 3: Proposal detail page
 
 The proposal page outlined the proposal content, click "Deposit".
 
