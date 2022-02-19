@@ -24,37 +24,37 @@ description: 贊助創作者方法非常簡單
 
 ## 使用 dao.like.co 委託成為讚賞公民
 
-### 步驟一
+### 步驟一：登入 dao.like.co
 
 到 [dao.like.co](https://dao.like.co) 網站後選 [Keplr Browser Extension](../liker-id/register-with-keplr.md) 或 [Authcore](../liker-id/register.md) 登入 Liker ID。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
-### 步驟二
+### 步驟二：選擇驗證人
 
 點左手邊菜單「Validators」，再點選右上角「All」，尋找名稱為 Civic Liker 的讚賞公民節點然後點下去。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
 
-### 步驟三
+### 步驟三：進行委託
 
 在 Civic Liker 節點右上角點「Stake」進行委託。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
 
-### 步驟四
+### 步驟四：輸入委託數量
 
 出現 Stake 頁面，輸入你所需要委託的 LikeCoin 數量，再點「Next」。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-04.png>)
 
-### 步驟五
+### 步驟五：確認委託數量及手續費
 
-確認數字及所需手續費無誤後再點「Next」。
+確認委託數量及所需手續費無誤後再點「Next」。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-05.png>)
 
-### 步驟六
+### 步驟六：委託成功
 
 接著點「Send」。
 
@@ -72,7 +72,7 @@ description: 贊助創作者方法非常簡單
 
 ## 使用 Liker Land app 委託成為讚賞公民
 
-步驟詳見 [委託 LikeCoin](../../guides/stake/delegation-of-likecoin.md) 章節，選取名稱為 Civic Liker 讚賞公民節點進衣進行委託即可。
+步驟詳見 [委託 LikeCoin](../../guides/stake/delegation-of-likecoin.md) 章節，選取名稱為 Civic Liker 讚賞公民節點進行委託即可。
 
 {% hint style="success" %}
 滿足委託條件後，讚賞公民身份將於 24小時內生效。

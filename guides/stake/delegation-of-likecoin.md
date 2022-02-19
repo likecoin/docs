@@ -4,23 +4,75 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 # 委託 LikeCoin
 
-委託的意思是把 LikeCoin 委託給一個或多個[驗證人 \( Validator \)](../governance/what-is-a-validator/)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。自 LikeCoin chain 升級 FoTan 後，每位經已委託 LikeCoin 予驗證人的持份者都可以直接就議案投票。
+委託的意思是把 LikeCoin 委託給一個或多個[驗證人 ( Validator )](../governance/what-is-a-validator/)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。自 LikeCoin chain 升級 FoTan 後，每位經已委託 LikeCoin 予驗證人的持份者都可以直接就議案投票。
 
-{% page-ref page="../governance/direct-vote.md" %}
+{% content-ref url="../governance/direct-vote.md" %}
+[direct-vote.md](../governance/direct-vote.md)
+{% endcontent-ref %}
 
 委託機制是讚賞公民共和國[流動民主](../governance/liquid-democracy.md)自治機制非常重要的一環。
 
-### 步驟一：選取驗證人
+## 在 dao.like.co 委託 LikeCoin
+
+### 步驟一：登入 dao.like.co
+
+到 [dao.like.co](https://dao.like.co) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register.md) 登入 Liker ID。
+
+![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
+
+### 步驟二：選擇驗證人
+
+登入後，到左手邊菜單選擇「Validators」顯示所有驗證人，點選你需要委託的驗證人。
+
+![](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
+
+### 步驟三：進行委託
+
+在驗證人節點右上角點「Stake」進行委託。
+
+![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
+
+### 步驟四：輸入委託數量
+
+出現 Stake 頁面，輸入你所需要委託的 LikeCoin 數量，再點「Next」。
+
+![](<../../.gitbook/assets/Civic Liker Web 3-04.png>)
+
+### 步驟五：確認委託數量及手續費
+
+確認委託數量及所需手續費無誤後再點「Next」。
+
+![](<../../.gitbook/assets/Civic Liker Web 3-05.png>)
+
+### 步驟六：委託成功
+
+接著點「Send」。
+
+![](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
+
+出現 Send and confirming 畫面後再出現 Successfully staked! 即順利完成委託。
+
+![](<../../.gitbook/assets/Civic Liker Web 3-07.png>)
+
+![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
+
+點左手邊菜單「Portfolio」，即可看到 You Stake 一欄顯示成功委託予 Civic Liker 讚賞公民節點。
+
+![](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
+
+## 在 Liker Land app 委託 LikeCoin
+
+### 步驟一：選擇驗證人
 
 於 [Liker Land 手機應用程式](https://liker.land/getapp)的點擊「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
 
-![&#x9EDE;&#x64CA;&#x6211;&#x7684;&#x9322;&#x5305;](../../.gitbook/assets/delegate-4.png)
+![點擊我的錢包](../../.gitbook/assets/delegate-4.png)
 
-![&#x9A57;&#x8B49;&#x4EBA;&#x5217;&#x8868;](../../.gitbook/assets/delegate-5.png)
+![驗證人列表](../../.gitbook/assets/delegate-5.png)
 
 注意每個驗證人提供的回饋年回報率可能略有不同。
 
-點選了其中一個驗證人後，顯示以下頁面，列出收益年率 \( Rewards \)，投票權佔比 \( Voting Power \)，已被委託的 LikeCoin \( Liker Share \) 等資料。
+點選了其中一個驗證人後，顯示以下頁面，列出收益年率 ( Rewards )，投票權佔比 ( Voting Power )，已被委託的 LikeCoin ( Liker Share ) 等資料。
 
 點擊「委託」進入下一頁。
 
@@ -52,7 +104,9 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 你也許想看看如何使用硬件錢包委託 LikeCoin：
 
-{% page-ref page="../wallet/hardware-wallet.md" %}
+{% content-ref url="../wallet/hardware-wallet.md" %}
+[hardware-wallet.md](../wallet/hardware-wallet.md)
+{% endcontent-ref %}
 
 ### 了解更多有關「委託」的原理
 
@@ -61,4 +115,3 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 > [身為一個鏈上公民，感受質押世界的魅力！- 以 LikeCoin 為例](https://matters.news/@dablog/%E8%BA%AB%E7%82%BA%E4%B8%80%E5%80%8B%E9%8F%88%E4%B8%8A%E5%85%AC%E6%B0%91-%E6%84%9F%E5%8F%97%E8%B3%AA%E6%8A%BC%E4%B8%96%E7%95%8C%E7%9A%84%E9%AD%85%E5%8A%9B-%E4%BB%A5-like-coin-%E7%82%BA%E4%BE%8B-zdpuB1ePtb7TNzYpbfkdhNmf8REKkQxNX5MgRRir1BG6pWVts)
 
 > [LikeCoin 新手的委託質押筆記](https://matters.news/@huanlin/like-coin-%E6%96%B0%E6%89%8B%E7%9A%84%E5%A7%94%E8%A8%97%E8%B3%AA%E6%8A%BC%E7%AD%86%E8%A8%98-bafyreifhicuom74neq4sojpkta6thdsia3y4zf7dmolgajvgph4c3usx5u)
-
