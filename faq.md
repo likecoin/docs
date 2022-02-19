@@ -40,7 +40,7 @@ description: Frequently Asked Questions
 * [Any block explorer for LikeCoin?](general-guides/wallet/big-dipper.md)
 * [Is there a transaction fee?](general-guides/wallet/transaction-fee.md)
 * [How to handle my LikeCoin ERC-20 token?](general-guides/wallet/migration/)
-* [What is a FoTan upgrade? How is it going to affect me?](archive/archive/fotan.md)
+* [What is a FoTan upgrade? How is it going to affect me?](general-guides/wallet/fotan.md)
 
 ## [Trade](general-guides/trade/)
 

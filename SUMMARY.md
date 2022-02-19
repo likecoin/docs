@@ -192,7 +192,7 @@
   * [Content Creator Tools](archive/archive/creatortools/README.md)
     * [Sponsor Link](archive/archive/creatortools/sponsor-link.md)
     * [Supporters Summary](archive/archive/creatortools/support.md)
-  * [FoTan upgrade FAQ](archive/archive/fotan.md)
+  * [FoTan upgrade FAQ](general-guides/wallet/fotan.md)
   * [FoTan Upgrade (Testnet)](archive/archive/fotan-upgrade-testnet/README.md)
     * [Upgrade Step-by-step](archive/archive/fotan-upgrade-testnet/upgrade-step-by-step.md)
     * [Upgrade Step-by-step](archive/archive/fotan-upgrade-testnet/upgrade-step-by-step-1.md)

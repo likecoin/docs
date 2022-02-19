@@ -44,7 +44,7 @@ Civic Liker Super Like his/her own work will not earn any LikeCoin from creators
 
 Only [Civic Liker](../civic-liker/) can enjoy Super Like twice a day.
 
-\[[Join **Civic Liker**](../../archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)]
+\[[Join **Civic Liker**](../civic-liker/be-a-civic-liker.md)]
 
 ## Super Likes History
 

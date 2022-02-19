@@ -10,8 +10,8 @@ description: Where to download Liker Land?
 * For users in China, or Android devices without Google Play, download [APK on GitHub](https://github.com/likecoin/likecoin-app/releases)
 * [After downloading Liker Land](https://liker.land/getapp), please register a Liker ID：
 
-{% content-ref url="../liker-id/register.md" %}
-[register.md](../liker-id/register.md)
+{% content-ref url="../liker-id/" %}
+[liker-id](../liker-id/)
 {% endcontent-ref %}
 
 ## Liker Land web - https://Liker.Land <a href="#liker-land-web" id="liker-land-web"></a>
@@ -24,12 +24,11 @@ Click on the menu at the top right hand corner, there are other options.
 
 ### **Option 1: Civic Liker**
 
-You can pay and [become a Civic Liker](../../archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md), check out the subscription status or unsubscribe. [Read this](../civic-liker/) to learn more about Civic Liker.
+You can delegate your LikeCoin to become a [Civc Liker](../civic-liker/).
 
 ### **Option 2: I'm a Creator too**
 
-* Click and setup your [Creator Pitch](../creatortools/creators-pitch.md), copy your [Sponsor Link](../../archive/archive/creatortools/sponsor-link.md) and check [Supporters Summary](../../archive/archive/creatortools/support.md)
-* Click "Tips for Creators" and goes to the "[You deserve to be rewarded](https://liker.land/creators)" page to learn more about how to invite your readers to become your Civic Liker and sponsor you, and also [ways to embed a LikeCoin button to a website](https://liker.land/creators/setup)
+Click and setup your [Creator Pitch](../creatortools/creators-pitch.md).
 
 {% content-ref url="like.md" %}
 [like.md](like.md)
@@ -56,7 +55,7 @@ You can pay and [become a Civic Liker](../../archive/archive/civic-liker-classic
 
 ### **Option 4: App**
 
-Link to [download Liker Land mobile app](https://liker.land/getapp).
+Link to [download Liker Land app](https://liker.land/getapp).
 
 ### **Option 5: About**
 
