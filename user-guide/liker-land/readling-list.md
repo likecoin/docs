@@ -16,7 +16,7 @@ The bookmark icon is highlighted after the content is saved
 
 ![](../../.gitbook/assets/likecoin-button-save-later-2.png)
 
-Bookmark content on Liker Land mobile app
+Bookmark content on Liker Land app
 
 
 If you finished reading an article on "My Content Jockey" or "The world has Super Liked", the system will add a green tick on it (circled in red), you can also click on the bookmark icon (red arrow) to save the article to Reading list for read it later.
@@ -29,7 +29,7 @@ Step 1: When reading an article on browser or mobile app (e.g. Twitter), click t
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MF-k0N8KQO1RK3mjec0%2F-MF-n53DS3rtisxWw5HN%2Flikecoin-button-save-later-6.png?alt=media\&token=93a0a381-1837-425b-8877-f2a8eef2a694)
 
-Step 2: Click on the Liker Land mobile app icon
+Step 2: Click on the Liker Land app icon
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MF-k0N8KQO1RK3mjec0%2F-MF-nBS9AEUzIBmkOgL2%2Flikecoin-button-save-later-7.png?alt=media\&token=9a88e7d5-ec9a-4350-b4a0-12133e47a35d)
 
@@ -59,6 +59,6 @@ Step 2: When reading an article on a website, click on the icon to bookmark the 
 
 ## Check out the Readling List
 
-Click the bookmark icon on Liker Land mobile app or [Liker Land web](https://liker.land/bookmarks) and check all the articles that you've saved.
+Click the bookmark icon on Liker Land app or [Liker Land web](https://liker.land/bookmarks) and check all the articles that you've saved.
 
 ![](../../.gitbook/assets/likecoin-button-save-later-9-en.png)

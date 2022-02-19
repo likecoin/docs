@@ -6,9 +6,9 @@ description: Login by social media accounts, Matters, or email/password
 
 ## Register a Liker ID with Authcore on Liker Land
 
-Registering a Liker ID is easy, please download [Liker Land mobile app](https://liker.land/getapp) and follow the instructions below:
+Registering a Liker ID is easy, please download [Liker Land app](https://liker.land/getapp) and follow the instructions below:
 
-### Step 1: Open your Liker Land mobile app, Click the "Sign Up" Button
+### Step 1: Open your Liker Land app, Click the "Sign Up" Button
 
 ![](<../../.gitbook/assets/Sign In.png>)
 
@@ -47,7 +47,7 @@ You cannot change the Liker ID nor the login method once it has been created.  I
 {% endhint %}
 
 {% hint style="info" %}
-Liker Land mobile app uses Authcore as a sign-in solution. Check out**:** What is [Authcore](what-is-authcore.md)?
+Liker Land app uses Authcore as a sign-in solution. Check out**:** What is [Authcore](what-is-authcore.md)?
 {% endhint %}
 
 {% hint style="success" %}

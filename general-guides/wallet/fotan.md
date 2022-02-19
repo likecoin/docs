@@ -20,7 +20,7 @@ The upgrade lasted for around 4 hours, but it may take longer than required.
 
 During the upgrade all clapping records will be stored and don't worry about it being lost. However, the Creators Fund distribution may be delayed. The funds from Civic Liker Classic which is distributed according to the number of claps may also be delayed.
 
-### Can I login to Liker Land mobile app or web during upgrade?
+### Can I login to Liker Land app or web during upgrade?
 
 Yes you can, however the "Civic Liker monthly sponsor" and "Rewarded" column will not be updated. You cannot check your wallet as well.
 
@@ -42,4 +42,4 @@ The procedure of [migrating LikeCoin ERC-20 to LikeCoin chain](migration/) will 
 
 ### If my Liker ID got an issue after the upgrade, what should I do?
 
-Contact customer service via [Liker Land mobile](https://liker.land/getapp) app or [Web](https://liker.land).
+Contact customer service via [Liker Land](https://liker.land/getapp) app or [Web](https://liker.land).
