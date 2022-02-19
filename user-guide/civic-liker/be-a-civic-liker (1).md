@@ -22,11 +22,11 @@ description: 贊助創作者方法非常簡單
 
 另外，讚賞公民按讚除了能分配委託回報外，更同時能分配[創作基金](creators-fund.md)，按讚對基金分配的影響力會隨著委託金額變化，委託愈多，影響力愈大。
 
-## 使用 stake.like.co 委託成為讚賞公民
+## 使用 dao.like.co 委託成為讚賞公民
 
 ### 步驟一
 
-到 [stake.like.co](https://stake.like.co) 後選 [Keplr Browser Extension](../liker-id/register-with-keplr.md) 或 [Authcore](../liker-id/register.md) 登入 Liker ID。
+到 [dao.like.co](https://dao.like.co) 網站後選 [Keplr Browser Extension](../liker-id/register-with-keplr.md) 或 [Authcore](../liker-id/register.md) 登入 Liker ID。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
@@ -81,4 +81,3 @@ description: 贊助創作者方法非常簡單
 {% hint style="warning" %}
 假如用戶經已委託了給別的驗證人，請善用[轉移委託](../../guides/stake/redelegation-of-likecoin.md)，而不是取回委託功能，否則需要等待 21 天冷卻期方可重新動用資金。
 {% endhint %}
-

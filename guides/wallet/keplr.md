@@ -8,8 +8,8 @@ Keplr 是 Google Chrome extension，可在 Chrome 和 Brave 等瀏覽器，支�
 
 請參考以下文章的步驟安裝 Keplr。
 
-{% content-ref url="keplr/an-zhuang-keplr-liu-lan-qi-cha-jian.md" %}
-[an-zhuang-keplr-liu-lan-qi-cha-jian.md](keplr/an-zhuang-keplr-liu-lan-qi-cha-jian.md)
+{% content-ref url="keplr/installation.md" %}
+[installation.md](keplr/installation.md)
 {% endcontent-ref %}
 
 ## 轉帳 LikeCoin 到 Keplr <a href="#deposit-your-likecoin-to-keplr" id="deposit-your-likecoin-to-keplr"></a>
@@ -26,7 +26,7 @@ Keplr 是 Google Chrome extension，可在 Chrome 和 Brave 等瀏覽器，支�
 
 ![](../../.gitbook/assets/keplr05.png)
 
-直接使用 [LIKE Pay](like-pay.md) 掃描二維碼就可以轉帳 LikeCoin 到你的 Keplr 錢包。建議最初只轉帳小量 LikeCoin 作測試。
+直接使用 [LIKE Pay](like-pay.md) 掃瞄二維碼就可以轉帳 LikeCoin 到你的 Keplr 錢包。建議最初只轉帳小量 LikeCoin 作測試。
 
 ![](../../.gitbook/assets/keplr05dot5.png)
 
@@ -60,11 +60,11 @@ Keplr 出現 Tx is pending 並回到 LikeCoin 餘額畫面，轉帳完成。
 
 ![](../../.gitbook/assets/keplr13.png)
 
-## 使用 stake.like.co 查看交易明細、轉帳及委託 <a href="#use-stake.like.co-to-check-likecoin-transaction-details-transfer-or-delegate" id="use-stake.like.co-to-check-likecoin-transaction-details-transfer-or-delegate"></a>
+## 使用 dao.like.co 查看交易明細、轉帳及委託 <a href="#use-stake.like.co-to-check-likecoin-transaction-details-transfer-or-delegate" id="use-stake.like.co-to-check-likecoin-transaction-details-transfer-or-delegate"></a>
 
-你可以使用 [stake.like.co](http://stake.like.co) 搭配 Keplr 進行各種操作包括查看交易明細、轉帳及委託等。
+你可以使用 [dao.like.co](https://dao.like.co) 搭配 Keplr 進行各種操作包括查看交易明細、轉帳及委託等。
 
-到 [stake.like.co](http://stake.like.co) 網站，點擊「Keplr Browser Extension」。
+到 [dao.like.co](https://dao.like.co) 網站，點擊「Keplr Browser Extension」。
 
 ![](../../.gitbook/assets/keplr06.png)
 
