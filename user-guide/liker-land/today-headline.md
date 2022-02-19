@@ -14,7 +14,7 @@ Open the Liker Land app and click on the star icon underneath, you can see the "
 
 "My Content Jockey" are hand picked by Content Jockey with [Super Like](superlike.md), and without the use of AI. Every Content Jockey has two quotas per day, to ensure every selection is the finest. On the other hand to make sure that readers will not sumerge to the seas of junk content.
 
-The default Content Jockeys was managed by the Republic of Liker Land with [Liquid Democracy](../../general-guides/governance/liquid-democracy.md), Content Jockeys of good quality and word of mouth are selected by community voting. Currently, there are 5 default Content Jockeys in Liker Land:​
+The default Content Jockeys was managed by the Republic of Liker Land with [Liquid Democracy](../../general-guides/governance/liquid-democracy.md), Content Jockeys of good quality and word of mouth are selected by community voting. Currently, there are 3 default Content Jockeys in Liker Land:​
 
 * inmedia：[inmediahknet](https://like.co/inmediahknet)​​
 * Matters：[hi176-matters](https://like.co/hi176-matters)​

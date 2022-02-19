@@ -28,7 +28,8 @@ You can delegate your LikeCoin to become a [Civc Liker](../civic-liker/).
 
 ### **Option 2: I'm a Creator too**
 
-Click and setup your [Creator Pitch](../creatortools/creators-pitch.md).
+* Click and setup your [Creator Pitch](../creatortools/creators-pitch.md).
+* Click "[Tips for Creators](https://liker.land/creators)" and goes to the "You deserve to be rewarded" page to learn more about ways to [embed a LikeCoin button to a website](https://liker.land/creators/setup).
 
 {% content-ref url="like.md" %}
 [like.md](like.md)
