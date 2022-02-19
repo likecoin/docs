@@ -26,37 +26,37 @@ Civic Liker can distribute the delegation rewards, but also distribute the [Crea
 
 ## Become a Civic Liker by delegating with dao.like.co
 
-### Step 1
+### Step 1: Login dao.like.co
 
 Go to [dao.like.co](https://dao.like.co) and select [Keplr Browser Extension](broken-reference) or [Authcore](../liker-id/register.md) to login your Liker ID
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
-### Step 2
+### Step 2: Select a validator&#xD;
 
 Click "Validators" on the left hand side menu, then click "All" in the upper right corner, look for the Civic Liker node and click it.
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
 
-### Step 3
+### Step 3: Stake
 
 Click "Stake" in the upper right corner of the Civic Liker node to delegate.
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
 
-### Step 4
+### Step 4: Decide how much to stake
 
 The Stake page appears, enter the amount of LikeCoin you want to delegate, and click "Next".
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-04.png>)
 
-### Step 5
+### Step 5: Confirm the amount and gas fee
 
 After confirming that the amount and gas fee are correct, click "Next".
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-05.png>)
 
-### Step 6
+### Step 6: Check your delegation
 
 Then click "Send".
 
