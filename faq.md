@@ -39,7 +39,7 @@ description: LikeCoin 常見問題
 * [LikeCoin 有區塊鏈瀏覽器嗎？](guides/wallet/big-dipper.md)
 * [操作 LikeCoin 需要手續費嗎？](guides/wallet/transaction-fee.md)
 * [我的舊版 LikeCoin ERC-20 應該怎處理？](guides/wallet/migration/)
-* [甚麼是 FoTan 升級，對我的錢包有影響嗎？](guides/wallet/fotan.md)
+* [甚麼是 FoTan 升級，對我的錢包有影響嗎？](cun-dang/archive/fotan.md)
 
 ## [交易](guides/trade/)
 
