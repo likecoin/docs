@@ -15,9 +15,9 @@ Please note, if the proposal fails to achieve quorum, or gets more than 1/3 voti
 How to deposit LikeCoin for a proposal&#x20;
 --------------------------------------------
 
-### Step 1. Login stake.like.co
+### Step 1. Login dao.like.co
 
-Go to [stake.like.co](https://stake.like.co/welcome) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md), [Ledger Nano](../wallet/hardware-wallet.md) or [Authcore](../../user-guide/liker-id/register.md) to login.
+Go to [dao.like.co](https://dao.like.co) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md), [Ledger Nano](../wallet/hardware-wallet.md) or [Authcore](../../user-guide/liker-id/register.md) to login.
 
 ![](../../.gitbook/assets/direct-vote-01.png)
 

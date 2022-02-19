@@ -18,9 +18,9 @@ Before voting please delegate your LikeCoin to any  validators that you trust.
 [delegation-of-likecoin.md](../stake/delegation-of-likecoin.md)
 {% endcontent-ref %}
 
-### Step 2. Login stake.like.co
+### Step 2. Login dao.like.co
 
-Go to [stake.like.co](https://stake.like.co/welcome) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md), [Ledger Nano](../wallet/hardware-wallet.md) or [Authcore](../../user-guide/liker-id/register.md) to login.
+Go to [dao.like.co](https://dao.like.co) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md), [Ledger Nano](../wallet/hardware-wallet.md) or [Authcore](../../user-guide/liker-id/register.md) to login.
 
 ![](../../.gitbook/assets/direct-vote-01.png)
 

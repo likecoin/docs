@@ -24,11 +24,11 @@ Civic Liker can distribute the delegation rewards, but also distribute the [Crea
 
 
 
-## Become a Civic Liker by delegating with stake.like.co
+## Become a Civic Liker by delegating with dao.like.co
 
 ### Step 1
 
-Go to [stake.like.co](https://stake.like.co) and select [Keplr Browser Extension](broken-reference) or [Authcore](../liker-id/register.md) to login your Liker ID
+Go to [dao.like.co](https://dao.like.co) and select [Keplr Browser Extension](broken-reference) or [Authcore](../liker-id/register.md) to login your Liker ID
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 

@@ -58,11 +58,11 @@ Send complete. Keplr will show Tx is pending and back to the LikeCoin balance sc
 
 ![](../../.gitbook/assets/keplr13.png)
 
-## **Use stake.like.co to check LikeCoin transaction details, transfer or delegate**
+## **Use dao.like.co to check LikeCoin transaction details, transfer or delegate**
 
-You may manage your LikeCoin with [stake.like.co](https://stake.like.co) and Keplr together to check the LikeCoin transaction details, transfer or delegate.
+You may manage your LikeCoin with [dao.like.co](https://dao.like.co) and Keplr together to check the LikeCoin transaction details, transfer or delegate.
 
-Go to [stake.like.co](http://stake.like.co) and click "Keplr Browser Extension".
+Go to [dao.like.co](https://dao.like.co) and click "Keplr Browser Extension".
 
 ![](../../.gitbook/assets/keplr06.png)
 

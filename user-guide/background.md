@@ -24,7 +24,7 @@ A _Liker_ who joins the USD5 monthly subscription service. _Civic Liker_ is esse
 
 ### Liker Land app <a href="#2696" id="2696"></a>
 
-Reader, passport and wallet all integrated in one single app. [_Liker Land_ mobile app](https://like.co/in/getapp) is essentially government of the DAO on your palm.
+Reader, passport and wallet all integrated in one single app. [_Liker Land_ app](https://like.co/in/getapp) is essentially government of the DAO on your palm.
 
 Some tech lovers prefer lower level tools such as command line interface and hardware wallet. It requires significant technical know-how and is beyond the scope of this article.
 
