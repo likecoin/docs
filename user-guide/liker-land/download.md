@@ -10,8 +10,8 @@ description: 要去哪裏下載 Liker Land？
 * 中國大陸，或者其他沒有 Google Play 的 Android 用戶，可於 [GitHub 直接下載 apk 檔](https://github.com/likecoin/likecoin-app/releases)
 * [下載 Liker Land](https://liker.land/getapp) 後，請花兩分鐘註冊 Liker ID：
 
-{% content-ref url="../liker-id/" %}
-[liker-id](../liker-id/)
+{% content-ref url="../liker-id/register.md" %}
+[register.md](../liker-id/register.md)
 {% endcontent-ref %}
 
 ## Liker Land 網頁版 - https://Liker.Land <a href="#liker-land-web" id="liker-land-web"></a>
@@ -24,12 +24,12 @@ description: 要去哪裏下載 Liker Land？
 
 ### 選項一：讚賞公民
 
-用戶可委託 LikeCoin 成為[讚賞公民](../civic-liker/)。‌
+用戶可付費[申請成為讚賞公民](../civic-liker/be-a-civic-liker.md)，查看訂閱狀態及退訂。[按此查看](../civic-liker/)有關讚賞公民的詳細資訊。‌
 
 ### 選項二：創作者
 
-* 點擊這裡可設定[給讀者的話](../creatortools/creators-pitch.md)
-* 點擊「創作者須知」會被引導到[化讚為賞 回饋創作](https://liker.land/creators)的頁面，介紹相關機制及[如何設定 LikeCoin 讚賞鍵](https://liker.land/creators/setup)
+* 點擊這裡可設定[給讀者的話](../creatortools/creators-pitch.md)、複製[贊助連結](../../cun-dang/archive/creatortools/sponsor-link.md)及查看[讚賞公民支持者清單](../../cun-dang/archive/creatortools/support.md)
+* 點擊「創作者須知」會被引導到[化讚為賞 回饋創作](https://liker.land/creators)的頁面，介紹相關機制及如何在網站上邀請別人成為自己的讚賞公民贊助自己及[如何設定 LikeCoin 讚賞鍵](https://liker.land/creators/setup)
 
 {% content-ref url="like.md" %}
 [like.md](like.md)

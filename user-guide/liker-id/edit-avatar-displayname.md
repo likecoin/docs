@@ -10,14 +10,6 @@ description: 讓自己的性格更特出
 
 修改完成後，你的資訊會在 Liker Land 的各種使用場境中顯示：
 
-### 贊助鏈結
-
-{% content-ref url="../../cun-dang/archive/creatortools/sponsor-link.md" %}
-[sponsor-link.md](../../cun-dang/archive/creatortools/sponsor-link.md)
-{% endcontent-ref %}
-
-![](../../.gitbook/assets/sponsor-link.png)
-
 ### 個人主頁
 
 {% content-ref url="../creatortools/portfolio-page.md" %}

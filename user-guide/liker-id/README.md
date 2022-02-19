@@ -8,5 +8,5 @@ LikeCoin DAO 的市民。每位 Liker 擁有一獨特的 Liker ID 以資識別�
 
 現時用戶可透過兩種途徑註冊 Liker ID：
 
-* [Keplr](register-with-keplr.md)－以 Keplr Chrome 插件去中化註冊 Liker ID 並以 [stake.like.co](https://stake.like.co) 進行轉帳及委託，支援硬件錢包
+* [Keplr](register-with-keplr.md)－以 Keplr Chrome 插件去中化註冊 Liker ID 並以 [dao.like.co](https://dao.like.co/welcome) 進行轉帳及委託，支援硬件錢包
 * [一般方法 ( Authcore )](register.md)－以 [Liker Land 手機應用程式](../liker-land/download.md) 或 [網頁版](https://liker.land) 註冊 Liker ID 及使用[轉帳](../../guides/wallet/like-pay.md)、[委託](../../guides/stake/delegation-of-likecoin.md)及[查看讚賞成就](../creatortools/rewards/)等各種功能

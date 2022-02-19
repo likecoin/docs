@@ -4,7 +4,7 @@ description: 何謂 Super Like？內容伯樂又是甚麼？
 
 # Super Like — 內容伯樂
 
-![](../../.gitbook/assets/likecoin\_ad92\_super\_like\_dragonball.png)
+![](../../.gitbook/assets/likecoin_ad92\_super_like_dragonball.png)
 
 ## 概念
 
@@ -43,7 +43,7 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 
 只有[讚賞公民](../civic-liker/)可獲每天兩次的 SuperLike 機會。
 
-【[成為讚賞公民](<../civic-liker/be-a-civic-liker (1).md>)】
+【[成為讚賞公民](../civic-liker/be-a-civic-liker.md)】
 
 ## 功能展示
 
