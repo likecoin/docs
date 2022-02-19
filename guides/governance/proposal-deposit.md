@@ -2,7 +2,7 @@
 description: 讓議案投票得以展開
 ---
 
-# Liker 為議案存入保證金
+# 為議案存入保證金
 
 自 LikeCoin chain 升級 FoTan 後，每位 Liker 都可以直接存入議案進入投票程序所需的保證金。
 
@@ -45,7 +45,7 @@ description: 讓議案投票得以展開
 
 ![](../../.gitbook/assets/proposal-deposit-04.png)
 
-系統要求簽署確認，Authcore 用戶直接點擊「Send」。Keplr Browser Extension 及 Ledger Nano 點擊 Send 以後會彈出視窗或要求按鈕確認。
+系統要求簽署確認，Keplr Browser Extension 及 Ledger Nano 點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
 
 ![](../../.gitbook/assets/proposal-deposit-05.png)
 

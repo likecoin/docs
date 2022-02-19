@@ -48,7 +48,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ![](../../.gitbook/assets/direct-vote-05.png)
 
-系統要求簽署確認，Authcore 用戶直接點擊「Send」。Keplr Browser Extension 及 Ledger Nano 點擊 Send 以後會彈出視窗或要求按鈕確認。
+系統要求簽署確認，Keplr Browser Extension 及 Ledger Nano 點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
 
 ![](../../.gitbook/assets/direct-vote-06.png)
 
