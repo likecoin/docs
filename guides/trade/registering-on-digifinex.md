@@ -6,7 +6,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 在 DigiFinex 買賣 LikeCoin，請先註冊帳號。請到 [DigiFinex 網站](https://www.digifinex.com)並按以下步驟註冊：
 
-### 步驟一：確認密碼，及電子郵箱或手機號碼 <a href="1" id="1"></a>
+### 步驟一：確認密碼，及電子郵箱或手機號碼 <a href="#1" id="1"></a>
 
 於網站右上角，點選「註冊」
 
@@ -38,9 +38,9 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 > [【新手教程】- 如何註冊帳號>>> ](https://digifinex.zendesk.com/hc/zh-tw/articles/360006576493--%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B-%E5%A6%82%E4%BD%95%E8%A8%BB%E5%86%8A%E5%B8%B3%E8%99%9F)
 
-### 步驟二：身份認證 <a href="2" id="2"></a>
+### 步驟二：身份認證 <a href="#2" id="2"></a>
 
-在「基本訊息」頁面的「身份認證」欄點選「未認證」出現下圖。掃描二維碼或到 [https://download.digifinex.xyz/](https://download.digifinex.xyz) 下載 DigiFinex app
+在「基本訊息」頁面的「身份認證」欄點選「未認證」出現下圖。掃瞄二維碼或到 [https://download.digifinex.xyz/](https://download.digifinex.xyz) 下載 DigiFinex app
 
 ![](../../.gitbook/assets/digifinex-11.png)
 
@@ -76,11 +76,11 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-mobile-8.png)
 
-按提示掃描證件後在拍攝手持照片並提交，請注意第三張照片，需要手持身份證，以及一張手寫 DigiFinex+當日上傳日期的紙條。留意圖片僅限 JPG、PNG 格式且大小不能超過 2MB
+按提示掃瞄證件後在拍攝手持照片並提交，請注意第三張照片，需要手持身份證，以及一張手寫 DigiFinex+當日上傳日期的紙條。留意圖片僅限 JPG、PNG 格式且大小不能超過 2MB
 
 ![](../../.gitbook/assets/mceclip3.png)
 
-掃描實名認證人的人臉信息，提交後實時完成審核
+掃瞄實名認證人的人臉信息，提交後實時完成審核
 
 ![](../../.gitbook/assets/shi-ming-ren-zheng-yuan-tu-560-tu-.jpg)
 
@@ -92,7 +92,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 > [【新手教程】- 如何進行實名認證>> ](https://digifinex.zendesk.com/hc/zh-tw/articles/360006473334--%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B-%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8C%E5%AF%A6%E5%90%8D%E8%AA%8D%E8%AD%89)
 
-### 步驟三：雙重驗證 <a href="3-google" id="3-google"></a>
+### 步驟三：雙重驗證 <a href="#3-google" id="3-google"></a>
 
 你必須要設定雙重驗證碼否則將不能提幣，請使用手機下載  Google Authenticator 應用程式
 
@@ -103,7 +103,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![](../../.gitbook/assets/digifinex-7.png)
 
-以 Google Authenticator 掃描頁面中的二維碼，再點選「下一步」
+以 Google Authenticator 掃瞄頁面中的二維碼，再點選「下一步」
 
 ![](../../.gitbook/assets/digifinex-8.png)
 

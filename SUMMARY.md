@@ -16,6 +16,7 @@
   * [ISCN 支援什麼內容格式？](guides/decentralized-publishing/content-type.md)
   * [如何註冊 ISCN](guides/decentralized-publishing/app.like.co.md)
   * [如何大量註冊 ISCN](guides/decentralized-publishing/iscn-batch-uploader.md)
+  * [depub.SPACE](guides/decentralized-publishing/depub.space.md)
 * [錢包](guides/wallet/README.md)
   * [Keplr](guides/wallet/keplr.md)
     * [安裝 Keplr 瀏覽器插件](guides/wallet/keplr/an-zhuang-keplr-liu-lan-qi-cha-jian.md)
