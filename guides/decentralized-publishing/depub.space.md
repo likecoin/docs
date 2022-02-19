@@ -70,7 +70,7 @@ description: Web3 去中心化 Twitter
 
 ![](<../../.gitbook/assets/depub.SPACE 08.png>) ![](<../../.gitbook/assets/depub.SPACE 09.png>)
 
-### 查看發文記錄
+## 查看發文記錄
 
 到 [app.like.co](https://app.like.co) 點「Your Publishing」即可查看以往發文記錄。
 

@@ -6,8 +6,6 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 ### 安裝 Keplr 錢包
 
-（若已安裝了 Keplr 錢包，請跳過此步驟。）
-
 到 Chrome 線上應用程式商店按「加到 Chrome」安裝 [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)。
 
 ![](../../../.gitbook/assets/keplr01.png)
