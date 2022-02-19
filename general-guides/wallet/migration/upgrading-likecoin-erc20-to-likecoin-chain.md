@@ -4,7 +4,7 @@ description: Please follow the steps carefully
 
 # Upgrade LikeCoin ERC-20 to LikeCoin chain
 
-LikeCoin has been migrated to the Cosmos Hub ecosystem [LikeCoin chain](../../governance/likecoin-chain.md) from ERC-20 and users no longer need MetaMask wallet to login but should use [Liker Land mobile app](https://liker.land/getapp) or Keplr instead.  This document is for legacy users who created Liker ID with MetaMask and did not complete the Liker ID migration process only.
+LikeCoin has been migrated to the Cosmos Hub ecosystem [LikeCoin chain](../../governance/likecoin-chain.md) from ERC-20 and users no longer need MetaMask wallet to login but should use [Liker Land app](https://liker.land/getapp) or Keplr instead.  This document is for legacy users who created Liker ID with MetaMask and did not complete the Liker ID migration process only.
 
 Please note all upgrade procedures has to be done on desktop computer, not supporting mobile.
 
@@ -66,9 +66,9 @@ You can check your LikeCoin balance in [https://like.co/in](https://like.co/in) 
 
 ![](../../../.gitbook/assets/likecoin-migration-6.png)
 
-### Step 5: Download the Liker Land mobile app <a href="#download-the-liker-land-mobile-app" id="download-the-liker-land-mobile-app"></a>
+### Step 5: Download the Liker Land app <a href="#download-the-liker-land-mobile-app" id="download-the-liker-land-mobile-app"></a>
 
-Please visit Google Play store or Apple App Store to [download the Liker Land mobile app](https://liker.land/getapp). Login by your social account and check your balance on the app. You may also perform various operations of LikeCoin such as transfer and delegation there.
+Please visit Google Play store or Apple App Store to [download the Liker Land app](https://liker.land/getapp). Login by your social account and check your balance on the app. You may also perform various operations of LikeCoin such as transfer and delegation there.
 
 ![](../../../.gitbook/assets/likecoin-migration-7.png)
 

@@ -1,5 +1,5 @@
 ---
-description: Does the "Republic" of Liker Land have democracy?
+description: Does the LikeCoin DAO have democracy?
 ---
 
 # Liquid Democracy

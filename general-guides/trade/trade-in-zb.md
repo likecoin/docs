@@ -4,7 +4,7 @@ description: Buy and Sell LikeCoin with ZB
 
 # Trade in ZB
 
-[ZB](https://www.zb.com) is the world’s leading digital asset trading platform. Since its establishment in 2013, it has provided digital asset trading services for more than 10 million users worldwide. It has been operating steadily for more than 8 years, with an average daily transaction volume of more than 1.5 billion US dollars. BTC, ZB, EOS, and XRP mainstream currencies have long been among the top for a long time. ZB now offers LIKE/USDT trading pairs, if you do not have a ZB account, please take a look at [this](registering-on-zb.md). Moreover, you have to download the [Liker Land mobile app](https://liker.land/getapp) or Keplr wallet to send/receive LikeCoin. The following instructions are based on ZB web, you may also use the [ZB app](https://www.zb.com/en/download) to trade LikeCoin.
+[ZB](https://www.zb.com) is the world’s leading digital asset trading platform. Since its establishment in 2013, it has provided digital asset trading services for more than 10 million users worldwide. It has been operating steadily for more than 8 years, with an average daily transaction volume of more than 1.5 billion US dollars. BTC, ZB, EOS, and XRP mainstream currencies have long been among the top for a long time. ZB now offers LIKE/USDT trading pairs, if you do not have a ZB account, please take a look at [this](registering-on-zb.md). Moreover, you have to download the [Keplr](../wallet/keplr.md) wallet or [Liker Land app](https://liker.land/getapp) to send/receive LikeCoin. The following instructions are based on ZB web, you may also use the [ZB app](https://www.zb.com/en/download) to trade LikeCoin.
 
 ### Step 1: Create your LikeCoin wallet on ZB
 
@@ -26,9 +26,9 @@ You wallet address and QR Code appears
 
 ### Step 2: Transfer LikeCoin to ZB
 
-Open the [Liker Land mobile app](https://liker.land/getapp), click on "My Wallet. Then, click on the \[Send] button (circled in red below)
+Open the [Liker Land app](https://liker.land/getapp), click on "My Wallet. Then, click on the \[Send] button (circled in red below)
 
-![On Liker Land mobile app select \[Send\] (circled in red)](../../.gitbook/assets/bitasset-trade-6.png)
+![On Liker Land app select \[Send\] (circled in red)](../../.gitbook/assets/bitasset-trade-6.png)
 
 Go to the next page, click on the QR Code icon circled in red, the app will open camera mode for you to scan the QR Code, please scan the QRCode that you have on Step 1, cause you have to transfer LikeCon to ZB
 

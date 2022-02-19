@@ -1,5 +1,5 @@
 ---
-description: 'What is LikeCoin, #DePub, and the Republic of Liker Land'
+description: 'What is LikeCoin, #DePub, and the LikeCoin DAO'
 ---
 
 # Decentralized Publishing
@@ -12,7 +12,7 @@ The ISCN functions like an ISBN (International Standard Book Number) for digital
 
 LikeCoin provides publication related SDK/plugins that can integrate with publication platforms like news outlet, social media and blogging websites.  Some media empowered by LikeCoin include [Matters](https://matters.news), [InMedia](https://www.inmediahk.net) and other 1,600+ websites. LikeCoin can also be utilized on [WordPress](https://wordpress.org/plugins/likecoin/), [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot (Blogger.com)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. LikeCoin also provides LikeCoin button to let media be rewarded by clapping by readers.
 
-The core component of the infrastructure is [LikeCoin chain](https://likecoin.bigdipper.live), a public blockchain tailor-made for content publishing, supporting the [**Republic of Liker Land**](https://liker.land/getapp).
+The core component of the infrastructure is [LikeCoin chain](https://likecoin.bigdipper.live), a public blockchain tailor-made for content publishing, supporting the [**LikeCoin DAO**](https://liker.land/getapp).
 
 {% content-ref url="user-guide/liker-land/list-of-media.md" %}
 [list-of-media.md](user-guide/liker-land/list-of-media.md)

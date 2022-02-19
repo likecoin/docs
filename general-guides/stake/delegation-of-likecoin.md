@@ -14,7 +14,7 @@ Delegation means delegating LikeCoin to one or more [validators](../governance/w
 
 Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) and is vital to the autonomy for The Republic of Liker Land.
 
-There are two ways to stake LikeCoin: via [stake.like.com](https://stake.like.co), or via [Liker Land mobile app](https://liker.land/getapp).
+There are two ways to stake LikeCoin: via [stake.like.com](https://stake.like.co), or via [Liker Land app](https://liker.land/getapp).
 
 ## Delegate via stake.like.co
 
@@ -38,13 +38,13 @@ You should be able to check your new stakes in the portfolio page.
 
 ## Delegate via Liker Land
 
-You can also use Liker Land mobile app to stake LikeCoin.  You may checkout the tutorial clip and the step-by-step instructions below.
+You can also use Liker Land app to stake LikeCoin.  You may checkout the tutorial clip and the step-by-step instructions below.
 
 {% embed url="https://youtu.be/nxSy-kEMy0Q" %}
 
 ### Step 1: Select a validator&#xD;
 
-Open the [Liker Land mobile app](https://liker.land/getapp), click on \[My Wallet] to enter into the wallet page. In this page you can check the LikeCoin amount that you have and there is a list of validators underneath. You can select one of them as you like.
+Open the [Liker Land app](https://liker.land/getapp), click on \[My Wallet] to enter into the wallet page. In this page you can check the LikeCoin amount that you have and there is a list of validators underneath. You can select one of them as you like.
 
 ![](<../../.gitbook/assets/delegate-4-en (1).png>)
 
