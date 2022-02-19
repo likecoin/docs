@@ -6,7 +6,7 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 ![](../../.gitbook/assets/likecoin\_ad98\_2point0-01.png)
 
-## [成為讚賞公民](<be-a-civic-liker (1).md>)
+### 【[成為讚賞公民](<be-a-civic-liker (1).md>)】
 
 讚賞公民是一場回饋優秀內容的運動，讓讀者化讚為賞，回饋創作。
 
@@ -56,16 +56,20 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 成為讚賞公民，有機會獲得專屬的 NFT 收藏品。
 
+### 讚賞公民的背景
+
+讚賞公民運動始於 2019年1月1日，早期版本讀者能透過每月訂閱，以按讚分配每月贊助金額，化讚為賞回饋創作。截至二零二二年二用，24,000 位作者透過計劃獲得超過 5,000 萬 LikeCoin 收入。
+
+讚賞公民於 2022年2月21日，改版至 Web3 版本，讓讀者以委託回報的收益來回饋創作，並終止支援信用卡付款 - 即「讚賞公民 Web3」。
+
 
 
 請鼓勵更多人加入讚賞公民，共建更健康的創作生態。
 
 _\*創作者收到讚賞幣需自行兌換成當地貨幣。_
 
-### 參考文章
-
-> [讚賞公民 Web3 改版迎虎年](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-web3-%E6%94%B9%E7%89%88%E8%BF%8E%E8%99%8E%E5%B9%B4-bafyreiayqigrxbmpsrtzgauwpz5muo2lgssmjlfydafqindgupp3gs7syy)
-
-> [讚賞公民 Web3 有奬活動](https://matters.news/@likecoin/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-web3-%E6%9C%89%E5%A5%AC%E6%B4%BB%E5%8B%95-bafyreidwehb6frufh556lzwfr4b6vq7a2nvdmrjvy4rhhtzsw24mco5tse)
+{% content-ref url="civic-liker-faq.md" %}
+[civic-liker-faq.md](civic-liker-faq.md)
+{% endcontent-ref %}
 
 ### 【[成為讚賞公民](<be-a-civic-liker (1).md>)】
