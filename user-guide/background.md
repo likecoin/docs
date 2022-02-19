@@ -1,30 +1,30 @@
 ---
 description: >-
   From this Glossary and Constitution basic, you can learn more about the
-  mechanism of Liker Land
+  mechanism of LikeCoin DAO
 ---
 
 # Glossary
 
 ## Basic concepts <a href="#448e" id="448e"></a>
 
-### Republic of Liker Land <a href="#84f4" id="84f4"></a>
+### LikeCoin DAO <a href="#84f4" id="84f4"></a>
 
-Or _Liker Land_ for short, is a decentralized community in cyberspace among content creators and consumers, who collectively own and govern the community.
+_LikeCoin DAO_ is a decentralized community in cyberspace among content creators and consumers, who collectively own and govern the community.
 
-In blockchain terminology, _Liker Land_ is a decentralized autonomous organization, or **DAO**.
+In blockchain terminology, _LikeCoin DAO_ is a decentralized autonomous organization.
 
 ### Liker <a href="#5799" id="5799"></a>
 
-A citizen in _Republic of Liker Land_. Each _Liker_ has a unique _Liker ID_ to identify herself. While many _Likers_ are writers, photographers, illustrators, editors and curators, _Liker Land_ totally welcomes silent content consumers and offers services for them to involve and contribute without creating contents.
+A citizen in _LikeCoin DAO_. Each _Liker_ has a unique _Liker ID_ to identify herself. While many _Likers_ are writers, photographers, illustrators, editors and curators, _LikeCoin DAO_ totally welcomes silent content consumers and offers services for them to involve and contribute without creating contents.
 
 ### Civic Liker <a href="#75ea" id="75ea"></a>
 
-A _Liker_ who joins the USD5 monthly subscription service. _Civic Liker_ is essentially __ a tax payer in _Liker Land_ and enjoys various benefits while at the same time supports creators.
+A _Liker_ who joins the USD5 monthly subscription service. _Civic Liker_ is essentially __ a tax payer in _LikeCoin DAO_ and enjoys various benefits while at the same time supports creators.
 
 ### Liker Land app <a href="#2696" id="2696"></a>
 
-Reader, passport and wallet all integrated in one single app. [_Liker Land_ mobile app](https://like.co/in/getapp) is essentially government of the Republic on your palm.
+Reader, passport and wallet all integrated in one single app. [_Liker Land_ mobile app](https://like.co/in/getapp) is essentially government of the DAO on your palm.
 
 Some tech lovers prefer lower level tools such as command line interface and hardware wallet. It requires significant technical know-how and is beyond the scope of this article.
 
@@ -34,23 +34,23 @@ The trademarked hands-clapping button attached to stories, images, illustrations
 
 ### LikeCoin token <a href="#c246" id="c246"></a>
 
-Usually called _LikeCoin_ for short, it is the de facto token in _Liker Land._ _LikeCoin_ has 3 major uses:
+Usually called _LikeCoin_ for short, it is the de facto token in _LikeCoin DAO._ _LikeCoin_ has 3 major uses:
 
 * **Storing and exchanging value**. Used to reward creators, _validators_, and for payments in general.
-* **Representing the contribution and thus voting power of a **_**Liker**_. The more contribution a _Liker_ makes, the more _LikeCoin_ she receives and the more influential power she has in _Liker Land_.
+* **Representing the contribution and thus voting power of a **_**Liker**_. The more contribution a _Liker_ makes, the more _LikeCoin_ she receives and the more influential power she has in _LikeCoin DAO_.
 * **Bridging with other communities and the traditional world**. _LikeCoin_ can be exchanged into and from Bitcoin, Ethereum, TWD, HKD and other traditional and crypto currencies. The ticker of _LikeCoin_ is LIKE. Note however that a token trading with the ticker LIKE is not necessarily _LikeCoin_. Special attention has to be paid to avoid scamming.
 
 ### LikeCoin chain <a href="#aa59" id="aa59"></a>
 
-A distributed ledger of the Republic, the open government of _Liker Land_. A sovereign, application specific blockchain designed for content creation and information property management, offering high-speed, low cost and most importantly, independence. Data on _LikeCoin chain_ is open and can be visualized on [**Big Dipper**](https://likecoin.bigdipper.live).
+A distributed ledger of the open government of _LikeCoin DAO_. A sovereign, application specific blockchain designed for content creation and information property management, offering high-speed, low cost and most importantly, independence. Data on _LikeCoin chain_ is open and can be visualized on [**Big Dipper**](https://likecoin.bigdipper.live).
 
-The very first beta of _LikeCoin chain_, code-named **KaiTak**, was released on Apr 2019 and was upgraded to **Taipei** on Sept 2019 as the new beta testnet. First public release of _LikeCoin chain_, **SheungWan**, was just launched on Nov 15, signaling the establishment of Republic of Liker Land.
+The very first beta of _LikeCoin chain_, code-named **KaiTak**, was released on Apr 2019 and was upgraded to **Taipei** on Sept 2019 as the new beta testnet. First public release of _LikeCoin chain_, **SheungWan**, was just launched on Nov 15, signaling the establishment of _LikeCoin DAO_.
 
 _LikeCoin chain_ **FoTan**, which incorporates advanced features such as International Standard Content Number (_“ISCN”_), is planned in 2020.
 
 ### Validator <a href="#9d28" id="9d28"></a>
 
-Operates a set of servers 24x7 to validate all transactions of _Likers_, including token transfers, content publishing, voting and etc. A _validator_ on _LikeCoin chain_ is both a bank and a senator in _Liker Land_.
+Operates a set of servers 24x7 to validate all transactions of _Likers_, including token transfers, content publishing, voting and etc. A _validator_ on _LikeCoin chain_ is both a bank and a senator in _LikeCoin DAO_.
 
 To start with, _validators_ of _LikeCoin chain_ include [**National Taipei University of Technology**](https://www.ntut.edu.tw), [**Taiwan FactCheck Center**](https://tfc-taiwan.org.tw),[**Forbole**](https://www.forbole.com), **The** [**Standnews**](https://thestandnews.com), [**Culture and Media Education Foundation**](https://www.cmef.org.hk/eng), [**Hong Kong Creative Open Technology Association**](https://cota.hk), [**Matters Lab**](https://matters.news), [**GLOs**](https://www.glos.world), [**Enyk Security**](https://enyk.io), [**UDomain**](https://www.udomain.com) and [**OurSky**](https://oursky.com).
 
@@ -60,21 +60,21 @@ To start with, _validators_ of _LikeCoin chain_ include [**National Taipei Unive
 
 ### Token issuance <a href="#397c" id="397c"></a>
 
-When _LikeCoin_ was first introduced in 2017, it was an “ERC-20 token” issued on Ethereum blockchain. To distinguish from the new standard used in Liker Land, the legacy token will be stated explicitly as LikeCoin ERC-20 while the new token referred as _LikeCoin token_ or simply _LikeCoin_.
+When _LikeCoin_ was first introduced in 2017, it was an “ERC-20 token” issued on Ethereum blockchain. To distinguish from the new standard used in _LikeCoin DAO_, the legacy token will be stated explicitly as LikeCoin ERC-20 while the new token referred as _LikeCoin token_ or simply _LikeCoin_.
 
 Following the original _LikeCoin_ whitepaper, there will be up to 2bil _LikeCoin_ in the long run. The _LikeCoin_ is assigned to **Token Sale Pool** (360,538,485), **Ecosystem Development Pool** (439,461,515), **Team Pool** (200mil), and **Creators Pool** (1bil) for their corresponding usages. 1bil _LikeCoin_ was minted in Genesis for migration from **Token Sale Pool**, **Ecosystem Development Pool**, **Team Pool**, while **Creators Pool** will be processed in future upgrade.
 
 ### **Migration** <a href="#4ee6" id="4ee6"></a>
 
-As _Liker Land_ starts to operate, tentatively set on Dec 2 2019, _LikeCoin_ will replace LikeCoin ERC-20 as the official token in _Liker Land_, which means content creators will be rewarded in _LikeCoin_. The 1bil _LikeCoin_ at Genesis was stored in a migration pool and the only way to unlock a certain amount of _LikeCoin_ is to migrate the same amount of LikeCoin ERC-20, on a 1:1 basis. A migration page will be provided for _Likers_. LikeCoin ERC-20, however, can still be kept and traded on [Liquid](https://www.liquid.com) for Bitcoin and Ethereum.
+As _LikeCoin DAO_ starts to operate, tentatively set on Dec 2 2019, _LikeCoin_ will replace LikeCoin ERC-20 as the official token in _LikeCoin DAO_, which means content creators will be rewarded in _LikeCoin_. The 1bil _LikeCoin_ at Genesis was stored in a migration pool and the only way to unlock a certain amount of _LikeCoin_ is to migrate the same amount of LikeCoin ERC-20, on a 1:1 basis. A migration page will be provided for _Likers_. LikeCoin ERC-20, however, can still be kept and traded on [Liquid](https://www.liquid.com) for Bitcoin and Ethereum.
 
 When LikeCoin ERC-20 is migrated to _LikeCoin_, the former will be burnt on Ethereum, so that the total number of _LikeCoin plus_ LikeCoin ERC-20 in circulation remains unchanged.
 
-New _LikeCoin_ will be minted at an inflation rate determined by the validators collectively. The inflation rate was set at 1% at the Genesis of _Liker Land_. The newly minted _LikeCoin_ is for rewarding validation of transactions (see **Validating Transaction** below).
+New _LikeCoin_ will be minted at an inflation rate determined by the validators collectively. The inflation rate was set at 1% at the Genesis of _LikeCoin DAO_. The newly minted _LikeCoin_ is for rewarding validation of transactions (see **Validating Transaction** below).
 
 ### Rewarding creativity. Supporting the commons. <a href="#61ef" id="61ef"></a>
 
-With _Liker Land_ being a community of content creators and lovers, appreciation of and rewarding for creativity is a core value.
+With _LikeCoin DAO_ being a community of content creators and lovers, appreciation of and rewarding for creativity is a core value.
 
 In contrast to Like Button of Facebook and other social media, tapping a _LikeCoin button — clapping —_ provides the corresponding creators with tangible rewards. A content can be clapped by a _Liker_ 1–5 times to reflect the degree of appreciation. Each clap represents a vote for the content, helping the creator receive part of the **Creators Pool** allocated for that day.
 
@@ -82,7 +82,7 @@ A _Civic Liker_ enjoys higher weighting for her claps, which other than the **Cr
 
 ### Validating Transaction <a href="#9e68" id="9e68"></a>
 
-In order to reach consensus in a community, some trusted parties have to record all transactions. In traditional world, this is performed by banks which charges various fees. In _Liker Land_, peer-to-peer transactions in general takes 5 seconds at extremely low cost. Such a system is realized collectively by _validators_, endorsed by _Likers_.
+In order to reach consensus in a community, some trusted parties have to record all transactions. In traditional world, this is performed by banks which charges various fees. In _LikeCoin DAO_, peer-to-peer transactions in general takes 5 seconds at extremely low cost. Such a system is realized collectively by _validators_, endorsed by _Likers_.
 
 Endorsement by _Likers_ is reflected by _delegation._ When a _Liker_ delegates her _LikeCoin_ to a _validator_, she is trusting its technical ability, knowledge and integrity, and is letting it represent her. Similar to saving in banks, delegated _LikeCoin_ is still owned by the _Liker_, but it takes 21 days to undelegate and get back the _LikeCoin_ to one’s own wallet.
 
@@ -99,7 +99,7 @@ In blockchain jargon, the above mechanism of decentralized consensus is called B
 
 ## **Governance** <a href="#ca09" id="ca09"></a>
 
-As stated in the very beginning, _Liker Land_ is collectively owned and governed by the community. A [liquid democracy](https://en.wikipedia.org/wiki/Liquid\_democracy) system is designed and deployed upon Genesis to enable the self governance of Liker Land by all _Likers_ though _validators_.
+As stated in the very beginning, _LikeCoin DAO_ is collectively owned and governed by the community. A [liquid democracy](https://en.wikipedia.org/wiki/Liquid\_democracy) system is designed and deployed upon Genesis to enable the self governance of _LikeCoin DAO_ by all _Likers_ though _validators_.
 
 ### Delegation <a href="#c538" id="c538"></a>
 
