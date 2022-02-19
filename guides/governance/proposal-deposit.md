@@ -15,9 +15,9 @@ description: 讓議案投票得以展開
 如何就議案存入保證金
 ----------
 
-### 步驟一：登入 stake.like.co
+### 步驟一：登入 dao.like.co
 
-到 [stake.like.co](https://stake.like.co) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Ledger Nano](../wallet/hardware-wallet.md) 或 [Authcore](../../user-guide/liker-id/register.md) 登入。
+到 [dao.like.co](https://dao.like.co) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Ledger Nano](../wallet/hardware-wallet.md) 或 [Authcore](../../user-guide/liker-id/register.md) 登入。
 
 ![](../../.gitbook/assets/direct-vote-01.png)
 

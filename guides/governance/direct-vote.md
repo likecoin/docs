@@ -18,9 +18,9 @@ description: 委託多少 LikeCoin，就有多少投票權
 [delegation-of-likecoin.md](../stake/delegation-of-likecoin.md)
 {% endcontent-ref %}
 
-### 步驟二：登入 stake.like.co
+### 步驟二：登入 dao.like.co
 
-到 [stake.like.co](https://stake.like.co) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Ledger Nano](../wallet/hardware-wallet.md) 或 [Authcore](../../user-guide/liker-id/register.md) 登入。
+到 [dao.like.co](https://dao.like.co) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Ledger Nano](../wallet/hardware-wallet.md) 或 [Authcore](../../user-guide/liker-id/register.md) 登入。
 
 ![](../../.gitbook/assets/direct-vote-01.png)
 
@@ -38,7 +38,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ### 步驟五：開始投票
 
-點選右上角的「Vote」，然後在頁面右下角出現 Yes（支持）、No（反對）、No with Veto（強烈反對）、Abstain（棄權）四個投票選項。選擇其中一項後點擊「Next」。
+點選右上角的「Vote」，然後在頁面右下角出現&#x20;Yes（支持）、No（反對）、No with Veto（強烈反對）、Abstain（棄權）四個投票選項。選擇其中一項後點擊「Next」。
 
 ![](../../.gitbook/assets/direct-vote-04.png)
 
