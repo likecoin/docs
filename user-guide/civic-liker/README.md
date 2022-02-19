@@ -68,8 +68,8 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 _\*創作者收到讚賞幣需自行兌換成當地貨幣。_
 
-{% content-ref url="civic-liker-faq.md" %}
-[civic-liker-faq.md](civic-liker-faq.md)
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
 {% endcontent-ref %}
 
 ### 【[成為讚賞公民](<be-a-civic-liker (1).md>)】
