@@ -12,11 +12,11 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 委託機制是讚賞公民共和國[流動民主](../governance/liquid-democracy.md)自治機制非常重要的一環。
 
-## 在 dao.like.co 委託 LikeCoin
+## 使用 dao.like.co 委託 LikeCoin
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register.md) 登入 Liker ID。
+到 [dao.like.co](https://dao.like.co) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register.md) 登入。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
@@ -44,9 +44,9 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-05.png>)
 
-### 步驟六：委託成功
+### 步驟六：查看委託
 
-接著點「Send」。
+系統要求簽署確認，Keplr Browser Extension 用戶點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
 
@@ -56,11 +56,11 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
 
-點左手邊菜單「Portfolio」，即可看到 You Stake 一欄顯示成功委託予 Civic Liker 讚賞公民節點。
+點左手邊菜單「Portfolio」，即可看查看已委託的驗證人及委託數量等。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
 
-## 在 Liker Land app 委託 LikeCoin
+## 使用 Liker Land app 委託 LikeCoin
 
 ### 步驟一：選擇驗證人
 

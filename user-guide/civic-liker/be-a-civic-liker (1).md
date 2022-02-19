@@ -26,7 +26,7 @@ description: 贊助創作者方法非常簡單
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co) 網站後選 [Keplr Browser Extension](../liker-id/register-with-keplr.md) 或 [Authcore](../liker-id/register.md) 登入 Liker ID。
+到 [dao.like.co](https://dao.like.co) 網站後選 [Keplr Browser Extension](../liker-id/register-with-keplr.md) 或 [Authcore](../liker-id/register.md) 登入已連結了 Liker ID 的錢包。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
@@ -54,9 +54,9 @@ description: 贊助創作者方法非常簡單
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-05.png>)
 
-### 步驟六：委託成功
+### 步驟六：查看委託
 
-接著點「Send」。
+系統要求簽署確認，Keplr Browser Extension 用戶點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
 
