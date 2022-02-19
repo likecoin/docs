@@ -20,9 +20,9 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ### 步驟二：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Ledger Nano](../wallet/hardware-wallet.md) 或 [Authcore](../../user-guide/liker-id/register.md) 登入。
+到 [dao.like.co](https://dao.like.co) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register.md) 登入。
 
-![](../../.gitbook/assets/direct-vote-01.png)
+![](<../../.gitbook/assets/direct vote 01.png>)
 
 ### &#xD;步驟三：選擇議案
 
@@ -48,7 +48,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ![](../../.gitbook/assets/direct-vote-05.png)
 
-系統要求簽署確認，Keplr Browser Extension 及 Ledger Nano 點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
+系統要求簽署確認，Keplr Browser Extension 用戶點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
 
 ![](../../.gitbook/assets/direct-vote-06.png)
 
