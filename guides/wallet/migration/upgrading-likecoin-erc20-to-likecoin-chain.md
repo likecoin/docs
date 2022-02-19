@@ -4,7 +4,7 @@ description: 請詳細參看所需步驟
 
 # 升級 LikeCoin ERC-20 到 LikeCoin chain
 
-LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin chain](../../governance/likecoin-chain.md)，用戶再不能使用 MetaMask 錢包登入而需要使用 [Liker Land 手機應用程式](https://liker.land/getapp) 或 Keplr。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
+LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin chain](../../governance/likecoin-chain.md)，用戶再不能使用 MetaMask 錢包登入而需要使用 [Keplr](../keplr.md) 或 [Liker Land 手機應用程式](https://liker.land/getapp)。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
 
 留意所有升級步驟必須使用桌面電腦進行，不支援手機升級。
 
@@ -30,7 +30,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 保管助記詞 ( Secret Recovery Phrase ) 或私鑰是用戶的個人責任，請留意任何人也不能為你重設你的 MetaMask 錢包。
 {% endhint %}
 
-### 步驟 2：訪問 Like.co/in <a href="1-likecoin" id="1-likecoin"></a>
+### 步驟 2：訪問 Like.co/in <a href="#1-likecoin" id="1-likecoin"></a>
 
 由於現在的目的是升級 Liker ID 綁定的 MetaMask 錢包中的 LikeCoin，所以你必須使用能操作該 MetaMask 錢包地址的電腦來執行以下步驟。
 
@@ -48,7 +48,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 ![點擊「確認」](../../../.gitbook/assets/likecoin-migration-2.png)
 
-### 步驟 3.2：簽署 <a href="22" id="22"></a>
+### 步驟 3.2：簽署 <a href="#22" id="22"></a>
 
 由於要在你的電子錢包轉帳，需要你的「簽署」。請點擊「簽署」。
 
@@ -66,14 +66,14 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 ![](../../../.gitbook/assets/likecoin-migration-5.png)
 
-### 步驟 4：檢查 LikeCoin 金額 <a href="step-3-check-your-likecoin-balance" id="step-3-check-your-likecoin-balance"></a>
+### 步驟 4：檢查 LikeCoin 金額 <a href="#step-3-check-your-likecoin-balance" id="step-3-check-your-likecoin-balance"></a>
 
- 升級完成後，你可到 [https://like.co/in](https://like.co/in) 檢查你的 LikeCoin 餘額。\
+&#x20;升級完成後，你可到 [https://like.co/in](https://like.co/in) 檢查你的 LikeCoin 餘額。\
 
 
 ![](../../../.gitbook/assets/likecoin-migration-6.png)
 
-### 步驟 5：下載 Liker Land 手機應用程式 <a href="liker-land" id="liker-land"></a>
+### 步驟 5：下載 Liker Land 手機應用程式 <a href="#liker-land" id="liker-land"></a>
 
 你可以到 Google Play store 或 Apple App store，[下載 Liker Land 手機應用程式](https://liker.land/getapp)，以你的社交帳號登入，便可在 app 中查閱你的 LikeCoin 餘額了。
 
