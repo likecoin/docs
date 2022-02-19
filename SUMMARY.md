@@ -96,7 +96,6 @@
     * [其他](user-guide/creator/self-host/sdk.md)
   * [其他寫作平台](user-guide/creator/blogging-platforms/README.md)
     * [香港獨立媒體網](user-guide/creator/blogging-platforms/inmediahk.net.md)
-    * [立場新聞](user-guide/creator/blogging-platforms/thestandnews.md)
     * [illustBuy](user-guide/creator/blogging-platforms/illustbuy.md)
     * [探路客 TIMELOG](user-guide/creator/blogging-platforms/timelog.md)
     * [Tipga](user-guide/creator/blogging-platforms/tipga.md)
