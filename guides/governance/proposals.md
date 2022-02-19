@@ -1,5 +1,5 @@
 ---
-description: 讚賞公民共和國有過甚麼議案？
+description: LikeCoin DAO 有過甚麼議案？
 ---
 
 # 歷史議案
