@@ -8,8 +8,8 @@ Keplr 是 Google Chrome extension，可在 Chrome 和 Brave 等瀏覽器，支�
 
 請參考以下文章的步驟安裝 Keplr。
 
-{% content-ref url="keplr/installation.md" %}
-[installation.md](keplr/installation.md)
+{% content-ref url="keplr/an-zhuang-keplr-liu-lan-qi-cha-jian.md" %}
+[an-zhuang-keplr-liu-lan-qi-cha-jian.md](keplr/an-zhuang-keplr-liu-lan-qi-cha-jian.md)
 {% endcontent-ref %}
 
 ## 轉帳 LikeCoin 到 Keplr <a href="#deposit-your-likecoin-to-keplr" id="deposit-your-likecoin-to-keplr"></a>

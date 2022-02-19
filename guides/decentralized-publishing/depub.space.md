@@ -48,7 +48,7 @@ description: Web3 去中心化 Twitter
 
 ### 步驟三
 
-在 Liker Land 手機應用程式點二維碼圖示調用鏡頭，並掃瞄步驟二的二維碼。
+在 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄步驟二的二維碼。
 
 ![](<../../.gitbook/assets/depub.SPACE 04.png>)
 

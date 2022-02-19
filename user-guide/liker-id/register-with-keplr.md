@@ -33,8 +33,8 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 （若已安裝了 Keplr 錢包，請跳過此步驟。）
 
-{% content-ref url="../../guides/wallet/keplr/installation.md" %}
-[installation.md](../../guides/wallet/keplr/installation.md)
+{% content-ref url="../../guides/wallet/keplr/an-zhuang-keplr-liu-lan-qi-cha-jian.md" %}
+[an-zhuang-keplr-liu-lan-qi-cha-jian.md](../../guides/wallet/keplr/an-zhuang-keplr-liu-lan-qi-cha-jian.md)
 {% endcontent-ref %}
 
 ### 步驟二：註冊 Liker ID
