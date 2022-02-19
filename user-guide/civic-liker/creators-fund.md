@@ -14,4 +14,4 @@ The funding source is from LikeCoin community pool, budget is roughly matched wi
 
 Civic Likers have much greater weight than free Liker in Fund distribution.
 
-Creators can [check their Creators Fund reward](https://docs.like.co/user-guide/creatortools/rewards) in Liker Land app.
+Creators can [check their Creators Fund reward ](../creatortools/rewards/)in Liker Land app.

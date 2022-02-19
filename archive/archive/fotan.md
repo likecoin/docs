@@ -30,15 +30,15 @@ The delegate, redelegate and undelegate function is not available during upgrade
 
 ### If I LIKE pay during the upgrade, will my LikeCoin disappear?
 
-As the [LIKE pay](like-pay.md) wouldn't get through, the LikeCoin is still here. You can LIKE pay again after the upgrade.
+As the [LIKE pay](../../general-guides/wallet/like-pay.md) wouldn't get through, the LikeCoin is still here. You can LIKE pay again after the upgrade.
 
 ### Can I trade my LikeCoin during the upgrade?
 
-All [exchanges](../trade/) supporting LikeCoin will stop LIKE deposit or withdrawal on August 18 and resume trade after upgrade. Please take note of the announcement by the respective exchange.
+All [exchanges](../../general-guides/trade/) supporting LikeCoin will stop LIKE deposit or withdrawal on August 18 and resume trade after upgrade. Please take note of the announcement by the respective exchange.
 
 ### Will upgrading from the ERC-20 procedure change?
 
-The procedure of [migrating LikeCoin ERC-20 to LikeCoin chain](migration/) will remain the same, however we suggested that you perform the upgrade ASAP.
+The procedure of [migrating LikeCoin ERC-20 to LikeCoin chain](../../general-guides/wallet/migration/) will remain the same, however we suggested that you perform the upgrade ASAP.
 
 ### If my Liker ID got an issue after the upgrade, what should I do?
 

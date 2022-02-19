@@ -7,9 +7,9 @@ description: Civic Liker Web 3
 ### Schedule of the new scheme
 
 * New version of Civic Liker Web3 (beta) is available on 21 February 2022.&#x20;
+* Liker Land stopped supporting credit card payment and stopped new Civic Liker registration until the new scheme rolls out.
 * Credit card / Paypal renewal payment for the existing subscription will be automatically stopped on the next billing day. Until then, the Civic Liker status is still in effect.
 * The balance that an existing Civic Liker has paid will be mixed with the delegation rewards in the new scheme; he/she can continue to reward creators in the form of clicking LikeCoin buttons.&#x20;
-* Liker Land stopped supporting credit card payment and stopped new Civic Liker registration until the new scheme rolls out.
 * Annual subscriptions: LikeCoin equivalent to the remaining months will be pro rata refunded
 
 ### Questions
