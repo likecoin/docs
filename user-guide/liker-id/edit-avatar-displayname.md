@@ -11,14 +11,6 @@ Your name and avatar will appear in various Liker Land scenarios:
 
 ![](<../../.gitbook/assets/Screenshot 2021-11-19 at 2.15.36 PM.png>)
 
-### Sponsor Link
-
-{% content-ref url="../../archive/archive/creatortools/sponsor-link.md" %}
-[sponsor-link.md](../../archive/archive/creatortools/sponsor-link.md)
-{% endcontent-ref %}
-
-![](../../.gitbook/assets/sponsor-link-en.png)
-
 ### Portfolio Page
 
 {% content-ref url="../creatortools/portfolio-page.md" %}
