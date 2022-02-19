@@ -17,9 +17,9 @@ Please note, if the proposal fails to achieve quorum, or gets more than 1/3 voti
 
 ### Step 1. Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md), [Ledger Nano](../wallet/hardware-wallet.md) or [Authcore](../../user-guide/liker-id/register.md) to login.
+Go to [dao.like.co](https://dao.like.co) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) or [Authcore](../../user-guide/liker-id/register.md) to login.
 
-![](../../.gitbook/assets/direct-vote-01.png)
+![](<../../.gitbook/assets/direct vote 01.png>)
 
 ### &#xD;&#xD;Step 2. Select the proposal to deposit
 
@@ -47,7 +47,7 @@ Input the amount that you would like to deposit for the proposal.
 
 ![](../../.gitbook/assets/proposal-deposit-04.png)
 
-Confirmation is required. Keplr Browser Extension and Ledger Nano users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+Confirmation is required. Keplr Browser Extension users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
 
 
 
