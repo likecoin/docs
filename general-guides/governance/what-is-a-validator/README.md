@@ -8,7 +8,7 @@ description: What is a validator?
 
 ## Bank + Senator
 
-A validator on LikeCoin chain is both a bank and a senator in Liker Land.
+A validator on LikeCoin chain is both a bank and a senator in LikeCoin DAO.
 
 Operates a set of servers 24x7 to validate all transactions of Likers, including token transfers, content publishing, voting and etc.
 

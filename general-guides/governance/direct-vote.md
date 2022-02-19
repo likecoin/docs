@@ -32,7 +32,7 @@ Go to the left hand side menu and select "Proposal", click on the proposal which
 
 ### &#xD;Step 4. Proposal detail page
 
-The proposal page listed out the proposal content, current votes, etc. Only validators wil have a thumbnail when they vote.
+The proposal page listed out the proposal content, current votes, etc. Only validators will have a thumbnail when they vote.
 
 ![](../../.gitbook/assets/direct-vote-03.png)
 
@@ -48,7 +48,7 @@ Click on the "Vote" on the top right hand corner, and the lower right hand corne
 
 ![](../../.gitbook/assets/direct-vote-05.png)
 
-Confirmation is required. Authcore users directly click "Send", Keplr Browser Extension and Ledger Nano will need to accept a pop-up box or press a button to confirm it.
+Confirmation is required. Keplr Browser Extension and Ledger Nano users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
 
 
 
