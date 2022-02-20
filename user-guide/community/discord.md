@@ -16,22 +16,26 @@ description: A communication platform
 
 ### English Channel
 
+
+
 | **Channel Name**        | **Description**                                    |
 | ----------------------- | -------------------------------------------------- |
 | welcome 👋🏼            | Landing LikeCoin Discord                           |
-| self-intro 🙋           | Tell us about yourself                             |
 | random 👥               | General Discussion                                 |
 | developers 🛠           | Anything related to LikeCoin technical development |
 | iscn 📚                 | Decentralized Publishing discussion                |
+| trade 🧪                | Discussion about Osmosis                           |
+| airdrop 🪂              | LikeCoin AirDrop                                   |
 | bug-report 🐛           | Report bugs on Liker Land DApps and network        |
-| validators 🆙           | For validators                                     |
-| dex-osmosis 🧪          | Discussion about Osmosis                           |
 | ibc-status 🤖           | Monitor IBC status                                 |
-| dex-emeris 🔮           | Discussion about Emeris                            |
 | proposal-discussions ⚖  | LikeCoin governance discussion                     |
-| apply-for-delegation 💰 | Apply delegation from LikeCoin community funds     |
+| validators 🆙           | For validators                                     |
+| apply-for-delegation 💰 | Apply delegation from LikeCoin community fund      |
 | mainnet-node-status 📊  | Check out of the validator node status             |
-| grants 💡               | LikeCoin Grants English discussion                 |
+| grants 💡               | LikeCoin Grants discussion                         |
+| hackatom 🪐             | For the HackAtom event                             |
+| docs 📑                 | LikeCoin document enhancement                      |
+| marketing 🌟            | Marketing DAO                                      |
 
 ### Chinese Channel
 
