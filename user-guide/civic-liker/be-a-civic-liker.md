@@ -56,7 +56,7 @@ After confirming that the amount and gas fee are correct, click "Next".
 
 ### Step 6: Check your delegation
 
-Confirmation is required. Keplr Browser Extension users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
 

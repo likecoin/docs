@@ -14,27 +14,61 @@ Delegation means delegating LikeCoin to one or more [validators](../governance/w
 
 Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) and is vital to the autonomy for The Republic of Liker Land.
 
-There are two ways to stake LikeCoin: via [stake.like.com](https://stake.like.co), or via [Liker Land app](https://liker.land/getapp).
+There are two ways to stake LikeCoin: via [dao.like.com](https://dao.like.co/welcome), or via [Liker Land app](https://liker.land/getapp).
 
-## Delegate via stake.like.co
+## Delegate via dao.like.co
 
-Checkout the below tutorial clip for staking via stake.like.co.
+Checkout the below tutorial clip for staking via dao.like.co.
 
 {% embed url="https://youtu.be/7soCRDCGYCw" %}
 
-### Step 1: Select a validator&#xD;
+### Step 1: Login dao.like.co
 
-Login [stake.like.co](https://stake.like.co) by one of the provided method.  Choose "Validators" in the menu on the left, then choose one validator on the right.
+Go to [dao.like.co](https://dao.like.co) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register.md) to login to the wallet address bind with a Liker ID
 
-### **Step 2: Decide how much to stake**
+![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
-Click the "stake" button on the upper right corner of the screen, a pop up "Stake" window will appear.  Fill in the the amount to stake, and confirm the transaction and gas fee.
+### Step 2: Select a validator&#xD;
 
-### **Step 3: Check your delegation**
+Click "Validators" on the left hand side menu, select the validator that you want to delegate.
 
-You should be able to check your new stakes in the portfolio page.
+Please note the commission rate of each validator may not be the same.
 
+![](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
 
+### Step 3: Stake
+
+Click "Stake" in the upper right corner of the validator to delegate.
+
+![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
+
+### Step 4: Decide how much to stake
+
+The Stake page appears, enter the amount of LikeCoin you want to delegate, and click "Next".
+
+![](<../../.gitbook/assets/Civic Liker Web 3-04.png>)
+
+### Step 5: Confirm the amount and gas fee
+
+After confirming that the amount and gas fee are correct, click "Next".
+
+![](<../../.gitbook/assets/Civic Liker Web 3-05.png>)
+
+### Step 6: Check your delegation
+
+Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+
+![](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
+
+After the Send and confirming screen appears, Successfully staked! appears, which means the delegation is successfully completed.
+
+![](<../../.gitbook/assets/Civic Liker Web 3-07.png>)
+
+![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
+
+Click "Portfolio" on the left hand side menu, and you can see "You Stake" showing the successful delegation and delegation amount.
+
+![](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
 
 ## Delegate via Liker Land
 

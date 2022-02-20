@@ -47,7 +47,7 @@ Input the amount that you would like to deposit for the proposal.
 
 ![](../../.gitbook/assets/proposal-deposit-04.png)
 
-Confirmation is required. Keplr Browser Extension users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
 
 
 
