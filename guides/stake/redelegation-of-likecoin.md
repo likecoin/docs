@@ -12,7 +12,7 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 ### 步驟二：選擇已委託的驗證人
 
-到左手邊菜單選擇「Portfolio」，在 Your Stake 點需要進行轉移委託的驗證人。
+到左手邊菜單選擇「Portfolio」，在 Your Stake 點經已委託了的驗證人。
 
 ![](<../../.gitbook/assets/dao.like.co unstake 01.png>)
 
@@ -22,7 +22,7 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 ### 步驟三：選擇新的驗證人
 
-出現 Restake 頁面，在 To: 下拉選單選擇需要轉移委託的驗證人及輸入你所需要轉移委託的 LikeCoin 數量，再點「Next」。
+出現 Restake 頁面，在 To: 下拉選單選擇需要轉移委託的新驗證人及輸入你所需要轉移委託的 LikeCoin 數量，再點「Next」。
 
 ![](<../../.gitbook/assets/dao.like.co restake 03.png>)
 
