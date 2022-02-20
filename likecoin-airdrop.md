@@ -145,8 +145,26 @@ Vote on a proposal Visit [https://dao.like.co/proposals/](https://dao.like.co/pr
 
 ![](<.gitbook/assets/Airdrop 16.png>)
 
-Click "Vote now" to vote for a proposal, and click "Done" to claim a 25% airdrop when finished. For tutorial about voting:
+Click "Vote now" to vote for a proposal on [dao.like.co](https://dao.like.co), and click "Done" to claim a 25% airdrop when finished. For tutorial about voting:
 
 {% content-ref url="general-guides/governance/direct-vote.md" %}
 [direct-vote.md](general-guides/governance/direct-vote.md)
 {% endcontent-ref %}
+
+## Airdrop claim successful
+
+After claiming the airdrop, you will see that My Progress is 100%, which means all the airdrop has been fully claimed.
+
+![](<.gitbook/assets/Airdrop 17.png>)
+
+Other than BigDipper, you can also go to the "Transactions" page of [dao.like.co](https://dao.like.co) to view the records of the airdrops you have received.
+
+![](<.gitbook/assets/Airdrop 18.png>)
+
+{% hint style="warning" %}
+If the airdrop claim is unsuccessful, e.g. you cannot log in another account to receive the airdrop. Please make sure that you are completely logged out from Liker Land and clear your browser's cookies then try again.
+{% endhint %}
+
+{% hint style="warning" %}
+Due to the fact that there will be a large number of qualifiers to claim the airdrop, if operation timed out, please try to claim it later.
+{% endhint %}
