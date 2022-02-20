@@ -45,7 +45,7 @@ description: 讓議案投票得以展開
 
 ![](../../.gitbook/assets/proposal-deposit-04.png)
 
-系統要求簽署確認，Keplr Browser Extension 用戶點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
+系統要求簽署確認，Keplr 用戶點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
 
 ![](../../.gitbook/assets/proposal-deposit-05.png)
 
