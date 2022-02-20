@@ -79,13 +79,17 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 ![](<.gitbook/assets/Airdrop 09.png>)
 
+回到任務，顯示經已完成。
+
+![](<.gitbook/assets/Airdrop 10.png>)
+
 ## #2 去中心推文
 
 點任務 #2 Decentralize Tweeting 出現介紹
 
 #### Decentralize Tweeting 去中心推文
 
-LikeCoin 去中心出版。 通過在鏈出版永久擁有你的內容，直接獲得讀者獎勵。 LikeCoin 是一種能讓你構建去中心 Twitter、Instagram、博客等 DApps 的技術協議。
+LikeCoin [去中心出版](guides/decentralized-publishing/)。 通過在鏈出版永久擁有你的內容，直接獲得讀者獎勵。 LikeCoin 是一種能讓你構建去中心 Twitter、Instagram、博客等 DApps 的技術協議。
 
 ![](<.gitbook/assets/Airdrop 11.png>)
 
@@ -93,7 +97,7 @@ LikeCoin 去中心出版。 通過在鏈出版永久擁有你的內容，直接�
 
 #### Decentralzed Twitter 去中心推特
 
-鏈上原生，預設為隱私。到 [https://depub.space/](https://depub.space)，一個在 IPFS 上運行的去中心推特。與 Keplr 或 Wallet Connect 連接發佈任何內容。 該推文將以獨有的 [ISCN ( International Standard Content Number )](guides/decentralized-publishing/what-is-iscn.md) 發佈到 LikeCoin chain。 你的錢包裡需要預留少量 LIKE 支付 [Gas Fee 手續費](guides/wallet/transaction-fee.md)。
+鏈上原生，預設尊重私隱。到 [https://depub.space/](https://depub.space)，一個在 IPFS 上運行的去中心推特。與 Keplr 或 Wallet Connect 連接發佈任何內容。 該推文將以獨有的 [ISCN ( International Standard Content Number )](guides/decentralized-publishing/what-is-iscn.md) 發佈到 LikeCoin chain。 你的錢包裡需要預留少量 LIKE 支付 [Gas Fee 手續費](guides/wallet/transaction-fee.md)。
 
 ![](<.gitbook/assets/Airdrop 12.png>)
 
@@ -133,7 +137,7 @@ LikeCoin 去中心出版。 通過在鏈出版永久擁有你的內容，直接�
 
 #### LikeCoin DAO
 
-LikeCoin 是一個由對內容充滿熱情的創作者及讀者組成的社群。 社群由流動民主管理，每個特份者都可以提出議案及投票。 去年通過了 30 多項議案以決定如何使用資源、制定什麼政策以及誰人應該是人民的代表。
+LikeCoin 是一個由對內容充滿熱情的創作者及讀者組成的社群。 社群由[流動民主](guides/governance/liquid-democracy.md)管理，每個特份者都可以提出議案及投票。 去年通過了 30 多項議案以決定如何使用資源、制定什麼政策以及誰人應該是人民代表。
 
 歡迎來到 LikeCoin DAO。
 
@@ -143,7 +147,7 @@ LikeCoin 是一個由對內容充滿熱情的創作者及讀者組成的社群�
 
 #### Vote on a proposal 對議案進行投票
 
-到 [https://dao.like.co/proposals/](https://dao.like.co/proposals/) 並連接你的 [Keplr](user-guide/liker-id/register-with-keplr.md) 或 [Authcore](user-guide/liker-id/register.md)。 在「Proposal」頁面中，對其中一項議案進行投票。
+到 [https://dao.like.co/proposals/](https://dao.like.co/proposals/) 並連接你的 [Keplr](user-guide/liker-id/register-with-keplr.md) 或 [Authcore](user-guide/liker-id/register.md)。 在「Proposals」頁面中，對其中一項議案進行投票。
 
 ![](<.gitbook/assets/Airdrop 16.png>)
 
