@@ -19,6 +19,7 @@ description: LikeCoin 常見問題
 * [ISCN 支援甚麼內容格式？](guides/decentralized-publishing/content-type.md)
 * [怎樣註冊 ISCN？ ](guides/decentralized-publishing/app.like.co.md)
 * [可以大量註冊 ISCN 嗎？](guides/decentralized-publishing/iscn-batch-uploader.md)
+* [甚麼是 depub.SPACE？](guides/decentralized-publishing/depub.space.md)
 
 ## [LikeCoin 項目概覽](guides/about/)
 
@@ -39,7 +40,6 @@ description: LikeCoin 常見問題
 * [LikeCoin 有區塊鏈瀏覽器嗎？](guides/wallet/big-dipper.md)
 * [操作 LikeCoin 需要手續費嗎？](guides/wallet/transaction-fee.md)
 * [我的舊版 LikeCoin ERC-20 應該怎處理？](guides/wallet/migration/)
-* [甚麼是 FoTan 升級，對我的錢包有影響嗎？](cun-dang/archive/fotan.md)
 
 ## [交易](guides/trade/)
 
@@ -57,12 +57,12 @@ description: LikeCoin 常見問題
 
 ## [治理](guides/governance/)
 
-* [所謂讚賞公民共和國，有民主麼？](guides/governance/liquid-democracy.md)
+* [所謂 LikeCoin DAO 有民主麼？](guides/governance/liquid-democracy.md)
 * [LikeCoin chain 是甚麼？](guides/governance/likecoin-chain.md)
 * [甚麼是驗證人？](guides/governance/what-is-a-validator/)
 * [如何成為驗證人？](developer-resources/become-a-validator.md)
 * [驗證人如何獲得社群基金的委託？](guides/governance/what-is-a-validator/community-delegation.md)
-* [讚賞公民共和國有過甚麼議案？](guides/governance/proposals.md)
+* [LikeCoin DAO 有過甚麼議案？](guides/governance/proposals.md)
 * [如何為議案存入保證金？](guides/governance/proposal-deposit.md)&#x20;
 * [如何就議案投票？](guides/governance/direct-vote.md)
 * [LikeCoin Grants 計畫又是甚麼？](guides/governance/likecoin-grants.md)
@@ -87,19 +87,15 @@ description: LikeCoin 常見問題
 * [在 YouTube 也可以按讚？要怎樣做呢？](user-guide/creator/youtube.md)
 * [如何在自架 WordPress 加入 LikeCoin button？](user-guide/creator/wordpress.md)
 * [我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](user-guide/creator/blogging-platforms/)
-* [別人可透過甚麼方法贊助我？](cun-dang/archive/creatortools/sponsor-link.md)
 * [如何吸引更多人贊助我？](user-guide/creatortools/creators-pitch.md)
 * [個人主頁可以怎樣幫助我展示自己的作品？](user-guide/creatortools/portfolio-page.md)
 * [如何查看每週、每天、每篇文章所獲得的讚賞收益？](user-guide/creatortools/rewards/)
-* [如何查看有多少讚賞公民支持我？](cun-dang/archive/creatortools/support.md)
 * [如何查看每月創作進度？](user-guide/creatortools/monthly-report.md)
 
-### [Civic Liker](user-guide/civic-liker/)
+### [Civic Liker](faq.md#civic-liker)
 
 * [為何要成為讚賞公民？有甚麼福利嗎？](user-guide/civic-liker/rationale-and-benefits.md)
-* [如何訂閱讚賞公民？](user-guide/civic-liker/be-a-civic-liker.md)
-* [如何修改付款信用卡資料？](user-guide/civic-liker/change-credit-card.md)
-* [如何退訂「讚賞公民」？](user-guide/civic-liker/unsubscribe-civic-liker.md)
+* [如何成為讚賞公民？](faq.md#civic-liker)
 
 ### [Liker ID](user-guide/liker-id/)
 
