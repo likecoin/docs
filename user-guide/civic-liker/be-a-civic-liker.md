@@ -62,9 +62,7 @@ Confirmation is required. Keplr users will need to approve a pop-up box or press
 
 After the Send and confirming screen appears, Successfully staked! appears, which means the delegation is successfully completed.
 
-![](<../../.gitbook/assets/Civic Liker Web 3-07.png>)
-
-![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
+![](<../../.gitbook/assets/Civic Liker Web 3-07.png>) ![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
 
 Click "Portfolio" on the left hand side menu, and you can see "You Stake" showing the successful delegation to the Civic Liker node.
 

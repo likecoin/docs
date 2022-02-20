@@ -62,13 +62,29 @@ Confirmation is required. Keplr users will need to approve a pop-up box or press
 
 After the Send and confirming screen appears, Successfully staked! appears, which means the delegation is successfully completed.
 
-![](<../../.gitbook/assets/Civic Liker Web 3-07.png>)
-
-![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
+![](<../../.gitbook/assets/Civic Liker Web 3-07.png>) ![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
 
 Click "Portfolio" on the left hand side menu, and you can see "You Stake" showing the successful delegation and delegation amount.
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
+
+### Step 7: Withdraw Rewards
+
+Click "Portfolio" on the left hand side menu, and click on "Claim Rewards" on the top right hand corner.
+
+![](<../../.gitbook/assets/dao.like.co withdraw rewards 01.png>)
+
+The Claim Rewards page appears, click "Next".
+
+![](<../../.gitbook/assets/dao.like.co withdraw rewards 02.png>)
+
+Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+
+![](<../../.gitbook/assets/dao.like.co withdraw rewards 03.png>)
+
+After the Send and confirming screen appears, Successfully withdrawal! appears, which means your rewards is successfully claimed.
+
+![](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
 
 ## Delegate via Liker Land
 
@@ -107,20 +123,14 @@ Click \[Confirm], after a few seconds it displays "Transaction Completed", which
 
 ![](<../../.gitbook/assets/delegate-3-en (1).png>)
 
+Validator with your delegation will be displayed as green.
+
 ### **Step 3: Relax and Withdraw Rewards!**
 
 Going back to the wallet page, you can drag down the screen and refresh wallet status.
 
 The LikeCoin rewards earned from delegation will be released every 5 or 6 seconds. quicker than monthly interest from the bank! You can check out the \[Delegating Rewards] amount from the validator page, or click \[Withdraw Rewards] to save the rewards back to your wallet. The minimum withdrawal amount on the Liker Land app is 1 LikeCoin.
 
-Validator with your delegation will be displayed as green.
-
 {% hint style="warning" %}
 [Transaction fee](../wallet/transaction-fee.md) is required for ‌Withdraw Rewards.
 {% endhint %}
-
-You may also want to check out the following for delegation by hardware wallet:
-
-{% content-ref url="../wallet/hardware-wallet.md" %}
-[hardware-wallet.md](../wallet/hardware-wallet.md)
-{% endcontent-ref %}
