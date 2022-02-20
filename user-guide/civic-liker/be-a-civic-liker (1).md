@@ -42,7 +42,7 @@ description: 贊助創作者方法非常簡單
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
 
-### 步驟四：輸入委託數量
+### 步驟四：輸入委託金額
 
 出現 Stake 頁面，輸入你所需要委託的 LikeCoin 數量，再點「Next」。
 
@@ -62,11 +62,9 @@ description: 贊助創作者方法非常簡單
 
 出現 Send and confirming 畫面後再出現 Successfully staked! 即順利完成委託。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-07.png>)
+![](<../../.gitbook/assets/Civic Liker Web 3-07.png>) ![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
 
-![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
-
-點左手邊菜單「Portfolio」，即可看到 You Stake 一欄顯示成功委託予 Civic Liker 讚賞公民節點。
+點左手邊菜單選擇「Portfolio」，即可看到 You Stake 一欄顯示成功委託予 Civic Liker 讚賞公民節點。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
 

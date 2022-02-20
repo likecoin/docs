@@ -32,7 +32,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
 
-### 步驟四：輸入委託數量
+### 步驟四：輸入委託金額
 
 出現 Stake 頁面，輸入你所需要委託的 LikeCoin 數量，再點「Next」。
 
@@ -52,13 +52,29 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 出現 Send and confirming 畫面後再出現 Successfully staked! 即順利完成委託。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-07.png>)
+![](<../../.gitbook/assets/Civic Liker Web 3-07.png>) ![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
 
-![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
-
-點左手邊菜單「Portfolio」，即可看查看已委託的驗證人及委託數量等。
+點左手邊菜單選擇「Portfolio」，即可看查看已委託的驗證人及委託數量等。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
+
+### 步驟七：領取收益
+
+到左手邊菜單選擇「Portfolio」，再點右上角「Claim Rewards」。
+
+![](<../../.gitbook/assets/dao.like.co withdraw rewards 01.png>)
+
+出現 Claim Rewards 頁面，點「Next」。
+
+![](<../../.gitbook/assets/dao.like.co withdraw rewards 02.png>)
+
+系統要求簽署確認，Keplr 用戶點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
+
+![](<../../.gitbook/assets/dao.like.co withdraw rewards 03.png>)
+
+出現 Send and confirming 畫面後再出現 Successfully withdrawal! 即成功領取收益。
+
+![](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
 
 ## 使用 Liker Land app 委託 LikeCoin
 
@@ -90,23 +106,17 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](../../.gitbook/assets/delegate-3.png)
 
+已委託的驗證人，會在下方列表中顯示為綠色。
+
 ### 步驟三：領取收益，躺著賺回報吧！
 
 回到錢包的頁面，你可以下拉刷新錢包的狀態。
 
 回饋金額會 5 至 6 秒派發一次 - 什麼？跟銀行的每月派息快太多了吧！你可在錢包驗證人頁面中的 「未領取收益」欄查看累積的回饋金額，或按「領取收益」把回報存進錢包，留意 Liker Land 手機應用程式最低收益存進數量為 1 LikeCoin，少於 1 LikeCoin 的收益將不能存進錢包。
 
-已委託的驗證人，會在下方列表中顯示為綠色。
-
 {% hint style="warning" %}
 留意領取收益需要[手續費](../wallet/transaction-fee.md)。
 {% endhint %}
-
-你也許想看看如何使用硬件錢包委託 LikeCoin：
-
-{% content-ref url="../wallet/hardware-wallet.md" %}
-[hardware-wallet.md](../wallet/hardware-wallet.md)
-{% endcontent-ref %}
 
 ### 了解更多有關「委託」的原理
 
