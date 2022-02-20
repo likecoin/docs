@@ -16,7 +16,7 @@ Login your [Keplr](../wallet/keplr.md) Wallet and go to [depub.SPACE](https://de
 
 ### Step 2
 
-Click "Keplr Wallet" and a pop-up window appears, click "Approve".
+Click "Keplr Wallet" and a pop-up window appears requesting connection, click "Approve".
 
 ![](<../../.gitbook/assets/depub.SPACE 02.png>) ![](<../../.gitbook/assets/depub.SPACE 03-K.png>)
 
@@ -54,7 +54,7 @@ On the Liker Land app, click the QR Code icon to bring up the camera, and scan t
 
 ### Step 4
 
-In the pop-up window, click "Approve".
+The depub.SPACE window will pop-up, click "Approve".
 
 ![](<../../.gitbook/assets/depub.SPACE 05+6-en.png>)
 

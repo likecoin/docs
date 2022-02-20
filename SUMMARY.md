@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Decentralized Publishing](README.md)
+* [LikeCoin Airdrop](likecoin-airdrop.md)
 * [FAQ](faq.md)
 
 ## 🔬 Developer Guide <a href="#developer" id="developer"></a>
