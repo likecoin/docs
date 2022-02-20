@@ -6,7 +6,31 @@ description: >-
 
 # Undelegation of LikeCoin
 
-### **Undelegation of LikeCoin from your validator**
+## **Undelegate via dao.like.co**
+
+1\. Go to [dao.like.co](https://dao.like.co) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register.md) to login.
+
+2\. Click "Portfolio" on the left hand side menu on Your Stake click on the validator that you need to unstake.
+
+![](<../../.gitbook/assets/dao.like.co unstake 01.png>)
+
+3\. Click "Unstake" in the upper right corner of the validator to delegate.
+
+![](<../../.gitbook/assets/dao.like.co unstake 02.png>)
+
+4\. The Unstake page appears, enter the amount of LikeCoin you want to undelegate, and click "Next".
+
+![](<../../.gitbook/assets/dao.like.co unstake 03.png>)
+
+5\. Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+
+![](<../../.gitbook/assets/dao.like.co unstake 04.png>)
+
+6\. After the Send and confirming screen appears, Successfully unstaked! appears, which means undelegation completed.
+
+![](<../../.gitbook/assets/dao.like.co unstake 05.png>) ![](<../../.gitbook/assets/dao.like.co unstake 06.png>)
+
+## **Undelegate via Liker Land**
 
 If you delegated LikeCoin to a validator but you want to get them back, you can utilize the \[Undelegate] function of [Liker Land app](https://liker.land/getapp). Please follow the steps:
 
@@ -16,7 +40,7 @@ If you delegated LikeCoin to a validator but you want to get them back, you can 
 
 ![](../../.gitbook/assets/undelegation-en.png)
 
-### **Attention regarding Undelegation**
+## **Attention regarding Undelegation**
 
 Once you've confirmed your undelegation, the following happens:
 

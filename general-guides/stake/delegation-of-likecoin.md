@@ -24,7 +24,7 @@ Checkout the below tutorial clip for staking via dao.like.co.
 
 ### Step 1: Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register.md) to login to the wallet address bind with a Liker ID
+Go to [dao.like.co](https://dao.like.co) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register.md) to login.
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
