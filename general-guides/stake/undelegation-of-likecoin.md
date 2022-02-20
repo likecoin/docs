@@ -10,11 +10,11 @@ description: >-
 
 1\. Go to [dao.like.co](https://dao.like.co) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register.md) to login.
 
-2\. Click "Portfolio" on the left hand side menu on Your Stake click on the validator that you need to unstake.
+2\. Click "Portfolio" on the left hand side menu, on Your Stake and click on the validator that you need to undelegate.
 
 ![](<../../.gitbook/assets/dao.like.co unstake 01.png>)
 
-3\. Click "Unstake" in the upper right corner of the validator to delegate.
+3\. Click "Unstake" on the upper right corner of the validator to undelegate.
 
 ![](<../../.gitbook/assets/dao.like.co unstake 02.png>)
 

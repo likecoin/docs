@@ -38,7 +38,7 @@ Please note the commission rate of each validator may not be the same.
 
 ### Step 3: Stake
 
-Click "Stake" in the upper right corner of the validator to delegate.
+Click "Stake" on the upper right corner of the validator to delegate.
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
 

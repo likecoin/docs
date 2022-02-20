@@ -4,6 +4,40 @@ description: Transfer the delegated LikeCoin to another validator
 
 # Redelegation of LikeCoin
 
+## Re**delegate via dao.like.co**
+
+### Step 1: Login dao.like.co
+
+Go to [dao.like.co](https://dao.like.co) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register.md) to login.
+
+### **Step 2: Select the validator with delegation**
+
+Click "Portfolio" on the left hand side menu, on Your Stake click on the validator that you delegated.
+
+![](<../../.gitbook/assets/dao.like.co unstake 01.png>)
+
+Click "Restake" on the upper right corner of the validator to redelegate.
+
+![](<../../.gitbook/assets/dao.like.co restake 02.png>)
+
+### Step 3: Select the new validator to delegate
+
+The Restake page appears, on To: field select the validator that you want to redelegate to and enter the amount of LikeCoin you want to redelegate, and click "Next".
+
+![](<../../.gitbook/assets/dao.like.co restake 03.png>)
+
+### Step 4: Confirm redelegation
+
+Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+
+![](<../../.gitbook/assets/dao.like.co restake 04.png>)
+
+After the Send and confirming screen appears, Successfully restaked! appears, which means redelegation completed.
+
+![](<../../.gitbook/assets/dao.like.co restake 05.png>) ![](<../../.gitbook/assets/dao.like.co restake 06.png>)
+
+## **Redelegate via Liker Land**
+
 [Liker Land app](https://liker.land/getapp) \[Redelegate] function helps users to transfer the delegated LikeCoin from one validator to another. LikeCoin will be transferred immediately after confirmation, voting power of the validator is affected too. The newly delegated LikeCoin receives rewards according to the rewards percentage of the new validator.
 
 Steps for Redelegation:
@@ -26,7 +60,7 @@ Details of redelegation are displayed, check them carefully, click \[Confirm] an
 
 ![](../../.gitbook/assets/img\_2331.PNG)
 
-### **Beware of cooling-off period**
+## **Beware of cooling-off period**
 
 The transferred LikeCoin got a 21 days cooling-off period, they cannot be used in any way. Please note.
 
