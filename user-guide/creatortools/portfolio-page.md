@@ -12,7 +12,6 @@ Portfolio Page helps user to share their reading history, The Portfolio Page url
 
 The left hand side of the Portfolio Page displays information of the user, including [Liker ID](../liker-id/), name and [creator pitch](creators-pitch.md). If the user is a [Civic Liker](../civic-liker/), the date he/she started to be a Civic Liker and with the following functions:
 
-* Become a Civic Liker - If Readers click on it and become a Civic Liker, the content creators can receive monthly support in LikeCoin. Read more about [Civic Liker](../civic-liker/).&#x20;
 * Follow - Click and follow the user as a [Content Jockey](../liker-land/superlike.md)
 * [LIKE Pay](../../developer/like-pay/)－Transfer LikeCoin to the user
 
@@ -22,10 +21,10 @@ The left hand side of the Portfolio Page displays information of the user, inclu
 
 If the content creator [Super Liked his/her own works](../liker-land/superlike.md), they will be displayed here. Content creators have to [be a Civic Liker](../civic-liker/) to Super Liker their own work and this action cannot earn LikeCoin from creators fund.
 
-![](../../.gitbook/assets/portfolio-page-1-en.png)
+![](<../../.gitbook/assets/Portfolio Page 1-en.png>)
 
 ## Super Likes
 
 Super Likes history displayed all the other works and articles Super Liked by the user.
 
-![](<../../.gitbook/assets/portfolio-page-2-en (1).png>)
+![](<../../.gitbook/assets/Portfolio Page 2-en.png>)
