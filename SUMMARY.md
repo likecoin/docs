@@ -1,6 +1,7 @@
 # Table of contents
 
 * [LikeCoin - 去中心出版](README.md)
+* [LikeCoin 空投](likecoin-kong-tou.md)
 * [LikeCoin 答客問](faq.md)
 
 ## 📙 指南 <a href="#guides" id="guides"></a>

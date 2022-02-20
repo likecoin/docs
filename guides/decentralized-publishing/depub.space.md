@@ -16,7 +16,7 @@ description: Web3 去中心化 Twitter
 
 ### 步驟二
 
-點「Keplr Wallet」後彈出視窗，點「Approve」。
+點「Keplr Wallet」後彈出視窗要求連結，點「Approve」。
 
 ![](<../../.gitbook/assets/depub.SPACE 02.png>) ![](<../../.gitbook/assets/depub.SPACE 03-K.png>)
 
@@ -54,7 +54,7 @@ description: Web3 去中心化 Twitter
 
 ### 步驟四
 
-彈出視窗，點「允許」。
+彈出 depub.SPACE 視窗，點「允許」。
 
 ![](<../../.gitbook/assets/depub.SPACE 05+6.png>)
 
