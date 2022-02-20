@@ -28,7 +28,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ### 步驟三：進行委託
 
-在驗證人節點右上角點「Stake」進行委託。
+在驗證人頁面右上角點「Stake」進行委託。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
 
