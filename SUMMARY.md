@@ -3,7 +3,7 @@
 * [LikeCoin - 去中心出版](README.md)
 * [LikeCoin 答客問](faq.md)
 
-## 📙  指南 <a href="#guides" id="guides"></a>
+## 📙 指南 <a href="#guides" id="guides"></a>
 
 * [LikeCoin 項目概覽](guides/about/README.md)
   * [傳媒報導](guides/about/on-the-news.md)
@@ -112,9 +112,8 @@
   * [每月創作進度](user-guide/creatortools/monthly-report.md)
 * [社群](user-guide/community/README.md)
   * [LikeCoin Discord](user-guide/community/discord.md)
-  * [LikeCoin Grants 衍生項目](user-guide/community/derivative-projects.md)
-  * [讚賞車車](user-guide/community/likecoin\_leafwind\_bot.md)
   * [購買產品與服務](user-guide/community/products-and-services.md)
+  * [讚賞車車](user-guide/community/likecoin\_leafwind\_bot.md)
 * [詞彙表](user-guide/background.md)
 
 ## 🔬  開發者資源 <a href="#developer-resources" id="developer-resources"></a>
