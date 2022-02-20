@@ -63,4 +63,4 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 
 想回顧曾經 Super Like 過哪些好文章？請到[個人主頁](../creatortools/portfolio-page.md) https://liker.land/\[你的 Liker ID] 點擊「已 Super Like 內容」查看，例如你的 Liker ID 是 ckxpress，鏈結便是 https://liker.land/ckxpress。用戶也可以直接輸入網址訪問朋友或名人的個人主頁並追蹤，了解他們的閱讀品味。
 
-![](<../../.gitbook/assets/Portfolio Page 2.png>)
+![](../../.gitbook/assets/portfolio-page-2.png)
