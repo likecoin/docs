@@ -19,7 +19,6 @@ description: Frequently Asked Questions
 * [What type of content is supported by ISCN?](general-guides/decentralized-publishing/content-type.md)
 * [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co.md)
 * [Can I register for ISCN in a batch?](general-guides/decentralized-publishing/iscn-batch-uploader.md)
-* [What is depub.SPACE?](general-guides/decentralized-publishing/depub.space.md)
 
 [LikeCoin Overview](general-guides/about/) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 -----------------------------------------------------------------------------------------------------------------------------
@@ -41,6 +40,7 @@ description: Frequently Asked Questions
 * [Any block explorer for LikeCoin?](general-guides/wallet/big-dipper.md)
 * [Is there a transaction fee?](general-guides/wallet/transaction-fee.md)
 * [How to handle my LikeCoin ERC-20 token?](general-guides/wallet/migration/)
+* [What is a FoTan upgrade? How is it going to affect me?](general-guides/wallet/fotan.md)
 
 ## [Trade](general-guides/trade/)
 
@@ -58,12 +58,12 @@ description: Frequently Asked Questions
 
 ## [Governance](general-guides/governance/) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
-* [​Does the LikeCoin DAO have democracy?](general-guides/governance/liquid-democracy.md)
+* [​Does the "Republic" of Liker Land have democracy?](general-guides/governance/liquid-democracy.md)
 * [What is LikeCoin chain?](general-guides/governance/likecoin-chain.md)
 * [What is a validator?](general-guides/governance/what-is-a-validator/)
 * [How to become a validator?](validator/become-a-validator.md)****
-* [How can the validator receive community fund delegation?](general-guides/governance/what-is-a-validator/community-delegation.md)
-* ​​[How many proposals proceeded by the LikeCoin DAO?](general-guides/governance/proposals.md)
+* [How can the validator receive community fund delegation from ccological pools‌?](general-guides/governance/what-is-a-validator/community-delegation.md)
+* ​​[How many proposals proceeded by the Republic of Liker Land?](general-guides/governance/proposals.md)
 * [How to deposit for a proposal?](general-guides/governance/proposal-deposit.md)
 * [How to vote for a proposal?](general-guides/governance/direct-vote.md)
 * [What is LikeCoin Grants?](general-guides/governance/likecoin-grants.md)
@@ -88,15 +88,19 @@ description: Frequently Asked Questions
 * [Earn LikeCoin on YouTube？Wow!](user-guide/creator/youtube.md)
 * [How to embed LikeCoin button into a self-hosted WordPress?](user-guide/creator/wordpress.md)
 * [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](user-guide/creator/blogging-platforms/)
+* [How can people sponsor me?](archive/archive/creatortools/sponsor-link.md)
 * [How to attract more sponsors?](user-guide/creatortools/creators-pitch.md)
 * [Portfolio Page helps to display all of my works? How to use it?  ](user-guide/creatortools/portfolio-page.md)
 * [How to check my daily and weekly rewards?](user-guide/creatortools/rewards/)
+* [How to check the number of Civic Likers that support me?](archive/archive/creatortools/support.md)
 * [How to check my monthly achievement?](user-guide/creatortools/monthly-report.md)
 
 ## [​Civic Liker​](user-guide/civic-liker/) <a href="#civic-liker" id="civic-liker"></a>
 
 * [Why should I become a Civic Liker? Any benefits?](user-guide/civic-liker/)
-* [How to be a Civic Liker?](user-guide/civic-liker/be-a-civic-liker.md)
+* [How to be a Civic Liker?  ](archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)
+* [How to change credit card information?](archive/archive/civic-liker-classic-and-2.0/change-credit-card.md)
+* [How to unsubscribe Civic Liker?](archive/archive/civic-liker-classic-and-2.0/unsubscribe-civic-liker.md)
 
 ## [​Liker ID​](user-guide/liker-id/) <a href="#liker-id" id="liker-id"></a>
 
