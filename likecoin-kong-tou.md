@@ -43,7 +43,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 ![](<.gitbook/assets/Airdrop 03 Liker Land.png>)
 
-## 任務清單
+## 查看任務清單
 
 成功登入後，系統顯示能獲得的空投數量及經已獲取的空投數量 (Claimed Airdrop)、現時的衰變因數 (Current Decay Factor) 及空投衰變倒數 (Time to Airdrop Decay start)。你亦可以看到自己的空投領取進度條 (My Progress)。
 
@@ -121,7 +121,7 @@ LikeCoin [去中心出版](guides/decentralized-publishing/)。 通過在鏈出�
 
 #### Stake LikeCoin 委託 LikeCoin
 
-到 [https://dao.like.co/validators](https://dao.like.co/validators) 並連接 [Keplr](user-guide/liker-id/register-with-keplr.md) 或 [Authcore](user-guide/liker-id/register.md)。 將任何數量的 LikeCoin [委託](guides/stake/)給「Validator」頁面中至少一位[驗證人](guides/governance/what-is-a-validator/)。
+到 [https://dao.like.co/validators](https://dao.like.co/validators) 並連接 [Keplr](user-guide/liker-id/register-with-keplr.md) 或 [Authcore](user-guide/liker-id/register.md)。 將任何數量的 LikeCoin [委託](guides/stake/)給「Validators」頁面中至少一位[驗證人](guides/governance/what-is-a-validator/)。
 
 ![](<.gitbook/assets/Airdrop 14.png>)
 
@@ -156,3 +156,21 @@ LikeCoin 是一個由對內容充滿熱情的創作者及讀者組成的社群�
 {% content-ref url="guides/governance/direct-vote.md" %}
 [direct-vote.md](guides/governance/direct-vote.md)
 {% endcontent-ref %}
+
+## 完成領取空投
+
+領取空投完成後，會看到 My Progress 為 100%，代表空投經已全部領取完成。
+
+![](<.gitbook/assets/Airdrop 17.png>)
+
+除了 BigDipper 以外，你也可以到 [dao.like.co](https://dao.like.co) 的 Transactions 頁面查看經已領取空投的記錄。
+
+![](<.gitbook/assets/Airdrop 18.png>)
+
+{% hint style="warning" %}
+假如在領取空投不成功，例如不能登入其他帳戶領取空投。請先確認你經已在 Liker Land 登出你的帳號，並清除瀏覽器的 Cookie 後再嘗試。
+{% endhint %}
+
+{% hint style="warning" %}
+由於領取空投者眾，假如網絡操作逾時，請遲些再嘗試領取。
+{% endhint %}
