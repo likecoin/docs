@@ -4,7 +4,7 @@ description: 如何領取 LikeCoin 空投？
 
 # LikeCoin 空投
 
-領取 LikeCoin 空投需要進行 4 個任務，包括：
+領取 LikeCoin 空投需要進行 4 項任務，包括：
 
 * \#1 Manage LikeCoin / 管理你的 LikeCoin
 * \#2 Decentralize Tweeting / 去中心推文
@@ -13,7 +13,7 @@ description: 如何領取 LikeCoin 空投？
 
 ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker ID](user-guide/liker-id/register-with-keplr.md) 的用戶可全程直接使用桌面電腦領取空投。
 
-[以一般方法 ( Authcore ) 註冊 Liker ID](user-guide/liker-id/register.md) 的用戶，請預備 Liker Land app 及桌面電腦領取空投。
+[以一般方法 ( Authcore ) 註冊 Liker ID](user-guide/liker-id/register.md) 的讚賞公民用戶，請預備 Liker Land app 及桌面電腦領取空投。
 
 ## 登入空投頁面
 
