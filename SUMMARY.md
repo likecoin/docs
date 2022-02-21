@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Decentralized Publishing](README.md)
-* [LikeCoin Airdrop](airdrop.md)
+* [LikeCoin Airdrop](airdrop/README.md)
+  * [Login by Authcore](airdrop/login-by-authcore.md)
 * [FAQ](faq.md)
 
 ## 🔬 Developer Guide <a href="#developer" id="developer"></a>
