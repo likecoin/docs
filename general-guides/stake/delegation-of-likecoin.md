@@ -12,7 +12,7 @@ Delegation means delegating LikeCoin to one or more [validators](../governance/w
 [direct-vote.md](../governance/direct-vote.md)
 {% endcontent-ref %}
 
-Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) and is vital to the autonomy for The Republic of Liker Land.
+Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) and is vital to the autonomy for the LikeCoin DAO.
 
 There are multiple ways to stake LikeCoin, we suggest using [dao.like.com](https://dao.like.co/welcome). You may also want to manage your LikeCoin with:
 
