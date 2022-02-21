@@ -16,7 +16,7 @@ Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) an
 
 There are multiple ways to stake LikeCoin, we suggest using [dao.like.com](https://dao.like.co/welcome). You may also want to manage your LikeCoin with:
 
-* OMMIFLIX: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co)
+* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io)
 * Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
 
