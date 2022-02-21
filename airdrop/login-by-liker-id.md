@@ -1,10 +1,20 @@
-# Login by Authcore
-
-Users who [registered Liker ID by general method (with Authcore)](../user-guide/liker-id/register.md) and Civic Liker, please prepare your Liker Land app and desktop computer to claim the airdrop.
+# Login to the LikeCoin Airdrop
 
 ## Login to the LikeCoin Airdrop page
 
-### Liker ID registered by general method (with Authcore)
+### ATOM and OSMO holders, delegators and liquidity providers
+
+Go to the [LikeCoin Airdrop](https://app.like.co/airdrop/check) page, select "Keplr Wallet", or click "Connect Wallet" in the upper right corner.
+
+![](<../.gitbook/assets/Airdrop 01 Keplr.png>)
+
+A Keplr window will pop up and reqeusting connection, click "Approve".
+
+![](<../.gitbook/assets/Airdrop 02 Keplr.png>)
+
+## Liker ID registered by general method (with Authcore)
+
+Users who [registered Liker ID by general method (with Authcore)](../user-guide/liker-id/register.md) and Civic Liker, please prepare your Liker Land app and desktop computer to claim the airdrop.
 
 Go to the [LikeCoin Airdrop](https://app.like.co/airdrop/check) page, select "Liker ID", or click "Connect Wallet" in the upper right corner.
 
