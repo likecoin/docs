@@ -1,15 +1,19 @@
+---
+description: How to claim LikeCoin Airdrop?
+---
+
 # LikeCoin Airdrop
 
 There are 4 tasks required to claim the LikeCoin Airdrop, including:
 
-* \#1 Manage LikeCoin
-* \#2 Decentralize Tweeting
-* \#3 Stake LikeCoin
-* \#4 Vote on LikeCoin DAO
+* \#1 [Manage LikeCoin](general-guides/wallet/)
+* \#2 [Decentralize Tweeting](general-guides/decentralized-publishing/depub.space.md)
+* \#3 [Stake LikeCoin](general-guides/stake/delegation-of-likecoin.md)
+* \#4 [Vote on LikeCoin DAO](general-guides/governance/direct-vote.md)
 
 ATOM and OSMO holders, delegators and liquidity providers, and users who have [registered their Liker ID with Keplr](user-guide/liker-id/register-with-keplr.md) can use the desktop computer to claim the airdrop throughout the entire process.
 
-Users who [registered Liker ID by general method (with Authcore)](user-guide/liker-id/register.md), please prepare your Liker Land app and desktop computer to claim the airdrop.
+Users who [registered Liker ID by general method (with Authcore)](user-guide/liker-id/register.md) and Civic Liker, please prepare your Liker Land app and desktop computer to claim the airdrop.
 
 ## Login to the LikeCoin Airdrop page
 
@@ -123,8 +127,8 @@ Visit [https://dao.like.co/validators](https://dao.like.co/validators) and conne
 
 Click "Stake now" to [delegate LikeCoin](general-guides/stake/delegation-of-likecoin.md), and click "Done" to claim a 25% airdrop when finished. For tutorial about delegate LikeCoin:
 
-{% content-ref url="general-guides/stake/" %}
-[stake](general-guides/stake/)
+{% content-ref url="general-guides/stake/delegation-of-likecoin.md" %}
+[delegation-of-likecoin.md](general-guides/stake/delegation-of-likecoin.md)
 {% endcontent-ref %}
 
 ## #4 Vote on LikeCoin DAO
