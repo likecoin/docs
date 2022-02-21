@@ -6,10 +6,10 @@ description: 如何領取 LikeCoin 空投？
 
 領取 LikeCoin 空投需要進行 4 項任務，包括：
 
-* \#1 Manage LikeCoin / 管理你的 LikeCoin
-* \#2 Decentralize Tweeting / 去中心推文
-* \#3 Stake LikeCoin / 委託 LikeCoin
-* \#4 Vote on LikeCoin DAO 在 / LikeCoin DAO 進行投票
+* \#1 [Manage LikeCoin / 管理你的 LikeCoin](guides/wallet/)
+* \#2 [Decentralize Tweeting / 去中心推文](guides/decentralized-publishing/depub.space.md)
+* \#3 [Stake LikeCoin / 委託 LikeCoin](guides/stake/delegation-of-likecoin.md)
+* \#4 [Vote on LikeCoin DAO 在 / LikeCoin DAO 進行投票](guides/governance/direct-vote.md)
 
 ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker ID](user-guide/liker-id/register-with-keplr.md) 的用戶可全程直接使用桌面電腦領取空投。
 
@@ -127,8 +127,8 @@ LikeCoin [去中心出版](guides/decentralized-publishing/)。 通過在鏈出�
 
 點「Stake now」[委託 LikeCoin](guides/stake/delegation-of-likecoin.md)，完成後點「Done」領取 25% 空投。更多委託教學請參看：
 
-{% content-ref url="guides/stake/" %}
-[stake](guides/stake/)
+{% content-ref url="guides/stake/delegation-of-likecoin.md" %}
+[delegation-of-likecoin.md](guides/stake/delegation-of-likecoin.md)
 {% endcontent-ref %}
 
 ## #4 在 LikeCoin DAO 進行投票
