@@ -10,7 +10,13 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 [direct-vote.md](../governance/direct-vote.md)
 {% endcontent-ref %}
 
-委託機制是讚賞公民共和國[流動民主](../governance/liquid-democracy.md)自治機制非常重要的一環。
+委託機制是 LikeCoin DAO [流動民主](../governance/liquid-democracy.md)自治機制非常重要的一環。
+
+委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.com](https://dao.like.co)。 你也可以通過以下方式管理你的 LikeCoin：
+
+* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co)
+* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io)
+* Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
 
 ## 使用 dao.like.co 委託 LikeCoin
 
