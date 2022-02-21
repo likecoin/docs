@@ -2,7 +2,7 @@
 
 * [Decentralized Publishing](README.md)
 * [LikeCoin Airdrop](airdrop/README.md)
-  * [Login to the LikeCoin Airdrop](airdrop/login-by-liker-id.md)
+  * [Login by Liker ID](airdrop/login-by-liker-id.md)
 * [FAQ](faq.md)
 
 ## 🔬 Developer Guide <a href="#developer" id="developer"></a>

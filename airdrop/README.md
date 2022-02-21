@@ -13,6 +13,20 @@ There are 4 tasks required to claim the LikeCoin Airdrop, including:
 
 ATOM and OSMO holders, delegators and liquidity providers can use the desktop computer to claim the airdrop throughout the entire process.
 
+The claiming will start on February 21, 2022 and will last for 180 days till August 20, 2022.
+
+## Login to the LikeCoin Airdrop page
+
+### ATOM and OSMO holders, delegators and liquidity providers
+
+Go to the [LikeCoin Airdrop](https://app.like.co/airdrop/check) page, select "Keplr Wallet", or click "Connect Wallet" in the upper right corner.
+
+![](<../.gitbook/assets/Airdrop 01 Keplr.png>)
+
+A Keplr window will pop up and reqeusting connection, click "Approve".
+
+![](<../.gitbook/assets/Airdrop 02 Keplr.png>)
+
 ## Missions
 
 After login, the system displays the Claimed Airdrop), Current Decay Factor and Time to Airdrop Decay start). You can also check the progress bar of your airdrop claim in My Progress.
