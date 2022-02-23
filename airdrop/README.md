@@ -13,7 +13,7 @@ There are 4 tasks required to claim the LikeCoin Airdrop, including:
 
 ATOM and OSMO holders, delegators and liquidity providers can use the desktop computer to claim the airdrop throughout the entire process.
 
-The claiming will start on February 21, 2022 and will last for 180 days till August 20, 2022.
+The claiming will start on February 21, 2022 and will last till August 22, 2022.
 
 ## Login to the LikeCoin Airdrop page
 
