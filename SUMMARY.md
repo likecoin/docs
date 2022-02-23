@@ -70,6 +70,7 @@
   * [支援網站列表](user-guide/liker-land/list-of-media.md)
 * [讚賞公民](user-guide/civic-liker/README.md)
   * [如何成為讚賞公民](<user-guide/civic-liker/be-a-civic-liker (1).md>)
+  * [讚賞公民 Dashboard](user-guide/civic-liker/dashboard.md)
   * [常見問題](user-guide/civic-liker/faq.md)
   * [創作基金](user-guide/civic-liker/creators-fund.md)
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
@@ -126,7 +127,6 @@
 
 * [存檔](cun-dang/archive/README.md)
   * [Civic Liker Classic 與 2.0](cun-dang/archive/civic-liker-classic-and-2.0/README.md)
-    * [讚賞公民 Dashboard](user-guide/civic-liker/dashboard.md)
     * [如何訂閱讚賞公民](user-guide/civic-liker/be-a-civic-liker.md)
     * [如何修改付款信用卡資料](user-guide/civic-liker/change-credit-card.md)
     * [如何退訂「讚賞公民」](user-guide/civic-liker/unsubscribe-civic-liker.md)
