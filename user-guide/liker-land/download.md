@@ -24,7 +24,7 @@ description: 要去哪裏下載 Liker Land？
 
 ### 選項一：讚賞公民
 
-用戶可委託 LikeCoin 成為[讚賞公民](../civic-liker/)。‌
+用戶可委託 LikeCoin 成為[讚賞公民](../civic-liker/)在 [Dashboard](../civic-liker/dashboard.md) 查看委託狀態。
 
 ### 選項二：創作者
 
