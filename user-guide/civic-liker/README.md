@@ -16,15 +16,13 @@ You can become a Civic Liker by staking at least 5,000 LikeCoin to the “Civic 
 
 ### Reward creators without spending your principle <a href="#reward-creators-without-spending-your-principle" id="reward-creators-without-spending-your-principle"></a>
 
-
-
 Like = reward. Every Civic Liker’s “Like” will turn to LikeCoin reward to the creators, by distributing the stake reward but not the staked LikeCoin principle. The more you stake, the more stake reward you will get, and hence the more budget you can spend for rewarding creativity.
 
 > Exampe:\
 > Say Alice stakes 25,000 LIKE to the “Civic Liker” node. Assume that staking APR is 15%, monthly stake reward = 25,000×0.15×12 = 312.5 LIKE. Give “Likes” to distribute stake reward to the creators with your staked LikeCoin stay untouched.\
 > You can withdraw from staking at anytime after a 21-day cool down period.
 
-### ![](<../../.gitbook/assets/image (33).png>) <a href="#vote-on-creators-fund-s-distribution" id="vote-on-creators-fund-s-distribution"></a>
+![](<../../.gitbook/assets/image (33).png>)
 
 ### Vote on Creators Fund’s distribution <a href="#vote-on-creators-fund-s-distribution" id="vote-on-creators-fund-s-distribution"></a>
 
@@ -43,21 +41,15 @@ The staked LikeCoin represents the voting power in LikeCoin DAO proposal voting.
 We believe that each dollar we spent should be used to reward openness, but not encouraging creators to lockup their content behind the paywall. Civic Liker is a way to reward creators even they open the content for free.\
 Join us and support a more open world.
 
-***
-
 ### NFT bonus <a href="#nft-bonus" id="nft-bonus"></a>
 
 Civic Liker is eligible for future NFT drops. Stay tuned!
-
-***
 
 ### Background of Civic Liker <a href="#background-of-civic-liker" id="background-of-civic-liker"></a>
 
 CivicLiker movement started on 2019.01.01, readers could join a $5 monthly subscription plan and reward creators by liking. Up till 2022 Feb, Civic Liker has rewarded 50 million LikeCoin to 24,000 creators.
 
 The Civic Liker plan moved to a Web3 version on 2022.02.21, which implemented the feature of distributing stake-reward to creators, and stopped supporting credit card payment. This is also called the “Civic Liker Web3 beta”.
-
-***
 
 ### \[[Join **Civic Liker**](../../archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)]
 

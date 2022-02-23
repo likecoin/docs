@@ -24,7 +24,7 @@ Click on the menu at the top right hand corner, there are other options.
 
 ### **Option 1: Civic Liker**
 
-You can delegate your LikeCoin to become a [Civc Liker](../civic-liker/).
+You can delegate your LikeCoin to become a [Civic Liker](../civic-liker/) and check your current status by the dashboard.
 
 ### **Option 2: I'm a Creator too**
 

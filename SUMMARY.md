@@ -133,6 +133,7 @@
   * [List of Media](user-guide/liker-land/list-of-media.md)
 * [Civic Liker](user-guide/civic-liker/README.md)
   * [How to be a Civic Liker](user-guide/civic-liker/be-a-civic-liker.md)
+  * [Civic Liker Dashboard](user-guide/civic-liker/dashboard.md)
   * [FAQ](user-guide/civic-liker/faq.md)
   * [Creators Fund](user-guide/civic-liker/creators-fund.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
@@ -184,7 +185,6 @@
 
 * [Archive](archive/archive/README.md)
   * [Civic Liker Classic and 2.0](archive/archive/civic-liker-classic-and-2.0/README.md)
-    * [Civic Liker Dashboard](archive/archive/civic-liker-classic-and-2.0/dashboard.md)
     * [How to be a Civic Liker](archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)
     * [Change Credit Card Information](archive/archive/civic-liker-classic-and-2.0/change-credit-card.md)
     * [Unsubscribe Civic Liker](archive/archive/civic-liker-classic-and-2.0/unsubscribe-civic-liker.md)
