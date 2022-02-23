@@ -100,8 +100,8 @@ description: LikeCoin 常見問題
 ### [Liker ID](user-guide/liker-id/)
 
 * [Liker ID 要怎樣註冊？](faq.md#liker-id)
-* [無法以社交帳號登入 Liker ID，怎麼辦？不知何解無法登入嗎？試試重設密碼吧！](user-guide/liker-id/reset-password.md)
-* [甚麼是 Authcore？](user-guide/liker-id/what-is-authcore.md)
+* [無法以社交帳號登入 Liker ID，怎麼辦？不知何解無法登入嗎？試試重設密碼吧！](user-guide/liker-id/register/reset-password.md)
+* [甚麼是 Authcore？](user-guide/liker-id/register/what-is-authcore.md)
 
 ### [社群](user-guide/community/)
 

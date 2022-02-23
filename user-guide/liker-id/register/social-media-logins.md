@@ -5,7 +5,7 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 # 綁定社交帳號
 
 {% hint style="info" %}
-以下內容只適用於[以一般方法 ( Authcore ) 註冊的 Liker ID](register.md)。
+以下內容只適用於[以一般方法 ( Authcore ) 註冊的 Liker ID](./)。
 {% endhint %}
 
 ## 為什麼要綁定社交帳號
@@ -21,13 +21,13 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 登入 [Liker Land](https://liker.land) 並前往 [https://like.co/in/settings](https://like.co/in/settings)，到「Authcore 設定」的部份，點選「安全設定」；或於 Liker Land 手機應用程式選畫面右下角設定點選「安全」，再點選「社交帳戶登入」。
 
-![](../../.gitbook/assets/social-media-logins-1.png)
+![](../../../.gitbook/assets/social-media-logins-1.png)
 
 ### 步驟二
 
 點擊欲綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (15).png>)
 
 ## 如何綁定 Matters 帳號 <a href="#matters" id="matters"></a>
 
@@ -40,8 +40,8 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 ### 更多詳盡介紹
 
-{% content-ref url="../creator/matters.md" %}
-[matters.md](../creator/matters.md)
+{% content-ref url="../../creator/matters.md" %}
+[matters.md](../../creator/matters.md)
 {% endcontent-ref %}
 
 > [玩轉 Matters 實用指南](https://matters.news/guide)

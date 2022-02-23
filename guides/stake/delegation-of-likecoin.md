@@ -4,7 +4,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 # 委託 LikeCoin
 
-委託的意思是把 LikeCoin 委託給一個或多個[驗證人 ( Validator )](../governance/what-is-a-validator/)，讓他們代表你為讚賞公民共和國的議案投票，同時賺取回報。自 LikeCoin chain 升級 FoTan 後，每位經已委託 LikeCoin 予驗證人的持份者都可以直接就議案投票。
+委託的意思是把 LikeCoin 委託給一個或多個[驗證人 ( Validator )](../governance/what-is-a-validator/)，讓他們代表你為 LikeCoin DAO 的議案投票，同時賺取回報。自 LikeCoin chain 升級 FoTan 後，每位經已委託 LikeCoin 予驗證人的持份者都可以直接就議案投票。
 
 {% content-ref url="../governance/direct-vote.md" %}
 [direct-vote.md](../governance/direct-vote.md)
@@ -22,7 +22,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register.md) 登入。
+到 [dao.like.co](https://dao.like.co) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
@@ -126,7 +126,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ### 了解更多有關「委託」的原理
 
-委託的功能，是讚賞公民共和國「流動民主」機制的重要一環。想知道更多有關概念，請閱讀以下文章：
+委託的功能，是 LikeCoin DAO「流動民主」機制的重要一環。想知道更多有關概念，請閱讀以下文章：
 
 > [身為一個鏈上公民，感受質押世界的魅力！- 以 LikeCoin 為例](https://matters.news/@dablog/%E8%BA%AB%E7%82%BA%E4%B8%80%E5%80%8B%E9%8F%88%E4%B8%8A%E5%85%AC%E6%B0%91-%E6%84%9F%E5%8F%97%E8%B3%AA%E6%8A%BC%E4%B8%96%E7%95%8C%E7%9A%84%E9%AD%85%E5%8A%9B-%E4%BB%A5-like-coin-%E7%82%BA%E4%BE%8B-zdpuB1ePtb7TNzYpbfkdhNmf8REKkQxNX5MgRRir1BG6pWVts)
 

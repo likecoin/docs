@@ -13,7 +13,7 @@ description: 如何領取 LikeCoin 空投？
 
 ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker ID](user-guide/liker-id/register-with-keplr.md) 的用戶可全程直接使用桌面電腦領取空投。
 
-[以一般方法 ( Authcore ) 註冊 Liker ID](user-guide/liker-id/register.md) 的讚賞公民用戶，請預備 Liker Land app 及桌面電腦領取空投。
+[以一般方法 ( Authcore ) 註冊 Liker ID](user-guide/liker-id/register/) 的讚賞公民用戶，請預備 Liker Land app 及桌面電腦領取空投。
 
 空投將於 2022 年 2 月 21 日開始並持續 180 天，直至 2022 年 8 月 20 日完結。
 
@@ -35,9 +35,15 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 ![](<.gitbook/assets/Airdrop 01 Liker Land.png>)
 
-出現二維碼，在 Liker Land 手機應用程式點二維碼圖示調用鏡頭並進行掃瞄。
+出現二維碼。
 
 ![](<.gitbook/assets/Airdrop 02 Liker Land.png>)
+
+在 [Liker Land 手機應用程式](https://liker.land/getapp)設定找「試用新功能」並開啟「支持 Wallect Connect」。
+
+![](<.gitbook/assets/Airdrop 02.5 Liker Land.png>)
+
+點二維碼圖示調用鏡頭並進行掃瞄。
 
 ![](<.gitbook/assets/depub.SPACE 04.png>)
 
@@ -57,7 +63,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 #### Manage LikeCoin 管理 LikeCoin
 
-你可以通過 [Keplr](user-guide/liker-id/register-with-keplr.md) 或 [Liker Land app](user-guide/liker-id/register.md) 管理你的 LikeCoin。 你可以使用 LIKE [去中心出版 DePub](guides/decentralized-publishing/)，在交易所[交易](guides/trade/)、[委託](guides/stake/)獲得獎勵、[投票](guides/governance/direct-vote.md)參與治理及[獎勵創作者](user-guide/liker-land/like.md)。
+你可以通過 [Keplr](user-guide/liker-id/register-with-keplr.md) 或 [Liker Land app](user-guide/liker-id/register/) 管理你的 LikeCoin。 你可以使用 LIKE [去中心出版 DePub](guides/decentralized-publishing/)，在交易所[交易](guides/trade/)、[委託](guides/stake/)獲得獎勵、[投票](guides/governance/direct-vote.md)參與治理及[獎勵創作者](user-guide/liker-land/like.md)。
 
 ![](<.gitbook/assets/Airdrop 05.png>)
 
@@ -123,7 +129,7 @@ LikeCoin [去中心出版](guides/decentralized-publishing/)。 通過在鏈出�
 
 #### Stake LikeCoin 委託 LikeCoin
 
-到 [https://dao.like.co/validators](https://dao.like.co/validators) 並連接 [Keplr](user-guide/liker-id/register-with-keplr.md) 或 [Authcore](user-guide/liker-id/register.md)。 將任何數量的 LikeCoin [委託](guides/stake/)給「Validators」頁面中至少一位[驗證人](guides/governance/what-is-a-validator/)。
+到 [https://dao.like.co/validators](https://dao.like.co/validators) 並連接 [Keplr](user-guide/liker-id/register-with-keplr.md) 或 [Authcore](user-guide/liker-id/register/)。 將任何數量的 LikeCoin [委託](guides/stake/)給「Validators」頁面中至少一位[驗證人](guides/governance/what-is-a-validator/)。
 
 ![](<.gitbook/assets/Airdrop 14.png>)
 
@@ -149,7 +155,7 @@ LikeCoin 是一個由對內容充滿熱情的創作者及讀者組成的社群�
 
 #### Vote on a proposal 對議案進行投票
 
-到 [https://dao.like.co/proposals/](https://dao.like.co/proposals/) 並連接你的 [Keplr](user-guide/liker-id/register-with-keplr.md) 或 [Authcore](user-guide/liker-id/register.md)。 在「Proposals」頁面中，對其中一項議案進行投票。
+到 [https://dao.like.co/proposals/](https://dao.like.co/proposals/) 並連接你的 [Keplr](user-guide/liker-id/register-with-keplr.md) 或 [Authcore](user-guide/liker-id/register/)。 在「Proposals」頁面中，對其中一項議案進行投票。
 
 ![](<.gitbook/assets/Airdrop 16.png>)
 
