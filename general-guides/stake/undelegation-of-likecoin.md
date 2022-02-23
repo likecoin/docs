@@ -8,7 +8,7 @@ description: >-
 
 ## **Undelegate via dao.like.co**
 
-1\. Go to [dao.like.co](https://dao.like.co) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register.md) to login.
+1\. Go to [dao.like.co](https://dao.like.co) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register/) to login.
 
 2\. Click "Portfolio" on the left hand side menu, on Your Stake and click on the validator that you need to undelegate.
 

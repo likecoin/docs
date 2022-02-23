@@ -13,6 +13,20 @@ There are 4 tasks required to claim the LikeCoin Airdrop, including:
 
 ATOM and OSMO holders, delegators and liquidity providers can use the desktop computer to claim the airdrop throughout the entire process.
 
+The claiming will start on February 21, 2022 and will last for 180 days till August 20, 2022.
+
+## Login to the LikeCoin Airdrop page
+
+### ATOM and OSMO holders, delegators and liquidity providers
+
+Go to the [LikeCoin Airdrop](https://app.like.co/airdrop/check) page, select "Keplr Wallet", or click "Connect Wallet" in the upper right corner.
+
+![](<../.gitbook/assets/Airdrop 01 Keplr.png>)
+
+A Keplr window will pop up and reqeusting connection, click "Approve".
+
+![](<../.gitbook/assets/Airdrop 02 Keplr.png>)
+
 ## Missions
 
 After login, the system displays the Claimed Airdrop), Current Decay Factor and Time to Airdrop Decay start). You can also check the progress bar of your airdrop claim in My Progress.
@@ -91,7 +105,7 @@ Click "Next".
 
 #### Stake LikeCoin
 
-Visit [https://dao.like.co/validators](https://dao.like.co/validators) and connect with [Keplr](../user-guide/liker-id/register-with-keplr.md) or [Authcore](../user-guide/liker-id/register.md) (social login). Stake any amount of LikeCoin to at least one [validator](../general-guides/governance/what-is-a-validator/) in the “Validators” page.
+Visit [https://dao.like.co/validators](https://dao.like.co/validators) and connect with [Keplr](../user-guide/liker-id/register-with-keplr.md) or [Authcore](../user-guide/liker-id/register/) (social login). Stake any amount of LikeCoin to at least one [validator](../general-guides/governance/what-is-a-validator/) in the “Validators” page.
 
 ![](<../.gitbook/assets/Airdrop 14.png>)
 
@@ -115,7 +129,7 @@ Welcome to the LikeCoin DAO.
 
 Click "Next".
 
-Vote on a proposal Visit [https://dao.like.co/proposals/](https://dao.like.co/proposals/) and connect with your [Keplr](../user-guide/liker-id/register-with-keplr.md) or [Authcore](../user-guide/liker-id/register.md). In the “Proposals” page, vote on one of the proposals.
+Vote on a proposal Visit [https://dao.like.co/proposals/](https://dao.like.co/proposals/) and connect with your [Keplr](../user-guide/liker-id/register-with-keplr.md) or [Authcore](../user-guide/liker-id/register/). In the “Proposals” page, vote on one of the proposals.
 
 ![](<../.gitbook/assets/Airdrop 16.png>)
 

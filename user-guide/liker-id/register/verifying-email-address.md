@@ -7,10 +7,10 @@ description: >-
 # Securing my Liker ID
 
 {% hint style="info" %}
-The followings are for [Liker ID registered by general method (with Authcore)](register.md).
+The followings are for [Liker ID registered by general method (with Authcore)](./).
 {% endhint %}
 
-## 2-step Verification (2FA) <a href="2fa" id="2fa"></a>
+## 2-step Verification (2FA) <a href="#2fa" id="2fa"></a>
 
 After setting up 2FA, a 6 digital passcode is required to login from a new device.
 
@@ -22,26 +22,26 @@ The following steps have to be operated on desktop computer, and a smart phone i
 2. Select "Security settings" on "AuthCore Settings"
 3. Click "2-step verification (2FA)"
 
-![](../../.gitbook/assets/2fa-1-en.png)
+![](../../../.gitbook/assets/2fa-1-en.png)
 
 ### Step 2: Select Authentication App
 
 1. Click on "Setup 2-step verification (2FA)"
 2. Let's talk about the setup of Google Authenticator first. Click on "Choose another way"
 
-![](../../.gitbook/assets/2fa-2-en.png)
+![](../../../.gitbook/assets/2fa-2-en.png)
 
-![](../../.gitbook/assets/2fa-3-en.png)
+![](../../../.gitbook/assets/2fa-3-en.png)
 
 Then choose "Authenticator App" on the next page
 
-![](../../.gitbook/assets/2fa-4-en.png)
+![](../../../.gitbook/assets/2fa-4-en.png)
 
 ### Step 3: Setup Google Authenticator
 
 Continue from the previous step, the page displaying a QR Code now:
 
-![](../../.gitbook/assets/2fa-5-en.png)
+![](../../../.gitbook/assets/2fa-5-en.png)
 
 1.  Download Google Authenticator on your mobile phone
 
@@ -51,11 +51,11 @@ Continue from the previous step, the page displaying a QR Code now:
 4. An entry of Authcore is added to Google Authenticator, displaying a 6-digit code, fill it into the blank space circled in red, and click "Next", it displays "Set up authenticator app" "Complete", then click "OK"
 5. Set up your Backup code, If all of your 2-step verification tools do not work, the codes below can help you access your account
 
-![](../../.gitbook/assets/2fa-6-en.png)
+![](../../../.gitbook/assets/2fa-6-en.png)
 
 2-step Verification set up is completed.
 
-## Confirm your email address <a href="confirm-your-email-address" id="confirm-your-email-address"></a>
+## Confirm your email address <a href="#confirm-your-email-address" id="confirm-your-email-address"></a>
 
 1\. Visit [https://like.co/in/settings](https://like.co/in/settings), select "Profile" on "AuthCore Settings", click "Contact" then click "Email",  going into the "Manage email" page
 
