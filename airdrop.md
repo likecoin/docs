@@ -15,7 +15,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 [以一般方法 ( Authcore ) 註冊 Liker ID](user-guide/liker-id/register/) 的讚賞公民用戶，請預備 Liker Land app 及桌面電腦領取空投。
 
-空投將於 2022 年 2 月 21 日開始並持續 180 天，直至 2022 年 8 月 20 日完結。
+空投將於 2022 年 2 月 21 日開始，直至 2022 年 8 月 22 日完結。
 
 ## 登入空投頁面
 
