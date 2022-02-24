@@ -4,7 +4,7 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 # 讚賞公民
 
-![](../../.gitbook/assets/likecoin\_ad98\_2point0-01.png)
+![](../../.gitbook/assets/LikeCoin\_AD110\_CLWeb3\_Banner1.png)
 
 ### 【[成為讚賞公民](<be-a-civic-liker (1).md>)】
 
