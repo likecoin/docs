@@ -4,7 +4,7 @@ description: Why should I become a Civic Liker? Any benefits?
 
 # Civic Liker
 
-![](../../.gitbook/assets/likecoin\_ad98\_2point0-01.png)
+![](../../.gitbook/assets/LikeCoin\_AD110\_CLWeb3\_Banner1.png)
 
 ## [Be a **Civic Liker**](../../archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)
 
