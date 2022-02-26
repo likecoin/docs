@@ -4,6 +4,8 @@ description: 如何領取 LikeCoin 空投？
 
 # LikeCoin 空投
 
+想知道自己能否領取空投，請先參看[領取資格](https://blog.like.co/proposal-to-fairdrop-likecoin-to-the-cosmos-community-and-civic-likers-d64d841287d8)。
+
 領取 LikeCoin 空投需要進行 4 項任務，包括：
 
 * \#1 [Manage LikeCoin / 管理你的 LikeCoin](guides/wallet/)
