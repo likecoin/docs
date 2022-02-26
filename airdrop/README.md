@@ -4,6 +4,8 @@ description: How to claim LikeCoin Airdrop?
 
 # LikeCoin Airdrop
 
+If you would like to know if you are eligible for the airdrop or not, please [read this](https://blog.like.co/proposal-to-fairdrop-likecoin-to-the-cosmos-community-and-civic-likers-d64d841287d8).
+
 There are 4 tasks required to claim the LikeCoin Airdrop, including:
 
 * \#1 [Manage LikeCoin](../general-guides/wallet/)
