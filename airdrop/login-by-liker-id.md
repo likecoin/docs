@@ -25,3 +25,7 @@ On [Liker Land app](https://liker.land/getapp) settings, click "Experimental Fea
 The ISCN App window will pop up, click "Appove".
 
 ![](<../.gitbook/assets/Airdrop 03 Liker Land-en.png>)
+
+If you encounter any issue, you can go to "Settings" "Wallet Connect" and click the "X" to remove the connection and try again.
+
+![](<../.gitbook/assets/Airdrop 19-en.png>)
