@@ -53,6 +53,8 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 ![](<.gitbook/assets/Airdrop 03 Liker Land.png>)
 
+假如出現問題，請到「設定」「Wallet Connect」 刪除現有連結再重新嘗試。
+
 ## 查看任務清單
 
 成功登入後，系統顯示能獲得的空投數量及經已獲取的空投數量 (Claimed Airdrop)、現時的衰變因數 (Current Decay Factor) 及空投衰變倒數 (Time to Airdrop Decay start)。你亦可以看到自己的空投領取進度條 (My Progress)。
