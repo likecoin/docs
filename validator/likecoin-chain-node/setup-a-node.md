@@ -21,7 +21,7 @@ Run `git clone https://github.com/likecoin/likecoin-chain --branch fotan-1.2 --s
 
 ### Build the Docker image
 
-Run `./build.sh`.
+Run `make build-docker`.
 
 ### Initialize the node and account keys
 

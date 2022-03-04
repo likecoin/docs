@@ -11,7 +11,7 @@ likecoin-chain && cd likecoin-chain
 2\. (optional) Build the chain Docker image
 
 ```
-./build.sh
+make build-docker
 ```
 
 3\. Setup the needed files and folders
