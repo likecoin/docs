@@ -43,6 +43,7 @@
   * [ISCN IPFS plugin](developer/international-standard-content-number-iscn/iscn-ipfs-plugin.md)
 * [likecoin-js](developer/likecoin-js.md)
 * [Ecosystem Statistics Badge](developer/badge.md)
+* [Raise Proposal](developer/raise-proposal.md)
 
 ## 👥 Validator Guide <a href="#validator" id="validator"></a>
 
