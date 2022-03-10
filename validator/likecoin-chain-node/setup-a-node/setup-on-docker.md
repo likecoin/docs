@@ -1,12 +1,6 @@
-# Setup a node (mainnet / public testnet)
+# Setup on docker (Deprecated)
 
-## Requirements
-
-1 core machine with 2 GB RAM, running Linux or Mac, with Docker and Docker Compose (version >= 1.28) installed.
-
-At least 100 GB storage for chain data. (Estimated storage requirement: 40 GB per year)
-
-Please make sure that your TCP port 26656 is connectable from external network.
+This is the deprecated method of setting up a node. Please read [the latest guide](../setup-a-node.md) first.
 
 ## Setup steps
 
