@@ -51,6 +51,7 @@
 * [LikeCoin chain node](validator/likecoin-chain-node/README.md)
   * [Setup local test node](validator/likecoin-chain-node/setup-local-test-node.md)
   * [Setup a node (mainnet / public testnet)](validator/likecoin-chain-node/setup-a-node.md)
+    * [Node Security](validator/likecoin-chain-node/setup-a-node/node-security.md)
     * [Setup on cloud platforms](validator/likecoin-chain-node/setup-a-node/setup-on-cloud-platforms.md)
     * [Setup on docker (deprecated)](validator/likecoin-chain-node/setup-a-node/setup-on-docker.md)
   * [Node configuration](validator/likecoin-chain-node/node-configuration.md)
