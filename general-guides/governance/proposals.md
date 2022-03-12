@@ -36,7 +36,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #38 Signalling proposal: endorse a marketing subdao
 
-* Proposer: kin ko
+* Proposer: Phoebe Poon
 * Proposal Type: Text Proposal
 * Date: Submit on 2022.02.20, Passed on 2022.03.02
 * Details: [https://likecoin.bigdipper.live/proposals/38](https://likecoin.bigdipper.live/proposals/38)
