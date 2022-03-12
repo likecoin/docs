@@ -48,7 +48,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 * Date: Submit on 2022.02.17, Passed on 2022.02.27
 * Details: [https://likecoin.bigdipper.live/proposals/37](https://likecoin.bigdipper.live/proposals/37)
 
-## Proposal #36 Community Pool Spend February 2022
+## Proposal #36 **Signalling proposal: endorse @ckxpress to form Tech Subdao**
 
 * Proposer: kin ko
 * Proposal Type: Text Proposal
