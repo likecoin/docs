@@ -6,18 +6,67 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## Proposal #42 Community-spend proposal: deposit 1,000,000 LIKE to Marketing Subdao multi-sig wallet
+
+* Proposer: Phoebe Poon
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.03.10,&#x20;
+* Details: [https://likecoin.bigdipper.live/proposals/42](https://likecoin.bigdipper.live/proposals/42)
+
+## Proposal #41 \[Parameter Change] Change InflationRateChange from 25% to 100%
+
+* Proposer: Liker.Social
+* Proposal Type: Parameter Change Proposal
+* Date: Submit on 2022.03.08,
+* Details: [https://likecoin.bigdipper.live/proposals/41](https://likecoin.bigdipper.live/proposals/41)
+
+## Proposal #40 Community-pool-spend Proposal: deposit 2,000,000 LIKE to Tech Subdao multisig wallet
+
+* Proposer: kin ko
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.03.07,&#x20;
+* Details: [https://likecoin.bigdipper.live/proposals/40](https://likecoin.bigdipper.live/proposals/40)
+
+## Proposal #39 Signalling proposal: Tech Subdao to pick up outstanding work of proposal 33
+
+* Proposer: kin ko
+* Proposal Type: Text Proposal
+* Date: Submit on 2022.03.04, Passed on 2022.03.11
+* Details: [https://likecoin.bigdipper.live/proposals/39](https://likecoin.bigdipper.live/proposals/39)
+
+## Proposal #38 Signalling proposal: endorse a marketing subdao
+
+* Proposer: kin ko
+* Proposal Type: Text Proposal
+* Date: Submit on 2022.02.20, Passed on 2022.03.02
+* Details: [https://likecoin.bigdipper.live/proposals/38](https://likecoin.bigdipper.live/proposals/38)
+
+## Proposal #37 Community pool spend proposal: Pool incentives on Osmosis
+
+* Proposer: medium
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.02.17, Passed on 2022.02.27
+* Details: [https://likecoin.bigdipper.live/proposals/37](https://likecoin.bigdipper.live/proposals/37)
+
+## Proposal #36 Community Pool Spend February 2022
+
+* Proposer: kin ko
+* Proposal Type: Text Proposal
+* Date: Submit on 2022.02.17, Passed on 2022.02.27
+* Details: [https://likecoin.bigdipper.live/proposals/36](https://likecoin.bigdipper.live/proposals/36)
+
 ## Proposal #35 Community Pool Spend February 2022
 
 * Proposer: Yoitsu
 * Proposal Type: Community Pool Spend Proposal
-* Date: Submit on 2022.02.07
+* Date: Submit on 2022.02.07, Passed on 2022.02.15
 * Details: [https://likecoin.bigdipper.live/proposals/35](https://likecoin.bigdipper.live/proposals/35)
 
 ## Proposal #34 Move Community Delegation to Public Node
 
 * Proposer: 1% Potato
 * Proposal Type: Text Proposal
-* Date: Submit on 2022.02.07,&#x20;
+* Date: Submit on 2022.02.07, Failed to deposit on 2022.02.21
 * Details: [https://likecoin.bigdipper.live/proposals/34](https://likecoin.bigdipper.live/proposals/34)
 
 ## Proposal #33 Hire OurSky developers with community pool
@@ -50,7 +99,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #29 Transfer all the LikeCoin in the Migration Pool and Team Pool to the Community Pool
 
-* Proposer: Kin Ko
+* Proposer: kin ko
 * Proposal Type: Text Proposal
 * Date: Submit on 2021.12.31, Passed on 2022.01.10
 * Details: [https://likecoin.bigdipper.live/proposals/29](https://likecoin.bigdipper.live/proposals/29)
@@ -64,7 +113,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #27 Community-pool-spend proposal: transfer 50,000USDe of LIKE to Numbers Protocol
 
-* Proposer: Kin Ko
+* Proposer: kin ko
 * Proposal Type: Community Pool Spend Proposal
 * Date: Submit on 2021.12.14, Passed on 2021.12.27
 * Details: [https://likecoin.bigdipper.live/proposals/27](https://likecoin.bigdipper.live/proposals/27)
@@ -78,7 +127,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #25 Proposal to Fairdrop LikeCoin to the Cosmos Community and Civic Likers
 
-* Proposer: [Kin Ko](https://matters.news/@ckxpress/proposal-to-fairdrop-like-coin-to-the-cosmos-community-and-civic-likers-bafyreibhl3hcsgz6vwvgumpqyhsfkar2aznjq4wfqbtd2lugolxqgxfyly)
+* Proposer: [kin ko](https://matters.news/@ckxpress/proposal-to-fairdrop-like-coin-to-the-cosmos-community-and-civic-likers-bafyreibhl3hcsgz6vwvgumpqyhsfkar2aznjq4wfqbtd2lugolxqgxfyly)
 * Proposal Type: Community Pool Spend Proposal
 * Date: Submit on 2021.12.09, Passed on 2021.12.18
 * Details: [https://likecoin.bigdipper.live/proposals/25](https://likecoin.bigdipper.live/proposals/25)
