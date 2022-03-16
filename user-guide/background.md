@@ -20,7 +20,7 @@ A citizen in _LikeCoin DAO_. Each _Liker_ has a unique _Liker ID_ to identify he
 
 ### Civic Liker <a href="#75ea" id="75ea"></a>
 
-A _Liker_ who joins the USD5 monthly subscription service. _Civic Liker_ is essentially __ a tax payer in _LikeCoin DAO_ and enjoys various benefits while at the same time supports creators.
+A _Liker_ who delegates at least 5,000 LIKE to the Civic Liker validator node, and distribute the corresponding staking reward via the LikeCoin button. _Civic Liker_ is essentially _the_ tax payer in _LikeCoin DAO,_ enjoying various benefits while at the same time supporting creators.&#x20;
 
 ### Liker Land app <a href="#2696" id="2696"></a>
 
