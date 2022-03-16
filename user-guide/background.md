@@ -18,7 +18,7 @@ _LikeCoin DAO_ 的市民。每位 _Liker_ 擁有一獨特的 _Liker ID_ 以資�
 
 ### 讚賞公民 ( Civic Liker ) <a href="#75ea" id="75ea"></a>
 
-一個每月付出 5 美元月費的 _Liker_，是 _LikeCoin DAO_ 的納稅人，在支持創作的同時亦能享有一些獨特的好處。
+最少委託 5,000 LikeCoin 到讚賞公民節點，並以委託回報金以化讚為賞的方式回饋創作的 _Liker_，是 _LikeCoin DAO_ 的納稅人，在支持創作的同時亦能享有一些獨特的好處。
 
 ### Liker Land app <a href="#2696" id="2696"></a>
 
