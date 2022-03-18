@@ -2,6 +2,8 @@
 
 ## Akash
 
+Following is a community maintained guid on setting on LikeCoin validator node on Akash.
+
 {% embed url="https://github.com/cybernekit/likecoin-akash" %}
 by [web34orever](https://likecoin.bigdipper.live/validators/cosmosvaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6eu6q5h)
 {% endembed %}
