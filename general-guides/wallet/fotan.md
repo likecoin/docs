@@ -4,7 +4,7 @@ description: What is the impact on Liker?
 
 # FoTan upgrade FAQ
 
-LikeCoin chain was upgraded from SheungWan to Fotan version on August 18, 2021 19:45 GMT+8. After the upgrade, the LikeCoin chain supports [ISCN ( International Standard Content Number )](../../developer/international-standard-content-number-iscn/) content registry and IBC ( Inter Blockchain Communication ). Validators upgraded the chain together on Google Meet. During the upgrade, all transactions on Liker Land were suspended.&#x20;
+LikeCoin chain was upgraded from SheungWan to Fotan version on August 18, 2021 19:45 GMT+8. After the upgrade, the LikeCoin chain supports [ISCN ( International Standard Content Number )](../../developer/iscn/) content registry and IBC ( Inter Blockchain Communication ). Validators upgraded the chain together on Google Meet. During the upgrade, all transactions on Liker Land were suspended.&#x20;
 
 Have questions on the upgrade? Please check out the following FAQ.
 

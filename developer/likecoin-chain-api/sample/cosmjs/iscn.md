@@ -1,8 +1,8 @@
 # ISCN
 
-Please refer to the [ISCN](../../../international-standard-content-number-iscn/) section
+Please refer to the [ISCN](../../../iscn/) section
 
-{% page-ref page="../../../international-standard-content-number-iscn/javascript/iscn-js.md" %}
-
-
+{% content-ref url="../../../iscn/javascript/iscn-js.md" %}
+[iscn-js.md](../../../iscn/javascript/iscn-js.md)
+{% endcontent-ref %}
 

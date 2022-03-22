@@ -8,6 +8,6 @@ LikeCoin chain is a distributed ledger of the DAO, the open government of Liker 
 
 On November 15, 2019, LikeCoin upgraded from ERC-20 to the LikeCoin chain code name SheungWan based on the [Cosmos Hub](https://cosmos.network) ecosystem.&#x20;
 
-On August 18, 2021 (GMT+8), the LikeCoin chain upgraded to FoTan, which incorporates advanced features such as [International Standard Content Number (“ISCN”)](../../developer/international-standard-content-number-iscn/), IBC (Inter-blockchain communication) and other features of [Stargate](https://stargate.cosmos.network).
+On August 18, 2021 (GMT+8), the LikeCoin chain upgraded to FoTan, which incorporates advanced features such as [International Standard Content Number (“ISCN”)](../../developer/iscn/), IBC (Inter-blockchain communication) and other features of [Stargate](https://stargate.cosmos.network).
 
 

@@ -9,7 +9,7 @@ description: Frequently Asked Questions
 ## [​LikeCoin - Decentralized Publishing](./) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
 * [What is Decentralized Publishing #DePub?](./)
-* [What is ISCN?](developer/international-standard-content-number-iscn/)
+* [What is ISCN?](developer/iscn/)
 * [What is the relationship between ISCN and IPFS?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [Why the decentralization nature of ISCN is good to content ecosystem?](general-guides/decentralized-publishing/benefits.md)
 * [Any cost for registering ISCN?](general-guides/decentralized-publishing/what-is-iscn.md)
