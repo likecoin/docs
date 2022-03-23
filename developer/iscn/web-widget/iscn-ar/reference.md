@@ -52,23 +52,26 @@ Submit ISCN data to widget
           data: 'iVBORw0KGgoAAAANSUhEUgAABAAAAA...',
         },
       ],
-      name: 'LikeCoin Update &#124; Launching $LIKE Airdrop and Civic Likers Web3',
-      tags: ['Airdrop', 'Civic Liker', 'Depub', 'LikeCoin', 'Progress Update'],
-      author: 'likecoin',
-      description: 'Launch of LikeCoin Airdrop The long-awaited 50 million...',
+      metadata: {
+        name: 'LikeCoin Update &#124; Launching $LIKE Airdrop and Civic Likers Web3',
+        tags: ['Airdrop', 'Civic Liker', 'Depub', 'LikeCoin', 'Progress Update'],
+        author: 'likecoin',
+        description: 'Launch of LikeCoin Airdrop The long-awaited 50 million...',
+      }
     },
   }
 ```
 
-| Key              | Description                              |
-| ---------------- | ---------------------------------------- |
-| action           | SUBMIT\_ISCN\_DATA                       |
-| data             | ISCN Data for submission                 |
-| data.files       | Array of files to be uploaded to Arweave |
-| data.name        | Title for the ISCN content               |
-| data.tags        | Tags for the content                     |
-| data.author      | Name of the author                       |
-| data.description | Description for the content              |
+| Key                       | Description                              |
+| ------------------------- | ---------------------------------------- |
+| action                    | SUBMIT\_ISCN\_DATA                       |
+| data                      | ISCN Data for submission                 |
+| data.files                | Array of files to be uploaded to Arweave |
+| data.metadata             | ISCN metadata                            |
+| data.metadata.name        | Title for the ISCN content               |
+| data.metadata.tags        | Tags for the content                     |
+| data.metadata.author      | Name of the author                       |
+| data.metadata.description | Description for the content              |
 
 ### Emit event format
 
@@ -161,10 +164,12 @@ function sendISCNPayload() {
           data: 'iVBORw0KGgoAAAANSUhEUgAABAAAAA...',
         },
       ],
-      title: 'LikeCoin Update &#124; Launching $LIKE Airdrop and Civic Likers Web3',
-      tags: ['Airdrop', 'Civic Liker', 'Depub', 'LikeCoin', 'Progress Update'],
-      author: 'likecoin',
-      description: 'Launch of LikeCoin Airdrop The long-awaited 50 million...',
+      metadata: {
+        title: 'LikeCoin Update &#124; Launching $LIKE Airdrop and Civic Likers Web3',
+        tags: ['Airdrop', 'Civic Liker', 'Depub', 'LikeCoin', 'Progress Update'],
+        author: 'likecoin',
+        description: 'Launch of LikeCoin Airdrop The long-awaited 50 million...',
+      }
     },
 
   }), ISCN_WIDGET_ORIGIN);
