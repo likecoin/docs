@@ -97,9 +97,9 @@ txHash 是 LikeCoin chain 上的交易記錄編號，你可在 Big Dipper 或 st
 
 打開 "Raw" 選項，可看到詳細的 ISCN 註冊資料記錄。
 
-另外，iscnId 則是這筆內容的 ISCN 編號，你可在 app.like.co 查詢這編號，例如輸入 iscn://likecoin-chain/9MewrmZqHT55nJLtW7EGqo8szOwKtp42AmhKyhWrImw/1 能查到李白的《將進酒》：
+另外，iscnId 則是這筆內容的 ISCN 編號，你可在 app.like.co 查詢這編號，例如輸入 iscn://likecoin-chain/gYfyLhuE941XFQFW_YMGnoxvx2nB3Y_CBdqreCUmyKo/1 能查到李白的《將進酒》：
 
-![李白《將進酒》 ISCN ID iscn://likecoin-chain/9MewrmZqHT55nJLtW7EGqo8szOwKtp42AmhKyhWrImw](../../.gitbook/assets/iscn-batch-uploader-05.png)
+![李白《將進酒》 ISCN ID iscn://likecoin-chain/gYfyLhuE941XFQFW_YMGnoxvx2nB3Y_CBdqreCUmyKo/1](../../.gitbook/assets/iscn-batch-uploader-05.png)
 
 你也可以剛才用作批量註冊的那 LikeCoin 錢包登入 app.like.co，點 "Your Publishing" 能查到經 iscn-batch-uploader 註冊的內容，可是目前只能查到首 100 筆記錄。
 
