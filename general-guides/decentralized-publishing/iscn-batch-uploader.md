@@ -112,12 +112,12 @@ Toggle the “Raw” option to view the details of the registered ISCN informati
 The iscnId is the unique content ID supported by the LikeCoin chain. You can check the ID up in [app.like.co](https://app.like.co). For example, try searching for
 
 ```
-iscn://likecoin-chain/9MewrmZqHT55nJLtW7EGqo8szOwKtp42AmhKyhWrImw/1
+iscn://likecoin-chain/gYfyLhuE941XFQFW_YMGnoxvx2nB3Y_CBdqreCUmyKo/1
 ```
 
 in app.like.co to view the poem registry.
 
-![ISCN ID iscn://likecoin-chain/gYfyLhuE941XFQFW\_YMGnoxvx2nB3Y\_CBdqreCUmyKo/1](../../.gitbook/assets/iscn-batch-uploader-05.png)
+![ISCN ID iscn://likecoin-chain/gYfyLhuE941XFQFW_YMGnoxvx2nB3Y_CBdqreCUmyKo/1](../../.gitbook/assets/iscn-batch-uploader-05.png)
 
 You can check all the registered ISCN records in app.like.co. Login (by Keplr) with the wallet that you have filled the seed words into the config file of iscn-batch-uploader, click “Your Publishing” and check your registration. Only the first 100 records can be displayed in app.like.co however.
 
