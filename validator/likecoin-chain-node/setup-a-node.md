@@ -112,16 +112,23 @@ For advanced configuration, such as changing folder locations or specifying bina
 
 > If you are migrating an existing node on the same host, please ensure that your existing `.liked` folder is not at your home directory, otherwise this might overwrite your files!
 
-For latest genesis url and seed node, refer to:
-
-* [Mainnet](https://github.com/likecoin/mainnet/)
-* [Public Testnet](https://github.com/likecoin/testnets)
+For latest genesis url and seed node, we host the latest info on Github: [Mainnet](https://github.com/likecoin/mainnet/). Following is the command for running the setup-node script for mainnet.
 
 ```shell
-cd ~/likecoin-chain
 export MONIKER='<My Validator>'
 export GENESIS_URL='https://raw.githubusercontent.com/likecoin/mainnet/master/genesis.json'
 export LIKED_SEED_NODES='913bd0f4bea4ef512ffba39ab90eae84c1420862@34.82.131.35:26656,e44a2165ac573f84151671b092aa4936ac305e2a@nnkken.dev:26656'
+cd ~/likecoin-chain
+make -C deploy setup-node
+```
+
+Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/testnets), current active testnet is `likecoin-public-testnet-4`. Following is the command for running the setup-node script for testnet.
+
+```bash
+export MONIKER='<My Validator>'
+export GENESIS_URL='https://raw.githubusercontent.com/oursky/testnets/master/likecoin-public-testnet-4/genesis.json'
+export LIKED_SEED_NODES='4f5ebbf796c5f2dc928d88f212e92671a7e224ab@20.205.224.107:26656,c45c18de6178d0face7e684e064c6022b2de0f16@20.24.152.136:26656'
+cd ~/likecoin-chain
 make -C deploy setup-node
 ```
 
@@ -178,8 +185,6 @@ keyhash
 
 > Skip this section for migrating operators
 
-
-
 yncing a node from genesis often requires hours if not days. To save time, we can start the new node from a known block.
 
 Firstly, obtain two trusted rpc endpoints. These info can often be found on the same repos hosting genesis files. We have included the addresses of mainnet public nodes below.
@@ -189,6 +194,10 @@ Then, we will need to obtain the latest block height and hash from one of the rp
 ```shell
 curl -s https://fotan-node-1.like.co:443/rpc/block
 ```
+
+{% hint style="info" %}
+For testnet, it should be `curl -s https://likecoin-public-testnet-4.oursky.dev/rpc/block`
+{% endhint %}
 
 The height is `result.block.header.height`, while the hash is `result.block_id.hash`
 
@@ -206,6 +215,10 @@ temp_dir = ""
 chunk_request_timeout = "60s"
 chunk_fetchers = "4"
 ```
+
+{% hint style="info" %}
+Replace the rpc\_server to [https://likecoin-public-testnet-4.oursky.dev/rpc/](https://likecoin-public-testnet-4.oursky.dev/rpc/) if you are setting up testnet.
+{% endhint %}
 
 Then, the node will use state sync to synchronize with the network instead of replaying from genesis at launch.
 
@@ -225,6 +238,10 @@ In particular, please set a minimum gas price for your node and enable state syn
 minimum-gas-prices = "1.0nanolike"
 snapshot-interval = 1000
 ```
+
+{% hint style="info" %}
+The unit for testnet is `nanoekil`
+{% endhint %}
 
 This avoids spams on the network and help new nodes sync to the latest state quickly.
 
