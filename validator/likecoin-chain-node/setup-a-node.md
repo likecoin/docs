@@ -217,7 +217,7 @@ chunk_fetchers = "4"
 ```
 
 {% hint style="info" %}
-Replace the rpc\_server to [https://likecoin-public-testnet-4.oursky.dev/rpc/](https://likecoin-public-testnet-4.oursky.dev/rpc/) if you are setting up testnet.
+Replace the rpc\_server to [https://likecoin-public-testnet-4.oursky.dev/rpc/](https://likecoin-public-testnet-4.oursky.dev/rpc/) and [https://likecoin-public-testnet-4-node2.oursky.dev/rpc/](https://likecoin-public-testnet-4-node2.oursky.dev/rpc/)  if you are setting up testnet.
 {% endhint %}
 
 Then, the node will use state sync to synchronize with the network instead of replaying from genesis at launch.
