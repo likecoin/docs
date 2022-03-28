@@ -2,7 +2,7 @@
 description: Import seed words and create wallet
 ---
 
-# Import wallet in Keplr
+# Import account into Keplr
 
 Open the Keplr wallet and click the figure in the upper right corner.
 
@@ -24,6 +24,6 @@ The You're all set! page appears, click "Done".
 
 ![](<../../../.gitbook/assets/Keplr Seed Words 05.png>)
 
-Go back to the Keplr wallet and click the figure in the upper right corner to check on the new wallet that has been imported.
+Go back to the Keplr wallet and click the figure in the upper right corner to check on the new account that has been imported.
 
 ![](<../../../.gitbook/assets/Keplr Seed Words 06.png>)

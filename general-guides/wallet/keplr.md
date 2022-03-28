@@ -44,7 +44,7 @@ You can send LikeCoin via Keplr to other wallet that support LikeCoin. Change th
 
 ### Step 2
 
-On Recipient fill in the cosmos wallet of the receiver, Token is being selected automatically as LIKE, Amount shows the total amount of LIKE in the wallet. Please fill in the number of LikeCoin that need to be sent and reserve some LIKE for the [transaction fee](transaction-fee.md). Memo (Optional) fill in the Tag/Memo which may be required by the receiver. Then click "Send".
+On Recipient fill in the cosmos wallet of the receiver, Token is being selected automatically as LIKE, Amount shows the total amount of LIKE in the wallet. Please fill in the number of LikeCoin that need to be sent and reserve some LIKE for the [transaction fee](transaction-fee.md). On Memo (Optional) fill in the Tag/Memo which may be required by the receiver. Then click "Send".
 
 ![](../../.gitbook/assets/keplr11.png)
 
@@ -83,8 +83,6 @@ You can also register a Liker ID with Keplr or bond your existing Keplr wallet w
 {% content-ref url="../../user-guide/liker-id/register-with-keplr.md" %}
 [register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
 {% endcontent-ref %}
-
-****
 
 ## Other wallet interface for managing LikeCoin with Keplr
 

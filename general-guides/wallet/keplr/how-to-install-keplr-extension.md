@@ -1,3 +1,7 @@
+---
+description: On desktop computer
+---
+
 # How to install Keplr extension
 
 Go to the Chrome Webstore and click "Add to Chrome" to install the [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
