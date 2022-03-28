@@ -334,7 +334,8 @@ Below values are examples and can be customized.
 --min-self-delegation="500000000000" \
 --chain-id="likecoin-mainnet-2" \
 --from=$KEY_NAME \
---keyring-backend=file
+--keyring-backend=file \
+--gas-prices 10nanolike
 ```
 
 You can obtain the validator address by:
@@ -367,7 +368,8 @@ You may edit validator details anytime:
 --commission-rate="0.05" \
 --chain-id="likecoin-mainnet-2" \
 --from=$KEY_NAME \
---keyring-backend=file
+--keyring-backend=file \
+--gas-prices 10nanolike
 ```
 
 #### Vote
