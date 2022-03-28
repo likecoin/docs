@@ -21,7 +21,7 @@
 * [錢包](guides/wallet/README.md)
   * [Keplr](guides/wallet/keplr.md)
     * [安裝 Keplr 瀏覽器插件](guides/wallet/keplr/an-zhuang-keplr-liu-lan-qi-cha-jian.md)
-    * [在 Keplr 導入錢包](guides/wallet/keplr/zai-keplr-dao-ru-qian-bao.md)
+    * [在 Keplr 導入錢包](guides/wallet/keplr/import-account.md)
   * [LIKE pay](guides/wallet/like-pay.md)
   * [Ledger](guides/wallet/hardware-wallet.md)
   * [錢包地址](guides/wallet/wallet-address.md)
