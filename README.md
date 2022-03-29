@@ -30,7 +30,9 @@ The first step is to own LikeCoin, and use it for publishing or governance.  You
 
 Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
 
-
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
+{% endcontent-ref %}
 
 {% content-ref url="user-guide/liker-land/list-of-media.md" %}
 [list-of-media.md](user-guide/liker-land/list-of-media.md)
