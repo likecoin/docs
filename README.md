@@ -2,17 +2,35 @@
 description: 'What is LikeCoin, #DePub, and the LikeCoin DAO'
 ---
 
-# Decentralized Publishing
+# Decentralize Publishing
 
 ![](.gitbook/assets/image.png)
 
-LikeCoin is a Decentralized Publishing Infrastructure to empower content ownership, authenticity, and provenance. It works as a repository for immutable digital content metadata. Content creators can records the data and guarantees its integrity using LikeCoin's content registry protocol, [ISCN (International Standard Content Number)](https://iscn.io).
+### What is LikeCoin
 
-The ISCN functions like an ISBN (International Standard Book Number) for digital content; this unique, immutable content identifier contains metadata including timestamp, author, title, publisher, licensing, and versions. At its core, content metadata will be registered in the LikeCoin public blockchain and link to decentralized storage solutions like the [IPFS](https://medium.com/@ipfs) or [Arweave](https://arweave.medium.com) for storing and serving ISCN-linked content.
+LikeCoin let creators own their content and publish to the blockchain permanently.
 
-LikeCoin provides publication related SDK/plugins that can integrate with publication platforms like news outlet, social media and blogging websites.  Some media empowered by LikeCoin include [Matters](https://matters.news), [InMedia](https://www.inmediahk.net) and other 1,600+ websites. LikeCoin can also be utilized on [WordPress](https://wordpress.org/plugins/likecoin/), [Medium](https://medium.com), [Vocus](https://vocus.cc), [Blogspot (Blogger.com)](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms. LikeCoin also provides LikeCoin button to let media be rewarded by clapping by readers.
+### Content Ownership
 
-The core component of the infrastructure is [LikeCoin chain](https://likecoin.bigdipper.live), a public blockchain tailor-made for content publishing, supporting the [**LikeCoin DAO**](https://liker.land/getapp).
+[ISCN](https://iscn.io) (International Standard Content Number) is an immutable evidence of content ownership.
+
+### Decentralize Publishing
+
+Minting NFTs based on ISCN, just like publishing books based on ISBN.  Creators sell NFTs in marketplaces, just like selling ebooks on Amazon or hardcopies in bookstores.
+
+### LikeCoin DAO
+
+LikeCoin represents voting power in [LikeCoin DAO.](https://dao.like.co/proposals) Every LikeCoin holder is a stakeholder of the DAO.
+
+The DAO performs collective decision of public treasury, infrastructure for common goods, evolvement of policies, can all be evolved via the LikeCoin DAO governance process.
+
+### Kick started
+
+The first step is to own LikeCoin, and use it for publishing or governance.  You can try to post a decentralized tweet on [depub.SPACE](https://depub.space), vote on [dao.like.co](http://dao.like.co), or reward any creators by transferring LIKE via Keplr.
+
+Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
+
+
 
 {% content-ref url="user-guide/liker-land/list-of-media.md" %}
 [list-of-media.md](user-guide/liker-land/list-of-media.md)
