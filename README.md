@@ -8,15 +8,15 @@ description: 'What is LikeCoin, #DePub, and the LikeCoin DAO'
 
 ### What is LikeCoin
 
-LikeCoin let creators own their content and publish to the blockchain permanently.
+LikeCoin decentralizes publishing with NFT.
 
 ### Content Ownership
 
-[ISCN](https://iscn.io) (International Standard Content Number) is an immutable evidence of content ownership.
+Own your content by publishing them on LikeCoin as NFT.
 
 ### Decentralize Publishing
 
-Minting NFTs based on ISCN, just like publishing books based on ISBN.  Creators sell NFTs in marketplaces, just like selling ebooks on Amazon or hardcopies in bookstores.
+Sell your content as NFT by minting them.  Creators sell NFTs in marketplaces, just like selling ebooks on Amazon or hardcopies in bookstores.
 
 ### LikeCoin DAO
 
