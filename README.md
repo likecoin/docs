@@ -42,8 +42,8 @@ LikeCoin DAO 持份者一起決策和執行如公共財政、公益建設、政�
 
 * **網站**：[Like.co](https://like.co)（所有持份者；英文）、[Liker.Land](https://liker.land)（讀者、內容伯樂）、[ISCN App](https://app.like.co)（ISCN 註冊）、[iscn.io](https://iscn.io)（ISCN 技術細節）
 * ****[**Discord**](http://discord.gg/likecoin)：開發、治理相關討論
-* [**Telegram**](https://t.me/likecoin)：持份者、一般討論
 * [**文章**](https://blog.like.co/zh)：治理、進度更新、產品理念
+* [**Telegram**](https://t.me/likecoin)：持份者、一般討論
 * ****[**Twitter**](https://twitter.com/likecoin)：公告
 * ****[**GitHub**](https://github.com/likecoin)：開放代碼
 * **Facebook**：[粉專](https://www.facebook.com/Liker.Land/)（一般公告）；[社團](https://www.facebook.com/groups/likecoin)（作者分享）；中文
