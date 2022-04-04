@@ -7,7 +7,7 @@ description: >-
 
 # Community Calls
 
-### Call Link: [https://meet.google.com/ovn-smic-auu](https://meet.google.com/ovn-smic-auu)
+### Call Link: [ http://discord.gg/likecoin](http://discord.gg/likecoin)
 
 ### Add to your Calendar: [https://bit.ly/3c5DaTH](https://bit.ly/3c5DaTH)
 
