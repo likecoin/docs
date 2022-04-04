@@ -4,7 +4,7 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 # 社群治理會議
 
-### 會議連結：[https://meet.google.com/ovn-smic-auu](https://meet.google.com/ovn-smic-auu)
+### 會議連結：[ http://discord.gg/likecoin](http://discord.gg/likecoin)
 
 ### 把會議加入你的行事曆：[https://bit.ly/3c5DaTH](https://bit.ly/3c5DaTH)
 
