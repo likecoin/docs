@@ -126,8 +126,8 @@ Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/test
 
 ```bash
 export MONIKER='<My Validator>'
-export GENESIS_URL='https://raw.githubusercontent.com/likecoin/testnets/master/likecoin-public-testnet-4/genesis.json'
-export LIKED_SEED_NODES='4f5ebbf796c5f2dc928d88f212e92671a7e224ab@20.205.224.107:26656,c45c18de6178d0face7e684e064c6022b2de0f16@20.24.152.136:26656'
+export GENESIS_URL='https://raw.githubusercontent.com/likecoin/testnets/master/likecoin-public-testnet-5/genesis.json'
+export LIKED_SEED_NODES='7a38dfc59eb43b27cf2cc87b46a43e76aeaaf012@20.205.224.107:26656,11c0d57ae2b37122bd8e7de82a1b92c87bf3d45a@20.24.152.136:26656'
 cd ~/likecoin-chain
 make -C deploy setup-node
 ```
@@ -217,7 +217,7 @@ chunk_fetchers = "4"
 ```
 
 {% hint style="info" %}
-Use`rpc_servers = "https://likecoin-public-testnet-4.oursky.dev:443/rpc/,https://likecoin-public-testnet-4-node2.oursky.dev:443/rpc/"` if you are setting up testnet.
+Use`rpc_servers = "https://likecoin-public-testnet-5.oursky.dev:443/rpc/,https://likecoin-public-testnet-5-node2.oursky.dev:443/rpc/"` if you are setting up testnet.
 {% endhint %}
 
 Then, the node will use state sync to synchronize with the network instead of replaying from genesis at launch.
