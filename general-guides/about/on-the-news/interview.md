@@ -2,7 +2,17 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 03/30 Web2.5 時代
 
+{% embed url="https://www.youtube.com/watch?v=gncp9cIuMrc" %}
+
+### 02/24 Impact Incubator 創匯點
+
+{% embed url="https://www.youtube.com/watch?v=wfDQ0FOeaGI" %}
+
+01/14 C基金
+
+{% embed url="https://youtu.be/HUCmPNn2Oko?t=967" %}
 {% endtab %}
 
 {% tab title="2021" %}
@@ -29,6 +39,10 @@
 10 分鐘「新書快報」周詳 《區塊鏈社會學》
 
 {% embed url="https://www.youtube.com/watch?v=gVkYUHtpvcU" %}
+
+### 11/21 中山銅鑼灣書店書店
+
+{% embed url="https://www.youtube.com/watch?list=PLK9zGGnwGuZCdKOPzJC-1e7DL_cPl9alZ&v=i6K5i7f4j_M" %}
 
 ### 09/15 信報 徐家健
 
@@ -523,4 +537,6 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 :end:&#x20;
 {% endtab %}
 {% endtabs %}
+
+
 
