@@ -1,6 +1,6 @@
-# RPC API
+# RPC/LCD API
 
-## RPC API
+## RPC/LCD API
 
 Since LikeCoin chain is based on Cosmos SDK, you may refer to the Cosmos SDK documents for most of the API:
 
@@ -12,13 +12,13 @@ Returns the information about the account.
 
 Some commonly used fields:
 
-`response.result.value.coins` \(`[{amount: string, denom: string}]`\): the balance of the account. `response.result.value.account_number` \(`string`\): the account number, which is needed when signing transactions. `response.result.value.sequence` \(`string`\): the sequence for replay protection, which is needed when signing transactions.
+`response.result.value.coins` (`[{amount: string, denom: string}]`): the balance of the account. `response.result.value.account_number` (`string`): the account number, which is needed when signing transactions. `response.result.value.sequence` (`string`): the sequence for replay protection, which is needed when signing transactions.
 
-Example: 
+Example:&#x20;
 
 [https://mainnet-node.like.co/auth/accounts/cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04](https://mainnet-node.like.co/auth/accounts/cosmos1mnyn7x24xj6vraxeeq56dfkxa009tvhgknhm04)
 
-```text
+```
 {
   "height": "574791",
   "result": {
@@ -47,11 +47,11 @@ A transaction may contain multiple messages, and if any of them failed during ex
 
 User can check if the whole transaction succeeded by checking if the last object in `response.logs` shows `success: true` or not.
 
-Example: 
+Example:&#x20;
 
 [https://mainnet-node.like.co/txs/F7AE531BC8CDD70A8C69ADBCD1F77029C11965900F3F0F239627E1DAF2C72A77](https://mainnet-node.like.co/txs/0311566B20DDE13FD8323513E94366EFD379812EA3A7283065398BE212399B60)
 
-```text
+```
 {
   "height": "6455",
   "txhash": "0311566B20DDE13FD8323513E94366EFD379812EA3A7283065398BE212399B60",
@@ -137,7 +137,7 @@ Sends a signed transaction.
 
 Example request body:
 
-```text
+```
 {
   "mode":"sync",
   "tx":{
@@ -183,7 +183,7 @@ Example request body:
 
 Response:
 
-```text
+```
 {
   "height":"0",
   "logs":[
@@ -197,4 +197,3 @@ Response:
   "txhash":"8C3A38A9F340050C459DCD9C3F52396E7C76FC286BA879C791C233580F7A64F0"
 }
 ```
-
