@@ -2,6 +2,12 @@
 
 {% tabs %}
 {% tab title="2022" %}
+###
+
+### 04/12 Openbook
+
+[出版NFT移民．典範轉移》重新省思數位世界：LikeCoin創辦人高重建談分散式出版](https://www.openbook.org.tw/article/p-66082)
+
 ### 03/30 Web2.5 時代
 
 {% embed url="https://www.youtube.com/watch?v=gncp9cIuMrc" %}
@@ -10,7 +16,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=wfDQ0FOeaGI" %}
 
-01/14 C基金
+### 01/14 C基金
 
 {% embed url="https://youtu.be/HUCmPNn2Oko?t=967" %}
 {% endtab %}
