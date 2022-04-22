@@ -6,7 +6,7 @@ description: ISCN AR web widget API Reference
 
 ### Base URL <a href="#base-url" id="base-url"></a>
 
-Testnet: [`https://rinkeby.like.co/in/widget/iscn-ar`](reference.md#input-link-https-rinkeby-like-co-in-widget-pay-to-ckxpress-and-amount-1-and-via-kiutest-0-and-fee-1-1)``
+Testnet: [`https://testnet.like.co/in/widget/iscn-ar`](https://testnet.like.co/in/widget/iscn-ar)``
 
 Production: [`https://like.co/in/widget/iscn-ar`](https://like.co/in/widget/iscn-ar)``
 
