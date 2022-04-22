@@ -1,5 +1,19 @@
 # RPC/LCD API
 
+## Public RPC/LCD Endpoint
+
+### Testnet
+
+Please refer to `Current testnet` to get the latest chain ID, RPC, LCD and explorer for testnet
+
+[https://github.com/likecoin/testnets](https://github.com/likecoin/testnets)
+
+### Mainnet
+
+Please refer to this Github repo to get the latest chain ID, RPC, LCD and explorer for testnet
+
+[https://github.com/likecoin/mainnet](https://github.com/likecoin/mainnet)
+
 ## RPC/LCD API
 
 Since LikeCoin chain is based on Cosmos SDK, you may refer to the Cosmos SDK documents for most of the API:
