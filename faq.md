@@ -25,7 +25,7 @@ description: Frequently Asked Questions
 -----------------------------------------------------------------------------------------------------------------------------
 
 * ​[What is LikeCoin?](./)
-* [What is the usage of LikeCoin token?](general-guides/likecoin-token/)
+* [What is the usage of LikeCoin token?](general-guides/likecoin-token.md)
 * [Where to find the latest updates about LikeCoin?](https://blog.like.co/category/progress-update/)
 * [What does the media say about LikeCoin?](general-guides/about/on-the-news/)
 * [Does LikeCoin provide branding and design materials for download?](general-guides/about/presskit.md)
