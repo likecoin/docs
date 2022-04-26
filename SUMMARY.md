@@ -83,6 +83,7 @@
     * [重設密碼](user-guide/liker-id/register/reset-password.md)
     * [管理登入裝置](user-guide/liker-id/register/devices.md)
     * [甚麼是 Authcore？](user-guide/liker-id/register/what-is-authcore.md)
+    * [匯出錢包助記詞](user-guide/liker-id/register/export-seed-words.md)
   * [修改頭像及顯示名稱](user-guide/liker-id/edit-avatar-displayname.md)
 * [LikeCoin button 讚賞鍵](user-guide/creator/README.md)
   * [Youtube](user-guide/creator/youtube.md)
