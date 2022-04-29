@@ -112,12 +112,13 @@ For advanced configuration, such as changing folder locations or specifying bina
 
 > If you are migrating an existing node on the same host, please ensure that your existing `.liked` folder is not at your home directory, otherwise this might overwrite your files!
 
-For latest genesis url and seed node, we host the latest info on Github: [Mainnet](https://github.com/likecoin/mainnet/). Following is the command for running the setup-node script for mainnet.
+For latest genesis url and seed node, we host the latest info on Github: [Mainnet](https://github.com/likecoin/mainnet/). Following is the command for running the setup-node script for mainnet. Please confirm the `LIKED_VERSION` to be used in the above Mainnet Github repository.
 
 ```shell
 export MONIKER='<My Validator>'
 export GENESIS_URL='https://raw.githubusercontent.com/likecoin/mainnet/master/genesis.json'
 export LIKED_SEED_NODES='913bd0f4bea4ef512ffba39ab90eae84c1420862@34.82.131.35:26656,e44a2165ac573f84151671b092aa4936ac305e2a@nnkken.dev:26656'
+export LIKED_VERSION='1.2.0'
 cd ~/likecoin-chain
 make -C deploy setup-node
 ```
@@ -128,6 +129,7 @@ Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/test
 export MONIKER='<My Validator>'
 export GENESIS_URL='https://raw.githubusercontent.com/likecoin/testnets/master/likecoin-public-testnet-5/genesis.json'
 export LIKED_SEED_NODES='7a38dfc59eb43b27cf2cc87b46a43e76aeaaf012@20.205.224.107:26656,11c0d57ae2b37122bd8e7de82a1b92c87bf3d45a@20.24.152.136:26656'
+export LIKED_VERSION='2.0.0'
 cd ~/likecoin-chain
 make -C deploy setup-node
 ```
