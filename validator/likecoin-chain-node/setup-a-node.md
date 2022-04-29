@@ -123,7 +123,7 @@ cd ~/likecoin-chain
 make -C deploy setup-node
 ```
 
-Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/testnets), current active testnet is `likecoin-public-testnet-4`. Following is the command for running the setup-node script for testnet.
+Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/testnets), current active testnet is `likecoin-public-testnet-4`. Following is the command for running the setup-node script for testnet. Please confirm the latest testnet and parameters to be used in the testnet Github repository.
 
 ```bash
 export MONIKER='<My Validator>'
