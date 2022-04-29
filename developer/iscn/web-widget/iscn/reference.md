@@ -61,7 +61,7 @@ Following links are in testnet.
 
 #### Input Link: <a href="#input-link-https-rinkeby-like-co-in-widget-pay-to-ckxpress-and-amount-1-and-via-kiutest-0-and-fee-1" id="input-link-https-rinkeby-like-co-in-widget-pay-to-ckxpress-and-amount-1-and-via-kiutest-0-and-fee-1"></a>
 
-#### [https://testnet.like.co/in/widget/iscn?fingerprint=QmcTD5FbyBimKbd3EZ8PtR19PyeMnouZ7hZ178z75hZGrs\&publisher=matters\&title=iscn\&tags=iscn,widget972196547/\~/changes/Uwe8M1mQg0SuVR0GAWeR/developer/iscn/web-widget/iscn/reference](https://app.gitbook.com/o/-LL4mdaUaSAFWedMLtcC/s/-LL4mdaVjNgL6A1--PV0-1https://testnet.like.co/in/widget/iscn?fingerprint=QmcTD5FbyBimKbd3EZ8PtR19PyeMnouZ7hZ178z75hZGrs\&publisher=matters\&title=iscn\&tags=iscn,widget972196547/\~/changes/Uwe8M1mQg0SuVR0GAWeR/developer/iscn/web-widget/iscn/reference) <a href="#input-link-https-rinkeby-like-co-in-widget-pay-to-ckxpress-and-amount-1-and-via-kiutest-0-and-fee-1" id="input-link-https-rinkeby-like-co-in-widget-pay-to-ckxpress-and-amount-1-and-via-kiutest-0-and-fee-1"></a>
+#### [https://testnet.like.co/in/widget/iscn?fingerprint=QmcTD5FbyBimKbd3EZ8PtR19PyeMnouZ7hZ178z75hZGrs\&publisher=matters\&title=iscn\&tags=iscn,widget](https://testnet.like.co/in/widget/iscn?fingerprint=QmcTD5FbyBimKbd3EZ8PtR19PyeMnouZ7hZ178z75hZGrs\&publisher=matters\&title=iscn\&tags=iscn,widget) <a href="#input-link-https-rinkeby-like-co-in-widget-pay-to-ckxpress-and-amount-1-and-via-kiutest-0-and-fee-1" id="input-link-https-rinkeby-like-co-in-widget-pay-to-ckxpress-and-amount-1-and-via-kiutest-0-and-fee-1"></a>
 
 #### Tx Status Query:
 
