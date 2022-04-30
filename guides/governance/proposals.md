@@ -6,18 +6,39 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
-## 議案 #43 【議案 #42 修正案】社群池支出議案：存入 1,000,000 LIKE 到 Marketing SubDAO 的多重簽署錢包
+## 議案 #46 LikeCoin v2.0.0 LaiChiKok Prefix 升級
+
+* **提案：**Civic Liker
+* **類型**：軟件升級議案 ( Software Upgrade Proposal )
+* **日期**：2022.04.21 提案，2022.04.29 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/46](https://likecoin.bigdipper.live/proposals/46)
+
+## 議案 #45 存入 3,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
+
+* **提案：**ckxpress
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.04.20 提案，2022.04.29 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/45](https://likecoin.bigdipper.live/proposals/45)
+
+## 議案 #44 LikeCoin chain 升級驗證人激勵計劃
+
+* **提案：**Bulgakov 及 D
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.04.08 提案，2022.04.19 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/44](https://likecoin.bigdipper.live/proposals/44)
+
+## 議案 #43 【議案 #42 修正案】存入 1,000,000 LIKE 到 Marketing SubDAO 的多重簽署錢包
 
 * **提案：**Phoebe Poon
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
-* **日期**：2022.03.23 提案，
+* **日期**：2022.03.23 提案，2022.03.23 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/43](https://likecoin.bigdipper.live/proposals/43)
 
-## 議案 #42 社群池支出議案：存入 1,000,000 LIKE 到 Marketing SubDAO 的多重簽署錢包
+## 議案 #42 存入 1,000,000 LIKE 到 Marketing SubDAO 的多重簽署錢包
 
 * **提案：**Phoebe Poon
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
-* **日期**：2022.03.10 提案，2022.03.23 通過
+* **日期**：2022.03.10 提案，2022.03.31 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/42](https://likecoin.bigdipper.live/proposals/42)
 
 ## 議案 #41 修改通漲率參數由 25% 到 100%
@@ -27,16 +48,16 @@ description: LikeCoin DAO 有過甚麼議案？
 * **日期**：2022.03.08 提案，2022.03.18 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/41](https://likecoin.bigdipper.live/proposals/41)
 
-## 議案 #40 社群池支出議案：存入 2,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
+## 議案 #40 存入 2,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
 
-* **提案：**kin ko
+* **提案：**ckxpress
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.03.07 提案，2022.03.02 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/40](https://likecoin.bigdipper.live/proposals/40)
 
 ## 議案 #39 **指引式議案：**讓 Tech SubDAO 接手議案 33 的餘下工作
 
-* **提案：**kin ko
+* **提案：**ckxpress
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2022.03.04 提案，2022.03.11 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/39](https://likecoin.bigdipper.live/proposals/39)
@@ -48,7 +69,7 @@ description: LikeCoin DAO 有過甚麼議案？
 * **日期**：2022.02.20 提案，2022.03.02 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/38](https://likecoin.bigdipper.live/proposals/38)
 
-## 議案 #37 社群池支出議案：Osmosis 流動性池獎勵
+## 議案 #37 Osmosis 流動性池獎勵
 
 * **提案：**medium
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
@@ -57,7 +78,7 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ## 議案 #36 **指引式議案：**賦權 @ckxpress 成立 Tech subDAO
 
-* **提案：**kin ko
+* **提案：**ckxpress
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2022.02.17 提案，2022.02.27 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/36](https://likecoin.bigdipper.live/proposals/36)
@@ -106,7 +127,7 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ## 議案 #29 將轉移池及團隊池的 LikeCoin 傳送到社群池
 
-* **提案：**kin ko
+* **提案：**ckxpress
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2021.12.31 提案，2022.12.30 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/29](https://likecoin.bigdipper.live/proposals/29)
@@ -120,7 +141,7 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ## 議案 #27 傳送 50,000USDe LIKE 予 Numbers Protocol
 
-* **提案：**kin ko
+* **提案：**ckxpress
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.12.14 提案，2021.12.27 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/27](https://likecoin.bigdipper.live/proposals/27)
