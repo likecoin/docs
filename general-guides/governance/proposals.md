@@ -6,37 +6,58 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
-## Proposal #43 \[Rectify proposal 42] Community-spend proposal: deposit 1,000,000 LIKE to Marketing Subdao multi-sig wallet
+## Proposal #46 LikeCoin v2.0.0 LaiChiKok Prefix Upgrade
+
+* Proposer: Civic Liker
+* Proposal Type: Software Upgrade Proposal
+* Date: Submit on 2022.04.21, Passed on 2022.04.29
+* Details: [https://likecoin.bigdipper.live/proposals/46](https://likecoin.bigdipper.live/proposals/46)
+
+## Proposal #45 Deposit 3,000,000 LIKE to Tech Subdao multisig wallet
+
+* Proposer: ckxpress
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.04.20, Passed on 2022.04.29
+* Details: [https://likecoin.bigdipper.live/proposals/45](https://likecoin.bigdipper.live/proposals/45)
+
+## Proposal #44 Incentive program for validators who support the LikeCoin chain upgrade
+
+* Proposer: Bulgakov and D
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.04.08, Passed on 2022.04.19
+* Details: [https://likecoin.bigdipper.live/proposals/44](https://likecoin.bigdipper.live/proposals/44)
+
+## Proposal #43 \[Rectify proposal 42] Deposit 1,000,000 LIKE to Marketing Subdao multi-sig wallet
 
 * Proposer: Phoebe Poon
 * Proposal Type: Community Pool Spend Proposal
-* Date: Submit on 2022.03.23, Passed on&#x20;
+* Date: Submit on 2022.03.23, Passed on 2022.03.31
 * Details: [https://likecoin.bigdipper.live/proposals/43](https://likecoin.bigdipper.live/proposals/43)
 
-## Proposal #42 Community-spend proposal: deposit 1,000,000 LIKE to Marketing Subdao multi-sig wallet
+## Proposal #42 Deposit 1,000,000 LIKE to Marketing Subdao multi-sig wallet
 
 * Proposer: Phoebe Poon
 * Proposal Type: Community Pool Spend Proposal
 * Date: Submit on 2022.03.10, Passed on 2022.03.23
 * Details: [https://likecoin.bigdipper.live/proposals/42](https://likecoin.bigdipper.live/proposals/42)
 
-## Proposal #41 \[Parameter Change] Change InflationRateChange from 25% to 100%
+## Proposal #41 Change InflationRateChange from 25% to 100%
 
 * Proposer: Liker.Social
 * Proposal Type: Parameter Change Proposal
 * Date: Submit on 2022.03.08, Passed on 2022.03.18
 * Details: [https://likecoin.bigdipper.live/proposals/41](https://likecoin.bigdipper.live/proposals/41)
 
-## Proposal #40 Community-pool-spend Proposal: deposit 2,000,000 LIKE to Tech Subdao multisig wallet
+## Proposal #40 Deposit 2,000,000 LIKE to Tech Subdao multisig wallet
 
-* Proposer: kin ko
+* Proposer: ckxpress
 * Proposal Type: Community Pool Spend Proposal
 * Date: Submit on 2022.03.07, Passed on 2022.03.02
 * Details: [https://likecoin.bigdipper.live/proposals/40](https://likecoin.bigdipper.live/proposals/40)
 
 ## Proposal #39 Signalling proposal: Tech Subdao to pick up outstanding work of proposal 33
 
-* Proposer: kin ko
+* Proposer: ckxpress
 * Proposal Type: Text Proposal
 * Date: Submit on 2022.03.04, Passed on 2022.03.11
 * Details: [https://likecoin.bigdipper.live/proposals/39](https://likecoin.bigdipper.live/proposals/39)
@@ -48,7 +69,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 * Date: Submit on 2022.02.20, Passed on 2022.03.02
 * Details: [https://likecoin.bigdipper.live/proposals/38](https://likecoin.bigdipper.live/proposals/38)
 
-## Proposal #37 Community pool spend proposal: Pool incentives on Osmosis
+## Proposal #37 Pool incentives on Osmosis
 
 * Proposer: medium
 * Proposal Type: Community Pool Spend Proposal
@@ -57,7 +78,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #36 **Signalling proposal: endorse @ckxpress to form Tech Subdao**
 
-* Proposer: kin ko
+* Proposer: ckxpress
 * Proposal Type: Text Proposal
 * Date: Submit on 2022.02.17, Passed on 2022.02.27
 * Details: [https://likecoin.bigdipper.live/proposals/36](https://likecoin.bigdipper.live/proposals/36)
@@ -90,7 +111,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 * Date: Submit on 2022.01.18, Rejected on 2022.02.03
 * Details: [https://likecoin.bigdipper.live/proposals/32](https://likecoin.bigdipper.live/proposals/32)
 
-## Proposal #31 Community pool spend proposal: transfer 50,000USDe of LIKE to Tendermint (HackAtom VI)
+## Proposal #31 Transfer 50,000USDe of LIKE to Tendermint (HackAtom VI)
 
 * Proposer: Phoebe Poon
 * Proposal Type: Community Pool Spend Proposal
@@ -106,7 +127,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #29 Transfer all the LikeCoin in the Migration Pool and Team Pool to the Community Pool
 
-* Proposer: kin ko
+* Proposer: ckxpress
 * Proposal Type: Text Proposal
 * Date: Submit on 2021.12.31, Passed on 2022.01.10
 * Details: [https://likecoin.bigdipper.live/proposals/29](https://likecoin.bigdipper.live/proposals/29)
@@ -120,7 +141,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #27 Community-pool-spend proposal: transfer 50,000USDe of LIKE to Numbers Protocol
 
-* Proposer: kin ko
+* Proposer: ckxpress
 * Proposal Type: Community Pool Spend Proposal
 * Date: Submit on 2021.12.14, Passed on 2021.12.27
 * Details: [https://likecoin.bigdipper.live/proposals/27](https://likecoin.bigdipper.live/proposals/27)

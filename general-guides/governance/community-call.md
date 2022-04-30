@@ -19,7 +19,8 @@ description: >-
 
 | **Date**           | **Description**                                                                |
 | ------------------ | ------------------------------------------------------------------------------ |
-| Monday, 4 April    |                                                                                |
+| Monday, 2 May      |                                                                                |
+| Monday, 4 April    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 7 March    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 7 February | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 3 January  | LikeCoin Airdrop, Twitter Analytics, 2021 Sum up                               |
