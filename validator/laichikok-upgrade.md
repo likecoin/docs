@@ -4,6 +4,8 @@ description: LaiChiKok is the second major upgrade to the LikeCoin chain
 
 # LaiChiKok Upgrade
 
+### Please join the [#mainnet-validators](https://discord.gg/yGUqtcHGjv) channel.
+
 ### Changelog
 
 * Upgrade cosmos-sdk to 0.44.8, ibc-go to 2.1.0
@@ -13,12 +15,12 @@ description: LaiChiKok is the second major upgrade to the LikeCoin chain
 
 ### Timeline
 
-| Event            | Time                      |
-| ---------------- | ------------------------- |
-| Testnet Proposal | W3 April 2022             |
-| Testnet Deploy   | W3 April 2022, height TBC |
-| Mainnet Proposal | W4 April 2022             |
-| Mainnet Deploy   | W4 April 2022, height TBC |
+| Event                                                            | Time                                                            |
+| ---------------------------------------------------------------- | --------------------------------------------------------------- |
+| Testnet Proposal                                                 | W3 April 2022                                                   |
+| Testnet Deploy                                                   | W3 April 2022                                                   |
+| [Mainnet Proposal](https://likecoin.bigdipper.live/proposals/46) | W4 April 2022                                                   |
+| Mainnet Deploy                                                   | <p>4 May 2022, around UTC 11:00AM. <br>Block height 3692800</p> |
 
 Software Versioning Changes
 

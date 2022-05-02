@@ -123,7 +123,7 @@ cd ~/likecoin-chain
 make -C deploy setup-node
 ```
 
-Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/testnets), current active testnet is `likecoin-public-testnet-5`. Following is the command for running the setup-node script for testnet. Please confirm the latest testnet and parameters to be used in the testnet Github repository.
+Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/testnets), current active testnet is `likecoin-public-testnet-4`. Following is the command for running the setup-node script for testnet. Please confirm the latest testnet and parameters to be used in the testnet Github repository.
 
 ```bash
 export MONIKER='<My Validator>'
@@ -187,7 +187,7 @@ keyhash
 
 > Skip this section for migrating operators
 
-Syncing a node from genesis often requires hours if not days. To save time, we can start the new node from a known block.
+yncing a node from genesis often requires hours if not days. To save time, we can start the new node from a known block.
 
 Firstly, obtain two trusted rpc endpoints. These info can often be found on the same repos hosting genesis files. We have included the addresses of mainnet public nodes below.
 
@@ -198,7 +198,7 @@ curl -s https://fotan-node-1.like.co:443/rpc/block
 ```
 
 {% hint style="info" %}
-For testnet, it should be `curl -s https://likecoin-public-testnet-5.oursky.dev/rpc/block`
+For testnet, it should be `curl -s https://likecoin-public-testnet-4.oursky.dev/rpc/block`
 {% endhint %}
 
 The height is `result.block.header.height`, while the hash is `result.block_id.hash`
@@ -208,12 +208,10 @@ Next, we will edit `~/.liked/config/config.toml`. Locate the `[statesync]` secti
 ```toml
 [statesync]
 enable = true
-
 rpc_servers = "https://fotan-node-1.like.co:443/rpc/,https://fotan-node-2.like.co:443/rpc/"
 trust_height = <known height>
 trust_hash = "<known hash>"
 trust_period = "168h0m0s"
-
 discovery_time = "15s"
 temp_dir = ""
 chunk_request_timeout = "60s"
