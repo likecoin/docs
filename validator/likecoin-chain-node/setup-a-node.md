@@ -123,7 +123,7 @@ cd ~/likecoin-chain
 make -C deploy setup-node
 ```
 
-Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/testnets), current active testnet is `likecoin-public-testnet-4`. Following is the command for running the setup-node script for testnet. Please confirm the latest testnet and parameters to be used in the testnet Github repository.
+Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/testnets), current active testnet is `likecoin-public-testnet-5`. Following is the command for running the setup-node script for testnet. Please confirm the latest testnet and parameters to be used in the testnet Github repository.
 
 ```bash
 export MONIKER='<My Validator>'
@@ -198,7 +198,7 @@ curl -s https://fotan-node-1.like.co:443/rpc/block
 ```
 
 {% hint style="info" %}
-For testnet, it should be `curl -s https://likecoin-public-testnet-4.oursky.dev/rpc/block`
+For testnet, it should be `curl -s https://likecoin-public-testnet-5.oursky.dev/rpc/block`
 {% endhint %}
 
 The height is `result.block.header.height`, while the hash is `result.block_id.hash`
