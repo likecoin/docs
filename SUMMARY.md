@@ -27,6 +27,7 @@
   * [錢包地址](guides/wallet/wallet-address.md)
   * [Big Dipper](guides/wallet/big-dipper.md)
   * [手續費](guides/wallet/transaction-fee.md)
+  * [新地址前綴 (like) 常見問題](guides/wallet/like-address-prefix.md)
   * [由 ERC-20 升級](guides/wallet/migration/README.md)
     * [升級 LikeCoin ERC-20 到 LikeCoin chain](guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
     * [升級 LikeCoin 的常見問題](guides/wallet/migration/migration-faq.md)
