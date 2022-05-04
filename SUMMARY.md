@@ -97,6 +97,7 @@
   * [Wallet Address](general-guides/wallet/wallet-address.md)
   * [Big Dipper](general-guides/wallet/big-dipper.md)
   * [Transaction Fee](general-guides/wallet/transaction-fee.md)
+  * [New LikeCoin address prefix "like" - FAQ](general-guides/wallet/like-address-prefix.md)
   * [Migrating from ERC-20](general-guides/wallet/migration/README.md)
     * [Upgrade LikeCoin ERC-20 to LikeCoin chain](general-guides/wallet/migration/upgrading-likecoin-erc20-to-likecoin-chain.md)
     * [LikeCoin Migration FAQ](general-guides/wallet/migration/migration-faq.md)
