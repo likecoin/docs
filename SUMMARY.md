@@ -9,7 +9,6 @@
 * [LikeCoin 項目概覽](guides/about/README.md)
   * [傳媒報導](guides/about/on-the-news.md)
   * [品牌素材下載](guides/about/presskit.md)
-* [LikeCoin 通證](guides/likecoin-token.md)
 * [去中心出版](guides/decentralized-publishing/README.md)
   * [什麼是 ISCN?](guides/decentralized-publishing/what-is-iscn.md)
   * [ISCN 和 IPFS 的關係是什麼？](guides/decentralized-publishing/iscn-ipfs-relationship.md)
@@ -140,3 +139,4 @@
     * [查看讚賞公民支持者清單](cun-dang/archive/creatortools/support.md)
   * [FoTan 升級常見問題](cun-dang/archive/fotan.md)
   * [進度更新](cun-dang/archive/updates.md)
+  * [LikeCoin 通證](cun-dang/archive/likecoin-token.md)

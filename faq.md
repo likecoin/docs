@@ -24,7 +24,7 @@ description: LikeCoin 常見問題
 ## [LikeCoin 項目概覽](guides/about/)
 
 * [LikeCoin 是甚麼？](./)
-* [LikeCoin 通證有甚麼用途？](guides/likecoin-token.md)
+* [LikeCoin 通證有甚麼用途？](cun-dang/archive/likecoin-token.md)
 * [在那兒可參看最新工作進展？](cun-dang/archive/updates.md)
 * [有媒體報導可以參詳嗎？](guides/about/on-the-news.md)
 * [LikeCoin 有提供品牌形象指引和相關素材下載麼？](guides/about/presskit.md)
