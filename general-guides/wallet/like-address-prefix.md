@@ -1,24 +1,32 @@
+---
+description: After the LikeCoin v2.0.0 LaiChiKok Prefix Upgrade
+---
+
 # New LikeCoin address prefix "like" - FAQ
 
 ### What is wallet address prefix?
 
-The Cosmos ecosystem encourages each blockchain to focus on a single application. Each blockchain will define the address format of their native token with a specific prefix.  It is not a mandatory requirement but each blockchain will have its own address format. For example, the Cosmos Hub address starts with "cosmos", Osmosis with "osmo", Juno with "juno", etc.
+The Cosmos ecosystem encourages each blockchain to focus on a single application. Each blockchain will define the address format of their native token with a specific prefix.  It is not a mandatory requirement but each blockchain will have its own address format. For example, the Cosmos Hub address starts with “cosmos”, Osmosis with “osmo”, Juno with “juno”, etc.
 
-### Why didn't LikeCoin use "like" as its address prefix?
+### Why didn’t LikeCoin use “like” as its address prefix?
 
-When LikeCoin migrated to Cosmos, the Cosmos Ecosystem just got started, and the address prefixes format had not yet been formulazlied. The LikeCoin founding team chose "cosmos” as the wallet address prefix of $LIKE at that time which was the same as the Cosmos native token $ATOM. But after two years, we should follow the consensus of the Cosmos ecosystem and change the prefix to the “like”.
+When LikeCoin migrated to Cosmos, the Cosmos Ecosystem just got started, and the address prefixes format had not yet been formularized. The LikeCoin founding team chose “cosmos” as the wallet address prefix of $LIKE at that time which was the same as the Cosmos native token $ATOM. But after two years, we should follow the consensus of the Cosmos ecosystem and change the prefix to the “like”.
 
-### What is the advantage of using "like" as address prefix?
+### What is the advantage of using “like” as address prefix?
 
 Many Cosmos ecosystem applications, including Dapps or API rely on the prefix to identify which blockchain the address belongs to. Both Cosmos Hub and LikeCoin addresses start with the “cosmos” string therefore they cannot be easily distinguished and increases the difficulty for LikeCoin to integrate with other projects, such as wallets, exchanges, blockchain browsers, etc. A lot of extra effort is needed to integrate LikeCoin.
 
-The change of LikeCoin address format from the “cosmos” prefix (referred as the "old format") to the “like” prefix (referred as the "new format") will speed up the integration of LikeCoin with other Cosmos applications and hence better synergy.
+The change of LikeCoin address format from the “cosmos” prefix (referred as the “old format”) to the “like” prefix (referred as the “new format”) will speed up the integration of LikeCoin with other Cosmos applications and hence better synergy.
 
 ### What is the impact of changing prefix on existing users?
 
 * With the new format LikeCoin address, you can still review, send and receive transactions on Dapps that support the old format.
-* Although "backward compatibility" of the new format will be available for a certain time, applications related to LikeCoin will gradually support the new format, and the old format will be phased out eventually.
+* Although “backward compatibility” of the new format will be available for a certain time, applications related to LikeCoin will gradually support the new format, and the old format will be phased out eventually.
 * On some Dapps, users may need to manually reconfigure it in order to use the new format, such as Keplr.
+
+{% embed url="https://www.youtube.com/watch?v=CPXY9A42zBo" %}
+Configure Keplr to use the new LikeCoin wallet prefix (“like”)
+{% endembed %}
 
 ### What if I accidentally send LikeCoin to an old format address?
 
@@ -31,6 +39,10 @@ But the bottom line is: as long as you have the private key that generates the a
 When depositing LikeCoin to exchanges, especially centralized exchanges such as Liquid, Digifinex and ZB, please pay attention and check out if the exchange has supported the new format. The exchange may not fully support the new format resulting in deposit and withdrawal failure.
 
 When depositing to a centralized exchange, the private key of the deposit address is owed by the exchange, users must have assistance from the exchange to control the assets, please pay attention.
+
+### Tool to check the mapping of new/old addresses
+
+You may still need to check with the old wallet address in some past transaction records. You can always check the new/old address mapping in [LikeCoin Discord translate-wallet-prefix channel](https://discord.com/channels/763001015712350231/970941286112714832). For example you can get the corresponding new address by entering “/translate cosmosxxxxxx”, or vice versa, to get the corresponding old address by entering “/translate likexxxxxx”.
 
 #### Read More
 
