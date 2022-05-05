@@ -1,10 +1,10 @@
 # Setup local test node
 
-1. Clone the [likecoin-chain](https://github.com/likecoin/likecoin-chain) git repository at the `fotan-1.2` tag
+1. Clone the [likecoin-chain](https://github.com/likecoin/likecoin-chain) git repository using the latest tag. As of now latest version is `v2.0.0`, please check the mainnet repository to confirm version.
 
 ```
 git clone https://github.com/likecoin/likecoin-chain \
---branch fotan-1.2 --single-branch \
+--branch v2.0.0 --single-branch \
 likecoin-chain && cd likecoin-chain
 ```
 
