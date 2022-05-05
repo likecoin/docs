@@ -1,3 +1,7 @@
+---
+description: LikeCoin v2.0.0 LaiChiKok Prefix 大升級後的變更
+---
+
 # 新地址前綴 (like) 常見問題
 
 ### 什麼是錢包地址前綴？
