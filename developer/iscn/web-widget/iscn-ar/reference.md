@@ -166,7 +166,7 @@ function sendISCNPayload() {
         },
       ],
       metadata: {
-        title: 'LikeCoin Update &#124; Launching $LIKE Airdrop and Civic Likers Web3',
+        name: 'LikeCoin Update &#124; Launching $LIKE Airdrop and Civic Likers Web3',
         tags: ['Airdrop', 'Civic Liker', 'Depub', 'LikeCoin', 'Progress Update'],
         author: 'likecoin',
         description: 'Launch of LikeCoin Airdrop The long-awaited 50 million...',
