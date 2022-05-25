@@ -26,7 +26,7 @@ The DAO performs collective decision of public treasury, infrastructure for comm
 
 ### Kick started
 
-The first step is to own LikeCoin, and use it for publishing or governance.  You can try to post a decentralized tweet on [depub.SPACE](https://depub.space), vote on [dao.like.co](http://dao.like.co), or reward any creators by transferring LIKE via Keplr.
+The first step is to own LikeCoin, and use it for publishing or governance.  You can try to post a decentralized tweet on [depub.SPACE](https://depub.space), vote on [dao.like.co](http://dao.like.co/), or reward any creators by transferring LIKE via Keplr.
 
 Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
 
@@ -40,11 +40,11 @@ Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
 
 ## More about LikeCoin
 
-* **Website**: [Like.co](https://like.co) (for all stakeholders; in English), [Liker.Land](https://liker.land) (for readers and Content Jockey), [ISCN App](https://app.like.co) (ISCN Registry), [iscn.io](https://iscn.io) (ISCN Specifications)
+* **Website**: [Like.co](https://like.co) (for all stakeholders; in English), [Liker.Land](https://liker.land) (for readers and Content Jockey), [ISCN App](https://app.like.co/) (ISCN Registry), [iscn.io](https://iscn.io/) (ISCN Specifications)
 * ****[**Discord**](http://discord.gg/likecoin): development, governance discussion
 * ****[**Twitter**](https://twitter.com/likecoin): **** announcements
 * [**Publication**](https://blog.like.co): progress update, governance, products
-* [**Telegram**](https://t.me/likecoin): announcements
+* ****[**Telegram**](https://t.me/likecoin\_dao): announcements
 * [**GitHub**](https://github.com/likecoin): **** source codes
 * ****[**Matters**](https://matters.news/tags/VGFnOjgwOTQ) [**#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) **** : **** governance, progress update, products; in Chinese
 * **Facebook**: **** [page](https://www.facebook.com/Liker.Land/) (announcement); [group](https://www.facebook.com/groups/likecoin) (creators' sharing); in Chinese
@@ -52,5 +52,5 @@ Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
 
 ## Contact Us
 
-* Customer Service: [please click here](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7), or visit [Liker Land](https://liker.land) or [like.co](https://like.co) and click "Help", "Support".
+* Customer Service: [please click here](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7), or visit [Liker Land](https://liker.land/) or [like.co](https://like.co/) and click "Help", "Support".
 * Partners and Cooperation: [partners@like.co](mailto:partners@like.co)
