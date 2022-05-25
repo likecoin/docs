@@ -40,6 +40,9 @@ description: LikeCoin 常見問題
 * [LikeCoin 有區塊鏈瀏覽器嗎？](guides/wallet/big-dipper.md)
 * [操作 LikeCoin 需要手續費嗎？](guides/wallet/transaction-fee.md)
 * [我的舊版 LikeCoin ERC-20 應該怎處理？](guides/wallet/migration/)
+* [甚麼是 like1 錢包地址？](guides/wallet/like-address-prefix.md)
+
+
 
 ## [交易](guides/trade/)
 
@@ -102,6 +105,7 @@ description: LikeCoin 常見問題
 * [Liker ID 要怎樣註冊？](faq.md#liker-id)
 * [無法以社交帳號登入 Liker ID，怎麼辦？不知何解無法登入嗎？試試重設密碼吧！](user-guide/liker-id/register/reset-password.md)
 * [甚麼是 Authcore？](user-guide/liker-id/register/what-is-authcore.md)
+* [可以匯出 Liker ID 私鑰嗎？](user-guide/liker-id/register/export-seed-words.md)
 
 ### [社群](user-guide/community/)
 
