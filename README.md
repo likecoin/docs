@@ -40,10 +40,10 @@ LikeCoin DAO 持份者一起決策和執行如公共財政、公益建設、政�
 
 ## 關注 LikeCoin <a href="#learn-more" id="learn-more"></a>
 
-* **網站**：[Like.co](https://like.co)（所有持份者；英文）、[Liker.Land](https://liker.land)（讀者、內容伯樂）、[ISCN App](https://app.like.co)（ISCN 註冊）、[iscn.io](https://iscn.io)（ISCN 技術細節）
+* **網站**：[Like.co](https://like.co)（所有持份者；英文）、[Liker.Land](https://liker.land)（讀者、內容伯樂）、[ISCN App](https://app.like.co/)（ISCN 註冊）、[iscn.io](https://iscn.io/)（ISCN 技術細節）
 * ****[**Discord**](http://discord.gg/likecoin)：開發、治理相關討論
 * [**文章**](https://blog.like.co/zh)：治理、進度更新、產品理念
-* [**Telegram**](https://t.me/likecoin)：持份者、一般討論
+* ****[**Telegram**](https://t.me/likecoin\_dao)：持份者、一般討論
 * ****[**Twitter**](https://twitter.com/likecoin)：公告
 * ****[**GitHub**](https://github.com/likecoin)：開放代碼
 * **Facebook**：[粉專](https://www.facebook.com/Liker.Land/)（一般公告）；[社團](https://www.facebook.com/groups/likecoin)（作者分享）；中文
@@ -51,5 +51,5 @@ LikeCoin DAO 持份者一起決策和執行如公共財政、公益建設、政�
 
 ## 聯繫我們 <a href="#contact-us" id="contact-us"></a>
 
-* 客戶服務：[點擊這裡](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)，或到 [Liker Land](https://liker.land) 或 [Like.co](https://like.co) 按畫面右下角 Help 或 幫助
+* 客戶服務：[點擊這裡](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)，或到 [Liker Land](https://liker.land/) 或 [Like.co](https://like.co/) 按畫面右下角 Help 或 幫助
 * 商務合作：partners@like.co
