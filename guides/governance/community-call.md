@@ -54,4 +54,4 @@ LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，�
 
 ## 會議記錄 <a href="#minutes" id="minutes"></a>
 
-[治理](https://blog.like.co/zh/category/%E6%B2%BB%E7%90%86/)[Governance](https://blog.like.co/category/governance/)
+[治理](https://blog.like.co/zh/category/%E6%B2%BB%E7%90%86/)、[Governance](https://blog.like.co/category/governance/)
