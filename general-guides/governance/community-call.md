@@ -19,7 +19,8 @@ description: >-
 
 | **Date**           | **Description**                                                                |
 | ------------------ | ------------------------------------------------------------------------------ |
-| Monday, 2 May      |                                                                                |
+| Monday, 6 June     |                                                                                |
+| Monday, 2 May      | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 4 April    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 7 March    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 7 February | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
@@ -52,23 +53,4 @@ description: >-
 
 ## Meeting Minutes
 
-* [LikeCoin Community Call Minutes #202203](https://blog.like.co/likecoin-community-update-202203-ac292d62dd4b)
-* [LikeCoin Community Update #202202](https://blog.like.co/likecoin-community-update-202202-17c025a79820)
-* [LikeCoin Community Update #202201](https://medium.com/likecoin/likecoin-community-update-202201-56cd832486cd)
-* [LikeCoin Community Update #202112](https://medium.com/likecoin/likecoin-community-update-202112-87ccb81518d1)
-* [LikeCoin Community Update #202110](https://medium.com/likecoin/likecoin-community-update-202110-8b4b2aab4e4f)
-* [LikeCoin Community Update #202109](https://medium.com/likecoin/likecoin-community-update-202109-a5722cb838dd)
-* [LikeCoin Community Update #202108](https://medium.com/likecoin/likecoin-community-update-202108-abb71c67145c)
-* [LikeCoin Community Call #202107 Minutes](https://medium.com/likecoin/likecoin-community-call-202107-minutes-7edeb276198d)
-* [LikeCoin Community Call #202106 Minutes](https://medium.com/likecoin/likecoin-community-call-202106-minutes-3f971d47bf2f)
-* [LikeCoin Community Call #202105 Minutes](https://medium.com/likecoin/likecoin-community-call-202105-minutes-be3e8bbfa9e5)
-* [LikeCoin Community Call #202104 Minutes](https://medium.com/likecoin/likecoin-community-call-202104-minutes-a8e398e2a8a0)
-* [LikeCoin Community Call #202103 Minutes](https://medium.com/likecoin/likecoin-community-call-202103-minutes-39c0f1c3d3d6)
-* [LikeCoin Community Call #202102 Minutes](https://medium.com/likecoin/likecoin-community-call-202102-minutes-59a58295521)
-* [LikeCoin Community Call #202101 Minutes  ](https://medium.com/likecoin/likecoin-community-call-202001-minutes-249fd43aebb4)
-* [LikeCoin Community Call #202012 Minutes  ](https://medium.com/likecoin/likecoin-community-call-202012-minutes-72a9ba680e67)
-* [LikeCoin Community Call Minutes 2020.11  ](https://medium.com/likecoin/likecoin-community-call-minutes-2020-11-5724d0923257)
-* [LikeCoin Community Call 2020.10](https://medium.com/likecoin/likecoin-community-call-2020-10-df33b5a99fa7)
-* [LikeCoin Community Call 2020.09](https://medium.com/likecoin/likecoin-community-call-2020-09-8531b7c7cfd3)、[2020.09 社群治理會議紀錄](https://matters.news/@ckxpress/like-coin-2020-09-%E7%A4%BE%E7%BE%A4%E6%B2%BB%E7%90%86%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-bafyreiakhujndhwbwk53q6q55pr3rb3j64d75tamewgyfzjwmdpz2h7sfa)
-* [LikeCoin 2020.08 Community Governance Meeting](https://medium.com/likecoin/likecoin-2020-08-community-governance-meeting-bfbfb54012c0)
-* [2020.05 社群治理會議紀錄](https://matters.news/@likecoin/like-coin-%E7%A4%BE%E7%BE%A4%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-2020-05-04-bafyreib5u65c4wtqd5rseezr63gos67xqqa2anyc4xbprqrtvvv5gidevq)****
+[Governance](https://blog.like.co/category/governance/)，[治理](https://blog.like.co/zh/category/%E6%B2%BB%E7%90%86/)
