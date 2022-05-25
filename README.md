@@ -6,25 +6,47 @@ description: 'What is LikeCoin, #DePub, and the LikeCoin DAO'
 
 ![](.gitbook/assets/image.png)
 
-### What is LikeCoin
+### About LikeCoin
 
-LikeCoin decentralizes publishing with NFT.
-
-### Content Ownership
-
-Own your content by publishing them on LikeCoin as NFT.
+LikeCoin decentralizes publishing by allowing everyone to publish their content as NFTs with a suite of open tools.
 
 ### Decentralize Publishing
 
-Sell your content as NFT by minting them.  Creators sell NFTs in marketplaces, just like selling ebooks on Amazon or hardcopies in bookstores.
+LikeCoin envisions a future where digital content is transformed from “Web-native” to “NFT native” format. All content will be natively created on the blockchain via decentralized publishing and stored in two layers:
+
+First, is the property right layer — the metadata registry ISCN (international standard content number) records the relationships between the content and creator.
+
+Second, is the NFT layer — the proof of ownership and the mechanism of transfer between purchasers and creators.
+
+### Mission
+
+LikeCoin’s mission is to democratize publishing services to ensure that everyone has access to affordable, transparent, and efficient publishing services. By writing content immutably to the blockchain, we believe that our censorship-resistant publishing infrastructure is a key to improving the marketplace for content and maintaining freedom of speech.
+
+We believe great software should be easy to use. Creators can focus on what they are good at — creating quality content. All LikeCoin tools such as widgets, WordPress plugin, and APIs are designed to help creators get started easily but also offer powerful features for creators to grow and succeed. Plus, all individuals can participate freely in the LikeCoin governance process to have a voice in LikeCoin’s future.
 
 ### LikeCoin DAO
 
-LikeCoin represents voting power in [LikeCoin DAO.](https://dao.like.co/proposals) Every LikeCoin holder is a stakeholder of the DAO.
+[LikeCoin DAO](https://dao.like.co/proposals) is a decentralized organization that allows all LIKE token holders to participate in governance decisions. Every LikeCoin holder is a stakeholder of the DAO.&#x20;
 
-The DAO performs collective decision of public treasury, infrastructure for common goods, evolvement of policies, can all be evolved via the LikeCoin DAO governance process.
+The DAO performs collective decisions of the public treasury, infrastructure for common goods, and evolvement of policies, which can all be evolved via the LikeCoin DAO governance process. Governance decisions include, for example, voting on governance decisions related to the token or other rules impacting the LikeCoin ecosystem. The LikeCoin community uses proposals to decide how to allocate resources from the community fund, rules and procedures for governance, selection of representatives for various working groups (“subdao’s”), etc.
 
-### Kick started
+### LIKE token
+
+LIKE is the native token of LikeCoin, a BPoS blockchain built on Cosmos SDK. LIKE is the utility and governance token of the LikeCoin ecosystem.
+
+All transaction fees, network usage, and services built upon LikeCoin infrastructure will use LIKE as the primary token across new projects
+
+LIKE is hyperinflationary, with incentives for staking to secure the LikeCoin chain. There is no fixed total supply of LIKEs and the total supply will increase each year between 7-20% due to inflation. The top 50 validators that have the most staked LIKE will fill the active validator's seats for validating and creating new transactions for the chain. Active validators' seats can be changed by the community through proposals that are voted on by those holding LIKE tokens.
+
+### LikeCoin ecosystem
+
+The [LIKE ecosystem](https://likecoin.bigdipper.live/) is made up of the community of everyday people who hold LIKE and the creators of products and services utilizing LIKE. Currently, this community comprises 60k+ addresses, 8k+ media sites, and 2 mil+ registered pieces of content authored by 26k+ creators in the LikeCoin ecosystem.
+
+Liker Land is one of the core teams in the LikeCoin community and it created the early MVP and Dapps of LikeCoin — including the [LikeCoin button](https://docs.like.co/developer/likecoin-button), [WordPress plugin](https://wordpress.org/plugins/likecoin/), [ISCN app](https://app.like.co/), and the upcoming NFT minting widget that allows creators to mint NFTs directly from their own website.
+
+One of the newest, and most promising Dapps in the LikeCoin ecosystem is [depub.SPACE](https://depub.space/). [depub.SPACE](https://depub.space/) is a web3-native “decentralized Twitter” where influencers sell ”Follows" and creations as NFTs.&#x20;
+
+### Kickstarted
 
 The first step is to own LikeCoin, and use it for publishing or governance.  You can try to post a decentralized tweet on [depub.SPACE](https://depub.space), vote on [dao.like.co](http://dao.like.co/), or reward any creators by transferring LIKE via Keplr.
 
