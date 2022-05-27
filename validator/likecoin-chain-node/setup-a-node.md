@@ -118,7 +118,7 @@ For latest genesis url and seed node, we host the latest info on Github: [Mainne
 export MONIKER='<My Validator>'
 export GENESIS_URL='https://raw.githubusercontent.com/likecoin/mainnet/master/genesis.json'
 export LIKED_SEED_NODES='913bd0f4bea4ef512ffba39ab90eae84c1420862@34.82.131.35:26656,e44a2165ac573f84151671b092aa4936ac305e2a@nnkken.dev:26656'
-export LIKED_VERSION='2.0.0'
+export LIKED_VERSION='2.0.2'
 cd ~/likecoin-chain
 make -C deploy setup-node
 ```
@@ -129,7 +129,7 @@ Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/test
 export MONIKER='<My Validator>'
 export GENESIS_URL='https://raw.githubusercontent.com/likecoin/testnets/master/likecoin-public-testnet-5/genesis.json'
 export LIKED_SEED_NODES='7a38dfc59eb43b27cf2cc87b46a43e76aeaaf012@20.205.224.107:26656,11c0d57ae2b37122bd8e7de82a1b92c87bf3d45a@20.24.152.136:26656'
-export LIKED_VERSION='2.0.0'
+export LIKED_VERSION='2.0.2'
 cd ~/likecoin-chain
 make -C deploy setup-node
 ```
@@ -354,7 +354,7 @@ At this stage, you should back up `~/.liked/config` and `~/.liked/keyring-file` 
 ~/liked query tendermint-validator-set | grep "$(~/liked tendermint show-address)"
 ```
 
-You can also check via chain explorers: [dao.like.co](https://dao.like.co), [Big Dipper](https://likecoin.bigdipper.live)
+You can also check via chain explorers: [dao.like.co](https://dao.like.co), [Big Dipper](https://likecoin.bigdipper.live/)
 
 ### Common operations for validator
 

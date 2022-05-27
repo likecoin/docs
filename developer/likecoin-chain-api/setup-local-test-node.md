@@ -4,7 +4,7 @@
 
 ```
 git clone https://github.com/likecoin/likecoin-chain \
---branch v2.0.0 --single-branch \
+--branch v2.0.2 --single-branch \
 likecoin-chain && cd likecoin-chain
 ```
 
