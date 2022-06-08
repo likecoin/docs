@@ -4,7 +4,7 @@ description: How to register on ZB Exchange
 
 # Registering on ZB
 
-Buy and Sell LikeCoin on ZB requires an account, please go to [ZB website](https://www.zb.com) and follow these steps to register a account:
+Buy and Sell LikeCoin on ZB requires an account, please go to [ZB website](https://www.zb.com/) and follow these steps to register a account:
 
 
 
@@ -34,7 +34,7 @@ Input the 6 digital verification codes and you can login your account. Please no
 
 You have to set up 2-Factor Authentication for your account's protection, please download Google Authenticator on your mobile
 
-[Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh_TW)\
+[Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh\_TW)\
 [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
 Click on the avatar on the top right hand corner and go to "Account Security". On "Google Verification Code", click on "Bind Now"

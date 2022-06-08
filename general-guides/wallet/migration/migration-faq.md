@@ -22,7 +22,7 @@ It may be the case that you never link your Etherscan wallet to your Like ID and
 
 ### 4. During the migration process, encounter "Error: NOT\_ENOUGH\_GAS, NEED X.XXXXX"
 
-You have to prepare enough ETH (the number in NOT\_ENOUGH\_GAS, NEED X.XXXXX)  as GAS Fee, you may refer to [ETH GAS Station](https://ethgasstation.info) for the fee required.
+You have to prepare enough ETH (the number in NOT\_ENOUGH\_GAS, NEED X.XXXXX)  as GAS Fee, you may refer to [ETH GAS Station](https://ethgasstation.info/) for the fee required.
 
 ### 5. Stuck in "Waiting for ETH TX" for a very long time&#xD;
 

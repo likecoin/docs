@@ -6,7 +6,7 @@ description: Achievement Report for Content Creators
 
 Please follow the steps:
 
-Step 1: Login in [Liker Land web](https://liker.land), click on the menu at the top right hand corner, select "[I'm a Creator too](https://liker.land/creators/dashboard)".
+Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "[I'm a Creator too](https://liker.land/creators/dashboard)".
 
 ![](../../../.gitbook/assets/civic-liker-menu-en.png)
 

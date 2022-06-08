@@ -26,7 +26,7 @@ Deposit LikeCoin to Keplr.
 
 ### Step 3: Connect Osmosis
 
-Go to the Osmosis website [https://app.osmosis.zone/](https://app.osmosis.zone), click the lower left hand corner "Connect Wallet".
+Go to the Osmosis website [https://app.osmosis.zone/](https://app.osmosis.zone/), click the lower left hand corner "Connect Wallet".
 
 ![](<../../.gitbook/assets/Osmosis 01.png>)
 

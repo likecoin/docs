@@ -34,7 +34,7 @@ Keep the Secret Recovery Phrase or private key is the responsibility of the user
 
 Your task is to upgrade the LikeCoin in your MetaMask wallet to LikeCoin chain, so the first step is to make sure that you have the MetaMask with the correct wallet address installed in your Chrome browser.
 
-Login [Liker Land](https://liker.land) by Chrome with your social account ( Google / Facebook / Twitter / Matters ) and go to [https://like.co/in/](https://like.co/in/).  The system will pop up the screen below ( probably in English ).
+Login [Liker Land](https://liker.land/) by Chrome with your social account ( Google / Facebook / Twitter / Matters ) and go to [https://like.co/in/](https://like.co/in/).  The system will pop up the screen below ( probably in English ).
 
 ![Choose "Migrate Now"](../../../.gitbook/assets/likecoin-migration-1.png)
 
@@ -92,16 +92,16 @@ You may want to check this out for checking the Cosmos wallet address on Big Dip
 
 ### If you purchased your LikeCoin in a crypto exchange
 
-Transfer your LikeCoin to a MetaMask wallet, then go to [https://migration.like.co/](https://migration.like.co) and fill in the Cosmos wallet address of the Liker ID or Keplr wallet and facilitate the upgrade.
+Transfer your LikeCoin to a MetaMask wallet, then go to [https://migration.like.co/](https://migration.like.co/) and fill in the Cosmos wallet address of the Liker ID or Keplr wallet and facilitate the upgrade.
 
 ### If your LikeCoin is stored in a hardware wallet
 
-Connect the hardware wallet with MetaMask, go to [https://migration.like.co/](https://migration.like.co) and fill in the Cosmos wallet address of the Liker ID or Keplr wallet and facilitate the upgrade.
+Connect the hardware wallet with MetaMask, go to [https://migration.like.co/](https://migration.like.co/) and fill in the Cosmos wallet address of the Liker ID or Keplr wallet and facilitate the upgrade.
 
 {% hint style="danger" %}
-Do not use and directly input the crypto exchange Cosmos wallet address into [https://migration.like.co/](https://migration.like.co). If that particular exchange required Tag/Memo or other operations, you will not be able to deposit your LikeCoin. Therefore please migratie the LikeCoin to your own wallet before performing other trades or operations.
+Do not use and directly input the crypto exchange Cosmos wallet address into [https://migration.like.co/](https://migration.like.co/). If that particular exchange required Tag/Memo or other operations, you will not be able to deposit your LikeCoin. Therefore please migratie the LikeCoin to your own wallet before performing other trades or operations.
 
-**Do not directly send your LikeCoin to the smart contract address.** You really have to use   [https://migration.like.co/](https://migration.like.co) to facilitate migration.
+**Do not directly send your LikeCoin to the smart contract address.** You really have to use   [https://migration.like.co/](https://migration.like.co/) to facilitate migration.
 
 Wrongly operated the LikeCoin ERC-20 migration will result in irreversible failure**.**
 {% endhint %}

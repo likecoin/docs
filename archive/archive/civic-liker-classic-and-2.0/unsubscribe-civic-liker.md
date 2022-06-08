@@ -8,7 +8,7 @@ Please follow the steps:
 
 ## Civic Liker
 
-Step 1: Login in [Liker Land web](https://liker.land), click on the menu at the top right hand corner, select "[Civic Liker](https://liker.land/civic/dashboard)".
+Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "[Civic Liker](https://liker.land/civic/dashboard)".
 
 ![](../../../.gitbook/assets/civic-liker-menu-en.png)
 
@@ -26,7 +26,7 @@ Step 4:  Click "Cancel subscription" again and you are free to go.
 
 ## Civic Liker Classic
 
-Step 1: Login in [Liker Land web](https://liker.land), click on the menu at the top right hand corner, select "[Civic Liker](https://liker.land/civic/dashboard)".
+Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "[Civic Liker](https://liker.land/civic/dashboard)".
 
 ![](../../../.gitbook/assets/civic-liker-menu-en.png)
 

@@ -24,7 +24,7 @@ and depositing LikeCoin to Keplr.
 
 ### Step 1: Select the liquidity pool
 
-Currently LikeCoin install three liquidity pools in [Osmosis](https://app.osmosis.zone), which two of them offer liquidity providing incentives:
+Currently LikeCoin install three liquidity pools in [Osmosis](https://app.osmosis.zone/), which two of them offer liquidity providing incentives:
 
 [Pool #553 LIKE/OSMO](https://app.osmosis.zone/pool/553)
 
@@ -114,4 +114,4 @@ Click on the left menu and select Assets and check the amount of funds that you'
 
 ## Check out past performance
 
-Go to Stats on the menu or [https://info.osmosis.zone/](https://info.osmosis.zone) will provide statistics of the liquidity pool.
+Go to Stats on the menu or [https://info.osmosis.zone/](https://info.osmosis.zone/) will provide statistics of the liquidity pool.

@@ -62,7 +62,7 @@ description: >-
 * [ ] Or use a free trial quota from cloud providers
 * [ ] At least 40 GB of disk space
 * [ ] SSD preferred
-* [ ] Install [Git](https://git-scm.com)
+* [ ] Install [Git](https://git-scm.com/)
 * [ ] Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/), Docker Compose needs to have version ≥ 1.28
 {% endhint %}
 
@@ -78,12 +78,12 @@ description: >-
   * after upgrade: [https://github.com/likecoin/likecoin-chain/tree/fotan-1](https://github.com/likecoin/likecoin-chain/tree/fotan-1)
     * commit: `32056fc4759d276a11180256474cc4ed5e3ed8d4`
 * Faucet: [https://likecoin-public-testnet-faucet.nnkken.dev](https://likecoin-public-testnet-faucet.nnkken.dev)
-* Explorer: [https://likecoin-chain-public-testnet-2.netlify.app/](https://likecoin-chain-public-testnet-2.netlify.app)
+* Explorer: [https://likecoin-chain-public-testnet-2.netlify.app/](https://likecoin-chain-public-testnet-2.netlify.app/)
 * Denom (unit of token): `nanoekil` (ekil is reverse of like)
 
 ### Setup procedure
 
-1. Install [Git](https://git-scm.com), [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
+1. Install [Git](https://git-scm.com/), [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
 2.  Clone the deployment repo with the corresponding branch:
 
     ```
@@ -178,7 +178,7 @@ description: >-
 
     Optionally, you may add the following additional parameters:
 
-    * `--identity <IDENTITY>`: a string representing the identity of the validator, usually the GPG fingerprint. Some block explorers (e.g. Big Dipper) will query this field and search [Keybase](https://keybase.io) for the user profile.
+    * `--identity <IDENTITY>`: a string representing the identity of the validator, usually the GPG fingerprint. Some block explorers (e.g. Big Dipper) will query this field and search [Keybase](https://keybase.io/) for the user profile.
     * `--website <WEBSITE>`: the website of the validator.\
 
 15. You should be able to query the validator by:

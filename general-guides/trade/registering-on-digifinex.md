@@ -40,9 +40,9 @@ Then go into the "Basic Information" page, you have to proceed with Real-name ve
 
 > [【New User Guide】- How to register an account> ](https://digifinex.zendesk.com/hc/en-us/articles/360006576493--New-User-Guide-How-to-register-an-account)
 
-### Step 2: Real-name verification <a href="2" id="2"></a>
+### Step 2: Real-name verification <a href="#2" id="2"></a>
 
-On the "Basic Information" page "Real-name verification", click on the "Unverified" and the following page appears. Scan QR Code or go to [https://download.digifinex.xyz/](https://download.digifinex.xyz) and download DigiFinex app
+On the "Basic Information" page "Real-name verification", click on the "Unverified" and the following page appears. Scan QR Code or go to [https://download.digifinex.xyz/](https://download.digifinex.xyz/) and download DigiFinex app
 
 ![](../../.gitbook/assets/digifinex-11-en.png)
 
@@ -100,7 +100,7 @@ After the upload is completed, wait for approval. Review will be completed in 1-
 
 > [How to do ID-verification (a.k.a KYC)>> ](https://digifinex.zendesk.com/hc/en-us/articles/360006473334--How-to-do-ID-verification-a-k-a-KYC-)
 
-### Step 3: Set up 2-Factor Authentication&#xD; (2FA) <a href="3-google" id="3-google"></a>
+### Step 3: Set up 2-Factor Authentication&#xD; (2FA) <a href="#3-google" id="3-google"></a>
 
 You have to set up 2-Factor Authentication otherwise you are not able to withdraw from DigiFinex, please download Google Authenticator on your mobile
 

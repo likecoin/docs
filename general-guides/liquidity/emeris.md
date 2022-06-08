@@ -24,7 +24,7 @@ and depositing LikeCoin to Keplr.
 
 ### Step 1: Connect Emeris
 
-Go to the Emeris website [https://app.osmosis.zone/](https://app.emeris.com), click the top right hand corner "Connect wallet".
+Go to the Emeris website [https://app.osmosis.zone/](https://app.emeris.com/), click the top right hand corner "Connect wallet".
 
 ![](<../../.gitbook/assets/Emeris LP 01.png>)
 

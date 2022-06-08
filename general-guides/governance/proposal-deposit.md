@@ -14,8 +14,8 @@ Please note, if the proposal fails to achieve quorum, or gets more than 1/3 voti
 
 There are multiple ways to deposit for a proposal, we suggest using [dao.like.com](https://dao.like.co/welcome). You may also want to use:
 
-* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co)
-* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io)
+* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
+* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
 * Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
 
 How to deposit LikeCoin for a proposal&#x20;
@@ -23,7 +23,7 @@ There are multiple ways to deposit for a proposal, we suggest using [dao.like.co
 
 ### Step 1: Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) or [Authcore](../../user-guide/liker-id/register/) to login.
+Go to [dao.like.co](https://dao.like.co/) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) or [Authcore](../../user-guide/liker-id/register/) to login.
 
 ![](<../../.gitbook/assets/direct vote 01.png>)
 

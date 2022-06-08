@@ -12,7 +12,7 @@ Please note that you cannot use Liquid if you are in certain countries.
 
 ### &#xD;Step 1: Complete basic info&#xD;
 
-Go to [Liquid.com](https://www.liquid.com) and [register](https://www.liquid.com/sign-up/?affiliate=zlgAOAX564083) an account, simply fill in the details however please fill in your \[Legal First Name] \[Legal Last Name] as account verification is required
+Go to [Liquid.com](https://www.liquid.com/) and [register](https://www.liquid.com/sign-up/?affiliate=zlgAOAX564083) an account, simply fill in the details however please fill in your \[Legal First Name] \[Legal Last Name] as account verification is required
 
 ![](../../.gitbook/assets/liquid.png)
 

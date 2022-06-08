@@ -42,7 +42,7 @@ Usually called _LikeCoin_ for short, it is the de facto token in _LikeCoin DAO._
 
 ### LikeCoin chain <a href="#aa59" id="aa59"></a>
 
-A distributed ledger of the open government of _LikeCoin DAO_. A sovereign, application specific blockchain designed for content creation and information property management, offering high-speed, low cost and most importantly, independence. Data on _LikeCoin chain_ is open and can be visualized on [**Big Dipper**](https://likecoin.bigdipper.live).
+A distributed ledger of the open government of _LikeCoin DAO_. A sovereign, application specific blockchain designed for content creation and information property management, offering high-speed, low cost and most importantly, independence. Data on _LikeCoin chain_ is open and can be visualized on [**Big Dipper**](https://likecoin.bigdipper.live/).
 
 The very first beta of _LikeCoin chain_, code-named **KaiTak**, was released on Apr 2019 and was upgraded to **Taipei** on Sept 2019 as the new beta testnet. First public release of _LikeCoin chain_, **SheungWan**, was just launched on Nov 15, signaling the establishment of _LikeCoin DAO_.
 
@@ -52,7 +52,7 @@ _LikeCoin chain_ **FoTan**, which incorporates advanced features such as Interna
 
 Operates a set of servers 24x7 to validate all transactions of _Likers_, including token transfers, content publishing, voting and etc. A _validator_ on _LikeCoin chain_ is both a bank and a senator in _LikeCoin DAO_.
 
-To start with, _validators_ of _LikeCoin chain_ include [**National Taipei University of Technology**](https://www.ntut.edu.tw), [**Taiwan FactCheck Center**](https://tfc-taiwan.org.tw),[**Forbole**](https://www.forbole.com), **The** [**Standnews**](https://thestandnews.com), [**Culture and Media Education Foundation**](https://www.cmef.org.hk/eng), [**Hong Kong Creative Open Technology Association**](https://cota.hk), [**Matters Lab**](https://matters.news), [**GLOs**](https://www.glos.world), [**Enyk Security**](https://enyk.io), [**UDomain**](https://www.udomain.com) and [**OurSky**](https://oursky.com).
+To start with, _validators_ of _LikeCoin chain_ include [**National Taipei University of Technology**](https://www.ntut.edu.tw/), [**Taiwan FactCheck Center**](https://tfc-taiwan.org.tw/),[**Forbole**](https://www.forbole.com/), **The** [**Standnews**](https://thestandnews.com/), [**Culture and Media Education Foundation**](https://www.cmef.org.hk/eng), [**Hong Kong Creative Open Technology Association**](https://cota.hk/), [**Matters Lab**](https://matters.news/), [**GLOs**](https://www.glos.world/), [**Enyk Security**](https://enyk.io/), [**UDomain**](https://www.udomain.com/) and [**OurSky**](https://oursky.com/).
 
 ![first batch of validators of LikeCoin chain](../.gitbook/assets/likecoin\_ad70\_validators-01.png)
 
@@ -66,7 +66,7 @@ Following the original _LikeCoin_ whitepaper, there will be up to 2bil _LikeCoin
 
 ### **Migration** <a href="#4ee6" id="4ee6"></a>
 
-As _LikeCoin DAO_ starts to operate, tentatively set on Dec 2 2019, _LikeCoin_ will replace LikeCoin ERC-20 as the official token in _LikeCoin DAO_, which means content creators will be rewarded in _LikeCoin_. The 1bil _LikeCoin_ at Genesis was stored in a migration pool and the only way to unlock a certain amount of _LikeCoin_ is to migrate the same amount of LikeCoin ERC-20, on a 1:1 basis. A migration page will be provided for _Likers_. LikeCoin ERC-20, however, can still be kept and traded on [Liquid](https://www.liquid.com) for Bitcoin and Ethereum.
+As _LikeCoin DAO_ starts to operate, tentatively set on Dec 2 2019, _LikeCoin_ will replace LikeCoin ERC-20 as the official token in _LikeCoin DAO_, which means content creators will be rewarded in _LikeCoin_. The 1bil _LikeCoin_ at Genesis was stored in a migration pool and the only way to unlock a certain amount of _LikeCoin_ is to migrate the same amount of LikeCoin ERC-20, on a 1:1 basis. A migration page will be provided for _Likers_. LikeCoin ERC-20, however, can still be kept and traded on [Liquid](https://www.liquid.com/) for Bitcoin and Ethereum.
 
 When LikeCoin ERC-20 is migrated to _LikeCoin_, the former will be burnt on Ethereum, so that the total number of _LikeCoin plus_ LikeCoin ERC-20 in circulation remains unchanged.
 

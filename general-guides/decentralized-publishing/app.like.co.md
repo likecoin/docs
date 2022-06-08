@@ -4,7 +4,7 @@ description: The 1st demo of an ISCN application
 
 # How to register a ISCN?
 
-Users can go to [app.like.co](https://app.like.co) and register an ISCN for their content and a unique image will be generated randomly. Even if there is a tiny little change to two pieces of similar content, the image for the ISCN will not be the same.
+Users can go to [app.like.co](https://app.like.co/) and register an ISCN for their content and a unique image will be generated randomly. Even if there is a tiny little change to two pieces of similar content, the image for the ISCN will not be the same.
 
 Registering ISCN to the LikeCoin chain will also upload the content to IPFS or Arweave. Users only have to pay a small amount of LikeCoin for registering and hosting.
 
@@ -12,21 +12,21 @@ Users can also check an ISCN record and it's details in app.like.co.
 
 ![](../../.gitbook/assets/app.like.co.png)
 
- Users can use [app.like.co](https://app.like.co) to try out and register his/her ISCN.
+&#x20;Users can use [app.like.co](https://app.like.co/) to try out and register his/her ISCN.
 
 ### Step 1: Login app.like.co
 
 Please [register a Keplr wallet](../../user-guide/liker-id/register-with-keplr.md) before registering an ISCN.
 
-Visit [**app.like.co**](https://app.like.co) with the browser that have Keplr extension installed. Click **\[Keplr]** on the top right corner to login by wallet. 
+Visit [**app.like.co**](https://app.like.co) with the browser that have Keplr extension installed. Click **\[Keplr]** on the top right corner to login by wallet.&#x20;
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBLd7NJUTXXefb_k9\_%2Fiscn%20register%2001.png?alt=media\&token=b99dfa89-601a-4b93-8c85-c342e95baef4)
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBLd7NJUTXXefb\_k9\_%2Fiscn%20register%2001.png?alt=media\&token=b99dfa89-601a-4b93-8c85-c342e95baef4)
 
 After that your Keplr wallet address will be displayed on the top right hand corner, click **\[Register ISCN]** to publish your work.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBhgp08wcINUW6nt07%2Fiscn%20register%2002.png?alt=media\&token=91b9d05a-ea8e-4899-ae21-95ad6ca7a5d4)
 
-### Step 2: Upload Content <a href="bu-zhou-er-shang-zai-nei-rong" id="bu-zhou-er-shang-zai-nei-rong"></a>
+### Step 2: Upload Content <a href="#bu-zhou-er-shang-zai-nei-rong" id="bu-zhou-er-shang-zai-nei-rong"></a>
 
 Click **\[Select a file]** to select a photo or by drag-and-drop, then click **\[Publish to IPFS]** to upload the photo to the distributed file system.
 
@@ -40,9 +40,9 @@ Click  **\[Publish to IPFS]** to proceed.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBjL5VbvJnT0-l3K0\_%2Fiscn%20register%2004.png?alt=media\&token=d65af652-d9f6-4e04-aebc-c3fea6d6220b)
 
-### Step 3: Fill in the metadata <a href="bu-zhou-san-tian-xie-yuan-zi-liao" id="bu-zhou-san-tian-xie-yuan-zi-liao"></a>
+### Step 3: Fill in the metadata <a href="#bu-zhou-san-tian-xie-yuan-zi-liao" id="bu-zhou-san-tian-xie-yuan-zi-liao"></a>
 
-Fill in the information about this content.  
+Fill in the information about this content. &#x20;
 
 * Name
 * Description
@@ -63,13 +63,13 @@ Fill in author information. You may fill in more than one author as the work may
 
 After filling the information, click **\[Register]**.
 
-### Step 4:  Getting the ISCN <a href="bu-zhou-si-huo-qu-iscn" id="bu-zhou-si-huo-qu-iscn"></a>
+### Step 4:  Getting the ISCN <a href="#bu-zhou-si-huo-qu-iscn" id="bu-zhou-si-huo-qu-iscn"></a>
 
 After clicking **\[Confirm]**, a Keplr windows will pop up for payment confirmation, choose the transaction speed you need: Low, Average or High, then click "Approve". Registering an ISCN requires less than one LikeCoin now, just try on it.
 
 Publishing to blockchain normally takes a few seconds only.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBoJ_Pt6exkBifDOCu%2Fiscn%20register%2008.png?alt=media\&token=ae40db4f-f625-428a-a146-198df4837544)
+![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MiBIBQ7KdFzfwN8M-Th%2F-MiBoJ\_Pt6exkBifDOCu%2Fiscn%20register%2008.png?alt=media\&token=ae40db4f-f625-428a-a146-198df4837544)
 
 ISCN with a unique content fingerprint is ready.
 

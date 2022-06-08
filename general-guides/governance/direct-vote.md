@@ -10,8 +10,8 @@ Besides delegating your voting powers to validators to let them vote on behalf o
 
 There are multiple ways to vote for a proposal, we suggest using [dao.like.com](https://dao.like.co/welcome). You may also want to use:
 
-* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co)
-* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io)
+* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
+* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
 * Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
 
 ## How to direct vote on proposals
@@ -26,7 +26,7 @@ Before voting please delegate your LikeCoin to any validators that you trust.
 
 ### Step 2: Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) or [Authcore](../../user-guide/liker-id/register/) to login.
+Go to [dao.like.co](https://dao.like.co/) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) or [Authcore](../../user-guide/liker-id/register/) to login.
 
 ![](<../../.gitbook/assets/direct vote 01.png>)
 

@@ -4,13 +4,13 @@ description: A Web3 decentralized Twitter
 
 # depub.SPACE
 
-[depub.SPACE](https://depub.space) is a Web3 decentralized Twitter that requires only a small amount of LIKE to directly “DePub” (decentralized-publish) text and images to blockchain and IPFS. Users can connect their [Keplr](../wallet/keplr.md) wallet or the [Liker Land app](../../user-guide/liker-land/download.md) to post messages on depub.SPACE.
+[depub.SPACE](https://depub.space/) is a Web3 decentralized Twitter that requires only a small amount of LIKE to directly “DePub” (decentralized-publish) text and images to blockchain and IPFS. Users can connect their [Keplr](../wallet/keplr.md) wallet or the [Liker Land app](../../user-guide/liker-land/download.md) to post messages on depub.SPACE.
 
 ## Using Keplr to DePub
 
 ### Step 1
 
-Login your [Keplr](../wallet/keplr.md) Wallet and go to [depub.SPACE](https://depub.space), then click "Connect Wallet".
+Login your [Keplr](../wallet/keplr.md) Wallet and go to [depub.SPACE](https://depub.space/), then click "Connect Wallet".
 
 ![](<../../.gitbook/assets/depub.SPACE 01.png>)
 
@@ -36,7 +36,7 @@ Click "Approve" in the pop-up window, wait for a while, and then you can success
 
 ### Step 1
 
-Go to the [depub.SPACE](https://depub.space) and click "Connect Wallet".
+Go to the [depub.SPACE](https://depub.space/) and click "Connect Wallet".
 
 ![](<../../.gitbook/assets/depub.SPACE 01.png>)
 
@@ -72,6 +72,6 @@ When a signature request appears on your phone, click "Approve", wait for a whil
 
 ## View posting history
 
-Go to [app.like.co](https://app.like.co) and click "Your Publishing" to view past posting records.
+Go to [app.like.co](https://app.like.co/) and click "Your Publishing" to view past posting records.
 
 ![](<../../.gitbook/assets/depub.SPACE 10.png>)

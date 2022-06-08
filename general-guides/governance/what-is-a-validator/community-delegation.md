@@ -12,7 +12,7 @@ We also support service providers like block explorer, wallet or other technical
 
 If a validator would like to apply for community delegation, please:&#x20;
 
-A. Post about yourself and why you want to participate in LikeCoin at [matters.news](https://matters.news) or [medium.com](https://medium.com).&#x20;
+A. Post about yourself and why you want to participate in LikeCoin at [matters.news](https://matters.news/) or [medium.com](https://medium.com/).&#x20;
 
 Chinese Validator - Use the function “add tag” on matters.news to tag [#Validator Intro](https://matters.news/tags/VGFnOjUzMTkw) in your article.
 

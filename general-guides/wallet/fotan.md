@@ -42,4 +42,4 @@ The procedure of [migrating LikeCoin ERC-20 to LikeCoin chain](migration/) will 
 
 ### If my Liker ID got an issue after the upgrade, what should I do?
 
-Contact customer service via [Liker Land](https://liker.land/getapp) app or [Web](https://liker.land).
+Contact customer service via [Liker Land](https://liker.land/getapp) app or [Web](https://liker.land/).

@@ -59,7 +59,7 @@ Click "Done" and a progress bar appears, please wait for your airdrop to be clai
 
 ![](<../.gitbook/assets/Airdrop 07.png>)
 
-The mission is completed and successfully claims 25% of the airdrop. Click "Check Tx" and go to [BigDipper](https://likecoin.bigdipper.live) to view the LIKE has been claimed.
+The mission is completed and successfully claims 25% of the airdrop. Click "Check Tx" and go to [BigDipper](https://likecoin.bigdipper.live/) to view the LIKE has been claimed.
 
 ![](<../.gitbook/assets/Airdrop 08.png>)
 
@@ -83,11 +83,11 @@ Click "Next".
 
 #### Decentralzed Twitter
 
-Native on chain, privacy by default. Visit [https://depub.space/](https://depub.space), a decentralized twitter running on IPFS. Connect with Keplr or Wallet Connect, tweet anything. The tweet will be published to LikeCoin chain with a unique [ISCN (International Standard Content Number)](../general-guides/decentralized-publishing/what-is-iscn.md). You will need a tiny amount of LIKE in your wallet to pay for gas.
+Native on chain, privacy by default. Visit [https://depub.space/](https://depub.space/), a decentralized twitter running on IPFS. Connect with Keplr or Wallet Connect, tweet anything. The tweet will be published to LikeCoin chain with a unique [ISCN (International Standard Content Number)](../general-guides/decentralized-publishing/what-is-iscn.md). You will need a tiny amount of LIKE in your wallet to pay for gas.
 
 ![](<../.gitbook/assets/Airdrop 12.png>)
 
-Click "Tweet now" to tweet at [depub.SPACE](https://depub.space), and click "Done" to claim a 25% airdrop when finished. For tutorial about depub.SPACE:
+Click "Tweet now" to tweet at [depub.SPACE](https://depub.space/), and click "Done" to claim a 25% airdrop when finished. For tutorial about depub.SPACE:
 
 {% content-ref url="../general-guides/decentralized-publishing/depub.space.md" %}
 [depub.space.md](../general-guides/decentralized-publishing/depub.space.md)
@@ -135,7 +135,7 @@ Vote on a proposal Visit [https://dao.like.co/proposals/](https://dao.like.co/pr
 
 ![](<../.gitbook/assets/Airdrop 16.png>)
 
-Click "Vote now" to vote for a proposal on [dao.like.co](https://dao.like.co), and click "Done" to claim a 25% airdrop when finished. For tutorial about voting:
+Click "Vote now" to vote for a proposal on [dao.like.co](https://dao.like.co/), and click "Done" to claim a 25% airdrop when finished. For tutorial about voting:
 
 {% content-ref url="../general-guides/governance/direct-vote.md" %}
 [direct-vote.md](../general-guides/governance/direct-vote.md)
@@ -147,7 +147,7 @@ After claiming the airdrop, you will see that My Progress is 100%, which means a
 
 ![](<../.gitbook/assets/Airdrop 17.png>)
 
-Other than BigDipper, you can also go to the "Transactions" page of [dao.like.co](https://dao.like.co) to view the records of the airdrops you have received.
+Other than BigDipper, you can also go to the "Transactions" page of [dao.like.co](https://dao.like.co/) to view the records of the airdrops you have received.
 
 ![](<../.gitbook/assets/Airdrop 18.png>)
 

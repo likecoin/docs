@@ -14,7 +14,7 @@ If you cannot login your Liker ID with your social logins, please try the follow
 
 ### Step 1
 
-Go to [https://liker.land/](https://liker.land) and make sure that you are being logged out. You may go to the menu at the top right hand corner and find the "Logout" option.
+Go to [https://liker.land/](https://liker.land/) and make sure that you are being logged out. You may go to the menu at the top right hand corner and find the "Logout" option.
 
 ### **Step 2**
 
@@ -49,7 +49,7 @@ Input your new password twice, and click "Reset Password"
 
 ![](../../../.gitbook/assets/resetpassword-5.png)
 
-You have successfully reset your password, go back to [Liker Land](https://liker.land) and login your Liker ID.
+You have successfully reset your password, go back to [Liker Land](https://liker.land/) and login your Liker ID.
 
 ![](../../../.gitbook/assets/resetpassword-6.png)
 
@@ -65,4 +65,4 @@ After login, go to [https://like.co/in/settings](https://like.co/in/settings) ï¼
 
 ![](../../../.gitbook/assets/social-media-logins-1-en.png)
 
-If the problem persists, please click on the green bubble at the lower right hand corner on [Liker Land](https://liker.land) or [Like.co](https://like.co) and find our Customer Service to help.
+If the problem persists, please click on the green bubble at the lower right hand corner on [Liker Land](https://liker.land/) or [Like.co](https://like.co/) and find our Customer Service to help.

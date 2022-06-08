@@ -4,7 +4,7 @@ description: Explore LikeCoin chain
 
 # Big Dipper
 
-[Big Dipper](https://likecoin.bigdipper.live) block explorer displays validators information, proposals, voting records and results in a simple user interface, and most importantly, all the LikeCoin transaction records. Big Dipper is just like an open government for citizens to search for open data within the LikeCoin DAO.
+[Big Dipper](https://likecoin.bigdipper.live/) block explorer displays validators information, proposals, voting records and results in a simple user interface, and most importantly, all the LikeCoin transaction records. Big Dipper is just like an open government for citizens to search for open data within the LikeCoin DAO.
 
 Big Dipper supports the use of hardware wallet to transfer, delegate, redelegate and withdraw rewards, please take a look at:
 

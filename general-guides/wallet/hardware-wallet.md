@@ -22,7 +22,7 @@ Choose the Cosmos app by pressing both of the buttons on the Ledger device and g
 
 ### Step 3: Go to Big Dipper and login
 
-Click the key icon on the upper right hand corner on [Big Dipper](https://likecoin.bigdipper.live) and login. You may have to wait for a while for Big Dipper to detect the hardware wallet.
+Click the key icon on the upper right hand corner on [Big Dipper](https://likecoin.bigdipper.live/) and login. You may have to wait for a while for Big Dipper to detect the hardware wallet.
 
 ![](../../.gitbook/assets/hardwarewallet-3-en.png)
 
@@ -92,7 +92,7 @@ Step 2: Click the red "REDELEGATE" button on the "Voting Power" column.
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-2.png)
 
-Step 3: A window pops up and asks you to input the amount of LikeCoin that you are going to redelegate. Click "SELECT A VALIDATOR" to select the validator that you would like to redelegate to. 
+Step 3: A window pops up and asks you to input the amount of LikeCoin that you are going to redelegate. Click "SELECT A VALIDATOR" to select the validator that you would like to redelegate to.&#x20;
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-3.png)
 

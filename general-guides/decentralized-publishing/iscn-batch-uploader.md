@@ -18,7 +18,7 @@ This step does not require technical background, but it is time-consuming. Below
 
 ![](../../.gitbook/assets/iscn-batch-uploader-01.png)
 
-The[ ISCN spec](https://iscn.io) recommends fields defined according to [CreativeWork](https://schema.org/CreativeWork) type in schema.org. Most raw data’s fields do not comply with this standard in the first place. We are going to change the column headers in the CSV file to comply with the standard.
+The[ ISCN spec](https://iscn.io/) recommends fields defined according to [CreativeWork](https://schema.org/CreativeWork) type in schema.org. Most raw data’s fields do not comply with this standard in the first place. We are going to change the column headers in the CSV file to comply with the standard.
 
 Here is my tuned version (original fields > CreativeWork fields):
 
@@ -37,7 +37,7 @@ The two fields:
 * ipfsHash: iscn-batch-uploader tool treats this field as the “[Content Fingerprints](https://iscn.io/schema/contentFingerprints)” of ISCN record.
 * type: it’s the type defined in schema.org, e.g.: Creative Work, Book, Game, Painting, Article, Photograph, Episode, etc. iscn-batch-uploader treats all records as “CreativeWork” type by default if this field is not specified in the CSV file.
 
-Blockchain transaction are expensive so it is not cost-effective to store large data files, but storing smaller content such as poem text seems reasonable. For demonstration purposes, however, the poem text will be put to a separate txt file as well and uploaded  them to [Pinata IPFS service](https://www.pinata.cloud) so that  an IPFS hash for ISCN content fingerprint will be acquired for each record. iscn-batch-uploader does not support [Arweave](https://www.arweave.org) link as content fingerprint at the moment, expect to have this feature in the near future.
+Blockchain transaction are expensive so it is not cost-effective to store large data files, but storing smaller content such as poem text seems reasonable. For demonstration purposes, however, the poem text will be put to a separate txt file as well and uploaded  them to [Pinata IPFS service](https://www.pinata.cloud/) so that  an IPFS hash for ISCN content fingerprint will be acquired for each record. iscn-batch-uploader does not support [Arweave](https://www.arweave.org/) link as content fingerprint at the moment, expect to have this feature in the near future.
 
 You will need a batch uploading tool for IPFS batch uploading and pinning. but this feature is not catered by iscn-batch-uploader. You may have to use the Pinata GUI to upload the files one-by-one and then copy the hash to the CSV file if you are not a programmer. The IPFS upload process is tedious and not suitable for processing large amounts of data.  You are suggested to complete the IPFS task later with a better tool, as you can upload all the metadata in the CSV file for ISCN. You can always update the registered ISCN records, say, filling up the IPFS hashes as content fingerprints, to new versions later.
 
@@ -109,7 +109,7 @@ C75B2BD9C79A83670C49F97522E7670CBB7E4892CAC26D5F09E5913C57870E5C
 
 Toggle the “Raw” option to view the details of the registered ISCN information.
 
-The iscnId is the unique content ID supported by the LikeCoin chain. You can check the ID up in [app.like.co](https://app.like.co). For example, try searching for
+The iscnId is the unique content ID supported by the LikeCoin chain. You can check the ID up in [app.like.co](https://app.like.co/). For example, try searching for
 
 ```
 iscn://likecoin-chain/9MewrmZqHT55nJLtW7EGqo8szOwKtp42AmhKyhWrImw/1
@@ -134,7 +134,7 @@ iscn-batch-uploader supports updating metadata versions:
 node index.js TangPoems300A.csv --update
 ```
 
-When the script reads records with iscnId ready, it will update the record with the new version of metadata, but not register a new ISCN. The last digit after the backslash reflects the version number, e.g. /1 represents version 1, and /2 represents version 2. [app.like.co](https://app.like.co) gets the most updated version of ISCN records by default if no version number is given.
+When the script reads records with iscnId ready, it will update the record with the new version of metadata, but not register a new ISCN. The last digit after the backslash reflects the version number, e.g. /1 represents version 1, and /2 represents version 2. [app.like.co](https://app.like.co/) gets the most updated version of ISCN records by default if no version number is given.
 
 ## Issue: what to do if registration fails?
 

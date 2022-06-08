@@ -34,7 +34,7 @@ description: Raise a proposal with LikeCoin chain daemon.
 
     For testnet, you can copy the address generated from above step, and go to the testnet faucet to get some coins:
 
-    [Testnet Faucet](https://likecoin-public-testnet-faucet.nnkken.dev)
+    [Testnet Faucet](https://likecoin-public-testnet-faucet.nnkken.dev/)
 5.  Write a proposal file
 
     Run following command to create a `proposals` folder.

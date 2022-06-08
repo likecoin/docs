@@ -16,8 +16,8 @@ Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) an
 
 There are multiple ways to stake LikeCoin, we suggest using [dao.like.com](https://dao.like.co/welcome). You may also want to manage your LikeCoin with:
 
-* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co)
-* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io)
+* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
+* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
 * Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
 
 ## Delegate via dao.like.co
@@ -28,7 +28,7 @@ Checkout the below tutorial clip for staking via dao.like.co.
 
 ### Step 1: Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register/) to login.
+Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register/) to login.
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
