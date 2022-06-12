@@ -19,7 +19,8 @@ description: >-
 
 | **Date**           | **Description**                                                                |
 | ------------------ | ------------------------------------------------------------------------------ |
-| Monday, 6 June     |                                                                                |
+| Monday, 4 July     |                                                                                |
+| Monday, 6 June     | Q3 & Q4 Roadmap                                                                |
 | Monday, 2 May      | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 4 April    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 7 March    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
