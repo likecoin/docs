@@ -14,7 +14,7 @@ description: 對讚賞公民 Web3 有問題嗎？可以在這兒找答案
 
 **2. 如何成為讚賞公民？**
 
-註冊 Liker ID，並委託一定數量 LikeCoin 至「讚賞公民節點」，即獲讚賞公民資格。
+註冊 Liker ID，並委託一定數量 LikeCoin 至「[Civic Liker 讚賞公民](https://likecoin.bigdipper.live/validators/likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug)節點」，即獲讚賞公民資格。
 
 **3. 讚賞公民如何回饋創作者？**
 
@@ -34,9 +34,9 @@ description: 對讚賞公民 Web3 有問題嗎？可以在這兒找答案
 
 **7. 如何購入 LikeCoin ？**
 
-欲成為讚賞公民，必先得購入 LikeCoin。[Osmosis](../../guides/trade/trade-in-osmosis.md) 是目前流通量最高的去中心交易所，你可以另外 32 種密碼貨幣換得 LikeCoin。
+欲成為讚賞公民，必先得購入 LikeCoin。[Osmosis](../../guides/trade/trade-in-osmosis.md) 是目前流通量最高的去中心交易所，你可以使用超過 30 多種密碼貨幣換得 LikeCoin。
 
-若你持有的是法定貨幣如港幣、台幣或美元，請先於支援法定貨幣的交易所或場外交易購得美元穩定幣 USDT，再於 [Liquid](../../guides/trade/trade-in-liquid.md)，[Digifinex](../../guides/trade/trade-in-digifinex.md) 或 [ZB](../../guides/trade/trade-in-zb.md) 等交易所直接購入 LikeCoin。 你也可以購入 UST，再在 Osmosis 兌換 LikeCoin，但留意你必須有少許 LUNA 幣支付交易費用。
+若你持有的是法定貨幣如港幣、台幣或美元，請先於支援法定貨幣的交易所或場外交易購得美元穩定幣 USDT，再於 [Liquid](../../guides/trade/trade-in-liquid.md)，[Digifinex](../../guides/trade/trade-in-digifinex.md) 或 [ZB](../../guides/trade/trade-in-zb.md) 等交易所直接購入 LikeCoin。
 
 若你是香港用戶，可親身到 [MyEthShop](../../guides/trade/registering-and-trade-in-myethshop.md) 購買 LikeCoin。
 

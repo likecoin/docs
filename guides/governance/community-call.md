@@ -16,7 +16,8 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 | **日期**   | **描述**                                                                        |
 | -------- | ----------------------------------------------------------------------------- |
-| 星期一，6月6日 |                                                                               |
+| 星期一，7月4日 |                                                                               |
+| 星期一，6月6日 | Q3 & Q4 Roadmap                                                               |
 | 星期一，5月2日 | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
 | 星期一，4月4日 | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
 | 星期一，3月7日 | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
