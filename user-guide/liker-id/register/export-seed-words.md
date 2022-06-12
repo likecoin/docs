@@ -1,10 +1,10 @@
 ---
-description: Liker Land app 錢包終於可以導出私鑰
+description: Liker Land app 錢包終於可以導出助記詞
 ---
 
 # 匯出錢包助記詞
 
-由 2022 年 4 月開始，用戶可以自 Liker Land 匯出[以一般方法 ( Authcore ) 註冊 Liker ID](./) 的私鑰/錢包助記詞並在其他錢包例如 Keplr 管理自己的 LikeCoin。
+由 2022 年 4 月開始，用戶可以自 Liker Land 匯出[以一般方法 ( Authcore ) 註冊 Liker ID](./) 的錢包助記詞並在其他錢包例如 Keplr 管理自己的 LikeCoin。
 
 在匯出錢包助記詞前，請留意：
 

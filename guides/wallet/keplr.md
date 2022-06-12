@@ -6,10 +6,16 @@ description: 支援 LikeCoin 的多鏈錢包
 
 Keplr 是 Google Chrome extension，可在 Chrome 和 Brave 等瀏覽器，支援包括 LikeCoin 在內的多條區塊鏈。使用 Keplr 錢包你可以將自己的 LikeCoin 去中心化保存並自行掌握私鑰。
 
-請參考以下文章的步驟安裝 Keplr。
+請參考以下文章的步驟安裝 Keplr：
 
 {% content-ref url="keplr/an-zhuang-keplr-liu-lan-qi-cha-jian.md" %}
 [an-zhuang-keplr-liu-lan-qi-cha-jian.md](keplr/an-zhuang-keplr-liu-lan-qi-cha-jian.md)
+{% endcontent-ref %}
+
+&#x20;匯出你的 Liker Land app 助記詞於 Keplr 使用：
+
+{% content-ref url="../../user-guide/liker-id/register/export-seed-words.md" %}
+[export-seed-words.md](../../user-guide/liker-id/register/export-seed-words.md)
 {% endcontent-ref %}
 
 ## 轉帳 LikeCoin 到 Keplr <a href="#deposit-your-likecoin-to-keplr" id="deposit-your-likecoin-to-keplr"></a>
@@ -62,9 +68,9 @@ Keplr 出現 Tx is pending 並回到 LikeCoin 餘額畫面，轉帳完成。
 
 ## 使用 dao.like.co 查看交易明細、轉帳及委託 <a href="#use-stake.like.co-to-check-likecoin-transaction-details-transfer-or-delegate" id="use-stake.like.co-to-check-likecoin-transaction-details-transfer-or-delegate"></a>
 
-你可以使用 [dao.like.co](https://dao.like.co) 搭配 Keplr 進行各種操作包括查看交易明細、轉帳及委託等。
+你可以使用 [dao.like.co](https://dao.like.co/) 搭配 Keplr 進行各種操作包括查看交易明細、轉帳及委託等。
 
-到 [dao.like.co](https://dao.like.co) 網站，點擊「Keplr Browser Extension」。
+到 [dao.like.co](https://dao.like.co/) 網站，點擊「Keplr Browser Extension」。
 
 ![](../../.gitbook/assets/keplr06.png)
 
@@ -88,6 +94,6 @@ Keplr 出現 Tx is pending 並回到 LikeCoin 餘額畫面，轉帳完成。
 
 ## 其他可使用 Keplr 管理 LikeCoin 的錢包介面
 
-* Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co)
-* BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io)&#x20;
-* ping.pub - [https://ping.pub/](https://ping.pub)
+* Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
+* BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
+* ping.pub - [https://ping.pub/](https://ping.pub/)
