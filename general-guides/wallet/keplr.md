@@ -4,10 +4,16 @@ description: LikeCoin decentralized management
 
 # Keplr
 
-You can now manage your LikeCoin with the Keplr wallet, which is an interchain wallet that you can manage your own private key.  Keplr is a Google extension, refer to the following guide for how to install Keplr.  Note that Keplr mobile app does not support LikeCoin yet.
+You can now manage your LikeCoin with the Keplr wallet, which is an interchain wallet that you can manage your own private key. Keplr is a Google extension, refer to the following guide for how to install Keplr.  Note that Keplr mobile app does not support LikeCoin yet.
 
 {% content-ref url="keplr/how-to-install-keplr-extension.md" %}
 [how-to-install-keplr-extension.md](keplr/how-to-install-keplr-extension.md)
+{% endcontent-ref %}
+
+Export seed words from Liker Land.
+
+{% content-ref url="../../user-guide/liker-id/register/export-seed-words.md" %}
+[export-seed-words.md](../../user-guide/liker-id/register/export-seed-words.md)
 {% endcontent-ref %}
 
 ## **Deposit your LikeCoin to Keplr**

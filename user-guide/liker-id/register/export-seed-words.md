@@ -1,10 +1,10 @@
 ---
-description: Liker Land app wallet can finally export private keys
+description: Liker Land app wallet can finally export seed words
 ---
 
 # Export Seed Words
 
-Starting in April 2022, users can export private keys/seed words for [Liker ID registered by general method (with Authcore)](./) and manage their LikeCoin in wallets such as Keplr.
+Starting in April 2022, users can export seed words for [Liker ID registered by general method (with Authcore)](./) and manage their LikeCoin in wallets such as Keplr.
 
 Before exporting the seed words, please note:&#x20;
 
