@@ -22,7 +22,7 @@ description: Civic Liker Web 3
 
 **2. How to become a Civic Liker?**
 
-Register a Liker ID and delegate a certain amount of LikeCoin to the "Civic Liker" node to become a Civic Liker.
+Register a Liker ID and delegate a certain amount of LikeCoin to the "[Civic Liker](https://likecoin.bigdipper.live/validators/likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug)" node to become a Civic Liker.
 
 **3. How can Civic Liker support creators?**
 
@@ -42,9 +42,9 @@ The Civic Liker clicking on LikeCoin button will affect distribution of the Crea
 
 **7. How to buy LikeCoin?**
 
-To become a Civic Liker, you must first purchase LikeCoin. [Osmosis](../../general-guides/trade/trade-in-osmosis.md) is currently the DEX with the highest circulation, and you can exchange LikeCoin for other 32 cryptocurrencies.
+To become a Civic Liker, you must first purchase LikeCoin. [Osmosis](../../general-guides/trade/trade-in-osmosis.md) is currently the DEX with the highest circulation, and you can exchange LikeCoin for other 30s cryptocurrencies.
 
-If you have fiat currency such as HKD, TWD or USD, please purchase USDT, a stable currency in USD from an exchange that supports fiat currency or OTC trading, and then directly purchase LikeCoin from exchanges such as [Liquid](../../general-guides/trade/trade-in-liquid.md), [Digifinex](../../general-guides/trade/trade-in-digifinex.md) or [ZB](../../general-guides/trade/trade-in-zb.md). You can also buy UST and exchange it for LikeCoin at Osmosis, but keep in mind that you must have a small amount of LUNA to pay for the transaction fee.
+If you have fiat currency such as HKD, TWD or USD, please purchase USDT, a stable currency in USD from an exchange that supports fiat currency or OTC trading, and then directly purchase LikeCoin from exchanges such as [Liquid](../../general-guides/trade/trade-in-liquid.md), [Digifinex](../../general-guides/trade/trade-in-digifinex.md) or [ZB](../../general-guides/trade/trade-in-zb.md).
 
 If you are a Hong Kong user, you can purchase LikeCoin in person at [MyEthShop](../../general-guides/trade/registering-and-trade-in-myethshop.md).
 

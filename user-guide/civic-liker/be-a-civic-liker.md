@@ -22,7 +22,7 @@ Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](b
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
-### Step 2: Select a validator&#xD;
+### Step 2: Select Civic Liker node&#xD;
 
 Click "Validators" on the left hand side menu, then click "All" in the upper right corner, look for the Civic Liker node and click it.
 
