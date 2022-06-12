@@ -30,7 +30,7 @@ Keplr 是 Google Chrome 擴充功能，可在 Chrome 和 Brave 等瀏覽器安�
 
 轉帳 LikeCoin 到 Keplr 錢包，請先把 Keplr 頂部的密碼貸幣菜單轉為顯示 LikeCoin chain。
 
-假如你的 Keplr 錢包未能顯示 LikeCoin chain，請到 dao.like.co [先為 Keplr 錢包連結 LikeCoin chain](keplr.md#use-stake.like.co-to-check-likecoin-transaction-details-transfer-or-delegate)。
+假如你的 Keplr 錢包未能顯示 LikeCoin chain，請先到 dao.like.co 為 Keplr 錢包連結 LikeCoin chain。
 
 ![](<../../.gitbook/assets/keplr-liker-id-07 (1).png>)
 
@@ -74,7 +74,7 @@ Keplr 出現 Tx is pending 並回到 LikeCoin 餘額畫面，轉帳完成。
 
 ![](../../.gitbook/assets/keplr13.png)
 
-## 使用 dao.like.co 查看交易明細、轉帳及委託 <a href="#dao.like.co" id="dao.like.co"></a>
+## 使用 dao.like.co 查看交易明細、轉帳及委託 <a href="#dao-like-co" id="dao-like-co"></a>
 
 你可以使用 [dao.like.co](https://dao.like.co/) 搭配 Keplr 進行各種操作包括查看交易明細、轉帳及委託等。
 
