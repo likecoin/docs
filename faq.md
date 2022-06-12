@@ -66,7 +66,7 @@ description: Frequently Asked Questions
 * ​​[How many proposals proceeded by the LikeCoin DAO?](general-guides/governance/proposals.md)
 * [How to deposit for a proposal?](general-guides/governance/proposal-deposit.md)
 * [How to vote for a proposal?](general-guides/governance/direct-vote.md)
-* [What is LikeCoin Grants?](general-guides/governance/likecoin-grants.md)
+* [What is LikeCoin Grants?](archive/archive/likecoin-grants.md)
 * [​How to join the community call?](general-guides/governance/community-call.md)
 
 ## Dapps <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>

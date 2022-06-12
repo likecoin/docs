@@ -22,7 +22,7 @@ Deposit LikeCoin to crypto exchange requires the use of a [wallet](../wallet/) s
 
 ### LikeCoin OTC
 
-[LikeCoin OTC](./#crypto-exchanges) is a project from the [LikeCoin Grants](../governance/likecoin-grants.md), sellers and buyers can communicate via the web service. For more details please go to [this website](https://matters.news/\~lotc).
+[LikeCoin OTC](./#crypto-exchanges) is a project from the [LikeCoin Grants](../../archive/archive/likecoin-grants.md), sellers and buyers can communicate via the web service. For more details please go to [this website](https://matters.news/\~lotc).
 
 You may also want to check out:
 

@@ -127,7 +127,6 @@
   * [Validator](general-guides/governance/what-is-a-validator/README.md)
     * [Community Delegation](general-guides/governance/what-is-a-validator/community-delegation.md)
   * [Proposals](general-guides/governance/proposals.md)
-  * [LikeCoin Grants Program](general-guides/governance/likecoin-grants.md)
 
 ## 💻  DApp <a href="#user-guide" id="user-guide"></a>
 
@@ -202,6 +201,8 @@
   * [Content Creator Tools](archive/archive/creatortools/README.md)
     * [Sponsor Link](archive/archive/creatortools/sponsor-link.md)
     * [Supporters Summary](archive/archive/creatortools/support.md)
+  * [LikeCoin Grants Program](archive/archive/likecoin-grants.md)
+  * [LikeCoin Token](archive/archive/likecoin-token.md)
   * [FoTan upgrade FAQ](general-guides/wallet/fotan.md)
   * [FoTan Upgrade (Testnet)](archive/archive/fotan-upgrade-testnet/README.md)
     * [Upgrade Step-by-step](archive/archive/fotan-upgrade-testnet/upgrade-step-by-step.md)
@@ -227,4 +228,3 @@
     * [2020.04.27](archive/archive/updates/2020.04.27.md)
     * [2020.04.20](archive/archive/updates/20200420.md)
     * [2020.04.13](archive/archive/updates/20200413.md)
-  * [LikeCoin Token](archive/archive/likecoin-token.md)

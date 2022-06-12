@@ -6,6 +6,20 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## Proposal #48 Renewal of Pool Incentives on Osmosis
+
+* Proposer: medium
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.06.02, Passed on 2022.06.10
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://likecoin.bigdipper.live/proposals/48](https://likecoin.bigdipper.live/proposals/48)
+
+## Proposal #47 Deposit 20,000,000 LIKE to Tech Subdao multisig wallet
+
+* Proposer: ckxpress
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.05.29, Passed on 2022.06.08
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://likecoin.bigdipper.live/proposals/47](https://likecoin.bigdipper.live/proposals/47)
+
 ## Proposal #46 LikeCoin v2.0.0 LaiChiKok Prefix Upgrade
 
 * Proposer: Civic Liker
