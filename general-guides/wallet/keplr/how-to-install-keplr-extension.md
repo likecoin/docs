@@ -4,11 +4,13 @@ description: On desktop computer
 
 # How to install Keplr extension
 
+## Install Keplr Extension
+
 Go to the Chrome Webstore and click "Add to Chrome" to install the [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
 
 ![](../../../.gitbook/assets/keplr01.png)
 
-Click "Add extension"&#x20;
+Click "Add extension".
 
 ![](../../../.gitbook/assets/keplr02.png)
 

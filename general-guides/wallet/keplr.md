@@ -1,19 +1,25 @@
 ---
-description: LikeCoin decentralized management
+description: Interchain wallet supporting LikeCoin
 ---
 
 # Keplr
 
-You can now manage your LikeCoin with the Keplr wallet, which is an interchain wallet that you can manage your own private key. Keplr is a Google extension, refer to the following guide for how to install Keplr.  Note that Keplr mobile app does not support LikeCoin yet.
+You can now manage your LikeCoin with the Keplr wallet, which is an interchain wallet that you can manage your own private key. Keplr is a Google extension, refer to the following guide for how to install Keplr. &#x20;
+
+Note that Keplr mobile app does not support LikeCoin yet.
 
 {% content-ref url="keplr/how-to-install-keplr-extension.md" %}
 [how-to-install-keplr-extension.md](keplr/how-to-install-keplr-extension.md)
 {% endcontent-ref %}
 
-Export seed words from Liker Land.
+You may also export seed words from Liker Land and import to Keplr.
 
 {% content-ref url="../../user-guide/liker-id/register/export-seed-words.md" %}
 [export-seed-words.md](../../user-guide/liker-id/register/export-seed-words.md)
+{% endcontent-ref %}
+
+{% content-ref url="keplr/mport-account.md" %}
+[mport-account.md](keplr/mport-account.md)
 {% endcontent-ref %}
 
 ## **Deposit your LikeCoin to Keplr**
@@ -21,6 +27,8 @@ Export seed words from Liker Land.
 ### Step 1
 
 Before depositing LikeCoin to your Keplr wallet, please change the display on top to show the LikeCoin chain.
+
+If your Keplr wallet does not show LikeCoin chain, please go to [dao.like.co to connect LikeCoin chain for Keplr wallet first](keplr.md#use-dao.like.co-to-check-likecoin-transaction-details-transfer-or-delegate).
 
 ![](<../../.gitbook/assets/keplr-liker-id-07 (1).png>)
 
