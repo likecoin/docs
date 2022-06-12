@@ -22,7 +22,7 @@ description: 贊助創作者方法非常簡單
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
-### 步驟二：選擇驗證人
+### 步驟二：選擇讚賞公民節點
 
 點左手邊菜單「Validators」，再點選右上角「All」，尋找名稱為 Civic Liker 的讚賞公民節點然後點下去。
 
