@@ -44,4 +44,4 @@ LikeCoin [ERC-20 升級](../../guides/wallet/migration/)到 LikeCoin chain 的�
 
 ### 假如發現升級後的我 Liker ID 帳戶有問題，可以怎樣做？
 
-請到 [Liker Land 手機應用程式](https://liker.land/getapp)或[網頁版](https://liker.land)聯絡客服。
+請到 [Liker Land 手機應用程式](https://liker.land/getapp)或[網頁版](https://liker.land/)聯絡客服。

@@ -27,6 +27,6 @@ description: 年費計劃只適用於購買 Civic Liker Classic 會籍
 
 ### 步驟二：傳送過帳記錄
 
-過帳後煩請把你的**過帳記錄，**連同你的 **Liker ID，**貼到 [Like.co](https://like.co) / [Liker Land](https://liker.land) **畫面右下方的客服介面**（緣色圓形圖示），或發電郵到 [team@liker.land](mailto:team@liker.land)。傳送的記錄可以是一個轉帳畫面的截屏。
+過帳後煩請把你的**過帳記錄，**連同你的 **Liker ID，**貼到 [Like.co](https://like.co/) / [Liker Land](https://liker.land/) **畫面右下方的客服介面**（緣色圓形圖示），或發電郵到 [team@liker.land](mailto:team@liker.land)。傳送的記錄可以是一個轉帳畫面的截屏。
 
 再次感謝你的支持。請多多俾 Like 媒體和作者，讓屬於大眾的內容生態能健康成長。

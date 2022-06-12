@@ -26,7 +26,7 @@ description: 去中心交易所，無需註冊，立即交易
 
 ### 步驟三：接通 Osmosis
 
-到 Osmosis 網址 [https://app.osmosis.zone/](https://app.osmosis.zone)，點左下角「Connect Wallet」。
+到 Osmosis 網址 [https://app.osmosis.zone/](https://app.osmosis.zone/)，點左下角「Connect Wallet」。
 
 ![](<../../.gitbook/assets/Osmosis 01.png>)
 

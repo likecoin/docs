@@ -12,7 +12,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ### **步驟一**
 
-訪問 [https://liker.land/](https://liker.land)。先確保自己在登出狀態，你可以打開右上角的功能選單找到「登出」的選項。
+訪問 [https://liker.land/](https://liker.land/)。先確保自己在登出狀態，你可以打開右上角的功能選單找到「登出」的選項。
 
 ### **步驟二**
 
@@ -48,7 +48,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ![](../../../.gitbook/assets/resetpassword-5.png)
 
-重設密碼成功，回到 [Liker Land](https://liker.land) 網站登入 Liker ID。
+重設密碼成功，回到 [Liker Land](https://liker.land/) 網站登入 Liker ID。
 
 ![](../../../.gitbook/assets/resetpassword-6.png)
 
@@ -64,4 +64,4 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ![](../../../.gitbook/assets/social-media-logins-1.png)
 
-假若問題仍是無法解決，請到 [Liker Land](https://liker.land) 或 [Like.co](https://like.co) 尋求客服幫助。
+假若問題仍是無法解決，請到 [Liker Land](https://liker.land/) 或 [Like.co](https://like.co/) 尋求客服幫助。

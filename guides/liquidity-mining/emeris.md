@@ -24,7 +24,7 @@ description: 如何在 Emeris 提供流動性
 
 ### 步驟一：接通 Emeris
 
-到 Emeris 網址 [https://app.emeris.com/](https://app.emeris.com)，點右上角「Connect wallet」。
+到 Emeris 網址 [https://app.emeris.com/](https://app.emeris.com/)，點右上角「Connect wallet」。
 
 ![](<../../.gitbook/assets/Emeris LP 01.png>)
 

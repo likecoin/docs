@@ -21,7 +21,7 @@ description: 贊助創作者方法非常簡單
 
 ![](../../.gitbook/assets/register-civic-liker-2.png)
 
-* 在 [Matters](https://matters.news) 點擊「支持作者」並成為讚賞公民
+* 在 [Matters](https://matters.news/) 點擊「支持作者」並成為讚賞公民
 
 ![](../../.gitbook/assets/register-civic-liker-10.png)
 
@@ -61,7 +61,7 @@ description: 贊助創作者方法非常簡單
 
 ### 步驟六：管理讚賞公民訂閱&#xD;
 
-登入 [Liker Land 網頁版](https://liker.land)，在右手邊的選單選擇[讚賞公民](https://liker.land/civic/dashboard)，即可管理付款方法和查看付款紀錄。你也可以查看你正在支持的作者清單並編輯每月支持作者的金額。在已支持的作者底下點擊「編輯」。
+登入 [Liker Land 網頁版](https://liker.land/)，在右手邊的選單選擇[讚賞公民](https://liker.land/civic/dashboard)，即可管理付款方法和查看付款紀錄。你也可以查看你正在支持的作者清單並編輯每月支持作者的金額。在已支持的作者底下點擊「編輯」。
 
 ![](../../.gitbook/assets/civic-liker-menu.png)
 
@@ -85,7 +85,7 @@ description: 贊助創作者方法非常簡單
 
 ### 步驟一：尋找「特別訂閱」
 
-到 [Liker Land 網頁版](https://liker.land)登入，打開位於畫面右上角的菜單，選「讚賞公民」。
+到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「讚賞公民」。
 
 ![](../../.gitbook/assets/civic-liker-menu.png)
 

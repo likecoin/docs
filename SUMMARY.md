@@ -57,7 +57,6 @@
   * [驗證人](guides/governance/what-is-a-validator/README.md)
     * [社群委託](guides/governance/what-is-a-validator/community-delegation.md)
   * [歷史議案](guides/governance/proposals.md)
-  * [LikeCoin Grants 計畫](guides/governance/likecoin-grants.md)
 
 ## 💻 去中心應用 <a href="#user-guide" id="user-guide"></a>
 
@@ -137,6 +136,7 @@
   * [創作者工具](cun-dang/archive/creatortools/README.md)
     * [贊助鏈結](cun-dang/archive/creatortools/sponsor-link.md)
     * [查看讚賞公民支持者清單](cun-dang/archive/creatortools/support.md)
+  * [LikeCoin Grants 計畫](cun-dang/archive/likecoin-grants.md)
+  * [LikeCoin 通證](cun-dang/archive/likecoin-token.md)
   * [FoTan 升級常見問題](cun-dang/archive/fotan.md)
   * [進度更新](cun-dang/archive/updates.md)
-  * [LikeCoin 通證](cun-dang/archive/likecoin-token.md)

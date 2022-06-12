@@ -8,7 +8,7 @@ description: 爭取更多贊助
 
 「給讀者的話」設定非常簡單，請執行以下步驟：
 
-步驟一：到 [Liker Land 網頁版](https://liker.land)登入，打開位於畫面右上角的菜單，選「創作者」。
+步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「創作者」。
 
 ![](../../.gitbook/assets/civic-liker-menu.png)
 

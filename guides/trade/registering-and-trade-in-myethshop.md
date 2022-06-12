@@ -8,7 +8,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ### 步驟一：註冊 MyEthShop 帳號並通過實名認證
 
-使用 [MyEthShop](https://www.myethshop.com) 找換店的服務，必須先於 MyEthShop [開戶](https://www.myethshop.com/register)並通過實名認證。詳情可參考 MyEthShop 官方教學 [MyEthShop 開戶詳細說明](https://myethlabs.wordpress.com/2019/07/12/myethshop%E9%96%8B%E6%88%B6%E8%A9%B3%E7%B4%B0%E8%AA%AA%E6%98%8E/)。
+使用 [MyEthShop](https://www.myethshop.com/) 找換店的服務，必須先於 MyEthShop [開戶](https://www.myethshop.com/register)並通過實名認證。詳情可參考 MyEthShop 官方教學 [MyEthShop 開戶詳細說明](https://myethlabs.wordpress.com/2019/07/12/myethshop%E9%96%8B%E6%88%B6%E8%A9%B3%E7%B4%B0%E8%AA%AA%E6%98%8E/)。
 
 ### 步驟二：設定雙重認證
 
@@ -52,7 +52,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ![](../../.gitbook/assets/myethshop-04.png)
 
-假如在手機開啟北斗時出現問題，你亦可使用桌面電腦，打開北斗網站 [https://likecoin.bigdipper.live/](https://likecoin.bigdipper.live) 並在紅箭嘴位置輸入你的錢包地址，同樣可以查看交易內容。
+假如在手機開啟北斗時出現問題，你亦可使用桌面電腦，打開北斗網站 [https://likecoin.bigdipper.live/](https://likecoin.bigdipper.live/) 並在紅箭嘴位置輸入你的錢包地址，同樣可以查看交易內容。
 
 ![](../../.gitbook/assets/bigdipper-02.png)
 
@@ -98,4 +98,4 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ### 如有疑難，聯絡 MyEthShop 客服
 
-若你在開戶或任何交易所服務的過程中遇到困難，請參考 [MYETHLABS 實用秘技](https://myethlabs.wordpress.com/category/%E5%AF%A6%E7%94%A8%E7%A7%98%E6%8A%80/) 或直接以 Facebook、Whatsapp 或電郵聯絡 MyEthShop 客服，詳情見 [MyEthShop 網頁](https://www.myethshop.com) 右下角。
+若你在開戶或任何交易所服務的過程中遇到困難，請參考 [MYETHLABS 實用秘技](https://myethlabs.wordpress.com/category/%E5%AF%A6%E7%94%A8%E7%A7%98%E6%8A%80/) 或直接以 Facebook、Whatsapp 或電郵聯絡 MyEthShop 客服，詳情見 [MyEthShop 網頁](https://www.myethshop.com/) 右下角。

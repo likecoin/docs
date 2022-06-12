@@ -28,7 +28,7 @@ _LikeCoin DAO_ 的市民。每位 _Liker_ 擁有一獨特的 _Liker ID_ 以資�
 
 ### 讚賞鍵 ( LikeCoin button ) <a href="#82e1" id="82e1"></a>
 
-一個已註冊商標的拍手鍵，附帶在故事、圖像、畫作及其他創作內容中，讓 _Liker_ 按讚表達讚賞，同時為作者帶來收入。[Matters](https://matters.news) 上所有文章已預設提供 _讚賞鍵。_媒體特約作者，把 Liker ID 提供給[香港獨立媒體網](https://docs.like.co/v/zh/user-guide/creator)等合作平台，即能為文章安裝 _讚賞鍵_。自媒體作者於自架 WordPress 網站安裝 [LikeCoin 外掛](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上 _讚賞鍵_，[Medium](https://medium.com) 作者可在文章中自行貼上 _讚賞鍵_ 鏈結，也可在[方格子](https://vocus.cc)、[Blogspot ( Blogger.com )](https://www.blogger.com)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
+一個已註冊商標的拍手鍵，附帶在故事、圖像、畫作及其他創作內容中，讓 _Liker_ 按讚表達讚賞，同時為作者帶來收入。[Matters](https://matters.news) 上所有文章已預設提供 _讚賞鍵。_媒體特約作者，把 Liker ID 提供給[香港獨立媒體網](https://docs.like.co/v/zh/user-guide/creator)等合作平台，即能為文章安裝 _讚賞鍵_。自媒體作者於自架 WordPress 網站安裝 [LikeCoin 外掛](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上 _讚賞鍵_，[Medium](https://medium.com) 作者可在文章中自行貼上 _讚賞鍵_ 鏈結，也可在[方格子](https://vocus.cc/)、[Blogspot ( Blogger.com )](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
 
 ### LikeCoin 通證 ( LikeCoin token ) <a href="#c246" id="c246"></a>
 
@@ -52,14 +52,14 @@ _LikeCoin chain_ **FoTan** 版本將提供 International Standard Content Number
 
 _LikeCoin DAO_ 成立後，第一批共 7 組承擔重任的 _驗證人_ 是：
 
-* [國立臺北科技大學](https://www.ntut.edu.tw)
-* [台灣事實查核中心](https://tfc-taiwan.org.tw)
-* [Forbole](https://www.forbole.com)
-* [立場新聞](https://thestandnews.com) + [OurSky](https://oursky.com)
-* [文化及媒體教育基金](https://www.cmef.org.hk/eng) + [Enyk Security](https://enyk.io)
-* [香港創意開放科技協會](https://cota.hk)
+* [國立臺北科技大學](https://www.ntut.edu.tw/)
+* [台灣事實查核中心](https://tfc-taiwan.org.tw/)
+* [Forbole](https://www.forbole.com/)
+* [立場新聞](https://thestandnews.com/) + [OurSky](https://oursky.com/)
+* [文化及媒體教育基金](https://www.cmef.org.hk/eng) + [Enyk Security](https://enyk.io/)
+* [香港創意開放科技協會](https://cota.hk/)
 * [Matters Lab](https://matters.news)
-* [GLOs](https://www.glos.world) x [UDomain](https://www.udomain.com)
+* [GLOs](https://www.glos.world/) x [UDomain](https://www.udomain.com/)
 
 ![LikeCoin chain 首批驗證人](../.gitbook/assets/likecoin\_ad70\_validators-01.png)
 
@@ -73,7 +73,7 @@ _LikeCoin_ 在 2017 年首次面世時在以太坊區塊鏈以 「ERC-20 通證�
 
 ### 升級 <a href="#4ee6" id="4ee6"></a>
 
-當 _LikeCoin DAO_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _LikeCoin DAO_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 _Liker_ 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com) 交易所兌換為 Bitcoin 或以太幣（補充：Liquid 交易所已支援 _LikeCoin 通證，_假如仍然需交易 LikeCoin ERC-20，可到 [BitAsset](https://www.bitasset.com) 或 [MyEthShop](https://www.myethshop.com)）。
+當 _LikeCoin DAO_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _LikeCoin DAO_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 _Liker_ 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com/) 交易所兌換為 Bitcoin 或以太幣（補充：Liquid 交易所已支援 _LikeCoin 通證，_假如仍然需交易 LikeCoin ERC-20，可到 [BitAsset](https://www.bitasset.com/) 或 [MyEthShop](https://www.myethshop.com/)）。
 
 當 LikeCoin ERC-20 轉換為 _LikeCoin_，前者將於以太坊被燒毀。故此 _LikeCoin_ 及 LikeCoin ERC-20 在市面的合計流通量將維持不變。
 

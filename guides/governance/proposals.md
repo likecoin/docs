@@ -6,6 +6,20 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## 議案 #48 更新 Osmosis 池激勵措施
+
+* **提案：**medium
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.06.02 提案，2022.06.10 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/48](https://likecoin.bigdipper.live/proposals/48)
+
+## 議案 #47 存入 20,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
+
+* **提案：**ckxpress
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.05.29 提案，2022.06.08 通過
+* **詳情**：[https://likecoin.bigdipper.live/proposals/47](https://likecoin.bigdipper.live/proposals/47)
+
 ## 議案 #46 LikeCoin v2.0.0 LaiChiKok Prefix 升級
 
 * **提案：**Civic Liker

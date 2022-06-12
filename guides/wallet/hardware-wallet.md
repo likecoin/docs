@@ -22,7 +22,7 @@ description: 以硬件錢包保障你的 LikeCoin 資產
 
 ### 步驟三：到 Big Dipper 網站登入
 
-在 [Big Dipper](https://likecoin.bigdipper.live) 網站的右上角點擊鑰匙符號並登入，會需要一些時間讓 Big Dipper 掃瞄並連接 Ledger 硬件。
+在 [Big Dipper](https://likecoin.bigdipper.live/) 網站的右上角點擊鑰匙符號並登入，會需要一些時間讓 Big Dipper 掃瞄並連接 Ledger 硬件。
 
 ![](../../.gitbook/assets/hardwarewallet-3.png)
 

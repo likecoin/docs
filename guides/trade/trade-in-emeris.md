@@ -26,7 +26,7 @@ description: 跨鏈 DEX 聚合器，無需註冊，立即交易
 
 ### 步驟三：接通 Emeris
 
-到 Emeris 網址 [https://app.emeris.com/](https://app.emeris.com)，點右上角「Connect wallet」。
+到 Emeris 網址 [https://app.emeris.com/](https://app.emeris.com/)，點右上角「Connect wallet」。
 
 ![](<../../.gitbook/assets/Emeris Swap 01.png>)
 

@@ -85,7 +85,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 ![](<.gitbook/assets/Airdrop 07.png>)
 
-任務完成並成功領取 25% 空投。點「Check Tx」可以到 [BigDipper](https://likecoin.bigdipper.live) 查看經已獲取的 LIKE。
+任務完成並成功領取 25% 空投。點「Check Tx」可以到 [BigDipper](https://likecoin.bigdipper.live/) 查看經已獲取的 LIKE。
 
 ![](<.gitbook/assets/Airdrop 08.png>)
 
@@ -109,11 +109,11 @@ LikeCoin [去中心出版](guides/decentralized-publishing/)。 通過在鏈出�
 
 #### Decentralzed Twitter 去中心推特
 
-鏈上原生，預設尊重私隱。到 [https://depub.space/](https://depub.space)，一個在 IPFS 上運行的去中心推特。與 Keplr 或 Wallet Connect 連接發佈任何內容。 該推文將以獨有的 [ISCN ( International Standard Content Number )](guides/decentralized-publishing/what-is-iscn.md) 發佈到 LikeCoin chain。 你的錢包裡需要預留少量 LIKE 支付 [Gas Fee 手續費](guides/wallet/transaction-fee.md)。
+鏈上原生，預設尊重私隱。到 [https://depub.space/](https://depub.space/)，一個在 IPFS 上運行的去中心推特。與 Keplr 或 Wallet Connect 連接發佈任何內容。 該推文將以獨有的 [ISCN ( International Standard Content Number )](guides/decentralized-publishing/what-is-iscn.md) 發佈到 LikeCoin chain。 你的錢包裡需要預留少量 LIKE 支付 [Gas Fee 手續費](guides/wallet/transaction-fee.md)。
 
 ![](<.gitbook/assets/Airdrop 12.png>)
 
-點「Tweet now」在 [depub.SPACE](https://depub.space) 推文，完成後點「Done」領取 25% 空投。更多 depub.SPACE 教學請參看：
+點「Tweet now」在 [depub.SPACE](https://depub.space/) 推文，完成後點「Done」領取 25% 空投。更多 depub.SPACE 教學請參看：
 
 {% content-ref url="guides/decentralized-publishing/depub.space.md" %}
 [depub.space.md](guides/decentralized-publishing/depub.space.md)
@@ -163,7 +163,7 @@ LikeCoin 是一個由對內容充滿熱情的創作者及讀者組成的社群�
 
 ![](<.gitbook/assets/Airdrop 16.png>)
 
-點「Vote now」在 [dao.like.co](https://dao.like.co) 投票，完成後點「Done」領取 25% 空投。更多投票教學請參看：
+點「Vote now」在 [dao.like.co](https://dao.like.co/) 投票，完成後點「Done」領取 25% 空投。更多投票教學請參看：
 
 {% content-ref url="guides/governance/direct-vote.md" %}
 [direct-vote.md](guides/governance/direct-vote.md)
@@ -175,7 +175,7 @@ LikeCoin 是一個由對內容充滿熱情的創作者及讀者組成的社群�
 
 ![](<.gitbook/assets/Airdrop 17.png>)
 
-除了 BigDipper 以外，你也可以到 [dao.like.co](https://dao.like.co) 的 Transactions 頁面查看經已領取空投的記錄。
+除了 BigDipper 以外，你也可以到 [dao.like.co](https://dao.like.co/) 的 Transactions 頁面查看經已領取空投的記錄。
 
 ![](<.gitbook/assets/Airdrop 18.png>)
 

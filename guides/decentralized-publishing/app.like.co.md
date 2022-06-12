@@ -4,7 +4,7 @@ description: 第一個 ISCN 的概念示範應用
 
 # 如何註冊 ISCN
 
-用戶可經 [app.like.co](https://app.like.co) 為每個內容註冊 ISCN，系統將基於 ISCN ID 隨機生成一幅獨一無異的美術圖卡。就算兩筆 ISCN 記錄只差之毫釐，ISCN 圖卡的圖案也會完全不同！
+用戶可經 [app.like.co](https://app.like.co/) 為每個內容註冊 ISCN，系統將基於 ISCN ID 隨機生成一幅獨一無異的美術圖卡。就算兩筆 ISCN 記錄只差之毫釐，ISCN 圖卡的圖案也會完全不同！
 
 註冊 ISCN 到 LikeCoin chain 的同時，系統也會把內容上傳到 IPFS 或 Arweave。用戶只需付出少量 LikeCoin 以支付註冊及寄存的費用。
 
@@ -12,13 +12,13 @@ description: 第一個 ISCN 的概念示範應用
 
 ![](../../.gitbook/assets/app.like.co.png)
 
-用戶可使用 [app.like.co](https://app.like.co) 嘗試註冊自己的 ISCN。
+用戶可使用 [app.like.co](https://app.like.co/) 嘗試註冊自己的 ISCN。
 
 ### 步驟一：登入 app.like.co
 
 請先[註冊 Keplr 錢包](../../user-guide/liker-id/register-with-keplr.md)方可註冊 ISCN。
 
-請於瀏覽器登入 Keplr 錢包，並到 [app.like.co](https://app.like.co) 點擊右上角「Keplr」，Keplr 錢包有機會要求簽署，請選「Approve」。
+請於瀏覽器登入 Keplr 錢包，並到 [app.like.co](https://app.like.co/) 點擊右上角「Keplr」，Keplr 錢包有機會要求簽署，請選「Approve」。
 
 ![](../../.gitbook/assets/iscn-register-01.png)
 
@@ -28,7 +28,7 @@ description: 第一個 ISCN 的概念示範應用
 
 ### 步驟二：上載內容
 
-點擊「Select a file」上傳檔案，例如相片或影片等，又或者直接把檔案拖拉到中間的位置，甚至可以先點擊「Publish to IPFS」以後才上載檔案。 
+點擊「Select a file」上傳檔案，例如相片或影片等，又或者直接把檔案拖拉到中間的位置，甚至可以先點擊「Publish to IPFS」以後才上載檔案。&#x20;
 
 ![](../../.gitbook/assets/iscn-register-03.png)
 
@@ -48,7 +48,7 @@ description: 第一個 ISCN 的概念示範應用
 * Description 內容描述
 * Author - Creator Name 創作者名字、可填上多於一名
 * Author - Wallet Address 創作者的錢包地址
-* Author - URL 創作者的網址 
+* Author - URL 創作者的網址&#x20;
 * Keywords 關鍵字，幫助人們搜尋你的內容
 * URL 該內容的網址
 * License 內容授權，不妨參考共享創意的授權條款

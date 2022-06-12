@@ -4,7 +4,7 @@ description: 如何在 Hexo 開發環境的文章中加入 LikeCoin button
 
 # Hexo
 
-感謝用戶 [只是個打字的](https://blog.typeart.cc) 的教學範本。
+感謝用戶 [只是個打字的](https://blog.typeart.cc/) 的教學範本。
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
 

@@ -16,7 +16,7 @@ Matters 並不支援綁定[以 Keplr 註冊的 Liker ID](../liker-id/register-wi
 
 ### 步驟一
 
-訪問 [Matters 網站](https://matters.news)。
+訪問 [Matters 網站](https://matters.news/)。
 
 ### 步驟二
 

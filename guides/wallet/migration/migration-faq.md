@@ -20,9 +20,9 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 很可能是你從來都沒有綁定以太坊錢包地址到你的 Liker ID，導致你所賺得的 LikeCoin 積存了在系統上還未派出。請你耐心等待幾天再查看。
 
-### 4. 升級過程中不斷出現「Error: NOT_ENOUGH_GAS, NEED X.XXXXX」
+### 4. 升級過程中不斷出現「Error: NOT\_ENOUGH\_GAS, NEED X.XXXXX」
 
-你需要有足夠的 ETH ( NEED X.XXXXX 那個數值）作為碼工費 ( GAS Fee ) 方可完成升級，有關數值計算請參考 [ETH GAS Station](https://ethgasstation.info)。 
+你需要有足夠的 ETH ( NEED X.XXXXX 那個數值）作為碼工費 ( GAS Fee ) 方可完成升級，有關數值計算請參考 [ETH GAS Station](https://ethgasstation.info/)。&#x20;
 
 ### **5. 卡在「正在等待 ETH TX」很久**
 

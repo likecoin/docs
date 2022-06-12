@@ -24,7 +24,7 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 ### 步驟一：選定流動性池
 
-現時 LikeCoin 在 [Osmosis](https://app.osmosis.zone) 中設置了三個流動性池，其中兩個提供流動性挖礦獎勵：
+現時 LikeCoin 在 [Osmosis](https://app.osmosis.zone/) 中設置了三個流動性池，其中兩個提供流動性挖礦獎勵：
 
 [Pool #553 LIKE/OSMO](https://app.osmosis.zone/pool/553)
 
@@ -114,4 +114,4 @@ Osmosis 的流動性挖礦獎勵將以 OSMO 回饋予流動性挖礦者，並於
 
 ## 查看以往數據
 
-點左手邊菜單 Stats 或到 [https://info.osmosis.zone/](https://info.osmosis.zone) 可以查看各個流動性池的數據。
+點左手邊菜單 Stats 或到 [https://info.osmosis.zone/](https://info.osmosis.zone/) 可以查看各個流動性池的數據。

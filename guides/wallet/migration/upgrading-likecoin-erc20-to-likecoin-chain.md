@@ -34,7 +34,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 由於現在的目的是升級 Liker ID 綁定的 MetaMask 錢包中的 LikeCoin，所以你必須使用能操作該 MetaMask 錢包地址的電腦來執行以下步驟。
 
-請以你常用的社交帳戶 ( Google/Facebook/Twitter/Matters ) 登入 [Liker Land](https://liker.land) 再訪問 [https://like.co/in/](https://like.co/in/)。系統會彈出以下視窗。點擊「現在轉移」。
+請以你常用的社交帳戶 ( Google/Facebook/Twitter/Matters ) 登入 [Liker Land](https://liker.land/) 再訪問 [https://like.co/in/](https://like.co/in/)。系統會彈出以下視窗。點擊「現在轉移」。
 
 ![點擊「現在轉移」](../../../.gitbook/assets/likecoin-migration-1.png)
 
@@ -99,14 +99,14 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 ### 假設你的 LikeCoin ERC-20 是從交易所中購買
 
-請先將那些 LikeCoin 轉移到一個 MetaMask 錢包，接下來到 [https://migration.like.co/](https://migration.like.co) 輸入 Cosmos 錢包地址，即可進行升級。
+請先將那些 LikeCoin 轉移到一個 MetaMask 錢包，接下來到 [https://migration.like.co/](https://migration.like.co/) 輸入 Cosmos 錢包地址，即可進行升級。
 
 ### 假如你的 LikeCoin ERC-20 儲存於硬件錢包
 
-請直接將它與 MetaMask 連接，再以 [https://migration.like.co/](https://migration.like.co) 輸入 Cosmos 錢包地址進行升級。
+請直接將它與 MetaMask 連接，再以 [https://migration.like.co/](https://migration.like.co/) 輸入 Cosmos 錢包地址進行升級。
 
 {% hint style="danger" %}
-使用 [https://migration.like.co/](https://migration.like.co) 升級時請不要直接輸入交易所的 Cosmos 錢包地址，假如某些交易所需要輸入 Tag/Memo 才能存幣，這樣會導致損失並有機會讓你不能成功存入你的 LikeCoin。請先將 LikeCoin 轉入自己的 Cosmos 錢包地址後才進行其他交易或轉換。
+使用 [https://migration.like.co/](https://migration.like.co/) 升級時請不要直接輸入交易所的 Cosmos 錢包地址，假如某些交易所需要輸入 Tag/Memo 才能存幣，這樣會導致損失並有機會讓你不能成功存入你的 LikeCoin。請先將 LikeCoin 轉入自己的 Cosmos 錢包地址後才進行其他交易或轉換。
 
 **也不要直接將幣倒進相關的 Smart Contract 地址。**你必須使用 [https://migration.like.co/](upgrading-likecoin-erc20-to-likecoin-chain.md#liker-land) 進行升級。
 

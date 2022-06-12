@@ -8,10 +8,10 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 以往驗證人投票即是代表你投票，但現在你可以為自己的想法作主，例如你的驗證人在議案投反對票，你依然可以就你的持份投下支持一票。然而如果你沒有直接投票，就會以你信任的驗證人的選擇為你的選擇。
 
-投票的方式有多種，我們建議使用 [dao.like.com](https://dao.like.co)。 你也可以通過以下方式進行投票：
+投票的方式有多種，我們建議使用 [dao.like.com](https://dao.like.co/)。 你也可以通過以下方式進行投票：
 
-* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co)
-* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io)
+* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
+* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
 * Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
 
 ## 如何就議案投票
@@ -26,7 +26,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ### 步驟二：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+到 [dao.like.co](https://dao.like.co/) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
 ![](<../../.gitbook/assets/direct vote 01.png>)
 
