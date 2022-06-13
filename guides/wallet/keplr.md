@@ -92,7 +92,7 @@ Keplr 提供 Google Chrome 擴充功能，可在 Chrome 和 Brave 等瀏覽器�
 
 ### 步驟二
 
-在 Recipient 填入收款方的錢包地址、Token 經已自動選為 LIKE、Amount 填示錢包內的 LIKE 總數。請填寫需要轉帳的 LikeCoin 數量，並留意必須預留[手續費](transaction-fee.md)。Memo (Optional) 一欄填進收款方需要 Tag/Memo（如有）。再點「Send」。
+在 Recipient 填入收款方的錢包地址、Token 經已自動選為 LIKE、Amount 填示錢包內的 LIKE 可用餘額。請填寫需要轉帳的 LikeCoin 數量，並留意必須預留[手續費](transaction-fee.md)。Memo (Optional) 一欄填進收款方需要 Tag/Memo（如有）。再點「Send」。
 
 ![](../../.gitbook/assets/keplr11.png)
 
