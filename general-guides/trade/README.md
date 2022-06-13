@@ -9,7 +9,6 @@ These are the ways to trade LikeCoin:
 ### Decentralized Cryptocurrency Exchanges, DEX
 
 * [Osmosis](https://app.osmosis.zone/) supports ATOM, AKT, DVPN, IRIS, CRO, XPRT, REGEN, IOV, UST, etc. and LIKE trading
-* [Emeris](https://app.emeris.com/) supports ATOM, AKT, DVPN, REGEN, IRIS, XPRT, IXO, OSMO, CRO, etc and LIKE trading
 
 ### Centralized Cryptocurrency Exchanges, CEX
 

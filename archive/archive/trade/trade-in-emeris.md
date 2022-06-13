@@ -12,41 +12,41 @@ You will have to use Keplr to login to Emeris. If you are used to managing your 
 
 Register a Liker ID with Keplr.
 
-{% content-ref url="../../user-guide/liker-id/register-with-keplr.md" %}
-[register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
+{% content-ref url="../../../user-guide/liker-id/register-with-keplr.md" %}
+[register-with-keplr.md](../../../user-guide/liker-id/register-with-keplr.md)
 {% endcontent-ref %}
 
 ### Step 2: Deposit
 
 Deposit LikeCoin to Keplr.
 
-{% content-ref url="../wallet/keplr.md" %}
-[keplr.md](../wallet/keplr.md)
+{% content-ref url="../../../general-guides/wallet/keplr.md" %}
+[keplr.md](../../../general-guides/wallet/keplr.md)
 {% endcontent-ref %}
 
 ### Step 3: Connect Emeris
 
 Go to the Emeris website [https://app.osmosis.zone/](https://app.emeris.com/), click the top right hand corner "Connect wallet".
 
-![](<../../.gitbook/assets/Emeris Swap 01.png>)
+![](<../../../.gitbook/assets/Emeris Swap 01.png>)
 
 On Connect your wallet, click "Connect Keplr".
 
-![](<../../.gitbook/assets/Emeris Swap 02.png>)
+![](<../../../.gitbook/assets/Emeris Swap 02.png>)
 
 On the top right hand corner of the Portfolio page, your walet username and the total amount of portfolio shown.  You can click on it and click "Disconnect wallet" at any time.&#x20;
 
-![](<../../.gitbook/assets/Emeris Swap 03.png>)
+![](<../../../.gitbook/assets/Emeris Swap 03.png>)
 
 ### Step 4: Swap
 
 On the right hand side of the Portfolio page, select the currencies that you would like to swap, for example the below indicated that swapping ATOM to LIKE.&#x20;
 
-![](<../../.gitbook/assets/Emeris Swap 04.png>)
+![](<../../../.gitbook/assets/Emeris Swap 04.png>)
 
 You can also click the 3 dots on the right hand side of the word swap to adjust the slippage tolerance.
 
-![](<../../.gitbook/assets/Emeris Swap 05.png>)
+![](<../../../.gitbook/assets/Emeris Swap 05.png>)
 
 If everything is fine, click "Review" to continue.
 
@@ -54,11 +54,11 @@ If everything is fine, click "Review" to continue.
 
 On Review your swap details page, click on the amount to transact, Min. received if 100% swap, Limite price, Transaction fee and Swap Fee. If everything is OK, click "Confirm and continue".
 
-![](<../../.gitbook/assets/Emeris Swap 06.png>)
+![](<../../../.gitbook/assets/Emeris Swap 06.png>)
 
 On Keplr pop-up screen, click "Approve" to continue.
 
-![](<../../.gitbook/assets/Emeris Swap 07.png>)
+![](<../../../.gitbook/assets/Emeris Swap 07.png>)
 
 After the trade, on Portfolio page you can check out the changes of your assets.
 
@@ -68,4 +68,4 @@ You can withdraw or send funds with the following ways:
 
 * Use the Send to address function on Emeris to send funds to other wallet address.
 * User the Move Assets function on Emeries to move assets between chains.
-* User [Keplr wallet to send funds](../wallet/keplr.md#send-likecoin-from-keplr-to-another-wallet).
+* User [Keplr wallet to send funds](../../../general-guides/wallet/keplr.md#send-likecoin-from-keplr-to-another-wallet).
