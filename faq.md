@@ -19,7 +19,7 @@ description: LikeCoin 常見問題
 * [ISCN 支援甚麼內容格式？](guides/decentralized-publishing/content-type.md)
 * [怎樣註冊 ISCN？ ](guides/decentralized-publishing/app.like.co.md)
 * [可以大量註冊 ISCN 嗎？](guides/decentralized-publishing/iscn-batch-uploader.md)
-* [甚麼是 depub.SPACE？](guides/decentralized-publishing/depub.space.md)
+* [甚麼是 depub.space？](guides/decentralized-publishing/depub.space.md)
 
 ## [LikeCoin 項目概覽](guides/about/)
 

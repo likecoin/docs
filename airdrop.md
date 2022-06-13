@@ -113,7 +113,7 @@ LikeCoin [去中心出版](guides/decentralized-publishing/)。 通過在鏈出�
 
 ![](<.gitbook/assets/Airdrop 12.png>)
 
-點「Tweet now」在 [depub.SPACE](https://depub.space/) 推文，完成後點「Done」領取 25% 空投。更多 depub.SPACE 教學請參看：
+點「Tweet now」在 [depub.space](https://depub.space/) 推文，完成後點「Done」領取 25% 空投。更多 depub.space 教學請參看：
 
 {% content-ref url="guides/decentralized-publishing/depub.space.md" %}
 [depub.space.md](guides/decentralized-publishing/depub.space.md)
