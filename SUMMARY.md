@@ -91,6 +91,7 @@
   * [Keplr](general-guides/wallet/keplr.md)
     * [How to install Keplr extension](general-guides/wallet/keplr/how-to-install-keplr-extension.md)
     * [Import wallet into Keplr](general-guides/wallet/keplr/mport-account.md)
+  * [Cosmostation](general-guides/wallet/cosmostation.md)
   * [LIKE pay](general-guides/wallet/like-pay.md)
   * [Ledger](general-guides/wallet/hardware-wallet.md)
   * [Wallet Address](general-guides/wallet/wallet-address.md)

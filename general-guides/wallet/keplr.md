@@ -24,7 +24,7 @@ You may also export seed words from Liker Land and import to Keplr.
 
 ## **Use dao.like.co to deposit, send, delegate, vote and check LikeCoin transaction details**&#x20;
 
-Users will have to go to [dao.like.co](https://dao.like.co/) and connect the LikeCoin chain with Keplr. You may manage your LikeCoin with [dao.like.co](https://dao.like.co/) and Keplr together to deposit, send, delegate vote and check the LikeCoin transaction details.
+Users will have to go to [dao.like.co](https://dao.like.co/) and connect the LikeCoin chain with Keplr. You may manage your LikeCoin with [dao.like.co](https://dao.like.co/) and Keplr together to deposit, send, delegate, vote and check the LikeCoin transaction details.
 
 Go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
 
@@ -60,7 +60,7 @@ You can also register a Liker ID with Keplr or bond your existing Keplr wallet w
 
 Before depositing LikeCoin to your Keplr wallet, please change the display on top to show the LikeCoin chain.
 
-If your Keplr wallet does not show LikeCoin chain, please [go to dao.like.co to connect LikeCoin chain for Keplr wallet first](keplr.md#use-dao.like.co-to-check-likecoin-transaction-details-transfer-or-delegate).
+If your Keplr wallet does not show the LikeCoin chain, please [go to dao.like.co to connect to the LikeCoin chain for Keplr wallet first](keplr.md#use-dao.like.co-to-check-likecoin-transaction-details-transfer-or-delegate).
 
 ![](<../../.gitbook/assets/keplr-liker-id-07 (1).png>)
 
@@ -90,7 +90,7 @@ You can send LikeCoin via Keplr to other wallet that support LikeCoin. Change th
 
 ### Step 2
 
-On Recipient fill in the cosmos wallet of the receiver, Token is being selected automatically as LIKE, Amount shows the total amount of LIKE in the wallet. Please fill in the number of LikeCoin that need to be sent and reserve some LIKE for the [transaction fee](transaction-fee.md). On Memo (Optional) fill in the Tag/Memo which may be required by the receiver. Then click "Send".
+On Recipient fill in the wallet address of the receiver, Token is being selected automatically as LIKE, Amount shows the available of LIKE in the wallet. Please fill in the number of LikeCoin that need to be sent and reserve some LIKE for the [transaction fee](transaction-fee.md). On Memo (Optional) fill in the Tag/Memo which may be required by the receiver. Then click "Send".
 
 ![](../../.gitbook/assets/keplr11.png)
 
