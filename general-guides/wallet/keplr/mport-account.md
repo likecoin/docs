@@ -4,7 +4,9 @@ description: Import seed words and create wallet
 
 # Import wallet into Keplr
 
-Open the Keplr wallet and click the figure in the upper right corner.
+Select "Import existing account" directly after installing the Keplr browser extension.
+
+Or, open the Keplr wallet and click the figure in the upper right corner.
 
 ![](<../../../.gitbook/assets/Keplr Seed Words 01.png>)
 

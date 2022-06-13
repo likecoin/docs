@@ -22,9 +22,9 @@ You may also export seed words from Liker Land and import to Keplr.
 [mport-account.md](keplr/mport-account.md)
 {% endcontent-ref %}
 
-## **Use dao.like.co to deposit, send, delegate LikeCoin and check transaction details**&#x20;
+## **Use dao.like.co to deposit, send, delegate, vote and check LikeCoin transaction details**&#x20;
 
-Users will have to go to [dao.like.co](https://dao.like.co/) and connect the LikeCoin chain with Keplr. You may manage your LikeCoin with [dao.like.co](https://dao.like.co/) and Keplr together to deposit, send, delegate and check the LikeCoin transaction details.
+Users will have to go to [dao.like.co](https://dao.like.co/) and connect the LikeCoin chain with Keplr. You may manage your LikeCoin with [dao.like.co](https://dao.like.co/) and Keplr together to deposit, send, delegate vote and check the LikeCoin transaction details.
 
 Go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
 
