@@ -9,7 +9,6 @@ description: 如何交易 LikeCoin？
 ### 去中心化交易所 DEX
 
 * [Osmosis](https://app.osmosis.zone/) 提供 ATOM、AKT、DVPN、IRIS、CRO、XPRT、REGEN、IOV、UST 等與 LIKE 之間交易
-* [Emeris](https://app.emeris.com/) 提供 ATOM、AKT、DVPN、REGEN、IRIS、XPRT、IXO、OSMO、CRO 等與 LIKE 之間交易
 
 ### 中心化交易所 CEX
 
