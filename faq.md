@@ -19,7 +19,7 @@ description: Frequently Asked Questions
 * [What type of content is supported by ISCN?](general-guides/decentralized-publishing/content-type.md)
 * [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co.md)
 * [Can I register for ISCN in a batch?](general-guides/decentralized-publishing/iscn-batch-uploader.md)
-* [What is depub.SPACE?](general-guides/decentralized-publishing/depub.space.md)
+* [What is depub.space?](general-guides/decentralized-publishing/depub.space.md)
 
 [LikeCoin Overview](general-guides/about/) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 -----------------------------------------------------------------------------------------------------------------------------

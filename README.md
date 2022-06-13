@@ -44,11 +44,11 @@ The [LIKE ecosystem](https://likecoin.bigdipper.live/) is made up of the communi
 
 Liker Land is one of the core teams in the LikeCoin community and it created the early MVP and Dapps of LikeCoin — including the [LikeCoin button](https://docs.like.co/developer/likecoin-button), [WordPress plugin](https://wordpress.org/plugins/likecoin/), [ISCN app](https://app.like.co/), and the upcoming NFT minting widget that allows creators to mint NFTs directly from their own website.
 
-One of the newest, and most promising Dapps in the LikeCoin ecosystem is [depub.SPACE](https://depub.space/). [depub.SPACE](https://depub.space/) is a web3-native “decentralized Twitter” where influencers sell ”Follows" and creations as NFTs.&#x20;
+One of the newest, and most promising Dapps in the LikeCoin ecosystem is [depub.space](https://depub.space/). [depub.space](https://depub.space/) is a web3-native “decentralized Twitter” where influencers sell ”Follows" and creations as NFTs.&#x20;
 
 ### Kickstarted
 
-The first step is to own LikeCoin, and use it for publishing or governance.  You can try to post a decentralized tweet on [depub.SPACE](https://depub.space), vote on [dao.like.co](http://dao.like.co/), or reward any creators by transferring LIKE via Keplr.
+The first step is to own LikeCoin, and use it for publishing or governance.  You can try to post a decentralized tweet on [depub.space](https://depub.space), vote on [dao.like.co](http://dao.like.co/), or reward any creators by transferring LIKE via Keplr.
 
 Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
 

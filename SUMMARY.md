@@ -85,7 +85,7 @@
   * [What type of content is supported by ISCN?](general-guides/decentralized-publishing/content-type.md)
   * [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co.md)
   * [Register ISCN in batch](general-guides/decentralized-publishing/iscn-batch-uploader.md)
-  * [depub.SPACE](general-guides/decentralized-publishing/depub.space.md)
+  * [depub.space](general-guides/decentralized-publishing/depub.space.md)
 * [Faucet](general-guides/faucet.md)
 * [Wallet](general-guides/wallet/README.md)
   * [Keplr](general-guides/wallet/keplr.md)

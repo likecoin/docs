@@ -2,15 +2,15 @@
 description: A Web3 decentralized Twitter
 ---
 
-# depub.SPACE
+# depub.space
 
-[depub.SPACE](https://depub.space/) is a Web3 decentralized Twitter that requires only a small amount of LIKE to directly “DePub” (decentralized-publish) text and images to blockchain and IPFS. Users can connect their [Keplr](../wallet/keplr.md) wallet or the [Liker Land app](../../user-guide/liker-land/download.md) to post messages on depub.SPACE.
+[depub.space](https://depub.space/) is a Web3 decentralized Twitter that requires only a small amount of LIKE to directly “DePub” (decentralized-publish) text and images to blockchain and IPFS. Users can connect their [Keplr](../wallet/keplr.md) wallet or the [Liker Land app](../../user-guide/liker-land/download.md) to post messages on depub.space.
 
 ## Using Keplr to DePub
 
 ### Step 1
 
-Login your [Keplr](../wallet/keplr.md) Wallet and go to [depub.SPACE](https://depub.space/), then click "Connect Wallet".
+Login your [Keplr](../wallet/keplr.md) Wallet and go to [depub.space](https://depub.space/), then click "Connect Wallet".
 
 ![](<../../.gitbook/assets/depub.SPACE 01.png>)
 
@@ -28,7 +28,7 @@ Write the text and click "Submit" when finished.
 
 ### Step 4
 
-Click "Approve" in the pop-up window, wait for a while, and then you can successfully post on depub.SPACE.
+Click "Approve" in the pop-up window, wait for a while, and then you can successfully post on depub.space.
 
 ![](<../../.gitbook/assets/depub.SPACE 08-K.png>) ![](<../../.gitbook/assets/depub.SPACE 09.png>)
 
@@ -36,7 +36,7 @@ Click "Approve" in the pop-up window, wait for a while, and then you can success
 
 ### Step 1
 
-Go to the [depub.SPACE](https://depub.space/) and click "Connect Wallet".
+Go to the [depub.space](https://depub.space/) and click "Connect Wallet".
 
 ![](<../../.gitbook/assets/depub.SPACE 01.png>)
 
@@ -54,19 +54,19 @@ On the Liker Land app, click the QR Code icon to bring up the camera, and scan t
 
 ### Step 4
 
-The depub.SPACE window will pop-up, click "Approve".
+The depub.space window will pop-up, click "Approve".
 
 ![](<../../.gitbook/assets/depub.SPACE 05+6-en.png>)
 
 ### Step 5
 
-Go back to depub.SPACE to write the text, and click "Submit" when you're done.
+Go back to depub.space to write the text, and click "Submit" when you're done.
 
 ![](<../../.gitbook/assets/depub.SPACE 07.png>)
 
 ### Step 6
 
-When a signature request appears on your phone, click "Approve", wait for a while, and you can successfully post on depub.SPACE.
+When a signature request appears on your phone, click "Approve", wait for a while, and you can successfully post on depub.space.
 
 ![](<../../.gitbook/assets/depub.SPACE 08-en.png>) ![](<../../.gitbook/assets/depub.SPACE 09.png>)
 

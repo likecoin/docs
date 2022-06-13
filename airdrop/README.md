@@ -87,7 +87,7 @@ Native on chain, privacy by default. Visit [https://depub.space/](https://depub.
 
 ![](<../.gitbook/assets/Airdrop 12.png>)
 
-Click "Tweet now" to tweet at [depub.SPACE](https://depub.space/), and click "Done" to claim a 25% airdrop when finished. For tutorial about depub.SPACE:
+Click "Tweet now" to tweet at [depub.space](https://depub.space/), and click "Done" to claim a 25% airdrop when finished. For tutorial about depub.space:
 
 {% content-ref url="../general-guides/decentralized-publishing/depub.space.md" %}
 [depub.space.md](../general-guides/decentralized-publishing/depub.space.md)
