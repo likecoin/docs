@@ -20,7 +20,7 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 ![](<../../../.gitbook/assets/Comostation 4.png>)
 
-點「Create Wallet」創健錢包。
+點「Create Wallet」創建錢包。
 
 ![](<../../../.gitbook/assets/Comostation 5.png>)
 
