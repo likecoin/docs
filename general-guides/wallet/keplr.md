@@ -22,13 +22,45 @@ You may also export seed words from Liker Land and import to Keplr.
 [mport-account.md](keplr/mport-account.md)
 {% endcontent-ref %}
 
+## **Use dao.like.co to deposit, send, delegate LikeCoin and check transaction details**&#x20;
+
+Users will have to go to [dao.like.co](https://dao.like.co/) and connect the LikeCoin chain with Keplr. You may manage your LikeCoin with [dao.like.co](https://dao.like.co/) and Keplr together to deposit, send, delegate and check the LikeCoin transaction details.
+
+Go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
+
+![](../../.gitbook/assets/keplr06.png)
+
+Then click "Approve".
+
+![](../../.gitbook/assets/keplr07.png)
+
+Click on "Approve" again.
+
+![](../../.gitbook/assets/keplr08.png)
+
+You can see your balance.
+
+![](../../.gitbook/assets/keplr09.png)
+
+You can also register a Liker ID with Keplr or bond your existing Keplr wallet with a Liker ID, please take a look at:
+
+{% content-ref url="../../user-guide/liker-id/register-with-keplr.md" %}
+[register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
+{% endcontent-ref %}
+
+## Other wallet interface for managing LikeCoin with Keplr
+
+* Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
+* BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
+* ping.pub - [https://ping.pub](https://ping.pub/)
+
 ## **Deposit your LikeCoin to Keplr**
 
 ### Step 1
 
 Before depositing LikeCoin to your Keplr wallet, please change the display on top to show the LikeCoin chain.
 
-If your Keplr wallet does not show LikeCoin chain, please go to [dao.like.co to connect LikeCoin chain for Keplr wallet first](keplr.md#use-dao.like.co-to-check-likecoin-transaction-details-transfer-or-delegate).
+If your Keplr wallet does not show LikeCoin chain, please [go to dao.like.co to connect LikeCoin chain for Keplr wallet first](keplr.md#use-dao.like.co-to-check-likecoin-transaction-details-transfer-or-delegate).
 
 ![](<../../.gitbook/assets/keplr-liker-id-07 (1).png>)
 
@@ -71,35 +103,3 @@ On the confirmation screen, check the details again then click "Approve".
 Send complete. Keplr will show Tx is pending and back to the LikeCoin balance screen.
 
 ![](../../.gitbook/assets/keplr13.png)
-
-## **Use dao.like.co to check LikeCoin transaction details, transfer or delegate**
-
-You may manage your LikeCoin with [dao.like.co](https://dao.like.co/) and Keplr together to check the LikeCoin transaction details, transfer or delegate.
-
-Go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
-
-![](../../.gitbook/assets/keplr06.png)
-
-Then click "Approve".
-
-![](../../.gitbook/assets/keplr07.png)
-
-Click on "Approve" again.
-
-![](../../.gitbook/assets/keplr08.png)
-
-You can see your balance.
-
-![](../../.gitbook/assets/keplr09.png)
-
-You can also register a Liker ID with Keplr or bond your existing Keplr wallet with a Liker ID, please take a look at:
-
-{% content-ref url="../../user-guide/liker-id/register-with-keplr.md" %}
-[register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
-{% endcontent-ref %}
-
-## Other wallet interface for managing LikeCoin with Keplr
-
-* Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
-* BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
-* ping.pub - [https://ping.pub](https://ping.pub/)
