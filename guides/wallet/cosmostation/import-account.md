@@ -10,7 +10,7 @@ description: 導入助記詞並建立錢包
 
 ![](<../../../.gitbook/assets/Import Comostation 1.png>)
 
-在 Import Wallet 頁面選擇 Restore with Mnemonics。
+在 Import Wallet 頁面選擇「Restore with Mnemonics」。
 
 ![](<../../../.gitbook/assets/Import Comostation 2.png>)
 
