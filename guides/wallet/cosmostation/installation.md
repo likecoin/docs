@@ -4,7 +4,7 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 # 安裝 Cosmostation 瀏覽器擴充功能
 
-到 [Cosmostation 網站 Walet 頁面](https://www.cosmostation.io/wallet/#extension)了解瀏覽器擴充功能後點「Get Started」。
+到 [Cosmostation 網站 Wallet 頁面](https://www.cosmostation.io/wallet/#extension)了解瀏覽器擴充功能後點「Get Started」。
 
 ![](<../../../.gitbook/assets/Comostation 1.png>)
 
