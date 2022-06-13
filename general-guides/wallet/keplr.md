@@ -4,7 +4,7 @@ description: Interchain wallet supporting LikeCoin
 
 # Keplr
 
-You can now manage your LikeCoin with the Keplr wallet, which is an interchain wallet that you can manage your own private key. Keplr is a Google extension, refer to the following guide for how to install Keplr. &#x20;
+You can now manage your LikeCoin with the [Keplr wallet](https://www.keplr.app/), which is an interchain wallet that you can manage your own private key. Keplr is a Google extension, refer to the following guide for how to install Keplr. &#x20;
 
 Note that Keplr mobile app does not support LikeCoin yet.
 
@@ -24,7 +24,7 @@ You may also export seed words from Liker Land and import to Keplr.
 
 ## **Use dao.like.co to deposit, send, delegate, vote and check LikeCoin transaction details**&#x20;
 
-Users will have to go to [dao.like.co](https://dao.like.co/) and connect the LikeCoin chain with Keplr. You may manage your LikeCoin with [dao.like.co](https://dao.like.co/) and Keplr together to deposit, send, delegate, vote and check the LikeCoin transaction details.
+Users will have to go to [dao.like.co](https://dao.like.co/) and connect the LikeCoin chain with Keplr. You may manage your LikeCoin with [dao.like.co](https://dao.like.co/) and Keplr together to deposit, send, [delegate](../stake/delegation-of-likecoin.md), [vote](../governance/direct-vote.md) and check the LikeCoin transaction details.
 
 Go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
 
