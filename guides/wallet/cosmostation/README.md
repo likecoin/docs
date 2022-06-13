@@ -48,7 +48,7 @@ description: 支援 LikeCoin 的多鏈錢包
 
 ### 步驟一
 
-在 Cosmostation 右上角點錢包。
+Cosmostation 右上角點錢包。
 
 ![](<../../../.gitbook/assets/Comostation Deposit Send 1.png>)
 
