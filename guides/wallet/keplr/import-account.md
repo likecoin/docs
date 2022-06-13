@@ -4,7 +4,9 @@ description: 導入助記詞並建立錢包
 
 # 在 Keplr 導入錢包
 
-打開 Keplr 錢包，點右上角人形圖案。
+在安裝 Keplr 瀏覽器擴充功能後直接選「Import Existing Account」。
+
+或打開 Keplr，點右上角人形圖案。
 
 ![](<../../../.gitbook/assets/Keplr Seed Words 01.png>)
 
