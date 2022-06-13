@@ -56,11 +56,11 @@ Keplr 提供 Google Chrome 擴充功能，可在 Chrome 和 Brave 等瀏覽器�
 * BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
 * ping.pub - [https://ping.pub/](https://ping.pub/)
 
-## 轉帳 LikeCoin 到 Keplr <a href="#deposit-your-likecoin-to-keplr" id="deposit-your-likecoin-to-keplr"></a>
+## 在 Keplr 存入 LikeCoin <a href="#deposit-your-likecoin-to-keplr" id="deposit-your-likecoin-to-keplr"></a>
 
 ### 步驟一
 
-轉帳 LikeCoin 到 Keplr 錢包，請先把 Keplr 頂部的密碼貸幣菜單轉為顯示 LikeCoin chain。
+在入 LikeCoin 到 Keplr 錢包，請先把 Keplr 頂部的密碼貸幣菜單轉為顯示 LikeCoin chain。
 
 假如你的 Keplr 錢包未能顯示 LikeCoin chain，請[先到 dao.like.co 為 Keplr 錢包連結 LikeCoin chain](keplr.md#dao-like-co)。
 
@@ -82,8 +82,6 @@ Keplr 提供 Google Chrome 擴充功能，可在 Chrome 和 Brave 等瀏覽器�
 
 ![](../../.gitbook/assets/keplr-liker-id-08.png)
 
-## &#x20;<a href="#other-wallet-interface" id="other-wallet-interface"></a>
-
 ## 從 Keplr 轉帳 LikeCoin 到其他錢包 <a href="#send-out-likecoin-from-keplr" id="send-out-likecoin-from-keplr"></a>
 
 ### 步驟一 <a href="#send-likecoin-from-keplr-to-another-wallet" id="send-likecoin-from-keplr-to-another-wallet"></a>
@@ -94,7 +92,7 @@ Keplr 提供 Google Chrome 擴充功能，可在 Chrome 和 Brave 等瀏覽器�
 
 ### 步驟二
 
-在 Recipient 填入收款方的 Cosmos 錢包地址、Token 經已自動選為 LIKE、Amount 填示錢包內的 LIKE 總數。請填寫需要轉帳的 LikeCoin 數量，並留意必須預留[手續費](transaction-fee.md)。Memo (Optional) 一欄填進收款方需要 Tag/Memo（如有）。再點「Send」。
+在 Recipient 填入收款方的錢包地址、Token 經已自動選為 LIKE、Amount 填示錢包內的 LIKE 總數。請填寫需要轉帳的 LikeCoin 數量，並留意必須預留[手續費](transaction-fee.md)。Memo (Optional) 一欄填進收款方需要 Tag/Memo（如有）。再點「Send」。
 
 ![](../../.gitbook/assets/keplr11.png)
 
