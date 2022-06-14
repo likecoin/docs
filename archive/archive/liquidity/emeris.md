@@ -4,6 +4,10 @@ description: How to provide liquidity on Emeris
 
 # Emeris
 
+{% hint style="danger" %}
+Archived on 2022/06/14. Information is out of date, please refer to the entry "[Liquidity](../../../general-guides/liquidity/)".
+{% endhint %}
+
 On Emeris, users can participate in LIKE liquidity pools for liquidity providing to earn swap fees.
 
 Please note providing liquidity may result in impermanent loss, assess the risks before you dive into the ecosystem.

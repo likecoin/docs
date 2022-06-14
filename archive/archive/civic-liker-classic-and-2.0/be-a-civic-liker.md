@@ -4,6 +4,10 @@ description: Supporting content creator is easy
 
 # How to be a Civic Liker
 
+{% hint style="danger" %}
+Archived on 2022/06/14. Information is out of date, please refer to the new entry "[How to be a Civic Liker](be-a-civic-liker.md)".
+{% endhint %}
+
 Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
 
 ## Subscribe to a content creator

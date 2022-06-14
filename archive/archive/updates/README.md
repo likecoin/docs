@@ -4,6 +4,10 @@ description: What are the updates on LikeCoin?
 
 # Progress Updates
 
+{% hint style="danger" %}
+Archived on 2022/06/14. Please refer to [blog.like.co](https://blog.like.co/) for the latest update.
+{% endhint %}
+
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGFkSUMj9\_TpAJG75W%2F-MHGHqgZn4\_N6csz6pUU%2FLikeCoin\_AD69\_Stat\_Sept\_Artwork1-06.png?alt=media\&token=dc28292d-2103-45df-8c17-eb44492c4996)
 
 ## Reports

@@ -4,6 +4,10 @@ description: Achievement Report for Content Creators
 
 # Supporters Summary
 
+{% hint style="danger" %}
+Archived on 2022/06/14. Information is out of date.
+{% endhint %}
+
 Please follow the steps:
 
 Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "[I'm a Creator too](https://liker.land/creators/dashboard)".

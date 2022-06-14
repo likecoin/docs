@@ -4,6 +4,10 @@ description: It's easy to do
 
 # Change Credit Card Information
 
+{% hint style="danger" %}
+Archived on 2022/06/14. Information is out of date, please refer to the new entry "[Civic Liker](../../../user-guide/civic-liker/)".
+{% endhint %}
+
 Please follow the steps:
 
 Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "[Civic Liker](https://liker.land/civic/dashboard)".

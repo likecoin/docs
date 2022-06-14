@@ -4,6 +4,10 @@ description: Just a couple of steps
 
 # Unsubscribe Civic Liker
 
+{% hint style="danger" %}
+Archived on 2022/06/14. Information is out of date, please refer to the new entry "[Civic Liker](../../../user-guide/civic-liker/)".
+{% endhint %}
+
 Please follow the steps:
 
 ## Civic Liker

@@ -4,6 +4,10 @@ description: Why should I become a Civic Liker? Any benefits?
 
 # Civic Liker Classic and 2.0
 
+{% hint style="danger" %}
+Archived on 2022/06/14. Information is out of date, please refer to the new entry "[Civic Liker](../../../user-guide/civic-liker/)".
+{% endhint %}
+
 ![](../../../.gitbook/assets/likecoin\_ad98\_2point0-01.png)
 
 ## [Be a **Civic Liker**](be-a-civic-liker.md)

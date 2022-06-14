@@ -4,6 +4,10 @@ description: Cross-Chain DEX aggregator, registration not required, immediate tr
 
 # Trade in Emeris
 
+{% hint style="danger" %}
+Archived on 2022/06/14. Information is out of date, please refer to the entry "[Trade](../../../general-guides/trade/)".
+{% endhint %}
+
 On November 23, 2021, Likers can access LIKE in a permissionless and frictionless way with Cross-Chain DEX aggregator Emeris. For instance, swap LIKE to different listed tokens on Emeris (or vice versa). Registration is not required and no minimum deposit or withdrawal limit. Users can operate with their wallet all the way down, and experience decentralized trading.
 
 You will have to use Keplr to login to Emeris. If you are used to managing your LikeCoin on Liker Land wallet, you will have to deposit them to Keplr and login to Emeris.

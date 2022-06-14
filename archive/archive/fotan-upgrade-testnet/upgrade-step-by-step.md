@@ -6,6 +6,10 @@ description: >-
 
 # Upgrade Step-by-step
 
+{% hint style="danger" %}
+Archived on 2022/06/14. Information is out of date.
+{% endhint %}
+
 ## Overview&#x20;
 
 ### Preparation
