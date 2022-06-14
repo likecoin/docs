@@ -18,6 +18,14 @@ LikeCoin 以 NFT 的方式實踐去中心出版。
 
 鑄造並售賣作品的 NFT。作者在市場售賣 NFT，有如在 Amazon 售賣電子書或在書店售賣書籍一般。
 
+### 專為內容而設計的 NFT
+
+NFT 可以是任何唯一的數位資料。一封電郵、一張照片、一個身份或一本書，都可以是 NFT。\
+\
+**LikeCoin 的 Writing NFT 專為文字內容的需要而設計。**以傳統的出版流程類比，「作品產權-印刷成書-上架販賣」可比 LikeCoin 的「產權元資料註冊 – 生成 NFT – 上架 NFT 市場」。在物理世界中出版可能有諸多限制，在元宇宙中的出版和價值交換卻更靈活和恆久。
+
+![](<.gitbook/assets/image (5).png>)
+
 ### LikeCoin DAO
 
 LikeCoin 代表 [LikeCoin DAO](https://dao.like.co/proposals) 的投票權。每位 LikeCoin 持有人都是 DAO 的持份者。
@@ -40,13 +48,13 @@ LikeCoin DAO 持份者一起決策和執行如公共財政、公益建設、政�
 
 ## 關注 LikeCoin <a href="#learn-more" id="learn-more"></a>
 
-* **網站**：[Like.co](https://like.co)（所有持份者；英文）、[Liker.Land](https://liker.land)（讀者、內容伯樂）、[ISCN App](https://app.like.co/)（ISCN 註冊）、[iscn.io](https://iscn.io/)（ISCN 技術細節）
-* ****[**Discord**](http://discord.gg/likecoin)：開發、治理相關討論
-* [**文章**](https://blog.like.co/zh)：治理、進度更新、產品理念
-* ****[**Telegram**](https://t.me/likecoin\_dao)：持份者、一般討論
-* ****[**Twitter**](https://twitter.com/likecoin)：公告
+* **網站**：[like.co](https://like.co)（項目基本資訊；英文）、[liker.land](https://liker.land)（創作者和讀者）、[ISCN App](https://app.like.co/)（內容上鏈工具）、[iscn.io](https://iscn.io/)（ISCN 技術細節）
+* ****[**Discord**](http://discord.gg/likecoin)：社群聚腳點。創作、開發、治理相關討論
+* [**文章**](https://blog.like.co/zh)：項目部落格，進度更新、治理、產品發展
+* [**Twitter**](https://twitter.com/likecoin)：項目消息
+* ****[**Telegram**](https://t.me/likecoin\_dao)：一般討論
 * ****[**GitHub**](https://github.com/likecoin)：開放代碼
-* **Facebook**：[粉專](https://www.facebook.com/Liker.Land/)（一般公告）；[社團](https://www.facebook.com/groups/likecoin)（作者分享）；中文
+* **Fa**
 * [**Reddit**](https://www.reddit.com/r/LikeCoin/)
 
 ## 聯繫我們 <a href="#contact-us" id="contact-us"></a>
