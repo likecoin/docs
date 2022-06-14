@@ -4,13 +4,17 @@ description: 支援 LikeCoin 的網站都有哪些？我想加入，要申請麼
 
 # 支援網站列表
 
-![](../../.gitbook/assets/media-list.png)
+{% hint style="danger" %}
+2022/06/14 存檔。資訊已過期。
+{% endhint %}
 
-## 不設准入機制 <a href="permissionless" id="permissionless"></a>
+![](../../../.gitbook/assets/media-list.png)
+
+## 不設准入機制 <a href="#permissionless" id="permissionless"></a>
 
 LikeCoin 不設准入機制，無需獲得准許，即能使用。
 
-## 支援網站列表（不定時更新） <a href="all" id="all"></a>
+## 支援網站列表（不定時更新） <a href="#all" id="all"></a>
 
 [\[Life is a journey. - 紀錄與分享生活點滴\]](https://aruyooo.com)\
 [\[夜蝴蝶館 - 只有故事和故事相關的事\]](http://seba.tw)\
@@ -291,7 +295,7 @@ GordonWei's Blog\
 [\[The Sociologist\]](https://sociologist.xyz)\
 [\[Irene世界出走日記\]](https://irenelintravel.com)\
 [\[Joyy李志強 | 網路行銷、網站架設、聯盟行銷、網路賺錢、線上教學服務\]](https://joyymkt.com)\
-[\[求子之健康好生活/YA_MAO FAMILY\]](https://yamaoinc.com)\
+[\[求子之健康好生活/YA\_MAO FAMILY\]](https://yamaoinc.com)\
 [\[二手 Apple 交易買賣 | 蘋果商品免費刊登平台推薦 - Apple543 找買賣\]](https://deal.apple543.com)\
 [\[Twitch遊戲實況．IRL戶外實況．直播教學 - 一人遊戲直播局 Hitori GameStreaming\]](https://hitorigs.live)\
 [\[許幼如的職場學習路 - 相信學習成長，會讓內心自由\]](https://www.yojuhsu.com)\

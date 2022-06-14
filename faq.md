@@ -74,7 +74,7 @@ description: LikeCoin 常見問題
 ### [我是讀者](user-guide/liker-land/#for-readers)
 
 * [Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？](user-guide/liker-land/#for-readers)
-* [下載了 Liker Land 手機應用程式可以看到些甚麼？](user-guide/liker-land/today-headline.md#not-browsing-but-reading)
+* [下載了 Liker Land 手機應用程式可以看到些甚麼？](cun-dang/archive/liker-land/today-headline.md#not-browsing-but-reading)
 * [我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](user-guide/liker-land/reading-list.md)
 * [甚麼是「化讚為賞」？「化讚為賞」的去中心讚賞如何運作？錢從何來？](user-guide/liker-land/like.md)
 * [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](user-guide/liker-land/superlike.md)
@@ -85,7 +85,7 @@ description: LikeCoin 常見問題
 * [「化讚為賞」的去中心讚賞如何運作？錢從何來？](user-guide/liker-land/like.md)
 * [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](user-guide/liker-land/superlike.md)
 * [LikeCoin button 讚賞鍵有甚麼功能？](user-guide/creator/)
-* [在 YouTube 也可以按讚？要怎樣做呢？](user-guide/creator/youtube.md)
+* [在 YouTube 也可以按讚？要怎樣做呢？](cun-dang/archive/creatortools/youtube.md)
 * [如何在自架 WordPress 加入 LikeCoin button？](user-guide/creator/wordpress.md)
 * [我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](user-guide/creator/blogging-platforms/)
 * [如何吸引更多人贊助我？](user-guide/creatortools/creators-pitch.md)
@@ -108,7 +108,7 @@ description: LikeCoin 常見問題
 ### [社群](user-guide/community/)
 
 * [如何聯系 LikeCoin 社群？](user-guide/community/discord.md)
-* [LikeCoin 可以直接作為購買產品之用嗎？](user-guide/community/products-and-services.md)
+* [LikeCoin 可以直接作為購買產品之用嗎？](cun-dang/archive/community/products-and-services.md)
 
 你也可能對以下條目有興趣：
 

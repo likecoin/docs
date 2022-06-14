@@ -25,6 +25,6 @@ description: 如何交易 LikeCoin？
 
 你也可能對以下條目有興趣：
 
-{% content-ref url="../../user-guide/community/products-and-services.md" %}
-[products-and-services.md](../../user-guide/community/products-and-services.md)
+{% content-ref url="../../cun-dang/archive/community/products-and-services.md" %}
+[products-and-services.md](../../cun-dang/archive/community/products-and-services.md)
 {% endcontent-ref %}

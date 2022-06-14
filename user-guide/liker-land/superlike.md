@@ -25,7 +25,7 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 ## 使用方法
 
 * 在讚賞鍵點 5 次，讚賞鍵的圖案會從拍掌圖案轉變成星形圖案，這時再點第 6 次，便使用了 Super Like。
-* 被 Super Like 了的文章會顯示在 Liker Land 上。你的追蹤者能在「[我的 Content Jockey](today-headline.md#my-content-jockey)」列表中看到，而所有人也能在「[所有 Content Jockey](today-headline.md#the-world-has-super-liked)」頁面看到。
+* 被 Super Like 了的文章會顯示在 Liker Land 上。你的追蹤者能在「[我的 Content Jockey](../../cun-dang/archive/liker-land/today-headline.md#my-content-jockey)」列表中看到，而所有人也能在「[所有 Content Jockey](../../cun-dang/archive/liker-land/today-headline.md#the-world-has-super-liked)」頁面看到。
 
 ![](../../.gitbook/assets/superlike.gif)
 
@@ -33,7 +33,7 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 * 右下方的廣播圖示亮著代表這篇文章已被分享到 Liker Land 上。
 * Super Like 的機會次數不會累積，若重置前沒有用掉，重置後也仍然只有一次機會，因此每天最多只能使用 Super Like 兩次。
 * 可重複給同一篇文章 Super Like。
-* 創作者點擊自己的文章的讚賞鍵可 Super Like 並將作品放置於[個人主頁的作品集](../creatortools/portfolio-page.md#zuo-pin)及「[所有 Content Jockey](today-headline.md#the-world-has-super-liked)」頁面。
+* 創作者點擊自己的文章的讚賞鍵可 Super Like 並將作品放置於[個人主頁的作品集](../creatortools/portfolio-page.md#zuo-pin)及「[所有 Content Jockey](../../cun-dang/archive/liker-land/today-headline.md#the-world-has-super-liked)」頁面。
 
 {% hint style="info" %}
 讚賞公民為自己的作品 Super Like 並不會獲得分配創作基金
