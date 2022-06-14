@@ -104,9 +104,9 @@ description: Frequently Asked Questions
 * [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](user-guide/liker-id/register/reset-password.md)
 * [What is Authcore?](user-guide/liker-id/register/what-is-authcore.md)
 
-## [Community](user-guide/community/)
+## [Community](general-guides/community/)
 
-* [How to mingle with the LikeCoin community?](user-guide/community/discord.md)
+* [How to mingle with the LikeCoin community?](general-guides/community/discord.md)
 * [Can I buy products or services with LikeCoin?](archive/archive/community/products-and-services.md)
 
 You may also want to check out:
