@@ -54,7 +54,7 @@ LikeCoin DAO 持份者一起決策和執行如公共財政、公益建設、政�
 * [**Twitter**](https://twitter.com/likecoin)：項目消息
 * ****[**Telegram**](https://t.me/likecoin\_dao)：一般討論
 * ****[**GitHub**](https://github.com/likecoin)：開放代碼
-* **Fa**
+* **Facebook：**[粉專](https://www.facebook.com/Liker.Land)（一般公告），[群組](https://www.facebook.com/groups/likecoin)（創作者）
 * [**Reddit**](https://www.reddit.com/r/LikeCoin/)
 
 ## 聯繫我們 <a href="#contact-us" id="contact-us"></a>
