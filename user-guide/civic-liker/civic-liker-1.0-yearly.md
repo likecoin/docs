@@ -4,6 +4,10 @@ description: 年費計劃只適用於購買 Civic Liker Classic 會籍
 
 # 以年費訂閱讚賞公民
 
+{% hint style="danger" %}
+2022/06/14 存檔。資訊已過期，請參看新條目 [讚賞公民](./)
+{% endhint %}
+
 {% hint style="warning" %}
 留意訂閱 Civic Liker Classic 年費計劃並不能同時以月費訂閱 Civic Liker 2.0。但你可以同時訂閱 Civic Liker Classic 和 2.0 月費計劃。&#x20;
 {% endhint %}

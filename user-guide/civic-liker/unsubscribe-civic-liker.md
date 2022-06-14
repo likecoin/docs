@@ -4,6 +4,10 @@ description: 跟隨幾個簡單步驟即可
 
 # 如何退訂「讚賞公民」
 
+{% hint style="danger" %}
+2022/06/14 存檔。資訊已過期，請參看新條目 [讚賞公民](./)
+{% endhint %}
+
 請跟隨以下簡單步驟：
 
 ## Civic Liker
@@ -45,4 +49,3 @@ description: 跟隨幾個簡單步驟即可
 {% hint style="warning" %}
 請留意，成功取消訂閱後，已付的金額不會退還，訂閱將於下一個帳單結算日之結算時間自動終止。
 {% endhint %}
-

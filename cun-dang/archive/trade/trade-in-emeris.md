@@ -4,6 +4,10 @@ description: 跨鏈 DEX 聚合器，無需註冊，立即交易
 
 # 在 Emeris 交易
 
+{% hint style="danger" %}
+2022/06/14 存檔。資訊已過期，請參看條目 [交易](../../../guides/trade/)
+{% endhint %}
+
 2021年11月23日開始你可在 Emeris Cross-Chain DEX aggregator 跨鏈 DEX 聚合器，以 LikeCoin 交易多種貨幣。過程無需註冊、不設入金出金門檻、用戶只需一個電子錢包即可操作，全程去中心化。
 
 使用 Emeris，需使用 Keplr 錢包登入。若你慣用 Liker Land 錢包儲存 LikeCoin，可以把 LikeCoin 轉帳到 Keplr 管理的地址，再登入 Emeris。

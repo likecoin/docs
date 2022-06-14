@@ -4,6 +4,10 @@ description: 如何在 Emeris 提供流動性
 
 # Emeris
 
+{% hint style="danger" %}
+2022/06/14 存檔。資訊已過期，請參看條目 [流動性](../../../guides/liquidity-mining/)
+{% endhint %}
+
 現時 LikeCoin 在 Emeris 有一個 ATOM-LIKE 流動性池，提供流動性 ( Liquidity Providing ) 就能獲得互換交易費 ( Swap Fee ) 。
 
 注意提供流動性有機會讓用戶遭遇無常損失 ( Impermanent Loss )，請自行評估相關風險。

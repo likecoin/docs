@@ -4,6 +4,10 @@ description: LikeCoin 最近有些甚麼動向？
 
 # 進度更新
 
+{% hint style="danger" %}
+2022/06/14 存檔。最新內容請到 [blog.like.co](https://blog.like.co/) 參看。
+{% endhint %}
+
 ![](../../.gitbook/assets/likecoin\_ad69\_stat\_sept\_artwork1-06.png)
 
 ## 進度報告

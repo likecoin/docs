@@ -4,6 +4,10 @@ description: 贊助創作者方法非常簡單
 
 # 如何訂閱讚賞公民
 
+{% hint style="danger" %}
+2022/06/14 存檔。資訊已過期，請參看新條目 [如何成為讚賞公民](<be-a-civic-liker (1).md>)
+{% endhint %}
+
 成為讚賞公民前請先 [註冊 Liker ID](../liker-id/)。
 
 ## 訂閱心儀創作者
