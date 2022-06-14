@@ -34,8 +34,8 @@ LikeCoin DAO 持份者一起決策和執行如公共財政、公益建設、政�
 [faq.md](faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="cun-dang/archive/liker-land/list-of-media.md" %}
-[list-of-media.md](cun-dang/archive/liker-land/list-of-media.md)
+{% content-ref url="user-guide/liker-land/list-of-media.md" %}
+[list-of-media.md](user-guide/liker-land/list-of-media.md)
 {% endcontent-ref %}
 
 ## 關注 LikeCoin <a href="#learn-more" id="learn-more"></a>

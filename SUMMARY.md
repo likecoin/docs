@@ -7,9 +7,8 @@
 
 ## 📙 指南 <a href="#guides" id="guides"></a>
 
-* [LikeCoin 項目概覽](guides/about/README.md)
-  * [傳媒報導](guides/about/on-the-news.md)
-  * [品牌素材下載](guides/about/presskit.md)
+* [社群](guides/community/README.md)
+  * [LikeCoin Discord](guides/community/discord.md)
 * [去中心出版](guides/decentralized-publishing/README.md)
   * [什麼是 ISCN?](guides/decentralized-publishing/what-is-iscn.md)
   * [ISCN 和 IPFS 的關係是什麼？](guides/decentralized-publishing/iscn-ipfs-relationship.md)
@@ -59,6 +58,9 @@
   * [驗證人](guides/governance/what-is-a-validator/README.md)
     * [社群委託](guides/governance/what-is-a-validator/community-delegation.md)
   * [歷史議案](guides/governance/proposals.md)
+* [LikeCoin 項目概覽](guides/about/README.md)
+  * [傳媒報導](guides/about/on-the-news.md)
+  * [品牌素材下載](guides/about/presskit.md)
 
 ## 💻 去中心應用 <a href="#user-guide" id="user-guide"></a>
 
@@ -111,8 +113,6 @@
     * [奬勵發放時間](user-guide/creatortools/rewards/reward-release-time.md)
     * [未能收到獎勵？](user-guide/creatortools/rewards/cannot-get-reward.md)
   * [每月創作進度](user-guide/creatortools/monthly-report.md)
-* [社群](user-guide/community/README.md)
-  * [LikeCoin Discord](user-guide/community/discord.md)
 * [詞彙表](user-guide/background.md)
 
 ## 🔬  開發者資源 <a href="#developer-resources" id="developer-resources"></a>
@@ -130,16 +130,16 @@
     * [以年費訂閱讚賞公民](user-guide/civic-liker/civic-liker-1.0-yearly.md)
     * [讚賞公民常見問題](user-guide/civic-liker/civic-liker-faq.md)
   * [Liker Land](cun-dang/archive/liker-land/README.md)
-    * [我的 Content Jockey](cun-dang/archive/liker-land/today-headline.md)
-    * [即時數據](cun-dang/archive/liker-land/real-time-statistic.md)
-    * [支援網站列表](cun-dang/archive/liker-land/list-of-media.md)
+    * [我的 Content Jockey](user-guide/liker-land/today-headline.md)
+    * [即時數據](user-guide/liker-land/real-time-statistic.md)
+    * [支援網站列表](user-guide/liker-land/list-of-media.md)
   * [創作者工具](cun-dang/archive/creatortools/README.md)
-    * [Youtube](cun-dang/archive/creatortools/youtube.md)
+    * [Youtube](user-guide/creator/youtube.md)
     * [贊助鏈結](cun-dang/archive/creatortools/sponsor-link.md)
     * [查看讚賞公民支持者清單](cun-dang/archive/creatortools/support.md)
   * [社群](cun-dang/archive/community/README.md)
-    * [購買產品與服務](cun-dang/archive/community/products-and-services.md)
-    * [讚賞車車](cun-dang/archive/community/likecoin\_leafwind\_bot.md)
+    * [購買產品與服務](user-guide/community/products-and-services.md)
+    * [讚賞車車](user-guide/community/likecoin\_leafwind\_bot.md)
   * [交易](cun-dang/archive/trade/README.md)
     * [在 Emeris 交易](cun-dang/archive/trade/trade-in-emeris.md)
   * [流動性](cun-dang/archive/liquidity/README.md)

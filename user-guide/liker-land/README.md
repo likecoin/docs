@@ -16,7 +16,7 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 
 ### **內容伯樂**
 
-獨立媒體、Matters 等為你挑選[每日頭條](../../cun-dang/archive/liker-land/today-headline.md)。
+獨立媒體、Matters 等為你挑選[每日頭條](today-headline.md)。
 
 人工智能固然能幫助我們節省時間，提升效率，但用在新聞篩選，卻是問題多多。以 Facebook 為例，雖然用上先進的 AI，但算法選出的是最能引起你興趣和情緒的內容，卻不見得是重要的資訊。況且，內容列表雖然無限長，但雜訊極多，而且毫不透明，用戶無從確認能看到追蹤的訊息源，對自己錯過了甚麼，一無所知。
 
@@ -24,7 +24,7 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 
 ### **多元選擇**
 
-另有 1,600 個網站、19,000 作者的 60 多萬篇文章（最新數據請查看 [Liker Land即時數據](../../cun-dang/archive/liker-land/real-time-statistic.md)）。
+另有 1,600 個網站、19,000 作者的 60 多萬篇文章（最新數據請查看 [Liker Land即時數據](real-time-statistic.md)）。
 
 ### **深度閱讀**
 
@@ -52,5 +52,5 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 
 ### 去中心策展
 
-* [Liker Land](../../cun-dang/archive/liker-land/today-headline.md)：「不是瀏覽，而是閱讀。」針對深度閱讀開發的手機應用，為讀者提供清淨閱讀環境。
+* [Liker Land](today-headline.md)：「不是瀏覽，而是閱讀。」針對深度閱讀開發的手機應用，為讀者提供清淨閱讀環境。
 * 部分讀者化身[內容伯樂 ( Content Jockey )](superlike.md)，透過 Super Like，推薦內容成為 Liker Land 的頭條
