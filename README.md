@@ -56,8 +56,8 @@ Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
 [faq.md](faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="user-guide/liker-land/list-of-media.md" %}
-[list-of-media.md](user-guide/liker-land/list-of-media.md)
+{% content-ref url="archive/archive/liker-land/list-of-media.md" %}
+[list-of-media.md](archive/archive/liker-land/list-of-media.md)
 {% endcontent-ref %}
 
 ## More about LikeCoin

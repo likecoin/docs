@@ -16,7 +16,7 @@ description: Where to download Liker Land?
 
 ## Liker Land web - https://Liker.Land <a href="#liker-land-web" id="liker-land-web"></a>
 
-Although Liker Land mobile app provides the functions that best suit your needs, [Liker Land web](https://liker.land/) also brings the same convenience for [discovering, following](today-headline.md) and [bookmarking content to Readling List](readling-list.md).
+Although Liker Land mobile app provides the functions that best suit your needs, [Liker Land web](https://liker.land/) also brings the same convenience for [discovering, following](../../archive/archive/liker-land/today-headline.md) and [bookmarking content to Readling List](readling-list.md).
 
 Click on the menu at the top right hand corner, there are other options.
 

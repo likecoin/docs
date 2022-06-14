@@ -16,7 +16,7 @@ Liker Land is the user interface of LikeCoin, with function collaboration on rea
 
 ### **Content Jockey**
 
-InMedia and Matters help you to select [Today's headlines](today-headline.md).
+InMedia and Matters help you to select [Today's headlines](../../archive/archive/liker-land/today-headline.md).
 
 Artificial Intelligence helps on time saving and efficiency, but it doesn't work on news selection. Take Facebook as an example, although it's algorithms predict what arouses your emotions and interests you most, the intels are not important at all. Your newsfeed is long but the content may not be relevant to you, the information is lack of transparency and cannot be traced. Users really don't know that they have missed.
 
@@ -24,7 +24,7 @@ Pinpointing the problem of AI selection, Liker Land adopts "Zero AI curation str
 
 ### **A wide range of selection**
 
-There are also 1,600 websites, six hundreds thousand articles by 19,000 content creators (Check out the latest [Real Time statistics](real-time-statistics.md)).
+There are also 1,600 websites, six hundreds thousand articles by 19,000 content creators (Check out the latest [Real Time statistics](../../archive/archive/liker-land/real-time-statistics.md)).
 
 ### Deep Reading
 
@@ -52,5 +52,5 @@ As a Decentralized Publishing Infrastructure, LikeCoin provides Decentralized Re
 
 ### Decentralized Editorial&#xD;
 
-* [Liker Land](today-headline.md): "Not Browsing, But Reading", our mobile app designed to be scarce to cut out noise from signals.
+* [Liker Land](../../archive/archive/liker-land/today-headline.md): "Not Browsing, But Reading", our mobile app designed to be scarce to cut out noise from signals.
 * Apart from rewarding creators as a Liker, readers may go further to become a [Content Jockey](superlike.md), help distribute creative stories and insightful commentaries with Super Likes.

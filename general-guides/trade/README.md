@@ -25,8 +25,8 @@ Deposit LikeCoin to crypto exchange requires the use of a [wallet](../wallet/) s
 
 You may also want to check out:
 
-{% content-ref url="../../user-guide/community/products-and-services.md" %}
-[products-and-services.md](../../user-guide/community/products-and-services.md)
+{% content-ref url="../../archive/archive/community/products-and-services.md" %}
+[products-and-services.md](../../archive/archive/community/products-and-services.md)
 {% endcontent-ref %}
 
 

@@ -25,7 +25,7 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 ## Usage <a href="#zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
 * Clicking the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When clicking on the 6th time, the article is being "Super Liked".
-* The "Super Liked" article will be on Liker Land. Your followers can see it on "[My Content Jockey](today-headline.md#my-content-jockey)"  and everyone can see it on "[The world has Super Liked](today-headline.md#the-world-has-super-liked)".
+* The "Super Liked" article will be on Liker Land. Your followers can see it on "[My Content Jockey](../../archive/archive/liker-land/today-headline.md#my-content-jockey)"  and everyone can see it on "[The world has Super Liked](../../archive/archive/liker-land/today-headline.md#the-world-has-super-liked)".
 
 ![](../../.gitbook/assets/superlike.gif)
 
@@ -33,7 +33,7 @@ Super Like redefines the definition of "Share", Share = Rewards. Not only creato
 * The RSS icon on the lower right hand corner turned on and the article is being shared to Liker Land.
 * Super Like cannot be accumulated, if it is not being used before the time to reset, it will be obsolete. You can only Super Like twice a day.
 * You can Super Like a single article for more than one time.
-* Content creators click on the LikeCoin button of their own article can Super Like and put their article to the ["Works" section in Portfolio Page](../creatortools/portfolio-page.md#works)  and "[The world has Super Liked](today-headline.md#the-world-has-super-liked)".
+* Content creators click on the LikeCoin button of their own article can Super Like and put their article to the ["Works" section in Portfolio Page](../creatortools/portfolio-page.md#works)  and "[The world has Super Liked](../../archive/archive/liker-land/today-headline.md#the-world-has-super-liked)".
 
 {% hint style="info" %}
 Civic Liker Super Like his/her own work will not earn any LikeCoin from creators fund\

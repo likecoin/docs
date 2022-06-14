@@ -4,13 +4,18 @@ description: Which websites are empowered by LikeCoin? How to apply?
 
 # List of Media
 
-![](../../.gitbook/assets/media-list.png)
+{% hint style="danger" %}
+Archived on 2022/06/14. Information is out of date.
+{% endhint %}
+
+![](../../../.gitbook/assets/media-list.png)
 
 ## No Prerequisites
 
 Anyone can use and enjoy the benefits of LikeCoin without prerequisites.
 
-## List of Media ( Update from time to time&#xD; )
+List of Media ( Update from time to time&#x20;)
+-------
 
 [\[Life is a journey. - 紀錄與分享生活點滴\]](https://aruyooo.com)\
 [\[夜蝴蝶館 - 只有故事和故事相關的事\]](http://seba.tw)\
@@ -291,7 +296,7 @@ GordonWei's Blog\
 [\[The Sociologist\]](https://sociologist.xyz)\
 [\[Irene世界出走日記\]](https://irenelintravel.com)\
 [\[Joyy李志強 | 網路行銷、網站架設、聯盟行銷、網路賺錢、線上教學服務\]](https://joyymkt.com)\
-[\[求子之健康好生活/YA_MAO FAMILY\]](https://yamaoinc.com)\
+[\[求子之健康好生活/YA\_MAO FAMILY\]](https://yamaoinc.com)\
 [\[二手 Apple 交易買賣 | 蘋果商品免費刊登平台推薦 - Apple543 找買賣\]](https://deal.apple543.com)\
 [\[Twitch遊戲實況．IRL戶外實況．直播教學 - 一人遊戲直播局 Hitori GameStreaming\]](https://hitorigs.live)\
 [\[許幼如的職場學習路 - 相信學習成長，會讓內心自由\]](https://www.yojuhsu.com)\
