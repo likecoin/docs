@@ -64,10 +64,10 @@ Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
 
 ## More about LikeCoin
 
-* **Website**: [Like.co](https://like.co) (for all stakeholders; in English), [Liker.Land](https://liker.land) (for readers and Content Jockey), [ISCN App](https://app.like.co/) (ISCN Registry), [iscn.io](https://iscn.io/) (ISCN Specifications)
-* ****[**Discord**](http://discord.gg/likecoin): development, governance discussion
+* **Website**: [Like.co](https://like.co) (for all stakeholders; in English), [Liker.Land](https://liker.land) (for readers and creators), [ISCN App](https://app.like.co/) (ISCN Registry), [iscn.io](https://iscn.io/) (ISCN Specifications)
+* ****[**Discord**](http://discord.gg/likecoin): Our community is here, talking about development and governance discussion
 * ****[**Twitter**](https://twitter.com/likecoin): **** announcements
-* [**Publication**](https://blog.like.co): progress update, governance, products
+* ****[**Publication**](httsps://blog.like.co): progress update, governance, products
 * ****[**Telegram**](https://t.me/likecoin\_dao): announcements
 * [**GitHub**](https://github.com/likecoin): **** source codes
 * ****[**Matters**](https://matters.news/tags/VGFnOjgwOTQ) [**#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) **** : **** governance, progress update, products; in Chinese
