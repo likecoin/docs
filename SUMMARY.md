@@ -1,7 +1,7 @@
 # Table of contents
 
-* [LikeCoin Progress Update](README.md)
-* [Decentralize Publishing](<README (1).md>)
+* [Decentralize Publishing](README.md)
+* [LikeCoin Progress Update](<README (1).md>)
 * [LikeCoin Airdrop](airdrop/README.md)
   * [Login by Liker ID](airdrop/login-by-liker-id.md)
 * [LikeCoin FAQ](faq.md)
@@ -140,7 +140,7 @@
   * [Readling List](user-guide/liker-land/readling-list.md)
   * [Like - Reinventing the Like](user-guide/liker-land/like.md)
   * [Super Like - be a Content Jockey](user-guide/liker-land/superlike.md)
-* [depub.space](user-guide/depub.space.md)
+* [depub.space](general-guides/decentralized-publishing/depub.space.md)
 * [Civic Liker](user-guide/civic-liker/README.md)
   * [How to be a Civic Liker](user-guide/civic-liker/be-a-civic-liker.md)
   * [Civic Liker Dashboard](user-guide/civic-liker/dashboard.md)

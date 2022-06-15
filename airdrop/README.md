@@ -9,7 +9,7 @@ If you would like to know if you are eligible for the airdrop or not, please [re
 There are 4 tasks required to claim the LikeCoin Airdrop, including:
 
 * \#1 [Manage LikeCoin](../general-guides/wallet/)
-* \#2 [Decentralize Tweeting](../user-guide/depub.space.md)
+* \#2 [Decentralize Tweeting](../general-guides/decentralized-publishing/depub.space.md)
 * \#3 [Stake LikeCoin](../general-guides/stake/delegation-of-likecoin.md)
 * \#4 [Vote on LikeCoin DAO](../general-guides/governance/direct-vote.md)
 
@@ -89,8 +89,8 @@ Native on chain, privacy by default. Visit [https://depub.space/](https://depub.
 
 Click "Tweet now" to tweet at [depub.space](https://depub.space/), and click "Done" to claim a 25% airdrop when finished. For tutorial about depub.space:
 
-{% content-ref url="../user-guide/depub.space.md" %}
-[depub.space.md](../user-guide/depub.space.md)
+{% content-ref url="../general-guides/decentralized-publishing/depub.space.md" %}
+[depub.space.md](../general-guides/decentralized-publishing/depub.space.md)
 {% endcontent-ref %}
 
 ## #3 Stake LikeCoin
