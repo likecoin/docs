@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Progress Update](README.md)
+* [LikeCoin Progress Update](README.md)
 * [Decentralize Publishing](<README (1).md>)
 * [LikeCoin Airdrop](airdrop/README.md)
   * [Login by Liker ID](airdrop/login-by-liker-id.md)
-* [FAQ](faq.md)
+* [LikeCoin FAQ](faq.md)
 
 ## 🔬 Developer Guide <a href="#developer" id="developer"></a>
 
@@ -72,9 +72,9 @@
 ## 📙 General Guides
 
 * [Community](general-guides/community/README.md)
+  * [#Community Call](general-guides/community/community-call.md)
   * [#translate-wallet-prefix](general-guides/community/translate-wallet-prefix.md)
   * [#faucet-testnet](general-guides/community/faucet-testnet.md)
-  * [#Community Call](general-guides/community/community-call.md)
 * [Decentralized Publishing](general-guides/decentralized-publishing/README.md)
   * [What is ISCN](general-guides/decentralized-publishing/what-is-iscn.md)
   * [What is the relationship between ISCN and IPFS?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
