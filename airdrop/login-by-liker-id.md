@@ -20,7 +20,7 @@ On [Liker Land app](https://liker.land/getapp) settings, click "Experimental Fea
 
 ![](<../.gitbook/assets/Airdrop 02.5 Liker Land-en.png>)
 
-![](<../.gitbook/assets/depub.SPACE 04-en.png>)
+![](<../.gitbook/assets/depub.SPACE 4-en.png>)
 
 The ISCN App window will pop up, click "Appove".
 
