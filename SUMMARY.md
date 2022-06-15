@@ -8,9 +8,9 @@
 ## 📙 指南 <a href="#guides" id="guides"></a>
 
 * [社群](guides/community/README.md)
+  * [#Community Call](guides/community/community-call.md)
   * [#translate-wallet-prefix](guides/community/translate-wallet-prefix.md)
   * [#faucet-test](guides/community/faucet-test.md)
-  * [#Community Call](guides/community/community-call.md)
 * [去中心出版](guides/decentralized-publishing/README.md)
   * [什麼是 ISCN?](guides/decentralized-publishing/what-is-iscn.md)
   * [ISCN 和 IPFS 的關係是什麼？](guides/decentralized-publishing/iscn-ipfs-relationship.md)
