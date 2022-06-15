@@ -2,7 +2,7 @@
 description: Frequently Asked Questions
 ---
 
-# FAQ
+# LikeCoin FAQ
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGKCas6shf9dDCwB3j%2F-MHGMnmjM4yyGSTVqz7T%2FLikeCoin\_AD27\_Small\_Update-01.png?alt=media\&token=a3cb3c10-3742-4ef9-b99a-3e05e2f82a11)
 
@@ -19,7 +19,7 @@ description: Frequently Asked Questions
 * [What type of content is supported by ISCN?](general-guides/decentralized-publishing/content-type.md)
 * [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co.md)
 * [Can I register for ISCN in a batch?](general-guides/decentralized-publishing/iscn-batch-uploader.md)
-* [What is depub.space?](general-guides/decentralized-publishing/depub.space.md)
+* [What is depub.space?](user-guide/depub.space.md)
 
 [LikeCoin Overview](general-guides/about/) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 -----------------------------------------------------------------------------------------------------------------------------
