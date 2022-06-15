@@ -70,7 +70,7 @@
   * [閱讀列表](user-guide/liker-land/reading-list.md)
   * [Like — 化讚為賞](user-guide/liker-land/like.md)
   * [Super Like — 內容伯樂](user-guide/liker-land/superlike.md)
-* [depub.space](user-guide/depub.space.md)
+* [depub.space](guides/decentralized-publishing/depub.space.md)
 * [讚賞公民](user-guide/civic-liker/README.md)
   * [如何成為讚賞公民](<user-guide/civic-liker/be-a-civic-liker (1).md>)
   * [讚賞公民 Dashboard](user-guide/civic-liker/dashboard.md)
