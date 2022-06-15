@@ -6,7 +6,7 @@ description: Web3 去中心化 Twitter
 
 [depub.space](https://depub.space/) 是 Web3 去中心化 Twitter，只需要付出少量 LikeCoin 就可直接將文字及圖片 “DePub”（去中心出版）至 IPFS 及區塊鏈，非常方便。用戶可以使用 [Keplr](../wallet/keplr.md) 錢包或以 [Liker Land app](../../user-guide/liker-land/download.md) 經 Wallet Connect 接駁 depub.space 發文。
 
-## 使用 Keplr
+## Keplr 登入
 
 ### 步驟一
 
@@ -46,7 +46,7 @@ description: Web3 去中心化 Twitter
 
 ![](<../../.gitbook/assets/depub.space 7.png>)
 
-## 使用 Liker Land 手機應用程式
+## Liker Land 手機應用程式登入
 
 ### 步驟一
 
@@ -100,4 +100,4 @@ description: Web3 去中心化 Twitter
 
 到 [app.like.co](https://app.like.co/) 點「Your Publishing」即可查看以往發文記錄。
 
-![](broken-reference)
+![](<../../.gitbook/assets/depub.space wc 10.png>)
