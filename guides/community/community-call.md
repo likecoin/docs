@@ -1,7 +1,3 @@
----
-description: 如何參與每月社群治理會議
----
-
 # #Community Call
 
 每月的[社群治理會議](../governance/community-call.md)於 #Community Call 頻道公開舉行，任何人都歡迎參與。
