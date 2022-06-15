@@ -6,9 +6,9 @@ description: Frequently Asked Questions
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGKCas6shf9dDCwB3j%2F-MHGMnmjM4yyGSTVqz7T%2FLikeCoin\_AD27\_Small\_Update-01.png?alt=media\&token=a3cb3c10-3742-4ef9-b99a-3e05e2f82a11)
 
-## [​LikeCoin - Decentralized Publishing](./) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+## [​LikeCoin - Decentralized Publishing](<README (1).md>) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
-* [What is Decentralized Publishing #DePub?](./)
+* [What is Decentralized Publishing #DePub?](<README (1).md>)
 * [What is ISCN?](developer/iscn/)
 * [What is the relationship between ISCN and IPFS?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [Why the decentralization nature of ISCN is good to content ecosystem?](general-guides/decentralized-publishing/benefits.md)
@@ -24,13 +24,13 @@ description: Frequently Asked Questions
 [LikeCoin Overview](general-guides/about/) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 -----------------------------------------------------------------------------------------------------------------------------
 
-* ​[What is LikeCoin?](./)
+* ​[What is LikeCoin?](<README (1).md>)
 * [What is the usage of LikeCoin token?](archive/archive/likecoin-token.md)
 * [Where to find the latest updates about LikeCoin?](https://blog.like.co/category/progress-update/)
 * [What does the media say about LikeCoin?](general-guides/about/on-the-news/)
 * [Does LikeCoin provide branding and design materials for download?](general-guides/about/presskit.md)
-* ​[Seems interesting, how to follow updates on LikeCoin?](./#more-about-likecoin)
-* [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](./#contact-us)[​](https://docs.like.co/user-guide/about#contact-us)
+* ​[Seems interesting, how to follow updates on LikeCoin?](<README (1).md#more-about-likecoin>)
+* [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](<README (1).md#contact-us>)[​](https://docs.like.co/user-guide/about#contact-us)
 
 ## [Wallet](general-guides/wallet/) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
