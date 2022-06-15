@@ -47,7 +47,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 點二維碼圖示調用鏡頭並進行掃瞄。
 
-![](<.gitbook/assets/depub.SPACE wc 4.png>)
+![](<.gitbook/assets/depub.SPACE 04.png>)
 
 彈出 ISCN App 視窗，點「允許」。
 

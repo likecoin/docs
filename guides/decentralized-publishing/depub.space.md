@@ -64,7 +64,7 @@ description: Web3 去中心化 Twitter
 
 在 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄步驟二的二維碼。
 
-![](<../../.gitbook/assets/depub.SPACE wc 4.png>)
+![](<../../.gitbook/assets/depub.SPACE 04.png>)
 
 或於設定點「WalletConnect」再點「New connection」。並掃瞄步驟二的二維碼。
 
@@ -100,4 +100,4 @@ description: Web3 去中心化 Twitter
 
 到 [app.like.co](https://app.like.co/) 點「Your Publishing」即可查看以往發文記錄。
 
-![](<../../.gitbook/assets/depub.SPACE 10.png>)
+![](broken-reference)
