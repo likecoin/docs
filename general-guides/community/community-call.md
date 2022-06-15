@@ -4,9 +4,13 @@ description: How to join the monthly meeting
 
 # #Community Call
 
-The monthly public community call are held openly on the #Community Call channel, everyone is welcomed to join.
+The [monthly public community call](../governance/community-call.md) are held openly on the #Community Call channel, everyone is welcomed to join.
 
 For the date and content of the meeting, please refer to:
+
+{% content-ref url="../governance/community-call.md" %}
+[community-call.md](../governance/community-call.md)
+{% endcontent-ref %}
 
 Participating in the community call is simple:
 
