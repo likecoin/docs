@@ -6,23 +6,25 @@ description: 'What is LikeCoin, #DePub, and the LikeCoin DAO'
 
 ![](.gitbook/assets/image.png)
 
-### About LikeCoin
+### What is LikeCoin?
 
-LikeCoin decentralizes publishing by allowing everyone to publish their content as NFTs with a suite of open tools.
+LikeCoin decentralises publishing by NFT.
+
+### Content Ownership
+
+Own your content by publishing NFT on LikeCoin chain.
 
 ### Decentralize Publishing
 
-LikeCoin envisions a future where digital content is transformed from “Web-native” to “NFT native” format. All content will be natively created on the blockchain via decentralized publishing and stored in two layers:
+Mint and sell your work's NFT. Selling Writing NFT in marketplace is just like selling books in bookstore.
 
-First, is the property right layer — the metadata registry ISCN (international standard content number) records the relationships between the content and creator.
+### Writing NFT
 
-Second, is the NFT layer — the proof of ownership and the mechanism of transfer between purchasers and creators.
+NFT can be an email, an image, an identity or a book.  LikeCoin NFT is designed especially for  text-based content creation.
 
-### Mission
+Similar to the workflow of traditional publishing, i.e., securing content authorship -> printing the content in books -> selling in bookstore, creators can now register the content on LikeCoin chain -> mint an NFT of it -> sell it in NFT marketplaces. Compared with the constraints in physical publishing, publishing content and exchanging value in metaverse can be more flexible and everlasting.
 
-LikeCoin’s mission is to democratize publishing services to ensure that everyone has access to affordable, transparent, and efficient publishing services. By writing content immutably to the blockchain, we believe that our censorship-resistant publishing infrastructure is a key to improving the marketplace for content and maintaining freedom of speech.
-
-We believe great software should be easy to use. Creators can focus on what they are good at — creating quality content. All LikeCoin tools such as widgets, WordPress plugin, and APIs are designed to help creators get started easily but also offer powerful features for creators to grow and succeed. Plus, all individuals can participate freely in the LikeCoin governance process to have a voice in LikeCoin’s future.
+![](<.gitbook/assets/image (5).png>)
 
 ### LikeCoin DAO
 
