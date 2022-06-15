@@ -6,9 +6,9 @@ description: LikeCoin 常見問題
 
 ![](.gitbook/assets/likecoin\_ad27\_small\_update-01.png)
 
-## [LikeCoin - 去中心出版](<README (1).md>)
+## [LikeCoin - 去中心出版](./)
 
-* [什麼是去中心出版 #DePub？](<README (1).md>)
+* [什麼是去中心出版 #DePub？](./)
 * [ISCN 是甚麼？](guides/decentralized-publishing/what-is-iscn.md)
 * [ISCN 和 IPFS 的關係是甚麼？](guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [ISCN 的分散特性對內容生態有什麼好處？ ](guides/decentralized-publishing/benefits.md)
@@ -23,13 +23,13 @@ description: LikeCoin 常見問題
 
 ## [LikeCoin 項目概覽](guides/about/)
 
-* [LikeCoin 是甚麼？](<README (1).md>)
+* [LikeCoin 是甚麼？](./)
 * [LikeCoin 通證有甚麼用途？](cun-dang/archive/likecoin-token.md)
 * [在那兒可參看最新工作進展？](cun-dang/archive/updates.md)
 * [有媒體報導可以參詳嗎？](guides/about/on-the-news.md)
 * [LikeCoin 有提供品牌形象指引和相關素材下載麼？](guides/about/presskit.md)
-* [項目好像挺有趣的，怎樣聯絡 LikeCoin 和關注最新動向？](<README (1).md#learn-more>)
-* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](<README (1).md#contact-us>)
+* [項目好像挺有趣的，怎樣聯絡 LikeCoin 和關注最新動向？](./#learn-more)
+* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](./#contact-us)
 
 ## [錢包](guides/wallet/)
 

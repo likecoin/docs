@@ -1,7 +1,7 @@
 # Table of contents
 
-* [LikeCoin 進度更新](README.md)
-* [LikeCoin - 去中心出版](<README (1).md>)
+* [LikeCoin - 去中心出版](README.md)
+* [LikeCoin 進度更新](<README (1).md>)
 * [LikeCoin 空投](airdrop.md)
 * [LikeCoin 答客問](faq.md)
 
