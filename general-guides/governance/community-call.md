@@ -9,6 +9,12 @@ description: >-
 
 ### Call Link: [ http://discord.gg/likecoin](http://discord.gg/likecoin)
 
+### How to join:&#x20;
+
+{% content-ref url="../community/community-call.md" %}
+[community-call.md](../community/community-call.md)
+{% endcontent-ref %}
+
 ### Add to your Calendar: [https://bit.ly/3c5DaTH](https://bit.ly/3c5DaTH)
 
 ### Agenda and Notes: [https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)

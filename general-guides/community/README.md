@@ -14,4 +14,5 @@ Moreover users can utilize the following functions on LikeCoin Discord:
 
 * [#translate-wallet-prefix](translate-wallet-prefix.md) - Bilaterally check the old and new LikeCoin wallet address prefix
 * [#faucet-test](faucet-testnet.md) - Get a small amount of LikeCoin for testing on testnet
-* [#Community Call](community-call.md) - Join the monthly community call
+* [#Community Call](community-call.md) - How to join the monthly community call
+
