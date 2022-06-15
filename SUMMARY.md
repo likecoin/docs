@@ -73,6 +73,7 @@
 * [Community](general-guides/community/README.md)
   * [#translate-wallet-prefix](general-guides/community/translate-wallet-prefix.md)
   * [#faucet-testnet](general-guides/community/faucet-testnet.md)
+  * [#Community Call](general-guides/community/community-call.md)
 * [Decentralized Publishing](general-guides/decentralized-publishing/README.md)
   * [What is ISCN](general-guides/decentralized-publishing/what-is-iscn.md)
   * [What is the relationship between ISCN and IPFS?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
