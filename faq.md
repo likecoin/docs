@@ -106,7 +106,7 @@ description: Frequently Asked Questions
 
 ## [Community](general-guides/community/)
 
-* [How to mingle with the LikeCoin community?](general-guides/community/discord.md)
+* [How to mingle with the LikeCoin community?](broken-reference)
 * [Can I buy products or services with LikeCoin?](archive/archive/community/products-and-services.md)
 
 You may also want to check out:
