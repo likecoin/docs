@@ -1,0 +1,91 @@
+---
+description: Web3 去中心化 Twitter
+---
+
+# depub.space
+
+[depub.space](https://depub.space/) 是 Web3 去中心化 Twitter，只需要付出少量 LikeCoin 就可直接將文字及圖片 “DePub”（去中心出版）至 IPFS 及區塊鏈，非常方便。用戶可以使用 [Keplr](../guides/wallet/keplr.md) 錢包或以 [Liker Land app](liker-land/download.md) 經 Wallet Connect 接駁 depub.space 發文。
+
+## 使用 Keplr
+
+### 步驟一
+
+請先登入 [Keplr](../guides/wallet/keplr.md) 錢包，並到 [depub.space](https://depub.space/) 網站左下角點「Connect Wallet」。
+
+![](<../.gitbook/assets/depub.space 1.png>)
+
+### 步驟二
+
+點「Keplr Wallet」後彈出視窗要求連結，點「Approve」。
+
+![](<../.gitbook/assets/depub.space 2.png>) ![](<../.gitbook/assets/depub.space 2-K.png>)
+
+### 步驟三
+
+點空格後彈出文字框並撰寫文字，並可點選「Post on Twitter」連結 Twitter 帳戶進行同步。完成後點「Submit」。
+
+![](<../.gitbook/assets/depub.space 3.png>)
+
+![](<../.gitbook/assets/depub.space 4.png>)
+
+### 步驟四
+
+彈出視窗點「Approve」。
+
+![](<../.gitbook/assets/depub.space 5.png>)
+
+### 步驟五
+
+出現「Your tweet is registered as an NFT.」代表內容經已成功發表，點「OK」。
+
+![](<../.gitbook/assets/depub.space 6.png>)
+
+### 步驟六
+
+出現已發表的推文。
+
+![](<../.gitbook/assets/depub.space 7.png>)
+
+## 使用 Liker Land 手機應用程式
+
+### 步驟一
+
+到 [depub.space](https://depub.space/) 網站左下角點「Connect Wallet」。
+
+![](<../.gitbook/assets/depub.space 1.png>)
+
+### 步驟二
+
+點「WalletConnect」後出現二維碼。
+
+![](<../.gitbook/assets/depub.space 2.png>) ![](<../.gitbook/assets/depub.SPACE wc 3.png>)
+
+### 步驟三
+
+在 [Liker Land 手機應用程式](liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄步驟二的二維碼。
+
+![](<../.gitbook/assets/depub.SPACE 04.png>)
+
+### 步驟四
+
+彈出 depub.space 視窗，點「允許」。
+
+![](<../.gitbook/assets/depub.SPACE 05+6.png>)
+
+### 步驟五
+
+回到 depub.space 撰寫文字，完成後點「Submit」。
+
+![](<../.gitbook/assets/depub.SPACE 07.png>)
+
+### 步驟六
+
+在手機上出現簽名請求，點「允許」，等待一會兒後，即可在 depub.space 成功發文。
+
+![](<../.gitbook/assets/depub.SPACE 08.png>) ![](<../.gitbook/assets/depub.SPACE 09.png>)
+
+## 查看發文記錄
+
+到 [app.like.co](https://app.like.co/) 點「Your Publishing」即可查看以往發文記錄。
+
+![](<../.gitbook/assets/depub.SPACE 10.png>)
