@@ -22,7 +22,7 @@ description: Web3 去中心化 Twitter
 
 ### 步驟三
 
-點空格後彈出文字框並撰寫文字，並可點選「Post on Twitter」連結 Twitter 帳戶進行同步。完成後點「Submit」。
+點空格後彈出文字框並撰寫文字。可點選「Post on Twitter」連結 Twitter 帳戶進行同步。完成後點「Submit」。
 
 ![](<../../.gitbook/assets/depub.space 3.png>)
 
@@ -30,7 +30,7 @@ description: Web3 去中心化 Twitter
 
 ### 步驟四
 
-彈出視窗點「Approve」。
+彈出 Keplr 視窗點「Approve」。
 
 ![](<../../.gitbook/assets/depub.space 5.png>)
 
