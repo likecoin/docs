@@ -26,7 +26,7 @@ description: LikeCoin 水龍頭
 
 ![](<../.gitbook/assets/faucet 5.png>)
 
-測試網水龍頭：
+#### 測試網水龍頭
 
 {% content-ref url="community/faucet-test.md" %}
 [faucet-test.md](community/faucet-test.md)
