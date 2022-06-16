@@ -25,3 +25,9 @@ Need to verify whether it is a robot.
 2.5 LIKE have been transferred to your wallet. Click "Check tx" to view the record.
 
 ![](<../.gitbook/assets/faucet 5.png>)
+
+#### Testnet Faucet
+
+{% content-ref url="community/faucet-testnet.md" %}
+[faucet-testnet.md](community/faucet-testnet.md)
+{% endcontent-ref %}
