@@ -6,7 +6,7 @@ description: 第一個 ISCN 的概念示範應用
 
 用戶可經 [app.like.co](https://app.like.co/) 為每個內容註冊 ISCN，系統將基於 ISCN ID 隨機生成一幅獨一無異的美術圖卡。就算兩筆 ISCN 記錄只差之毫釐，ISCN 圖卡的圖案也會完全不同！
 
-註冊 ISCN 到 LikeCoin chain 的同時，系統也會把內容上傳到 [IPFS](https://ipfs.io/) + [Arweave](https://www.arweave.org/) 及/或 [Numbers](https://www.numbersprotocol.io/)。用戶只需付出少量 LikeCoin 以支付註冊及寄存的費用。
+註冊 ISCN 到 LikeCoin chain 的同時，系統也會把內容上傳到 [IPFS](https://ipfs.io/) + [Arweave](https://www.arweave.org/) 及/或 [Numbers Protocol](https://www.numbersprotocol.io/)。用戶只需付出少量 LikeCoin 以支付註冊及寄存的費用。
 
 用戶也可在 app.like.co 查看每一筆 ISCN 記錄的詳細內容。
 
@@ -20,7 +20,7 @@ description: 第一個 ISCN 的概念示範應用
 
 ![](<../../.gitbook/assets/ISCN 1.png>)
 
-可使用 [Keplr 錢包](../wallet/keplr.md) 或 [Liker ID ](../../user-guide/liker-id/register/)註冊 ISCN。
+可使用 [Keplr 錢包](../wallet/keplr.md) 或 [Liker Land app 配合 Liker ID](../../user-guide/liker-id/register/) 註冊 ISCN。
 
 ![](<../../.gitbook/assets/ISCN 1 Login 1.png>)
 
