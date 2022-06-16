@@ -16,11 +16,33 @@ Users can also check an ISCN record and it's details in [app.like.co](https://ap
 
 ### Step 1: Login app.like.co
 
-Please [register a Keplr wallet](../../user-guide/liker-id/register-with-keplr.md) before registering an ISCN.
-
-Visit [**app.like.co**](https://app.like.co) with the browser that have Keplr extension installed. Click **\[Connect Wallet]** on the top right corner to login by wallet.&#x20;
+Visit [**app.like.co**](https://app.like.co) with the browser and click **\[Connect Wallet]** on the top right corner to login by wallet.&#x20;
 
 ![](<../../.gitbook/assets/ISCN 1.png>)
+
+Please [register a Keplr wallet](../../user-guide/liker-id/register-with-keplr.md) before registering an ISCN or using [Liker ID with Liker Land app](../../user-guide/liker-id/register/).
+
+![](<../../.gitbook/assets/ISCN 1 Login 1.png>)
+
+Keplr Wallet: Please log in to Keplr in your browser. On the first time you log in app.like.co, you will be asked to "Approve" on Keplr.
+
+![](<../../.gitbook/assets/ISCN 1 Login 2.png>)
+
+**Liker ID**: A QRCode will appear after clicking "Liker ID".
+
+![](<../../.gitbook/assets/ISCN 1 Login 3.png>)
+
+On the Liker Land app, click the QRCode icon to bring up the camera, and scan the QRCode.
+
+![](<../../.gitbook/assets/depub.SPACE 4-en.png>)
+
+Or click "WalletConnect" on settings, then click "New connection and and scan the QRCode.
+
+![](<../../.gitbook/assets/depub.space wc 5-en.png>)
+
+The ISCN App window will pop-up, click "Approve".
+
+![](<../../.gitbook/assets/ISCN 1 Login 4-en.png>)
 
 After that your wallet address will be displayed on the top right hand corner, click **\[Register]** to publish your work.
 
@@ -65,9 +87,13 @@ Although most of the fields are optional, it is recommended to be as detailed as
 
 ### Step 4:  Getting the ISCN <a href="#bu-zhou-si-huo-qu-iscn" id="bu-zhou-si-huo-qu-iscn"></a>
 
-A Keplr windows will pop up for payment confirmation, choose the transaction speed you need: Low, Average or High, then click "Approve".
+**Keplr Wallet**: A Keplr windows will pop up for payment confirmation, choose the transaction speed you need: Low, Average or High, then click "Approve".
 
 ![](<../../.gitbook/assets/ISCN 8.png>)
+
+**Liker ID**: A signature request shows up on your phone, click "Approve"
+
+![](<../../.gitbook/assets/ISCN 8 wc-en.png>)
 
 Publishing to blockchain normally takes a few seconds only.
 
