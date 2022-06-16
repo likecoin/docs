@@ -25,3 +25,9 @@ description: LikeCoin 水龍頭
 完成後 2.5 LIKE 已傳送到你的錢包。點「Check tx」查看相關記錄。
 
 ![](<../.gitbook/assets/faucet 5.png>)
+
+測試網水龍頭：
+
+{% content-ref url="community/faucet-test.md" %}
+[faucet-test.md](community/faucet-test.md)
+{% endcontent-ref %}
