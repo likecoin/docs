@@ -74,6 +74,10 @@ Submit ISCN data to widget
 | data.metadata.author      | Name of the author                       |
 | data.metadata.description | Description for the content              |
 
+File `data` should be encoded in base64, with proper `mimeType` defined. `filename` can either be the actual filename, or include a directory path as prefix.
+
+If multiple files are to be uploaded, an `index.html` must be included which would be shown as the default page when the files are accessed through Arweave or IPFS.
+
 ### Emit event format
 
 #### ISCN\_WIDGET\_READY
