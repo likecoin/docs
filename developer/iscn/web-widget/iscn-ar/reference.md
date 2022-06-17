@@ -122,7 +122,7 @@ const w = window.open('https://like.co/in/widget/iscn-ar?opener=1&redirect_uri=h
 const ISCN_WIDGET_ORIGIN = 'https://like.co';
 
 function onPostMessage(event) {
-  if (event.origin !== 'like') {
+  if (event.origin !== 'like.co') {
     return;
   }
   try {
