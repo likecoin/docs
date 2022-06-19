@@ -4,37 +4,46 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 
 # WordPress
 
+WordPress 的用戶寫完文章以後只需按一個鍵，便能完成出版 NFT 的前置工序，內容立即上鏈，過程只需一分鐘！
+
+LikeCoin WordPress plugin 為古騰堡編輯器度身訂造，讓 WordPress 網站一鍵接通 Web3。功能包括：
+
+* 一鍵發佈文章到 LikeCoin 並儲存於 IPFS 及 Arweave
+* 以 LikeCoin 一筆過支付內容上鏈及分散式儲存費用
+
+此 plugin 將支援進一步鑄造 NFT 並售賣給讀者，實現完整的分散式出版。
+
 ## 安裝 LikeCoin 外掛
 
-安裝 [LikeCoin WordPress Plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 亦即是外掛前，請先 [註冊 Liker ID](../liker-id/)。
+安裝 [LikeCoin WordPress Plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 亦即是外掛前，請先 [註冊 Liker ID](liker-id/)。
 
 然後請執行以下步驟：
 
 步驟一：進入 WordPress 網站管理員頁面並登入（若網址是 www.abc.com ，管理員頁面一般便是 www.abc.com/wp-admin）。\
 \
-步驟二：如圖點擊左方「外掛 ( plugin )」，再點擊上方「安裝外掛 ( install plugin )」。
+步驟二：如圖點擊左方「外掛」，再點擊上方「安裝外掛」。
 
-![](../../.gitbook/assets/wordpress-1.png)
+![](../.gitbook/assets/wordpress-1.png)
 
 步驟三：搜尋關鍵字 "LikeCoin"，找到 LikeCoin 的外掛，點擊「立即安裝」並等待完成，再點擊「啟用」。
 
-![](../../.gitbook/assets/wordpress-2.png)
+![](<../.gitbook/assets/wordpress-2 (1).png>)
 
 步驟四：安裝完成後，你會發現在左方的菜單中多了一個 "LikeCoin" 的選項。恭喜你，你已經完成安裝了！
 
-![](../../.gitbook/assets/wordpress-3.png)
+![](<../.gitbook/assets/wordpress-3 (1).png>)
 
 ## 設定 LikeCoin 外掛 <a href="#448e" id="448e"></a>
 
-設定讚賞鍵外掛前，請先 [註冊 Liker ID](../liker-id/)。
+設定讚賞鍵外掛前，請先 [註冊 Liker ID](liker-id/)。
 
 在管理介面左方菜單，點選 "LikeCoin" 外掛設定，再選「你的 LikeCoin button」。在右方畫面中，輸入你的 Liker ID。
 
-![](../../.gitbook/assets/wordpress-4.png)
+![](../.gitbook/assets/wordpress-4.png)
 
 在畫面下方點擊「確認」鍵，即完成設定！
 
-![](../../.gitbook/assets/wordpress-5.png)
+![](../.gitbook/assets/wordpress-5.png)
 
 別忘了「確認」以儲存設定值喔。
 
@@ -52,28 +61,38 @@ description: 如何在自架 WordPress 加入 LikeCoin button？
 \
 步驟一：在 LikeCoin 外掛中的「外掛設定」分頁，有一個「啟用網站 Liker ID－強制所有 LikeCoin button 使用網站 Liker ID」的選項。請確保這選項 **\*沒有\*** 被勾選。
 
-![](../../.gitbook/assets/wordpress-6.png)
+![](../.gitbook/assets/wordpress-6.png)
 
 步驟二：接下來就是 WordPress 新增用戶的流程，跟 LikeCoin 外掛無關。成功新增用戶後，新用戶以自己的 WordPress 帳號登入，便可設定自己的 Liker ID 和讚賞鍵。
 
-![](../../.gitbook/assets/wordpress-7.png)
+![](../.gitbook/assets/wordpress-7.png)
 
-### 廷伸閱讀
-
-> [LikeCoin｜WordPress上如何安裝設定LikeCoin> ](https://coralive.site/likecoin-wordpress%E4%B8%8A%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%9D%E8%A8%AD%E5%AE%9Alikecoin/)
+### 廷伸閱讀[&#xD;](https://coralive.site/likecoin-wordpress%E4%B8%8A%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%9D%E8%A8%AD%E5%AE%9Alikecoin/)
 
 > [請人幫忙分享、留言、拍手的好東西：「可重複使用區塊」](https://xrine.com/gutenburg-%E5%8F%AF%E9%87%8D%E8%A4%87%E4%BD%BF%E7%94%A8%E5%8D%80%E5%A1%8A/)
 
 > [如何在 Medium 和 WordPress 設置錨點 (Anchor)](https://bchai.cc/2019/03/30/how-to-setup-anchor-medium-wordpress/)
 
-## 發佈設定（測試版）
+## 發佈設定
 
-由現在開始你可以把 WordPress 網站的文章同步到 Mattres。只需簡單登入你的 Matters 電郵及密碼再撰寫文章即可啟用此功能。測試版本提供三個選項：
+### 發佈 ISCN
+
+文章註冊 ISCN 後，可設定是否展示 ISCN badge。狀態分為不展示 ( None )、正常模式 ( Light Mode ) 及深色模式 ( Dark Mode )，確認後點「Confirm」。
+
+![](../.gitbook/assets/wordpress-9-en.png)
+
+### 發佈到 Matters
+
+由現在開始你可以把 WordPress 網站的文章同步到 Matters。只需簡單登入你的 Matters 電郵及密碼再撰寫文章即可啟用此功能。測試版本提供三個選項：
 
 * 自動儲存草稿到 Matters － 文章草稿將同步到你的 Matters 草稿箱。
 * 自動發佈文章至 Matters － 當你在 WordPress 網站發佈文章時，該文章亦會同時於 Matters 發佈。
 * 在頁尾增加原文鏈結 － 在 Matters 文章中加入 WordPress 文章的原文鏈結。
 
-![](../../.gitbook/assets/wordpress-8.png)
+![](../.gitbook/assets/wordpress-8.png)
 
 在 Matters 上發布的作品皆會被上載到星際文件系統（InterPlanetary File System，IPFS）的節點之上。
+
+## 發佈教學
+
+{% embed url="https://www.youtube.com/watch?t=&v=4fYNwZHRXCY" %}

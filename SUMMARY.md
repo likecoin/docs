@@ -66,6 +66,7 @@
 
 ## 💻 去中心應用 <a href="#user-guide" id="user-guide"></a>
 
+* [WordPress](user-guide/wordpress.md)
 * [Liker Land](user-guide/liker-land/README.md)
   * [下載 Liker Land](user-guide/liker-land/download.md)
   * [閱讀列表](user-guide/liker-land/reading-list.md)
@@ -89,7 +90,6 @@
     * [匯出錢包助記詞](user-guide/liker-id/register/export-seed-words.md)
   * [修改頭像及顯示名稱](user-guide/liker-id/edit-avatar-displayname.md)
 * [LikeCoin button 讚賞鍵](user-guide/creator/README.md)
-  * [WordPress](user-guide/creator/wordpress.md)
   * [Matters](user-guide/creator/matters.md)
   * [其他自架網站](user-guide/creator/self-host/README.md)
     * [ghost](user-guide/creator/self-host/ghost.md)
