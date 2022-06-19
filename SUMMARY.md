@@ -28,6 +28,7 @@
     * [在 Cosmostation 導入錢包](guides/wallet/cosmostation/import-account.md)
   * [LIKE pay](guides/wallet/like-pay.md)
   * [Ledger](guides/wallet/hardware-wallet.md)
+  * [多簽錢包](guides/wallet/multisig.md)
   * [錢包地址](guides/wallet/wallet-address.md)
   * [Big Dipper](guides/wallet/big-dipper.md)
   * [手續費](guides/wallet/transaction-fee.md)

@@ -73,7 +73,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button，出版 WordPress
 
 ### 發佈 ISCN <a href="#publish-to-iscn" id="publish-to-iscn"></a>
 
-文章註冊 ISCN 後，可設定是否展示 ISCN badge。狀態分為不展示 ( None )、正常模式 ( Light Mode ) 及深色模式 ( Dark Mode )，確認後點「Confirm」。
+文章註冊 ISCN 後，可設定是否展示 ISCN badge。狀態分為不展示 ( None )、正常模式 ( Light Mode ) 及深色模式 ( Dark Mode )，選擇後點「Confirm」確認。
 
 ![](../.gitbook/assets/wordpress-9-en.png)
 
@@ -89,6 +89,6 @@ description: 如何在自架 WordPress 加入 LikeCoin button，出版 WordPress
 
 在 Matters 上發布的作品皆會被上載到星際文件系統（InterPlanetary File System，IPFS）的節點之上。
 
-## 教學：出版 WordPress 作品到區塊鏈
+## 教學：出版 WordPress 作品到區塊鏈 <a href="#tutorial-publishing-wordpress-post-to-blockchain" id="tutorial-publishing-wordpress-post-to-blockchain"></a>
 
 {% embed url="https://www.youtube.com/watch?t=&v=4fYNwZHRXCY" %}
