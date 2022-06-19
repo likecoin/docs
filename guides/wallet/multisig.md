@@ -1,3 +1,7 @@
+---
+description: LikeCoin 多重簽署錢包
+---
+
 # 多簽錢包
 
 多重簽署錢包需要兩個或多個私鑰來簽署，用於在 Cosmos 區塊鏈上生成、簽名和發送交易。現時 LikeCoin chain 提供兩款多簽錢包工具。
