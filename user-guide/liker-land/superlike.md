@@ -45,20 +45,6 @@ Super Like 重新定義「分享」：分享 = 回饋。不但作者獲賞，協
 
 【[成為讚賞公民](<../civic-liker/be-a-civic-liker (1).md>)】
 
-## 功能展示
-
-{% embed url="https://www.youtube.com/watch?v=ImmKksiHMt0" %}
-分享文章也能賺錢？Super Like 功能演示 （國語），留意自2021/9/6 開始可獲分配上限經已改為 4 LIKE
-{% endembed %}
-
-{% embed url="https://www.youtube.com/watch?v=XXSfQm15KdQ" %}
-分享文章都賺到錢？Super Like 功能示範 （廣東話），留意自2021/9/6 開始可獲分配上限經已改為 4 LIKE
-{% endembed %}
-
-#### 參考文章
-
-> [分享文章也能賺錢？Super Like 功能演示> ](https://matters.news/@edmond/%E5%88%86%E4%BA%AB%E6%96%87%E7%AB%A0%E4%B9%9F%E8%83%BD%E8%B3%BA%E9%8C%A2-super-like-%E5%8A%9F%E8%83%BD%E6%BC%94%E7%A4%BA-bafyreifidmim3f5u7ni27ibj42b5764fme7r54er52zdxaernhq2dg5eva)
-
 ## Super Like 履歷
 
 想回顧曾經 Super Like 過哪些好文章？請到[個人主頁](../creatortools/portfolio-page.md) https://liker.land/\[你的 Liker ID] 點擊「已 Super Like 內容」查看，例如你的 Liker ID 是 ckxpress，鏈結便是 https://liker.land/ckxpress。用戶也可以直接輸入網址訪問朋友或名人的個人主頁並追蹤，了解他們的閱讀品味。
