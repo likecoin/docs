@@ -50,4 +50,4 @@ Only [Civic Liker](../civic-liker/) can enjoy Super Like twice a day.
 
 Wanna review all the Super Liked articles? Go to your [Portfolio Page](../creatortools/portfolio-page.md) https://liker.land/\[Your Liker ID] and click "Super Likes" to check them out, if your Liker ID is ckxpress, the link is going to be https://liker.land/ckxpress. Users can also visit friends and celebrities' Portfolio Page and follow them, in order to understand their reading taste.
 
-![](broken-reference)
+![](<../../.gitbook/assets/Portfolio Page 2-en.png>)
