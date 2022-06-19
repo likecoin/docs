@@ -1,19 +1,19 @@
 ---
-description: 如何在自架 WordPress 加入 LikeCoin button？
+description: 如何在自架 WordPress 加入 LikeCoin button，把文章鑄造成 NFT？
 ---
 
 # WordPress
 
-WordPress 的用戶寫完文章以後只需按一個鍵，便能完成出版 NFT 的前置工序，內容立即上鏈，過程只需一分鐘！
+過往要把文章以 NFT 形式出版，工序很䌓複：作者須先把內容及元數據儲存在如 IPFS 等分散式空間或區塊鏈上，再上傳到 NFT 市場定價出售，過程中還要入手幾款不同用途的密碼貨幣。然而現在 WordPress 的用戶有福了，因為寫完文章以後只需按一個鍵，便能完成出版 NFT 的前置工序，內容立即上鏈，過程只需一分鐘！
 
-LikeCoin WordPress plugin 為古騰堡編輯器度身訂造，讓 WordPress 網站一鍵接通 Web3。功能包括：
+[LikeCoin WordPress plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為古騰堡編輯器度身訂造，讓 WordPress 網站一鍵接通 Web3。功能包括：
 
 * 一鍵發佈文章到 LikeCoin 並儲存於 IPFS 及 Arweave
 * 以 LikeCoin 一筆過支付內容上鏈及分散式儲存費用
 
 此 plugin 將支援進一步鑄造 NFT 並售賣給讀者，實現完整的分散式出版。
 
-## 安裝 LikeCoin 外掛
+## 安裝 LikeCoin 外掛 <a href="#installation" id="installation"></a>
 
 安裝 [LikeCoin WordPress Plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 亦即是外掛前，請先 [註冊 Liker ID](liker-id/)。
 
@@ -33,7 +33,7 @@ LikeCoin WordPress plugin 為古騰堡編輯器度身訂造，讓 WordPress 網�
 
 ![](<../.gitbook/assets/wordpress-3 (1).png>)
 
-## 設定 LikeCoin 外掛 <a href="#448e" id="448e"></a>
+## 設定 LikeCoin 外掛 <a href="#setting" id="setting"></a>
 
 設定讚賞鍵外掛前，請先 [註冊 Liker ID](liker-id/)。
 
@@ -49,11 +49,11 @@ LikeCoin WordPress plugin 為古騰堡編輯器度身訂造，讓 WordPress 網�
 
 完成以上步驟後，你的讚賞鍵便會自動出現在網頁貼文的下方了。
 
-### 於任何位置顯示 LikeCoin ID
+### 於任何位置顯示 LikeCoin ID <a href="#config-likecoin-button-to-appear-in-anywhere-of-the-articles" id="config-likecoin-button-to-appear-in-anywhere-of-the-articles"></a>
 
 你亦可使用短代碼 \[likecoin] 在文章中任何位置顯示額外的讚賞鍵。
 
-## 如何於一個 WordPress 網站支援多個作者
+## 如何於一個 WordPress 網站支援多個作者 <a href="#how-to-support-multiple-liker-id-on-a-wordpress-site" id="how-to-support-multiple-liker-id-on-a-wordpress-site"></a>
 
 網站中有很多作者，各人有自己的 Liker ID，可以安裝每個作者的讚賞鍵於他們的作品中嗎？
 
@@ -67,21 +67,21 @@ LikeCoin WordPress plugin 為古騰堡編輯器度身訂造，讓 WordPress 網�
 
 ![](../.gitbook/assets/wordpress-7.png)
 
-### 廷伸閱讀[&#xD;](https://coralive.site/likecoin-wordpress%E4%B8%8A%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%9D%E8%A8%AD%E5%AE%9Alikecoin/)
+### 廷伸閱讀[&#xD;](https://coralive.site/likecoin-wordpress%E4%B8%8A%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%9D%E8%A8%AD%E5%AE%9Alikecoin/) <a href="#read-more" id="read-more"></a>
 
 > [請人幫忙分享、留言、拍手的好東西：「可重複使用區塊」](https://xrine.com/gutenburg-%E5%8F%AF%E9%87%8D%E8%A4%87%E4%BD%BF%E7%94%A8%E5%8D%80%E5%A1%8A/)
 
 > [如何在 Medium 和 WordPress 設置錨點 (Anchor)](https://bchai.cc/2019/03/30/how-to-setup-anchor-medium-wordpress/)
 
-## 發佈設定
+## 發佈設定 <a href="#publish-setting" id="publish-setting"></a>
 
-### 發佈 ISCN
+### 發佈 ISCN <a href="#publish-to-iscn" id="publish-to-iscn"></a>
 
 文章註冊 ISCN 後，可設定是否展示 ISCN badge。狀態分為不展示 ( None )、正常模式 ( Light Mode ) 及深色模式 ( Dark Mode )，確認後點「Confirm」。
 
 ![](../.gitbook/assets/wordpress-9-en.png)
 
-### 發佈到 Matters
+### 發佈到 Matters <a href="#publish-to-matters" id="publish-to-matters"></a>
 
 由現在開始你可以把 WordPress 網站的文章同步到 Matters。只需簡單登入你的 Matters 電郵及密碼再撰寫文章即可啟用此功能。測試版本提供三個選項：
 
