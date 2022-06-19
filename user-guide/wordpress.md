@@ -1,5 +1,5 @@
 ---
-description: 如何在自架 WordPress 加入 LikeCoin button，把文章鑄造成 NFT？
+description: 如何在自架 WordPress 加入 LikeCoin button，出版 WordPress 作品到區塊鏈？
 ---
 
 # WordPress
@@ -14,8 +14,6 @@ description: 如何在自架 WordPress 加入 LikeCoin button，把文章鑄造�
 此 plugin 將支援進一步鑄造 NFT 並售賣給讀者，實現完整的分散式出版。
 
 ## 安裝 LikeCoin 外掛 <a href="#installation" id="installation"></a>
-
-安裝 [LikeCoin WordPress Plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 亦即是外掛前，請先 [註冊 Liker ID](liker-id/)。
 
 然後請執行以下步驟：
 
@@ -44,8 +42,6 @@ description: 如何在自架 WordPress 加入 LikeCoin button，把文章鑄造�
 在畫面下方點擊「確認」鍵，即完成設定！
 
 ![](../.gitbook/assets/wordpress-5.png)
-
-別忘了「確認」以儲存設定值喔。
 
 完成以上步驟後，你的讚賞鍵便會自動出現在網頁貼文的下方了。
 
@@ -93,6 +89,6 @@ description: 如何在自架 WordPress 加入 LikeCoin button，把文章鑄造�
 
 在 Matters 上發布的作品皆會被上載到星際文件系統（InterPlanetary File System，IPFS）的節點之上。
 
-## 發佈教學
+## 教學：出版 WordPress 作品到區塊鏈
 
 {% embed url="https://www.youtube.com/watch?t=&v=4fYNwZHRXCY" %}
