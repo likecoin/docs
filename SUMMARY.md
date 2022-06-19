@@ -92,6 +92,7 @@
     * [Import wallet into Cosmostation](general-guides/wallet/cosmostation/import-account.md)
   * [LIKE pay](general-guides/wallet/like-pay.md)
   * [Ledger](general-guides/wallet/hardware-wallet.md)
+  * [Multisig](general-guides/wallet/multisig.md)
   * [Wallet Address](general-guides/wallet/wallet-address.md)
   * [Big Dipper](general-guides/wallet/big-dipper.md)
   * [Transaction Fee](general-guides/wallet/transaction-fee.md)
