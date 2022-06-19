@@ -86,7 +86,7 @@ description: Frequently Asked Questions
 * [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](user-guide/liker-land/superlike.md)
 * [What are the functions of the LikeCoin button?](user-guide/creator/)
 * [Earn LikeCoin on YouTube？Wow!](archive/archive/creatortools/youtube.md)
-* [How to embed LikeCoin button into a self-hosted WordPress?](user-guide/creator/wordpress.md)
+* [How to embed LikeCoin button into a self-hosted WordPress?](user-guide/wordpress.md)
 * [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](user-guide/creator/blogging-platforms/)
 * [How to attract more sponsors?](user-guide/creatortools/creators-pitch.md)
 * [Portfolio Page helps to display all of my works? How to use it?  ](user-guide/creatortools/portfolio-page.md)

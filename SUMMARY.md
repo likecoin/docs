@@ -135,6 +135,7 @@
 
 ## 💻  DApp <a href="#user-guide" id="user-guide"></a>
 
+* [WordPress](user-guide/wordpress.md)
 * [Liker Land](user-guide/liker-land/README.md)
   * [Download Liker Land](user-guide/liker-land/download.md)
   * [Readling List](user-guide/liker-land/readling-list.md)
@@ -148,7 +149,6 @@
   * [Creators Fund](user-guide/civic-liker/creators-fund.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
 * [LikeCoin button](user-guide/creator/README.md)
-  * [WordPress](user-guide/creator/wordpress.md)
   * [Matters](user-guide/creator/matters.md)
   * [Self-Host](user-guide/creator/self-host/README.md)
     * [ghost](user-guide/creator/self-host/ghost.md)

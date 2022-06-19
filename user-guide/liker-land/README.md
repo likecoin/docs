@@ -43,7 +43,7 @@ As a Decentralized Publishing Infrastructure, LikeCoin provides Decentralized Re
 * [Decentralized Publishing Infrastructure](../../general-guides/decentralized-publishing/) help creators to register content metadata in the LikeCoin public blockchain
 * User [app.like.co](../../general-guides/decentralized-publishing/app.like.co.md) or [ISCN Batch Uploader](../../general-guides/decentralized-publishing/iscn-batch-uploader.md) to register ISCN
 * Help creators to write content to [IPFS](https://ipfs.io/), achieve it through [Matters](https://matters.news/)
-* DePub + ISCN in one go is available on [WordPress](../creator/wordpress.md) at the moment
+* DePub + ISCN in one go is available on [WordPress](../wordpress.md) at the moment
 
 ### Decentralized Rewards&#xD;
 
