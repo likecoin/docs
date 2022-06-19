@@ -4,7 +4,9 @@ description: A Web3 decentralized Twitter
 
 # depub.space
 
-[depub.space](https://depub.space/) is a Web3 decentralized Twitter that requires only a small amount of LIKE to directly “DePub” (decentralized-publish) text and images to blockchain and IPFS. Users can connect their [Keplr](../wallet/keplr.md) wallet or the [Liker Land app](../../user-guide/liker-land/download.md) to post messages on depub.space.
+[depub.space](https://depub.space/) is a Web3 decentralized Twitter that requires only a small amount of LIKE to directly “DePub” (decentralized-publish) text and images to blockchain and IPFS. Users can connect their [Keplr](../wallet/keplr.md) wallet or the [Liker Land app](../../user-guide/liker-id/register/) to post messages on depub.space.
+
+Using depub.space needs no registration or personal information, all you need is a wallet address. As a"stateless" service, depub.space also minimizes information that users leave online, "privacy by default". depub.space presets all content on-chain, works published on blockchain will leave a trail and be maintained by the public.
 
 ## Login with Keplr
 
