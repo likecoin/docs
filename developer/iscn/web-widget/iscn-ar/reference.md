@@ -126,14 +126,14 @@ const w = window.open('https://like.co/in/widget/iscn-ar?opener=1&redirect_uri=h
 const ISCN_WIDGET_ORIGIN = 'https://like.co';
 
 function onPostMessage(event) {
-  if (event.origin !== 'like.co') {
+  if (event.origin !== ISCN_WIDGET_ORIGIN) {
     return;
   }
   try {
     const { action, data } = JSON.parse(event.data);
     if (action === 'ISCN_WIDGET_READY') {
       w.postMessage(JSON.stringify({ action: 'INIT_WIDGET' }), ISCN_WIDGET_ORIGIN);
-      w.postMessage(sendISCNPayload());
+      sendISCNPayload();
     } else if (action === 'ARWEAVE_SUBMITTED') {
       const {
         ipfsHash, arweaveId,
@@ -162,6 +162,7 @@ function sendISCNPayload() {
           filename: 'index.html',
           mimeType: 'text/html',
           data: 'PCFET0NUWVBFIGh0bWw+PGh0bWw+Ci...',
+          // bytes encoded in base64
         },
         {
           filename: 'wp-content/uploads/image.png',
