@@ -2,7 +2,21 @@
 
 {% tabs %}
 {% tab title="2022" %}
-###
+### 05/24 風傳媒
+
+[華爾街日報》NFT在中國有了新用途：在疫情中對抗審查](https://www.storm.mg/article/4347313?page=2)
+
+### 05/21 The Wall Street Journal
+
+[NFTs Are Put to New Use in China, Countering Censorship During Pandemic](https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403)
+
+### 05/21 #1 Episode: The Missing Archive
+
+{% embed url="https://soundcloud.com/sanathe8journo/blockchainjournalism-hongkongmedia-themissingarchive" %}
+
+### 04/21 信報 優雅生活
+
+[【Blockchain鏈出個未來】高重建：鏈上追求三種自由](https://lj.hkej.com/lj2017/artculture/article/id/3108283/%E3%80%90Blockchain%E9%8F%88%E5%87%BA%E5%80%8B%E6%9C%AA%E4%BE%86%E3%80%91%E9%AB%98%E9%87%8D%E5%BB%BA%EF%BC%9A%E9%8F%88%E4%B8%8A%E8%BF%BD%E6%B1%82%E4%B8%89%E7%A8%AE%E8%87%AA%E7%94%B1)
 
 ### 04/12 Openbook
 
@@ -19,6 +33,8 @@
 ### 01/14 C基金
 
 {% embed url="https://youtu.be/HUCmPNn2Oko?t=967" %}
+
+:end:
 {% endtab %}
 
 {% tab title="2021" %}

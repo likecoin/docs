@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 06/03 動區動趨&#x20;
+
+[盤點10個 SocialFi 潛力項目》社交金融將成Web3.0風口？ : Mirror Matters RSS3…](https://www.blocktempo.com/will-socialfi-be-the-next-web3-breaking-point-10-social-media-potential-projects/)
+
 ### 01/04 OPENBOOK 閱讀誌
 
 [話題》另一種元宇宙：烏托邦主義者的metaverse](https://www.openbook.org.tw/article/p-65758)

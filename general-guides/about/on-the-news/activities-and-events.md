@@ -1,10 +1,36 @@
 # Activities and Events
 
 {% tabs %}
+{% tab title="2022" %}
+### 06/15 私董會 OUR BOARD ROOM
+
+[了解NFT相關的版權問題！訪問 LikeCoin 內容NFT 和 MonkeyKing 玩具NFT。](https://www.clubhouse.com/room/xpQaNVKv)
+
+{% embed url="https://www.clubhouse.com/room/xpQaNVKv" %}
+
+### 05/30【高峰論壇系列六】「新時代的使者？區塊鏈的激進潛能」總覽
+
+[自由「三幅被」？區塊鏈與自由的實踐](https://www.ihs.ntu.edu.tw/web/news/news\_in.jsp?np\_id=NP1651110378181)
+
+{% embed url="https://www.youtube.com/watch?v=K5EgDuy_PIs" %}
+
+### 04/19 LikeCoin Discord
+
+[SCMP x LikeCoin 你問我答](https://matters.news/@daisy/273851-ama-%E8%A8%98%E9%8C%84-scmp-x-like-coin-%E4%BD%A0%E5%95%8F%E6%88%91%E7%AD%94-bafyreibdbsveil6bc5wakhlcicbf3d7eqpnphoyyb3fruuwbpwc6uarscq)
+
+### 04/15 Numbers Protocol
+
+[AMA with LikeCoin](https://twitter.com/numbersprotocol/status/1514921477304467461)
+
+:end:
+{% endtab %}
+
 {% tab title="2021" %}
 ### 12/18 第六届网络社会年会｜时刻互惠：合作生活的瞬间
 
 [自由三幅被 The Saam Fuk Pei of Freedom](https://www.caa-ins.org/archives/8017)
+
+[第六届网络社会年会｜高重建：自由三幅被](https://www.caa-ins.org/archives/8720)
 
 [Video](https://youtu.be/YWHEzGaZicg?t=5421)
 
@@ -234,7 +260,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 ### 01/03 路向四肢傷殘人士協會 LikeCoin工作坊
 
-[LikeCoin工作坊](https://www.4limb.org/2019/12/17/likecoinworkshop/#)
+[LikeCoin工作坊](https://www.4limb.org/2019/12/17/likecoinworkshop/)
 
 :end:&#x20;
 {% endtab %}
@@ -440,7 +466,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [BC1110 BLOCKCHAIN EVERYDAY APPLICATION](https://www.facebook.com/cityu.dietcode/photos/a.1975690915810822/2070479752998604/?type=3)
 
-[9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application](https://www.eventbrite.com/e/9upio-blockchain-seminar-series-bc1110-blockchain-everyday-application-tickets-54397023963#)
+[9up.io Blockchain Seminar Series - BC1110 Blockchain Everyday Application](https://www.eventbrite.com/e/9upio-blockchain-seminar-series-bc1110-blockchain-everyday-application-tickets-54397023963)
 
 ### 01/22 LikeCoin Taipei Meetup － 網路寫作者交流小聚：分享 WordPress、Medium、Vocus 等使用的經驗分享與討論
 
@@ -450,7 +476,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 {% endtab %}
 
 {% tab title="2018" %}
-### 12/20 eCoinomy Blockchain And Cryptocurrency Platform[&#xD;](https://www.eventbrite.hk/e/48019296007#) - eCoinomy開講: 2019 x 中國 x 香港 x 加密貨幣&#xD;
+### 12/20 eCoinomy Blockchain And Cryptocurrency Platform[&#xD;](https://www.eventbrite.hk/e/48019296007) - eCoinomy開講: 2019 x 中國 x 香港 x 加密貨幣&#xD;
 
 [eCoinomy開講: 2019 x 中國 x 香港 x 加密貨幣](https://www.meetup.com/eCoinomy-Blcokchain-And-Cryptocurrency-Platform)
 
@@ -464,7 +490,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 ### 12/16 9up.io Regular Meetup - December
 
-[9up.io Regular Meetup - December](https://www.eventbrite.com/e/9upio-regular-meetup-december-tickets-52932094319#)
+[9up.io Regular Meetup - December](https://www.eventbrite.com/e/9upio-regular-meetup-december-tickets-52932094319)
 
 [HIGHLIGHTS OF 9UP.IO REGULAR MEETUP – DECEMBER](https://www.9up.io/news/highlights-of-9up-io-regular-meetup-december/)
 
@@ -578,7 +604,7 @@ Kin Ko: Generating Passive Income With LikeCoin Blockchain Plugin
 
 ### 07/21&#xD; TiDeal － 港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？
 
-[港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？](https://www.eventbrite.hk/e/48019296007#)
+[港日區塊鏈研討會： 各國區塊鏈技術如何應用落地？](https://www.eventbrite.hk/e/48019296007)
 
 [Facebook Post](https://www.facebook.com/TiDeal.official/posts/294554014631245)
 
