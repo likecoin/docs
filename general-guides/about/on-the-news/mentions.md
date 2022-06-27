@@ -2,9 +2,21 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 06/15 風傳媒
+
+[炒完NFT、Game-Fi，接下來要瘋什麼？專家解析新趨勢：Social-Fi值得投資人關注](https://www.storm.mg/article/4379702?page=1)
+
 ### 06/03 動區動趨&#x20;
 
 [盤點10個 SocialFi 潛力項目》社交金融將成Web3.0風口？ : Mirror Matters RSS3…](https://www.blocktempo.com/will-socialfi-be-the-next-web3-breaking-point-10-social-media-potential-projects/)
+
+### 04/27 36Kr
+
+[Twitter如何去中心化？看看这十个SocialFi项目](https://36kr.com/p/1715448644186628)
+
+### 04/02 數位時代
+
+[狗爺進軍NFT！區塊鏈、SocialFi改變音樂生態，社群權力如何回歸創作者？](https://www.bnext.com.tw/article/68392/socialfi-web2-web3-nft)
 
 ### 01/04 OPENBOOK 閱讀誌
 
@@ -119,6 +131,10 @@
 ### 05/05 鏈新聞
 
 [【鏈新聞觀察】你還覺得區塊鏈是沒有用的技術嗎？這五個應用或許能讓你改觀](https://abmedia.io/do-you-still-think-blockchain-is-useless-technology/)
+
+### 04/15 The News Lens 關鍵評論
+
+[炒作、投機？五個令你改觀的「區塊鏈應用」正解決現實世界的痛點](https://www.thenewslens.com/article/133527)
 
 ### 03/11 信仰百川 Gerry Kwan 專欄
 
