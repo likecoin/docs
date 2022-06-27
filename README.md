@@ -4,27 +4,39 @@ description: 'What is LikeCoin, #DePub, and the LikeCoin DAO'
 
 # Decentralize Publishing
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/LCF001-key visual v4.1-1.png>)
 
 ### What is LikeCoin?
 
-LikeCoin decentralises publishing by NFT.
+LikeCoin decentralizes publishing by allowing everyone to publish their content as NFTs with a suite of open tools.
 
 ### Content Ownership
 
-Own your content by publishing NFT on LikeCoin chain.
+Own your content by publishing NFT on the LikeCoin chain.
 
 ### Decentralize Publishing
 
-Mint and sell your work's NFT. Selling Writing NFT in marketplace is just like selling books in bookstore.
+LikeCoin envisions a future where digital content is transformed from “Web-native” to “NFT native” format. All content will be natively created on the blockchain and stored in two layers.
+
+**Property right layer** — the metadata registry ISCN (international standard content number) records the relationships between the content and creator.\
+\
+**The NFT layer** — the proof of ownership and the mechanism of transfer between purchasers and creators.
 
 ### Writing NFT
 
-NFT can be an email, an image, an identity or a book.  LikeCoin NFT is designed especially for  text-based content creation.
+NFT can be an email, an image, an identity, or a book.  LikeCoin NFT is designed especially for text-based content creation.
 
-Similar to the workflow of traditional publishing, i.e., securing content authorship -> printing the content in books -> selling in bookstore, creators can now register the content on LikeCoin chain -> mint an NFT of it -> sell it in NFT marketplaces. Compared with the constraints in physical publishing, publishing content and exchanging value in metaverse can be more flexible and everlasting.
+Similar to the workflow of traditional publishing, i.e., securing content authorship -> printing the content in books -> selling in XXX, creators can now register the content on the LikeCoin chain -> mint an NFT of it -> sell it in NFT marketplaces. Compared with the constraints in physical publishing, publishing content and exchanging value in the metaverse can be more flexible and everlasting.
 
 ![](<.gitbook/assets/image (5).png>)
+
+### **LikeCoin Mission**
+
+LikeCoin’s mission is to democratize publishing services to ensure everyone has access to affordable, transparent, and efficient publishing services. By writing content immutably to the blockchain, we believe that our censorship-resistant publishing infrastructure is a key to improving the marketplace for content and maintaining freedom of speech.
+
+We believe great software should be easy to use. Creators can focus on what they are good at — creating quality content. All LikeCoin tools such as widgets, WordPress plugins, and APIs are designed to help creators get started easily but also offer powerful features for creators to grow and succeed.
+
+
 
 ### LikeCoin DAO
 
@@ -46,11 +58,11 @@ The [LIKE ecosystem](https://likecoin.bigdipper.live/) is made up of the communi
 
 Liker Land is one of the core teams in the LikeCoin community and it created the early MVP and Dapps of LikeCoin — including the [LikeCoin button](https://docs.like.co/developer/likecoin-button), [WordPress plugin](https://wordpress.org/plugins/likecoin/), [ISCN app](https://app.like.co/), and the upcoming NFT minting widget that allows creators to mint NFTs directly from their own website.
 
-One of the newest, and most promising Dapps in the LikeCoin ecosystem is [depub.space](https://depub.space/). [depub.space](https://depub.space/) is a web3-native “decentralized Twitter” where influencers sell ”Follows" and creations as NFTs.&#x20;
+One of the newest, Dapps in the LikeCoin ecosystem is [depub.space](https://depub.space/). It is a web3-native “decentralized Twitter” where influencers sell ”Follows" and creations as NFTs.&#x20;
 
 ### Kickstarted
 
-The first step is to own LikeCoin, and use it for publishing or governance.  You can try to post a decentralized tweet on [depub.space](https://depub.space), vote on [dao.like.co](http://dao.like.co/), or reward any creators by transferring LIKE via Keplr.
+The first step is to own LikeCoin, and use it for publishing or governance.  You can try to post a decentralized tweet on [depub.space](https://depub.space), vote on [dao.like.co](http://dao.like.co/), or reward any creators by transferring LIKE via Keplr wallet.
 
 Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
 
