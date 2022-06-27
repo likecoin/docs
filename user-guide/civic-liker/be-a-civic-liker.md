@@ -13,7 +13,8 @@ Based on the current commission rate of about 15%, the monthly rewards that 5000
 Please note that there is no "Ranking" system for Civic Liker, and the only effect of delegating more LikeCoin is rewarding more to the creators:
 
 * Every clap by Civic Liker will be equivalent to 1 LikeCoin.
-* The stake reward derived by Civic Liker delegation every day will be distributed to creators according to the 1 clap=1 LIKE principle, until the balance is used up.
+* The stake reward derived by Civic Liker delegation every day will be distributed to creators according to the 1 clap=1 LIKE principle
+* The unused staking reward can be accumulated until the account balance is used up
 
 Civic Liker can distribute the delegation rewards, but also distribute the [Creators Fund](creators-fund.md). The influence of clicking the LikeCoin button on the allocation of funds will vary with the delegation amount. Stake more, reward more, and have greater power to vote in LikeCoin DAO and for Creators Fund distribution.
 
