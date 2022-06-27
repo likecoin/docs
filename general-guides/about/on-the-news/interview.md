@@ -2,6 +2,12 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 06/15 私董會 OUR BOARD ROOM
+
+[了解NFT相關的版權問題！訪問 LikeCoin 內容NFT 和 MonkeyKing 玩具NFT。](https://www.clubhouse.com/room/xpQaNVKv)
+
+{% embed url="https://www.clubhouse.com/room/xpQaNVKv" %}
+
 ### 05/24 風傳媒
 
 [華爾街日報》NFT在中國有了新用途：在疫情中對抗審查](https://www.storm.mg/article/4347313?page=2)
@@ -21,6 +27,10 @@
 ### 04/12 Openbook
 
 [出版NFT移民．典範轉移》重新省思數位世界：LikeCoin創辦人高重建談分散式出版](https://www.openbook.org.tw/article/p-66082)
+
+### 04/12 好青年荼毒室
+
+{% embed url="https://www.youtube.com/watch?v=yYxmVYOMA4s" %}
 
 ### 03/30 Web2.5 時代
 

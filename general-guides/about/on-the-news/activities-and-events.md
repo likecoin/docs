@@ -2,12 +2,6 @@
 
 {% tabs %}
 {% tab title="2022" %}
-### 06/15 私董會 OUR BOARD ROOM
-
-[了解NFT相關的版權問題！訪問 LikeCoin 內容NFT 和 MonkeyKing 玩具NFT。](https://www.clubhouse.com/room/xpQaNVKv)
-
-{% embed url="https://www.clubhouse.com/room/xpQaNVKv" %}
-
 ### 05/30【高峰論壇系列六】「新時代的使者？區塊鏈的激進潛能」總覽
 
 [自由「三幅被」？區塊鏈與自由的實踐](https://www.ihs.ntu.edu.tw/web/news/news\_in.jsp?np\_id=NP1651110378181)
