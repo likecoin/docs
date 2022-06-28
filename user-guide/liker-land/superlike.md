@@ -10,7 +10,7 @@ description: What is Super Like?
 
 When users click the 6th like (Super Like) on the LikeCoin button to an article, it will be posted to the decentralized social media [depub.space](http://depub.space/). Not only does this new function boost visibility of quality content, but also helps to keep the content on blockchain indefinitely.
 
-The Liker Land app will display the World Feed for depub.space.
+The [Liker Land app](https://liker.land/getapp) will display the World Feed for depub.space.
 
 The gas fee and decentralized storage fee for uploading to depub.space will be subsidized by Liker Land.&#x20;
 
