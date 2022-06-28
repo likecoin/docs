@@ -86,7 +86,7 @@ description: LikeCoin 常見問題
 * [何謂 Super Like？Content Jockey 內容伯樂又是甚麼？為甚麼不靠 AI 策展就好？](user-guide/liker-land/superlike.md)
 * [LikeCoin button 讚賞鍵有甚麼功能？](user-guide/creator/)
 * [在 YouTube 也可以按讚？要怎樣做呢？](user-guide/creator/youtube.md)
-* [如何在自架 WordPress 加入 LikeCoin button？](user-guide/wordpress.md)
+* [如何在自架 WordPress 加入 LikeCoin button？](user-guide/creator/wordpress.md)
 * [我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](user-guide/creator/blogging-platforms/)
 * [如何吸引更多人贊助我？](user-guide/creatortools/creators-pitch.md)
 * [個人主頁可以怎樣幫助我展示自己的作品？](user-guide/creatortools/portfolio-page.md)
