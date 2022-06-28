@@ -12,8 +12,8 @@ description: Facebook 已經可以按讚啦，為甚麼還要多搞一個 LikeCo
 
 Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢包、護照等更項功能於一身；也是讚者與創作者溝通的橋樑。
 
-{% content-ref url="../../../user-guide/liker land/download.md" %}
-[download.md](<../../../user-guide/liker land/download.md>)
+{% content-ref url="../../../user-guide/liker-land/download.md" %}
+[download.md](../../../user-guide/liker-land/download.md)
 {% endcontent-ref %}
 
 ## **讀者向** <a href="#for-readers" id="for-readers"></a>
@@ -32,11 +32,11 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 
 ### **深度閱讀**
 
-把任何網頁儲存到 Liker Land [閱讀列表](<../../../user-guide/liker land/reading-list.md>)，慢慢細看。
+把任何網頁儲存到 Liker Land [閱讀列表](../../../user-guide/liker-land/reading-list.md)，慢慢細看。
 
 ### **化讚為賞**
 
-每個[按讚](<../../../user-guide/liker land/like.md>)都會成為對創作者的實質鼓勵。
+每個[按讚](../../../user-guide/liker-land/like.md)都會成為對創作者的實質鼓勵。
 
 ## 創作者向 <a href="#for-content-creators" id="for-content-creators"></a>
 
@@ -57,4 +57,4 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 ### 去中心策展
 
 * [Liker Land](../../../user-guide/liker-land/today-headline.md)：「不是瀏覽，而是閱讀。」針對深度閱讀開發的手機應用，為讀者提供清淨閱讀環境。
-* 部分讀者化身[內容伯樂 ( Content Jockey )](<../../../user-guide/liker land/superlike.md>)，透過 Super Like，推薦內容成為 Liker Land 的頭條
+* 部分讀者化身[內容伯樂 ( Content Jockey )](../../../user-guide/liker-land/superlike.md)，透過 Super Like，推薦內容成為 Liker Land 的頭條

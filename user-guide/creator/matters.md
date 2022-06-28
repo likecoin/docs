@@ -38,7 +38,7 @@ Matters 的讚賞鍵很簡潔，位於文章的最底部，見下圖。
 
 ![](../../.gitbook/assets/matters-3.png)
 
-送出 [Super Like](<../liker land/superlike.md>) 的狀態如圖。
+送出 [Super Like](../liker-land/superlike.md) 的狀態如圖。
 
 ![](../../.gitbook/assets/matters-4.png)
 

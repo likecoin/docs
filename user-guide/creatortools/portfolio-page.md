@@ -12,14 +12,14 @@ description: 分享作品及閱讀足跡
 
 頁面的左手邊展示個人資訊，包括 [Liker ID](../liker-id/) 及姓名。假若用戶是讚賞公民則包括成為[讚賞公民](../civic-liker/)的日期，並提供以下功能：
 
-* 追蹤－點擊並追蹤[該用戶的 Super Like 推文](<../liker land/superlike.md>)
+* 追蹤－點擊並追蹤[該用戶的 Super Like 推文](../liker-land/superlike.md)
 * [LIKE pay](../../guides/wallet/like-pay.md)－直接轉帳 LikeCoin 予該用戶
 
 ![](../../.gitbook/assets/likerid-avatar.png)
 
 ## 作品
 
-假若創作者曾 [Super Like 自己的文章](<../liker land/superlike.md>)均會展示於此頁。創作者需要[成為讚賞公民](../civic-liker/)方可 Super Like 自己的文章。留意為自己的作品 Super Like 並不能獲得分配創作基金。
+假若創作者曾 [Super Like 自己的文章](../liker-land/superlike.md)均會展示於此頁。創作者需要[成為讚賞公民](../civic-liker/)方可 Super Like 自己的文章。留意為自己的作品 Super Like 並不能獲得分配創作基金。
 
 ![](../../.gitbook/assets/portfolio-page-1.png)
 

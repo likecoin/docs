@@ -14,7 +14,7 @@ description: 人工挑選內容那麼古早，為甚麼不靠 AI 策展就好？
 
 ![](../../.gitbook/assets/contentjockey-01.png)
 
-「我的 Content Jockey」內容由內容伯樂 ( Content Jockey ) 每天使用 [Super Like](<../liker land/superlike.md>) 人手挑選，完全不使用 AI。每位內容伯樂每天只有兩個限額，一方面確保精挑細選，另方面亦確保讀者不會浸沒於內容大海。
+「我的 Content Jockey」內容由內容伯樂 ( Content Jockey ) 每天使用 [Super Like](superlike.md) 人手挑選，完全不使用 AI。每位內容伯樂每天只有兩個限額，一方面確保精挑細選，另方面亦確保讀者不會浸沒於內容大海。
 
 Liker Land 預設內容伯樂由讚賞公民共和國以[流動民主](../../guides/governance/liquid-democracy.md)治理，由社群投票選出質量高、具口碑的內容伯樂。現時，Liker Land 設有三個預設內容伯樂：
 

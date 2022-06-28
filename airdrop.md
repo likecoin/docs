@@ -67,7 +67,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 #### Manage LikeCoin 管理 LikeCoin
 
-你可以通過 [Keplr](user-guide/liker-id/register-with-keplr.md) 或 [Liker Land app](user-guide/liker-id/register/) 管理你的 LikeCoin。 你可以使用 LIKE [去中心出版 DePub](guides/decentralized-publishing/)，在交易所[交易](guides/trade/)、[委託](guides/stake/)獲得獎勵、[投票](guides/governance/direct-vote.md)參與治理及[獎勵創作者](<user-guide/liker land/like.md>)。
+你可以通過 [Keplr](user-guide/liker-id/register-with-keplr.md) 或 [Liker Land app](user-guide/liker-id/register/) 管理你的 LikeCoin。 你可以使用 LIKE [去中心出版 DePub](guides/decentralized-publishing/)，在交易所[交易](guides/trade/)、[委託](guides/stake/)獲得獎勵、[投票](guides/governance/direct-vote.md)參與治理及[獎勵創作者](user-guide/liker-land/like.md)。
 
 ![](<.gitbook/assets/Airdrop 05.png>)
 

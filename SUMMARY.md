@@ -68,11 +68,11 @@
 ## 💻 去中心應用 <a href="#user-guide" id="user-guide"></a>
 
 * [WordPress](user-guide/wordpress.md)
-* [Liker Land](<user-guide/liker land/README.md>)
-  * [下載 Liker Land](<user-guide/liker land/download.md>)
-  * [Like — 化讚為賞](<user-guide/liker land/like.md>)
-  * [Super Like - 推文到宇宙](<user-guide/liker land/superlike.md>)
-  * [閱讀列表](<user-guide/liker land/reading-list.md>)
+* [Liker Land](user-guide/liker-land/README.md)
+  * [下載 Liker Land](user-guide/liker-land/download.md)
+  * [Like — 化讚為賞](user-guide/liker-land/like.md)
+  * [Super Like - 推文到宇宙](user-guide/liker-land/superlike.md)
+  * [閱讀列表](user-guide/liker-land/reading-list.md)
 * [depub.space](guides/decentralized-publishing/depub.space.md)
 * [讚賞公民](user-guide/civic-liker/README.md)
   * [如何成為讚賞公民](<user-guide/civic-liker/be-a-civic-liker (1).md>)

@@ -8,8 +8,8 @@ LikeCoin button 讚賞鍵，是讀者和你的作品互動的核心，用以讚�
 
 透過每份作品下方的讚賞鍵，讀者可以：
 
-* [化讚為賞](<../liker land/like.md>)：把每一個按讚，化為實際、可衡量的收益
-* 精選內容：充當內容伯樂，以 [Super Like](<../liker land/superlike.md>) 把分享至 Liker Land，推薦給社群
+* [化讚為賞](../liker-land/like.md)：把每一個按讚，化為實際、可衡量的收益
+* 精選內容：充當內容伯樂，以 [Super Like](../liker-land/superlike.md) 把分享至 Liker Land，推薦給社群
 * 在隨後 LikeCoin chain 更新至 FoTan 版後，把內容存檔至區塊鏈，幫助溯源，免被竄改
 
 ## 使用案例
