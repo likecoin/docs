@@ -19,7 +19,7 @@ The bookmark icon is highlighted after the content is saved
 Bookmark content on Liker Land app
 
 
-If you finished reading an article on "My Content Jockey" or "The world has Super Liked", the system will add a green tick on it (circled in red), you can also click on the bookmark icon (red arrow) to save the article to Reading list for read it later.
+If you finished reading an article on "Following" or "Global", the system will add a green tick on it (circled in red), you can also click on the bookmark icon (red arrow) to save the article to Reading list for read it later.
 
 ![](../../.gitbook/assets/saveitlater-en.png)
 

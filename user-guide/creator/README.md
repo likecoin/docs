@@ -9,7 +9,7 @@ LikeCoin button is the core medium to interact with your readers for Like, Share
 From the LikeCoin button on each creations, readers can:
 
 * [Turn "Likes" into Rewards](../liker-land/like.md): Turn every Like into actual, quantifiable income
-* Feature content: Be a Content Jockey, [Super Like](../liker-land/superlike.md) the content and recommend it to the community
+* Feature content: [Super Like](../liker-land/superlike.md) the content and recommend it to the community
 * Save content into blockchain with traceability and immutability after the LikeCoin chain upgrade into the FoTan version.&#x20;
 
 ## Use Case
