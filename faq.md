@@ -71,24 +71,24 @@ description: Frequently Asked Questions
 
 ## Dapps <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
-### [I am a Reader](user-guide/liker-land/#for-readers)
+### [I am a Reader](archive/archive/liker-land/#for-readers)
 
-* [Facebook has more than enough news, why do I have to use Liker Land? ](user-guide/liker-land/#for-readers)
+* [Facebook has more than enough news, why do I have to use Liker Land? ](archive/archive/liker-land/#for-readers)
 * [What can I read on the Liker Land app?](archive/archive/liker-land/today-headline.md)
 * [Browsing and reading is good enough for me, why a Reading List?](user-guide/liker-land/readling-list.md)
 * [What is "Reinventing the Like"? How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](user-guide/liker-land/like.md)
 * [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](user-guide/liker-land/superlike.md)
 
-### ****[**​I am a Content Creator**](user-guide/liker-land/#for-content-creators)
+### ****[**​I am a Content Creator**](archive/archive/liker-land/#for-content-creators)
 
-* [I am a content creator, how can LikeCoin help me?](user-guide/liker-land/#for-content-creators)
+* [I am a content creator, how can LikeCoin help me?](archive/archive/liker-land/#for-content-creators)
 * [How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](user-guide/liker-land/like.md)
 * [What is Super Like? What is a Content Jockey? Why not use Artificial Intelligence for curations?](user-guide/liker-land/superlike.md)
 * [What are the functions of the LikeCoin button?](user-guide/creator/)
 * [Earn LikeCoin on YouTube？Wow!](archive/archive/creatortools/youtube.md)
 * [How to embed LikeCoin button into a self-hosted WordPress?](user-guide/wordpress.md)
 * [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](user-guide/creator/blogging-platforms/)
-* [How to attract more sponsors?](user-guide/creatortools/creators-pitch.md)
+* [How to attract more sponsors?](archive/archive/creatortools/creators-pitch.md)
 * [Portfolio Page helps to display all of my works? How to use it?  ](user-guide/creatortools/portfolio-page.md)
 * [How to check my daily and weekly rewards?](user-guide/creatortools/rewards/)
 * [How to check my monthly achievement?](user-guide/creatortools/monthly-report.md)

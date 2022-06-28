@@ -6,17 +6,17 @@ description: Supporting content creator is easy
 
 Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
 
-Users stake at least **5,000 LIKE** to the “Civic Liker node”, with the wallet address bind with a Liker ID. All delegation rewards from Civic Liker will be distributed to creators in the form of LIKE. There is no need to use the delegation principal, and only the delegation rewards can turn likes into income.
+Users stake at least **5,000 LIKE** to the “Civic Liker node”, with the wallet address bind with a Liker ID. All delegation rewards from the Civic Liker node will be distributed to creators in the form of LIKE. There is no need to use the delegation principle, and only the delegation rewards can turn likes into income.
 
 Based on the current commission rate of about 15%, the monthly rewards that 5000 LIKE can generate is equal to 5000\*0.15/12 = 62.5 LIKE, which is about US$1.5 per month at the current exchange rate. The more to delegate, the more Likes to turn into actual income.
 
 Please note that there is no "Ranking" system for Civic Liker, and the only effect of delegating more LikeCoin is rewarding more to the creators:
 
-* Every clap by Civic Liker will be equivalent to 1 LikeCoin.
-* The stake reward derived by Civic Liker delegation every day will be distributed to creators according to the 1 clap=1 LIKE principle
+* Every clap on the LikeCoin button by a Civic Liker will be equivalent to 1 LikeCoin.
+* The stake reward derived by Civic Liker delegation every day will be distributed to the creators according to the 1 clap to the LikeCoin button = 1 LIKE principle
 * The unused staking reward can be accumulated until the account balance is used up
 
-Civic Liker can distribute the delegation rewards, but also distribute the [Creators Fund](creators-fund.md). The influence of clicking the LikeCoin button on the allocation of funds will vary with the delegation amount. Stake more, reward more, and have greater power to vote in LikeCoin DAO and for Creators Fund distribution.
+Civic Liker not only can distribute the delegation rewards, but also distribute the [Creators Fund](creators-fund.md). The influence of clicking the LikeCoin button on the allocation of funds will vary with the delegation amount. Stake more, reward more, and have greater power to vote in LikeCoin DAO and for Creators Fund distribution.
 
 ## Become a Civic Liker by delegating with dao.like.co
 

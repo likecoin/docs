@@ -10,7 +10,7 @@ Portfolio Page helps user to share their reading history, The Portfolio Page url
 
 ## Personal Information
 
-The left hand side of the Portfolio Page displays information of the user, including [Liker ID](../liker-id/), name and [creator pitch](creators-pitch.md). If the user is a [Civic Liker](../civic-liker/), the date he/she started to be a Civic Liker and with the following functions:
+The left hand side of the Portfolio Page displays information of the user, including [Liker ID](../liker-id/), name and [creator pitch](../../archive/archive/creatortools/creators-pitch.md). If the user is a [Civic Liker](../civic-liker/), the date he/she started to be a Civic Liker and with the following functions:
 
 * Follow - Click and follow the user as a [Content Jockey](../liker-land/superlike.md)
 * [LIKE Pay](../../developer/like-pay/)－Transfer LikeCoin to the user

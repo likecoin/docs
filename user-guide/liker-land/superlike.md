@@ -1,44 +1,51 @@
 ---
-description: What is Super Like? What is a Content Jockey?
+description: What is Super Like?
 ---
 
-# Super Like - be a Content Jockey
+# Super Like - Tweeting to the Space
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDKKfTTMClruYgMEN2z%2F-MDKL9uOAcQBWwTt-7PY%2Flikecoin\_ad92\_super\_like\_dragonball.png?alt=media\&token=aebf61cf-24c0-4d70-9cce-a582d82122e8)
 
 ## Concept
 
-Clicking on the LikeCoin button for the 6th time, _**share your favourite, worth exploring contents to Liker Land.**_
+When users click the 6th like (Super Like) on the LikeCoin button to an article, it will be posted to the decentralized social media [depub.space](http://depub.space/). Not only does this new function boost visibility of quality content, but also helps to keep the content on blockchain indefinitely.
 
-### Browsing, is for reading&#xD;
+The Liker Land app will display the World Feed for depub.space.
 
-The time for daily reading is limited and you are not able to digest the ocean of knowledge. Moreover, speed reading won't make you smarter. Liker Land helps readers to precisely follow the content that they love, spending their valuable time on deep reading.
+The gas fee and decentralized storage fee for uploading to depub.space will be subsidized by Liker Land.&#x20;
 
-### **Sharing, is to inspire**
+_\*The previous 4 LikeCoin rewards will be cancelled._
 
-Every Super Like shares the same content to Liker Land, and attracts friends with similar tastes. The quota of the Super Like is limited each day, only your favourite contents can be shared to others.
+### **Working Together to Build Web3 Content Universe**
 
-### Like, is to reward&#xD;
+depub.space is a decentralized social media in the LikeCoin ecosystem. Every tweet is a record on LikeCoin chain. No registration is needed for the sake of privacy. You can use it simply with your Keplr.
 
-Super Like redefines the definition of "Share", Share = Rewards. Not only creators earn rewards, content jockeys who share the piece of content can earn rewards too.
+Creators need content curation tools and distribution channels. One of the conventional methods for promoting quality content is to share its hyperlink on social media such as Facebook or Twitter. Liker Land brings in a brand new option: Readers can click and share the content to depub.space from any website which supports the [LikeCoin button](../creator/).
+
+### Mobile Version of depub.space?
+
+Currently, users need to use the desktop Keplr explorer plugin to access depub.space, as it cannot be accessed on a mobile device. As the mobile wallet of LikeCoin, [Liker Land app](https://liker.land/getapp) may make tweeting on mobile possible once it is incorporated to depub.space. There are however many technical obstacles ahead, and developers in the community are discussing on [Discord](http://discord.gg/likecoin). You are most welcome to join us.
+
+We are still testing the new Super Like layout internally, and shall launch it within one month.
 
 ## Usage <a href="#zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
 * Clicking the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When clicking on the 6th time, the article is being "Super Liked".
-* The "Super Liked" article will be on Liker Land. Your followers can see it on "[My Content Jockey](../../archive/archive/liker-land/today-headline.md#my-content-jockey)"  and everyone can see it on "[The world has Super Liked](../../archive/archive/liker-land/today-headline.md#the-world-has-super-liked)".
+* The "Super Liked" article will be on Liker Land. Your followers can see it on "Following" and everyone can see it on "Global".
 
 ![](../../.gitbook/assets/superlike.gif)
 
-* A tick will then appear on the star totem representing one chance of Super Like is being utilized. Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset occurs.&#x20;
-* The RSS icon on the lower right hand corner turned on and the article is being shared to Liker Land.
+* A tick will then appear on the star totem representing one chance of Super Like being utilized. Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset.
+* The RSS icon on the lower right hand corner turned on and the article is being shared to Liker Land and depub.space.
 * Super Like cannot be accumulated, if it is not being used before the time to reset, it will be obsolete. You can only Super Like twice a day.
 * You can Super Like a single article for more than one time.
-* Content creators click on the LikeCoin button of their own article can Super Like and put their article to the ["Works" section in Portfolio Page](../creatortools/portfolio-page.md#works)  and "[The world has Super Liked](../../archive/archive/liker-land/today-headline.md#the-world-has-super-liked)".
+* Content creators click on the LikeCoin button of their own article can Super Like and put their article to the ["Works" section in Portfolio Page](../creatortools/portfolio-page.md#works) and the "Global".
 
-{% hint style="info" %}
-Civic Liker Super Like his/her own work will not earn any LikeCoin from creators fund\
 
-{% endhint %}
+
+## **Demonstration**
+
+{% embed url="https://www.youtube.com/watch?v=3msGjS3ezqk" %}
 
 ## **How to participate?** <a href="#zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
