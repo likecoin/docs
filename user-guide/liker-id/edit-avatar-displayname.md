@@ -28,8 +28,8 @@ description: 讓自己的性格更特出
 
 ### Liker Land 手機應用程式及網頁版
 
-{% content-ref url="../liker-land/download.md" %}
-[download.md](../liker-land/download.md)
+{% content-ref url="../liker land/download.md" %}
+[download.md](<../liker land/download.md>)
 {% endcontent-ref %}
 
 ![](../../.gitbook/assets/img\_2452.jpg)
