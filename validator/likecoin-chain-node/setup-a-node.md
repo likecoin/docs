@@ -123,7 +123,7 @@ cd ~/likecoin-chain
 make -C deploy setup-node
 ```
 
-Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/testnets), current active testnet is `likecoin-public-testnet-4`. Following is the command for running the setup-node script for testnet. Please confirm the latest testnet and parameters to be used in the testnet Github repository.
+Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/testnets), current active testnet is `likecoin-public-testnet-5`. Following is the command for running the setup-node script for testnet. Please confirm the latest testnet and parameters to be used in the testnet Github repository.
 
 ```bash
 export MONIKER='<My Validator>'
@@ -133,6 +133,8 @@ export LIKED_VERSION='2.0.2'
 cd ~/likecoin-chain
 make -C deploy setup-node
 ```
+
+If you decided not to using state sync as describe below, you may need to change the `LIKED_VERSION=1.2.0`. 1.2.0 is the version we start adpoting cosmovisor, it should upgrade itself to newer version during sync.
 
 ### Import existing validator files
 
@@ -187,7 +189,7 @@ keyhash
 
 > Skip this section for migrating operators
 
-yncing a node from genesis often requires hours if not days. To save time, we can start the new node from a known block.
+Syncing a node from genesis often requires hours if not days. To save time, we can start the new node from a known block.
 
 Firstly, obtain two trusted rpc endpoints. These info can often be found on the same repos hosting genesis files. We have included the addresses of mainnet public nodes below.
 
@@ -227,7 +229,7 @@ Then, the node will use state sync to synchronize with the network instead of re
 If you have already started the service once, i.e. there is an ongoing sync, you will have to reset the state back to genesis, otherwise state sync will not start:
 
 ```shell
-~/liked unsafe-reset-all
+~/liked tendermint unsafe-reset-all
 ```
 
 ### Change node configuration
