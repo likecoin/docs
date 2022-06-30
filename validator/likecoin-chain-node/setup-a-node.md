@@ -198,7 +198,7 @@ curl -s https://fotan-node-1.like.co:443/rpc/block
 ```
 
 {% hint style="info" %}
-For testnet, it should be `curl -s https://likecoin-public-testnet-4.oursky.dev/rpc/block`
+For testnet, it should be `curl -s https://likecoin-public-testnet-5.oursky.dev/rpc/block`
 {% endhint %}
 
 The height is `result.block.header.height`, while the hash is `result.block_id.hash`
