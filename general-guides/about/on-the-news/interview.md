@@ -28,6 +28,10 @@
 
 [Arweave Attracts More Chinese Content Creators in Fight Against Censorship](https://beincrypto.com/arweave-attracts-more-chinese-content-creators-in-censorship-battle/)
 
+### 05/14 unwire.pro
+
+[「去中心化」偽命題抑或真革命？ 初創冀優化 Web3 用戶體驗](https://unwire.pro/2022/05/14/web3-2/feature/)
+
 ### 04/21 信報 優雅生活
 
 [【Blockchain鏈出個未來】高重建：鏈上追求三種自由](https://lj.hkej.com/lj2017/artculture/article/id/3108283/%E3%80%90Blockchain%E9%8F%88%E5%87%BA%E5%80%8B%E6%9C%AA%E4%BE%86%E3%80%91%E9%AB%98%E9%87%8D%E5%BB%BA%EF%BC%9A%E9%8F%88%E4%B8%8A%E8%BF%BD%E6%B1%82%E4%B8%89%E7%A8%AE%E8%87%AA%E7%94%B1)
@@ -59,6 +63,10 @@
 ### 12/26 明報
 
 [未來城市：元宇宙之DAO 無大台社群 投票話事](https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20211226/s00005/1640456257406/%E6%9C%AA%E4%BE%86%E5%9F%8E%E5%B8%82-%E5%85%83%E5%AE%87%E5%AE%99%E4%B9%8Bdao-%E7%84%A1%E5%A4%A7%E5%8F%B0%E7%A4%BE%E7%BE%A4-%E6%8A%95%E7%A5%A8%E8%A9%B1%E4%BA%8B)
+
+### 12/19 明報
+
+[未來城市：元宇宙「咁假」點解有價值？ 加密貨幣誕生的啟示](https://ol.mingpao.com/ldy/cultureleisure/culture/20211219/1639851408826/%E6%9C%AA%E4%BE%86%E5%9F%8E%E5%B8%82-%E5%85%83%E5%AE%87%E5%AE%99%E3%80%8C%E5%92%81%E5%81%87%E3%80%8D%E9%BB%9E%E8%A7%A3%E6%9C%89%E5%83%B9%E5%80%BC-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E8%AA%95%E7%94%9F%E7%9A%84%E5%95%9F%E7%A4%BA)
 
 ### 12/18 財科暗戰
 
@@ -103,6 +111,14 @@
 ### 07/21 區塊勢
 
 [去中心化出版的基礎建設 ft. LikeCoin 創辦人高重建](https://blocktrend.substack.com/p/ep124)
+
+### 07/19 unwire.pro
+
+[「萬物代幣化時代」降臨！用 NFT 交易房地產又如何？](https://unwire.pro/2021/07/19/nft-property/feature/)
+
+### 07/08 HK01
+
+[IPFS｜將會取代現有 HTTP 架構？可以永久保存內容與檔案的技術](https://www.hk01.com/sns/article/648037)
 
 ### 06/26 cointribune
 
