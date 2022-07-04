@@ -2,10 +2,6 @@
 
 {% tabs %}
 {% tab title="2022" %}
-### 12/07 INSIDE
-
-[【你買 NFT 了嗎】走在 Web3 媒體路三年，Matters 跟張潔平想用 NFT 邁出下一步](https://www.inside.com.tw/feature/nft/25869-matters-web3-nft)
-
 ### 06/15 風傳媒
 
 [炒完NFT、Game-Fi，接下來要瘋什麼？專家解析新趨勢：Social-Fi值得投資人關注](https://www.storm.mg/article/4379702?page=1)
@@ -21,10 +17,6 @@
 ### 04/02 數位時代
 
 [狗爺進軍NFT！區塊鏈、SocialFi改變音樂生態，社群權力如何回歸創作者？](https://www.bnext.com.tw/article/68392/socialfi-web2-web3-nft)
-
-### 03/21 Meet 創業小聚
-
-[平均年薪達334萬元！AppWorks將啟動第四支基金，擴大招募投資經理與分析師](https://meet.bnext.com.tw/articles/view/48885)
 
 ### 01/04 OPENBOOK 閱讀誌
 

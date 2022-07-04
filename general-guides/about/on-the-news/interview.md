@@ -12,6 +12,10 @@
 
 [華爾街日報》NFT在中國有了新用途：在疫情中對抗審查](https://www.storm.mg/article/4347313?page=2)
 
+### 05/24  The Wall Street Journal
+
+[NFTが中国で急増、検閲かいくぐる新手法](https://jp.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653345896)
+
 ### 05/23 The Wall Street Journal
 
 [NFT在中国有了新用途：在疫情中对抗审查](https://cn.wsj.com/articles/nft%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BA%86%E6%96%B0%E7%94%A8%E9%80%94-%E5%9C%A8%E7%96%AB%E6%83%85%E4%B8%AD%E5%AF%B9%E6%8A%97%E5%AE%A1%E6%9F%A5-11653306611)
