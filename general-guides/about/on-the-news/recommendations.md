@@ -32,17 +32,49 @@
 
 {% embed url="https://www.youtube.com/watch?v=H5KlmB6iJ9s" %}
 
+### 2022/03/04 IamCryptoWolf
+
+{% embed url="https://www.youtube.com/watch?v=_hoGHQo8Kxo" %}
+
+### 2022/02/26 Charles Akintaro
+
+{% embed url="https://www.youtube.com/watch?v=CBFQkUXLcqU" %}
+
+### 2022/02/22 Mr Hide We Are Crypto
+
+{% embed url="https://www.youtube.com/watch?v=rEVvEQa86ug" %}
+
 ### 2022/02/18 Crypto Conscious
 
 {% embed url="https://www.youtube.com/watch?v=N3TaFRTI3GE" %}
+
+### 2022/02/08 しゅちゅわんの暗号資産情報
+
+{% embed url="https://www.youtube.com/watch?v=EHB79M3p9FQ" %}
 
 ### 2022/02/08 Safe Free Airdrop
 
 {% embed url="https://www.youtube.com/watch?v=QaPj7PrVypU" %}
 
+### 2022/02/04 大魯蛇的網賺人生
+
+{% embed url="https://www.youtube.com/watch?v=Fdi3k8OuDcw" %}
+
+### 2022/01/21 ADAMVERSE
+
+{% embed url="https://www.youtube.com/watch?v=57MabGhapfg" %}
+
 ### 2022/01/13 Hawes Capital Defi Discovery
 
 {% embed url="https://www.youtube.com/watch?v=mWZLx6GryFM" %}
+
+### 2022/01/17 Theodore Hyman
+
+{% embed url="https://www.youtube.com/watch?v=psAtp3xEzMY" %}
+
+### 2021/12/19 Learn Fast Earn
+
+{% embed url="https://www.youtube.com/watch?v=-cSmpbmxY0U" %}
 
 ### 2021/12/03 小本的有聲手帳 l komoto's podcast
 
@@ -51,6 +83,12 @@
 ### 2021/11/07 Zone9 - Analyse Crypto
 
 {% embed url="https://www.youtube.com/watch?v=93842HXc76w" %}
+
+### 2021/11/02 Independence of Cyberspace
+
+{% embed url="https://www.youtube.com/watch?v=JNSw1Q6nDxo" %}
+
+{% embed url="https://www.youtube.com/watch?v=8AhrmYVuiEw" %}
 
 ### 2021/10/31 MakClass 麥課
 
@@ -67,10 +105,6 @@
 ### 2021/09/29 kane chau
 
 {% embed url="https://www.youtube.com/watch?v=Bq5_NB836Ic" %}
-
-### 2021/02/22 yun guan
-
-{% embed url="https://www.youtube.com/watch?v=DNB5x6j0azI" %}
 
 ### 2020/02/22 李BOBO
 

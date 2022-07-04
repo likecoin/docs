@@ -36,6 +36,14 @@
 
 [「去中心化」偽命題抑或真革命？ 初創冀優化 Web3 用戶體驗](https://unwire.pro/2022/05/14/web3-2/feature/)
 
+### 04/30 尹思哲
+
+{% embed url="https://www.youtube.com/watch?v=OLx5WOJiN0A" %}
+
+### 04/26 Crypto Conscious
+
+{% embed url="https://www.youtube.com/watch?v=wC51ym1-ghM" %}
+
 ### 04/21 信報 優雅生活
 
 [【Blockchain鏈出個未來】高重建：鏈上追求三種自由](https://lj.hkej.com/lj2017/artculture/article/id/3108283/%E3%80%90Blockchain%E9%8F%88%E5%87%BA%E5%80%8B%E6%9C%AA%E4%BE%86%E3%80%91%E9%AB%98%E9%87%8D%E5%BB%BA%EF%BC%9A%E9%8F%88%E4%B8%8A%E8%BF%BD%E6%B1%82%E4%B8%89%E7%A8%AE%E8%87%AA%E7%94%B1)
