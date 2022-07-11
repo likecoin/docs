@@ -129,12 +129,12 @@ Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/test
 export MONIKER='<My Validator>'
 export GENESIS_URL='https://raw.githubusercontent.com/likecoin/testnets/master/likecoin-public-testnet-5/genesis.json'
 export LIKED_SEED_NODES='7a38dfc59eb43b27cf2cc87b46a43e76aeaaf012@20.205.224.107:26656,11c0d57ae2b37122bd8e7de82a1b92c87bf3d45a@20.24.152.136:26656'
-export LIKED_VERSION='2.0.2'
+export LIKED_VERSION='3.0.0'
 cd ~/likecoin-chain
 make -C deploy setup-node
 ```
 
-If you decided not to using state sync as describe below, you may need to change the `LIKED_VERSION=1.2.0`. 1.2.0 is the version we start adpoting cosmovisor, it should upgrade itself to newer version during sync.
+If you decided not to using state sync as describe below, you may need to change the `LIKED_VERSION=1.2.0`. 1.2.0 is the version we start adpoting cosmovisor, it should upgrade itself to newer version during sync. There is still some manual upgrade need due to patch or bugs, please refer to [syncing-from-gensis.md](setup-a-node/syncing-from-gensis.md "mention").
 
 ### Import existing validator files
 
