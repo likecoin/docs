@@ -1,12 +1,12 @@
-# Syncing from gensis
+# Syncing from genesis
 
-If have any reason not using statesync and opt to sync from the gensis, here is some notes for you.
+If have any reason not using statesync and opt to sync from the genesis, here is some notes for you.
 
 For replacing binary at cosmovisor, download the respective binary and copy to this location:`.liked/cosmovisor/current/bin/liked`
 
 #### Mainnet
 
-Gensis: https://raw.githubusercontent.com/likecoin/mainnet/master/genesis.json
+Genesis: https://raw.githubusercontent.com/likecoin/mainnet/master/genesis.json
 
 * v1.2.0
 * v2.0.0
@@ -16,7 +16,7 @@ Gensis: https://raw.githubusercontent.com/likecoin/mainnet/master/genesis.json
 
 #### Testnet
 
-Gensis: https://raw.githubusercontent.com/likecoin/testnets/master/likecoin-public-testnet-5/genesis.json
+Genesis: https://raw.githubusercontent.com/likecoin/testnets/master/likecoin-public-testnet-5/genesis.json
 
 * v1.2.0
 * v2.0.0

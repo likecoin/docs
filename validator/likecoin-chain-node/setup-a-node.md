@@ -134,7 +134,7 @@ cd ~/likecoin-chain
 make -C deploy setup-node
 ```
 
-If you decided not to using state sync as describe below, you may need to change the `LIKED_VERSION=1.2.0`. 1.2.0 is the version we start adpoting cosmovisor, it should upgrade itself to newer version during sync. There is still some manual upgrade need due to patch or bugs, please refer to [syncing-from-gensis.md](setup-a-node/syncing-from-gensis.md "mention").
+If you decided not to using state sync as describe below, you may need to change the `LIKED_VERSION=1.2.0`. 1.2.0 is the version we start adpoting cosmovisor, it should upgrade itself to newer version during sync. There is still some manual upgrade need due to patch or bugs, please refer to [syncing-from-genesis.md](setup-a-node/syncing-from-genesis.md "mention").
 
 ### Import existing validator files
 

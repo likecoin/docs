@@ -59,7 +59,7 @@
     * [Node Security](validator/likecoin-chain-node/setup-a-node/node-security.md)
     * [Setup on docker (Deprecated)](validator/likecoin-chain-node/setup-a-node/setup-on-docker-deprecated.md)
     * [Setup on cloud platforms](validator/likecoin-chain-node/setup-a-node/setup-on-cloud-platforms.md)
-    * [Syncing from gensis](validator/likecoin-chain-node/setup-a-node/syncing-from-gensis.md)
+    * [Syncing from genesis](validator/likecoin-chain-node/setup-a-node/syncing-from-genesis.md)
   * [Node configuration](validator/likecoin-chain-node/node-configuration.md)
   * [Command line interface](validator/likecoin-chain-node/command-line-interface/README.md)
     * [Useful commands](validator/likecoin-chain-node/command-line-interface/useful-commands.md)
