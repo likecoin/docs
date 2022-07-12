@@ -64,6 +64,7 @@
   * [Command line interface](validator/likecoin-chain-node/command-line-interface/README.md)
     * [Useful commands](validator/likecoin-chain-node/command-line-interface/useful-commands.md)
 * [Become a validator](validator/become-a-validator.md)
+* [StarFerry Upgrade](validator/starferry-upgrade.md)
 * [LaiChiKok Upgrade](validator/laichikok-upgrade.md)
 * [FoTan Upgrade](validator/fotan-upgrade-mainnet/README.md)
   * [Overview](validator/fotan-upgrade-mainnet/overview.md)
