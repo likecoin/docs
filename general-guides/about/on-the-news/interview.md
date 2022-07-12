@@ -2,6 +2,16 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 07/10 Cosmos Spaces
+
+[#Cosmos Pot luck w/ Likecoin & depub.space🎙Host: Cosmos HOSS](https://twitter.com/Cosmos\_Spaces/status/1545838770167201793)
+
+### 07/07 財科暗戰
+
+{% embed url="https://www.youtube.com/watch?v=gQKeFeB7HHo" %}
+
+{% embed url="https://www.youtube.com/watch?v=3tIImnAvxVc" %}
+
 ### 06/15 私董會 OUR BOARD ROOM
 
 [了解NFT相關的版權問題！訪問 LikeCoin 內容NFT 和 MonkeyKing 玩具NFT。](https://www.clubhouse.com/room/xpQaNVKv)
