@@ -2,7 +2,7 @@
 description: Embed LikeCoin button by just including <script> in your website
 ---
 
-# Javascript + HTML
+# Javascript CDN
 
 ## Usage
 
@@ -10,10 +10,11 @@ description: Embed LikeCoin button by just including <script> in your website
 
 `<div class="likecoin-embed likecoin-button" data-liker-id="{YOUR_LIKECOIN_ID}" data-href="YOUR_WEBPAGE_URL"></div>`
 
-| Param             | Description                     |
-| ----------------- | ------------------------------- |
-| `data-liker-id`   |  Creator's Liker ID             |
-| `data-liker-href` | Current content's canonical URL |
+| Param             | Description                                    |
+| ----------------- | ---------------------------------------------- |
+| data-iscn-id      | Content's ISCN ID, overrides href and Liker ID |
+| `data-liker-id`   | Creator's Liker ID                             |
+| `data-liker-href` | Current content's canonical URL                |
 
 Here, `data-liker-id` is required and refers to your Liker ID, where `data-href` is optional and refers to your page's canonical URL. If omitted, the SDK will use the current URL of the browser. It is suggested to always include a `data-href`
 
