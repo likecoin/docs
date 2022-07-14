@@ -108,6 +108,10 @@
 
 [Video](https://www.youtube.com/watch?v=z4L8H2rQrKI)
 
+### 01/13，19，26 Heinrich-Böll-Stiftung Asia Global Dialogue - Hong Kong
+
+[Heinrich-Böll-Stiftung Asia Global Dialogue - Hong Kong](https://hk.boell.org/en/person/kin-ko)
+
 :end:&#x20;
 {% endtab %}
 

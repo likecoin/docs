@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 07/12 網絡星期二
+
+{% embed url="https://www.youtube.com/watch?v=3OGTSRJK5mY" %}
+
 ### 07/10 Cosmos Spaces
 
 [#Cosmos Pot luck w/ Likecoin & depub.space🎙Host: Cosmos HOSS](https://twitter.com/Cosmos\_Spaces/status/1545838770167201793)
@@ -74,6 +78,10 @@
 
 {% embed url="https://www.youtube.com/watch?v=wfDQ0FOeaGI" %}
 
+### 01/15 職人故事
+
+[LikeCoin發起人高重建 由無到有的創造過程](https://craftsmanbio.com/2022/01/15/kinko-likecoin/)
+
 ### 01/14 C基金
 
 {% embed url="https://youtu.be/HUCmPNn2Oko?t=967" %}
@@ -110,9 +118,13 @@
 
 {% embed url="https://www.youtube.com/watch?v=gVkYUHtpvcU" %}
 
-### 11/21 中山銅鑼灣書店書店
+### 11/21 中山銅鑼灣書店
 
 {% embed url="https://www.youtube.com/watch?list=PLK9zGGnwGuZCdKOPzJC-1e7DL_cPl9alZ&v=i6K5i7f4j_M" %}
+
+### 11/02 forkast
+
+[Back up Hong Kong: How blockchain has quietly become history’s hard drive](https://forkast.news/how-blockchain-quietly-becoming-history-hard-drive/)
 
 ### 09/15 信報 徐家健
 

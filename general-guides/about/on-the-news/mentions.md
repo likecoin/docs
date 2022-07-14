@@ -40,6 +40,10 @@
 
 [What’s Coming to Cosmos in 2022?](https://blog.cosmos.network/whats-coming-to-cosmos-in-2022-ce8e48d383ab)
 
+### 10/26 澳門日報
+
+[（一寂之地）化讚為賞](http://www.macaodaily.com/html/2021-10/20/content\_1551317.htm)
+
 ### 05/19 立場新聞 黃牛山人專欄
 
 [備份香港，不能只用家中硬碟](https://beta.thestandnews.com/technology/%E5%82%99%E4%BB%BD%E9%A6%99%E6%B8%AF-%E4%B8%8D%E8%83%BD%E5%8F%AA%E7%94%A8%E5%AE%B6%E4%B8%AD%E7%A1%AC%E7%A2%9F)
