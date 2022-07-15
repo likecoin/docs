@@ -191,5 +191,6 @@ function sendISCNPayload() {
 
 ```
 
-[\
-](https://docs.like.co/developer/like-pay/web-widget)
+### Interactive Demo
+
+[https://codesandbox.io/s/like-co-iscn-ar-demo-ynenq0?file=/pages/index.vue](https://codesandbox.io/s/like-co-iscn-ar-demo-ynenq0?file=/pages/index.vue)
