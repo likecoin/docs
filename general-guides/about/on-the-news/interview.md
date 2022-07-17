@@ -434,15 +434,15 @@
 
 ### **05/21 立場新聞**
 
-{% embed url="https://www.thestandnews.com/media/likecoin-%E6%98%AF%E7%B6%B2%E5%AA%92%E5%87%BA%E8%B7%AF-%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%9C%9F%E6%9C%9B%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E8%AE%93%E5%85%AC%E6%B0%91%E6%94%AF%E6%8C%81%E5%89%B5%E4%BD%9C%E8%80%85/" %}
+[LikeCoin 是網媒出路？　創始人高重建：望化讚為賞　讓公民支持創作者](https://web.archive.org/web/20190604014459/https://www.thestandnews.com/media/likecoin-%E6%98%AF%E7%B6%B2%E5%AA%92%E5%87%BA%E8%B7%AF-%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%9C%9F%E6%9C%9B%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E8%AE%93%E5%85%AC%E6%B0%91%E6%94%AF%E6%8C%81%E5%89%B5%E4%BD%9C%E8%80%85/)
 
 ### 05/13 眾新聞
 
-{% embed url="https://www.hkcnews.com/article/20226/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-likecoin-%E7%9C%BE%E6%96%B0%E8%81%9E-20490/%E7%9C%BE%E6%96%B0%E8%81%9E%E5%8F%83%E8%88%87%E3%80%90%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E8%A8%88%E5%8A%83%E3%80%91%E2%80%94%E2%80%94%E4%B8%80%E5%A0%B4%E8%AE%93%E5%89%B5%E4%BD%9C%E5%8F%AF%E4%BB%A5%E7%95%B6%E9%A3%AF%E5%90%83%E7%9A%84%E9%81%8B%E5%8B%95" %}
+[眾新聞參與【讚賞公民計劃】——一場讓創作可以當飯吃的運動](https://www.hkcnews.com/article/20226/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-likecoin-%E7%9C%BE%E6%96%B0%E8%81%9E-20490/%E7%9C%BE%E6%96%B0%E8%81%9E%E5%8F%83%E8%88%87%E3%80%90%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E8%A8%88%E5%8A%83%E3%80%91%E2%80%94%E2%80%94%E4%B8%80%E5%A0%B4%E8%AE%93%E5%89%B5%E4%BD%9C%E5%8F%AF%E4%BB%A5%E7%95%B6%E9%A3%AF%E5%90%83%E7%9A%84%E9%81%8B%E5%8B%95)
 
 ### 01/01 新頭殼 Newtalk
 
-{% embed url="https://newtalk.tw/news/view/2019-01-01/187217" %}
+[創夢實驗室》oice 視覺小說：區塊鏈讓賦予故事血肉的創作者都被看見(下)](https://newtalk.tw/news/view/2019-01-01/187217)
 
 :end:&#x20;
 {% endtab %}
@@ -450,29 +450,27 @@
 {% tab title="2018" %}
 ### 12/29 新頭殼 Newtalk
 
-{% embed url="https://newtalk.tw/news/view/2018-12-29/187188" %}
+[創夢實驗室》oice 視覺小說：用區塊鏈打破創作困境 讓故事有價(上)](https://newtalk.tw/news/view/2018-12-29/187188)
 
 ### 09/24 ZEEK 玩家誌
 
 [\[一文搞懂\] 給內容創作者的《LikeCoin》讚賞幣 含WordPress加入「LikeButton」教學](https://zeekmagazine.com/archives/77926)
 
-### 09/20 港台電視31 講錢。講呢啲：21世紀揾錢搞革命都靠條鏈?&#xD;
+### 09/20 港台電視31
 
-{% embed url="https://youtu.be/2sDaYdtUm0Y?t=1089" %}
+[講錢。講呢啲：21世紀揾錢搞革命都靠條鏈?](https://podcast.rthk.hk/podcast/item.php?pid=1353\&eid=121516\&year=2018\&lang=zh-CN)
 
 ### **08/17 HK01**
 
-{% embed url="https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222574/%E5%B0%88%E8%A8%AA-%E5%89%B5%E6%84%8F%E6%9C%89%E5%83%B9-%E7%B6%B2%E6%B0%91%E6%8C%89likecoin%E9%8D%B5-%E5%8F%AF%E5%8A%A9%E5%89%B5%E4%BD%9C%E8%80%85%E6%97%A5%E9%80%B2%E5%8D%83%E9%87%91" %}
+[【專訪】創意有價！網民按LikeCoin鍵　可助創作者日進千金](https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222574/%E5%B0%88%E8%A8%AA-%E5%89%B5%E6%84%8F%E6%9C%89%E5%83%B9-%E7%B6%B2%E6%B0%91%E6%8C%89likecoin%E9%8D%B5-%E5%8F%AF%E5%8A%A9%E5%89%B5%E4%BD%9C%E8%80%85%E6%97%A5%E9%80%B2%E5%8D%83%E9%87%91)
 
-{% embed url="https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222576/likecoin%E5%B0%88%E8%A8%AA-%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%96%B0%E5%B9%A3%E6%99%AE%E5%8F%8A%E4%B8%8D%E6%98%93-%E6%9C%80%E9%87%8D%E8%A6%81%E6%9C%89%E6%98%8E%E7%A2%BA%E5%AE%9A%E4%BD%8D" %}
+[【LikeCoin專訪】高重建：新幣普及不易　最重要有明確定位](https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222576/likecoin%E5%B0%88%E8%A8%AA-%E9%AB%98%E9%87%8D%E5%BB%BA-%E6%96%B0%E5%B9%A3%E6%99%AE%E5%8F%8A%E4%B8%8D%E6%98%93-%E6%9C%80%E9%87%8D%E8%A6%81%E6%9C%89%E6%98%8E%E7%A2%BA%E5%AE%9A%E4%BD%8D)
 
-{% embed url="https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222575/likecoin%E5%B0%88%E8%A8%AA-%E5%80%9F%E7%B6%B2%E6%B0%91%E8%88%89%E5%A0%B1%E6%8A%84%E8%A5%B2%E8%A1%8C%E7%82%BA-%E9%AB%98%E9%87%8D%E5%BB%BA-%E9%9B%A3%E7%A6%81%E7%B5%95%E4%BD%86%E6%AF%94%E7%8F%BE%E6%B3%81%E5%A5%BD" %}
+[【LikeCoin專訪】借網民舉報抄襲行為　高重建：難禁絕但比現況好](https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/222575/likecoin%E5%B0%88%E8%A8%AA-%E5%80%9F%E7%B6%B2%E6%B0%91%E8%88%89%E5%A0%B1%E6%8A%84%E8%A5%B2%E8%A1%8C%E7%82%BA-%E9%AB%98%E9%87%8D%E5%BB%BA-%E9%9B%A3%E7%A6%81%E7%B5%95%E4%BD%86%E6%AF%94%E7%8F%BE%E6%B3%81%E5%A5%BD)
 
 ### 08/05 D100
 
-[《對沖人生路》主持：錢志健 『 Likecoin』 嘉賓：高重建、Bonita Wang](https://www.d100.net/%E3%80%8A%E5%B0%8D%E6%B2%96%E4%BA%BA%E7%94%9F%E8%B7%AF%E3%80%8B%E4%B8%BB%E6%8C%81%EF%BC%9A%E9%8C%A2%E5%BF%97%E5%81%A5-%E3%80%8E-likecoin%E3%80%8F-%E5%98%89%E8%B3%93%EF%BC%9A%E9%AB%98%E9%87%8D%E5%BB%BA/)
-
-{% embed url="https://www.facebook.com/D100RunningtheRace/posts/2109632045734447" %}
+[《對沖人生路》主持：錢志健 『 Likecoin』 嘉賓：高重建、Bonita Wang](https://web.archive.org/web/20180807191736/https://www.d100.net/%E3%80%8A%E5%B0%8D%E6%B2%96%E4%BA%BA%E7%94%9F%E8%B7%AF%E3%80%8B%E4%B8%BB%E6%8C%81%EF%BC%9A%E9%8C%A2%E5%BF%97%E5%81%A5-%E3%80%8E-likecoin%E3%80%8F-%E5%98%89%E8%B3%93%EF%BC%9A%E9%AB%98%E9%87%8D%E5%BB%BA/)
 
 ### **08/01 突破書誌 054期 搵真銀**
 
@@ -486,7 +484,7 @@
 
 ### 06/06 HK01
 
-{% embed url="https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/196190/%E6%B8%AF%E7%94%A2ico-likecoin%E9%9B%86%E8%B3%87%E9%80%BE4000%E8%90%AC-%E5%86%80-%E5%8C%96like%E7%82%BAcoin-%E5%9B%9E%E9%A5%8B%E5%89%B5%E4%BD%9C%E4%BA%BA" %}
+[港產ICO LikeCoin集資逾4000萬　冀「化Like為Coin」回饋創作人](https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/196190/%E6%B8%AF%E7%94%A2ico-likecoin%E9%9B%86%E8%B3%87%E9%80%BE4000%E8%90%AC-%E5%86%80-%E5%8C%96like%E7%82%BAcoin-%E5%9B%9E%E9%A5%8B%E5%89%B5%E4%BD%9C%E4%BA%BA)
 
 ### 06/01 &#xD;Liquid
 
@@ -496,23 +494,23 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 05/23 **壹**周刊
 
-{% embed url="https://hk.nextmgz.com/article/2_588342_0" %}
+[【港產加密貨幣】LikeCoin創辦人: 將創意和回報掛鈎 向fb施壓](https://web.archive.org/web/20200328233133/https://hk.nextmgz.com/article/2\_588342\_0)
 
-{% embed url="https://hk.nextmgz.com/article/2_588463_0" %}
+[【與中央分權】區塊鏈帶來革命? LikeCoin創辦人: 唔會徒勞無功](https://web.archive.org/web/20200328233134/https://hk.nextmgz.com/article/2\_588463\_0)
 
-{% embed url="https://hk.nextmgz.com/article/2_588408_0" %}
+[【已集資四千萬】LikeCoin創辦人：香港人唔係咁孤寒](https://web.archive.org/web/20200328233118/https://hk.nextmgz.com/article/2\_588408\_0)
 
-{% embed url="https://www.youtube.com/watch?v=b8ra392rlCM" %}
+[Video](https://www.youtube.com/watch?v=b8ra392rlCM)
 
-### &#xD;05/14 opensource.com&#xD;
+### &#xD;05/14 opensource.com
 
-{% embed url="https://opensource.com/article/18/5/likecoin" %}
+[LikeCoin, a cryptocurrency for creators of openly licensed content](https://opensource.com/article/18/5/likecoin)
 
-{% embed url="https://www.zcfy.cc/article/likecoin-a-cryptocurrency-for-creators-of-openly-licensed-content" %}
+### &#xD;
 
 ### 05/10 Crypto Times
 
-{% embed url="https://crypto-times.jp/likecoin/" %}
+[「いいね」がお金になる!? Likecoin(ライクコイン) CEOへインタビュー](https://crypto-times.jp/likecoin/)
 
 ### **05/02 彭博商業周刊/中文版 第114期**
 
