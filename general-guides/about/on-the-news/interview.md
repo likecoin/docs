@@ -312,13 +312,17 @@
 
 ### 08/26 掌舖 x VSMedia 網上書展
 
+【#掌舖xVSMedia網上書展 - 尹思哲時間：區塊鏈塑造新香港？】
+
 {% embed url="https://www.facebook.com/watch/live/?v=415270672770452" %}
 
 ### 08/17 香港蘋果日報
 
-[派讚賞幣回饋創作者](https://hk.appledaily.com/finance/20200817/BYQBDVDNPVCFPIZQFMAGIYXEIA/)
+[派讚賞幣回饋創作者](https://web.archive.org/web/20201023121939/https://hk.appledaily.com/finance/20200817/BYQBDVDNPVCFPIZQFMAGIYXEIA/)
 
-[LikeCoin發起人：區塊鏈可還權於民](https://hk.appledaily.com/finance/20200817/MDJN6LLEHVCMVDSSFCAFTIQY2E/)
+
+
+[LikeCoin發起人：區塊鏈可還權於民](https://web.archive.org/web/20210508192953/https://hk.appledaily.com/finance/20200817/MDJN6LLEHVCMVDSSFCAFTIQY2E/)
 
 ![](../../../.gitbook/assets/202008170401100\_apple\_b02\_1.jpg)
 
@@ -326,11 +330,9 @@
 
 ### 08/07 香港無線電視財經 ‧ 資訊台 看出個未來
 
-[未來發幤人](https://programme.tvb.com/info/futurescope)
+[未來發幤人](https://programme.tvb.com/info/futurescope/episode/17/)
 
-{% embed url="https://youtu.be/NNzpNrTfPtA?t=774" %}
-
-### 23/07 Lighthouse Consultant Limited - Lighthouse Presents: NExT - How Event Professionals Make the Comeback Stronger than the Setback
+### 23/07 Lighthouse Consultant Limited
 
 [Lighthouse Presents: NExT - How Event Professionals Make the Comeback Stronger than the Setback](https://www.lighthouse.hk/Lighthouse%20Presents%3A%20NExT%20%232)
 
@@ -340,7 +342,7 @@
 
 ### 07/15 區塊勢
 
-{% embed url="https://blocktrend.substack.com/p/-ft--2e4" %}
+[EP72. 區塊鏈社會學 ft. 讚賞公民基金會創辦人高重建](https://podcasts.apple.com/us/podcast/ep72-%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A4%BE%E6%9C%83%E5%AD%B8-ft-%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E5%9F%BA%E9%87%91%E6%9C%83%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%AB%98%E9%87%8D%E5%BB%BA/id1441274280?i=1000484946425)
 
 ### 05/15 港故仔
 
@@ -384,17 +386,15 @@
 {% tab title="2019" %}
 ### 12/7 区块链研究院
 
-{% embed url="https://zhuanlan.zhihu.com/p/98662833" %}
+[AMA回顾| 一个赞赏共和国的诞生](https://zhuanlan.zhihu.com/p/98662833)
 
 ### 11/13 FINDIT
 
-{% embed url="https://www.findit.org.tw/researchPageV2.aspx?pageId=1275" %}
-
-[全球早期資金趉勢觀測月報 2019.11](https://findit.org.tw/upload/research/news\_201912161930304057-1.pdf)
+[【新興領域：11月焦點7】去中心化的Blog？MattersＸLikecoin打造創作者理想國](https://web.archive.org/web/20210509014313/https://www.findit.org.tw/researchPageV2.aspx?pageId=1275)
 
 ### 10/9 AIre VOICE
 
-{% embed url="https://aire-voice.com/interview/5428/" %}
+[コンテンツの価値をクリエイターに還元。無料コンテンツの大きなリスク](https://aire-voice.com/interview/5428/)
 
 ### 09/06 香港獨立媒體網
 
@@ -402,7 +402,7 @@
 
 ### 09/05 WP Builds
 
-{% embed url="https://wpbuilds.com/2019/09/05/144-get-paid-with-likes-the-like-coin-with-kin-ko/" %}
+[144 – Get paid with likes… the Like Coin with Kin Ko](https://wpbuilds.com/2019/09/05/144-get-paid-with-likes-the-like-coin-with-kin-ko/)
 
 {% embed url="https://www.youtube.com/watch?v=OBnVs3nPPgQ" %}
 
@@ -414,15 +414,15 @@
 
 ### 06/14 區塊勢
 
-{% embed url="https://blocktrend.substack.com/p/ep25--cba" %}
+[EP.25 媒體在免費與付費之間的第三條路－專訪讚賞公民基金會創辦人高重建](https://podcasts.apple.com/tw/podcast/ep-25-%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-%E5%AA%92%E9%AB%94%E5%9C%A8%E5%85%8D%E8%B2%BB%E8%88%87%E4%BB%98%E8%B2%BB%E4%B9%8B%E9%96%93%E7%9A%84%E7%AC%AC%E4%B8%89%E6%A2%9D%E8%B7%AF/id1441274280?i=1000441160196)
 
 ### 06/04 Global Voices
 
-{% embed url="https://globalvoices.org/2019/06/04/turning-likes-into-rewards-hong-kong-citizen-media-outlets-launch-civic-likers-campaign/" %}
+[Turning ‘likes’ into rewards: Hong Kong citizen media outlets launch ‘Civic Likers’ campaign](https://globalvoices.org/2019/06/04/turning-likes-into-rewards-hong-kong-citizen-media-outlets-launch-civic-likers-campaign/)
 
 ### 05/24 iMoney 智富雜誌
 
-[ 「創作可以當飯吃」 港人推LikeCoin望聚集讚賞公民](https://imoney.hket.com/article/2360745/%E3%80%8C%E5%89%B5%E4%BD%9C%E5%8F%AF%E4%BB%A5%E7%95%B6%E9%A3%AF%E5%90%83%E3%80%8D%20%E6%B8%AF%E4%BA%BA%E6%8E%A8LikeCoin%E6%9C%9B%E8%81%9A%E9%9B%86%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91)
+[ 「創作可以當飯吃」 港人推LikeCoin望聚集讚賞公民](https://web.archive.org/web/20210517102556/https://imoney.hket.com/article/2360745/%E3%80%8C%E5%89%B5%E4%BD%9C%E5%8F%AF%E4%BB%A5%E7%95%B6%E9%A3%AF%E5%90%83%E3%80%8D%20%E6%B8%AF%E4%BA%BA%E6%8E%A8LikeCoin%E6%9C%9B%E8%81%9A%E9%9B%86%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91)
 
 ### 05/24 明報
 
@@ -430,7 +430,7 @@
 
 ### 05/22 眾新聞
 
-{% embed url="https://www.hkcnews.com/article/20686/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-likecoin-%E7%9C%BE%E6%96%B0%E8%81%9E-20686/%E3%80%8C%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E3%80%8D%E8%A8%88%E5%8A%83%E5%95%9F%E5%8B%95-%E7%B6%B2%E5%AA%92%E7%9A%84%E6%9C%AA%E4%BE%86%EF%BC%9A%E6%9C%89like%E5%B0%B1%E6%9C%89coins%EF%BC%9F" %}
+[「讚賞公民」計劃啟動　網媒的未來：有like就有coins？](https://www.hkcnews.com/article/20686/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-likecoin-%E7%9C%BE%E6%96%B0%E8%81%9E-20686/%E3%80%8C%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E3%80%8D%E8%A8%88%E5%8A%83%E5%95%9F%E5%8B%95-%E7%B6%B2%E5%AA%92%E7%9A%84%E6%9C%AA%E4%BE%86%EF%BC%9A%E6%9C%89like%E5%B0%B1%E6%9C%89coins%EF%BC%9F)
 
 ### **05/21 立場新聞**
 
