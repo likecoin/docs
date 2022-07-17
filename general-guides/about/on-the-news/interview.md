@@ -4,6 +4,8 @@
 {% tab title="2022" %}
 ### 07/12 網絡星期二
 
+\[2022/07/12 網路星期二線上直播] ：合作社 ＆ 去中心化自治組織 DAO -- 以人為本的治理解決了哪些問題，又面臨哪些困境？
+
 {% embed url="https://www.youtube.com/watch?v=3OGTSRJK5mY" %}
 
 ### 07/10 Cosmos Spaces
@@ -12,7 +14,11 @@
 
 ### 07/07 財科暗戰
 
+【財科暗戰】熊市下要學會「Zoom out」！LikeCoin最新發展之一：將文章變成NFT丨章濤丨高重建丨加密貨幣丨DHK丨NFT
+
 {% embed url="https://www.youtube.com/watch?v=gQKeFeB7HHo" %}
+
+【財科暗戰】熊市下區塊鏈團隊如何生存？
 
 {% embed url="https://www.youtube.com/watch?v=3tIImnAvxVc" %}
 
@@ -52,9 +58,13 @@
 
 ### 04/30 尹思哲
 
+「如何一鍵 Wordpress 變 NFT」 - Likecoin Phoebe Poon #26
+
 {% embed url="https://www.youtube.com/watch?v=OLx5WOJiN0A" %}
 
 ### 04/26 Crypto Conscious
+
+Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)
 
 {% embed url="https://www.youtube.com/watch?v=wC51ym1-ghM" %}
 
@@ -68,13 +78,19 @@
 
 ### 04/12 好青年荼毒室
 
+【哲學係咁傾】ep. 11 密碼貨幣（Cryptocurrency）與哲學 | 錢，唔淺！｜嘉賓：高重建
+
 {% embed url="https://www.youtube.com/watch?v=yYxmVYOMA4s" %}
 
 ### 03/30 Web2.5 時代
 
+\[Web2.5 時代] KZ x 高重建@ LikeCoin和 decentralizehk發起人
+
 {% embed url="https://www.youtube.com/watch?v=gncp9cIuMrc" %}
 
 ### 02/24 Impact Incubator 創匯點
+
+【社會企業專題研討會 – 區塊鏈 x 社會影響力】區塊鏈的社會創想
 
 {% embed url="https://www.youtube.com/watch?v=wfDQ0FOeaGI" %}
 
@@ -83,6 +99,8 @@
 [LikeCoin發起人高重建 由無到有的創造過程](https://craftsmanbio.com/2022/01/15/kinko-likecoin/)
 
 ### 01/14 C基金
+
+【C基金直播】美聯儲急急腳加息︱供樓惡夢開始?︱美業績期，有邊啲值得留意?︱高重建介紹何為LikeCoin?︱台積電TSMC業績報佳音(CFundLive20220114)
 
 {% embed url="https://youtu.be/HUCmPNn2Oko?t=967" %}
 
@@ -100,15 +118,25 @@
 
 ### 12/18 財科暗戰
 
+【財科暗戰】 香港人創辦的LikeCoin！去中心化出版讓創作有價（按CC看中文字幕）丨章濤丨高重建丨區塊鏈丨LikerID丨讚好
+
 {% embed url="https://www.youtube.com/watch?v=xIchXGKpBuU" %}
+
+【財科暗戰】什麼是DAO？民主的體現還是獨裁的手段？答問題贏1000個LikeCoin（按CC看中文字幕）丨章濤丨高重建 丨分布式自治組織丨區塊鏈丨加密貨幣
 
 {% embed url="https://www.youtube.com/watch?v=S49QC7tS50A" %}
 
+【財科暗戰】LikeCoin發起人高重建你問我答！LikeCoin的未來發展！答問題贏1000個LikeCoin（按CC看中文字幕）丨章濤丨高重建 丨區塊鏈
+
 {% embed url="https://www.youtube.com/watch?v=PVGuLRo_fAE" %}
+
+【財科暗戰】LikeCoin發起人高重建看好2.5隻幣？ AR、OSMO 還有半隻是什麼？答問題贏1000個LikeCoin（按CC看中文字幕）丨章濤丨高重建丨Osmosis
 
 {% embed url="https://www.youtube.com/watch?v=RoYcwapRVOM" %}
 
 ### 12/14 立場新聞
+
+黃宇軒 X 高重建詳細解釋元宇宙　生活的立場 圍爐長知識
 
 {% embed url="https://www.youtube.com/watch?v=XvhNtoO934Y" %}
 
@@ -119,6 +147,8 @@
 {% embed url="https://www.youtube.com/watch?v=gVkYUHtpvcU" %}
 
 ### 11/21 中山銅鑼灣書店
+
+區塊鏈社會學 作者訪談會 完整版
 
 {% embed url="https://www.youtube.com/watch?list=PLK9zGGnwGuZCdKOPzJC-1e7DL_cPl9alZ&v=i6K5i7f4j_M" %}
 
@@ -132,19 +162,25 @@
 
 ### 07/29 財科暗戰
 
+【財科暗戰】區塊鏈社會學 - 第二集： 區塊鏈可以用來出版！？| 章濤
+
 {% embed url="https://www.youtube.com/watch?v=V1S3M9V2t9Y" %}
 
 ### 07/25 財科暗戰
+
+【財科暗戰】區塊鏈社會學 - 第二集： 區塊鏈可以用來出版！？| 章濤
 
 {% embed url="https://www.youtube.com/watch?v=1r1WVu9retk" %}
 
 ### 07/21 &#xD;財科暗戰
 
+【財科暗戰】區塊鏈社會學 - 第一集： 區塊鏈除了炒幣，還能做什麼？| 章濤
+
 {% embed url="https://www.youtube.com/watch?v=OfbJa7lBK-s" %}
 
 ### 07/21 區塊勢
 
-[去中心化出版的基礎建設 ft. LikeCoin 創辦人高重建](https://blocktrend.substack.com/p/ep124)
+[EP.124 去中心化出版的基礎建設 ft. LikeCoin 創辦人高重建](https://podcasts.apple.com/us/podcast/ep-124-%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%87%BA%E7%89%88%E7%9A%84%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD-ft-likecoin-%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%AB%98%E9%87%8D%E5%BB%BA/id1441274280?i=1000529520896\&l=ru)
 
 ### 07/19 unwire.pro
 
@@ -246,9 +282,7 @@
 
 [Gli abitanti di Hong Kong usano la blockchain per salvare le prove della lotta anti-autoritaria](https://it.cointelegraph.com/news/hong-kongers-use-blockchain-to-save-evidence-of-anti-authoritarian-struggles)
 
-{% embed url="https://www.youtube.com/watch?v=xu3ORKd7sGU" %}
-
-### [&#xD;](https://cointelegraph.com/news/hong-kongers-use-blockchain-to-save-evidence-of-anti-authoritarian-struggles)05/26 QUARTZ
+### 05/28 QUARTZ
 
 [Hong Kongers are using blockchain archives to fight government censorship](https://qz.com/2008673/hong-kongers-use-blockchain-to-fight-government-censorship/)
 
@@ -258,13 +292,19 @@
 
 ### 05/15 城寨 Singjai
 
+區塊鏈生態：無大台但有共識 和平分手機制 ETH2.0 PoS Likecoin Chain Cosmos - 15/05/21 「YOLO街」長版本
+
 {% embed url="https://www.youtube.com/watch?v=7qZJWlCNGAE" %}
 
 ### 05/15 &#xD;theDesk Hong Kong
 
+加密貨幣與法定貨幣是「取代」還是「補完」？｜LikeCoin及#decentralizehk 發起人高重建
+
 {% embed url="https://www.youtube.com/watch?v=Acta5luxVGM" %}
 
 ### 05/09 堅離地傾 · 沈旭暉[&#xD;](https://beta.thestandnews.com/society/%E5%A0%85%E9%9B%A2%E5%9C%B0%E5%82%BE-%E9%AB%98%E9%87%8D%E5%BB%BA-%E5%85%A8%E6%B0%91%E5%8D%80%E5%A1%8A%E9%8F%88-backup-%E7%9C%9F%E9%A6%99%E6%B8%AF)
+
+【堅離地傾・沈旭暉 139 💻】高重建：全民區塊鏈・Backup真香港
 
 {% embed url="https://www.youtube.com/watch?v=BTvpACIVMIg" %}
 
@@ -623,6 +663,4 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 :end:&#x20;
 {% endtab %}
 {% endtabs %}
-
-
 
