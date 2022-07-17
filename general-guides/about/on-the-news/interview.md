@@ -522,17 +522,17 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 05/01 Cryptoground
 
-{% embed url="https://www.cryptoground.com/a/likecoin-founder-kin-ko-presents-an-opportunity-for-artists-to-earn" %}
+[LikeCoin Founder - Kin Ko Presents An Opportunity for Artists to Earn](https://www.cryptoground.com/a/likecoin-founder-kin-ko-presents-an-opportunity-for-artists-to-earn)
 
 {% embed url="https://www.youtube.com/watch?v=VcAOnpquTB0" %}
 
 ### 04/19 區塊客
 
-{% embed url="https://blockcast.it/2018/04/19/blockcast-interview-likecoin-founder-kin-ko/" %}
+[與高重建談 LikeCoin — 媒體群創不再空洞 創意共享新生態](https://blockcast.it/2018/04/19/blockcast-interview-likecoin-founder-kin-ko/)
 
 ### 04/16 techapple
 
-{% embed url="https://www.techapple.com/archives/21590" %}
+[LikeCoin 預售金額突破 120%，目標化 Like 為 Coin！](https://www.techapple.com/archives/21590)
 
 ### 04/09 信報財經新聞
 
@@ -542,13 +542,11 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 04/09 ejinsight
 
-{% embed url="https://www.ejinsight.com/eji/article/id/1811904/20180409-hk-based-likecoin-uses-token-to-reward-online-content-creators" %}
+[HK-based LikeCoin uses token to reward online content creators](https://www.ejinsight.com/eji/article/id/1811904/20180409-hk-based-likecoin-uses-token-to-reward-online-content-creators)
 
 ### 04/02 香港電台普通話台 AM621 CIBS 節目 - 追趕科技世界 (The World towards Information Technology) 科技Band房
 
 第十三集
-
-{% embed url="https://www.facebook.com/watch/?v=561333024242141" %}
 
 {% embed url="https://www.youtube.com/watch?v=ZkliYqFnhc0" %}
 
@@ -556,7 +554,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 03/30 文化土豆&#xD;
 
-[042 爱国我说不出口【張潔平, 高重建】](http://www.culturepotato.com/blog/042)
+{% embed url="https://www.youtube.com/watch?v=OEpvchhkJnY" %}
 
 ### 03/23 香港無線電視財經台 「錢」進新世代
 
@@ -566,7 +564,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 03/21 區塊客
 
-{% embed url="https://blockcast.it/2018/03/21/how-blockchain-reinvents-rewarding-digital-content-creation/" %}
+[區塊鏈如何解放創作自由 讓數位內容產業重生](https://blockcast.it/2018/03/21/how-blockchain-reinvents-rewarding-digital-content-creation/)
 
 ### 03/19 明周
 
@@ -578,7 +576,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### **03/18 INSIDE**
 
-{% embed url="https://www.inside.com.tw/article/12259-like-to-coin" %}
+[怎麼把讚變現？這間 ICO，想讓媒體與獨立創作者透過區塊鏈雙贏](https://www.inside.com.tw/article/12259-like-to-coin)
 
 ### **03/17 iMoney 智富**
 
@@ -598,7 +596,7 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 
 ### 03/05 香港蘋果日報
 
-[金融中心：ICO籌幾千萬？港產加密貨幣誕生](https://hk.appledaily.com/finance/20180305/HBHYRDIFNDKOXIV2RYX4CJAJHU/)
+[金融中心：ICO籌幾千萬？港產加密貨幣誕生](https://web.archive.org/web/20200808001955/https://hk.appledaily.com/finance/20180305/HBHYRDIFNDKOXIV2RYX4CJAJHU/)
 
 ![](../../../.gitbook/assets/apple\_blur\_tiny.jpg)
 
