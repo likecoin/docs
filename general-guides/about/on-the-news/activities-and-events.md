@@ -50,27 +50,25 @@
 
 [Video](https://youtu.be/YWHEzGaZicg?t=5421)
 
-### 12/11 WordCamp Taiwan 2021 - Lightning Talks
+### 12/11 WordCamp Taiwan 2021
 
-[Video](https://youtu.be/xs3a4HaCtZo?t=2474)
+[Video - Lightning Talks](https://www.youtube.com/watch?v=xs3a4HaCtZo\&t=2474s)
 
-### 11/30 Creators Meet Blockchain 為外行人及創作者而設的交流廳！
+### 11/30 Genesis Block 香港
 
-[Video](https://www.facebook.com/genesisblockhk/videos/1156492238217795)
+[Video - Creators Meet Blockchain 為外行人及創作者而設的交流廳！](https://www.youtube.com/watch?v=0B4QspdOfUg)
 
 ### 11/21 中山銅鑼灣書店
 
-區塊鏈社會學 作者訪談會 完整版
+[Video - 區塊鏈社會學 作者訪談會 完整版](https://www.youtube.com/watch?v=i6K5i7f4j\_M)
 
-[Video](https://www.youtube.com/watch?v=i6K5i7f4j\_M)
+### 11/12 Arweave
 
-### 11/12 Community Spotlight #3 | Open Web Foundry Fall 2021 Program
+[Community Spotlight #3 | Open Web Foundry Fall 2021 Program](https://www.youtube.com/watch?v=r9z0NP0J2n8\&t=431s)
 
-[Video](https://www.youtube.com/watch?v=r9z0NP0J2n8\&t=431s)
+### 10/05  北科大區塊鏈研究社 NTUT Blockchain
 
-### 10/05  北科大區塊鏈研究社 NTUT Blockchain 新生茶會
-
-[Photos](https://www.facebook.com/Liker.Land/posts/3376141575945863)
+[新生茶會](https://www.facebook.com/Liker.Land/posts/3376141575945863)
 
 [Video](https://www.facebook.com/NTUTBlockchain/videos/553765389031360)
 
@@ -92,25 +90,25 @@
 
 ### 06/17 DeFi Summit
 
-[Video](https://www.youtube.com/watch?v=xh9xBh564lE)
+[Video - LikeCoin Showcase - DeFi Demo Day presented by Launchpool](https://www.youtube.com/watch?v=xh9xBh564lE)
 
 ### 05/28 DigiFinex - Cryptocurrency Exchange
 
 [LikeCoin Giving Back to Creators with Repurposed Likes](https://www.facebook.com/digifinex.global/posts/1778613915645705)
 
-[DigiFinex AMA Recap | Decentralized Publishing Infrastructure](https://blog.digifinex.com/2021/06/04/digifinex-ama-recap-decentralized-publishing-infrastructure/)
+[DigiFinex AMA Recap | Decentralized Publishing Infrastructure](https://web.archive.org/web/20210604080537/https://blog.digifinex.com/2021/06/04/digifinex-ama-recap-decentralized-publishing-infrastructure/)
 
 [Video](https://www.youtube.com/watch?v=tY6oIrVvGLM)
 
-### 05/03 Clubhouse HK Crypto 30mins ep.11
+### 05/03 Clubhouse CRYPTO 852
 
-艱難見證，見證難難；我們的獅子山
+HK Crypto 30mins ep.11 | 艱難見證，見證難難；我們的獅子山
 
 ![](../../../.gitbook/assets/181890636\_3249726758587346\_8935775873217263295\_n.png)
 
-### 03/23 Clubhouse HK Crypto 30 mins ep.10
+### 03/23 Clubhouse CRYPTO 852
 
-創作有價，Likecoin創辦人同你句句真
+HK Crypto 30 mins ep.10 | 創作有價，Likecoin創辦人同你句句真
 
 ![](../../../.gitbook/assets/fireshot-capture-2485-crypto-30-mins-ep.10-chuang-zuo-you-jia-likecoin-chuang-ban-ren-tong-ni-ju-ju-zhen-xiang-gang-jia-mi-huo-bi-crypto-85-www.joinclubhouse.com.png)
 
@@ -128,7 +126,7 @@
 
 ### 01/17 2020年新媒體節 網絡媒體高峰會及工作坊
 
-[去中心化保存，公民共享記憶](https://www.facebook.com/culturemediahk/videos/223717656089852)
+[去中心化保存，公民共享記憶](https://www.cmef.org.hk/single-post/mediasummit2020)
 
 [Video](https://www.youtube.com/watch?v=hb7H3gTl1rk)
 
@@ -150,7 +148,7 @@
 
 ### 12/03 FtO Tainan 面海松･台南 2020 × 午營咖啡 a break cafe × g0v Summit 2020
 
-[Video](https://www.youtube.com/watch?v=gf61JJvS1zI)
+[Video - Short Talk — Decentralized content registry to blockchain 去中心內容登記 （LikeCoin） ／ ckxpress](https://www.youtube.com/watch?v=gf61JJvS1zI)
 
 ### 11/22 第五届网络社会年会”实践智慧之网”
 
@@ -160,19 +158,17 @@
 
 ### 11/19-21 社企民間高峰會 2020
 
-[講者高重建](https://www.ses.org.hk/zh-hant/content/%E9%AB%98%E9%87%8D%E5%BB%BA) [亂中自有我所屬](https://ses.org.hk/zh-hant/content/%E4%BA%82%E4%B8%AD%E8%87%AA%E6%9C%89%E6%88%91%E6%89%80%E5%B1%AC)
+[講者高重建](https://web.archive.org/web/20210518174313/https://www.ses.org.hk/zh-hant/content/%E9%AB%98%E9%87%8D%E5%BB%BA) [亂中自有我所屬](https://web.archive.org/web/20210509202605/https://www.ses.org.hk/zh-hant/content/%E4%BA%82%E4%B8%AD%E8%87%AA%E6%9C%89%E6%88%91%E6%89%80%E5%B1%AC)
 
-[LikeCoin化讚為賞, 用文字創富](https://ses.org.hk/content/likecoin%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E7%94%A8%E6%96%87%E5%AD%97%E5%89%B5%E5%AF%8C)
+[LikeCoin化讚為賞, 用文字創富](https://web.archive.org/web/20210616100705/https://www.ses.org.hk/content/likecoin%E5%8C%96%E8%AE%9A%E7%82%BA%E8%B3%9E-%E7%94%A8%E6%96%87%E5%AD%97%E5%89%B5%E5%AF%8C)
 
 [Video](https://www.youtube.com/watch?v=W3GLR1C4Cac)
 
 ### 10/16 &#xD;IPFS Virtual Meetup
 
-Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
+[Video - Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu](https://www.youtube.com/watch?v=xFTelpMw9Uc)
 
 
-
-[Video](https://www.youtube.com/watch?v=xFTelpMw9Uc)
 
 ### 09/05 g0v.hk
 
@@ -190,7 +186,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://docs.google.com/presentation/d/1m5IxlSNpvTRGBYwBk9TQgHLx_Q9v8zOcsi8YNaTRbe0/edit#slide=id.g7c06a933ee_0_0" %}
 
-### 07/14 Elementor HK Meetup #3: Content monetisation by creation and curation (English)&#xD;
+### 07/14 Elementor HK Meetup&#xD;
 
 [Elementor HK Meetup #3: Content monetisation by creation and curation (English)](https://www.meetup.com/Elementor-Hong-Kong)
 
@@ -212,7 +208,7 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 {% embed url="https://docs.google.com/presentation/d/1AEM23HHeFupGqR2UmdT82mF0PRP95mfKZFuky0RXS2s/edit#slide=id.g8817281211_0_8" %}
 
-### 5/23 g0v tw hackath39n
+### 05/23 g0v tw hackath39n
 
 [g0v tw hackath39n — 提案 — LikeCoin 狂想曲 ／ Phoebe — 又在家黑客松](https://g0v.hackmd.io/c/g0v-hackath39n)
 
@@ -220,11 +216,9 @@ Connecting Cosmos SDK Based Blockchain to IPFS with Chung Wu
 
 [Video](https://www.youtube.com/watch?v=Qyapcuur6Lk)
 
-### 5/21 北科大-葛如鈞 － 區塊鏈技術與應用（通識）2020/05/21
+### 05/21 北科大-葛如鈞 － 區塊鏈技術與應用（通識）2020/05/21
 
-\[錄影] 區塊鏈技術與應用（通識）2020/05/21（影音不同步😢）
-
-[Video](https://www.youtube.com/watch?v=oXnFTgy7NRQ\&t=1757s)
+[Video - \[錄影\] 區塊鏈技術與應用（通識）2020/05/21（影音不同步😢）](https://www.youtube.com/watch?v=oXnFTgy7NRQ\&t=1757s)
 
 ### 05/08 北科大-葛如鈞 － 你還不知道「區塊鏈」是什麼？區塊鏈技術與兩大應用解析&#xD;
 
