@@ -2,6 +2,22 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 07/12 網絡星期二
+
+\[2022/07/12 網路星期二線上直播] ：合作社 ＆ 去中心化自治組織 DAO -- 以人為本的治理解決了哪些問題，又面臨哪些困境？
+
+{% embed url="https://www.youtube.com/watch?v=3OGTSRJK5mY" %}
+
+### 07/10 Cosmos Spaces
+
+[#Cosmos Pot luck w/ Likecoin & depub.space🎙Host: Cosmos HOSS](https://twitter.com/Cosmos\_Spaces/status/1545838770167201793)
+
+### 06/15 私董會 OUR BOARD ROOM
+
+[了解NFT相關的版權問題！訪問 LikeCoin 內容NFT 和 MonkeyKing 玩具NFT。](https://www.clubhouse.com/room/xpQaNVKv)
+
+{% embed url="https://www.clubhouse.com/room/xpQaNVKv" %}
+
 ### 05/30【高峰論壇系列六】「新時代的使者？區塊鏈的激進潛能」總覽
 
 [自由「三幅被」？區塊鏈與自由的實踐](https://www.ihs.ntu.edu.tw/web/news/news\_in.jsp?np\_id=NP1651110378181)
@@ -15,6 +31,12 @@
 ### 04/15 Numbers Protocol
 
 [AMA with LikeCoin](https://twitter.com/numbersprotocol/status/1514921477304467461)
+
+### 02/24 Impact Incubator 創匯點
+
+【社會企業專題研討會 – 區塊鏈 x 社會影響力】區塊鏈的社會創想
+
+{% embed url="https://www.youtube.com/watch?v=wfDQ0FOeaGI" %}
 
 :end:
 {% endtab %}
@@ -35,6 +57,12 @@
 ### 11/30 Creators Meet Blockchain 為外行人及創作者而設的交流廳！
 
 [Video](https://www.facebook.com/genesisblockhk/videos/1156492238217795)
+
+### 11/21 中山銅鑼灣書店
+
+區塊鏈社會學 作者訪談會 完整版
+
+[Video](https://www.youtube.com/watch?v=i6K5i7f4j\_M)
 
 ### 11/12 Community Spotlight #3 | Open Web Foundry Fall 2021 Program
 

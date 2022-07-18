@@ -2,16 +2,6 @@
 
 {% tabs %}
 {% tab title="2022" %}
-### 07/12 網絡星期二
-
-\[2022/07/12 網路星期二線上直播] ：合作社 ＆ 去中心化自治組織 DAO -- 以人為本的治理解決了哪些問題，又面臨哪些困境？
-
-{% embed url="https://www.youtube.com/watch?v=3OGTSRJK5mY" %}
-
-### 07/10 Cosmos Spaces
-
-[#Cosmos Pot luck w/ Likecoin & depub.space🎙Host: Cosmos HOSS](https://twitter.com/Cosmos\_Spaces/status/1545838770167201793)
-
 ### 07/07 財科暗戰
 
 【財科暗戰】熊市下要學會「Zoom out」！LikeCoin最新發展之一：將文章變成NFT丨章濤丨高重建丨加密貨幣丨DHK丨NFT
@@ -22,11 +12,9 @@
 
 {% embed url="https://www.youtube.com/watch?v=3tIImnAvxVc" %}
 
-### 06/15 私董會 OUR BOARD ROOM
+【財科暗戰】 高重建分享對ETH的看法！DHK Token Airdrop可長達5年？丨章濤丨高重建丨加密貨幣丨NFT丨Ethereum丨以太幣
 
-[了解NFT相關的版權問題！訪問 LikeCoin 內容NFT 和 MonkeyKing 玩具NFT。](https://www.clubhouse.com/room/xpQaNVKv)
-
-{% embed url="https://www.clubhouse.com/room/xpQaNVKv" %}
+{% embed url="https://www.youtube.com/watch?v=32408koE7Lg" %}
 
 ### 05/24 風傳媒
 
@@ -88,12 +76,6 @@ Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)
 
 {% embed url="https://www.youtube.com/watch?v=gncp9cIuMrc" %}
 
-### 02/24 Impact Incubator 創匯點
-
-【社會企業專題研討會 – 區塊鏈 x 社會影響力】區塊鏈的社會創想
-
-{% embed url="https://www.youtube.com/watch?v=wfDQ0FOeaGI" %}
-
 ### 01/15 職人故事
 
 [LikeCoin發起人高重建 由無到有的創造過程](https://craftsmanbio.com/2022/01/15/kinko-likecoin/)
@@ -145,12 +127,6 @@ Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)
 10 分鐘「新書快報」周詳 《區塊鏈社會學》
 
 {% embed url="https://www.youtube.com/watch?v=gVkYUHtpvcU" %}
-
-### 11/21 中山銅鑼灣書店
-
-區塊鏈社會學 作者訪談會 完整版
-
-{% embed url="https://www.youtube.com/watch?list=PLK9zGGnwGuZCdKOPzJC-1e7DL_cPl9alZ&v=i6K5i7f4j_M" %}
 
 ### 11/02 forkast
 
