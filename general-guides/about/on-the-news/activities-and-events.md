@@ -64,7 +64,7 @@
 
 ### 11/12 Arweave
 
-[Community Spotlight #3 | Open Web Foundry Fall 2021 Program](https://www.youtube.com/watch?v=r9z0NP0J2n8\&t=431s)
+[Video - Community Spotlight #3 | Open Web Foundry Fall 2021 Program](https://www.youtube.com/watch?v=r9z0NP0J2n8\&t=431s)
 
 ### 10/05  北科大區塊鏈研究社 NTUT Blockchain
 
@@ -220,13 +220,13 @@ HK Crypto 30 mins ep.10 | 創作有價，Likecoin創辦人同你句句真
 
 [Video - \[錄影\] 區塊鏈技術與應用（通識）2020/05/21（影音不同步😢）](https://www.youtube.com/watch?v=oXnFTgy7NRQ\&t=1757s)
 
-### 05/08 北科大-葛如鈞 － 你還不知道「區塊鏈」是什麼？區塊鏈技術與兩大應用解析&#xD;
-
-北科大 2020/05/08 區塊鏈講座錄影（完整版）- 高重建x徐嘉凱x葛如鈞
+### 05/08 北科大-葛如鈞 － 你還不知道「區塊鏈」是什麼？區塊鏈技術與兩大應用解析
 
 [Facebook Post](https://www.facebook.com/TaipeiTech.aca/photos/a.1322614154541871/1833528753450406/?type=3)
 
-[Video](https://www.youtube.com/watch?v=i4IOJrnutXU)
+### &#xD;
+
+[Video - 北科大 2020/05/08 區塊鏈講座錄影（完整版）- 高重建x徐嘉凱x葛如鈞](https://www.youtube.com/watch?v=i4IOJrnutXU)
 
 ### 05/06 LikeCoin Foundation － Likerthon 讚客松分享會：想法很便宜？點子很廉價？
 
