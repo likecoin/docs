@@ -132,6 +132,18 @@ Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)
 
 [Back up Hong Kong: How blockchain has quietly become history’s hard drive](https://forkast.news/how-blockchain-quietly-becoming-history-hard-drive/)
 
+### 10/25 投資花二姐
+
+[S2: Ep6 區塊鏈帶來財務自由 & LikeCoin ISCN](https://anchor.fm/abfinwisdom/episodes/S2-Ep6---LikeCoin-ISCN-e1994i3)
+
+### 10/21 投資花二姐
+
+[S2: EP5 加密貨幣DeFi - 免被剝奪的財務自由](https://anchor.fm/abfinwisdom/episodes/S2-EP5-DeFi---e193jgg)
+
+### 10/17 投資花二姐
+
+[S2：Ep4 加密貨幣和法定貨幣的差異](https://anchor.fm/abfinwisdom/episodes/S2Ep4-e18thh6)
+
 ### 09/15 信報 徐家健
 
 [沒有大台，出版還意味着什麼?](https://www1.hkej.com/dailynews/investment/article/2913449/%E6%B2%92%E6%9C%89%E5%A4%A7%E5%8F%B0%EF%BC%8C%E5%87%BA%E7%89%88%E9%82%84%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E9%BA%BC%3F)
