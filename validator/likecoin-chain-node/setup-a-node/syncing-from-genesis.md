@@ -13,6 +13,8 @@ Genesis: https://raw.githubusercontent.com/likecoin/mainnet/master/genesis.json
   * The upgrade should be automated by cosmovisor at height 3,692,800
 * v2.0.2
   * You should replace v2.0.0 with v2.0.2 manually after the upgrade.
+* v3.0.0
+  * The upgrade should be automated by cosmovisor at height 4,810,000
 
 #### Testnet
 

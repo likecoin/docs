@@ -18,3 +18,5 @@ The exact steps are out of scope of this guide, please refer to other online sou
 * [SSH Hardening](https://www.digitalocean.com/community/tutorials/how-to-harden-openssh-client-on-ubuntu-20-04)
 
 The physical security of the host should be reviewed as well.
+
+For validators, we encourage the use [tmkms](https://docs.osmosis.zone/developing/keys/tmkms.html) for improved signing security
