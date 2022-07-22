@@ -5,7 +5,8 @@
 * [LikeCoin Airdrop](airdrop/README.md)
   * [Login by Liker ID](airdrop/login-by-liker-id.md)
 * [LikeCoin FAQ](faq.md)
-* [Branding](branding.md)
+* [Branding](branding/README.md)
+  * [Design Materials](branding/design-materials.md)
 
 ## 🔬 Developer Guide <a href="#developer" id="developer"></a>
 
