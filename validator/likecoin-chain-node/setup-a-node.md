@@ -419,7 +419,7 @@ Check out the new release tag to obtain the new version of docker-compose templa
 
 ```shell
 git fetch --tags
-git checkout release/v1.x
+git checkout release/v3.x
 ```
 
 Back up the existing `docker-compose.yml` and replace it with the new version:
@@ -432,7 +432,7 @@ cp docker-compose.yml.template docker-compose.yml
 Edit `.env` to target new docker image tag:
 
 ```shell
-LIKECOIN_DOCKER_IMAGE="likecoin/likecoin-chain:v1.2.0"
+LIKECOIN_DOCKER_IMAGE="likecoin/likecoin-chain:v3.0.0"
 ```
 
 Create cosmovisor folders structure:
