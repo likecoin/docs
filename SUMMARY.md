@@ -130,13 +130,12 @@
   * [Validator](general-guides/governance/what-is-a-validator/README.md)
     * [Community Delegation](general-guides/governance/what-is-a-validator/community-delegation.md)
   * [Proposals](general-guides/governance/proposals.md)
-* [LikeCoin Overview](general-guides/about/README.md)
-  * [On the News](general-guides/about/on-the-news/README.md)
-    * [Interview and Features](general-guides/about/on-the-news/interview.md)
-    * [Activities and Events](general-guides/about/on-the-news/activities-and-events.md)
-    * [Mentions](general-guides/about/on-the-news/mentions.md)
-    * [Awards and Press Release](general-guides/about/on-the-news/press-release.md)
-    * [Recommendations](general-guides/about/on-the-news/recommendations.md)
+* [On the News](general-guides/on-the-news/README.md)
+  * [Interview and Features](general-guides/on-the-news/interview.md)
+  * [Activities and Events](general-guides/on-the-news/activities-and-events.md)
+  * [Mentions](general-guides/on-the-news/mentions.md)
+  * [Awards and Press Release](general-guides/on-the-news/press-release.md)
+  * [Recommendations](general-guides/on-the-news/recommendations.md)
 
 ## 💻  DApp <a href="#user-guide" id="user-guide"></a>
 

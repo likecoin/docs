@@ -1,2 +1,0 @@
-# LikeCoin Overview
-

@@ -18,13 +18,13 @@ description: Frequently Asked Questions
 * [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co.md)
 * [Can I register for ISCN in a batch?](general-guides/decentralized-publishing/iscn-batch-uploader.md)
 
-[LikeCoin Overview](general-guides/about/) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
------------------------------------------------------------------------------------------------------------------------------
+LikeCoin Overview&#x20;<a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+----------------------------------------------------------------------------------------------------------
 
 * ​[What is LikeCoin?](./)
 * [Where to find the latest updates about LikeCoin?](<README (1).md>)
-* [What does the media say about LikeCoin?](general-guides/about/on-the-news/)
-* [Does LikeCoin provide branding and design materials for download?](broken-reference)
+* [What does the media say about LikeCoin?](general-guides/on-the-news/)
+* [Does LikeCoin provide branding and design materials for download?](branding.md)
 * [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](general-guides/decentralized-publishing/)[​](https://docs.like.co/user-guide/about#contact-us)
 
 ## [Wallet](general-guides/wallet/) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
