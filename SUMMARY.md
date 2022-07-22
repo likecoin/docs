@@ -5,6 +5,7 @@
 * [LikeCoin Airdrop](airdrop/README.md)
   * [Login by Liker ID](airdrop/login-by-liker-id.md)
 * [LikeCoin FAQ](faq.md)
+* [Branding](branding.md)
 
 ## 🔬 Developer Guide <a href="#developer" id="developer"></a>
 
@@ -136,7 +137,6 @@
     * [Mentions](general-guides/about/on-the-news/mentions.md)
     * [Awards and Press Release](general-guides/about/on-the-news/press-release.md)
     * [Recommendations](general-guides/about/on-the-news/recommendations.md)
-  * [Brand Guidelines](general-guides/about/presskit.md)
 
 ## 💻  DApp <a href="#user-guide" id="user-guide"></a>
 

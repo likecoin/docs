@@ -24,7 +24,7 @@ description: Frequently Asked Questions
 * ​[What is LikeCoin?](./)
 * [Where to find the latest updates about LikeCoin?](<README (1).md>)
 * [What does the media say about LikeCoin?](general-guides/about/on-the-news/)
-* [Does LikeCoin provide branding and design materials for download?](general-guides/about/presskit.md)
+* [Does LikeCoin provide branding and design materials for download?](broken-reference)
 * [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](general-guides/decentralized-publishing/)[​](https://docs.like.co/user-guide/about#contact-us)
 
 ## [Wallet](general-guides/wallet/) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
