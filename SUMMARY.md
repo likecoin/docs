@@ -17,6 +17,7 @@
   * [ISCN 的去中心特性對內容生態有什麼好處？](guides/decentralized-publishing/benefits.md)
   * [ISCN 支援什麼內容格式？](guides/decentralized-publishing/content-type.md)
   * [如何註冊 ISCN](guides/decentralized-publishing/app.like.co.md)
+  * [ISCN Wallet](guides/decentralized-publishing/iscn-wallet.md)
   * [如何大量註冊 ISCN](guides/decentralized-publishing/iscn-batch-uploader.md)
 * [水龍頭](guides/faucet.md)
 * [錢包](guides/wallet/README.md)
