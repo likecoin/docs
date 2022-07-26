@@ -33,12 +33,12 @@ Existing operators migrating their node should ensure that there is **only one i
 ### Hardware
 
 * Recommended
-  * 4 CPU Cores
-  * 2GB RAM
+  * 2 CPU Cores
+  * 16GB RAM
   * 500GB+ SSD
 * Minimum
   * 2 CPU Cores
-  * 2GB RAM
+  * 4GB RAM
   * 250GB+ SSD
     * Current snapshot size is 120GB with 70GB growth each year.
     * We expect the growth rate to increase after our NFT module and new dApps are rolled out.
