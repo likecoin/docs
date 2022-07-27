@@ -49,6 +49,8 @@
   * [ISCN IPFS plugin](developer/iscn/iscn-ipfs-plugin.md)
 * [LikeNFT](developer/likenft/README.md)
   * [LikeCoin NFT Module Spec](developer/likenft/likecoin-nft-module-spec.md)
+  * [Metadata best practice](developer/likenft/metadata.md)
+  * [Writing NFT Spec](developer/likenft/writing-nft.md)
 * [likecoin-js](developer/likecoin-js.md)
 * [Ecosystem Statistics Badge](developer/badge.md)
 * [Raise Proposal](developer/raise-proposal.md)
