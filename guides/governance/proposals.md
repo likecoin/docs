@@ -6,6 +6,34 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## 議案 #52 LikeCoin v3.0.0 StarFerry NFT 升級
+
+* **提案：**Civic Liker
+* **類型**：軟件升級議案 ( Software Upgrade Proposal )
+* **日期**：2022.07.12 提案，2022.07.20 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/52](https://bigdipper.live/likecoin/proposals/52)
+
+## 議案 #51 存入 20,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
+
+* **提案：**ckxpress
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.07.12 提案，2022.07.22 法定投票人數不足被否決
+* **詳情**：[https://bigdipper.live/likecoin/proposals/51](https://bigdipper.live/likecoin/proposals/51)
+
+## 議案 #50 存入 1,200,000 LIKE 到創作基金委員會的錢包
+
+* **提案：**Edmond
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.07.06 提案，2022.07.14 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/50](https://bigdipper.live/likecoin/proposals/50)
+
+## 議案 #49 存入 5,000,000 LIKE 到 Marketing SubDAO 的多重簽署錢包
+
+* **提案：**Phoebe
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.06.28 提案，2022.07.05 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/49](https://bigdipper.live/likecoin/proposals/49)
+
 ## 議案 #48 更新 Osmosis 池激勵措施
 
 * **提案：**medium
@@ -43,14 +71,14 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ## 議案 #43 【議案 #42 修正案】存入 1,000,000 LIKE 到 Marketing SubDAO 的多重簽署錢包
 
-* **提案：**Phoebe Poon
+* **提案：**Phoebe
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.03.23 提案，2022.03.23 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/43](https://likecoin.bigdipper.live/proposals/43)
 
 ## 議案 #42 存入 1,000,000 LIKE 到 Marketing SubDAO 的多重簽署錢包
 
-* **提案：**Phoebe Poon
+* **提案：**Phoebe
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.03.10 提案，2022.03.31 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/42](https://likecoin.bigdipper.live/proposals/42)
@@ -78,7 +106,7 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ## 議案 #38 **指引式議案：**賦權成立 Marketing subDAO
 
-* **提案：**Phoebe Poon
+* **提案：**Phoebe
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2022.02.20 提案，2022.03.02 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/38](https://likecoin.bigdipper.live/proposals/38)
@@ -127,7 +155,7 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ## 議案 #31 傳送 50,000USDe LIKE 到 Tendermint (HackAtom VI)
 
-* **提案：**Phoebe Poon
+* **提案：**Phoebe
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.01.11 提案，2022.01.19 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/31](https://likecoin.bigdipper.live/proposals/31)
@@ -148,7 +176,7 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ## 議案 #28 從社群池支出聘用 Irtysh Digital
 
-* **提案：**Phoebe Poon
+* **提案：**Phoebe
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.12.14 提案，2021.12.30 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/28](https://likecoin.bigdipper.live/proposals/28)
@@ -169,7 +197,7 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ## 議案 #25 為 Cosmos 社群及讚賞公民提供空投
 
-* **提案：**[kin ko](https://matters.news/@ckxpress/proposal-to-fairdrop-like-coin-to-the-cosmos-community-and-civic-likers-bafyreibhl3hcsgz6vwvgumpqyhsfkar2aznjq4wfqbtd2lugolxqgxfyly)
+* **提案：**[ckxpress](https://matters.news/@ckxpress/proposal-to-fairdrop-like-coin-to-the-cosmos-community-and-civic-likers-bafyreibhl3hcsgz6vwvgumpqyhsfkar2aznjq4wfqbtd2lugolxqgxfyly)
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.12.09 提案，2021.12.18 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/25](https://likecoin.bigdipper.live/proposals/25)
@@ -183,7 +211,7 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ## 議案 #23 成立創作基金委員會
 
-* **提案：**[Edmond](https://matters.news/@edmond/like-coin-chain-proposal-23-endorse-a-committee-to-manage-the-creators-fund-bafyreiefu5a4tm7jnnq2vr7kqqs3v7tb2iosurroa57hj2bj6qxfqn3laq) and [碼農日常](https://matters.news/@thumbb13555)
+* **提案：**[Edmond](https://matters.news/@edmond/like-coin-chain-proposal-23-endorse-a-committee-to-manage-the-creators-fund-bafyreiefu5a4tm7jnnq2vr7kqqs3v7tb2iosurroa57hj2bj6qxfqn3laq) 及 [碼農日常](https://matters.news/@thumbb13555)
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2021.11.25 提案，2021.12.08 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/23](https://likecoin.bigdipper.live/proposals/23)
