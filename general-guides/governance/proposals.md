@@ -6,6 +6,34 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## Proposal #52 LikeCoin v2.0.0 LaiChiKok Prefix Upgrade
+
+* Proposer: Civic Liker
+* Proposal Type: Software Upgrade Proposal
+* Date: Submit on 2022.07.12, Passed on 2022.07.20
+* Details: [https://bigdipper.live/likecoin/proposals/52](https://bigdipper.live/likecoin/proposals/52)
+
+## Proposal #51 Deposit 20,000,000 LIKE to Tech Subdao multisig wallet
+
+* Proposer: ckxpress
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.07.12, Reject due to not reaching quorum on 2022.07.22
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/51](https://bigdipper.live/likecoin/proposals/51)
+
+## Proposal #50 Deposit 1,200,000 LIKE to Creators Fund wallet
+
+* Proposer: Edmond
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.07.06, Passed on 2022.07.14
+* Details: [https://bigdipper.live/likecoin/proposals/50](https://bigdipper.live/likecoin/proposals/50)
+
+## Proposal #49 Deposit 5,000,000 LIKE to Marketing Subdao multi-sig wallet
+
+* Proposer: Phoebe
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.06.28, Passed on 2022.07.05
+* Details: [https://bigdipper.live/likecoin/proposals/49](https://bigdipper.live/likecoin/proposals/49)
+
 ## Proposal #48 Renewal of Pool Incentives on Osmosis
 
 * Proposer: medium
@@ -43,14 +71,14 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #43 \[Rectify proposal 42] Deposit 1,000,000 LIKE to Marketing Subdao multi-sig wallet
 
-* Proposer: Phoebe Poon
+* Proposer: Phoebe
 * Proposal Type: Community Pool Spend Proposal
 * Date: Submit on 2022.03.23, Passed on 2022.03.31
 * Details: [https://likecoin.bigdipper.live/proposals/43](https://likecoin.bigdipper.live/proposals/43)
 
 ## Proposal #42 Deposit 1,000,000 LIKE to Marketing Subdao multi-sig wallet
 
-* Proposer: Phoebe Poon
+* Proposer: Phoebe
 * Proposal Type: Community Pool Spend Proposal
 * Date: Submit on 2022.03.10, Passed on 2022.03.23
 * Details: [https://likecoin.bigdipper.live/proposals/42](https://likecoin.bigdipper.live/proposals/42)
@@ -78,7 +106,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #38 Signalling proposal: endorse a marketing subdao
 
-* Proposer: Phoebe Poon
+* Proposer: Phoebe
 * Proposal Type: Text Proposal
 * Date: Submit on 2022.02.20, Passed on 2022.03.02
 * Details: [https://likecoin.bigdipper.live/proposals/38](https://likecoin.bigdipper.live/proposals/38)
@@ -127,7 +155,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #31 Transfer 50,000USDe of LIKE to Tendermint (HackAtom VI)
 
-* Proposer: Phoebe Poon
+* Proposer: Phoebe
 * Proposal Type: Community Pool Spend Proposal
 * Date: Submit on 2022.01.11, Passed on 2022.01.19
 * Details: [https://likecoin.bigdipper.live/proposals/31](https://likecoin.bigdipper.live/proposals/31)
@@ -148,7 +176,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #28 Hire Irtysh Digital with community pool
 
-* Proposer: Phoebe Poon
+* Proposer: Phoebe
 * Proposal Type: Community Pool Spend Proposal
 * Date: Submit on 2021.12.14, Passed on 2021.12.30
 * Details: [https://likecoin.bigdipper.live/proposals/28](https://likecoin.bigdipper.live/proposals/28)
@@ -169,7 +197,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #25 Proposal to Fairdrop LikeCoin to the Cosmos Community and Civic Likers
 
-* Proposer: [kin ko](https://matters.news/@ckxpress/proposal-to-fairdrop-like-coin-to-the-cosmos-community-and-civic-likers-bafyreibhl3hcsgz6vwvgumpqyhsfkar2aznjq4wfqbtd2lugolxqgxfyly)
+* Proposer: [ckxpress](https://matters.news/@ckxpress/proposal-to-fairdrop-like-coin-to-the-cosmos-community-and-civic-likers-bafyreibhl3hcsgz6vwvgumpqyhsfkar2aznjq4wfqbtd2lugolxqgxfyly)
 * Proposal Type: Community Pool Spend Proposal
 * Date: Submit on 2021.12.09, Passed on 2021.12.18
 * Details: [https://likecoin.bigdipper.live/proposals/25](https://likecoin.bigdipper.live/proposals/25)
