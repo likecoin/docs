@@ -4,7 +4,7 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 # Writing NFT
 
-![](../.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
+![](../../.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
 
 ### 常見問題
 

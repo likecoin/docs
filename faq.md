@@ -20,12 +20,12 @@ description: LikeCoin 常見問題
 * [怎樣註冊 ISCN？ ](guides/decentralized-publishing/app.like.co.md)
 * [可以大量註冊 ISCN 嗎？](guides/decentralized-publishing/iscn-batch-uploader.md)
 
-## [LikeCoin 項目概覽](guides/about/)
+## LikeCoin 項目概覽
 
 * [LikeCoin 是甚麼？](./)
 * [在那兒可參看最新工作進展？](updates.md)
-* [有媒體報導可以參詳嗎？](guides/about/on-the-news.md)
-* [LikeCoin 有提供品牌形象指引和相關素材下載麼？](guides/about/presskit.md)
+* [有媒體報導可以參詳嗎？](guides/on-the-news.md)
+* [LikeCoin 有提供品牌形象指引和相關素材下載麼？](presskit.md)
 * [大百科沒有我想要的答案，怎聯繫客戶服務專員？](faq.md#likecoin-qu-zhong-xin-chu-ban)
 
 ## [錢包](guides/wallet/)

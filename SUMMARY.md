@@ -4,6 +4,7 @@
 * [LikeCoin 進度更新](updates.md)
 * [LikeCoin 空投](airdrop.md)
 * [LikeCoin 答客問](faq.md)
+* [品牌素材下載](presskit.md)
 
 ## 📙 指南 <a href="#guides" id="guides"></a>
 
@@ -11,7 +12,12 @@
   * [#Community Call](guides/community/community-call.md)
   * [#translate-wallet-prefix](guides/community/translate-wallet-prefix.md)
   * [#faucet-test](guides/community/faucet-test.md)
-* [Writing NFT](guides/writing-nft.md)
+* [Writing NFT](guides/writing-nft/README.md)
+  * [NFT Widget](guides/writing-nft/nft-widget.md)
+  * [Writing NFT WordPress 外掛](guides/writing-nft/writing-nft-wordpress-plugin.md)
+  * [動態定價](guides/writing-nft/dynamic-pricing.md)
+  * [NFT Portal](guides/writing-nft/nft-portal.md)
+  * [NFT Portfolio](guides/writing-nft/nft-portfolio.md)
 * [去中心出版](guides/decentralized-publishing/README.md)
   * [什麼是 ISCN?](guides/decentralized-publishing/what-is-iscn.md)
   * [ISCN 和 IPFS 的關係是什麼？](guides/decentralized-publishing/iscn-ipfs-relationship.md)
@@ -61,9 +67,7 @@
   * [驗證人](guides/governance/what-is-a-validator/README.md)
     * [社群委託](guides/governance/what-is-a-validator/community-delegation.md)
   * [歷史議案](guides/governance/proposals.md)
-* [LikeCoin 項目概覽](guides/about/README.md)
-  * [傳媒報導](guides/about/on-the-news.md)
-  * [品牌素材下載](guides/about/presskit.md)
+* [傳媒報導](guides/on-the-news.md)
 
 ## 💻 去中心應用 <a href="#user-guide" id="user-guide"></a>
 
