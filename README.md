@@ -8,11 +8,11 @@ description: 'What is LikeCoin, #DePub, and the LikeCoin DAO'
 
 ### What is LikeCoin?
 
-LikeCoin decentralizes publishing by allowing everyone to publish their content as NFTs with a suite of open tools. ([NFT portal & widget](https://app.like.co/), [plugin](https://wordpress.org/plugins/likecoin/), [open APIs](https://api.like.co/))
+LikeCoin decentralizes publishing by allowing everyone to publish their content as an NFTs with a suite of open tools. ([NFT portal & widget](https://app.like.co/), [plugin](https://wordpress.org/plugins/likecoin/), [open APIs](https://api.like.co/))
 
 ### Content Ownership
 
-Own your content by publishing NFT on the LikeCoin chain.
+Own your content by publishing an NFT on the LikeCoin chain.
 
 ### Decentralize Publishing
 
