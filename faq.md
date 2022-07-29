@@ -41,7 +41,7 @@ LikeCoin Overview&#x20;<a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="l
 ## [Trade](general-guides/trade/)
 
 * [How to trade LikeCoin into other cryptocurrency or fiat money?](general-guides/trade/)
-* [Can I buy LikeCoin by credit card?](general-guides/trade/trade-in-liquid.md)
+* [Can I buy LikeCoin by credit card?](archive/archive/trade/trade-in-liquid.md)
 
 ## [Liquidity Mining](faq.md#undefined)
 

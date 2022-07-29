@@ -4,17 +4,17 @@ description: Buy and Swap LikeCoin. Instantly
 
 # Trade in Liquid
 
-## Quick Exchange <a href="quickexchange" id="quickexchange"></a>
+## Quick Exchange <a href="#quickexchange" id="quickexchange"></a>
 
 [Quick Exchange ](https://app.liquid.com/quick-exchange)provides a simple interface for users to exchange LikeCoin.
 
 **Please be reminded: The transaction amount affects the exchange rate, the system displays real time offers.**
 
-![](<../../.gitbook/assets/quick-exchange-1 (1).png>)
+![](<../../../.gitbook/assets/quick-exchange-1 (1).png>)
 
-![](../../.gitbook/assets/liquid-qe.gif)
+![](../../../.gitbook/assets/liquid-qe.gif)
 
-### **Exchange LikeCoin with fiat money or others cryptocurrency** <a href="tradelikecoin" id="tradelikecoin"></a>
+### **Exchange LikeCoin with fiat money or others cryptocurrency** <a href="#tradelikecoin" id="tradelikecoin"></a>
 
 * On the Quick Exchange interface, select the "Swap" tab
 * Select the type of currency that you would like to sell, on "EXCHANGE" select LIKE, on "RECEIVE" select fiat or other cryptocurrency for example BTC/ETH/USDC/USDT. If you would like to buy LikeCoin, revise the logic.
@@ -23,19 +23,19 @@ description: Buy and Swap LikeCoin. Instantly
 * Fill in the amount to exchange, the system will show the amount that you can get on the "RECEIVE" field. If it's OK to you, click the "Quick Exchange'' button and the transaction is done. The exchanged amount will be credited to your account instantly
 * Or vice versa, fill in the amount of currency that you want to get, the system will show the amount of currency that you need to sell in the "EXCHANGE" field
 
-![](../../.gitbook/assets/quick-exchange-1-en.png)
+![](../../../.gitbook/assets/quick-exchange-1-en.png)
 
-### Purchase LikeCoin with credit card <a href="bylikecoinwithcreditcard" id="bylikecoinwithcreditcard"></a>
+### Purchase LikeCoin with credit card <a href="#bylikecoinwithcreditcard" id="bylikecoinwithcreditcard"></a>
 
 * Accept Visa or MasterCard in some of the countries
 * Minimum purchase amount is approximately USD15 or equivalent fiats
 * The system displays credit card service fee and exchange rate, the currency amount displayed is the amount after deduction of service fee
 
-![](../../.gitbook/assets/quick-exchange-2-en.png)
+![](../../../.gitbook/assets/quick-exchange-2-en.png)
 
 Click on "Buy with VISA", fill in credit card information and pay for it
 
-![](../../.gitbook/assets/quick-exchange-3-en.png)
+![](../../../.gitbook/assets/quick-exchange-3-en.png)
 
 #### Liquid Official Tutorial
 
