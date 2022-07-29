@@ -12,7 +12,6 @@ description: 如何交易 LikeCoin？
 
 ### 中心化交易所 CEX
 
-* [Liquid](https://www.liquid.com/) 提供 BTC/LIKE 及 USDT/LIKE 交易對
 * [DigiFinex](https://www.digifinex.com/) 提供 USDT/LIKE 交易對
 * [ZB](https://www.zb.com/) 提供 USDT/LIKE 交易對
 * [MyEthShop](https://www.myethshop.com/) 提供 HKD/LIKE 兌換
@@ -21,10 +20,4 @@ description: 如何交易 LikeCoin？
 
 ### 場外交易
 
-[LikeCoin Grants](../../cun-dang/archive/likecoin-grants.md) 衍生項目 [LikeCoin 場外交易](https://lotc.netlify.app/) 讓買賣雙方直接聯繫與交易，詳見 [馬特市銀行](https://matters.news/\~lotc)。
-
-你也可能對以下條目有興趣：
-
-{% content-ref url="../../user-guide/community/products-and-services.md" %}
-[products-and-services.md](../../user-guide/community/products-and-services.md)
-{% endcontent-ref %}
+[LikeCoin 場外交易](https://lotc.netlify.app/) 讓買賣雙方直接聯繫與交易，詳見 [馬特市銀行](https://matters.news/\~lotc)。

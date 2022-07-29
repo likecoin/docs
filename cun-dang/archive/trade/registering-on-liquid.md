@@ -14,7 +14,7 @@ description: 如何註冊 Liquid 交易所帳號
 
 請到 [Liquid.com 註冊帳號](https://www.liquid.com/sign-up/?affiliate=zlgAOAX564083)。過程中你只需填上簡單的資料，但由於需要實名認證，請填寫你的身份證明文件上的真實姓名 \[Legal First Name] \[Legal Last Name]
 
-![](../../.gitbook/assets/liquid.png)
+![](../../../.gitbook/assets/liquid.png)
 
 Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請點擊電郵中的鏈結，激活帳號。
 
@@ -24,16 +24,16 @@ Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請�
 
 1\. 提交完基本資料並激活帳號後，再次登入系統會見到以下頁面。點擊 "Enable 2-Factor Authentication"
 
-![](../../.gitbook/assets/liquid-security.png)
+![](../../../.gitbook/assets/liquid-security.png)
 
 2\. 下載手機編碼器認證，例如 Google Authenticator 應用程式
 
-[安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh_TW)\
+[安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh\_TW)\
 [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
 掃描頁面中的二維碼，再在頁面下方填上 Google Authenticator 所提供的認證碼
 
-![](../../.gitbook/assets/liquid-2fa.png)
+![](../../../.gitbook/assets/liquid-2fa.png)
 
 填上正確的認證碼後，雙重認證設定便告成功。
 
@@ -49,11 +49,11 @@ Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請�
 
 1\. 點擊畫面右上角的人像圖示，能查看你的帳號狀態。留意此時你的帳號狀態是 "Pending" （待審核）
 
-![](../../.gitbook/assets/liquid-account-pending.png)
+![](../../../.gitbook/assets/liquid-account-pending.png)
 
 2\. 點擊上圖紅圈的位置，會進到以下頁面，要求你提交文件驗證身份。請點擊頁面下方的按鍵開始提交文件
 
-![](../../.gitbook/assets/liquid-account-status.png)
+![](../../../.gitbook/assets/liquid-account-status.png)
 
 3\. 你需要提交三份文件：
 
@@ -73,7 +73,7 @@ Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請�
 
 > [如何把你的LikeCoin變成台幣（上）：LIQUID交易所帳號申請與認證教學](https://xrine.com/how-to-turn-likecoin-into-ntd-liquid-verification/)
 
-### 如有疑難，聯絡 Liquid 客服 <a href="liquid" id="liquid"></a>
+### 如有疑難，聯絡 Liquid 客服 <a href="#liquid" id="liquid"></a>
 
 若你在開戶或任何交易所服務的過程中遇到困難，請參考 [Liquid 幫助中心（繁体中文）](https://help.liquid.com/zh-TW/)或直接聯絡 Liquid 客服。
 

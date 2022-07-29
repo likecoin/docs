@@ -136,7 +136,7 @@ description: LikeCoin DAO 有過甚麼議案？
 
 * **提案：**1% Potato
 * **類型**：文本式議案 ( Text Proposal )
-* **日期**：2022.02.07 提案，2022.02.21 押金不足，提案被移除
+* **日期**：2022.02.07 提案，2022.02.21 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/34](https://likecoin.bigdipper.live/proposals/34)
 
 ## 議案 #33 從社群池支出聘用 OurSky
