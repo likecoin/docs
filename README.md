@@ -38,8 +38,6 @@ LikeCoin’s mission is to democratize publishing services to ensure everyone ha
 
 We believe great software should be easy to use. Creators can focus on what they are good at — creating quality content. All LikeCoin tools such as widgets, WordPress plugins, and APIs are designed to help creators get started easily but also offer powerful features for creators to grow and succeed.
 
-
-
 ### LikeCoin DAO
 
 [LikeCoin DAO](https://dao.like.co/proposals) is a decentralized organization that allows all LIKE token holders to participate in governance decisions. Every LikeCoin holder is a stakeholder of the DAO.&#x20;
@@ -72,13 +70,9 @@ Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
 [faq.md](faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="archive/archive/liker-land/list-of-media.md" %}
-[list-of-media.md](archive/archive/liker-land/list-of-media.md)
-{% endcontent-ref %}
-
 ## More about LikeCoin
 
-* **Website**: [Like.co](https://like.co) (for all stakeholders; in English), [Liker.Land](https://liker.land) (for readers and creators), [ISCN App](https://app.like.co/) (ISCN Registry), [iscn.io](https://iscn.io/) (ISCN Specifications)
+* **Website**: [Like.co](https://like.co) (for all stakeholders; in English), [Liker.Land](https://liker.land) (for readers and creators), [NFT portal & widget](https://app.like.co/), [iscn.io](https://iscn.io/) (ISCN Specifications)
 * ****[**Discord**](https://discord.com/likecoin): Our community is here, talking about development and governance discussion
 * ****[**Twitter**](https://twitter.com/likecoin): **** announcements
 * ****[**Publication**](httsps://blog.like.co): progress update, governance, products
