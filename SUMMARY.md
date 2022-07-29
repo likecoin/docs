@@ -85,6 +85,7 @@
   * [#faucet-testnet](general-guides/community/faucet-testnet.md)
 * [Writing NFT](general-guides/writing-nft/README.md)
   * [NFT Widget](general-guides/writing-nft/nft-widget.md)
+  * [Writing NFT WordPress Plugin](general-guides/writing-nft/writing-nft-wordpress-plugin.md)
 * [Decentralized Publishing](general-guides/decentralized-publishing/README.md)
   * [What is ISCN](general-guides/decentralized-publishing/what-is-iscn.md)
   * [What is the relationship between ISCN and IPFS?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
