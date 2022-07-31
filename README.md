@@ -73,7 +73,7 @@ Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
 ## More about LikeCoin
 
 * **Website**: [Like.co](https://like.co) (for all stakeholders; in English), [Liker.Land](https://liker.land) (for readers and creators), [NFT portal & widget](https://app.like.co/), [iscn.io](https://iscn.io/) (ISCN Specifications)
-* ****[**Discord**](https://discord.com/likecoin): Our community is here, talking about development and governance discussion
+* ****[**Discord**](https://discord.gg/likecoin): Our community is here, talking about development and governance discussion
 * ****[**Twitter**](https://twitter.com/likecoin): **** announcements
 * ****[**Publication**](httsps://blog.like.co): progress update, governance, products
 * ****[**Telegram**](https://t.me/likecoin\_dao): announcements
