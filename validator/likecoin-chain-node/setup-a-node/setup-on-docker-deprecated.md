@@ -39,7 +39,7 @@ Run `make build-docker`.
    `LIKECOIN_DOCKER_IMAGE="likecoin/likecoin-chain:v3.0.0"`\
    `LIKECOIN_CHAIN_ID="likecoin-public-testnet-5"`\
    `LIKECOIN_GENESIS_URL="https://gist.githubusercontent.com/nnkken/4a161c14e9dc03f412c36d11cdf7ea27/raw/9265c348c9f79b918d99aeee7f6c29b6b3bc449f/genesis.json"`\
-   `LIKECOIN_SEED_NODES="c5e678f14219c1f161cb608aaeda37933d71695d@nnkken.dev:31801"`\
+   `LIKECOIN_SEED_NODES="`49976c3bd43da9271f226cbedf02d4b6b8fc880c@35.233.143.230:26656`"`\
    `\` Note that `LIKECOIN_MONIKER` is a custom name you decide for your node's name.\\
 3. Run `docker-compose run --rm init` to create `.liked` directories, with node config and keys initialized.\\
 4. Run `docker-compose run --rm liked-command keys add validator` to add an operator key. The command will output your operator address, and also a 12-24 words mnemonic phrase. Please backup the mnemonic phrase properly as it represents your validator's private key.\
