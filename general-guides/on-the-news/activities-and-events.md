@@ -2,6 +2,28 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 07/30-31 COSCUP 2022
+
+[讓七百萬人透過分散式自治組織（DAO）協作，可能麼？](https://coscup.org/2022/zh-TW/session/Y3PFWD)
+
+[NFT use cases on Cosmos Ecosystem](https://coscup.org/2022/en/session/8DNJXA)
+
+### 07/28 文化按摩師 Cultural Masseur
+
+[Talking Heads Podcast Series呈獻: ![👾](https://static.xx.fbcdn.net/images/emoji.php/v9/t5a/1/16/1f47e.png)Metaverse Party Night元宇宙派對![🎉](https://static.xx.fbcdn.net/images/emoji.php/v9/t8c/1/16/1f389.png)!](https://www.facebook.com/Liker.Land/posts/pfbid0okEx3tVZCZHtp5YCqC1jjUgMpcLExifVftLfu9syxWo7JcYJSifvm7Nxo9wm96xFl)
+
+### 07/27 LikeCoin Discord
+
+[LikeCoin AMA：Sally Chong 莎莉斜槓人生提案](https://discord.com/channels/763001015712350231/966284715546001428/1000670574143606845)
+
+### 07/26 LikeCoin Discord
+
+[初創起步 Startup Readiness Bootcamp AMA](https://www.facebook.com/Liker.Land/posts/pfbid02hogWQ1mLvVSkquEBAsRSaqFjoYskYVSnU6meY3Rbtf6kxko9R52kW3dfBdXjuiuRl)
+
+### 07/14 LikeCoin Discord
+
+[Watershed HK X LikeCoin AMA: 「香港歷史與去中心出版」](https://discord.com/channels/763001015712350231/966284715546001428/995978756403494932)
+
 ### 07/12 網絡星期二
 
 \[2022/07/12 網路星期二線上直播] ：合作社 ＆ 去中心化自治組織 DAO -- 以人為本的治理解決了哪些問題，又面臨哪些困境？
@@ -104,19 +126,19 @@
 
 HK Crypto 30mins ep.11 | 艱難見證，見證難難；我們的獅子山
 
-![](../../../.gitbook/assets/181890636\_3249726758587346\_8935775873217263295\_n.png)
+![](../../.gitbook/assets/181890636\_3249726758587346\_8935775873217263295\_n.png)
 
 ### 03/23 Clubhouse CRYPTO 852
 
 HK Crypto 30 mins ep.10 | 創作有價，Likecoin創辦人同你句句真
 
-![](../../../.gitbook/assets/fireshot-capture-2485-crypto-30-mins-ep.10-chuang-zuo-you-jia-likecoin-chuang-ban-ren-tong-ni-ju-ju-zhen-xiang-gang-jia-mi-huo-bi-crypto-85-www.joinclubhouse.com.png)
+![](../../.gitbook/assets/fireshot-capture-2485-crypto-30-mins-ep.10-chuang-zuo-you-jia-likecoin-chuang-ban-ren-tong-ni-ju-ju-zhen-xiang-gang-jia-mi-huo-bi-crypto-85-www.joinclubhouse.com.png)
 
 ### 03/12 MozFest 2021
 
 [Business models on the web are broken! Let's fix them.](https://schedule.mozillafestival.org/session/FTCNBS-1)
 
-![](../../../.gitbook/assets/screenshot\_2021-03-12\_at\_2.10.46\_am.png)
+![](../../.gitbook/assets/screenshot\_2021-03-12\_at\_2.10.46\_am.png)
 
 ### 03/11 HKBU TriAngle
 
@@ -212,7 +234,7 @@ HK Crypto 30 mins ep.10 | 創作有價，Likecoin創辦人同你句句真
 
 [g0v tw hackath39n — 提案 — LikeCoin 狂想曲 ／ Phoebe — 又在家黑客松](https://g0v.hackmd.io/c/g0v-hackath39n)
 
-[Video](../../../)
+[Video](../../)
 
 [Video](https://www.youtube.com/watch?v=Qyapcuur6Lk)
 
