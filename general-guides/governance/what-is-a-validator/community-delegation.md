@@ -4,10 +4,6 @@ description: Community Delegation from the Community Pool
 
 # Community Delegation
 
-The Community delegation program aimed to support newly onboard validators of some startup funds who wish to contribute to the LikeCoin chain governance.&#x20;
-
-We also support service providers like block explorer, wallet or other technical/business partners who wish to receive community delegation as a validator. Feel free to email team@liker.land or reach our team on [Discord](http://discord.gg/likecoin).&#x20;
-
 ### Application Procedure
 
 If a validator would like to apply for community delegation, please:&#x20;
@@ -29,6 +25,8 @@ D. Write an application post in the LikeCoin Discord channel [#apply-for-delegat
 You are encouraged to update your icon, website and intro on BigDipper, although it is not a mandatory requirement for applying community delegation. You are also welcomed to introduce yourself in the [LikeCoin Community Call.](../community-call.md)
 
 Please note validators' application for community fund cut off day is on the 15th 1200 GMT+8 of each month. The committee will then process the applications in batch and make a decision by the 21st 1200 GMT+8 of each month. Redelegation of community funds will take effect afterwards.
+
+We also support service providers like block explorer, wallet or other technical/business partners who wish to receive community delegation as a validator. Feel free to email team@liker.land or reach our team on [Discord](http://discord.gg/likecoin).&#x20;
 
 ### Review Criteria
 
