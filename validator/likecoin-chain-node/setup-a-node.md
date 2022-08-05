@@ -221,7 +221,7 @@ chunk_fetchers = "4"
 ```
 
 {% hint style="info" %}
-Use`rpc_servers = "https://node.testnet.like.co/rpc,https://node.testnet.like.co/rpc"` if you are setting up testnet.
+Use`rpc_servers = "`[`https://node.testnet.like.co:443/rpc/,https://node.testnet.like.co:443/rpc/`](https://node.testnet.like.co/rpc/,https://node.testnet.like.co:443/rpc/)`"` if you are setting up testnet.
 {% endhint %}
 
 Then, the node will use state sync to synchronize with the network instead of replaying from genesis at launch.
