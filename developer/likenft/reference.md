@@ -76,7 +76,7 @@ Result is order by the number of NFTs not owned by creator nor `ignore_list`
 
 ```
 
-*Note: because only api-public knows the price. `price` in the response is always 0*
+*Note: Currently only like.co API can report the latest price. `price` in the response is always 0. Please refer to like.co API documentation for price information*
 
 ### Example UI
 
