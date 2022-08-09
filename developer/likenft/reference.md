@@ -119,7 +119,7 @@ Result is order by count of NFT collections.
 {
   "collectors": [
     {
-      "account": "like17m4vwrnhjmd20uu7tst7nv0kap6ee7js69jfrs",             // This one is API wallet
+      "account": "like17m4vwrnhjmd20uu7tst7nv0kap6ee7js69jfrs",             // The like.co NFT sales API wallet
       "count": 2928,
       "collections": [
         {
