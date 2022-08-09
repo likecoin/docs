@@ -78,12 +78,6 @@ Result is order by the number of NFTs not owned by creator nor `ignore_list`
 
 *Note: Currently only like.co API can report the latest price. `price` in the response is always 0. Please refer to like.co API documentation for price information*
 
-### Example UI
-
-https://lancatlin.github.io/likenft-ranking/ 
-
-[source code](https://github.com/lancatlin/likenft-ranking)
-
 ---
 
 ## Social Graph API
@@ -193,9 +187,9 @@ Result is order by count of NFT collections.
 }
 ```
 
-### Example UI
+## Example UI
 
-https://lancatlin.github.io/likenft-social-graph/ 
+https://likecoin.github.io/likecoin-nft-dashboard/ 
 
-[source code](https://github.com/lancatlin/likenft-social-graph)
+[source code](https://github.com/likecoin/likecoin-nft-dashboard)
 
