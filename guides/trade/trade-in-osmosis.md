@@ -12,7 +12,7 @@ description: 去中心交易所，無需註冊，立即交易
 
 ![](<../../.gitbook/assets/Osmosis 01.png>)
 
-在 Connect Wallet 選「Keplr Wallet」。
+在 Connect Wallet 選「[Keplr Wallet](../wallet/keplr.md)」。
 
 ![](<../../.gitbook/assets/Osmosis 02.png>)
 
@@ -52,7 +52,7 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 
 換幣完成後，回到 Assets 可看到交易的密碼貨幣增加了。
 
-### 步驟四：取回密碼貸幣
+### 步驟四：取回密碼貨幣
 
 請將密碼貨幣先從 Assets 的「Withdraw >」使用 IBC Withdraw 提取回你的 Keplr 錢包後再傳送到交易所或其他錢包。
 
