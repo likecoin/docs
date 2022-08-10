@@ -8,7 +8,7 @@ description: 如何收藏 Writing NFT
 
 ## 步驟一：開始收藏
 
-到活動頁面查看希望購買的 NFT，點當前的 NFT 價格。
+到[活動頁面](https://liker.land/campaign/writing-nft)查看希望購買的 NFT，點當前的 NFT 價格。
 
 ![](<../../.gitbook/assets/Buy NFT 01.png>)
 
@@ -38,7 +38,7 @@ description: 如何收藏 Writing NFT
 
 ![](<../../.gitbook/assets/Buy NFT 08.png>)
 
-在 Liker Land 手機應用程式點二維碼圖示調用鏡頭，並掃瞄二維碼。
+在 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
 
 ![](<../../.gitbook/assets/Buy NFT 09.png>)
 
