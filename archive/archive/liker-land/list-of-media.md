@@ -8,7 +8,7 @@ description: 支援 LikeCoin 的網站都有哪些？我想加入，要申請麼
 2022/06/14 存檔。資訊已過期。
 {% endhint %}
 
-![](../../.gitbook/assets/media-list.png)
+![](../../../.gitbook/assets/media-list.png)
 
 ## 不設准入機制 <a href="#permissionless" id="permissionless"></a>
 

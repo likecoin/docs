@@ -5,7 +5,7 @@ description: 年費計劃只適用於購買 Civic Liker Classic 會籍
 # 以年費訂閱讚賞公民
 
 {% hint style="danger" %}
-2022/06/14 存檔。資訊已過期，請參看新條目 [讚賞公民](./)
+2022/06/14 存檔。資訊已過期，請參看新條目 [讚賞公民](../../../user-guide/civic-liker/)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -16,7 +16,7 @@ description: 年費計劃只適用於購買 Civic Liker Classic 會籍
 
 直接到鏈結 [https://liker.land/civic/register/likepay](https://liker.land/civic/register/likepay) 支付 15,000 LikeCoin 年費，即可啟動會籍。
 
-![](../../.gitbook/assets/15000likecoin-civicliker.png)
+![](../../../.gitbook/assets/15000likecoin-civicliker.png)
 
 ## 以 PayMe 或轉數快繳付 Civic Liker Classic 年費
 
@@ -27,7 +27,7 @@ description: 年費計劃只適用於購買 Civic Liker Classic 會籍
 * **轉數快 ID：6636369**
 * **PayMe QR code:**
 
-![](../../.gitbook/assets/payme.png)
+![](../../../.gitbook/assets/payme.png)
 
 ### 步驟二：傳送過帳記錄
 

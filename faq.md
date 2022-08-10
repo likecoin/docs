@@ -42,7 +42,7 @@ description: LikeCoin 常見問題
 ## [交易](guides/trade/)
 
 * [如何兌換 LikeCoin 為其他密碼貨幣或法定貨幣？](guides/trade/)
-* [可以使用信用卡購買 LikeCoin 嗎？](cun-dang/archive/trade/trade-in-liquid.md)
+* [可以使用信用卡購買 LikeCoin 嗎？](archive/archive/trade/trade-in-liquid.md)
 
 ## [流動性挖礦](faq.md#undefined)
 

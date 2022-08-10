@@ -36,7 +36,7 @@ description: 對讚賞公民 Web3 有問題嗎？可以在這兒找答案
 
 欲成為讚賞公民，必先得購入 LikeCoin。[Osmosis](../../guides/trade/trade-in-osmosis.md) 是目前流通量最高的去中心交易所，你可以使用超過 30 多種密碼貨幣換得 LikeCoin。
 
-若你持有的是法定貨幣如港幣、台幣或美元，請先於支援法定貨幣的交易所或場外交易購得美元穩定幣 USDT，再於 [Liquid](../../cun-dang/archive/trade/trade-in-liquid.md)，[Digifinex](../../guides/trade/trade-in-digifinex.md) 或 [ZB](../../guides/trade/trade-in-zb.md) 等交易所直接購入 LikeCoin。
+若你持有的是法定貨幣如港幣、台幣或美元，請先於支援法定貨幣的交易所或場外交易購得美元穩定幣 USDT，再於 [Liquid](../../archive/archive/trade/trade-in-liquid.md)，[Digifinex](../../guides/trade/trade-in-digifinex.md) 或 [ZB](../../guides/trade/trade-in-zb.md) 等交易所直接購入 LikeCoin。
 
 若你是香港用戶，可親身到 [MyEthShop](../../guides/trade/registering-and-trade-in-myethshop.md) 購買 LikeCoin。
 
