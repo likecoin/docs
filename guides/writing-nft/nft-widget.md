@@ -10,5 +10,5 @@ description: 隨心收集 – 嵌在文章中的銷售點
 
 為了令讀者收集 Writing NFT 的體驗能跟閱讀習慣連貫，我們會讓讀者直接在文章中購買該篇的 Writing NFT，收集就如為文章按讚般簡易。讀者會見到一個 「**NFT Widget」** 在文章底部，此小部件會顯示出 NFT 的當前售價，若讀者覺得售價可接受，可點「收集」鍵即時從電子錢包轉帳 LikeCoin 並購買。
 
-![NFT Widget UI 初步設計：嵌在文章中的銷售點，讓讀者隨心收集。
-](../../.gitbook/assets/Demo1.webp)
+![嵌在文章中的銷售點，讓讀者隨心收集。
+](<../../.gitbook/assets/NFT Widget.png>)
