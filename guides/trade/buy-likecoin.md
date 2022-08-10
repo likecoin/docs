@@ -10,6 +10,8 @@ description: 如何購買 LikeCoin？
 
 只要到任何一間可以購買 ATOM 的交易所（例如 Binance、FTX、Kucoin、Kraken）或直接以信用卡購買 ATOM 的機構（例如 Moonpay）購買 ATOM，然後到 [Osmosis](../liquidity-mining/osmosis.md) 將 ATOM 兌換為 LikeCoin。
 
+![](<../../.gitbook/assets/ATOM to LIKE.png>)
+
 ### 法定貨幣 -> 直接購買 LIKE（只適用香港）
 
 到 [MyEthShop](registering-and-trade-in-myethshop.md) 即可直接以港幣購買 LIKE。
