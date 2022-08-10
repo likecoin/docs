@@ -6,11 +6,11 @@ description: On desktop computer
 
 Go to the Chrome Webstore and click "Add to Chrome" to install the [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
 
-![](../../../.gitbook/assets/keplr01.png)
+![](../../../.gitbook/assets/keplr01-en.png)
 
 Click "Add extension".
 
-![](../../../.gitbook/assets/keplr02.png)
+![](../../../.gitbook/assets/keplr02-en.png)
 
 After installation, click on Keplr icon on the upper right corner of your browser and you will see the registration screen. Click “Create new account”.
 

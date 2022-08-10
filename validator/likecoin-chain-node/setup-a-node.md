@@ -447,9 +447,3 @@ We can now start the stack again:
 ```shell
 docker-compose up -d
 ```
-
-#### Create a new validator
-
-> Please note that we will stop maintaining this method soon.
-
-If you insist to setup a new validator this way, you may refer to the old docker setup guide.
