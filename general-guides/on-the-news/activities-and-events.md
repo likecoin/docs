@@ -2,6 +2,14 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 08/11 LikeCoin Twitter
+
+[Community Update: Writing NFT, DePub in Cosmos](https://twitter.com/likecoin/status/1557743919655399426)
+
+### 07/27 Cosmos Club Twitter
+
+[Cosmos Club with depub.space & LikeCoin](https://twitter.com/CosmosClub\_/status/1552294248925609985)
+
 ### 07/30-31 COSCUP 2022
 
 [讓七百萬人透過分散式自治組織（DAO）協作，可能麼？](https://coscup.org/2022/zh-TW/session/Y3PFWD)
@@ -30,7 +38,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=3OGTSRJK5mY" %}
 
-### 07/10 Cosmos Spaces
+### 07/10 Cosmos Spaces Twitter
 
 [#Cosmos Pot luck w/ Likecoin & depub.space🎙Host: Cosmos HOSS](https://twitter.com/Cosmos\_Spaces/status/1545838770167201793)
 
