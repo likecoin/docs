@@ -5,7 +5,9 @@ description: Cross-Chain DEX aggregator, registration not required, immediate tr
 # Trade in Emeris
 
 {% hint style="danger" %}
-Archived on 2022/06/14. Information is out of date, please refer to the entry "[Trade](../../../general-guides/trade/)".
+Archived on 2022/06/14.
+
+The Emeris DEX withdrew from the Gravity DEX protocol of the Cosmos Hub in April 2022 and re-upgrade and reorganized it into Crescent DEX. Users who have provided liquidity in the Emeris ATOM/LIKE liquidity pool please get back your tokens as soon as possible before April 26.
 {% endhint %}
 
 On November 23, 2021, Likers can access LIKE in a permissionless and frictionless way with Cross-Chain DEX aggregator Emeris. For instance, swap LIKE to different listed tokens on Emeris (or vice versa). Registration is not required and no minimum deposit or withdrawal limit. Users can operate with their wallet all the way down, and experience decentralized trading.

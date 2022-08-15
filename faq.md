@@ -76,7 +76,7 @@ LikeCoin Overview&#x20;<a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="l
 * [What is depub.space?](general-guides/decentralized-publishing/depub.space.md)
 * [What are the functions of the LikeCoin button?](user-guide/creator/)
 * [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](user-guide/creator/blogging-platforms/)
-* [Portfolio Page helps to display all of my works? How to use it?  ](user-guide/creatortools/portfolio-page.md)
+* [Portfolio Page helps to display all of my works? How to use it?  ](archive/archive/creatortools/portfolio-page.md)
 * [How to check my daily and weekly rewards?](user-guide/creatortools/rewards/)
 * [How to check my monthly achievement?](user-guide/creatortools/monthly-report.md)
 

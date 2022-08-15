@@ -4,6 +4,12 @@ description: How to register on Liquid Exchange
 
 # Registering on Liquid
 
+{% hint style="danger" %}
+Archived on 2022/08/15.
+
+Due to Liquid being acquired by Singapore exchange FTX, LIKE trading will no longer be supported. From August 2022, users will not be able to deposit LikeCoin on Liquid, and all related trading operations will be completely stopped on August 21. This is an internal restructuring decision of Liquid. At the same time, ATOM, UNI, DYDX, DOGE, AAVE, ENS, CRV and other tokens will also be delisted. The founding team of LikeCoin will strive to find other trading channels, while users can continue to trade LikeCoin on other exchanges.
+{% endhint %}
+
 You have to register a Liquid account and pass the account verification in order to use their service.
 
 Please note that you cannot use Liquid if you are in certain countries.

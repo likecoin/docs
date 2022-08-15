@@ -13,8 +13,8 @@ Your name and avatar will appear in various Liker Land scenarios:
 
 ### Portfolio Page
 
-{% content-ref url="../creatortools/portfolio-page.md" %}
-[portfolio-page.md](../creatortools/portfolio-page.md)
+{% content-ref url="../../archive/archive/creatortools/portfolio-page.md" %}
+[portfolio-page.md](../../archive/archive/creatortools/portfolio-page.md)
 {% endcontent-ref %}
 
 ![](../../.gitbook/assets/likerid-avatar-en.png)

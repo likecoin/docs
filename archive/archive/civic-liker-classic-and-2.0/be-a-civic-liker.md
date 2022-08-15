@@ -17,7 +17,7 @@ Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co
 You can support your content creator starting from the following:
 
 * Click on the [sponsor link](../creatortools/sponsor-link.md) provided by the content creator, for example  [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic)
-* Click on the "Become a Civic Liker" button on the content creator's&#x20;  [Portfolio Page](../../../user-guide/creatortools/portfolio-page.md)
+* Click on the "Become a Civic Liker" button on the content creator's&#x20;  [Portfolio Page](../creatortools/portfolio-page.md)
 
 ![](../../../.gitbook/assets/register-civic-liker-1-en.png)
 

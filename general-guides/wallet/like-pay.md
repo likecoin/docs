@@ -44,7 +44,7 @@ Some crypto exchanges may require input of Tag/Memo, please fill in the value he
 
 ### Step 1
 
-Login [Liker Land web](../../user-guide/liker-land/download.md#liker-land-web) and click LIKE pay on the receiver's [Portfolio Page](../../user-guide/creatortools/portfolio-page.md).
+Login [Liker Land web](../../user-guide/liker-land/download.md#liker-land-web) and click LIKE pay on the receiver's [Portfolio Page](../../archive/archive/creatortools/portfolio-page.md).
 
 ![](../../.gitbook/assets/like-pay-5-en.png)
 

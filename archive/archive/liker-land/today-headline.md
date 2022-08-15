@@ -26,7 +26,7 @@ The default Content Jockeys was managed by the LikeCoin DAO with [Liquid Democra
 
 ## My Content Jockey: Follow a Content Jockey <a href="#my-content-jockey" id="my-content-jockey"></a>
 
-Readers can follow their trusted Content Jockeys, you can go to their [Portfolio Page](../../../user-guide/creatortools/portfolio-page.md) for following them.
+Readers can follow their trusted Content Jockeys, you can go to their [Portfolio Page](../creatortools/portfolio-page.md) for following them.
 
 Click on the star icon underneath in the Liker Land app, you can check the content provided by your beloved Content Jockey, go to [Liker Land web](https://liker.land/following) and login will do the same.
 

@@ -5,10 +5,10 @@ description: How to provide liquidity on Emeris
 # Emeris
 
 {% hint style="danger" %}
-Archived on 2022/06/14. Information is out of date, please refer to the entry "[Liquidity](../../../general-guides/liquidity/)".
-{% endhint %}
+Archived on 2022/06/14.
 
-On Emeris, users can participate in LIKE liquidity pools for liquidity providing to earn swap fees.
+The Emeris DEX withdrew from the Gravity DEX protocol of the Cosmos Hub in April 2022 and re-upgrade and reorganized it into Crescent DEX. Users who have provided liquidity in the Emeris ATOM/LIKE liquidity pool please get back your tokens as soon as possible before April 26.On Emeris, users can participate in LIKE liquidity pools for liquidity providing to earn swap fees.
+{% endhint %}
 
 Please note providing liquidity may result in impermanent loss, assess the risks before you dive into the ecosystem.
 

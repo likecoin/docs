@@ -24,8 +24,8 @@ Step 3:  Write your creator pitch, please note that the content must be within 1
 
 Step 4: Your creator pitch will appear in various Liker Land scenarios:
 
-{% content-ref url="../../../user-guide/creatortools/portfolio-page.md" %}
-[portfolio-page.md](../../../user-guide/creatortools/portfolio-page.md)
+{% content-ref url="portfolio-page.md" %}
+[portfolio-page.md](portfolio-page.md)
 {% endcontent-ref %}
 
 ![](../../../.gitbook/assets/likerid-avatar-en.png)
