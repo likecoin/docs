@@ -39,7 +39,7 @@ Super Like 改版尚未完工，目前正於內部測試階段，預計一個月
 * 右下方的廣播圖示亮著代表這篇文章已被分享到 Liker Land 及 depub.space 上。
 * Super Like 的機會次數不會累積，若重置前沒有用掉，重置後也仍然只有一次機會，因此每天最多只能使用 Super Like 兩次。
 * 可重複給同一篇文章 Super Like。
-* 創作者點擊自己的文章的讚賞鍵可 Super Like 並將作品放置於[個人主頁的作品集](../creatortools/portfolio-page.md#zuo-pin)及「所有」頁面。
+* 創作者點擊自己的文章的讚賞鍵可 Super Like 並將作品放置於[個人主頁的作品集](../../archive/archive/creatortools/portfolio-page.md#zuo-pin)及「所有」頁面。
 
 ## 功能展示
 
@@ -53,6 +53,6 @@ Super Like 改版尚未完工，目前正於內部測試階段，預計一個月
 
 ## Super Like 履歷
 
-想回顧曾經 Super Like 過哪些好文章？請到[個人主頁](../creatortools/portfolio-page.md) https://liker.land/\[你的 Liker ID] 點擊「已 Super Like 內容」查看，例如你的 Liker ID 是 ckxpress，鏈結便是 https://liker.land/ckxpress。用戶也可以直接輸入網址訪問朋友或名人的個人主頁並追蹤，了解他們的閱讀品味。
+想回顧曾經 Super Like 過哪些好文章？請到[個人主頁](../../archive/archive/creatortools/portfolio-page.md) https://liker.land/\[你的 Liker ID] 點擊「已 Super Like 內容」查看，例如你的 Liker ID 是 ckxpress，鏈結便是 https://liker.land/ckxpress。用戶也可以直接輸入網址訪問朋友或名人的個人主頁並追蹤，了解他們的閱讀品味。
 
 ![](../../.gitbook/assets/portfolio-page-2.png)

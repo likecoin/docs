@@ -4,7 +4,11 @@ description: 如何註冊 Liquid 交易所帳號
 
 # 註冊 Liquid 帳號
 
-使用 Liquid 交易所的服務，必須先註冊 Liquid 帳號並通過實名認證。
+{% hint style="danger" %}
+2022/08/15 存檔。
+
+由於交易所 Liquid 被新加坡交易所 FTX 收購，將不再支持 $LIKE 交易。自 2022 年 8 月開始用戶將不能在 Liquid 存入 LikeCoin，並於 8 月 21 日完全停止一切相關交易操作。是次乃 Liquid 之內部重整決定，同一時間 ATOM、UNI、DYDX、DOGE、AAVE、ENS、CRV 等通證亦會一拼被下架。LikeCoin 創始團隊將致力物色其他交易渠道，與此同時用戶亦可繼續於其他交易所交易 LikeCoin。使用 Liquid 交易所的服務，必須先註冊 Liquid 帳號並通過實名認證。
+{% endhint %}
 
 留意若干國家並不能使用 Liquid 的服務，詳見：
 

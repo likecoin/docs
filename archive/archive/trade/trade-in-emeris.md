@@ -5,7 +5,9 @@ description: 跨鏈 DEX 聚合器，無需註冊，立即交易
 # 在 Emeris 交易
 
 {% hint style="danger" %}
-2022/06/14 存檔。資訊已過期，請參看條目 [交易](../../../guides/trade/)
+2022/06/14 存檔。
+
+去中心交易所 Emeris 於 2022 年 4 月退出 Cosmos Hub 的 Gravity DEX 協議並重新升級改組為 Crescent DEX，已於 Emeris ATOM/LIKE 流動性池提供流動性的用戶請於 4 月 26 日前盡快取回你的資產。
 {% endhint %}
 
 2021年11月23日開始你可在 Emeris Cross-Chain DEX aggregator 跨鏈 DEX 聚合器，以 LikeCoin 交易多種貨幣。過程無需註冊、不設入金出金門檻、用戶只需一個電子錢包即可操作，全程去中心化。

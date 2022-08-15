@@ -26,8 +26,8 @@ description: 爭取更多贊助
 
 步驟四：你的說話將會在 Liker Land 的各種使用場境中顯示：
 
-{% content-ref url="../../../user-guide/creatortools/portfolio-page.md" %}
-[portfolio-page.md](../../../user-guide/creatortools/portfolio-page.md)
+{% content-ref url="portfolio-page.md" %}
+[portfolio-page.md](portfolio-page.md)
 {% endcontent-ref %}
 
 ![](../../../.gitbook/assets/likerid-avatar.png)

@@ -12,8 +12,8 @@ description: 讓自己的性格更特出
 
 ### 個人主頁
 
-{% content-ref url="../creatortools/portfolio-page.md" %}
-[portfolio-page.md](../creatortools/portfolio-page.md)
+{% content-ref url="../../archive/archive/creatortools/portfolio-page.md" %}
+[portfolio-page.md](../../archive/archive/creatortools/portfolio-page.md)
 {% endcontent-ref %}
 
 ![](../../.gitbook/assets/likerid-avatar.png)

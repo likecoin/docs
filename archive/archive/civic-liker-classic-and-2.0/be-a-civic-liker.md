@@ -17,7 +17,7 @@ description: 贊助創作者方法非常簡單
 你可以從以下渠道開始支持創作者：
 
 * 點擊創作者提供的[贊助鏈結](../creatortools/sponsor-link.md)，例如 [https://liker.land/ckxpress/civic ](https://liker.land/ckxpress/civic)
-* 從創作者的[個人主頁](../../../user-guide/creatortools/portfolio-page.md)點擊「成為讚賞公民」
+* 從創作者的[個人主頁](../creatortools/portfolio-page.md)點擊「成為讚賞公民」
 
 ![](../../../.gitbook/assets/register-civic-liker-1.png)
 

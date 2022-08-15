@@ -5,7 +5,9 @@ description: 如何在 Emeris 提供流動性
 # Emeris
 
 {% hint style="danger" %}
-2022/06/14 存檔。資訊已過期，請參看條目 [流動性](../../../guides/liquidity-mining/)
+2022/06/14 存檔。
+
+去中心交易所 Emeris 於 2022 年 4 月退出 Cosmos Hub 的 Gravity DEX 協議並重新升級改組為 Crescent DEX，已於 Emeris ATOM/LIKE 流動性池提供流動性的用戶請於 4 月 26 日前盡快取回你的資產。
 {% endhint %}
 
 現時 LikeCoin 在 Emeris 有一個 ATOM-LIKE 流動性池，提供流動性 ( Liquidity Providing ) 就能獲得互換交易費 ( Swap Fee ) 。
