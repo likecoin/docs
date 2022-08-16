@@ -6,12 +6,12 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
-## 議案 #53 跟進議案 51，存入 15,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
+## 議案 #53 跟進議案 51 - 存入 15,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
 
 * **提案：**ckxpress
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.07.26 提案，2022.08.04 通過
-* **詳情**：[https://dao.like.co/proposals/53](https://dao.like.co/proposals/53)
+* **詳情**：[https://bigdipper.live/likecoin/proposals/53](https://bigdipper.live/likecoin/proposals/53)
 
 ## 議案 #52 LikeCoin v3.0.0 StarFerry NFT 升級
 
