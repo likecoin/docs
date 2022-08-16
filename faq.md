@@ -74,7 +74,7 @@ description: LikeCoin 常見問題
 * [我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](user-guide/liker-land/reading-list.md)
 * [甚麼是「化讚為賞」？「化讚為賞」的去中心讚賞如何運作？錢從何來？](user-guide/liker-land/like.md)
 * [何謂 Super Like？](user-guide/liker-land/superlike.md)
-* [甚麼是 depub.space？](guides/decentralized-publishing/depub.space.md)
+* [甚麼是 depub.space？](user-guide/depub.space/)
 * [LikeCoin button 讚賞鍵有甚麼功能？](user-guide/creator/)
 * [我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](user-guide/creator/blogging-platforms/)
 * [個人主頁可以怎樣幫助我展示自己的作品？](archive/archive/creatortools/portfolio-page.md)
