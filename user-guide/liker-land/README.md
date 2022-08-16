@@ -22,7 +22,7 @@ Liker Land acts as a crypto wallet, allowing you to check, receive and [transfer
 
 ### Participate in Decentralized Publishing
 
-Browse the [depub.space](../../general-guides/decentralized-publishing/depub.space.md)'s World Feed content anywhere, anytime with Liker Land. On the website that supports LikeCoin button, readers can post content to the decentralized social media depub.space and to the blockchain [with one click](superlike.md), so that good content can be permanently recorded and spread widely.
+Browse the [depub.space](../depub.space/)'s World Feed content anywhere, anytime with Liker Land. On the website that supports LikeCoin button, readers can post content to the decentralized social media depub.space and to the blockchain [with one click](superlike.md), so that good content can be permanently recorded and spread widely.
 
 ### Participate in Civic Liker
 

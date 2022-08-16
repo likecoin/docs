@@ -4,7 +4,7 @@ description: A Web3 decentralized Twitter
 
 # depub.space
 
-[depub.space](https://depub.space/) is a Web3 decentralized Twitter that requires only a small amount of LIKE to directly “DePub” (decentralized-publish) text and images to blockchain and IPFS. Users can connect their [Keplr](../wallet/keplr.md) wallet or the [Liker Land app](../../user-guide/liker-land/download.md) to post messages on depub.space.
+[depub.space](https://depub.space/) is a Web3 decentralized Twitter that requires only a small amount of LIKE to directly “DePub” (decentralized-publish) text and images to blockchain and IPFS. Users can connect their [Keplr](../../general-guides/wallet/keplr.md) wallet or the [Liker Land app](../liker-land/download.md) to post messages on depub.space.
 
 Using depub.space needs no registration or personal information, all you need is a wallet address. As a"stateless" service, depub.space also minimizes information that users leave online, "privacy by default". depub.space presets all content on-chain, works published on blockchain will leave a trail and be maintained by the public.
 
@@ -12,7 +12,7 @@ Using depub.space needs no registration or personal information, all you need is
 
 ### Step 1
 
-Login your [Keplr](../wallet/keplr.md) Wallet and go to [depub.space](https://depub.space/), then click "Connect Wallet" at the lower left hand corner.
+Login your [Keplr](../../general-guides/wallet/keplr.md) Wallet and go to [depub.space](https://depub.space/), then click "Connect Wallet" at the lower left hand corner.
 
 ![](<../../.gitbook/assets/depub.space 1.png>)
 
@@ -64,7 +64,7 @@ A QRCode will appear after clicking "WalletConnect".
 
 ### Step 3
 
-On the [Liker Land app](../../user-guide/liker-land/download.md), click the QRCode icon to bring up the camera, and scan the QRCode in Step 2.
+On the [Liker Land app](../liker-land/download.md), click the QRCode icon to bring up the camera, and scan the QRCode in Step 2.
 
 ![](<../../.gitbook/assets/depub.SPACE 4-en.png>)
 

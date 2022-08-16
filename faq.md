@@ -73,7 +73,7 @@ LikeCoin Overview&#x20;<a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="l
 * [Browsing and reading is good enough for me, why a Reading List?](user-guide/liker-land/readling-list.md)
 * [What is "Reinventing the Like"? How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](user-guide/liker-land/like.md)
 * [What is Super Like?](user-guide/liker-land/superlike.md)
-* [What is depub.space?](general-guides/decentralized-publishing/depub.space.md)
+* [What is depub.space?](user-guide/depub.space/)
 * [What are the functions of the LikeCoin button?](user-guide/creator/)
 * [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](user-guide/creator/blogging-platforms/)
 * [Portfolio Page helps to display all of my works? How to use it?  ](archive/archive/creatortools/portfolio-page.md)
