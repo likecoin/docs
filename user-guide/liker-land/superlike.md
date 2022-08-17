@@ -8,7 +8,7 @@ description: What is Super Like?
 
 ## Concept
 
-When users click the 6th like (Super Like) on the LikeCoin button to an article, it will be posted to the decentralized social media [depub.space](http://depub.space/). Not only does this new function boost visibility of quality content, but also helps to keep the content on blockchain indefinitely.
+When users click the 6th like (Super Like) on the LikeCoin button to an article, it will be posted to the decentralized social media [depub.space](../depub.space/). Not only does this new function boost visibility of quality content, but also helps to keep the content on blockchain indefinitely.
 
 The [Liker Land app](https://liker.land/getapp) will display the World Feed for depub.space.
 
@@ -26,8 +26,6 @@ Creators need content curation tools and distribution channels. One of the conve
 
 Currently, users need to use the desktop Keplr explorer plugin to access depub.space, as it cannot be accessed on a mobile device. As the mobile wallet of LikeCoin, [Liker Land app](https://liker.land/getapp) may make tweeting on mobile possible once it is incorporated to depub.space. There are however many technical obstacles ahead, and developers in the community are discussing on [Discord](http://discord.gg/likecoin). You are most welcome to join us.
 
-We are still testing the new Super Like layout internally, and shall launch it within one month.
-
 ## Usage <a href="#zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
 * Clicking the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When clicking on the 6th time, the article is being "Super Liked".
@@ -39,7 +37,6 @@ We are still testing the new Super Like layout internally, and shall launch it w
 * The RSS icon on the lower right hand corner turned on and the article is being shared to Liker Land and depub.space.
 * Super Like cannot be accumulated, if it is not being used before the time to reset, it will be obsolete. You can only Super Like twice a day.
 * You can Super Like a single article for more than one time.
-* Content creators click on the LikeCoin button of their own article can Super Like and put their article to the ["Works" section in Portfolio Page](../../archive/archive/creatortools/portfolio-page.md#works) and the "Global".
 
 
 
@@ -52,9 +49,3 @@ We are still testing the new Super Like layout internally, and shall launch it w
 Only [Civic Liker](../civic-liker/) can enjoy Super Like twice a day.
 
 \[[Join **Civic Liker**](../civic-liker/be-a-civic-liker.md)]
-
-## Super Likes History
-
-Wanna review all the Super Liked articles? Go to your [Portfolio Page](../../archive/archive/creatortools/portfolio-page.md) https://liker.land/\[Your Liker ID] and click "Super Likes" to check them out, if your Liker ID is ckxpress, the link is going to be https://liker.land/ckxpress. Users can also visit friends and celebrities' Portfolio Page and follow them, in order to understand their reading taste.
-
-![](<../../.gitbook/assets/Portfolio Page 2-en.png>)

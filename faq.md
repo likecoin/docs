@@ -70,7 +70,7 @@ LikeCoin Overview&#x20;<a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="l
 * [How to embed LikeCoin button into a self-hosted WordPress?](user-guide/wordpress.md)
 * [Facebook has more than enough news, why do I have to use Liker Land? ](user-guide/liker-land/)
 * [What can I read on the Liker Land app?](user-guide/liker-land/)
-* [Browsing and reading is good enough for me, why a Reading List?](user-guide/liker-land/readling-list.md)
+* [Browsing and reading is good enough for me, why a Reading List?](archive/archive/liker-land/readling-list.md)
 * [What is "Reinventing the Like"? How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](user-guide/liker-land/like.md)
 * [What is Super Like?](user-guide/liker-land/superlike.md)
 * [What is depub.space?](user-guide/depub.space/)

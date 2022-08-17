@@ -34,7 +34,7 @@ There are also 1,600 websites, six hundreds thousand articles by 19,000 content 
 
 ### Deep Reading
 
-Bookmarking any web page to Liker Land [Readling list](../../../user-guide/liker-land/readling-list.md) to read them later.
+Bookmarking any web page to Liker Land [Readling list](readling-list.md) to read them later.
 
 ### **Reinventing the Like**
 

@@ -16,35 +16,14 @@ description: Where to download Liker Land?
 
 ## Liker Land web - https://Liker.Land <a href="#liker-land-web" id="liker-land-web"></a>
 
-Although Liker Land mobile app provides the functions that best suit your needs, [Liker Land web](https://liker.land/) also brings the same convenience for discovering, following and [bookmarking content to Readling List](readling-list.md).
+### **Option 1: NFT**
 
-Click on the menu at the top right hand corner, there are other options.
+Connect to [NFT Portfolio](../../general-guides/writing-nft/nft-portfolio.md).
 
-![](<../../.gitbook/assets/Liker Land Web 2-en.png>)
-
-### **Option 1: Civic Liker**
+### Option 2: Civic Liker
 
 You can delegate your LikeCoin to become a [Civic Liker](../civic-liker/) and check your current status by the [dashboard](../civic-liker/dashboard.md).
 
-### **Option 2: Settings**
-
-3 preferences can be set up:
-
-* Language: This is talking about the Liker Land web language preference and is not going to alter your Liker Land mobile app setting (You may refer to the mobile app setup)
-* Liker ID: Redirect to [Like.co setting page](https://like.co/in/settings). User can set up his/her Liker ID avatar and other settings. Read this for more details:
-
-{% content-ref url="../liker-id/edit-avatar-displayname.md" %}
-[edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
-{% endcontent-ref %}
-
-* Follow / Unfollowed: Display the user that you followed, can click to unfollow (refer to the below)
-
-![](../../.gitbook/assets/liker-land-web-3-en.png)
-
-### **Option 3: Support**
-
-Contact LikeCoin help desk.
-
-### **Option 4: Logout**
+### **Option 3: Sign Out**
 
 Click and logout Liker Land. If you want to login with another Liker ID, you have to log out completely from the Liker Land web, otherwise you will be bounced back to the previous Liker ID during your next login attempt.

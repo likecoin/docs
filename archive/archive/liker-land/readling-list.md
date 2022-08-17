@@ -4,24 +4,28 @@ description: Browsing and reading is good enough for me, why a Reading List?
 
 # Readling List
 
+{% hint style="danger" %}
+Archived on 2022/08/17. Information is out of date.
+{% endhint %}
+
 Bookmark content from everywhere for reading it later, Liker Land brings you the convenience to read on the go. No matter if you are using a desktop computer, mobile, tablet or Liker Land app, you can bookmark any web page at any time, for reading them later.
 
 ## Bookmark content by LikeCoin button
 
 Click the bookmark icon on LikeCoin button to save a web page&#x20;
 
-![](../../.gitbook/assets/likecoin-button-save-later-1.png)
+![](../../../.gitbook/assets/likecoin-button-save-later-1.png)
 
 The bookmark icon is highlighted after the content is saved
 
-![](../../.gitbook/assets/likecoin-button-save-later-2.png)
+![](../../../.gitbook/assets/likecoin-button-save-later-2.png)
 
 Bookmark content on Liker Land app
 
 
 If you finished reading an article on "Following" or "Global", the system will add a green tick on it (circled in red), you can also click on the bookmark icon (red arrow) to save the article to Reading list for read it later.
 
-![](../../.gitbook/assets/saveitlater-en.png)
+![](../../../.gitbook/assets/saveitlater-en.png)
 
 ## Bookmark content on mobile and tablet to Liker Land
 
@@ -43,11 +47,11 @@ Liker Land Chrome / Brave / Firefox Extension for bookmarking any web page to yo
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M0XdKCUKxBBh31p83aF%2F-M0XgZRCTUOiwQgJ4B6Y%2FLiker%20Land%20Firefox%201.jpg?alt=media\&token=ddaf37c2-f2e3-4aa5-9d0e-9b9346faf7f9)
 
-![](../../.gitbook/assets/liker-land-firefox-2.jpg)
+![](../../../.gitbook/assets/liker-land-firefox-2.jpg)
 
 Step 1: Go to Chrome / Firefox web store and add the extension to your browser.
 
-![](../../.gitbook/assets/youtbe-en.png)
+![](../../../.gitbook/assets/youtbe-en.png)
 
 [Chrome / Brave Version](https://chrome.google.com/webstore/detail/liker-land/cjjcemdmkddjbofomfgjedpiifpgkjhe)
 
@@ -55,10 +59,10 @@ Step 1: Go to Chrome / Firefox web store and add the extension to your browser.
 
 Step 2: When reading an article on a website, click on the icon to bookmark the article.
 
-![](../../.gitbook/assets/liker-land-firefox-3.png)
+![](../../../.gitbook/assets/liker-land-firefox-3.png)
 
 ## Check out the Readling List
 
 Click the bookmark icon on Liker Land app or [Liker Land web](https://liker.land/bookmarks) and check all the articles that you've saved.
 
-![](../../.gitbook/assets/likecoin-button-save-later-9-en.png)
+![](../../../.gitbook/assets/likecoin-button-save-later-9-en.png)
