@@ -11,13 +11,13 @@ Your name and avatar will appear in various Liker Land scenarios:
 
 ![](<../../.gitbook/assets/Screenshot 2021-11-19 at 2.15.36 PM.png>)
 
-### Portfolio Page
+### NFT Portfolio
 
-{% content-ref url="../../archive/archive/creatortools/portfolio-page.md" %}
-[portfolio-page.md](../../archive/archive/creatortools/portfolio-page.md)
+{% content-ref url="../../general-guides/writing-nft/nft-portfolio.md" %}
+[nft-portfolio.md](../../general-guides/writing-nft/nft-portfolio.md)
 {% endcontent-ref %}
 
-![](../../.gitbook/assets/likerid-avatar-en.png)
+![](<../../.gitbook/assets/NFT Portfolio.png>)
 
 ### LikeCoin button
 

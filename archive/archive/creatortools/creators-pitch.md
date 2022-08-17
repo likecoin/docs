@@ -28,4 +28,4 @@ Step 4: Your creator pitch will appear in various Liker Land scenarios:
 [portfolio-page.md](portfolio-page.md)
 {% endcontent-ref %}
 
-![](../../../.gitbook/assets/likerid-avatar-en.png)
+![](broken-reference)

@@ -19,7 +19,7 @@ The left hand side of the Portfolio Page displays information of the user, inclu
 * Follow - Click and follow the user
 * [LIKE Pay](../../../developer/like-pay/)－Transfer LikeCoin to the user
 
-![](../../../.gitbook/assets/likerid-avatar-en.png)
+![](broken-reference)
 
 ## Works
 
