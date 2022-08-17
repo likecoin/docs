@@ -20,7 +20,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 | 以 [dao.like.co](https://dao.like.co/) 委託 LikeCoin                                                                                         | 以 Liker Land app 或 [dao.like.co](https://dao.like.co/) [委託](../../guides/stake/) LikeCoin:thumbsup:                                       |
 | 以 [dao.like.co](https://dao.like.co/) 存入議案[保證金](../../guides/governance/proposal-deposit.md)或[投票](../../guides/governance/direct-vote.md) | 以 [dao.like.co](https://dao.like.co/) 存入[議案保證](../../guides/governance/proposal-deposit.md)金或[投票](../../guides/governance/direct-vote.md) |
 | 逐筆查看交易紀錄                                                                                                                                  | 在 Liker Land app 以視覺化方式查看每篇文章所獲[讚賞成就](../creatortools/rewards/):thumbsup:                                                                 |
-| 支援註冊 [ISCN](../../guides/decentralized-publishing/app.like.co.md)                                                                         | 支援註冊 [ISCN](../../guides/decentralized-publishing/iscn-batch-uploader.md)                                                                 |
+| 支援註冊 [ISCN](../../guides/decentralized-publishing/app.like.co.md) 及購買 [Writing NFT](../../guides/writing-nft/)                            | 支援註冊 [ISCN](../../guides/decentralized-publishing/iscn-batch-uploader.md) 及購買 [Writing NFT](../../guides/writing-nft/)                    |
 
 ## 如何以 Keplr 註冊 Liker ID
 
@@ -73,7 +73,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 
 {% hint style="warning" %}
-一旦創建了 Liker ID，便不能修改字詞組合或登入方式。若不想再用某個 Liker ID，建議你把它留著不用，再創建一個新的。留意**一個電郵地址只可以註冊一個 Liker ID**。
+一旦創建了 Liker ID，便不能修改字詞組合或登入方式。若不想再用某個 Liker ID，建議你把它留著不用，再創建一個新的。留意**一個電郵地址**或**一個錢包地址只可以註冊一個 Liker ID**。
 
 **同一電郵地址並不能同時以 Liker Land 及 Keplr 註冊 Liker ID。**
 {% endhint %}
@@ -111,7 +111,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁版。
 ![](<../../.gitbook/assets/Keplr Liker ID 04.png>)
 
 {% hint style="info" %}
-假如你擁有以 Authcore 及 Keplr 註冊的 Liker ID，請確認使用菜單上的登出功能完全登出才登入另一個 Liker ID。
+假如你同時擁有以 Authcore 及 Keplr 註冊的 Liker ID，請確認使用菜單上的登出功能完全登出才登入另一個 Liker ID。
 {% endhint %}
 
 ## 轉帳/存入 LikeCoin 到 Keplr 錢包
