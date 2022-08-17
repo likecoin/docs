@@ -77,7 +77,6 @@ description: LikeCoin 常見問題
 * [甚麼是 depub.space？](user-guide/depub.space/)
 * [LikeCoin button 讚賞鍵有甚麼功能？](user-guide/creator/)
 * [我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？](user-guide/creator/blogging-platforms/)
-* [個人主頁可以怎樣幫助我展示自己的作品？](archive/archive/creatortools/portfolio-page.md)
 * [如何查看每週、每天、每篇文章所獲得的讚賞收益？](user-guide/creatortools/rewards/)
 * [如何查看每月創作進度？](user-guide/creatortools/monthly-report.md)
 
