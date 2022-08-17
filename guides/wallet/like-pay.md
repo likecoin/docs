@@ -44,15 +44,13 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 
 ### 步驟一
 
-請先登入 [Liker Land 網頁版](../../user-guide/liker-land/download.md#liker-land-web)，並於轉帳對象的[個人主頁](../../archive/archive/creatortools/portfolio-page.md)點擊 LIKE pay。
-
-![](../../.gitbook/assets/like-pay-5.png)
+請先登入 [Liker Land 網頁版](../../user-guide/liker-land/download.md#liker-land-web)
 
 ### 步驟二
 
-在轉帳頁面輸入需要轉帳的 LikeCoin 數量，請留意錢包內需要有定夠[手續費](transaction-fee.md)，再點擊「確認」 即可完成轉帳。
+在瀏覽器連接支付頁面，格式是 https://like.co/\[Liker ID] 假設對方的 Liker ID 為 ckxpress，支付頁面就是 [https://like.co/ckxpress](https://like.co/ckxpress)輸入需要轉帳的 LikeCoin 數量，請留意錢包內需要有定夠[手續費](transaction-fee.md)，再點擊「確認」 即可完成轉帳。
 
-![手續費於「確認」下方顯示](<../../.gitbook/assets/like-pay-6 (1).png>)
+![手續費於「確認」下方顯示](../../.gitbook/assets/like-pay-5.png)
 
 {% hint style="info" %}
 [Matters](../../user-guide/creator/matters.md) 使用者可任意對任何一篇文章「支持作者」轉帳，詳見[Matters 支付與提現功能指南（2020.08.14更新）](https://matters.news/@hi176/matters-%E6%94%AF%E4%BB%98%E8%88%87%E6%8F%90%E7%8F%BE%E5%8A%9F%E8%83%BD%E6%8C%87%E5%8D%97-2020-08-14%E6%9B%B4%E6%96%B0-bafyreicfgnpk4jamnhkjecq32kdlmhhtp6xrwpkxoalp37wayd4sqmjo54)
