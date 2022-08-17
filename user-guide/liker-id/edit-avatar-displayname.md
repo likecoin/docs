@@ -10,13 +10,9 @@ description: 讓自己的性格更特出
 
 修改完成後，你的資訊會在 Liker Land 的各種使用場境中顯示：
 
-### 個人主頁
+### NFT Portfolio
 
-{% content-ref url="../../archive/archive/creatortools/portfolio-page.md" %}
-[portfolio-page.md](../../archive/archive/creatortools/portfolio-page.md)
-{% endcontent-ref %}
-
-![](../../.gitbook/assets/likerid-avatar.png)
+![](<../../.gitbook/assets/NFT Portfolio.png>)
 
 ### LikeCoin button 讚賞鍵
 

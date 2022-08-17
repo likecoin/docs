@@ -60,5 +60,5 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 使用 Osmosis 必需使用 Keplr 錢包登入。若你慣用 Liker Land 儲存 LikeCoin，可以：
 
 * 將 LikeCoin 使用 [Liker Land app](../../user-guide/liker-land/download.md) 以 [LIKE pay](../wallet/like-pay.md) 轉帳到 Keplr 管理的地址
-* 選擇 [匯出以一般方法 ( Authcore ) 註冊 Liker ID 的助記詞](../../user-guide/liker-id/register/export-seed-words.md)，並於 Keplr 管理你的 LikeCoin。
+* 選擇 [匯出以一般方法 ( Authcore ) 註冊 Liker ID 的助記詞](../../user-guide/liker-id/export-seed-words.md)，並於 Keplr 管理你的 LikeCoin。
 {% endhint %}
