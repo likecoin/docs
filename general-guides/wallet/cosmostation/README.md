@@ -14,8 +14,8 @@ Note that the Cosmostation mobile app does not support LikeCoin yet.
 
 You may also export seed words from Liker Land and import to Cosmostation.&#x20;
 
-{% content-ref url="../../../user-guide/liker-id/register/export-seed-words.md" %}
-[export-seed-words.md](../../../user-guide/liker-id/register/export-seed-words.md)
+{% content-ref url="../../../user-guide/liker-id/export-seed-words.md" %}
+[export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)
 {% endcontent-ref %}
 
 {% content-ref url="import-account.md" %}

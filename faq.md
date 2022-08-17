@@ -90,7 +90,7 @@ LikeCoin Overview&#x20;<a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="l
 * [How to register a Liker ID?](user-guide/liker-id/)
 * [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](user-guide/liker-id/register/reset-password.md)
 * [What is Authcore?](user-guide/liker-id/register/what-is-authcore.md)
-* [Can I export my private key?](user-guide/liker-id/register/export-seed-words.md)
+* [Can I export my private key?](user-guide/liker-id/export-seed-words.md)
 
 ## [Community](general-guides/community/)
 

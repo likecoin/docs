@@ -60,5 +60,5 @@ Go to Assets and click "Withdraw >" then IBC Withdraw your funds to Keplr for se
 You will have to use Keplr to login to Osmosis. If you are used to managing your LikeCoin on Liker Land app, you can:
 
 * Transfer LikeCoin to a Keplr wallet address with [LIKE pay](../../developer/like-pay/) by the [Liker Land app](../../user-guide/liker-land/download.md).
-* [Export Seed Words](../../user-guide/liker-id/register/export-seed-words.md) for Liker ID registered by general method (with Authcore) and manage your LikeCoin with Keplr。
+* [Export Seed Words](../../user-guide/liker-id/export-seed-words.md) for Liker ID registered by general method (with Authcore) and manage your LikeCoin with Keplr。
 {% endhint %}
