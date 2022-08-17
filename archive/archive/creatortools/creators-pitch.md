@@ -30,4 +30,4 @@ description: 爭取更多贊助
 [portfolio-page.md](portfolio-page.md)
 {% endcontent-ref %}
 
-![](../../../.gitbook/assets/likerid-avatar.png)
+![](broken-reference)
