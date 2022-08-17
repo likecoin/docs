@@ -71,7 +71,7 @@ description: LikeCoin 常見問題
 * [如何在自架 WordPress 加入 LikeCoin button？](user-guide/wordpress.md)
 * [Facebook 已有很多新聞了，我為甚麼還要用 Liker Land？](user-guide/liker-land/)
 * [下載了 Liker Land 手機應用程式可以看到些甚麼？](user-guide/liker-land/)
-* [我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](user-guide/liker-land/reading-list.md)
+* [我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](archive/archive/liker-land/reading-list.md)
 * [甚麼是「化讚為賞」？「化讚為賞」的去中心讚賞如何運作？錢從何來？](user-guide/liker-land/like.md)
 * [何謂 Super Like？](user-guide/liker-land/superlike.md)
 * [甚麼是 depub.space？](user-guide/depub.space/)

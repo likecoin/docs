@@ -31,4 +31,4 @@ description: 分享作品及閱讀足跡
 
 Super Like 履歷功能展示用戶曾經 Super Like 過甚麼好文。
 
-![](../../../.gitbook/assets/portfolio-page-2.png)
+![](<../../../.gitbook/assets/Portfolio Page 2.png>)

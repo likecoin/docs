@@ -16,30 +16,15 @@ description: 要去哪裏下載 Liker Land？
 
 ## Liker Land 網頁版 - https://Liker.Land <a href="#liker-land-web" id="liker-land-web"></a>
 
-雖然 Liker Land 手機應用程式最為好用，但在桌面電腦上同樣可通過 [Liker Land 網頁版](https://liker.land/)，發現及[收藏內容](reading-list.md)。
+點擊右上角的菜單，會彈出其他選項。​
 
-點擊右上角的菜單，會彈出其他選項。​‌
+### 選項一：NFT
 
-![](<../../.gitbook/assets/Liker Land Web 2.png>)
+連接用戶的 [NFT Portfolio](../../guides/writing-nft/nft-portfolio.md) 頁面。‌
 
-### 選項一：讚賞公民
+### 選項二：讚賞公民
 
 用戶可委託 LikeCoin 成為[讚賞公民](../civic-liker/)在 [Dashboard](../civic-liker/dashboard.md) 查看委託狀態。
-
-### 選項二：設定
-
-可設定以下三項系統偏好：‌
-
-* 介面語言：留意這只是指網頁版介面的語言，不影響手機應用程式的介面（手機應用程式請參考手機的系統設定）
-* Liker ID：會重新導向至 [Like.co 的設定頁面](https://like.co/in/settings)。用戶可設定 Liker ID 的頭像及其他資料。詳情請看：
-
-{% content-ref url="../liker-id/edit-avatar-displayname.md" %}
-[edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
-{% endcontent-ref %}
-
-* 追蹤設定：顯示已追蹤的用戶，可在這裡取消追蹤（下圖）
-
-![](../../.gitbook/assets/liker-land-web-3.png)
 
 ### 選項三：幫助
 
