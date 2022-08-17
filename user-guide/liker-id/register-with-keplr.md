@@ -21,7 +21,7 @@ Besides [registering with email/passowrd, GMail or social media account](registe
 | Use [dao.like.co](https://dao.like.co/) to delegate LikeCoin                                                                                                                       | Use Liker Land mobile app or [dao.like.co](https://dao.like.co/) to [delegate](../../general-guides/stake/delegation-of-likecoin.md) LikeCoin:thumbsup:                                   |
 | Use [dao.like.co](https://dao.like.co/) to [deposit](../../general-guides/governance/proposal-deposit.md) or [vote](../../general-guides/governance/direct-vote.md) for a proposal | Use [dao.like.co](https://dao.like.co/) to [deposit](../../general-guides/governance/proposal-deposit.md) or [direct vote](../../general-guides/governance/direct-vote.md) for a proposal |
 | Check rewards by transaction only                                                                                                                                                  | [Rewards](../creatortools/rewards/) visualization from each piece of content on Liker Land app:thumbsup:                                                                                  |
-| Can register [ISCN](../../general-guides/decentralized-publishing/app.like.co.md)                                                                                                  | Can register [ISCN](../../general-guides/decentralized-publishing/app.like.co.md)                                                                                                         |
+| Can register [ISCN](../../general-guides/decentralized-publishing/app.like.co.md) and buy [Writing NFT](../../general-guides/writing-nft/)                                         | Can register [ISCN](../../general-guides/decentralized-publishing/app.like.co.md) and buy [Writing NFT](../../general-guides/writing-nft/)                                                |
 
 ## **How to register a Liker ID with Keplr**
 
@@ -72,7 +72,7 @@ On the welcome screen, fill in your desired Liker ID and email address, then cli
 Liker ID is created and will go back to the Liker Land web.
 
 {% hint style="warning" %}
-You cannot change the Liker ID nor the login method once it has been created.  If you want another Liker ID, just create a new account. Please note that **an email address can only register one Liker ID**.
+You cannot change the Liker ID nor the login method once it has been created.  If you want another Liker ID, just create a new account. Please note that **an email address or a a wallet address can only register one Liker ID**.
 
 **You cannot use the same email address to register a Liker ID with Authcore and Keplr.**
 {% endhint %}
