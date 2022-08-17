@@ -18,7 +18,7 @@ description: 要去哪裏下載 Liker Land？
 
 點擊右上角的菜單，會彈出其他選項。​
 
-### 選項一：NFT
+### 選項一：Portfolio
 
 連接用戶的 [NFT Portfolio](../../guides/writing-nft/nft-portfolio.md) 頁面。‌
 
