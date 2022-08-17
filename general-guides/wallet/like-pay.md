@@ -44,12 +44,10 @@ Some crypto exchanges may require input of Tag/Memo, please fill in the value he
 
 ### Step 1
 
-Login [Liker Land web](../../user-guide/liker-land/download.md#liker-land-web) and click LIKE pay on the receiver's [Portfolio Page](../../archive/archive/creatortools/portfolio-page.md).
-
-![](../../.gitbook/assets/like-pay-5-en.png)
+Login [Liker Land web](../../user-guide/liker-land/download.md#liker-land-web).
 
 ### Step 2
 
-On the Send LikeCoin to page, check on the transaction and make sure that your wallet has enough spare LikeCoin for [transaction fee](transaction-fee.md) other than those you have to transfer. Input the number of LikeCoin that you have to send and click "Confirm" to finish the transfer.
+Connect the payment page in the browser, the format is https://like.co/\[Liker ID]. If the Liker ID is ckxpress, the payment page is [https://like.co/ckxpress](https://like.co/ckxpress) and enter the amount of LikeCoin to be transferred. Please make sure that your wallet has enough LikeCoin for [transaction fee](transaction-fee.md) other than those you have to transfer. Input the number of LikeCoin that you have to send and click "Confirm" to finish the transfer.
 
-![Transaction Fee displayed below the \[Confirm\] button](../../.gitbook/assets/like-pay-6-en.png)
+![Transaction Fee displayed below the \[Confirm\] button](../../.gitbook/assets/like-pay-5-en.png)
