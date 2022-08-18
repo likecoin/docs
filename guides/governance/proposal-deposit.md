@@ -70,5 +70,5 @@ description: 讓議案投票得以展開
 ![](../../.gitbook/assets/proposal-deposit-08.png)
 
 {% hint style="info" %}
-議案投票通過或被否決後保證金將發還予出資的 Liker。
+議案投票通過、或不是因為未能超過法定投票權又或者三份一以上投票權強烈反對而導致未能通過，保證金將發還予出資的 Liker。
 {% endhint %}

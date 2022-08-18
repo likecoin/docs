@@ -24,19 +24,19 @@ description: 贊助創作者方法非常簡單
 
 到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../liker-id/register-with-keplr.md) 或 [Authcore](../liker-id/register/) 登入已連結了 Liker ID 的錢包。
 
-![](broken-reference)
+![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### 步驟二：選擇讚賞公民節點
 
 點左手邊菜單「Validators」，再點選右上角「All」，尋找名稱為 Civic Liker 的讚賞公民節點然後點下去。
 
-![](broken-reference)
+![](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
 
 ### 步驟三：進行委託
 
 在 Civic Liker 節點右上角點「Stake」進行委託。
 
-![](broken-reference)
+![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
 
 ### 步驟四：輸入委託金額
 
@@ -62,7 +62,7 @@ description: 贊助創作者方法非常簡單
 
 點左手邊菜單選擇「Portfolio」，即可看到 You Stake 一欄顯示成功委託予 Civic Liker 讚賞公民節點。
 
-![](broken-reference)
+![](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
 
 ## 使用 Liker Land app 委託成為讚賞公民
 
