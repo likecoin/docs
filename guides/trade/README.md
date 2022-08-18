@@ -19,4 +19,4 @@ description: 如何交易 LikeCoin？
 
 ### 場外交易
 
-[LikeCoin 場外交易](https://lotc.netlify.app/) 讓買賣雙方直接聯繫與交易，詳見 [馬特市銀行](https://matters.news/\~lotc)。
+詳見 [場外交易](otc.md)。

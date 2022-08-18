@@ -51,6 +51,7 @@
   * [註冊 DigiFinex 帳號](guides/trade/registering-on-digifinex.md)
   * [在 DigiFinex 交易](guides/trade/trade-in-digifinex.md)
   * [註冊及在 MyEthShop 交易](guides/trade/registering-and-trade-in-myethshop.md)
+  * [場外交易](guides/trade/otc.md)
 * [流動性](guides/liquidity-mining/README.md)
   * [Osmosis](guides/liquidity-mining/osmosis.md)
 * [委託](guides/stake/README.md)
