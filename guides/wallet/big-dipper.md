@@ -6,12 +6,6 @@ description: 查看 LikeCoin chain 明細
 
 [北斗 Big Dipper](https://likecoin.bigdipper.live/) 以簡便的介面，除了展示治理相關的議案內容、投票結果、驗證人的介紹、投票紀錄外，還有更基本的，所有交易證明。北斗就像個開放政府，讓公民查閱和搜尋 LikeCoin DAO 所有開放數據。
 
-Big Dipper 支援使用硬件錢包進行轉帳、委託、轉移委託、領取收益等操作，詳見：
-
-{% content-ref url="hardware-wallet.md" %}
-[hardware-wallet.md](hardware-wallet.md)
-{% endcontent-ref %}
-
 ## 如何在 Big Dipper 查看錢包明細
 
 ### Keplr / Cosmostation / Liker Land Web
