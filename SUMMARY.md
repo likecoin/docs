@@ -4,7 +4,7 @@
 * [LikeCoin 進度更新](updates.md)
 * [LikeCoin 空投](airdrop.md)
 * [LikeCoin 答客問](faq.md)
-* [品牌素材下載](presskit.md)
+* [品牌素材下載](branding.md)
 
 ## 📙 指南 <a href="#guides" id="guides"></a>
 

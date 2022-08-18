@@ -25,7 +25,7 @@ description: LikeCoin 常見問題
 * [LikeCoin 是甚麼？](./)
 * [在那兒可參看最新工作進展？](updates.md)
 * [有媒體報導可以參詳嗎？](guides/on-the-news.md)
-* [LikeCoin 有提供品牌形象指引和相關素材下載麼？](presskit.md)
+* [LikeCoin 有提供品牌形象指引和相關素材下載麼？](branding.md)
 * [大百科沒有我想要的答案，怎聯繫客戶服務專員？](faq.md#likecoin-qu-zhong-xin-chu-ban)
 
 ## [錢包](guides/wallet/)
