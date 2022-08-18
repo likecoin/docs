@@ -4,7 +4,7 @@ description: How to earn liquidity mining incentives on Osmosis
 
 # Osmosis
 
-On Osmosis, users can participate in incentivized LIKE liquidity pools for liquidity mining to earn incentives and swap fees.
+On Osmosis, users can participate in LIKE liquidity pools for liquidity mining to earn incentives and swap fees.
 
 Please note liquidity mining may result in impermanent loss, assess the risks before you dive into the ecosystem.
 
@@ -24,13 +24,13 @@ and depositing LikeCoin to Keplr.
 
 ### Step 1: Select the liquidity pool
 
-Currently LikeCoin install three liquidity pools in [Osmosis](https://app.osmosis.zone/), which two of them offer liquidity providing incentives:
+Currently LikeCoin install two liquidity pools in [Osmosis](https://app.osmosis.zone/):
 
 [Pool #553 LIKE/OSMO](https://app.osmosis.zone/pool/553)
 
 [Pool #555 LIKE/ATOM](https://app.osmosis.zone/pool/555)
 
-On the menu of Osmosis select Pools, on Incentivized Pools searching for 533 or 555. The following example is for pool 553.
+On the menu of Osmosis select Pools and search for "LIKE". The following example is for pool 553.
 
 ### Step 2: Prepare your funds
 
@@ -114,4 +114,4 @@ Click on the left menu and select Assets and check the amount of funds that you'
 
 ## Check out past performance
 
-Go to Stats on the menu or [https://info.osmosis.zone/](https://info.osmosis.zone/) will provide statistics of the liquidity pool.
+Go to Info on the menu or [https://info.osmosis.zone/](https://info.osmosis.zone/) will provide statistics of the liquidity pool.
