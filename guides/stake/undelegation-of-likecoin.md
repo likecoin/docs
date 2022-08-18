@@ -6,7 +6,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 ## 使用 dao.like.co 取回委託
 
-1\. 到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+1\. 到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
 2\. 登入後，到左手邊菜單選擇「Portfolio」，在 Your Stake 點需要解除委託的驗證人。
 
@@ -20,7 +20,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 ![](<../../.gitbook/assets/dao.like.co unstake 03.png>)
 
-5\. 系統要求簽署確認，Keplr 用戶點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
+5\. 系統要求簽署確認，Keplr及 Cosmostation 用戶點擊「Send」以後會彈出視窗或要求確認執行。Authcore 用戶直接點擊「Send」。
 
 ![](<../../.gitbook/assets/dao.like.co unstake 04.png>)
 
