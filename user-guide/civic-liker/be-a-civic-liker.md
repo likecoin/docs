@@ -22,7 +22,7 @@ Civic Liker not only can distribute the delegation rewards, but also distribute 
 
 ### Step 1: Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference)[Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/) or [Authcore](../liker-id/register/) to login to the wallet address bind with a Liker ID
+Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference), [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/) or [Authcore](../liker-id/register/) to login to the wallet address bind with a Liker ID
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
@@ -52,7 +52,7 @@ After confirming that the amount and gas fee are correct, click "Next".
 
 ### Step 6: Check your delegation
 
-Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm it after clicking "Send". Authcore users directly click "Send".
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
 

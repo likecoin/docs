@@ -54,7 +54,7 @@ Click on the "Vote" on the top right hand corner, and the lower right hand corne
 
 ![](../../.gitbook/assets/direct-vote-05.png)
 
-Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm it after clicking "Send" Authcore users directly click "Send".
+Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm it after clicking "Send". Authcore users directly click "Send".
 
 
 
