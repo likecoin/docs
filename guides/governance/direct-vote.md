@@ -8,7 +8,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 以往驗證人投票即是代表你投票，但現在你可以為自己的想法作主，例如你的驗證人在議案投反對票，你依然可以就你的持份投下支持一票。然而如果你沒有直接投票，就會以你信任的驗證人的選擇為你的選擇。
 
-投票的方式有多種，我們建議使用 [dao.like.com](https://dao.like.co/)。 你也可以通過以下方式進行投票：
+投票的方式有多種，我們建議使用 [dao.like.co](https://dao.like.co/)。 你也可以通過以下方式進行投票：
 
 * Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
@@ -26,9 +26,9 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ### 步驟二：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+到 [dao.like.co](https://dao.like.co/) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
-![](broken-reference)
+![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### &#xD;步驟三：選擇議案
 
@@ -54,7 +54,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ![](../../.gitbook/assets/direct-vote-05.png)
 
-系統要求簽署確認，Keplr 用戶點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
+系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點擊「Send」。
 
 ![](../../.gitbook/assets/direct-vote-06.png)
 
