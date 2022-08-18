@@ -77,7 +77,7 @@
 * [Liker Land](user-guide/liker-land/README.md)
   * [下載 Liker Land](user-guide/liker-land/download.md)
   * [Like — 化讚為賞](user-guide/liker-land/like.md)
-  * [Super Like - 推文到宇宙](user-guide/liker-land/superlike.md)
+  * [Super Like — 推文到宇宙](user-guide/liker-land/superlike.md)
 * [depub.space](user-guide/depub.space/README.md)
   * [從 LikeCoin Discord 推文到 depub.space](user-guide/depub.space/from-likecoin-discord-to-depub.space.md)
 * [讚賞公民](user-guide/civic-liker/README.md)
