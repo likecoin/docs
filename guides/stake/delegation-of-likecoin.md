@@ -52,7 +52,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ### 步驟六：查看委託
 
-系統要求簽署確認，Keplr 用戶點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
+系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗或要求確認執行。Authcore 用戶直接點擊「Send」。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
 
