@@ -24,7 +24,7 @@ LikeCoin envisions a future where digital content is transformed from “Web-nat
 
 ### Writing NFT
 
-NFT can be an email, an image, an identity, or a book.  LikeCoin NFT is designed especially for text-based content creation.
+NFT can be an email, an image, an identity, or a book.  **LikeCoin** [**Writing NFT**](general-guides/writing-nft/) is designed especially for text-based content creation.
 
 Similar to the workflow of traditional publishing, i.e., securing content authorship -> printing the content in books -> selling in bookstore, creators can now register the content on the LikeCoin chain -> mint an NFT of it -> sell it in NFT marketplaces. Compared with the constraints in physical publishing, publishing content and exchanging value in the metaverse can be more flexible and everlasting.
 
@@ -72,17 +72,16 @@ Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
 
 ## More about LikeCoin
 
-* **Website**: [Like.co](https://like.co) (for all stakeholders; in English), [Liker.Land](https://liker.land) (for readers and creators), [NFT portal & widget](https://app.like.co/), [iscn.io](https://iscn.io/) (ISCN Specifications)
+* **Website**: [Like.co](https://like.co) ( for all stakeholders ), [Liker.Land](https://liker.land) ( NFT portal & widget ), [app.like.co](https://app.like.co/) ( NFT portal & widget ), [iscn.io](https://iscn.io/) ( ISCN Specifications )
 * ****[**Discord**](https://discord.gg/likecoin): Our community is here, talking about development and governance discussion
 * ****[**Twitter**](https://twitter.com/likecoin): **** announcements
 * ****[**Publication**](httsps://blog.like.co): progress update, governance, products
 * ****[**Telegram**](https://t.me/likecoin\_dao): announcements
 * [**GitHub**](https://github.com/likecoin): **** source codes
-* ****[**Matters**](https://matters.news/tags/VGFnOjgwOTQ) [**#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) **** : **** governance, progress update, products; in Chinese
-* **Facebook**: **** [page](https://www.facebook.com/Liker.Land/) (announcement); [group](https://www.facebook.com/groups/likecoin) (creators' sharing); in Chinese
+* **Facebook**: **** [page](https://www.facebook.com/Liker.Land/) ( announcement ); [group](https://www.facebook.com/groups/likecoin) ( creators' sharing ); in Chinese
 * [**Reddit**](https://www.reddit.com/r/LikeCoin/)
 
 ## Contact Us
 
-* Customer Service: [please click here](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7), or visit [Liker Land](https://liker.land/) or [like.co](https://like.co/) and click "Help", "Support".
-* Partners and Cooperation: [partners@like.co](mailto:partners@like.co)
+* Customer Service: [please click here](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
+* Partners and Cooperation: partners@like.co
