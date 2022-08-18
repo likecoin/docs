@@ -8,7 +8,7 @@ Likers who has delegated LikeCoin to validators can directly vote on proposals s
 
 Besides delegating your voting powers to validators to let them vote on behalf of you, you can now vote by yourself. For example if your validator votes for "No", you can vote "Yes" based on the stake that you have. But if you do not cast your vote, your trusted validator is still representing you to vote.
 
-There are multiple ways to vote for a proposal, we suggest using [dao.like.com](https://dao.like.co/welcome). You may also want to use:
+There are multiple ways to vote for a proposal, we suggest using [dao.like.co](https://dao.like.co/welcome). You may also want to use:
 
 * Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
@@ -26,9 +26,9 @@ Before voting please delegate your LikeCoin to any validators that you trust.
 
 ### Step 2: Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co/) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) or [Authcore](../../user-guide/liker-id/register/) to login.
+Go to [dao.like.co](https://dao.like.co/) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
 
-![](broken-reference)
+![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### &#xD;Step 3: Select the proposal to vote
 
@@ -54,7 +54,7 @@ Click on the "Vote" on the top right hand corner, and the lower right hand corne
 
 ![](../../.gitbook/assets/direct-vote-05.png)
 
-Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm it after clicking "Send" Authcore users directly click "Send".
 
 
 
