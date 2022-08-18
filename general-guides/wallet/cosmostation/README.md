@@ -72,7 +72,7 @@ Your wallet address and QRCode appears. Scan the QRCode and deposit LikeCoin to 
 
 ### Step 5
 
-On Step 3 select "Send". On the blank space fill in the wallet address of the receiver, Token is being selected automatically as LIKE with the available balance in the wallet. Please fill in the number of LikeCoin that need to be sent and reserve some LIKE for the transaction fee. On Memo (Option) fill in the Tag/Memo which may be required by the receiver. Then click "Send".
+On Step 3 select "Send". On the blank space fill in the wallet address of the receiver, Token is being selected automatically as LIKE with the available balance in the wallet. Please fill in the number of LikeCoin that need to be sent and reserve some LIKE for the [transaction fee](../transaction-fee.md). On Memo (Option) fill in the Tag/Memo which may be required by the receiver. Then click "Send".
 
 ![](<../../../.gitbook/assets/Comostation Deposit Send 5.png>)
 
