@@ -20,6 +20,10 @@ LikeCoin DAO 的驗證人同時擔當「銀行」及「立法委員」的角色�
 
 Likers 透過委託的方法授權給驗證人。委託 LikeCoin 代表 Liker 信任驗證人的技術能力、知識及誠信，並同意由他代表。
 
+{% content-ref url="../direct-vote.md" %}
+[direct-vote.md](../direct-vote.md)
+{% endcontent-ref %}
+
 ## 驗證人狀態 <a href="#status" id="status"></a>
 
 ### 活躍驗證人 ( Active Validator)&#x20;
