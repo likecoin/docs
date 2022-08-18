@@ -74,7 +74,7 @@ description: 支援 LikeCoin 的多鏈錢包
 
 ### 步驟五
 
-在步驟三的 LIKE 頁面點「Send」並出現 Send 頁面。在空格填入收款方的錢包地址並顯示錢包內的 LIKE 可用餘額。請填寫需要轉帳的 LikeCoin 數量，並留意必須預留手續費。Memo (option) 一欄填進收款方需要 Tag/Memo（如有）。再點「Send」。
+在步驟三的 LIKE 頁面點「Send」並出現 Send 頁面。在空格填入收款方的錢包地址並顯示錢包內的 LIKE 可用餘額。請填寫需要轉帳的 LikeCoin 數量，並留意必須預留[手續費](../transaction-fee.md)。Memo (option) 一欄填進收款方需要 Tag/Memo（如有）。再點「Send」。
 
 ![](<../../../.gitbook/assets/Comostation Deposit Send 5.png>)
 
