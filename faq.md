@@ -22,7 +22,7 @@ LikeCoin Overview&#x20;<a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="l
 ----------------------------------------------------------------------------------------------------------
 
 * ​[What is LikeCoin?](./)
-* [Where to find the latest updates about LikeCoin?](<README (1).md>)
+* [Where to find the latest updates about LikeCoin?](updates.md)
 * [What does the media say about LikeCoin?](general-guides/on-the-news/)
 * [Does LikeCoin provide branding and design materials for download?](branding/)
 * [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](general-guides/decentralized-publishing/)[​](https://docs.like.co/user-guide/about#contact-us)

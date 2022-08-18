@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Decentralize Publishing](README.md)
-* [LikeCoin Progress Update](<README (1).md>)
+* [LikeCoin Progress Update](updates.md)
 * [LikeCoin Airdrop](airdrop/README.md)
   * [Login by Liker ID](airdrop/login-by-liker-id.md)
 * [LikeCoin FAQ](faq.md)
