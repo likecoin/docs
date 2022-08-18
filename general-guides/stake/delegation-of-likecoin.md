@@ -28,7 +28,7 @@ Checkout the below tutorial clip for staking via [dao.like.co](https://dao.like.
 
 ### Step 1: Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Exte](broken-reference)nsion, Cosmostation or [Authcore](../../user-guide/liker-id/register/) to login.
+Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../wallet/keplr.md), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
@@ -60,7 +60,7 @@ After confirming that the amount and gas fee are correct, click "Next".
 
 ### Step 6: Check your delegation
 
-Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm the delegation after clicking "Send". Authcore users directly click "Send".
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
 
@@ -82,7 +82,7 @@ The Claim Rewards page appears, click "Next".
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 02.png>)
 
-Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm it after clicking "Send". Authcore users directly click "Send".
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 03.png>)
 

@@ -30,13 +30,13 @@ Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](b
 
 Click "Validators" on the left hand side menu, then click "All" in the upper right corner, look for the Civic Liker node and click it.
 
-![](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
+![](broken-reference)
 
 ### Step 3: Stake
 
 Click "Stake" in the upper right corner of the Civic Liker node to delegate.
 
-![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
+![](broken-reference)
 
 ### Step 4: Decide how much to stake
 
@@ -62,7 +62,7 @@ After the Send and confirming screen appears, Successfully staked! appears, whic
 
 Click "Portfolio" on the left hand side menu, and you can see "You Stake" showing the successful delegation to the Civic Liker node.
 
-![](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
+![](broken-reference)
 
 ## Become a Civic Liker by delegating with the Liker Land app
 
