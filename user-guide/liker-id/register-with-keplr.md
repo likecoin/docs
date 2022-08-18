@@ -79,7 +79,7 @@ You cannot change the Liker ID nor the login method once it has been created. If
 
 ### Step 3: Check the Wallet
 
-On Liker Land Web settings, your LikeCoin wallet address is the same as the Keplr address, which means that you have successfully registered your Liker ID with Keplr.
+On Liker Land Web [settings](https://like.co/in/settings), your LikeCoin wallet address is the same as the Keplr address, which means that you have successfully registered your Liker ID with Keplr.
 
 ![](../../.gitbook/assets/keplr-liker-id-06-en.png)
 
