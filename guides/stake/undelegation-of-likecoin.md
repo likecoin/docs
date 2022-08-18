@@ -20,7 +20,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 ![](<../../.gitbook/assets/dao.like.co unstake 03.png>)
 
-5\. 系統要求簽署確認，Keplr及 Cosmostation 用戶點擊「Send」以後會彈出視窗或要求確認執行。Authcore 用戶直接點擊「Send」。
+5\. 系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點擊「Send」。
 
 ![](<../../.gitbook/assets/dao.like.co unstake 04.png>)
 

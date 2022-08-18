@@ -8,7 +8,7 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
 ### 步驟二：選擇已委託的驗證人
 
@@ -28,7 +28,7 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 ### 步驟四：確認轉移
 
-系統要求簽署確認，Keplr 用戶點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
+系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點擊「Send」。
 
 ![](<../../.gitbook/assets/dao.like.co restake 04.png>)
 
