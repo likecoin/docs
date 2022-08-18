@@ -12,6 +12,10 @@ Go to any exchanges that can buy ATOM (e.g. Binance, FTX, Kucoin, Kraken) or org
 
 ![](<../../.gitbook/assets/ATOM to LIKE.png>)
 
-### Fiat currency -> Direct purchase LIKE ( Hong Kong only)
+### HKD -> Direct purchase LIKE ( Hong Kong only )
 
 Go to [MyEthShop](registering-and-trade-in-myethshop.md) to buy LIKE directly in HKD.
+
+### Fiat currency -> LIKE OTC
+
+Refers to [OTC](otc.md).

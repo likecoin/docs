@@ -17,8 +17,8 @@ These are the ways to trade LikeCoin:
 
 Deposit LikeCoin to crypto exchange requires the use of a [wallet](../wallet/) supporting LikeCoin.
 
-### LikeCoin OTC
+### OTC
 
-LikeCoin OTC lets sellers and buyers communicate via the web service. For more details please go to [this website](https://matters.news/\~lotc).
+[Refers to](./#likecoin-otc) OTC.
 
 
