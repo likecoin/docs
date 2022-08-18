@@ -12,7 +12,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 委託機制是 LikeCoin DAO [流動民主](../governance/liquid-democracy.md)自治機制非常重要的一環。
 
-委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.com](https://dao.like.co/)。 你也可以通過以下方式管理你的 LikeCoin：
+委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.co](https://dao.like.co/)。 你也可以通過以下方式管理你的 LikeCoin：
 
 * Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
@@ -22,7 +22,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
