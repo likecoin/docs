@@ -28,7 +28,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 到 [dao.like.co](https://dao.like.co/) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
-![](<../../.gitbook/assets/direct vote 01.png>)
+![](broken-reference)
 
 ### &#xD;步驟三：選擇議案
 

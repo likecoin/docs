@@ -12,7 +12,7 @@ description: 讓議案投票得以展開
 
 留意，若未能超過法定投票權，又或者三份一以上投票權強烈反對（被視為「惡意提案」），則議案不通過之餘，LikeCoin 保證金也會被沒收並撥入社群基金**；**否則保證金將歸還予出資的 Likers。
 
-存入保證金的方式有多種，我們建議使用 [dao.like.com](https://dao.like.co/)。 你也可以通過以下方式存入保證金：
+存入保證金的方式有多種，我們建議使用 [dao.like.co](https://dao.like.co/)。 你也可以通過以下方式存入保證金：
 
 * Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
@@ -23,9 +23,9 @@ description: 讓議案投票得以展開
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+到 [dao.like.co](https://dao.like.co/) 選擇 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
-![](<../../.gitbook/assets/direct vote 01.png>)
+![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### &#xD;步驟二：選擇議案
 
@@ -51,7 +51,7 @@ description: 讓議案投票得以展開
 
 ![](../../.gitbook/assets/proposal-deposit-04.png)
 
-系統要求簽署確認，Keplr 用戶點擊「Send」以後會彈出視窗或要求按鈕確認。Authcore 用戶直接點擊「Send」。
+系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點擊「Send」。
 
 ![](../../.gitbook/assets/proposal-deposit-05.png)
 
@@ -70,5 +70,5 @@ description: 讓議案投票得以展開
 ![](../../.gitbook/assets/proposal-deposit-08.png)
 
 {% hint style="info" %}
-議案投票通過後保證金將發還予出資的 Liker。
+議案投票通過或被否決後保證金將發還予出資的 Liker。
 {% endhint %}
