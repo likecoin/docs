@@ -42,11 +42,7 @@ The Civic Liker clicking on LikeCoin button will affect distribution of the Crea
 
 **7. How to buy LikeCoin?**
 
-To become a Civic Liker, you must first purchase LikeCoin. [Osmosis](../../general-guides/trade/trade-in-osmosis.md) is currently the DEX with the highest circulation, and you can exchange LikeCoin for other 30s cryptocurrencies.
-
-If you have fiat currency such as HKD, TWD or USD, please purchase USDT, a stable currency in USD from an exchange that supports fiat currency or OTC trading, and then directly purchase LikeCoin from exchanges such as [Liquid](../../archive/archive/trade/trade-in-liquid.md), [Digifinex](../../general-guides/trade/trade-in-digifinex.md) or [ZB](../../general-guides/trade/trade-in-zb.md).
-
-If you are a Hong Kong user, you can purchase LikeCoin in person at [MyEthShop](../../general-guides/trade/registering-and-trade-in-myethshop.md).
+To become a Civic Liker, you must first purchase LikeCoin. [Osmosis](../../general-guides/trade/trade-in-osmosis.md) is currently the DEX with the highest circulation, and you can exchange LikeCoin for other 30s cryptocurrencies. You can also check out [Buy LikeCoin](../../general-guides/trade/buy-likecoin.md).
 
 **8. How to cancel a Civic Liker subscription?**
 
