@@ -8,7 +8,7 @@ description: >-
 
 ## **Undelegate via dao.like.co**
 
-1\. Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register/) to login.
+1\. Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
 
 2\. Click "Portfolio" on the left hand side menu, on Your Stake and click on the validator that you need to undelegate.
 
@@ -22,7 +22,7 @@ description: >-
 
 ![](<../../.gitbook/assets/dao.like.co unstake 03.png>)
 
-5\. Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+5\. Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm the undelegation after clicking "Send". Authcore users directly click "Send".
 
 ![](<../../.gitbook/assets/dao.like.co unstake 04.png>)
 
