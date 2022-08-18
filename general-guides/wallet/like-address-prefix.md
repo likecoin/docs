@@ -36,7 +36,7 @@ But the bottom line is: as long as you have the private key that generates the a
 
 ### Check if the exchange supports the new format
 
-When depositing LikeCoin to exchanges, especially centralized exchanges such as Liquid, Digifinex and ZB, please pay attention and check out if the exchange has supported the new format. The exchange may not fully support the new format resulting in deposit and withdrawal failure.
+When depositing LikeCoin to exchanges, especially centralized exchange, please pay attention and check out if the exchange has supported the new format. The exchange may not fully support the new format resulting in deposit and withdrawal failure.
 
 When depositing to a centralized exchange, the private key of the deposit address is owed by the exchange, users must have assistance from the exchange to control the assets, please pay attention.
 

@@ -5,7 +5,7 @@ description: How to register on ZB Exchange
 # Registering on ZB
 
 {% hint style="danger" %}
-Archived on 2022/08/18.
+Archived on 2022/08/18. Information is out of date.
 {% endhint %}
 
 Buy and Sell LikeCoin on ZB requires an account, please go to [ZB website](https://www.zb.com/) and follow these steps to register a account:
