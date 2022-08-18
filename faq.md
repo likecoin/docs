@@ -59,7 +59,7 @@ description: LikeCoin 常見問題
 * [所謂 LikeCoin DAO 有民主麼？](guides/governance/liquid-democracy.md)
 * [LikeCoin chain 是甚麼？](guides/governance/likecoin-chain.md)
 * [甚麼是驗證人？](guides/governance/what-is-a-validator/)
-* [如何成為驗證人？](developer-resources/become-a-validator.md)
+* [如何成為驗證人？](broken-reference)
 * [驗證人如何獲得社群基金的委託？](guides/governance/what-is-a-validator/community-delegation.md)
 * [LikeCoin DAO 有過甚麼議案？](guides/governance/proposals.md)
 * [如何為議案存入保證金？](guides/governance/proposal-deposit.md)&#x20;

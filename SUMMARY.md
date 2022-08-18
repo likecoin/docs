@@ -121,10 +121,13 @@
   * [每月創作進度](user-guide/creatortools/monthly-report.md)
 * [詞彙表](user-guide/background.md)
 
-## 🔬  開發者資源 <a href="#developer-resources" id="developer-resources"></a>
+## 🔬  開發者資源 <a href="#developer" id="developer"></a>
 
-* [成為驗證人](developer-resources/become-a-validator.md)
-* [開發者](developer-resources/developer.md)
+* [開發者簡介](developer/introduction.md)
+
+## 👥 驗証人 <a href="#validator" id="validator"></a>
+
+* [成為驗證人](validator/become-a-validator.md)
 
 ## 存檔 <a href="#archive" id="archive"></a>
 

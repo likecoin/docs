@@ -36,6 +36,6 @@ Likers 透過委託的方法授權給驗證人。委託 LikeCoin 代表 Liker �
 
 ## 成為驗證人
 
-{% content-ref url="../../../developer-resources/become-a-validator.md" %}
-[become-a-validator.md](../../../developer-resources/become-a-validator.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
