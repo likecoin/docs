@@ -8,7 +8,7 @@ description: Transfer the delegated LikeCoin to another validator
 
 ### Step 1: Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register/) to login.
+Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
 
 ### **Step 2: Select the validator with delegation**
 
@@ -28,7 +28,7 @@ The Restake page appears, on To: field select the validator that you want to red
 
 ### Step 4: Confirm redelegation
 
-Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm it after clicking "Send". Authcore users directly click "Send".
 
 ![](<../../.gitbook/assets/dao.like.co restake 04.png>)
 
