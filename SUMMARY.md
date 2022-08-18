@@ -123,7 +123,7 @@
 
 ## 🔬  開發者資源 <a href="#developer" id="developer"></a>
 
-* [開發者簡介](developer/introduction.md)
+* [開發者簡介](developer-resources/developer.md)
 
 ## 👥 驗証人 <a href="#validator" id="validator"></a>
 
