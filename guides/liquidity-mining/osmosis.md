@@ -4,7 +4,7 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 # Osmosis
 
-現時 LikeCoin 在 Osmosis 有兩個激勵池 ( Incentivized Pool ) ，提供流動性就能獲得互換交易費 ( Swap Fee ) 及流動性挖礦獎勵 ( Liquidity Mining Incentives )。
+現時 LikeCoin 在 Osmosis 有兩個流動性池 ，提供流動性就能獲得互換交易費 ( Swap Fee ) 及流動性挖礦獎勵 ( Liquidity Mining Incentives )。
 
 注意流動性挖礦有機會讓用戶遭遇無常損失 ( Impermanent Loss )，請自行評估相關風險。
 
@@ -24,13 +24,13 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 ### 步驟一：選定流動性池
 
-現時 LikeCoin 在 [Osmosis](https://app.osmosis.zone/) 中設置了三個流動性池，其中兩個提供流動性挖礦獎勵：
+現時 LikeCoin 在 [Osmosis](https://app.osmosis.zone/) 中設置了兩個流動性池：
 
 [Pool #553 LIKE/OSMO](https://app.osmosis.zone/pool/553)
 
 [Pool #555 LIKE/ATOM](https://app.osmosis.zone/pool/555)
 
-在 Osmosis 點左手邊菜單 Pools，在 Incentivized Pools 激勵池中找到 553 或 555 池。以下使用 Pool #553 LIKE/OSMO 作例子。
+在 Osmosis 點左手邊菜單 Pools，再搜尋「LIKE」。以下使用 Pool #553 LIKE/OSMO 作例子。
 
 ### 步驟二：預備密碼貨幣
 
@@ -114,4 +114,4 @@ Osmosis 的流動性挖礦獎勵將以 OSMO 回饋予流動性挖礦者，並於
 
 ## 查看以往數據
 
-點左手邊菜單 Stats 或到 [https://info.osmosis.zone/](https://info.osmosis.zone/) 可以查看各個流動性池的數據。
+點左手邊菜單 Info 或到 [https://info.osmosis.zone/](https://info.osmosis.zone/) 可以查看各個流動性池的數據。
