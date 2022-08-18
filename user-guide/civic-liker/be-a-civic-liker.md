@@ -24,7 +24,7 @@ Civic Liker not only can distribute the delegation rewards, but also distribute 
 
 Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference) or [Authcore](../liker-id/register/) to login to the wallet address bind with a Liker ID
 
-![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
+![](broken-reference)
 
 ### Step 2: Select Civic Liker node&#xD;
 

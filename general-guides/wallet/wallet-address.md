@@ -24,6 +24,6 @@ Click "Receive", then click "Copy" below the QR code to copy the wallet address.
 
 ### Liker Land web
 
-Login to [Liker Land web](https://liker.land/), click on the menu on the top right hand corner and choose "Settings", then click Liker ID and you will see your wallet address. You can also directly click [https://like.co/in/settings](https://like.co/in/settings) to check.
+Login to [Liker Land web](https://liker.land/) and directly click [https://like.co/in/settings](https://like.co/in/settings) to check it.
 
 ![](<../../.gitbook/assets/wallet address-en (1).png>)

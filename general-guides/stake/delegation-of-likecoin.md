@@ -14,7 +14,7 @@ Delegation means delegating LikeCoin to one or more [validators](../governance/w
 
 Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) and is vital to the autonomy for the LikeCoin DAO.
 
-There are multiple ways to stake LikeCoin, we suggest using [dao.like.com](https://dao.like.co/welcome). You may also want to manage your LikeCoin with:
+There are multiple ways to stake LikeCoin, we suggest using [dao.like.co](https://dao.like.co/welcome). You may also want to manage your LikeCoin with:
 
 * Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
@@ -22,13 +22,13 @@ There are multiple ways to stake LikeCoin, we suggest using [dao.like.com](https
 
 ## Delegate via dao.like.co
 
-Checkout the below tutorial clip for staking via dao.like.co.
+Checkout the below tutorial clip for staking via [dao.like.co](https://dao.like.co/welcome).
 
 {% embed url="https://youtu.be/7soCRDCGYCw" %}
 
 ### Step 1: Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference) or [Authcore](../../user-guide/liker-id/register/) to login.
+Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Exte](broken-reference)nsion, Cosmostation or [Authcore](../../user-guide/liker-id/register/) to login.
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
