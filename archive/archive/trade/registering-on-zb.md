@@ -4,6 +4,10 @@ description: 如何註冊 ZB 交易所帳號
 
 # 註冊 ZB 帳號
 
+{% hint style="danger" %}
+2022/08/18 存檔。
+{% endhint %}
+
 在 ZB 買賣 LikeCoin，請先註冊帳號。請到 [ZB 網站](https://zb.com)並按以下步驟註冊：
 
 ### 步驟一：確認密碼，及電子郵箱或手機號碼 <a href="#1" id="1"></a>

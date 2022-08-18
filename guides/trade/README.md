@@ -13,7 +13,6 @@ description: 如何交易 LikeCoin？
 ### 中心化交易所 CEX
 
 * [DigiFinex](https://www.digifinex.com/) 提供 USDT/LIKE 交易對
-* [ZB](https://www.zb.com/) 提供 USDT/LIKE 交易對
 * [MyEthShop](https://www.myethshop.com/) 提供 HKD/LIKE 兌換
 
 轉帳 LikeCoin 到交易所須使用支援 LikeCoin 的[錢包](../wallet/)。

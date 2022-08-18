@@ -4,6 +4,10 @@ description: 在 ZB 買賣 LikeCoin
 
 # 在 ZB 交易
 
+{% hint style="danger" %}
+2022/08/18 存檔。
+{% endhint %}
+
 [中幣 ( ZB ) ](https://zb.com)集團是全球領先的區塊鏈和數字資產金融服務商，旗下業務涵蓋數字資產交易平台集群、電子錢包、投資基金、研究機構等區塊鏈產業上下游，中幣集團在新加坡、美國、韓國、中國香港、瑞士、馬耳他、馬來西亞均有業務佈局。現時 ZB 提供 LIKE/USDT 交易對，若你還未有 ZB 帳號，[請參考這篇](registering-on-zb.md)。此外你也需要下載 [Keplr](../../../guides/wallet/keplr.md) 錢包 或[ Liker Land 手機應用程式](https://liker.land/getapp)用來傳送/提取 LikeCoin。以下示範以 ZB 網頁版為例，你亦可使用 [ZB 手機應用程式](https://www.zb.com/cn/download)進行交易。
 
 ### 步驟一：開立 ZB 帳戶的 LikeCoin 錢包收款地址
