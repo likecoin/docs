@@ -23,15 +23,17 @@ description: >-
 
 ## **2022 Date & Schedule**
 
-| **Date**           | **Description**                                                                |
-| ------------------ | ------------------------------------------------------------------------------ |
-| Monday, 4 July     |                                                                                |
-| Monday, 6 June     | Q3 & Q4 Roadmap                                                                |
-| Monday, 2 May      | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
-| Monday, 4 April    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
-| Monday, 7 March    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
-| Monday, 7 February | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
-| Monday, 3 January  | LikeCoin Airdrop, Twitter Analytics, 2021 Sum up                               |
+| **Date**            | **Description**                                                                |
+| ------------------- | ------------------------------------------------------------------------------ |
+| Monday, 5 September |                                                                                |
+| Monday, 1 August    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
+| Monday, 4 July      | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
+| Monday, 6 June      | Q3 & Q4 Roadmap                                                                |
+| Monday, 2 May       | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
+| Monday, 4 April     | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
+| Monday, 7 March     | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
+| Monday, 7 February  | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
+| Monday, 3 January   | LikeCoin Airdrop, Twitter Analytics, 2021 Sum up                               |
 
 ## **2021 Date & Schedule**
 
