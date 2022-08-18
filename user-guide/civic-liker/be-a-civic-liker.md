@@ -24,19 +24,19 @@ Civic Liker not only can distribute the delegation rewards, but also distribute 
 
 Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference) or [Authcore](../liker-id/register/) to login to the wallet address bind with a Liker ID
 
-![](broken-reference)
+![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### Step 2: Select Civic Liker node&#xD;
 
 Click "Validators" on the left hand side menu, then click "All" in the upper right corner, look for the Civic Liker node and click it.
 
-![](broken-reference)
+![](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
 
 ### Step 3: Stake
 
 Click "Stake" in the upper right corner of the Civic Liker node to delegate.
 
-![](broken-reference)
+![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
 
 ### Step 4: Decide how much to stake
 
@@ -62,7 +62,7 @@ After the Send and confirming screen appears, Successfully staked! appears, whic
 
 Click "Portfolio" on the left hand side menu, and you can see "You Stake" showing the successful delegation to the Civic Liker node.
 
-![](broken-reference)
+![](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
 
 ## Become a Civic Liker by delegating with the Liker Land app
 

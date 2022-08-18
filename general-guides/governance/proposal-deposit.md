@@ -12,7 +12,7 @@ In case the proposal fails to get 100k LikeCoin deposit in 2-week time, the prop
 
 Please note, if the proposal fails to achieve quorum, or gets more than 1/3 voting power as veto, then the proposal will be turned down and the deposited LikeCoin will be expropriated to the Community Pool; else the deposit will be transferred back to the owners.
 
-There are multiple ways to deposit for a proposal, we suggest using [dao.like.com](https://dao.like.co/welcome). You may also want to use:
+There are multiple ways to deposit for a proposal, we suggest using [dao.like.co](https://dao.like.co/welcome). You may also want to use:
 
 * Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
@@ -23,9 +23,9 @@ There are multiple ways to deposit for a proposal, we suggest using [dao.like.co
 
 ### Step 1: Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co/) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) or [Authcore](../../user-guide/liker-id/register/) to login.
+Go to [dao.like.co](https://dao.like.co/) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
 
-![](<../../.gitbook/assets/direct vote 01.png>)
+![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### &#xD;&#xD;Step 2: Select the proposal to deposit
 
@@ -53,7 +53,7 @@ Input the amount that you would like to deposit for the proposal.
 
 ![](../../.gitbook/assets/proposal-deposit-04.png)
 
-Confirmation is required. Keplr users will need to approve a pop-up box or press a button to confirm it after clicking "Send". Authcore users directly click "Send".
+Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm the deposit after clicking "Send". Authcore users directly click "Send".
 
 
 
@@ -76,5 +76,5 @@ Go to the left hand side menu and select "Transactions" and check out your depos
 ![](../../.gitbook/assets/proposal-deposit-08.png)
 
 {% hint style="info" %}
-If the proposal passed, the deposit will be transfer back to the likers.
+If the proposal passed or rejected not because the proposal fails to achieve quorum or gets more than 1/3 voting power as veto, the deposit will be transfer back to the likers.
 {% endhint %}

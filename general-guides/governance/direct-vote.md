@@ -28,7 +28,7 @@ Before voting please delegate your LikeCoin to any validators that you trust.
 
 Go to [dao.like.co](https://dao.like.co/) and choose [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md) or [Authcore](../../user-guide/liker-id/register/) to login.
 
-![](<../../.gitbook/assets/direct vote 01.png>)
+![](broken-reference)
 
 ### &#xD;Step 3: Select the proposal to vote
 
