@@ -1,7 +1,7 @@
 ---
 description: >-
-  Currently the transaction fee required to LIKE pay is around 0.059 LIKE, which
-  is about US$0.0006. The amount is too less and don't worry about it!
+  Transfer, Delegate, Undelegate, Redelegate and Withdraw Rewards requires
+  transaction fees
 ---
 
 # Transaction Fee
@@ -16,10 +16,10 @@ LikeCoin chain charges Gas fee or name it as transaction fee according to the co
 
 Transaction fee is calculated according to the computational steps of code execution required for each transaction. As the network situation is difference during each transaction, the below are estimation of scenario:
 
-* [LIKE pay](like-pay.md): Around 0.059 LIKE
-* [Delegate](../stake/delegation-of-likecoin.md): Around 0.19 LIKE
-* [Undelegate](../stake/undelegation-of-likecoin.md): Around 0.32 LIKE 
-* [Redelegate](../stake/redelegation-of-likecoin.md): Around 0.48 LIKE
+* [LIKE pay](like-pay.md): Around 0.16 LIKE
+* [Delegate](../stake/delegation-of-likecoin.md): Around 0.32 LIKE
+* [Undelegate](../stake/undelegation-of-likecoin.md): Around 0.4 LIKE&#x20;
+* [Redelegate](../stake/redelegation-of-likecoin.md): Around 0.55 LIKE
 * [Withdraw Rewards](../stake/delegation-of-likecoin.md#step-3-relax-and-withdraw-rewards): Around 1.25 LIKE
 
 Clicks on "Details" in the Liker Land app and web during LIKE pay, delegate, undelegate, redelegate and withdraw rewards and check the estimated transaction fee.
@@ -43,4 +43,3 @@ You may not be able complete the transaction in these marginal cases:
 ### Who gets the transaction fee?
 
 Validators of LikeCoin chain operate a set of servers 24x7 to validate all transactions of Likers, including token transfers, content publishing, voting and etc. Validator's rewards for recording all transactions is from inflation and when setting up the node in servers they can set up min-gas-price parameters to decide the basic requirement of each computational step. Delegators get rewards from validators as delegation of LikeCoin helps to validate transactions. The rewards for validator and delegator are called block reward and it comes from the inflation and transaction fee after deducting community pool taxes from the transaction of each block. The block rewards of a validator can get depends on the Commission rate set by themselves. Therefore the transaction fee form LikeCoin chain users are splitted for each stakeholders and community pool taxes according to proportion, and is not charged by the LikeCoin foundation.
-
