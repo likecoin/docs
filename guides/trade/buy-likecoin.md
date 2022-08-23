@@ -4,6 +4,10 @@ description: 如何購買 LikeCoin？
 
 # 購買 LikeCoin
 
+{% hint style="warning" %}
+提示：進行任何大額交易前請先作少量嘗試
+{% endhint %}
+
 建議用戶使用 [Keplr](../wallet/keplr.md) 錢包購買及管理 LikeCoin，購買途徑如下：
 
 ### 法定貨幣 -> ATOM（任何交易所）-> LIKE ( Osmosis )

@@ -4,6 +4,10 @@ description: 去中心交易所，無需註冊，立即交易
 
 # 在 Osmosis 交易
 
+{% hint style="warning" %}
+提示：進行任何大額交易前請先作少量嘗試
+{% endhint %}
+
 2021年10月20日開始你可在 Osmosis 去中心交易所 ( DEX )，以 LikeCoin 交易包括美元穩定幣 USDC 在內的幾十種貨幣。過程無需註冊、不設入金出金門檻、用戶只需一個電子錢包即可操作，全程去中心化。
 
 ### 步驟一：接通 Osmosis

@@ -1,5 +1,9 @@
 # 場外交易
 
+{% hint style="warning" %}
+提示：進行任何大額交易前請先作少量嘗試
+{% endhint %}
+
 LikeCoin 驗證人及一些機構亦有提供 LikeCoin 場外交易服務，他們與 LikeCoin 創始團隊並無合作關係，用戶必須自行衡量風險。
 
 ### 碼農日常大小事
