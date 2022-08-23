@@ -20,8 +20,8 @@ Liquidity providing requires registration of Keplr wallet
 
 and depositing LikeCoin to Keplr.
 
-{% content-ref url="../../../general-guides/wallet/keplr.md" %}
-[keplr.md](../../../general-guides/wallet/keplr.md)
+{% content-ref url="../../../general-guides/wallet/keplr/" %}
+[keplr](../../../general-guides/wallet/keplr/)
 {% endcontent-ref %}
 
 ## Providing liquidity to the liquidity pool

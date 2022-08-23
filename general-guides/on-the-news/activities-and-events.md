@@ -140,7 +140,7 @@ HK Crypto 30mins ep.11 | 艱難見證，見證難難；我們的獅子山
 
 HK Crypto 30 mins ep.10 | 創作有價，Likecoin創辦人同你句句真
 
-![](../../.gitbook/assets/fireshot-capture-2485-crypto-30-mins-ep.10-chuang-zuo-you-jia-likecoin-chuang-ban-ren-tong-ni-ju-ju-zhen-xiang-gang-jia-mi-huo-bi-crypto-85-www.joinclubhouse.com.png)
+![](<../../.gitbook/assets/FireShot Capture 2485 - 🇭🇰 Crypto 30 mins ep.10｜創作有價。Likecoin創辦人同你句句真 - 香港加密貨幣 - Crypto 85\_ - www.joinclubhouse.com.png>)
 
 ### 03/12 MozFest 2021
 

@@ -67,17 +67,17 @@ You can also go to his/her Portfolio Page and check out that you are "Supporting
 
 Login in [Liker Land web](https://liker.land/) and select "[Civic Liker](https://liker.land/civic/dashboard)'' on the menu on the right hand side, you can manage payment methods and check your billing history. You can also check out who you are supporting and change the monthly supporting amount, click "Edit" on the content creator that you subscribed to.
 
-![](../../../.gitbook/assets/civic-liker-menu-en.png)
+![](<../../../.gitbook/assets/Civic Liker Menu-en.png>)
 
 ![](../../../.gitbook/assets/register-civic-liker-8-en.png)
 
 Select the new amount to support and click "Next".
 
-![](../../../.gitbook/assets/register-civic-liker-9a-en.png)
+![](../../../.gitbook/assets/register-civic-liker-9A-en.png)
 
 Click "Confirm" again to apply the change.
 
-![](../../../.gitbook/assets/register-civic-liker-9b-en.png)
+![](../../../.gitbook/assets/register-civic-liker-9B-en.png)
 
 Changes made will be effective on the next billing date, please note the money paid for previous and current subscription will not be refunded.
 
@@ -91,21 +91,21 @@ Please subscribe to the 1st content creator. Then follow the same steps to subsc
 
 Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "Civic Liker".
 
-![](../../../.gitbook/assets/civic-liker-menu-en.png)
+![](<../../../.gitbook/assets/Civic Liker Menu-en.png>)
 
 On "You are supporting", click "Subscribe" in Civic Liker Classic.
 
-![](../../../.gitbook/assets/subscribe-civic-liker-classic-01-en.png)
+![](<../../../.gitbook/assets/Subscribe Civic Liker Classic-01-en.png>)
 
 ### Step 2: Confirm Subscription
 
 Click "Subscribe Now".
 
-![](../../../.gitbook/assets/subscribe-civic-liker-classic-02-en.png)
+![](<../../../.gitbook/assets/Subscribe Civic Liker Classic-02-en.png>)
 
 Click "Confirm".
 
-![](../../../.gitbook/assets/subscribe-civic-liker-classic-03-en.png)
+![](<../../../.gitbook/assets/Subscribe Civic Liker Classic-03-en.png>)
 
 ### Step 3  :  Fill in your credit card information
 
@@ -115,4 +115,4 @@ Refer to [Subscribe to a content creator Fill in your credit card information](b
 
 On "You are supporting", Civic Liker Classic is "Active".
 
-![](../../../.gitbook/assets/subscribe-civic-liker-classic-04-en.png)
+![](<../../../.gitbook/assets/Subscribe Civic Liker Classic-04-en.png>)

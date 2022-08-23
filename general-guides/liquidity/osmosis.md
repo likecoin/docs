@@ -16,8 +16,8 @@ Liquidity mining requires registration of Keplr wallet
 
 and depositing LikeCoin to Keplr.
 
-{% content-ref url="../wallet/keplr.md" %}
-[keplr.md](../wallet/keplr.md)
+{% content-ref url="../wallet/keplr/" %}
+[keplr](../wallet/keplr/)
 {% endcontent-ref %}
 
 ## Providing liquidity to the liquidity pool

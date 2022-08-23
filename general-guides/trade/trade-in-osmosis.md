@@ -16,7 +16,7 @@ Go to the Osmosis website [https://app.osmosis.zone/](https://app.osmosis.zone/)
 
 ![](<../../.gitbook/assets/Osmosis 01.png>)
 
-On Connect Wallet, select "[Keplr Wallet](../wallet/keplr.md)".
+On Connect Wallet, select "[Keplr Wallet](../wallet/keplr/)".
 
 ![](<../../.gitbook/assets/Osmosis 02.png>)
 

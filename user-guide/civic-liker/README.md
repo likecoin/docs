@@ -22,7 +22,7 @@ Like = reward. Every Civic Liker’s “Like” will turn to LikeCoin reward to 
 > Say Alice stakes 25,000 LIKE to the “Civic Liker” node. Assume that staking APR is 15%, monthly stake reward = 25,000×0.15×12 = 312.5 LIKE. Give “Likes” to distribute stake reward to the creators with your staked LikeCoin stay untouched.\
 > You can withdraw from staking at anytime after a 21-day cool down period.
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (83).png>)
 
 ### Vote on Creators Fund’s distribution <a href="#vote-on-creators-fund-s-distribution" id="vote-on-creators-fund-s-distribution"></a>
 
@@ -52,4 +52,4 @@ The Civic Liker plan moved to a Web3 version on 2022.02.21, which implemented th
 
 ### \[[Join **Civic Liker**](../../archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)]
 
-![](../../.gitbook/assets/civic-liker.png)
+![](<../../.gitbook/assets/Civic Liker.png>)

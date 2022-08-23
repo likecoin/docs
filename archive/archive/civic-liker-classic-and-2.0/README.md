@@ -8,7 +8,7 @@ description: Why should I become a Civic Liker? Any benefits?
 Archived on 2022/06/14. Information is out of date, please refer to the new entry "[Civic Liker](../../../user-guide/civic-liker/)".
 {% endhint %}
 
-![](../../../.gitbook/assets/likecoin\_ad98\_2point0-01.png)
+![](<../../../.gitbook/assets/LikeCoin\_AD98\_2point0-01 (1).png>)
 
 ## [Be a **Civic Liker**](be-a-civic-liker.md)
 
@@ -55,4 +55,4 @@ Encourage more people to join Civic Liker and build a healthy decentralized publ
 
 ### \[[Join **Civic Liker**](be-a-civic-liker.md)]
 
-![](../../../.gitbook/assets/civic-liker.png)
+![](<../../../.gitbook/assets/Civic Liker.png>)

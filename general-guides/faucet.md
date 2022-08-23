@@ -8,7 +8,7 @@ Use this [faucet](https://faucet.like.co/) to get a small amount of LIKE and sta
 
 ### Step 1: Connect Wallet
 
-Click [Keplr](wallet/keplr.md) or [Comostation](wallet/cosmostation/) to connect to your wallet.
+Click [Keplr](wallet/keplr/) or [Comostation](wallet/cosmostation/) to connect to your wallet.
 
 ![](<../.gitbook/assets/faucet 1.png>)
 

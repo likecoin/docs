@@ -8,7 +8,7 @@ description: How to buy LikeCoin?
 Reminder: Suggest to try with a small amount before making any large transactions
 {% endhint %}
 
-It is recommended to use the [Keplr wallet](../wallet/keplr.md) to purchase and manage LikeCoin. There are two ways to buy it:
+It is recommended to use the [Keplr wallet](../wallet/keplr/) to purchase and manage LikeCoin. There are two ways to buy it:
 
 ### Fiat currency -> ATOM ( any exchange ) -> LIKE (Osmosis)
 

@@ -31,7 +31,7 @@ Currently, users need to use the desktop Keplr explorer plugin to access depub.s
 * Clicking the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When clicking on the 6th time, the article is being "Super Liked".
 * The "Super Liked" article will be on Liker Land. Your followers can see it on "Following" and everyone can see it on "Global".
 
-![](../../.gitbook/assets/superlike.gif)
+![](../../.gitbook/assets/SuperLike.gif)
 
 * A tick will then appear on the star totem representing one chance of Super Like being utilized. Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset.
 * The RSS icon on the lower right hand corner turned on and the article is being shared to Liker Land and depub.space.

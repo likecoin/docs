@@ -31,11 +31,11 @@ Follow the steps:
 
 3\. Search for "LikeCoin" and find the LikeCoin plugin, click "Instal Nowl" and wait for the system to finish the job, then click "Activate".
 
-![](<../.gitbook/assets/wordpress-2-en (1).png>)
+![](../.gitbook/assets/wordpress-2-en.png)
 
 4\. After installation, there will be an "LikeCoin" option in the menu. Congratulations,  installation is done!
 
-![](<../.gitbook/assets/wordpress-3-en (1).png>)
+![](../.gitbook/assets/wordpress-3-en.png)
 
 ## Configuring LikeCoin plugin
 

@@ -52,13 +52,13 @@ Click on the validator that you delegated (displayed as green) and select \[Rede
 
 The app pops up a list of validators, select the validator to transfer your LikeCoin.&#x20;
 
-![](../../.gitbook/assets/img\_2330.jpg)
+![](../../.gitbook/assets/IMG\_2330.jpg)
 
 ### Step 3: Confirm redelegation
 
 Details of redelegation are displayed, check them carefully, click \[Confirm] and wait for the transfer to complete, it usually takes a few seconds.
 
-![](../../.gitbook/assets/img\_2331.PNG)
+![](../../.gitbook/assets/IMG\_2331.PNG)
 
 ## **Beware of cooling-off period**
 
@@ -68,7 +68,7 @@ The transferred LikeCoin got a 21 days cooling-off period, they cannot be used i
 Attention: If you previously delegated some LikeCoin to your new validator, the newly transferred LikeCoin will freeze the total LikeCoin amount for 21 days. Please make your decision carefully.
 {% endhint %}
 
-![](../../.gitbook/assets/img\_2332.jpg)
+![](../../.gitbook/assets/IMG\_2332.jpg)
 
 {% hint style="warning" %}
 [Transaction fee](../wallet/transaction-fee.md) is required for ‌Redelegate LikeCoin.

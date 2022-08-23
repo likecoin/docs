@@ -26,8 +26,8 @@ Register a Liker ID with Keplr.
 
 Deposit LikeCoin to Keplr.
 
-{% content-ref url="../../../general-guides/wallet/keplr.md" %}
-[keplr.md](../../../general-guides/wallet/keplr.md)
+{% content-ref url="../../../general-guides/wallet/keplr/" %}
+[keplr](../../../general-guides/wallet/keplr/)
 {% endcontent-ref %}
 
 ### Step 3: Connect Emeris
@@ -74,4 +74,4 @@ You can withdraw or send funds with the following ways:
 
 * Use the Send to address function on Emeris to send funds to other wallet address.
 * User the Move Assets function on Emeries to move assets between chains.
-* User [Keplr wallet to send funds](../../../general-guides/wallet/keplr.md#send-likecoin-from-keplr-to-another-wallet).
+* User [Keplr wallet to send funds](../../../general-guides/wallet/keplr/#send-likecoin-from-keplr-to-another-wallet).

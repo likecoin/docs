@@ -76,9 +76,9 @@ Please visit Google Play store or Apple App Store to [download the Liker Land ap
 
 If you login Liker ID by MetaMask wallet only, you can still follow the instruction above except that you should choose "Sign in with your wallet" on the upper right hand corner of the login screen, then choose "MetaMask" and you will be asked to set up a new password during the process.
 
-![](../../../.gitbook/assets/keplr-liker-id-01-en.png)
+![](<../../../.gitbook/assets/Keplr Liker ID 01-en.png>)
 
-![](../../../.gitbook/assets/keplr-liker-id-02-en.png)
+![](<../../../.gitbook/assets/Keplr Liker ID 02-en.png>)
 
 ## Upgrade without a Liker ID
 

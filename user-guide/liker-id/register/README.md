@@ -32,7 +32,7 @@ After clicking "Register", the system will try to register with your social medi
 
 ![](../../../.gitbook/assets/IMG\_2340.png)
 
-![](<../../../.gitbook/assets/img\_2341 (1).png>)
+![](../../../.gitbook/assets/img\_2341.png)
 
 ### Step 4: Create your Liker ID
 

@@ -47,7 +47,7 @@ Liker Land Chrome / Brave / Firefox Extension for bookmarking any web page to yo
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M0XdKCUKxBBh31p83aF%2F-M0XgZRCTUOiwQgJ4B6Y%2FLiker%20Land%20Firefox%201.jpg?alt=media\&token=ddaf37c2-f2e3-4aa5-9d0e-9b9346faf7f9)
 
-![](../../../.gitbook/assets/liker-land-firefox-2.jpg)
+![](<../../../.gitbook/assets/Liker Land Firefox 2.jpg>)
 
 Step 1: Go to Chrome / Firefox web store and add the extension to your browser.
 
@@ -59,7 +59,7 @@ Step 1: Go to Chrome / Firefox web store and add the extension to your browser.
 
 Step 2: When reading an article on a website, click on the icon to bookmark the article.
 
-![](../../../.gitbook/assets/liker-land-firefox-3.png)
+![](<../../../.gitbook/assets/Liker Land Firefox 3.png>)
 
 ## Check out the Readling List
 

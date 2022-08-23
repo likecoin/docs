@@ -130,7 +130,7 @@ Icons
 
 #### AD70\_Validators
 
-![](../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
+![](<../.gitbook/assets/LikeCoin\_AD70\_Validators-01 (1).png>)
 
 #### AD70\_Genesis
 

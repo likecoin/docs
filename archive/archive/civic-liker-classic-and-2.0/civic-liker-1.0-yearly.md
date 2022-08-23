@@ -16,7 +16,7 @@ Please note if you subscribe to the Civic Liker Classic yearly plan, you are not
 
 Go to URL [https://liker.land/civic/register/likepay](https://liker.land/civic/register/likepay) and pay 15,000 LikeCoin to start the subscription.
 
-![](../../../.gitbook/assets/15000likecoin-civicliker-en.png)
+![](../../../.gitbook/assets/15000LikeCoin-CivicLiker-en.png)
 
 ## **Subscribe to Civic Liker Classic yearly plan by Payme or FPS**
 

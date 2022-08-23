@@ -4,7 +4,7 @@ description: Decentralized Liker ID sign up and LikeCoin management
 
 # Register a Liker ID with Keplr
 
-Users can register a Liker ID with [Keplr](../../general-guides/wallet/keplr.md) and manage their LikeCoin in a more decentralized way and keep their own private key at the same time. Choose "Sign in with your wallet" on the top right corner of the login screen to sign up/login by Keplr. Note that users can choose either method ( Keplr or General Registration aka Authcore ) for Liker ID registration, the two login methods cannot be interchanged for a given Liker ID once it has been confirmed.
+Users can register a Liker ID with [Keplr](../../general-guides/wallet/keplr/) and manage their LikeCoin in a more decentralized way and keep their own private key at the same time. Choose "Sign in with your wallet" on the top right corner of the login screen to sign up/login by Keplr. Note that users can choose either method ( Keplr or General Registration aka Authcore ) for Liker ID registration, the two login methods cannot be interchanged for a given Liker ID once it has been confirmed.
 
 ## **Comparison**
 
@@ -39,7 +39,7 @@ Users can register a Liker ID with [Keplr](../../general-guides/wallet/keplr.md)
 
 On [Liker Land web](https://liker.land/), click "Sign up".
 
-![](../../.gitbook/assets/keplr-liker-id-00-en.png)
+![](<../../.gitbook/assets/Keplr Liker ID 00-en.png>)
 
 Or go to [like.co/in](https://like.co/) and choose "Create account".
 
@@ -47,15 +47,15 @@ Or go to [like.co/in](https://like.co/) and choose "Create account".
 
 On the top right hand corner, click "Sign in with your wallet".
 
-![](../../.gitbook/assets/keplr-liker-id-01-en.png)
+![](<../../.gitbook/assets/Keplr Liker ID 01-en.png>)
 
 Click "Sign up with Keplr".
 
-![](../../.gitbook/assets/keplr-liker-id-02-en.png)
+![](<../../.gitbook/assets/Keplr Liker ID 02-en.png>)
 
 Click "Accept".
 
-![](../../.gitbook/assets/keplr-liker-id-03.png)
+![](<../../.gitbook/assets/Keplr Liker ID 03.png>)
 
 The Keplr wallet LikeCoin chain Add Request pop-up, click "Approve".
 
@@ -67,7 +67,7 @@ Now you have to authorize the connection between Keplr and LikeCoin: On Requesti
 
 On the welcome screen, fill in your desired Liker ID and email address, then click "Confirm".
 
-![](../../.gitbook/assets/keplr-liker-id-05.png)
+![](<../../.gitbook/assets/Keplr Liker ID 05.png>)
 
 Liker ID is created and will go back to the Liker Land web.
 
@@ -81,17 +81,17 @@ You cannot change the Liker ID nor the login method once it has been created. If
 
 On Liker Land Web [settings](https://like.co/in/settings), your LikeCoin wallet address is the same as the Keplr address, which means that you have successfully registered your Liker ID with Keplr.
 
-![](../../.gitbook/assets/keplr-liker-id-06-en.png)
+![](<../../.gitbook/assets/Keplr Liker ID 06-en.png>)
 
 ### Step 4: User Keplr to Login Liker Land
 
 After registration, if you would like to login Liker Land again, please login Keplr and visit [Liker Land web](https://liker.land/), then click "Sign in".
 
-![](../../.gitbook/assets/keplr-liker-id-00-en.png)
+![](<../../.gitbook/assets/Keplr Liker ID 00-en.png>)
 
 On the top right hand corner, click "Sign in with your wallet".
 
-![](../../.gitbook/assets/keplr-liker-id-01-en.png)
+![](<../../.gitbook/assets/Keplr Liker ID 01-en.png>)
 
 Click "Sign in with Keplr".
 
@@ -111,6 +111,6 @@ If you have more than one Liker IDs that registered by Authcore and Keplr, pleas
 
 ## Deposit LikeCoin to Keplr
 
-{% content-ref url="../../general-guides/wallet/keplr.md" %}
-[keplr.md](../../general-guides/wallet/keplr.md)
+{% content-ref url="../../general-guides/wallet/keplr/" %}
+[keplr](../../general-guides/wallet/keplr/)
 {% endcontent-ref %}

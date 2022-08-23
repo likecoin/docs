@@ -30,7 +30,7 @@ Similar to the workflow of traditional publishing, i.e., securing content author
 
 ![](.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (93).png>)
 
 ### **LikeCoin Mission**
 

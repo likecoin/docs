@@ -4,7 +4,7 @@ description: How to collect Writing NFT?
 
 # Collect Writing NFT
 
-Collect LikeCoin Writing NFT is simple and easy. Please login your [Keplr Wallet](../wallet/keplr.md) or [Liker Land app](../../user-guide/liker-land/download.md) before purchasing.
+Collect LikeCoin Writing NFT is simple and easy. Please login your [Keplr Wallet](../wallet/keplr/) or [Liker Land app](../../user-guide/liker-land/download.md) before purchasing.
 
 ## Step 1: Start Collecting
 

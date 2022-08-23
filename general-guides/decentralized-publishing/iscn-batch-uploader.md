@@ -16,7 +16,7 @@ description: How to register large amount of ISCN records in one go
 
 This step does not require technical background, but it is time-consuming. Below is an example of the [300 Tang Poems](https://github.com/edmondyu/TangPoems300/blob/main/TangPoems300.csv) data file.
 
-![](../../.gitbook/assets/iscn-batch-uploader-01.png)
+![](<../../.gitbook/assets/iscn-batch-uploader 01.png>)
 
 The[ ISCN spec](https://iscn.io/) recommends fields defined according to [CreativeWork](https://schema.org/CreativeWork) type in schema.org. Most raw data’s fields do not comply with this standard in the first place. We are going to change the column headers in the CSV file to comply with the standard.
 
@@ -53,7 +53,7 @@ git clone https://github.com/likecoin/iscn-batch-uploader.git
 
 If you have git installed in your computer, you just need to run the above command in your terminal, under your selected working directory, to download [iscn-batch-uploader](https://github.com/likecoin/iscn-batch-uploader). If you do not have git ready, you can download the program zip file from GitHub directly (click the green “Code” button on the top right corner), uncompress the file to get the program directory.
 
-![](../../.gitbook/assets/iscn-batch-uploader-02.png)
+![](<../../.gitbook/assets/iscn-batch-uploader 02.png>)
 
 
 
@@ -75,7 +75,7 @@ config.COSMOS_MNEMONIC = ‘paint man cloud google winnie pool think hell imposi
 
 Copy the CSV data file that you want to register ISCN, in our demo “TangPoem300.csv”, to the iscn-batch-uploader directory.
 
-![](../../.gitbook/assets/iscn-batch-uploader-03.png)
+![](<../../.gitbook/assets/iscn-batch-uploader 03.png>)
 
 
 
@@ -93,7 +93,7 @@ node index.js [your csv filename]
 node index.js TangPoems300.csv
 ```
 
-![](../../.gitbook/assets/iscn-batch-uploader-04.gif)
+![](<../../.gitbook/assets/iscn-batch-uploader 04.gif>)
 
 Registering 300+ ISCN records costs less than 1 LIKE?! It’s a really good deal. Try it out now.
 
@@ -117,11 +117,11 @@ iscn://likecoin-chain/9MewrmZqHT55nJLtW7EGqo8szOwKtp42AmhKyhWrImw/1
 
 in app.like.co to view the poem registry.
 
-![ISCN ID iscn://likecoin-chain/gYfyLhuE941XFQFW\_YMGnoxvx2nB3Y\_CBdqreCUmyKo/1](../../.gitbook/assets/iscn-batch-uploader-05.png)
+![ISCN ID iscn://likecoin-chain/gYfyLhuE941XFQFW\_YMGnoxvx2nB3Y\_CBdqreCUmyKo/1](<../../.gitbook/assets/iscn-batch-uploader 05.png>)
 
 You can check all the registered ISCN records in app.like.co. Login (by Keplr) with the wallet that you have filled the seed words into the config file of iscn-batch-uploader, click “Your Publishing” and check your registration. Only the first 100 records can be displayed in app.like.co however.
 
-![](../../.gitbook/assets/iscn-batch-uploader-06.png)
+![](<../../.gitbook/assets/iscn-batch-uploader 06.png>)
 
 ## Advance: Updating ISCN versions
 

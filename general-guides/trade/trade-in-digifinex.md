@@ -8,7 +8,7 @@ description: Buy and Sell LikeCoin with DigiFinex
 Reminder: Suggest to try with a small amount before making any large transactions
 {% endhint %}
 
-DigiFinex is a top 20+ exchange in CoinMarketCap, trade and exchange volume are on top level, providing LIKE/USDT trading pairs. If you do not have a DigiFinex account, please take a look at [this](registering-on-digifinex.md). Moreover, you have to download the [Keplr](../wallet/keplr.md) wallet or [Liker Land app](https://liker.land/getapp) to send/receive LikeCoin. The following instructions are based on DigiFinex web, you may also use [DigiFinex app](https://digifinex.zendesk.com/hc/en-us/articles/360000603862-How-to-download-APP) to trade LikeCoin.
+DigiFinex is a top 20+ exchange in CoinMarketCap, trade and exchange volume are on top level, providing LIKE/USDT trading pairs. If you do not have a DigiFinex account, please take a look at [this](registering-on-digifinex.md). Moreover, you have to download the [Keplr](../wallet/keplr/) wallet or [Liker Land app](https://liker.land/getapp) to send/receive LikeCoin. The following instructions are based on DigiFinex web, you may also use [DigiFinex app](https://digifinex.zendesk.com/hc/en-us/articles/360000603862-How-to-download-APP) to trade LikeCoin.
 
 ### Step 1: Create your LikeCoin wallet on DigiFinex
 
@@ -44,7 +44,7 @@ Go to the next page, click on the QR Code icon circled in red, the app will open
 
 Input the Tag/Memo number into the "Input memo (optional)" field (**Very Important!**)
 
-![](<../../.gitbook/assets/digifinex-tagmemo (1).png>)
+![](../../.gitbook/assets/digifinex-tagmemo.png)
 
 Input the amount of LikeCoin that you want to transfer, then click \[Confirm]
 
@@ -52,7 +52,7 @@ Input the amount of LikeCoin that you want to transfer, then click \[Confirm]
 
 Next step is to wait for DigiFinex to confirm the transfer.
 
-If you are using [Keplr](../wallet/keplr.md), please insert the memo in "Memo (Optional)" field.
+If you are using [Keplr](../wallet/keplr/), please insert the memo in "Memo (Optional)" field.
 
 ![](../../.gitbook/assets/keplr11.png)
 

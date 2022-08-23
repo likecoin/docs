@@ -1,6 +1,6 @@
 # For other full node operators
 
-For non-validator nodes, or for validator nodes who cannot join the upgrade process, you may setup a [full node](../likecoin-chain-node/setup-a-node.md) or replace your current full node after the upgrade is finished.
+For non-validator nodes, or for validator nodes who cannot join the upgrade process, you may setup a [full node](../likecoin-chain-node/setup-a-node/) or replace your current full node after the upgrade is finished.
 
 1.  Clone the software if you haven't already have one:
 
