@@ -41,7 +41,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button，出版 WordPress
 
 在畫面下方點擊「確認」鍵，即完成設定！
 
-![](../.gitbook/assets/wordpress-5.png)
+![](../.gitbook/assets/wordpress-5-en.png)
 
 完成以上步驟後，你的讚賞鍵便會自動出現在網頁貼文的下方了。
 

@@ -6,7 +6,7 @@ description: 讓自己的性格更特出
 
 登入 [Liker Land](https://liker.land/) 並訪問 [https://like.co/in/settings](https://like.co/in/settings)，你會見到以下畫面。請點擊紅圈位置修改你的頭像及顯示名稱。
 
-![](<../../.gitbook/assets/Screenshot 2021-11-19 at 2.15.36 PM.png>)
+![](<../../.gitbook/assets/Settings 01.png>)
 
 修改完成後，你的資訊會在 Liker Land 的各種使用場境中顯示：
 
@@ -24,7 +24,7 @@ description: 讓自己的性格更特出
 [creator](../creator/)
 {% endcontent-ref %}
 
-![](../../.gitbook/assets/avatar.png)
+![](<../../.gitbook/assets/Settings 02.png>)
 
 ### Liker Land 手機應用程式及網頁版
 
@@ -32,7 +32,7 @@ description: 讓自己的性格更特出
 [download.md](../liker-land/download.md)
 {% endcontent-ref %}
 
-![](../../.gitbook/assets/img\_2452.jpg)
+![](<../../.gitbook/assets/Settings 03.png>)
 
 ### LIKE pay
 
@@ -40,4 +40,4 @@ description: 讓自己的性格更特出
 [like-pay.md](../../guides/wallet/like-pay.md)
 {% endcontent-ref %}
 
-![](../../.gitbook/assets/img\_2453.jpg)
+![](<../../.gitbook/assets/Settings 04.png>)
