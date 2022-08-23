@@ -29,5 +29,3 @@ description: 爭取更多贊助
 {% content-ref url="portfolio-page.md" %}
 [portfolio-page.md](portfolio-page.md)
 {% endcontent-ref %}
-
-![](broken-reference)

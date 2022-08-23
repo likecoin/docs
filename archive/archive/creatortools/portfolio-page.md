@@ -19,8 +19,6 @@ description: 分享作品及閱讀足跡
 * 追蹤－點擊並追蹤[該用戶的 Super Like 推文](../../../user-guide/liker-land/superlike.md)
 * [LIKE pay](../../../guides/wallet/like-pay.md)－直接轉帳 LikeCoin 予該用戶
 
-![](broken-reference)
-
 ## 作品
 
 假若創作者曾 [Super Like 自己的文章](../../../user-guide/liker-land/superlike.md)均會展示於此頁。創作者需要[成為讚賞公民](../../../user-guide/civic-liker/)方可 Super Like 自己的文章。留意為自己的作品 Super Like 並不能獲得分配創作基金。
