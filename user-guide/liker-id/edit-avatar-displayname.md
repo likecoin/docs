@@ -9,7 +9,7 @@ Login [Liker Land](https://liker.land/) and visit [https://like.co/in/settings](
 
 Your name and avatar will appear in various Liker Land scenarios:
 
-![](<../../.gitbook/assets/Screenshot 2021-11-19 at 2.15.36 PM.png>)
+![](<../../.gitbook/assets/Settings 01-en.png>)
 
 ### NFT Portfolio
 
@@ -25,7 +25,7 @@ Your name and avatar will appear in various Liker Land scenarios:
 [creator](../creator/)
 {% endcontent-ref %}
 
-![](../../.gitbook/assets/avatar.png)
+![](<../../.gitbook/assets/Settings 02.png>)
 
 ### Liker Land app and web
 
@@ -33,7 +33,7 @@ Your name and avatar will appear in various Liker Land scenarios:
 [download.md](../liker-land/download.md)
 {% endcontent-ref %}
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJwVJtgYRij9lbzkTP%2F-MDJxZmmtXywRtonx1-U%2Fimg\_2452.jpg?alt=media\&token=0b156d94-f407-4711-83ce-948d342c7892)
+![](<../../.gitbook/assets/Settings 03.png>)
 
 ### LIKE pay
 
@@ -41,4 +41,4 @@ Your name and avatar will appear in various Liker Land scenarios:
 [like-pay.md](../../general-guides/wallet/like-pay.md)
 {% endcontent-ref %}
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M0wFlrQDwJgggiEM\_rl%2F-M1UMYC6AP2gocep0YVW%2FIMG\_2453.jpg?alt=media\&token=c997d816-61a7-4bfa-a1a1-f319227fa636)
+![](<../../.gitbook/assets/Settings 04-en.png>)
