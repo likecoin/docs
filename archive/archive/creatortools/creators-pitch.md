@@ -27,5 +27,3 @@ Step 4: Your creator pitch will appear in various Liker Land scenarios:
 {% content-ref url="portfolio-page.md" %}
 [portfolio-page.md](portfolio-page.md)
 {% endcontent-ref %}
-
-![](broken-reference)

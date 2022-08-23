@@ -19,8 +19,6 @@ The left hand side of the Portfolio Page displays information of the user, inclu
 * Follow - Click and follow the user
 * [LIKE Pay](../../../developer/like-pay/)－Transfer LikeCoin to the user
 
-![](broken-reference)
-
 ## Works
 
 If the content creator [Super Liked his/her own works](../../../user-guide/liker-land/superlike.md), they will be displayed here. Content creators have to [be a Civic Liker](../../../user-guide/civic-liker/) to Super Liker their own work and this action cannot earn LikeCoin from creators fund.
