@@ -32,7 +32,7 @@ DigiFinex has a minimum deposit amount of **100 LikeCoin**, **a single deposit w
 
 Open the [Liker Land app](https://liker.land/getapp), click on "My Wallet. Then, click on the \[Send] button (circled in red below)
 
-![On Liker Land app select \[Send\] (circled in red)](../../.gitbook/assets/bitasset-trade-6.png)
+![On Liker Land app select \[Send\] (circled in red)](../../.gitbook/assets/like-pay-1-en.png)
 
 Go to the next page, click on the QR Code icon circled in red, the app will open camera mode for you to scan the QR Code, please scan the QRCode that you have on Step 1, cause you have to transfer LikeCon to DigiFinex
 
