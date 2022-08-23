@@ -34,43 +34,43 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 登入後，到左手邊菜單選擇「Proposals」顯示所有議案，點選你需要投票的議案。
 
-![](../../.gitbook/assets/direct-vote-02.png)
+![](<../../.gitbook/assets/direct vote 02.png>)
 
 ### &#xD;步驟四：進入議案頁面
 
 進入議案頁面出現議案內容、現時投票情況、有誰投過票等。留意只有驗證人投票才會顯示頭像。
 
-![](../../.gitbook/assets/direct-vote-03.png)
+![](<../../.gitbook/assets/direct vote 03.png>)
 
 ### 步驟五：開始投票
 
 點選右上角的「Vote」，然後在頁面右下角出現&#x20;Yes（支持）、No（反對）、No with Veto（強烈反對）、Abstain（棄權）四個投票選項。選擇其中一項後點擊「Next」。
 
-![](../../.gitbook/assets/direct-vote-04.png)
+![](<../../.gitbook/assets/direct vote 04.png>)
 
 投票需要手續費，查看並同意後再點擊「Next」。
 
 
 
-![](../../.gitbook/assets/direct-vote-05.png)
+![](<../../.gitbook/assets/direct vote 05.png>)
 
 系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點擊「Send」。
 
-![](../../.gitbook/assets/direct-vote-06.png)
+![](<../../.gitbook/assets/direct vote 06.png>)
 
 完成確認後系統顯示指令下達，請等待投票完成並不要關掉這個畫面。
 
-![](../../.gitbook/assets/direct-vote-07.png)
+![](<../../.gitbook/assets/direct vote 07.png>)
 
 投票成功。
 
-![](../../.gitbook/assets/direct-vote-08.png)
+![](<../../.gitbook/assets/direct vote 08.png>)
 
 ### &#xD;步驟六：查看投票紀錄
 
 到左手邊菜單選擇「Transactions」會看到以往投票紀錄。
 
-![](../../.gitbook/assets/direct-vote-09.png)
+![](<../../.gitbook/assets/direct vote 09.png>)
 
 {% hint style="warning" %}
 如持份者重覆投票予同一議案，將以最後一次投票的選擇為依歸。

@@ -4,7 +4,7 @@ description: Web3 去中心化 Twitter
 
 # depub.space
 
-[depub.space](https://depub.space/) 是 Web3 去中心化 Twitter，只需要付出少量 LikeCoin 就可直接將文字及圖片 “DePub”（去中心出版）至 IPFS 及區塊鏈，非常方便。用戶可以使用 [Keplr](../../guides/wallet/keplr.md) 錢包或以 [Liker Land app](../liker-land/download.md) 經 Wallet Connect 接駁 depub.space 發文。
+[depub.space](https://depub.space/) 是 Web3 去中心化 Twitter，只需要付出少量 LikeCoin 就可直接將文字及圖片 “DePub”（去中心出版）至 IPFS 及區塊鏈，非常方便。用戶可以使用 [Keplr](../../guides/wallet/keplr/) 錢包或以 [Liker Land app](../liker-land/download.md) 經 Wallet Connect 接駁 depub.space 發文。
 
 使用 depub.space 無需註冊帳號或留下任何個人資料，只認錢包地址不認人。此外，depub.space 是一個「無狀態」(stateless) 的服務，減少用戶留在網絡上的資訊，「預設隱私」(privacy by default) 。 depub.space 預設所有內容全在鏈上，作品一經出版到區塊鏈，便永留記錄。
 
@@ -12,7 +12,7 @@ description: Web3 去中心化 Twitter
 
 ### 步驟一
 
-請先登入 [Keplr](../../guides/wallet/keplr.md) 錢包，並到 [depub.space](https://depub.space/) 網站左下角點「Connect Wallet」。
+請先登入 [Keplr](../../guides/wallet/keplr/) 錢包，並到 [depub.space](https://depub.space/) 網站左下角點「Connect Wallet」。
 
 ![](<../../.gitbook/assets/depub.space 1.png>)
 
@@ -20,7 +20,7 @@ description: Web3 去中心化 Twitter
 
 點「Keplr Wallet」後彈出視窗要求連結，點「Approve」。
 
-![](<../../.gitbook/assets/depub.SPACE 02.png>) ![](<../../.gitbook/assets/depub.SPACE 03-K.png>)
+![](<../../.gitbook/assets/depub.space 2.png>) ![](<../../.gitbook/assets/depub.space 2-K.png>)
 
 ### 步驟三
 
@@ -60,13 +60,13 @@ description: Web3 去中心化 Twitter
 
 點「WalletConnect」後出現二維碼。
 
-![](<../../.gitbook/assets/depub.SPACE 02.png>) ![](<../../.gitbook/assets/depub.SPACE 03.png>)
+![](<../../.gitbook/assets/depub.space 2.png>) ![](<../../.gitbook/assets/depub.SPACE wc 3.png>)
 
 ### 步驟三
 
 在 [Liker Land 手機應用程式](../liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄步驟二的二維碼。
 
-![](<../../.gitbook/assets/depub.SPACE 04.png>)
+![](<../../.gitbook/assets/depub.SPACE wc 4.png>)
 
 或於設定點「WalletConnect」再點「New connection」。並掃瞄步驟二的二維碼。
 

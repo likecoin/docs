@@ -5,7 +5,7 @@ description: 贊助創作者方法非常簡單
 # 如何訂閱讚賞公民
 
 {% hint style="danger" %}
-2022/06/14 存檔。資訊已過期，請參看新條目 [如何成為讚賞公民](<../../../user-guide/civic-liker/be-a-civic-liker (1).md>)
+2022/06/14 存檔。資訊已過期，請參看新條目 [如何成為讚賞公民](../../../user-guide/civic-liker/be-a-civic-liker.md)
 {% endhint %}
 
 成為讚賞公民前請先 [註冊 Liker ID](../../../user-guide/liker-id/)。
@@ -67,17 +67,17 @@ description: 贊助創作者方法非常簡單
 
 登入 [Liker Land 網頁版](https://liker.land/)，在右手邊的選單選擇[讚賞公民](https://liker.land/civic/dashboard)，即可管理付款方法和查看付款紀錄。你也可以查看你正在支持的作者清單並編輯每月支持作者的金額。在已支持的作者底下點擊「編輯」。
 
-![](../../../.gitbook/assets/civic-liker-menu.png)
+![](<../../../.gitbook/assets/Civic Liker Menu.png>)
 
 ![](../../../.gitbook/assets/register-civic-liker-8.png)
 
 選擇新的支持金額並點擊「下一步」。
 
-![](../../../.gitbook/assets/register-civic-liker-9a.png)
+![](../../../.gitbook/assets/register-civic-liker-9A.png)
 
 再點擊「確認」即可完成修改。
 
-![](../../../.gitbook/assets/register-civic-liker-9b.png)
+![](../../../.gitbook/assets/register-civic-liker-9B.png)
 
 留意所作更改將於下一個付款日期方能生效，已付的金額將不能更改用途也不會退還。
 
@@ -91,21 +91,21 @@ description: 贊助創作者方法非常簡單
 
 到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「讚賞公民」。
 
-![](../../../.gitbook/assets/civic-liker-menu.png)
+![](<../../../.gitbook/assets/Civic Liker Menu.png>)
 
 在「你正在支持」的 Civic Liker Classic 點擊「立即訂閱」。
 
-![](../../../.gitbook/assets/subscribe-civic-liker-classic-01.png)
+![](<../../../.gitbook/assets/Subscribe Civic Liker Classic-01.png>)
 
 ### 步驟二：確認訂閱
 
 點擊「立即訂閱」。
 
-![](../../../.gitbook/assets/subscribe-civic-liker-classic-02.png)
+![](<../../../.gitbook/assets/Subscribe Civic Liker Classic-02.png>)
 
 再點擊「確認」。
 
-![](../../../.gitbook/assets/subscribe-civic-liker-classic-03.png)
+![](<../../../.gitbook/assets/Subscribe Civic Liker Classic-03.png>)
 
 ### 步驟三：填寫信用卡資料&#xD;
 
@@ -115,4 +115,4 @@ description: 贊助創作者方法非常簡單
 
 「你正在支持」顯示「已訂閱」Civic Liker Classic。
 
-![](../../../.gitbook/assets/subscribe-civic-liker-classic-04.png)
+![](<../../../.gitbook/assets/Subscribe Civic Liker Classic-04.png>)

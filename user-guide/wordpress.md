@@ -29,7 +29,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button，出版 WordPress
 
 步驟四：安裝完成後，你會發現在左方的菜單中多了一個 "LikeCoin" 的選項。恭喜你，你已經完成安裝了！
 
-![](<../.gitbook/assets/wordpress-3 (1).png>)
+![](../.gitbook/assets/wordpress-3.png)
 
 ## 設定 LikeCoin 外掛 <a href="#setting" id="setting"></a>
 

@@ -29,7 +29,7 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 * 輸入兌換數量後，系統會立即在「獲得」欄顯示出能兌到的幣種數量。若你覺得可以，點下方的「閃兌」鍵，交易便會進行，兌得的款項會立即轉入你的 Liquid 戶口
 * 你也可反過來在下方的「獲得」欄先輸入欲獲得的幣種數目，系統會在上方的「兌換」欄顯示你需要賣出的幣種數量
 
-![](<../../../.gitbook/assets/quick-exchange-2 (1).png>)
+![](../../../.gitbook/assets/quick-exchange-2.png)
 
 ### 以信用卡買入 LikeCoin <a href="#bylikecoinwithcreditcard" id="bylikecoinwithcreditcard"></a>
 
@@ -41,7 +41,7 @@ description: Liquid 閃兌服務，兌換 LikeCoin 快捷簡便
 
 點擊 "Buy with VISA" 後，系統會要求你填寫信用卡資料，然後付款。
 
-![](<../../../.gitbook/assets/quick-exchange-4 (1).png>)
+![](../../../.gitbook/assets/quick-exchange-4.png)
 
 #### Liquid 官方教學
 

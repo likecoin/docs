@@ -55,7 +55,7 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 | 倫敦     | 11:00:00 | BST    | UTC+1      |
 | 多倫多    | 06:00:00 | EDT    | UTC-4      |
 
-![](../../.gitbook/assets/likecoin\_ad70\_validators-01.png)
+![](../../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
 
 ## 常規會議 <a href="#monthly" id="monthly"></a>
 

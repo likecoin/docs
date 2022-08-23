@@ -6,7 +6,7 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 ![](../../.gitbook/assets/LikeCoin\_AD110\_CLWeb3\_Banner1.png)
 
-### 【[成為讚賞公民](<be-a-civic-liker (1).md>)】
+### 【[成為讚賞公民](be-a-civic-liker.md)】
 
 讚賞公民是一場回饋優秀內容的運動，讓讀者化讚為賞，回饋創作。
 
@@ -26,7 +26,7 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 用戶可隨時取回已委託的 LikeCoin 本金（冷卻期 21 天）。
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (35).png>)
 
 ### 按讚分配「創作基金」&#xD;
 
@@ -70,6 +70,6 @@ _\*創作者收到讚賞幣需自行兌換成當地貨幣。_
 [faq.md](faq.md)
 {% endcontent-ref %}
 
-### 【[成為讚賞公民](<be-a-civic-liker (1).md>)】
+### 【[成為讚賞公民](be-a-civic-liker.md)】
 
-![](../../.gitbook/assets/civic-liker.png)
+![](<../../.gitbook/assets/Civic Liker.png>)

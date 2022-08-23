@@ -8,7 +8,7 @@ description: Facebook 已經可以按讚啦，為甚麼還要多搞一個 LikeCo
 2022/06/28 存檔。資訊已過期。
 {% endhint %}
 
-![](../../../.gitbook/assets/likecoin\_ad72\_appstore\_og\_ios\_android.png)
+![](../../../.gitbook/assets/LikeCoin\_AD72\_AppStore\_OG\_ios\_android.png)
 
 Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢包、護照等更項功能於一身；也是讚者與創作者溝通的橋樑。
 

@@ -10,13 +10,12 @@ description: 如何在 illustBuy 同人創作平台中加入 LikeCoin button
 
 點選「帳戶設定」，並在 Liker ID 欄內輸入你的 Liker ID，再點擊「儲存」
 
-![](../../../.gitbook/assets/illustbuy-1.png)
+![](<../../../.gitbook/assets/illustBuy 1.png>)
 
-![](../../../.gitbook/assets/illustbuy-2.png)
+![](<../../../.gitbook/assets/illustBuy 2.png>)
 
 以後你發佈的每篇作品都會自動顯示 LikeCoin button
 
 ### 參考文章
 
 > [如何透過讚賞鍵賺取收入？](https://illustbuy.com/likecoin)
-

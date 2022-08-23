@@ -82,7 +82,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 掃瞄實名認證人的人臉信息，提交後實時完成審核
 
-![](../../.gitbook/assets/shi-ming-ren-zheng-yuan-tu-560-tu-.jpg)
+![](../../.gitbook/assets/实名认证原图5-60%图.jpg)
 
 如審核失敗請參考系統告知失敗原因，重新提交實名認證或[聯絡客戶服務](https://digifinex.zendesk.com/hc/zh-cn/articles/360000525241-%E5%A6%82%E4%BD%95%E5%AF%BB%E6%B1%82D%E7%BD%91-Digifinex-vip-%E5%AE%A2%E6%9C%8D%E5%B8%AE%E5%8A%A9)申請人工審核（申請人工審核選項會在認證失敗後自動彈出）
 

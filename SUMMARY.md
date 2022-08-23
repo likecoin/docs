@@ -29,8 +29,8 @@
   * [ISCN Wallet](guides/decentralized-publishing/iscn-wallet.md)
 * [水龍頭](guides/faucet.md)
 * [錢包](guides/wallet/README.md)
-  * [Keplr](guides/wallet/keplr.md)
-    * [安裝 Keplr 瀏覽器擴充功能](guides/wallet/keplr/an-zhuang-keplr-liu-lan-qi-cha-jian.md)
+  * [Keplr](guides/wallet/keplr/README.md)
+    * [安裝 Keplr 瀏覽器擴充功能](guides/wallet/keplr/installation.md)
     * [在 Keplr 導入錢包](guides/wallet/keplr/import-account.md)
   * [Cosmostation](guides/wallet/cosmostation/README.md)
     * [安裝 Cosmostation 瀏覽器擴充功能](guides/wallet/cosmostation/installation.md)
@@ -52,8 +52,8 @@
   * [在 DigiFinex 交易](guides/trade/trade-in-digifinex.md)
   * [註冊及在 MyEthShop 交易](guides/trade/registering-and-trade-in-myethshop.md)
   * [場外交易](guides/trade/otc.md)
-* [流動性](guides/liquidity-mining/README.md)
-  * [Osmosis](guides/liquidity-mining/osmosis.md)
+* [流動性](guides/liquidity/README.md)
+  * [Osmosis](guides/liquidity/osmosis.md)
 * [委託](guides/stake/README.md)
   * [委託 LikeCoin](guides/stake/delegation-of-likecoin.md)
   * [取回委託 LikeCoin](guides/stake/undelegation-of-likecoin.md)
@@ -80,7 +80,7 @@
 * [depub.space](user-guide/depub.space/README.md)
   * [從 LikeCoin Discord 推文到 depub.space](user-guide/depub.space/from-likecoin-discord-to-depub.space.md)
 * [讚賞公民](user-guide/civic-liker/README.md)
-  * [如何成為讚賞公民](<user-guide/civic-liker/be-a-civic-liker (1).md>)
+  * [如何成為讚賞公民](user-guide/civic-liker/be-a-civic-liker.md)
   * [讚賞公民 Dashboard](user-guide/civic-liker/dashboard.md)
   * [常見問題](user-guide/civic-liker/faq.md)
   * [創作基金](user-guide/civic-liker/creators-fund.md)
@@ -123,7 +123,7 @@
 
 ## 🔬  開發者資源 <a href="#developer" id="developer"></a>
 
-* [開發者簡介](developer-resources/developer.md)
+* [開發者簡介](developer/introduction.md)
 
 ## 👥 驗証人 <a href="#validator" id="validator"></a>
 

@@ -4,7 +4,7 @@ description: LikeCoin DAO 有過甚麼議案？
 
 # 歷史議案
 
-![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
+![](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
 
 ## 議案 #53 跟進議案 51 - 存入 15,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
 

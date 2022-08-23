@@ -61,7 +61,7 @@ _LikeCoin DAO_ 成立後，第一批共 7 組承擔重任的 _驗證人_ 是：
 * [Matters Lab](https://matters.news)
 * [GLOs](https://www.glos.world/) x [UDomain](https://www.udomain.com/)
 
-![LikeCoin chain 首批驗證人](../.gitbook/assets/likecoin\_ad70\_validators-01.png)
+![LikeCoin chain 首批驗證人](../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
 
 ## 機制 <a href="#d993" id="d993"></a>
 

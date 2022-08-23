@@ -16,7 +16,7 @@ description: 去中心交易所，無需註冊，立即交易
 
 ![](<../../.gitbook/assets/Osmosis 01.png>)
 
-在 Connect Wallet 選「[Keplr Wallet](../wallet/keplr.md)」。
+在 Connect Wallet 選「[Keplr Wallet](../wallet/keplr/)」。
 
 ![](<../../.gitbook/assets/Osmosis 02.png>)
 

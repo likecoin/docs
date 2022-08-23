@@ -20,7 +20,7 @@ description: 第一個 ISCN 的概念示範應用
 
 ![](<../../.gitbook/assets/ISCN 1.png>)
 
-可使用 [Keplr 錢包](../wallet/keplr.md) 或 [Liker Land app 配合 Liker ID](../../user-guide/liker-id/register/) 註冊 ISCN。
+可使用 [Keplr 錢包](../wallet/keplr/) 或 [Liker Land app 配合 Liker ID](../../user-guide/liker-id/register/) 註冊 ISCN。
 
 ![](<../../.gitbook/assets/ISCN 1 Login 1.png>)
 
@@ -34,7 +34,7 @@ description: 第一個 ISCN 的概念示範應用
 
 在 [Liker Land 手機應用程式](../../user-guide/liker-id/register/)點二維碼圖示調用鏡頭，並掃瞄二維碼。
 
-![](<../../.gitbook/assets/depub.SPACE 04.png>)
+![](<../../.gitbook/assets/depub.SPACE wc 4.png>)
 
 或於設定點「WalletConnect」再點「New connection」。並掃瞄二維碼。
 

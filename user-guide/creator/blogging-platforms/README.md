@@ -26,11 +26,11 @@ description: 我不懂自架網站，有甚麼第三方寫作平台直接支援 
 
 步驟一：用戶登入方格子帳號，在「帳號設定」功能點選連結 Liker ID
 
-![](../../../.gitbook/assets/vocus-1.png)
+![](<../../../.gitbook/assets/Vocus 1.png>)
 
 步驟二：輸入你的 Liker ID 再點擊「儲存設定」
 
-![](../../../.gitbook/assets/vocus-2.png)
+![](<../../../.gitbook/assets/Vocus 2.png>)
 
 系統會自動在每篇文章下方預設加入讚賞鍵。​
 
@@ -47,15 +47,15 @@ description: 我不懂自架網站，有甚麼第三方寫作平台直接支援 
 
 登入痞客邦，前往痞客邦[應用市集 App Market](https://appmarket.pixnet.tw/#!/addons) 安裝 [LikeCoin For 痞客邦 APP](https://appmarket.pixnet.tw/#!/addon/1331)，點擊「安裝」
 
-![](../../../.gitbook/assets/pixnet-1.png)
+![](<../../../.gitbook/assets/Pixnet 1.png>)
 
 安裝後，點擊「前往設定」
 
-![](../../../.gitbook/assets/pixnet-2.png)
+![](<../../../.gitbook/assets/Pixnet 2.png>)
 
 輸入你的 Liker ID，再點擊「送出」，即可完成設定，此後每篇痞客邦文章都會自動加入讚賞鍵。
 
-![](../../../.gitbook/assets/pixnet-3.png)
+![](<../../../.gitbook/assets/Pixnet 3.png>)
 
 你亦可以隨時進入痞客邦應用市集 App Market ，點擊「已安裝功能」，隨時更改你的設定。
 

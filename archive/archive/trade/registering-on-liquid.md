@@ -18,7 +18,7 @@ description: 如何註冊 Liquid 交易所帳號
 
 請到 [Liquid.com 註冊帳號](https://www.liquid.com/sign-up/?affiliate=zlgAOAX564083)。過程中你只需填上簡單的資料，但由於需要實名認證，請填寫你的身份證明文件上的真實姓名 \[Legal First Name] \[Legal Last Name]
 
-![](../../../.gitbook/assets/liquid.png)
+![](../../../.gitbook/assets/Liquid.png)
 
 Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請點擊電郵中的鏈結，激活帳號。
 
@@ -57,7 +57,7 @@ Liquid 系統會立即發送一封驗證電郵到你的註冊電子郵箱。請�
 
 2\. 點擊上圖紅圈的位置，會進到以下頁面，要求你提交文件驗證身份。請點擊頁面下方的按鍵開始提交文件
 
-![](../../../.gitbook/assets/liquid-account-status.png)
+![](<../../../.gitbook/assets/liquid-account status.png>)
 
 3\. 你需要提交三份文件：
 

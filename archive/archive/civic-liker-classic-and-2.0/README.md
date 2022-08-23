@@ -8,7 +8,7 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 2022/06/14 存檔。資訊已過期，請參看新條目 [讚賞公民](../../../user-guide/civic-liker/)
 {% endhint %}
 
-![](../../../.gitbook/assets/likecoin\_ad98\_2point0-01.png)
+![](../../../.gitbook/assets/LikeCoin\_AD98\_2point0-01.png)
 
 ## [成為讚賞公民](be-a-civic-liker.md)
 
@@ -73,4 +73,4 @@ _\*每月到帳部分（部分支付方式如信用卡會收取手續費）會�
 
 
 
-![](../../../.gitbook/assets/civic-liker.png)
+![](<../../../.gitbook/assets/Civic Liker.png>)

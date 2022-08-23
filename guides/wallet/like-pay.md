@@ -26,7 +26,7 @@ description: 用 Liker Land 手機應用程式轉帳 LikeCoin，幾秒搞定
 
 Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款方的二維碼掃瞄。然後再按「下一步」。
 
-![](../../.gitbook/assets/img\_2158.png)
+![](../../.gitbook/assets/IMG\_2158.PNG)
 
 ### **步驟五**
 

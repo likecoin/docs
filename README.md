@@ -4,7 +4,7 @@ description: 有關 LikeCoin、去中心出版、及 LikeCoin DAO
 
 # LikeCoin - 去中心出版
 
-![](.gitbook/assets/likecoin\_presskit\_likecoin\_asset\_likecoinfeature.png)
+![](.gitbook/assets/LikeCoin\_presskit\_LikeCoin\_Asset\_LikeCoinFeature.png)
 
 ### LikeCoin 是什麼
 
@@ -26,7 +26,7 @@ NFT 可以是任何唯一的數位資料。一封電郵、一張照片、一個�
 
 ![](.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (3).png>)
 
 ### LikeCoin DAO
 

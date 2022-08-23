@@ -14,7 +14,7 @@ description: 爭取更多贊助
 
 步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「創作者」。
 
-![](../../../.gitbook/assets/civic-liker-menu.png)
+![](<../../../.gitbook/assets/Civic Liker Menu.png>)
 
 步驟二：在「給讀者的話」點擊「編輯」。
 

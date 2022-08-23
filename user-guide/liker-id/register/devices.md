@@ -12,13 +12,13 @@ description: 查看有哪些裝置登入過你的 Liker ID
 
 登入 [Liker Land](https://liker.land/) 並前住 [https://like.co/in/settings](https://like.co/in/settings)，到「Authcore 設定」的部份，點選「安全設定」；或於 Liker Land 手機應用程式選畫面右下角的帳戶頭像點擊「安全」，再點 「裝置」。
 
-![](../../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-1.png)
+![](../../../.gitbook/assets/管理登入裝置1.png)
 
 「管理裝置」顯示您目前已登入 Liker ID 的裝置，你可點選某一裝置直接「登出」，也可點擊「從所有其他裝置登出」直接登出所有裝置。
 
-![](../../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-2.png)
+![](../../../.gitbook/assets/管理登入裝置2.png)
 
-![](../../../.gitbook/assets/guan-li-deng-ru-zhuang-zhi-3.png)
+![](../../../.gitbook/assets/管理登入裝置3.png)
 
 {% hint style="warning" %}
 為確保 Liker ID 安全，如果裝置符合下列任一情況，請登出帳戶：

@@ -20,6 +20,6 @@ description: 查看 LikeCoin chain 明細
 
 瀏覽器彈出 Big Dipper 介面。你也可以使用複製（紅圈）功能記下你 Liker ID 對應的 Cosmos 錢包地址，再於桌機輸入地址（紅箭嘴）瀏覽錢包明細。
 
-![](../../.gitbook/assets/bigdipper-01.png)
+![](../../.gitbook/assets/BigDipper-01.png)
 
-![](../../.gitbook/assets/bigdipper-02.png)
+![](../../.gitbook/assets/BigDipper-02.png)

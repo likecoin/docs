@@ -46,19 +46,19 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 先從驗證人列表中選取欲取消委託的驗證人，已委託的驗證人在列表上呈綠色。點擊後進入驗證人畫面，在上方選項中選「轉移委託」。
 
-![](../../.gitbook/assets/img\_2329.jpg)
+![](../../.gitbook/assets/IMG\_2329.jpg)
 
 ### 步驟二：選擇新的驗證人
 
 應用程式會彈出驗證人列表。請選取欲轉移 LikeCoin 至哪位驗證人。
 
-![](../../.gitbook/assets/img\_2330.jpg)
+![](../../.gitbook/assets/IMG\_2330.jpg)
 
 ### 步驟三：確認轉移
 
 應用程式彈出轉移的細節，查核無誤後，點擊「確認」，並等待轉移過程完成，一般只花幾秒。
 
-![](../../.gitbook/assets/img\_2331.PNG)
+![](../../.gitbook/assets/IMG\_2331.PNG)
 
 ## 留意冷卻期
 
@@ -68,7 +68,7 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 留意：若你本來已有 LikeCoin 委託於新驗證人處，轉移完成後會連你原本已委託的 LikeCoin 一併被鎖定 21 天。請謹慎作出轉移委託的決定。
 {% endhint %}
 
-![](../../.gitbook/assets/img\_2332.jpg)
+![](../../.gitbook/assets/IMG\_2332.jpg)
 
 {% hint style="warning" %}
 留意轉移委託需要[手續費](../wallet/transaction-fee.md)。

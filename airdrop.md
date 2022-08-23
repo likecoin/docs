@@ -47,7 +47,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 點二維碼圖示調用鏡頭並進行掃瞄。
 
-![](<.gitbook/assets/depub.SPACE 04.png>)
+![](<.gitbook/assets/depub.SPACE wc 4.png>)
 
 彈出 ISCN App 視窗，點「允許」。
 
@@ -75,7 +75,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 #### Check your LIKE balance 查看 LIKE 餘額&#x20;
 
-完成此任務後查看你的 LikeCoin 餘額。 如果使用 Keplr，請嘗試在 [Osmosis](guides/liquidity-mining/osmosis.md) 上使用 LIKE 進行交易並為激勵流動性池作出貢獻。毌須 KYC。
+完成此任務後查看你的 LikeCoin 餘額。 如果使用 Keplr，請嘗試在 [Osmosis](guides/liquidity/osmosis.md) 上使用 LIKE 進行交易並為激勵流動性池作出貢獻。毌須 KYC。
 
 歡迎加入，Liker！
 

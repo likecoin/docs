@@ -36,7 +36,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 2. 進入驗證人頁面後，選「取回委託」
 3. 輸入要提取的金額，點「確認」確認
 
-![](../../.gitbook/assets/img\_2328.jpg)
+![](../../.gitbook/assets/IMG\_2328.jpg)
 
 ## 取回委託的注意事項
 

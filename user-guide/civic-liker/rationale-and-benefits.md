@@ -16,7 +16,7 @@ description: 讚賞公民專享
 [信仰生活互動坊‧塔冷通心靈書舍](https://www.facebook.com/talentum.livingfaith)： 9 折\
 [森記圖書公司](https://www.facebook.com/samkeebookco/)：85 折，二手書 7 折起
 
-![](../../.gitbook/assets/image-from-ios.jpg)
+![](<../../.gitbook/assets/Image from iOS.jpg>)
 
 ![](../../.gitbook/assets/84925728\_2846573142236045\_7338048532563099648\_n.jpg)
 

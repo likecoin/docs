@@ -44,9 +44,9 @@ description: 我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？
 
 Liker Land Chrome / Brave / Firefox 插件讓你為網頁加上書籤儲存，留待有空時細閱。
 
-![](../../../.gitbook/assets/liker-land-firefox-1.jpg)
+![](<../../../.gitbook/assets/Liker Land Firefox 1.jpg>)
 
-![](../../../.gitbook/assets/liker-land-firefox-2.jpg)
+![](<../../../.gitbook/assets/Liker Land Firefox 2.jpg>)
 
 步驟一：到 Chrome / Firefox 線上應用程式商店把 Liker Land 插件「加到 Chrome/Firefox」。
 
@@ -58,7 +58,7 @@ Liker Land Chrome / Brave / Firefox 插件讓你為網頁加上書籤儲存，�
 
 步驟二：在瀏覽器閱讀文章時，點擊圖示收藏文章。
 
-![](../../../.gitbook/assets/liker-land-firefox-3.png)
+![](<../../../.gitbook/assets/Liker Land Firefox 3.png>)
 
 ## 查看閱讀列表
 

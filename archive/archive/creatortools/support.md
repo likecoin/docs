@@ -14,7 +14,7 @@ description: 創作者的成績表
 \
 步驟一：到 [Liker Land 網頁版](https://liker.land/)登入，打開位於畫面右上角的菜單，選「[創作者](https://liker.land/creators/dashboard)」。
 
-![](../../../.gitbook/assets/civic-liker-menu.png)
+![](<../../../.gitbook/assets/Civic Liker Menu.png>)
 
 步驟二：你的每月訂閱收入、讚賞公民支持者清單、支持份額和贊助生效日期一覽無遺。
 

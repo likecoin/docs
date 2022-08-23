@@ -23,7 +23,7 @@ description: 分享作品及閱讀足跡
 
 假若創作者曾 [Super Like 自己的文章](../../../user-guide/liker-land/superlike.md)均會展示於此頁。創作者需要[成為讚賞公民](../../../user-guide/civic-liker/)方可 Super Like 自己的文章。留意為自己的作品 Super Like 並不能獲得分配創作基金。
 
-![](../../../.gitbook/assets/portfolio-page-1.png)
+![](<../../../.gitbook/assets/Portfolio Page 1.png>)
 
 ## 已 Super Like 內容
 

@@ -8,7 +8,7 @@ description: 在 DigiFinex 買賣 LikeCoin
 提示：進行任何大額交易前請先作少量嘗試
 {% endhint %}
 
-DigiFinex 是一所在 CoinMarketCap 排名 20+，交易及流通量均位列國際頂級的交易所，提供 LIKE/USDT 交易對。若你還未有 DigiFinex 帳號，[請參考這篇](registering-on-digifinex.md)。此外你也需要下載 [Keplr](../wallet/keplr.md) 錢包 或 [Liker Land 手機應用程式](https://liker.land/getapp)用來傳送/提取 LikeCoin。以下示範以 DigiFinex 網頁版為例，你亦可使用 [DigiFinex 手機應用程式](https://digifinex.zendesk.com/hc/zh-tw/articles/360000603862--%E5%AE%A2%E6%88%B6%E7%AB%AF%E4%B8%8B%E8%BC%89-%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BC%89D%E7%B6%B2APP)進行交易。
+DigiFinex 是一所在 CoinMarketCap 排名 20+，交易及流通量均位列國際頂級的交易所，提供 LIKE/USDT 交易對。若你還未有 DigiFinex 帳號，[請參考這篇](registering-on-digifinex.md)。此外你也需要下載 [Keplr](../wallet/keplr/) 錢包 或 [Liker Land 手機應用程式](https://liker.land/getapp)用來傳送/提取 LikeCoin。以下示範以 DigiFinex 網頁版為例，你亦可使用 [DigiFinex 手機應用程式](https://digifinex.zendesk.com/hc/zh-tw/articles/360000603862--%E5%AE%A2%E6%88%B6%E7%AB%AF%E4%B8%8B%E8%BC%89-%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BC%89D%E7%B6%B2APP)進行交易。
 
 ### 步驟一：開立 DigiFinex 帳戶的 LikeCoin 錢包收款地址
 
@@ -52,7 +52,7 @@ cosmos 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 
 接下來便要等 DigiFinex 確認收款了。
 
-使用 [Keplr](../wallet/keplr.md) 錢包，請於 Memo (Optional) 一欄貼上 Tag/Memo 號碼。
+使用 [Keplr](../wallet/keplr/) 錢包，請於 Memo (Optional) 一欄貼上 Tag/Memo 號碼。
 
 ![](../../.gitbook/assets/keplr11.png)
 

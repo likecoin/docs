@@ -4,7 +4,7 @@ description: LikeCoin 常見問題
 
 # LikeCoin 答客問
 
-![](.gitbook/assets/likecoin\_ad27\_small\_update-01.png)
+![](.gitbook/assets/LikeCoin\_AD27\_Small\_Update-01.png)
 
 ## [LikeCoin - 去中心出版](./)
 
@@ -30,7 +30,7 @@ description: LikeCoin 常見問題
 
 ## [錢包](guides/wallet/)
 
-* [有沒有去中心化的錢包可以提供？](guides/wallet/keplr.md)
+* [有沒有去中心化的錢包可以提供？](guides/wallet/keplr/)
 * [如何轉帳 LikeCoin？](guides/wallet/like-pay.md)
 * [LikeCoin 支援硬件錢包嗎？](guides/wallet/hardware-wallet.md)
 * [如何找到自己的錢包地址？](guides/wallet/wallet-address.md)
@@ -46,8 +46,8 @@ description: LikeCoin 常見問題
 
 ## [流動性挖礦](faq.md#undefined)
 
-* [如何在 Osmosis 進行流動性挖礦？](guides/liquidity-mining/osmosis.md)
-* [如何在 Osmosi 為 LikeCoin 提供流動性？](guides/liquidity-mining/osmosis.md)
+* [如何在 Osmosis 進行流動性挖礦？](guides/liquidity/osmosis.md)
+* [如何在 Osmosi 為 LikeCoin 提供流動性？](guides/liquidity/osmosis.md)
 
 ## [委託](guides/stake/)
 
@@ -83,7 +83,7 @@ description: LikeCoin 常見問題
 ### [Civic Liker](faq.md#civic-liker)
 
 * [為何要成為讚賞公民？有甚麼福利嗎？](user-guide/civic-liker/rationale-and-benefits.md)
-* [如何成為讚賞公民？](<user-guide/civic-liker/be-a-civic-liker (1).md>)
+* [如何成為讚賞公民？](user-guide/civic-liker/be-a-civic-liker.md)
 
 ### [Liker ID](user-guide/liker-id/)
 

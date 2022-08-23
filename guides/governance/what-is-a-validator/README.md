@@ -4,7 +4,7 @@ description: 驗證人 ( Validators ) 是甚麼？
 
 # 驗證人
 
-![](../../../.gitbook/assets/likecoin\_ad78\_postlist\_1213.png)
+![](../../../.gitbook/assets/LikeCoin\_AD78\_PostList\_1213.png)
 
 ## 銀行+立委 <a href="#bank-legco" id="bank-legco"></a>
 
