@@ -4,6 +4,10 @@ description: DEX, registration not required, immediate trade
 
 # Trade in Osmosis
 
+{% hint style="warning" %}
+Reminder: Suggest to try with a small amount before making any large transactions
+{% endhint %}
+
 On October 20, 2021, Likers can access LIKE in a permissionless and frictionless way with LikeCoin's first DEX listing of LIKE on Osmosis. For instance, swap LIKE to different listed tokens on Osmosis (or vice versa), including USD stablecoin — USDC. Registration is not required and no minimum deposit or withdrawal limit. Users can operate with their wallet all the way down, and experience decentralized trading.
 
 ### Step 1: Connect Osmosis
