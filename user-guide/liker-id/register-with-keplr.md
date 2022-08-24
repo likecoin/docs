@@ -24,7 +24,7 @@ Users can register a Liker ID with [Keplr](../../general-guides/wallet/keplr/) a
 | Can register [ISCN](../../general-guides/decentralized-publishing/app.like.co.md) and buy [Writing NFT](../../general-guides/writing-nft/)                                         | Can register [ISCN](../../general-guides/decentralized-publishing/app.like.co.md) and buy [Writing NFT](../../general-guides/writing-nft/)                                                |
 
 {% hint style="info" %}
-Users can manage LikeCoin with Cosmostation, but cannot register a Liker ID with Cosmostation at the current moment.
+Users can manage LikeCoin with [Cosmostation](../../general-guides/wallet/cosmostation/), but cannot register a Liker ID with Cosmostation at the current moment.
 {% endhint %}
 
 ## **How to register a Liker ID with Keplr**
