@@ -147,7 +147,7 @@
   * [Awards and Press Release](general-guides/on-the-news/press-release.md)
   * [Recommendations](general-guides/on-the-news/recommendations.md)
 
-## 💻  DApp <a href="#user-guide" id="user-guide"></a>
+## 💻 DApp <a href="#user-guide" id="user-guide"></a>
 
 * [WordPress](user-guide/wordpress.md)
 * [Liker Land](user-guide/liker-land/README.md)
@@ -192,9 +192,9 @@
     * [What is Authcore?](user-guide/liker-id/register/what-is-authcore.md)
   * [Edit Avatar and Name](user-guide/liker-id/edit-avatar-displayname.md)
 * [Content Creator Tools](user-guide/creatortools/README.md)
-  * [Rewards](user-guide/creatortools/rewards/README.md)
-    * [Reward Release Time](user-guide/creatortools/rewards/reward-release-time.md)
-    * [Cannot get reward?](user-guide/creatortools/rewards/cannot-get-reward.md)
+  * [Rewards](user-guide/creatortools/rewards.md)
+  * [Reward Release Time](user-guide/creatortools/reward-release-time.md)
+  * [Cannot get reward?](user-guide/creatortools/cannot-get-reward.md)
   * [Monthly Achievement](user-guide/creatortools/monthly-report.md)
 * [Glossary](user-guide/background.md)
 
