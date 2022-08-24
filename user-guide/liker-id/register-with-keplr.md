@@ -19,7 +19,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 | 必需要轉入收款方的錢包地址轉帳                                                                                                                           | 可輸入收款方的 Liker ID 或錢包地址[轉帳](../../guides/wallet/like-pay.md)                                                                               |
 | 以 [dao.like.co](https://dao.like.co/) 委託 LikeCoin                                                                                         | 以 Liker Land app 或 [dao.like.co](https://dao.like.co/) [委託](../../guides/stake/) LikeCoin                                                 |
 | 以 [dao.like.co](https://dao.like.co/) 存入議案[保證金](../../guides/governance/proposal-deposit.md)或[投票](../../guides/governance/direct-vote.md) | 以 [dao.like.co](https://dao.like.co/) 存入[議案保證](../../guides/governance/proposal-deposit.md)金或[投票](../../guides/governance/direct-vote.md) |
-| 逐筆查看交易紀錄                                                                                                                                  | 在 Liker Land app 以視覺化方式查看每篇文章所獲[讚賞成就](../creatortools/rewards/)                                                                           |
+| 逐筆查看交易紀錄                                                                                                                                  | 在 Liker Land app 以視覺化方式查看每篇文章所獲[讚賞成就](../creatortools/rewards.md)                                                                         |
 | 支援註冊 [ISCN](../../guides/decentralized-publishing/app.like.co.md) 及購買 [Writing NFT](../../guides/writing-nft/)                            | 支援註冊 [ISCN](../../guides/decentralized-publishing/iscn-batch-uploader.md) 及購買 [Writing NFT](../../guides/writing-nft/)                    |
 
 {% hint style="info" %}

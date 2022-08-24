@@ -53,5 +53,5 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 ![手續費於「確認」下方顯示](../../.gitbook/assets/like-pay-5.png)
 
 {% hint style="info" %}
-[Matters](../../user-guide/creator/matters.md) 使用者可任意對任何一篇文章「支持作者」轉帳，詳見[Matters 支付與提現功能指南（2020.08.14更新）](https://matters.news/@hi176/matters-%E6%94%AF%E4%BB%98%E8%88%87%E6%8F%90%E7%8F%BE%E5%8A%9F%E8%83%BD%E6%8C%87%E5%8D%97-2020-08-14%E6%9B%B4%E6%96%B0-bafyreicfgnpk4jamnhkjecq32kdlmhhtp6xrwpkxoalp37wayd4sqmjo54)
+[Matters](../../user-guide/creator/matters.md) 使用者可任意對任何一篇文章「支持作者」轉帳，詳見 [玩轉 Matters 實用指南](https://matters.news/guide)
 {% endhint %}

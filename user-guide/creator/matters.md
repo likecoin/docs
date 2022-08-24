@@ -48,7 +48,7 @@ Matters 的讚賞鍵很簡潔，位於文章的最底部，見下圖。
 
 ### 參考文章
 
-> > [Matters 作者工具箱 | 新手必看（2021.07.30更新）](https://matters.news/@hi176/matters-%E4%BD%9C%E8%80%85%E5%B7%A5%E5%85%B7%E7%AE%B1-%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B-2021-07-30%E6%9B%B4%E6%96%B0-bafyreiaycr64hciqsxnrsecnw3wlnelpqj6p3d3fluiavxcoz4esild35e)[> > ](https://matters.news/guide)
+> [玩轉 Matters 實用指南](https://matters.news/guide)
 
 ## 「一鍵搬家」功能
 
