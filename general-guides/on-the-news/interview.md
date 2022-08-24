@@ -2,6 +2,20 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 08/22 ViuTV 99 智富通 FinTech 全方位
+
+[【Fintech全方位】 DePub 將文章轉成NFT📝以「讚賞」實質支持創作者👍🏻 何謂「幣本位」？以加密貨幣作為幣本位有何不同？](https://iwealthfin.com/blog.php?blog\_id=308)
+
+### 08/18 財科暗戰
+
+【財科暗戰】Likerland 推出writing NFT，讓創作有價！ 即場示範如何買下喜愛的作品（按CC看中文字幕）丨章濤丨Phoebe丨加密貨幣丨礦工費丨高重建丨LikeCoin
+
+{% embed url="https://www.youtube.com/watch?v=wpfS5G6rKGg" %}
+
+### 08/12 ViuTV 99 智富通 FinTech 全方位
+
+[【Fintech全方位】何謂「DePub」、「去中心出版」？區塊鏈技術如何應用於文章創作？](https://iwealthfin.com/blog.php?blog\_id=301)
+
 ### 07/07 財科暗戰
 
 【財科暗戰】熊市下要學會「Zoom out」！LikeCoin最新發展之一：將文章變成NFT丨章濤丨高重建丨加密貨幣丨DHK丨NFT
