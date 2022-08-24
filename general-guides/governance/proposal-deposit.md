@@ -33,47 +33,47 @@ Go to the left hand side menu and select "Proposal", click on the proposal which
 
 
 
-![](<../../.gitbook/assets/Proposal Deposit 01.png>)
+![](../../.gitbook/assets/proposal-deposit-01.png)
 
 ### &#xD;Step 3: Proposal detail page
 
 The proposal page outlined the proposal content, click "Deposit".
 
-![](<../../.gitbook/assets/Proposal Deposit 02.png>)
+![](../../.gitbook/assets/proposal-deposit-02.png)
 
 ### Step 4: Deposit your LikeCoin to a proposal
 
 Input the amount that you would like to deposit for the proposal.
 
-![](<../../.gitbook/assets/Proposal Deposit 03.png>)
+![](../../.gitbook/assets/proposal-deposit-03.png)
 
 Transaction fee is required, check it out and agree with "Next".
 
 
 
-![](<../../.gitbook/assets/Proposal Deposit 04.png>)
+![](../../.gitbook/assets/proposal-deposit-04.png)
 
 Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm the deposit after clicking "Send". Authcore users directly click "Send".
 
 
 
-![](<../../.gitbook/assets/Proposal Deposit 05.png>)
+![](../../.gitbook/assets/proposal-deposit-05.png)
 
 The deposit is on it's way, please wait for the transaction to finish.
 
 
 
-![](<../../.gitbook/assets/Proposal Deposit 06.png>)
+![](../../.gitbook/assets/proposal-deposit-06.png)
 
 Successful deposit for a proposal!
 
-![](<../../.gitbook/assets/Proposal Deposit 07.png>)
+![](../../.gitbook/assets/proposal-deposit-07.png)
 
 ### &#xD;Step 5: Check deposit record
 
 Go to the left hand side menu and select "Transactions" and check out your deposit record.
 
-![](<../../.gitbook/assets/Proposal Deposit 08.png>)
+![](../../.gitbook/assets/proposal-deposit-08.png)
 
 {% hint style="info" %}
 If the proposal passed or rejected not because the proposal fails to achieve quorum or gets more than 1/3 voting power as veto, the deposit will be transfer back to the likers.

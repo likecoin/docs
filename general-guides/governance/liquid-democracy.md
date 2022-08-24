@@ -4,7 +4,7 @@ description: Does the LikeCoin DAO have democracy?
 
 # Liquid Democracy
 
-![](../../.gitbook/assets/LikeCoin\_Staking\_Rewards\_voting\_eng.png)
+![](../../.gitbook/assets/likecoin\_staking\_rewards\_voting\_eng.png)
 
 LikeCoin Community —— LikeCoin DAO —— governance by Liquid Democracy
 

@@ -54,7 +54,7 @@ Operates a set of servers 24x7 to validate all transactions of _Likers_, includi
 
 To start with, _validators_ of _LikeCoin chain_ include [**National Taipei University of Technology**](https://www.ntut.edu.tw/), [**Taiwan FactCheck Center**](https://tfc-taiwan.org.tw/),[**Forbole**](https://www.forbole.com/), **The** [**Standnews**](https://thestandnews.com/), [**Culture and Media Education Foundation**](https://www.cmef.org.hk/eng), [**Hong Kong Creative Open Technology Association**](https://cota.hk/), [**Matters Lab**](https://matters.news/), [**GLOs**](https://www.glos.world/), [**Enyk Security**](https://enyk.io/), [**UDomain**](https://www.udomain.com/) and [**OurSky**](https://oursky.com/).
 
-![first batch of validators of LikeCoin chain](../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
+![first batch of validators of LikeCoin chain](../.gitbook/assets/likecoin\_ad70\_validators-01.png)
 
 ## Mechanism <a href="#d993" id="d993"></a>
 

@@ -4,7 +4,7 @@ description: What is a validator?
 
 # Validator
 
-![](../../../.gitbook/assets/LikeCoin\_AD78\_PostList\_1213.png)
+![](../../../.gitbook/assets/likecoin\_ad78\_postlist\_1213.png)
 
 ## Bank + Senator
 

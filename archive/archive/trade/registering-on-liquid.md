@@ -20,7 +20,7 @@ Please note that you cannot use Liquid if you are in certain countries.
 
 Go to [Liquid.com](https://www.liquid.com/) and [register](https://www.liquid.com/sign-up/?affiliate=zlgAOAX564083) an account, simply fill in the details however please fill in your \[Legal First Name] \[Legal Last Name] as account verification is required
 
-![](../../../.gitbook/assets/Liquid.png)
+![](../../../.gitbook/assets/liquid.png)
 
 Liquid will immediately send you a verification email, click on the link in the email and activate your account.
 
@@ -60,7 +60,7 @@ After completing 2FA, you can have a look at the exchange panel but the only thi
 
 2\. Click on the above circled in red, which brings you to the page below. Click on the button below and start to submit your personal credentials for account verification
 
-![](<../../../.gitbook/assets/liquid-account status.png>)
+![](../../../.gitbook/assets/liquid-account-status.png)
 
 3\. You have to provide the following:
 

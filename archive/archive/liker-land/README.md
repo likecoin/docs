@@ -10,7 +10,7 @@ Archived on 2022/06/28. Information is out of date.
 
 
 
-![](<../../../.gitbook/assets/LikeCoin\_AD72\_AppStore\_OG\_ios\_android (1).png>)
+![](../../../.gitbook/assets/likecoin\_ad72\_appstore\_og\_ios\_android.png)
 
 Liker Land is the user interface of LikeCoin, with function collaboration on reading, content collection, crypto wallet and ID Card, bridging readers and content creators.
 

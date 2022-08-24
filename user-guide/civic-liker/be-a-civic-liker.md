@@ -6,7 +6,7 @@ description: Supporting content creator is easy
 
 Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
 
-Users stake at least **5,000 LIKE** to the “Civic Liker node”, with the wallet address bind with a Liker ID. All delegation rewards from the Civic Liker node will be distributed to creators in the form of LIKE. There is no need to use the delegation principle, and only the delegation rewards can turn likes into income.
+Users stake at least **5,000 LIKE** to the “Civic Liker node”, **with a wallet address bind with a Liker ID** can become a Civic Liker. All delegation rewards from the Civic Liker node will be distributed to creators in the form of LIKE. There is no need to use the delegation principle, and only the delegation rewards can turn likes into income.
 
 Based on the current commission rate of about 15%, the monthly rewards that 5000 LIKE can generate is equal to 5000\*0.15/12 = 62.5 LIKE, which is about US$1.5 per month at the current exchange rate. The more to delegate, the more Likes to turn into actual income.
 

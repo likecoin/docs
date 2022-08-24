@@ -4,7 +4,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 # Proposals
 
-![](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
+![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
 ## Proposal #53 Follow-up failed proposal #51 - Deposit 15,000,000 LIKE to Tech Subdao multisig wallet
 

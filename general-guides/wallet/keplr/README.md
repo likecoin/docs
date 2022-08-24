@@ -62,7 +62,7 @@ Before depositing LikeCoin to your Keplr wallet, please change the display on to
 
 If your Keplr wallet does not show the LikeCoin chain, please [go to dao.like.co to connect to the LikeCoin chain for Keplr wallet first](./#use-dao.like.co-to-check-likecoin-transaction-details-transfer-or-delegate).
 
-![](<../../../.gitbook/assets/Keplr Liker ID 07.png>)
+![](<../../../.gitbook/assets/keplr-liker-id-07 (1).png>)
 
 ### Step 2
 
@@ -78,7 +78,7 @@ Scan the QRCode and deposit LikeCoin to your Keplr wallet with [LIKE pay](../lik
 
 The LikeCoin balance will appear after the deposit is completed.
 
-![](<../../../.gitbook/assets/Keplr Liker ID 08.png>)
+![](../../../.gitbook/assets/keplr-liker-id-08.png)
 
 ## **Send LikeCoin from Keplr to another wallet**
 

@@ -14,19 +14,19 @@ Archived on 2022/08/18. Information is out of date.
 
 First of all you have to create your wallet address on ZB so as to transfer LikeCoin to the exchange. Click on "Funds" on the top right hand corner, on the search box, input "LIKE"
 
-![](../../../.gitbook/assets/ZB-trade-01-en.png)
+![](../../../.gitbook/assets/zb-trade-01-en.png)
 
 Click "Deposit"
 
-![](../../../.gitbook/assets/ZB-trade-02-en.png)
+![](../../../.gitbook/assets/zb-trade-02-en.png)
 
 Click "Get LIKE deposit address"
 
-![](../../../.gitbook/assets/ZB-trade-03-en.png)
+![](../../../.gitbook/assets/zb-trade-03-en.png)
 
 You wallet address and QR Code appears
 
-![](../../../.gitbook/assets/ZB-trade-04-en.png)
+![](../../../.gitbook/assets/zb-trade-04-en.png)
 
 ### Step 2: Transfer LikeCoin to ZB
 
@@ -60,17 +60,17 @@ Transaction Fee, Withdrawel Fees & Limits are listed in "[Fee Rate](https://www.
 
 On the top left corner of ZB website there are "Markets" and "Trade" on the menu
 
-![](../../../.gitbook/assets/ZB-trade-05-en.png)
+![](../../../.gitbook/assets/zb-trade-05-en.png)
 
 Click "Markets", on the search box input "LIKE" will show the chart. LikeCoin is now on the "New Market" tab
 
-![](../../../.gitbook/assets/ZB-trade-06-en.png)
+![](../../../.gitbook/assets/zb-trade-06-en.png)
 
 There are several ways to start trade: Click on LIKE in "New Market" or click on "Trade" in the "Funds" page indicated in \[Step 1] to reach the "Exchange Pro". Or click on the top left hand corner of the ZB website and click on "Exchange Basic" or "Exchange Pro"
 
-![](../../../.gitbook/assets/ZB-trade-07-en.png)
+![](../../../.gitbook/assets/zb-trade-07-en.png)
 
-![Exchange Pro Like/USDT interface](../../../.gitbook/assets/ZB-trade-08-en.png)
+![Exchange Pro Like/USDT interface](../../../.gitbook/assets/zb-trade-08-en.png)
 
 Take a look at the order book on the right hand side. The figures in red are those orders who want to "Sell", for example below there are people who want to sell 362 LikeCoin at the price of 0.15720 USDT/LIKE, and then some other people want to sell 3300 LikeCoin at 0.016800 USDT/LIKE. If you want to buy 3600 LikeCoin, you can buy them all at 0.016800 USDT/LIKE
 
@@ -78,7 +78,7 @@ If you want to sell your LikeCoin, you have to monitor the seller in green. For 
 
 To make it simple, if you want to sell, check out the orders in green; if you want to buy, check out the orders in red. You can also take a look at the "Latest" transaction statistic on the right hand side.
 
-![](../../../.gitbook/assets/ZB-trade-09-en.png)
+![](../../../.gitbook/assets/zb-trade-09-en.png)
 
 Once you decide the price and amount to buy or sell, go to "Limit" to sell:
 
@@ -88,7 +88,7 @@ you have to input 3 parameters:
 * Input "Price": using the order book above as an example, fill in 0.015700 for selling LikeCoin
 * Input "Amount": Fill in 200 for selling 200 LikeCoin, or adjust the percentage e.g. 100%, 50%, etc
 
-![](../../../.gitbook/assets/ZB-trade-10-en.png)
+![](../../../.gitbook/assets/zb-trade-10-en.png)
 
 The system will calculate "Total", confirm if they are correct or not, then click "Sell LIKE" to complete the transaction.&#x20;
 
@@ -96,10 +96,10 @@ The system will calculate "Total", confirm if they are correct or not, then clic
 
 Click on the top right hand corner "Order" to check the transaction details. your wallets reflect new balances as well.
 
-![](../../../.gitbook/assets/ZB-trade-11-en.png)
+![](../../../.gitbook/assets/zb-trade-11-en.png)
 
 ### Step 6: Withdrawal
 
 Going back to "Funds" page in \[Step 1] and find the coins that you need to withdraw, click on "Withdrawal" and go to "LIKEWithdrawal" or "USDTWithdrawal" page ( depends on if you are buying or selling LikeConi ). Fill in the "Withdrawal address" and "Amount" then click "Withdrawal" and your coins will be transferred. You can also check the Withdrawal Records underneath.
 
-![](../../../.gitbook/assets/ZB-trade-12-en.png)
+![](../../../.gitbook/assets/zb-trade-12-en.png)

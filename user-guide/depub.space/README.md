@@ -20,7 +20,7 @@ Login your [Keplr](../../general-guides/wallet/keplr/) Wallet and go to [depub.s
 
 Click "Keplr Wallet" and a pop-up window appears requesting connection, click "Approve".
 
-![](<../../.gitbook/assets/depub.SPACE 2.png>) ![](<../../.gitbook/assets/depub.SPACE 3-K.png>)
+![](<../../.gitbook/assets/depub.SPACE 02.png>) ![](<../../.gitbook/assets/depub.SPACE 03-K.png>)
 
 ### Step 3
 
@@ -60,7 +60,7 @@ Go to the [depub.space](https://depub.space/) and click "Connect Wallet" at the 
 
 A QRCode will appear after clicking "WalletConnect".
 
-![](<../../.gitbook/assets/depub.SPACE 2.png>) ![](<../../.gitbook/assets/depub.SPACE 3.png>)
+![](<../../.gitbook/assets/depub.SPACE 02.png>) ![](<../../.gitbook/assets/depub.SPACE 3.png>)
 
 ### Step 3
 

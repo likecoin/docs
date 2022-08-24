@@ -26,13 +26,13 @@ You can fill in the Liker ID or wallet address into the \[Receiver's Liker ID or
 
 Liker Land app will open your phone camera, scan the LikeCoin receiver's QR Code, and click the \[Next] button.
 
-![](../../.gitbook/assets/IMG\_2158.PNG)
+![](../../.gitbook/assets/img\_2158.png)
 
 ### **Step 5**
 
 Some crypto exchanges may require input of Tag/Memo, please fill in the value here or press \[Next] if there is nothing to add.
 
-![](<../../.gitbook/assets/digifinex-tagmemo (1).png>)
+![](../../.gitbook/assets/digifinex-tagmemo.png)
 
 ### **Step 6**
 

@@ -10,7 +10,7 @@ Registering a Liker ID is easy, please download [Liker Land app](https://liker.l
 
 ### Step 1: Open your Liker Land app, Click the "Sign Up" Button
 
-![](<../../../.gitbook/assets/Sign In.png>)
+![](<../../../.gitbook/assets/Sign In (1).png>)
 
 ### **Step 2: Choose your Sign Up method**
 

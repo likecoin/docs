@@ -352,9 +352,9 @@ Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)
 
 [LikeCoin發起人：區塊鏈可還權於民](https://web.archive.org/web/20210508192953/https://hk.appledaily.com/finance/20200817/MDJN6LLEHVCMVDSSFCAFTIQY2E/)
 
-![](../../.gitbook/assets/202008170401100\_apple\_B02\_1.JPG)
+![](../../.gitbook/assets/202008170401100\_apple\_b02\_1.jpg)
 
-![](../../.gitbook/assets/202008170400961\_apple\_B02\_1.JPG)
+![](../../.gitbook/assets/202008170400961\_apple\_b02\_1.jpg)
 
 ### 08/07 香港無線電視財經 ‧ 資訊台 看出個未來
 
@@ -504,7 +504,7 @@ Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)
 
 ****[價值重組實驗](https://like.co/pdf/articles/breakazine.pdf)
 
-![](../../.gitbook/assets/Breakazine\_9.png)
+![](../../.gitbook/assets/breakazine\_9.png)
 
 ### 06/11 Cryptocurrency Satellite&#xD;
 
@@ -564,7 +564,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 [首隻港產加密幣點讚成金 創辦人冀改網絡歪風](http://startupbeat.hkej.com/?p=57661)
 
-![](../../.gitbook/assets/20180409\_hkej.JPG)
+![](../../.gitbook/assets/20180409\_hkej.jpg)
 
 ### 04/09 ejinsight
 
@@ -596,9 +596,9 @@ QUOINE x LikeCoin: The Future of the Like
 
 [【當金錢變成數碼】高重建：擁抱觸不到的付款方法 化like成coin支持創作](https://www.mpweekly.com/culture/%E9%9B%BB%E5%AD%90%E8%B2%A8%E5%B9%A3-%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98-%E6%94%AF%E4%BB%98%E5%AF%B6-69230)
 
-![](<../../.gitbook/assets/Maig Pao Weekly\_0.jpg>)
+![](../../.gitbook/assets/maig-pao-weekly\_0.jpg)
 
-![](<../../.gitbook/assets/Maig Pao Weekly.jpg>)
+![](../../.gitbook/assets/maig-pao-weekly.jpg)
 
 ### **03/18 INSIDE**
 
@@ -608,7 +608,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 [首隻港產加密貨幣 化Like為Coin](https://imoney.hket.com/article/2031727/%E9%A6%96%E9%9A%BB%E6%B8%AF%E7%94%A2%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%20%E5%8C%96Like%E7%82%BACoin)
 
-![](../../.gitbook/assets/LikeCoin\_iMoney.jpg)
+![](../../.gitbook/assets/likecoin\_imoney.jpg)
 
 ### 03/09 Mr.Block 區塊先生
 
