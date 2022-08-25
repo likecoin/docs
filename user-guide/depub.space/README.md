@@ -4,9 +4,9 @@ description: Web3 去中心化 Twitter
 
 # depub.space
 
-[depub.space](https://depub.space/) 是 Web3 去中心化 Twitter，只需要付出少量 LikeCoin 就可直接將文字及圖片 “DePub”（去中心出版）至 IPFS 及區塊鏈，非常方便。用戶可以使用 [Keplr](../../guides/wallet/keplr/) 錢包或以 [Liker Land app](../liker-land/download.md) 經 Wallet Connect 接駁 depub.space 發文。
+[depub.space](https://depub.space/) 是 Web3 去中心化 Twitter，只需要付出少量 LikeCoin 就可直接將文字及圖片 “DePub”（去中心出版）至 IPFS 及區塊鏈，非常方便。用戶可以使用 [Keplr](../../guides/wallet/keplr/) 錢包、 [Liker Land app](../liker-land/download.md) 經 Wallet Connect 或 [Cosmostation](../../guides/wallet/cosmostation/) 接駁 depub.space 發文。
 
-使用 depub.space 無需註冊帳號或留下任何個人資料，只認錢包地址不認人。此外，depub.space 是一個「無狀態」(stateless) 的服務，減少用戶留在網絡上的資訊，「預設隱私」(privacy by default) 。 depub.space 預設所有內容全在鏈上，作品一經出版到區塊鏈，便永留記錄。
+使用 depub.space 無需註冊帳號或留下任何個人資料，只認錢包地址不認人。此外，depub.space 是一個「無狀態」(stateless) 的服務，減少用戶留在網絡上的資訊，「預設隱私」( privacy by default ) 。 depub.space 預設所有內容全在鏈上，作品一經出版到區塊鏈，便永留記錄。
 
 ## Keplr 登入
 
@@ -20,7 +20,7 @@ description: Web3 去中心化 Twitter
 
 點「Keplr Wallet」後彈出視窗要求連結，點「Approve」。
 
-![](<../../.gitbook/assets/depub.space 2.png>) ![](<../../.gitbook/assets/depub.space 2-K.png>)
+<figure><img src="../../.gitbook/assets/depub.space keplr 01.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟三
 
@@ -60,7 +60,7 @@ description: Web3 去中心化 Twitter
 
 點「WalletConnect」後出現二維碼。
 
-![](<../../.gitbook/assets/depub.space 2.png>) ![](<../../.gitbook/assets/depub.SPACE wc 3.png>)
+<figure><img src="../../.gitbook/assets/depub.space wallet connect 01.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟三
 
@@ -98,8 +98,48 @@ description: Web3 去中心化 Twitter
 
 ![](<../../.gitbook/assets/depub.space wc 9.png>)
 
+## Cosmostation 登入
+
+### 步驟一
+
+請先登入 [Cosmostation](../../guides/wallet/cosmostation/) 錢包，並到 [depub.space](https://depub.space/) 網站左下角點「Connect Wallet」。
+
+![](<../../.gitbook/assets/depub.space 1.png>)
+
+### 步驟二
+
+點「Cosmostation」後彈出視窗要求連結，點「Confirm」。
+
+<figure><img src="../../.gitbook/assets/depub.space cosmostation 01.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟三
+
+點空格後彈出文字框並撰寫文字。可點選「Post on Twitter」連結 Twitter 帳戶進行同步。完成後點「Submit」。
+
+![](<../../.gitbook/assets/depub.space 3.png>)
+
+![](<../../.gitbook/assets/depub.space 4.png>)
+
+### 步驟四
+
+彈出 Cosmostation 視窗點「Confirm」。
+
+<figure><img src="../../.gitbook/assets/depub.space wallet connect 02.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟五
+
+出現「Your tweet is registered as an NFT.」代表內容經已成功發表，點「OK」。
+
+![](<../../.gitbook/assets/depub.space 6.png>)
+
+### 步驟六
+
+出現已發表的推文。
+
+![](<../../.gitbook/assets/depub.space 7.png>)
+
 ## 查看發文記錄
 
-到 [app.like.co](https://app.like.co/) 點「Your Publishing」即可查看以往發文記錄。
+到 [app.like.co](https://app.like.co/) 點「My Publishing」即可查看以往發文記錄。
 
 ![](<../../.gitbook/assets/depub.space wc 10.png>)
