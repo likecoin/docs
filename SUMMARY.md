@@ -157,6 +157,7 @@
   * [Super Like - Tweeting to the Space](user-guide/liker-land/superlike.md)
 * [depub.space](user-guide/depub.space/README.md)
   * [Share tweet from From LikeCoin Discord to depub.space](user-guide/depub.space/from-likecoin-discord-to-depub.space.md)
+  * [Avatar for depub.space](user-guide/depub.space/avatar.md)
 * [Civic Liker](user-guide/civic-liker/README.md)
   * [How to be a Civic Liker](user-guide/civic-liker/be-a-civic-liker.md)
   * [Civic Liker Dashboard](user-guide/civic-liker/dashboard.md)
