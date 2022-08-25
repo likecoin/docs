@@ -14,7 +14,7 @@ description: Liker ID 要怎樣註冊？
 
 ### 步驟二：選擇註冊方式
 
-Liker Land 提供帳號+密碼及社交帳號 Google 登入、Facebook 登入、Twitter 登入、Apple ID 登入及 Matters 登入等 6 種註冊方式。建議以社交帳號註冊，過程較簡單安全。點擊登入畫面上方的社交帳號圖示。
+Liker Land app 提供電郵地址+密碼及社交帳號 Google 登入、Facebook 登入、Twitter 登入、Apple ID 登入及 Matters 登入等 6 種註冊方式。建議以社交帳號註冊，過程較簡單安全。點擊登入畫面上方的社交帳號圖示。
 
 <figure><img src="../../../.gitbook/assets/signup 02.png" alt=""><figcaption></figcaption></figure>
 
