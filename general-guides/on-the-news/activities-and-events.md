@@ -2,6 +2,20 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 08/25 Binance Live
+
+[How Are Blockchain & NFTs Changing the Publishing Industry](https://www.binance.com/en/live/video?roomId=2107897)
+
+### 08/24 Revive Tech Asia 2022
+
+Migrating the Creator Economy to Web3
+
+<figure><img src="../../.gitbook/assets/IMG_9081.jpg" alt=""><figcaption></figcaption></figure>
+
+### 08/24 LikeCoin Discord
+
+許明恩：Writing NFT 與內容保育
+
 ### 08/11 LikeCoin Twitter
 
 [Community Update: Writing NFT, DePub in Cosmos](https://twitter.com/likecoin/status/1557743919655399426)
