@@ -8,4 +8,4 @@ Besides collecting via NFT Widget, readers can also collect Writing NFT from the
 
 Portfolio page lists all NFTs and their estimated values. It is the place where user can transfer NFT and sell them to the secondary market.
 
-![NFT Portfolio: Show your NFT collection, transfer NFT and sell to secondary market](<../../.gitbook/assets/NFT Portfolio.png>)
+![NFT Portfolio: Show your NFT collection, transfer NFT and sell to secondary market, click the icon on the top right hand corner and copy the URL easily.](<../../.gitbook/assets/NFT Portfolio.png>)
