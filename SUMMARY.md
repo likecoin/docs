@@ -80,6 +80,7 @@
   * [Super Like — 推文到宇宙](user-guide/liker-land/superlike.md)
 * [depub.space](user-guide/depub.space/README.md)
   * [從 LikeCoin Discord 推文到 depub.space](user-guide/depub.space/from-likecoin-discord-to-depub.space.md)
+  * [為 depub.space 增添頭像](user-guide/depub.space/avatar.md)
 * [讚賞公民](user-guide/civic-liker/README.md)
   * [如何成為讚賞公民](user-guide/civic-liker/be-a-civic-liker.md)
   * [讚賞公民 Dashboard](user-guide/civic-liker/dashboard.md)
