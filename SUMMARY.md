@@ -91,6 +91,7 @@
   * [NFT Portal](general-guides/writing-nft/nft-portal.md)
   * [NFT Portfolio](general-guides/writing-nft/nft-portfolio.md)
   * [Collect Writing NFT](general-guides/writing-nft/collect-writing-nft.md)
+  * [Transfer Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)
 * [Decentralized Publishing](general-guides/decentralized-publishing/README.md)
   * [What is ISCN](general-guides/decentralized-publishing/what-is-iscn.md)
   * [What is the relationship between ISCN and IPFS?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
