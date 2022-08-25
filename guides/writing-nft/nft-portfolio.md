@@ -8,4 +8,5 @@ description: 展示 NFT 藏品庫及個人貨架
 
 Portfolio 頁能列出用戶擁有的所有 NFT，顯示 NFT 資產總值，並進行出售到二手市場及轉贈等操作。
 
-![NFT Portfolio: 展示自己的 NFT 珍藏，及轉贈或賣出到二級市場](<../../.gitbook/assets/NFT Portfolio.png>)
+![NFT Portfolio: 展示自己的 NFT 珍藏，及轉贈或賣出到二級市場，點擊右上角圖示方便記下頁面地址](<../../.gitbook/assets/NFT Portfolio.png>)
+

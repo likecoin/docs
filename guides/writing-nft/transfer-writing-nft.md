@@ -2,9 +2,9 @@
 description: 簡單轉移沒難度
 ---
 
-# 轉移 Writing NFT
+# 轉贈 Writing NFT
 
-現在開始你可以將你珍藏的 Writing NFT 傳送給別人了！ 以下將示範如何轉移 Writing NFT。
+現在開始你可以將你珍藏的 Writing NFT 傳送給別人了！ 以下將示範如何轉贈 Writing NFT。
 
 ### 步驟一：登入並轉移
 
