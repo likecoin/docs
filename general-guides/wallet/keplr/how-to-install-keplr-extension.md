@@ -23,7 +23,7 @@ The screen shows up your mnemonic seed. Find a secure place to encrypt and store
 Fill in your Account name, password and click "Next", after validating the mnemonic seed, the wallet interface of Keplr appears.
 
 {% hint style="info" %}
-After successfully installed Keplr, visit https://dao.like.co, choose Connect by Keplr, and then choose "approve" to add LikeCoin chain to Keplr.
+After successfully installed Keplr, visit [https://dao.like.co](https://dao.like.co/), choose Connect by Keplr, and then choose "approve" to add LikeCoin chain to Keplr.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -31,5 +31,5 @@ Please keep your mnemonic seed and password safe. If you lose them you are not a
 {% endhint %}
 
 {% hint style="info" %}
-After installation you can [register a Liker ID](../../../user-guide/liker-id/register-with-keplr.md).
+After installation you can also [register a Liker ID](../../../user-guide/liker-id/register-with-keplr.md).
 {% endhint %}

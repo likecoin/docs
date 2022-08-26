@@ -26,21 +26,29 @@ You may also export seed words from Liker Land and import to Keplr.
 
 Users will have to go to [dao.like.co](https://dao.like.co/) and connect the LikeCoin chain with Keplr. You may manage your LikeCoin with [dao.like.co](https://dao.like.co/) and Keplr together to deposit, send, [delegate](../../stake/delegation-of-likecoin.md), [vote](../../governance/direct-vote.md) and check the LikeCoin transaction details.
 
+### Step 1
+
 Go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
 
-![](../../../.gitbook/assets/keplr06.png)
+<figure><img src="../../../.gitbook/assets/keplr06.png" alt=""><figcaption></figcaption></figure>
+
+### Step 2
 
 Then click "Approve".
 
 ![](../../../.gitbook/assets/keplr07.png)
 
+### Step 3
+
 Click on "Approve" again.
 
 ![](../../../.gitbook/assets/keplr08.png)
 
+### Step 4
+
 You can see your balance.
 
-![](../../../.gitbook/assets/keplr09.png)
+<figure><img src="../../../.gitbook/assets/keplr09.png" alt=""><figcaption></figcaption></figure>
 
 You can also register a Liker ID with Keplr or bond your existing Keplr wallet with a Liker ID, please take a look at:
 
