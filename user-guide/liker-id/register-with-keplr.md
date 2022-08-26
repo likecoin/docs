@@ -35,23 +35,53 @@ Users can manage LikeCoin with [Cosmostation](../../general-guides/wallet/cosmos
 
 ### **Step 1: Install Keplr extension**
 
+Install the Keplr wallet before registering your Liker ID. If you have already completed the installation, please skip this step.
+
 {% content-ref url="../../general-guides/wallet/keplr/how-to-install-keplr-extension.md" %}
 [how-to-install-keplr-extension.md](../../general-guides/wallet/keplr/how-to-install-keplr-extension.md)
 {% endcontent-ref %}
 
-### Step 2: Register a Liker ID
+### Step 2: Start Registering
 
-On [Liker Land web](https://liker.land/), click "Sign up".
+Go to [https://liker.land/civic](https://liker.land/civic) and click "Register now".
 
-![](../../.gitbook/assets/keplr-liker-id-00-en.png)
+<figure><img src="../../.gitbook/assets/signup 05-en.png" alt=""><figcaption></figcaption></figure>
 
-Or go to [like.co/in](https://like.co/) and choose "Create account".
+Click "Sign Up" on the registration or login page.
 
-![](<../../.gitbook/assets/Keplr Liker ID 000  en.png>)
+<figure><img src="../../.gitbook/assets/signup 06-en.png" alt=""><figcaption></figcaption></figure>
+
+### Step 3: Register with new or old interface
+
+#### New Interface
+
+The following page appears, click "Switch to new Interface".
+
+<figure><img src="../../.gitbook/assets/signup 07-en.png" alt=""><figcaption></figcaption></figure>
+
+Click "Connect Using Keplr Browser Extension".
+
+<figure><img src="../../.gitbook/assets/Keplr Liker ID 12-en.png" alt=""><figcaption></figcaption></figure>
+
+The Keplr window pops up, click "Approvel".
+
+<figure><img src="../../.gitbook/assets/Keplr Liker ID 13-en.png" alt=""><figcaption></figcaption></figure>
+
+Fill in your desired Liker ID then click "Confirm".
+
+<figure><img src="../../.gitbook/assets/Keplr Liker ID 14-en.png" alt=""><figcaption></figcaption></figure>
+
+Enter your display name and bio and click "Confirm".
+
+<figure><img src="../../.gitbook/assets/Keplr Liker ID 15-en.png" alt=""><figcaption></figcaption></figure>
+
+Liker ID is created and will bring back the login page.
+
+#### Old Interface
 
 On the top right hand corner, click "Sign in with your wallet".
 
-![](../../.gitbook/assets/keplr-liker-id-01-en.png)
+<figure><img src="../../.gitbook/assets/Keplr Liker ID 01-en.png" alt=""><figcaption></figcaption></figure>
 
 Click "Sign up with Keplr".
 
@@ -71,9 +101,9 @@ Now you have to authorize the connection between Keplr and LikeCoin: On Requesti
 
 On the welcome screen, fill in your desired Liker ID and email address, then click "Confirm".
 
-![](../../.gitbook/assets/keplr-liker-id-05.png)
+<figure><img src="../../.gitbook/assets/Keplr Liker ID 05-en.png" alt=""><figcaption></figcaption></figure>
 
-Liker ID is created and will go back to the Liker Land web.
+Liker ID is created and will bring back the login page.
 
 {% hint style="warning" %}
 You cannot change the Liker ID nor the login method once it has been created. If you want to have another Liker ID, just create a new account. Please note that **an email address or a a wallet address can only register one Liker ID**.
@@ -81,21 +111,29 @@ You cannot change the Liker ID nor the login method once it has been created. If
 **You cannot use the same email address to register a Liker ID with both Authcore and Keplr.**
 {% endhint %}
 
-### Step 3: Check the Wallet
+### Step 4: Check the Wallet
 
-On Liker Land Web [settings](https://like.co/in/settings), your LikeCoin wallet address is the same as the Keplr address, which means that you have successfully registered your Liker ID with Keplr.
+On Liker Land [settings](https://like.co/in/settings), your LikeCoin wallet address is the same as the Keplr address, which means that you have successfully registered your Liker ID with Keplr.
 
 ![](../../.gitbook/assets/keplr-liker-id-06-en.png)
 
-### Step 4: User Keplr to Login Liker Land
+### Step 5: User Keplr to Login Liker Land
 
-After registration, if you would like to login Liker Land again, please login Keplr and visit [Liker Land web](https://liker.land/), then click "Sign in".
+After registration, if you would like to login Liker Land again, please login Keplr and visit [https://liker.land/civic/dashboard](https://liker.land/civic/dashboard), then click "Sign in".
 
-![](../../.gitbook/assets/keplr-liker-id-00-en.png)
+<figure><img src="../../.gitbook/assets/Keplr Liker ID 11-en.png" alt=""><figcaption></figcaption></figure>
+
+#### New Interface
+
+Click "Connect Using Keplr Browser Extension" and login.
+
+<figure><img src="../../.gitbook/assets/Keplr Liker ID 12-en.png" alt=""><figcaption></figcaption></figure>
+
+#### Old Interface
 
 On the top right hand corner, click "Sign in with your wallet".
 
-![](../../.gitbook/assets/keplr-liker-id-01-en.png)
+<figure><img src="../../.gitbook/assets/Keplr Liker ID 01-en.png" alt=""><figcaption></figcaption></figure>
 
 Click "Sign in with Keplr".
 
@@ -105,7 +143,7 @@ Click "Accept".
 
 ![](<../../.gitbook/assets/Keplr Liker ID 09-en.png>)
 
-The Keplr wallet Chain Add Request pop-up, click "Approve" and you can login to Liker Land web.
+The Keplr wallet Chain Add Request pop-up, click "Approve" and you can login to Liker Land.
 
 ![](<../../.gitbook/assets/Keplr Liker ID 04.png>)
 
