@@ -4,7 +4,7 @@ description: Liker ID 要怎樣註冊？
 
 # 以一般方法 ( Authcore ) 註冊 Liker ID
 
-使用 [Liker Land 手機應用程式](https://liker.land/getapp) 或 [Liker Land 網頁版](https://liker.land/civic) 同樣能以一般方法 ( Authcore ) 註冊 Liker ID。但留意此登入方式將慢慢淡出。建議用戶立即[從 Authcore 匯出你的助記詞並導入 Keplr](../export-seed-words.md)，以便管理你的 LikeCoin。
+使用 [Liker Land 手機應用程式](https://liker.land/getapp) 或 [Liker Land 網頁](https://liker.land/civic) 同樣能以一般方法 ( Authcore ) 註冊 Liker ID。但留意此登入方式將慢慢淡出。建議用戶立即[從 Authcore 匯出你的助記詞並導入 Keplr](../export-seed-words.md)，以便管理你的 LikeCoin。
 
 ## 使用 Liker Land app 以一般方法 ( Authcore ) 註冊 Liker ID
 
@@ -34,7 +34,7 @@ Liker Land app 提供電郵地址+密碼及社交帳號 Google 登入、Facebook
 
 <figure><img src="../../../.gitbook/assets/signup 04.png" alt=""><figcaption></figcaption></figure>
 
-## 於 Liker Land 網頁版以一般方法 ( Authcore ) 註冊 Liker ID&#x20;
+## 於 Liker Land 網頁以一般方法 ( Authcore ) 註冊 Liker ID&#x20;
 
 ### 步驟一
 
@@ -50,7 +50,7 @@ Liker Land app 提供電郵地址+密碼及社交帳號 Google 登入、Facebook
 
 ### 步驟三
 
-網頁版與手機版註冊步驟相同，詳情請參考 [使用 Liker Land app 以一般方法 ( Authcore ) 註冊 Liker ID](./#shi-yong-liker-land-app-yi-yi-ban-fang-fa-authcore-zhu-ce-liker-id)。你也可以點「切換新介面」。
+網頁版與手機註冊步驟相同，詳情請參考 [使用 Liker Land app 以一般方法 ( Authcore ) 註冊 Liker ID](./#shi-yong-liker-land-app-yi-yi-ban-fang-fa-authcore-zhu-ce-liker-id)。你也可以點「切換新介面」。
 
 <figure><img src="../../../.gitbook/assets/signup 07.png" alt=""><figcaption></figcaption></figure>
 
