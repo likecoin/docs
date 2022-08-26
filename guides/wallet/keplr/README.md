@@ -30,7 +30,7 @@ description: 支援 LikeCoin 的多鏈錢包
 
 到 [dao.like.co](https://dao.like.co/) 網站，點擊「Keplr Browser Extension」。
 
-![](../../../.gitbook/assets/keplr06.png)
+<figure><img src="../../../.gitbook/assets/keplr06.png" alt=""><figcaption></figcaption></figure>
 
 再點擊「Approve」。
 
