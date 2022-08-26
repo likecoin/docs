@@ -44,7 +44,7 @@ Some crypto exchanges may require input of Tag/Memo, please fill in the value he
 
 ### Step 1
 
-Login [Liker Land web](https://liker.land/civic).
+Login [Liker Land](https://liker.land/civic).
 
 ### Step 2
 

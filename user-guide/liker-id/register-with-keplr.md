@@ -4,7 +4,7 @@ description: Decentralized Liker ID sign up and LikeCoin management
 
 # Register a Liker ID with Keplr
 
-Users can register a Liker ID with [Keplr](../../general-guides/wallet/keplr/) and manage their LikeCoin in a more decentralized way and keep their own private key at the same time. Choose "Sign in with your wallet" on the top right corner of the login screen to sign up/login by Keplr. Note that users can choose either method ( Keplr or General Registration aka Authcore ) for Liker ID registration, the two login methods cannot be interchanged for a given Liker ID once it has been confirmed.
+Users can register a Liker ID with [Keplr](../../general-guides/wallet/keplr/) and manage their LikeCoin in a more decentralized way and keep their own private key at the same time. Choose "Sign in with your wallet" to sign up/login by Keplr. Note that users can choose either method ( Keplr or General Registration aka Authcore ) for Liker ID registration, the two login methods cannot be interchanged for a given Liker ID once it has been confirmed.
 
 ## **Comparison**
 
