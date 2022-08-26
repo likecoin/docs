@@ -28,23 +28,31 @@ description: 支援 LikeCoin 的多鏈錢包
 
 用戶需要先到 [dao.like.co](https://dao.like.co/) 將 LikeCoin chain 連結至 Keplr。你亦可以搭配 Keplr 進行各種操作，包括轉帳、[委託](../../stake/)、[投票](../../governance/direct-vote.md)及查看交易明細等。
 
+### 步驟一
+
 到 [dao.like.co](https://dao.like.co/) 網站，點擊「Keplr Browser Extension」。
 
 <figure><img src="../../../.gitbook/assets/keplr06.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟二
 
 再點擊「Approve」。
 
 ![](../../../.gitbook/assets/keplr07.png)
 
+### 步驟三
+
 看見這個畫面再「Approve」多一次。
 
 ![](../../../.gitbook/assets/keplr08.png)
 
+### 步驟四
+
 你會看到你的 LikeCoin 餘額。
 
-![](../../../.gitbook/assets/keplr09.png)
+<figure><img src="../../../.gitbook/assets/keplr09.png" alt=""><figcaption></figcaption></figure>
 
-你也可以直接以 Keplr 註冊 Liker ID，或為現有的 Keplr 錢包綁定 Liker ID，詳見：
+你也可以直接以 Keplr 註冊 Liker ID，或為現有驟的 Keplr 錢包綁定 Liker ID，詳見：
 
 {% content-ref url="../../../user-guide/liker-id/register-with-keplr.md" %}
 [register-with-keplr.md](../../../user-guide/liker-id/register-with-keplr.md)
