@@ -17,7 +17,7 @@ Your name and avatar will appear in various Liker Land scenarios:
 [nft-portfolio.md](../../general-guides/writing-nft/nft-portfolio.md)
 {% endcontent-ref %}
 
-![](broken-reference)
+<figure><img src="../../.gitbook/assets/NFT Portfolio.png" alt=""><figcaption></figcaption></figure>
 
 ### LikeCoin button
 

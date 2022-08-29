@@ -6,6 +6,6 @@ description: >-
 
 # Civic Liker Dashboard
 
-On the [Liker Land web](https://liker.land/) menu, click on Civic Liker and launch the [Civic Liker dashboard](https://liker.land/civic/dashboard). User can manage their Civic Liker delegation.
+On the [Liker Land ](https://liker.land/)menu, click on Civic Liker and launch the [Civic Liker dashboard](https://liker.land/civic/dashboard). User can manage their Civic Liker delegation.
 
 ![](<../../.gitbook/assets/Civic Liker Dashboard-en.png>)

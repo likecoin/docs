@@ -8,7 +8,7 @@ description: Explore LikeCoin chain
 
 ## How to check transactions on Big Dipper
 
-### Keplr / Cosmostation / Liker Land Web
+### Keplr / Cosmostation / Liker Land web
 
 Copy the [wallet address](wallet-address.md) and paste it in the search field of the [Big Dipper](https://likecoin.bigdipper.live/) website.
 
