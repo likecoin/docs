@@ -8,7 +8,7 @@ description: 查看 LikeCoin chain 明細
 
 ## 如何在 Big Dipper 查看錢包明細
 
-### Keplr / Cosmostation / Liker Land Web
+### Keplr / Cosmostation / Liker Land 網頁
 
 複製[錢包地址](wallet-address.md)並於 [Big Dipper 網站](https://likecoin.bigdipper.live/) 的搜尋欄位貼上。
 

@@ -22,8 +22,8 @@ description: 如何查看及複製自己的錢包地址？
 
 ![](<../../.gitbook/assets/wallet address liker land app.png>)
 
-### Liker Land web
+### Liker Land 網頁
 
-登入 Liker Land 網頁版後，直接到 [https://like.co/in/settings](https://like.co/in/settings) 查看。
+登入 Liker Land 後，直接到 [https://like.co/in/settings](https://like.co/in/settings) 查看。
 
 ![](<../../.gitbook/assets/wallet address.png>)

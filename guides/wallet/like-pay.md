@@ -40,7 +40,7 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 
 ![](../../.gitbook/assets/like-pay-4.png)
 
-## 使用 Liker Land 網頁版轉帳 LikeCoin
+## 使用 Liker Land 網頁轉帳 LikeCoin
 
 ### 步驟一
 

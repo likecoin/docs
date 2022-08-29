@@ -4,7 +4,7 @@ description: 有關 LikeCoin、去中心出版、及 LikeCoin DAO
 
 # LikeCoin - 去中心出版
 
-![](.gitbook/assets/LikeCoin\_presskit\_LikeCoin\_Asset\_LikeCoinFeature.png)
+<figure><img src=".gitbook/assets/LCF001-key visual v4.1-1.png" alt=""><figcaption></figcaption></figure>
 
 ### LikeCoin 是什麼
 

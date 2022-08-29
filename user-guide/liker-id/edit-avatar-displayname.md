@@ -16,7 +16,7 @@ description: 讓自己的性格更特出
 [nft-portfolio.md](../../guides/writing-nft/nft-portfolio.md)
 {% endcontent-ref %}
 
-![](broken-reference)
+<figure><img src="../../.gitbook/assets/NFT Portfolio.png" alt=""><figcaption></figcaption></figure>
 
 ### LikeCoin button 讚賞鍵
 
@@ -26,7 +26,7 @@ description: 讓自己的性格更特出
 
 ![](<../../.gitbook/assets/Settings 02.png>)
 
-### Liker Land 手機應用程式及網頁版
+### Liker Land 手機應用程式及網頁
 
 {% content-ref url="../liker-land/download.md" %}
 [download.md](../liker-land/download.md)
