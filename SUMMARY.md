@@ -82,6 +82,7 @@
 
 * [Community](general-guides/community/README.md)
   * [#Community Call](general-guides/community/community-call.md)
+  * [#LikeCoin AMA](general-guides/community/likecoin-ama.md)
   * [#translate-wallet-prefix](general-guides/community/translate-wallet-prefix.md)
   * [#faucet-testnet](general-guides/community/faucet-testnet.md)
 * [Writing NFT](general-guides/writing-nft/README.md)
