@@ -28,7 +28,11 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 ## 如何以 Keplr 註冊 Liker ID
 
-### 影片教學
+### 影片教學（廣東話）
+
+{% embed url="https://www.youtube.com/watch?v=oOC7jjHI5_g" %}
+
+### 影片教學（國語）
 
 {% embed url="https://www.youtube.com/watch?v=wYnNp8YrxvY" %}
 

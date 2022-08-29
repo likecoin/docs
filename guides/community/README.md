@@ -18,3 +18,7 @@ description: 想與更多用戶聯繫分享經驗，有渠道嗎？
 * [#LikeCoin AMA](likecoin-ama.md) - 參與 LikeCoin 的線上聚會 Ask Me Anything
 * [#translate-wallet-prefix](translate-wallet-prefix.md)－雙向查詢新舊前綴錢包地址
 * [#faucet-test](faucet-test.md)－獲取少量 LikeCoin 在 testnet 試用各種功能
+
+### LikeCoin Discord 使用教學（廣東話）
+
+{% embed url="https://www.youtube.com/watch?v=f5CF8C9lsoU" %}
