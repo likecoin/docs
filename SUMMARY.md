@@ -10,6 +10,7 @@
 
 * [社群](guides/community/README.md)
   * [#Community Call](guides/community/community-call.md)
+  * [#LikeCoin AMA](guides/community/likecoin-ama.md)
   * [#translate-wallet-prefix](guides/community/translate-wallet-prefix.md)
   * [#faucet-test](guides/community/faucet-test.md)
 * [Writing NFT](guides/writing-nft/README.md)
