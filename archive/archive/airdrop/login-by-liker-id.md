@@ -4,6 +4,12 @@ description: Login to the LikeCoin Airdrop page
 
 # Login by Liker ID
 
+
+
+{% hint style="danger" %}
+Archived on 2022/08/30. Airdrop discountinued.
+{% endhint %}
+
 ### Liker ID registered by general method (with Authcore)
 
 Users who [registered Liker ID by general method (with Authcore)](../../../user-guide/liker-id/register/) and Civic Liker, please prepare your Liker Land app and desktop computer to claim the airdrop.
