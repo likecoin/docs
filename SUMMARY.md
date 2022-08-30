@@ -2,7 +2,6 @@
 
 * [LikeCoin - 去中心出版](README.md)
 * [LikeCoin 進度更新](updates.md)
-* [LikeCoin 空投](airdrop.md)
 * [LikeCoin 答客問](faq.md)
 * [品牌素材下載](branding.md)
 
@@ -135,12 +134,7 @@
 ## 存檔 <a href="#archive" id="archive"></a>
 
 * [存檔](archive/archive/README.md)
-  * [Civic Liker Classic 與 2.0](archive/archive/civic-liker-classic-and-2.0/README.md)
-    * [如何訂閱讚賞公民](archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)
-    * [如何修改付款信用卡資料](archive/archive/civic-liker-classic-and-2.0/change-credit-card.md)
-    * [如何退訂「讚賞公民」](archive/archive/civic-liker-classic-and-2.0/unsubscribe-civic-liker.md)
-    * [以年費訂閱讚賞公民](archive/archive/civic-liker-classic-and-2.0/civic-liker-1.0-yearly.md)
-    * [讚賞公民常見問題](archive/archive/civic-liker-classic-and-2.0/civic-liker-faq.md)
+  * [LikeCoin 空投](archive/archive/airdrop.md)
   * [Liker Land](archive/archive/liker-land/README.md)
     * [我的 Content Jockey](archive/archive/liker-land/today-headline.md)
     * [閱讀列表](archive/archive/liker-land/reading-list.md)
@@ -153,9 +147,15 @@
     * [查看讚賞公民支持者清單](archive/archive/creatortools/support.md)
     * [Youtube](archive/archive/creatortools/youtube.md)
     * [生活譜記](archive/archive/creatortools/youput.md)
+  * [Civic Liker Classic 與 2.0](archive/archive/civic-liker-classic-and-2.0/README.md)
+    * [如何訂閱讚賞公民](archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)
+    * [如何修改付款信用卡資料](archive/archive/civic-liker-classic-and-2.0/change-credit-card.md)
+    * [如何退訂「讚賞公民」](archive/archive/civic-liker-classic-and-2.0/unsubscribe-civic-liker.md)
+    * [以年費訂閱讚賞公民](archive/archive/civic-liker-classic-and-2.0/civic-liker-1.0-yearly.md)
+    * [讚賞公民常見問題](archive/archive/civic-liker-classic-and-2.0/civic-liker-faq.md)
   * [社群](archive/archive/community/README.md)
-    * [購買產品與服務](archive/archive/community/products-and-services.md)
     * [讚賞車車](archive/archive/community/likecoin\_leafwind\_bot.md)
+    * [購買產品與服務](archive/archive/community/products-and-services.md)
   * [交易](archive/archive/trade/README.md)
     * [註冊 Liquid 帳號](archive/archive/trade/registering-on-liquid.md)
     * [在 Liquid 交易](archive/archive/trade/trade-in-liquid.md)
