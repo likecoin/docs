@@ -4,7 +4,7 @@ description: Set up your unique identity
 
 # Edit Avatar and Name
 
-Login [Liker Land](https://liker.land/) and visit [https://like.co/in/settings](https://like.co/in/settings), the following appears. Please check on the avatar and profile name to change them.\
+Login [Liker Land](https://liker.land/) and visit Settings or [https://like.co/in/settings](https://like.co/in/settings), the following appears. Please check on the avatar and profile name to change them.\
 
 
 Your name and avatar will appear in various Liker Land scenarios:

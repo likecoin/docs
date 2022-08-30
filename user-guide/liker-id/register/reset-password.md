@@ -61,7 +61,7 @@ On the login box, use your **email and password to login**. Please do not select
 
 ### **Step 6**
 
-After login, go to [https://like.co/in/settings](https://like.co/in/settings) ，click on Authcore → Security settings → Social logins to reset your Google, Facebook, Twitter logins.
+After login, go to Settings or [https://like.co/in/settings](https://like.co/in/settings) ，click on Authcore → Security settings → Social logins to reset your Google, Facebook, Twitter logins.
 
 ![](../../../.gitbook/assets/social-media-logins-1-en.png)
 

@@ -18,7 +18,7 @@ The following steps have to be operated on desktop computer, and a smart phone i
 
 ### Step 1: Go to security settings
 
-1. Login [Liker Land](https://liker.land/) and go to [https://like.co/in/settings](https://like.co/in/settings)
+1. Login [Liker Land](https://liker.land/) and go to Settings or [https://like.co/in/settings](https://like.co/in/settings)
 2. Select "Security settings" on "AuthCore Settings"
 3. Click "2-step verification (2FA)"
 
