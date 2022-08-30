@@ -18,18 +18,18 @@ description: 要去哪裏下載 Liker Land？
 
 點擊右上角的菜單，會彈出其他選項。​
 
-### 選項一：Portfolio
+### 選項一：My Dashboard
 
 連接用戶的 [NFT Portfolio](../../guides/writing-nft/nft-portfolio.md) 頁面。‌
 
-### 選項二：讚賞公民
+### 選項二：Civic Liker 讚賞公民
 
 用戶可委託 LikeCoin 成為[讚賞公民](../civic-liker/)在 [Dashboard](../civic-liker/dashboard.md) 查看委託狀態。
 
-### 選項三：幫助
+### 選項三：Settings 設定
 
-聯繫客戶服務留言對話‌。
+設定你的帳戶。
 
-### 選項四：登出
+### 選項四：Sign Out 登出
 
 在此登出 Liker Land。假若你想使用另一帳號登入，必須先於 Liker Land 網站登出才行，否則下次登入時仍會自動登入上次登入的帳戶。

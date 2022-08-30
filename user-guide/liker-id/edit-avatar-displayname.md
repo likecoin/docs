@@ -4,7 +4,7 @@ description: 讓自己的性格更特出
 
 # 修改頭像及顯示名稱
 
-登入 [Liker Land](https://liker.land/) 並訪問 [https://like.co/in/settings](https://like.co/in/settings)，你會見到以下畫面。請點擊紅圈位置修改你的頭像及顯示名稱。
+登入 [Liker Land](https://liker.land/) 並訪問 Settings 或 [https://like.co/in/settings](https://like.co/in/settings)，你會見到以下畫面。請點擊紅圈位置修改你的頭像及顯示名稱。
 
 ![](<../../.gitbook/assets/Settings 01.png>)
 

@@ -16,7 +16,7 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 ### 步驟一：進入安全設定
 
-1. 登入 [Liker Land](https://liker.land/)，並前往 [https://like.co/in/settings](https://like.co/in/settings)
+1. 登入 [Liker Land](https://liker.land/)，並前往 Settings 或 [https://like.co/in/settings](https://like.co/in/settings)
 2. 在頁面中部的「Authcore 設定」中選擇「安全設定」分頁
 3. 點擊「雙重認證」
 
