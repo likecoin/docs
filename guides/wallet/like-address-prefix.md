@@ -24,6 +24,8 @@ LikeCoin 地址從 cosmos 前綴（下稱「舊格式」）轉到 like 前綴（
 * 雖然新格式「向後兼容」會維持一段時間，但 LikeCoin 相關的應用會漸漸以支援新格式為主，舊格式將有一天被淘汰。
 * 在某些 Dapp 上用戶或需手動設定才能用到新格式，例如 Keplr。
 
+{% embed url="https://www.youtube.com/watch?v=0zAfhIAgj44" %}
+
 {% embed url="https://www.youtube.com/watch?v=CPXY9A42zBo" %}
 
 ### 若不小心把 LikeCoin 傳送了到舊格式地址，怎麼辦？
