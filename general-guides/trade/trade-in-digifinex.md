@@ -54,7 +54,7 @@ Next step is to wait for DigiFinex to confirm the transfer.
 
 If you are using [Keplr](../wallet/keplr/), please insert the memo in "Memo (Optional)" field.
 
-![](../../.gitbook/assets/keplr11.png)
+![](broken-reference)
 
 {% hint style="danger" %}
 DigiFinex requires you to input your "Tag/Memo" into the chain during deposit. If you do not fill in the "Tag/Memo" will result in not being able to deposit into DigiFinex. They will have to find a technician to assist you and require 7-21 days to fix it and a 10 USDT service fee. Your DigiFinext account needs to have such an amount of fee.&#x20;Please contact [DigiFinex Customer Service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241--New-User-Guide-How-to-Find-the-Customer-Service) for handling.

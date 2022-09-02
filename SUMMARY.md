@@ -103,6 +103,8 @@
 * [Wallet](general-guides/wallet/README.md)
   * [Keplr](general-guides/wallet/keplr/README.md)
     * [How to install Keplr extension](general-guides/wallet/keplr/how-to-install-keplr-extension.md)
+    * [Deposit and Send](general-guides/wallet/keplr/deposit-and-send.md)
+    * [Send, delegate, vote and view transaction details](general-guides/wallet/keplr/dao.like.co.md)
     * [Import wallet into Keplr](general-guides/wallet/keplr/mport-account.md)
   * [Cosmostation](general-guides/wallet/cosmostation/README.md)
     * [How to install Cosmostation extension](general-guides/wallet/cosmostation/installation.md)
