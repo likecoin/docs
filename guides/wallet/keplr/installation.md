@@ -4,13 +4,21 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 # 安裝 Keplr 瀏覽器擴充功能
 
+### 影片教學
+
+{% embed url="https://www.youtube.com/watch?v=4j7YVGE7oG0" %}
+
+### 步驟一：安裝 Keplr 瀏覽器擴充功能
+
 到 Chrome 線上應用程式商店按「加到 Chrome」安裝 [Keplr 瀏覽器擴充功能](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)。
 
 ![](../../../.gitbook/assets/keplr01.png)
 
-點擊並將 Keplr 插件「Add extension」加到 Chrome。
+點擊並片將 Keplr 插件「Add extension」加到 Chrome。
 
 ![](../../../.gitbook/assets/keplr02.png)
+
+### 步驟二：註冊新帳戶
 
 安裝完成後，點擊 Keplr 圖示並顯示註冊畫面。點擊並「Create new account」。
 
@@ -23,7 +31,7 @@ description: 安裝步驟如下，緊記保存好助記詞
 輸入你的 Account name、新密碼、確認密碼然後點擊「Next」，再確認助記詞後系統將顯示 Keplr 錢包介面。
 
 {% hint style="info" %}
-完成安裝後，請訪問 [https://dao.like.co](https://dao.like.co/welcome)，選擇以 Keplr 登入，再選 "approve"，才能於 Keplr 顯示 LikeCoin chain。
+完成安裝後，請訪問 [https://dao.like.co](https://dao.like.co/welcome)，選擇「Keplr Browser Extension」，再選 「Approve」，才能於 Keplr 顯示 LikeCoin chain，詳見 [轉帳、委託、投票及查看交易明細](dao.like.co.md)。
 {% endhint %}
 
 {% hint style="danger" %}

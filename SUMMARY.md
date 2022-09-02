@@ -32,6 +32,8 @@
 * [錢包](guides/wallet/README.md)
   * [Keplr](guides/wallet/keplr/README.md)
     * [安裝 Keplr 瀏覽器擴充功能](guides/wallet/keplr/installation.md)
+    * [存入及轉帳](guides/wallet/keplr/deposit-send.md)
+    * [轉帳、委託、投票及查看交易明細](guides/wallet/keplr/dao.like.co.md)
     * [在 Keplr 導入錢包](guides/wallet/keplr/import-account.md)
   * [Cosmostation](guides/wallet/cosmostation/README.md)
     * [安裝 Cosmostation 瀏覽器擴充功能](guides/wallet/cosmostation/installation.md)
