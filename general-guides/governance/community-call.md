@@ -25,7 +25,7 @@ description: >-
 
 | **Date**            | **Description**                                                                |
 | ------------------- | ------------------------------------------------------------------------------ |
-| Monday, 5 September |                                                                                |
+| Monday, 5 September | Writing NFT Progress and Roadmap                                               |
 | Monday, 1 August    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 4 July      | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 6 June      | Q3 & Q4 Roadmap                                                                |

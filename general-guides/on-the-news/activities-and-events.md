@@ -2,9 +2,15 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 08/30 LikeCoin Discord
+
+薯伯伯：把 "404" 的立場博客文章再出版成 Writing NFT
+
 ### 08/25 Binance Live
 
-[How Are Blockchain & NFTs Changing the Publishing Industry](https://www.binance.com/en/live/video?roomId=2107897)
+[How Are Blockchain & NFTs Changing伯 the Publishing Industry](https://www.binance.com/en/live/video?roomId=2107897)
+
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ### 08/24 Revive Tech Asia 2022
 
