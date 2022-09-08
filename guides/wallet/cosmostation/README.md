@@ -10,8 +10,8 @@ description: 支援 LikeCoin 的多鏈錢包
 
 請參考以下文章了解如何在桌面電腦安裝 Cosmostation：
 
-{% content-ref url="../keplr/installation.md" %}
-[installation.md](../keplr/installation.md)
+{% content-ref url="installation.md" %}
+[installation.md](installation.md)
 {% endcontent-ref %}
 
 你亦可以匯出你的 Liker Land 助記詞以使用 Keplr 錢包：
