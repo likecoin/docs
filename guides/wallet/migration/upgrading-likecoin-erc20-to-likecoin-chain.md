@@ -93,8 +93,8 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 如何在 Liker Land 手機應用程式查看 Cosmos 錢包地址可參看：
 
-{% content-ref url="../big-dipper.md" %}
-[big-dipper.md](../big-dipper.md)
+{% content-ref url="../block-explorer/big-dipper.md" %}
+[big-dipper.md](../block-explorer/big-dipper.md)
 {% endcontent-ref %}
 
 ### 假設你的 LikeCoin ERC-20 是從交易所中購買

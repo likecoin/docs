@@ -34,7 +34,7 @@ description: LikeCoin 常見問題
 * [如何轉帳 LikeCoin？](guides/wallet/like-pay.md)
 * [LikeCoin 支援硬件錢包嗎？](guides/wallet/hardware-wallet.md)
 * [如何找到自己的錢包地址？](guides/wallet/wallet-address.md)
-* [LikeCoin 有區塊鏈瀏覽器嗎？](guides/wallet/big-dipper.md)
+* [LikeCoin 有區塊鏈瀏覽器嗎？](guides/wallet/block-explorer/big-dipper.md)
 * [操作 LikeCoin 需要手續費嗎？](guides/wallet/transaction-fee.md)
 * [我的舊版 LikeCoin ERC-20 應該怎處理？](guides/wallet/migration/)
 * [甚麼是 like1 錢包地址？](guides/wallet/like-address-prefix.md)

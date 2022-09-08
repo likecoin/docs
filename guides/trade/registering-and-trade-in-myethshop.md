@@ -50,7 +50,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ![](broken-reference)
 
-會跳出畫開啟瀏覽器顯示 [北斗 Big Dipper](../wallet/big-dipper.md) 內容，選取剛進行的交易，會看見 Hash 下面一串（紅箭嘴）的就是哈希 Transaction Hash / TXID，並說明是從你的錢包地址轉帳到 MyEthshop 的錢包 cosmos1zr8fwqpkj0sydpjfjqa4uk4ptu6tahgfw8deyq。複製哈希地址
+會跳出畫開啟瀏覽器顯示 [北斗 Big Dipper](../wallet/block-explorer/big-dipper.md) 內容，選取剛進行的交易，會看見 Hash 下面一串（紅箭嘴）的就是哈希 Transaction Hash / TXID，並說明是從你的錢包地址轉帳到 MyEthshop 的錢包 cosmos1zr8fwqpkj0sydpjfjqa4uk4ptu6tahgfw8deyq。複製哈希地址
 
 ![](<../../.gitbook/assets/MyEthShop 03.png>)
 

@@ -6,7 +6,7 @@ description: 以硬件錢包保障你的 LikeCoin 資產
 
 在使用你的硬件錢包前，請設定並安裝 Cosmos app。以 Ledger 為例，你可以到 [Ledger Live](https://support.ledger.com/hc/en-us/articles/360013713840-Cosmos-ATOM-) 安裝它。
 
-以下示範採用 [Big Dipper](big-dipper.md) 區塊鏈瀏覽器進行，你也可以使用 [Keplr](keplr/) 配合硬件錢包管理你的 LikeCoin，詳見 [How to use Ledger Nano hardware wallet with Keplr](https://medium.com/chainapsis/how-to-use-ledger-nano-hardware-wallet-with-keplr-9ea7f07826c2)。
+以下示範採用 [Big Dipper](block-explorer/big-dipper.md) 區塊鏈瀏覽器進行，你也可以使用 [Keplr](keplr/) 配合硬件錢包管理你的 LikeCoin，詳見 [How to use Ledger Nano hardware wallet with Keplr](https://medium.com/chainapsis/how-to-use-ledger-nano-hardware-wallet-with-keplr-9ea7f07826c2)。
 
 ## 讀取你的硬件錢包
 
