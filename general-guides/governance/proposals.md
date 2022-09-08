@@ -6,6 +6,27 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## Proposal #56 Community Pool Spend Proposal: deposit 2,000,000 LIKE to the Migration wallet
+
+* Proposer: William
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.09.02,&#x20;
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[h](https://bigdipper.live/likecoin/proposals/55)
+
+## Proposal #55 Update expired CosmosHub IBC Client on LikeCoin
+
+* Proposer: William
+* Proposal Type: proposals:/ibc.core.client.v1.ClientUpdateProposal
+* Date: Submit on 2022.09.01, Passed on 2022.09.08
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/55](https://bigdipper.live/likecoin/proposals/55)
+
+## Proposal #54 Dummy proposal for new users to claim fairdrop
+
+* Proposer: Mikasa
+* Proposal Type: Text Proposal
+* Date: Submit on 2022.08.18, Passed on 2022.08.25
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/54](https://bigdipper.live/likecoin/proposals/54)
+
 ## Proposal #53 Follow-up failed proposal #51 - Deposit 15,000,000 LIKE to Tech Subdao multisig wallet
 
 * Proposer: ckxpress
