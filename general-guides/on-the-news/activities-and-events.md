@@ -2,9 +2,13 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 09/07 LikeCoin Discord
+
+[Writing NFT 你問我答](https://www.facebook.com/Liker.Land/posts/pfbid037TARyxvojGiWsCKBgVXer2TwJx6VyPJQa4xfpHUrV57tQLc5LApHMogdtbyFUYZpl)
+
 ### 08/30 LikeCoin Discord
 
-薯伯伯：把 "404" 的立場博客文章再出版成 Writing NFT
+[薯伯伯：把 "404" 的立場博客文章再出版成 Writing NFT](https://www.facebook.com/Liker.Land/posts/pfbid0ZPyJayDibUZEnWPg6qr52fCtsdojBwRuDujT38rJai423w6SeE3XC3TpL19gWgdvl)
 
 ### 08/25 Binance Live
 
@@ -20,7 +24,7 @@ Migrating the Creator Economy to Web3
 
 ### 08/24 LikeCoin Discord
 
-許明恩：Writing NFT 與內容保育
+[許明恩：Writing NFT 與內容保育](https://www.facebook.com/Liker.Land/posts/pfbid02Mk4wWCdHeRKs3odvMGrQdckJSzx3uG11CkVpn8hMvUMEoCysbEiXhKMC4FtG7wmHl)
 
 ### 08/11 LikeCoin Twitter
 
@@ -42,15 +46,15 @@ Migrating the Creator Economy to Web3
 
 ### 07/27 LikeCoin Discord
 
-[LikeCoin AMA：Sally Chong 莎莉斜槓人生提案](https://discord.com/channels/763001015712350231/966284715546001428/1000670574143606845)
+[LikeCoin AMA：Sally Chong 莎莉斜槓人生提案](https://www.facebook.com/Liker.Land/posts/pfbid0PQikknTzgdbHXACRyUC3NKKZd4XaKeWfbBucXN4ZX3WdyqqZMzzsN2sqk8worMZCl)
 
 ### 07/26 LikeCoin Discord
 
-[初創起步 Startup Readiness Bootcamp AMA](https://www.facebook.com/Liker.Land/posts/pfbid02hogWQ1mLvVSkquEBAsRSaqFjoYskYVSnU6meY3Rbtf6kxko9R52kW3dfBdXjuiuRl)
+[初創起步 Startup Readiness Bootcamp AMA](https://www.facebook.com/Liker.Land/posts/pfbid02hYXF5TRGP1qdR7qGEuUpCXLJtvmfkcaoCiooGY8wTEEdZSbX5KBks9yZukt31iFgl)
 
 ### 07/14 LikeCoin Discord
 
-[Watershed HK X LikeCoin AMA: 「香港歷史與去中心出版」](https://discord.com/channels/763001015712350231/966284715546001428/995978756403494932)
+[Watershed HK X LikeCoin AMA: 「香港歷史與去中心出版」](https://www.facebook.com/Liker.Land/posts/pfbid0tLxCKBUgwP4kqj1GQrJnzJk5kew9pZjPErvHZmLqVzPdaoYbFLwpsfHts3a2Ex93l)
 
 ### 07/12 網絡星期二
 
