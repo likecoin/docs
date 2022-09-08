@@ -6,6 +6,27 @@ description: LikeCoin DAO 有過甚麼議案？
 
 ![](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
 
+## 議案 #56 向遷移錢包存入 2,000,000 LIKE
+
+* **提案：**William
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.09.02 提案，
+* **詳情**：[https://bigdipper.live/likecoin/proposals/56](https://bigdipper.live/likecoin/proposals/56)
+
+## 議案 #55 在 LikeCoin 上更新過期的 CosmosHub IBC 客戶端
+
+* **提案：**William
+* **類型**：ibc.core.client.v1.Client 更新議案
+* **日期**：2022.09.01 提案，2022.09.08 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/55](https://bigdipper.live/likecoin/proposals/55)
+
+## 議案 #54 新用戶申請 fairdrop 的虛擬提案
+
+* **提案：**Mikasa
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2022.08.18 提案，2022.08.25 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/54](https://bigdipper.live/likecoin/proposals/54)
+
 ## 議案 #53 跟進議案 51 - 存入 15,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
 
 * **提案：**ckxpress
