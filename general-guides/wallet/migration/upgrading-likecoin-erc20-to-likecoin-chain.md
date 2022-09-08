@@ -86,8 +86,8 @@ Please [register a Liker ID by general method ( with authcore )](../../../user-g
 
 You may want to check this out for checking the Cosmos wallet address on Big Dipper:
 
-{% content-ref url="../big-dipper.md" %}
-[big-dipper.md](../big-dipper.md)
+{% content-ref url="../block-explorer/big-dipper.md" %}
+[big-dipper.md](../block-explorer/big-dipper.md)
 {% endcontent-ref %}
 
 ### If you purchased your LikeCoin in a crypto exchange

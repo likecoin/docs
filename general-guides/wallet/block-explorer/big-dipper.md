@@ -10,16 +10,16 @@ description: Explore LikeCoin chain
 
 ### Keplr / Cosmostation / Liker Land web
 
-Copy the [wallet address](wallet-address.md) and paste it in the search field of the [Big Dipper](https://likecoin.bigdipper.live/) website.
+Copy the [wallet address](../wallet-address.md) and paste it in the search field of the [Big Dipper](https://likecoin.bigdipper.live/) website.
 
 ### Liker Land app
 
 Click on "My Wallet in Liker Land app then move to the bottom, click on "View on Big Dipper open data browser".
 
-![](<../../.gitbook/assets/Big Dipper-en.png>)
+![](<../../../.gitbook/assets/Big Dipper-en.png>)
 
 A browser will pop-up and show the Big Dipper block explorer. You may also copy the Cosmos wallet address of your Liker ID (circled in red), input the wallet address on desktop (Red Arrow)  and explore the transactions.
 
-![](../../.gitbook/assets/bigdipper-01.png)
+![](../../../.gitbook/assets/bigdipper-01.png)
 
-![](../../.gitbook/assets/bigdipper-02.png)
+![](../../../.gitbook/assets/bigdipper-02.png)

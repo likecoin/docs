@@ -33,7 +33,7 @@ LikeCoin Overview&#x20;<a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="l
 * [How to transfer LikeCoin?](general-guides/wallet/like-pay.md)[  ](general-guides/wallet/keplr/)
 * [Does LikeCoin support hardware wallets?](general-guides/wallet/hardware-wallet.md)
 * [How to find my wallet address?](general-guides/wallet/wallet-address.md)
-* [Any block explorer for LikeCoin?](general-guides/wallet/big-dipper.md)
+* [Any block explorer for LikeCoin?](general-guides/wallet/block-explorer/big-dipper.md)
 * [Is there a transaction fee?](general-guides/wallet/transaction-fee.md)
 * [How to handle my LikeCoin ERC-20 token?](general-guides/wallet/migration/)
 * [What is a "like1" address?](general-guides/wallet/like-address-prefix.md)
