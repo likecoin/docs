@@ -58,9 +58,7 @@ Migrating the Creator Economy to Web3
 
 ### 07/12 網絡星期二
 
-\[2022/07/12 網路星期二線上直播] ：合作社 ＆ 去中心化自治組織 DAO -- 以人為本的治理解決了哪些問題，又面臨哪些困境？
-
-{% embed url="https://www.youtube.com/watch?v=3OGTSRJK5mY" %}
+[\[2022/07/12 網路星期二線上直播\] ：合作社 ＆ 去中心化自治組織 DAO -- 以人為本的治理解決了哪些問題，又面臨哪些困境？](https://www.youtube.com/watch?v=3OGTSRJK5mY\&feature=emb\_title)
 
 ### 07/10 Cosmos Spaces Twitter
 
@@ -76,7 +74,7 @@ Migrating the Creator Economy to Web3
 
 [自由「三幅被」？區塊鏈與自由的實踐](https://www.ihs.ntu.edu.tw/web/news/news\_in.jsp?np\_id=NP1651110378181)
 
-{% embed url="https://www.youtube.com/watch?v=K5EgDuy_PIs" %}
+[Video](https://www.youtube.com/watch?v=K5EgDuy\_PIs)
 
 ### 04/19 LikeCoin Discord
 
@@ -88,9 +86,7 @@ Migrating the Creator Economy to Web3
 
 ### 02/24 Impact Incubator 創匯點
 
-【社會企業專題研討會 – 區塊鏈 x 社會影響力】區塊鏈的社會創想
-
-{% embed url="https://www.youtube.com/watch?v=wfDQ0FOeaGI" %}
+[【社會企業專題研討會 – 區塊鏈 x 社會影響力】區塊鏈的社會創想](https://www.youtube.com/watch?v=wfDQ0FOeaGI\&feature=emb\_title)
 
 :end:
 {% endtab %}
