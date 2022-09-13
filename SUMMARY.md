@@ -146,7 +146,7 @@
     * [Community Delegation](general-guides/governance/what-is-a-validator/community-delegation.md)
   * [Proposals](general-guides/governance/proposals.md)
 * [On the News](general-guides/on-the-news/README.md)
-  * [Interview and Features](general-guides/on-the-news/interview.md)
+  * [Interviews and Features](general-guides/on-the-news/interviews.md)
   * [Activities and Events](general-guides/on-the-news/activities-and-events.md)
   * [Mentions](general-guides/on-the-news/mentions.md)
   * [Awards and Press Release](general-guides/on-the-news/press-release.md)

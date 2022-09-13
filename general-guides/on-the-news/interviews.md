@@ -1,4 +1,4 @@
-# Interview and Features
+# Interviews and Features
 
 {% tabs %}
 {% tab title="2022" %}
@@ -290,7 +290,7 @@
 {% tab title="2020" %}
 ### 12/23 寶博朋友說
 
-{% embed url="https://open.spotify.com/episode/3VgEUb0vP97y3bZtjCEAaw?si=tScKAduBTKqem0uDhoeI0g" %}
+[有些創新，是希望守護歷史ft. LikeCoin 創辦人高重建](https://open.spotify.com/episode/3VgEUb0vP97y3bZtjCEAaw?go=1\&sp\_cid=dbcfb495bc98c587f9106bc72de4f25b\&utm\_source=embed\_player\_p\&utm\_medium=desktop\&nd=1)
 
 ### 11/28 科創社工學會 Society for Innovation and Technology in Social Work
 
@@ -402,7 +402,7 @@
 
 [144 – Get paid with likes… the Like Coin with Kin Ko](https://wpbuilds.com/2019/09/05/144-get-paid-with-likes-the-like-coin-with-kin-ko/)
 
-{% embed url="https://www.youtube.com/watch?v=OBnVs3nPPgQ" %}
+[Video](https://www.youtube.com/watch?v=OBnVs3nPPgQ)
 
 ### 7/31 CIBS節目：區塊鏈與你 (Blockchain and You)&#x20;
 
@@ -486,9 +486,7 @@
 
 ### 06/01 &#xD;Liquid
 
-QUOINE x LikeCoin: The Future of the Like
-
-{% embed url="https://www.youtube.com/watch?v=zi8H0U-TdF8" %}
+[QUOINE x LikeCoin: The Future of the Like](https://www.youtube.com/watch?v=zi8H0U-TdF8)
 
 ### 05/23 **壹**周刊
 
@@ -520,7 +518,7 @@ QUOINE x LikeCoin: The Future of the Like
 
 [LikeCoin Founder - Kin Ko Presents An Opportunity for Artists to Earn](https://www.cryptoground.com/a/likecoin-founder-kin-ko-presents-an-opportunity-for-artists-to-earn)
 
-{% embed url="https://www.youtube.com/watch?v=VcAOnpquTB0" %}
+[Video](https://www.youtube.com/watch?v=VcAOnpquTB0)
 
 ### 04/19 區塊客
 
@@ -542,15 +540,15 @@ QUOINE x LikeCoin: The Future of the Like
 
 ### 04/02 香港電台普通話台 AM621 CIBS 節目 - 追趕科技世界 (The World towards Information Technology) 科技Band房
 
-第十三集
+[科技Band房 第十三集 Part 1](https://www.youtube.com/watch?v=ZkliYqFnhc0)
 
-{% embed url="https://www.youtube.com/watch?v=ZkliYqFnhc0" %}
+[科技Band房 第十三集 Part 2](https://www.youtube.com/watch?v=6wj1MmQaydA)
 
-{% embed url="https://www.youtube.com/watch?v=6wj1MmQaydA" %}
+### 03/30 文化土豆
 
-### 03/30 文化土豆&#xD;
+[042 爱国我说不出口【張潔平, 高重建】](https://www.youtube.com/watch?v=OEpvchhkJnY)
 
-{% embed url="https://www.youtube.com/watch?v=OEpvchhkJnY" %}
+### &#xD;
 
 ### 03/23 香港無線電視財經台 「錢」進新世代
 
@@ -584,11 +582,11 @@ QUOINE x LikeCoin: The Future of the Like
 
 Winnier of Mr.Block x Blockshow Taipei Meetup
 
-{% embed url="https://www.youtube.com/watch?v=x4_-UY1baT8" %}
+[LikeCoin - Founder Kin Ko](https://www.youtube.com/watch?v=x4\_-UY1baT8)
 
-{% embed url="https://www.youtube.com/watch?v=Acw3C5O29H8" %}
+[專訪 LikeCoin創辦人 - 高重建【BlockShow】（國語）](https://www.youtube.com/watch?v=Acw3C5O29H8)
 
-{% embed url="https://www.youtube.com/watch?v=nu0ejonIMCw" %}
+[LikeCoin is the winner of Blockshow Taiwan 2018](https://www.youtube.com/watch?v=Acw3C5O29H8)
 
 ### 03/05 香港蘋果日報
 
