@@ -100,33 +100,21 @@
 
 ### 12/18 財科暗戰
 
-【財科暗戰】 香港人創辦的LikeCoin！去中心化出版讓創作有價（按CC看中文字幕）丨章濤丨高重建丨區塊鏈丨LikerID丨讚好
+[【財科暗戰】 香港人創辦的LikeCoin！去中心化出版讓創作有價（按CC看中文字幕）丨章濤丨高重建丨區塊鏈丨LikerID丨讚好](https://www.youtube.com/watch?v=xIchXGKpBuU)
 
-{% embed url="https://www.youtube.com/watch?v=xIchXGKpBuU" %}
+[【財科暗戰】什麼是DAO？民主的體現還是獨裁的手段？答問題贏1000個LikeCoin（按CC看中文字幕）丨章濤丨高重建 丨分布式自治組織丨區塊鏈丨加密貨幣](https://www.youtube.com/watch?v=S49QC7tS50A)
 
-【財科暗戰】什麼是DAO？民主的體現還是獨裁的手段？答問題贏1000個LikeCoin（按CC看中文字幕）丨章濤丨高重建 丨分布式自治組織丨區塊鏈丨加密貨幣
+[【財科暗戰】LikeCoin發起人高重建你問我答！LikeCoin的未來發展！答問題贏1000個LikeCoin（按CC看中文字幕）丨章濤丨高重建 丨區塊鏈](https://www.youtube.com/watch?v=PVGuLRo\_fAE)
 
-{% embed url="https://www.youtube.com/watch?v=S49QC7tS50A" %}
-
-【財科暗戰】LikeCoin發起人高重建你問我答！LikeCoin的未來發展！答問題贏1000個LikeCoin（按CC看中文字幕）丨章濤丨高重建 丨區塊鏈
-
-{% embed url="https://www.youtube.com/watch?v=PVGuLRo_fAE" %}
-
-【財科暗戰】LikeCoin發起人高重建看好2.5隻幣？ AR、OSMO 還有半隻是什麼？答問題贏1000個LikeCoin（按CC看中文字幕）丨章濤丨高重建丨Osmosis
-
-{% embed url="https://www.youtube.com/watch?v=RoYcwapRVOM" %}
+[【財科暗戰】LikeCoin發起人高重建看好2.5隻幣？ AR、OSMO 還有半隻是什麼？答問題贏1000個LikeCoin（按CC看中文字幕）丨章濤丨高重建丨Osmosis](https://www.youtube.com/watch?v=RoYcwapRVOM)
 
 ### 12/14 立場新聞
 
-黃宇軒 X 高重建詳細解釋元宇宙　生活的立場 圍爐長知識
-
-{% embed url="https://www.youtube.com/watch?v=XvhNtoO934Y" %}
+[黃宇軒 X 高重建詳細解釋元宇宙　生活的立場 圍爐長知識](https://www.youtube.com/watch?v=XvhNtoO934Y)
 
 ### 12/14 中廣新聞
 
-10 分鐘「新書快報」周詳 《區塊鏈社會學》
-
-{% embed url="https://www.youtube.com/watch?v=gVkYUHtpvcU" %}
+[10 分鐘「新書快報」周詳 《區塊鏈社會學》](https://www.youtube.com/watch?v=gVkYUHtpvcU)
 
 ### 11/02 forkast
 
@@ -150,21 +138,15 @@
 
 ### 07/29 財科暗戰
 
-【財科暗戰】區塊鏈社會學 - 第二集： 區塊鏈可以用來出版！？| 章濤
-
-{% embed url="https://www.youtube.com/watch?v=V1S3M9V2t9Y" %}
+[【財科暗戰】區塊鏈社會學 - 第三集： 兩個ETH大好友怎樣看待後市？| 章濤](https://www.youtube.com/watch?v=V1S3M9V2t9Y)
 
 ### 07/25 財科暗戰
 
-【財科暗戰】區塊鏈社會學 - 第二集： 區塊鏈可以用來出版！？| 章濤
-
-{% embed url="https://www.youtube.com/watch?v=1r1WVu9retk" %}
+[【財科暗戰】區塊鏈社會學 - 第二集： 區塊鏈可以用來出版！？| 章濤](https://www.youtube.com/watch?v=1r1WVu9retk)
 
 ### 07/21 &#xD;財科暗戰
 
 [【財科暗戰】區塊鏈社會學 - 第一集： 區塊鏈除了炒幣，還能做什麼？| 章濤](https://www.youtube.com/watch?v=OfbJa7lBK-s)
-
-{% embed url="https://www.youtube.com/watch?v=OfbJa7lBK-s" %}
 
 ### 07/21 區塊勢
 
@@ -324,7 +306,7 @@
 
 [HoCHK Webinar: Kin Ko, Entrepreneur, Founder, LikeCoin](https://www.meetup.com/Hong-Kong-Hour-of-Code-Meetup-Group/events/273470964/)
 
-{% embed url="https://youtu.be/u6KARzk7vok?t=595" %}
+[Video](https://www.youtube.com/watch?v=u6KARzk7vok\&t=595s)
 
 ### 10/07 IPFS
 
@@ -370,15 +352,11 @@
 
 ### **03/10 寶博士**
 
-【寶博朋友說】區塊鏈打賞: 按讚就能讓人賺幣致富?! - 專訪 讚賞公民共和國 LikeCoin 創辦人 高重建 Kin Ko｜EP23
-
-{% embed url="https://www.youtube.com/watch?v=P69AS9ORPmM" %}
+[【寶博朋友說】區塊鏈打賞: 按讚就能讓人賺幣致富?! - 專訪 讚賞公民共和國 LikeCoin 創辦人 高重建 Kin Ko｜EP23](https://www.youtube.com/watch?v=P69AS9ORPmM)
 
 ### 02/19 Meet 創業小聚
 
-【創業新聲帶】EP4 LikeCoin｜按讚有錢賺！LikeCoin 用區塊鏈打造創作者生態系，實現創作可當飯吃｜Meet 創業小聚
-
-{% embed url="https://www.youtube.com/watch?v=Ev-1DQ-F7Ho" %}
+[【創業新聲帶】EP4 LikeCoin｜按讚有錢賺！LikeCoin 用區塊鏈打造創作者生態系，實現創作可當飯吃｜Meet 創業小聚](https://www.youtube.com/watch?v=Ev-1DQ-F7Ho)
 
 ### 02/10 Meet 創業小聚
 
