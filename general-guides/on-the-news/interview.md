@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 09/05 好青年荼毒室
+
+&#x20;[【哲學係咁傾】ep. 31 甚麼是 NFT？｜嘉賓：高重建](https://www.youtube.com/watch?v=xJ7g45oFU04)
+
 ### 08/22 ViuTV 99 智富通 FinTech 全方位
 
 [【Fintech全方位】 DePub 將文章轉成NFT📝以「讚賞」實質支持創作者👍🏻 何謂「幣本位」？以加密貨幣作為幣本位有何不同？](https://iwealthfin.com/blog.php?blog\_id=308)
