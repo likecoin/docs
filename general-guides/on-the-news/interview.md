@@ -12,9 +12,7 @@
 
 ### 08/18 財科暗戰
 
-【財科暗戰】Likerland 推出writing NFT，讓創作有價！ 即場示範如何買下喜愛的作品（按CC看中文字幕）丨章濤丨Phoebe丨加密貨幣丨礦工費丨高重建丨LikeCoin
-
-{% embed url="https://www.youtube.com/watch?v=wpfS5G6rKGg" %}
+[【財科暗戰】Likerland 推出writing NFT，讓創作有價！ 即場示範如何買下喜愛的作品（按CC看中文字幕）丨章濤丨Phoebe丨加密貨幣丨礦工費丨高重建丨LikeCoin](https://www.youtube.com/watch?v=wpfS5G6rKGg\&feature=emb\_title)
 
 ### 08/12 ViuTV 99 智富通 FinTech 全方位
 
@@ -22,17 +20,11 @@
 
 ### 07/07 財科暗戰
 
-【財科暗戰】熊市下要學會「Zoom out」！LikeCoin最新發展之一：將文章變成NFT丨章濤丨高重建丨加密貨幣丨DHK丨NFT
+[【財科暗戰】熊市下要學會「Zoom out」！LikeCoin最新發展之一：將文章變成NFT丨章濤丨高重建丨加密貨幣丨DHK丨NFT](https://www.youtube.com/watch?v=gQKeFeB7HHo)
 
-{% embed url="https://www.youtube.com/watch?v=gQKeFeB7HHo" %}
+[【財科暗戰】熊市下區塊鏈團隊如何生存？](https://www.youtube.com/watch?v=3tIImnAvxVc)
 
-【財科暗戰】熊市下區塊鏈團隊如何生存？
-
-{% embed url="https://www.youtube.com/watch?v=3tIImnAvxVc" %}
-
-【財科暗戰】 高重建分享對ETH的看法！DHK Token Airdrop可長達5年？丨章濤丨高重建丨加密貨幣丨NFT丨Ethereum丨以太幣
-
-{% embed url="https://www.youtube.com/watch?v=32408koE7Lg" %}
+[【財科暗戰】 高重建分享對ETH的看法！DHK Token Airdrop可長達5年？（按CC看中文字幕）丨章濤丨高重建丨加密貨幣丨NFT丨Ethereum丨以太幣](https://www.youtube.com/watch?v=32408koE7Lg)
 
 ### 05/24 風傳媒
 
@@ -50,9 +42,9 @@
 
 [NFTs Are Put to New Use in China, Countering Censorship During Pandemic](https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403)
 
-### 05/21 #1 Episode: The Missing Archive
+### 05/21 Blockchain Journalism
 
-{% embed url="https://soundcloud.com/sanathe8journo/blockchainjournalism-hongkongmedia-themissingarchive" %}
+[#1 Episode: The Missing Archive](https://soundcloud.com/sanathe8journo/blockchainjournalism-hongkongmedia-themissingarchive)
 
 ### 05/21 @beincrypto
 
@@ -64,15 +56,11 @@
 
 ### 04/30 尹思哲
 
-「如何一鍵 Wordpress 變 NFT」 - Likecoin Phoebe Poon #26
-
-{% embed url="https://www.youtube.com/watch?v=OLx5WOJiN0A" %}
+[「如何一鍵 Wordpress 變 NFT」 - Likecoin Phoebe Poon #26](https://www.youtube.com/watch?v=OLx5WOJiN0A)
 
 ### 04/26 Crypto Conscious
 
-Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)
-
-{% embed url="https://www.youtube.com/watch?v=wC51ym1-ghM" %}
+[Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)](https://www.youtube.com/watch?v=wC51ym1-ghM)
 
 ### 04/21 信報 優雅生活
 
@@ -84,15 +72,11 @@ Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)
 
 ### 04/12 好青年荼毒室
 
-【哲學係咁傾】ep. 11 密碼貨幣（Cryptocurrency）與哲學 | 錢，唔淺！｜嘉賓：高重建
-
-{% embed url="https://www.youtube.com/watch?v=yYxmVYOMA4s" %}
+[【哲學係咁傾】ep. 11 密碼貨幣（Cryptocurrency）與哲學 | 錢，唔淺！｜嘉賓：高重建](https://www.youtube.com/watch?v=yYxmVYOMA4s)
 
 ### 03/30 Web2.5 時代
 
-\[Web2.5 時代] KZ x 高重建@ LikeCoin和 decentralizehk發起人
-
-{% embed url="https://www.youtube.com/watch?v=gncp9cIuMrc" %}
+[\[Web2.5 時代\] KZ x 高重建@ LikeCoin和 decentralizehk發起人](https://www.youtube.com/watch?v=gncp9cIuMrc)
 
 ### 01/15 職人故事
 
@@ -100,9 +84,7 @@ Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)
 
 ### 01/14 C基金
 
-【C基金直播】美聯儲急急腳加息︱供樓惡夢開始?︱美業績期，有邊啲值得留意?︱高重建介紹何為LikeCoin?︱台積電TSMC業績報佳音(CFundLive20220114)
-
-{% embed url="https://youtu.be/HUCmPNn2Oko?t=967" %}
+[【C基金直播】美聯儲急急腳加息︱供樓惡夢開始?︱美業績期，有邊啲值得留意?︱高重建介紹何為LikeCoin?︱台積電TSMC業績報佳音(CFundLive20220114)](https://www.youtube.com/watch?v=HUCmPNn2Oko\&t=967s)
 
 :end:
 {% endtab %}
@@ -180,7 +162,7 @@ Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)
 
 ### 07/21 &#xD;財科暗戰
 
-【財科暗戰】區塊鏈社會學 - 第一集： 區塊鏈除了炒幣，還能做什麼？| 章濤
+[【財科暗戰】區塊鏈社會學 - 第一集： 區塊鏈除了炒幣，還能做什麼？| 章濤](https://www.youtube.com/watch?v=OfbJa7lBK-s)
 
 {% embed url="https://www.youtube.com/watch?v=OfbJa7lBK-s" %}
 
@@ -298,21 +280,15 @@ Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)
 
 ### 05/15 城寨 Singjai
 
-區塊鏈生態：無大台但有共識 和平分手機制 ETH2.0 PoS Likecoin Chain Cosmos - 15/05/21 「YOLO街」長版本
-
-{% embed url="https://www.youtube.com/watch?v=7qZJWlCNGAE" %}
+[區塊鏈生態：無大台但有共識 和平分手機制 ETH2.0 PoS Likecoin Chain Cosmos - 15/05/21 「YOLO街」長版本](https://www.youtube.com/watch?v=7qZJWlCNGAE)
 
 ### 05/15 &#xD;theDesk Hong Kong
 
-加密貨幣與法定貨幣是「取代」還是「補完」？｜LikeCoin及#decentralizehk 發起人高重建
-
-{% embed url="https://www.youtube.com/watch?v=Acta5luxVGM" %}
+[加密貨幣與法定貨幣是「取代」還是「補完」？｜LikeCoin及#decentralizehk 發起人高重建](https://www.youtube.com/watch?v=Acta5luxVGM)
 
 ### 05/09 堅離地傾 · 沈旭暉[&#xD;](https://beta.thestandnews.com/society/%E5%A0%85%E9%9B%A2%E5%9C%B0%E5%82%BE-%E9%AB%98%E9%87%8D%E5%BB%BA-%E5%85%A8%E6%B0%91%E5%8D%80%E5%A1%8A%E9%8F%88-backup-%E7%9C%9F%E9%A6%99%E6%B8%AF)
 
-【堅離地傾・沈旭暉 139 💻】高重建：全民區塊鏈・Backup真香港
-
-{% embed url="https://www.youtube.com/watch?v=BTvpACIVMIg" %}
+[【堅離地傾・沈旭暉 139 💻】高重建：全民區塊鏈・Backup真香港](https://www.youtube.com/watch?v=BTvpACIVMIg)
 
 ### 04/29 台灣事實查核中心
 
@@ -324,9 +300,7 @@ Cosmos interview - LikeCoin Team (Likerland creator and Co-founder)
 
 ### 02/04 【菲妮莫屬】區塊鏈人才說 Proof of Talents
 
-[第二季 海外人才篇 #9 探討區塊鏈對價值、媒體、民主的再想像 -《區塊鏈社會學》作者 高重建](https://player.soundon.fm/p/558a3a20-12ce-4540-b78c-013717e8c6c7/episodes/7e2f78a6-0b8b-458c-a238-abc0dfa3d4f1)
-
-{% embed url="https://www.youtube.com/watch?v=A6A7BknIpyQ" %}
+[第二季 海外人才篇 #9 探討區塊鏈對價值、媒體、民主的再想像 -《區塊鏈社會學》作者 高重建](https://www.youtube.com/watch?v=A6A7BknIpyQ)
 
 :end:
 {% endtab %}
