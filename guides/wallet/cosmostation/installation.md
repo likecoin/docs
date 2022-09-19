@@ -4,6 +4,8 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 # 安裝 Cosmostation 瀏覽器擴充功能
 
+### 步驟一：安裝 Cosmostation 瀏覽器擴充功能
+
 到 [Cosmostation 網站 Wallet 頁面](https://www.cosmostation.io/wallet/#extension)了解瀏覽器擴充功能後點「Get Started」。
 
 ![](<../../../.gitbook/assets/Comostation 1.png>)
@@ -15,6 +17,8 @@ description: 安裝步驟如下，緊記保存好助記詞
 點擊並將 Comostation 插件「Add extension」加到 Chrome。
 
 ![](<../../../.gitbook/assets/Comostation 3.png>)
+
+### 步驟二：註冊新帳戶
 
 安裝完成後瀏覽器自動跳轉到註冊頁面，點「 I have read and agree to the Terms of use」，再點「Start」繼續。
 
@@ -36,9 +40,9 @@ Verify seed phrase 頁面要求你依照助記詞的次序輸入確認，完成�
 
 ![](<../../../.gitbook/assets/Comostation 8.png>)
 
-在 Select chains 頁面點「Next」。
+在 Select chains 頁面選「LikeCoin」再點「Next」。
 
-![](<../../../.gitbook/assets/Comostation 9.png>)
+<figure><img src="../../../.gitbook/assets/Comostation 9.png" alt=""><figcaption></figcaption></figure>
 
 輸入自訂密碼兩次，再點「Next」確認。
 

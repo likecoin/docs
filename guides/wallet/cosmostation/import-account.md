@@ -4,7 +4,9 @@ description: 導入助記詞並建立錢包
 
 # 在 Cosmostation 導入錢包
 
-## 方法一：安裝 Cosmostation 瀏覽器擴充功能後導入錢包
+## 網頁版
+
+### 安裝 Cosmostation 瀏覽器擴充功能後導入錢包
 
 安裝 Cosmostation 瀏覽器擴充功能後選擇「Import Wallet」。
 
@@ -18,9 +20,9 @@ description: 導入助記詞並建立錢包
 
 ![](<../../../.gitbook/assets/Import Comostation 3.png>)
 
-在 Select a chains 頁面點「Next」。
+在 Select a chains 頁面選 LikeCoin 再點「Next」。
 
-![](<../../../.gitbook/assets/Import Comostation 4.png>)
+<figure><img src="../../../.gitbook/assets/Import Comostation 4.png" alt=""><figcaption></figcaption></figure>
 
 輸入自訂密碼兩次，再點「Next」確認。
 
@@ -32,7 +34,7 @@ description: 導入助記詞並建立錢包
 
 登入 Cosmostation 後即可看到導入的帳號。
 
-## 方法二：導入多於一個錢包。
+### 導入多於一個錢包
 
 假如你需要導入多於一個錢包，在導入第一個錢包後打開 Cosmostation，點現有錢包，再點齒輪。
 
