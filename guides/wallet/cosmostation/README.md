@@ -30,6 +30,6 @@ description: 支援 LikeCoin 的多鏈錢包
 [export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)
 {% endcontent-ref %}
 
-{% content-ref url="import-account-on-cosmostation.md" %}
-[import-account-on-cosmostation.md](import-account-on-cosmostation.md)
+{% content-ref url="import-wallet-into-cosmostation.md" %}
+[import-wallet-into-cosmostation.md](import-wallet-into-cosmostation.md)
 {% endcontent-ref %}
