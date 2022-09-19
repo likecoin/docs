@@ -1,5 +1,5 @@
 ---
-description: On desktop computer
+description: On Chromium Based Browsers
 ---
 
 # How to install Keplr extension

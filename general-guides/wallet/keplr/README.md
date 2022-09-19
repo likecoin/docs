@@ -18,8 +18,8 @@ Note that Keplr mobile app does not support LikeCoin yet.
 
 #### Deposit, send, delegate, vote and view transaction details:
 
-{% content-ref url="deposit-and-send.md" %}
-[deposit-and-send.md](deposit-and-send.md)
+{% content-ref url="keplr-deposit-and-send-likecoin.md" %}
+[keplr-deposit-and-send-likecoin.md](keplr-deposit-and-send-likecoin.md)
 {% endcontent-ref %}
 
 {% content-ref url="dao.like.co.md" %}

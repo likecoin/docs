@@ -4,7 +4,9 @@ description: Import seed words and create wallet
 
 # Import wallet into Cosmostation
 
-## Method 1: Import the wallet after installing the Cosmostation extension
+## Extension Wallet
+
+### Import the wallet after installing the Cosmostation extension
 
 Select "Import Wallet".
 
@@ -18,9 +20,9 @@ Enter the account name and mnemonic seed and click "Next".
 
 ![](<../../../.gitbook/assets/Import Comostation 3.png>)
 
-On Select a chain Click "Next".
+On Select chains select "LikeCoin"and click "Next".
 
-![](<../../../.gitbook/assets/Import Comostation 4.png>)
+<figure><img src="../../../.gitbook/assets/Import Comostation 4.png" alt=""><figcaption></figcaption></figure>
 
 Enter your password twice, then click "Next".
 
@@ -32,7 +34,7 @@ Complete and click "Close".
 
 After logging in to Cosmostation, you can see the imported accounts.
 
-## Method 2: Import more than one wallet.
+### Import more than one wallet.
 
 If you need to import more than one wallet, open Cosmostation after importing the first wallet. Click the existing Wallet and click the gear.
 

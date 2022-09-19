@@ -1,8 +1,10 @@
 ---
-description: On desktop computer
+description: On Chromium Based Browsers
 ---
 
 # How to install Cosmostation extension
+
+### Step 1: Install Cosmostation
 
 Go to the [Wallet page of the Cosmostation website](https://www.cosmostation.io/wallet/#extension) to learn about browser extensions and click "Get Started".
 
@@ -15,6 +17,8 @@ Go to the Chrome Web Store and click "Add to Chrome" to install the [Cosmostatio
 Click "Add extension".
 
 ![](<../../../.gitbook/assets/Comostation 3.png>)
+
+### Step 2: Create new account
 
 After the installation, the browser will automatically jump to the registration page, click "I have read and agree to the Terms of use", and then click "Start" to continue.
 
@@ -36,9 +40,9 @@ Enter the mnemonic seed in order to verify and click "Next".
 
 ![](<../../../.gitbook/assets/Comostation 8.png>)
 
-On Select chains click "Next".
+On Select chains select "LikeCoin"and click "Next".
 
-![](<../../../.gitbook/assets/Comostation 9.png>)
+<figure><img src="../../../.gitbook/assets/Comostation 9.png" alt=""><figcaption></figcaption></figure>
 
 Enter your password twice, then click "Next".
 
