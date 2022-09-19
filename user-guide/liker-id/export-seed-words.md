@@ -44,6 +44,6 @@ description: Liker Land app 錢包終於可以導出助記詞
 
 接下來你可以將助記詞導入 Keplr 或其他支援 Cosmos 生態系統的錢包。
 
-{% content-ref url="../../guides/wallet/keplr/import-account.md" %}
-[import-account.md](../../guides/wallet/keplr/import-account.md)
+{% content-ref url="../../guides/wallet/keplr/import-account-on-keplr.md" %}
+[import-account-on-keplr.md](../../guides/wallet/keplr/import-account-on-keplr.md)
 {% endcontent-ref %}

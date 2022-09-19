@@ -10,14 +10,14 @@ description: 支援 LikeCoin 的多鏈錢包
 
 #### 請參考以下文章了解如何在桌面電腦安裝 Cosmostation：
 
-{% content-ref url="installation.md" %}
-[installation.md](installation.md)
+{% content-ref url="how-to-install-cosmostation-extension.md" %}
+[how-to-install-cosmostation-extension.md](how-to-install-cosmostation-extension.md)
 {% endcontent-ref %}
 
 #### 存入、轉帳、委託、投票、查看交易明細：
 
-{% content-ref url="deposit-send.md" %}
-[deposit-send.md](deposit-send.md)
+{% content-ref url="cosmostation-deposit-and-send-likecoin.md" %}
+[cosmostation-deposit-and-send-likecoin.md](cosmostation-deposit-and-send-likecoin.md)
 {% endcontent-ref %}
 
 {% content-ref url="dao.like.co.md" %}
@@ -30,6 +30,6 @@ description: 支援 LikeCoin 的多鏈錢包
 [export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)
 {% endcontent-ref %}
 
-{% content-ref url="import-account.md" %}
-[import-account.md](import-account.md)
+{% content-ref url="import-account-on-cosmostation.md" %}
+[import-account-on-cosmostation.md](import-account-on-cosmostation.md)
 {% endcontent-ref %}

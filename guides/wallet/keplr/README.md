@@ -16,8 +16,8 @@ description: 支援 LikeCoin 的多鏈錢包
 
 #### 存入、轉帳、委託、投票、查看交易明細：
 
-{% content-ref url="deposit-send.md" %}
-[deposit-send.md](deposit-send.md)
+{% content-ref url="keplr-deposit-and-send-likecoin.md" %}
+[keplr-deposit-and-send-likecoin.md](keplr-deposit-and-send-likecoin.md)
 {% endcontent-ref %}
 
 {% content-ref url="dao.like.co.md" %}
@@ -30,6 +30,6 @@ description: 支援 LikeCoin 的多鏈錢包
 [export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)
 {% endcontent-ref %}
 
-{% content-ref url="import-account.md" %}
-[import-account.md](import-account.md)
+{% content-ref url="import-account-on-keplr.md" %}
+[import-account-on-keplr.md](import-account-on-keplr.md)
 {% endcontent-ref %}
