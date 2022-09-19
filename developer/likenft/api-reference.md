@@ -50,6 +50,15 @@ queries all NFT classes
 
 ## Indexer API
 
+Pagination params:
+
+| Param   | Example | Description                                                                                |
+| ------- | ------- | ------------------------------------------------------------------------------------------ |
+| key     |         | Key of the last item of previous response for pagination, should not be used with `offset` |
+| limit   |         | The size limit of response. Default & max: 100                                             |
+| reverse |         | Sorting order                                                                              |
+| offset  |         | Offset of response, should not be used with `key`                                          |
+
 ### Class API
 
 `/likechain/likenft/v1/class`
@@ -104,7 +113,6 @@ queries all NFT classes
 | before            | `1659801600`                                       | Get NFT class created before this UNIX second timestamp    |
 | include\_owner    | `true`                                             | Whether to include owner of ISCN when counting sold\_count |
 | ignore\_list      | `like17m4vwrnhjmd20uu7tst7nv0kap6ee7js69jfrs`      | The addresses to ignore when counting sold count           |
-| limit             | `20`                                               | The limit of response. Default & max: 100                  |
 
 Result is order by the number of NFTs not owned by creator nor `ignore_list`
 
@@ -170,8 +178,6 @@ _Note: Currently only like.co API can report the latest price. `price` in the re
 | Param       | Example                                       | Description                             |
 | ----------- | --------------------------------------------- | --------------------------------------- |
 | **creator** | `like13f4glvg80zvfrrs7utft5p68pct4mcq7t5atf6` | Required. Account address of ISCN owner |
-| limit       | `100`                                         | Max: 100                                |
-| offset      | `200`                                         | Offset of response                      |
 
 #### Get Creators
 
@@ -180,8 +186,6 @@ _Note: Currently only like.co API can report the latest price. `price` in the re
 | Param         | Example                                       | Description                            |
 | ------------- | --------------------------------------------- | -------------------------------------- |
 | **collector** | `like13f4glvg80zvfrrs7utft5p68pct4mcq7t5atf6` | Required. Account address of NFT owner |
-| limit         | `100`                                         | Max: 100                               |
-| offset        | `200`                                         | Offset of response                     |
 
 Result is order by count of NFT collections.
 
