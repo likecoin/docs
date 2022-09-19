@@ -2,6 +2,8 @@
 
 ## LCD API
 
+Please refer to [iscn query definition](https://github.com/likecoin/likecoin-chain/blob/master/proto/likechain/iscn/query.proto#L11) for most updated LCD API
+
 #### Query all ISCN related transactions&#x20;
 
 [`https://mainnet-node.like.co/txs?message.module=iscn`](https://mainnet-node.like.co/txs?message.module=iscn)``

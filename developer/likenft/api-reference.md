@@ -2,7 +2,90 @@
 
 ## Base URL
 
-Production: `https://mainnet-node.like.co` Testnet: `https://node.testnet.like.co`
+Production: `https://mainnet-node.like.co`
+
+Testnet: `https://node.testnet.like.co`
+
+## LCD API
+
+Please refer to [`x/nft` query definition](https://github.com/cosmos/cosmos-sdk/blob/v0.46.0/proto/cosmos/nft/v1beta1/query.proto) and [likenft query definition](https://github.com/likecoin/likecoin-chain/blob/master/proto/likechain/likenft/v1/query.proto) for most updated LCD API
+
+### Balance
+
+queries the number of NFTs of a given class owned by the owner, same as balanceOf in ERC721&#x20;
+
+`/cosmos/nft/v1beta1/balance/{owner}/{class_id}`
+
+### Owner
+
+queries the owner of the NFT based on its class and id, same as ownerOf in ERC721 `/cosmos/nft/v1beta1/owner/{class_id}/{id}`
+
+### Supply
+
+queries the number of NFTs from the given class, same as totalSupply of ERC721. `/cosmos/nft/v1beta1/supply/{class_id}`
+
+### NFTs
+
+queries all NFTs of a given `class` or `owner`, choose at least one of the two, similar to tokenByIndex in ERC721Enumerable
+
+`/cosmos/nft/v1beta1/nfts`
+
+### NFT
+
+queries an NFT based on its class and id.
+
+`/cosmos/nft/v1beta1/nfts/{class_id}/{id}`
+
+### Class
+
+queries an NFT class based on its id
+
+`/cosmos/nft/v1beta1/classes/{class_id}`
+
+### Classes
+
+queries all NFT classes
+
+`/cosmos/nft/v1beta1/classes`
+
+## Indexer API
+
+### Class API
+
+`/likechain/likenft/v1/class`
+
+| Param            | Example | Description                                   |
+| ---------------- | ------- | --------------------------------------------- |
+| iscn\_id\_prefix |         | ISCN prefix of NFT class (if minted via ISCN) |
+| account          |         | Account of NFT class (if minted via account)  |
+| expand           |         | expand NFT info                               |
+
+### NFT API
+
+`/likechain/likenft/v1/nft]`
+
+| Param | Example | Description   |
+| ----- | ------- | ------------- |
+| owner |         | Owner address |
+
+### Owner API
+
+`/likechain/likenft/v1/nft`
+
+| Param     | Example | Description  |
+| --------- | ------- | ------------ |
+| class\_id |         | NFT Class ID |
+
+### Event API
+
+`/likechain/likenft/v1/nft`
+
+| Param            | Example | Description                         |
+| ---------------- | ------- | ----------------------------------- |
+| class\_id        |         | NFT Class ID                        |
+| nft\_id          |         | NFT ID                              |
+| iscn\_id\_prefix |         | ISCN ID Prefix (if minted via ISCN) |
+| verbose          |         | Expand events                       |
 
 ### Ranking API
 
