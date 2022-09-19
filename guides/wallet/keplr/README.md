@@ -10,8 +10,8 @@ description: 支援 LikeCoin 的多鏈錢包
 
 #### 請參考以下文章了解如何在桌面電腦安裝 Keplr：
 
-{% content-ref url="installation.md" %}
-[installation.md](installation.md)
+{% content-ref url="how-to-install-keplr-extension.md" %}
+[how-to-install-keplr-extension.md](how-to-install-keplr-extension.md)
 {% endcontent-ref %}
 
 #### 存入、轉帳、委託、投票、查看交易明細：

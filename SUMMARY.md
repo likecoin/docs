@@ -32,7 +32,7 @@
 * [水龍頭](guides/faucet.md)
 * [錢包](guides/wallet/README.md)
   * [Keplr](guides/wallet/keplr/README.md)
-    * [安裝 Keplr 瀏覽器擴充功能](guides/wallet/keplr/installation.md)
+    * [安裝 Keplr 瀏覽器擴充功能](guides/wallet/keplr/how-to-install-keplr-extension.md)
     * [Keplr：存入及轉帳](guides/wallet/keplr/keplr-deposit-and-send-likecoin.md)
     * [Keplr：存入、轉帳、委託、投票及查看交易明細](guides/wallet/keplr/dao.like.co.md)
     * [在 Keplr 導入錢包](guides/wallet/keplr/import-wallet-into-keplr.md)

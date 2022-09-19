@@ -36,8 +36,8 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 註冊 Liker ID 前請先安裝 [Keplr](../../guides/wallet/keplr/) 錢包，若已完成安裝，請跳過此步驟。
 
-{% content-ref url="../../guides/wallet/keplr/installation.md" %}
-[installation.md](../../guides/wallet/keplr/installation.md)
+{% content-ref url="../../guides/wallet/keplr/how-to-install-keplr-extension.md" %}
+[how-to-install-keplr-extension.md](../../guides/wallet/keplr/how-to-install-keplr-extension.md)
 {% endcontent-ref %}
 
 ### 步驟二：開始註冊

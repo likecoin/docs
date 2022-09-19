@@ -4,10 +4,6 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 # 安裝 Keplr 瀏覽器擴充功能
 
-### 影片教學
-
-{% embed url="https://www.youtube.com/watch?v=4j7YVGE7oG0" %}
-
 ### 步驟一：安裝 Keplr 瀏覽器擴充功能
 
 到 Chrome 線上應用程式商店按「加到 Chrome」安裝 [Keplr 瀏覽器擴充功能](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)。
