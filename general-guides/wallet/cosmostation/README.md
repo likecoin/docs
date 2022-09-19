@@ -18,8 +18,8 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 
 #### Deposit, send, delegate, vote and view transaction details:
 
-{% content-ref url="deposit-and-send.md" %}
-[deposit-and-send.md](deposit-and-send.md)
+{% content-ref url="cosmostation-deposit-and-send-likecoin.md" %}
+[cosmostation-deposit-and-send-likecoin.md](cosmostation-deposit-and-send-likecoin.md)
 {% endcontent-ref %}
 
 {% content-ref url="dao.like.co.md" %}
@@ -32,6 +32,6 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 [export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)
 {% endcontent-ref %}
 
-{% content-ref url="import-account.md" %}
-[import-account.md](import-account.md)
+{% content-ref url="import-wallet-into-cosmostation.md" %}
+[import-wallet-into-cosmostation.md](import-wallet-into-cosmostation.md)
 {% endcontent-ref %}

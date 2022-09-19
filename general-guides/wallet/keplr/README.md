@@ -32,6 +32,6 @@ Note that Keplr mobile app does not support LikeCoin yet.
 [export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)
 {% endcontent-ref %}
 
-{% content-ref url="mport-account.md" %}
-[mport-account.md](mport-account.md)
+{% content-ref url="import-wallet-into-keplr.md" %}
+[import-wallet-into-keplr.md](import-wallet-into-keplr.md)
 {% endcontent-ref %}

@@ -44,6 +44,6 @@ Click "Copy" to copy the seed words.
 
 Then you can import the seed words into Keplr or other wallets that support the Cosmos ecosystem.
 
-{% content-ref url="../../general-guides/wallet/keplr/mport-account.md" %}
-[mport-account.md](../../general-guides/wallet/keplr/mport-account.md)
+{% content-ref url="../../general-guides/wallet/keplr/import-wallet-into-keplr.md" %}
+[import-wallet-into-keplr.md](../../general-guides/wallet/keplr/import-wallet-into-keplr.md)
 {% endcontent-ref %}
