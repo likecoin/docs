@@ -71,7 +71,7 @@ Pagination params:
 
 ### NFT API
 
-`/likechain/likenft/v1/nft]`
+`/likechain/likenft/v1/nft`
 
 | Param | Example | Description   |
 | ----- | ------- | ------------- |
@@ -79,7 +79,7 @@ Pagination params:
 
 ### Owner API
 
-`/likechain/likenft/v1/nft`
+`/likechain/likenft/v1/owner`
 
 | Param     | Example | Description  |
 | --------- | ------- | ------------ |
@@ -87,7 +87,7 @@ Pagination params:
 
 ### Event API
 
-`/likechain/likenft/v1/nft`
+`/likechain/likenft/v1/event`
 
 | Param            | Example | Description                         |
 | ---------------- | ------- | ----------------------------------- |
