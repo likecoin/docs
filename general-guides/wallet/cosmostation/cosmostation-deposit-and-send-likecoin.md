@@ -40,7 +40,7 @@ Click "Send".
 
 ### Step 3
 
-On the blank space fill in the wallet address of the receiver, Token is being selected automatically as LIKE with the available balance in the wallet. Please fill in the number of LikeCoin that need to be sent and reserve some LIKE for the [transaction fee](../transaction-fee.md). On Memo (Option) fill in the Tag/Memo which may be required by the receiver. Then click "Send".
+On the blank space fill in the wallet address of the receiver, Token is being selected automatically as LIKE with the available balance in the wallet. Please fill in the number of LikeCoin that need to be sent and reserve some LIKE for the [transaction fee](../transaction-fee.md). On Memo (option) fill in the Tag/Memo which may be required by the receiver. Then click "Send".
 
 <figure><img src="../../../.gitbook/assets/Comostation Send 2.png" alt=""><figcaption></figcaption></figure>
 

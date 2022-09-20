@@ -60,6 +60,12 @@ Clicking Cosmostation and entering password to "Unlock" your wallet.
 
 ![](<../../../.gitbook/assets/Comostation 13.png>)
 
+#### For import existing wallet please refer to:
+
+{% content-ref url="import-wallet-into-cosmostation.md" %}
+[import-wallet-into-cosmostation.md](import-wallet-into-cosmostation.md)
+{% endcontent-ref %}
+
 {% hint style="danger" %}
 Please keep your mnemonic seed and password safe. If you lose them you are not able to manage your LikeCoin. No one can reset your wallet for you.
 {% endhint %}

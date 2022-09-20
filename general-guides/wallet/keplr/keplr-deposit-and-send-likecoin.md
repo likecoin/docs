@@ -2,7 +2,7 @@
 description: Deposit and Send LikeCoin directly on Keplr
 ---
 
-# Deposit and Send
+# Keplr: Deposit and Send LikeCoin
 
 ## **Deposit your LikeCoin to Keplr**
 
@@ -33,6 +33,8 @@ The LikeCoin balance will appear (same display as Step 2) after the deposit is c
 ### Step 1
 
 You can send LikeCoin via Keplr to other wallet that support LikeCoin. Change the display on top to show LikeCoin chain and click "Send".
+
+If your Keplr wallet does not show the LikeCoin chain, please [go to dao.like.co to connect to the LikeCoin chain for Keplr wallet first](dao.like.co.md).
 
 <figure><img src="../../../.gitbook/assets/Keplr deposit and send 04.png" alt=""><figcaption></figcaption></figure>
 

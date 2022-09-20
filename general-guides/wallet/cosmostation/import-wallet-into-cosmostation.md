@@ -34,7 +34,7 @@ Complete and click "Close".
 
 After logging in to Cosmostation, you can see the imported accounts.
 
-### Import more than one wallet.
+### Import more than one wallet
 
 If you need to import more than one wallet, open Cosmostation after importing the first wallet. Click the existing Wallet and click the gear.
 
