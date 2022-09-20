@@ -33,7 +33,7 @@ description: 安裝步驟如下，緊記保存好助記詞
 {% endcontent-ref %}
 
 {% hint style="info" %}
-完成安裝後，請訪問 [https://dao.like.co](https://dao.like.co/welcome)，選擇「Keplr Browser Extension」，再選 「Approve」，才能於 Keplr 顯示 LikeCoin chain，詳見 [存入、轉帳、委託、投票及查看交易明細](dao.like.co.md)。
+完成安裝後，請訪問 [https://dao.like.co](https://dao.like.co/welcome)，選擇「Keplr Browser Extension」，再選 「Approve」，才能於 Keplr 顯示 LikeCoin chain，詳見[存入、轉帳、委託、投票及查看交易明細](dao.like.co.md)。
 {% endhint %}
 
 {% hint style="danger" %}

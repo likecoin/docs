@@ -1,5 +1,5 @@
 ---
-description: 在 Keplr 瀏覽器擴充功能直接存入及轉帳 LikeCoin
+description: 在 Keplr 瀏覽器擴充功能錢包直接存入及轉帳 LikeCoin
 ---
 
 # Keplr：存入及轉帳
