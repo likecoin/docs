@@ -4,7 +4,7 @@ description: 導入助記詞並建立錢包
 
 # 在 Cosmostation 導入錢包
 
-## 網頁版
+## 瀏覽器礦充功能錢包
 
 ### 安裝 Cosmostation 瀏覽器擴充功能後導入錢包
 
