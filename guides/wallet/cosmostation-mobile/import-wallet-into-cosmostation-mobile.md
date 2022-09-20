@@ -1,6 +1,6 @@
 # 在 Cosmostation 手機應用程式導入錢包
 
-## 導入現有錢包
+## 導入錢包
 
 ### 步驟一：安裝 Cosmostation 手機應用程式
 
@@ -54,6 +54,6 @@ LikeCoin 錢包經已成功導入 Cosmostation。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 10.png" alt=""><figcaption></figcaption></figure>
 
-點「Import Mnemonic」再重覆導入現有錢包步驟即可導入另一錢包。
+點「Import Mnemonic」再重覆導入錢包步驟即可導入另一錢包。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 11.png" alt=""><figcaption></figcaption></figure>
