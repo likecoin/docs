@@ -1,6 +1,6 @@
 # Import wallet into Cosmostation Mobile
 
-## Import an existing wallet after installing the Cosmostation mobile
+## Import wallet after installing the Cosmostation mobile
 
 ### Step 1: Install Cosmostation mobile
 
@@ -54,6 +54,6 @@ If you need to import more than one wallet, open Cosmostation mobile after impor
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 10.png" alt=""><figcaption></figcaption></figure>
 
-Click "Import Mnemonic" and repeat the steps to import another existing wallet.&#x20;
+Click "Import Mnemonic" and repeat the steps to import another wallet.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 11.png" alt=""><figcaption></figcaption></figure>
