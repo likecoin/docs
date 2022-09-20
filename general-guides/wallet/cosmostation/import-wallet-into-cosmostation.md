@@ -4,11 +4,9 @@ description: Import seed words and create wallet
 
 # Import wallet into Cosmostation
 
-## Extension Wallet
+### Import the wallet after installing the Cosmostation browser extension
 
-### Import the wallet after installing the Cosmostation extension
-
-Select "Import Wallet".
+Select "Import Wallet" after [installing the Cosmostation browser extension](how-to-install-cosmostation-extension.md).
 
 ![](<../../../.gitbook/assets/Import Comostation 1.png>)
 
