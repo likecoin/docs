@@ -23,7 +23,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 | 支援註冊 [ISCN](../../guides/decentralized-publishing/app.like.co.md) 及購買 [Writing NFT](../../guides/writing-nft/)                            | 支援註冊 [ISCN](../../guides/decentralized-publishing/iscn-batch-uploader.md) 及購買 [Writing NFT](../../guides/writing-nft/)                    |
 
 {% hint style="info" %}
-用戶現時可使用 [Cosmostation](../../guides/wallet/cosmostation-liu-lan-qi-qian-bao/) 管理 LikeCoin，但仍未能使用 Cosmostation 註冊 Liker ID。
+用戶現時可使用 [Cosmostation](../../guides/wallet/cosmostation/) 管理 LikeCoin，但仍未能使用 Cosmostation 註冊 Liker ID。
 {% endhint %}
 
 ## 如何以 Keplr 註冊 Liker ID

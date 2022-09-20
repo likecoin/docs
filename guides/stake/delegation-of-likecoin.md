@@ -22,7 +22,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Cosmostation Browser Extension](../wallet/cosmostation-liu-lan-qi-qian-bao/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
