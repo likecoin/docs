@@ -1,5 +1,5 @@
 ---
-description: Deposit and Send LikeCoin directly on Keplr Browser Extension
+description: Deposit and Send LikeCoin directly on Keplr Browser Extension wallet
 ---
 
 # Keplr: Deposit and Send LikeCoin

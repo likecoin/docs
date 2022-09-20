@@ -1,5 +1,5 @@
 ---
-description: Deposit and Send LikeCoin directly on Cosmostation Browser Extension
+description: Deposit and Send LikeCoin directly on Cosmostation Browser Extension wallet
 ---
 
 # Cosmostation: Deposit and Send LikeCoin

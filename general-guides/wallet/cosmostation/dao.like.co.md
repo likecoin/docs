@@ -6,7 +6,7 @@ description: dao.like.co is essential for managing LikeCoin
 
 ## Use dao.like.co to deposit, send, delegate, vote and check LikeCoin transaction details
 
-Users can manage your LikeCoin together with [dao.like.co](https://dao.like.co/) and Cosmostation Browser Extension to deposit, send, [delegate](../../stake/delegation-of-likecoin.md), [vote](../../governance/direct-vote.md) and check the LikeCoin transaction details.
+Users can manage your LikeCoin together with [dao.like.co](https://dao.like.co/) and [Cosmostation Browser Extension](how-to-install-cosmostation-extension.md) to deposit, send, [delegate](../../stake/delegation-of-likecoin.md), [vote](../../governance/direct-vote.md) and check the LikeCoin transaction details.
 
 Go to [dao.like.co](https://dao.like.co/) and click "Cosmostation Browser Extension".
 

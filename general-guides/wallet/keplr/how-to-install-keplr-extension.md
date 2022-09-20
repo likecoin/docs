@@ -2,11 +2,11 @@
 description: On Chromium Based Browsers
 ---
 
-# How to install Keplr extension
+# How to install Keplr Browser Extension
 
 ### Step 1: Install Keplr
 
-Go to the Chrome Webstore and click "Add to Chrome" to install the [Keplr extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
+Go to the Chrome Webstore and click "Add to Chrome" to install the [Keplr Browser Extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
 
 ![](../../../.gitbook/assets/keplr01-en.png)
 

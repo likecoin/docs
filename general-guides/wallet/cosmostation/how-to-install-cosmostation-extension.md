@@ -2,7 +2,7 @@
 description: On Chromium Based Browsers
 ---
 
-# How to install Cosmostation extension
+# How to install Cosmostation Browser Extension
 
 ### Step 1: Install Cosmostation
 
@@ -10,7 +10,7 @@ Go to the [Wallet page of the Cosmostation website](https://www.cosmostation.io/
 
 ![](<../../../.gitbook/assets/Comostation 1.png>)
 
-Go to the Chrome Web Store and click "Add to Chrome" to install the [Cosmostation extension](https://chrome.google.com/webstore/detail/cosmostation/fpkhgmpbidmiogeglndfbkegfdlnajnf?utm\_source=chrome-ntp-icon).
+Go to the Chrome Web Store and click "Add to Chrome" to install the [Cosmostation Browser Extension](https://chrome.google.com/webstore/detail/cosmostation/fpkhgmpbidmiogeglndfbkegfdlnajnf?utm\_source=chrome-ntp-icon).
 
 ![](<../../../.gitbook/assets/Comostation 2.png>)
 
