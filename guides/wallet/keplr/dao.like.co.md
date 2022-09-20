@@ -4,7 +4,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 # Keplr：存入、轉帳、委託、投票及查看交易明細
 
-## 使用 dao.like.co 轉帳、委託、投票及查看交易明細 <a href="#dao-like-co" id="dao-like-co"></a>
+## 使用 dao.like.co 存入、轉帳、委託、投票及查看交易明細 <a href="#dao-like-co" id="dao-like-co"></a>
 
 用戶需要先到 [dao.like.co](https://dao.like.co/) 將 LikeCoin chain 連結至 Keplr，並搭配 Keplr 進行各種操作，包括存入、轉帳、[委託](../../stake/)、[投票](../../governance/direct-vote.md)及查看交易明細等。
 

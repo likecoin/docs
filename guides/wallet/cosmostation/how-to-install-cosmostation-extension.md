@@ -60,6 +60,12 @@ Verify seed phrase 頁面要求你依照助記詞的次序輸入確認，完成�
 
 ![](<../../../.gitbook/assets/Comostation 13.png>)
 
+#### 如需導入錢包，請參看：
+
+{% content-ref url="import-wallet-into-cosmostation.md" %}
+[import-wallet-into-cosmostation.md](import-wallet-into-cosmostation.md)
+{% endcontent-ref %}
+
 {% hint style="danger" %}
 請把助記詞及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Cosmostation 錢包。
 {% endhint %}
