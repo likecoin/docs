@@ -4,11 +4,9 @@ description: 導入助記詞並建立錢包
 
 # 在 Cosmostation 導入錢包
 
-## 瀏覽器擴充功能錢包
-
 ### 安裝 Cosmostation 瀏覽器擴充功能後導入錢包
 
-安裝 Cosmostation 瀏覽器擴充功能後選擇「Import Wallet」。
+[安裝 Cosmostation 瀏覽器擴充功能](how-to-install-cosmostation-extension.md)後選擇「Import Wallet」。
 
 ![](<../../../.gitbook/assets/Import Comostation 1.png>)
 

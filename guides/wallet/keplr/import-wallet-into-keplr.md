@@ -6,7 +6,7 @@ description: 導入助記詞並建立錢包
 
 ### 步驟一：開始導入
 
-在安裝 Keplr 瀏覽器擴充功能後直接選「Import Existing Account」。
+[安裝 Keplr 瀏覽器擴充功能](how-to-install-keplr-extension.md)後直接選「Import Existing Account」。
 
 或打開 Keplr，點右上角人形圖案。
 
