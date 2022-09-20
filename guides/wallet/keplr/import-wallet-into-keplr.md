@@ -16,7 +16,7 @@ description: 導入助記詞並建立錢包
 
 ![](<../../../.gitbook/assets/Keplr Seed Words 02.png>)
 
-### 步驟二：導入帳號
+### 步驟二：導入現有帳號
 
 選「Import existing account」。
 

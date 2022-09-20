@@ -1,5 +1,7 @@
 # 在 Cosmostation 手機應用程式導入錢包
 
+## 導入現有錢包
+
 ### 步驟一：安裝 Cosmostation 手機應用程式
 
 到 [Apple App Store](https://apps.apple.com/us/app/cosmostation/id1459830339) 或 [Google Play](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion\&hl=en\_US\&gl=US) 下載 Cosmostation。
@@ -45,3 +47,13 @@
 LikeCoin 錢包經已成功導入 Cosmostation。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 9.png" alt=""><figcaption></figcaption></figure>
+
+## 導入多於一個錢包
+
+假如你需要導入多於一個錢包，在導入第一個錢包後打開 Cosmostation 手機應用程式，點右下角「SETTING」後再點「Manage Mnemonic / Add Wallet」。
+
+<figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 10.png" alt=""><figcaption></figcaption></figure>
+
+點「Import Mnemonic」再重覆導入現有錢包步驟即可導入另一錢包。
+
+<figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 11.png" alt=""><figcaption></figcaption></figure>

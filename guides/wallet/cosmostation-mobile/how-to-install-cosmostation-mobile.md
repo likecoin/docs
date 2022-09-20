@@ -49,3 +49,9 @@
 LikeCoin 錢包經已就緒。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile create wallet 10.png" alt=""><figcaption></figcaption></figure>
+
+#### 如需導入錢包，請參看：
+
+{% content-ref url="import-wallet-into-cosmostation-mobile.md" %}
+[import-wallet-into-cosmostation-mobile.md](import-wallet-into-cosmostation-mobile.md)
+{% endcontent-ref %}
