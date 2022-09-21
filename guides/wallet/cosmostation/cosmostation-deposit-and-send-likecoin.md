@@ -1,10 +1,10 @@
 ---
-description: 在 Cosmostation 瀏覽器擴充功能錢包直接存入及轉帳 LikeCoin
+description: 使用 Cosmostation 瀏覽器擴充功能錢包直接存入及轉帳 LikeCoin
 ---
 
 # Cosmostation：存入及轉帳
 
-## 在 Cosmostation 存入 LikeCoin  <a href="#deposit-your-likecoin-to-keplr" id="deposit-your-likecoin-to-keplr"></a>
+## 使用 Cosmostation 存入 LikeCoin  <a href="#deposit-your-likecoin-to-keplr" id="deposit-your-likecoin-to-keplr"></a>
 
 ### 步驟一
 
@@ -24,7 +24,7 @@ description: 在 Cosmostation 瀏覽器擴充功能錢包直接存入及轉帳 L
 
 <figure><img src="../../../.gitbook/assets/Comostation Deposit 3.png" alt=""><figcaption></figcaption></figure>
 
-## 從 Cosmostation 轉帳 LikeCoin 到其他錢包 <a href="#send-out-likecoin-from-keplr" id="send-out-likecoin-from-keplr"></a>
+## 使用 Cosmostation 轉帳 LikeCoin 到其他錢包 <a href="#send-out-likecoin-from-keplr" id="send-out-likecoin-from-keplr"></a>
 
 ### 步驟一
 

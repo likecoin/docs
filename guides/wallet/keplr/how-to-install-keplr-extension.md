@@ -26,15 +26,15 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 輸入你的 Account name、新密碼、確認密碼然後點擊「Next」，再確認助記詞後系統將顯示 Keplr 錢包介面。
 
+### 步驟三：連接 LikeCoin chain
+
+完成安裝後，請訪問 [https://dao.like.co](https://dao.like.co/welcome)，選擇「Keplr Browser Extension」，再選 「Approve」方可於 Keplr 顯示 LikeCoin chain，詳見[為 Keplr 連接 LikeCoin chain](dao.like.co.md#dao-like-co)。
+
 #### 如需導入錢包，請參看：
 
 {% content-ref url="import-wallet-into-keplr.md" %}
 [import-wallet-into-keplr.md](import-wallet-into-keplr.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-完成安裝後，請訪問 [https://dao.like.co](https://dao.like.co/welcome)，選擇「Keplr Browser Extension」，再選 「Approve」，才能於 Keplr 顯示 LikeCoin chain，詳見[存入、轉帳、委託、投票及查看交易明細](dao.like.co.md)。
-{% endhint %}
 
 {% hint style="danger" %}
 請把助記詞及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Keplr 錢包。

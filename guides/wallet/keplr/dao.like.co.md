@@ -2,11 +2,13 @@
 description: dao.like.co 管理 LikeCoin 必備
 ---
 
-# Keplr：存入、轉帳、委託、投票及查看交易明細
+# Keplr + dao.like.co：提存、委託、治理、查看交易
 
-## 使用 dao.like.co 存入、轉帳、委託、投票及查看交易明細 <a href="#dao-like-co" id="dao-like-co"></a>
+使用 [dao.like.co](https://dao.like.co/) 錢包介面搭配 Keplr，用戶可[存入](dao.like.co.md#shi-yong-dao.like.co-cun-ru-likecoin)、[轉帳](dao.like.co.md#shi-yong-dao.like.co-+-keplr-zhuan-zhang-likecoin-dao-qi-ta-qian-bao)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)，[投票](../../governance/direct-vote.md)及查看交易。
 
-用戶需要先到 [dao.like.co](https://dao.like.co/) 將 LikeCoin chain 連結至 Keplr，並搭配 [Keplr 瀏覽器擴充功能](how-to-install-keplr-extension.md)進行各種操作，包括存入、轉帳、[委託](../../stake/)、[投票](../../governance/direct-vote.md)及查看交易明細等。
+## 為 Keplr 連接 LikeCoin chain <a href="#dao-like-co" id="dao-like-co"></a>
+
+用戶需要先到 [dao.like.co](https://dao.like.co/) 進行連接方可於 Keplr 瀏覽器擴充功能菜單顯示 LikeCoin chain。
 
 ### 步驟一
 
@@ -31,6 +33,70 @@ description: dao.like.co 管理 LikeCoin 必備
 你會看到你的 LikeCoin 餘額。
 
 <figure><img src="../../../.gitbook/assets/keplr09.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟五
+
+在 Keplr 密碼貸幣菜單出現 LikeCoin 並顯示 LikeCoin 餘額。
+
+<figure><img src="../../../.gitbook/assets/Keplr menu 1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Keplr menu 2.png" alt=""><figcaption></figcaption></figure>
+
+## 使用 dao.like.co 存入 LikeCoin
+
+在 dao.like.co 點擊左上角錢包地址進行複製並黏貼到所要的地方（交易所或另一個錢包）。
+
+<figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption></figcaption></figure>
+
+## 使用 dao.like.co + Keplr 轉帳 LikeCoin 到其他錢包
+
+### 步驟一
+
+在 Portfolio 頁面點「Send」。
+
+<figure><img src="../../../.gitbook/assets/Keplr Send 1.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟二
+
+出現 Send 頁面，在「Send To」填入收款方的錢包地址，「Amount」填寫需要轉帳的 LikeCoin 數量，並留意必須預留手續費。Memo 一欄填進收款方需要 Tag/Memo（如有），再點「Next」。
+
+<figure><img src="../../../.gitbook/assets/Keplr Send 2.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟三
+
+點「Send」後彈出視窗，再點「Approve」確認執行。
+
+<figure><img src="../../../.gitbook/assets/Keplr Send 3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Keplr Send 4.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟四
+
+出現 Send and confirming 畫面後再出現 Successfully Send 即順利完成傳送。
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+## 使用 dao.like.co 進行其他操作
+
+{% content-ref url="../../stake/" %}
+[stake](../../stake/)
+{% endcontent-ref %}
+
+{% content-ref url="../../governance/proposal-deposit.md" %}
+[proposal-deposit.md](../../governance/proposal-deposit.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../governance/direct-vote.md" %}
+[direct-vote.md](../../governance/direct-vote.md)
+{% endcontent-ref %}
 
 ## 其他可使用 Keplr 管理 LikeCoin 的錢包介面 <a href="#other-wallet-interface" id="other-wallet-interface"></a>
 

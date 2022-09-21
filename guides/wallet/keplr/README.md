@@ -2,7 +2,7 @@
 description: 支援 LikeCoin 的多鏈錢包
 ---
 
-# Keplr
+# Keplr 瀏覽器錢包
 
 [Keplr](https://www.keplr.app/) 提供 Google Chrome 擴充功能，可在 Chrome 和 Brave 等瀏覽器安裝，支援包括 LikeCoin 在內的多條 Cosmos 生態系統區塊鏈。使用 Keplr 錢包你可以將自己的 LikeCoin 去中心化保存並自行掌握私鑰。
 
@@ -14,7 +14,7 @@ description: 支援 LikeCoin 的多鏈錢包
 [how-to-install-keplr-extension.md](how-to-install-keplr-extension.md)
 {% endcontent-ref %}
 
-#### 存入、轉帳、委託、投票、查看交易明細：
+#### 存入、轉帳、委託 LikeCoin；為議案提供保證金，投票及查看交易明細：
 
 {% content-ref url="keplr-deposit-and-send-likecoin.md" %}
 [keplr-deposit-and-send-likecoin.md](keplr-deposit-and-send-likecoin.md)
