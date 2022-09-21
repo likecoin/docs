@@ -44,7 +44,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 ## 使用 dao.like.co 存入 LikeCoin 到 Keplr
 
-在 dao.like.co 點擊左上角錢包地址進行複製並黏貼到所要的地方（交易所或另一個錢包）。
+在 [dao.like.co](https://dao.like.co/) 點擊左上角錢包地址進行複製並黏貼到所要的地方（交易所或另一個錢包）。
 
 <figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +58,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 ### 步驟二
 
-出現 Send 頁面，在「Send To」填入收款方的錢包地址，「Amount」填寫需要轉帳的 LikeCoin 數量，並留意必須預留手續費。Memo 一欄填進收款方需要 Tag/Memo（如有），再點「Next」。
+出現 Send 頁面，在「Send To」填入收款方的錢包地址，「Amount」填寫需要轉帳的 LikeCoin 數量，並留意必須預留[手續費](../transaction-fee.md)。Memo 一欄填進收款方需要 Tag/Memo（如有），再點「Next」。
 
 <figure><img src="../../../.gitbook/assets/Keplr Send 2.png" alt=""><figcaption></figcaption></figure>
 
