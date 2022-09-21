@@ -32,7 +32,7 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 ![](<../../.gitbook/assets/dao.like.co restake 04.png>)
 
-出現 Send and confirming 畫面後再出現 Successfully restaked! 即順利轉移委託。
+出現 Sent and confirming 畫面後再出現 Successfully restaked! 即順利轉移委託。
 
 ![](<../../.gitbook/assets/dao.like.co restake 05.png>) ![](<../../.gitbook/assets/dao.like.co restake 06.png>)
 

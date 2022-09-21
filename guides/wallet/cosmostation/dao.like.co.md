@@ -4,7 +4,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 # Comostation + dao.like.co：提存、委託、治理、查看交易
 
-用戶可使用 [dao.like.co](https://dao.like.co/) 搭配 [Cosmostation 瀏覽器擴充功能](how-to-install-cosmostation-extension.md)進行各種操作，包括存入、轉帳、[委託](../../stake/) LikeCoin；為議案提供保證金、[投票](../../governance/direct-vote.md)及查看交易明細等。
+用戶可使用 [dao.like.co](https://dao.like.co/) 搭配 [Cosmostation 瀏覽器擴充功能](how-to-install-cosmostation-extension.md)進行各種操作，包括存入、轉帳、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)、[投票](../../governance/direct-vote.md)及查看交易明細等。
 
 ## 將 Comostation 連接 dao.like.co <a href="#dao-like-co" id="dao-like-co"></a>
 
@@ -51,3 +51,39 @@ description: dao.like.co 管理 LikeCoin 必備
 確認傳送數量及所需手續費無誤後點「Next」。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation Send 1.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟四
+
+點「Send」後彈出視窗再點「Sign」確認執行。
+
+<figure><img src="../../../.gitbook/assets/Cosmostation Send 2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Cosmostation Send 3.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟五
+
+出現 Sent and confirming 畫面後再出現 Successfully Send 即順利完成傳送。
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+## 使用 dao.like.co 進行：
+
+{% content-ref url="../../stake/" %}
+[stake](../../stake/)
+{% endcontent-ref %}
+
+{% content-ref url="../../governance/proposal-deposit.md" %}
+[proposal-deposit.md](../../governance/proposal-deposit.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../governance/direct-vote.md" %}
+[direct-vote.md](../../governance/direct-vote.md)
+{% endcontent-ref %}
