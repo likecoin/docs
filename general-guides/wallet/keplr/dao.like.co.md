@@ -18,13 +18,13 @@ Go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
 
 Then click "Approve".
 
-![](../../../.gitbook/assets/keplr07.png)
+<figure><img src="../../../.gitbook/assets/keplr07.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3
 
-Click on "Approve" again.
+Click "Approve" again.
 
-![](../../../.gitbook/assets/keplr08.png)
+<figure><img src="../../../.gitbook/assets/keplr08.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 4
 
