@@ -4,7 +4,7 @@ description: 使用 Cosmostation 瀏覽器擴充功能錢包直接存入及轉�
 
 # Cosmostation：存入及轉帳
 
-## 使用 Cosmostation 存入 LikeCoin  <a href="#deposit-your-likecoin-to-keplr" id="deposit-your-likecoin-to-keplr"></a>
+## 在 Cosmostation 存入 LikeCoin  <a href="#deposit-your-likecoin-to-keplr" id="deposit-your-likecoin-to-keplr"></a>
 
 ### 步驟一
 
@@ -40,7 +40,7 @@ description: 使用 Cosmostation 瀏覽器擴充功能錢包直接存入及轉�
 
 ### 步驟三
 
-在空格填入收款方的錢包地址並顯示錢包內的 LIKE 可用餘額。請填寫需要轉帳的 LikeCoin 數量，並留意必須預留[手續費](../transaction-fee.md)。Memo (option) 一欄填進收款方需要 Tag/Memo（如有）。再點「Send」。
+顯示錢包內的 LIKE 可用餘額。在空格填入收款方的錢包地址再填寫需要轉帳的 LikeCoin 數量，並留意必須預留[手續費](../transaction-fee.md)。Memo (option) 一欄填進收款方需要 Tag/Memo（如有）。再點「Send」。
 
 <figure><img src="../../../.gitbook/assets/Comostation Send 2.png" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 # Keplr + dao.like.co：提存、委託、治理、查看交易
 
-使用 [dao.like.co](https://dao.like.co/) 錢包介面搭配 Keplr 瀏覽器擴充功能，用戶可[存入](dao.like.co.md#shi-yong-dao.like.co-cun-ru-likecoin)、[轉帳](dao.like.co.md#shi-yong-dao.like.co-+-keplr-zhuan-zhang-likecoin-dao-qi-ta-qian-bao)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)，[投票](../../governance/direct-vote.md)及查看交易。
+使用 [dao.like.co](https://dao.like.co/) 錢包介面搭配 Keplr 瀏覽器擴充功能，用戶可[存入](dao.like.co.md#shi-yong-dao.like.co-cun-ru-likecoin)、[轉帳](dao.like.co.md#shi-yong-dao.like.co-+-keplr-zhuan-zhang-likecoin-dao-qi-ta-qian-bao)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)，[投票](../../governance/direct-vote.md)及查看交易明細等。
 
 ## 為 Keplr 連接 LikeCoin chain <a href="#dao-like-co" id="dao-like-co"></a>
 
@@ -18,15 +18,15 @@ description: dao.like.co 管理 LikeCoin 必備
 
 ### 步驟二
 
-再點擊「Approve」。
+點擊「Approve」。
 
-![](../../../.gitbook/assets/keplr07.png)
+<figure><img src="../../../.gitbook/assets/keplr07.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟三
 
 看見這個畫面再「Approve」多一次。
 
-![](../../../.gitbook/assets/keplr08.png)
+<figure><img src="../../../.gitbook/assets/keplr08.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟四
 

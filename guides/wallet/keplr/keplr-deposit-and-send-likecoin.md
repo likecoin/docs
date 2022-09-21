@@ -4,7 +4,7 @@ description: 使用 Keplr 瀏覽器擴充功能錢包直接存入及轉帳 LikeC
 
 # Keplr：存入及轉帳
 
-## 使用 Keplr 存入 LikeCoin <a href="#deposit-your-likecoin-to-keplr" id="deposit-your-likecoin-to-keplr"></a>
+## 在 Keplr 存入 LikeCoin <a href="#deposit-your-likecoin-to-keplr" id="deposit-your-likecoin-to-keplr"></a>
 
 ### 步驟一
 

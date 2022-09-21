@@ -2,7 +2,7 @@
 description: 支援 LikeCoin 的多鏈錢包
 ---
 
-# Cosmostation
+# Cosmostation 瀏覽器錢包
 
 [Cosmostation](https://www.cosmostation.io/) 是用於 Cosmos 跨鏈、以太坊、ETH 第二層網絡解決方案及 EVM 生態系統的非託管多鏈加密貨幣瀏覽器擴展錢包。使用 Cosmostation 錢包你可以將自己的 LikeCoin 去中心化保存並自行掌握私鑰。
 
@@ -14,7 +14,7 @@ description: 支援 LikeCoin 的多鏈錢包
 [how-to-install-cosmostation-extension.md](how-to-install-cosmostation-extension.md)
 {% endcontent-ref %}
 
-#### 存入、轉帳、委託、投票、查看交易明細：
+#### 存入、轉帳、委託 LikeCoin；為議案提供保證金，投票及查看交易明細：
 
 {% content-ref url="cosmostation-deposit-and-send-likecoin.md" %}
 [cosmostation-deposit-and-send-likecoin.md](cosmostation-deposit-and-send-likecoin.md)

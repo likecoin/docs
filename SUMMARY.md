@@ -39,7 +39,7 @@
   * [Cosmostation 瀏覽器錢包](guides/wallet/cosmostation/README.md)
     * [安裝 Cosmostation 瀏覽器擴充功能](guides/wallet/cosmostation/how-to-install-cosmostation-extension.md)
     * [Cosmostation：存入及轉帳](guides/wallet/cosmostation/cosmostation-deposit-and-send-likecoin.md)
-    * [Comostation：存入、轉帳、委託、投票及查看交易明細](guides/wallet/cosmostation/dao.like.co.md)
+    * [Comostation + dao.like.co：提存、委託、治理、查看交易](guides/wallet/cosmostation/dao.like.co.md)
     * [在 Cosmostation 導入錢包](guides/wallet/cosmostation/import-wallet-into-cosmostation.md)
   * [Cosmostation 手機錢包](guides/wallet/cosmostation-mobile/README.md)
     * [安裝 Cosmostation 手機應用程式](guides/wallet/cosmostation-mobile/how-to-install-cosmostation-mobile.md)
