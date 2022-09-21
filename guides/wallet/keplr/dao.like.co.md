@@ -42,7 +42,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 <figure><img src="../../../.gitbook/assets/Keplr menu 2.png" alt=""><figcaption></figcaption></figure>
 
-## 使用 dao.like.co 存入 LikeCoin
+## 使用 dao.like.co 存入 LikeCoin 到 Keplr
 
 在 dao.like.co 點擊左上角錢包地址進行複製並黏貼到所要的地方（交易所或另一個錢包）。
 
