@@ -78,7 +78,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 03.png>)
 
-出現 Send and confirming 畫面後再出現 Successfully withdrawal! 即成功領取收益。
+出現 Sent and confirming 畫面後再出現 Successfully withdrawal! 即成功領取收益。
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
 
