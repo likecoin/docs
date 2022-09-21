@@ -86,7 +86,7 @@ Confirmation is required. Keplr and Cosmostation users will need to approve a po
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 03.png>)
 
-After the Send and confirming screen appears, Successfully withdrawal! appears, which means your rewards is successfully claimed.
+After the Sent and confirming appears, Successfully withdrawal! appears, which means your rewards is successfully claimed.
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
 

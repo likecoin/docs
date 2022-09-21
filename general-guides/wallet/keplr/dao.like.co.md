@@ -2,9 +2,9 @@
 description: dao.like.co is essential for managing LikeCoin
 ---
 
-# Keplr + dao.like.co: Deposit and  Send, delegate, governance and view transactions
+# Keplr + dao.like.co: Deposit, send, delegate, governance and view transactions
 
-Use dao.like.co wallet interface together with Keplr Browser Extension to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin.md) LikeCoin, provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote.md) and view transaction details.
+Use dao.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-mobile/how-to-install-cosmostation-mobile.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin.md) LikeCoin; provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote.md) and view transaction details.
 
 ## Connect Keplr with LikeCoin chain
 

@@ -48,7 +48,7 @@ Enter your password twice, then click "Next".
 
 ![](<../../../.gitbook/assets/Comostation 10.png>)
 
-Complete and click "Close".
+Complete! and click "Done".
 
 ![](<../../../.gitbook/assets/Comostation 11.png>)
 
