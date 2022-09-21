@@ -64,7 +64,7 @@ Click on the "Vote" on the top right hand corner, and the lower right hand corne
 
 ![](../../.gitbook/assets/direct-vote-07.png)
 
-Voting success.
+Successful vote.
 
 ![](../../.gitbook/assets/direct-vote-08.png)
 

@@ -10,6 +10,8 @@ description: >-
 
 1\. Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
 
+<figure><img src="../../.gitbook/assets/Civic Liker Web 3-01.png" alt=""><figcaption></figcaption></figure>
+
 2\. Click "Portfolio" on the left hand side menu, on Your Stake and click on the validator that you need to undelegate.
 
 ![](<../../.gitbook/assets/dao.like.co unstake 01.png>)
@@ -26,7 +28,7 @@ description: >-
 
 ![](<../../.gitbook/assets/dao.like.co unstake 04.png>)
 
-6\. After the Send and confirming screen appears, Successfully unstaked! appears, which means undelegation completed.
+6\. After the "Sent and confirming", "Successfully unstaked!" appears, undelegation is completed.
 
 ![](<../../.gitbook/assets/dao.like.co unstake 05.png>) ![](<../../.gitbook/assets/dao.like.co unstake 06.png>)
 

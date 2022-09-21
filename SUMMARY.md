@@ -106,7 +106,7 @@
   * [Keplr Browser Extension Wallet](general-guides/wallet/keplr/README.md)
     * [How to install Keplr Browser Extension](general-guides/wallet/keplr/how-to-install-keplr-extension.md)
     * [Keplr: Deposit and Send LikeCoin](general-guides/wallet/keplr/keplr-deposit-and-send-likecoin.md)
-    * [Keplr: Deposit, send, delegate, vote and view transaction details](general-guides/wallet/keplr/dao.like.co.md)
+    * [Keplr + dao.like.co: Deposit and  Send, delegate, governance and view transactions](general-guides/wallet/keplr/dao.like.co.md)
     * [Import wallet into Keplr](general-guides/wallet/keplr/import-wallet-into-keplr.md)
   * [Cosmostation Browser Extension Wallet](general-guides/wallet/cosmostation/README.md)
     * [How to install Cosmostation Browser Extension](general-guides/wallet/cosmostation/how-to-install-cosmostation-extension.md)

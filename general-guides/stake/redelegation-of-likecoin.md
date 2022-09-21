@@ -10,6 +10,8 @@ description: Transfer the delegated LikeCoin to another validator
 
 Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
 
+<figure><img src="../../.gitbook/assets/Civic Liker Web 3-01.png" alt=""><figcaption></figcaption></figure>
+
 ### **Step 2: Select the validator with delegation**
 
 Click "Portfolio" on the left hand side menu, on Your Stake click on the validator that you delegated.
@@ -32,7 +34,7 @@ Confirmation is required. Keplr and Cosmostation users will need to approve a po
 
 ![](<../../.gitbook/assets/dao.like.co restake 04.png>)
 
-After the Send and confirming screen appears, Successfully restaked! appears, which means redelegation completed.
+After the "Sent and confirming", "Successfully restaked!" appears, redelegation is completed.
 
 ![](<../../.gitbook/assets/dao.like.co restake 05.png>) ![](<../../.gitbook/assets/dao.like.co restake 06.png>)
 

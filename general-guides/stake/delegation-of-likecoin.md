@@ -64,7 +64,7 @@ Confirmation is required. Keplr and Cosmostation users will need to approve a po
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
 
-After the Send and confirming screen appears, Successfully staked! appears, which means the delegation is successfully completed.
+After the "Sent and confirming", "Successfully staked!" appears, the delegation is completed.
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-07.png>) ![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
 
