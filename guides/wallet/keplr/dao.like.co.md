@@ -84,7 +84,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 </div>
 
-## 使用 dao.like.co 進行其他操作
+## 使用 dao.like.co 進行：
 
 {% content-ref url="../../stake/" %}
 [stake](../../stake/)
