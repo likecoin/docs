@@ -72,7 +72,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 ### 步驟四
 
-出現 Send and confirming 畫面後再出現 Successfully Send 即順利完成傳送。
+出現 Sent and confirming 畫面後再出現 Successfully Send 即順利完成傳送。
 
 <div>
 

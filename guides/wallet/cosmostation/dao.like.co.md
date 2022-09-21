@@ -18,7 +18,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 點擊「Confirm」。
 
-![](<../../../.gitbook/assets/Comostation dao.like.co 2.png>)
+<figure><img src="../../../.gitbook/assets/Comostation dao.like.co 2.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟三
 
@@ -38,8 +38,16 @@ description: dao.like.co 管理 LikeCoin 必備
 
 在 Portfolio 頁面點「Send」。
 
+<figure><img src="../../../.gitbook/assets/Keplr Send 1.png" alt=""><figcaption></figcaption></figure>
+
 ### 步驟二
 
 出現 Send 頁面，在「Send To」填入收款方的錢包地址，「Amount」填寫需要轉帳的 LikeCoin 數量，並留意必須預留[手續費](../transaction-fee.md)。Memo 一欄填進收款方需要 Tag/Memo（如有），再點「Next」。
 
+<figure><img src="../../../.gitbook/assets/Keplr Send 2.png" alt=""><figcaption></figcaption></figure>
+
 ### 步驟三
+
+確認傳送數量及所需手續費無誤後點「Next」。
+
+<figure><img src="../../../.gitbook/assets/Cosmostation Send 1.png" alt=""><figcaption></figcaption></figure>

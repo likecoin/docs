@@ -40,7 +40,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ### 步驟四：輸入委託金額
 
-出現 Stake 頁面，輸入你所需要委託的 LikeCoin 數量，再點「Next」。
+出現 Stake 頁面，輸入你所需要委託的 LikeCoin 數量，點「Next」。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-04.png>)
 
@@ -56,7 +56,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
 
-出現 Send and confirming 畫面後再出現 Successfully staked! 即順利完成委託。
+出現 Sent and confirming 畫面後再出現 Successfully staked! 即順利完成委託。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-07.png>) ![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
 

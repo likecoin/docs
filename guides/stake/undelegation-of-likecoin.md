@@ -16,7 +16,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 ![](<../../.gitbook/assets/dao.like.co unstake 02.png>)
 
-4\. 出現 Unstake 頁面，輸入你所需要解除委託的 LikeCoin 數量，再點「Next」。
+4\. 出現 Unstake 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Next」。
 
 ![](<../../.gitbook/assets/dao.like.co unstake 03.png>)
 
@@ -24,9 +24,17 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 ![](<../../.gitbook/assets/dao.like.co unstake 04.png>)
 
-6\. 出現 Send and confirming 畫面後再出現 Successfully unstaked! 即順利取回委託。
+6\. 出現 Sent and confirming 畫面後再出現 Successfully unstaked! 即順利取回委託。
 
-![](<../../.gitbook/assets/dao.like.co unstake 04 (1).png>) ![](<../../.gitbook/assets/dao.like.co unstake 05.png>)
+<div>
+
+<img src="../../.gitbook/assets/dao.like.co unstake 05.png" alt="">
+
+ 
+
+<figure><img src="../../.gitbook/assets/dao.like.co unstake 06.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## 使用 Liker Land app 取回委託
 
