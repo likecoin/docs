@@ -4,7 +4,7 @@ description: dao.like.co is essential for managing LikeCoin
 
 # Keplr + dao.like.co: Deposit, send, delegate, governance and view transactions
 
-Use dao.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-mobile/how-to-install-cosmostation-mobile.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin.md) LikeCoin; provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote.md) and view transaction details.
+Use dao.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-mobile/how-to-install-cosmostation-mobile.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin.md) LikeCoin; provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote.md) and [view transaction details](../block-explorer/dao.like.co.md).
 
 ## Connect Keplr with LikeCoin chain
 
@@ -94,6 +94,10 @@ After the "Sent and confirming", "Successfully Send" appears, sending of LikeCoi
 
 {% content-ref url="../../governance/direct-vote.md" %}
 [direct-vote.md](../../governance/direct-vote.md)
+{% endcontent-ref %}
+
+{% content-ref url="../block-explorer/" %}
+[block-explorer](../block-explorer/)
 {% endcontent-ref %}
 
 ## Other wallet interface for managing LikeCoin with Keplr
