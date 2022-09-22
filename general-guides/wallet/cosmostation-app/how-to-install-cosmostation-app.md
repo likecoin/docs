@@ -2,11 +2,11 @@
 description: On iPhone or Android
 ---
 
-# How to install Cosmostation Mobile
+# How to install Cosmostation app
 
-### Step 1: Install Cosmostation mobile
+### Step 1: Install Cosmostation app
 
-Go to the [Apple App Store](https://apps.apple.com/us/app/cosmostation/id1459830339) or [Google Play](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion\&hl=en\_US\&gl=US) to download the cosmostation mobile app.
+Go to the [Apple App Store](https://apps.apple.com/us/app/cosmostation/id1459830339) or [Google Play](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion\&hl=en\_US\&gl=US) to download the cosmostation app.
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile create wallet 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -56,6 +56,6 @@ The LikeCoin wallet is ready.
 
 #### For import existing wallet please refer to:
 
-{% content-ref url="import-wallet-into-cosmostation-mobile.md" %}
-[import-wallet-into-cosmostation-mobile.md](import-wallet-into-cosmostation-mobile.md)
+{% content-ref url="import-wallet-into-cosmostation-app.md" %}
+[import-wallet-into-cosmostation-app.md](import-wallet-into-cosmostation-app.md)
 {% endcontent-ref %}

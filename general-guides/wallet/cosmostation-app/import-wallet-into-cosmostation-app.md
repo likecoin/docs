@@ -2,13 +2,13 @@
 description: Import seed words and create wallet
 ---
 
-# Import wallet into Cosmostation Mobile
+# Import wallet into Cosmostation app
 
-## Import wallet after installing the Cosmostation mobile
+## Import wallet after installing the Cosmostation app
 
-### Step 1: Install Cosmostation mobile
+### Step 1: Install Cosmostation app
 
-Go to the [Apple App Store](https://apps.apple.com/us/app/cosmostation/id1459830339) or [Google Play](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion\&hl=en\_US\&gl=US) to download the cosmostation mobile app.
+Go to the [Apple App Store](https://apps.apple.com/us/app/cosmostation/id1459830339) or [Google Play](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion\&hl=en\_US\&gl=US) to download the cosmostation app.
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@ The LikeCoin wallet is ready.
 
 ## Import more than one wallet
 
-If you need to import more than one wallet, open Cosmostation mobile after importing the first wallet. Click "SETTING" then "Manage Mnemonic / Add Wallet".
+If you need to import more than one wallet, open Cosmostation app after importing the first wallet. Click "SETTING" then "Manage Mnemonic / Add Wallet".
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 10.png" alt=""><figcaption></figcaption></figure>
 
