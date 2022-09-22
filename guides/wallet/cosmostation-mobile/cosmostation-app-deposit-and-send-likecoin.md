@@ -34,7 +34,7 @@ description: 使用 Cosmostation 手機應用程式直接存入及轉帳 LikeCoi
 
 ### 步驟二
 
-輸入收款錢包地址。點「Wallet」出現 Cosmostation app 中另一錢包地址、點「Scan」掃瞄錢包二維碼、點「Paste」填寫已複製的錢包地址；完成後點「Send」。
+輸入收款錢包地址。點「Wallet」出現 Cosmostation app 中另一錢包地址、點「Scan」掃瞄錢包二維碼或點「Paste」填寫已複製的錢包地址。完成後點「Next」。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile send 2.png" alt=""><figcaption></figcaption></figure>
 
