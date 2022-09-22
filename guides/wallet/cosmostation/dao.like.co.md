@@ -4,7 +4,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 # Comostation + dao.like.co：提存、委託、治理、查看交易
 
-用戶可使用 [dao.like.co](https://dao.like.co/) 搭配 [Cosmostation 瀏覽器擴充功能](how-to-install-cosmostation-extension.md)進行各種操作，包括[存入](dao.like.co.md#shi-yong-dao.like.co-cun-ru-likecoin-dao-cosmostation)、[轉帳](dao.like.co.md#shi-yong-dao.like.co-+-cosmostation-zhuan-zhang-likecoin-dao-qi-ta-qian-bao)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)、[投票](../../governance/direct-vote.md)及[查看交易明細](../block-explorer/dao.like.co.md)等。
+用戶可使用 [dao.like.co](https://dao.like.co/) 錢包介面搭配 [Cosmostation 瀏覽器擴充功能](how-to-install-cosmostation-extension.md)進行各種操作，包括[存入](dao.like.co.md#shi-yong-dao.like.co-cun-ru-likecoin-dao-cosmostation)、[轉帳](dao.like.co.md#shi-yong-dao.like.co-+-cosmostation-zhuan-zhang-likecoin-dao-qi-ta-qian-bao)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)、[投票](../../governance/direct-vote.md)及[查看交易明細](../block-explorer/dao.like.co.md)等。
 
 ## 將 Comostation 連接 dao.like.co <a href="#dao-like-co" id="dao-like-co"></a>
 
@@ -28,7 +28,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 ## 使用 dao.like.co 存入 LikeCoin 到 Cosmostation
 
-在 [dao.like.co](https://dao.like.co/) 點擊左上角錢包地址進行複製並黏貼到所要的地方（交易所或另一個錢包）。
+在 [dao.like.co](https://dao.like.co/) 點擊左上角錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。
 
 <figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption></figcaption></figure>
 
