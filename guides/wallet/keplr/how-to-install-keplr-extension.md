@@ -28,7 +28,7 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 ### 步驟三：連接 LikeCoin chain
 
-完成安裝後，請訪問 [https://dao.like.co](https://dao.like.co/welcome)，選擇「Keplr Browser Extension」，再選 「Approve」方可於 Keplr 顯示 LikeCoin chain，詳見[為 Keplr 連接 LikeCoin chain](dao.like.co.md#dao-like-co)。
+完成安裝後，請訪問 [https://dao.like.co](https://dao.like.co/welcome)，選擇「Keplr Browser Extension」，再選 「Approve」方可於 Keplr 顯示 LikeCoin chain，詳見[為 Keplr 連接 LikeCoin chain](dao.like.co.md)。
 
 #### 如需導入錢包，請參看：
 

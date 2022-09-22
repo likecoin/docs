@@ -48,7 +48,7 @@ Verify seed phrase 頁面要求你依照助記詞的次序輸入確認，完成�
 
 ![](<../../../.gitbook/assets/Comostation 10.png>)
 
-出現 Complete! 完成頁面，點「Close」。
+出現 Complete! 完成頁面，點「Done」。
 
 ![](<../../../.gitbook/assets/Comostation 11.png>)
 
