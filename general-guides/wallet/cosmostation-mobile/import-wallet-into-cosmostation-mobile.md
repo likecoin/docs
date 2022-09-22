@@ -1,3 +1,7 @@
+---
+description: Import seed words and create wallet
+---
+
 # Import wallet into Cosmostation Mobile
 
 ## Import wallet after installing the Cosmostation mobile

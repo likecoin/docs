@@ -1,3 +1,7 @@
+---
+description: On iPhone or Android
+---
+
 # How to install Cosmostation Mobile
 
 ### Step 1: Install Cosmostation mobile
