@@ -8,13 +8,13 @@ description: How to check and copy my wallet address?
 
 After logging in, click the wallet address directly to copy it.
 
-![](<../../.gitbook/assets/wallet address keplr.png>)
+<figure><img src="../../.gitbook/assets/Keplr wallet address.png" alt=""><figcaption></figcaption></figure>
 
 ### Cosmostation
 
-Click the wallet in the upper right hand corner of Cosmostation and click "LikeCoin" under "Select a chain", then click the wallet address to copy.
+Click "LikeCoin"and click "Deposiit, then click the copy icon to coy the wallet address.
 
-![](<../../.gitbook/assets/wallet address cosmostation.png>)
+<figure><img src="../../.gitbook/assets/Comostation wallet address.png" alt=""><figcaption></figcaption></figure>
 
 ### Lker Land app
 
