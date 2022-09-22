@@ -12,7 +12,7 @@ description: 如何查看及複製自己的錢包地址？
 
 ### Cosmostation
 
-在 Cosmostation 點「LikeCoin」後再點錢包地址進行複製。
+在 Cosmostation 點「LikeCoin」後點「Deposit」，再點複製圖示複製錢包地址。
 
 <figure><img src="../../.gitbook/assets/Comostation wallet address.png" alt=""><figcaption></figcaption></figure>
 
