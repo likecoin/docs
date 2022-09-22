@@ -4,7 +4,8 @@ description: 那些錢包支持 LikeCoin 操作？
 
 # 錢包
 
-* [Keplr](keplr/)
-* [Cosmostation](cosmostation/)
+* [Keplr 瀏覽器錢包](keplr/)
+* [Cosmostation 瀏覽器錢包](cosmostation/)
+* [Cosmostation 手機錢包](cosmostation/)
 * [Liker Land - LIKE pay](like-pay.md)
 * [Ledger](hardware-wallet.md)

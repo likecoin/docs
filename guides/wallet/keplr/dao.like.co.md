@@ -4,7 +4,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 # Keplr + dao.like.co：提存、委託、治理、查看交易
 
-使用 [dao.like.co](https://dao.like.co/) 錢包介面搭配 [Keplr 瀏覽器擴充功能](how-to-install-keplr-extension.md)，用戶可[存入](dao.like.co.md#shi-yong-dao.like.co-cun-ru-likecoin)、[轉帳](dao.like.co.md#shi-yong-dao.like.co-+-keplr-zhuan-zhang-likecoin-dao-qi-ta-qian-bao)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)，[投票](../../governance/direct-vote.md)及查看交易明細等。
+使用 [dao.like.co](https://dao.like.co/) 錢包介面搭配 [Keplr 瀏覽器擴充功能](how-to-install-keplr-extension.md)，用戶可[存入](dao.like.co.md#shi-yong-dao.like.co-cun-ru-likecoin)、[轉帳](dao.like.co.md#shi-yong-dao.like.co-+-keplr-zhuan-zhang-likecoin-dao-qi-ta-qian-bao)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)，[投票](../../governance/direct-vote.md)及[查看交易明細](../block-explorer/dao.like.co.md)等。
 
 ## 為 Keplr 連接 LikeCoin chain <a href="#dao-like-co" id="dao-like-co"></a>
 
@@ -84,7 +84,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 </div>
 
-## 使用 dao.like.co 進行：
+## 使用 dao.like.co：
 
 {% content-ref url="../../stake/" %}
 [stake](../../stake/)
@@ -96,6 +96,10 @@ description: dao.like.co 管理 LikeCoin 必備
 
 {% content-ref url="../../governance/direct-vote.md" %}
 [direct-vote.md](../../governance/direct-vote.md)
+{% endcontent-ref %}
+
+{% content-ref url="../block-explorer/" %}
+[block-explorer](../block-explorer/)
 {% endcontent-ref %}
 
 ## 其他可使用 Keplr 管理 LikeCoin 的錢包介面 <a href="#other-wallet-interface" id="other-wallet-interface"></a>
