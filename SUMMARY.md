@@ -115,6 +115,7 @@
     * [Import wallet into Cosmostation](general-guides/wallet/cosmostation/import-wallet-into-cosmostation.md)
   * [Cosmostation Mobile Wallet](general-guides/wallet/cosmostation-mobile/README.md)
     * [How to install Cosmostation Mobile](general-guides/wallet/cosmostation-mobile/how-to-install-cosmostation-mobile.md)
+    * [Cosmostation app: Deposit and Send LikeCoin](general-guides/wallet/cosmostation-mobile/cosmostation-app-deposit-and-send-likecoin.md)
     * [Import wallet into Cosmostation Mobile](general-guides/wallet/cosmostation-mobile/import-wallet-into-cosmostation-mobile.md)
   * [LIKE pay](general-guides/wallet/like-pay.md)
   * [Ledger](general-guides/wallet/hardware-wallet.md)
