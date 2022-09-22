@@ -8,13 +8,13 @@ description: 如何查看及複製自己的錢包地址？
 
 登入後直接點錢包地址進行複製。
 
-![](<../../.gitbook/assets/wallet address keplr.png>)
+<figure><img src="../../.gitbook/assets/Keplr wallet address.png" alt=""><figcaption></figcaption></figure>
 
 ### Cosmostation
 
-在 Cosmostation 右上角點錢包並於「Select a chain」點「LikeCoin」後再點錢包地址進行複製。
+在 Cosmostation 點「LikeCoin」後再點錢包地址進行複製。
 
-![](<../../.gitbook/assets/wallet address cosmostation.png>)
+<figure><img src="../../.gitbook/assets/Comostation wallet address.png" alt=""><figcaption></figcaption></figure>
 
 ### Liker Land app
 

@@ -50,6 +50,7 @@
   * [錢包地址](guides/wallet/wallet-address.md)
   * [區塊瀏覽器](guides/wallet/block-explorer/README.md)
     * [Big Dipper](guides/wallet/block-explorer/big-dipper.md)
+    * [dao.like.co](guides/wallet/block-explorer/dao.like.co.md)
     * [Mintscan](guides/wallet/block-explorer/mintscan.md)
   * [手續費](guides/wallet/transaction-fee.md)
   * [新地址前綴 (like) 常見問題](guides/wallet/like-address-prefix.md)
