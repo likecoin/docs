@@ -52,7 +52,7 @@ The Stake page appears, enter the amount of LikeCoin you want to delegate, and c
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-04.png>)
 
-### Step 5: Confirm the amount and gas fee
+### Step 5: Confirm the amount and transaction fee
 
 After confirming that the amount and [transaction fee](../wallet/transaction-fee.md) are correct, click "Next".
 
@@ -89,6 +89,72 @@ Confirmation is required. Keplr and Cosmostation users will need to approve a po
 After the Sent and confirming appears, Successfully withdrawal! appears, which means your rewards is successfully claimed.
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
+
+## Delegate via Cosmostation app
+
+### Step 1: Login Cosmostation app
+
+On the Cosmostation app, click「Delegate」.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### Step 2: Select a validator
+
+Select a validator that you want to delegate on the Validator List "Top" menu.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 2.png" alt=""><figcaption></figcaption></figure>
+
+### Step 3: Delegate
+
+Click "DELEGATE".
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 3.png" alt=""><figcaption></figcaption></figure>
+
+### Step 4: Decide the amount to delegate
+
+Enter the amount of LikeCoin you want to delegate and click "Next".
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 4.png" alt=""><figcaption></figcaption></figure>
+
+Fill in the Memo (if any), click "Next".
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 5.png" alt=""><figcaption></figcaption></figure>
+
+### Step 5: Confirm the amount and transaction fee
+
+The estimated [transaction fee](../wallet/transaction-fee.md) is displayed, click "Next".
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 6.png" alt=""><figcaption></figcaption></figure>
+
+Reconfirm the delegate amount and transaction fee, click "Confirm".
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 7.png" alt=""><figcaption></figcaption></figure>
+
+The "Delegate Notice" appears, reads and clicks "Confirm" again.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 8.png" alt=""><figcaption></figcaption></figure>
+
+### Step 6: PIN confirmation
+
+Enter the PIN to confirm.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile send 7.jpg" alt=""><figcaption></figcaption></figure>
+
+### Step 7: Check your delegation
+
+The delegation is complete and transaction details are displayed. Press "Share" to share or "Explorer" to view the details in the Mintscan block explorer. Click "Done" when finished.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 9.png" alt=""><figcaption></figcaption></figure>
+
+### Step 8: Withdraw Rewards
+
+In the "My" of the Validator List, select "One Click Claim all Rewards" to withdraw delegation rewards from all validators. Click "One Click Compounding" to reinvest the rewards to increase the delegated amount.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 10.png" alt=""><figcaption></figcaption></figure>
+
+Or click on each validator to "Claim Reward" or "Compounding" one by one.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 11.png" alt=""><figcaption></figcaption></figure>
 
 ## Delegate via Liker Land
 
