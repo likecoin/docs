@@ -4,6 +4,14 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 # 轉移委託 LikeCoin
 
+## 轉移委託的注意事項
+
+若你本來已有 LikeCoin 委託於新驗證人處，轉移完成後會連你原本已委託的 LikeCoin 一併被鎖定 21 天。請謹慎作出轉移委託的決定。
+
+{% hint style="success" %}
+留意轉移委託需要[手續費](../wallet/transaction-fee.md)。
+{% endhint %}
+
 ## 使用 dao.like.co 轉移委託 <a href="#dao.like.co-redelegate" id="dao.like.co-redelegate"></a>
 
 ### 步驟一：登入 dao.like.co
@@ -60,16 +68,8 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 ![](../../.gitbook/assets/IMG\_2331.PNG)
 
-## 留意冷卻期
+### 步驟四：留意冷卻期
 
 被轉移的金額會有 21 天的冷卻期，期間不能被動用，請注意。
 
-{% hint style="danger" %}
-留意：若你本來已有 LikeCoin 委託於新驗證人處，轉移完成後會連你原本已委託的 LikeCoin 一併被鎖定 21 天。請謹慎作出轉移委託的決定。
-{% endhint %}
-
 ![](../../.gitbook/assets/IMG\_2332.jpg)
-
-{% hint style="warning" %}
-留意轉移委託需要[手續費](../wallet/transaction-fee.md)。
-{% endhint %}

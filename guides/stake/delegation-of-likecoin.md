@@ -10,20 +10,20 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 [direct-vote.md](../governance/direct-vote.md)
 {% endcontent-ref %}
 
-委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.co](delegation-of-likecoin.md#dao.like.co-delegate) 配合 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 進行投票。
+委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.co](delegation-of-likecoin.md#dao.like.co-delegate) 配合 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 進行委託。
 
 也可以使用手機應用程式進行委託：
 
 * [Cosmostation app](delegation-of-likecoin.md#cosmostation-app-delegate)
 * [Liker Land app](delegation-of-likecoin.md#likerland.app-delegate)
 
-你也可以通過以下網站搭配 [Keplr Browser Extension](../wallet/keplr/) 管理你的 LikeCoin：
+你亦可以通過以下網站搭配 [Keplr Browser Extension](../wallet/keplr/) 管理你的 LikeCoin：
 
 * Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
 * Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
 
-{% hint style="warning" %}
+{% hint style="success" %}
 留意委託及領取收益需要[手續費](../wallet/transaction-fee.md)。
 {% endhint %}
 
@@ -194,10 +194,6 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 回到錢包的頁面，你可以下拉刷新錢包的狀態。
 
 回饋金額會 5 至 6 秒派發一次 - 什麼？跟銀行的每月派息快太多了吧！你可在錢包驗證人頁面中的 「未領取收益」欄查看累積的回饋金額，或按「領取收益」把回報存進錢包，留意 Liker Land 手機應用程式最低收益存進數量為 1 LikeCoin，少於 1 LikeCoin 的收益將不能存進錢包。
-
-{% hint style="warning" %}
-留意領取收益需要[手續費](../wallet/transaction-fee.md)。
-{% endhint %}
 
 ## 了解更多有關「委託」的原理
 
