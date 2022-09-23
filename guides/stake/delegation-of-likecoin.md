@@ -12,7 +12,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 委託機制是 LikeCoin DAO [流動民主](../governance/liquid-democracy.md)自治機制非常重要的一環。
 
-委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.co](https://dao.like.co/)。 你也可以通過以下方式管理你的 LikeCoin：
+委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.co](https://dao.like.co/)。 你也可以通過以下方式搭配 [Keplr](../wallet/keplr/) 管理你的 LikeCoin：
 
 * Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
@@ -22,7 +22,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../user-guide/liker-id/register-with-keplr.md)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
@@ -86,7 +86,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ### 步驟一：選擇驗證人
 
-於 [Liker Land 手機應用程式](https://liker.land/getapp)的點擊「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
+於 [Liker Land 手機應用程式](https://liker.land/getapp) 點擊「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
 
 ![點擊我的錢包](../../.gitbook/assets/delegate-4.png)
 
