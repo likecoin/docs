@@ -4,25 +4,34 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 # 委託 LikeCoin
 
-委託的意思是把 LikeCoin 委託給一個或多個[驗證人 ( Validator )](../governance/what-is-a-validator/)，讓他們代表你為 LikeCoin DAO 的議案投票，同時賺取回報。自 LikeCoin chain 升級 FoTan 後，每位經已委託 LikeCoin 予驗證人的持份者都可以直接就議案投票。
+委託的意思是把 LikeCoin 委託給一個或多個[驗證人 ( Validator )](../governance/what-is-a-validator/)，讓他們在你沒有時間作出決定時代表你為 LikeCoin DAO 議案投票同時賺取回報。每位經已委託 LikeCoin 予驗證人的持份者也可以直接就議案投票。委託機制是 LikeCoin DAO [流動民主](../governance/liquid-democracy.md)自治機制非常重要的一環。
 
 {% content-ref url="../governance/direct-vote.md" %}
 [direct-vote.md](../governance/direct-vote.md)
 {% endcontent-ref %}
 
-委託機制是 LikeCoin DAO [流動民主](../governance/liquid-democracy.md)自治機制非常重要的一環。
+委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.co](delegation-of-likecoin.md#dao.like.co-delegate) 配合 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 進行投票。
 
-委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.co](https://dao.like.co/)。 你也可以通過以下方式搭配 [Keplr](../wallet/keplr/) 管理你的 LikeCoin：
+也可以使用手機應用程式進行委託：
+
+* [Cosmostation app](delegation-of-likecoin.md#cosmostation-app-delegate)
+* [Liker Land app](delegation-of-likecoin.md#likerland.app-delegate)
+
+你也可以通過以下網站搭配 [Keplr Browser Extension](../wallet/keplr/) 管理你的 LikeCoin：
 
 * Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
 * Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
 
-## 使用 dao.like.co 委託 LikeCoin <a href="#dao.like.co-delegate" id="dao.like.co-delegate"></a>
+{% hint style="warning" %}
+留意委託及領取收益需要[手續費](../wallet/transaction-fee.md)。
+{% endhint %}
+
+## 使用 dao.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+到 [dao.li也ke.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
@@ -82,7 +91,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
 
-## 使用 Cosmostation app 委託 LikeCoin <a href="#cosmostation-app-delegate" id="cosmostation-app-delegate"></a>
+## 使用 Cosmostation app 委託 LikeCoin <a href="#delegate-via-cosmostation-app" id="delegate-via-cosmostation-app"></a>
 
 ### 步驟一：登入 Cosmostation app
 
@@ -148,7 +157,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 11.png" alt=""><figcaption></figcaption></figure>
 
-## 使用 Liker Land app 委託 LikeCoin <a href="#likerland.app-delegate" id="likerland.app-delegate"></a>
+## 使用 Liker Land app 委託 LikeCoin <a href="#delegate-via-liker-land" id="delegate-via-liker-land"></a>
 
 ### 步驟一：選擇驗證人
 
