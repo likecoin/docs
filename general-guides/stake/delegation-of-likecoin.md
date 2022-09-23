@@ -6,7 +6,7 @@ description: >-
 
 # Delegation of LikeCoin
 
-Delegation means delegating LikeCoin to one or more [validators](../governance/what-is-a-validator/), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Since the LikeCoin chain upgraded to FoTan, Likers who delegate LikeCoin to validators can directly vote for proposals.
+Delegation / Stake means delegating LikeCoin to one or more [validators](../governance/what-is-a-validator/), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Since the LikeCoin chain upgraded to FoTan, Likers who delegate LikeCoin to validators can directly vote for proposals.
 
 {% content-ref url="../governance/direct-vote.md" %}
 [direct-vote.md](../governance/direct-vote.md)
@@ -54,7 +54,7 @@ The Stake page appears, enter the amount of LikeCoin you want to delegate, and c
 
 ### Step 5: Confirm the amount and gas fee
 
-After confirming that the amount and gas fee are correct, click "Next".
+After confirming that the amount and [transaction fee](../wallet/transaction-fee.md) are correct, click "Next".
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-05.png>)
 

@@ -48,7 +48,7 @@ The Send page appears. On "Send To" fill in the wallet address of the receiver, 
 
 ### Step 3
 
-After confirming that the amount and gas fee are correct, click "Next".
+After confirming that the amount and [transaction fee](../transaction-fee.md) are correct, click "Next".
 
 <figure><img src="../../../.gitbook/assets/Cosmostation Send 1.png" alt=""><figcaption></figcaption></figure>
 

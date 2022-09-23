@@ -52,13 +52,13 @@ On Insert memo (Option) fill in the Tag/Memo which may be required by the receiv
 
 ### Step 5&#x20;
 
-The estimated transaction fee is displayed, click "Next".
+The estimated [transaction fee](../transaction-fee.md) is displayed, click "Next".
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile send 5.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 6
 
-Reconfirm the transfer amount, transac fee, LikeCoin amount, receiver wallet address, etc and click "Confirm".
+Reconfirm the transfer amount, [transaction fee](../transaction-fee.md), LikeCoin amount, receiver wallet address, etc and click "Confirm".
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile send 6.png" alt=""><figcaption></figcaption></figure>
 
