@@ -52,13 +52,13 @@ Insert memo (option) 填進收款方需要 Tag/Memo（如有）再點「Next」�
 
 ### 步驟五
 
-顯示手續費預估數值，點「Next」繼續。
+顯示[手續費](../transaction-fee.md)預估數值，點「Next」繼續。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile send 5.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟六
 
-最後確認轉帳數量、手續費、現有 LikeCoin，傳送後剩下 LikeCoin 數量及收款他地址再點「Confirm」。
+最後確認轉帳數量、[手續費](../transaction-fee.md)、現有 LikeCoin，傳送後剩下 LikeCoin 數量及收款他地址再點「Confirm」。
 
 
 

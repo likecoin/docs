@@ -48,7 +48,7 @@ description: dao.like.co 管理 LikeCoin 必備
 
 ### 步驟三
 
-確認傳送數量及所需手續費無誤後點「Next」。
+確認傳送數量及所需[手續費](../transaction-fee.md)無誤後點「Next」。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation Send 1.png" alt=""><figcaption></figcaption></figure>
 
