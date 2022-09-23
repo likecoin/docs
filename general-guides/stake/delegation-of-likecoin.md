@@ -6,19 +6,28 @@ description: >-
 
 # Delegation of LikeCoin
 
-Delegation / Stake means delegating LikeCoin to one or more [validators](../governance/what-is-a-validator/), letting them to represent you to raise proposals and vote for or against the proposals, and most importantly to earn rewards. Since the LikeCoin chain upgraded to FoTan, Likers who delegate LikeCoin to validators can directly vote for proposals.
+Delegation / Stake means delegating LikeCoin to one or more [validators](../governance/what-is-a-validator/) to earn rewards. Likers who delegate LikeCoin to validators can directly vote for proposals, or let the validators to represent you to raise proposals and vote for or against the proposals when you don't have time to handle. Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) and is vital to the autonomy for the LikeCoin DAO.
 
 {% content-ref url="../governance/direct-vote.md" %}
 [direct-vote.md](../governance/direct-vote.md)
 {% endcontent-ref %}
 
-Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) and is vital to the autonomy for the LikeCoin DAO.
+There are several ways to stake LikeCoin, we suggest using [dao.like.co](https://dao.like.co/welcome) together with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to delegate.
 
-There are multiple ways to stake LikeCoin, we suggest using [dao.like.co](https://dao.like.co/welcome). You may also want to manage your LikeCoin with [Keplr Browser Extension](../wallet/keplr/) and:
+You may also use your mobile to delegate:
+
+* [Cosmostation app](delegation-of-likecoin.md#delegate-via-cosmostation-app)
+* [Liker Land app](delegation-of-likecoin.md#delegate-via-liker-land)
+
+&#x20;You may also want to manage your LikeCoin with [Keplr Browser Extension](../wallet/keplr/) and:
 
 * Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
 * Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
+
+{% hint style="warning" %}
+[Transaction fee](../wallet/transaction-fee.md) is required for ‌Delegate and Withdraw Rewards.
+{% endhint %}
 
 ## Delegate via dao.like.co
 
@@ -200,7 +209,3 @@ Validator with your delegation will be displayed as green.
 Going back to the wallet page, you can drag down the screen and refresh wallet status.
 
 The LikeCoin rewards earned from delegation will be released every 5 or 6 seconds. quicker than monthly interest from the bank! You can check out the \[Delegating Rewards] amount from the validator page, or click \[Withdraw Rewards] to save the rewards back to your wallet. The minimum withdrawal amount on the Liker Land app is 1 LikeCoin.
-
-{% hint style="warning" %}
-[Transaction fee](../wallet/transaction-fee.md) is required for ‌Withdraw Rewards.
-{% endhint %}
