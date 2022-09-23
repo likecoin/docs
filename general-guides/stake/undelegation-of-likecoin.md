@@ -8,7 +8,7 @@ description: >-
 
 ## **Undelegate via dao.like.co**
 
-1\. Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
+1\. Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
 
 <figure><img src="../../.gitbook/assets/Civic Liker Web 3-01.png" alt=""><figcaption></figcaption></figure>
 

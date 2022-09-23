@@ -104,4 +104,4 @@ After the "Sent and confirming", "Successfully Send" appears, sending of LikeCoi
 
 * Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
-* ping.pub - [https://ping.pub](https://ping.pub/)
+* ping.pub - [https://ping.pub/](https://ping.pub/)

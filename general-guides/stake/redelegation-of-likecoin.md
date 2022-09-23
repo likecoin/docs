@@ -8,7 +8,7 @@ description: Transfer the delegated LikeCoin to another validator
 
 ### Step 1: Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
+Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
 
 <figure><img src="../../.gitbook/assets/Civic Liker Web 3-01.png" alt=""><figcaption></figcaption></figure>
 
