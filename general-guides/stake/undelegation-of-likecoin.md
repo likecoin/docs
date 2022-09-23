@@ -6,6 +6,21 @@ description: >-
 
 # Undelegation of LikeCoin
 
+## Important note **regarding Undelegation**
+
+Once you've confirmed your undelegation, the following happens:
+
+1. It takes 21 days cooling-off period to undelegate and get back the LikeCoin to your own wallet, the LikeCoin cannot be redelegated, rewarded or transferred as well.
+2. Validator lost his/her voting power of the amount the LikeCoin withdrew.
+
+{% hint style="success" %}
+[Transaction fee](../wallet/transaction-fee.md) is required for ‌Undelegate LikeCoin.
+{% endhint %}
+
+{% hint style="danger" %}
+If you find that your LikeCoin undelegated was less than what you delegated to the validator, it may be the case that your validator [cannot validate the transaction properly](../../user-guide/background.md#9e68) and was penalized. Therefore, please choose your validator wisely.
+{% endhint %}
+
 ## **Undelegate via dao.like.co**
 
 ### Step 1: Login dao.like.co
@@ -48,29 +63,14 @@ If you delegated LikeCoin to a validator but you want to get them back, you can 
 
 ### **Step 1: Select the validator with delegation**
 
-In the LikeCoin wallet page, click on the validator that you delegated (displayed as green)
+In the LikeCoin wallet page, click on the validator that you delegated (displayed as green).
 
 ### Step 2: Undelegate
 
-Go to the validatior page, click \[Undelegate]
+Go to the validatior page, click \[Undelegate].
 
 ![](../../.gitbook/assets/undelegation-en.png)
 
 ### **Step 3: Input the amount of LikeCoin to undelegate**
 
-Input the number of LikeCoin that you have to withdraw, click \[Confirm]
-
-## **Attention regarding Undelegation**
-
-Once you've confirmed your undelegation, the following happens:
-
-1. It takes 21 days cooling-off period to undelegate and get back the LikeCoin to your own wallet, the LikeCoin cannot be redelegated, rewarded or transferred as well.
-2. Validator lost his/her voting power of the amount the LikeCoin withdrew.
-
-{% hint style="warning" %}
-[Transaction fee](../wallet/transaction-fee.md) is required for ‌Undelegate LikeCoin.
-{% endhint %}
-
-{% hint style="danger" %}
-If you find that your LikeCoin undelegated was less than what you delegated to the validator, it may be the case that your validator [cannot validate the transaction properly](../../user-guide/background.md#9e68) and was penalized. Therefore, please choose your validator wisely.
-{% endhint %}
+Input the number of LikeCoin that you have to undelegate, click \[Confirm].

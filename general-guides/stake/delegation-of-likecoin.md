@@ -25,7 +25,7 @@ You may also use your mobile to delegate:
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
 * Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
 
-{% hint style="warning" %}
+{% hint style="success" %}
 [Transaction fee](../wallet/transaction-fee.md) is required for ‌Delegate and Withdraw Rewards.
 {% endhint %}
 
