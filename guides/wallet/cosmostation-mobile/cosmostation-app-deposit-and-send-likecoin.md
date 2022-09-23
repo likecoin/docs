@@ -72,6 +72,6 @@ Insert memo (option) 填進收款方需要 Tag/Memo（如有）再點「Next」�
 
 ### 步驟八
 
-轉帳完成並顯示詳盡資料。可按「Share」分享或「Explorer」在區塊瀏覽器中查閱明細。完成後點「Done」結束。
+轉帳完成並顯示詳盡資料。可按「Share」分享或「Explorer」在 [Mintscan 區塊瀏覽器](../block-explorer/mintscan.md)中查閱明細。完成後點「Done」結束。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile send 8.png" alt=""><figcaption></figcaption></figure>

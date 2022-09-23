@@ -15,3 +15,5 @@ description: 輕鬆出版 – 一鍵發行 NFT
 由於內容備份了在分散式檔案系統，擁有 NFT 的讀者等於擁有了一份內容的正本，可以隨時閱覽。
 
 [下載 Writing NFT 外掛](https://wordpress.org/plugins/likecoin/)
+
+{% embed url="https://www.youtube.com/watch?v=NylJ5-QkJvs" %}

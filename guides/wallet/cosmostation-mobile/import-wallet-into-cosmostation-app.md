@@ -1,4 +1,8 @@
-# 在 Cosmostation 手機應用程式導入錢包
+---
+description: 導入助記詞並建立錢包
+---
+
+# 在 Cosmostation app 導入錢包
 
 ## 導入錢包
 

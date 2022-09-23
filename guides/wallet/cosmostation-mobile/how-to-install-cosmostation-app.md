@@ -1,4 +1,8 @@
-# 安裝 Cosmostation 手機應用程式
+---
+description: 於 iPhone 及 Android
+---
+
+# 安裝 Cosmostation app
 
 ### 步驟一：安裝 Cosmostation 手機應用程式
 
@@ -52,6 +56,6 @@ LikeCoin 錢包經已就緒。
 
 #### 如需導入錢包，請參看：
 
-{% content-ref url="import-wallet-into-cosmostation-mobile.md" %}
-[import-wallet-into-cosmostation-mobile.md](import-wallet-into-cosmostation-mobile.md)
+{% content-ref url="import-wallet-into-cosmostation-app.md" %}
+[import-wallet-into-cosmostation-app.md](import-wallet-into-cosmostation-app.md)
 {% endcontent-ref %}

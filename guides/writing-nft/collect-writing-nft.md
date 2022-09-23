@@ -6,13 +6,17 @@ description: 如何收藏 Writing NFT
 
 收藏 LikeCoin Writing NFT 步驟非常簡單。在購買前請預先登入 [Keplr](../wallet/keplr/) 或 [Liker Land app](../../user-guide/liker-land/download.md)。
 
+## 影片教學
+
+{% embed url="https://www.youtube.com/watch?v=chZNVmZFzHU" %}
+
 ## 步驟一：開始收藏
 
 到[活動頁面](https://liker.land/campaign/writing-nft)查看希望購買的 NFT，點當前的 NFT 價格。
 
 ![](<../../.gitbook/assets/Buy NFT 01.png>)
 
-或到 NFT details 頁面點「Collect Now」。
+或到 NFT deti片ls 頁面點「Collect Now」。
 
 ![](<../../.gitbook/assets/Buy NFT 02.png>)
 
@@ -20,7 +24,7 @@ description: 如何收藏 Writing NFT
 
 ![](<../../.gitbook/assets/Buy NFT 03.png>)
 
-### 步驟二：選擇登入方式
+## 步驟二：選擇登入方式
 
 彈出視窗出現 Keplr Wallet 或 Liker ID 登入選項。
 
