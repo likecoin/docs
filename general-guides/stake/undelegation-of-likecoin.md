@@ -8,27 +8,37 @@ description: >-
 
 ## **Undelegate via dao.like.co**
 
-1\. Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
+### Step 1: Login dao.like.co
+
+Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
 
 <figure><img src="../../.gitbook/assets/Civic Liker Web 3-01.png" alt=""><figcaption></figcaption></figure>
 
-2\. Click "Portfolio" on the left hand side menu, on Your Stake and click on the validator that you need to undelegate.
+### **Step 2: Select the validator with delegation**
+
+Click "Portfolio" on the left hand side menu, on Your Stake and click on the validator that you need to undelegate.
 
 ![](<../../.gitbook/assets/dao.like.co unstake 01.png>)
 
-3\. Click "Unstake" on the upper right corner of the validator to undelegate.
+### **Step 3: Unstake**
+
+Click "Unstake" on the upper right corner of the validator to undelegate.
 
 ![](<../../.gitbook/assets/dao.like.co unstake 02.png>)
 
-4\. The Unstake page appears, enter the amount of LikeCoin you want to undelegate, and click "Next".
+### Step 4: Decide the amount to undelegate
+
+The Unstake page appears, enter the amount of LikeCoin you want to undelegate, and click "Next".
 
 ![](<../../.gitbook/assets/dao.like.co unstake 03.png>)
 
-5\. Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm the undelegation after clicking "Send". Authcore users directly click "Send".
+### Step 5: Confirm undelegation
+
+Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm the undelegation after clicking "Send". Authcore users directly click "Send".
 
 ![](<../../.gitbook/assets/dao.like.co unstake 04.png>)
 
-6\. After the "Sent and confirming", "Successfully unstaked!" appears, undelegation is completed.
+After the "Sent and confirming", "Successfully unstaked!" appears, undelegation is completed.
 
 ![](<../../.gitbook/assets/dao.like.co unstake 05.png>) ![](<../../.gitbook/assets/dao.like.co unstake 06.png>)
 
@@ -36,11 +46,19 @@ description: >-
 
 If you delegated LikeCoin to a validator but you want to get them back, you can utilize the \[Undelegate] function of [Liker Land app](https://liker.land/getapp). Please follow the steps:
 
-1.   In the LikeCoin wallet page, click on the validator that you delegated (displayed as green)
-2. Go to the validatior page, click \[Undelegate]
-3. Input the number of LikeCoin that you have to withdraw, click \[Confirm]
+### **Step 1: Select the validator with delegation**
+
+In the LikeCoin wallet page, click on the validator that you delegated (displayed as green)
+
+### Step 2: Undelegate
+
+Go to the validatior page, click \[Undelegate]
 
 ![](../../.gitbook/assets/undelegation-en.png)
+
+### **Step 3: Input the amount of LikeCoin to undelegate**
+
+Input the number of LikeCoin that you have to withdraw, click \[Confirm]
 
 ## **Attention regarding Undelegation**
 

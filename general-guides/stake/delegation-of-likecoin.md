@@ -46,7 +46,7 @@ Click "Stake" on the upper right corner of the validator to delegate.
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
 
-### Step 4: Decide how much to stake
+### Step 4: Decide the amount to delegate
 
 The Stake page appears, enter the amount of LikeCoin you want to delegate, and click "Next".
 
