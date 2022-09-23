@@ -4,7 +4,7 @@ description: Multichain wallet supporting LikeCoin
 
 # Cosmostation Browser Extension Wallet
 
-[Cosmostation](https://www.cosmostation.io/) is a non-custodial multi-chain cryptocurrency browser extension wallet for the Cosmos Interchain, Ethereum, ETH Layer 2, and EVM ecosystems. refer to the following guide for how to install Cosmostation.
+[Cosmostation](https://www.cosmostation.io/) is a non-custodial multi-chain cryptocurrency browser extension wallet for the Cosmos Interchain, Ethereum, ETH Layer 2, and EVM ecosystems. refer to the following guide for how to install Cosmostation. [Cosmostation also has a mobile wallet](../cosmostation-app/) that supports LikeCoin chain.
 
 Note that the Cosmostation does not support registration of Liker ID yet.
 
@@ -14,7 +14,7 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 [how-to-install-cosmostation-extension.md](how-to-install-cosmostation-extension.md)
 {% endcontent-ref %}
 
-#### Deposit, send, delegate, proposal deposit, vote and view transaction details:
+#### Deposit, send, delegate LikeCoin; proposal deposit, vote and view transaction details:
 
 {% content-ref url="cosmostation-deposit-and-send-likecoin.md" %}
 [cosmostation-deposit-and-send-likecoin.md](cosmostation-deposit-and-send-likecoin.md)

@@ -14,7 +14,7 @@ Note that Keplr mobile app does not support LikeCoin yet.
 [how-to-install-keplr-extension.md](how-to-install-keplr-extension.md)
 {% endcontent-ref %}
 
-#### Deposit, send, delegate, proposal deposit, vote and view transaction details:
+#### Deposit, send, delegate LikeCoin; proposal deposit, vote and view transaction details:
 
 {% content-ref url="keplr-deposit-and-send-likecoin.md" %}
 [keplr-deposit-and-send-likecoin.md](keplr-deposit-and-send-likecoin.md)
