@@ -18,7 +18,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
 * Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
 
-## 使用 dao.like.co 委託 LikeCoin
+## 使用 dao.like.co 委託 LikeCoin <a href="#dao.like.co-delegate" id="dao.like.co-delegate"></a>
 
 ### 步驟一：登入 dao.like.co
 
@@ -82,7 +82,9 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
 
-## 使用 Liker Land app 委託 LikeCoin
+## 使用 Cosmostation app 委託 LikeCoin
+
+## 使用 Liker Land app 委託 LikeCoin <a href="#likerland.app-delegate" id="likerland.app-delegate"></a>
 
 ### 步驟一：選擇驗證人
 
@@ -124,7 +126,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 留意領取收益需要[手續費](../wallet/transaction-fee.md)。
 {% endhint %}
 
-### 了解更多有關「委託」的原理
+## 了解更多有關「委託」的原理
 
 委託的功能，是 LikeCoin DAO「流動民主」機制的重要一環。想知道更多有關概念，請閱讀以下文章：
 

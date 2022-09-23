@@ -4,27 +4,37 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 # 取回委託 LikeCoin
 
-## 使用 dao.like.co 取回委託
+## 使用 dao.like.co 取回委託 <a href="#dao.like.co-undelegate" id="dao.like.co-undelegate"></a>
 
-1\. 到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+### 步驟一：登入 dao.like.co
 
-2\. 登入後，到左手邊菜單選擇「Portfolio」，在 Your Stake 點需要解除委託的驗證人。
+到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+
+### 步驟二：選擇已委託的驗證人
+
+登入後，到左手邊菜單選擇「Portfolio」，在 Your Stake 點需要解除委託的驗證人。
 
 ![](<../../.gitbook/assets/dao.like.co unstake 01.png>)
 
-3\. 在驗證人頁面右上角點「Unstake」解除委託。
+### 步驟三：進行取回委託
+
+在驗證人頁面右上角點「Unstake」解除委託。
 
 ![](<../../.gitbook/assets/dao.like.co unstake 02.png>)
 
-4\. 出現 Unstake 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Next」。
+### 步驟四：輸入取回委託金額
+
+出現 Unstake 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Next」。
 
 ![](<../../.gitbook/assets/dao.like.co unstake 03.png>)
 
-5\. 系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點擊「Send」。
+### 步驟五：確認取回委託
+
+系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點擊「Send」。
 
 ![](<../../.gitbook/assets/dao.like.co unstake 04.png>)
 
-6\. 出現 Sent and confirming 畫面後再出現 Successfully unstaked! 即順利取回委託。
+出現 Sent and confirming 畫面後再出現 Successfully unstaked! 即順利取回委託。
 
 <div>
 
@@ -36,15 +46,23 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 </div>
 
-## 使用 Liker Land app 取回委託
+## 使用 Liker Land app 取回委託 <a href="#likerland.app-undelegate" id="likerland.app-undelegate"></a>
 
 若你已把 LikeCoin 委託了給驗證人，現在想領回，可用 [Liker Land 手機應用程式](https://liker.land/getapp)中的「取回委託」功能。請參考以下步驟：
 
-1. 在 LikeCoin 錢包頁面，選取已委託的驗證人（顯示為綠色）
-2. 進入驗證人頁面後，選「取回委託」
-3. 輸入要提取的金額，點「確認」確認
+### 步驟一：選擇已委託的驗證人
+
+在 LikeCoin 錢包頁面，選取已委託的驗證人（顯示為綠色）
+
+### 步驟二：取回委託
+
+進入驗證人頁面後，選「取回委託」
 
 ![](../../.gitbook/assets/IMG\_2328.jpg)
+
+### 步驟三：確認取回委託
+
+輸入要提取的金額，點「確認」確認
 
 ## 取回委託的注意事項
 
