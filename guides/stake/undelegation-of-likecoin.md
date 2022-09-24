@@ -19,7 +19,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 假如發現取回委託時 LikeCoin 本金比原來的少了，有機會是因為驗證人不在線無法[驗證交易](../../user-guide/background.md#9e68)而被罰款。故此，請慎選可靠的驗證人。
 {% endhint %}
 
-## 使用 dao.like.co 取回委託 <a href="#dao.like.co-undelegate" id="dao.like.co-undelegate"></a>
+## 使用 dao.like.co 取回委託 <a href="#undelegate-via-dao.like.co" id="undelegate-via-dao.like.co"></a>
 
 ### 步驟一：登入 dao.like.co
 
@@ -61,7 +61,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 </div>
 
-## 使用 Cosmostation app 取回委託 <a href="#likerland.app-undelegate" id="likerland.app-undelegate"></a>
+## 使用 Cosmostation app 取回委託 <a href="#undelegate-via-cosmostation-app" id="undelegate-via-cosmostation-app"></a>
 
 ### 步驟一：登入 Cosmostation app
 
@@ -87,7 +87,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption></figcaption></figure>
 
-## 使用 Liker Land app 取回委託 <a href="#likerland.app-undelegate" id="likerland.app-undelegate"></a>
+## 使用 Liker Land app 取回委託 <a href="#undelegate-via-liker-land" id="undelegate-via-liker-land"></a>
 
 若你已把 LikeCoin 委託了給驗證人，現在想領回，可用 [Liker Land 手機應用程式](https://liker.land/getapp)中的「取回委託」功能。請參考以下步驟：
 

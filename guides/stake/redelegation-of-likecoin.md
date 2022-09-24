@@ -44,6 +44,38 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 ![](<../../.gitbook/assets/dao.like.co restake 05.png>) ![](<../../.gitbook/assets/dao.like.co restake 06.png>)
 
+## 使用 Cosmostation app 轉移委託 <a href="#undelegate-via-cosmostation-app" id="undelegate-via-cosmostation-app"></a>
+
+### 步驟一：登入 Cosmostation app
+
+打開 [Cosmostation app](../wallet/cosmostation-mobile/)，點「Delegate」。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟二：選擇已委託的驗證人
+
+在 Validator List 的 「My」選擇需要取回委託的驗證人。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟三：進行轉移委託
+
+點「REDELEGATE」。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟四：輸入轉移委託金額
+
+出現 REDELEGATE 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Next」。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 2.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟五：選擇新的驗證人
+
+選擇需要轉移委託的新驗證人，點「Next」再進行確認（參考[使用 Cosmostation app 委託 LikeCoin 步驟四至七](delegation-of-likecoin.md#bu-zhou-si-shu-ru-wei-tuo-jin-e-1)）即可轉移委託。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 3.png" alt=""><figcaption></figcaption></figure>
+
 ## 使用 Liker Land 轉移委託 <a href="#likerland.app-redelegate" id="likerland.app-redelegate"></a>
 
 [Liker Land 手機應用程式](https://liker.land/getapp)提供「轉移委託」功能，讓用戶把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證人。轉移的 LikeCoin 金額在確認後即時轉帳，驗證人的投票權也會即時受影響。用戶已轉移的金額將按新驗證人提供的回報率獲取回報。
