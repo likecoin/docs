@@ -73,3 +73,9 @@ Enter the PIN to confirm.
 The transfer is complete and transaction details are displayed. Press "Share" to share or "Explorer" to view the details in the [Mintscan block explorer](../block-explorer/mintscan.md). Click "Done" when finished.
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile send 8.png" alt=""><figcaption></figcaption></figure>
+
+## Use Cosmostaion app to:
+
+{% content-ref url="../../stake/" %}
+[stake](../../stake/)
+{% endcontent-ref %}

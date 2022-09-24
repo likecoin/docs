@@ -46,6 +46,38 @@ After the "Sent and confirming", "Successfully restaked!" appears, redelegation 
 
 ![](<../../.gitbook/assets/dao.like.co restake 05.png>) ![](<../../.gitbook/assets/dao.like.co restake 06.png>)
 
+## **Undelegate via Cosmostation app**
+
+### Step 1: Login Cosmostation app
+
+On the Cosmostation app, click「Delegate」.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### Step 2: Select the validator with delegation
+
+On the "My" of the Validator List click the validator that you have to redelegate.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### Step 3: Redelegate
+
+Click "REDELEGATE".
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### Step 4: Decide the amount to redelegate
+
+The REDELEGATE page appears, enter the amount of LikeCoin you want to redelegate.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 2.png" alt=""><figcaption></figcaption></figure>
+
+### Step **** 5: Select the new validator to delegate
+
+Select the validator that you want to redelegate to and click "Next" then confirm ( **** Follow the [Step 4-7 in Delegate via Cosmostation app](delegation-of-likecoin.md#step-4-decide-the-amount-to-delegate-1) ) to redelegate.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 3.png" alt=""><figcaption></figcaption></figure>
+
 ## **Redelegate via Liker Land**
 
 [Liker Land app](https://liker.land/getapp) \[Redelegate] function helps users to transfer the delegated LikeCoin from one validator to another. LikeCoin will be transferred immediately after confirmation, voting power of the validator is affected too. The newly delegated LikeCoin receives rewards according to the rewards percentage of the new validator.

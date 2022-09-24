@@ -14,7 +14,7 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 [how-to-install-cosmostation-app.md](how-to-install-cosmostation-app.md)
 {% endcontent-ref %}
 
-#### Deposit, send, delegate LikeCoin; proposal deposit, vote and view transaction details:
+#### Deposit, send, delegate LikeCoin; vote and view transaction details:
 
 {% content-ref url="cosmostation-app-deposit-and-send-likecoin.md" %}
 [cosmostation-app-deposit-and-send-likecoin.md](cosmostation-app-deposit-and-send-likecoin.md)
