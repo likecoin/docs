@@ -57,6 +57,32 @@ After the "Sent and confirming", "Successfully unstaked!" appears, undelegation 
 
 ![](<../../.gitbook/assets/dao.like.co unstake 05.png>) ![](<../../.gitbook/assets/dao.like.co unstake 06.png>)
 
+## **Undelegate via Cosmostation app**
+
+### Step 1: Login Cosmostation app
+
+On the Cosmostation app, click「Delegate」.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### Step 2: Select the validator with delegation
+
+On the "My" of the Validator List click the validator that you have to undelegate.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### Step 3: Undelegate
+
+Click "UNDELEGATE".
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 2.png" alt=""><figcaption></figcaption></figure>
+
+### Step 4: Decide the amount to undelegate
+
+The UNDELEGATE page appears, enter the amount of LikeCoin you want to undelegate, and click "Next" then confirm ( **** Follow the [Step 4-7 in Delegate via Cosmostation app](delegation-of-likecoin.md#step-4-decide-the-amount-to-delegate-1) ) to undelegate.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption></figcaption></figure>
+
 ## **Undelegate via Liker Land**
 
 If you delegated LikeCoin to a validator but you want to get them back, you can utilize the \[Undelegate] function of [Liker Land app](https://liker.land/getapp). Please follow the steps:

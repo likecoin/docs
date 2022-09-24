@@ -157,13 +157,17 @@ The delegation is complete and transaction details are displayed. Press "Share" 
 
 ### Step 8: Withdraw Rewards
 
-In the "My" of the Validator List, select "One Click Claim all Rewards" to withdraw delegation rewards from all validators. Click "One Click Compounding" to reinvest the rewards to increase the delegated amount.
+On the "My" of the Validator List, select "One Click Claim all Rewards" to withdraw delegation rewards from all validators. Click "One Click Compounding" to reinvest the rewards to increase the delegated amount.
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 10.png" alt=""><figcaption></figcaption></figure>
 
 Or click on each validator to "Claim Reward" or "Compounding" one by one.
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 11.png" alt=""><figcaption></figcaption></figure>
+
+On CLAIM REWARD or Compounding page click "Next" and then confirm to withdraw rewards.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 12.png" alt=""><figcaption></figcaption></figure>
 
 ## Delegate via Liker Land
 
