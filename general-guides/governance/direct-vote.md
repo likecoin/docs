@@ -8,7 +8,7 @@ Likers who has delegated LikeCoin to validators can directly vote on proposals s
 
 Besides delegating your voting powers to validators to let them vote on behalf of you, you can now vote by yourself. For example if your validator votes for "No", you can vote "Yes" based on the stake that you have. But if you do not cast your vote, your trusted validator is still representing you to vote.
 
-There are multiple ways to vote for a proposal, we suggest using [dao.like.co](https://dao.like.co/welcome). You may also want to use:
+There are multiple ways to vote for a proposal, we suggest using [dao.like.co](https://dao.like.co/welcome) together with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) . You may also want to use:
 
 * Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
