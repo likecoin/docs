@@ -10,7 +10,7 @@
 [how-to-install-cosmostation-app.md](how-to-install-cosmostation-app.md)
 {% endcontent-ref %}
 
-#### 存入、轉帳 LikeCoin：
+#### 存入、轉帳、委託 LikeCoin；投票及查看交易明細：
 
 {% content-ref url="cosmostation-app-deposit-and-send-likecoin.md" %}
 [cosmostation-app-deposit-and-send-likecoin.md](cosmostation-app-deposit-and-send-likecoin.md)
