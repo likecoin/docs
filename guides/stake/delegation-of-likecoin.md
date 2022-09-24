@@ -157,6 +157,10 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 11.png" alt=""><figcaption></figcaption></figure>
 
+在 CLAIM REWARD 或 Compounding 頁面點「Next」然後再「Confirm」即可。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 12.png" alt=""><figcaption></figcaption></figure>
+
 ## 使用 Liker Land app 委託 LikeCoin <a href="#delegate-via-liker-land" id="delegate-via-liker-land"></a>
 
 ### 步驟一：選擇驗證人

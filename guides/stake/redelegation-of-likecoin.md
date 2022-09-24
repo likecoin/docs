@@ -30,7 +30,7 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 ### 步驟三：選擇新的驗證人
 
-出現 Restake 頁面，在 To: 下拉選單選擇需要轉移委託的新驗證人及輸入你所需要轉移委託的 LikeCoin 數量，再點「Next」。
+出現 Restake 頁面，在 To: 下拉選單選擇需要轉移委託的新驗證人及輸入所你需要轉移委託的 LikeCoin 數量，再點「Next」。
 
 ![](<../../.gitbook/assets/dao.like.co restake 03.png>)
 

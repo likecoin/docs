@@ -61,6 +61,32 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 </div>
 
+## 使用 Cosmostation app 取回委託 <a href="#likerland.app-undelegate" id="likerland.app-undelegate"></a>
+
+### 步驟一：登入 Cosmostation app
+
+打開 [Cosmostation app](../wallet/cosmostation-mobile/)，點「Delegate」。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟二：選擇已委託的驗證人
+
+在 Validator List 的 「My」選擇需要取回委託的驗證人。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟三：進行取回委託
+
+點「UNDELEGATE」。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 2.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟四：輸入取回委託金額
+
+出現 UNDELEGATE 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Next」，再進行確認（參考[使用 Cosmostation app 委託 LikeCoin 步驟四至七](delegation-of-likecoin.md#bu-zhou-si-shu-ru-wei-tuo-jin-e-1)）即可解除委託。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption></figcaption></figure>
+
 ## 使用 Liker Land app 取回委託 <a href="#likerland.app-undelegate" id="likerland.app-undelegate"></a>
 
 若你已把 LikeCoin 委託了給驗證人，現在想領回，可用 [Liker Land 手機應用程式](https://liker.land/getapp)中的「取回委託」功能。請參考以下步驟：
