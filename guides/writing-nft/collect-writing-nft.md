@@ -24,7 +24,7 @@ description: 如何收藏 Writing NFT
 
 ## 步驟二：選擇登入方式
 
-彈出視窗出現 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-id/register/) 登入選項。
+彈出視窗出現 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 登入選項。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 04.png" alt=""><figcaption></figcaption></figure>
 

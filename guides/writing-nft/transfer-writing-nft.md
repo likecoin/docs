@@ -20,19 +20,19 @@ description: 簡單轉移沒難度
 
 ## 步驟三：確認轉移
 
-### 在 Keplr 確認轉移
+### 在 Keplr 確認轉移 Writing NFT
 
 在 Keplr 彈出視窗，點「Approve」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 03.png" alt=""><figcaption></figcaption></figure>
 
-### 在 Cosmostation 確認轉移
+### 在 Cosmostation 確認轉移 Writing NFT
 
 在 Cosmostation 彈出視窗，點「Confirm」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 05.png" alt=""><figcaption></figcaption></figure>
 
-### 在 Liker Land app 確認轉移
+### 在 Liker Land app 確認轉移 Writing NFT
 
 在手機上出現簽名請求，點「允許」確認轉移。
 

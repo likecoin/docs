@@ -20,11 +20,11 @@ description: 第一個 ISCN 的概念示範應用
 
 ![](<../../.gitbook/assets/ISCN 1.png>)
 
-可使用 [Keplr 錢包](../wallet/keplr/) 或 [Liker Land app 配合 Liker ID](../../user-guide/liker-id/register/) 註冊 ISCN。
+可使用 [Keplr 瀏覽器錢包](../wallet/keplr/) 或 [Liker Land app ](../../user-guide/liker-id/register/)註冊 ISCN。
 
 ![](<../../.gitbook/assets/ISCN 1 Login 1.png>)
 
-**Keplr Wallet**：請於瀏覽器登入 Keplr。第一次使用 Keplr 錢包登入會要求簽署，請選「Approve」。
+**Keplr Browser Extension**：請於瀏覽器登入 Keplr。第一次使用 Keplr 錢包登入會要求簽署，請選「Approve」。
 
 ![](<../../.gitbook/assets/ISCN 1 Login 2.png>)
 
