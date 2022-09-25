@@ -82,6 +82,6 @@ Complete! page appears, the Writing NFT is successfully collected.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 15.png" alt=""><figcaption></figcaption></figure>
 
-Go to "My Dashboard" (https://liker.land/\[wallet address]) to view the NFT that you've collected.
+Go to "[My Dashboard](https://liker.land/dashboard)" (https://liker.land/\[wallet address]) to view the NFT that you've collected.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption></figcaption></figure>
