@@ -34,7 +34,7 @@ description: 如何收藏 Writing NFT
 
 ![](<../../.gitbook/assets/Buy NFT 05.png>)
 
-### Cosmostation  Browser Extension 登入
+### Cosmostation Browser Extension 登入
 
 於瀏覽器登入 [Cosmostation Browser Extension](../wallet/cosmostation/)、點「Cosmostation」後彈出視窗要求連結，點「Confirm」。
 
@@ -50,13 +50,13 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../.gitbook/assets/Buy NFT 09.png" alt=""><figcaption></figcaption></figure>
 
-彈出 ISCN App 視窗，點「允許」。
+彈出 Liker Land視窗，點「允許」。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 10.png" alt=""><figcaption></figcaption></figure>
 
 ## 步驟三：購買 Writing NFT
 
-出現購買頁面，點「Pay by LIKE」以 LikeCoin 購買 Writing NFT，又或者點「Pay by card (Beta)」以信用卡購買。
+出現 Collect NFT 頁面，點「Pay by LIKE」以 LikeCoin 購買 Writing NFT，又或者點「Pay by card (Beta)」以信用卡購買。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 06.png" alt=""><figcaption></figcaption></figure>
 
@@ -84,6 +84,10 @@ description: 如何收藏 Writing NFT
 
 ## 步驟四：查看已購買的 Writing NFT
 
-回到自己的 NFT Portfolio（網址為 https://liker.land/\[錢包地址] ）即可查看已購買的 NFT Collection。
+出現 Complete!  完成頁面並成功購買 Writing NFT。
+
+<figure><img src="../../.gitbook/assets/Buy NFT 15.png" alt=""><figcaption></figcaption></figure>
+
+回到自己的 「[My Dashboard](https://liker.land/dashboard)」（網址為 https://liker.land/\[錢包地址] ）即可查看已購買的 NFT Collection。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption></figcaption></figure>
