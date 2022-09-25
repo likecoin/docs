@@ -20,11 +20,11 @@ Visit [**app.like.co**](https://app.like.co) with the browser and click **\[Conn
 
 ![](<../../.gitbook/assets/ISCN 1.png>)
 
-Please [register a Keplr wallet](../../user-guide/liker-id/register-with-keplr.md) before registering an ISCN or using [Liker ID with Liker Land app](../../user-guide/liker-id/register/).
+Please [register a Keplr wallet](../wallet/keplr/) before registering an ISCN or using [Liker Land app](../../user-guide/liker-land/download.md).
 
 ![](<../../.gitbook/assets/ISCN 1 Login 1.png>)
 
-Keplr Wallet: Please log in to Keplr in your browser. On the first time you log in app.like.co, you will be asked to "Approve" on Keplr.
+**Keplr Browser Extension**: Please log in to Keplr in your browser. On the first time you log in app.like.co, you will be asked to "Approve" on Keplr.
 
 ![](<../../.gitbook/assets/ISCN 1 Login 2.png>)
 

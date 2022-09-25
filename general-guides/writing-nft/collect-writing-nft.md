@@ -22,7 +22,7 @@ Or else go to the author's NFT Portfolio (website: https://liker.land/\[wallet a
 
 ## Step 2: Choose your login method
 
-A pop-up window appears with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-id/register/) login options.
+A pop-up window appears with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md) login options.
 
 ![](<../../.gitbook/assets/Buy NFT 04.png>)
 
