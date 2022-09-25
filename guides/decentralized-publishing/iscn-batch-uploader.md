@@ -11,7 +11,7 @@ description: 如何一次過為大量資料註冊 ISCN，含少量技術程序
 
 1. 可以處理 CSV 檔案的工具，推薦免費的 Google spreadsheet。將要註冊的資料以 CSV 格式整理好。
 2. 可執行 Linux command 的電腦。電腦需已安裝 node.js 及 git 的最新版本。下文將以 Mac 為例。
-3. 一個已有少量 LikeCoin 的錢包。[錢包需以 Keplr 註冊](../../user-guide/liker-id/register-with-keplr.md)，因為必須用到這錢包的助記詞  ( seed words )。
+3. 一個已有少量 LikeCoin 的錢包。[錢包需以 Keplr 註冊](../wallet/keplr/)，因為必須用到這錢包的助記詞  ( seed words )。
 
 ### 步驟一：資料整理
 

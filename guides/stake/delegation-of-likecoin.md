@@ -31,7 +31,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.li也ke.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
@@ -165,7 +165,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ### 步驟一：選擇驗證人
 
-於 [Liker Land 手機應用程式](https://liker.land/getapp) 點擊「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
+於 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md) 點擊「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
 
 ![點擊我的錢包](../../.gitbook/assets/delegate-4.png)
 

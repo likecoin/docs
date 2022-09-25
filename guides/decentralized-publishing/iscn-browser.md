@@ -24,7 +24,7 @@ Wancat 製作 [ISCN Browser](https://lancatlin.github.io/iscn-browser/) 方便�
 
 ### 連接錢包
 
-點左上角「Connect」可連接錢包，選擇 Keplr、Cosmostation 或 Liker Land 均可。
+點左上角「Connect」可連接錢包，選擇 [Keplr](../wallet/keplr/)、[Cosmostation](../wallet/cosmostation/cosmostation-deposit-and-send-likecoin.md) 或 [Liker Land app](../../user-guide/liker-land/download.md) 均可。
 
 <figure><img src="../../.gitbook/assets/Wancat ISCN Wallet 05.png" alt=""><figcaption></figcaption></figure>
 

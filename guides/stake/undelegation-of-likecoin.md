@@ -89,7 +89,7 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 ## 使用 Liker Land app 取回委託 <a href="#undelegate-via-liker-land" id="undelegate-via-liker-land"></a>
 
-若你已把 LikeCoin 委託了給驗證人，現在想領回，可用 [Liker Land 手機應用程式](https://liker.land/getapp)中的「取回委託」功能。請參考以下步驟：
+若你已把 LikeCoin 委託了給驗證人，現在想領回，可用 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)中的「取回委託」功能。請參考以下步驟：
 
 ### 步驟一：選擇已委託的驗證人
 
