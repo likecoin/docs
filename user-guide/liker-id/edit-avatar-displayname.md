@@ -16,7 +16,7 @@ description: 讓自己的性格更特出
 [nft-portfolio.md](../../guides/writing-nft/nft-portfolio.md)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/NFT Portfolio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ### LikeCoin button 讚賞鍵
 
