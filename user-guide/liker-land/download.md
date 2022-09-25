@@ -16,7 +16,9 @@ description: 要去哪裏下載 Liker Land？
 
 ## Liker Land 網頁版 - https://Liker.Land <a href="#liker-land-web" id="liker-land-web"></a>
 
-點擊右上角的菜單，會彈出其他選項。​
+登入後點擊右上角的菜單，會彈出其他選項。​
+
+<figure><img src="../../.gitbook/assets/Liker Land menu.png" alt=""><figcaption></figcaption></figure>
 
 ### 選項一：My Dashboard
 
@@ -24,7 +26,7 @@ description: 要去哪裏下載 Liker Land？
 
 ### 選項二：Civic Liker 讚賞公民
 
-用戶可委託 LikeCoin 成為[讚賞公民](../civic-liker/)在 [Dashboard](../civic-liker/dashboard.md) 查看委託狀態。
+用戶可委託 LikeCoin 成為[讚賞公民](../civic-liker/)在 [Civic Liker](https://liker.land/civic) 查看委託狀態。
 
 ### 選項三：Settings 設定
 

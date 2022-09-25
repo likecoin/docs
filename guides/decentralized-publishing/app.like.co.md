@@ -32,7 +32,7 @@ description: 第一個 ISCN 的概念示範應用
 
 ![](<../../.gitbook/assets/ISCN 1 Login 3.png>)
 
-在 [Liker Land 手機應用程式](../../user-guide/liker-id/register/)點二維碼圖示調用鏡頭，並掃瞄二維碼。
+在 Liker Land 手機應用程式點二維碼圖示調用鏡頭，並掃瞄二維碼。
 
 ![](<../../.gitbook/assets/depub.SPACE wc 4.png>)
 
