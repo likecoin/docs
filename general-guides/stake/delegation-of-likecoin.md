@@ -103,7 +103,7 @@ After the Sent and confirming appears, Successfully withdrawal! appears, which m
 
 ### Step 1: Login Cosmostation app
 
-On the Cosmostation app, click「Delegate」.
+On the [Cosmostation app](../wallet/cosmostation-app/), click「Delegate」.
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -177,7 +177,7 @@ You can also use Liker Land app to stake LikeCoin.  You may checkout the tutoria
 
 ### Step 1: Select a validator&#xD;
 
-Open the [Liker Land app](https://liker.land/getapp), click on \[My Wallet] to enter into the wallet page. In this page you can check the LikeCoin amount that you have and there is a list of validators underneath. You can select one of them as you like.
+Open the [Liker Land app](../../user-guide/liker-land/download.md), click on \[My Wallet] to enter into the wallet page. In this page you can check the LikeCoin amount that you have and there is a list of validators underneath. You can select one of them as you like.
 
 ![](<../../.gitbook/assets/delegate-4-en (1).png>)
 

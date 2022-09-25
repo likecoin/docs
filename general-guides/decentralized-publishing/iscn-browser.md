@@ -24,7 +24,7 @@ Click "Raw Data" to view the raw hash and metadata.&#x20;
 
 ### Connect wallet
 
-Click "Connect" in the upper left corner to connect your wallet, you can choose Keplr, Cosmostation or Liker Land.&#x20;
+Click "Connect" in the upper left corner to connect your wallet, you can choose [Keplr](../wallet/keplr/), [Cosmostation](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md).&#x20;
 
 <figure><img src="../../.gitbook/assets/Wancat ISCN Wallet 05.png" alt=""><figcaption></figcaption></figure>
 

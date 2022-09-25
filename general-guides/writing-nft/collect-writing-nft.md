@@ -28,13 +28,13 @@ A pop-up window appears with [Keplr Browser Extension](../wallet/keplr/), [Cosmo
 
 ### Keplr Browser Extension Login
 
-Please log into Keplr Browser Extension in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
+Please log into [Keplr Browser Extension ](../wallet/keplr/)in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
 
 ![](<../../.gitbook/assets/Buy NFT 05.png>)
 
 ### Cosmostation Browser Extension Login
 
-Please log into Cosmostation Browser Extension in your browser. After clicking "Cosmostation", a window will pop up requesting connection, click "Confirm".
+Please log into [Cosmostation Browser Extension](../wallet/cosmostation/) in your browser. After clicking "Cosmostation", a window will pop up requesting connection, click "Confirm".
 
 <figure><img src="../../.gitbook/assets/Buy NFT 13.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ A QRCode will appear after clicking "Liker ID".
 
 <figure><img src="../../.gitbook/assets/Buy NFT 08.png" alt=""><figcaption></figcaption></figure>
 
-On the Liker Land app, click the QRCode icon to bring up the camera, and scan the QRCode.
+On the [Liker Land app](../../user-guide/liker-land/download.md), click the QRCode icon to bring up the camera, and scan the QRCode.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 09-en.png" alt=""><figcaption></figcaption></figure>
 

@@ -16,13 +16,17 @@ description: Where to download Liker Land?
 
 ## Liker Land web - https://Liker.Land <a href="#liker-land-web" id="liker-land-web"></a>
 
+After logging in, click the menu in the upper right corner **** and the menu will pop up.
+
+<figure><img src="../../.gitbook/assets/Liker Land menu.png" alt=""><figcaption></figcaption></figure>
+
 ### **Option 1:** My Dashboard
 
 Connect to [NFT Portfolio](../../general-guides/writing-nft/nft-portfolio.md).
 
 ### Option 2: Civic Liker
 
-You can delegate your LikeCoin to become a [Civic Liker](../civic-liker/) and check your current status by the [dashboard](../civic-liker/dashboard.md).
+You can delegate your LikeCoin to become a [Civic Liker](../civic-liker/) and check your current status on "[Civic Liker](https://liker.land/civic)"
 
 ### **Option 3: Settings**
 
