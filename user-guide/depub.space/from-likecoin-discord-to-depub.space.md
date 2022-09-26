@@ -20,7 +20,7 @@ Click on the link that appears.
 
 ### Step 3
 
-User will be guide to this page, click "Use Keplr" or "Liker ID Sign In" to log in with Keplr Wallet or Liker Land app and click "Approve" to confirm posting.
+User will be guide to this page, click "Use Keplr" or "Liker ID Sign In" to log in with [Keplr Browser Extension](../../general-guides/wallet/keplr/) or [Liker Land app](../liker-land/download.md) and approve to confirm posting.
 
 ![](<../../.gitbook/assets/discord depub.space 03.png>)
 
