@@ -36,13 +36,13 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 免費 Liker 按讚也能令作者獲得少量創作基金資助。
 
-基金由 LikeCoin 社群通過[議案 #23](https://stake.like.co/proposals/23) 授權「創作基金委員會」管理，定期檢討。
+基金由 LikeCoin 社群通過[議案 #23](https://dao.like.co/proposals/23) 授權「創作基金委員會」管理，定期檢討。
 
 ![](../../.gitbook/assets/未命名簡報.jpeg)
 
 ### 成為持份者，參與 LikeCoin DAO
 
-委託了的 LikeCoin 代表投票權，可直接參與 [LikeCoin DAO 議案投票](https://dao.like.co/proposals/)。委託的 LikeCoin 愈多，投票權也愈大。
+委託了的 LikeCoin 代表投票權，可直接參與 [LikeCoin DAO 議案投票](../../guides/governance/direct-vote.md)。委託的 LikeCoin 愈多，投票權也愈大。
 
 ### 鼓勵開放多元&#xD;
 
@@ -56,7 +56,7 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 ### 讚賞公民的背景
 
-讚賞公民運動始於 2019年1月1日，早期版本讀者能透過每月訂閱，以按讚分配每月贊助金額，化讚為賞回饋創作。截至二零二二年二用，24,000 位作者透過計劃獲得超過 5,000 萬 LikeCoin 收入。
+讚賞公民運動始於 2019年1月1日，早期版本讀者能透過每月訂閱，以按讚分配每月贊助金額，化讚為賞回饋創作。截至 2022年2月，24,000 位作者透過計劃獲得超過 5,000 萬 LikeCoin 收入。
 
 讚賞公民於 2022年2月21日，改版至 Web3 版本，讓讀者以委託回報的收益來回饋創作，並終止支援信用卡付款 - 即「讚賞公民 Web3」。
 
