@@ -25,6 +25,7 @@ description: >-
 
 | **Date**            | **Description**                                                                |
 | ------------------- | ------------------------------------------------------------------------------ |
+| Monday, 3 October   |                                                                                |
 | Monday, 5 September | Writing NFT Progress and Roadmap                                               |
 | Monday, 1 August    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 4 July      | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
@@ -34,18 +35,6 @@ description: >-
 | Monday, 7 March     | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 7 February  | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 3 January   | LikeCoin Airdrop, Twitter Analytics, 2021 Sum up                               |
-
-## **2021 Date & Schedule**
-
-| **Date**            | **Description**                                                                                                                                 |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Monday, 6 December  | LikeCoin Airdrop                                                                                                                                |
-| Monday, 1 November  | LikeCoin chain status on IBC relayers & node sync issue, DEX listing on Osmosis & Emeris, Governance & proposals , Cosmos event month, HackAtom |
-| Monday, 4 October   | IBC on LikeCoin chain, ISCN card released                                                                                                       |
-| Monday, 6 September | LikeCoin chain upgrade follow up, ISCN in action                                                                                                |
-| Monday, 2 August    | Recap Testnet Upgrade, LikeCoin Grant Update                                                                                                    |
-| Monday, 5 July      | LikeCoin chain Upgrade Overview, ISCN product prototype                                                                                         |
-| Monday, 7 June      | LikeCoin Development Grant Update                                                                                                               |
 
 ## **Call Time**
 

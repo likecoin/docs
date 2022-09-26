@@ -10,7 +10,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 * Proposer: William
 * Proposal Type: Community Pool Spend Proposal
-* Date: Submit on 2022.09.02,&#x20;
+* Date: Submit on 2022.09.02, Passed on 2022.09.16
 * Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/56](https://bigdipper.live/likecoin/proposals/56)
 
 ## Proposal #55 Update expired CosmosHub IBC Client on LikeCoin

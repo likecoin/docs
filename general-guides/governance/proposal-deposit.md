@@ -12,7 +12,7 @@ In case the proposal fails to get 100k LikeCoin deposit in 2-week time, the prop
 
 Please note, if the proposal fails to achieve quorum, or gets more than 1/3 voting power as veto, then the proposal will be turned down and the deposited LikeCoin will be expropriated to the Community Pool; else the deposit will be transferred back to the owners.
 
-There are multiple ways to deposit for a proposal, we suggest using [dao.like.co](https://dao.like.co/welcome) together with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) . You may also want to use:
+There are multiple ways to deposit for a proposal, we suggest using [dao.like.co](https://dao.like.co/welcome) together with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/). You may also want to use:
 
 * Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
