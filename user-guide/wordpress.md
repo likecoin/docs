@@ -11,7 +11,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button，出版 WordPress
 * 一鍵發佈文章到 LikeCoin 並儲存於 IPFS 及 Arweave
 * 以 LikeCoin 一筆過支付內容上鏈及分散式儲存費用
 
-此 plugin 將支援進一步鑄造 NFT 並售賣給讀者，實現完整的分散式出版。
+此 plugin 更支援進一步鑄造 NFT 並售賣給讀者，實現完整的分散式出版。
 
 ## 安裝 LikeCoin 外掛 <a href="#installation" id="installation"></a>
 
@@ -89,6 +89,8 @@ description: 如何在自架 WordPress 加入 LikeCoin button，出版 WordPress
 
 在 Matters 上發布的作品皆會被上載到星際文件系統（InterPlanetary File System，IPFS）的節點之上。
 
-## 教學：出版 WordPress 作品到區塊鏈 <a href="#tutorial-publishing-wordpress-post-to-blockchain" id="tutorial-publishing-wordpress-post-to-blockchain"></a>
+## 把 WordPress 文章出版成 Writing NFT
 
-{% embed url="https://www.youtube.com/watch?t=&v=4fYNwZHRXCY" %}
+{% content-ref url="../guides/writing-nft/writing-nft-wordpress-plugin.md" %}
+[writing-nft-wordpress-plugin.md](../guides/writing-nft/writing-nft-wordpress-plugin.md)
+{% endcontent-ref %}
