@@ -8,23 +8,23 @@ description: What is Super Like?
 
 ## Concept
 
-When users click the 6th like (Super Like) on the LikeCoin button to an article, it will be posted to the decentralized social media [depub.space](../depub.space/). Not only does this new function boost visibility of quality content, but also helps to keep the content on blockchain indefinitely.
+When users click the 6th like (Super Like) on the [LikeCoin button](../creator/) to an article, it will be posted to the decentralized social media [depub.space](../depub.space/). Not only does this new function boost visibility of quality content, but also helps to keep the content on blockchain indefinitely.
 
-The [Liker Land app](https://liker.land/getapp) will display the World Feed for depub.space.
+The [Liker Land app](download.md) displays the World Feed for depub.space.
 
 The gas fee and decentralized storage fee for uploading to depub.space will be subsidized by Liker Land.&#x20;
 
-_\*The previous 4 LikeCoin rewards will be cancelled._
+_\*The previous 4 LikeCoin rewards were cancelled._
 
 ### **Working Together to Build Web3 Content Universe**
 
-depub.space is a decentralized social media in the LikeCoin ecosystem. Every tweet is a record on LikeCoin chain. No registration is needed for the sake of privacy. You can use it simply with your Keplr.
+depub.space is a decentralized social media in the LikeCoin ecosystem. Every tweet is a record on LikeCoin chain. No registration is needed for the sake of privacy. You can use it simply with your [Keplr](../../general-guides/wallet/keplr/), [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/) or [Liker Land app](download.md) with Wallet Connect.
 
 Creators need content curation tools and distribution channels. One of the conventional methods for promoting quality content is to share its hyperlink on social media such as Facebook or Twitter. Liker Land brings in a brand new option: Readers can click and share the content to depub.space from any website which supports the [LikeCoin button](../creator/).
 
 ### Mobile Version of depub.space?
 
-Currently, users need to use the desktop Keplr explorer plugin to access depub.space, as it cannot be accessed on a mobile device. As the mobile wallet of LikeCoin, [Liker Land app](https://liker.land/getapp) may make tweeting on mobile possible once it is incorporated to depub.space. There are however many technical obstacles ahead, and developers in the community are discussing on [Discord](http://discord.gg/likecoin). You are most welcome to join us.
+Currently, users need to use the desktop Keplr, Cosmostation Browser Extension or Liker Land app with Wallet Connec to access depub.space on desktop, as it cannot be accessed on a mobile device directly. As the mobile wallet of LikeCoin, [Liker Land app ](download.md)may make tweeting on mobile possible once it is incorporated to depub.space. There are however many technical obstacles ahead, and developers in the community are discussing on [Discord](http://discord.gg/likecoin). You are most welcome to join us.
 
 ## Usage <a href="#zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
