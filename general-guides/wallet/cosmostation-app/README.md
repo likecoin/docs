@@ -14,10 +14,14 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 [how-to-install-cosmostation-app.md](how-to-install-cosmostation-app.md)
 {% endcontent-ref %}
 
-#### Deposit, send, delegate LikeCoin; vote and view transaction details:
+#### Deposit, send, delegate LikeCoin:
 
 {% content-ref url="cosmostation-app-deposit-and-send-likecoin.md" %}
 [cosmostation-app-deposit-and-send-likecoin.md](cosmostation-app-deposit-and-send-likecoin.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../stake/" %}
+[stake](../../stake/)
 {% endcontent-ref %}
 
 #### You may also export seed words from Liker Land and import to Cosmostation mobiie:
