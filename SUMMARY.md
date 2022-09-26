@@ -34,7 +34,7 @@
   * [Keplr 瀏覽器錢包](guides/wallet/keplr/README.md)
     * [安裝 Keplr 瀏覽器擴充功能](guides/wallet/keplr/how-to-install-keplr-extension.md)
     * [Keplr：存入及轉帳](guides/wallet/keplr/keplr-deposit-and-send-likecoin.md)
-    * [Keplr + dao.like.co：提存、委託、治理、查看交易](guides/wallet/keplr/dao.like.co.md)
+    * [Keplr + dao.like.co：提存、委託、治理、查看交易、購買 Writing NFT](guides/wallet/keplr/dao.like.co.md)
     * [在 Keplr 導入錢包](guides/wallet/keplr/import-wallet-into-keplr.md)
   * [Cosmostation 瀏覽器錢包](guides/wallet/cosmostation/README.md)
     * [安裝 Cosmostation 瀏覽器擴充功能](guides/wallet/cosmostation/how-to-install-cosmostation-extension.md)
