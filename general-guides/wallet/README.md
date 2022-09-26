@@ -9,3 +9,4 @@ description: Wallet supports LikeCoin chain
 * [Cosmostation - Mobile Wallet](cosmostation-app/)
 * [Liker Land - LIKE pay](like-pay.md)
 * [Ledger](hardware-wallet.md)
+* [Multisig](multisig.md)
