@@ -13,7 +13,7 @@ The brand new [LikeCoin WordPress plugin](https://wordpress.org/plugins/likecoin
 * One-click publishing to LikeCoin plus storage at IPFS and Arweave
 * On-chain and decentralized storage fees can be paid by LikeCoin in one go
 
-This plugin will further support NFT minting in the future. By selling NFTs to readers, decentralized publishing can be actualized to the fullest.
+This plugin also support NFT minting. By selling NFTs to readers, decentralized publishing can be actualized to the fullest.
 
 ## How to add LikeCoin button on WordPress
 
