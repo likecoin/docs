@@ -28,7 +28,7 @@ description: 使用 Keplr 瀏覽器擴充功能錢包直接存入及轉帳 LikeC
 
 轉帳完成後回到步驟二的畫面查看你的 LikeCoin 餘額。
 
-## 使用 Keplr 轉帳 LikeCoin 到其他錢包 <a href="#send-out-likecoin-from-keplr" id="send-out-likecoin-from-keplr"></a>
+## 使用 Keplr 轉帳 LikeCoin 到其他錢包 <a href="#send-likecoin-from-keplr-to-another-wallet" id="send-likecoin-from-keplr-to-another-wallet"></a>
 
 ### 步驟一 <a href="#send-likecoin-from-keplr-to-another-wallet" id="send-likecoin-from-keplr-to-another-wallet"></a>
 
