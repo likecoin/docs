@@ -33,3 +33,13 @@ description: 支援 LikeCoin 的多鏈錢包
 {% content-ref url="import-wallet-into-keplr.md" %}
 [import-wallet-into-keplr.md](import-wallet-into-keplr.md)
 {% endcontent-ref %}
+
+#### 使用 Keplr 註冊 ISCN 及購買 Writing NFT：
+
+{% content-ref url="../../decentralized-publishing/app.like.co.md" %}
+[app.like.co.md](../../decentralized-publishing/app.like.co.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../writing-nft/collect-writing-nft.md" %}
+[collect-writing-nft.md](../../writing-nft/collect-writing-nft.md)
+{% endcontent-ref %}

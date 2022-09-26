@@ -33,3 +33,9 @@ description: 支援 LikeCoin 的多鏈錢包
 {% content-ref url="import-wallet-into-cosmostation.md" %}
 [import-wallet-into-cosmostation.md](import-wallet-into-cosmostation.md)
 {% endcontent-ref %}
+
+#### 使用 Cosmostation 購買 Writing NFT：
+
+{% content-ref url="../../writing-nft/collect-writing-nft.md" %}
+[collect-writing-nft.md](../../writing-nft/collect-writing-nft.md)
+{% endcontent-ref %}

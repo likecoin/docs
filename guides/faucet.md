@@ -8,7 +8,7 @@ description: LikeCoin 水龍頭
 
 ### 步驟一：連接錢包
 
-點 [Keplr Browser Extension](wallet/keplr/) 或 [Cosmostation Browser Extension](wallet/cosmostation/) 連接錢包。
+點 [Keplr](wallet/keplr/) 或 [Cosmostation](wallet/cosmostation/) 連接錢包。
 
 ![](<../.gitbook/assets/faucet 1.png>)
 
