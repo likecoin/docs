@@ -29,10 +29,7 @@ Currently, users need to use the desktop Keplr, Cosmostation Browser Extension o
 ## Usage <a href="#zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
 * Clicking the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When clicking on the 6th time, the article is being "Super Liked".
-* The "Super Liked" article will be on Liker Land. Your followers can see it on "Following" and everyone can see it on "Global".
-
-![](../../.gitbook/assets/superlike.gif)
-
+* The "Super Liked" article will be on Liker Land app.
 * A tick will then appear on the star totem representing one chance of Super Like being utilized. Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset.
 * The RSS icon on the lower right hand corner turned on and the article is being shared to Liker Land and depub.space.
 * Super Like cannot be accumulated, if it is not being used before the time to reset, it will be obsolete. You can only Super Like twice a day.
