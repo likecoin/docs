@@ -95,7 +95,7 @@
   * [為 depub.space 增添頭像](user-guide/depub.space/avatar.md)
 * [讚賞公民](user-guide/civic-liker/README.md)
   * [如何成為讚賞公民](user-guide/civic-liker/be-a-civic-liker.md)
-  * [讚賞公民 Dashboard](user-guide/civic-liker/dashboard.md)
+  * [讚賞公民狀態](user-guide/civic-liker/dashboard.md)
   * [常見問題](user-guide/civic-liker/faq.md)
   * [創作基金](user-guide/civic-liker/creators-fund.md)
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
