@@ -89,8 +89,12 @@ From now on you can sync your WordPress article to Matters. Simply login your Ma
 
 By publishing on Matters, your articles will be stored to the distributed InterPlanetary File System (IPFS) nodes.
 
-## Tutorial: Publishing WordPress post to blockchain
+## Publishing WordPress post to blockchain and mint Writing NFT
 
 {% embed url="https://www.youtube.com/watch?v=4fYNwZHRXCY" %}
+
+{% content-ref url="../general-guides/writing-nft/writing-nft-wordpress-plugin.md" %}
+[writing-nft-wordpress-plugin.md](../general-guides/writing-nft/writing-nft-wordpress-plugin.md)
+{% endcontent-ref %}
 
 
