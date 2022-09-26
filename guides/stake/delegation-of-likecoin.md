@@ -165,7 +165,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ### 步驟一：選擇驗證人
 
-於 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md) 點擊「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
+於 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)點擊「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
 
 ![點擊我的錢包](../../.gitbook/assets/delegate-4.png)
 

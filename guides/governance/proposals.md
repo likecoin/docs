@@ -10,7 +10,7 @@ description: LikeCoin DAO 有過甚麼議案？
 
 * **提案：**William
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
-* **日期**：2022.09.02 提案，
+* **日期**：2022.09.02 提案，2022.09.11 通過
 * **詳情**：[https://bigdipper.live/likecoin/proposals/56](https://bigdipper.live/likecoin/proposals/56)
 
 ## 議案 #55 在 LikeCoin 上更新過期的 CosmosHub IBC 客戶端

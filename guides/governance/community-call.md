@@ -4,7 +4,7 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 # 社群治理會議
 
-### 會議連結：[ http://discord.gg/likecoin](http://discord.gg/likecoin)
+### 會議連結：[http://discord.gg/likecoin](http://discord.gg/likecoin)
 
 ### 如何參與：
 
@@ -20,29 +20,18 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 ## **2022 日期及議程**
 
-| **日期**   | **描述**                                                                        |
-| -------- | ----------------------------------------------------------------------------- |
-| 星期一，9月5日 | Writing NFT Progress and Roadmap                                              |
-| 星期一，8月1日 | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
-| 星期一，7月4日 | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
-| 星期一，6月6日 | Q3 & Q4 Roadmap                                                               |
-| 星期一，5月2日 | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
-| 星期一，4月4日 | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
-| 星期一，3月7日 | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
-| 星期一，2月7日 | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
-| 星期一，1月3日 | LikeCoin Airdrop, Twitter Analytics, 2021 Sum up                              |
-
-## **2021 日期及議程**
-
-| **日期**    | **描述**                                                                                                                                         |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 星期一，12月6日 | LikeCoin Airdrop                                                                                                                               |
-| 星期一，11月1日 | LikeCoin chain status on IBC relayers & node sync issue, DEX listing on Osmosis & Emeris, Governance & proposals, Cosmos event month, HackAtom |
-| 星期一、10月4日 | IBC on LikeCoin chain, ISCN card released                                                                                                      |
-| 星期一、9月6日  | LikeCoin chain upgrade follow up, ISCN in action                                                                                               |
-| 星期一、8月2日  | Recap Testnet Upgrade, LikeCoin Grant Update                                                                                                   |
-| 星期一、7月5日  | LikeCoin chain upgrade preparation                                                                                                             |
-| 星期一、6月7日  | LikeCoin Development Grant Progress & 1st round submissions                                                                                    |
+| **日期**    | **描述**                                                                        |
+| --------- | ----------------------------------------------------------------------------- |
+| 星期一，10月3日 |                                                                               |
+| 星期一，9月5日  | Writing NFT Progress and Roadmap                                              |
+| 星期一，8月1日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
+| 星期一，7月4日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
+| 星期一，6月6日  | Q3 & Q4 Roadmap                                                               |
+| 星期一，5月2日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
+| 星期一，4月4日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
+| 星期一，3月7日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
+| 星期一，2月7日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
+| 星期一，1月3日  | LikeCoin Airdrop, Twitter Analytics, 2021 Sum up                              |
 
 ## 會議時間
 

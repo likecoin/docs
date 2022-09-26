@@ -139,7 +139,7 @@
 
 * [開發者簡介](developer/introduction.md)
 
-## 👥 驗証人 <a href="#validator" id="validator"></a>
+## 👥 驗證人 <a href="#validator" id="validator"></a>
 
 * [成為驗證人](validator/become-a-validator.md)
 
