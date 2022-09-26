@@ -172,7 +172,7 @@
   * [Avatar for depub.space](user-guide/depub.space/avatar.md)
 * [Civic Liker](user-guide/civic-liker/README.md)
   * [How to be a Civic Liker](user-guide/civic-liker/be-a-civic-liker.md)
-  * [Civic Liker Dashboard](user-guide/civic-liker/dashboard.md)
+  * [Civic Liker Settings](user-guide/civic-liker/dashboard.md)
   * [FAQ](user-guide/civic-liker/faq.md)
   * [Creators Fund](user-guide/civic-liker/creators-fund.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
