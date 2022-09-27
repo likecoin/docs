@@ -85,7 +85,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 ![](broken-reference)
 
-![](<../../../.gitbook/assets/Keplr Liker ID 02.png>)
+![](broken-reference)
 
 ## 沒有 Liker ID 如何升級
 

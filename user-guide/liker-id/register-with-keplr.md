@@ -36,67 +36,41 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 [how-to-install-keplr-extension.md](../../guides/wallet/keplr/how-to-install-keplr-extension.md)
 {% endcontent-ref %}
 
-### 步驟二：開始註冊
+### 步驟二：登入 Keplr
 
 到網址 [https://liker.land/](https://liker.land/civic/) 點右上角「Connect Wallet」。
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 01.png" alt=""><figcaption></figcaption></figure>
 
-在註冊或登入頁面點「註冊」。
+彈出視窗，點「Keplr」。
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 02.png" alt=""><figcaption></figcaption></figure>
 
-### 步驟三：以新介面或舊介面註冊
+彈出 Keplr 視窗點「Approve」。
 
-#### 新介面
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 03.png" alt=""><figcaption></figcaption></figure>
 
-出現以下頁面後點「切換新介面」。
+在三間菜單選「Civic Liker」，或者直到網址 [https://liker.land/civic](https://liker.land/civic)。
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 04.png" alt=""><figcaption></figcaption></figure>
 
-點「以 Keplr 瀏覽器插件連接」。
+### 步驟三：開始註冊
 
-<figure><img src="../../.gitbook/assets/Keplr Liker ID 12.png" alt=""><figcaption></figcaption></figure>
+點「註冊 Liker ID」。
+
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 05.png" alt=""><figcaption></figcaption></figure>
 
 彈出 Keplr 視窗，點「Approve」。
 
-<figure><img src="../../.gitbook/assets/Keplr Liker ID 13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 06.png" alt=""><figcaption></figcaption></figure>
 
 填寫你心儀 Liker ID 並點擊「確認」。
 
-<figure><img src="../../.gitbook/assets/Keplr Liker ID 14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 07.png" alt=""><figcaption></figcaption></figure>
 
 輸入顯示名稱及個人簡介再點「確認」。
 
-<figure><img src="../../.gitbook/assets/Keplr Liker ID 15.png" alt=""><figcaption></figcaption></figure>
-
-Liker ID 將成功註冊並轉回 Liker Land 網頁。
-
-#### 舊介面
-
-點擊右上角「以錢包登入」。
-
-<figure><img src="../../.gitbook/assets/Keplr Liker ID 01.png" alt=""><figcaption></figcaption></figure>
-
-點擊「以 Keplr 註冊」。
-
-![](<../../.gitbook/assets/Keplr Liker ID 02.png>)
-
-點擊「接受」。
-
-![](<../../.gitbook/assets/Keplr Liker ID 03-en.png>)
-
-此時將彈出 Keplr 視窗 LikeCoin chain Add Request，選「Approve」。
-
-![](<../../.gitbook/assets/Keplr Liker ID 04.png>)
-
-你需要授權 Keplr 與 LikeCoin chain 之間的連結，於 Requesting Connection 選「Approve」。
-
-![](<../../.gitbook/assets/Keplr Liker ID 04dot5.png>)
-
-在歡迎頁填寫你心儀的 Liker ID 及電郵地址並點擊確認。
-
-![](<../../.gitbook/assets/Keplr Liker ID 05.png>)
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 08.png" alt=""><figcaption></figcaption></figure>
 
 Liker ID 將成功註冊並轉回 Liker Land 網頁。
 
@@ -110,7 +84,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁。
 
 到 Liker Land [設定頁面](https://like.co/in/settings)，你會看到你 Liker ID 對應的 LikeCoin 錢包地址和 Keplr 所顯示的錢包地址相同，亦即代表你已成功使用 Keplr 註冊 Liker ID。
 
-![](<../../.gitbook/assets/Keplr Liker ID 06.png>)
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 09.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟五：以 Keplr 登入 Liker Land
 
@@ -122,13 +96,13 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁。
 
 點「以 Keplr 瀏覽器插件連接」即可登入 Liker Land。
 
-<figure><img src="../../.gitbook/assets/Keplr Liker ID 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 #### 舊介面
 
 點擊右上角「以錢包登入」。
 
-<figure><img src="../../.gitbook/assets/Keplr Liker ID 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 點擊「以 Keplr 登入」。
 
@@ -140,7 +114,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁。
 
 此時將彈出 Keplr 視窗 Chain Add Request，選「Approve」，即可登入 Liker Land。
 
-![](<../../.gitbook/assets/Keplr Liker ID 04.png>)
+![](broken-reference)
 
 {% hint style="info" %}
 假如你同時擁有以 Authcore 及 Keplr 註冊的 Liker ID，請確認使用菜單上的登出功能完全登出才登入另一個 Liker ID。
