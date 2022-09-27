@@ -20,6 +20,10 @@ Or else go to the author's NFT Portfolio (website: https://liker.land/\[wallet a
 
 <figure><img src="../../.gitbook/assets/Buy NFT 03.png" alt=""><figcaption></figcaption></figure>
 
+Also can click "Collect Now" on LikeCoin button.
+
+<figure><img src="../../.gitbook/assets/Buy NFT 16-en.png" alt=""><figcaption></figcaption></figure>
+
 ## Step 2: Choose your login method
 
 A pop-up window appears with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md) login options.
