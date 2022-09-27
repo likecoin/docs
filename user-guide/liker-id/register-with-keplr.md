@@ -4,7 +4,9 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 # 以 Keplr 註冊 Liker ID
 
-用戶可以使用 [Keplr](../../guides/wallet/keplr/) 電子錢包註冊 Liker ID，以去中心化的方式管理 LikeCoin 並自行掌握私鑰。留意每個 Liker ID 只能從 「Keplr」及「一般方法 ( Authcore )」兩種註冊方式二選其一，選定後無法更改至另一種登入方式。
+用戶可以使用 [Keplr](../../guides/wallet/keplr/) 電子錢包註冊 Liker ID，以去中心化的方式管理 LikeCoin 並自行掌握私鑰。
+
+留意每個 Liker ID 只能從 「Keplr」及「一般方法 ( Authcore )」兩種註冊方式二選其一，選定後無法更改至另一種登入方式。
 
 ## 功能比較
 
