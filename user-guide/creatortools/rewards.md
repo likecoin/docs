@@ -4,7 +4,7 @@ description: 查看每週、每天、每篇文章所獲得的讚賞收益，一�
 
 # 查看讚賞成就
 
-點擊 [Liker Land 手機應用程式](https://liker.land/getapp)的「所獲讚賞」能查看你本星期因讀者讚賞而獲得的 LikeCoin。
+點擊 [Liker Land 手機應用程式](../liker-land/download.md)的「所獲讚賞」能查看你本星期因讀者讚賞而獲得的 LikeCoin。
 
 
 
@@ -12,10 +12,10 @@ description: 查看每週、每天、每篇文章所獲得的讚賞收益，一�
 
 你可以左右滑動上方的棒形圖介面，翻查過去的統計數據。
 
-![每週的詳細統計頁面](../../../.gitbook/assets/IMG\_0669.PNG)
+![每週的詳細統計頁面](../../.gitbook/assets/IMG\_0669.PNG)
 
 &#x20;點擊棒形圖中的某一天，還可查看該天的讚賞收益明細。
 
-![點擊上方棒形圖中的某一天查看該天明細，左右滑動查看歷史數據](../../../.gitbook/assets/IMG\_0670.PNG)
+![點擊上方棒形圖中的某一天查看該天明細，左右滑動查看歷史數據](../../.gitbook/assets/IMG\_0670.PNG)
 
-![](../../../.gitbook/assets/check-rewarded.gif)
+![](../../.gitbook/assets/check-rewarded.gif)

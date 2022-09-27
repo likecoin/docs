@@ -130,9 +130,9 @@
     * [Write.as](user-guide/creator/blogging-platforms/write.as.md)
 * [創作者工具](user-guide/creatortools/README.md)
   * [查看讚賞成就](user-guide/creatortools/rewards.md)
+  * [每月創作進度](user-guide/creatortools/monthly-report.md)
   * [奬勵發放時間](user-guide/creatortools/reward-release-time.md)
   * [未能收到獎勵？](user-guide/creatortools/cannot-get-reward.md)
-  * [每月創作進度](user-guide/creatortools/monthly-report.md)
 * [詞彙表](user-guide/background.md)
 
 ## 🔬  開發者資源 <a href="#developer" id="developer"></a>
