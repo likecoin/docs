@@ -47,3 +47,9 @@ Liker Land 手機應用程式使用 Authcore 登入。甚麼是 Authcore？[請�
 {% hint style="success" %}
 所有 LikeCoin 推薦獎賞及讚賞公民推廣活動經已於2021年3月8日完結。
 {% endhint %}
+
+## 使用指南
+
+{% content-ref url="../../../guides/wallet/like-pay.md" %}
+[like-pay.md](../../../guides/wallet/like-pay.md)
+{% endcontent-ref %}

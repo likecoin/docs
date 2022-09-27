@@ -55,3 +55,21 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 {% hint style="info" %}
 [Matters](../../user-guide/creator/matters.md) 使用者可任意對任何一篇文章「支持作者」轉帳，詳見 [玩轉 Matters 實用指南](https://matters.news/guide)
 {% endhint %}
+
+## 其他操作
+
+{% content-ref url="../stake/delegation-of-likecoin.md" %}
+[delegation-of-likecoin.md](../stake/delegation-of-likecoin.md)
+{% endcontent-ref %}
+
+{% content-ref url="../decentralized-publishing/app.like.co.md" %}
+[app.like.co.md](../decentralized-publishing/app.like.co.md)
+{% endcontent-ref %}
+
+{% content-ref url="../writing-nft/collect-writing-nft.md" %}
+[collect-writing-nft.md](../writing-nft/collect-writing-nft.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../user-guide/depub.space/" %}
+[depub.space](../../user-guide/depub.space/)
+{% endcontent-ref %}
