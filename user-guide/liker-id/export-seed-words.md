@@ -4,7 +4,7 @@ description: Liker Land app 錢包終於可以導出助記詞
 
 # 匯出錢包助記詞
 
-由 2022 年 4 月開始，用戶可以自 Liker Land 匯出[以一般方法 ( Authcore ) 註冊 Liker ID](register/) 的錢包助記詞並在其他錢包例如 Keplr 管理自己的 LikeCoin。
+由 2022 年 4 月開始，用戶可以自 Liker Land 匯出[以一般方法 ( Authcore ) 註冊 Liker ID](register/) 的錢包助記詞並在其他錢包例如 Keplr 導入助記詞以管理自己的 LikeCoin。
 
 在匯出錢包助記詞前，請留意：
 
@@ -42,8 +42,16 @@ description: Liker Land app 錢包終於可以導出助記詞
 
 ![](<../../.gitbook/assets/Seed Words 5.png>)
 
-接下來你可以將助記詞導入 Keplr 或其他支援 Cosmos 生態系統的錢包。
+接下來你可以將助記詞導入 Keplr, Cosmostation 或其他支援 Cosmos 生態系統的錢包：
 
 {% content-ref url="../../guides/wallet/keplr/import-wallet-into-keplr.md" %}
 [import-wallet-into-keplr.md](../../guides/wallet/keplr/import-wallet-into-keplr.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../guides/wallet/cosmostation/import-wallet-into-cosmostation.md" %}
+[import-wallet-into-cosmostation.md](../../guides/wallet/cosmostation/import-wallet-into-cosmostation.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../guides/wallet/cosmostation-mobile/import-wallet-into-cosmostation-app.md" %}
+[import-wallet-into-cosmostation-app.md](../../guides/wallet/cosmostation-mobile/import-wallet-into-cosmostation-app.md)
 {% endcontent-ref %}
