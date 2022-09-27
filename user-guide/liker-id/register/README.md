@@ -49,3 +49,9 @@ Liker Land app uses Authcore as a sign-in solution. Check out**:** What is [Auth
 {% hint style="success" %}
 All LikeCoin and Civic Liker referral programs ended on March 8, 2021.
 {% endhint %}
+
+## User Guide
+
+{% content-ref url="../../../general-guides/wallet/like-pay.md" %}
+[like-pay.md](../../../general-guides/wallet/like-pay.md)
+{% endcontent-ref %}
