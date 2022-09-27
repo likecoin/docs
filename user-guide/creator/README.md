@@ -10,7 +10,7 @@ From the LikeCoin button on each creations, readers can:
 
 * [Turn "Likes" into Rewards](../liker-land/like.md): Turn every Like into actual, quantifiable income
 * Feature content: [Super Like](../liker-land/superlike.md) the content and recommend it to the community in [depub.space](../depub.space/)
-* Collect [Writing NFT](../../general-guides/writing-nft/) which is content in blockchain with traceability and immutability.
+* [Collect Writing NFT](../../general-guides/writing-nft/collect-writing-nft.md): which is content in blockchain with traceability and immutability.
 
 ## Use Case
 
