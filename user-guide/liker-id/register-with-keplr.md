@@ -17,7 +17,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 | 只能以桌面電腦 Chrome 瀏覽器的 Keplr extension 登入                                                                                                    | 可登入 [Liker Land 手機應用程式](../liker-land/download.md)，也可以手機瀏覽器登入                                                                                |
 | 支援使用硬件錢包​                                                                                                                                 | 不支援硬件錢包                                                                                                                                      |
 | 必需要轉入收款方的錢包地址[轉帳](../../guides/wallet/keplr/keplr-deposit-and-send-likecoin.md)                                                           | 可輸入收款方的 Liker ID 或錢包地址[轉帳](../../guides/wallet/like-pay.md)                                                                                  |
-| 以 [dao.like.co 委託 LikeCoin](../../guides/stake/delegation-of-likecoin.md#delegate-via-dao.like.co)                                        | 以 [Liker Land app 或 dao.like.co 委託 LikeCoin](../../guides/stake/delegation-of-likecoin.md#delegate-via-dao.like.co)                          |
+| 以 [dao.like.co 委託 LikeCoin](../../guides/stake/delegation-of-likecoin.md#delegate-via-dao.like.co)                                        | 以 [Liker Land app 或 dao.like.co 委託 LikeCoin](../../guides/stake/delegation-of-likecoin.md)                                                   |
 | 以 [dao.like.co](https://dao.like.co/) 存入議案[保證金](../../guides/governance/proposal-deposit.md)或[投票](../../guides/governance/direct-vote.md) | 以 [dao.like.co](https://dao.like.co/) 存入[議案保證](../../guides/governance/proposal-deposit.md)金或[投票](../../guides/governance/direct-vote.md)    |
 | 逐筆查看交易紀錄                                                                                                                                  | 在 Liker Land app 以視覺化方式查看每篇文章所獲[讚賞成就](../creatortools/rewards.md)                                                                            |
 | 支援註冊 [ISCN](../../guides/decentralized-publishing/app.like.co.md) 及購買 [Writing NFT](../../guides/writing-nft/collect-writing-nft.md)      | 支援註冊 [ISCN](../../guides/decentralized-publishing/iscn-batch-uploader.md) 及購買 [Writing NFT](../../guides/writing-nft/collect-writing-nft.md) |
@@ -38,7 +38,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 ### 步驟二：開始註冊
 
-到網址 [https://liker.land/civic/](https://liker.land/civic/) 點「立即註冊」。
+到網址 [https://liker.land/](https://liker.land/civic/) 點右上角「Connect Wallet」。
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
