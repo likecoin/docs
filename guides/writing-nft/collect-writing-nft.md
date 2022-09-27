@@ -22,6 +22,10 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../.gitbook/assets/Buy NFT 03.png" alt=""><figcaption></figcaption></figure>
 
+於 [LikeCoin button 讚賞鍵](../../user-guide/creator/)點「Collect Now」。
+
+<figure><img src="../../.gitbook/assets/Buy NFT 16.png" alt=""><figcaption></figcaption></figure>
+
 ## 步驟二：選擇登入方式
 
 彈出視窗出現 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 登入選項。
