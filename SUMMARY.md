@@ -207,9 +207,9 @@
   * [Edit Avatar and Name](user-guide/liker-id/edit-avatar-displayname.md)
 * [Content Creator Tools](user-guide/creatortools/README.md)
   * [Rewards](user-guide/creatortools/rewards.md)
+  * [Monthly Achievement](user-guide/creatortools/monthly-report.md)
   * [Reward Release Time](user-guide/creatortools/reward-release-time.md)
   * [Cannot get reward?](user-guide/creatortools/cannot-get-reward.md)
-  * [Monthly Achievement](user-guide/creatortools/monthly-report.md)
 * [Glossary](user-guide/background.md)
 
 ## Archive
