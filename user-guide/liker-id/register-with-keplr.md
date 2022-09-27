@@ -40,11 +40,11 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 到網址 [https://liker.land/civic/](https://liker.land/civic/) 點「立即註冊」。
 
-<figure><img src="../../.gitbook/assets/signup 05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 在註冊或登入頁面點「註冊」。
 
-<figure><img src="../../.gitbook/assets/signup 06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ### 步驟三：以新介面或舊介面註冊
 
@@ -52,7 +52,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 出現以下頁面後點「切換新介面」。
 
-<figure><img src="../../.gitbook/assets/signup 07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 點「以 Keplr 瀏覽器插件連接」。
 
