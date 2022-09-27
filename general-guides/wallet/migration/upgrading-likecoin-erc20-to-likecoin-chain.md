@@ -78,7 +78,7 @@ If you login Liker ID by MetaMask wallet only, you can still follow the instruct
 
 ![](broken-reference)
 
-![](../../../.gitbook/assets/keplr-liker-id-02-en.png)
+![](broken-reference)
 
 ## Upgrade without a Liker ID
 
