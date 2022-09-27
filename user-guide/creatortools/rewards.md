@@ -4,9 +4,9 @@ description: Check the Weekly, Daily rewards received from each articles
 
 # Rewards
 
-Click on \[Rewarded] on the [Liker Land app](https://liker.land/getapp) and check the amount of LikeCoin rewarded this week.
+Click on \[Rewarded] on the [Liker Land app](../liker-land/download.md) and check the amount of LikeCoin rewarded this week.
 
-![](<../../../.gitbook/assets/rewards-en (2).png>)
+![](<../../.gitbook/assets/rewards-en (2).png>)
 
 Click on the \[Rewarded] column for statistics, bar chart on the top indicated rewards for this week and the numbers of claps accumulated from Civic Liker and ordinary Liker. Swap below shows the reward details of each article.
 
@@ -18,4 +18,4 @@ Click on a day in the bar chart to check the reward details on that day.
 
 ![Click on a day in the bar chart to check the reward details, swap left or right for historical data](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-M7\_Gq-kkgSt-axtaE7\_%2F-M7\_L7YTCvCIBoPgj9z5%2FIMG\_0670.PNG?alt=media\&token=bb1fce7e-d9de-473b-8e7f-c7c7826ec107)
 
-![](../../../.gitbook/assets/check-rewarded.gif)
+![](../../.gitbook/assets/check-rewarded.gif)
