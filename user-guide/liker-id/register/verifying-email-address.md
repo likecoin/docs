@@ -19,7 +19,7 @@ The following steps have to be operated on desktop computer, and a smart phone i
 ### Step 1: Go to security settings
 
 1. Login [Liker Land](https://liker.land/) and go to Settings or [https://like.co/in/settings](https://like.co/in/settings)
-2. Select "Security settings" on "AuthCore Settings"
+2. "AuthCore Settings" and select "Security settings".&#x20;
 3. Click "2-step verification (2FA)"
 
 ![](../../../.gitbook/assets/2fa-1-en.png)
@@ -57,7 +57,7 @@ Continue from the previous step, the page displaying a QR Code now:
 
 ## Confirm your email address <a href="#confirm-your-email-address" id="confirm-your-email-address"></a>
 
-1\. Visit [https://like.co/in/settings](https://like.co/in/settings), select "Profile" on "AuthCore Settings", click "Contact" then click "Email",  going into the "Manage email" page
+1\. Visit [https://like.co/in/settings](https://like.co/in/settings), click on the "AuthCore Settings" and select "Profile", click "Contact" then click "Email" going into the "Manage email" page
 
 2\. On "Manage email" page, click "Confirm Now"
 

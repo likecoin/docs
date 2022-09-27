@@ -21,7 +21,7 @@ There are two benefits linking your social media logins:
 
 ### Step 1
 
-Login [Liker Land](https://liker.land/) and go to Settings or [https://like.co/in/settings](https://like.co/in/settings), go to "AuthCore Settings", click "Security settings", or open the Liker Land mobile app, click on setting at the lower right hand corner and select \[Security], then click \[Social Account login].
+Login [Liker Land](https://liker.land/) and go to Settings or [https://like.co/in/settings](https://like.co/in/settings), click on "AuthCore Settings", click "Security settings", or open the Liker Land mobile app, click on setting at the lower right hand corner and select \[Security], then click \[Social Account login].
 
 ![](../../../.gitbook/assets/social-media-logins-1-en.png)
 
