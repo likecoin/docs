@@ -4,7 +4,7 @@ description: Liker Land app wallet can finally export seed words
 
 # Export Seed Words
 
-Starting in April 2022, users can export seed words for [Liker ID registered by general method (with Authcore)](register/) and manage their LikeCoin in wallets such as Keplr.
+Starting in April 2022, users can export seed words from [Liker ID registered by general method (with Authcore)](register/) and manage their LikeCoin in wallets such as Keplr.
 
 Before exporting the seed words, please note:&#x20;
 
@@ -42,8 +42,12 @@ Click "Copy" to copy the seed words.
 
 ![](<../../.gitbook/assets/Seed Words 5en.png>)
 
-Then you can import the seed words into Keplr or other wallets that support the Cosmos ecosystem.
+Then you can import the seed words into Keplr, Cosmostation or other wallets that support the Cosmos ecosystem:
 
 {% content-ref url="../../general-guides/wallet/keplr/import-wallet-into-keplr.md" %}
 [import-wallet-into-keplr.md](../../general-guides/wallet/keplr/import-wallet-into-keplr.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../general-guides/wallet/cosmostation/import-wallet-into-cosmostation.md" %}
+[import-wallet-into-cosmostation.md](../../general-guides/wallet/cosmostation/import-wallet-into-cosmostation.md)
 {% endcontent-ref %}

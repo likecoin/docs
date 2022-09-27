@@ -45,11 +45,11 @@ Install the Keplr wallet before registering your Liker ID. If you have already c
 
 Go to [https://liker.land/civic](https://liker.land/civic) and click "Register now".
 
-<figure><img src="../../.gitbook/assets/signup 05-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 Click "Sign Up" on the registration or login page.
 
-<figure><img src="../../.gitbook/assets/signup 06-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Register with new or old interface
 
@@ -57,7 +57,7 @@ Click "Sign Up" on the registration or login page.
 
 The following page appears, click "Switch to new Interface".
 
-<figure><img src="../../.gitbook/assets/signup 07-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 Click "Connect Using Keplr Browser Extension".
 
