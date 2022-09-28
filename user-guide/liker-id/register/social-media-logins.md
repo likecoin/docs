@@ -19,7 +19,13 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 ### 步驟一
 
-登入 [Liker Land](https://liker.land/) 並前往 Settings 或 [https://like.co/in/settings](https://like.co/in/settings)，打開「Authcore 設定」，點選「安全設定」；或於 Liker Land 手機應用程式選畫面右下角設定點選「安全」，再點選「社交帳戶登入」。
+於 [Liker Land 手機應用程式](../../liker-land/download.md)選畫面右下角設定點選「安全」，再點選「社交帳戶登入」。
+
+<figure><img src="../../../.gitbook/assets/social-media-logins-mobile.png" alt=""><figcaption></figcaption></figure>
+
+又或者登入 [Liker Land](https://liker.land/) 並前往 Settings 或 [https://like.co/in/settings](https://like.co/in/settings)，打開「Authcore 設定」，點選「安全設定」。
+
+<figure><img src="../../../.gitbook/assets/Authcore 設定.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../../.gitbook/assets/social-media-logins-1.png)
 
