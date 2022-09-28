@@ -8,7 +8,7 @@ description: 讓自己的性格更特出
 
 #### 網頁版
 
-登入 [Keplr Browser Extension](../../guides/wallet/keplr/) 後，點 Settings。
+在 [Liker Land](https://liker.land/) 登入 [Keplr Browser Extension](../../guides/wallet/keplr/) 後，點 Settings。
 
 <figure><img src="../../.gitbook/assets/Settings.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ description: 讓自己的性格更特出
 
 <figure><img src="../../.gitbook/assets/avatar 1.png" alt=""><figcaption></figcaption></figure>
 
-於畫面右下角設定點選「個人資訊」再點「個人檔案」更改。
+於畫面右下角設定點選「個人資訊」再點「個人檔案」更改顯示名稱。
 
 <figure><img src="../../.gitbook/assets/avatar 2.png" alt=""><figcaption></figcaption></figure>
 
