@@ -24,7 +24,7 @@ Go to [https://like.co/in](https://like.co/in) and make sure that you are being 
 
 Click "Switch to legacy interface".
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/resetpassword-0-en.png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 2**
 
