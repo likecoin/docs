@@ -20,6 +20,8 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 2. 打開「Authcore 設定」並選擇「安全設定」分頁
 3. 點擊「雙重認證」
 
+<figure><img src="../../../.gitbook/assets/Authcore 設定.png" alt=""><figcaption></figcaption></figure>
+
 ![](../../../.gitbook/assets/IMG\_2343.jpg)
 
 ### 步驟二：選取認證認用程式
@@ -53,17 +55,23 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 ## 認證電郵地址 <a href="#confirm-your-email-address" id="confirm-your-email-address"></a>
 
-1\. 訪問 [https://like.co/in/settings](https://like.co/in/settings) ，打開「AuthCore 設定」並點擊「個人檔案」，再點「聯絡方式」，並點擊「電郵」，跳入「管理電郵」的頁面
+### 步驟一：進入個人檔案設定
 
-2\. 在「管理電郵」的頁面，點「現在認證」
+訪問 [https://like.co/in/settings](https://like.co/in/settings) ，打開「AuthCore 設定」並點擊「個人檔案」，再點「聯絡方式」，並點擊「電郵」，跳入「管理電郵」的頁面
+
+### 步驟二：認證電郵
+
+在「管理電郵」的頁面，點「現在認證」
 
 ![](../../../.gitbook/assets/auth-email-1.png)
 
-3\. 你的郵箱會收到一封包含六位數字認證碼的電郵。請填在下方畫面的空格中，點「認證」
+### 步驟三：輸入認證碼
+
+你的郵箱會收到一封包含六位數字認證碼的電郵。請填在下方畫面的空格中，點「認證」
 
 ![](https://downloads.intercomcdn.com/i/o/171962025/7a29375736dc15a5f3eb9909/image.png)
 
-4\. 見到下方這畫面，代表認證已成功
+見到下方這畫面，代表認證已成功
 
 ![](../../../.gitbook/assets/auth-email-3.png)
 
