@@ -31,7 +31,7 @@ On the [Liker Land app](../../liker-land/download.md), click on setting at the l
 
 Login [Liker Land](https://liker.land/) and go to Settings or [https://like.co/in/settings](https://like.co/in/settings), click on "AuthCore Settings", then click "Security settings".
 
-<figure><img src="../../../.gitbook/assets/Authcore Settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ![](../../../.gitbook/assets/social-media-logins-1-en.png)
 

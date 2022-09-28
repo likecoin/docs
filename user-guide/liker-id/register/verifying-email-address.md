@@ -16,17 +16,22 @@ After setting up 2FA, a 6 digital passcode is required to login from a new devic
 
 The following steps have to be operated on desktop computer, and a smart phone is required:
 
-### Step 1: Go to security settings
+### Step 1: Login with legacy interface
 
-1. Login [Liker Land](https://liker.land/) and go to Settings or [https://like.co/in/settings](https://like.co/in/settings)
-2. Open "AuthCore Settings" and select "Security settings".&#x20;
-3. Click "2-step verification (2FA)"
+Go to [https://like.co/in/](https://like.co/in/) and click "Switch to legacy interface" and login.
 
-<figure><img src="../../../.gitbook/assets/Authcore Settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/resetpassword-0-en.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/legacy login-en.png" alt=""><figcaption></figcaption></figure>
+
+### Step 2: Go to security settings
+
+1. On "AuthCore Settings" and select "Security settings".&#x20;
+2. Click "2-step verification (2FA)"
 
 ![](../../../.gitbook/assets/2fa-1-en.png)
 
-### Step 2: Select Authentication App
+### Step 3: Select Authentication App
 
 1. Click on "Setup 2-step verification (2FA)"
 2. Let's talk about the setup of Google Authenticator first. Click on "Choose another way"
@@ -62,7 +67,9 @@ Continue from the previous step, the page displaying a QR Code now:
 
 ### Step 1: Go to Profile setting
 
-Visit [https://like.co/in/settings](https://like.co/in/settings), click on the "AuthCore Settings" and select "Profile", click "Contact" then click "Email" going into the "Manage email" page
+Go to [https://like.co/in/](https://like.co/in/) and click "Switch to legacy interface" and login
+
+Click on the "AuthCore Settings" and select "Profile", click "Contact" then click "Email" going into the "Manage email" page
 
 ### Step 2: Confirm Email
 
