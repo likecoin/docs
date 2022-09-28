@@ -12,11 +12,21 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ### **步驟一**
 
-訪問 [https://liker.land/](https://liker.land/)。先確保自己在登出狀態，你可以打開右上角的功能選單找到「登出」的選項。
+**手機版**
+
+點「登入」。
+
+**網頁版**
+
+訪問 [https://like.co/in](https://like.co/in)。先確保自己在登出狀態，你可以打開右上角的功能選單找到「登出」的選項。
+
+點「切換舊介豐」或「Switch to legacy interface」。
+
+<figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption></figcaption></figure>
 
 ### **步驟二**
 
-重新登入。在登入視窗中，選「重設密碼」。\
+在登入視窗中，選「重設密碼」。\
 
 
 ![](../../../.gitbook/assets/resetpassword-1.png)
@@ -48,7 +58,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ![](../../../.gitbook/assets/resetpassword-5.png)
 
-重設密碼成功，回到 [Liker Land](https://liker.land/) 網站登入 Liker ID。
+重設密碼成功，回到 Liker Land app 或 [https://like.co/in/](https://like.co/in/) 登入 Liker ID。
 
 ![](../../../.gitbook/assets/resetpassword-6.png)
 
@@ -60,7 +70,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ### **步驟六**
 
-登入成功後，請訪問 Settings 或 [https://like.co/in/settings](https://like.co/in/settings) ，到 Authcore 設定 → 安全設定 → 社交媒體登入，重新設定好你的 Google, Facebook, Twitter 等登入方式。
+登入成功後，請訪問 Settings 或 [https://like.co/in/settings](https://like.co/in/settings) ，到 Authcore 設定 → 安全設定 → 社交媒體登入，[重新設定好你的 Google, Facebook, Twitter 等登入方式](social-media-logins.md)。
 
 ![](../../../.gitbook/assets/social-media-logins-1.png)
 
