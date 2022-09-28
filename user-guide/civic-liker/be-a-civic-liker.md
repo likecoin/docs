@@ -4,7 +4,7 @@ description: Supporting content creator is easy
 
 # How to be a Civic Liker
 
-Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co/user-guide/liker-id/register).
+Before becoming a Civic Liker, please [register a Liker ID](../liker-id/).
 
 Users stake at least **5,000 LIKE** to the “Civic Liker node”, **with a wallet address bind with a Liker ID** can become a Civic Liker. All delegation rewards from the Civic Liker node will be distributed to creators in the form of LIKE. There is no need to use the delegation principle, and only the delegation rewards can turn likes into income.
 
@@ -22,7 +22,7 @@ Civic Liker not only can distribute the delegation rewards, but also distribute 
 
 ### Step 1: Login dao.like.co
 
-Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](broken-reference), [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/) or [Authcore](../liker-id/register/) to login to the wallet address bind with a Liker ID
+Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../../general-guides/wallet/keplr/), [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/) or [Authcore](../liker-id/register/) to login to the wallet address bind with a Liker ID
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 

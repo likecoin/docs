@@ -6,7 +6,7 @@ description: Why should I become a Civic Liker? Any benefits?
 
 ![](../../.gitbook/assets/LikeCoin\_AD110\_CLWeb3\_Banner1.png)
 
-## [Be a **Civic Liker**](../../archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)
+### \[[Be a **Civic Liker**](be-a-civic-liker.md)**]**
 
 Civic Liker is a movement to reward good content and encourage openness.
 
@@ -58,6 +58,6 @@ The Civic Liker plan moved to a Web3 version on 2022.02.21, which implemented th
 [faq.md](faq.md)
 {% endcontent-ref %}
 
-### \[[Join **Civic Liker**](../../archive/archive/civic-liker-classic-and-2.0/be-a-civic-liker.md)]
+### \[[Join **Civic Liker**](be-a-civic-liker.md)]
 
 ![](../../.gitbook/assets/civic-liker.png)
