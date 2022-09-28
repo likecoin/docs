@@ -16,7 +16,7 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 ### 步驟一：使用舊介面登入
 
-到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」登入。
+到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」登入
 
 <figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,8 +24,8 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 ### 步驟二：進入安全設定
 
-1. 在「Authcore 設定」選擇「安全設定」分頁。
-2. 點擊「雙重認證」。
+1. 在「Authcore 設定」選擇「安全設定」分頁
+2. 點擊「雙重認證」
 
 ![](../../../.gitbook/assets/IMG\_2343.jpg)
 
@@ -62,7 +62,7 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 ### 步驟一：進入個人檔案設定
 
-到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」登入。
+到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」登入
 
 打開「AuthCore 設定」並點擊「個人檔案」，再點「聯絡方式」，並點擊「電郵」，跳入「管理電郵」的頁面
 
