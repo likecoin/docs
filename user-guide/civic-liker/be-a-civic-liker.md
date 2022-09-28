@@ -22,7 +22,7 @@ description: 贊助創作者方法非常簡單
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../liker-id/register-with-keplr.md)、[Cosmostation Browser Extension](../../guides/wallet/cosmostation/) 或 [Authcore](../liker-id/register/) 登入已連結了 Liker ID 的錢包。
+到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../guides/wallet/keplr/)、[Cosmostation Browser Extension](../../guides/wallet/cosmostation/) 或 [Authcore](../liker-id/register/) 登入已連結了 Liker ID 的錢包。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
