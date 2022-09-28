@@ -16,7 +16,7 @@ If you cannot login your Liker ID with your social logins, please try the follow
 
 #### Mobile
 
-Click "Sign In"
+On the [Liker Land app](../../liker-land/download.md) click "Sign In"
 
 #### Web
 
@@ -71,7 +71,7 @@ On the login box, use your **email and password to login**. Please do not select
 
 ### **Step 6**
 
-After login, go to Settings or [https://like.co/in/settings](https://like.co/in/settings) ，click on Authcore → Security settings → [Social logins to reset your Google, Facebook, Twitter logins](social-media-logins.md).
+After login, go to [Social logins to reset your Google, Facebook, Twitter logins](social-media-logins.md).
 
 ![](../../../.gitbook/assets/social-media-logins-1-en.png)
 

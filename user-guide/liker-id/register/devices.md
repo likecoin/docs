@@ -12,7 +12,7 @@ You can see computers, phones, and other devices that are currently using or hav
 
 #### Mobile
 
-On the Liker Land app, click on the menu at the lower right hand corner and select \[Security], then click \[Devices].
+On the [Liker Land app](../../liker-land/download.md), click on setting at the lower right hand corner and select \[Security], then click \[Devices].
 
 #### Web
 
