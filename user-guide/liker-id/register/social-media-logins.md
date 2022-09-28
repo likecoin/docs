@@ -27,9 +27,9 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 #### 網頁版
 
-又或者登入 [Liker Land](https://liker.land/) 並前往 Settings 或 [https://like.co/in/set級tings](https://like.co/in/settings)，打開「Authcore 設定」，點選「安全設定」。
+登入 [Liker Land](https://liker.land/) 並前往 Settings 或 [https://like.co/in/settings](https://like.co/in/settings)，打開「Authcore 設定」，點選「安全設定」。
 
-<figure><img src="../../../.gitbook/assets/Authcore 設定.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ![](../../../.gitbook/assets/social-media-logins-1.png)
 

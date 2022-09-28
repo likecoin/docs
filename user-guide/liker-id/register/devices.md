@@ -10,7 +10,13 @@ description: 查看有哪些裝置登入過你的 Liker ID
 
 你可以查看有哪些電腦、手機或其他裝置目前正在使用或最近曾經使用您的 Liker ID。這項資訊可協助你確認沒有其他人登入你的帳戶。
 
-登入 [Liker Land](https://liker.land/) 並前往 Settings 或 [https://like.co/in/settings](https://like.co/in/settings)，到「Authcore 設定」的部份，點選「安全設定」；或於 Liker Land 手機應用程式選畫面右下角的帳戶頭像點擊「安全」，再點 「裝置」。
+#### 手機版
+
+於 Liker Land 手機應用程式選畫面右下角的帳戶頭像點擊「安全」，再點 「裝置」。
+
+#### 網頁版
+
+登入 [Liker Land](https://liker.land/) 並前往 Settings 或 [https://like.co/in/settings](https://like.co/in/settings)，到「Authcore 設定」的部份，點選「安全設定」；或
 
 ![](../../../.gitbook/assets/管理登入裝置1.png)
 

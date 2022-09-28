@@ -20,7 +20,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 訪問 [https://like.co/in](https://like.co/in)。先確保自己在登出狀態，你可以打開右上角的功能選單找到「登出」的選項。
 
-點「切換舊介豐」或「Switch to legacy interface」。
+點「切換舊介面」或「Switch to legacy interface」。
 
 <figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption></figcaption></figure>
 
