@@ -14,7 +14,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 **手機版**
 
-點「登入」。
+在 [Liker Land 手機應用程式](../../liker-land/download.md)點「登入」。
 
 **網頁版**
 
@@ -70,7 +70,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ### **步驟六**
 
-登入成功後，請訪問 Settings 或 [https://like.co/in/settings](https://like.co/in/settings) ，到 Authcore 設定 → 安全設定 → 社交媒體登入，[重新設定好你的 Google, Facebook, Twitter 等登入方式](social-media-logins.md)。
+登入成功後，請[重新設定好你的 Google, Facebook, Twitter 等登入方式](social-media-logins.md)。
 
 ![](../../../.gitbook/assets/social-media-logins-1.png)
 
