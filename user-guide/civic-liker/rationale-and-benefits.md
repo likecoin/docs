@@ -6,7 +6,7 @@ description: For Civic Liker only
 
 ### Civic Liker x Independent bookstores
 
-Show off your brilliant Civic Liker avatar on Liker Land mobile app or on Settings  [https://liker.land/settings](https://liker.land/settings), enjoy the benefits offered by various Hong Kong bookstores. Let's call up your friends to join the revolution for a better world!
+Show off your brilliant Civic Liker avatar on Liker Land mobile app or on Settings [https://like.co/in/settings/](https://like.co/in/settings/), enjoy the benefits offered by various Hong Kong bookstores. Let's call up your friends to join the revolution for a better world!
 
 [序言書室 Hong Kong Reader](https://www.facebook.com/hkreaders/)：Chinese book 10% off, English book 5% off\
 [解憂舊書店 The Book Cure](https://www.facebook.com/thebookcure.hk)：10% off\
