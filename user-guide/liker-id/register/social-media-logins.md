@@ -29,15 +29,19 @@ On the [Liker Land app](../../liker-land/download.md), click on setting at the l
 
 #### Web
 
-Login [Liker Land](https://liker.land/) and go to Settings or [https://like.co/in/settings](https://like.co/in/settings), click on "AuthCore Settings", then click "Security settings".
+Go to [https://like.co/in/](https://like.co/in/) and click "Switch to legacy interface" and login.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/resetpassword-0-en.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/legacy login-en.png" alt=""><figcaption></figcaption></figure>
+
+Click on "AuthCore Settings", then click "Security settings" and "Social logins".
 
 ![](../../../.gitbook/assets/social-media-logins-1-en.png)
 
 ### Step 2
 
-Click on the social media login (except Matters), follow on screen instruction and login your account.
+Click on the social media login ( except Matters ), follow on screen instruction and login your account.
 
 ![](../../../.gitbook/assets/social-media-logins-2-en.png)
 

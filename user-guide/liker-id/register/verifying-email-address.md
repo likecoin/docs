@@ -18,7 +18,7 @@ The following steps have to be operated on desktop computer, and a smart phone i
 
 ### Step 1: Login with legacy interface
 
-Go to [https://like.co/in/](https://like.co/in/) and click "Switch to legacy interface" and login.
+Go to [https://like.co/in/](https://like.co/in/) and click "Switch to legacy interface" and login
 
 <figure><img src="../../../.gitbook/assets/resetpassword-0-en.png" alt=""><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@ Go to [https://like.co/in/](https://like.co/in/) and click "Switch to legacy int
 
 ### Step 2: Go to security settings
 
-1. On "AuthCore Settings" and select "Security settings".&#x20;
+1. On "AuthCore Settings" and select "Security settings"
 2. Click "2-step verification (2FA)"
 
 ![](../../../.gitbook/assets/2fa-1-en.png)
