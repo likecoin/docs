@@ -12,13 +12,13 @@ description: 查看有哪些裝置登入過你的 Liker ID
 
 #### 手機版
 
-於 Liker Land 手機應用程式選畫面右下角的帳戶頭像點擊「安全」，再點 「裝置」。
+於 [Liker Land 手機應用程式](../../liker-land/download.md)選畫面右下角設定點選「安全」，再點 「裝置」。
 
 #### 網頁版
 
 到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」登入。
 
-到「Authcore 設定」的部份，點選「安全設定」及「裝置」。
+打開「Authcore 設定」，點選「安全設定」及「裝置」。
 
 ![](../../../.gitbook/assets/管理登入裝置1.png)
 

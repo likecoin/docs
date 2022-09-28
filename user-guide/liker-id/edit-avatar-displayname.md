@@ -4,15 +4,33 @@ description: 讓自己的性格更特出
 
 # 修改頭像及顯示名稱
 
+### 修改方法
 
+#### 網頁版
 
-登入 [Liker Land](https://liker.land/) 並訪問 Settings 或 [https://like.co/in/settings](https://like.co/in/settings)，你會見到以下畫面。請點擊紅圈位置修改你的頭像及顯示名稱。
+登入 [Keplr Browser Extension](../../guides/wallet/keplr/) 後，點 Settings。
 
-![](<../../.gitbook/assets/Settings 01.png>)
+<figure><img src="../../.gitbook/assets/Settings.png" alt=""><figcaption></figcaption></figure>
 
-修改完成後，你的資訊會在 Liker Land 的各種使用場境中顯示：
+彈出視窗，點「更改頭像」及修改「顯示名稱」。
 
-### NFT Portfolio
+<figure><img src="../../.gitbook/assets/avatar desktop.png" alt=""><figcaption></figcaption></figure>
+
+#### 手機版
+
+在 [Liker Land 手機應用程式](../liker-land/download.md)直接點頭像轉換新頭像。
+
+<figure><img src="../../.gitbook/assets/avatar 1.png" alt=""><figcaption></figcaption></figure>
+
+於畫面右下角設定點選「個人資訊」再點「個人檔案」更改。
+
+<figure><img src="../../.gitbook/assets/avatar 2.png" alt=""><figcaption></figcaption></figure>
+
+### 使用場景
+
+修改完成後，你的資訊會在 Liker Land 的各種使用場景中顯示：
+
+#### NFT Portfolio
 
 {% content-ref url="../../guides/writing-nft/nft-portfolio.md" %}
 [nft-portfolio.md](../../guides/writing-nft/nft-portfolio.md)
@@ -20,15 +38,15 @@ description: 讓自己的性格更特出
 
 <figure><img src="../../.gitbook/assets/NFT Portfolio.png" alt=""><figcaption></figcaption></figure>
 
-### LikeCoin button 讚賞鍵
+#### LikeCoin button 讚賞鍵
 
 {% content-ref url="../creator/" %}
 [creator](../creator/)
 {% endcontent-ref %}
 
-![](<../../.gitbook/assets/Settings 02.png>)
+<figure><img src="../../.gitbook/assets/Settings 02.png" alt=""><figcaption></figcaption></figure>
 
-### Liker Land 手機應用程式及網頁
+#### Liker Land 手機應用程式及網頁
 
 {% content-ref url="../liker-land/download.md" %}
 [download.md](../liker-land/download.md)
@@ -36,7 +54,7 @@ description: 讓自己的性格更特出
 
 ![](<../../.gitbook/assets/Settings 03.png>)
 
-### LIKE pay
+#### LIKE pay
 
 {% content-ref url="../../guides/wallet/like-pay.md" %}
 [like-pay.md](../../guides/wallet/like-pay.md)
