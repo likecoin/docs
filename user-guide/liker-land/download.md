@@ -30,7 +30,11 @@ description: 要去哪裏下載 Liker Land？
 
 ### 選項三：Settings 設定
 
-[設定](https://like.co/in/settings)你的 Liker ID。
+[設定](https://like.co/in/settings)你的 Liker ID。可參看：
+
+{% content-ref url="../liker-id/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
+{% endcontent-ref %}
 
 ### 選項四：Sign Out 登出
 
