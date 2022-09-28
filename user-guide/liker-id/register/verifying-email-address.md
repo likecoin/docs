@@ -19,8 +19,10 @@ The following steps have to be operated on desktop computer, and a smart phone i
 ### Step 1: Go to security settings
 
 1. Login [Liker Land](https://liker.land/) and go to Settings or [https://like.co/in/settings](https://like.co/in/settings)
-2. "AuthCore Settings" and select "Security settings".&#x20;
+2. Open "AuthCore Settings" and select "Security settings".&#x20;
 3. Click "2-step verification (2FA)"
+
+<figure><img src="../../../.gitbook/assets/Authcore Settings.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../../.gitbook/assets/2fa-1-en.png)
 
@@ -45,7 +47,8 @@ Continue from the previous step, the page displaying a QR Code now:
 
 1.  Download Google Authenticator on your mobile phone
 
-    [Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh\_TW) / [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
+    [Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh\_TW)\
+    [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 2. Open the Google Authenticator app, click on the "+" sign on the top right hand corner
 3. Scan the QR Code on your desktop computer
 4. An entry of Authcore is added to Google Authenticator, displaying a 6-digit code, fill it into the blank space circled in red, and click "Next", it displays "Set up authenticator app" "Complete", then click "OK"
@@ -57,13 +60,19 @@ Continue from the previous step, the page displaying a QR Code now:
 
 ## Confirm your email address <a href="#confirm-your-email-address" id="confirm-your-email-address"></a>
 
-1\. Visit [https://like.co/in/settings](https://like.co/in/settings), click on the "AuthCore Settings" and select "Profile", click "Contact" then click "Email" going into the "Manage email" page
+### Step 1: Go to Profile setting
 
-2\. On "Manage email" page, click "Confirm Now"
+Visit [https://like.co/in/settings](https://like.co/in/settings), click on the "AuthCore Settings" and select "Profile", click "Contact" then click "Email" going into the "Manage email" page
+
+### Step 2: Confirm Email
+
+On "Manage email" page, click "Confirm Now"
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJpIkC4GeOL3XxM0u5%2Fauth-email-1.png?alt=media\&token=c01af70c-90c3-48d5-9203-f7f3e6ab5fa1)
 
-3\. An email with a 6-digit code is sent to you mailbox, fill it into the blank space below, click "Confirm"
+### Step 3: Input the confirmation code
+
+An email with a 6-digit code is sent to you mailbox, fill it into the blank space below, click "Confirm"
 
 ![](https://downloads.intercomcdn.com/i/o/171962025/7a29375736dc15a5f3eb9909/image.png)
 
