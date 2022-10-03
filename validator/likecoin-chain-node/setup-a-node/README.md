@@ -191,6 +191,8 @@ keyhash
 
 Syncing a node from genesis often requires hours if not days. To save time, we can start the new node from a known block.
 
+_Note that state sync requires at least 16GB (32GB recommended) of memory to complete successfully. After state sync is done, you can lower the amount of memory for daily operations._
+
 Firstly, obtain two trusted rpc endpoints. These info can often be found on the same repos hosting genesis files. We have included the addresses of mainnet public nodes below.
 
 Then, we will need to obtain the latest block height and hash from one of the rpc endpoints:
