@@ -2,9 +2,15 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 10/01 群島
+
+[Archived and Alive: Interview with Kin Ko on Writing NFT](https://www.heath.tw/nml-article/archived-and-alive-interview-with-kin-ko-on-writing-nft/)
+
 ### 09/05 好青年荼毒室
 
 &#x20;[【哲學係咁傾】ep. 31 甚麼是 NFT？｜嘉賓：高重建](https://www.youtube.com/watch?v=xJ7g45oFU04)
+
+[【哲學係咁傾】甚麼是 NFT？｜嘉賓：高重建](https://ckxpress.com/what-is-nft/)
 
 ### 08/22 ViuTV 99 智富通 FinTech 全方位
 

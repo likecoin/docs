@@ -2,6 +2,18 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 09/28 LikeCoin Discord
+
+[【作者聊天室】城市探廢，時光定格](https://www.facebook.com/Liker.Land/posts/pfbid02URTByXhWoFVgG5xmEihMbpztWU9chyd2VcamTqEVwhqZ62SKHyizxPGjUAypeQrJl)
+
+### 09/21 LikeCoin Discord
+
+[BlockTempo](https://www.facebook.com/Liker.Land/posts/pfbid02URTByXhWoFVgG5xmEihMbpztWU9chyd2VcamTqEVwhqZ62SKHyizxPGjUAypeQrJl)
+
+### 09/16 LikeCoin Discord
+
+[KiiTOS Galaxy](https://www.facebook.com/Liker.Land/posts/pfbid02na8Qq3b9MMzkctiKxZ1xrTuAaq9YA8pmdSnxAqbjX26SCDDFwUAP4ckG58knmMZWl?\_\_cft\_\_\[0]=AZU6F\_ghsWwgFPd7SNTQJyFypHz1MNSSgrC5ZQSAJLeEMse3n3ejV\_Vu8rbyDH2evhypTULPGFcWzpTffTpJVqorQBTUse5q5OcpHNcfmZ2yy-eNGuE2hMx4Ystx7XXDYy7YfAHrRm9ujOwZfcWHGvFECFiUIeU-BGTgakc4vG-ELHBd1OXlkREox-kYaY4uSdw-z6PsNHsvJy1WKRY8QoZC&\_\_tn\_\_=%2CO%2CP-R)
+
 ### 09/07 LikeCoin Discord
 
 [Writing NFT 你問我答](https://www.facebook.com/Liker.Land/posts/pfbid037TARyxvojGiWsCKBgVXer2TwJx6VyPJQa4xfpHUrV57tQLc5LApHMogdtbyFUYZpl)
