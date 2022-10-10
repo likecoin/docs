@@ -14,7 +14,9 @@ description: 委託多少 LikeCoin，就有多少投票權
 * BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
 * Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
 
-## 如何就議案投票
+亦可使用 [Cosmostation 手機應用程式](../wallet/cosmostation-mobile/) 進行投票。
+
+## 使用  dao.like.co 投票
 
 ### 步驟一：委託 LikeCoin
 
@@ -71,6 +73,68 @@ description: 委託多少 LikeCoin，就有多少投票權
 到左手邊菜單選擇「Transactions」會看到以往投票紀錄。
 
 ![](<../../.gitbook/assets/direct vote 09.png>)
+
+## 使用 Cosmostation app 投票
+
+### 步驟一：委託 LikeCoin
+
+投票前請確認已委託 LikeCoin 予驗證人，委託給任何一個驗證人也是可以的。
+
+{% content-ref url="../stake/delegation-of-likecoin.md" %}
+[delegation-of-likecoin.md](../stake/delegation-of-likecoin.md)
+{% endcontent-ref %}
+
+### 步驟二：登入 Cosmostation app
+
+打開 [Cosmostation app](../wallet/cosmostation-mobile/)，點「Governan託ce」。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile vote 1.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟三：選擇議案
+
+在「Voting Period Proposals」選擇正在投票的議案。你亦可以點「Proposals」參看以往議案內容。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile vote 2.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟四：開始投票
+
+查看議案內容及投票狀態，並點擊「Vote」開始投票。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile vote 3.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟五：投票選項
+
+出現 Yes（支持）、No（反對）、No with Veto（強烈反對）、Abstain（棄權）四個投票選項。選擇其中一項後點「Next」。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile vote 4.png" alt=""><figcaption></figcaption></figure>
+
+輸入 Memo（如有），點「Next」。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile vote 5.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟六：確認手續費
+
+顯示[手續費](../wallet/transaction-fee.md)預估數值，點「Next」繼續。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile vote 6.png" alt=""><figcaption></figcaption></figure>
+
+最後確認投票手續費及選項、點「Next」。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile vote 7.png" alt=""><figcaption></figcaption></figure>
+
+出現「Check transaction detail」，確認無誤後再點「Confirm」。
+
+### 步驟七：PIN 碼確認
+
+輸入 PIN 碼確認。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile send 7.jpg" alt=""><figcaption></figcaption></figure>
+
+### 步驟八：查看投票
+
+委託完成並顯示詳盡資料。可按「Share」分享或「Explorer」在 Mintscan 區塊瀏覽器中查閱明細。完成後點「Done」結束。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile vote 8.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 如持份者重覆投票予同一議案，將以最後一次投票的選擇為依歸。
