@@ -4,9 +4,7 @@ description: 如何收藏 Writing NFT
 
 # 收藏 Writing NFT
 
-收藏 LikeCoin Writing NFT 步驟非常簡單。在購買前請預先登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md)。
-
-你也可以直接刷信用卡購買 Writing NFT。
+收藏 LikeCoin Writing NFT 步驟非常簡單。在購買前請預先登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md)。可使用 LikeCoin 付款，你也可以直接刷信用卡購買 Writing NFT。
 
 ## 步驟一：開始收藏
 
