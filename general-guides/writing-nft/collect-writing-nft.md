@@ -4,7 +4,7 @@ description: How to collect Writing NFT?
 
 # Collect Writing NFT
 
-Collect LikeCoin Writing NFT is simple and easy. Please login your [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md) before purchasing.
+Collect LikeCoin Writing NFT is simple and easy. Please login your [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md) before purchasing. You may pay by LikeCoin or credit card (beta).
 
 ## Step 1: Start Collecting
 
@@ -62,21 +62,31 @@ The Collect NFT page appears, click "Pay by LIKE" to purchase Writing NFT with L
 
 <figure><img src="../../.gitbook/assets/Buy NFT 06.png" alt=""><figcaption></figcaption></figure>
 
+### Buy Writing NFT with Credit Card
+
+Click "Pay by card (beta)" and the stripe page appears, enter the credit card information and click "Pay". The purchase price of Writing NFT in fiat currency is calculated based on the market price, exchange fee and credit card handling fee.
+
+<figure><img src="../../.gitbook/assets/Buy NFT 17.png" alt=""><figcaption></figcaption></figure>
+
+Payment Authentication page pop-up, enter your OTP code and press "VERIFY".
+
+<figure><img src="../../.gitbook/assets/Buy NFT 18.png" alt=""><figcaption></figcaption></figure>
+
 ### Buy Writing NFT with Keplr
 
-A Keplr window will pop up, click "Approve" and confirm the purchase.
+Click "Pay by LIKE", a Keplr window will pop up. Click "Approve" and confirm the purchase.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 07.png" alt=""><figcaption></figcaption></figure>
 
 ### Buy Writing NFT with Cosmostation
 
-A Cosmostation window will pop up, click "Confirm" and confirm the purchase.
+Click "Pay by LIKE", a Cosmostation window will pop up. Click "Confirm" and confirm the purchase.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 14.png" alt=""><figcaption></figcaption></figure>
 
 ### Buy Writing NFT with Liker Land app
 
-A signature request shows up on your phone, click "Approve" and confirm the purchase.
+Click "Pay by LIKE", a signature request shows up on your phone. Click "Approve" and confirm the purchase.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 11-en.png" alt=""><figcaption></figcaption></figure>
 
