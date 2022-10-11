@@ -10,7 +10,7 @@ Please check out our FAQ below. Don't see an answer to your question? Feel free 
 
 If you did not install MetaMask, that means you never use a wallet to accumulate LikeCoin, The numbers displayed on [Like.co/in](https://like.co/in/) is just in temporary storage by the system.
 
-You do not have to migrate your LikeCoin, login [Liker Land app](https://liker.land/getapp), the LikeCoin in temporary storage will go into your new wallet.
+You do not have to migrate your LikeCoin, login [Liker Land app](../../../user-guide/liker-land/download.md), the LikeCoin in temporary storage will go into your new wallet.
 
 ### **2. During the migration process, MetaMask and Like.co/in both display 0 LikeCoin!**
 
@@ -53,5 +53,3 @@ If you lost your wallet address, please check if you have backed up the seed phr
 ### 8. Error: "Your MetaMask wallet does not register any Liker ID, if you need to register a new account, please go back and use Authcore"
 
 Same reason as 7.
-
-### &#xD;
