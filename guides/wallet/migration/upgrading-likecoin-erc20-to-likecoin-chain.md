@@ -4,7 +4,7 @@ description: 請詳細參看所需步驟
 
 # 升級 LikeCoin ERC-20 到 LikeCoin chain
 
-LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin chain](../../governance/likecoin-chain.md)，用戶再不能使用 MetaMask 錢包登入而需要使用 [Keplr](../keplr/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
+LikeCoin 經已從 ERC-20 轉移到以 Cosmos 生態系為基礎 [LikeCoin chain](../../governance/likecoin-chain.md)，用戶再不能使用 MetaMask 錢包登入而需要使用 [Keplr](../keplr/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
 
 留意所有升級步驟必須使用桌面電腦進行，不支援手機升級。
 
@@ -34,7 +34,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 由於現在的目的是升級 Liker ID 綁定的 MetaMask 錢包中的 LikeCoin，所以你必須使用能操作該 MetaMask 錢包地址的電腦來執行以下步驟。
 
-到 [https://like.co/in/](https://like.co/in/)點「切換舊介面」或「Switch to legacy interface」。
+到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」。
 
 <figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption></figcaption></figure>
 
@@ -91,7 +91,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 若你過往只以 MetaMask 錢包登入，從未綁定過其他的社交帳號登入方法的話，也可參照以上步驟：
 
-到 [https://like.co/in/](https://like.co/in/)點「切換舊介面」或「Switch to legacy interface」。
+到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」。
 
 <figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption></figcaption></figure>
 
@@ -103,11 +103,11 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 <figure><img src="../../../.gitbook/assets/likecoin-migration-11.png" alt=""><figcaption></figcaption></figure>
 
-### 假設你的 LikeCoin ERC-20 是從交易所中購買
+## 假設你的 LikeCoin ERC-20 是從交易所中購買
 
 請先將那些 LikeCoin 轉移到一個 MetaMask 錢包，接下來到 [https://migration.like.co/](https://migration.like.co/) 輸入 Cosmos 錢包地址，即可進行升級。
 
-### 假如你的 LikeCoin ERC-20 儲存於硬件錢包
+## 假如你的 LikeCoin ERC-20 儲存於硬件錢包
 
 請直接將它與 MetaMask 連接，再以 [https://migration.like.co/](https://migration.like.co/) 輸入 Cosmos 錢包地址進行升級。
 
