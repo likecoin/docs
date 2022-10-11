@@ -68,21 +68,29 @@ description: 如何收藏 Writing NFT
 
 {% embed url="https://www.youtube.com/watch?v=chZNVmZFzHU" %}
 
+點「Pay by card (beta)」後出現 stripe 頁面，輸入信用卡資料後點「Pay」。法定貨幣購買 Writing NFT 價錢綜合市價、兌換費用及信用咭手續費計算。
+
+<figure><img src="../../.gitbook/assets/Buy NFT 17.png" alt=""><figcaption></figcaption></figure>
+
+彈出信用卡認證頁面，輸入你的 OTP 碼後按「VERIFY」。
+
+<figure><img src="../../.gitbook/assets/Buy NFT 18.png" alt=""><figcaption></figcaption></figure>
+
 ### 以 Keplr 購買 Writing NFT
 
-彈出 Keplr 視窗，點「Approve」確認購買。
+點「Pay by LIKE」後彈出 Keplr 視窗，點「Approve」確認購買。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 07.png" alt=""><figcaption></figcaption></figure>
 
 ### 以 Cosmostation 購買 Writing NFT
 
-彈出 Cosmostation 視窗，點「Confirm」確認購買。
+點「Pay by LIKE」後彈出 Cosmostation 視窗，點「Confirm」確認購買。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 14.png" alt=""><figcaption></figcaption></figure>
 
 ### 以 Liker Land app 購買 Writing NFT
 
-在手機上出現簽名請求，點「允許」確認購買。
+點「Pay by LIKE」後在手機上出現簽名請求，點「允許」確認購買。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 11.png" alt=""><figcaption></figcaption></figure>
 
