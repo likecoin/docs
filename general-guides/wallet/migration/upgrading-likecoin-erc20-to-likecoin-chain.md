@@ -4,7 +4,7 @@ description: Please follow the steps carefully
 
 # Upgrade LikeCoin ERC-20 to LikeCoin chain
 
-LikeCoin has been migrated to the Cosmos Hub ecosystem [LikeCoin chain](../../governance/likecoin-chain.md) from ERC-20 and users no longer need MetaMask wallet to login but should use [Liker Land app](https://liker.land/getapp) or Keplr instead.  This document is for legacy users who created Liker ID with MetaMask and did not complete the Liker ID migration process only.
+LikeCoin has been migrated to the Cosmos Hub ecosystem [LikeCoin chain](../../governance/likecoin-chain.md) from ERC-20 and users no longer need MetaMask wallet to login but should use [Liker Land app](../../../user-guide/liker-land/download.md) or [Keplr](../keplr/) instead.  This document is for legacy users who created Liker ID with MetaMask and did not complete the Liker ID migration process only.
 
 Please note all upgrade procedures has to be done on desktop computer, not supporting mobile.
 
@@ -30,11 +30,19 @@ Moreover, using the MetaMask wallet that does not bond with the Liker ID cannot 
 Keep the Secret Recovery Phrase or private key is the responsibility of the user, no one can reset your MetaMask wallet unless yourself.
 {% endhint %}
 
-### Step 2: Visit Like.co/in <a href="#step-1-visit-likecoin" id="step-1-visit-likecoin"></a>
+### Step 2: Visit like.co/in <a href="#step-1-visit-likecoin" id="step-1-visit-likecoin"></a>
 
 Your task is to upgrade the LikeCoin in your MetaMask wallet to LikeCoin chain, so the first step is to make sure that you have the MetaMask with the correct wallet address installed in your Chrome browser.
 
-Login [Liker Land](https://liker.land/) by Chrome with your social account ( Google / Facebook / Twitter / Matters ) and go to [https://like.co/in/](https://like.co/in/).  The system will pop up the screen below ( probably in English ).
+Go to [https://like.co/in](https://like.co/in), click "Switch to legacy interface".
+
+<figure><img src="../../../.gitbook/assets/resetpassword-0-en.png" alt=""><figcaption></figcaption></figure>
+
+Login by Chrome with your social account ( Google / Facebook / Twitter / Matters ).
+
+<figure><img src="../../../.gitbook/assets/likecoin-migration-8-en.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;The system will pop up the screen below ( probably in English ).
 
 ![Choose "Migrate Now"](../../../.gitbook/assets/likecoin-migration-1.png)
 
@@ -68,33 +76,31 @@ You can check your LikeCoin balance in [https://like.co/in](https://like.co/in) 
 
 ### Step 5: Download the Liker Land app <a href="#download-the-liker-land-mobile-app" id="download-the-liker-land-mobile-app"></a>
 
-Please visit Google Play store or Apple App Store to [download the Liker Land app](https://liker.land/getapp). Login by your social account and check your balance on the app. You may also perform various operations of LikeCoin such as transfer and delegation there.
+Please visit Google Play store or Apple App Store to [download the Liker Land app](../../../user-guide/liker-land/download.md). Login by your social account and check your balance on the app. You may also perform various operations of LikeCoin such as transfer and delegation there.
 
 ![](../../../.gitbook/assets/likecoin-migration-7.png)
 
 ## Liker ID bond with MetaMask but doesn't bond with Social Accounts
 
-If you login Liker ID by MetaMask wallet only, you can still follow the instruction above except that you should choose "Sign in with your wallet" on the upper right hand corner of the login screen, then choose "MetaMask" and you will be asked to set up a new password during the process.
+If you login Liker ID by MetaMask wallet only, you can still follow the instruction above:
 
-![](broken-reference)
+Go to [https://like.co/in](https://like.co/in), click "Switch to legacy interface".
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/resetpassword-0-en.png" alt=""><figcaption></figcaption></figure>
 
-## Upgrade without a Liker ID
+Choose "Sign in with your wallet" on the upper right hand corner of the login screen, then choose "MetaMask" and you will be asked to set up a new password during the process.
 
-Please [register a Liker ID by general method ( with authcore )](../../../user-guide/liker-id/register/) or a [Keplr wallet](../../../user-guide/liker-id/register-with-keplr.md) in order to obtain a Cosmos wallet address.
+<figure><img src="../../../.gitbook/assets/likecoin-migration-9-en.png" alt=""><figcaption></figcaption></figure>
 
-You may want to check this out for checking the Cosmos wallet address on Big Dipper:
+<figure><img src="../../../.gitbook/assets/likecoin-migration-10-en.png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../block-explorer/big-dipper.md" %}
-[big-dipper.md](../block-explorer/big-dipper.md)
-{% endcontent-ref %}
+<figure><img src="../../../.gitbook/assets/likecoin-migration-11-en.png" alt=""><figcaption></figcaption></figure>
 
-### If you purchased your LikeCoin in a crypto exchange
+## If you purchased your LikeCoin in a crypto exchange
 
 Transfer your LikeCoin to a MetaMask wallet, then go to [https://migration.like.co/](https://migration.like.co/) and fill in the Cosmos wallet address of the Liker ID or Keplr wallet and facilitate the upgrade.
 
-### If your LikeCoin is stored in a hardware wallet
+## If your LikeCoin is stored in a hardware wallet
 
 Connect the hardware wallet with MetaMask, go to [https://migration.like.co/](https://migration.like.co/) and fill in the Cosmos wallet address of the Liker ID or Keplr wallet and facilitate the upgrade.
 
