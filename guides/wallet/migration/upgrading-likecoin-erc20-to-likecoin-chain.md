@@ -4,7 +4,7 @@ description: 請詳細參看所需步驟
 
 # 升級 LikeCoin ERC-20 到 LikeCoin chain
 
-LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin chain](../../governance/likecoin-chain.md)，用戶再不能使用 MetaMask 錢包登入而需要使用 [Keplr](../keplr/) 或 [Liker Land 手機應用程式](https://liker.land/getapp)。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
+LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin chain](../../governance/likecoin-chain.md)，用戶再不能使用 MetaMask 錢包登入而需要使用 [Keplr](../keplr/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
 
 留意所有升級步驟必須使用桌面電腦進行，不支援手機升級。
 
@@ -30,11 +30,19 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 保管助記詞 ( Secret Recovery Phrase ) 或私鑰是用戶的個人責任，請留意任何人也不能為你重設你的 MetaMask 錢包。
 {% endhint %}
 
-### 步驟 2：訪問 Like.co/in <a href="#1-likecoin" id="1-likecoin"></a>
+### 步驟 2：訪問 like.co/in <a href="#1-likecoin" id="1-likecoin"></a>
 
 由於現在的目的是升級 Liker ID 綁定的 MetaMask 錢包中的 LikeCoin，所以你必須使用能操作該 MetaMask 錢包地址的電腦來執行以下步驟。
 
-請以你常用的社交帳戶 ( Google/Facebook/Twitter/Matters ) 登入 [Liker Land](https://liker.land/) 再訪問 [https://like.co/in/](https://like.co/in/)。系統會彈出以下視窗。點擊「現在轉移」。
+到 [https://like.co/in/](https://like.co/in/)點「切換舊介面」或「Switch to legacy interface」。
+
+<figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption></figcaption></figure>
+
+以你常用的社交帳戶 ( Google / Facebook / Twitter / Matters ) 登入。
+
+<figure><img src="../../../.gitbook/assets/likecoin-migration-8.png" alt=""><figcaption></figcaption></figure>
+
+系統會彈出以下視窗。點擊「現在轉移」。
 
 ![點擊「現在轉移」](../../../.gitbook/assets/likecoin-migration-1.png)
 
@@ -75,27 +83,25 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos Hub 生態系為基礎 [LikeCoin c
 
 ### 步驟 5：下載 Liker Land 手機應用程式 <a href="#liker-land" id="liker-land"></a>
 
-你可以到 Google Play store 或 Apple App store，[下載 Liker Land 手機應用程式](https://liker.land/getapp)，以你的社交帳號登入，便可在 app 中查閱你的 LikeCoin 餘額了。
+你可以到 Google Play store 或 Apple App store，[下載 Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)，以你的社交帳號登入，便可在 app 中查閱你的 LikeCoin 餘額了。
 
 ![](../../../.gitbook/assets/likecoin-migration-7.png)
 
-## Liker ID 已綁定 MetaMask 但沒有綁定社交帳號
+## Liker ID 只綁定 MetaMask 但沒有綁定社交帳號
 
-若你過往只以 MetaMask 錢包登入，從未綁定過其他的社交帳號登入方法的話，也可參照以上步驟，但請在登入頁面的右上角選擇「以錢包登入」後再選「MetaMask」。過程中，系統會要求你設定一組密碼。[](https://matters.news/@likecoin/my-eth-shop%E5%B0%87%E6%94%AF%E6%8F%B4%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84like-coin-zdpuAwgQLCHC7afNfU6Cn7EuUeLT6MKUTptUGj5i9jgqPt6Kj)
+若你過往只以 MetaMask 錢包登入，從未綁定過其他的社交帳號登入方法的話，也可參照以上步驟：
 
-![](broken-reference)
+到 [https://like.co/in/](https://like.co/in/)點「切換舊介面」或「Switch to legacy interface」。
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption></figcaption></figure>
 
-## 沒有 Liker ID 如何升級
+在登入頁面的右上角選擇「以錢包登入」後再選「MetaMask」。過程中，系統會要求你設定一組密碼。[](https://matters.news/@likecoin/my-eth-shop%E5%B0%87%E6%94%AF%E6%8F%B4%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84like-coin-zdpuAwgQLCHC7afNfU6Cn7EuUeLT6MKUTptUGj5i9jgqPt6Kj)
 
-請先 [以一般方法 ( Authcore ) 註冊 Liker ID](../../../user-guide/liker-id/register/) 又或者 [以 Keplr 註冊 Liker ID](../../../user-guide/liker-id/register-with-keplr.md) 獲取一個 Cosmos 錢包地址。
+<figure><img src="../../../.gitbook/assets/likecoin-migration-9.png" alt=""><figcaption></figcaption></figure>
 
-如何在 Liker Land 手機應用程式查看 Cosmos 錢包地址可參看：
+<figure><img src="../../../.gitbook/assets/likecoin-migration-10.png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../block-explorer/big-dipper.md" %}
-[big-dipper.md](../block-explorer/big-dipper.md)
-{% endcontent-ref %}
+<figure><img src="../../../.gitbook/assets/likecoin-migration-11.png" alt=""><figcaption></figcaption></figure>
 
 ### 假設你的 LikeCoin ERC-20 是從交易所中購買
 
