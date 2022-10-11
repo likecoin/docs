@@ -28,7 +28,7 @@ Also can click "Collect Now" on [LikeCoin button](../../user-guide/creator/).
 
 A pop-up window appears with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md) login options.
 
-![](<../../.gitbook/assets/Buy NFT 04.png>)
+<figure><img src="../../.gitbook/assets/Buy NFT 04.png" alt=""><figcaption></figcaption></figure>
 
 ### Keplr Browser Extension Login
 
