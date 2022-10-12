@@ -12,7 +12,7 @@ Users can also check an ISCN record and it's details in [app.like.co](https://ap
 
 ![](../../.gitbook/assets/app.like.co.png)
 
-&#x20;Users can use [app.like.co](https://app.like.co/) to try out and register his/her ISCN.
+Users can use [app.like.co](https://app.like.co/) to try out and register his/her ISCN.
 
 ### Step 1: Login app.like.co
 
@@ -28,7 +28,7 @@ Please [register a Keplr wallet](../wallet/keplr/) before registering an ISCN or
 
 ![](<../../.gitbook/assets/ISCN 1 Login 2.png>)
 
-**Liker ID**: A QRCode will appear after clicking "Liker ID".
+**Liker Land app**: A QRCode will appear after clicking "Liker ID".
 
 ![](<../../.gitbook/assets/ISCN 1 Login 3.png>)
 
@@ -87,11 +87,11 @@ Although most of the fields are optional, it is recommended to be as detailed as
 
 ### Step 4:  Getting the ISCN <a href="#bu-zhou-si-huo-qu-iscn" id="bu-zhou-si-huo-qu-iscn"></a>
 
-**Keplr Wallet**: A Keplr windows will pop up for payment confirmation, choose the transaction speed you need: Low, Average or High, then click "Approve".
+**Keplr**: A Keplr windows will pop up for payment confirmation, choose the transaction speed you need: Low, Average or High, then click "Approve".
 
 ![](<../../.gitbook/assets/ISCN 8.png>)
 
-**Liker ID**: A signature request shows up on your phone, click "Approve"
+**Liker Land app**: A signature request shows up on your phone, click "Approve"
 
 ![](<../../.gitbook/assets/ISCN 8 wc-en.png>)
 
