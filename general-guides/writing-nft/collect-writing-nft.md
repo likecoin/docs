@@ -4,9 +4,13 @@ description: How to collect Writing NFT?
 
 # Collect Writing NFT
 
-Collect LikeCoin Writing NFT is simple and easy. Please login your [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md) before purchasing. You may pay by LikeCoin or credit card (beta).
+&#x20;You may pay by LikeCoin or credit card (beta).
 
-## Step 1: Start Collecting
+## Collect Writing NFT on desktop computer
+
+Collect LikeCoin Writing NFT is simple and easy. Please login your [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md) before purchasing.
+
+### Step 1: Start Collecting
 
 Go to the [campaign page](https://liker.land/campaign/writing-nft) to check out the NFT that you want to buy, and click the current NFT price to collect.
 
@@ -24,25 +28,25 @@ Also can click "Collect Now" on [LikeCoin button](../../user-guide/creator/).
 
 <figure><img src="../../.gitbook/assets/Buy NFT 16-en.png" alt=""><figcaption></figcaption></figure>
 
-## Step 2: Choose your login method
+### Step 2: Choose your login method
 
 A pop-up window appears with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md) login options.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 04.png" alt=""><figcaption></figcaption></figure>
 
-### Keplr Browser Extension Login
+#### Keplr Browser Extension Login
 
 Please log into [Keplr Browser Extension ](../wallet/keplr/)in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
 
 ![](<../../.gitbook/assets/Buy NFT 05.png>)
 
-### Cosmostation Browser Extension Login
+#### Cosmostation Browser Extension Login
 
 Please log into [Cosmostation Browser Extension](../wallet/cosmostation/) in your browser. After clicking "Cosmostation", a window will pop up requesting connection, click "Confirm".
 
 <figure><img src="../../.gitbook/assets/Buy NFT 13.png" alt=""><figcaption></figcaption></figure>
 
-### Liker ID Login
+#### Liker ID Login
 
 A QRCode will appear after clicking "Liker ID".
 
@@ -56,13 +60,13 @@ An Liker Land window will pop-up, click "Approve".
 
 <figure><img src="../../.gitbook/assets/Buy NFT 10-en.png" alt=""><figcaption></figcaption></figure>
 
-## Step 3: Purchase Writing NFT
+### Step 3: Purchase Writing NFT
 
 The Collect NFT page appears, click "Pay by LIKE" to purchase Writing NFT with LikeCoin, or click "Pay by card (Beta)" to purchase with a credit card.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 06.png" alt=""><figcaption></figcaption></figure>
 
-### Buy Writing NFT with Credit Card
+#### Buy Writing NFT with Credit Card
 
 Click "Pay by card (beta)" and the stripe page appears, enter the credit card information and click "Pay". The purchase price of Writing NFT in fiat currency is calculated based on the market price, exchange fee and credit card handling fee.
 
@@ -72,25 +76,25 @@ Payment Authentication page pop-up, enter your OTP code and press "VERIFY".
 
 <figure><img src="../../.gitbook/assets/Buy NFT 18.png" alt=""><figcaption></figcaption></figure>
 
-### Buy Writing NFT with Keplr
+#### Buy Writing NFT with Keplr
 
 Click "Pay by LIKE", a Keplr window will pop up. Click "Approve" and confirm the purchase.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 07.png" alt=""><figcaption></figcaption></figure>
 
-### Buy Writing NFT with Cosmostation
+#### Buy Writing NFT with Cosmostation
 
 Click "Pay by LIKE", a Cosmostation window will pop up. Click "Confirm" and confirm the purchase.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 14.png" alt=""><figcaption></figcaption></figure>
 
-### Buy Writing NFT with Liker Land app
+#### Buy Writing NFT with Liker Land app
 
 Click "Pay by LIKE", a signature request shows up on your phone. Click "Approve" and confirm the purchase.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 11-en.png" alt=""><figcaption></figcaption></figure>
 
-## Step 4: Check your NFT Collection
+### Step 4: Check your NFT Collection
 
 Complete! page appears, the Writing NFT is successfully collected.
 
