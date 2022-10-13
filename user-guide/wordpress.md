@@ -53,7 +53,7 @@ After completing the above procedures, your NFT Widget / LikeCoin button will ap
 
 ### Config NFT Widget / LikeCoin button to appear in anywhere of the articles
 
-You can also use shortcode \[likecoin] to display extra NFT/Widget LikeCoin buttons.
+You can also use shortcode \[likecoin] to display extra NFT Widget / LikeCoin buttons.
 
 ## How to support multiple Liker ID on a WordPress site
 
@@ -100,5 +100,5 @@ By publishing on Matters, your articles will be stored to the distributed InterP
 
 
 {% hint style="info" %}
-Using the Writing NFT plug-in to publish posts as NFTs, NFT Widget will appear at the bottom of each post for readers to collect. If not publish post as NFTs will display LikeCoin button only.
+Using the Writing NFT plug-in to publish posts as NFTs, [NFT Widget](../general-guides/writing-nft/nft-widget.md) will appear at the bottom of each post for readers to collect. If not publish post as NFTs will display [LikeCoin button](../archive/archive/likecoin-token.md) only.
 {% endhint %}
