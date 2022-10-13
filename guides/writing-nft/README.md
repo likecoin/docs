@@ -14,19 +14,19 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 #### 如何購買 Writing NFT？
 
-可在 NFT widget 直接收集，或在用戶的 liker.land portfolio 頁面購買。讀者需已安裝 Keplr 錢包，及花 LikeCoin 收集 NFT。
+可在 [NFT Widget](nft-widget.md) 直接收集，或在用戶的 [NFT Portfolio](nft-portfolio.md) 頁面購買。讀者需已安裝 Keplr 錢包，及花 LikeCoin [收集 NFT](collect-writing-nft.md)。
 
 #### 如何發售 Writing NFT？
 
-可經任何支援 Writing NFT 的寫作網站出版，作品發佈後便自動上架，在 NFT widget 及 [NFT Portfolio](https://liker.land) 發售，作者不用手動做額外動作上架市場。
+可經任何支援 Writing NFT 的寫作網站出版，作品發佈後便自動上架，在 NFT Widget 及 NFT Portfolio 發售，作者不用手動做額外動作上架市場。
 
 #### NFT 的價格如何訂定？
 
-系統會根據供需情況自行調節賣價，作者不用設定售價，讀者也不用設定買價。當一定數量的 NFT 售出後，售價便會調升；有人在二手市場放售，售價便會回落。
+系統會[根據供需情況自行調節賣價](dynamic-pricing.md)，作者不用設定售價，讀者也不用設定買價。當一定數量的 NFT 售出後，售價便會調升；有人在二手市場放售，售價便會回落。
 
-#### 如何安裝 NFT widget?
+#### 如何安裝 NFT Widget?
 
-可安裝 LikeCoin WordPress plugin，每篇帖文即自動加上 NFT widget。另也可在支援 NFT widget 的寫作平台發文。稍懂技術的朋友，可在網頁上加上 NFT widget 的 iframe。
+可安裝 [LikeCoin WordPress plugin](writing-nft-wordpress-plugin.md)，每篇帖文即自動加上 NFT Widget。另也可在支援 NFT Widget 的寫作平台發文。稍懂技術的朋友，可在網頁上加上 NFT Widget 的 iframe。
 
 #### 沒有 Liker ID ，能購買 Writing NFT 嗎？
 
@@ -38,11 +38,11 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 #### 作品沒有安裝 NFT widget，也能發售 NFT 嗎？
 
-可在 [NFT Portal](https://app.like.co) 發行 NFT，然後在自己的 NFT Portfolio 頁面發售。
+可在 [NFT Portal](nft-portal.md) 發行 NFT，然後在自己的 NFT Portfolio 頁面發售。
 
 #### 可在哪兒查看收集了的 NFT？
 
-在自己的 NFT portfolio 頁面
+在自己的 NFT Portfolio 頁面
 
 #### 如何把 NFT 賣到二手市場？
 
@@ -54,4 +54,4 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 #### 如何轉讓 NFT？
 
-可在 NFT Portfolio 頁面，輸入對方的地址轉讓。
+可在 NFT Portfolio 頁面，[輸入對方的地址轉讓](transfer-writing-nft.md)。
