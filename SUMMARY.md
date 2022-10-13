@@ -97,7 +97,7 @@
   * [What is the relationship between ISCN and IPFS?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
   * [What's the point of decentralization to the content ecosystem?](general-guides/decentralized-publishing/benefits.md)
   * [What type of content is supported by ISCN?](general-guides/decentralized-publishing/content-type.md)
-  * [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co.md)
+  * [How to register an ISCN?](general-guides/decentralized-publishing/app.like.co.md)
   * [Register ISCN in batch](general-guides/decentralized-publishing/iscn-batch-uploader.md)
   * [ISCN Browser](general-guides/decentralized-publishing/iscn-browser.md)
   * [ISCN Wallet](general-guides/decentralized-publishing/iscn-wallet.md)

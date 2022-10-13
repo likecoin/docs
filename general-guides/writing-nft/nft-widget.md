@@ -10,4 +10,6 @@ Unlike popular NFT marketplaces such as Opensea that converge creators and buyer
 
 Let the readers collect Writing NFT as they read, the collecting action is as easy as giving a like. An **“NFT Widget**” will be embedded at the bottom of the article. It works like a vending machine, showing the current price of this Writing NFT, and let readers to collect by a click if the price is right.
 
+<figure><img src="../../.gitbook/assets/LikeCoin button with Writing NFT-en.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/NFT Widget.png" alt=""><figcaption></figcaption></figure>
