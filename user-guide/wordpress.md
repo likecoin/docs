@@ -1,17 +1,17 @@
 ---
-description: 如何在自架 WordPress 加入 LikeCoin button，出版 WordPress 作品到區塊鏈？
+description: 如何在自架 WordPress 加入 NFT Widget，出版 WordPress 作品到區塊鏈？
 ---
 
 # WordPress
 
 過往要把文章以 NFT 形式出版，工序很䌓複：作者須先把內容及元數據儲存在如 IPFS 等分散式空間或區塊鏈上，再上傳到 NFT 市場定價出售，過程中還要入手幾款不同用途的密碼貨幣。然而現在 WordPress 的用戶有福了，因為寫完文章以後只需按一個鍵，便能完成出版 NFT 的前置工序，內容立即上鏈，過程只需一分鐘！
 
-[LikeCoin WordPress plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為古騰堡編輯器度身訂造，讓 WordPress 網站一鍵接通 Web3。功能包括：
+[LikeCoin Writing NFT WordPress plug-in](https://zh-hk.wordpress.org/plugins/likecoin/) 為古騰堡編輯器度身訂造，讓 WordPress 網站一鍵接通 Web3。功能包括：
 
 * 一鍵發佈文章到 LikeCoin 並儲存於 IPFS 及 Arweave
 * 以 LikeCoin 一筆過支付內容上鏈及分散式儲存費用
 
-此 plugin 更支援進一步鑄造 NFT 並售賣給讀者，實現完整的分散式出版。
+此 plugin 更支援進一步[鑄造 Writing NFT](../guides/writing-nft/writing-nft-wordpress-plugin.md) 並售賣給讀者，實現完整的分散式出版。
 
 ## 安裝 LikeCoin 外掛 <a href="#installation" id="installation"></a>
 
@@ -45,9 +45,9 @@ description: 如何在自架 WordPress 加入 LikeCoin button，出版 WordPress
 
 完成以上步驟後，你的讚賞鍵便會自動出現在網頁貼文的下方了。
 
-### 於任何位置顯示 LikeCoin ID <a href="#config-likecoin-button-to-appear-in-anywhere-of-the-articles" id="config-likecoin-button-to-appear-in-anywhere-of-the-articles"></a>
+### 於任何位置顯示 NFT Widget / LikeCoin button  <a href="#config-likecoin-button-to-appear-in-anywhere-of-the-articles" id="config-likecoin-button-to-appear-in-anywhere-of-the-articles"></a>
 
-你亦可使用短代碼 \[likecoin] 在文章中任何位置顯示額外的讚賞鍵。
+你亦可使用短代碼 \[likecoin] 在文章中任何位置顯示額外的 NFT Widget / 讚賞鍵。
 
 ## 如何於一個 WordPress 網站支援多個作者 <a href="#how-to-support-multiple-liker-id-on-a-wordpress-site" id="how-to-support-multiple-liker-id-on-a-wordpress-site"></a>
 
@@ -59,7 +59,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button，出版 WordPress
 
 ![](../.gitbook/assets/wordpress-6.png)
 
-步驟二：接下來就是 WordPress 新增用戶的流程，跟 LikeCoin 外掛無關。成功新增用戶後，新用戶以自己的 WordPress 帳號登入，便可設定自己的 Liker ID 和讚賞鍵。
+步驟二：接下來就是 WordPress 新增用戶的流程，跟 LikeCoin 外掛無關。成功新增用戶後，新用戶以自己的 WordPress 帳號登入，便可設定自己的 Liker ID 和 NFT Widget / 讚賞鍵。
 
 ![](../.gitbook/assets/wordpress-7.png)
 
@@ -94,3 +94,7 @@ description: 如何在自架 WordPress 加入 LikeCoin button，出版 WordPress
 {% content-ref url="../guides/writing-nft/writing-nft-wordpress-plugin.md" %}
 [writing-nft-wordpress-plugin.md](../guides/writing-nft/writing-nft-wordpress-plugin.md)
 {% endcontent-ref %}
+
+{% hint style="info" %}
+使用 Writing NFT plug-in 出版 Writing NFT 後，[NFT Widget](../guides/writing-nft/nft-widget.md) 自動在文章下方顯示。已安裝 Writing NFT plug-in 但沒有為文章鑄造 Writing NFT 則顯示 [LikeCoin button 讚賞鍵](creator/)。
+{% endhint %}
