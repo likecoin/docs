@@ -35,7 +35,7 @@ description: 如何在自架 WordPress 加入 NFT Widget，出版 WordPress 作�
 
 設定讚賞鍵外掛前，請先 [註冊 Liker ID](liker-id/)。
 
-在管理介面左方菜單，點選 "LikeCoin" 外掛設定，再選「你的 LikeCoin button」。在右方畫面中，輸入你的 Liker ID。
+在管理介面左方菜單，點選 "LikeCoin" 外掛設定，再選「你的 Liker ID」。在右方畫面中，輸入你的 Liker ID。
 
 ![](../.gitbook/assets/wordpress-4.png)
 
@@ -43,7 +43,7 @@ description: 如何在自架 WordPress 加入 NFT Widget，出版 WordPress 作�
 
 ![](../.gitbook/assets/wordpress-5-en.png)
 
-完成以上步驟後，你的讚賞鍵便會自動出現在網頁貼文的下方了。
+完成以上步驟後，你的 NFT Widget / 讚賞鍵便會自動出現在網頁貼文的下方了。
 
 ### 於任何位置顯示 NFT Widget / LikeCoin button  <a href="#config-likecoin-button-to-appear-in-anywhere-of-the-articles" id="config-likecoin-button-to-appear-in-anywhere-of-the-articles"></a>
 
