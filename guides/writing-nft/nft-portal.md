@@ -53,7 +53,7 @@ description: 把任何網頁文內容出版成 NFT
 
 留意如果將網址直接以這個方法註冊 ISCN 並出版 Writing NFT，系統會自動抓取文章標題及內容作為元資料。
 
-**如希望作品擁有詳盡元資料，請先** [**註冊 ISCN**](../decentralized-publishing/app.like.co.md) **再 以** [**ISCN 出版 Writing NFT**](nft-portal.md#yi-iscn-zhu-zao-writing-nft)**。**
+**如希望作品擁有詳盡元資料，請先** [**註冊 ISCN**](../decentralized-publishing/app.like.co.md) **再 以** [**ISCN ID 出版 Writing NFT**](nft-portal.md#yi-iscn-id-chu-ban-writing-nft)**。**
 
 <figure><img src="../../.gitbook/assets/NFT Portal 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -73,7 +73,7 @@ description: 把任何網頁文內容出版成 NFT
 
 ### 步驟 3/3：完成
 
-完成註冊 ISCN 及鑄**造** LikeCoin Writing NFT，點「NFT Detail Page :」連結。
+完成註冊 ISCN 及鑄**造** LikeCoin Writing NFT，點「NFT Detail Page :」鏈結。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5.png" alt=""><figcaption></figcaption></figure>
 
