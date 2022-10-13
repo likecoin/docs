@@ -18,4 +18,6 @@ From the LikeCoin button on each creations, readers can:
 
 <figure><img src="../../.gitbook/assets/LikeCoin button-en.png" alt=""><figcaption><p>LikeCoin button</p></figcaption></figure>
 
+If the article has been published as Writing NFT, the LikeCoin button will be converted into an [NFT Widget](../../general-guides/writing-nft/nft-widget.md), which is for users to [collect Writing NFT](../../general-guides/writing-nft/collect-writing-nft.md).
+
 <figure><img src="../../.gitbook/assets/LikeCoin button with Writing NFT-en.png" alt=""><figcaption><p><a href="../../general-guides/writing-nft/nft-widget.md">NFT Widget</a> with clap and collect Writing NFT functions</p></figcaption></figure>

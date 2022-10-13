@@ -4,7 +4,7 @@ description: Collect as You Read – The Embedded Vending Machine for Writings
 
 # NFT Widget
 
-Readers collect Writing NFTs by an extremely easy way.
+Readers [collect Writing NFTs](collect-writing-nft.md) by an extremely easy way.
 
 Unlike popular NFT marketplaces such as Opensea that converge creators and buyers traffic into a centralized portal, the buyers of Writing NFT is actually **readers** that want to focus on reading. The buying process of readers that surfing on Internet should be hooked with the reading experience. Shopping around in a mall and immerse yourself in a book is two totally different experience, and we believe that most readers prefer the latter.
 
