@@ -24,7 +24,7 @@ Or else go to the author's NFT Portfolio (website: https://liker.land/\[wallet a
 
 <figure><img src="../../.gitbook/assets/Buy NFT 03.png" alt=""><figcaption></figcaption></figure>
 
-Also can click "Collect Now" on [LikeCoin button](../../user-guide/creator/).
+Also can click "Collect Now" on [NFT Widget](nft-widget.md).
 
 <figure><img src="../../.gitbook/assets/Buy NFT 16-en.png" alt=""><figcaption></figcaption></figure>
 
