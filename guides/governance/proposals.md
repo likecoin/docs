@@ -1,5 +1,5 @@
 ---
-description: LikeCoin DAO 有過甚麼議案？
+description: LikeCoin DAO 有過什麼議案？
 ---
 
 # 歷史議案

@@ -1,5 +1,5 @@
 ---
-description: Liker ID 是甚麼？
+description: Liker ID 是什麼？
 ---
 
 # Liker ID

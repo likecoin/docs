@@ -1,5 +1,5 @@
 ---
-description: LikeCoin button 讚賞鍵有甚麼功能？
+description: LikeCoin button 讚賞鍵有什麼功能？
 ---
 
 # LikeCoin button 讚賞鍵

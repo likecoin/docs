@@ -41,7 +41,7 @@ Liker Land app 提供電郵地址+密碼及社交帳號 Google 登入、Facebook
 {% endhint %}
 
 {% hint style="info" %}
-Liker Land 手機應用程式使用 Authcore 登入。甚麼是 Authcore？[請參考此條目](what-is-authcore.md)。
+Liker Land 手機應用程式使用 Authcore 登入。什麼是 Authcore？[請參考此條目](what-is-authcore.md)。
 {% endhint %}
 
 {% hint style="success" %}

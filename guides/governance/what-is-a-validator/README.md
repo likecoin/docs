@@ -1,5 +1,5 @@
 ---
-description: 驗證人 ( Validators ) 是甚麼？
+description: 驗證人 ( Validators ) 是什麼？
 ---
 
 # 驗證人

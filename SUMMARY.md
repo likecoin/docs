@@ -107,7 +107,7 @@
     * [綁定社交帳號](user-guide/liker-id/register/social-media-logins.md)
     * [重設密碼](user-guide/liker-id/register/reset-password.md)
     * [管理登入裝置](user-guide/liker-id/register/devices.md)
-    * [甚麼是 Authcore？](user-guide/liker-id/register/what-is-authcore.md)
+    * [什麼是 Authcore？](user-guide/liker-id/register/what-is-authcore.md)
   * [修改頭像及顯示名稱](user-guide/liker-id/edit-avatar-displayname.md)
 * [LikeCoin button 讚賞鍵](user-guide/creator/README.md)
   * [Matters](user-guide/creator/matters.md)

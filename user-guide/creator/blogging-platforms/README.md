@@ -1,5 +1,5 @@
 ---
-description: 我不懂自架網站，有甚麼第三方寫作平台直接支援 LikeCoin 麼？
+description: 我不懂自架網站，有什麼第三方寫作平台直接支援 LikeCoin 麼？
 ---
 
 # 其他寫作平台

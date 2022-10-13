@@ -12,7 +12,7 @@ description: 驗證人可如何獲得社群委託？
 
 驗證人要獲得社群委託，必須：
 
-A. 在 [Matters.news](https://matters.news/) 或 [Medium.com](https://medium.com/) 撰文介結自己為甚麼希望參與 LikeCoin 社群。
+A. 在 [Matters.news](https://matters.news/) 或 [Medium.com](https://medium.com/) 撰文介結自己為什麼希望參與 LikeCoin 社群。
 
 中文驗證人－於 Matters 網站撰文自我介紹，並為文章加上標籤 [#Validator Intro](https://matters.news/tags/VGFnOjUzMTkw)。
 
@@ -63,7 +63,7 @@ D. 加入 LikeCoin Discord 再於 [#apply-for-delegation](https://discord.gg/APq
 
 ### 續期程序
 
-驗證人獲得社群基金委託後需於獲得基金的第 6 個月重新申請。驗證人必預撰寫報告說明在過去幾個月他們為社群作出甚麼貢獻。未能成功提出續期申請會導致委託直接被撤回。
+驗證人獲得社群基金委託後需於獲得基金的第 6 個月重新申請。驗證人必預撰寫報告說明在過去幾個月他們為社群作出什麼貢獻。未能成功提出續期申請會導致委託直接被撤回。
 
 舉例：於 6 月獲得第一輪社群基金委託的驗證人必須於11月15日中午12時 GMT+8 前申請續期。假如驗證人不申請續期，委託將直接被撤回。
 
