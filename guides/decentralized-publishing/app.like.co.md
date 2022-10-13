@@ -14,6 +14,8 @@ description: 第一個 ISCN 的概念示範應用
 
 用戶可使用 [app.like.co](https://app.like.co/) 嘗試註冊自己的 ISCN。
 
+## 註冊 ISCN
+
 ### 步驟一：登入 app.like.co
 
 到 [app.like.co](https://app.like.co/) 點擊右上角「Connect Wallet」。
@@ -108,3 +110,7 @@ description: 第一個 ISCN 的概念示範應用
 點擊項目出現已註冊的元資料內容明細。
 
 ![](<../../.gitbook/assets/ISCN 11.png>)
+
+## 出版 Writing NFT
+
+註冊 ISCN 後，用戶可以把它[出版成 Writing NFT](../writing-nft/nft-portal.md#fang-fa-1-cha-zhao-iscn-hou-zhi-jie-chu-ban-writing-nft)。&#x20;
