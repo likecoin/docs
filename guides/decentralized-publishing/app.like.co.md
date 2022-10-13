@@ -20,7 +20,7 @@ description: 第一個 ISCN 的概念示範應用
 
 ![](<../../.gitbook/assets/ISCN 1.png>)
 
-可使用 [Keplr 瀏覽器錢包](../wallet/keplr/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 註冊 ISCN。
+可使用 [Keplr Browser Extension](../wallet/keplr/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 註冊 ISCN。
 
 ![](<../../.gitbook/assets/ISCN 1 Login 1.png>)
 
@@ -28,7 +28,7 @@ description: 第一個 ISCN 的概念示範應用
 
 ![](<../../.gitbook/assets/ISCN 1 Login 2.png>)
 
-**Liker ID**：點 Liker ID 後出現二維碼。
+**Liker Land app**：點 Liker ID 後出現二維碼。
 
 ![](<../../.gitbook/assets/ISCN 1 Login 3.png>)
 
@@ -87,11 +87,11 @@ description: 第一個 ISCN 的概念示範應用
 
 ### 步驟四：獲取 ISCN
 
-**Keplr Wallet**：此時將彈出 Keplr 視窗，選擇所需要完成註冊的速度（慢 Low、平均 Average、快 High）並點擊「Approve」。
+**Keplr**：此時將彈出 Keplr 視窗，選擇所需要完成註冊的速度（慢 Low、平均 Average、快 High）並點擊「Approve」。
 
 ![](<../../.gitbook/assets/ISCN 8.png>)
 
-**Liker ID**：在手機上出現簽名請求，點「允許」。
+**Liker Land app**：在手機上出現簽名請求，點「允許」。
 
 ![](<../../.gitbook/assets/ISCN 8 wc.png>)
 

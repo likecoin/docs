@@ -18,4 +18,4 @@ LikeCoin button 讚賞鍵，是讀者和你的作品互動的核心，用以讚�
 
 <figure><img src="../../.gitbook/assets/LikeCoin button.png" alt=""><figcaption><p>LikeCoin button 讚賞鍵</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LikeCoin button with Writing NFT.png" alt=""><figcaption><p>具備拍手及收藏 Writing NFT 功能的 LikeCoin button 讚賞鍵</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LikeCoin button with Writing NFT.png" alt=""><figcaption><p>具備拍手及收藏 Writing NFT 功能的  <a href="../../guides/writing-nft/nft-widget.md">NFT Widget</a></p></figcaption></figure>
