@@ -97,7 +97,7 @@ Matters 舊文章可使用這個方式註冊 ISCN。
 
 ### 方法 1：查找 ISCN 後直接出版 Writing NFT
 
-文章刊出後，到 [app.like.co](https://app.like.co/) 的「My Publishing」尋找已註冊文章的 ISCN，點右上角「Mint NFTs」直接將 ISCN 鑄造為 Writing NFT。
+文章刊出後，到 [app.like.co](https://app.like.co/) 的「[My Publishing](https://app.like.co/works)」尋找已註冊文章的 ISCN，點右上角「Mint NFTs」直接將 ISCN 鑄造為 Writing NFT。
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 4.png" alt=""><figcaption></figcaption></figure>
 
@@ -105,7 +105,7 @@ Matters 舊文章可使用這個方式註冊 ISCN。
 
 {% embed url="https://www.youtube.com/watch?v=X0uLaPOkucA" %}
 
-到 [app.like.co](https://app.like.co/) 的「My Publishing」尋找已註冊文章的 ISCN ID 並把它複製。
+到 [app.like.co](https://app.like.co/) 的「[My Publishing](https://app.like.co/works)」尋找已註冊文章的 ISCN ID 並把它複製。
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 2.png" alt=""><figcaption></figcaption></figure>
 
