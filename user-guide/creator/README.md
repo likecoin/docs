@@ -22,7 +22,7 @@ From the LikeCoin button on each creations, readers can:
 
 ### NFT Widget
 
-If the article has been published as Writing NFT, the LikeCoin button will be converted into an [NFT Widget](../../general-guides/writing-nft/nft-widget.md) with clap and [collect Writing NFT](../../general-guides/writing-nft/collect-writing-nft.md) functions.
+If the article has been published as Writing NFT, the LikeCoin button will be evolved into an [NFT Widget](../../general-guides/writing-nft/nft-widget.md) with clap and [collect Writing NFT](../../general-guides/writing-nft/collect-writing-nft.md) functions.
 
 <figure><img src="../../.gitbook/assets/LikeCoin button with Writing NFT-en.png" alt=""><figcaption><p><a href="../../general-guides/writing-nft/nft-widget.md">NFT Widget</a> with clap and collect Writing NFT functions</p></figcaption></figure>
 
