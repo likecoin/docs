@@ -1,19 +1,19 @@
 ---
 description: >-
-  How to embed a LikeCoin button into a self-hosted WordPress. and publishing
-  post to blockchain?
+  How to embed a NFT Widget into a self-hosted WordPress. and publishing post to
+  blockchain?
 ---
 
 # WordPress
 
 The current hassle to publish articles as NFTs: Creators needed to find ways to save the contents and metadata on decentralized storage such as IPFS or blockchain, before selling them on the NFT marketplaces. Furthermore, they had to purchase several kinds of cryptocurrencies during the process. We have good news for WordPress users: After finishing your articles, you only need one click to publish pre-NFT credentials to blockchain. the whole process just takes one minute to complete within the WordPress editor!
 
-The brand new [LikeCoin WordPress plugin](https://wordpress.org/plugins/likecoin/) is tailor made for Gutenberg editor, which links up the WordPress website with Web3 by just one click. Its functions include:
+The brand new [LikeCoin Writing NFT WordPress plugin](https://wordpress.org/plugins/likecoin/) is tailor made for Gutenberg editor, which links up the WordPress website with Web3 by just one click. Its functions include:
 
 * One-click publishing to LikeCoin plus storage at IPFS and Arweave
 * On-chain and decentralized storage fees can be paid by LikeCoin in one go
 
-This plugin also support NFT minting. By selling NFTs to readers, decentralized publishing can be actualized to the fullest.
+This plugin also support [NFT minting](../general-guides/writing-nft/writing-nft-wordpress-plugin.md). By selling NFTs to readers, decentralized publishing can be actualized to the fullest.
 
 ## How to add LikeCoin button on WordPress
 
@@ -41,19 +41,19 @@ Follow the steps:
 
 Before configuring the LikeCoin plugin, please [register a Liker ID](liker-id/).
 
-On the menu, select "Your LikeCoin button",  then fill in your Liker ID in the Liker ID field.
+On the menu, select "Your Liker ID",  then fill in your Liker ID in the Liker ID field.
 
 ![](../.gitbook/assets/wordpress-4-en.png)
 
-Then click "Confirm",  your LikeCoin button setup is finished.
+Then click "Confirm",  your setup is finished.
 
 ![](../.gitbook/assets/wordpress-5-en.png)
 
-After completing the above procedures, your LikeCoin button will appear underneath each article of your WordPress site.&#x20;
+After completing the above procedures, your NFT Widget / LikeCoin button will appear underneath each article of your WordPress site.&#x20;
 
-### Config LikeCoin button to appear in anywhere of the articles
+### Config NFT Widget / LikeCoin button to appear in anywhere of the articles
 
-You can also use shortcode \[likecoin] to display extra LikeCoin buttons.
+You can also use shortcode \[likecoin] to display extra NFT/Widget LikeCoin buttons.
 
 ## How to support multiple Liker ID on a WordPress site
 
@@ -65,7 +65,7 @@ Sure, the LikeCoin plugin supports multiple Liker ID by default.
 
 ![](../.gitbook/assets/wordpress-6-en.png)
 
-2\. You can add new WordPress users as usual, and this part is not related to the LikeCoin plugin. After adding new users, they can use their own WordPress account to login and set up their own Liker ID and LikeCoin button.
+2\. You can add new WordPress users as usual, and this part is not related to the LikeCoin plugin. After adding new users, they can use their own WordPress account to login and set up their own Liker ID and NFT Widget / LikeCoin button.
 
 ![](../.gitbook/assets/wordpress-7-en.png)
 
@@ -97,4 +97,8 @@ By publishing on Matters, your articles will be stored to the distributed InterP
 [writing-nft-wordpress-plugin.md](../general-guides/writing-nft/writing-nft-wordpress-plugin.md)
 {% endcontent-ref %}
 
-
+
+
+{% hint style="info" %}
+Using the Writing NFT plug-in to publish posts as NFTs, NFT Widget will appear at the bottom of each post for readers to collect. If not publish post as NFTs will display LikeCoin button only.
+{% endhint %}
