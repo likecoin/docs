@@ -2,7 +2,7 @@
 description: The 1st demo of an ISCN application
 ---
 
-# How to register a ISCN?
+# How to register an ISCN?
 
 Users can go to [app.like.co](https://app.like.co/) and register an ISCN for their content and a unique image will be generated randomly. Even if there is a tiny little change to two pieces of similar content, the image for the ISCN will not be the same.
 
@@ -13,6 +13,8 @@ Users can also check an ISCN record and it's details in [app.like.co](https://ap
 ![](../../.gitbook/assets/app.like.co.png)
 
 Users can use [app.like.co](https://app.like.co/) to try out and register his/her ISCN.
+
+## Register an ISCN
 
 ### Step 1: Login app.like.co
 
@@ -108,3 +110,7 @@ Back to app.like.co homepage, click **\[Your Publishing]** to list all your publ
 Click on a particular piece to check out the metadata and the original file.
 
 ![](<../../.gitbook/assets/ISCN 11.png>)
+
+## Publish Writing NFT
+
+After registering an ISCN, users can [publish it as Writing NFT](../writing-nft/nft-portal.md#method-1-publish-writing-nft-directly-from-iscn).
