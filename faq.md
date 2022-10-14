@@ -6,7 +6,7 @@ description: LikeCoin 常見問題
 
 ![](.gitbook/assets/LikeCoin\_AD27\_Small\_Update-01.png)
 
-## LikeCoin 項目概覽
+## [LikeCoin 項目概覽](./)
 
 * [LikeCoin 是什麼？](./)
 * [在那兒可參看最新工作進展？](updates.md)
