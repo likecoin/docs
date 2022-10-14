@@ -4,7 +4,20 @@ description: Frequently Asked Questions
 
 # LikeCoin FAQ
 
-## [​LikeCoin - Decentralized Publishing](./) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+[LikeCoin Overview](faq.md#likecoin-zan-shang-gong-min-gong-he-guo-2) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* ​[What is LikeCoin?](./)
+* [Where to find the latest updates about LikeCoin?](updates.md)
+* [What does the media say about LikeCoin?](general-guides/on-the-news/)
+* [Does LikeCoin provide branding and design materials for download?](branding/)
+* [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](general-guides/decentralized-publishing/)
+
+## [Writing NFT](general-guides/writing-nft/) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+
+* [FAQ](general-guides/writing-nft/)
+
+## [Decentralized Publishing](general-guides/decentralized-publishing/) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
 * [What is Decentralized Publishing #DePub?](./)
 * [What is ISCN?](developer/iscn/)
@@ -18,22 +31,13 @@ description: Frequently Asked Questions
 * [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co.md)
 * [Can I register for ISCN in a batch?](general-guides/decentralized-publishing/iscn-batch-uploader.md)
 
-LikeCoin Overview&#x20;<a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
-----------------------------------------------------------------------------------------------------------
-
-* ​[What is LikeCoin?](./)
-* [Where to find the latest updates about LikeCoin?](updates.md)
-* [What does the media say about LikeCoin?](general-guides/on-the-news/)
-* [Does LikeCoin provide branding and design materials for download?](branding/)
-* [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](general-guides/decentralized-publishing/)[​](https://docs.like.co/user-guide/about#contact-us)
-
 ## [Wallet](general-guides/wallet/) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
-* [Is there a decentralized wallet for LikeCoin?](general-guides/wallet/keplr/)
+* [Is there a decentralized wallet for LikeCoin?](general-guides/wallet/)
 * [How to transfer LikeCoin?](general-guides/wallet/like-pay.md)[  ](general-guides/wallet/keplr/)
 * [Does LikeCoin support hardware wallets?](general-guides/wallet/hardware-wallet.md)
 * [How to find my wallet address?](general-guides/wallet/wallet-address.md)
-* [Any block explorer for LikeCoin?](general-guides/wallet/block-explorer/big-dipper.md)
+* [Any block explorer for LikeCoin?](general-guides/wallet/block-explorer/)
 * [Is there a transaction fee?](general-guides/wallet/transaction-fee.md)
 * [How to handle my LikeCoin ERC-20 token?](general-guides/wallet/migration/)
 * [What is a "like1" address?](general-guides/wallet/like-address-prefix.md)
