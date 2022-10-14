@@ -4,7 +4,7 @@ description: Wallet supports LikeCoin chain
 
 # Wallet
 
-* [Keplr](keplr/)
+* [Keplr - Browser Extension Wallet](keplr/)
 * [Cosmostation - Browser Extension Wallet](cosmostation/)
 * [Cosmostation - Mobile Wallet](cosmostation-app/)
 * [Ledger](hardware-wallet.md)

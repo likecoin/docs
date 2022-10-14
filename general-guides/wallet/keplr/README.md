@@ -8,7 +8,7 @@ You can now manage your LikeCoin with the [Keplr wallet](https://www.keplr.app/)
 
 Note that Keplr mobile app does not support LikeCoin yet.
 
-#### Please refer to the following articles to learn how to install Keplr on desktop:
+#### Please refer to the following articles to learn how to install Keplr Browser Extension on desktop:
 
 {% content-ref url="how-to-install-keplr-extension.md" %}
 [how-to-install-keplr-extension.md](how-to-install-keplr-extension.md)

@@ -8,7 +8,9 @@ description: Multichain wallet supporting LikeCoin
 
 Note that the Cosmostation does not support registration of Liker ID yet.
 
-#### Please refer to the following articles to learn how to install Cosmostation on desktop:
+Cosmostation also provides a [web wallet](https://wallet.cosmostation.io/like-coin), but it only supports sending and delegating LikeCoin and you can login with Cosmostation Browser Extension.
+
+#### Please refer to the following articles to learn how to install Cosmostation Browser Extension on desktop:
 
 {% content-ref url="how-to-install-cosmostation-extension.md" %}
 [how-to-install-cosmostation-extension.md](how-to-install-cosmostation-extension.md)
