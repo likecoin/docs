@@ -8,7 +8,7 @@ description: 支援 LikeCoin 的多鏈錢包
 
 留意用戶暫時不能使用 Cosmostation 註冊 Liker ID。
 
-此外 Cosmostation 亦提供[網頁錢包](https://wallet.cosmostation.io/like-coin)，但只支援傳送及委託 LikeCoin。
+此外 Cosmostation 亦提供[網頁錢包](https://wallet.cosmostation.io/like-coin)，但只支援傳送及委託 LikeCoin，你可使用 Comostation Browser Extension 登入這個錢包。
 
 #### 請參考以下文章了解如何在桌面電腦安裝 Cosmostation Browser Extension：
 
