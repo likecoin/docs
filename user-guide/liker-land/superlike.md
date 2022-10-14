@@ -18,7 +18,7 @@ _(\*舊有的 4 LikeCoin 奬勵已被取消。)_
 
 ### **協力發展 Web3 內容宇宙**
 
-depub.space 是 LikeCoin 生態內的去中心社交媒體，每則推文都是一筆鏈上記錄，只需 [Keplr](../../guides/wallet/keplr/) 或 [Cosmostation 瀏覽器錢包](../../guides/wallet/cosmostation/)登入或使用 [Liker Land app](download.md) 進行 Wallet Connect 即可發文，無需註冊，預設私隱。
+depub.space 是 LikeCoin 生態內的去中心社交媒體，每則推文都是一筆鏈上記錄，只需 [Keplr](../../guides/wallet/keplr/) 或 [Cosmostation 瀏覽器擴充功能錢包](../../guides/wallet/cosmostation/)登入或使用 [Liker Land app](download.md) 進行 Wallet Connect 即可發文，無需註冊，預設私隱。
 
 作者需要內容策展的工具和傳播的渠道。傳統推廣好文章的方法之一是把連結複製到社交媒體如 Facebook 或 Twitter，現在 Liker Land 帶來一個嶄新的選擇：讀者在支援 [LikeCoin button 讚賞鍵](../creator/)的網站，一鍵把內容發佈到 depub.space，讓任何網站內容都可輕鬆地在元宇宙曝光。
 
