@@ -6,6 +6,13 @@ description: LikeCoin DAO 有過什麼議案？
 
 ![](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
 
+## 議案 #57 更新 Osmosis 流動性池激勵
+
+* **提案：**medium
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.10.01 提案，2022.10.11 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/57](https://bigdipper.live/likecoin/proposals/57)
+
 ## 議案 #56 向遷移錢包存入 2,000,000 LIKE
 
 * **提案：**William
