@@ -6,7 +6,19 @@ description: LikeCoin 常見問題
 
 ![](.gitbook/assets/LikeCoin\_AD27\_Small\_Update-01.png)
 
-## [LikeCoin - 去中心出版](./)
+## LikeCoin 項目概覽
+
+* [LikeCoin 是什麼？](./)
+* [在那兒可參看最新工作進展？](updates.md)
+* [有媒體報導可以參詳嗎？](guides/on-the-news.md)
+* [LikeCoin 有提供品牌形象指引和相關素材下載麼？](branding.md)
+* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](faq.md#likecoin-qu-zhong-xin-chu-ban)
+
+## [Writing NFT](guides/writing-nft/)
+
+* [常見問題](guides/writing-nft/)
+
+## [去中心出版](./)
 
 * [什麼是去中心出版 #DePub？](./)
 * [ISCN 是什麼？](guides/decentralized-publishing/what-is-iscn.md)
@@ -20,17 +32,9 @@ description: LikeCoin 常見問題
 * [怎樣註冊 ISCN？ ](guides/decentralized-publishing/app.like.co.md)
 * [可以大量註冊 ISCN 嗎？](guides/decentralized-publishing/iscn-batch-uploader.md)
 
-## LikeCoin 項目概覽
-
-* [LikeCoin 是什麼？](./)
-* [在那兒可參看最新工作進展？](updates.md)
-* [有媒體報導可以參詳嗎？](guides/on-the-news.md)
-* [LikeCoin 有提供品牌形象指引和相關素材下載麼？](branding.md)
-* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](faq.md#likecoin-qu-zhong-xin-chu-ban)
-
 ## [錢包](guides/wallet/)
 
-* [有沒有去中心化的錢包可以提供？](guides/wallet/keplr/)
+* [有沒有去中心化的錢包可以提供？](guides/wallet/)
 * [如何轉帳 LikeCoin？](guides/wallet/like-pay.md)
 * [LikeCoin 支援硬件錢包嗎？](guides/wallet/hardware-wallet.md)
 * [如何找到自己的錢包地址？](guides/wallet/wallet-address.md)
