@@ -1,5 +1,5 @@
 ---
-description: Multichain mobile wallet supporting LikeCoin
+description: Mobile version of Cosmostatoin
 ---
 
 # Cosmostation Mobile Wallet

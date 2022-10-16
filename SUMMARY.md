@@ -117,6 +117,8 @@
     * [How to install Cosmostation app](general-guides/wallet/cosmostation-app/how-to-install-cosmostation-app.md)
     * [Cosmostation app: Deposit and Send LikeCoin](general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md)
     * [Import wallet into Cosmostation app](general-guides/wallet/cosmostation-app/import-wallet-into-cosmostation-app.md)
+  * [Leap Browser Extension Wallet](general-guides/wallet/leap/README.md)
+    * [How to install Leap Browser Extension](general-guides/wallet/leap/how-to-install-leap-extension.md)
   * [LIKE pay](general-guides/wallet/like-pay.md)
   * [Ledger](general-guides/wallet/hardware-wallet.md)
   * [Multisig](general-guides/wallet/multisig.md)
