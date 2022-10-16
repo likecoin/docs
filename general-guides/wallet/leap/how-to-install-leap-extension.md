@@ -4,7 +4,7 @@ description: On Chromium Based Browsers
 
 # How to install Leap Browser Extension
 
-### Step 1: Install Cosmostation
+### Step 1: Install Leap
 
 Go to the [Leap website](https://www.leapwallet.io/) to learn about browser extensions and click "Get Started".
 
@@ -40,7 +40,9 @@ Your Leap wallet is ready! appears, you can pin your Leap Wallet to the browser 
 
 #### For import existing wallet please refer to:
 
-
+{% content-ref url="mport-wallet-into-leap.md" %}
+[mport-wallet-into-leap.md](mport-wallet-into-leap.md)
+{% endcontent-ref %}
 
 {% hint style="danger" %}
 Please keep your Secret Recovery Phrase and password safe. If you lose them you are not able to manage your LikeCoin. No one can reset your wallet for you.
