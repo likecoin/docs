@@ -14,8 +14,12 @@ Web3 唯一的非託管超級錢包。使用 Leap 可傳送、互換和委託密
 [how-to-install-leap-extension.md](how-to-install-leap-extension.md)
 {% endcontent-ref %}
 
-#### 存入、轉帳、委託 LikeCoin
+#### 存入、轉帳、委託 LikeCoin：
 
 {% content-ref url="leap-deposit-and-send-likecoin.md" %}
 [leap-deposit-and-send-likecoin.md](leap-deposit-and-send-likecoin.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../stake/" %}
+[stake](../../stake/)
 {% endcontent-ref %}
