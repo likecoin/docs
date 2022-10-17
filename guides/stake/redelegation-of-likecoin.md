@@ -46,7 +46,7 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 ## 使用 Leap Browser Extension 轉移委託 <a href="#redelegate-via-leap" id="redelegate-via-leap"></a>
 
-步驟一：登入 Leap Browser Extension
+### 步驟一：登入 Leap Browser Extension
 
 打開 [Leap Browser Extension](../wallet/leap/)，點「Stake」。
 

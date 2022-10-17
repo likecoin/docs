@@ -79,13 +79,13 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 出現 Unstake 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Review」。
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leap undelegate 1.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟四：確認取回委託
 
 點「Unstake LIKE」取回委託。
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leap undelegate 2.png" alt=""><figcaption></figcaption></figure>
 
 ## 使用 Cosmostation app 取回委託 <a href="#undelegate-via-cosmostation-app" id="undelegate-via-cosmostation-app"></a>
 
