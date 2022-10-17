@@ -10,7 +10,9 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 [direct-vote.md](../governance/direct-vote.md)
 {% endcontent-ref %}
 
-委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.co](delegation-of-likecoin.md#dao.like.co-delegate) 配合 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 進行委託。
+委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.co](delegation-of-likecoin.md#dao.like.co-delegate) 配合 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/)。
+
+或直接使用 Leap Browser Extension 進接委託。&#x20;
 
 也可以使用手機應用程式進行委託：
 
