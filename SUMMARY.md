@@ -47,6 +47,7 @@
     * [在 Cosmostation app 導入錢包](guides/wallet/cosmostation-mobile/import-wallet-into-cosmostation-app.md)
   * [Leap 瀏覽器擴充功能](guides/wallet/leap/README.md)
     * [安裝 Leap 瀏覽器擴充功能](guides/wallet/leap/how-to-install-leap-extension.md)
+    * [Leap：存入及轉帳](guides/wallet/leap/leap-deposit-and-send-likecoin.md)
     * [在 Leap 導入錢包](guides/wallet/leap/import-wallet-into-leap.md)
   * [LIKE pay](guides/wallet/like-pay.md)
   * [Ledger](guides/wallet/hardware-wallet.md)

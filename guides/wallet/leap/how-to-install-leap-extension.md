@@ -38,7 +38,11 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 <figure><img src="../../../.gitbook/assets/leap 8.png" alt=""><figcaption></figcaption></figure>
 
-如需導入錢包，請參看：
+#### 如需導入錢包，請參看：
+
+{% content-ref url="import-wallet-into-leap.md" %}
+[import-wallet-into-leap.md](import-wallet-into-leap.md)
+{% endcontent-ref %}
 
 {% hint style="danger" %}
 請把助記詞及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Leap 錢包。
