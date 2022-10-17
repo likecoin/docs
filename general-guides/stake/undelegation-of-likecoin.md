@@ -57,6 +57,32 @@ After the "Sent and confirming", "Successfully unstaked!" appears, undelegation 
 
 ![](<../../.gitbook/assets/dao.like.co unstake 05.png>) ![](<../../.gitbook/assets/dao.like.co unstake 06.png>)
 
+## Undelegate via Leap Browser Extension
+
+### Step 1: Login Leap Browser Extension
+
+On the [Leap Browser Extension](../wallet/leap/), click「Stake」.
+
+<figure><img src="../../.gitbook/assets/leap delegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### Step 2: Select the validator with delegation
+
+On Breakdown by Validator click on the validator that you need to undelegate.
+
+<figure><img src="../../.gitbook/assets/leap redelegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### Step 3: Decide the amount to undelegate
+
+The Unstake page appears, enter the amount of LikeCoin you want to undelegate, and click "Review".
+
+<figure><img src="../../.gitbook/assets/leap undelegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### Step 4: Confirm undelegation
+
+Click "Unstake LIKE" to undelegate your LikeCoin.
+
+<figure><img src="../../.gitbook/assets/leap undelegate 2.png" alt=""><figcaption></figcaption></figure>
+
 ## **Undelegate via Cosmostation app**
 
 ### Step 1: Login Cosmostation app
