@@ -46,7 +46,45 @@ After the "Sent and confirming", "Successfully restaked!" appears, redelegation 
 
 ![](<../../.gitbook/assets/dao.like.co restake 05.png>) ![](<../../.gitbook/assets/dao.like.co restake 06.png>)
 
-## **Undelegate via Cosmostation app**
+## Redelegate via Leap Browser Extension
+
+### Step 1: Login Leap Browser Extension
+
+On the [Leap Browser Extension](../wallet/leap/), click「Stake」.
+
+<figure><img src="../../.gitbook/assets/leap delegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### Step 2: Select the validator with delegation
+
+On Breakdown by Validator click on the validator that you have to redelegate.
+
+<figure><img src="../../.gitbook/assets/leap redelegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### Step 3: Start Redelgating
+
+Click "Switch Validator".
+
+<figure><img src="../../.gitbook/assets/leap redelegate 2.png" alt=""><figcaption></figcaption></figure>
+
+### Step 4: Select the new validator to delegate
+
+Select the validator that you want to redelegate to.
+
+<figure><img src="../../.gitbook/assets/leap redelegate 3.png" alt=""><figcaption></figcaption></figure>
+
+### Step 5: Decide the amount to redelegate
+
+Enter the amount of LikeCoin you want to redelegate and click "Review".
+
+<figure><img src="../../.gitbook/assets/leap redelegate 4.png" alt=""><figcaption></figcaption></figure>
+
+### Step 6: Confirm redelegation
+
+Click "Switch Validator" to confirm the redelegate.
+
+<figure><img src="../../.gitbook/assets/leap redelegate 5.png" alt=""><figcaption></figcaption></figure>
+
+## **Redelegate via Cosmostation app**
 
 ### Step 1: Login Cosmostation app
 
@@ -68,7 +106,7 @@ Click "REDELEGATE".
 
 ### Step 4: Decide the amount to redelegate
 
-The REDELEGATE page appears, enter the amount of LikeCoin you want to redelegate.
+The REDELEGATE page appears, enter the amount of LikeCoin you want to redelegate then click "Next".
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 2.png" alt=""><figcaption></figcaption></figure>
 

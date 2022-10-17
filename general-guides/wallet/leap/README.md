@@ -14,8 +14,12 @@ Note that the Leap does not support registration of Liker ID.
 [how-to-install-cosmostation-extension.md](../cosmostation/how-to-install-cosmostation-extension.md)
 {% endcontent-ref %}
 
-#### Deposit and send LikeCoin:
+#### Deposit, send and delegate LikeCoin:
 
 {% content-ref url="leap-deposit-and-send-likecoin.md" %}
 [leap-deposit-and-send-likecoin.md](leap-deposit-and-send-likecoin.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../stake/delegation-of-likecoin.md" %}
+[delegation-of-likecoin.md](../../stake/delegation-of-likecoin.md)
 {% endcontent-ref %}
