@@ -10,14 +10,14 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 [direct-vote.md](../governance/direct-vote.md)
 {% endcontent-ref %}
 
-委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.co](delegation-of-likecoin.md#dao.like.co-delegate) 配合 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/)。
+委託 LikeCoin 的方式有多種，我們建議使用 [dao.like.co](delegation-of-likecoin.md#delegate-via-dao.like.co) 配合 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 進行委託。
 
 或直接使用 Leap Browser Extension 進接委託。&#x20;
 
 也可以使用手機應用程式進行委託：
 
-* [Cosmostation app](delegation-of-likecoin.md#cosmostation-app-delegate)
-* [Liker Land app](delegation-of-likecoin.md#likerland.app-delegate)
+* [Cosmostation app](delegation-of-likecoin.md#delegate-via-cosmostation-app)
+* [Liker Land app](delegation-of-likecoin.md#delegate-via-liker-land)
 
 你亦可以通過以下網站搭配 [Keplr Browser Extension](../wallet/keplr/) 管理你的 LikeCoin：
 
@@ -92,6 +92,44 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 出現 Sent and confirming 畫面後再出現 Successfully withdrawal! 即成功領取收益。
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
+
+## 使用 Leap Browser Extension 委託 LikeCoin <a href="#delegate-via-leap" id="delegate-via-leap"></a>
+
+### 步驟一：登入 Leap Browser Extension
+
+打開 [Leap Browser Extension](../wallet/leap/)，點「Stake」。
+
+<figure><img src="../../.gitbook/assets/leap delegate 1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/leap delegate 2.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟二：選擇驗證人
+
+在 Choose a Validator 頁面點選你需要委託的驗證人。
+
+<figure><img src="../../.gitbook/assets/leap delegate 3.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟三：輸入委託金額
+
+輸入你所需要委託的 LikeCoin 數量，點「Review」。
+
+<figure><img src="../../.gitbook/assets/leap delegate 4.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟四：確認委託數量、手續費並完成委託
+
+顯示[手續費](../wallet/transaction-fee.md)預估數值，點「Stake Like」完成委託。
+
+<figure><img src="../../.gitbook/assets/leap delegate 5.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟五：領取收益
+
+在 Stake 頁面點「Claim」。
+
+<figure><img src="../../.gitbook/assets/leap delegate 6.png" alt=""><figcaption></figcaption></figure>
+
+出現能領取的收益的數量，點「Claim Rewards」領取。
+
+<figure><img src="../../.gitbook/assets/leap delegate 7.png" alt=""><figcaption></figcaption></figure>
 
 ## 使用 Cosmostation app 委託 LikeCoin <a href="#delegate-via-cosmostation-app" id="delegate-via-cosmostation-app"></a>
 
