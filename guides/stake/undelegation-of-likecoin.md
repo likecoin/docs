@@ -61,6 +61,32 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 </div>
 
+## 使用 Leap Browser Extension 取回委託 <a href="#undelegate-via-leap" id="undelegate-via-leap"></a>
+
+### 步驟一：登入 Leap Browser Extension
+
+打開 [Leap Browser Extension](../wallet/leap/)，點「Stake」。
+
+<figure><img src="../../.gitbook/assets/leap delegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟二：選擇已委託的驗證人
+
+在 Breakdown by Validator 選擇要解除委託的驗證人。
+
+<figure><img src="../../.gitbook/assets/leap redelegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟三：輸入取回委託金額
+
+出現 Unstake 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Review」。
+
+<figure><img src="../../.gitbook/assets/leap undelegate 1.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟四：確認取回委託
+
+點「Unstake LIKE」取回委託。
+
+<figure><img src="../../.gitbook/assets/leap undelegate 2.png" alt=""><figcaption></figcaption></figure>
+
 ## 使用 Cosmostation app 取回委託 <a href="#undelegate-via-cosmostation-app" id="undelegate-via-cosmostation-app"></a>
 
 ### 步驟一：登入 Cosmostation app
