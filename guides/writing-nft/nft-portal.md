@@ -1,5 +1,5 @@
 ---
-description: 把任何網頁文內容出版成 NFT
+description: 把任何網頁文章內容出版成 NFT
 ---
 
 # NFT Portal
