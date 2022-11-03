@@ -11,7 +11,7 @@ description: Frequently Asked Questions
 * [Where to find the latest updates about LikeCoin?](updates.md)
 * [What does the media say about LikeCoin?](general-guides/on-the-news/)
 * [Does LikeCoin provide branding and design materials for download?](branding/)
-* [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](general-guides/decentralized-publishing/)
+* [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
 
 ## [Writing NFT](general-guides/writing-nft/) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
