@@ -12,7 +12,7 @@ description: LikeCoin 常見問題
 * [在那兒可參看最新工作進展？](updates.md)
 * [有媒體報導可以參詳嗎？](guides/on-the-news.md)
 * [LikeCoin 有提供品牌形象指引和相關素材下載麼？](branding.md)
-* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](faq.md#likecoin-qu-zhong-xin-chu-ban)
+* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
 
 ## [Writing NFT](guides/writing-nft/)
 
