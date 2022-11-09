@@ -4,15 +4,13 @@ description: 如何收集 Writing NFT
 
 # 收集 Writing NFT
 
-購買 Writing NFT 可使用 LikeCoin 付款，你也可以直接刷信用卡購買 Writing NFT。
+購買 Writing NFT 可使用 LikeCoin 付款，你也可以直接刷信用卡購買 Writing NFT。購買LikeCoin 可參考[如何購買 LikeCoin](../trade/buy-likecoin.md) 的章節。
 
-使用桌面電腦或 Liker Land app 收集 Writing NFT 同樣方便。
+在之前，你需要註冊並登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/)[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker Land app](../../user-guide/liker-land/download.md)使用桌面電腦或收集 Writing NFT 同樣方便。&#x20;
 
-## 以桌面電腦收集 Writing NFT
+假如沒有任何加密錢包，可以先以信用卡付款購買 Writing NFT，並於設定好錢包後已購買的 Writing NFT。
 
-收集 LikeCoin Writing NFT 步驟非常簡單。購買前請預先登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md)。
-
-### 步驟一：開始收集
+## 開始收集
 
 到[活動頁面](https://liker.land/campaign/writing-nft)查看希望購買的 NFT，查閱當前 NFT 價格並點擊它直接收集。
 
@@ -30,7 +28,9 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../.gitbook/assets/Buy NFT 16.png" alt=""><figcaption></figcaption></figure>
 
-### 步驟二：選擇登入方式
+## 已擁有加密錢包並以桌面電腦收集 Writing NFT
+
+### 步驟：選擇登入方式
 
 彈出視窗出現 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 登入選項。
 
@@ -62,7 +62,7 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../.gitbook/assets/Buy NFT 10.png" alt=""><figcaption></figcaption></figure>
 
-### 步驟三：購買 Writing NFT
+### 步驟：購買 Writing NFT
 
 出現 Collect NFT 頁面，點「Pay by LIKE」以 LikeCoin 購買 Writing NFT，又或者點「Pay by card (Beta)」以信用卡購買。
 
