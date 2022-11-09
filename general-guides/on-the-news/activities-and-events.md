@@ -2,7 +2,25 @@
 
 {% tabs %}
 {% tab title="2022" %}
-10/11 ⚛️ 🧪Jonabel Belz 🧪⚛️
+### 10/28 IPFS Camp 2022
+
+[Keynote: Decentralization and Human Rights Showcase](https://2022.ipfs.camp/#Keynotes)
+
+[Video](https://www.youtube.com/watch?v=OxmndRBGuUM\&t=2918s)
+
+### 10/28 Matters Discord
+
+[Web3 學習會：發布之外 — 以 NFT 為量詞的出版可能性](https://blog.like.co/zh/%E3%80%90matters-web3-%E7%B7%9A%E4%B8%8A%E5%AD%B8%E7%BF%92%E6%9C%83%E3%80%91%E7%99%BC%E5%B8%83%E4%B9%8B%E5%A4%96%EF%BC%9A%E4%BB%A5-nft-%E7%82%BA%E9%87%8F%E8%A9%9E%E7%9A%84%E5%87%BA%E7%89%88%E5%8F%AF/)
+
+### 10/19 LikeCoin Discord
+
+[【作者聊天室】台東人的慢靈魂](https://www.facebook.com/Liker.Land/posts/pfbid0ThRj5YT5RbLh2KfhHTxTtBPQAHTEzH4haZrv2zVHn9FM19zQPf1m6h3s3ZkF3qEDl)
+
+### 10/1 ICT Expo
+
+[HKUST](https://www.facebook.com/Liker.Land/posts/pfbid0kUGf6udTLuuZGc9WVoCL7ntykswffw537SjKJMei1V2XDa1ZSWhV48vcxRanyjWFl)
+
+### 10/11 ⚛️ 🧪Jonabel Belz 🧪⚛️
 
 [AMA w/ LikeCoin](https://twitter.com/FrauBelz/status/1579753786180239360)
 
