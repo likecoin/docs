@@ -29,9 +29,7 @@ Send this action to switch widget to ready to accept mode.
 { action: 'INIT_WIDGET' }
 ```
 
-| Key    | Value        |   |
-| ------ | ------------ | - |
-| action | INIT\_WIDGET |   |
+<table><thead><tr><th>Key</th><th>Value</th><th data-hidden></th></tr></thead><tbody><tr><td>action</td><td>INIT_WIDGET</td><td></td></tr></tbody></table>
 
 #### Send ISCN Data
 
