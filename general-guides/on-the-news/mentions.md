@@ -2,9 +2,13 @@
 
 {% tabs %}
 {% tab title="2022" %}
-### 12/07 INSIDE
+11/01 鄒崇銘@我城的鬱悶
 
-[【你買 NFT 了嗎】走在 Web3 媒體路三年，Matters 跟張潔平想用 NFT 邁出下一步](https://www.inside.com.tw/feature/nft/25869-matters-web3-nft)
+[電子書與NFT書的互補結合](https://chowsungming.com/2022/11/01/%E9%9B%BB%E5%AD%90%E6%9B%B8%E8%88%87nft%E6%9B%B8%E7%9A%84%E4%BA%92%E8%A3%9C%E7%B5%90%E5%90%88/)
+
+### 09/28 鄒崇銘@Matters
+
+[文字作品的NFT搜集與分享](https://matters.news/@chowsungming/332179-%E6%96%87%E5%AD%97%E4%BD%9C%E5%93%81%E7%9A%84nft%E6%90%9C%E9%9B%86%E8%88%87%E5%88%86%E4%BA%AB-bafyreieo5cvg5bc2tnerozii6ptbuffbbxk4uf3ov4coy5tpm5qbcqai4i)
 
 ### 06/15 風傳媒
 
@@ -41,6 +45,10 @@
 ### 12/23 Cosmos
 
 [What’s Coming to Cosmos in 2022?](https://blog.cosmos.network/whats-coming-to-cosmos-in-2022-ce8e48d383ab)
+
+### 12/07 INSIDE
+
+[【你買 NFT 了嗎】走在 Web3 媒體路三年，Matters 跟張潔平想用 NFT 邁出下一步](https://www.inside.com.tw/feature/nft/25869-matters-web3-nft)
 
 ### 10/26 澳門日報
 
