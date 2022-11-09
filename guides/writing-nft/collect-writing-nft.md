@@ -4,9 +4,9 @@ description: 如何收集 Writing NFT
 
 # 收集 Writing NFT
 
-購買 Writing NFT 可使用 LikeCoin 付款，你也可以直接刷信用卡購買 Writing NFT。購買 LikeCoin 可參考[如何購買 LikeCoin](../trade/buy-likecoin.md) 的章節。
+購買 Writing NFT 可使用 LikeCoin 付款，你也可以直接刷信用卡購買 Writing NFT。購買 LikeCoin 可參考[如何購買 LikeCoin](../trade/buy-likecoin.md) 章節。
 
-在購買前，你需要註冊並登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/)[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker Land app](../../user-guide/liker-land/download.md)使用桌面電腦或收集 Writing NFT 同樣方便。&#x20;
+在購買前，你需要註冊並登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/)[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker Land app](../../user-guide/liker-land/download.md)用桌面電腦或收集 Writing NFT 同樣方便。&#x20;
 
 假如沒有任何加密錢包，可以先以信用卡付款購買 Writing NFT，並於設定好錢包後已購買的 Writing NFT。
 
