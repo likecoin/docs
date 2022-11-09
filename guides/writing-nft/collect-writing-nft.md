@@ -8,7 +8,7 @@ description: 如何收集 Writing NFT
 
 在購買前，你需要註冊並登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/)、[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker Land app](../../user-guide/liker-land/download.md)。使用桌面電腦或手機收集 Writing NFT 同樣方便。
 
-假如你沒有任何加密錢包，可以先以信用卡付款購買 Writing NFT，並於設定好錢包後已購買的 Writing NFT。
+假如你沒有任何加密錢包，可以先以信用卡付款購買 Writing NFT，並於註冊好錢包後接收已購買的 Writing NFT。
 
 ## 開始收集 Writing NFT
 
@@ -30,9 +30,11 @@ description: 如何收集 Writing NFT
 
 ## 沒有加密錢包並以信用卡購買 Writing NFT
 
+以下步驟桌面電腦與手機同樣適用。
+
 ### 步驟一：信用卡付款
 
-點「Pay by card (beta)」。
+在彈上視窗點點「Pay by card (beta)」。
 
 <figure><img src="../../.gitbook/assets/pay by card 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -52,7 +54,7 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../.gitbook/assets/pay by card 5.png" alt=""><figcaption></figcaption></figure>
 
-接下來你會收到另一封電郵說明 NFT 經已經發送到你的錢包。
+接下來你會收到另一封電郵說明 NFT 經已經發送到你的錢包。過程中如有任何疑問，請與 [Liker Land 客服](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)聯絡。
 
 <figure><img src="../../.gitbook/assets/pay by card 6.png" alt=""><figcaption></figcaption></figure>
 
