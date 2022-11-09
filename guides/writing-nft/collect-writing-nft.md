@@ -34,7 +34,7 @@ description: 如何收集 Writing NFT
 
 ### 步驟一：信用卡付款
 
-在彈上視窗點點「Pay by card (beta)」。
+在彈出視窗點「Pay by card (beta)」。
 
 <figure><img src="../../.gitbook/assets/pay by card 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ description: 如何收集 Writing NFT
 
 ### 步驟一：選擇登入方式
 
-彈出視窗出現 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 登入選項。
+在彈出視窗出現 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 登入選項。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 04.png" alt=""><figcaption></figcaption></figure>
 
