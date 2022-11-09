@@ -2,9 +2,9 @@
 
 {% tabs %}
 {% tab title="2022" %}
-###
+10/11 ⚛️ 🧪Jonabel Belz 🧪⚛️
 
-###
+[AMA w/ LikeCoin](https://twitter.com/FrauBelz/status/1579753786180239360)
 
 ### 09/29 LikeCoin Discord
 
