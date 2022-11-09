@@ -48,7 +48,7 @@ description: 如何收集 Writing NFT
 
 ### 步驟二：提供加密錢包地址
 
-出現 Reference code，與此同時你會收到領取 Writing NFT 的電郵。請依照指示安裝好錢包後回覆電郵並提供你的錢包地址。
+出現 Reference code，與此同時你會收到領取 Writing NFT 的電郵。請依照指示安裝好 [Keplr](../wallet/keplr/) 錢包後回覆電郵並提供你的錢包地址。
 
 <figure><img src="../../.gitbook/assets/pay by card 4.png" alt=""><figcaption></figcaption></figure>
 
