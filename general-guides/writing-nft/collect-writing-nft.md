@@ -4,13 +4,13 @@ description: How to collect Writing NFT?
 
 # Collect Writing NFT
 
-&#x20;You may pay by LikeCoin or credit card (beta).
+You can pay with LikeCoin to buy Writing NFT, or you can directly swipe your credit card to buy Writing NFT. To buy LikeCoin, please refer to the How to buy LikeCoin chapter.
 
-## Collect Writing NFT on desktop computer
+Before purchasing, you need to register and log in to [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/), [Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../user-guide/liker-land/download.md). Collecting NFT on Desktop or mobile are very easy.
 
-Collect LikeCoin Writing NFT is simple and easy. Please login your [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md) before purchasing.
+If you do not have a crypto wallet, you can purchase Writing NFT with credit card payment first, and receive the purchased Writing NFT after registering the wallet.Collect Writing NFT on desktop computer.
 
-### Step 1: Start Collecting
+## Start Collecting
 
 Go to the [campaign page](https://liker.land/campaign/writing-nft) to check out the NFT that you want to buy, and click the current NFT price to collect.
 
@@ -29,6 +29,10 @@ Also can click "Collect Now" on [NFT Widget](nft-widget.md).
 <figure><img src="../../.gitbook/assets/Buy NFT 16-en.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Choose your login method
+
+
+
+Collect LikeCoin Writing NFT is simple and easy. Please login your [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md) before purchasing.
 
 A pop-up window appears with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md) login options.
 
