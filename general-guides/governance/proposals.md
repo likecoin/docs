@@ -6,6 +6,13 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
 
+## Proposal #58 Creators Fund
+
+* Proposer: edmond
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2022.11.03, Passed on 2022.11.10
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/58](https://bigdipper.live/likecoin/proposals/58)
+
 ## Proposal #57 Renewal of Pool Incentives on Osmosis
 
 * Proposer: medium
