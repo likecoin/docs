@@ -46,7 +46,7 @@
   * [Batch upload tool](developer/iscn/batch-upload-tool.md)
   * [ISCN Badge](developer/iscn/iscn-badge.md)
   * [ISCN IPFS plugin](developer/iscn/iscn-ipfs-plugin.md)
-* [LikeNFT](developer/likenft/README.md)
+* [LikeCoin NFT](developer/likenft/README.md)
   * [LikeCoin NFT Module Spec](developer/likenft/likecoin-nft-module-spec.md)
   * [Metadata best practice](developer/likenft/metadata.md)
   * [Writing NFT Spec](developer/likenft/writing-nft.md)
