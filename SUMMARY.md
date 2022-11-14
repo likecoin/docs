@@ -18,6 +18,7 @@
   * [NFT Portal](guides/writing-nft/nft-portal.md)
   * [動態定價](guides/writing-nft/dynamic-pricing.md)
   * [NFT Portfolio](guides/writing-nft/nft-portfolio.md)
+  * [訂閱創作者](guides/writing-nft/Subscribe-to-the-creator.md)
   * [收集 Writing NFT](guides/writing-nft/collect-writing-nft.md)
   * [轉讓 Writing NFT](guides/writing-nft/transfer-writing-nft.md)
 * [去中心出版](guides/decentralized-publishing/README.md)
