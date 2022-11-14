@@ -90,6 +90,7 @@
   * [NFT Portal](general-guides/writing-nft/nft-portal.md)
   * [Dynamic Pricing](general-guides/writing-nft/dynamic-pricing.md)
   * [NFT Portfolio](general-guides/writing-nft/nft-portfolio.md)
+  * [Subscribe to the creator](general-guides/writing-nft/subscribe-to-the-creator.md)
   * [Collect Writing NFT](general-guides/writing-nft/collect-writing-nft.md)
   * [Transfer Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)
 * [Decentralized Publishing](general-guides/decentralized-publishing/README.md)
