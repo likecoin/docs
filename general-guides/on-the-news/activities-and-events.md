@@ -8,6 +8,8 @@
 
 [Video](https://www.youtube.com/watch?v=OxmndRBGuUM\&t=2918s)
 
+[The Future of Decentralized Publishing - Phoebe Poon ( Video )](https://www.youtube.com/watch?v=wMVP1Gw0UzI\&list=PLuhRWgmPaHtQ2w6a7Y-n6PP9M\_8pCvIiq)
+
 ### 10/28 Matters Discord
 
 [Web3 學習會：發布之外 — 以 NFT 為量詞的出版可能性](https://blog.like.co/zh/%E3%80%90matters-web3-%E7%B7%9A%E4%B8%8A%E5%AD%B8%E7%BF%92%E6%9C%83%E3%80%91%E7%99%BC%E5%B8%83%E4%B9%8B%E5%A4%96%EF%BC%9A%E4%BB%A5-nft-%E7%82%BA%E9%87%8F%E8%A9%9E%E7%9A%84%E5%87%BA%E7%89%88%E5%8F%AF/)
