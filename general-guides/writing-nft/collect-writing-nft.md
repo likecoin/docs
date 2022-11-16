@@ -106,7 +106,7 @@ The Collect NFT page appears, click "Pay by LIKE" to purchase Writing NFT with L
 
 #### Buy Writing NFT with Credit Card
 
-Click "Pay by card (Beta)" and the Stripe page appears, enter your e-mail and credit card information and click "Pay". The purchase price of Writing NFT in fiat currency is calculated based on the market price, exchange fee and credit card handling fee.
+Click "Pay by card" and the Stripe page appears, enter your e-mail and credit card information and click "Pay". The purchase price of Writing NFT in fiat currency is calculated based on the market price, exchange fee and credit card handling fee.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 17.png" alt=""><figcaption></figcaption></figure>
 
