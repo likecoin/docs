@@ -48,6 +48,8 @@ description: 簡單轉移沒難度
 
 彈出視窗出現 Complete! 字樣代表經已成功轉移 NFT。與此同時「Own」的數字亦會有所改變。你亦可通知收件者查看是否已收到 Writing NFT。
 
+<figure><img src="../../.gitbook/assets/NFT Transfer 4.png" alt=""><figcaption></figcaption></figure>
+
 Keplr 用戶可於 Transfer Message 欄位查看已傳送的訊息。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 8.png" alt=""><figcaption></figcaption></figure>
