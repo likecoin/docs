@@ -22,4 +22,4 @@ You will receive a confirmation email at your email address, click the link to c
 
 A pop-up window states that the creator has been successfully subscribed.
 
-<figure><img src="../../.gitbook/assets/subscribe creator 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscribe creator 3.png" alt=""><figcaption></figcaption></figure>
