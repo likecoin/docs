@@ -100,7 +100,7 @@ An Liker Land window will pop-up, click "Approve".
 
 ### Step 2: Purchase Writing NFT
 
-The Collect NFT page appears, click "Pay by LIKE" to purchase Writing NFT with LikeCoin, or click "Pay by card (Beta)" to purchase with a credit card.
+The Collect NFT page appears, click "Pay by LIKE" to purchase Writing NFT with LikeCoin, or click "Pay by card" to purchase with a credit card.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 06.png" alt=""><figcaption></figcaption></figure>
 
