@@ -108,7 +108,7 @@ description: 如何收集 Writing NFT
 
 {% embed url="https://www.youtube.com/watch?v=chZNVmZFzHU" %}
 
-在彈出視窗點「Pay by card (Beta)」後出現 Stripe 頁面，輸入電郵及信用卡資料後點「Pay」。法定貨幣購買 Writing NFT 價錢綜合市價、兌換費用及信用咭手續費計算。
+在彈出視窗點「Pay by card」後出現 Stripe 頁面，輸入電郵及信用卡資料後點「Pay」。法定貨幣購買 Writing NFT 價錢綜合市價、兌換費用及信用咭手續費計算。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 17.png" alt=""><figcaption></figcaption></figure>
 
