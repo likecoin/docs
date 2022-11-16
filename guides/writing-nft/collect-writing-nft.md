@@ -100,7 +100,7 @@ description: 如何收集 Writing NFT
 
 ### 步驟二：購買 Writing NFT
 
-出現 Collect NFT 頁面，點「Pay by LIKE」以 LikeCoin 購買 Writing NFT，又或者點「Pay by card (Beta)」以信用卡購買。
+出現 Collect NFT 頁面，點「Pay by LIKE」以 LikeCoin 購買 Writing NFT，又或者點「Pay by card」以信用卡購買。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 06.png" alt=""><figcaption></figcaption></figure>
 
