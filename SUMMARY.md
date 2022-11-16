@@ -20,7 +20,7 @@
   * [NFT Portfolio](guides/writing-nft/nft-portfolio.md)
   * [收集 Writing NFT](guides/writing-nft/collect-writing-nft.md)
   * [轉贈 Writing NFT](guides/writing-nft/transfer-writing-nft.md)
-  * [追蹤創作者](guides/writing-nft/Subscribe-to-the-creator.md)
+  * [追蹤創作者](guides/writing-nft/subscribe-to-the-creator.md)
 * [去中心出版](guides/decentralized-publishing/README.md)
   * [什麼是 ISCN?](guides/decentralized-publishing/what-is-iscn.md)
   * [ISCN 和 IPFS 的關係是什麼？](guides/decentralized-publishing/iscn-ipfs-relationship.md)
