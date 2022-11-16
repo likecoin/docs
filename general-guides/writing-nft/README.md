@@ -8,44 +8,50 @@ description: >-
 
 ![](../../.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
 
-### FAQ
+## FAQ
 
-#### What is Writing NFT?
+### What is Writing NFT?
 
 Writing NFT is the NFT of a piece of writing, literally. It can refer to articles or any type of textual content with or without illustrations.
 
-#### How to collect Writing NFT？
+### How to collect Writing NFT？
 
-Collect in [NFT Widget](nft-widget.md) embedded in the content, or at the user’s [NFT Portfolio](nft-portfolio.md) page. Readers need to install Keplr wallet and spend LikeCoin to [collect NFT](collect-writing-nft.md).
+Collect in [NFT Widget](nft-widget.md) embedded in the content, or at the user’s [NFT Portfolio](nft-portfolio.md) page. Readers need to install [Keplr wallet](../wallet/keplr/) and spend LikeCoin to [collect NFT](collect-writing-nft.md).
 
-#### How to list Writing NFT for sale?
+Users can also [purchase Writing NFT with a credit card](collect-writing-nft.md) first, and receive the NFT after installing the Keplr wallet.
+
+### How to list Writing NFT for sale?
 
 Writers can publish their works as NFTs via any platform supporting LikeCoin Writing NFT, such as WordPress website. The published NFTs are listed automatically and can be collected via NFT Widget and NFT Portfolio, with no additional work.
 
-#### On what basis the price of Writing NFT changes?
+### On what basis the price of Writing NFT changes?
 
 [The price changes dynamically based on supply and demand of the NFT](dynamic-pricing.md). Writers do not need to set the price and quantity. Readers do not need to set the bidding price too, just collect when the price feels right. The marked price will decrease when someone sell in secondary market.
 
-#### I do not have Liker ID, can I buy or sell Writing NFT?
+### I do not have Liker ID, can I buy or sell Writing NFT?
 
 Yes. Readers can buy Writing NFT, writers can mint and hence list NFT for sale, as long as they have enough LikeCoin in their Keplr wallet. Liker ID is not needed.
 
-#### Any other way to sell my Writing NFT besides by NFT Widget?
+### Any other way to sell my Writing NFT besides by NFT Widget?
 
 Yes, you can always share the link of your NFT which can be copied from NFT Portfolio page.
 
-#### Where can I check out my NFT collection?
+### Where can I check out my NFT collection?
 
-At NFT Portfolio page.
+At [NFT Portfolio](nft-portfolio.md) page.
 
-#### How to sell Writing NFT in secondary market?
+### How to sell Writing NFT in secondary market?
 
 Mark the price of your NFT for sale at NFT Portfolio page. Readers can then collect at any NFT Widget.
 
-#### How to set the quantity for sale?
+### How to set the quantity for sale?
 
 There is no upper limit in principle. However, as the marked price will increase automatically as sales goes on, the minting of NFT will stop automatically when the price reaches a point that is out of market’s expectation.
 
-#### How to transfer NFT?
+### How to transfer NFT?
 
 [Transfer](transfer-writing-nft.md) can be done at NFT Portfolio page.
+
+### How to know that there are new NFTs for sale?
+
+Use the [Subscribe to the creator](subscribe-to-the-creator.md) function.
