@@ -14,9 +14,9 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 如何購買 Writing NFT？
 
-可在 [NFT Widget](nft-widget.md) 直接收集，或在用戶的 [NFT Portfolio](nft-portfolio.md) 頁面購買。讀者需已安裝 [Keplr 錢包](../wallet/keplr/)，及花 LikeCoin [收集 NFT](collect-writing-nft.md)。
+可在 [NFT Widget](nft-widget.md) 直接收集，或在用戶的 [NFT Portfolio](nft-portfolio.md) 頁面購買。讀者需已安裝 [Keplr 錢包](../wallet/keplr/)，及花 LikeCoin 或以信用卡 [收集 NFT](collect-writing-nft.md)。
 
-用戶亦可以先[使用信用卡購買 Writing NFT](collect-writing-nft.md)，並於安裝 Keplr 錢包後收取該 NFT。
+用戶亦可以先[使用信用卡購買 Writing NFT](collect-writing-nft.md)，並於安裝 Keplr 錢包後接收該 NFT。
 
 ### 如何發售 Writing NFT？
 
@@ -40,7 +40,7 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 作品沒有安裝 NFT widget，也能發售 NFT 嗎？
 
-可在 [NFT Portal](nft-portal.md) 發行 NFT，然後在自己的 NFT Portfolio 頁面發售。
+可在 [NFT Portal](nft-portal.md) 發行 NFT，然後在自己的 [NFT Portfolio](nft-portfolio.md) 頁面發售。
 
 ### 可在哪兒查看收集了的 NFT？
 
@@ -56,7 +56,7 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 如何轉讓 NFT？
 
-可在 NFT Portfolio 頁面，[輸入對方的地址轉讓](transfer-writing-nft.md)。
+可在 NFT Portfolio 頁面，[輸入對方的錢包地址轉讓](transfer-writing-nft.md)。
 
 ### 如何第一時間接收到新 NFT 上架的消息？
 
