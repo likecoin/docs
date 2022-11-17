@@ -136,15 +136,13 @@ description: 如何收集 Writing NFT
 
 ### 步驟三：查看已購買的 Writing NFT
 
-出現 Complete!  並成功購買 Writing NFT。按 View Details 可查看電購買的 NFT 詳細內容。
+出現 Complete!  並成功購買 Writing NFT。按「View Details」可查看已購買的 NFT 詳細內容。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 15.png" alt=""><figcaption></figcaption></figure>
 
-Writing NFT ID：獨有的 ID，就算不同用戶購買相同內容 Writing NFT ID 都會有所不同。
-
-View Content：查看 Writing NFT 內容。
-
-Chain Data：展示 Writing NFT 的來源及轉手過程。
+* Writing NFT ID：每顆 NFT 獨一無二的 ID。
+* View Content：查看 Writing NFT 內容。
+* Chain Data：展示 Writing NFT 來源及轉手過程。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 19.png" alt=""><figcaption></figcaption></figure>
 
