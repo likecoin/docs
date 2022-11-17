@@ -16,7 +16,7 @@ Writing NFT is the NFT of a piece of writing, literally. It can refer to article
 
 ### How to collect Writing NFT？
 
-Collect in [NFT Widget](nft-widget.md) embedded in the content, or at the user’s [NFT Portfolio](nft-portfolio.md) page. Readers need to install [Keplr wallet](../wallet/keplr/) and spend LikeCoin to [collect NFT](collect-writing-nft.md).
+Collect in [NFT Widget](nft-widget.md) embedded in the content, or at the user’s [NFT Portfolio](nft-portfolio.md) page. Readers need to install [Keplr wallet](../wallet/keplr/) and spend LikeCoin or credit card to [collect NFT](collect-writing-nft.md).
 
 Users can also [purchase Writing NFT with a credit card](collect-writing-nft.md) first, and receive the NFT after installing the Keplr wallet.
 
@@ -42,7 +42,7 @@ At [NFT Portfolio](nft-portfolio.md) page.
 
 ### How to sell Writing NFT in secondary market?
 
-Mark the price of your NFT for sale at NFT Portfolio page. Readers can then collect at any NFT Widget.
+Mark the price of your NFT for sale at [NFT Portfolio](nft-portfolio.md) page. Readers can then collect at any [NFT Widget](nft-widget.md).
 
 ### How to set the quantity for sale?
 
@@ -50,7 +50,7 @@ There is no upper limit in principle. However, as the marked price will increase
 
 ### How to transfer NFT?
 
-[Transfer](transfer-writing-nft.md) can be done at NFT Portfolio page.
+[Transfer](transfer-writing-nft.md) can be done at NFT Portfolio page, just enter the wallet address of the receiver to transfer.
 
 ### How to know that there are new NFTs for sale?
 
