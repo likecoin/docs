@@ -4,11 +4,11 @@ description: How to collect Writing NFT?
 
 # Collect Writing NFT
 
-You can pay with LikeCoin to buy Writing NFT, or you can directly swipe your credit card to buy Writing NFT. To buy LikeCoin, please refer to the How to buy LikeCoin chapter.
+You can pay with LikeCoin to buy Writing NFT, or you can directly swipe your credit card to buy Writing NFT. To buy LikeCoin, please refer to the [How to buy LikeCoin](../trade/buy-likecoin.md) chapter.
 
 Before purchasing, you need to register and log in to [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/), [Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../user-guide/liker-land/download.md). Collecting NFT on Desktop or mobile are very easy.
 
-If you do not have a crypto wallet, you can purchase Writing NFT with credit card payment first, and receive the purchased Writing NFT after registering the wallet.Collect Writing NFT on desktop computer.
+If you do not have a crypto wallet, you can purchase Writing NFT with credit card payment first, and receive the purchased Writing NFT after registering the wallet.
 
 ## Start Collecting
 
@@ -60,7 +60,7 @@ You will receive another email saying that the NFT has been sent to your wallet.
 
 ### Step 3: Check your NFT Collection
 
-Go to "[My Dashboard](https://liker.land/dashboard)" (https://liker.land/\[wallet address]) to view the NFT that you've collected.
+Go to "[My Dashboard](https://liker.land/dashboard)" to view the NFT that you've collected.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption></figcaption></figure>
 
@@ -134,13 +134,15 @@ Click "Pay by LIKE", a signature request shows up on your phone. Click "Approve"
 
 ### Step 3: Check your NFT Collection
 
-Complete! page appears, the Writing NFT is successfully collected.
+Complete! page appears, the Writing NFT is successfully collected. Click "View Details" to view the details of the NFT purchased.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 15.png" alt=""><figcaption></figcaption></figure>
 
-Go to "[My Dashboard](https://liker.land/dashboard)" (https://liker.land/\[wallet address]) to view the NFT that you've collected.
+* Writing NFT ID: Each Writing NFT ID is unique.
+* View Content: View Writing NFT content.&#x20;
+* Chain Data: Show the creation and transfer process of the Writing NFT.
 
-<figure><img src="../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Buy NFT 19.png" alt=""><figcaption></figcaption></figure>
 
 ## **Already own a crypto wallet and collect Writing NFT on Mobile**
 
