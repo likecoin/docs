@@ -62,7 +62,7 @@ description: 使用 Leap 瀏覽器擴充功能錢包直接存入及轉帳 LikeCo
 
 ### 步驟六
 
-傳送完成後出現交易項目，點進去可查看交易明細及於 BigDipper 查看更多內容。
+傳送完成後出現交易項目，點進去可查看交易明細及於 [BigDipper](../block-explorer/big-dipper.md) 查看更多內容。
 
 <figure><img src="../../../.gitbook/assets/leap send 6.png" alt=""><figcaption></figcaption></figure>
 

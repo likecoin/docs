@@ -8,7 +8,7 @@ Web3 唯一的非託管超級錢包。使用 Leap 是傳送、互換和委託密
 
 留意用戶暫時不能使用 Leap 註冊 Liker ID。
 
-#### 請參考以下文章了解如何在桌面電腦安裝 Cosmostation Browser Extension：
+#### 請參考以下文章了解如何在桌面電腦安裝 Leap Browser Extension：
 
 {% content-ref url="how-to-install-leap-extension.md" %}
 [how-to-install-leap-extension.md](how-to-install-leap-extension.md)
