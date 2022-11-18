@@ -62,7 +62,7 @@ On the confirmation screen, check the details again then click "Send".
 
 ### Step 6
 
-After the "Send" is completed, the transaction item will appear, click on it to view the transaction details and view more information on BigDipper.
+After the "Send" is completed, the transaction item will appear, click on it to view the transaction details and view more information on [BigDipper](../block-explorer/big-dipper.md).
 
 <figure><img src="../../../.gitbook/assets/leap send 6.png" alt=""><figcaption></figcaption></figure>
 
