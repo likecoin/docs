@@ -7,25 +7,25 @@ description: >-
 
 # Community Calls
 
-### Call Link: [ http://discord.gg/likecoin](http://discord.gg/likecoin)
+## Call Link: [ http://discord.gg/likecoin](http://discord.gg/likecoin)
 
-### How to join:&#x20;
+## How to join
 
 {% content-ref url="../community/community-call.md" %}
 [community-call.md](../community/community-call.md)
 {% endcontent-ref %}
 
-### Add to your Calendar: [https://bit.ly/3c5DaTH](https://bit.ly/3c5DaTH)
+## Add to your Calendar: [https://bit.ly/3c5DaTH](https://bit.ly/3c5DaTH)
 
-### Agenda and Notes: [https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)
-
-### Questions? Join our [Discord](http://discord.gg/likecoin) for help.
+## Questions? Join our [Discord](http://discord.gg/likecoin) for help.
 
 ## **2022 Date & Schedule**
 
 | **Date**            | **Description**                                                                |
 | ------------------- | ------------------------------------------------------------------------------ |
-| Monday, 3 October   |                                                                                |
+| Monday, 5 December  |                                                                                |
+| Monday, 7 November  | IPFS Camp 2022, LikeCoin chain Dragonberry patch                               |
+| Monday, 3 October   | New Wallet and Osmosis incentives                                              |
 | Monday, 5 September | Writing NFT Progress and Roadmap                                               |
 | Monday, 1 August    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
 | Monday, 4 July      | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
