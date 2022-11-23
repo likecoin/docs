@@ -14,7 +14,7 @@ For the date and content of the meeting, please refer to:
 
 Participating in the community call is simple:
 
-1\. Go to the #Communty Call channel on the LikeCoin Discord.
+1\. Go to the #Communty Call channel on the [LikeCoin Discord](https://discord.gg/likecoin) and join the call.
 
 ![](<../../.gitbook/assets/Community Call 1.png>)
 
@@ -30,4 +30,4 @@ Participating in the community call is simple:
 
 ![](<../../.gitbook/assets/Community Call 4.png>)
 
-5\. You can also follow up on various issues in the #community-call-discussion channel.
+5\. You can also follow up on various issues in the #community-call-discussion channel. If you cannot see the channel please go to the #verify channel and get started.
