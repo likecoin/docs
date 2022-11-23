@@ -14,7 +14,7 @@ description: 如何參與每月社群治理會議
 
 參與會議的方法很簡單：
 
-1\. 到 LikeCoin Discord 點 #Communty Call 頻道。
+1\. 到 LikeCoin Discord 點 #Communty Call 頻道參與會議。
 
 ![](<../../.gitbook/assets/Community Call 1.png>)
 
@@ -30,4 +30,4 @@ description: 如何參與每月社群治理會議
 
 ![](<../../.gitbook/assets/Community Call 4.png>)
 
-5\. 亦可在 #community-call-discussion 頻道跟進各項事宜。如看不到頻道請先到 #verify 頻道進行認證。
+5\. 會議完結後亦可在 #community-call-discussion 頻道跟進各項事宜。如看不到頻道請先到 #verify 頻道進行認證。

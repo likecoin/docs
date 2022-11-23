@@ -16,7 +16,7 @@ description: 想與更多用戶聯繫分享經驗，有渠道嗎？
 
 ## 步驟 2
 
-到 #select-roles 頻道點擊 emoji 選擇關注的議題選擇身份組。
+到 #select-roles 頻道點擊 emoji 選擇關注的議題。
 
 <figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption></figcaption></figure>
 
