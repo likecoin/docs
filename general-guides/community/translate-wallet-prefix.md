@@ -8,6 +8,6 @@ LikeCoin chain was successfully upgraded to the LaiChiKok version on May 4, 2022
 
 1\. Enter #translate-wallet-prefix channel. If you cannot see the channel please go to the #verify channel and get started.
 
-2\. Enter "/translate cosmosxxxxxx" to get the new address. Or vice versa, to get the corresponding old address by entering "/translate likexxxxxx".
+2\. Enter "/translate cosmo1sxxxxxx" to get the new address. Or vice versa, to get the corresponding old address by entering "/translate like1xxxxxx".
 
 ![](../../.gitbook/assets/translate-wallet-prefix.png)
