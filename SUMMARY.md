@@ -12,6 +12,7 @@
   * [#LikeCoin AMA](guides/community/likecoin-ama.md)
   * [#translate-wallet-prefix](guides/community/translate-wallet-prefix.md)
   * [#faucet-test](guides/community/faucet-test.md)
+  * [#open-a-ticket](guides/community/open-a-ticket.md)
 * [Writing NFT](guides/writing-nft/README.md)
   * [NFT Widget](guides/writing-nft/nft-widget.md)
   * [Writing NFT WordPress 外掛](guides/writing-nft/writing-nft-wordpress-plugin.md)
