@@ -21,5 +21,3 @@ description: 如何參與 LikeCoin AMA
 4\. 在會議時可輸入文字內容聊天。
 
 <figure><img src="../../.gitbook/assets/LikeCoin AMA 2.png" alt=""><figcaption></figcaption></figure>
-
-5\. 亦可在中文頻道下的 #AMA頻道跟進各項事宜。

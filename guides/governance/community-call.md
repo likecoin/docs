@@ -4,25 +4,29 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 # 社群治理會議
 
-### 會議連結：[http://discord.gg/likecoin](http://discord.gg/likecoin)
+## 會議連結：[http://discord.gg/likecoin](http://discord.gg/likecoin)
 
-### 如何參與：
+## 如何參與
 
 {% content-ref url="../community/community-call.md" %}
 [community-call.md](../community/community-call.md)
 {% endcontent-ref %}
 
-### 把會議加入你的行事曆：[https://bit.ly/3c5DaTH](https://bit.ly/3c5DaTH)
+## 把會議加入你的行事曆：[https://bit.ly/3c5DaTH](https://bit.ly/3c5DaTH)
 
-### 議程及筆記：[https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13](https://www.notion.so/likecoin/Community-meeting-a708391ee0be4f84bc938b34e918da13)
+## 有問題嗎？請參與 [Discord](http://discord.gg/likecoin) 頻道尋求幫助。
 
-### 有問題嗎？請參與 [Discord](http://discord.gg/likecoin) 頻道尋求幫助。
+## 常規會議 <a href="#monthly" id="monthly"></a>
+
+LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，主要使用英語。
 
 ## **2022 日期及議程**
 
 | **日期**    | **描述**                                                                        |
 | --------- | ----------------------------------------------------------------------------- |
-| 星期一，10月3日 |                                                                               |
+| 星期一，12月5日 |                                                                               |
+| 星期一，11月7日 | IPFS Camp 2022, LikeCoin chain Dragonberry patch                              |
+| 星期一，10月3日 | New Wallet and Osmosis incentives                                             |
 | 星期一，9月5日  | Writing NFT Progress and Roadmap                                              |
 | 星期一，8月1日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
 | 星期一，7月4日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
@@ -45,10 +49,6 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 | 多倫多    | 06:00:00 | EDT    | UTC-4      |
 
 ![](../../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
-
-## 常規會議 <a href="#monthly" id="monthly"></a>
-
-LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，主要使用英語。
 
 ## 會議記錄 <a href="#minutes" id="minutes"></a>
 
