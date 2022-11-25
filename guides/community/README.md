@@ -33,6 +33,7 @@ description: 想與更多用戶聯繫分享經驗，有渠道嗎？
 * [#translate-wallet-prefix](translate-wallet-prefix.md)－雙向查詢新舊前綴錢包地址
 * [#faucet-test](faucet-test.md)－獲取少量 LikeCoin 在 testnet 試用各種功能
 * [#open-a-ticket](open-a-ticket.md) - 使用 Discord 客服工具私訊管理員
+* [Share to DePub](../../user-guide/depub.space/from-likecoin-discord-to-depub.space.md) - 從 LikeCoin Discord 推文到 [depub.space](https://depub.space/)
 
 ## LikeCoin Discord 使用教學（廣東話）
 
