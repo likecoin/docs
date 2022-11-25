@@ -6,8 +6,8 @@ description: 有什麼條件？
 
 驗證人完全開放，參選免入閘免審查，任何人都能架起伺服器做驗證人。
 
-{% content-ref url="../guides/governance/" %}
-[governance](../guides/governance/)
+{% content-ref url="../general-guides/governance/" %}
+[governance](../general-guides/governance/)
 {% endcontent-ref %}
 
 關於 LikeCoin chain 驗證人設定，請參考 [Validator Technical Introduction](https://likecoin.gitbook.io/validator/become-a-validator) 及&#x20;[LikeCoin chain node](https://docs.like.co/likecoin-chain-node)。

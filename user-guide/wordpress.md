@@ -11,7 +11,7 @@ description: 如何在自架 WordPress 加入 NFT Widget，出版 WordPress 作�
 * 一鍵發佈文章到 LikeCoin 並儲存於 IPFS 及 Arweave
 * 以 LikeCoin 一筆過支付內容上鏈及分散式儲存費用
 
-此 plugin 更支援進一步[鑄造 Writing NFT](../guides/writing-nft/writing-nft-wordpress-plugin.md) 並售賣給讀者，實現完整的分散式出版。
+此 plugin 更支援進一步[鑄造 Writing NFT](../general-guides/writing-nft/writing-nft-wordpress-plugin.md) 並售賣給讀者，實現完整的分散式出版。
 
 ## 安裝 LikeCoin 外掛 <a href="#installation" id="installation"></a>
 
@@ -91,10 +91,10 @@ description: 如何在自架 WordPress 加入 NFT Widget，出版 WordPress 作�
 
 ## 把 WordPress 文章出版成 Writing NFT
 
-{% content-ref url="../guides/writing-nft/writing-nft-wordpress-plugin.md" %}
-[writing-nft-wordpress-plugin.md](../guides/writing-nft/writing-nft-wordpress-plugin.md)
+{% content-ref url="../general-guides/writing-nft/writing-nft-wordpress-plugin.md" %}
+[writing-nft-wordpress-plugin.md](../general-guides/writing-nft/writing-nft-wordpress-plugin.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
-使用 Writing NFT plug-in 出版 Writing NFT 後，[NFT Widget](../guides/writing-nft/nft-widget.md) 自動在文章下方顯示。已安裝 Writing NFT plug-in 但沒有為文章鑄造 Writing NFT 則顯示 [LikeCoin button 讚賞鍵](creator/)。
+使用 Writing NFT plug-in 出版 Writing NFT 後，[NFT Widget](../general-guides/writing-nft/nft-widget.md) 自動在文章下方顯示。已安裝 Writing NFT plug-in 但沒有為文章鑄造 Writing NFT 則顯示 [LikeCoin button 讚賞鍵](creator/)。
 {% endhint %}

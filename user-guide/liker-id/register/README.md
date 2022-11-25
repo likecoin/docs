@@ -50,6 +50,6 @@ Liker Land 手機應用程式使用 Authcore 登入。什麼是 Authcore？[請�
 
 ## 使用指南
 
-{% content-ref url="../../../guides/wallet/like-pay.md" %}
-[like-pay.md](../../../guides/wallet/like-pay.md)
+{% content-ref url="../../../general-guides/wallet/like-pay.md" %}
+[like-pay.md](../../../general-guides/wallet/like-pay.md)
 {% endcontent-ref %}

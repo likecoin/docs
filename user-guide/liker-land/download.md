@@ -22,7 +22,7 @@ description: 要去哪裏下載 Liker Land？
 
 ### 選項一：My Dashboard
 
-連接用戶的 [NFT Portfolio](../../guides/writing-nft/nft-portfolio.md) 頁面。‌
+連接用戶的 [NFT Portfolio](../../general-guides/writing-nft/nft-portfolio.md) 頁面。‌
 
 ### 選項二：Civic Liker 讚賞公民
 

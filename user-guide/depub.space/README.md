@@ -4,7 +4,7 @@ description: Web3 去中心化 Twitter
 
 # depub.space
 
-[depub.space](https://depub.space/) 是 Web3 去中心化 Twitter，只需要付出少量 LikeCoin 就可直接將文字及圖片 “DePub”（去中心出版）至 IPFS 及區塊鏈，非常方便。用戶可以使用 [Keplr](../../guides/wallet/keplr/)、[Cosmostation 瀏覽器錢包](../../guides/wallet/cosmostation/)及 [Liker Land app](../liker-land/download.md) 經 Wallet Connect 接駁 depub.space 直接發文。
+[depub.space](https://depub.space/) 是 Web3 去中心化 Twitter，只需要付出少量 LikeCoin 就可直接將文字及圖片 “DePub”（去中心出版）至 IPFS 及區塊鏈，非常方便。用戶可以使用 [Keplr](../../general-guides/wallet/keplr/)、[Cosmostation 瀏覽器錢包](../../general-guides/wallet/cosmostation/)及 [Liker Land app](../liker-land/download.md) 經 Wallet Connect 接駁 depub.space 直接發文。
 
 此外[讚賞公民](../civic-liker/)按 [Super Like](../liker-land/superlike.md) 可自動推文到 depub.space。
 
@@ -14,7 +14,7 @@ description: Web3 去中心化 Twitter
 
 ### 步驟一
 
-請先登入 [Keplr Browser Extension](../../guides/wallet/keplr/)，並到 [depub.space](https://depub.space/) 網站左下角點「Connect Wallet」。
+請先登入 [Keplr Browser Extension](../../general-guides/wallet/keplr/)，並到 [depub.space](https://depub.space/) 網站左下角點「Connect Wallet」。
 
 ![](<../../.gitbook/assets/depub.space 1.png>)
 
@@ -54,7 +54,7 @@ description: Web3 去中心化 Twitter
 
 ### 步驟一
 
-請先登入 [Cosmostation Browser Extension](../../guides/wallet/cosmostation/)，並到 [depub.space](https://depub.space/) 網站左下角點「Connect Wallet」。
+請先登入 [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/)，並到 [depub.space](https://depub.space/) 網站左下角點「Connect Wallet」。
 
 ![](<../../.gitbook/assets/depub.space 1.png>)
 

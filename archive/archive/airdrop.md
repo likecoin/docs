@@ -12,10 +12,10 @@ description: 如何領取 LikeCoin 空投？
 
 領取 LikeCoin 空投需要進行 4 項任務，包括：
 
-* \#1 [Manage LikeCoin / 管理你的 LikeCoin](../../guides/wallet/)
+* \#1 [Manage LikeCoin / 管理你的 LikeCoin](../../general-guides/wallet/)
 * \#2 [Decentralize Tweeting / 去中心推文](../../user-guide/depub.space/)
-* \#3 [Stake LikeCoin / 委託 LikeCoin](../../guides/stake/delegation-of-likecoin.md)
-* \#4 [Vote on LikeCoin DAO 在 / LikeCoin DAO 進行投票](../../guides/governance/direct-vote.md)
+* \#3 [Stake LikeCoin / 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin.md)
+* \#4 [Vote on LikeCoin DAO 在 / LikeCoin DAO 進行投票](../../general-guides/governance/direct-vote.md)
 
 ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker ID](../../user-guide/liker-id/register-with-keplr.md) 的用戶可全程直接使用桌面電腦領取空投。
 
@@ -71,7 +71,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 #### Manage LikeCoin 管理 LikeCoin
 
-你可以通過 [Keplr](../../user-guide/liker-id/register-with-keplr.md) 或 [Liker Land app](../../user-guide/liker-id/register/) 管理你的 LikeCoin。 你可以使用 LIKE [去中心出版 DePub](../../guides/decentralized-publishing/)，在交易所[交易](../../guides/trade/)、[委託](../../guides/stake/)獲得獎勵、[投票](../../guides/governance/direct-vote.md)參與治理及[獎勵創作者](../../user-guide/liker-land/like.md)。
+你可以通過 [Keplr](../../user-guide/liker-id/register-with-keplr.md) 或 [Liker Land app](../../user-guide/liker-id/register/) 管理你的 LikeCoin。 你可以使用 LIKE [去中心出版 DePub](../../general-guides/decentralized-publishing/)，在交易所[交易](../../general-guides/trade/)、[委託](../../general-guides/stake/)獲得獎勵、[投票](../../general-guides/governance/direct-vote.md)參與治理及[獎勵創作者](../../user-guide/liker-land/like.md)。
 
 ![](<../../.gitbook/assets/Airdrop 05.png>)
 
@@ -79,7 +79,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 #### Check your LIKE balance 查看 LIKE 餘額&#x20;
 
-完成此任務後查看你的 LikeCoin 餘額。 如果使用 Keplr，請嘗試在 [Osmosis](../../guides/liquidity/osmosis.md) 上使用 LIKE 進行交易並為激勵流動性池作出貢獻。毌須 KYC。
+完成此任務後查看你的 LikeCoin 餘額。 如果使用 Keplr，請嘗試在 [Osmosis](../../general-guides/liquidity/osmosis.md) 上使用 LIKE 進行交易並為激勵流動性池作出貢獻。毌須 KYC。
 
 歡迎加入，Liker！
 
@@ -105,7 +105,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 #### Decentralize Tweeting 去中心推文
 
-LikeCoin [去中心出版](../../guides/decentralized-publishing/)。 通過在鏈出版永久擁有你的內容，直接獲得讀者獎勵。 LikeCoin 是一種能讓你構建去中心 Twitter、Instagram、博客等 DApps 的技術協議。
+LikeCoin [去中心出版](../../general-guides/decentralized-publishing/)。 通過在鏈出版永久擁有你的內容，直接獲得讀者獎勵。 LikeCoin 是一種能讓你構建去中心 Twitter、Instagram、博客等 DApps 的技術協議。
 
 ![](<../../.gitbook/assets/Airdrop 11.png>)
 
@@ -113,7 +113,7 @@ LikeCoin [去中心出版](../../guides/decentralized-publishing/)。 通過在�
 
 #### Decentralzed Twitter 去中心推特
 
-鏈上原生，預設尊重私隱。到 [https://depub.space/](https://depub.space/)，一個在 IPFS 上運行的去中心推特。與 Keplr 或 Wallet Connect 連接發佈任何內容。 該推文將以獨有的 [ISCN ( International Standard Content Number )](../../guides/decentralized-publishing/what-is-iscn.md) 發佈到 LikeCoin chain。 你的錢包裡需要預留少量 LIKE 支付 [Gas Fee 手續費](../../guides/wallet/transaction-fee.md)。
+鏈上原生，預設尊重私隱。到 [https://depub.space/](https://depub.space/)，一個在 IPFS 上運行的去中心推特。與 Keplr 或 Wallet Connect 連接發佈任何內容。 該推文將以獨有的 [ISCN ( International Standard Content Number )](../../general-guides/decentralized-publishing/what-is-iscn.md) 發佈到 LikeCoin chain。 你的錢包裡需要預留少量 LIKE 支付 [Gas Fee 手續費](../../general-guides/wallet/transaction-fee.md)。
 
 ![](<../../.gitbook/assets/Airdrop 12.png>)
 
@@ -137,14 +137,14 @@ LikeCoin [去中心出版](../../guides/decentralized-publishing/)。 通過在�
 
 #### Stake LikeCoin 委託 LikeCoin
 
-到 [https://dao.like.co/validators](https://dao.like.co/validators) 並連接 [Keplr](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/)。 將任何數量的 LikeCoin [委託](../../guides/stake/)給「Validators」頁面中至少一位[驗證人](../../guides/governance/what-is-a-validator/)。
+到 [https://dao.like.co/validators](https://dao.like.co/validators) 並連接 [Keplr](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/)。 將任何數量的 LikeCoin [委託](../../general-guides/stake/)給「Validators」頁面中至少一位[驗證人](../../general-guides/governance/what-is-a-validator/)。
 
 ![](<../../.gitbook/assets/Airdrop 14.png>)
 
-點「Stake now」[委託 LikeCoin](../../guides/stake/delegation-of-likecoin.md)，完成後點「Done」領取 25% 空投。更多委託教學請參看：
+點「Stake now」[委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin.md)，完成後點「Done」領取 25% 空投。更多委託教學請參看：
 
-{% content-ref url="../../guides/stake/delegation-of-likecoin.md" %}
-[delegation-of-likecoin.md](../../guides/stake/delegation-of-likecoin.md)
+{% content-ref url="../../general-guides/stake/delegation-of-likecoin.md" %}
+[delegation-of-likecoin.md](../../general-guides/stake/delegation-of-likecoin.md)
 {% endcontent-ref %}
 
 ## #4 在 LikeCoin DAO 進行投票
@@ -153,7 +153,7 @@ LikeCoin [去中心出版](../../guides/decentralized-publishing/)。 通過在�
 
 #### LikeCoin DAO
 
-LikeCoin 是一個由對內容充滿熱情的創作者及讀者組成的社群。 社群由[流動民主](../../guides/governance/liquid-democracy.md)管理，每個特份者都可以提出議案及投票。 去年通過了 30 多項議案以決定如何使用資源、制定什麼政策以及誰人應該是人民代表。
+LikeCoin 是一個由對內容充滿熱情的創作者及讀者組成的社群。 社群由[流動民主](../../general-guides/governance/liquid-democracy.md)管理，每個特份者都可以提出議案及投票。 去年通過了 30 多項議案以決定如何使用資源、制定什麼政策以及誰人應該是人民代表。
 
 歡迎來到 LikeCoin DAO。
 
@@ -169,8 +169,8 @@ LikeCoin 是一個由對內容充滿熱情的創作者及讀者組成的社群�
 
 點「Vote now」在 [dao.like.co](https://dao.like.co/) 投票，完成後點「Done」領取 25% 空投。更多投票教學請參看：
 
-{% content-ref url="../../guides/governance/direct-vote.md" %}
-[direct-vote.md](../../guides/governance/direct-vote.md)
+{% content-ref url="../../general-guides/governance/direct-vote.md" %}
+[direct-vote.md](../../general-guides/governance/direct-vote.md)
 {% endcontent-ref %}
 
 ## 完成領取空投

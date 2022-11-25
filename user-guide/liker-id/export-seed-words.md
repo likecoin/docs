@@ -44,14 +44,14 @@ description: Liker Land app 錢包終於可以導出助記詞
 
 接下來你可以將助記詞導入 Keplr, Cosmostation 或其他支援 Cosmos 生態系統的錢包：
 
-{% content-ref url="../../guides/wallet/keplr/import-wallet-into-keplr.md" %}
-[import-wallet-into-keplr.md](../../guides/wallet/keplr/import-wallet-into-keplr.md)
+{% content-ref url="../../general-guides/wallet/keplr/import-wallet-into-keplr.md" %}
+[import-wallet-into-keplr.md](../../general-guides/wallet/keplr/import-wallet-into-keplr.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../guides/wallet/cosmostation/import-wallet-into-cosmostation.md" %}
-[import-wallet-into-cosmostation.md](../../guides/wallet/cosmostation/import-wallet-into-cosmostation.md)
+{% content-ref url="../../general-guides/wallet/cosmostation/import-wallet-into-cosmostation.md" %}
+[import-wallet-into-cosmostation.md](../../general-guides/wallet/cosmostation/import-wallet-into-cosmostation.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../guides/wallet/cosmostation-mobile/import-wallet-into-cosmostation-app.md" %}
-[import-wallet-into-cosmostation-app.md](../../guides/wallet/cosmostation-mobile/import-wallet-into-cosmostation-app.md)
+{% content-ref url="../../general-guides/wallet/cosmostation-mobile/import-wallet-into-cosmostation-app.md" %}
+[import-wallet-into-cosmostation-app.md](../../general-guides/wallet/cosmostation-mobile/import-wallet-into-cosmostation-app.md)
 {% endcontent-ref %}

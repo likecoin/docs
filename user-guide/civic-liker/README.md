@@ -40,7 +40,7 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 ### 成為持份者，參與 LikeCoin DAO
 
-委託了的 LikeCoin 代表投票權，可直接參與 [LikeCoin DAO 議案投票](../../guides/governance/direct-vote.md)。委託的 LikeCoin 愈多，投票權也愈大。
+委託了的 LikeCoin 代表投票權，可直接參與 [LikeCoin DAO 議案投票](../../general-guides/governance/direct-vote.md)。委託的 LikeCoin 愈多，投票權也愈大。
 
 ### 鼓勵開放多元&#xD;
 

@@ -34,7 +34,7 @@ description: 對讚賞公民 Web3 有問題嗎？可以在這兒找答案
 
 **7. 如何購入 LikeCoin ？**
 
-欲成為讚賞公民，必先得購入 LikeCoin。[Osmosis](../../guides/trade/trade-in-osmosis.md) 是目前流通量最高的去中心交易所，你可以使用超過 30 多種密碼貨幣換得 LikeCoin。更多詳情請參閱[購買 LikeCoin](../../guides/trade/buy-likecoin.md)。
+欲成為讚賞公民，必先得購入 LikeCoin。[Osmosis](../../general-guides/trade/trade-in-osmosis.md) 是目前流通量最高的去中心交易所，你可以使用超過 30 多種密碼貨幣換得 LikeCoin。更多詳情請參閱[購買 LikeCoin](../../general-guides/trade/buy-likecoin.md)。
 
 **8. 如何取消讚賞公民會籍？**
 
@@ -60,8 +60,8 @@ Liker Land 不會以驗證人身份投票，但會鼓勵委托了的讚賞公民
 
 委託回報來自 LikeCoin 的增發機制，目的是奬勵有份出力維護 LikeCoin 網絡的節點和委託者。LikeCoin 使用的是典型 Bonded Proof of Stake 機制，邏輯和參數承襲自 Cosmos SDK。
 
-有關委託回報的詳細解說，可[參考此文](../../guides/stake/where-comes-the-likecoin-rewards.md)。
+有關委託回報的詳細解說，可[參考此文](../../general-guides/stake/where-comes-the-likecoin-rewards.md)。
 
 **14. 想直接付款支持創者，可以怎樣？**
 
-可直接轉帳 LikeCoin 至作者戶口。轉帳方法請[參考此文章](../../guides/wallet/like-pay.md)。
+可直接轉帳 LikeCoin 至作者戶口。轉帳方法請[參考此文章](../../general-guides/wallet/like-pay.md)。

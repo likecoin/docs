@@ -12,4 +12,4 @@ description: 「化讚為賞」的去中心讚賞如何運作？
 
 此外，創作者可以隨時到 Liker Land 手機應用程式[查看每週、每天、每篇文章所獲得的讚賞成就](../creatortools/rewards.md)。每月亦會收到來自 Liker Land 的[每月報告](../creatortools/monthly-report.md)，了解當月已獲得的 LikeCoin 數量。
 
-讀者也可以直接以 [LIKE pay](../../guides/wallet/like-pay.md) 送贈 LikeCoin 支持作者。
+讀者也可以直接以 [LIKE pay](../../general-guides/wallet/like-pay.md) 送贈 LikeCoin 支持作者。

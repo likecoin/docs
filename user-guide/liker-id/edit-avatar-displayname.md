@@ -8,7 +8,7 @@ description: 讓自己的性格更特出
 
 ### 網頁版
 
-在 [Liker Land](https://liker.land/) 登入 [Keplr Browser Extension](../../guides/wallet/keplr/) 後，點 Settings。
+在 [Liker Land](https://liker.land/) 登入 [Keplr Browser Extension](../../general-guides/wallet/keplr/) 後，點 Settings。
 
 <figure><img src="../../.gitbook/assets/Settings.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,8 +32,8 @@ description: 讓自己的性格更特出
 
 ### NFT Portfolio
 
-{% content-ref url="../../guides/writing-nft/nft-portfolio.md" %}
-[nft-portfolio.md](../../guides/writing-nft/nft-portfolio.md)
+{% content-ref url="../../general-guides/writing-nft/nft-portfolio.md" %}
+[nft-portfolio.md](../../general-guides/writing-nft/nft-portfolio.md)
 {% endcontent-ref %}
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
@@ -56,8 +56,8 @@ description: 讓自己的性格更特出
 
 ### LIKE pay
 
-{% content-ref url="../../guides/wallet/like-pay.md" %}
-[like-pay.md](../../guides/wallet/like-pay.md)
+{% content-ref url="../../general-guides/wallet/like-pay.md" %}
+[like-pay.md](../../general-guides/wallet/like-pay.md)
 {% endcontent-ref %}
 
 ![](<../../.gitbook/assets/Settings 04.png>)

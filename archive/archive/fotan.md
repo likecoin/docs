@@ -8,7 +8,7 @@ description: 是次升級對 Liker 有甚麼影響？
 2022/06/14 存檔。資訊已過期。
 {% endhint %}
 
-LikeCoin chain 經已於 2021年8月18日 19:45 GMT+8 晚上升級主鏈由 SheungWan 到 FoTan 版本，並支援 [ISCN ( International Standard Content Number )](../../guides/decentralized-publishing/what-is-iscn.md) 內容註冊及 IBC ( Inter Blockchain Communication ) 以支援跨鏈交易等多項重要功能。當天驗證人於 Google Meet 同步進行升級。升級進行期間 Liker Land 所有操作暫停。
+LikeCoin chain 經已於 2021年8月18日 19:45 GMT+8 晚上升級主鏈由 SheungWan 到 FoTan 版本，並支援 [ISCN ( International Standard Content Number )](../../general-guides/decentralized-publishing/what-is-iscn.md) 內容註冊及 IBC ( Inter Blockchain Communication ) 以支援跨鏈交易等多項重要功能。當天驗證人於 Google Meet 同步進行升級。升級進行期間 Liker Land 所有操作暫停。
 
 你對這次升級有疑問嗎？不妨參考以下常見問題。
 
@@ -40,11 +40,11 @@ LikeCoin chain 經已於 2021年8月18日 19:45 GMT+8 晚上升級主鏈由 Sheu
 
 ### 升級期間我可以交易 LikeCoin 嗎？
 
-所有支援 LikeCoin 的[交易所](../../guides/trade/)將於 8月18日 停止 LIKE 的充值與提現，並於升級完成後回復，詳情請留意相關交易所公告。
+所有支援 LikeCoin 的[交易所](../../general-guides/trade/)將於 8月18日 停止 LIKE 的充值與提現，並於升級完成後回復，詳情請留意相關交易所公告。
 
 ### 我的 LikeCoin ERC-20 在是次升級後會有影響嗎？
 
-LikeCoin [ERC-20 升級](../../guides/wallet/migration/)到 LikeCoin chain 的方式維持不變，然而我們建議你盡快進行升級。
+LikeCoin [ERC-20 升級](../../general-guides/wallet/migration/)到 LikeCoin chain 的方式維持不變，然而我們建議你盡快進行升級。
 
 ### 假如發現升級後的我 Liker ID 帳戶有問題，可以怎樣做？
 

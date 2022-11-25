@@ -22,7 +22,7 @@ description: 贊助創作者方法非常簡單
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../guides/wallet/keplr/)、[Cosmostation Browser Extension](../../guides/wallet/cosmostation/) 或 [Authcore](../liker-id/register/) 登入已連結了 Liker ID 的錢包。
+到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../general-guides/wallet/keplr/)、[Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/) 或 [Authcore](../liker-id/register/) 登入已連結了 Liker ID 的錢包。
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
@@ -66,12 +66,12 @@ description: 贊助創作者方法非常簡單
 
 ## 使用 Liker Land app 委託成為讚賞公民
 
-步驟詳見[使用 Liker Land app 委託 LikeCoin](../../guides/stake/delegation-of-likecoin.md#delegate-via-liker-land) 章節，選取名稱為 Civic Liker 讚賞公民節點進行委託即可。
+步驟詳見[使用 Liker Land app 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin.md#delegate-via-liker-land) 章節，選取名稱為 Civic Liker 讚賞公民節點進行委託即可。
 
 {% hint style="success" %}
 滿足委託條件後，讚賞公民身份將於 24小時內生效。
 {% endhint %}
 
 {% hint style="warning" %}
-假如用戶經已委託了給別的驗證人，請善用[轉移委託](../../guides/stake/redelegation-of-likecoin.md)，而不是取回委託功能，否則需要等待 21 天冷卻期方可重新動用資金。
+假如用戶經已委託了給別的驗證人，請善用[轉移委託](../../general-guides/stake/redelegation-of-likecoin.md)，而不是取回委託功能，否則需要等待 21 天冷卻期方可重新動用資金。
 {% endhint %}
