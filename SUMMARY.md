@@ -11,7 +11,7 @@
   * [#Community Call](general-guides/community/community-call.md)
   * [#LikeCoin AMA](general-guides/community/likecoin-ama.md)
   * [#translate-wallet-prefix](general-guides/community/translate-wallet-prefix.md)
-  * [#faucet-test](general-guides/community/faucet-test.md)
+  * [#faucet-test](general-guides/community/faucet-testnet.md)
   * [#open-a-ticket](general-guides/community/open-a-ticket.md)
 * [Writing NFT](general-guides/writing-nft/README.md)
   * [NFT Widget](general-guides/writing-nft/nft-widget.md)

@@ -38,6 +38,6 @@ Cosmostation 彈出視窗，點「Confirm」。
 
 ## 測試網水龍頭
 
-{% content-ref url="community/faucet-test.md" %}
-[faucet-test.md](community/faucet-test.md)
+{% content-ref url="community/faucet-testnet.md" %}
+[faucet-testnet.md](community/faucet-testnet.md)
 {% endcontent-ref %}
