@@ -151,7 +151,7 @@
   * [Redelegation of LikeCoin](general-guides/stake/redelegation-of-likecoin.md)
   * [Where comes the LikeCoin rewards?](general-guides/stake/where-comes-the-likecoin-rewards.md)
 * [Governance](general-guides/governance/README.md)
-  * [Community Calls](general-guides/governance/community-call.md)
+  * [Community Call](general-guides/governance/community-call.md)
   * [LikeCoin chain](general-guides/governance/likecoin-chain.md)
   * [Liquid Democracy](general-guides/governance/liquid-democracy.md)
   * [Proposal Deposit](general-guides/governance/proposal-deposit.md)
