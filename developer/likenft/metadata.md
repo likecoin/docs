@@ -2,7 +2,7 @@
 
 ## NFT class and instance metadata reference
 
-No metadata standard is explicitly enforced for LikeCoin NFT. Users and dapp developers can take reference of the OpenSea standard: [https://docs.opensea.io/docs/contract-level-metadata](https://docs.opensea.io/docs/contract-level-metadata)
+No metadata standard is explicitly enforced for LikeCoin NFT. Users and dapp developers can take reference of the OpenSea standard: [https://docs.opensea.io/docs/metadata-standards](https://docs.opensea.io/docs/metadata-standards)
 
 ## NFT Meta Collection for classes
 
