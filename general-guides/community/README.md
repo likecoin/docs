@@ -33,3 +33,4 @@ Moreover users can utilize the following functions on LikeCoin Discord:
 * [#translate-wallet-prefix](translate-wallet-prefix.md) - Bilaterally check the old and new LikeCoin wallet address prefix
 * [#faucet-test](faucet-testnet.md) - Get a small amount of LikeCoin for testing on testnet
 * [#open-a-ticket](open-a-ticket.md) - Get help privately using the Discord support tool
+* [Share to DePub](../../user-guide/depub.space/from-likecoin-discord-to-depub.space.md) - Share tweet from From LikeCoin Discord to depub.space
