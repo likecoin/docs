@@ -2,7 +2,7 @@
 description: 獲取少量 LikeCoin 在 testnet 試用各種功能
 ---
 
-# #faucet-test
+# #faucet-testnet
 
 LikeCoin Testnet 用戶可於 #faucet-test 獲取少量 LikeCoin 在 testnet 試用各種功能。
 
