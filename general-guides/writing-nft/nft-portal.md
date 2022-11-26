@@ -6,9 +6,9 @@ description: 把任何網頁文章內容出版成 NFT
 
 若作者不是使用 WordPress 網站。
 
-**方法一：**可到 **** [**NFT Portal**](https://app.like.co/nft/url) 網站貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統成為 ISCN 並生成 NFT
+**選擇一：**可到 **** [**NFT Portal**](https://app.like.co/nft/url) 網站貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統成為 ISCN 並生成 NFT
 
-**方法二**：將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../decentralized-publishing/app.like.co.md)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 生成 NFT
+**選擇二**：將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../decentralized-publishing/app.like.co.md)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 生成 NFT
 
 出版 Writing NFT 後可以 iframe 的方式把 [NFT Widget](nft-widget.md) 嵌入文章，但需手動把 Portal 生成的 ISCN 填作 widget 的參數，詳見 [LikeCoin button 讚賞鍵](../../user-guide/creator/)章節。
 
@@ -51,7 +51,7 @@ description: 把任何網頁文章內容出版成 NFT
 {% hint style="info" %}
 留意如果將網址直接以這個方法註冊 ISCN 並出版 Writing NFT，系統會自動抓取文章標題及內容作為元資料。
 
-**如希望作品擁有詳盡元資料，請先** [**註冊 ISCN**](../decentralized-publishing/app.like.co.md) **再 以** [**ISCN ID 出版 Writing NFT**](nft-portal.md#yi-iscn-id-chu-ban-writing-nft)**。**&#x20;
+**如希望作品擁有詳盡元資料，請先** [**註冊 ISCN**](../decentralized-publishing/app.like.co.md) **再** [**以 ISCN ID 出版 Writing NFT**](nft-portal.md#yi-iscn-id-chu-ban-writing-nft)**。**&#x20;
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/NFT Portal 2.png" alt=""><figcaption></figcaption></figure>
