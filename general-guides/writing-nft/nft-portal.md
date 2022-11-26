@@ -4,7 +4,9 @@ description: 把任何網頁文章內容出版成 NFT
 
 # NFT Portal
 
-**方法一**：若作者不是使用 WordPress 網站，可到 **** [**NFT Portal**](https://app.like.co/nft/url) 網站貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統成為 ISCN 並生成 NFT
+若作者不是使用 WordPress 網站。
+
+**方法一：**可到 **** [**NFT Portal**](https://app.like.co/nft/url) 網站貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統成為 ISCN 並生成 NFT
 
 **方法二**：將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../decentralized-publishing/app.like.co.md)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 生成 NFT
 
