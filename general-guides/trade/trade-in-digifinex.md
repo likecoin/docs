@@ -44,7 +44,7 @@ Go to the next page, click on the QR Code icon circled in red, the app will open
 
 Input the Tag/Memo number into the "Input memo (optional)" field (**Very Important!**)
 
-![](<../../.gitbook/assets/digifinex-tagmemo (1).png>)
+![](../../.gitbook/assets/digifinex-tagmemo.png)
 
 Input the amount of LikeCoin that you want to transfer, then click \[Confirm]
 

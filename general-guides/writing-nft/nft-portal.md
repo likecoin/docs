@@ -25,7 +25,7 @@ Log in with [Keplr Browser Extension](../wallet/keplr/) or [Liker Land app](../.
 
 Please log into [Keplr Browser Extension](../wallet/keplr/) in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
 
-<figure><img src="../../.gitbook/assets/NFT Portal 1a.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Buy NFT 05.png" alt=""><figcaption></figcaption></figure>
 
 ### Login with Liker Land app
 

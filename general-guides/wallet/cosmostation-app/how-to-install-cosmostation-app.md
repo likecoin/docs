@@ -8,13 +8,13 @@ description: On iPhone or Android
 
 Go to the [Apple App Store](https://apps.apple.com/us/app/cosmostation/id1459830339) or [Google Play](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion\&hl=en\_US\&gl=US) to download the cosmostation app.
 
-<figure><img src="../../../.gitbook/assets/Cosmostation mobile create wallet 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 1.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Create new account
 
 Open the cosmostation and click "START".
 
-<figure><img src="../../../.gitbook/assets/Cosmostation mobile create wallet 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 2.png" alt=""><figcaption></figcaption></figure>
 
 Click "CREATE" to create a wallet.
 

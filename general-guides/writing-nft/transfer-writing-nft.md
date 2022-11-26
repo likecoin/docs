@@ -14,7 +14,7 @@ Login your [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Ex
 
 ## Step 2: Enter the wallet address
 
-On the Transfer Your NFT page, enter the wallet address for receiving NFT and click "Transfer".&#x20;
+On the Transfer Your NFT page, enter the wallet address for receiving NFT and the message to include on "Enter the recipient address and click "Transfer".&#x20;
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ On the Transfer Your NFT page, enter the wallet address for receiving NFT and cl
 
 ### Transfer Writing NFT on Keplr
 
-On the Keplr popup window, click "Approve". Keplr users can enter the words that need to be sent together in the Memo field.
+On the Keplr popup window, click "Approve".
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 3.png" alt=""><figcaption></figcaption></figure>
 

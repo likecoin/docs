@@ -4,7 +4,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 # Proposals
 
-![](<../../.gitbook/assets/likecoin\_ad59\_banner (1).png>)
+![](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
 
 ## Proposal #58 Creators Fund
 

@@ -12,7 +12,7 @@ In order to get more sponsors, an attractive creator pitch will help to leverage
 
 Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "I'm a Creator too".
 
-![](../../../.gitbook/assets/civic-liker-menu-en.png)
+![](<../../../.gitbook/assets/Civic Liker Menu-en.png>)
 
 Step 2: On Creator Pitch, click "Edit"
 

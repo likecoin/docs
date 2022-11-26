@@ -14,25 +14,25 @@ Buy and Sell LikeCoin on ZB requires an account, please go to [ZB website](https
 
 Switch to English on top right hand corner
 
-![](../../../.gitbook/assets/zb-english.png)
+![](../../../.gitbook/assets/ZB-English.png)
 
 ### Step 1: Confirm password and email or mobile phone number
 
 On the right hand corner of the website, click "Register"
 
-![](../../../.gitbook/assets/zb-01-en.png)
+![](../../../.gitbook/assets/ZB-01-en.png)
 
 You can use mobile or phone (circled in green) to register, email was used for the following demo. Please input your email and password, if you have a referral code you can fill it in too. Then click on "I have read and agreed to the ZB User Agreement" (green arrow) and lick "Sign up"
 
-![](../../../.gitbook/assets/zb-02-en.png)
+![](../../../.gitbook/assets/ZB-02-en.png)
 
 Go to your email and check out the verification code
 
-![](../../../.gitbook/assets/zb-03.png)
+![](../../../.gitbook/assets/ZB-03.png)
 
 Input the 6 digital verification codes and you can login your account. Please note that you will have to go through the following procedure for logging in.
 
-![](../../../.gitbook/assets/zb-04-en.png)
+![](../../../.gitbook/assets/ZB-04-en.png)
 
 ### Step 2: Set up 2-Factor Authentication&#xD; (2FA)
 
@@ -43,7 +43,7 @@ You have to set up 2-Factor Authentication for your account's protection, please
 
 Click on the avatar on the top right hand corner and go to "Account Security". On "Google Verification Code", click on "Bind Now"
 
-![](../../../.gitbook/assets/zb-06-en.png)
+![](../../../.gitbook/assets/ZB-06-en.png)
 
 Please follow the steps:
 
@@ -51,23 +51,23 @@ Please follow the steps:
 2. On "Enail verification Code" click "Send", then fill in the code received from email
 3. Scan the QR Code with Google Authenticator and fill in the 6-digit 2FA code, then lcick "Next", your 2FA setting is completed.
 
-![](../../../.gitbook/assets/zb-07-en.png)
+![](../../../.gitbook/assets/ZB-07-en.png)
 
 ### Step 3: Transaction Password
 
 You have to input a transaction password for transaction and withdrawal. On "Transaction Password", click "Set"
 
-![](../../../.gitbook/assets/zb-08-en.png)
+![](../../../.gitbook/assets/ZB-08-en.png)
 
 Input a 6 digit password twice, and click "Confirm" to finish the setting.
 
-![](../../../.gitbook/assets/zb-09-en.png)
+![](../../../.gitbook/assets/ZB-09-en.png)
 
 ### Step 4: Identification (Optional)
 
 ZB classifies users by grades, VIP0 who is not completing Real-name authentication can trade with no issue. It is just a matter of having a different [Transaction Fee rate](https://www.zb.com/help/rate). You may go to "Identification" to complete the authentication.
 
-![](../../../.gitbook/assets/zb-10-en.png)
+![](../../../.gitbook/assets/ZB-10-en.png)
 
 ### If you experience difficulties, contact ZB Help Desk
 

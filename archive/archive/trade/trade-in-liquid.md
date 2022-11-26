@@ -16,7 +16,7 @@ Due to Liquid being acquired by Singapore exchange FTX, LIKE trading will no lon
 
 **Please be reminded: The transaction amount affects the exchange rate, the system displays real time offers.**
 
-![](../../../.gitbook/assets/quick-exchange-1.png)
+![](<../../../.gitbook/assets/quick-exchange-1 (1).png>)
 
 ![](../../../.gitbook/assets/liquid-qe.gif)
 

@@ -36,45 +36,45 @@ Go to [dao.like.co](https://dao.like.co/) and choose [Keplr Browser Extension](.
 
 Go to the left hand side menu and select "Proposal", click on the proposal which is on voting period.
 
-![](../../.gitbook/assets/direct-vote-02.png)
+![](<../../.gitbook/assets/direct vote 02.png>)
 
 ### &#xD;Step 4: Proposal detail page
 
 The proposal page listed out the proposal content, current votes, etc. Only validators will have a thumbnail when they vote.
 
-![](../../.gitbook/assets/direct-vote-03.png)
+![](<../../.gitbook/assets/direct vote 03.png>)
 
 ### Step 5: Start voting
 
 Click on the "Vote" on the top right hand corner, and the lower right hand corner will show choices of Yes, No, No with Veto and Abstain. Select one of the choices and click "Next".
 
-![](../../.gitbook/assets/direct-vote-04.png)
+![](<../../.gitbook/assets/direct vote 04.png>)
 
 Transaction fee is required, check it out and agree with "Next".
 
 
 
-![](../../.gitbook/assets/direct-vote-05.png)
+![](<../../.gitbook/assets/direct vote 05.png>)
 
 Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm it after clicking "Send". Authcore users directly click "Send".
 
 
 
-![](../../.gitbook/assets/direct-vote-06.png)
+![](<../../.gitbook/assets/direct vote 06.png>)
 
 The vote has been casted, please wait for the transaction to finish.
 
-![](../../.gitbook/assets/direct-vote-07.png)
+![](<../../.gitbook/assets/direct vote 07.png>)
 
 Successful vote.
 
-![](../../.gitbook/assets/direct-vote-08.png)
+![](<../../.gitbook/assets/direct vote 08.png>)
 
 ### &#xD;Step 6: Check voting record
 
 Go to the left hand side menu and select "Transactions" and check out your past voting record.
 
-![](../../.gitbook/assets/direct-vote-09.png)
+![](<../../.gitbook/assets/direct vote 09.png>)
 
 ## Vote via Cosmostation app
 

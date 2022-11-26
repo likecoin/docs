@@ -34,11 +34,11 @@ Deposit LikeCoin to Keplr.
 
 Go to the Emeris website [https://app.osmosis.zone/](https://app.emeris.com/), click the top right hand corner "Connect wallet".
 
-![](<../../../.gitbook/assets/Emeris LP 01.png>)
+![](<../../../.gitbook/assets/Emeris Swap 01.png>)
 
 On Connect your wallet, click "Connect Keplr".
 
-![](<../../../.gitbook/assets/Emeris LP 02.png>)
+![](<../../../.gitbook/assets/Emeris Swap 02.png>)
 
 On the top right hand corner of the Portfolio page, your walet username and the total amount of portfolio shown.  You can click on it and click "Disconnect wallet" at any time.&#x20;
 

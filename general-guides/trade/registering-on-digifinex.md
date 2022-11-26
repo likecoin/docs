@@ -90,7 +90,7 @@ Picture formats must be in JPG, PNG f and the size must not exceed 2MB
 
 Scan for facial recognition and complete the process
 
-![](../../.gitbook/assets/shi-ming-ren-zheng-yuan-tu-560-tu-.jpg)
+![](../../.gitbook/assets/实名认证原图5-60%图.jpg)
 
 If the approval is failed the system will show an error message. You may resubmit real-name verification again or contact [customer service](https://digifinex.zendesk.com/hc/en-us/articles/360000525241-How-to-get-help-for-the-Customer-Service) for manual approval (a dialogue box will appear if the approval is failed)
 

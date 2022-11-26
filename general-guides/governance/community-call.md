@@ -5,7 +5,7 @@ description: >-
   ecosystem development
 ---
 
-# Community Calls
+# Community Call
 
 ## Call Link: [ http://discord.gg/likecoin](http://discord.gg/likecoin)
 
@@ -47,7 +47,7 @@ description: >-
 | London       | 11:00:00       | BST           | UTC+1          |
 | Toronto      | 06:00:00       | EDT           | UTC-4          |
 
-![](../../.gitbook/assets/likecoin\_ad70\_validators-01.png)
+![](../../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
 
 ## Meeting Minutes
 

@@ -76,7 +76,7 @@ A pop-up window appears with [Keplr Browser Extension](../wallet/keplr/), [Cosmo
 
 Please log into [Keplr Browser Extension ](../wallet/keplr/)in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
 
-![](<../../.gitbook/assets/Buy NFT 05.png>)
+![](<../../.gitbook/assets/NFT Portal 1a.png>)
 
 #### Login with Cosmostation Browser Extension
 

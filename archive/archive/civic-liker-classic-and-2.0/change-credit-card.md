@@ -12,11 +12,11 @@ Please follow the steps:
 
 Step 1: Login in [Liker Land web](https://liker.land/), click on the menu at the top right hand corner, select "[Civic Liker](https://liker.land/civic/dashboard)".
 
-![](../../../.gitbook/assets/civic-liker-menu-en.png)
+![](<../../../.gitbook/assets/Civic Liker Menu-en.png>)
 
 Step 2: Click on "Manage Payment Method".
 
-![](../../../.gitbook/assets/civic-liker-change-credit-card-info-en.png)
+![](<../../../.gitbook/assets/civic liker-change-credit-card-info-en.png>)
 
 Step 3: Going into the Billing interface and changing your credit card information.
 
