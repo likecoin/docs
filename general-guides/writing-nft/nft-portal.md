@@ -78,23 +78,23 @@ Click "Add message to your collectors” to input to the message for your Writin
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6.png" alt=""><figcaption></figcaption></figure>
 
-A window pops up, enter the content and click "Confirm".
+A window pops up, enters the content and clicks "Confirm".
 
 <figure><img src="../../.gitbook/assets/NFT Portal 7.png" alt=""><figcaption></figcaption></figure>
 
-Check whether the content is correct or not. If they needed to be modified, you can press "Edit" to change it, otherwise click "Next" to continue.
+Check whether the content is correct or not. If they need to be modified, you can press "Edit" to change it, otherwise click "Next" to continue.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 8.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 4/4: Sign
 
-Keplr window pop up in order to get the Class ID, click "Approve" twice.
+Keplr window pops up in order to get the Class ID, click "Approve" twice.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 9.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/NFT Portal 10.png" alt=""><figcaption></figcaption></figure>
 
-Keplr window pop up again to mint NFT, click "Approve".
+Keplr window pops up again to mint NFT, click "Approve".
 
 <figure><img src="../../.gitbook/assets/NFT Portal 11.png" alt=""><figcaption></figcaption></figure>
 
