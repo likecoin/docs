@@ -36,7 +36,7 @@ description: 簡單轉移沒難度
 
 在手機上出現簽名請求，點「允許」確認轉移。
 
-<figure><img src="../../.gitbook/assets/NFT Transfer 07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Transfer 7.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 6.png" alt=""><figcaption></figcaption></figure>
 
