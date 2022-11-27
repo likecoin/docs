@@ -8,9 +8,10 @@ Starting in April 2022, users can export seed words from [Liker ID registered by
 
 Before exporting the seed words, please note:&#x20;
 
-* You must use a desktop computer.
 * Your network and surrounding environment is secure.
 * The computer that you are using has been scanned for viruses to make sure that there are no viruses or Trojans.
+
+## Export Seed Words from Desktop Computer
 
 ### Step 1: Go to the URL of the export seed words
 
@@ -41,6 +42,32 @@ Enter the login password and click "Show Seed Words".
 Click "Copy" to copy the seed words.
 
 ![](<../../.gitbook/assets/Seed Words 5en.png>)
+
+## Export Seed Word from Liker Land app
+
+### Step 1: Start exporting the wallet seed words
+
+Click Settings in the lower right corner and then click "Export Seed Words".
+
+<figure><img src="../../.gitbook/assets/seed word mobile 1-en.png" alt=""><figcaption></figcaption></figure>
+
+### Step 2: Acknowledge the warning
+
+Click "Confirm" and the system will ask you to log in to your account again.
+
+<figure><img src="../../.gitbook/assets/seed word mobile 2-en.png" alt=""><figcaption></figcaption></figure>
+
+### Step 3: Enter the Authcore password
+
+Enter the password again and click "Confirm".
+
+<figure><img src="../../.gitbook/assets/seed word mobile 3-en.png" alt=""><figcaption></figcaption></figure>
+
+### Step 4: Display the seed words
+
+Click "Copy" to copy them elsewhere.
+
+<figure><img src="../../.gitbook/assets/seed word mobile 4-en.png" alt=""><figcaption></figcaption></figure>
 
 Then you can import the seed words into Keplr, Cosmostation or other wallets that support the Cosmos ecosystem:
 
