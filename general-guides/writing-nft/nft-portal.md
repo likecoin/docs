@@ -78,7 +78,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6.png" alt=""><figcaption></figcaption></figure>
 
-彈出視窗，輸入內容後點「Confirm」。
+彈出視窗，輸入內容後點「Confirm」。注意訊息不能寫超過 256個字元。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 7.png" alt=""><figcaption></figcaption></figure>
 
