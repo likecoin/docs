@@ -78,7 +78,7 @@ Click "Add message to your collectors” to input to the message for your Writin
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6.png" alt=""><figcaption></figcaption></figure>
 
-A window pops up, enters the content and clicks "Confirm".
+A window pops up, enters the content and clicks "Confirm". Note that the message cannot exceed 256 characters.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 7.png" alt=""><figcaption></figcaption></figure>
 
