@@ -8,9 +8,10 @@ description: Liker Land app 錢包終於可以導出助記詞
 
 在匯出錢包助記詞前，請留意：
 
-* 你必須使用桌面電腦上操作。
 * 你的網絡與周邊環境是否安全。
 * 你使用的電腦是否經已進行病毒掃描以確保沒有病毒或木馬程式。
+
+## 以桌面電腦匯出助記詞
 
 ### 步驟一：到匯出錢包助記詞網址
 
@@ -42,6 +43,32 @@ description: Liker Land app 錢包終於可以導出助記詞
 
 ![](<../../.gitbook/assets/Seed Words 5.png>)
 
+## 以 Liker Land 手機應用程式匯出助記詞
+
+### 步驟一：開始匯出錢包助記詞
+
+在手機應用程式右下角點設定後再點「匯出錢包助記詞」。
+
+<figure><img src="../../.gitbook/assets/seed word mobile 1.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟二：確認警告
+
+了解後，點「確認」，系統會要求重新再次登入帳戶。
+
+<figure><img src="../../.gitbook/assets/seed word mobile 2.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟三：輸入 Authcore 密碼
+
+再次輸入密碼後點「確認」。
+
+<figure><img src="../../.gitbook/assets/seed word mobile 3.png" alt=""><figcaption></figcaption></figure>
+
+### 步驟四：顯示助記詞
+
+點「複製」將助記詞複製到其他地方。
+
+<figure><img src="../../.gitbook/assets/seed word mobile 4.png" alt=""><figcaption></figcaption></figure>
+
 接下來你可以將助記詞導入 Keplr, Cosmostation 或其他支援 Cosmos 生態系統的錢包：
 
 {% content-ref url="../../general-guides/wallet/keplr/import-wallet-into-keplr.md" %}
@@ -54,4 +81,8 @@ description: Liker Land app 錢包終於可以導出助記詞
 
 {% content-ref url="../../general-guides/wallet/cosmostation-mobile/import-wallet-into-cosmostation-app.md" %}
 [import-wallet-into-cosmostation-app.md](../../general-guides/wallet/cosmostation-mobile/import-wallet-into-cosmostation-app.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../general-guides/wallet/leap/import-wallet-into-leap.md" %}
+[import-wallet-into-leap.md](../../general-guides/wallet/leap/import-wallet-into-leap.md)
 {% endcontent-ref %}
