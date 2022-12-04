@@ -82,7 +82,7 @@ description: 在 LikeCoin Discord 傳送給接收 LikeCoin
 
 <figure><img src="../../.gitbook/assets/discord send 1.png" alt=""><figcaption></figcaption></figure>
 
-2\. 輸入接收 LikeCoin 的錢包地址 ( address ) 及數量 ( amount )。
+2\. 輸入接收你的 LikeCoin 的錢包地址 ( address ) 及數量 ( amount )。
 
 <figure><img src="../../.gitbook/assets/discord send 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -113,4 +113,3 @@ description: 在 LikeCoin Discord 傳送給接收 LikeCoin
 2\. 出現詳盡資訊。
 
 <figure><img src="../../.gitbook/assets/discord balance 2.png" alt=""><figcaption></figcaption></figure>
-
