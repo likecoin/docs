@@ -24,7 +24,7 @@ description: 在 LikeCoin Discord 傳送給接收 LikeCoin
 
 <figure><img src="../../.gitbook/assets/discord set wallet 4.png" alt=""><figcaption></figcaption></figure>
 
-5\. 登入 Keplr、Liker Land app 或 Cosmostation 錢包並進行連結。
+5\. 登入 [Keplr](../wallet/keplr/)、[Liker Land app](../../user-guide/liker-land/download.md) 或 [Cosmostation](../wallet/cosmostation/) 錢包並進行連結。
 
 <figure><img src="../../.gitbook/assets/discord set wallet 5.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,11 +32,11 @@ description: 在 LikeCoin Discord 傳送給接收 LikeCoin
 
 <figure><img src="../../.gitbook/assets/discord set wallet 6.png" alt=""><figcaption></figcaption></figure>
 
-6\. 出現「Registered」字樣。
+7\. 出現「Registered」字樣。
 
 <figure><img src="../../.gitbook/assets/discord set wallet 7.png" alt=""><figcaption></figcaption></figure>
 
-7\. 並收到私訊說明錢包經已成功登記為收款錢包。
+8\. 並收到私訊說明錢包經已成功登記為收款錢包。
 
 <figure><img src="../../.gitbook/assets/discord set wallet 8.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@ description: 在 LikeCoin Discord 傳送給接收 LikeCoin
 
 <figure><img src="../../.gitbook/assets/discord deposit 3.png" alt=""><figcaption></figcaption></figure>
 
-4\. 登入 Keplr、Liker Land app 或 Cosmostation 錢包並進行連結。
+4\. 登入 [Keplr](../wallet/keplr/)、[Liker Land app](../../user-guide/liker-land/download.md) 或 [Cosmostation](../wallet/cosmostation/) 錢包並進行連結。
 
 <figure><img src="../../.gitbook/assets/discord deposit 4.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,7 +62,7 @@ description: 在 LikeCoin Discord 傳送給接收 LikeCoin
 
 <figure><img src="../../.gitbook/assets/discord deposit 5.png" alt=""><figcaption></figcaption></figure>
 
-6\. 彈出 Keplr、Comostation 視窗，或在 Liker Land app 彈出充許要求，點擊繼續。
+6\. 彈出 Keplr、Comostation 視窗，或在 Liker Land app 彈出允許要求，點擊繼續。
 
 <figure><img src="../../.gitbook/assets/discord deposit 6.png" alt=""><figcaption></figcaption></figure>
 
