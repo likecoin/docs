@@ -84,6 +84,7 @@
   * [#LikeCoin AMA](general-guides/community/likecoin-ama.md)
   * [#open-a-ticket](general-guides/community/open-a-ticket.md)
   * [LikeCoin Discord wallet](general-guides/community/discord-wallet.md)
+  * [LIKE this message](general-guides/community/like-this-message.md)
   * [#translate-wallet-prefix](general-guides/community/translate-wallet-prefix.md)
   * [#faucet-testnet](general-guides/community/faucet-testnet.md)
 * [Writing NFT](general-guides/writing-nft/README.md)
