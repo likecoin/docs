@@ -1,10 +1,10 @@
 ---
-description: 在 LikeCoin Discord 傳送給接收 LikeCoin
+description: 在 LikeCoin Discord 傳送及接收 LikeCoin
 ---
 
 # LikeCoin Discord 錢包
 
-在 LikeCoin Discord 可以傳送給接收 LikeCoin，用戶需要先設定存入款項及設定收款的錢包。
+在 LikeCoin Discord 可以傳送及接收 LikeCoin，用戶需要先設定存入款項及設定收款的錢包。
 
 ## 在 Discord 設定收款錢包
 
