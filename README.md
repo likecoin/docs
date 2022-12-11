@@ -4,7 +4,7 @@ description: 'What is LikeCoin, #DePub, and the LikeCoin DAO'
 
 # Decentralize Publishing
 
-![](<.gitbook/assets/LCF001-key visual v4.1-1.png>)
+![](<.gitbook/assets/LCF001-key visual v4.1-1.jpg>)
 
 ### What is LikeCoin?
 
