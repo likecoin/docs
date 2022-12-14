@@ -34,9 +34,9 @@ The following steps are applicable to both desktop and mobile.
 
 ### Step 1: Credit Card Payment&#x20;
 
-Click "Pay by card (Beta)" in the pop-up window.
+Click "Pay by card" in the pop-up window.
 
-<figure><img src="../../.gitbook/assets/pay by card 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pay by card 1-en.png" alt=""><figcaption></figcaption></figure>
 
 The Stripe page appears, enter your email and credit card information and click "Pay". The purchase price of Writing NFT in fiat currency is calculated based on the market price, exchange fee and credit card handling fee.
 
@@ -62,7 +62,7 @@ You will receive another email saying that the NFT has been sent to your wallet.
 
 Go to "[My Dashboard](https://liker.land/dashboard)" to view the NFT that you've collected.
 
-<figure><img src="../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portfolio-en.png" alt=""><figcaption></figcaption></figure>
 
 ## Already own a crypto wallet and collect Writing NFT on Desktop Computer
 
