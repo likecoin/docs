@@ -30,13 +30,13 @@ description: 讓自己的性格更特出
 
 修改完成後，你的資訊會在 Liker Land 的各種使用場景中顯示：
 
-### NFT Portfolio
+### NFT 展示櫃
 
 {% content-ref url="../../general-guides/writing-nft/nft-portfolio.md" %}
 [nft-portfolio.md](../../general-guides/writing-nft/nft-portfolio.md)
 {% endcontent-ref %}
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portfolio.png" alt=""><figcaption></figcaption></figure>
 
 ### LikeCoin button 讚賞鍵
 

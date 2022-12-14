@@ -20,7 +20,7 @@
   * [Writing NFT WordPress 外掛](general-guides/writing-nft/writing-nft-wordpress-plugin.md)
   * [NFT Portal](general-guides/writing-nft/nft-portal.md)
   * [動態定價](general-guides/writing-nft/dynamic-pricing.md)
-  * [NFT Portfolio](general-guides/writing-nft/nft-portfolio.md)
+  * [NFT 展示櫃](general-guides/writing-nft/nft-portfolio.md)
   * [收集 Writing NFT](general-guides/writing-nft/collect-writing-nft.md)
   * [轉贈 Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)
   * [追蹤創作者](general-guides/writing-nft/subscribe-to-the-creator.md)
@@ -143,7 +143,7 @@
   * [未能收到獎勵？](user-guide/creatortools/cannot-get-reward.md)
 * [詞彙表](user-guide/background.md)
 
-## 🔬  開發者資源 <a href="#developer" id="developer"></a>
+## 🔬 開發者資源 <a href="#developer" id="developer"></a>
 
 * [開發者簡介](developer/introduction.md)
 
