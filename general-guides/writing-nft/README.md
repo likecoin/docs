@@ -14,13 +14,13 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 如何購買 Writing NFT？
 
-可在 [NFT Widget](nft-widget.md) 直接收集，或在用戶的 [NFT Portfolio](nft-portfolio.md) 頁面購買。讀者需已安裝 [Keplr 錢包](../wallet/keplr/)，及花 LikeCoin 或以信用卡 [收集 NFT](collect-writing-nft.md)。
+可在 [NFT Widget](nft-widget.md) 直接收集，或在用戶的 [NFT 展示櫃](nft-portfolio.md)購買。讀者需已安裝 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/)、[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker Land app](../../user-guide/liker-land/download.md)，及花 LikeCoin 或以信用卡 [收集 NFT](collect-writing-nft.md)。
 
-用戶亦可以先[使用信用卡購買 Writing NFT](collect-writing-nft.md)，並於安裝 Keplr 錢包後接收該 NFT。
+沒有加密錢包的用戶亦可以先[使用信用卡購買 Writing NFT](collect-writing-nft.md)，並於安裝 Keplr 錢包後接收該 NFT。
 
 ### 如何發售 Writing NFT？
 
-可經任何支援 Writing NFT 的寫作網站出版，作品發佈後便自動上架，在 NFT Widget 及 NFT Portfolio 發售，作者不用手動做額外動作上架市場。
+可經任何支援 Writing NFT 的寫作網站出版，作品發佈後便自動上架，在 NFT Widget 及 NFT 展示櫃發售，作者不用手動做額外動作上架市場。
 
 ### NFT 的價格如何訂定？
 
@@ -32,23 +32,23 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 沒有 Liker ID ，能購買 Writing NFT 嗎？
 
-可以，只要有 Keplr 錢包和足夠的 LikeCoin 即可。
+可以，只要有錢包和足夠的 LikeCoin 即可。
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 
-可以。WordPress plugin 將支援僅以 Keplr 地址生成 NFT Widget。另，也可經 NFT Portal 以錢包登入生成 NFT，然後在自己的 Portfolio 頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
+可以。WordPress plugin 將支援僅以 Keplr 地址生成 NFT Widget。另，也可經 NFT Portal 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
 
-### 作品沒有安裝 NFT widget，也能發售 NFT 嗎？
+### 作品沒有安裝 NFT Widget，也能發售 NFT 嗎？
 
-可在 [NFT Portal](nft-portal.md) 發行 NFT，然後在自己的 [NFT Portfolio](nft-portfolio.md) 頁面發售。
+可在 [NFT Portal](nft-portal.md) 發行 NFT，然後在自己的 NFT 展示櫃頁面發售。
 
 ### 可在哪兒查看收集了的 NFT？
 
-在自己的 [NFT Portfolio](nft-portfolio.md) 頁面
+在自己的 [NFT 展示櫃](nft-portfolio.md)頁面
 
 ### 如何把 NFT 賣到二手市場？
 
-在 NFT Portfolio 頁面設定 NFT 的賣出價，讀者即可在任何該 NFT 的 widget 以此售價收集。
+在 NFT 展示櫃頁面設定 NFT 的賣出價，讀者即可在任何該 NFT 的 Widget 以此售價收集。
 
 ### 能設定作品的 NFT 發行量上限嗎？
 
@@ -56,7 +56,7 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 如何轉讓 NFT？
 
-可在 NFT Portfolio 頁面，[輸入對方的錢包地址轉讓](transfer-writing-nft.md)。
+可在 NFT 展示櫃頁面，[輸入對方的錢包地址轉讓](transfer-writing-nft.md)。
 
 ### 如何第一時間接收到新 NFT 上架的消息？
 
