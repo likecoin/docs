@@ -6,6 +6,10 @@ description: 簡單轉移沒難度
 
 現在開始你可以將你珍藏的 Writing NFT 傳送給別人了！ 以下將示範如何轉贈 Writing NFT。
 
+## 影片教學
+
+{% embed url="https://www.youtube.com/watch?v=z1UZclQHVOo" %}
+
 ## 步驟一：登入並轉移
 
 登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 後點需要轉移的 NFT，並查看存量「擁有」了多少個。確定需要轉移後點「轉贈」。
