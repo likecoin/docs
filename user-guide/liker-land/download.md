@@ -14,28 +14,28 @@ description: 要去哪裏下載 Liker Land？
 [liker-id](../liker-id/)
 {% endcontent-ref %}
 
-## Liker Land 網頁版 - https://Liker.Land <a href="#liker-land-web" id="liker-land-web"></a>
+## Liker Land 網頁版 - [https://Liker.Land](download.md#xuan-xiang-yi-wo-de-shu-jia-httpsliker.landdashboard) <a href="#liker-land-web" id="liker-land-web"></a>
 
 登入後點擊右上角的菜單，會彈出其他選項。​
 
 <figure><img src="../../.gitbook/assets/Liker Land menu.png" alt=""><figcaption></figcaption></figure>
 
-### 選項一：My Dashboard
+### 選項一：我的書架 - [https://liker.land/dashboard](https://liker.land/dashboard)
 
-連接用戶的 [NFT Portfolio](../../general-guides/writing-nft/nft-portfolio.md) 頁面。‌
+連接用戶的 [NFT 展示櫃](../../general-guides/writing-nft/nft-portfolio.md) 頁面。‌
 
-### 選項二：Civic Liker 讚賞公民
+### 選項二：讚賞公民 - [https://liker.land/civic](https://liker.land/civic)
 
-用戶可委託 LikeCoin 成為[讚賞公民](../civic-liker/)在 [Civic Liker](https://liker.land/civic) 查看委託狀態。
+用戶可委託 LikeCoin 成為[讚賞公民](../civic-liker/)並查看委託狀態。
 
 ### 選項三：Settings 設定
 
-[設定](https://like.co/in/settings)你的 Liker ID。可參看：
+設定你的 Liker ID。可參看：
 
 {% content-ref url="../liker-id/edit-avatar-displayname.md" %}
 [edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
 {% endcontent-ref %}
 
-### 選項四：Sign Out 登出
+### 選項四：登出
 
 在此登出 Liker Land。假若你想使用另一帳號登入，必須先於 Liker Land 網站登出才行，否則下次登入時仍會自動登入上次登入的帳戶。
