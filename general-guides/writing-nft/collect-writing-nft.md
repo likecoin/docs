@@ -18,11 +18,11 @@ Go to the [campaign page](https://liker.land/campaign/writing-nft) to check out 
 
 Or go to the NFT details page and click "Collect Now".
 
-<figure><img src="../../.gitbook/assets/Buy NFT 02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Buy NFT 02-en.png" alt=""><figcaption></figcaption></figure>
 
 Or else go to the author's NFT Portfolio (website: https://liker.land/\[wallet address] ) and click the current NFT price.
 
-<figure><img src="../../.gitbook/assets/Buy NFT 03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Buy NFT 03-en.png" alt=""><figcaption></figcaption></figure>
 
 Also can click "Collect Now" on [NFT Widget](nft-widget.md).
 
