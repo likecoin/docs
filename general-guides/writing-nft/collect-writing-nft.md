@@ -138,11 +138,11 @@ Complete! page appears, the Writing NFT is successfully collected. Click "View D
 
 <figure><img src="../../.gitbook/assets/Buy NFT 15.png" alt=""><figcaption></figcaption></figure>
 
-* Writing NFT ID: Each Writing NFT ID is unique.
+* NFT ID: Each NFT ID is unique.
 * View Content: View Writing NFT content.&#x20;
 * Chain Data: Show the creation and transfer process of the Writing NFT.
 
-<figure><img src="../../.gitbook/assets/Buy NFT 19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Buy NFT 19-en.png" alt=""><figcaption></figcaption></figure>
 
 ## **Already own a crypto wallet and collect Writing NFT on Mobile**
 
