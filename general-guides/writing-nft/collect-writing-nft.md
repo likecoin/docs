@@ -34,7 +34,7 @@ description: 如何收集 Writing NFT
 
 ### 步驟一：信用卡付款
 
-在彈出視窗點「Pay by card (Beta)」。
+在彈出視窗點「以信用卡付款」。
 
 <figure><img src="../../.gitbook/assets/pay by card 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -60,9 +60,9 @@ description: 如何收集 Writing NFT
 
 ### 步驟三：查看已購買的 Writing NFT
 
-回到自己的 「[My Dashboard](https://liker.land/dashboard)」即可查看已購買的 NFT。
+回到[我的書架](https://liker.land/dashboard?tab=collected)即可查看已購買的 NFT。
 
-<figure><img src="../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portfolio.png" alt=""><figcaption></figcaption></figure>
 
 ## 已擁有加密錢包並以桌面電腦收集 Writing NFT
 
