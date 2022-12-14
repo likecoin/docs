@@ -16,11 +16,11 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../.gitbook/assets/Buy NFT 01.png" alt=""><figcaption></figcaption></figure>
 
-或到 NFT 內容頁面點「Collect Now」。
+或到 NFT 內容頁面點「立即收藏」。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 02.png" alt=""><figcaption></figcaption></figure>
 
-又或者到作者的 NFT Portfolio（網址為 https://liker.land/\[錢包地址] ）點 NFT 價格。
+又或者到作者的 NFT 展示櫃（網址為 https://liker.land/\[錢包地址] ）點 NFT 價格。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 03.png" alt=""><figcaption></figcaption></figure>
 
