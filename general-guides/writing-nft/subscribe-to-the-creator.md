@@ -12,7 +12,7 @@ description: 輕易掌握 NFT 發放資訊
 
 ### 步驟一：填寫電郵
 
-在該創作者的 NFT Portfolio 拉到最底並輸入你的電郵地址，再按「Notify Me」。
+在該創作者的 NFT Portfolio 拉到最底並輸入你的電郵地址，再按「通知我」。
 
 <figure><img src="../../.gitbook/assets/subscribe creator 1.png" alt=""><figcaption></figcaption></figure>
 
