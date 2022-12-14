@@ -60,7 +60,7 @@ description: 如何收集 Writing NFT
 
 ### 步驟三：查看已購買的 Writing NFT
 
-回到[我的書架](https://liker.land/dashboard?tab=collected)即可查看已購買的 NFT。
+回到「[我的書架](https://liker.land/dashboard?tab=collected)」即可查看已購買的 NFT。
 
 <figure><img src="../../.gitbook/assets/NFT Portfolio.png" alt=""><figcaption></figcaption></figure>
 
@@ -100,7 +100,7 @@ description: 如何收集 Writing NFT
 
 ### 步驟二：購買 Writing NFT
 
-出現 Collect NFT 頁面，點「Pay by LIKE」以 LikeCoin 購買 Writing NFT，又或者點「Pay by card」以信用卡購買。
+出現 Collect NFT 頁面，點「用 LIKE 購買」以 LikeCoin 購買 Writing NFT，又或者點「以信用卡付款」以信用卡購買。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 06.png" alt=""><figcaption></figcaption></figure>
 
@@ -108,7 +108,7 @@ description: 如何收集 Writing NFT
 
 {% embed url="https://www.youtube.com/watch?v=chZNVmZFzHU" %}
 
-在彈出視窗點「Pay by card」後出現 Stripe 頁面，輸入電郵及信用卡資料後點「Pay」。法定貨幣購買 Writing NFT 價錢綜合市價、兌換費用及信用咭手續費計算。
+在彈出視窗點「以信用卡付款」後出現 Stripe 頁面，輸入電郵及信用卡資料後點「Pay」。法定貨幣購買 Writing NFT 價錢綜合市價、兌換費用及信用咭手續費計算。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 17.png" alt=""><figcaption></figcaption></figure>
 
@@ -118,13 +118,13 @@ description: 如何收集 Writing NFT
 
 #### 以 Keplr 購買 Writing NFT
 
-點「Pay by LIKE」後彈出 Keplr 視窗，點「Approve」確認購買。
+點「用 LIKE 購買」後彈出 Keplr 視窗，點「Approve」確認購買。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 07.png" alt=""><figcaption></figcaption></figure>
 
 #### 以 Cosmostation 購買 Writing NFT
 
-點「Pay by LIKE」後彈出 Cosmostation 視窗，點「Confirm」確認購買。
+點「用 LIKE 購買」後彈出 Cosmostation 視窗，點「Confirm」確認購買。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 14.png" alt=""><figcaption></figcaption></figure>
 
@@ -136,13 +136,13 @@ description: 如何收集 Writing NFT
 
 ### 步驟三：查看已購買的 Writing NFT
 
-出現 Complete!  並成功購買 Writing NFT。按「View Details」可查看已購買的 NFT 詳細內容。
+出現「交易已完成！」並成功購買 Writing NFT。按「檢視類別資訊」可查看已購買的 NFT 詳細內容。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 15.png" alt=""><figcaption></figcaption></figure>
 
-* Writing NFT ID：每顆 NFT 獨一無二的 ID。
-* View Content：查看 Writing NFT 內容。
-* Chain Data：展示 Writing NFT 來源及轉手過程。
+* NFT ID：每顆 NFT 獨一無二的 ID。
+* 瀏覽內容：查看 Writing NFT 內容。
+* 區塊鏈資料：展示 Writing NFT 來源及轉手過程。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 19.png" alt=""><figcaption></figcaption></figure>
 
