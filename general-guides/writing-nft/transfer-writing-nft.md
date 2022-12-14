@@ -10,7 +10,7 @@ Transfer Writing NFT You can transfer your favorite Writing NFTs to others.
 
 Login your [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md)., click on the NFT that needs to be transferred, and check how many of them you have "Own". Click "Transfer".
 
-<figure><img src="../../.gitbook/assets/NFT Transfer 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Transfer 1-en.png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2: Enter the wallet address
 
