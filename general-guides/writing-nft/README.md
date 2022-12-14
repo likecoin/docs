@@ -16,7 +16,7 @@ Writing NFT is the NFT of a piece of writing, literally. It can refer to article
 
 ### How to collect Writing NFT？
 
-Collect in [NFT Widget](nft-widget.md) embedded in the content, or at the user’s [NFT Portfolio](nft-portfolio.md) page. Readers need to install [Keplr wallet](../wallet/keplr/) and spend LikeCoin or credit card to [collect NFT](collect-writing-nft.md).
+Collect in [NFT Widget](nft-widget.md) embedded in the content, or at the user’s [NFT Portfolio](nft-portfolio.md) page. Readers need to log into [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/), [Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../user-guide/liker-land/download.md). spend LikeCoin or credit card to [collect NFT](collect-writing-nft.md).
 
 Users can also [purchase Writing NFT with a credit card](collect-writing-nft.md) first, and receive the NFT after installing the Keplr wallet.
 
@@ -28,9 +28,13 @@ Writers can publish their works as NFTs via any platform supporting LikeCoin Wri
 
 [The price changes dynamically based on supply and demand of the NFT](dynamic-pricing.md). Writers do not need to set the price and quantity. Readers do not need to set the bidding price too, just collect when the price feels right. The marked price will decrease when someone sell in secondary market.
 
+### How to install NFT Widget?
+
+You can install the [LikeCoin WordPress plugin](../../user-guide/wordpress.md), and each post will automatically add an NFT Widget. You can also post on writing platforms that support NFT Widget. Users who have technical background can add the iframe of NFT Widget to any webpage.
+
 ### I do not have Liker ID, can I buy or sell Writing NFT?
 
-Yes. Readers can buy Writing NFT, writers can mint and hence list NFT for sale, as long as they have enough LikeCoin in their Keplr wallet. Liker ID is not needed.
+Yes. Readers can buy Writing NFT, writers can mint and hence list NFT for sale, as long as they have enough LikeCoin in their Keplr wallet or use their credit card. Liker ID is not needed.
 
 ### Any other way to sell my Writing NFT besides by NFT Widget?
 
