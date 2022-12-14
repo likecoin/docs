@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 12/09 信報
+
+[數碼圖書館與知識傳承 (黃岳永)](https://startupbeat.hkej.com/?p=128120)
+
 ### 11/01 鄒崇銘@我城的鬱悶
 
 [電子書與NFT書的互補結合](https://chowsungming.com/2022/11/01/%E9%9B%BB%E5%AD%90%E6%9B%B8%E8%88%87nft%E6%9B%B8%E7%9A%84%E4%BA%92%E8%A3%9C%E7%B5%90%E5%90%88/)

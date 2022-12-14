@@ -2,6 +2,48 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 12/10 GDG Cloud Hong Kong DevFest 2022
+
+[以區塊鏈實現分散式出版](https://www.facebook.com/groups/gdgcloudhk/posts/8653775811314333/)
+
+[Video](https://youtu.be/Tux\_jC4uIF0?t=7418)
+
+[Photos](https://l.facebook.com/l.php?u=https%3A%2F%2Fphotos.app.goo.gl%2FhPKx7ZssQ1BC3beR9%3Ffbclid%3DIwAR1ooJRo0OrHxBXpt1MHimyLbupYaWW4vrD8QIUioCin9Iba3hLFiypFk9U\&h=AT2f01X94kquGma7-8GLIr7U2NoLQha3Y5BY1x508U61sFqaVoqabDbmWQ1nSyX\_IP5AOj7s1TwMXhl4GWJVf2VwhY4Fuk\_snP-KhB8IhWuxtYzoTUS9rblFfZzDfBXIaw&\_\_tn\_\_=-UK-R\&c\[0]=AT16ToQkbvuZEKXZyLl058k0L4hFzzsPhtmR6FXXBci9XVb2BQNY9PUn4DdATWSiGU2J1F\_YjYeAySaAc4aPxKEf3Wx6iwklFJX9ty1zmeWhjzQJciWQbKVovW22bksTYbkP-TqOJCQcIycCnQWw5r2ibVY3YkFr4hSSMPg9AwU7TaKouZ6eeDqWFW1mVhQmG9Tgg-ohMJ0dUO52vyZGX7k)
+
+### 11/25 序言書室
+
+[《所謂「我不投資」，就是 all in 在法定貨幣》NFT 書發布會](https://www.facebook.com/Liker.Land/posts/pfbid0CfWinG55wm6vbgYM6iEF35MEYNebKLi2AmiJjPMtpJ148F6uTAsXBXeg7wR8getgl)
+
+[Video](https://www.youtube.com/watch?v=Adw1f83rC4Q)
+
+[逐字稿：《所謂「我不投資」，就是 all in 在法定貨幣》NFT 書發布會@序言書室（上）](https://matters.news/@daisy/351840-%E9%80%90%E5%AD%97%E7%A8%BF-%E6%89%80%E8%AC%82-%E6%88%91%E4%B8%8D%E6%8A%95%E8%B3%87-%E5%B0%B1%E6%98%AF-all-in-%E5%9C%A8%E6%B3%95%E5%AE%9A%E8%B2%A8%E5%B9%A3-nft-%E6%9B%B8%E7%99%BC%E5%B8%83%E6%9C%83-%E5%BA%8F%E8%A8%80%E6%9B%B8%E5%AE%A4-%E4%B8%8A-bafyreigdhevroyd4uf73vc25qp5knohx7tqgynsasbaabdtxvso7dhdpdy)
+
+[逐字稿：《所謂「我不投資」，就是 all in 在法定貨幣》NFT 書發布會@序言書室（下）](https://matters.news/@daisy/351841-%E9%80%90%E5%AD%97%E7%A8%BF-%E6%89%80%E8%AC%82-%E6%88%91%E4%B8%8D%E6%8A%95%E8%B3%87-%E5%B0%B1%E6%98%AF-all-in-%E5%9C%A8%E6%B3%95%E5%AE%9A%E8%B2%A8%E5%B9%A3-nft-%E6%9B%B8%E7%99%BC%E5%B8%83%E6%9C%83-%E5%BA%8F%E8%A8%80%E6%9B%B8%E5%AE%A4-%E4%B8%8B-bafyreibtgczv63pfj3nlvgednfxdh7mb6aqgjosj6mcf3cyvu4dwtac4tq)
+
+### 11/25 社企民間高峰會
+
+[共益元宇宙：教育 x 藝術 x 科技](https://www.ses.org.hk/tc-sessions/metaversal-good-edu-x-art-x-tech)
+
+### 11/23 FABDAO@飛地nowhere
+
+[新書分享會 - 《所謂「我不投資」，就是 all in 在法定貨幣》](https://www.facebook.com/FABDAOtw/posts/pfbid0KqVdtDre6rtaRZjK8j3bQqaKBFfg2AG61rxMhNDi6VTyJftxCnxJkvbeBhYjFtRKl)
+
+[Photos](https://www.facebook.com/mashbean/posts/pfbid0BZdDqhYvr7KgXfGpBZpUE7BGXUEu792ikamBK2bnxHJdDPuT1mLvPjpfhHfk5KWUl)
+
+### 11/22 北科大區塊鏈研究社 NTUT Blockchain
+
+[《所謂「我不投資」，就是 all in 在法定貨幣》分享會](https://www.facebook.com/NTUTBlockchain/posts/pfbid0Fs4WAbNBFBcHqVCh8d3ucnJJXwUDKSrAPKXZ8Wi1ToPRyGGroRr7zZRqoZMqgJwRl)
+
+[Photos](https://www.facebook.com/NTUTBlockchain/posts/pfbid0hUeSTV2RrUsNFJjU54daHLAy4UMt3CJ4K4DtQWvP5ghBFgeiks7KQqLPwP49E2zNl)
+
+### 11/16 LikeCoin Discord
+
+[文字《角醒》，遍地開花](https://www.facebook.com/Liker.Land/posts/pfbid0341ugcxmu5YAR3pyVuRnbcp7AT4BnSLYZhDTkPzsRAGPE2jP1ojbDZzuhcGdb3Qptl)
+
+### 11/15 FAB DAO Discord
+
+[《所謂「我不投資」，就是 all in 在法定貨幣》 新書分享會](https://www.facebook.com/Liker.Land/posts/pfbid02vQvGHpo4AQLt1VgVCzFqqJUzHhviG9MEGGEzv9M4amoWs1MqsLkJxXf5UtAB2WzFl)
+
 ### 10/28 IPFS Camp 2022
 
 [Keynote: Decentralization and Human Rights Showcase](https://2022.ipfs.camp/#Keynotes)
@@ -61,6 +103,8 @@ Migrating the Creator Economy to Web3
 ### 08/24 LikeCoin Discord
 
 [許明恩：Writing NFT 與內容保育](https://www.facebook.com/Liker.Land/posts/pfbid02Mk4wWCdHeRKs3odvMGrQdckJSzx3uG11CkVpn8hMvUMEoCysbEiXhKMC4FtG7wmHl)
+
+[【AMA】拆掉付費牆可行嗎？為何區塊勢要從 Web2 升級到 Web3？ ft. LikeCoin](https://blog.like.co/zh/likecoin-blocktrend-ama/)
 
 ### 08/11 LikeCoin Twitter
 

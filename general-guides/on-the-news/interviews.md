@@ -2,6 +2,18 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 12/14 區塊勢
+
+[區塊勢人造的稀缺、版權意識的三個層次、數位出版的獎勵邏輯 ft. 《我不投資》作者高重建](https://blocktrend.substack.com/p/ep191#details)
+
+### 11/19 寶博朋友說
+
+[擁有人生中第一本NFT 書！FT. LikeCoin創辦人Kin 高重建](https://open.spotify.com/episode/7hVfw9eza4YAE4YQ9DRO1S)
+
+### 11/03 區塊勢
+
+[《我不投資》：以 NFT 重新定義數位出版](https://blocktrend.substack.com/p/488)
+
 ### 10/01 群島
 
 [Archived and Alive: Interview with Kin Ko on Writing NFT](https://www.heath.tw/nml-article/archived-and-alive-interview-with-kin-ko-on-writing-nft/)
