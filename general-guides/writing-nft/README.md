@@ -32,7 +32,7 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 沒有 Liker ID ，能購買 Writing NFT 嗎？
 
-可以，只要有錢包和足夠的 LikeCoin 即可。
+可以，只要有錢包和足夠的 LikeCoin 或使信用卡即可。
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 
