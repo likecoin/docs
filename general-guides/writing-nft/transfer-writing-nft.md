@@ -8,13 +8,13 @@ description: 簡單轉移沒難度
 
 ## 步驟一：登入並轉移
 
-登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 後點需要轉移的 NFT，並查看存量「Own」了多少個。確定需要轉移後點「Transfer」。
+登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 後點需要轉移的 NFT，並查看存量「擁有」了多少個。確定需要轉移後點「轉贈」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 1.png" alt=""><figcaption></figcaption></figure>
 
 ## 步驟二：輸入錢包地址
 
-在 Transfer Your NFT 頁面輸入收取 NFT 的錢包地址及於「Enter transfer message」空格填入訊息後點「Transfer」。
+在轉貼你的 NFT 頁面輸入收取 NFT 的錢包地址，及於附加留言空格填入訊息後點「轉贈」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -42,10 +42,10 @@ description: 簡單轉移沒難度
 
 ## 步驟四：成功轉移
 
-彈出視窗出現 Complete! 字樣代表經已成功轉移 NFT。與此同時「Own」的數字亦會有所改變。你亦可通知收件者查看是否已收到 Writing NFT。
+彈出視窗出現交易已完成！字樣代表經已成功轉移 NFT。與此同時「擁有」的數字亦會有所改變。你亦可通知收件者查看是否已收到 Writing NFT。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 4.png" alt=""><figcaption></figcaption></figure>
 
-用戶可於 Transfer Message 欄位查看已傳送的訊息。
+用戶可於附加留言欄位查看已傳送的訊息。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 8.png" alt=""><figcaption></figcaption></figure>
