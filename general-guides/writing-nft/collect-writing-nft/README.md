@@ -118,6 +118,8 @@ description: 如何收集 Writing NFT
 
 ## 用 LikeCoin 購買 Writing NFT（使用錢包於桌面電腦登入）
 
+你當然可以使用 LikeCoin 購買 Writing NFT。
+
 到 [Liker Land](https://liker.land/) 網站右上角點「連接錢包」。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption></figcaption></figure>
