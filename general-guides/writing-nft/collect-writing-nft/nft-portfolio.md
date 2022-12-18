@@ -10,7 +10,7 @@ Besides collecting via NFT Widget, readers can also collect Writing NFT from the
 
 In addition to expressing the value of the collectibles in numbers, the Portfolio page further reflects the current price of Writing NFTs with gems of different grades. The color and shape of the gem on the work will change according to the market price, beautifying the Writing NFT display.
 
-<figure><img src="../../.gitbook/assets/NFT Portfolio-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portfolio-en.png" alt=""><figcaption></figcaption></figure>
 
 User can now view any NFT portfolio by applying different sorting algorithm, choices:
 
@@ -18,4 +18,4 @@ User can now view any NFT portfolio by applying different sorting algorithm, cho
 * by price
 * by owned quantity
 
-<figure><img src="../../.gitbook/assets/NFT Portfolio sorting-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portfolio sorting-en.png" alt=""><figcaption></figcaption></figure>

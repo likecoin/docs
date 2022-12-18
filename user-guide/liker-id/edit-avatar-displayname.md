@@ -34,8 +34,8 @@ Your name and avatar will appear in various Liker Land scenarios:
 
 ### NFT Portfolio
 
-{% content-ref url="../../general-guides/writing-nft/nft-portfolio.md" %}
-[nft-portfolio.md](../../general-guides/writing-nft/nft-portfolio.md)
+{% content-ref url="../../general-guides/writing-nft/collect-writing-nft/nft-portfolio.md" %}
+[nft-portfolio.md](../../general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Portfolio-en.png" alt=""><figcaption></figcaption></figure>

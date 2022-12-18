@@ -100,5 +100,5 @@ By publishing on Matters, your articles will be stored to the distributed InterP
 
 
 {% hint style="info" %}
-Using the Writing NFT plug-in to publish posts as NFTs, [NFT Widget](../general-guides/writing-nft/nft-widget.md) will appear at the bottom of each post for readers to collect. If not publish post as NFTs will display [LikeCoin button](../archive/archive/likecoin-token.md) only.
+Using the Writing NFT plug-in to publish posts as NFTs, [NFT Widget](../general-guides/writing-nft/collect-writing-nft/nft-widget.md) will appear at the bottom of each post for readers to collect. If not publish post as NFTs will display [LikeCoin button](../archive/archive/likecoin-token.md) only.
 {% endhint %}

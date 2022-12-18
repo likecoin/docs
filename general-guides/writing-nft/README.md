@@ -16,9 +16,9 @@ Writing NFT is the NFT of a piece of writing, literally. It can refer to article
 
 ### How to collect Writing NFT？
 
-Collect in [NFT Widget](nft-widget.md) embedded in the content, or at the user’s [NFT Portfolio](nft-portfolio.md) page. Readers need to log into [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/), [Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../user-guide/liker-land/download.md). spend LikeCoin or credit card to [collect NFT](collect-writing-nft.md).
+Collect in [NFT Widget](collect-writing-nft/nft-widget.md) embedded in the content, or at the user’s [NFT Portfolio](collect-writing-nft/nft-portfolio.md) page. Readers need to log into [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/), [Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../user-guide/liker-land/download.md). spend LikeCoin or credit card to [collect NFT](collect-writing-nft/).
 
-Users can also [purchase Writing NFT with a credit card](collect-writing-nft.md) first, and receive the NFT after installing the Keplr wallet.
+Users can also [purchase Writing NFT with a credit card](collect-writing-nft/) first, and receive the NFT after installing the Keplr wallet.
 
 ### How to list Writing NFT for sale?
 
@@ -42,11 +42,11 @@ Yes, you can always share the link of your NFT which can be copied from NFT Port
 
 ### Where can I check out my NFT collection?
 
-At [NFT Portfolio](nft-portfolio.md) page.
+At [NFT Portfolio](collect-writing-nft/nft-portfolio.md) page.
 
 ### How to sell Writing NFT in secondary market?
 
-Mark the price of your NFT for sale at [NFT Portfolio](nft-portfolio.md) page. Readers can then collect at any [NFT Widget](nft-widget.md).
+Mark the price of your NFT for sale at [NFT Portfolio](collect-writing-nft/nft-portfolio.md) page. Readers can then collect at any [NFT Widget](collect-writing-nft/nft-widget.md).
 
 ### How to set the quantity for sale?
 

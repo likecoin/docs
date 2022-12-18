@@ -22,7 +22,7 @@ After logging in, click the menu in the upper right corner **** and the menu wil
 
 ### **Option 1:** My Dashboard - [https://liker.land/dashboard](https://liker.land/dashboard)
 
-Connect to [NFT Portfolio](../../general-guides/writing-nft/nft-portfolio.md).
+Connect to [NFT Portfolio](../../general-guides/writing-nft/collect-writing-nft/nft-portfolio.md).
 
 ### Option 2: Civic Liker - [https://liker.land/civic](https://liker.land/civic)
 

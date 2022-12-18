@@ -10,7 +10,7 @@ Writers can install **Writing NFT plug-in** to publish posts as NFTs if the webs
 
 * Set the post title and tags as the NFT metadata automatically
 * Store the post content in distributed file system (IPFS and Arweave)
-* Embed [NFT Widget](nft-widget.md) at the bottom of each post for readers to collect
+* Embed [NFT Widget](collect-writing-nft/nft-widget.md) at the bottom of each post for readers to collect
 
 Readers will get the access of an immutable content copy which is stored in distributed file system after buying an NFT. The copy can be regarded as the “true copy” in Web3.
 

@@ -38,8 +38,8 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 
 #### Use Cosmostation to collect Writing NFT and enjoy depub.space:
 
-{% content-ref url="../../writing-nft/collect-writing-nft.md" %}
-[collect-writing-nft.md](../../writing-nft/collect-writing-nft.md)
+{% content-ref url="../../writing-nft/collect-writing-nft/" %}
+[collect-writing-nft](../../writing-nft/collect-writing-nft/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../user-guide/depub.space/" %}
