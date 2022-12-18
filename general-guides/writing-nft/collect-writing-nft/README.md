@@ -116,7 +116,7 @@ description: 如何收集 Writing NFT
 擁有 Cosmostation 錢包或 Liker Land app 的用戶也可以使用信用卡購買 Writing NFT，只需在登入時採用對應的登入方式即可。
 {% endhint %}
 
-## 用 LikeCoin 購買 Writing NFT（於桌面電腦登入）
+## 用 LikeCoin 購買 Writing NFT（使用錢包於桌面電腦登入）
 
 到 [Liker Land](https://liker.land/) 網站右上角點「連接錢包」。
 
@@ -146,7 +146,7 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 14.png" alt=""><figcaption></figcaption></figure>
 
-## 用 LikeCoin 購買 Writing NFT（以 Liker Land app Wallet Connect 登入）
+## 用 LikeCoin 購買 Writing NFT（Wallet Connect 登入）
 
 到 [Liker Land](https://liker.land/) 網站右上角點「連接錢包」。
 
@@ -174,7 +174,7 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 11.png" alt=""><figcaption></figcaption></figure>
 
-## 已擁有錢包並以手機收集 Writing NFT
+## 用手機收集 Writing NFT
 
 ### 在 Cosmostation app 簽署
 
