@@ -38,8 +38,8 @@ description: 支援 LikeCoin 的多鏈錢包
 
 #### 使用 Cosmostation 收集 Writing NFT 及使用 depub.space：
 
-{% content-ref url="../../writing-nft/collect-writing-nft.md" %}
-[collect-writing-nft.md](../../writing-nft/collect-writing-nft.md)
+{% content-ref url="../../writing-nft/collect-writing-nft/" %}
+[collect-writing-nft](../../writing-nft/collect-writing-nft/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../user-guide/depub.space/" %}

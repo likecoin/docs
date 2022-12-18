@@ -96,5 +96,5 @@ description: 如何在自架 WordPress 加入 NFT Widget，出版 WordPress 作�
 {% endcontent-ref %}
 
 {% hint style="info" %}
-使用 Writing NFT plug-in 出版 Writing NFT 後，[NFT Widget](../general-guides/writing-nft/nft-widget.md) 自動在文章下方顯示。已安裝 Writing NFT plug-in 但沒有為文章鑄造 Writing NFT 則顯示 [LikeCoin button 讚賞鍵](creator/)。
+使用 Writing NFT plug-in 出版 Writing NFT 後，[NFT Widget](../general-guides/writing-nft/collect-writing-nft/nft-widget.md) 自動在文章下方顯示。已安裝 Writing NFT plug-in 但沒有為文章鑄造 Writing NFT 則顯示 [LikeCoin button 讚賞鍵](creator/)。
 {% endhint %}

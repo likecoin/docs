@@ -14,9 +14,9 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 如何購買 Writing NFT？
 
-可在 [NFT Widget](nft-widget.md) 直接收集，或在用戶的 [NFT 展示櫃](nft-portfolio.md)購買。讀者需已安裝 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/)、[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker Land app](../../user-guide/liker-land/download.md)，及花 LikeCoin 或以信用卡 [收集 NFT](collect-writing-nft.md)。
+可在 [NFT Widget](collect-writing-nft/nft-widget.md) 直接收集，或在用戶的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)購買。讀者需已安裝 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/)、[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker Land app](../../user-guide/liker-land/download.md)，及花 LikeCoin 或以信用卡 [收集 NFT](collect-writing-nft/)。
 
-沒有加密錢包的用戶亦可以先[使用信用卡購買 Writing NFT](collect-writing-nft.md)，並於安裝 Keplr 錢包後接收該 NFT。
+沒有加密錢包的用戶亦可以先[使用信用卡購買 Writing NFT](collect-writing-nft/)，並於安裝 Keplr 錢包後接收該 NFT。
 
 ### 如何發售 Writing NFT？
 
@@ -44,7 +44,7 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 可在哪兒查看收集了的 NFT？
 
-在自己的 [NFT 展示櫃](nft-portfolio.md)頁面
+在自己的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)頁面
 
 ### 如何把 NFT 賣到二手市場？
 

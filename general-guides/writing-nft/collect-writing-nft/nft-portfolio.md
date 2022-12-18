@@ -10,7 +10,7 @@ description: 展示 NFT 藏品庫及個人貨架
 
 除了以數字表達收藏品的價值以外，展示櫃頁面進一步以不同級數的寶石來反映 Writing NFT 的現價，鑲在同一篇作品上的寶石顏色和形狀會隨着市場價格改變，美化 Writing NFT 展示。
 
-<figure><img src="../../.gitbook/assets/NFT Portfolio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portfolio.png" alt=""><figcaption></figcaption></figure>
 
 用戶可以透過不同的排序去查看任何 NFT 展示櫃，選擇包括：
 
@@ -18,4 +18,4 @@ description: 展示 NFT 藏品庫及個人貨架
 * 依照價值
 * 依照擁有數量
 
-<figure><img src="../../.gitbook/assets/NFT Portfolio sorting.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portfolio sorting.png" alt=""><figcaption></figcaption></figure>

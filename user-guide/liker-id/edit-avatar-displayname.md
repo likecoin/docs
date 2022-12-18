@@ -32,8 +32,8 @@ description: 讓自己的性格更特出
 
 ### NFT 展示櫃
 
-{% content-ref url="../../general-guides/writing-nft/nft-portfolio.md" %}
-[nft-portfolio.md](../../general-guides/writing-nft/nft-portfolio.md)
+{% content-ref url="../../general-guides/writing-nft/collect-writing-nft/nft-portfolio.md" %}
+[nft-portfolio.md](../../general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Portfolio.png" alt=""><figcaption></figcaption></figure>
