@@ -86,7 +86,7 @@ description: 如何收集 Writing NFT
 
 ![](<../../../.gitbook/assets/Buy NFT 05.png>)
 
-### 步驟二：購買 Writing NFT
+### 步驟二：信用卡付款
 
 點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「以信用卡付款」。
 
@@ -136,7 +136,7 @@ description: 如何收集 Writing NFT
 
 #### Cosmostation 登入
 
-彈出視窗選擇 Comostation，點擊登入。
+彈出視窗選擇 [Comostation](../../wallet/cosmostation/)，點擊登入。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 21.png" alt=""><figcaption></figcaption></figure>
 
