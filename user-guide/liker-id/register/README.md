@@ -37,7 +37,7 @@ Liker Land app 提供電郵地址+密碼及社交帳號 Google 登入、Facebook
 {% hint style="warning" %}
 一旦創建了 Liker ID，便不能修改字詞組合或登入方式。若不想再用某個 Liker ID，建議你把它留著不用，再創建一個新的。**留意一個電郵地址只可以註冊一個 Liker ID。**
 
-**同一電郵地址並不能同時以 Liker Land app 及 Keplr 註冊 Liker ID。**
+**同一電郵地址並不能同時以 Authcore 及 Keplr 註冊 Liker ID。**
 {% endhint %}
 
 {% hint style="info" %}
