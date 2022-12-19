@@ -17,3 +17,9 @@ description: 查找別人的 Writing NFT 藏品
 * 依照擁有數量
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio sorting.png" alt=""><figcaption></figcaption></figure>
+
+## 顯示收藏者頭像
+
+為了更好地展示創作者與支持者之間的關係，Liker Land 在 NFT 收藏頁面展示收藏者的頭像。
+
+<figure><img src="../../../.gitbook/assets/Collectors.png" alt=""><figcaption></figcaption></figure>
