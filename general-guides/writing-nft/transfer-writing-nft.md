@@ -4,7 +4,11 @@ description: 簡單轉移沒難度
 
 # 轉贈 Writing NFT
 
-現在開始你可以將你珍藏的 Writing NFT 傳送給別人了！ 以下將示範如何轉贈 Writing NFT。
+現在開始你可以將你珍藏的 Writing NFT 傳送給別人了！&#x20;
+
+就像記念冊一樣，用戶可於送贈 Writing NFT 時留言給接收者。該訊息將以交易備忘 ( Memo ) 的方式記錄在鏈上，並可於未來的傳送予其他人的時候不斷累積，形成 Writing NFT 的獨有「軌跡」。
+
+以下將示範如何轉贈 Writing NFT。
 
 ## 影片教學
 
