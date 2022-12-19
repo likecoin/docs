@@ -4,7 +4,7 @@ description: Publish ANY webpage as NFT
 
 # NFT Portal
 
-### 📣The Writing NFT is still in the early development stage. We sincerely invite creators to participate in the beta testing and give us feedback to improve the product. If you are interested, please apply to the Writing NFT Whitelist.
+### 📣The Writing NFT is still in the early development stage. We sincerely invite creators to participate in the beta testing and give us feedback to improve the product. If you are interested, please apply to the [Writing NFT Whitelist](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdPkunbI-68k7dzDqNNDX0U8Lr6lg3R2Jsm-RPduUNQ9Om05Q/viewform?usp=send\_form).
 
 ### 📣Minting Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the faucet for testing.
 
