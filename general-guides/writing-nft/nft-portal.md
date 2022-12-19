@@ -84,7 +84,9 @@ The Writing NFT preview page appears, click "Next".
 
 ### Step 3/4: Add Creator message
 
-Click "Add message to your collectors” to input to the message for your Writing NFT collectors.
+Click "Add message to your collectors” to input to the message.
+
+Creator message is a special paragraph of each article by the author. Unlike transfer message, all the Writing NFTs under the same collection shares the same creator message, and is stored on the NFT class data on chain.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6.png" alt=""><figcaption></figcaption></figure>
 
