@@ -78,7 +78,7 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption></figcaption></figure>
 
-彈出視窗出現 Keplr，點擊登入。
+彈出視窗出現 [Keplr](../../wallet/keplr/)，點擊登入。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 04.png" alt=""><figcaption></figcaption></figure>
 
