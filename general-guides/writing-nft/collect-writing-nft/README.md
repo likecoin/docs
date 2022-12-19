@@ -122,7 +122,7 @@ Go to the upper right corner of the Liker Land website and click "Connect Wallet
 
 #### Keplr login
 
-A pop-up window appears, click Keplr to login.
+A pop-up window appears, click [Keplr](../../wallet/keplr/) to login.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 04.png" alt=""><figcaption></figcaption></figure>
 
