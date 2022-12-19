@@ -24,7 +24,7 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 如何第一時間接收到新 NFT 上架的消息？
 
-可使用[追蹤創作者](follow-creators.md)功能。
+可使用[追蹤作者](follow-creators.md)功能。
 
 ### NFT 的價格如何訂定？
 
@@ -36,7 +36,7 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 如何轉贈 NFT？
 
-可在 NFT 展示櫃頁面，[輸入對方的錢包地址轉贈](transfer-writing-nft.md)。
+可在 NFT 頁面[輸入對方的錢包地址轉贈](transfer-writing-nft.md)。
 
 ### 如何發售 Writing NFT？
 

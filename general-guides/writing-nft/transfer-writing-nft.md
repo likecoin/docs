@@ -22,7 +22,7 @@ description: 簡單轉移沒難度
 
 ## 步驟二：輸入錢包地址
 
-在轉貼你的 NFT 頁面輸入收取 NFT 的錢包地址，及於附加留言空格填入訊息後點「轉贈」。
+在轉贈你的 NFT 頁面輸入收取 NFT 的錢包地址，及於附加留言空格填入訊息後點「轉贈」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 2.png" alt=""><figcaption></figcaption></figure>
 
