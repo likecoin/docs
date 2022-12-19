@@ -17,3 +17,9 @@ User can now view any NFT Portfolio by applying different sorting algorithm, cho
 * by owned quantity
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio sorting-en.png" alt=""><figcaption></figcaption></figure>
+
+## Showing collector’s avator
+
+To better illustrate the relationship between creators and supporters, Liker Land display the avator of the collectors in the NFT collection page.
+
+<figure><img src="../../../.gitbook/assets/Collectors-en.png" alt=""><figcaption></figcaption></figure>
