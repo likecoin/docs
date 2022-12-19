@@ -16,7 +16,7 @@ description: Publish ANY webpage as NFT
 
 The NFT Portal covers all writers that cannot use the WordPress plugin.
 
-**Option 1**: Writers can copy the URL of any webpage, paste it to [**NFT Portal**](https://app.like.co/nft/url) website to mint the page as Writing NFT. The Portal will scrape the og graphic, title and content of the webpage and store the information on blockchain/IPFS/Arweave.
+**Option 1**: Writers can copy the URL of any webpage, paste it to [**NFT Portal**](https://app.like.co/nft/url) **** website to mint the page as Writing NFT. The Portal will scrape the og graphic, title and content of the webpage and store the information on blockchain/IPFS/Arweave.
 
 **Option 2**: Register text, PDF, picture, sound... into [ISCN](../decentralized-publishing/app.like.co.md) first, then paste the ISCN ID to [NFT Portal](https://app.like.co/nft/url) to mint as NFT
 
