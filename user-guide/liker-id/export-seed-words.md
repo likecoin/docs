@@ -82,3 +82,7 @@ Then you can import the seed words into Keplr, Cosmostation or other wallets tha
 {% content-ref url="../../general-guides/wallet/cosmostation-app/import-wallet-into-cosmostation-app.md" %}
 [import-wallet-into-cosmostation-app.md](../../general-guides/wallet/cosmostation-app/import-wallet-into-cosmostation-app.md)
 {% endcontent-ref %}
+
+{% content-ref url="../../general-guides/wallet/leap/mport-wallet-into-leap.md" %}
+[mport-wallet-into-leap.md](../../general-guides/wallet/leap/mport-wallet-into-leap.md)
+{% endcontent-ref %}
