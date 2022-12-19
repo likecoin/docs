@@ -22,7 +22,7 @@
     * [其他工具](general-guides/writing-nft/collect-writing-nft/tools.md)
   * [追蹤創作者](general-guides/writing-nft/subscribe-to-the-creator.md)
   * [動態定價](general-guides/writing-nft/dynamic-pricing.md)
-  * [我的書架](general-guides/writing-nft/wo-de-shu-jia.md)
+  * [我的書架](general-guides/writing-nft/dashboard.md)
   * [轉贈 Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)
   * [Writing NFT WordPress 外掛](general-guides/writing-nft/writing-nft-wordpress-plugin.md)
   * [NFT Portal](general-guides/writing-nft/nft-portal.md)
