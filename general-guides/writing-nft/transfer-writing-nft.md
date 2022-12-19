@@ -6,6 +6,10 @@ description: It's easy!
 
 Transfer Writing NFT You can transfer your favorite Writing NFTs to others.
 
+User can leave a message when gifting a Writing NFT to the recipient. The message is record as a transaction memo on chain and can be stacked during further transfers, forming a “log” of that particular piece of Writing NFT.
+
+Transferring Writing NFT is demonstrated as follows:
+
 ## Step 1: Login and transfer
 
 Login your [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Liker Land app](../../user-guide/liker-land/download.md)., click on the NFT that needs to be transferred, and check how many of them you have "Own". Click "Transfer".
