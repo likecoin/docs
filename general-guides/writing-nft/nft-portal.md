@@ -8,6 +8,10 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### 📣鑄造 Writing NFT 需要使用 LikeCoin，用戶可於水龍頭取得少量 LikeCoin 以作測試
 
+{% content-ref url="../faucet.md" %}
+[faucet.md](../faucet.md)
+{% endcontent-ref %}
+
 
 
 若作者不是使用 WordPress 網站：
