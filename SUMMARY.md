@@ -92,7 +92,7 @@
     * [NFT Widget](general-guides/writing-nft/collect-writing-nft/nft-widget.md)
     * [NFT Portfolio](general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)
     * [Tools](general-guides/writing-nft/collect-writing-nft/tools.md)
-  * [Subscribe to the creator](general-guides/writing-nft/subscribe-to-the-creator.md)
+  * [Follow Creators](general-guides/writing-nft/follow-creators.md)
   * [Dynamic Pricing](general-guides/writing-nft/dynamic-pricing.md)
   * [My Dashboard](general-guides/writing-nft/dashboard.md)
   * [Transfer Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)

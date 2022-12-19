@@ -58,4 +58,4 @@ There is no upper limit in principle. However, as the marked price will increase
 
 ### How to know that there are new NFTs for sale?
 
-Use the [Subscribe to the creator](subscribe-to-the-creator.md) function.
+Use the [Subscribe to the creator](follow-creators.md) function.

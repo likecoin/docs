@@ -2,9 +2,9 @@
 description: Catch up with NFT new release
 ---
 
-# Subscribe to the creator
+# Follow Creators
 
-Want to be the first to hear about the creators' new Writing NFT? You can subscribe to them:
+User can now follow a creators by providing email address. Whenever the creators publish an NFT, the followers will receive a email notification and never miss the best chance to collect.
 
 ### Step 1: Fill in the email
 
