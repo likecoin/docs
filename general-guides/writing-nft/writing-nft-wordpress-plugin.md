@@ -14,14 +14,14 @@ description: 輕鬆出版 – 一鍵發行 NFT
 
 由於內容備份了在分散式檔案系統，擁有 NFT 的讀者等於擁有了一份內容的正本，可以隨時閱覽。
 
-### [下載 Writing NFT 外掛](https://wordpress.org/plugins/likecoin/)
+## [下載 Writing NFT 外掛](https://wordpress.org/plugins/likecoin/)
 
-### 安裝指南
+## 安裝指南
 
 {% content-ref url="../../user-guide/wordpress.md" %}
 [wordpress.md](../../user-guide/wordpress.md)
 {% endcontent-ref %}
 
-### 把 WordPress 文章出版成 Writing NFT 示範
+## 把 WordPress 文章出版成 Writing NFT 示範
 
 {% embed url="https://www.youtube.com/watch?v=NylJ5-QkJvs" %}

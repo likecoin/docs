@@ -60,4 +60,4 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 如何第一時間接收到新 NFT 上架的消息？
 
-可使用[追蹤創作者](subscribe-to-the-creator.md)功能。
+可使用[追蹤創作者](follow-creators.md)功能。
