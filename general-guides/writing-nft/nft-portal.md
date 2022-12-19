@@ -4,7 +4,13 @@ description: 把任何網頁文章內容出版成 NFT
 
 # NFT Portal
 
-若作者不是使用 WordPress 網站。
+### 📣Writng NFT 功能依然處於初期發展階段，我們誠意邀請創作者參與早期測試反饋意見，一起改善產品，有興趣者請申請加入 [Writing NFT 白名單](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdPkunbI-68k7dzDqNNDX0U8Lr6lg3R2Jsm-RPduUNQ9Om05Q/viewform?usp=send\_form)。
+
+### 📣鑄造 Writing NFT 需要使用 LikeCoin，用戶可於水龍頭取得少量 LikeCoin 以作測試
+
+
+
+若作者不是使用 WordPress 網站：
 
 **選擇一：**可到 **** [**NFT Portal**](https://app.like.co/nft/url) 網站貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統成為 ISCN 並生成 NFT
 
