@@ -82,9 +82,11 @@ description: 把任何網頁文章內容出版成 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5.png" alt=""><figcaption></figcaption></figure>
 
-### 步驟 3/4：輸入創作者訊息 <a href="#creator-message" id="creator-message"></a>
+### 步驟 3/4：輸入作者的話 <a href="#creator-message" id="creator-message"></a>
 
-點「Add mesage to your collectors」輸入給 Writing NFT 收藏者的話。
+點「Add mesage to your collectors」輸入作者的話。
+
+作者的話是作者於每篇文章顯示的特別段落。與轉贈時附加留言不同的是，同一個合集下的所有 Writing NFT 將共用同一段作者的話，並儲存於鏈上的 NFT class 資料中。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6.png" alt=""><figcaption></figcaption></figure>
 
