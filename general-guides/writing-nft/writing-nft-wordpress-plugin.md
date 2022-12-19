@@ -14,9 +14,9 @@ Writers can install **Writing NFT plug-in** to publish posts as NFTs if the webs
 
 Readers will get the access of an immutable content copy which is stored in distributed file system after buying an NFT. The copy can be regarded as the “true copy” in Web3.
 
-### [Download Writing NFT plugin](https://wordpress.org/plugins/likecoin/)
+## [Download Writing NFT plugin](https://wordpress.org/plugins/likecoin/)
 
-### Installation
+## Installation
 
 {% content-ref url="../../user-guide/wordpress.md" %}
 [wordpress.md](../../user-guide/wordpress.md)
