@@ -4,7 +4,7 @@ description: 導入助記詞並建立錢包
 
 # 在 Cosmostation 導入錢包
 
-### 安裝 Cosmostation 瀏覽器擴充功能後導入錢包
+## 安裝 Cosmostation 瀏覽器擴充功能後導入錢包
 
 [安裝 Cosmostation 瀏覽器擴充功能](how-to-install-cosmostation-extension.md)後選擇「Import Wallet」。
 
@@ -32,7 +32,7 @@ description: 導入助記詞並建立錢包
 
 登入 Cosmostation 後即可看到導入的帳號。
 
-### 導入多於一個錢包
+## 導入多於一個錢包
 
 假如你需要導入多於一個錢包，在導入第一個錢包後打開 Cosmostation，點現有錢包，再點齒輪。
 
