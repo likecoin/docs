@@ -103,7 +103,7 @@ ISCN with a unique content fingerprint is ready.
 
 ![](<../../.gitbook/assets/ISCN 9.png>)
 
-Back to app.like.co homepage, click **\[My Publishing]** to list all your publications.
+Back to app.like.co homepage, click **\[**[**My Publishing**](https://app.like.co/works)**]** to list all your publications.
 
 ![](<../../.gitbook/assets/ISCN 10.png>)
 
@@ -115,7 +115,7 @@ Click on a particular piece to check out the metadata and the original file.
 
 When writing an article on [Matters](https://matters.news/), select "Register ISCN" in the "Article Management" in the lower right corner and you can register for ISCN when publishing the article.
 
-Registered ISCN can be viewed in "My Publishing".
+Registered ISCN can be viewed in "[My Publishing](https://app.like.co/works)".
 
 <figure><img src="../../.gitbook/assets/Matters ISCN-en.png" alt=""><figcaption></figcaption></figure>
 
