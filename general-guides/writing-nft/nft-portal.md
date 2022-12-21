@@ -153,3 +153,11 @@ Go to "[My Publishing](https://app.like.co/works)" at [app.like.co](https://app.
 Enter the ISCN ID in the [NFT Portal](https://app.like.co/nft/url) and click "Register ISCN". For the steps remaining, please refer to [Publish Writing NFT with Article URL Step 2-2/4](nft-portal.md#publish-writing-nft-with-article-url).
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 3.png" alt=""><figcaption></figcaption></figure>
+
+## Creator’s Introduction
+
+Set your own introduction together with profile picture and display name so your supporters can know you better.
+
+{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
+{% endcontent-ref %}

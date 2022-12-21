@@ -12,9 +12,9 @@ Login [Liker Land](https://liker.land/) with [Keplr Browser Extension](../../gen
 
 <figure><img src="../../.gitbook/assets/Settings.png" alt=""><figcaption></figcaption></figure>
 
-A pop-up windows appears, click "Change Avatar" and change the "Display Name".
+A pop-up windows appears, click "Change Avatar" or "Edit" to change e-mall. Click "Display Name" and "Description" to change them and don't forget to click "Save".
 
-<figure><img src="../../.gitbook/assets/avatar desktop-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker ID avatar desktop-en.png" alt=""><figcaption></figcaption></figure>
 
 ### Mobile
 
@@ -25,8 +25,6 @@ On the [Liker Land app](../liker-land/download.md) check the avatar to change it
 Click on setting at the lower right hand corner and select \[Profile], then click \[Profile] again to chance the display name.
 
 <figure><img src="../../.gitbook/assets/avatar 2-en.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## Use Case
 
