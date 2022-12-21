@@ -91,3 +91,7 @@ description: dao.like.co 管理 LikeCoin 必備
 {% content-ref url="../block-explorer/" %}
 [block-explorer](../block-explorer/)
 {% endcontent-ref %}
+
+## 其他可使用 Cosmostation 管理 LikeCoin 的錢包介面 <a href="#other-wallet-interface" id="other-wallet-interface"></a>
+
+Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)
