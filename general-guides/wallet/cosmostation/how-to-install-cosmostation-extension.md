@@ -4,7 +4,7 @@ description: On Chromium Based Browsers
 
 # How to install Cosmostation Browser Extension
 
-### Step 1: Install Cosmostation
+## Step 1: Install Cosmostation
 
 Go to the [Wallet page of the Cosmostation website](https://www.cosmostation.io/wallet/#extension) to learn about browser extensions and click "Get Started".
 
@@ -18,7 +18,7 @@ Click "Add extension".
 
 ![](<../../../.gitbook/assets/Comostation 3.png>)
 
-### Step 2: Create new account
+## Step 2: Create new account
 
 After the installation, the browser will automatically jump to the registration page, click "I have read and agree to the Terms of use", and then click "Start" to continue.
 

@@ -2,7 +2,7 @@
 description: dao.like.co is essential for managing LikeCoin
 ---
 
-# Cosmostation + dao.like.co: Deposit, send, delegate, governance and view transactions
+# Cosmostation + dao.like.co: Deposit, send, delegate, governance
 
 Users can manage your LikeCoin together with [dao.like.co](https://dao.like.co/) and [Cosmostation Browser Extension](how-to-install-cosmostation-extension.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-cosmostation),[ send](dao.like.co.md#using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin.md) LikeCoin; provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote.md) and [view transaction details](../block-explorer/dao.like.co.md).
 
@@ -91,3 +91,7 @@ After the "Sent and confirming", "Successfully Send" appears, sending of LikeCoi
 {% content-ref url="../block-explorer/" %}
 [block-explorer](../block-explorer/)
 {% endcontent-ref %}
+
+## Other wallet interface for managing LikeCoin with Cosmostation
+
+* Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)
