@@ -107,3 +107,4 @@ description: dao.like.co 管理 LikeCoin 必備
 * Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
 * ping.pub - [https://ping.pub/](https://ping.pub/)
+* Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)
