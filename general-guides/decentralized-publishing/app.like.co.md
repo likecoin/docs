@@ -20,7 +20,7 @@ Users can use [app.like.co](https://app.like.co/) to try out and register his/he
 
 Visit [**app.like.co**](https://app.like.co) with the browser and click **\[Connect Wallet]** on the top right corner to login by wallet.&#x20;
 
-![](<../../.gitbook/assets/ISCN 1.png>)
+<figure><img src="../../.gitbook/assets/ISCN 1.png" alt=""><figcaption></figcaption></figure>
 
 Please [register a Keplr wallet](../wallet/keplr/) before registering an ISCN or using [Liker Land app](../../user-guide/liker-land/download.md).
 
@@ -38,7 +38,7 @@ On the Liker Land app, click the QRCode icon to bring up the camera, and scan th
 
 ![](<../../.gitbook/assets/depub.SPACE 4-en.png>)
 
-Or click "WalletConnect" on settings, then click "New connection and and scan the QRCode.
+Or click "WalletConnect" on settings, then click "New connection" and and scan the QRCode.
 
 ![](<../../.gitbook/assets/depub.space wc 5-en.png>)
 
@@ -48,7 +48,7 @@ The ISCN App window will pop-up, click "Approve".
 
 After that your wallet address will be displayed on the top right hand corner, click **\[Register]** to publish your work.
 
-![](<../../.gitbook/assets/ISCN 2.png>)
+<figure><img src="../../.gitbook/assets/ISCN 2.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Upload Content <a href="#bu-zhou-er-shang-zai-nei-rong" id="bu-zhou-er-shang-zai-nei-rong"></a>
 
@@ -103,13 +103,21 @@ ISCN with a unique content fingerprint is ready.
 
 ![](<../../.gitbook/assets/ISCN 9.png>)
 
-Back to app.like.co homepage, click **\[Your Publishing]** to list all your publications.
+Back to app.like.co homepage, click **\[My Publishing]** to list all your publications.
 
 ![](<../../.gitbook/assets/ISCN 10.png>)
 
 Click on a particular piece to check out the metadata and the original file.
 
 ![](<../../.gitbook/assets/ISCN 11.png>)
+
+## Register an ISCN on Matters
+
+When writing an article on [Matters](https://matters.news/), select "Register ISCN" in the "Article Management" in the lower right corner and you can register for ISCN when publishing the article.
+
+Registered ISCN can be viewed in "My Publishing".
+
+<figure><img src="../../.gitbook/assets/Matters ISCN-en.png" alt=""><figcaption></figcaption></figure>
 
 ## Publish Writing NFT
 
