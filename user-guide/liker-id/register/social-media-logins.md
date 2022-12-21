@@ -25,6 +25,10 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 <figure><img src="../../../.gitbook/assets/social-media-logins-mobile.png" alt=""><figcaption></figcaption></figure>
 
+點擊欲綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
+
+<figure><img src="../../../.gitbook/assets/social-media-logins-mobile-settings.png" alt=""><figcaption></figcaption></figure>
+
 #### 網頁版
 
 到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」登入。
@@ -33,7 +37,11 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 <figure><img src="../../../.gitbook/assets/legacy login.png" alt=""><figcaption></figcaption></figure>
 
-打開「Authcore 設定」，點選「安全設定」及「社群登入」。
+打開「Authcore 設定」
+
+<figure><img src="../../../.gitbook/assets/Authcore settings.png" alt=""><figcaption></figcaption></figure>
+
+點選「安全設定」及「社群登入」。
 
 ![](../../../.gitbook/assets/social-media-logins-1.png)
 
