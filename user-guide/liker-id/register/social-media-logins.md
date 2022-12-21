@@ -55,6 +55,6 @@ User has to go to Matters website for linkinging:
 4. On "Wallet setting" , select "Liker ID"
 5. Login your Liker ID and link with Matters according to the instructions
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Once you link your Liker ID with Matters ID, they cannot be unbonded.
 {% endhint %}
