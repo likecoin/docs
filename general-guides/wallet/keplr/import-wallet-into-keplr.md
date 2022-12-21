@@ -4,7 +4,7 @@ description: 導入助記詞並建立錢包
 
 # 在 Keplr 導入錢包
 
-### 步驟一：開始導入
+## 步驟一：開始導入
 
 [安裝 Keplr 瀏覽器擴充功能](how-to-install-keplr-extension.md)後直接選「Import Existing Account」。
 
@@ -16,7 +16,7 @@ description: 導入助記詞並建立錢包
 
 ![](<../../../.gitbook/assets/Keplr Seed Words 02.png>)
 
-### 步驟二：導入現有帳號
+## 步驟二：導入現有帳號
 
 選「Import existing account」。
 
