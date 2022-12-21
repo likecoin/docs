@@ -165,3 +165,11 @@ Writing NFT 已成功鑄造並可供其他用戶購買，然而在內容頁面�
 ## 把語音檔出版成 Writing NFT
 
 {% embed url="https://www.youtube.com/watch?v=YkVZzYVeT_E" %}
+
+## 設定作者簡介
+
+設置個人簡介、圖片及顯示名稱讓你的支持者更加了解你吧！
+
+{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
+{% endcontent-ref %}

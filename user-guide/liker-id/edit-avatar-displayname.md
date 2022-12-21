@@ -12,9 +12,9 @@ description: 讓自己的性格更特出
 
 <figure><img src="../../.gitbook/assets/Liker ID Settings.png" alt=""><figcaption></figcaption></figure>
 
-彈出視窗，點「更改頭像」及修改「顯示名稱」。
+彈出視窗，可「更改頭像」及「編輯電郵」。更改「顯示名稱」及簡介後務必點「儲存」。
 
-<figure><img src="../../.gitbook/assets/avatar desktop.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker ID avatar desktop.png" alt=""><figcaption></figcaption></figure>
 
 ### 手機版
 
