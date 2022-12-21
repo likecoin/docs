@@ -60,6 +60,6 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 > [玩轉 Matters 實用指南](https://matters.news/guide)
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 一旦綁定 Matters ID 跟 Liker ID，便無法解綁。敬請留意。
 {% endhint %}
