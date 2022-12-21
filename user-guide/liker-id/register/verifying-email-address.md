@@ -24,8 +24,11 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 ### 步驟二：進入安全設定
 
-1. 在「Authcore 設定」選擇「安全設定」分頁
-2. 點擊「雙重認證」
+打開「Authcore 設定」
+
+<figure><img src="../../../.gitbook/assets/Authcore settings.png" alt=""><figcaption></figcaption></figure>
+
+選擇「安全設定」分頁並點擊「雙重認證」
 
 ![](../../../.gitbook/assets/IMG\_2343.jpg)
 
