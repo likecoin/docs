@@ -168,7 +168,7 @@ Writing NFT 已成功鑄造並可供其他用戶購買，然而在內容頁面�
 
 ## 設定作者簡介
 
-設置個人簡介、圖片及顯示名稱讓你的支持者更加了解你吧！
+設置個人簡介、圖片及顯示名稱讓你的支持者更加了解你吧！（必須註冊 Liker ID）
 
 {% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
 [edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
