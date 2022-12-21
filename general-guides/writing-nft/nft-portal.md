@@ -156,7 +156,7 @@ Enter the ISCN ID in the [NFT Portal](https://app.like.co/nft/url) and click "Re
 
 ## Creator’s Introduction
 
-Set your own introduction together with profile picture and display name so your supporters can know you better.
+Set your own introduction together with profile picture and display name so your supporters can know you better. ( Need to register a Liker ID )
 
 {% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
 [edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
