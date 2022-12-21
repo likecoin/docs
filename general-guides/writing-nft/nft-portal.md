@@ -14,7 +14,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 
 
-若作者不是使用 WordPress 網站：
+若作者不是使用 [WordPress](writing-nft-wordpress-plugin.md) 網站：
 
 **選擇一：**可到 **** [**NFT Portal**](https://app.like.co/nft/url) 網站貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統成為 ISCN 並生成 NFT
 
@@ -84,9 +84,9 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### 步驟 3/4：輸入作者的話 <a href="#creator-message" id="creator-message"></a>
 
-點「Add mesage to your collectors」輸入作者的話。
-
 作者的話是作者於每篇文章顯示的特別段落。與轉贈時附加留言不同的是，同一個合集下的所有 Writing NFT 將共用同一段作者的話，並儲存於鏈上的 NFT class 資料中。
+
+點「Add mesage to your collectors」輸入作者的話。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6.png" alt=""><figcaption></figcaption></figure>
 
@@ -166,7 +166,7 @@ Writing NFT 已成功鑄造並可供其他用戶購買，然而在內容頁面�
 
 {% embed url="https://www.youtube.com/watch?v=YkVZzYVeT_E" %}
 
-## 設定作者簡介
+## 設置作者簡介
 
 設置個人簡介、圖片及顯示名稱讓你的支持者更加了解你吧！（必須註冊 Liker ID）
 
