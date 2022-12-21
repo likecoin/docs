@@ -8,9 +8,9 @@ description: 讓自己的性格更特出
 
 ### 網頁版
 
-在 [Liker Land](https://liker.land/) 登入 [Keplr Browser Extension](../../general-guides/wallet/keplr/) 後，點 Settings。
+在 [Liker Land](https://liker.land/) 登入 [Keplr Browser Extension](../../general-guides/wallet/keplr/) 後，點「設定」。
 
-<figure><img src="../../.gitbook/assets/Settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker ID Settings.png" alt=""><figcaption></figcaption></figure>
 
 彈出視窗，點「更改頭像」及修改「顯示名稱」。
 

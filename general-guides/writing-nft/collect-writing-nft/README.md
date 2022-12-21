@@ -60,7 +60,7 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption></figcaption></figure>
 
-點三間菜單再選「[我的書架](https://liker.land/dashboard?tab=collected)」即可查看已購買的 NFT。
+點頭像再選「[我的書架](https://liker.land/dashboard?tab=collected)」即可查看已購買的 NFT。
 
 <figure><img src="../../../.gitbook/assets/NFT Dashboard.png" alt=""><figcaption></figcaption></figure>
 
