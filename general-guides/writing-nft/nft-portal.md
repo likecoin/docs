@@ -14,7 +14,7 @@ description: Publish ANY webpage as NFT
 
 
 
-The NFT Portal covers all writers that cannot use the WordPress plugin.
+The NFT Portal covers all writers that cannot use the [WordPress](writing-nft-wordpress-plugin.md) plugin.
 
 **Option 1**: Writers can copy the URL of any webpage, paste it to [**NFT Portal**](https://app.like.co/nft/url) **** website to mint the page as Writing NFT. The Portal will scrape the og graphic, title and content of the webpage and store the information on blockchain/IPFS/Arweave.
 
@@ -84,9 +84,9 @@ The Writing NFT preview page appears, click "Next".
 
 ### Step 3/4: Add Creator message
 
-Click "Add message to your collectors” to input to the message.
-
 Creator message is a special paragraph of each article by the author. Unlike transfer message, all the Writing NFTs under the same collection shares the same creator message, and is stored on the NFT class data on chain.
+
+Click "Add message to your collectors” to input to the message.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6.png" alt=""><figcaption></figcaption></figure>
 
