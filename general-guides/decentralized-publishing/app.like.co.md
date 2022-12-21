@@ -20,7 +20,7 @@ description: 第一個 ISCN 的概念示範應用
 
 到 [app.like.co](https://app.like.co/) 點擊右上角「Connect Wallet」。
 
-![](<../../.gitbook/assets/ISCN 1.png>)
+<figure><img src="../../.gitbook/assets/ISCN 1.png" alt=""><figcaption></figcaption></figure>
 
 可使用 [Keplr Browser Extension](../wallet/keplr/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 註冊 ISCN。
 
@@ -44,11 +44,11 @@ description: 第一個 ISCN 的概念示範應用
 
 彈出 ISCN App 視窗，點「允許」。
 
-![](<../../.gitbook/assets/ISCN 1 Login 4 (1).png>)
+<figure><img src="../../.gitbook/assets/ISCN 1 Login 4.png" alt=""><figcaption></figcaption></figure>
 
 完成連結後右上角顯示你的錢包地址，點擊「Register」開始註冊。
 
-![](<../../.gitbook/assets/ISCN 2.png>)
+<figure><img src="../../.gitbook/assets/ISCN 2.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟二：上載內容
 
