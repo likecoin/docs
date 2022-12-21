@@ -2,7 +2,7 @@
 description: dao.like.co is essential for managing LikeCoin
 ---
 
-# Keplr + dao.like.co: Deposit, send, delegate, governance and view transactions
+# Keplr + dao.like.co: Deposit, send, delegate, governance
 
 Use dao.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-app/how-to-install-cosmostation-app.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin.md) LikeCoin; provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote.md) and [view transaction details](../block-explorer/dao.like.co.md).
 
@@ -105,3 +105,4 @@ After the "Sent and confirming", "Successfully Send" appears, sending of LikeCoi
 * Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
 * ping.pub - [https://ping.pub/](https://ping.pub/)
+* Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)

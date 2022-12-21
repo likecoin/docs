@@ -4,7 +4,7 @@ description: On Chromium Based Browsers
 
 # How to install Keplr Browser Extension
 
-### Step 1: Install Keplr Browser Extension
+## Step 1: Install Keplr Browser Extension
 
 Go to the Chrome Webstore and click "Add to Chrome" to install the [Keplr Browser Extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
 
@@ -14,7 +14,7 @@ Click "Add extension".
 
 ![](../../../.gitbook/assets/keplr02-en.png)
 
-### Step 2: Create new account
+## Step 2: Create new account
 
 After installation, click on Keplr icon on the upper right corner of your browser and you will see the registration screen. Click “Create new account”.
 
@@ -26,7 +26,7 @@ The screen shows up your mnemonic seed. Find a secure place to encrypt and store
 
 Fill in your Account name, password and click "Next", after validating the mnemonic seed, the wallet interface of Keplr appears.
 
-### Step 3: Connect to LikeCoin chain
+## Step 3: Connect to LikeCoin chain
 
 After successfully installed Keplr, visit [https://dao.like.co](https://dao.like.co/), choose "Keplr Browser Extension" then click "Approve" to add LikeCoin chain to Keplr. For more details please refer to [Connect Keplr with LikeCoin chain](dao.like.co.md#connect-keplr-with-likecoin-chain):
 
