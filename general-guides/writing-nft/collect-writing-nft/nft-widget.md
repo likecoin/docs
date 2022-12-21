@@ -12,6 +12,6 @@ description: 隨心收集 – 嵌在文章中的銷售點
 
 若作者用的是 WordPress 網站，只需安裝了 [Writing NFT plug-in](../writing-nft-wordpress-plugin.md)，NFT Widget 自動在文章下方顯示，讓讀者購買。
 
-[非 WordPress 用戶](../nft-portal.md)可以 iframe 的方法把 NFT Widget 嵌入文章，但需手動把 portal 生成的 ISCN 填作 widget 的參數。
+[非 WordPress 用戶](../nft-portal.md)可以 iframe 的方法把 NFT Widget 嵌入文章，但需手動把 [NFT Portal](../nft-portal.md) 生成的 ISCN 填作 Widget 的參數。
 
 <figure><img src="../../../.gitbook/assets/LikeCoin button with Writing NFT.png" alt=""><figcaption></figcaption></figure>
