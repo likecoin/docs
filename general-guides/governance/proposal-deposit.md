@@ -12,11 +12,7 @@ description: 讓議案投票得以展開
 
 留意，若未能超過法定投票權，又或者三份一以上投票權強烈反對（被視為「惡意提案」），則議案不通過之餘，LikeCoin 保證金也會被沒收並撥入社群基金**；**否則保證金將歸還予出資的 Likers。
 
-存入保證金的方式有多種，我們建議使用 [dao.like.co](https://dao.like.co/) 配合 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/)。 你也可以通過以下方式存入保證金：
-
-* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
-* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
-* Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
+存入保證金的方式有多種，我們建議使用 [dao.like.co](https://dao.like.co/) 配合 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/)。
 
 如何就議案存入保證金
 ----------

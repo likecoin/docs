@@ -21,9 +21,10 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 你亦可以通過以下網站搭配 [Keplr Browser Extension](../wallet/keplr/) 管理你的 LikeCoin：
 
-* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
-* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
-* Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
+* Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
+* BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
+* ping.pub - [https://ping.pub/](https://ping.pub/)
+* Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)
 
 {% hint style="success" %}
 留意委託及領取收益需要[手續費](../wallet/transaction-fee.md)。

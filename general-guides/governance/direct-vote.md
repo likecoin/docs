@@ -10,9 +10,10 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 投票的方式有多種，我們建議使用 [dao.like.co](https://dao.like.co/) 配合 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/)。你也可以通過以下方式進行投票：
 
-* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
-* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
-* Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
+* Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
+* BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
+* ping.pub - [https://ping.pub/](https://ping.pub/)
+* Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)
 
 亦可使用 [Cosmostation 手機應用程式](../wallet/cosmostation-mobile/) 進行投票。
 
