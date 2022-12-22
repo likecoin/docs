@@ -10,6 +10,10 @@ description: dao.like.co 管理 LikeCoin 必備
 
 用戶需要先到 [dao.like.co](https://dao.like.co/) 進行連接方可於 Keplr 瀏覽器擴充功能菜單顯示 LikeCoin chain。
 
+{% hint style="warning" %}
+LikeCoin chain 經已於 2022 年 5 月 4 日成功升級為 LaiChiKok 版本。升級後 LikeCoin 錢包地址已改為 "like1" 新地址前綴並向後兼容舊的 "cosmos1" 前綴。假如你的 Keplr 是於此日期前安裝並依然在 LikeCoin chain 使用 cosmos1 前綴，你需要升級你的錢包地址，詳見[新地址前綴 (like) 常見問題](../like-address-prefix.md)。
+{% endhint %}
+
 ### 步驟一
 
 到 [dao.like.co](https://dao.like.co/) 網站，點擊「Keplr Browser Extension」。
