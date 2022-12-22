@@ -8,6 +8,12 @@ Use dao.like.co wallet interface together with [Keplr Browser Extension](../cosm
 
 ## Connect Keplr with LikeCoin chain
 
+Users have to connect to [dao.like.co](https://dao.like.co/) before the LikeCoin chain can be displayed in the Keplr Browser extension menu.
+
+{% hint style="warning" %}
+LikeCoin chain was successfully upgraded to the LaiChiKok version on May 4, 2022. The new LikeCoin wallet address has the prefix "like1" and it also supports the "cosmos1" prefix. If your Keplr was installed before this date and you still use the cosmos1 prefix on the LikeCoin chain, you need to upgrade your wallet address, see the [New LikeCoin address prefix "like" - FAQ](../like-address-prefix.md) for details.
+{% endhint %}
+
 ### Step 1
 
 Go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
