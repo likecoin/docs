@@ -26,4 +26,8 @@ Note that the Leap does not support registration of Liker ID.
 
 ## Leap Mobile Wallet
 
-Leap also launched a mobile wallet, which has the same function as the Leap Browser Extension. Since it is still in the trial stage, please refer to the [Leap official website](https://www.leapwallet.io/)[#please-refer-to-the-following-articles-to-learn-how-to-install-leap-browser-extension-on-desktop](./#please-refer-to-the-following-articles-to-learn-how-to-install-leap-browser-extension-on-desktop "mention") for more details.
+Leap also launched a mobile wallet, which has the same function as the Leap Browser Extension. Since it is still in the trial stage, please refer to the [Leap official website](https://www.leapwallet.io/) for more details.
+
+## Leapboard
+
+[Leapboard](https://cosmos.leapwallet.io/) is the wallet interface of Leap. Users can use the Leap Browser extension, [Keplr Browser extension](../keplr/) or [Cosmostation Browser extension](../cosmostation/) to log in and transfer, delegate, and vote. You can also use their Telegram notification function to monitor LikeCoin transactions in your wallet at any time.
