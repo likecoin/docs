@@ -4,7 +4,7 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 # 安裝 Leap 瀏覽器擴充功能
 
-### 步驟一：安裝 Leap 瀏覽器擴充功能
+## 步驟一：安裝 Leap 瀏覽器擴充功能
 
 到 [Leap 網站](https://www.leapwallet.io/)了解瀏覽器擴充功能後點「Install Leap for Cosmos」。
 
@@ -18,7 +18,7 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 <figure><img src="../../../.gitbook/assets/leap 3.png" alt=""><figcaption></figcaption></figure>
 
-### 步驟二：註冊新帳戶
+## 步驟二：註冊新帳戶
 
 安裝完成後出現註冊畫面。點擊「Create new account」。
 

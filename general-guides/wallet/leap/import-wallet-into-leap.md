@@ -4,7 +4,7 @@ description: 導入助記詞並建立錢包
 
 # 在 Leap 導入錢包
 
-### 安裝 Leap 瀏覽器擴充功能後導入錢包
+## 安裝 Leap 瀏覽器擴充功能後導入錢包
 
 [安裝 Leap 瀏覽器擴充功能](how-to-install-leap-extension.md)後選擇「Import an existing wallet」中任一選項。
 
