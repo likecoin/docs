@@ -12,7 +12,7 @@ On October 20, 2021, Likers can access LIKE in a permissionless and frictionless
 
 ### Step 1: Connect Osmosis
 
-Go to the Osmosis website [https://app.osmosis.zone/](https://app.osmosis.zone/), click the lower left hand corner "Connect Wallet".
+Go to the Osmosis website [https://app.osmosis.zone/](https://app.osmosis.zone/), click the top right hand corner "Connect Wallet".
 
 ![](<../../.gitbook/assets/Osmosis 01.png>)
 
@@ -20,7 +20,7 @@ On Connect Wallet, select "[Keplr Wallet](../wallet/keplr/)".
 
 ![](<../../.gitbook/assets/Osmosis 02.png>)
 
-On the lower left hand corner your wallet name and OSMO balance appear. You can also click "Sign Out" at any time.
+On the top right hand corner your wallet name and OSMO balance appear. You can also click "Sign Out" at any time.
 
 ![](<../../.gitbook/assets/Osmosis 03.png>)
 
