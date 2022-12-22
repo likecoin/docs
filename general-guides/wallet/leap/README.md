@@ -27,3 +27,7 @@ Web3 唯一的非託管超級錢包。使用 Leap 是傳送、互換和委託密
 ## Leap 手機錢包
 
 Leap 亦推出了手機錢包，功能與 Leap 瀏覽器擴充功能相同，由於仍處於率先試用階段，更多詳情請參看 [Leap 官網](https://www.leapwallet.io/)。
+
+## Leapboard 錢包介面
+
+[Leapboard](https://cosmos.leapwallet.io/) 是 Leap 的錢包介面，用戶可使用 Leap 瀏覽器擴充功能、[Keplr 瀏覽器擴充功能](../keplr/)或 [Cosmostation 瀏覽器擴充功能](../cosmostation/)登入並於介面中進行轉帳、委託與投票。此外更可以使用他們的 Telegram 通知功能，隨時監察錢包中的 LikeCoin 交易。
