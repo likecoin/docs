@@ -23,9 +23,10 @@ You may also use your mobile to delegate:
 
 &#x20;You may also want to manage your LikeCoin with [Keplr Browser Extension](../wallet/keplr/) and:
 
-* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
-* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
-* Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
+* Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
+* BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
+* ping.pub - [https://ping.pub/](https://ping.pub/)
+* Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)
 
 {% hint style="success" %}
 [Transaction fee](../wallet/transaction-fee.md) is required for ‌Delegate and Withdraw Rewards.

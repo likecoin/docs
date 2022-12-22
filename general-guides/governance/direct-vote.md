@@ -10,9 +10,10 @@ Besides delegating your voting powers to validators to let them vote on behalf o
 
 There are multiple ways to vote for a proposal, we suggest using [dao.like.co](https://dao.like.co/welcome) together with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/). You may also want to use:
 
-* Omniflix: [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
-* BitSong: [https://wallet.bitsong.io/](https://wallet.bitsong.io/)
-* Ping.Pub: [https://ping.pub/likecoin/](https://ping.pub/likecoin/)
+* Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
+* BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
+* ping.pub - [https://ping.pub/](https://ping.pub/)
+* Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)
 
 Or else use [Cosmostation app](../wallet/cosmostation-app/) to vote.
 
