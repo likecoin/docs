@@ -4,7 +4,7 @@ description: On Chromium Based Browsers
 
 # How to install Leap Browser Extension
 
-### Step 1: Install Leap
+## Step 1: Install Leap
 
 Go to the [Leap website](https://www.leapwallet.io/) to learn about browser extensions and click "Get Started".
 
@@ -18,7 +18,7 @@ Click "Add extension".
 
 <figure><img src="../../../.gitbook/assets/leap 3.png" alt=""><figcaption></figcaption></figure>
 
-### Step 2: Create new account
+## Step 2: Create new account
 
 After the installation, the browser will automatically jump to the registration page, click "Create new wallet".
 

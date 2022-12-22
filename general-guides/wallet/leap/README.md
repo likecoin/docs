@@ -23,3 +23,7 @@ Note that the Leap does not support registration of Liker ID.
 {% content-ref url="../../stake/delegation-of-likecoin.md" %}
 [delegation-of-likecoin.md](../../stake/delegation-of-likecoin.md)
 {% endcontent-ref %}
+
+## Leap Mobile Wallet
+
+Leap also launched a mobile wallet, which has the same function as the Leap Browser Extension. Since it is still in the trial stage, please refer to the [Leap official website](https://www.leapwallet.io/)[#please-refer-to-the-following-articles-to-learn-how-to-install-leap-browser-extension-on-desktop](./#please-refer-to-the-following-articles-to-learn-how-to-install-leap-browser-extension-on-desktop "mention") for more details.

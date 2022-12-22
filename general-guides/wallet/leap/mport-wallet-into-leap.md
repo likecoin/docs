@@ -4,7 +4,7 @@ description: Import Secret Recovery Phrase and create wallet
 
 # Import wallet into Leap
 
-### Import wallet after installing the Leap Browser Extension
+## Import wallet after installing the Leap Browser Extension
 
 Select any one of the options on "Import an existing wallet" after [installing the Leap Browser Extension](how-to-install-leap-extension.md).
 
