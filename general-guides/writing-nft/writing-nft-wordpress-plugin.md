@@ -6,7 +6,7 @@ description: Publish as You Write – Effortless NFT Minting
 
 Writers can publish Writing NFT as they are writing in a seamless way.
 
-Writers can install **Writing NFT plug-in** to publish posts as NFTs if the website is based on WordPress. The plug-in does the followings:
+Writers can install **Writing NFT plugin** to publish posts as NFTs if the website is based on WordPress. The plug-in does the followings:
 
 * Set the post title and tags as the NFT metadata automatically
 * Store the post content in distributed file system (IPFS and Arweave)
