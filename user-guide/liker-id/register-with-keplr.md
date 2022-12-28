@@ -8,6 +8,10 @@ Users can register a Liker ID with [Keplr](../../general-guides/wallet/keplr/) a
 
 Note that users can choose either method ( Keplr or [General method aka Authcore](register/) ) for Liker ID registration, the two login methods cannot be interchanged for a given Liker ID once it has been confirmed.
 
+{% hint style="danger" %}
+[Matters](../creator/matters.md) user is not recommended to use the Liker ID registered with Keplr wallet to bind with Matters ID. For more details please refer to [LikeCoin button -> Matters](https://docs.like.co/v/zh/user-guide/creator/matters).
+{% endhint %}
+
 ## **Comparison**
 
 | **Register with Keplr**                                                                                                                                                            | **General Registration ( Authcore )**                                                                                                                                                     |
@@ -26,10 +30,6 @@ Note that users can choose either method ( Keplr or [General method aka Authcore
 
 {% hint style="info" %}
 Users can manage LikeCoin with [Cosmostation](../../general-guides/wallet/cosmostation/) or [Leap](../../general-guides/wallet/leap/), but cannot register a Liker ID with them at the current moment.
-{% endhint %}
-
-{% hint style="danger" %}
-[Matters](../creator/matters.md) user is not recommended to use the Liker ID registered with Keplr wallet to bind with Matters ID.
 {% endhint %}
 
 ## **How to register a Liker ID with Keplr**
