@@ -9,10 +9,14 @@ Matters 預設已經整合讚賞鍵。只需綁定 Liker ID 及 Matters ID，你
 假若你經已有 Liker ID 請留意綁定細節，否則有機會在註冊 Matters 時生成了多餘的 Liker ID。
 
 {% hint style="danger" %}
-不建議 [Matters](matters.md) 用戶使用 [Keplr 錢包註冊的 Liker ID](../liker-id/register-with-keplr.md) 綁定 Matters ID。而在 Matters 生成的 Liker ID 是使用[一般方法 ( Authcore )](../liker-id/register/) 註冊的。
+不建議 [Matters](matters.md) 用戶使用 [Keplr 錢包註冊的 Liker ID](../liker-id/register-with-keplr.md) 綁定 Matters ID。而在 Matters 生成的 Liker ID 是使用[一般方法 ( Authcore )](../liker-id/register/) 註冊。
 {% endhint %}
 
 ## 如何綁定現有 Liker ID
+
+{% hint style="danger" %}
+一旦綁定 Matters ID 跟 Liker ID，便無法解綁。敬請留意。
+{% endhint %}
 
 ### 步驟一
 
