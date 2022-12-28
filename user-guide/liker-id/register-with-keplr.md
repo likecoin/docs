@@ -8,6 +8,10 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 留意每個 Liker ID 只能從 「Keplr」及「[一般方法 ( Authcore )](register/)」兩種註冊方式二選其一，選定後無法更改至另一種登入方式。
 
+{% hint style="danger" %}
+不建議 [Matters](../creator/matters.md) 用戶使用 Keplr 錢包註冊的 Liker ID 綁定 Matters ID。更多詳情請參考 [LikeCoin button 讚賞鍵 -> Matters](../creator/matters.md) 的章節。
+{% endhint %}
+
 ## 功能比較
 
 | **以 Keplr 錢包註冊 Liker ID**                                                                                                                                 | **以一般方法 ( Authcore ) 註冊 Liker ID**                                                                                                                         |
@@ -26,10 +30,6 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 {% hint style="info" %}
 用戶現時可使用 [Cosmostation](../../general-guides/wallet/cosmostation/) 或 [Leap](../../general-guides/wallet/leap/) 管理 LikeCoin，但仍未能使用他們註冊 Liker ID。
-{% endhint %}
-
-{% hint style="danger" %}
-不建議 [Matters](../creator/matters.md) 用戶使用 Keplr 錢包註冊的 Liker ID 綁定 Matters ID。
 {% endhint %}
 
 ## 如何以 Keplr 註冊 Liker ID
