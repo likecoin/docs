@@ -72,17 +72,16 @@ description: 如何在自架 WordPress 加入 NFT Widget，出版 WordPress 作�
 
 ## 外掛設定 <a href="#publish-setting" id="publish-setting"></a>
 
-<figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption></figcaption></figure>
-
 ### LikeCoin Widget
 
-Show in Posts：預設為顯示 NFT Widget / 讚賞鍵於網站文章的下方
-
-Show in Pages：於 WordPress 頁面中顯示讚賞鍵
+* Show in Posts：預設為顯示 NFT Widget / 讚賞鍵於網站文章的下方
+* Show in Pages：於 WordPress 頁面中顯示讚賞鍵
 
 ### ISCN Badge <a href="#publish-to-iscn" id="publish-to-iscn"></a>
 
 文章註冊 ISCN 後，可設定是否展示 ISCN badge。狀態分為不展示 ( Not shown )、正常模式 ( Light Mode ) 及深色模式 ( Dark Mode )，選擇後點「Confirm」確認。
+
+<figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption></figcaption></figure>
 
 ### LikeCoin widget advanced settings
 
@@ -112,7 +111,7 @@ Show in Pages：於 WordPress 頁面中顯示讚賞鍵
 
 ### Web Monetization
 
-啟用 Web monetization，Coil 訂戶訪問網站時可得到打賞。
+啟用 Web monetization，[Coil](https://coil.com/) 訂戶訪問網站時可得到打賞。
 
 <figure><img src="../.gitbook/assets/wordpress 12.png" alt=""><figcaption></figcaption></figure>
 
