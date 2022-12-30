@@ -106,6 +106,10 @@ Migrating the Creator Economy to Web3
 
 [【AMA】拆掉付費牆可行嗎？為何區塊勢要從 Web2 升級到 Web3？ ft. LikeCoin](https://blog.like.co/zh/likecoin-blocktrend-ama/)
 
+### 8/24-28 DWeb Camp
+
+[DWeb Camp 2022: Joy of Missing Out](https://ckxpress.com/dweb-camp-2022-jomo/)
+
 ### 08/11 LikeCoin Twitter
 
 [Community Update: Writing NFT, DePub in Cosmos](https://twitter.com/likecoin/status/1557743919655399426)
