@@ -90,7 +90,7 @@
 
 ### 08/25 Binance Live
 
-[How Are Blockchain & NFTs Changing伯 the Publishing Industry](https://www.binance.com/en/live/video?roomId=2107897)
+[How Are Blockchain & NFTs Changing the Publishing Industry](https://www.binance.com/en/live/video?roomId=2107897)
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
