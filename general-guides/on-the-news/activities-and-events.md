@@ -96,7 +96,7 @@
 
 ### 08/24 Revive Tech Asia 2022
 
-Migrating the Creator Economy to Web3
+[Migrating the Creator Economy to Web3](https://revivetech.asia/Schedule/index/date/2022-08-24.html)
 
 <figure><img src="../../.gitbook/assets/IMG_9081.jpg" alt=""><figcaption></figcaption></figure>
 
