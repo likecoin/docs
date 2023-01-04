@@ -164,11 +164,11 @@ On the [Liker Land app](../../../user-guide/liker-land/download.md), click the Q
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 09-en.png" alt=""><figcaption></figcaption></figure>
 
-An Liker Land window will pop-up, click "Approve".
+A Liker Land app window will pop-up, click "Approve".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 10-en.png" alt=""><figcaption></figcaption></figure>
 
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Pay by LIKE" and a Wallet Connect request pop up, then click "Approve" to confirm the purchase.
+Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Pay by LIKE" and a Wallet Connect request pops up on Liker Land app, then click "Approve" to confirm the purchase.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20-en.png" alt=""><figcaption></figcaption></figure>
 
