@@ -186,6 +186,50 @@ description: 如何收集 Writing NFT
 
 ### 在 Liker Land app 簽署
 
+**步驟一**：登入 Liker Land app 後到手機瀏覽器開啟希望購買的 Writing NFT 頁面並開始收集。
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 1.png" alt=""><figcaption></figcaption></figure>
+
+**步驟二**：點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「用 LIKE 購買」。
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 2.png" alt=""><figcaption></figcaption></figure>
+
+**步驟三**：彈出視窗選擇 Liker ID，點擊並連接。
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 3.png" alt=""><figcaption></figcaption></figure>
+
+**步驟四**：彈出 Liker Land app 視窗，點「允許」。
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 4.png" alt=""><figcaption></figcaption></figure>
+
+**步驟五**：出現即將回瀏覽器繼續，點「確認」。
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 5.png" alt=""><figcaption></figcaption></figure>
+
+**步驟六**：瀏覽器出現正在收藏作品頁面，
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 6.png" alt=""><figcaption></figcaption></figure>
+
+**步驟七**：回到 Liker Land app，點「允許」。
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 7.png" alt=""><figcaption></figcaption></figure>
+
+**步驟八**：再次出現即將回瀏覽器繼續，點「確認」。
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 8.png" alt=""><figcaption></figcaption></figure>
+
+**步驟九**：回到瀏覽器後出現正在收藏作品頁。
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 9.png" alt=""><figcaption></figcaption></figure>
+
+**步驟十**：交易已完成！點「檢視類別資訊」查看已購買的 Writing NFT。
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 10.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 11.png" alt=""><figcaption></figcaption></figure>
+
+#### 影片教學
+
 {% embed url="https://www.youtube.com/watch?v=vMlMVtag_V8" %}
 
 {% embed url="https://www.youtube.com/watch?v=CNv9JwG4IGQ&t" %}
