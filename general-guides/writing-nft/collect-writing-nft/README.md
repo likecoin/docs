@@ -6,11 +6,11 @@ description: How to collect Writing NFT?
 
 You can pay by credit card to purchase Writing NFT, and create a wallet to receive NFT after completing the purchase, which is simple and convenient.
 
-## Buy Writing NFT with credit card
+## Buy Writing NFT with credit card (For Desktop and Mobile)
 
 ### Step 1: Start Collecting
 
-Go to the [campaign page](https://liker.land/campaign/writing-nft) to check out the NFT that you want to buy, and click the current NFT price to collect;
+Go to the [campaign page](https://liker.land/campaign/writing-nft) or [LikeCoin NFT Dashboard](https://docs.like.co/v/zh/general-guides/writing-nft/collect-writing-nft/tools) to check out the NFT that you want to buy, and click the current NFT price to collect;
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 01.png" alt=""><figcaption></figcaption></figure>
 
@@ -64,7 +64,7 @@ Go to "[My Dashboard](https://liker.land/dashboard)" via the to view the NFT tha
 
 <figure><img src="../../../.gitbook/assets/NFT Dashboard-en.png" alt=""><figcaption></figcaption></figure>
 
-## Already have a wallet and collect Writing NFT with credit card
+## Already have a wallet and collect Writing NFT with credit card  (For Desktop and Mobile)
 
 Users can also register the [Keplr](../../wallet/keplr/) wallet first and then purchase Writing NFT with a credit card.
 
@@ -76,7 +76,7 @@ Go to the upper right corner of the Liker Land website and click "Connect Wallet
 
 A pop-up window appears, click Keplr to login.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 04-en.png" alt=""><figcaption></figcaption></figure>
 
 When connecting for the first time, a Keplr window will pop up asking for a connection, click "Approve".
 
@@ -112,7 +112,7 @@ Complete! page appears, the Writing NFT is successfully collected. Click "View D
 Users who have a Cosmostation wallet or Liker Land app can also use a credit card to purchase Writing NFT, just choose the login method accordingly.
 {% endhint %}
 
-### Buy Writing NFT with LikeCoin (login with wallet on desktop computer)
+## Buy Writing NFT with LikeCoin ( Login with wallet on desktop computer )
 
 And of course you can buy Writing NFT with LikeCoin.
 
@@ -124,7 +124,7 @@ Go to the upper right corner of the Liker Land website and click "Connect Wallet
 
 A pop-up window appears, click [Keplr](../../wallet/keplr/) to login.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 04-en.png" alt=""><figcaption></figcaption></figure>
 
 Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Pay by  LIKE" and a Keplr window will pop up, then click "Approve" to confirm the purchase.
 
@@ -136,7 +136,7 @@ Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops
 
 A pop-up window appears, click [Cosmostation](../../wallet/cosmostation/) to login.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 21-en.png" alt=""><figcaption></figcaption></figure>
 
 Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Pay by LIKE" and a Keplr window will pop up, then click "Confirm" to confirm the purchase.
 
@@ -144,7 +144,7 @@ Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 14.png" alt=""><figcaption></figcaption></figure>
 
-## Buy Writing NFT with LikeCoin ( login with Wallet Connect )
+## Buy Writing NFT with LikeCoin ( Login with Wallet Connect on Desktop )
 
 Go to the upper right corner of the Liker Land website and click "Connect Wallet".
 
@@ -152,7 +152,7 @@ Go to the upper right corner of the Liker Land website and click "Connect Wallet
 
 A pop-up window appears, click Liker ID to login.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 22-en.png" alt=""><figcaption></figcaption></figure>
 
 A QR Code appears.
 
