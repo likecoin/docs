@@ -113,7 +113,7 @@ description: 如何收集 Writing NFT
 <figure><img src="../../../.gitbook/assets/Buy NFT 19.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-擁有 Cosmostation 錢包或 Liker Land 手機應用程式的用戶也可以使用信用卡購買 Writing NFT，只需在登入時採用對應的登入方式即可。
+擁有 Cosmostation 錢包或 Liker Land app 的用戶也可以使用信用卡購買 Writing NFT，只需在登入時採用對應的登入方式即可。
 {% endhint %}
 
 ## 以 LikeCoin 於桌面電腦收集 Writing NFT
@@ -164,15 +164,15 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 08.png" alt=""><figcaption></figcaption></figure>
 
-在 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
+在 Liker Land app 點二維碼圖示調用鏡頭，並掃瞄二維碼。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 09.png" alt=""><figcaption></figcaption></figure>
 
-彈出 Liker Land 視窗，點「允許」。
+彈出 Liker Land app 視窗，點「允許」。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 10.png" alt=""><figcaption></figcaption></figure>
 
-點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面。點「用 LIKE 購買」後彈出 Wallet Connect 視窗，再點「允許」確認購買。
+點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面。點「用 LIKE 購買」後 Liker Land app 彈出 Wallet Connect 視窗，再點「允許」確認購買。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20.png" alt=""><figcaption></figcaption></figure>
 
