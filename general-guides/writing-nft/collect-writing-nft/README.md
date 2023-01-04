@@ -187,3 +187,7 @@ description: 如何收集 Writing NFT
 {% embed url="https://www.youtube.com/watch?v=vMlMVtag_V8" %}
 
 {% embed url="https://www.youtube.com/watch?v=CNv9JwG4IGQ&t" %}
+
+{% hint style="warning" %}
+收集 Writing NFT 為保護用戶資金安全，系統會使用分鐘級的 Authz 到期時間功能。如遇上 USER\_TIME\_OUT\_SYNC 等錯誤，請先於電腦進行[同步網絡時間](https://www.jyes.com.tw/news.php?act=view\&id=4573)再重新嘗試。
+{% endhint %}
