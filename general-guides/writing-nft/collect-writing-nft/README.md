@@ -183,3 +183,7 @@ Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops
 {% embed url="https://www.youtube.com/watch?v=vMlMVtag_V8" %}
 Translate subtitle to English
 {% endembed %}
+
+{% hint style="warning" %}
+In order to protect the security of user funds, the system will use the minute-level Authz expiration time function when collecting Writing NFT. If you encounter errors such as USER\_TIME\_OUT\_SYNC, please [synchronize the network time on your computer](https://pureinfotech.com/sync-clock-windows-10/) and try again.
+{% endhint %}
