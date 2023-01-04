@@ -182,9 +182,47 @@ Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops
 
 ### **Through the Liker Land app**
 
-{% embed url="https://www.youtube.com/watch?v=vMlMVtag_V8" %}
-Translate subtitle to English
-{% endembed %}
+**Step 1**: Login the Liker Land app and go to the mobile browser to browse the Writing NFT that you want to buy and start collecting.
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 1-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 2**: Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Pay by LIKE".
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 2-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 3**: A pop-up window appears, click Liker ID to login.
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 3-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 4**: A Liker Land app window will pop-up, click "Approve".
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 4-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 5**: Returning to the browser to proceed appears, click "CONFIRM".
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 5-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 6**. On the browser, the Collecting NFT page appears.
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 6-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 7**: Return to the Liker Land, click "Approve".
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 7-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 8**: Returning to the browser to proceed appears again, click "CONFIRM".
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 8-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 9**: Go back to the browser, the Collecting NFT page appears.
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 9-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 10**: The transaction is completed, click "View Details" to check out the purchased NFT.
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 10-en.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 11-en.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 In order to protect the security of user funds, the system will use the minute-level Authz expiration time function when collecting Writing NFT. If you encounter errors such as USER\_TIME\_OUT\_SYNC, please [synchronize the network time on your computer](https://pureinfotech.com/sync-clock-windows-10/) and try again.
