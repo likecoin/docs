@@ -6,7 +6,7 @@ description: How to collect Writing NFT?
 
 You can pay by credit card to purchase Writing NFT, and create a wallet to receive NFT after completing the purchase, which is simple and convenient.
 
-## Buy Writing NFT with credit card (For Desktop and Mobile)
+## Collect Writing NFT with credit card ( For both Desktop and Mobile )
 
 ### Step 1: Start Collecting
 
@@ -64,7 +64,7 @@ Go to "[My Dashboard](https://liker.land/dashboard)" via the to view the NFT tha
 
 <figure><img src="../../../.gitbook/assets/NFT Dashboard-en.png" alt=""><figcaption></figcaption></figure>
 
-## Already have a wallet and collect Writing NFT with credit card  (For Desktop and Mobile)
+## Already have a wallet and collect Writing NFT with credit card  ( For both Desktop and Mobile )
 
 Users can also register the [Keplr](../../wallet/keplr/) wallet first and then purchase Writing NFT with a credit card.
 
@@ -112,9 +112,11 @@ Complete! page appears, the Writing NFT is successfully collected. Click "View D
 Users who have a Cosmostation wallet or Liker Land app can also use a credit card to purchase Writing NFT, just choose the login method accordingly.
 {% endhint %}
 
-## Buy Writing NFT with LikeCoin ( Login with wallet on desktop computer )
+## Collect Writing NFT with LikeCoin on Desktop Computer
 
 And of course you can buy Writing NFT with LikeCoin.
+
+### Login with wallets
 
 Go to the upper right corner of the Liker Land website and click "Connect Wallet".
 
@@ -144,7 +146,7 @@ Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 14.png" alt=""><figcaption></figcaption></figure>
 
-## Buy Writing NFT with LikeCoin ( Login with Wallet Connect on Desktop )
+### Login with Liker Land app via Wallet Connect
 
 Go to the upper right corner of the Liker Land website and click "Connect Wallet".
 
@@ -172,7 +174,7 @@ Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 11-en.png" alt=""><figcaption></figcaption></figure>
 
-## **Already have a wallet and collect Writing NFT on Mobile**
+## Collect Writing NFT with LikeCoin on Mobile
 
 ### **Through the Cosmostation app**
 
