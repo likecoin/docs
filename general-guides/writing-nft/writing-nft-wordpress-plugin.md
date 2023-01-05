@@ -20,6 +20,10 @@ The LikeCoin WordPress plug-in has been revamped. In addition to the newly desig
 
 The Internet Archive is an American digital library with the stated mission of "universal access to all knowledge". It provides free public access to collections of digitized materials, including websites, software applications/games, music, movies/videos, moving images, and millions of books. In addition to its archiving function, the Archive is an activist organization, advocating a free and open Internet.
 
+## Demo
+
+{% embed url="https://www.youtube.com/watch?v=iyquF_ClMeQ" %}
+
 ## [Download Writing NFT plugin](https://wordpress.org/plugins/likecoin/)
 
 ## Installation

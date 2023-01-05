@@ -91,6 +91,7 @@
   * [Collect Writing NFT](general-guides/writing-nft/collect-writing-nft/README.md)
     * [NFT Widget](general-guides/writing-nft/collect-writing-nft/nft-widget.md)
     * [NFT Portfolio](general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)
+    * [Secondary market](general-guides/writing-nft/collect-writing-nft/secondary-market.md)
     * [Tools](general-guides/writing-nft/collect-writing-nft/tools.md)
   * [Follow Creators](general-guides/writing-nft/follow-creators.md)
   * [Dynamic Pricing](general-guides/writing-nft/dynamic-pricing.md)
