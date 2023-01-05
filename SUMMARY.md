@@ -110,7 +110,7 @@
   * [常見問題](user-guide/civic-liker/faq.md)
   * [創作基金](user-guide/civic-liker/creators-fund.md)
   * [專屬優惠](user-guide/civic-liker/rationale-and-benefits.md)
-  * [讚賞公民Web 3狀態](<user-guide/civic-liker/Civic Liker Web 3 Report.md>)
+  * [讚賞公民 Web3 報表](user-guide/civic-liker/civic-liker-web3-report.md)
 * [Liker ID](user-guide/liker-id/README.md)
   * [以 Keplr 註冊 Liker ID](user-guide/liker-id/register-with-keplr.md)
   * [匯出錢包助記詞](user-guide/liker-id/export-seed-words.md)
