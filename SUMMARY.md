@@ -162,6 +162,7 @@
   * [Direct Voting](general-guides/governance/direct-vote.md)
   * [Validator](general-guides/governance/what-is-a-validator/README.md)
     * [Community Delegation](general-guides/governance/what-is-a-validator/community-delegation.md)
+    * [Validator Reports](general-guides/governance/what-is-a-validator/validators-reports.md)
   * [Proposals](general-guides/governance/proposals.md)
 * [On the News](general-guides/on-the-news/README.md)
   * [Interviews and Features](general-guides/on-the-news/interviews.md)
