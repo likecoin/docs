@@ -50,6 +50,8 @@
   * [LikeCoin NFT Module Spec](developer/likenft/likecoin-nft-module-spec.md)
   * [Metadata best practice](developer/likenft/metadata.md)
   * [Writing NFT Spec](developer/likenft/writing-nft.md)
+  * [NFT Portal](developer/likenft/nft-portal/README.md)
+    * [NFT Portal Reference](developer/likenft/nft-portal/nft-portal-reference.md)
   * [API Reference](developer/likenft/api-reference.md)
 * [likecoin-js](developer/likecoin-js.md)
 * [Ecosystem Statistics Badge](developer/badge.md)

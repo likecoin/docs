@@ -20,6 +20,8 @@ Since `postMessage()` would be needed for operating this widget, caller is expec
 | opener        | default 0. If set, would fire a `postMessage` back to `window.opener` with `redirect_uri` host as target, then close current window                      |
 | iscn\_id      | (optional) For updating existing ISCN record, the encoded ISCN ID for update. Note that the record would be completely overwritten with the new metadata |
 
+Query strings are also passed into [NFT Portal](../../../likenft/nft-portal/) if user choose to mint NFT after ISCN is registered. Please refer to [NFT Portal Reference](../../../likenft/nft-portal/nft-portal-reference.md) for the supported query string.
+
 ### PostMessage input format
 
 #### Mark widget as ready
