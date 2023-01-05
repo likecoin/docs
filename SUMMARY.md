@@ -90,6 +90,7 @@
   * [持份者直接投票](general-guides/governance/direct-vote.md)
   * [驗證人](general-guides/governance/what-is-a-validator/README.md)
     * [社群委託](general-guides/governance/what-is-a-validator/community-delegation.md)
+    * [驗證人報表](general-guides/governance/what-is-a-validator/validators-reports.md)
   * [歷史議案](general-guides/governance/proposals.md)
 * [傳媒報導](general-guides/on-the-news.md)
 
