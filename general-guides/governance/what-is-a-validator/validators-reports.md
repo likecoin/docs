@@ -4,4 +4,6 @@
 
 <figure><img src="../../../.gitbook/assets/validators-report.png" alt=""><figcaption></figcaption></figure>
 
-了解更多：[【小程序】看看你的驗證人有沒有好好投票？進階版？](https://matters.news/@baoshin/239800)
+#### 了解更多
+
+[【小程序】看看你的驗證人有沒有好好投票？進階版？](https://matters.news/@baoshin/239800)
