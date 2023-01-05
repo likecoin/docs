@@ -187,6 +187,7 @@
   * [FAQ](user-guide/civic-liker/faq.md)
   * [Creators Fund](user-guide/civic-liker/creators-fund.md)
   * [Rationale and benefits](user-guide/civic-liker/rationale-and-benefits.md)
+  * [​Civic Liker Web3 Report](user-guide/civic-liker/civic-liker-web3-report.md)
 * [LikeCoin button](user-guide/creator/README.md)
   * [Matters](user-guide/creator/matters.md)
   * [Self-Host](user-guide/creator/self-host/README.md)
