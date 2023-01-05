@@ -2,7 +2,7 @@
 description: ISCN AR web widget API Reference
 ---
 
-# Reference
+# ISCN-AR Widget Reference
 
 ### Base URL <a href="#base-url" id="base-url"></a>
 
@@ -14,8 +14,9 @@ Since `postMessage()` would be needed for operating this widget, caller is expec
 
 ### &#x20;Input Params <a href="#input-params" id="input-params"></a>
 
-| redirect\_uri | Act as a whitelist host for postMessage, actual redirect is not implemented, please use with `opener` below                                              |
+| language      | Force UI display locale, options are `zh`, `cn`, `en`                                                                                                    |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| redirect\_uri | Act as a whitelist host for postMessage, actual redirect is not implemented, please use with `opener` below                                              |
 | opener        | default 0. If set, would fire a `postMessage` back to `window.opener` with `redirect_uri` host as target, then close current window                      |
 | iscn\_id      | (optional) For updating existing ISCN record, the encoded ISCN ID for update. Note that the record would be completely overwritten with the new metadata |
 

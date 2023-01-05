@@ -2,7 +2,7 @@
 description: ISCN web widget API Reference
 ---
 
-# Reference
+# ISCN Widget Reference
 
 ## Formatting the widget URL <a href="#formatting-the-widget-url" id="formatting-the-widget-url"></a>
 
@@ -16,6 +16,7 @@ Production: [`https://like.co/in/widget/iscn`](https://like.co/in/widget/iscn)``
 
 | Query String  | Description                                                                                                                                        |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| language      | Force UI display locale, options are `zh`, `cn`, `en`                                                                                              |
 | fingerprint   | IPFS hash of content, cid v0                                                                                                                       |
 | type          | Type of content, default is `article`                                                                                                              |
 | tags          | (optional) list of tags separated by comma                                                                                                         |
