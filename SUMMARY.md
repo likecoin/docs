@@ -90,7 +90,7 @@
   * [持份者直接投票](general-guides/governance/direct-vote.md)
   * [驗證人](general-guides/governance/what-is-a-validator/README.md)
     * [社群委託](general-guides/governance/what-is-a-validator/community-delegation.md)
-    * [驗證人報表](general-guides/governance/what-is-a-validator/validators-reports.md)
+    * [驗證人報表](general-guides/governance/what-is-a-validator/validators-report.md)
   * [歷史議案](general-guides/governance/proposals.md)
 * [傳媒報導](general-guides/on-the-news.md)
 
@@ -143,7 +143,7 @@
 * [創作者工具](user-guide/creatortools/README.md)
   * [查看讚賞成就](user-guide/creatortools/rewards.md)
   * [每月創作進度](user-guide/creatortools/monthly-report.md)
-  * [創作基金排行榜](user-guide/creatortools/chuang-zuo-ji-jin-pai-hang-bang.md)
+  * [創作基金排行榜](user-guide/creatortools/creators-fund-report.md)
   * [奬勵發放時間](user-guide/creatortools/reward-release-time.md)
   * [未能收到獎勵？](user-guide/creatortools/cannot-get-reward.md)
 * [詞彙表](user-guide/background.md)
