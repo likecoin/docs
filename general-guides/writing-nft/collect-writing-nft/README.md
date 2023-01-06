@@ -6,7 +6,7 @@ description: 如何收集 Writing NFT
 
 購買 Writing NFT 可直接刷信用卡，並於完成購買後註冊加密錢包以收取 NFT，非常方便。
 
-## 以信用卡收集 Writing NFT（手機與桌機均適用）
+## 以信用卡收集 Writing NFT（手機與桌機均適用） <a href="#credit-card" id="credit-card"></a>
 
 ### 步驟一：開始收集 Writing NFT
 
@@ -64,7 +64,7 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/NFT Dashboard.png" alt=""><figcaption></figcaption></figure>
 
-## 已擁有錢包並以信用卡收集 Writing NFT（手機與桌機均適用）
+## 已擁有錢包並以信用卡收集 Writing NFT（手機與桌機均適用） <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
 
 用戶也可以先註冊 [Keplr](../../wallet/keplr/) 錢包再以信用卡購買 Writing NFT。
 
@@ -116,7 +116,7 @@ description: 如何收集 Writing NFT
 擁有 Cosmostation 錢包或 Liker Land app 的用戶也可以使用信用卡購買 Writing NFT，只需在登入時採用對應的登入方式即可。
 {% endhint %}
 
-## 以 LikeCoin 於桌面電腦收集 Writing NFT
+## 以 LikeCoin 於桌面電腦收集 Writing NFT <a href="#likecoin" id="likecoin"></a>
 
 你當然可以使用 LikeCoin 購買 Writing NFT。
 
@@ -178,13 +178,13 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 11.png" alt=""><figcaption></figcaption></figure>
 
-## 以 LikeCoin 於手機收集 Writing NFT
+## 以 LikeCoin 於手機收集 Writing NFT <a href="#mobile" id="mobile"></a>
 
-### 在 Cosmostation app 簽署
+### 在 Cosmostation app 簽署 <a href="#cosmostation-app" id="cosmostation-app"></a>
 
 {% embed url="https://www.youtube.com/watch?v=l6zjetJVNuA" %}
 
-### 在 Liker Land app 簽署
+### 在 Liker Land app 簽署 <a href="#liker-land-app" id="liker-land-app"></a>
 
 **步驟一**：登入 Liker Land app 後到手機瀏覽器開啟希望購買的 Writing NFT 頁面並開始收集。
 
