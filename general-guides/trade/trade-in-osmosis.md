@@ -112,7 +112,7 @@ description: 去中心交易所，無需註冊，立即交易
 
 <figure><img src="../../.gitbook/assets/Osmosis 21.png" alt=""><figcaption></figcaption></figure>
 
-再次出現你的信用卡資料、錢包地址，購買的 $OSMO 數量等資料，確認無誤後點「Coinfirm」。
+再次出現你的信用卡資料、錢包地址，購買的 $OSMO 數量等資料，確認無誤後點「Confirm」。
 
 <figure><img src="../../.gitbook/assets/Osmosis 22.png" alt=""><figcaption></figcaption></figure>
 
