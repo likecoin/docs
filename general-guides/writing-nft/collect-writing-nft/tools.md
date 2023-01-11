@@ -8,8 +8,6 @@ description: Writing NFT 好幫手
 
 [LikeCoin NFT Dashboard](https://likecoin.github.io/likecoin-nft-dashboard/#/) 方便查找最新及最多人購買等 Writing NFT 數據，也可以知道誰人收藏最多 NFT。
 
-而匯出」( Export ) 功能，讓用戶可隨時將創作者或收藏者的 Liker ID 或錢包地址輸入並匯出資料成為 csv 檔案進行分析。
-
 <figure><img src="../../../.gitbook/assets/LikeCoin NFT Dashboard.png" alt=""><figcaption></figcaption></figure>
 
 ## 其他小工具
