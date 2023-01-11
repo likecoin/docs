@@ -8,17 +8,19 @@ description: How to buy LikeCoin?
 Reminder: Suggest to try with a small amount before making any large transactions
 {% endhint %}
 
-It is recommended to use the [Keplr wallet](../wallet/keplr/) to purchase and manage LikeCoin. There are two ways to buy it:
+It is recommended to use the [Keplr wallet](../wallet/keplr/) to purchase and manage LikeCoin.
 
-### Fiat currency -> ATOM ( any exchange ) -> LIKE (Osmosis)
+### Fiat Currency -> OSMO ( Transak on Osmosis -> LIKE ( Osmosis )
 
-Go to any exchanges that can buy ATOM (e.g. Binance, FTX, Kucoin, Kraken) or organization that buy ATOM directly with a credit card (e.g. Moonpay) to buy ATOM, and then go to [Osmosis](../liquidity/osmosis.md) to exchange ATOM for LikeCoin.
+Buy $OSMO with a credit card through Transak at Osmosis and exchange to $LIKE. See [Trade in Osmosis](trade-in-osmosis.md).
 
-![](<../../.gitbook/assets/ATOM to LIKE.png>)
+### Fiat Currency / Cryptocurrency -> OSMO ( Binance or any exchanges) -> LIKE (Osmosis)
 
-### Fiat currency / Cryptocurrency -> OSMO ( Binance ) -> LIKE (Osmosis)
+[Binance listed OSMO on October 31, 2022](https://www.binance.com/en/support/announcement/binance-convert-adds-osmo-ad8b2a8f8c0641d38369ab412ce8a950). Users can trade their fiat or crypto to $OSMO in Binance and then go to Osmosis to swap into $LIKE. Also can check the [list of exchanges supporting $OSMO](https://www.coingecko.com/en/coins/osmosis) in CoinGecko.
 
-[Binance listed OSMO on October 31, 2022](https://www.binance.com/en/support/announcement/binance-convert-adds-osmo-ad8b2a8f8c0641d38369ab412ce8a950). Users can trade their fiat or crypto to OSMO in Binance and then go to Osmosis to swap into LIKE.
+### Fiat Currency -> ATOM ( any exchanges ) -> LIKE (Osmosis)
+
+Go to any exchanges that can buy $ATOM e.g. Binance, FTX, Kucoin, Kraken ( [list of exchanges supporting $ATOM](https://www.coingecko.com/en/coins/cosmos-hub#markets) in CoinGecko ), and then go to Osmosis to exchange $ATOM for LikeCoin.
 
 ### TWD ( MAX ) -> USDT/USDC ( Metamask ) -> axlUSDC ( Satellite ) LIKE -> ( Osmosis )
 
@@ -26,7 +28,7 @@ Refers to [🤩 莎莎日常｜簡易出入金 LikeCoin 的管道：透過 MAX �
 
 ### HKD ( Hong Kong only ) -> Direct purchase LIKE
 
-Go to [MyEthShop](registering-and-trade-in-myethshop.md) to buy LIKE directly in HKD.
+Go to [MyEthShop](registering-and-trade-in-myethshop.md) to buy $LIKE directly in HKD.
 
 ### Fiat currency -> LIKE OTC
 
