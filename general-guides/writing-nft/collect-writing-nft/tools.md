@@ -8,6 +8,8 @@ description: Writing NFT Tools
 
 [LikeCoin NFT Dashboard](https://likecoin.github.io/likecoin-nft-dashboard/#/) is easy to use for finding the latest and top Writing NFT data. You can also know who has the most NFT collections.
 
+"Export" function: Input the creator's or collector's Liker ID or wallet address at any time and export the data as a csv file for analysis.
+
 <figure><img src="../../../.gitbook/assets/LikeCoin NFT Dashboard.png" alt=""><figcaption></figcaption></figure>
 
 ## Other Tools
