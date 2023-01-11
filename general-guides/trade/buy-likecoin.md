@@ -28,7 +28,7 @@ description: 如何購買 LikeCoin？
 
 ### 港幣（只適用香港）-> 直接購買 LIKE
 
-到 [MyEthShop](registering-and-trade-in-myethshop.md) 即可直接以港幣購買 LIKE。
+到 [MyEthShop](registering-and-trade-in-myethshop.md) 即可直接以港幣購買 $LIKE。
 
 ### 法定貨幣 -> 場外交易 LIKE
 
