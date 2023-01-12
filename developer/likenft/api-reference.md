@@ -102,17 +102,19 @@ Pagination params:
 
 #### Request Params
 
-| Param             | Example                                            | Description                                                |
-| ----------------- | -------------------------------------------------- | ---------------------------------------------------------- |
-| creator           | `like13f4glvg80zvfrrs7utft5p68pct4mcq7t5atf6`      | The current owner of the ISCN                              |
-| collector         | `like1vymrc5dxlfwff30m03prwlu08ql4vudn4lue8u`      | The current owner of NFT                                   |
-| type              | `CreativeWork`                                     | The `contentMetadata.@type` field in ISCN                  |
-| stakeholder\_id   | `did:like:1w6es6du93xmhms60gwwtczr2p2h4cdm8r7kc0f` | The `stakeholders.entity.@id` field in ISCN                |
-| stakeholder\_name | `kin`                                              | The `stakeholders.entity.name` field in ISCN               |
-| after             | `1659283200`                                       | Get NFT class created after this UNIX second timestamp     |
-| before            | `1659801600`                                       | Get NFT class created before this UNIX second timestamp    |
-| include\_owner    | `true`                                             | Whether to include owner of ISCN when counting sold\_count |
-| ignore\_list      | `like17m4vwrnhjmd20uu7tst7nv0kap6ee7js69jfrs`      | The addresses to ignore when counting sold count           |
+| Param             | Example                                            | Description                                                    |
+| ----------------- | -------------------------------------------------- | -------------------------------------------------------------- |
+| creator           | `like13f4glvg80zvfrrs7utft5p68pct4mcq7t5atf6`      | The current owner of the ISCN                                  |
+| collector         | `like1vymrc5dxlfwff30m03prwlu08ql4vudn4lue8u`      | The current owner of NFT                                       |
+| type              | `CreativeWork`                                     | The `contentMetadata.@type` field in ISCN                      |
+| stakeholder\_id   | `did:like:1w6es6du93xmhms60gwwtczr2p2h4cdm8r7kc0f` | The `stakeholders.entity.@id` field in ISCN                    |
+| stakeholder\_name | `kin`                                              | The `stakeholders.entity.name` field in ISCN                   |
+| created\_after    | `1659283200`                                       | Get NFT class created after this UNIX second timestamp         |
+| created\_before   | `1659801600`                                       | Get NFT class created before this UNIX second timestamp        |
+| sold\_after       | `1659283200`                                       | Rank NFT class base on sales after this UNIX second timestamp  |
+| sold\_before      | `1659801600`                                       | Rank NFT class base on sales before this UNIX second timestamp |
+| include\_owner    | `true`                                             | Whether to include owner of ISCN when counting sold\_count     |
+| ignore\_list      | `like17m4vwrnhjmd20uu7tst7nv0kap6ee7js69jfrs`      | The addresses to ignore when counting sold count               |
 
 Result is order by the number of NFTs not owned by creator nor `ignore_list`
 
