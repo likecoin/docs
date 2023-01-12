@@ -19,7 +19,7 @@
   * [收集 Writing NFT](general-guides/writing-nft/collect-writing-nft/README.md)
     * [NFT Widget](general-guides/writing-nft/collect-writing-nft/nft-widget.md)
     * [NFT 展示櫃](general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)
-    * [二級市場](general-guides/writing-nft/collect-writing-nft/secondary-market.md)
+    * [二級市場](general-guides/writing-nft/collect-writing-nft/nft-marketplace.md)
     * [其他工具](general-guides/writing-nft/collect-writing-nft/tools.md)
   * [追蹤作者](general-guides/writing-nft/follow-creators.md)
   * [動態定價](general-guides/writing-nft/dynamic-pricing.md)
