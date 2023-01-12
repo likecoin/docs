@@ -28,7 +28,7 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### NFT 的價格如何訂定？
 
-系統會[根據供需情況自行調節賣價](dynamic-pricing.md)，作者不用設定售價，讀者也不用設定買價。當一定數量的 NFT 售出後，售價便會調升；有人在二手市場放售，售價便會回落。
+系統會[根據供需情況自行調節賣價](dynamic-pricing.md)，作者不用設定售價，讀者也不用設定買價。當一定數量的 NFT 售出後，售價便會調升；有人在[二級市場](collect-writing-nft/nft-marketplace.md)放售，售價便會回落。
 
 ### 可在哪兒查看收集了的 NFT？
 
@@ -52,11 +52,11 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 作品沒有安裝 NFT Widget，也能發售 NFT 嗎？
 
-可在 [NFT Portal](nft-portal.md) 發行 NFT，然後在自己的 NFT 展示櫃頁面發售。
+可在 [NFT Portal](nft-portal.md) 發行 NFT，然後在自己的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)頁面發售。
 
-### 如何把 NFT 賣到二手市場？
+### 如何把 NFT 賣到二級市場？
 
-在 NFT 展示櫃頁面設定 NFT 的賣出價，讀者即可在任何該 NFT 的 Widget 以此售價收集。
+在[二級市場](collect-writing-nft/nft-marketplace.md)設定 NFT 的賣出價，讀者即可以該售價收集。
 
 ### 能設定作品的 NFT 發行量上限嗎？
 
