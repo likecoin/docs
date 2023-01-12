@@ -54,11 +54,11 @@ You can install the [LikeCoin WordPress plugin](../../user-guide/wordpress.md), 
 
 ### Any other way to sell my Writing NFT besides by NFT Widget?
 
-Yes, you can always share the link of your NFT which can be copied from the NFT Portfolio page.
+Yes, you can always share the link of your NFT which can be copied from the [NFT Portfolio](collect-writing-nft/nft-portfolio.md) page.
 
 ### How to sell Writing NFT in the secondary market?
 
-Mark the price of your NFT for sale at the [NFT Portfolio](collect-writing-nft/nft-portfolio.md) page. Readers can then collect at any [NFT Widget](collect-writing-nft/nft-widget.md).
+Set the selling price of NFT in the [NFT Marketplace](collect-writing-nft/nft-marketplace.md), and readers can collect it directly.
 
 ### How to set the quantity for sale?
 
