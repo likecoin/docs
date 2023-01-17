@@ -114,7 +114,7 @@ Users who have a Cosmostation wallet or Liker Land app can also use a credit car
 
 ## Collect Writing NFT with LikeCoin on Desktop Computer
 
-And of course you can buy Writing NFT with LikeCoin.
+And of course you can buy Writing NFT with LikeCoin. Not only to buy creators' work to encourage them, supporters can also leave messages to motivate their favorite creator. The messages will always be attached to the work, and will be recorded in the remarks field in the on chain record.
 
 ### Login with wallets
 
@@ -128,11 +128,17 @@ A pop-up window appears, click [Keplr](../../wallet/keplr/) to login.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 04-en.png" alt=""><figcaption></figcaption></figure>
 
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Pay by  LIKE" and a Keplr window will pop up, then click "Approve" to confirm the purchase.
+Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20-en.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 07.png" alt=""><figcaption></figcaption></figure>
+Enter the message and click "Pay by LIKE".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 20.1-en.png" alt=""><figcaption></figcaption></figure>
+
+A Keplr window will pop up, then click "Approve" to confirm the purchase.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 07-en.png" alt=""><figcaption></figcaption></figure>
 
 #### Cosmostation login
 
@@ -140,11 +146,17 @@ A pop-up window appears, click [Cosmostation](../../wallet/cosmostation/) to log
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 21-en.png" alt=""><figcaption></figcaption></figure>
 
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Pay by LIKE" and a Keplr window will pop up, then click "Confirm" to confirm the purchase.
+Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20-en.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 14.png" alt=""><figcaption></figcaption></figure>
+Enter the message and click "Pay by LIKE".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 20.1-en.png" alt=""><figcaption></figcaption></figure>
+
+A Cosmostation window will pop up, then click "Confirm" to confirm the purchase.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 14-en.png" alt=""><figcaption></figcaption></figure>
 
 ### Login with Liker Land app via Wallet Connect
 
@@ -170,7 +182,7 @@ A Liker Land app window will pop-up, click "Approve".
 
 Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Pay by LIKE" and a Wallet Connect request pops up on Liker Land app, then click "Approve" to confirm the purchase.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 20-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 11-en.png" alt=""><figcaption></figcaption></figure>
 
