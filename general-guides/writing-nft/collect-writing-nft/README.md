@@ -118,7 +118,7 @@ description: 如何收集 Writing NFT
 
 ## 以 LikeCoin 於桌面電腦收集 Writing NFT <a href="#likecoin" id="likecoin"></a>
 
-你當然可以使用 LikeCoin 購買 Writing NFT。
+你當然可以使用 LikeCoin 購買 Writing NFT。支持者除了用購買的行動去鼓勵創作者以外，亦可以留言激勵他們，而且留言會一直依附在作品上，被記錄在這個購買動作的鏈上記錄裡的備註欄位。
 
 ### 使用錢包登入
 
@@ -132,9 +132,15 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 04.png" alt=""><figcaption></figcaption></figure>
 
-點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面。點「用 LIKE 購買」後彈出 Keplr 視窗，再點「Approve」確認購買。
+點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「留言給創作者」並輸入給創作者的訊息。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20.png" alt=""><figcaption></figcaption></figure>
+
+輸入完成後點「用 LIKE 購買」。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 20.1.png" alt=""><figcaption></figcaption></figure>
+
+彈出 Keplr 視窗，再點「Approve」確認購買。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 07.png" alt=""><figcaption></figcaption></figure>
 
@@ -144,9 +150,15 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 21.png" alt=""><figcaption></figcaption></figure>
 
-點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面。點「用 LIKE 購買」後彈出 Comostation 視窗，再點「Confirm」確認購買。
+點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「留言給創作者」並輸入給創作者的訊息。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20.png" alt=""><figcaption></figcaption></figure>
+
+輸入完成後點「用 LIKE 購買」。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 20.1.png" alt=""><figcaption></figcaption></figure>
+
+彈出 Comostation 視窗，再點「Confirm」確認購買。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 14.png" alt=""><figcaption></figcaption></figure>
 
@@ -174,7 +186,7 @@ description: 如何收集 Writing NFT
 
 點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面。點「用 LIKE 購買」後 Liker Land app 彈出 Wallet Connect 視窗，再點「允許」確認購買。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 11.png" alt=""><figcaption></figcaption></figure>
 
