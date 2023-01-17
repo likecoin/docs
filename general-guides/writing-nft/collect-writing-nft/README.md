@@ -202,9 +202,13 @@ Enter the message if you want to do so, if not just click "Pay by LIKE". A Walle
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 1-en.png" alt=""><figcaption></figcaption></figure>
 
-**Step 2**: Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Pay by LIKE".
+**Step 2**: Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional).
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 2-en.png" alt=""><figcaption></figcaption></figure>
+
+Enter the message if you want to do so, if not just click "Pay by LIKE".
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 2.1-en.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: A pop-up window appears, click Liker ID to login.
 
