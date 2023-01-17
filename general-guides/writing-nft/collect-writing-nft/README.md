@@ -132,11 +132,11 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 04.png" alt=""><figcaption></figcaption></figure>
 
-點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「留言給創作者」並輸入給創作者的訊息。
+點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「留言給創作者」並輸入給創作者的訊息（非必須）。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20.png" alt=""><figcaption></figcaption></figure>
 
-輸入完成後點「用 LIKE 購買」。
+輸入完成後又或者直接點「用 LIKE 購買」。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20.1.png" alt=""><figcaption></figcaption></figure>
 
@@ -150,11 +150,11 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 21.png" alt=""><figcaption></figcaption></figure>
 
-點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「留言給創作者」並輸入給創作者的訊息。
+點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「留言給創作者」並輸入給創作者的訊息（非必須）。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20.png" alt=""><figcaption></figcaption></figure>
 
-輸入完成後點「用 LIKE 購買」。
+輸入完成後又或者直接點「用 LIKE 購買」。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20.1.png" alt=""><figcaption></figcaption></figure>
 
@@ -184,11 +184,11 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 10.png" alt=""><figcaption></figcaption></figure>
 
-點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「留言給創作者」並輸入給創作者的訊息。
+點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「留言給創作者」並輸入給創作者的訊息（非必須）。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20.png" alt=""><figcaption></figcaption></figure>
 
-點「用 LIKE 購買」後 Liker Land app 彈出 Wallet Connect 視窗，再點「允許」確認購買。
+輸入完成後又或者直接點「用 LIKE 購買」。Liker Land app 將彈出 Wallet Connect 視窗，再點「允許」確認購買。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20.1.png" alt=""><figcaption></figcaption></figure>
 
@@ -206,9 +206,13 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 1.png" alt=""><figcaption></figcaption></figure>
 
-**步驟二**：點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「用 LIKE 購買」。
+**步驟二**：點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「留言給創作者」並輸入給創作者的訊息（非必須）。
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 2.png" alt=""><figcaption></figcaption></figure>
+
+輸入完成後又或者直接點「用 LIKE 購買」。
+
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 2.1.png" alt=""><figcaption></figcaption></figure>
 
 **步驟三**：彈出視窗選擇 Liker ID，點擊並連接。
 
