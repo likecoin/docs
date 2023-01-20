@@ -30,7 +30,7 @@ description: 如何收集 Writing NFT
 
 ### 步驟二：信用卡付款
 
-點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「以信用卡付款」。
+點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，在「留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「以信用卡付款」。
 
 <figure><img src="../../../.gitbook/assets/pay by card 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -88,9 +88,9 @@ description: 如何收集 Writing NFT
 
 ### 步驟二：信用卡付款
 
-點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，點「以信用卡付款」。
+點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，在「留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「以信用卡付款」。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 20.png" alt=""><figcaption></figcaption></figure>
 
 出現 Stripe 頁面，輸入電郵及信用卡資料後點「Pay」。法定貨幣購買 Writing NFT 價錢綜合市價、兌換費用及信用咭手續費計算。
 
@@ -178,9 +178,11 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 10.png" alt=""><figcaption></figcaption></figure>
 
-點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，在「留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。Liker Land app 將彈出 Wallet Connect 視窗，再點「允許」確認購買。
+點 Writing NFT 價格或「立即收藏」後彈出收藏作品頁面，在「留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20.png" alt=""><figcaption></figcaption></figure>
+
+Liker Land app 將彈出 Wallet Connect 視窗，再點「允許」確認購買。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 11.png" alt=""><figcaption></figcaption></figure>
 
