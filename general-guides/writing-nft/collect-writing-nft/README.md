@@ -128,13 +128,9 @@ A pop-up window appears, click [Keplr](../../wallet/keplr/) to login.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 04-en.png" alt=""><figcaption></figcaption></figure>
 
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional).
+Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional). Enter the message if you want to do so, if not just click "Pay by LIKE".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20-en.png" alt=""><figcaption></figcaption></figure>
-
-Enter the message if you want to do so, if not just click "Pay by LIKE".
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 20.1-en.png" alt=""><figcaption></figcaption></figure>
 
 A Keplr window will pop up, then click "Approve" to confirm the purchase.
 
@@ -146,13 +142,9 @@ A pop-up window appears, click [Cosmostation](../../wallet/cosmostation/) to log
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 21-en.png" alt=""><figcaption></figcaption></figure>
 
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional).
+Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional). Enter the message if you want to do so, if not just click "Pay by LIKE".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20-en.png" alt=""><figcaption></figcaption></figure>
-
-Enter the message if you want to do so, if not just click "Pay by LIKE".
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 20.1-en.png" alt=""><figcaption></figcaption></figure>
 
 A Cosmostation window will pop up, then click "Confirm" to confirm the purchase.
 
@@ -180,13 +172,11 @@ A Liker Land app window will pop-up, click "Approve".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 10-en.png" alt=""><figcaption></figcaption></figure>
 
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional).
+Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional). Enter the message if you want to do so, if not just click "Pay by LIKE".&#x20;
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 20-en.png" alt=""><figcaption></figcaption></figure>
 
-Enter the message if you want to do so, if not just click "Pay by LIKE". A Wallet Connect request pops up on Liker Land app, then click "Approve" to confirm the purchase.
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 20.1-en.png" alt=""><figcaption></figcaption></figure>
+A Wallet Connect request pops up on Liker Land app, then click "Approve" to confirm the purchase.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 11-en.png" alt=""><figcaption></figcaption></figure>
 
@@ -202,13 +192,9 @@ Enter the message if you want to do so, if not just click "Pay by LIKE". A Walle
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 1-en.png" alt=""><figcaption></figcaption></figure>
 
-**Step 2**: Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional).
+**Step 2**: Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional). Enter the message if you want to do so, if not just click "Pay by LIKE".
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 2-en.png" alt=""><figcaption></figcaption></figure>
-
-Enter the message if you want to do so, if not just click "Pay by LIKE".
-
-<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 2.1-en.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: A pop-up window appears, click Liker ID to login.
 
