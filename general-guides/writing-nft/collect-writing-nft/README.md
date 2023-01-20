@@ -30,7 +30,7 @@ and start to collect Writing NFT.
 
 ### Step 2: Pay by Credit Card&#x20;
 
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Pay by card".
+Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional). Enter the message if you want to do so, if not just click "Pay by card".
 
 <figure><img src="../../../.gitbook/assets/pay by card 1-en.png" alt=""><figcaption></figcaption></figure>
 
@@ -84,9 +84,9 @@ When connecting for the first time, a Keplr window will pop up asking for a conn
 
 ### Step 2: Pay by Credit Card&#x20;
 
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Pay by card".
+Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional). Enter the message if you want to do so, if not just click "Pay by card".
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 06-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 20-en.png" alt=""><figcaption></figcaption></figure>
 
 The Stripe page appears, enter your email and credit card information and click "Pay". The purchase price of Writing NFT in fiat currency is calculated based on the market price, exchange fee and credit card handling fee.
 
