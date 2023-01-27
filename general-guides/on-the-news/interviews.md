@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2022" %}
+### 12/30 財科暗戰
+
+[【財科暗戰】高重建即場示範mint NFT書籍《所謂「我不投資」就是all in在法定貨幣》為什麼需要限時限量賣出？實驗證明靠寫作維生仍是可行的（按CC看中文字幕）丨章濤丨區塊鏈丨去中心化出版](https://www.youtube.com/watch?v=QFjKvOCN9V4)
+
 ### 12/28 財科暗戰
 
 [NFT 又一新應用 高重建出NFT書籍《所謂「我不投資」就是all in在法定貨幣》限量發售！只發售 1000本 最後20本以下網站有售！（按CC看中文字幕）丨章濤丨區塊鏈丨去中心化出版](https://www.youtube.com/watch?v=irMUSECyMTg)
