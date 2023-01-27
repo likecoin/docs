@@ -161,3 +161,17 @@ Set your own introduction together with profile picture and display name so your
 {% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
 [edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
 {% endcontent-ref %}
+
+## Batch send NFT to supporters
+
+**Step 1**: Search Collector) of your own wallet on the [LikeCoin NFT Dashboard](https://likecoin.github.io/likecoin-nft-dashboard/#/).
+
+**Step 2**: Export all data.
+
+**Step 3**: Import the csv of the data into a spreadsheet tool for sorting and organizing the wallet addresses of supporters into a list.
+
+**Step 4**: Select Send NFTs in the Tools of [LikeCoin NFT Marketplace](https://likecoin.github.io/likecoin-nft-marketplace/) and log in to Keplr.
+
+**Step 5**: Find out the NFT Class ID on the Writing NFT that will be distributed to supporters.
+
+**Step 6**: Enter the NFT Class ID into the Send NFTs tool, and enter the supporters’ wallet addresses into Recipient Address list and the Transfer message, then press "Send" and sign in Keplr, and the NFT will be batch sent to supporters.\
