@@ -6,6 +6,20 @@ description: LikeCoin DAO 有過什麼議案？
 
 ![](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
 
+## 議案 #59 社群委託委員會更新
+
+* **提案：**Edmond
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2023.01.17 提案，2023.01.24 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/59](https://bigdipper.live/likecoin/proposals/59)
+
+## 議案 #58 存入 1,200,000 LIKE 到創作基金委員會的錢包
+
+* **提案：**Edmond
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.11.03 提案，2022.11.10 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/58](https://bigdipper.live/likecoin/proposals/58)
+
 ## 議案 #57 更新 Osmosis 流動性池激勵
 
 * **提案：**medium
