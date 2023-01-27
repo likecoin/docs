@@ -6,6 +6,13 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
 
+## Proposal #59 Renewal of Community Delegation Committee
+
+* Proposer: Daisy
+* Proposal Type: Text Proposal
+* Date: Submit on 2023.01.17, Passed on 2023.01.24
+* Details: [https://bigdipper.live/likecoin/proposals/59](https://bigdipper.live/likecoin/proposals/59)
+
 ## Proposal #58 Creators Fund
 
 * Proposer: edmond

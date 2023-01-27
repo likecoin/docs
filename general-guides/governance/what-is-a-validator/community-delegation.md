@@ -8,27 +8,31 @@ The Community delegation program aimed to support newly onboard validators of so
 
 We also support service providers like block explorer, wallet or other technical/business partners who wish to receive community delegation as a validator. Feel free to email team@liker.land or reach our team on [Discord](http://discord.gg/likecoin).&#x20;
 
+The Community Delegation procedure is governed under [Proposal 59](../proposals.md#proposal-59-renewal-of-community-delegation-committee).
+
 ### Application Procedure
 
-If a validator would like to apply for community delegation, please:&#x20;
+If you would like to apply community delegation, please:
 
-A. Post about yourself and why you want to participate in LikeCoin at [matters.news](https://matters.news/) or [medium.com](https://medium.com/).&#x20;
+A. Post about yourself and why you want to participate in LikeCoin at [matters.news](https://matters.news/) or [medium.com](https://medium.com/) or their own WordPress blog and register the post into an ISCN.
 
-Chinese Validator - Use the function “add tag” on matters.news to tag [#Validator Intro](https://matters.news/tags/VGFnOjUzMTkw) in your article.
+* You may post your introduction article in English or Chinese.
+* You may check out the instructions in “[How to register an ISCN?](../../decentralized-publishing/app.like.co.md)”
+* When you post on Matters.news - Use the function "add tag” on matters.news to tag [#Validator Intro](https://matters.news/tags/VGFnOjUzMTkw) in your article.
+* When you post on Medium - You may post on matters.news or post on medium.com with the tag #Validator Intro and #LikeCoin
 
-English Validator - You may post on matters.news or post on medium.com with the tag #Validator Intro and #LikeCoin
+( Please search the tag for previous Validator Intro examples from your counterpart if you don't know how to write yours. But do not copy theirs blindly. )
 
-(Please search the tag for previous Validator Intro examples from your counterpart if you don’t know how to write yours.)
+B. Write an application post in the channel #📥｜apply-for-delegation, The application should contain:
 
-B. Provide your email address and Validator Operator Address.
+* Your post’s link or ISCN written in step A.
+* Your Email Address and Validator Operator Address.
+* Your current commission rate and commission policy.
+* (Optional) Twitter, website or any other popular communication channels which make yourself be more visible.
 
-C. Tell the community what your commission rate policy is.
+You are encouraged to update your icon, website, twitter and intro on Block explorer such as BigDipper and Mintscan, although it is not a mandatory requirement for applying community delegation. You are also welcomed to introduce yourself in the #mainnet-validators channel and LikeCoin [community call](../community-call.md).
 
-D. Write an application post in the LikeCoin Discord channel [#apply-for-delegation](https://discord.gg/APqVAztuf4)
-
-You are encouraged to update your icon, website and intro on BigDipper, although it is not a mandatory requirement for applying community delegation. You are also welcomed to introduce yourself in the [LikeCoin Community Call.](../community-call.md)
-
-Please note validators' application for community fund cut off day is on the 15th 1200 GMT+8 of each month. The committee will then process the applications in batch and make a decision by the 21st 1200 GMT+8 of each month. Redelegation of community funds will take effect afterwards.
+Please note validators' application for community fund cut off day is on the 15th 1200 GMT+8 of each month. The committee will then process the applications in batch and make a decision by the 21st 1200 GMT+8 of each month. Redelegation of community funds will be proceeded afterwards
 
 ### Review Criteria
 
@@ -45,7 +49,8 @@ When the validator makes an honest effort to participate in community affairs, r
 
 #### **Additional rules**
 
-If the validator who got the community delegation is offline for more than a week and not replying to the cue from community members, their delegation will be revoked immediately.
+* If the validator who got the community delegation is offline for more than a week and not replying to the cue from community members, their delegation will be revoked immediately.
+* Validators who are the committee members of Community Delegation Committee will have to excuse themselves from the vote when applying for community delegation.
 
 ### High Community Delegation Application
 
@@ -68,4 +73,10 @@ Validators who receive their community delegation will have to re-apply again on
 
 Example: The validators who received the 1st round of delegation in June may re-apply again in November before the 15th 1200 GMT. If the validator does not re-apply, the delegation will be withdrawn.
 
-The current Community Delegation Committee members endorsed by proposal 20 are chairoikominer, Kcat, sixwood, Wright Fu, yasu, philipmak and Daisy.
+The current Community Delegation Committee members are: \
+@Kcat | Oldcat#1539, Unique ID 721183569925505024\
+@kelvinyasu | UD#0571, Unique ID 755636848319135845\
+@KenOokamiHoro#7356, Unique ID 287510283579162626\
+@Lee ｜Liker.Social#9416, Unique ID 727772944805396551\
+@Wright Fu#8863 Unique ID. 786489364011548734\
+@Daisy#1990, Unique ID 608160931503144964
