@@ -8,7 +8,7 @@ description: LikeCoin DAO 有過什麼議案？
 
 ## 議案 #59 社群委託委員會更新
 
-* **提案：**Edmond
+* **提案：**Daisy
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2023.01.17 提案，2023.01.24 通過
 * **詳情**：[https://bigdipper.live/likecoin/proposals/59](https://bigdipper.live/likecoin/proposals/59)
