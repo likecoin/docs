@@ -2,17 +2,9 @@
 
 {% tabs %}
 {% tab title="2023" %}
-01/17
-{% endtab %}
+### 01/17 OPENBOOK 閱讀誌
 
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="2023" %}
-
+[話題》區塊鏈上出版的狂想與幻想：Web3.0時代的書籍與閱讀](https://www.openbook.org.tw/article/p-67226)
 {% endtab %}
 
 {% tab title="2022" %}
@@ -52,7 +44,7 @@
 
 [平均年薪達334萬元！AppWorks將啟動第四支基金，擴大招募投資經理與分析師](https://meet.bnext.com.tw/articles/view/48885)
 
-### 01/04 OPENBOOK 閱讀誌
+### 01/04 OPENBOOK 閱讀誌01/04 OPENBOOK 閱讀誌
 
 [話題》另一種元宇宙：烏托邦主義者的metaverse](https://www.openbook.org.tw/article/p-65758)
 
