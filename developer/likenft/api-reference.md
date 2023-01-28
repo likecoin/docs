@@ -89,12 +89,18 @@ Pagination params:
 
 `/likechain/likenft/v1/event`
 
-| Param            | Example | Description                         |
-| ---------------- | ------- | ----------------------------------- |
-| class\_id        |         | NFT Class ID                        |
-| nft\_id          |         | NFT ID                              |
-| iscn\_id\_prefix |         | ISCN ID Prefix (if minted via ISCN) |
-| verbose          |         | Expand events                       |
+| Param              | Example                     | Description                                                       |
+| ------------------ | --------------------------- | ----------------------------------------------------------------- |
+| class\_id          |                             | NFT Class ID                                                      |
+| nft\_id            |                             | NFT ID                                                            |
+| iscn\_id\_prefix   |                             | ISCN ID Prefix (if minted via ISCN)                               |
+| verbose            |                             | Expand events                                                     |
+| action\_type       | /cosmos.nft.v1beta1.MsgSend | Filter event by action                                            |
+| sender             |                             | Get all events sent by an address                                 |
+| receiver           |                             | Get all events received by an address                             |
+| creator            |                             | Get all events of NFT Classes created (ISCN owner) by an address  |
+| ignore\_from\_list |                             | Ignore events sent from address                                   |
+| ignore\_to\_list   |                             | Ignore events sent to address                                     |
 
 ### Ranking API
 
