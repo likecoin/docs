@@ -19,11 +19,18 @@ description: >-
 
 ## Questions? Join our [Discord](http://discord.gg/likecoin) for help.
 
+## **2023 Date & Schedule**
+
+| Date               | Description                       |
+| ------------------ | --------------------------------- |
+| Monday, 6 February |                                   |
+| Monday, 9 January  | Ecosystem and Writing NFT updates |
+
 ## **2022 Date & Schedule**
 
 | **Date**            | **Description**                                                                |
 | ------------------- | ------------------------------------------------------------------------------ |
-| Monday, 5 December  |                                                                                |
+| Monday, 5 December  | Highlights of what LikeCoin did in 2022.                                       |
 | Monday, 7 November  | IPFS Camp 2022, LikeCoin chain Dragonberry patch                               |
 | Monday, 3 October   | New Wallet and Osmosis incentives                                              |
 | Monday, 5 September | Writing NFT Progress and Roadmap                                               |
