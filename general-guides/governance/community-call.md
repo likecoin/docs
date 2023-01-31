@@ -28,7 +28,7 @@ description: >-
 
 ## **2022 Date & Schedule**
 
-| **Date**            | **Description**                                                                |
+| Date                | Description                                                                    |
 | ------------------- | ------------------------------------------------------------------------------ |
 | Monday, 5 December  | Highlights of what LikeCoin did in 2022.                                       |
 | Monday, 7 November  | IPFS Camp 2022, LikeCoin chain Dragonberry patch                               |
@@ -45,14 +45,14 @@ description: >-
 
 ## **Call Time**
 
-| **Location** | **Local Time** | **Time Zone** | **UTC Offset** |
-| ------------ | -------------- | ------------- | -------------- |
-| Hong Kong    | 18:30:00       | UTC+8         | UTC+8          |
-| Taipei       | 18:30:00       | CST           | UTC+8          |
-| Los Angelas  | 03:00:00       | PDT           | UTC-7          |
-| New York     | 06:00:00       | EDT           | UTC-4          |
-| London       | 11:00:00       | BST           | UTC+1          |
-| Toronto      | 06:00:00       | EDT           | UTC-4          |
+| Location    | Local Time | Time Zone | UTC Offset |
+| ----------- | ---------- | --------- | ---------- |
+| Hong Kong   | 18:30:00   | UTC+8     | UTC+8      |
+| Taipei      | 18:30:00   | CST       | UTC+8      |
+| Los Angelas | 03:00:00   | PDT       | UTC-7      |
+| New York    | 06:00:00   | EDT       | UTC-4      |
+| London      | 11:00:00   | BST       | UTC+1      |
+| Toronto     | 06:00:00   | EDT       | UTC-4      |
 
 ![](../../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
 
