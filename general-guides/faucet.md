@@ -6,35 +6,27 @@ description: LikeCoin Faucet
 
 Use this [faucet](https://faucet.like.co/) to get a small amount of LIKE and start playing around the LikeCoin ecosystem. Each wallet and user can only claim once.
 
-## Step 1: Connect Wallet
+## Step 1
 
-Click [Keplr](wallet/keplr/) or [Comostation](wallet/cosmostation/) to connect to your wallet.
+Go to [LikeCoin Discord](https://discord.gg/likecoin) #faucet-mainnet channel. If you cannot see the channel please go to the #verify channel and get started.
 
-![](<../.gitbook/assets/faucet 1.png>)
+## Step 2
 
-On the Keplr pop-up window, click "Approve".
+Enter /faucet and choose "Receive 2.5 LIKE on likecoin-mainnet-2".
 
-![](<../.gitbook/assets/faucet 2.png>)
+<figure><img src="../.gitbook/assets/faucet-mainnet 1.png" alt=""><figcaption></figcaption></figure>
 
-On the Cosmostation pop-up window, click "Confirm".
+## Step 3
 
-![](<../.gitbook/assets/faucet 2.5.png>)
+Enter the wallet address after /faucet.
 
-## Step 2: Send Tokens
+<figure><img src="../.gitbook/assets/faucet-mainnet 2.png" alt=""><figcaption></figcaption></figure>
 
-Your LikeCoin wallet address is connected, click "Send me tokens".
+## Step 4
 
-![](<../.gitbook/assets/faucet 3.png>)
+Receive a reply notification that the LikeCoin transfer has been completed and the txhash for review.
 
-Need to verify whether it is a robot.
-
-![](<../.gitbook/assets/faucet 4.png>)
-
-## Step 3: Received Tokens
-
-2.5 LIKE have been transferred to your wallet. Click "Check tx" to view the record.
-
-![](<../.gitbook/assets/faucet 5.png>)
+<figure><img src="../.gitbook/assets/faucet-mainnet 3.png" alt=""><figcaption></figcaption></figure>
 
 ## Testnet Faucet
 
