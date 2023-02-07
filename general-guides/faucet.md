@@ -6,35 +6,27 @@ description: LikeCoin 水龍頭
 
 使用[水龍頭](https://faucet.like.co/)可獲得少量 LIKE 並開始在 LikeCoin 生態系統中玩耍。每個錢包只可以領取一次。
 
-## 步驟一：連接錢包
+## 步驟一
 
-點 [Keplr Browser Extension](wallet/keplr/) 或 [Cosmostation Browser Extension](wallet/cosmostation/) 連接錢包。
+進入 [LikeCoin Discord](https://discord.gg/likecoin) #faucet-mainnet 頻道。如看不到頻道請先到 #verify 頻道進行認證。
 
-![](<../.gitbook/assets/faucet 1.png>)
+## 步驟二
 
-Keplr 彈出視窗，點「Approve」。
+在頻道輸入 /faucet 並選擇 Receive 2.5 LIKE on likecoin-mainnet-2
 
-![](<../.gitbook/assets/faucet 2.png>)
+<figure><img src="../.gitbook/assets/faucet-mainnet 1.png" alt=""><figcaption></figcaption></figure>
 
-Cosmostation 彈出視窗，點「Confirm」。
+## 步驟三
 
-![](<../.gitbook/assets/faucet 2.5.png>)
+在 /faucet 的 address 後面輸入需要獲取 LikeCoin 的錢包地址。
 
-## 步驟二：傳送 LikeCoin
+<figure><img src="../.gitbook/assets/faucet-mainnet 2.png" alt=""><figcaption></figcaption></figure>
 
-顯示已連接你的 LikeCoin 錢包地址，點「Send me tokens」。
+## 步驟四
 
-![](<../.gitbook/assets/faucet 3.png>)
+收到回覆通知 LikeCoin 傳送已完成並提供 txhash 以供查閱。
 
-需要驗證是不是機械人。
-
-![](<../.gitbook/assets/faucet 4.png>)
-
-## 步驟三：收到 LikeCoin
-
-完成後 2.5 LIKE 已傳送到你的錢包。點「Check tx」查看相關記錄。
-
-![](<../.gitbook/assets/faucet 5.png>)
+<figure><img src="../.gitbook/assets/faucet-mainnet 3.png" alt=""><figcaption></figcaption></figure>
 
 ## 測試網水龍頭
 
