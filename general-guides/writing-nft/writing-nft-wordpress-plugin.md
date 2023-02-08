@@ -27,9 +27,3 @@ LikeCoin WordPress 外掛經已重新改版，除了全新設計的介面改善�
 {% content-ref url="../../user-guide/wordpress.md" %}
 [wordpress.md](../../user-guide/wordpress.md)
 {% endcontent-ref %}
-
-## 把 WordPress 文章出版成 Writing NFT 示範
-
-{% embed url="https://www.youtube.com/watch?v=iyquF_ClMeQ" %}
-
-{% embed url="https://www.youtube.com/watch?v=NylJ5-QkJvs" %}

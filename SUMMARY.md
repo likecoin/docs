@@ -97,7 +97,7 @@
 
 ## 💻 去中心應用 <a href="#user-guide" id="user-guide"></a>
 
-* [WordPress](user-guide/wordpress.md)
+* [Web3Press](user-guide/wordpress.md)
 * [Liker Land](user-guide/liker-land/README.md)
   * [下載 Liker Land](user-guide/liker-land/download.md)
   * [Like — 化讚為賞](user-guide/liker-land/like.md)
