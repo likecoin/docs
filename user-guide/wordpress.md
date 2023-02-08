@@ -6,15 +6,13 @@ description: 如何在自架 WordPress 加入 NFT Widget，出版 WordPress 作�
 
 過往要把文章以 NFT 形式出版，工序很䌓複：作者須先把內容及元數據儲存在如 IPFS 等分散式空間或區塊鏈上，再上傳到 NFT 市場定價出售，過程中還要入手幾款不同用途的密碼貨幣。然而現在 WordPress 的用戶有福了，因為寫完文章以後只需按一個鍵，便能完成出版 NFT 的工序，內容立即上鏈，過程只需一分鐘！
 
-[LikeCoin Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為古騰堡編輯器度身訂造，讓 WordPress 網站一鍵接通 Web3。功能包括：
+[LikeCoin Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為古騰堡編輯器度身訂造，讓 WordPress 網站一鍵接通 Web3，實現完整的分散式出版。功能包括：
 
 * 抓取文章的標籤和標題等內容作為 NFT 的元數據
 * 一鍵發佈文章到 LikeCoin 並儲存於 IPFS 及 Arweave 分散式檔案系統並註冊 [ISCN](../general-guides/decentralized-publishing/what-is-iscn.md)
 * 以 LikeCoin 一筆過支付內容上鏈及分散式儲存費用
+* 鑄造 Writing NFT 後 [NFT Widget](../general-guides/writing-nft/collect-writing-nft/nft-widget.md) 自動在文章下方顯示，讓讀者購買 NFT，並整合 [LikeCoin button 讚賞鍵](creator/)功能
 * 支援 [Internet Archive](https://archive.org/) 自動備份
-* [NFT Widget](../general-guides/writing-nft/collect-writing-nft/nft-widget.md) 自動在文章下方顯示，讓讀者購買，並整合 [LikeCoin button 讚賞鍵](creator/)功能
-
-此 plugin 更支援進一步[鑄造 Writing NFT](../general-guides/writing-nft/writing-nft-wordpress-plugin.md) 並售賣給讀者，實現完整的分散式出版。
 
 ## 如何安裝 Web3Press <a href="#installation" id="installation"></a>
 
