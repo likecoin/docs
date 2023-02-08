@@ -176,7 +176,7 @@
 
 ## 💻 DApp <a href="#user-guide" id="user-guide"></a>
 
-* [WordPress](user-guide/wordpress.md)
+* [Word3Press](user-guide/wordpress.md)
 * [Liker Land](user-guide/liker-land/README.md)
   * [Download Liker Land](user-guide/liker-land/download.md)
   * [Like - Reinventing the Like](user-guide/liker-land/like.md)
