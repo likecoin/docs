@@ -102,7 +102,7 @@ ISCN 經已成功註冊，點「Continue to mint Writing NFTs」鑄造 Writing N
 
 
 
-你也可以到 Liker Land 我的書架查看你的創作。
+你也可以到 Liker Land [我的書架](../general-guides/writing-nft/dashboard.md)查看你的創作。
 
 <figure><img src="../.gitbook/assets/W3Press mint 13.png" alt=""><figcaption></figcaption></figure>
 
@@ -151,8 +151,6 @@ ISCN 經已成功註冊，點「Continue to mint Writing NFTs」鑄造 Writing N
 
 ## 其他設定
 
-<figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption></figcaption></figure>
-
 ### LikeCoin Widget
 
 * Show in Posts：設定 Liker ID 後，預設為顯示 NFT Widget / 讚賞鍵於網站文章的下方
@@ -173,6 +171,8 @@ ISCN 經已成功註冊，點「Continue to mint Writing NFTs」鑄造 Writing N
 ### ISCN Badge <a href="#publish-to-iscn" id="publish-to-iscn"></a>
 
 文章註冊 ISCN 後，可設定是否展示 ISCN badge。狀態分為不展示 ( Not shown )、正常模式 ( Light Mode ) 及深色模式 ( Dark Mode )，選擇後點「Confirm」確認。
+
+<figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption></figcaption></figure>
 
 ### LikeCoin widget advanced settings
 
