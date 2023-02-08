@@ -92,7 +92,7 @@ ISCN 經已成功註冊，點「Continue to mint Writing NFTs」鑄造 Writing N
 
 <figure><img src="../.gitbook/assets/W3Press mint 10.png" alt=""><figcaption></figcaption></figure>
 
-### 步驟三：完成發佈
+### 步驟三：完成鑄造
 
 出現 Complete! 頁面代表經已成功鑄造，點「View NFT」預覽你的 Writing NFT。
 
