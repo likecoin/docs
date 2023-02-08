@@ -42,7 +42,7 @@ description: 如何在自架 WordPress 加入 NFT Widget，出版 WordPress 作�
 
 <figure><img src="../.gitbook/assets/wordpress 4.png" alt=""><figcaption></figcaption></figure>
 
-## 以 Keplr 簽名發佈 Writing NFT
+## 以 Keplr 簽署發佈 Writing NFT
 
 在出版 Writing NFT 前請安裝 [Keplr 瀏覽器擴充功能](../general-guides/wallet/keplr/)並登入。此外亦需要少量 LikeCoin 進行操作，新用戶可使用[水龍頭](../general-guides/faucet.md)獲得少量 LikeCoin，或查看[購買 LikeCoin](../general-guides/trade/buy-likecoin.md) 的方式。
 
