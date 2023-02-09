@@ -117,7 +117,7 @@ On the menu, select the "LikeCoin" plugin and select "Liker ID", then fill in th
 * Website Liker ID - If the website has more than one author, the Liker ID will be displayed as default on the author's article if he/she has not set up his/her own Liker ID.
 * Your Liker ID - Set up your own Liker ID. And after successfully adding a new user on the WordPress website, the new user can log in with their WordPress account, set their Liker ID and display their own NFT Widget / Like button.
 
-## Other Important features
+## Other Significant Features
 
 ### Publish to Internet Archive
 
