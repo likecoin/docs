@@ -62,7 +62,7 @@ description: 如何收集 Writing NFT
 
 點頭像再選「[我的書架](https://liker.land/dashboard?tab=collected)」即可查看已購買的 NFT。
 
-<figure><img src="../../../.gitbook/assets/NFT Dashboard.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ## 已擁有錢包並以信用卡收集 Writing NFT（手機與桌機均適用） <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
 
