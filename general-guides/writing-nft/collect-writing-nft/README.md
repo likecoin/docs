@@ -98,9 +98,9 @@ Payment Authentication page pop-up, enter your OTP code and press "VERIFY".
 
 ### Step 3: Check your NFT Collection
 
-Complete! page appears, the Writing NFT is successfully collected. Click "View Details" to view the details of the NFT purchased.
+Complete! page appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View Details" to view the details of the NFT purchased.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 15-en.png" alt=""><figcaption></figcaption></figure>
 
 * NFT ID: Each NFT ID is unique.
 * View Content: View Writing NFT content.&#x20;
