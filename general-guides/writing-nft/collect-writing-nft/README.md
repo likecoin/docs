@@ -62,7 +62,7 @@ Go to the upper right corner of the Liker Land website and click "Connect Wallet
 
 Go to "[My Dashboard](https://liker.land/dashboard)" via the to view the NFT that you've collected.
 
-<figure><img src="../../../.gitbook/assets/NFT Dashboard-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ## Already have a wallet and collect Writing NFT with credit card  ( For both Desktop and Mobile )
 
