@@ -10,6 +10,6 @@ description: 展示 NFT 藏品庫及個人貨架
 
 ## 精選及隱藏
 
-用戶可以透過精選或隱藏 NFT 項目以調整自己的展示櫃。精選 NFT 將於版面置頂，而隱藏 NFT 將不會公開展示。
+用戶可以透過精選或隱藏 NFT 項目（點右上角的星星進行）以調整自己的展示櫃。精選 NFT 將於版面置頂，而隱藏 NFT 將不會公開展示。
 
 <figure><img src="../../.gitbook/assets/Featured NFT.png" alt=""><figcaption></figcaption></figure>
