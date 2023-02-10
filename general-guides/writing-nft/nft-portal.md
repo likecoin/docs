@@ -78,7 +78,7 @@ The Keplr window pops up again, click "Approve".
 
 ### **Step 2/4: Preview NFT**
 
-The Writing NFT preview page appears, click "Next".
+Preview your Writing NFT. If you want to add or change the cover of the Writing NFT, click ":pencil2:". If you don't need to change it / the article has no picture, the default OG picture of the article will be displayed / no picture will be displayed. Click "Next" to continue.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5.png" alt=""><figcaption></figcaption></figure>
 
