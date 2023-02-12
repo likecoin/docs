@@ -174,6 +174,20 @@ Writing NFT 已成功鑄造並可供其他用戶購買，然而在內容頁面�
 [edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
 {% endcontent-ref %}
 
+## 其他鑄造 Writing NFT 的方式
+
+### Liker.Social
+
+點擊 [Liker.Social](https://liker.social/) 嘟文頁面的 Mint 可以將嘟文變成 NFT。
+
+<figure><img src="../../.gitbook/assets/Liker.Social.png" alt=""><figcaption></figcaption></figure>
+
+## illustBuy
+
+在 [illustBuy](https://illustbuy.com/) 發行 NFT，請參看詳盡介紹：
+
+{% embed url="https://blog.like.co/zh/%E5%B0%88%E7%87%9F%E6%8F%92%E7%95%AB%E7%9A%84-nft-%E5%B8%82%E5%A0%B4-illustbuy/" %}
+
 ## 群發 NFT 紀念品給支持者
 
 #### 影片教學
