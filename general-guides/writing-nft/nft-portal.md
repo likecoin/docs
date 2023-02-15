@@ -182,7 +182,7 @@ Writing NFT 已成功鑄造並可供其他用戶購買，然而在內容頁面�
 
 <figure><img src="../../.gitbook/assets/Liker.Social.png" alt=""><figcaption></figcaption></figure>
 
-## illustBuy
+### illustBuy
 
 在 [illustBuy](https://illustbuy.com/) 發行 NFT，請參看詳盡介紹：
 
