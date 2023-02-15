@@ -8,7 +8,7 @@ description: >-
 
 The current hassle to publish articles as NFTs: Creators needed to find ways to save the contents and metadata on decentralized storage such as IPFS or blockchain, before selling them on the NFT marketplaces. Furthermore, they had to purchase several kinds of cryptocurrencies during the process. We have good news for WordPress users: After finishing your articles, you only need one click to publish NFT credentials to blockchain. the whole process just takes one minute to complete within the WordPress editor!
 
-The brand new [LikeCoin Web3Press plugin](https://wordpress.org/plugins/likecoin/) is tailor made for Gutenberg editor, which links up the WordPress website with Web3 by just one click and decentralized publishing can be actualized to the fullest. It's functions include:
+The brand new LikeCoin [Web3Press plugin](https://wordpress.org/plugins/likecoin/) is tailor made for Gutenberg editor, which links up the WordPress website with Web3 by just one click and decentralized publishing can be actualized to the fullest. It's functions include:
 
 * Set the post title and tags as the NFT metadata automatically
 * One-click publishing to LikeCoin plus storage at IPFS and Arweave and register [ISCN](../general-guides/decentralized-publishing/what-is-iscn.md).
@@ -32,7 +32,7 @@ Click on the Menu on the left, go to "Plugin" and click on "Add New" on top.
 
 ### Step 3：Activate Web3Press
 
-Search for "LikeCoin" and find the LikeCoin plugin, click "Install Now" and wait for the system to finish the job, then click "Activate".
+Search for "Web3Press or "LikeCoin" and find the Wed3Press plugin, click "Install Now" and wait for the system to finish the job, then click "Activate".
 
 <figure><img src="../.gitbook/assets/wordpress 2-en.png" alt=""><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@ Search for "LikeCoin" and find the LikeCoin plugin, click "Install Now" and wait
 
 ### Step 4：Installation Completed
 
-After installation, there will be an "LikeCoin" option in the menu. Congratulations,  installation is done!
+After installation, there will be an "☆Web3Press" option in the menu. Congratulations, installation is done!
 
 <figure><img src="../.gitbook/assets/wordpress 4-en.png" alt=""><figcaption></figcaption></figure>
 
@@ -108,7 +108,7 @@ You can also check out your creations on the Liker Land [My Dashboard](../genera
 
 Before configuring the LikeCoin plugin, please [register a Liker ID](liker-id/).
 
-On the menu, select the "LikeCoin" plugin and select "Liker ID", then fill in the Liker ID and click "Confirm".
+On the menu, select the Web3Press plugin and select "Liker ID", then fill in the Liker ID and click "Confirm".
 
 <figure><img src="../.gitbook/assets/wordpress 5.png" alt=""><figcaption></figcaption></figure>
 
@@ -139,7 +139,7 @@ By publishing on Matters, your articles will be stored to the distributed InterP
 
 ### Web Monetization
 
-Web monetization is now enabled on LikeCoin WordPress plugin. It allows content creators to receive streaming money when [Coil](https://coil.com/) subscribers visit the website.
+Web monetization is now enabled on Web3Press plugin. It allows content creators to receive streaming money when [Coil](https://coil.com/) subscribers visit the website.
 
 <figure><img src="../.gitbook/assets/wordpress 12.png" alt=""><figcaption></figcaption></figure>
 
@@ -164,7 +164,7 @@ After the article is published to ISCN, you can set it if you want to display th
 
 ### LikeCoin widget advanced settings
 
-Customize NFT Widget / Appreciation button display settings for each article.
+Customize NFT Widget / LikeCoin button display settings for each article.
 
 <figure><img src="../.gitbook/assets/wordpress 9.png" alt=""><figcaption></figcaption></figure>
 
