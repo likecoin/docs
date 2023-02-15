@@ -16,6 +16,8 @@ The brand new LikeCoin [Web3Press plugin](https://wordpress.org/plugins/likecoin
 * After minting Writing NFT, a [NFT Widget](../general-guides/writing-nft/collect-writing-nft/nft-widget.md) is automatically embedded at the bottom of each post for readers to [collect Writing NFT](../general-guides/writing-nft/collect-writing-nft/) and Integrate [LikeCoin button](creator/).
 * Support [Internet Archive](https://archive.org/) auto backups
 
+Readers will get the access of an immutable content copy which is stored in distributed file system after buying an NFT. The copy can be regarded as the “true copy” in Web3.
+
 ## How to install Web3Press <a href="#likecoin" id="likecoin"></a>
 
 Follow the steps:
@@ -122,6 +124,12 @@ On the menu, select the Web3Press plugin and select "Liker ID", then fill in the
 ### Publish to Internet Archive
 
 Fill in the Internet Archive S3 API Key and synchronize the article to Internet Archive when it is published.
+
+{% hint style="info" %}
+Web3Press supports [Internet Archive](https://archive.org/). Articles are sync to the Internet Archive when the WordPress article is published. Please refer to [this article in _Witness_](https://web.archive.org/web/20221215135952/https://thewitnesshk.com/%E6%94%AF%E8%81%AF%E6%9C%83%E6%8B%92%E4%BA%A4%E8%B3%87%E6%96%99%E6%A1%88-%E9%84%92%E5%B9%B8%E5%BD%A4%E6%8C%87%E9%80%9A%E7%9F%A5%E6%9B%B8%E5%B1%AC%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BB%BB%E5%8B%99-%E6%8B%92/) as an example
+
+The Internet Archive is an American digital library with the stated mission of "universal access to all knowledge". It provides free public access to collections of digitized materials, including websites, software applications/games, music, movies/videos, moving images, and millions of books. In addition to its archiving function, the Archive is an activist organization, advocating a free and open Internet.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/wordpress 11.png" alt=""><figcaption></figcaption></figure>
 

@@ -30,7 +30,7 @@ Use the [Follow Creators](follow-creators.md) function.
 
 ### On what basis does the price of Writing NFT change?
 
-[The price changes dynamically based on supply and demand of the NFT](dynamic-pricing.md). Creators do not need to set the price and quantity. Readers do not need to set the bidding price too, just collect when the price feels right. The market price will decrease when someone sells in the secondary market.
+[The price changes dynamically based on supply and demand of the NFT](dynamic-pricing.md). Creators do not need to set the price and quantity. Readers do not need to set the bidding price too, just collect when the price feels right. The market price will decrease when someone sells in the [NFT Marketplace](collect-writing-nft/nft-marketplace.md).
 
 ### Where can I check out my NFT collection?
 
@@ -42,15 +42,15 @@ At the [My Dashboard](dashboard.md) page.
 
 ### How to list Writing NFT for sale?
 
-Creators can publish their works as NFTs via any platform supporting LikeCoin Writing NFT, such as WordPress website. The published NFTs are listed automatically and can be collected via NFT Widget and NFT Portfolio, with no additional work.
+Creators can publish their works as NFTs via any platform supporting LikeCoin Writing NFT, such as WordPress website, [Liker.Social](https://liker.social/) or [illustBuy](https://illustbuy.com/). The published NFTs are listed automatically and can be collected via [NFT Widget](collect-writing-nft/nft-widget.md) and [NFT Portfolio](collect-writing-nft/nft-portfolio.md), with no additional work.
 
 ### I do not have a Liker ID, can I sell Writing NFT?
 
-Sure. The WordPress plugin will support NFT widgets with Keplr wallet addresses. You can also login your wallet to the NFT Portal to mint NFT, and then display your work on the NFT Portfolio, and share the link for readers to purchase.
+Sure. The [Web3Press plugin](../../user-guide/wordpress.md) supports [NFT Widgets](collect-writing-nft/nft-widget.md) with Keplr wallet address. You can also login your wallet to the[ NFT Portal](../../developer/likenft/nft-portal/) to mint NFT, and then display your work on the [NFT Portfolio](collect-writing-nft/nft-portfolio.md), and share the link for readers to purchase.
 
 ### How to install NFT Widget?
 
-You can install the [LikeCoin WordPress plugin](../../user-guide/wordpress.md), and each post will automatically add an NFT Widget. You can also post on writing platforms that support NFT Widget. Users who have technical background can add the iframe of NFT Widget to any webpage.
+You can install the LikeCoin [Web3Press plugin](../../user-guide/wordpress.md), and each post will automatically add an [NFT Widget](collect-writing-nft/nft-widget.md). You can also post on writing platforms that support NFT Widget. Users who have technical background can add the iframe of NFT Widget to any webpage.
 
 ### Any other way to sell my Writing NFT besides by NFT Widget?
 
