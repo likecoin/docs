@@ -4,7 +4,7 @@ description: >-
   blockchain?
 ---
 
-# Word3Press
+# Web3Press
 
 The current hassle to publish articles as NFTs: Creators needed to find ways to save the contents and metadata on decentralized storage such as IPFS or blockchain, before selling them on the NFT marketplaces. Furthermore, they had to purchase several kinds of cryptocurrencies during the process. We have good news for WordPress users: After finishing your articles, you only need one click to publish NFT credentials to blockchain. the whole process just takes one minute to complete within the WordPress editor!
 
@@ -16,7 +16,7 @@ The brand new [LikeCoin Web3Press plugin](https://wordpress.org/plugins/likecoin
 * After minting Writing NFT, a [NFT Widget](../general-guides/writing-nft/collect-writing-nft/nft-widget.md) is automatically embedded at the bottom of each post for readers to [collect Writing NFT](../general-guides/writing-nft/collect-writing-nft/) and Integrate [LikeCoin button](creator/).
 * Support [Internet Archive](https://archive.org/) auto backups
 
-## How to install Word3Press <a href="#likecoin" id="likecoin"></a>
+## How to install Web3Press <a href="#likecoin" id="likecoin"></a>
 
 Follow the steps:
 
@@ -30,7 +30,7 @@ Click on the Menu on the left, go to "Plugin" and click on "Add New" on top.
 
 ![](../.gitbook/assets/wordpress-1-en.png)
 
-### Step 3：Activate Word3Press
+### Step 3：Activate Web3Press
 
 Search for "LikeCoin" and find the LikeCoin plugin, click "Install Now" and wait for the system to finish the job, then click "Activate".
 
