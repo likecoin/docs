@@ -78,7 +78,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### 步驟 2/4：預覽 Writing NFT <a href="#preview-nft" id="preview-nft"></a>
 
-預覽你的 Writing NFT，如需添加或更改 Writing NFT 的封面可按「:pencil2:」，如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片，完成後按「Next」。
+預覽你的 Writing NFT，如需添加或更改 Writing NFT 的封面可按「:pencil2:」，如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片；你亦可以按「:pencil2:」更改 Writing NFT 的標題及簡介。完成後按「Next」。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5.png" alt=""><figcaption></figcaption></figure>
 
