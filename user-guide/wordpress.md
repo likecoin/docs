@@ -82,7 +82,11 @@ ISCN has been successfully registered, click "Continue to mint Writing NFTs".
 
 <figure><img src="../.gitbook/assets/W3Press mint 7.png" alt=""><figcaption></figcaption></figure>
 
-Preview your Writing NFT. If you want to add or change the cover of the Writing NFT, click ":pencil2:". If you don't need to change it / the article has no picture, the default OG picture of the article will be displayed / no picture will be displayed. Click "Next" to continue.
+{% hint style="info" %}
+You can always go to [app.like.co](https://app.like.co/) [My Publishing](https://app.like.co/works) to check the ISCN published.
+{% endhint %}
+
+Preview your Writing NFT. If you want to add or change the cover of the Writing NFT, click ":pencil2:". If you don't need to change it / the article has no picture, the default OG picture of the article will be displayed / no picture will be displayed. You can also click ":pencil2:" to change the Title and description of your Writing NFT. Then click "Next" to continue.
 
 <figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption></figcaption></figure>
 
