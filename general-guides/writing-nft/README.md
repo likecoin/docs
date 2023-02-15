@@ -44,11 +44,11 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 
-可以。WordPress plugin 將支援僅以 Keplr 地址生成 NFT Widget。另，也可經 [NFT Portal](nft-portal.md) 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
+可以。[Web3Press plugin](../../user-guide/wordpress.md) 支援僅以 [Keplr](../wallet/keplr/) 地址生成 NFT Widget。另，也可經 [NFT Portal](nft-portal.md) 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
 
 ### 如何安裝 NFT Widget?
 
-可安裝 [LikeCoin WordPress plugin](writing-nft-wordpress-plugin.md)，每篇帖文即自動加上 NFT Widget。另也可在支援 NFT Widget 的寫作平台發文。稍懂技術的朋友，可在網頁上加上 NFT Widget 的 iframe。
+可安裝 LikeCoin [Web3Press plugin](../../user-guide/wordpress.md)，每篇帖文即自動加上 NFT Widget。另也可在支援 NFT Widget 的寫作平台發文。稍懂技術的朋友，可在網頁上加上 NFT Widget 的 iframe。
 
 ### 作品沒有安裝 NFT Widget，也能發售 NFT 嗎？
 

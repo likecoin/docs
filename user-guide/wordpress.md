@@ -14,6 +14,8 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 * 鑄造 Writing NFT 後 [NFT Widget](../general-guides/writing-nft/collect-writing-nft/nft-widget.md) 自動在文章下方顯示，讓讀者[收集 NFT](../general-guides/writing-nft/collect-writing-nft/)，並整合 [LikeCoin button 讚賞鍵](creator/)功能
 * 支援 [Internet Archive](https://archive.org/) 自動備份
 
+由於內容備份了在分散式檔案系統，擁有 NFT 的讀者等於擁有了一份內容的正本，可以隨時閱覽。
+
 ## 如何安裝 Web3Press <a href="#installation" id="installation"></a>
 
 請執行以下步驟：
@@ -30,7 +32,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 ### 步驟三：啟用外掛
 
-搜尋關鍵字 "Web3Press 或 "LikeCoin"，找到 Web3Press 外掛，點擊「立即安裝」並等待完成，再點擊「啟用」。
+搜尋關鍵字 "Web3Press" 或 "LikeCoin"，找到 Web3Press 外掛，點擊「立即安裝」並等待完成，再點擊「啟用」。
 
 <figure><img src="../.gitbook/assets/wordpress 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +46,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 ## 以 Keplr 簽署發佈 Writing NFT
 
-在出版 Writing NFT 前請安裝 [Keplr 瀏覽器擴充功能](../general-guides/wallet/keplr/)並登入。此外亦需要少量 LikeCoin 進行操作，新用戶可使用[水龍頭](../general-guides/faucet.md)獲得少量 LikeCoin，或查看[購買 LikeCoin](../general-guides/trade/buy-likecoin.md) 的方式。
+在出版 Writing NFT 前請安裝 [Keplr 瀏覽器擴充功能](../general-guides/wallet/keplr/)並登入。此外亦需要 LikeCoin 進行操作，新用戶可使用[水龍頭](../general-guides/faucet.md)獲得少量 LikeCoin，或查看[購買 LikeCoin](../general-guides/trade/buy-likecoin.md) 的方式。
 
 留意用戶並不需要註冊 Liker ID 也可以使用 Web3Press 去中心出版。
 
@@ -110,7 +112,7 @@ ISCN 經已成功註冊，點「Continue to mint Writing NFTs」鑄造 Writing N
 
 設定前請先[註冊 Liker ID](liker-id/)。
 
-在管理介面左方菜單，點選 "LikeCoin" 外掛設定，再選「Liker ID」。在右方畫面中，輸入 Liker ID 並點「Confirm」：
+在管理介面左方菜單，點選 "Web3Press" 外掛設定，再選「Liker ID」。在右方畫面中，輸入 Liker ID 並點「Confirm」：
 
 <figure><img src="../.gitbook/assets/wordpress 5.png" alt=""><figcaption></figcaption></figure>
 
@@ -126,6 +128,12 @@ ISCN 經已成功註冊，點「Continue to mint Writing NFTs」鑄造 Writing N
 ### Publish to Internet Archive
 
 填寫 Internet Archive S3 API Key 後即可於發佈文章時同步到 Internet Archive。
+
+{% hint style="info" %}
+Web3Press 支援 [Internet Archive](https://archive.org/)，用戶在發佈文章的同時可同步發佈到 Internet Archive 備份存檔，例子可參考《法庭線》的這[這篇文章](https://web.archive.org/web/20221215135952/https://thewitnesshk.com/%E6%94%AF%E8%81%AF%E6%9C%83%E6%8B%92%E4%BA%A4%E8%B3%87%E6%96%99%E6%A1%88-%E9%84%92%E5%B9%B8%E5%BD%A4%E6%8C%87%E9%80%9A%E7%9F%A5%E6%9B%B8%E5%B1%AC%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BB%BB%E5%8B%99-%E6%8B%92/)。
+
+若你不知道什麼是 Internet Archive，它是一個非牟利數位圖書館，收藏書籍、電影、音樂及多達 6240 億個網頁存檔以供免費查閱，是網絡開放與自由化的倡議者。更多介紹可參看 ckxpress 有關 [DWeb Camp 之行的體驗分享](https://liker.land/nft/class/likenft1l6875l0mdvz4u9060t5nacd4xcx5ge5wlef2tj2jff2wkna93d2sfezzp9)。
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/wordpress 11.png" alt=""><figcaption></figcaption></figure>
 
