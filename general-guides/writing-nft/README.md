@@ -40,15 +40,15 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 如何發售 Writing NFT？
 
-可經任何支援 Writing NFT 的寫作網站出版，作品發佈後便自動上架，在 NFT Widget 及 NFT 展示櫃發售，作者不用手動做額外動作上架市場。
+可經任何支援 Writing NFT 的寫作網站出版，例如 WordPress 網站、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT Widget](collect-writing-nft/nft-widget.md) 及 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)發售，作者不用手動做額外動作上架市場。
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 
-可以。[Web3Press plugin](../../user-guide/wordpress.md) 支援僅以 [Keplr](../wallet/keplr/) 地址生成 NFT Widget。另，也可經 [NFT Portal](nft-portal.md) 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
+可以。[Web3Press plugin](../../user-guide/wordpress.md) 支援僅以 [Keplr](../wallet/keplr/) 地址生成 [NFT Widget](collect-writing-nft/nft-widget.md)。另，也可經 [NFT Portal](nft-portal.md) 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
 
 ### 如何安裝 NFT Widget?
 
-可安裝 LikeCoin [Web3Press plugin](../../user-guide/wordpress.md)，每篇帖文即自動加上 NFT Widget。另也可在支援 NFT Widget 的寫作平台發文。稍懂技術的朋友，可在網頁上加上 NFT Widget 的 iframe。
+可安裝 LikeCoin [Web3Press plugin](../../user-guide/wordpress.md)，每篇帖文即自動加上 [NFT Widget](collect-writing-nft/nft-widget.md)。另也可在支援 NFT Widget 的寫作平台發文。稍懂技術的朋友，可在網頁上加上 NFT Widget 的 iframe。
 
 ### 作品沒有安裝 NFT Widget，也能發售 NFT 嗎？
 
