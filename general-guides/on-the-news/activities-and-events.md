@@ -1,6 +1,20 @@
 # Activities and Events
 
 {% tabs %}
+{% tab title="2023" %}
+### 02/17-19 WordCamp Asia 2023
+
+[Booth](https://www.facebook.com/Liker.Land/posts/pfbid02MJ4WjVyJUAS3MpFnTGEP48W3ggTfZXVyeK4nKFnFDh659Wafg6mJMJfBpWk4E3Eal)
+
+Talk:[ "How I make a living with Writing NFT on my WordPress blog"](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Flive%2FvrDwB7iuHL8%3Ffeature%3Dshare%26t%3D4872%26fbclid%3DIwAR3f4L\_aWcsB06P00eEla0cKM3BXX34EDhewTUB9vVfQXV272IcbW0HPNNU\&h=AT34Kt3\_Iek6mb8RyMzPB73KMx0M4xKawPKKSugNsCHDWjk8vS1NKuNvRe\_MAl-tYGs605cLQXUbfi2uJZpfLiWNDo5Xqe4\_F5lcz31VSDvoZcDVK9pphSKAsz3WZeLtPA&\_\_tn\_\_=-UK-R\&c\[0]=AT1LxEv3njjcGPc2O3tJVErCExaC8JU-9bvPLL4hsHihwpIqNF2Jo3ObDC-NPX-sDZg6K0keruJU-6bIGDIOVRw65aRge-KWcCn2XRxbo9BCAMdRkFEjW\_BIPiJv20111\_KsqIUey8ciGs-rSrWJBvnfWZ\_EywkVv9EdZqUMoT\_iUKKuEXdnsSVmOVj-YqTs2Oda98zCunFhBVcu8uDzbszMoWCCulltV0O9cJA)
+
+
+
+### 02/13 IATC(HK) - 國際演藝評論家協會(香港分會)
+
+[【散點與連線．網上講座（一）】 🌟認識NFT的幾個重要概念](https://www.facebook.com/iatchongkong/posts/pfbid0xAdhk8ZZJittgJi3UdgnfGamPjPP1WHcSNm5xpYnReHwvWZygBT4s4UR1wsCWKmil)
+{% endtab %}
+
 {% tab title="2022" %}
 ### 12/10 GDG Cloud Hong Kong DevFest 2022
 
