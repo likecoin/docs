@@ -78,9 +78,29 @@ The Keplr window pops up again, click "Approve".
 
 ### **Step 2/4: Preview NFT**
 
-Preview your Writing NFT. If you want to add or change the cover of the Writing NFT, click ":pencil2:". If you don't need to change it / the article has no picture, the default OG picture of the article will be displayed / no picture will be displayed. You can also click ":pencil2:" to change the Title and description of your Writing NFT. Then click "Next" to continue.
+Preview your Writing NFT. You can change the NFT Cover, Title and Description by clicking ":pencil2:".
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5.png" alt=""><figcaption></figcaption></figure>
+
+#### Change the NFT cover
+
+Click ":pencil2:" on the picture and then click ":game\_die:" to generate a unique AI cover image. Click ":open\_file\_folder:" to upload or modify an existing picture. If you don't need to change it / the article has no picture, the default OG picture of the article will be displayed / no picture will be displayed.
+
+<figure><img src="../../.gitbook/assets/NFT Portal 5-1-en.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/NFT Portal 5-2.png" alt=""><figcaption></figcaption></figure>
+
+#### Edit Title
+
+Click ":pencil2:" at the title and modify it directly.
+
+<figure><img src="../../.gitbook/assets/NFT Portal 5-3.png" alt=""><figcaption></figcaption></figure>
+
+#### Edit Description
+
+Click ":pencil2:" at the description to change the description of Writing NFT.
+
+<figure><img src="../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3/4: Add Creator message
 

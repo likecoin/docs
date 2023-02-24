@@ -6,6 +6,13 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
 
+## Proposal #60 Creators Fund
+
+* Proposer: edmond
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2023.02.21,&#x20;
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/60](https://bigdipper.live/likecoin/proposals/60)
+
 ## Proposal #59 Renewal of Community Delegation Committee
 
 * Proposer: Daisy
