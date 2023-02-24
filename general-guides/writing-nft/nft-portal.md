@@ -78,9 +78,31 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### 步驟 2/4：預覽 Writing NFT <a href="#preview-nft" id="preview-nft"></a>
 
-預覽你的 Writing NFT，如需添加或更改 Writing NFT 的封面可按「:pencil2:」，如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片；你亦可以按「:pencil2:」更改 Writing NFT 的標題及簡介。完成後按「Next」。
+預覽你的 Writing NFT，你可以按「:pencil2:」修改封面、標題及簡介：
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5.png" alt=""><figcaption></figcaption></figure>
+
+#### 修改封面 <a href="#change-cover" id="change-cover"></a>
+
+在圖片位置按「:pencil2:」後再按「:game\_die:」即可生成獨一無二的 AI 封面圖，按「:open\_file\_folder:」則可上載或修改現有的圖片。如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片。
+
+<figure><img src="../../.gitbook/assets/NFT Portal 5-1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/NFT Portal 5-2.png" alt=""><figcaption></figcaption></figure>
+
+#### 修改標題 <a href="#change-title" id="change-title"></a>
+
+在標題位置按「:pencil2:」後直接修改標題。
+
+<figure><img src="../../.gitbook/assets/NFT Portal 5-3.png" alt=""><figcaption></figcaption></figure>
+
+#### 修改簡介 <a href="#change-description" id="change-description"></a>
+
+在簡介位置按「:pencil2:」更改 Writing NFT 的簡介。
+
+<figure><img src="../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption></figcaption></figure>
+
+完成後按「Next」。
 
 ### 步驟 3/4：輸入作者的話 <a href="#creator-message" id="creator-message"></a>
 
