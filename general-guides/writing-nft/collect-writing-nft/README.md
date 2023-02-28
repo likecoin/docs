@@ -64,7 +64,7 @@ Go to "[My Dashboard](https://liker.land/dashboard)" via the to view the NFT tha
 
 <figure><img src="../../../.gitbook/assets/My Dashboard.png" alt=""><figcaption></figcaption></figure>
 
-## Already have a wallet and collect Writing NFT with credit card  ( For both Desktop and Mobile )
+## Already have a wallet and collect Writing NFT with credit card
 
 Users can also register the [Keplr](../../wallet/keplr/) wallet first and then purchase Writing NFT with a credit card.
 
