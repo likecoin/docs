@@ -10,10 +10,6 @@ description: 簡單轉移沒難度
 
 以下將示範如何轉贈 Writing NFT。
 
-## 影片教學
-
-{% embed url="https://www.youtube.com/watch?v=z1UZclQHVOo" %}
-
 ## 步驟一：登入並轉移
 
 登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 後點需要轉移的 NFT，並查看存量「擁有」了多少個。確定需要轉移後點「轉贈」。
@@ -57,3 +53,7 @@ description: 簡單轉移沒難度
 用戶可於附加留言欄位查看已傳送的訊息。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 8.png" alt=""><figcaption></figcaption></figure>
+
+#### 教學影片
+
+{% embed url="https://www.youtube.com/watch?v=z1UZclQHVOo" %}

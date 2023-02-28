@@ -4,7 +4,7 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 # 安裝 Keplr 瀏覽器擴充功能
 
-## 影片教學
+#### 教學影片
 
 {% embed url="https://www.youtube.com/watch?v=WQGW1P0KgOA" %}
 

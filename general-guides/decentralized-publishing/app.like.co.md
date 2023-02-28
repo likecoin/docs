@@ -121,4 +121,4 @@ description: 第一個 ISCN 的概念示範應用
 
 ## 出版 Writing NFT
 
-註冊 ISCN 後，用戶可以把它[出版成 Writing NFT](../writing-nft/nft-portal.md#fang-fa-1-cha-zhao-iscn-hou-zhi-jie-chu-ban-writing-nft)。&#x20;
+註冊 ISCN 後，用戶可以把它[出版成 Writing NFT](../writing-nft/nft-portal.md#publish-writing-nft-with-iscn-id)。&#x20;

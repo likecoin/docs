@@ -191,6 +191,8 @@ Liker Land app 將彈出 Wallet Connect 視窗，再點「允許」確認購買�
 
 ### 在 Cosmostation app 簽署 <a href="#cosmostation-app" id="cosmostation-app"></a>
 
+#### 教學影片
+
 {% embed url="https://www.youtube.com/watch?v=l6zjetJVNuA" %}
 
 ### 在 Liker Land app 簽署 <a href="#liker-land-app" id="liker-land-app"></a>
@@ -237,7 +239,7 @@ Liker Land app 將彈出 Wallet Connect 視窗，再點「允許」確認購買�
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 11.png" alt=""><figcaption></figcaption></figure>
 
-#### 影片教學
+#### 教學影片
 
 {% embed url="https://www.youtube.com/watch?v=vMlMVtag_V8" %}
 

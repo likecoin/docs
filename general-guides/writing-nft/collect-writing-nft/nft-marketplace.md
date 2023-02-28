@@ -6,9 +6,9 @@ LikeCoin Writing NFT [二級市場](https://likecoin.github.io/likecoin-nft-mark
 
 ## 詳盡介紹
 
-{% embed url="https://blog.like.co/zh/%E5%95%9F%E5%8B%95%E3%80%8C%E7%84%A1%E5%BD%A2%E4%B9%8B%E6%89%8B%E3%80%8D-nft-%E4%BA%8C%E7%B4%9A%E5%B8%82%E5%A0%B4-beta/" %}
+[啟動「無形之手」 – NFT 二級市場 beta](https://blog.like.co/zh/%E5%95%9F%E5%8B%95%E3%80%8C%E7%84%A1%E5%BD%A2%E4%B9%8B%E6%89%8B%E3%80%8D-nft-%E4%BA%8C%E7%B4%9A%E5%B8%82%E5%A0%B4-beta/)
 
-## 影片教學
+#### 教學影片
 
 {% embed url="https://www.youtube.com/watch?v=R81VCA3OdGQ" %}
 
