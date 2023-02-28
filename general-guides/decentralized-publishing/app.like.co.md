@@ -121,4 +121,4 @@ Registered ISCN can be viewed in "[My Publishing](https://app.like.co/works)".
 
 ## Publish Writing NFT
 
-After registering an ISCN, users can [publish it as Writing NFT](../writing-nft/nft-portal.md#method-1-publish-writing-nft-directly-from-iscn).
+After registering an ISCN, users can [publish it as Writing NFT](../writing-nft/nft-portal.md#publish-writing-nft-with-iscn-id).

@@ -14,11 +14,11 @@ description: Publish ANY webpage as NFT
 
 
 
-Authors can use [Web3Press](../../user-guide/wordpress.md) to publish articles, register ISCN and publish NFT in one go. If the author does not use WordPress:
+Authors can use [**Web3Press**](../../user-guide/wordpress.md) to publish articles, register ISCN and publish NFT in one go. If the author does not use WordPress:
 
 **Option 1**: Writers can copy the URL of any webpage, paste it to [**NFT Portal** website a.k.a. the "Mint" tab of app.like.co](https://app.like.co/nft/url) to mint the page as Writing NFT. The Portal will scrape the og graphic, title and content of the webpage and store the information into distributed storage and registered as an ISCN, then publish the work as NFT
 
-**Option 2**: Register text, PDF, picture, sound... into [ISCN](../decentralized-publishing/app.like.co.md) first, then paste the ISCN ID to [NFT Portal](https://app.like.co/nft/url) and publish as NFT
+**Option 2**: Register text, PDF, picture, sound... into [ISCN](../decentralized-publishing/app.like.co.md) first, then paste the ISCN ID to [**NFT Portal**](https://app.like.co/nft/url) and publish as NFT
 
 **Option 3**: Write on the Matters website and select "Register ISCN", then select the ISCN on the ["My Publishing" tab of app.like.co](https://app.like.co/works) to publish as NFT
 
@@ -34,7 +34,7 @@ After publishing the NFT, users can embed an NFT Widget into any webpage by ifra
 
 ## Login to NFT Portal&#x20;
 
-Log in to [NFT Portal](https://app.like.co/nft/url) with [Keplr Browser Extension](../wallet/keplr/) or [Liker Land app](../../user-guide/liker-land/download.md).
+Log in to [**NFT Portal**](https://app.like.co/nft/url) **** with [Keplr Browser Extension](../wallet/keplr/) or [Liker Land app](../../user-guide/liker-land/download.md).
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1.png" alt=""><figcaption></figcaption></figure>
 

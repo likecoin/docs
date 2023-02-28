@@ -4,9 +4,9 @@ description: How to collect Writing NFT?
 
 # Collect Writing NFT
 
-You can pay by credit card to purchase Writing NFT, and create a wallet to receive NFT after completing the purchase, which is simple and convenient.
-
 ## Collect Writing NFT with credit card ( For both Desktop and Mobile )
+
+You can pay by credit card to purchase Writing NFT, and create a wallet to receive NFT after completing the purchase, which is simple and convenient.
 
 ### Step 1: Start Collecting
 
@@ -184,6 +184,8 @@ A Wallet Connect request pops up on Liker Land app, then click "Approve" to conf
 ## Collect Writing NFT with LikeCoin on Mobile
 
 ### **Through the Cosmostation app**
+
+#### **Tutorial**
 
 {% embed url="https://www.youtube.com/watch?v=l6zjetJVNuA" %}
 
