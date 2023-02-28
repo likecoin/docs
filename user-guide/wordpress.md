@@ -86,7 +86,7 @@ ISCN 經已成功註冊，點「Continue to mint Writing NFTs」鑄造 Writing N
 你可以隨時到 [app.like.co](https://app.like.co/) 的 [My Publishing](https://app.like.co/works) 查看已註冊的 ISCN。
 {% endhint %}
 
-預覽你的 Writing NFT，如需添加或更改 Writing NFT 的封面可按「:pencil2:」，如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片；你亦可以按「:pencil2:」更改 Writing NFT 的標題及簡介。完成後按「Next」。
+預覽你的 Writing NFT，如需添加或更改或生成 AI 封面可按「:pencil2:」，如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片；你亦可以按「:pencil2:」更改 Writing NFT 的標題及簡介，詳情可到[發行 NFT](../general-guides/writing-nft/nft-portal.md) 了解更多。完成後按「Next」。
 
 <figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption></figcaption></figure>
 
