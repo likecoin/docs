@@ -4,9 +4,9 @@ description: 如何收集 Writing NFT
 
 # 收集 Writing NFT
 
-購買 Writing NFT 可直接刷信用卡，並於完成購買後註冊加密錢包以收取 NFT，非常方便。
-
 ## 以信用卡收集 Writing NFT（手機與桌機均適用） <a href="#credit-card" id="credit-card"></a>
+
+購買 Writing NFT 可直接刷信用卡，並於完成購買後註冊加密錢包以收取 NFT，非常方便。
 
 ### 步驟一：開始收集 Writing NFT
 
@@ -64,7 +64,7 @@ description: 如何收集 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/我的書架.png" alt=""><figcaption></figcaption></figure>
 
-## 已擁有錢包並以信用卡收集 Writing NFT（手機與桌機均適用） <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
+## 已擁有錢包並以信用卡收集 Writing NFT <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
 
 用戶也可以先註冊 [Keplr](../../wallet/keplr/) 錢包再以信用卡購買 Writing NFT。
 
