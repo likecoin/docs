@@ -105,6 +105,7 @@ Complete! page appears, the Writing NFT is successfully collected with an animat
 * NFT ID: Each NFT ID is unique.
 * View Content: View Writing NFT content.&#x20;
 * Chain Data: Show the creation and transfer process of the Writing NFT.
+* Collector's Message and Creator's Message
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 19-en.png" alt=""><figcaption></figcaption></figure>
 

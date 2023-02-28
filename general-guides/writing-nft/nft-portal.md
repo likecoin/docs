@@ -150,7 +150,7 @@ The Writing NFT has been successfully minted and can be purchased by other users
 
 <figure><img src="../../.gitbook/assets/NFT Portal 13.png" alt=""><figcaption></figcaption></figure>
 
-When collectors purchase the Writing NFT, they will see the message.
+When collectors purchase the Writing NFT, they will see the Creator Message.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 14.png" alt=""><figcaption></figcaption></figure>
 
