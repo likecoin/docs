@@ -109,6 +109,7 @@ description: 如何收集 Writing NFT
 * NFT ID：每顆 NFT 獨一無二的 ID。
 * 瀏覽內容：查看 Writing NFT 內容。
 * 區塊鏈資料：展示 Writing NFT 來源及轉手過程。
+* 收藏者留言及作者留言
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 19.png" alt=""><figcaption></figcaption></figure>
 

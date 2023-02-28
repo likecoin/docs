@@ -114,11 +114,11 @@ description: 把任何網頁文章內容出版成 NFT
 
 完成後按「Next」。
 
-### 步驟 3/4：輸入作者的話 <a href="#creator-message" id="creator-message"></a>
+### 步驟 3/4：輸入作者留言 <a href="#creator-message" id="creator-message"></a>
 
-作者的話是作者於每篇文章顯示的特別段落。與轉贈時附加留言不同的是，同一個合集下的所有 Writing NFT 將共用同一段作者的話，並儲存於鏈上的 NFT class 資料中。
+作者留言是作者於每篇文章顯示的特別段落。與收藏或轉贈時附加留言不同的是，同一個合集下的所有 Writing NFT 將共用同一段作者留言，並儲存於鏈上的 NFT class 資料中。
 
-點「Add mesage to your collectors」輸入作者的話。
+點「Add mesage to your collectors」輸入作者留言。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6.png" alt=""><figcaption></figcaption></figure>
 
@@ -146,11 +146,11 @@ description: 把任何網頁文章內容出版成 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Portal 12.png" alt=""><figcaption></figcaption></figure>
 
-Writing NFT 已成功鑄造並可供其他用戶購買，然而在內容頁面並沒法看到於步驟 3/4 所輸入的訊息。
+Writing NFT 已成功鑄造並可供其他用戶購買，然而在內容頁面並沒法看到於步驟 3/4 所輸入的作者留言。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 13.png" alt=""><figcaption></figcaption></figure>
 
-當收藏者購買該 Writing NFT 就會看到訊息了。
+當收藏者購買該 Writing NFT 就會看到作者留言了。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 14.png" alt=""><figcaption></figcaption></figure>
 
