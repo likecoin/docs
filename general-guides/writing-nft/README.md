@@ -42,7 +42,7 @@ At the [My Dashboard](dashboard.md) page.
 
 ### How to list Writing NFT for sale?
 
-Creators can publish their works as NFTs via any platform supporting LikeCoin Writing NFT, such as WordPress website, [Liker.Social](https://liker.social/) or [illustBuy](https://illustbuy.com/). The published NFTs are listed automatically and can be collected via [NFT Widget](collect-writing-nft/nft-widget.md) and [NFT Portfolio](collect-writing-nft/nft-portfolio.md), with no additional work.
+Creators can publish their works as NFTs via any platform supporting LikeCoin Writing NFT, such as [WordPress website](../../user-guide/wordpress.md), [Liker.Social](https://liker.social/) or [illustBuy](https://illustbuy.com/). The published NFTs are listed automatically and can be collected via [NFT Widget](collect-writing-nft/nft-widget.md) and [NFT Portfolio](collect-writing-nft/nft-portfolio.md), with no additional work.
 
 ### I do not have a Liker ID, can I sell Writing NFT?
 
@@ -54,7 +54,7 @@ You can install the LikeCoin [Web3Press plugin](../../user-guide/wordpress.md), 
 
 ### Any other way to sell my Writing NFT besides by NFT Widget?
 
-Yes, you can always share the link of your NFT which can be copied from the [NFT Portfolio](collect-writing-nft/nft-portfolio.md) page.
+Yes, you can always share the link of your NFT which can be copied from the [NFT Portfolio](collect-writing-nft/nft-portfolio.md) page or the [NFT Marketplace.](collect-writing-nft/nft-marketplace.md)
 
 ### How to sell Writing NFT in the secondary market?
 
