@@ -26,6 +26,8 @@ description: 把任何網頁文章內容出版成 NFT
 
 **選擇五**：在 [illustBuy](https://illustbuy.com/) 出版 NFT
 
+選擇六：群發 NFT 紀念品到多個錢包
+
 以下章節將一一進行介紹。
 
 又，出版 Writing NFT 後可以 iframe 的方式把 [NFT Widget](collect-writing-nft/nft-widget.md) 嵌入文章展示，但需手動把 Portal 生成的 ISCN 填作 widget 的參數，詳見 [LikeCoin button 讚賞鍵](../../user-guide/creator/)章節。
@@ -60,7 +62,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1e.png" alt=""><figcaption></figcaption></figure>
 
-## 以文章網址出版 Writing NFT <a href="#publish-writing-nft-with-article-url" id="publish-writing-nft-with-article-url"></a>
+## 以文章網址出版 Writing NFT <a href="#publish-writing-nft-with-an-article-url" id="publish-writing-nft-with-an-article-url"></a>
 
 ### 步驟 1/4：註冊 ISCN <a href="#register-iscn" id="register-iscn"></a>
 

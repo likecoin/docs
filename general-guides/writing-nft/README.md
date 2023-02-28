@@ -16,7 +16,7 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 讀者可在 [NFT Widget](collect-writing-nft/nft-widget.md) 直接收集，或在作者的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)購買 Writing NFT；可先[使用信用卡購買](collect-writing-nft/)，並於安裝 [Keplr](../wallet/keplr/) 錢包後接收該 Writing NFT。
 
-讚者也可以 LikeCoin 購買 Writing NFT。
+讚者也可以使用 LikeCoin 購買 Writing NFT。
 
 ### 沒有 Liker ID ，能購買 Writing NFT 嗎？
 
@@ -40,7 +40,7 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 如何發售 Writing NFT？
 
-可經任何支援 Writing NFT 的寫作網站出版，例如 WordPress 網站、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT Widget](collect-writing-nft/nft-widget.md) 及 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)發售，作者不用手動做額外動作上架市場。
+可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../../user-guide/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT Widget](collect-writing-nft/nft-widget.md) 及 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)發售，作者不用手動做額外動作上架市場。
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 
@@ -52,7 +52,7 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 
 ### 作品沒有安裝 NFT Widget，也能發售 NFT 嗎？
 
-可在 [NFT Portal](nft-portal.md) 發行 NFT，然後在自己的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)頁面發售。
+可在 [NFT Portal](nft-portal.md) 發行 NFT，然後在自己的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)或[二級市場](collect-writing-nft/nft-marketplace.md)發售。
 
 ### 如何把 NFT 賣到二級市場？
 
