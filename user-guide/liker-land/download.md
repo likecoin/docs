@@ -20,15 +20,21 @@ description: 要去哪裏下載 Liker Land？
 
 <figure><img src="../../.gitbook/assets/Liker Land menu.png" alt=""><figcaption></figcaption></figure>
 
-### 選項一：我的書架 - [https://liker.land/dashboard](https://liker.land/dashboard)
+## 選項一：我的書架 - [https://liker.land/dashboard](https://liker.land/dashboard)
 
 連接用戶[我的書架](../../general-guides/writing-nft/dashboard.md)頁面。‌
 
-### 選項二：讚賞公民 - [https://liker.land/civic](https://liker.land/civic)
+## 選項二：讚賞公民 - [https://liker.land/civic](https://liker.land/civic)
 
 用戶可委託 LikeCoin 成為[讚賞公民](../civic-liker/)並查看委託狀態。
 
-### 選項三：Settings 設定
+## 選項三：發行 NFT
+
+使用 [NFT Portal](../../general-guides/writing-nft/nft-portal.md) 發行 NFT。
+
+## 選項四：通知
+
+## 選項五：設定
 
 設定你的 Liker ID。可參看：
 
