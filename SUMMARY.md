@@ -102,6 +102,7 @@
   * [下載 Liker Land](user-guide/liker-land/download.md)
   * [Like — 化讚為賞](user-guide/liker-land/like.md)
   * [Super Like — 推文到宇宙](user-guide/liker-land/superlike.md)
+* [Liker.Social](user-guide/liker.social.md)
 * [depub.space](user-guide/depub.space/README.md)
   * [從 LikeCoin Discord 推文到 depub.space](user-guide/depub.space/from-likecoin-discord-to-depub.space.md)
   * [為 depub.space 增添頭像](user-guide/depub.space/avatar.md)
