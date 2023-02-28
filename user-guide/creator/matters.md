@@ -50,7 +50,7 @@ Matters 的讚賞鍵很簡潔，位於文章的最底部，見下圖。
 
 留意在 Matters「設定」、「錢包設定」中的所顯示的「我的創作價值」是你在 Matters 創作所獲得的 LikeCoin 數量，並不代表該 Liker ID 所獲得的整體 LikeCoin 數量。
 
-### 參考文章
+#### 參考文章
 
 > [玩轉 Matters 實用指南](https://matters.news/guide)
 
@@ -58,7 +58,7 @@ Matters 的讚賞鍵很簡潔，位於文章的最底部，見下圖。
 
 Matters 於 2020年3月推出[一鍵搬家](https://matters.news/migration)功能，所有擁有 Medium 帳號的作者，都可以透過這個便捷的功能，快速一鍵搬家，把文章搬到 Matters ，化讚為賞。
 
-### 參考文章
+#### 參考文章
 
 > [一鍵從 Medium 搬家到 Matters> ](https://matters.news/@mingnhsu/%E4%B8%80%E9%8D%B5%E5%BE%9E-medium-%E6%90%AC%E5%AE%B6%E5%88%B0-matters-bafyreiggcgm7kn2el26rxsydny6obyklqlfo6rd3dphkc27olio4eqiyxi)
 
@@ -74,3 +74,11 @@ Matters 於 2020年3月推出[一鍵搬家](https://matters.news/migration)功�
 * [Matters Bug Report](https://feedback.matters.news/bug-reports)
 * [Matters 電郵](mailto:hi@matters.news)
 * 在 Matters 網站文章或留言 tag [Matty](https://matters.news/@hi176)
+
+## 出版 Writing NFT
+
+詳見：
+
+{% content-ref url="../../general-guides/writing-nft/nft-portal.md" %}
+[nft-portal.md](../../general-guides/writing-nft/nft-portal.md)
+{% endcontent-ref %}
