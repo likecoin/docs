@@ -28,13 +28,15 @@ description: 要去哪裏下載 Liker Land？
 
 用戶可委託 LikeCoin 成為[讚賞公民](../civic-liker/)並查看委託狀態。
 
-## 選項三：發行 NFT
+## 選項三：發行 NFT - [https://app.like.co/nft/url](https://app.like.co/nft/url)
 
 使用 [NFT Portal](../../general-guides/writing-nft/nft-portal.md) 發行 NFT。
 
-## 選項四：通知
+## 選項四：通知 - [https://liker.land/notifications](https://liker.land/notifications)
 
-## 選項五：設定
+送贈及收藏 NFT [通知](../../general-guides/writing-nft/notifications.md)。
+
+## 選項五：設定 - [https://liker.land/settings/](https://liker.land/settings/)
 
 設定你的 Liker ID。可參看：
 
@@ -42,6 +44,6 @@ description: 要去哪裏下載 Liker Land？
 [edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
 {% endcontent-ref %}
 
-### 選項四：登出
+## 選項六：登出
 
 在此登出 Liker Land。假若你想使用另一帳號登入，必須先於 Liker Land 網站登出才行，否則下次登入時仍會自動登入上次登入的帳戶。
