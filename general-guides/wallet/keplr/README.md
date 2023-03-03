@@ -4,7 +4,7 @@ description: Interchain wallet supporting LikeCoin
 
 # Keplr Browser Extension Wallet
 
-You can now manage your LikeCoin with the [Keplr wallet](https://www.keplr.app/), which is an interchain wallet that you can manage your own private key. Keplr is a Google extension, refer to the following guide for how to install Keplr. &#x20;
+You can now manage your LikeCoin with the [Keplr wallet](https://www.keplr.app/), which is an interchain wallet that you can manage your own private key. Keplr is a Google extension for Chrome and Brave, refer to the following guide for how to install Keplr. &#x20;
 
 Note that Keplr mobile app does not support LikeCoin yet.
 
@@ -34,11 +34,7 @@ Note that Keplr mobile app does not support LikeCoin yet.
 [import-wallet-into-keplr.md](import-wallet-into-keplr.md)
 {% endcontent-ref %}
 
-#### Use Keplr to  collect Writing NFT, register ISCN, mint Writing NFT and enjoy depub.space:
-
-{% content-ref url="../../writing-nft/collect-writing-nft/" %}
-[collect-writing-nft](../../writing-nft/collect-writing-nft/)
-{% endcontent-ref %}
+#### Use Keplr to register ISCN, mint Writing NFT, collect Writing NFT and enjoy depub.space:
 
 {% content-ref url="../../decentralized-publishing/app.like.co.md" %}
 [app.like.co.md](../../decentralized-publishing/app.like.co.md)
@@ -46,6 +42,10 @@ Note that Keplr mobile app does not support LikeCoin yet.
 
 {% content-ref url="../../writing-nft/nft-portal.md" %}
 [nft-portal.md](../../writing-nft/nft-portal.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../writing-nft/collect-writing-nft/" %}
+[collect-writing-nft](../../writing-nft/collect-writing-nft/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../user-guide/depub.space/" %}
