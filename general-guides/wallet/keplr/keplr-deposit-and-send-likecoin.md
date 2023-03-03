@@ -10,8 +10,6 @@ description: 使用 Keplr 瀏覽器擴充功能錢包直接存入及轉帳 LikeC
 
 存入 LikeCoin 到 Keplr 錢包，請先把 Keplr 頂部的密碼貸幣菜單轉為顯示 LikeCoin chain。
 
-假如你的 Keplr 錢包未能顯示 LikeCoin chain，請[先到 dao.like.co 為 Keplr 錢包連接 LikeCoin chain](dao.like.co.md)。
-
 <figure><img src="../../../.gitbook/assets/Keplr deposit and send 01.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟二
@@ -33,8 +31,6 @@ description: 使用 Keplr 瀏覽器擴充功能錢包直接存入及轉帳 LikeC
 ### 步驟一 <a href="#send-likecoin-from-keplr-to-another-wallet" id="send-likecoin-from-keplr-to-another-wallet"></a>
 
 你可以使用 Keplr 介面直接轉帳 LikeCoin 到其他支援 LikeCoin 的錢包，把 Keplr 頂部的密碼貸幣菜單轉為顯示 LikeCoin chain 後點「Send」。
-
-假如你的 Keplr 錢包未能顯示 LikeCoin chain，請[先到 dao.like.co 為 Keplr 錢包連接 LikeCoin chain](dao.like.co.md)。
 
 <figure><img src="../../../.gitbook/assets/Keplr deposit and send 04.png" alt=""><figcaption></figcaption></figure>
 
