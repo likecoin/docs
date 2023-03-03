@@ -6,9 +6,9 @@ description: dao.like.co is essential for managing LikeCoin
 
 Use dao.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-app/how-to-install-cosmostation-app.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin.md) LikeCoin; provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote.md) and [view transaction details](../block-explorer/dao.like.co.md).
 
-## Connect Keplr with LikeCoin chain
+## Connect Keplr with LikeCoin chain in dao.like.co
 
-Users have to connect to [dao.like.co](https://dao.like.co/) before the LikeCoin chain can be displayed in the Keplr Browser extension menu.
+Users have to connect to [https://chains.keplr.app/](https://chains.keplr.app/) or [dao.like.co](https://dao.like.co/) before the LikeCoin chain can be displayed in the Keplr Browser extension menu.
 
 {% hint style="warning" %}
 LikeCoin chain was successfully upgraded to the LaiChiKok version on May 4, 2022. The new LikeCoin wallet address has the prefix "like1" and it also supports the "cosmos1" prefix. If your Keplr was installed before this date and you still use the cosmos1 prefix on the LikeCoin chain, you need to upgrade your wallet address, see the [New LikeCoin address prefix "like" - FAQ](../like-address-prefix.md) for details.
@@ -22,7 +22,7 @@ Go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
 
 ### Step 2
 
-Then click "Approve".
+Then click "Approve" on Keplr.
 
 <figure><img src="../../../.gitbook/assets/keplr07.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ The Send page appears. On "Send To" fill in the wallet address of the receiver, 
 
 ### Step 3
 
-Confirmation is required. Click "Send" and "Approve" to confirm.
+Confirmation is required. Click "Send" and "Approve" on Keplr to confirm.
 
 <figure><img src="../../../.gitbook/assets/Keplr Send 3.png" alt=""><figcaption></figcaption></figure>
 
