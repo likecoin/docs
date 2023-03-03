@@ -6,11 +6,25 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
 
+## Proposal #62 Signalling proposal: Payout Irtysh Digital with NUM
+
+* Proposer: Phoebe
+* Proposal Type: Text Proposal
+* Date: Submit on 2023.03.02,&#x20;
+* Details: [https://bigdipper.live/likecoin/proposals/62](https://bigdipper.live/likecoin/proposals/62)
+
+## Proposal #61 Deposit 1,000,000 LIKE to the Migration wallet Voting
+
+* Proposer: William
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2023.02.26,&#x20;
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/61](https://bigdipper.live/likecoin/proposals/61)
+
 ## Proposal #60 Creators Fund
 
-* Proposer: edmond
+* Proposer: Edmond
 * Proposal Type: Community Pool Spend Proposal
-* Date: Submit on 2023.02.21,&#x20;
+* Date: Submit on 2023.02.21, Passed on 2023.02.28
 * Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/60](https://bigdipper.live/likecoin/proposals/60)
 
 ## Proposal #59 Renewal of Community Delegation Committee
@@ -22,7 +36,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ## Proposal #58 Creators Fund
 
-* Proposer: edmond
+* Proposer: Edmond
 * Proposal Type: Community Pool Spend Proposal
 * Date: Submit on 2022.11.03, Passed on 2022.11.10
 * Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/58](https://bigdipper.live/likecoin/proposals/58)

@@ -23,7 +23,8 @@ description: >-
 
 | Date               | Description                       |
 | ------------------ | --------------------------------- |
-| Monday, 6 February |                                   |
+| Monday, 6 March    |                                   |
+| Monday, 6 February | Partnership and Products updates  |
 | Monday, 9 January  | Ecosystem and Writing NFT updates |
 
 ## **2022 Date & Schedule**
