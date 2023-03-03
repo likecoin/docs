@@ -6,7 +6,7 @@ description: 支援 LikeCoin 的多鏈錢包
 
 [Keplr](https://www.keplr.app/) 提供 Google Chrome 擴充功能，可在 Chrome 和 Brave 等瀏覽器安裝，支援包括 LikeCoin 在內的多條 Cosmos 生態系統區塊鏈。使用 Keplr 錢包你可以將自己的 LikeCoin 去中心化保存並自行掌握私鑰。
 
-留意 Keplr 手機版暫不支援 LikeCoin chain。
+留意 Keplr 手機應用程式不支援 LikeCoin chain。
 
 #### 請參考以下文章了解如何在桌面電腦安裝 Keplr Browser Extension：
 
@@ -34,11 +34,7 @@ description: 支援 LikeCoin 的多鏈錢包
 [import-wallet-into-keplr.md](import-wallet-into-keplr.md)
 {% endcontent-ref %}
 
-#### 使用 Keplr 收集 Writing NFT、註冊 ISCN、鑄造 Writing NFT 及使用 depub.space：
-
-{% content-ref url="../../writing-nft/collect-writing-nft/" %}
-[collect-writing-nft](../../writing-nft/collect-writing-nft/)
-{% endcontent-ref %}
+#### 使用 Keplr 註冊 ISCN、發行 Writing NFT、收集 Writing NFT、及使用 depub.space：
 
 {% content-ref url="../../decentralized-publishing/app.like.co.md" %}
 [app.like.co.md](../../decentralized-publishing/app.like.co.md)
@@ -46,6 +42,10 @@ description: 支援 LikeCoin 的多鏈錢包
 
 {% content-ref url="../../writing-nft/nft-portal.md" %}
 [nft-portal.md](../../writing-nft/nft-portal.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../writing-nft/collect-writing-nft/" %}
+[collect-writing-nft](../../writing-nft/collect-writing-nft/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../user-guide/depub.space/" %}
