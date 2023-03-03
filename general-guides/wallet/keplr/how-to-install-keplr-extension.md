@@ -1,5 +1,5 @@
 ---
-description: 安裝步驟如下，緊記保存好助記詞
+description: 安裝步驟如下，必須使用 Chromium 核心架構瀏覽器
 ---
 
 # 安裝 Keplr 瀏覽器擴充功能
@@ -13,6 +13,10 @@ description: 安裝步驟如下，緊記保存好助記詞
 點擊並片將 Keplr 插件「Add extension」加到 Chrome。
 
 ![](../../../.gitbook/assets/keplr02.png)
+
+在 Chrome 右上角按鍵訂選 Keplr 於瀏覽列方便使用。
+
+<figure><img src="../../../.gitbook/assets/keplr google 5.png" alt=""><figcaption></figcaption></figure>
 
 ## 步驟二：註冊新帳戶 <a href="#step-2-create-new-account" id="step-2-create-new-account"></a>
 
@@ -33,6 +37,10 @@ description: 安裝步驟如下，緊記保存好助記詞
 出現「Done」頁面代表經已完成註冊。
 
 <figure><img src="../../../.gitbook/assets/keplr google 4.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+請把助記詞及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Keplr 錢包。
+{% endhint %}
 
 #### 教學影片
 
@@ -58,13 +66,9 @@ description: 安裝步驟如下，緊記保存好助記詞
 
 <figure><img src="../../../.gitbook/assets/keplr google 4.png" alt=""><figcaption></figcaption></figure>
 
-## 步驟三：釘選 Keplr <a href="#step-3-connect-to-likecoin-chain" id="step-3-connect-to-likecoin-chain"></a>
 
-在 Chrome 右上角按鍵訂選 Keplr 於瀏覽列方便使用。
 
-<figure><img src="../../../.gitbook/assets/keplr google 5.png" alt=""><figcaption></figcaption></figure>
-
-## 步驟四：連接 LikeCoin chain <a href="#step-3-connect-to-likecoin-chain" id="step-3-connect-to-likecoin-chain"></a>
+## 步驟三：連接 LikeCoin chain <a href="#step-3-connect-to-likecoin-chain" id="step-3-connect-to-likecoin-chain"></a>
 
 打開 Keplr 錢包，在上方菜單按「Add Suggest Chains」。
 
@@ -91,10 +95,6 @@ Keplr 錢包上出現你的 LikeCoin 餘額。
 {% content-ref url="import-wallet-into-keplr.md" %}
 [import-wallet-into-keplr.md](import-wallet-into-keplr.md)
 {% endcontent-ref %}
-
-{% hint style="danger" %}
-請把助記詞及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Keplr 錢包。
-{% endhint %}
 
 {% hint style="info" %}
 安裝 Keplr 後你可以[使用它註冊 Liker ID](../../../user-guide/liker-id/register-with-keplr.md)
