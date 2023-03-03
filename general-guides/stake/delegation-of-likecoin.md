@@ -94,9 +94,13 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
 
-Keplr 用戶也可直接在 Keplr 按「Claim」功領取回報。
+Keplr 用戶可直接在 Keplr 按「Claim」領取回報。
 
 <figure><img src="../../.gitbook/assets/keplr withdraw rewards.png" alt=""><figcaption></figcaption></figure>
+
+Cosmostation 用戶可直接在 Cosmostation 按「Claim Reward」領取回報。
+
+<figure><img src="../../.gitbook/assets/cosmostation withdraw rewards.png" alt=""><figcaption></figcaption></figure>
 
 ## 使用 Leap Browser Extension 委託 LikeCoin <a href="#delegate-via-leap" id="delegate-via-leap"></a>
 
