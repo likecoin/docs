@@ -6,11 +6,25 @@ description: LikeCoin DAO 有過什麼議案？
 
 ![](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
 
+## 議案 #62 以 NUM 支付 Irtysh Digital
+
+* **提案：**Phoebe
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2022.03.02 提案，
+* **詳情**：[https://bigdipper.live/likecoin/proposals/62](https://bigdipper.live/likecoin/proposals/62)
+
+## 議案 #61 向遷移錢包存入 1,000,000 LIKE
+
+* **提案：**William
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2023.02.26 提案
+* **詳情**：[https://bigdipper.live/likecoin/proposals/61](https://bigdipper.live/likecoin/proposals/61)
+
 ## 議案 #60 存入 1,200,000 LIKE 到創作基金委員會的錢包
 
 * **提案：**Edmond
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
-* **日期**：2023.02.21 提案，
+* **日期**：2023.02.21 提案，2023.02.28 通過
 * **詳情**：[https://bigdipper.live/likecoin/proposals/60](https://bigdipper.live/likecoin/proposals/60)
 
 ## 議案 #59 社群委託委員會更新

@@ -24,7 +24,8 @@ LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，�
 
 | 日期       | 描述                                |
 | -------- | --------------------------------- |
-| 星期一，2月6日 |                                   |
+| 星期一，3月6日 |                                   |
+| 星期一，2月6日 | Partnership and Products updates  |
 | 星期一，1月9日 | Ecosystem and Writing NFT updates |
 
 ## **2022 日期及議程**
