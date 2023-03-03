@@ -76,7 +76,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
 
-### 步驟七：領取收益
+### 步驟七：領取回報
 
 到左手邊菜單選擇「Portfolio」，再點右上角「Claim Rewards」。
 
@@ -90,9 +90,13 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 03.png>)
 
-出現 Sent and confirming 畫面後再出現 Successfully withdrawal! 即成功領取收益。
+出現 Sent and confirming 畫面後再出現 Successfully withdrawal! 即成功領取回報。
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
+
+Keplr 用戶也可直接在 Keplr 按「Claim」功領取回報。
+
+<figure><img src="../../.gitbook/assets/keplr withdraw rewards.png" alt=""><figcaption></figcaption></figure>
 
 ## 使用 Leap Browser Extension 委託 LikeCoin <a href="#delegate-via-leap" id="delegate-via-leap"></a>
 
