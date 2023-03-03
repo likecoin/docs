@@ -102,6 +102,10 @@ After the Sent and confirming appears, Successfully withdrawal! appears, which m
 
 ![](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
 
+Keplr users can also with rewards directly at Keplr by clicking "Claim".
+
+<figure><img src="../../.gitbook/assets/keplr withdraw rewards.png" alt=""><figcaption></figcaption></figure>
+
 ## Delegate via Leap Browser Extension
 
 ### Step 1: Login Leap Browser Extension
