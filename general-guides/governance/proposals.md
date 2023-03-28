@@ -10,14 +10,14 @@ description: LikeCoin DAO 有過什麼議案？
 
 * **提案：**Phoebe
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
-* **日期**：2022.03.02 提案，
+* **日期**：2022.03.02 提案，2023.03.13 通過
 * **詳情**：[https://bigdipper.live/likecoin/proposals/62](https://bigdipper.live/likecoin/proposals/62)
 
 ## 議案 #61 向遷移錢包存入 1,000,000 LIKE
 
 * **提案：**William
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
-* **日期**：2023.02.26 提案
+* **日期**：2023.02.26 提案，2023.03.06 通過
 * **詳情**：[https://bigdipper.live/likecoin/proposals/61](https://bigdipper.live/likecoin/proposals/61)
 
 ## 議案 #60 存入 1,200,000 LIKE 到創作基金委員會的錢包

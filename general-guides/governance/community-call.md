@@ -22,11 +22,12 @@ LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，�
 
 ## 2023 日期及議程
 
-| 日期       | 描述                                |
-| -------- | --------------------------------- |
-| 星期一，3月6日 |                                   |
-| 星期一，2月6日 | Partnership and Products updates  |
-| 星期一，1月9日 | Ecosystem and Writing NFT updates |
+| 日期       | 描述                                                                           |
+| -------- | ---------------------------------------------------------------------------- |
+| 星期一，4月3日 | Get updates from the builders. Covering products updates and community news. |
+| 星期一，3月6日 | Latest updates and features on Web3Press and Liker Land.                     |
+| 星期一，2月6日 | Partnership and Products updates                                             |
+| 星期一，1月9日 | Ecosystem and Writing NFT updates                                            |
 
 ## **2022 日期及議程**
 
