@@ -21,11 +21,12 @@ description: >-
 
 ## **2023 Date & Schedule**
 
-| Date               | Description                       |
-| ------------------ | --------------------------------- |
-| Monday, 6 March    |                                   |
-| Monday, 6 February | Partnership and Products updates  |
-| Monday, 9 January  | Ecosystem and Writing NFT updates |
+| Date               | Description                                                                  |
+| ------------------ | ---------------------------------------------------------------------------- |
+| Monday, 3 April    | Get updates from the builders. Covering products updates and community news. |
+| Monday, 6 March    | Latest updates and features on Web3Press and Liker Land                      |
+| Monday, 6 February | Partnership and Products updates                                             |
+| Monday, 9 January  | Ecosystem and Writing NFT updates                                            |
 
 ## **2022 Date & Schedule**
 

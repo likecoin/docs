@@ -10,14 +10,14 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 * Proposer: Phoebe
 * Proposal Type: Text Proposal
-* Date: Submit on 2023.03.02,&#x20;
+* Date: Submit on 2023.03.02, Passed on 2023.03.13
 * Details: [https://bigdipper.live/likecoin/proposals/62](https://bigdipper.live/likecoin/proposals/62)
 
 ## Proposal #61 Deposit 1,000,000 LIKE to the Migration wallet Voting
 
 * Proposer: William
 * Proposal Type: Community Pool Spend Proposal
-* Date: Submit on 2023.02.26,&#x20;
+* Date: Submit on 2023.02.26, Passed on 2023.03.06
 * Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/61](https://bigdipper.live/likecoin/proposals/61)
 
 ## Proposal #60 Creators Fund
