@@ -1,7 +1,5 @@
 ---
-description: >-
-  Writing carries one's soul.  NFT is the unique copy.  Writing NFT is the
-  unique copy of human's story.
+description: Beyond a Singular Unique Creative Work
 ---
 
 # Writing NFT
@@ -12,17 +10,21 @@ description: >-
 
 ### What is Writing NFT?
 
-Writing NFT is the NFT of a piece of writing, literally. It can refer to articles or any type of textual content with or without illustrations.
+A "Writing NFT" is a non-fungible token (NFT) representing a written work, such as an article or any other type of text, with or without accompanying illustrations. In other words, it is digital evidence of the ownership of a piece of written content.
 
 ### How to collect Writing NFT？
 
-Collect in [NFT Widget](collect-writing-nft/nft-widget.md) embedded in the content, or at the user’s [NFT Portfolio](collect-writing-nft/nft-portfolio.md) page; readers can [purchase with a credit card](collect-writing-nft/) and receive the Writing NFT after installing the [Keplr](../../developer/likecoin-chain-api/sample/cosmjs/keplr.md) wallet.
+There are several ways to collect a Writing NFT:
 
-Readers can also buy Writing NFT with LikeCoin.
+1. Look for an [NFT Widget](collect-writing-nft/nft-widget.md) that is embedded in the content you're interested in.
+2. Visit the [Portfolio](collect-writing-nft/nft-portfolio.md) page of the author or collector and purchase the Writing NFT there.
+3. Check out the Liker Land NFT marketplace, where Writing NFTs are also available.
 
-### I do not have a Liker ID, can I buy Writing NFT?
+To buy a Writing NFT, you can [use a credit card](collect-writing-nft/) and receive the NFT after installing the [Keplr](http://localhost:5000/s/-LL4mdaVjNgL6A1--PV0-1995411665/general-guides/trade/buy-likecoin) wallet. Alternatively, you can also purchase a Writing NFT with LikeCoin.
 
-Yes. Readers can buy Writing NFT with credit card or LikeCoin without registering a Liker ID.
+### Where can I check out my NFT collection?
+
+At the [My Dashboard](dashboard.md) page.
 
 ### How to know that there are new NFTs for sale?
 
@@ -32,10 +34,6 @@ Use the [Follow Creators](follow-creators.md) function.
 
 [The price changes dynamically based on supply and demand of the NFT](dynamic-pricing.md). Creators do not need to set the price and quantity. Readers do not need to set the bidding price too, just collect when the price feels right. The market price will decrease when someone sells in the [NFT Marketplace](collect-writing-nft/nft-marketplace.md).
 
-### Where can I check out my NFT collection?
-
-At the [My Dashboard](dashboard.md) page.
-
 ### How to transfer NFT?
 
 [Transfer](transfer-writing-nft.md) can be done at the NFT page, just enter the wallet address of the receiver to transfer.
@@ -43,6 +41,10 @@ At the [My Dashboard](dashboard.md) page.
 ### How to list Writing NFT for sale?
 
 Creators can publish their works as NFTs via any platform supporting LikeCoin Writing NFT, such as [WordPress website](../../user-guide/wordpress.md), [Liker.Social](https://liker.social/) or [illustBuy](https://illustbuy.com/). The published NFTs are listed automatically and can be collected via [NFT Widget](collect-writing-nft/nft-widget.md) and [NFT Portfolio](collect-writing-nft/nft-portfolio.md), with no additional work.
+
+### I do not have a Liker ID, can I buy Writing NFT?
+
+Yes. Readers can buy Writing NFT with credit card or LikeCoin without registering a Liker ID.
 
 ### I do not have a Liker ID, can I sell Writing NFT?
 
