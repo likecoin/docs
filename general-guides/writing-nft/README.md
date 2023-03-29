@@ -16,9 +16,9 @@ A "Writing NFT" is a non-fungible token (NFT) representing a written work, such 
 
 There are several ways to collect a Writing NFT:
 
-1. Look for an [NFT Widget](collect-writing-nft/nft-widget.md) that is embedded in the content you're interested in.
+1. Check out the [Liker Land NFT marketplace](https://liker.land/?utm\_source=docs), where Writing NFTs are also available.
 2. Visit the [Portfolio](collect-writing-nft/nft-portfolio.md) page of the author or collector and purchase the Writing NFT there.
-3. Check out the Liker Land NFT marketplace, where Writing NFTs are also available.
+3. Look for an [NFT Widget](collect-writing-nft/nft-widget.md) that is embedded in the content you're interested in.
 
 To buy a Writing NFT, you can [use a credit card](collect-writing-nft/) and receive the NFT after installing the [Keplr](http://localhost:5000/s/-LL4mdaVjNgL6A1--PV0-1995411665/general-guides/trade/buy-likecoin) wallet. Alternatively, you can also purchase a Writing NFT with LikeCoin.
 
@@ -40,7 +40,9 @@ Use the [Follow Creators](follow-creators.md) function.
 
 ### How to list Writing NFT for sale?
 
-Creators can publish their works as NFTs via any platform supporting LikeCoin Writing NFT, such as [WordPress website](../../user-guide/wordpress.md), [Liker.Social](https://liker.social/) or [illustBuy](https://illustbuy.com/). The published NFTs are listed automatically and can be collected via [NFT Widget](collect-writing-nft/nft-widget.md) and [NFT Portfolio](collect-writing-nft/nft-portfolio.md), with no additional work.
+If you want to publish your written works as NFTs, you can do so via several platforms that support LikeCoin Writing NFTs, such as [WordPress websites](../../user-guide/wordpress.md), [Liker.Social](https://liker.social/), and [illustBuy](https://illustbuy.com/). Additionally, you can use the [NFT portal](https://app.like.co/nft/url) to publish any web page as an NFT.&#x20;
+
+Once your NFTs are published, they will be automatically listed. Others can collect them through [Liker Land](https://liker.land/?utm\_source=docs) or an [NFT Widget](collect-writing-nft/nft-widget.md) or [NFT Portfolio](collect-writing-nft/nft-portfolio.md) without any additional work on your part.
 
 ### I do not have a Liker ID, can I buy Writing NFT?
 
