@@ -1,16 +1,16 @@
 ---
-description: Beyond a Singular Unique Creative Work
+description: A Writing NFT is an NFT representing the ownership of a written work
 ---
 
 # Writing NFT
 
-![](../../.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
+![Writing NFT](../../.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
 
 ## FAQ
 
 ### What is Writing NFT?
 
-A "Writing NFT" is a non-fungible token (NFT) representing a written work, such as an article or any other type of text, with or without accompanying illustrations. In other words, it is digital evidence of the ownership of a piece of written content.
+A "Writing NFT" is a non-fungible token (NFT) representing the ownership of a written work, such as an article or any other type of text, with or without accompanying illustrations. In other words, it is digital evidence of the ownership of a piece of written content.
 
 ### How to collect Writing NFT？
 
