@@ -1,26 +1,26 @@
 ---
-description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一載體，所以 Writing NFT 就是人類故事獨一無異的刋物。
+description: Writing NFT 是代表文字作品擁有權的 NFT
 ---
 
 # Writing NFT
 
-![](../../.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
+![Writing NFT](../../.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
 
 ## 常見問題
 
 ### 什麼是 Writing NFT?
 
-顧名思義，Writing NFT 是一段文字的 NFT 版本，可以是文章或任何篇幅的文字內容，也可包含圖片。
+顧名思義，Writing NFT 是一種非同質化代幣 (NFT)，代表著某篇文字作品的所有權，像是文章或任何其他形式的文字，無論附帶插圖與否。換句話說，它是證明某段數位文字內容所有權的證據。
 
 ### 如何購買 Writing NFT？
 
-讀者可在 [NFT Widget](collect-writing-nft/nft-widget.md) 直接收集，或在作者的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)購買 Writing NFT；可先[使用信用卡購買](collect-writing-nft/)，並於安裝 [Keplr](../wallet/keplr/) 錢包後接收該 Writing NFT。
+你可以幾種方式收藏 Writing NFT：
 
-讚者也可以使用 LikeCoin 購買 Writing NFT。
+* 到 [Liker Land](https://liker.land/?utm\_source=docs) NFT 市場查看，那裡也有 Writing NFT。
+* 參觀作者或收藏家的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)頁面，並在那裡購買寫作 NFT。
+* 尋找嵌入您感興趣內容的 [NFT Widget](collect-writing-nft/nft-widget.md)。
 
-### 沒有 Liker ID ，能購買 Writing NFT 嗎？
-
-可以，只要使用信用卡或 LikeCoin 即可。
+您可以[使用信用卡](collect-writing-nft/)購買 Writing NFT，在安裝 [Keplr](../wallet/keplr/keplr-deposit-and-send-likecoin.md) 錢包後收到 NFT。或者，您也可以用 LikeCoin 購買 Writing NFT。
 
 ### 如何第一時間接收到新 NFT 上架的消息？
 
@@ -41,6 +41,10 @@ description: 文字盛載靈魂最深處的創意，NFT 是元宇宙中的獨一
 ### 如何發售 Writing NFT？
 
 可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../../user-guide/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT Widget](collect-writing-nft/nft-widget.md) 及 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)發售，作者不用手動做額外動作上架市場。
+
+### 沒有 Liker ID ，能購買 Writing NFT 嗎？
+
+可以，只要使用信用卡或 LikeCoin 即可。
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 
