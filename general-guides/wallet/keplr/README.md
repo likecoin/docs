@@ -1,12 +1,14 @@
 ---
-description: Interchain wallet supporting LikeCoin
+description: >-
+  Installation and Operation guide of Keplr, the interchain wallet that supports
+  LikeCoin
 ---
 
 # Keplr Browser Extension Wallet
 
-You can now manage your LikeCoin with the [Keplr wallet](https://www.keplr.app/), which is an interchain wallet that you can manage your own private key. Keplr is a Google extension for Chrome and Brave, refer to the following guide for how to install Keplr. &#x20;
+You can easily manage your LikeCoin using the [Keplr wallet](https://www.keplr.app/). Keplr is an interchain wallet that allows you to manage your own private key. To install Keplr, you can refer to the installation guide available for both Chrome and Brave browsers.
 
-Note that Keplr mobile app does not support LikeCoin yet.
+Please note that the Keplr mobile app currently does not support LikeCoin.
 
 #### Please refer to the following articles to learn how to install Keplr Browser Extension on desktop:
 
