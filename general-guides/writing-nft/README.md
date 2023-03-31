@@ -67,3 +67,7 @@ Set the selling price of NFT in the [NFT Marketplace](collect-writing-nft/nft-ma
 ### How to set the quantity for sale?
 
 There is no upper limit in principle. However, as the marked price will increase automatically as sales goes on, the minting of NFT will stop automatically when the price reaches a point that is out of market’s expectation.
+
+### To Find more latest news about writing NFT
+
+Read articles on [blog.like.co](https://blog.like.co/en/tag/writingnft/)
