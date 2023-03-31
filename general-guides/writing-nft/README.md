@@ -65,3 +65,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 ### 能設定作品的 NFT 發行量上限嗎？
 
 原則上發行量沒有上限，但由於提升售價會自動隨交易量而上升，當售價上升到超過市場可接受的價位後，便會自然沒人交易，變相限制了發行量。
+
+### 了解更多 Writing NFT 最新消息
+
+可到 [blog.like.co](https://blog.like.co/zh/tag/writing-nft/) 參看更多內容。
