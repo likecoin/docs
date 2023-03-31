@@ -68,6 +68,10 @@ _\*創作者收到讚賞幣需自行兌換成當地貨幣。_
 [faq.md](faq.md)
 {% endcontent-ref %}
 
+### 延仲閱讀
+
+[讚賞公民 Web3 改版迎虎年](https://blog.like.co/zh/civic-liker-web3-announcement/)
+
 ### 【[成為讚賞公民](be-a-civic-liker.md)】
 
 ![](<../../.gitbook/assets/Civic Liker.png>)
