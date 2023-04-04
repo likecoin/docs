@@ -50,11 +50,11 @@ description: 把任何網頁文章內容出版成 NFT
 
 點「Cosmostation app」後出現二維碼。
 
-<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 1.png" alt=""><figcaption><p>點「Cosmostation app」後出現二維碼</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 1.png" alt=""><figcaption><p>點 Cosmostation app 後出現二維碼</p></figcaption></figure>
 
 在 [Cosmostation 手機錢包](../wallet/cosmostation-mobile/)點「Wallet Connect」調用鏡頭，並掃瞄二維碼。
 
-<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 2.png" alt=""><figcaption><p>打開 Cosmostation app 點 Wallet Connect</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 2.png" alt=""><figcaption><p>打開 Cosmostation app 點 Wallet Connect 掃瞄二維碼</p></figcaption></figure>
 
 輸入 PIN 碼確認。
 
@@ -72,7 +72,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 點「Liker ID」後出現二維碼。
 
-<figure><img src="../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>點「Liker ID」後出現二維碼。</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>點 Liker ID 後出現二維碼。</p></figcaption></figure>
 
 在 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
 
@@ -156,7 +156,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 作者留言是作者於每篇文章顯示的特別段落。與收藏或轉贈時附加留言不同的是，同一個合集下的所有 Writing NFT 將共用同一段作者留言，並儲存於鏈上的 NFT class 資料中。
 
-點「Add mesage to your collectors」輸入作者留言。
+點「Add message to your collectors」輸入作者留言。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5-1.png" alt=""><figcaption><p>輸入 Writing NFT 作者留言</p></figcaption></figure>
 
@@ -180,11 +180,11 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6-1.png" alt=""><figcaption><p>簽署以註冊 ISCN ID、Arweave ID、Class ID 及鑄造 Writing NFT</p></figcaption></figure>
 
-出現 Completed! 及 3D 封面圖即代表 NFT 已鑄造完成，如網站未曾安裝 [LikeCoin button 讚賞鍵](../../user-guide/creator/)可直接貼上 Embed NFT widget into your site 的代碼，即可在任何網頁展示 NFT Widget。
+出現 Completed! 及 3D 封面圖即代表 NFT 已鑄造完成，如網站未曾安裝 [LikeCoin button 讚賞鍵](../../user-guide/creator/)可直接貼上 Embed NFT widget into your site 的代碼，即可在任何網頁展示 [NFT Widget](collect-writing-nft/nft-widget.md)。
 
 點「View Your NFT」查看已發行的 Writing NFT。
 
-<figure><img src="../../.gitbook/assets/NFT Portal 6-2.png" alt=""><figcaption><p>Writing NFT 鑄造完成、查看 NFT Widget 代碼</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal 6-2.png" alt=""><figcaption><p>Writing NFT 鑄造完成、複製 NFT Widget 代碼</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6-3.png" alt=""><figcaption><p>查看已發行的 Writing NFT</p></figcaption></figure>
 
