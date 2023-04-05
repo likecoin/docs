@@ -48,11 +48,11 @@ Please log into [Cosmostation Browser Extension](../wallet/cosmostation/) in you
 
 ### Login method 3: Cosmostation app
 
-A QR Code will appear after clicking "[Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md)".
+A QR Code will appear after clicking "Cosmostation app".
 
 <figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 1.png" alt=""><figcaption><p>After clicking the Cosmostation app, a QR code appears</p></figcaption></figure>
 
-On the Cosmostation app, click the QR Code icon to bring up the camera, and scan the QR Code.
+On the[ Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md), click the QR Code icon to bring up the camera, and scan the QR Code.
 
 <figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 2.png" alt=""><figcaption><p>Open the Cosmostation app, tap Wallet Connect to scan the QR code</p></figcaption></figure>
 
@@ -68,7 +68,7 @@ Connected successfully.
 
 <figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 5.png" alt=""><figcaption><p>Successfully connected to NFT Portal</p></figcaption></figure>
 
-### Login methold 4: Login with Liker Land app
+### Login method 4: Login with Liker Land app
 
 A QR Code will appear after clicking "Liker ID".
 
@@ -214,7 +214,7 @@ Enter the ISCN ID in the [NFT Portal](https://app.like.co/nft/url) and click "Re
 
 {% embed url="https://www.youtube.com/watch?v=X0uLaPOkucA" %}
 
-## Register ISCN for Matters articles
+## Publish Matters article as Writing NFT
 
 Users can choose to register ISCN before publishing in [Matters](../../user-guide/creator/matters.md).
 
