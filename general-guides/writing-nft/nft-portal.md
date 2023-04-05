@@ -220,7 +220,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 ## 為 Matters 文章出版 Writing NFT <a href="#publish-writing-nft-for-matters-article" id="publish-writing-nft-for-matters-article"></a>
 
-用戶可以在發佈前選擇一拼註冊 ISCN。
+用戶可以在 [Matters](https://matters.news/) 發佈文章前選擇一拼註冊 ISCN。
 
 ![在 Matters 註冊 ISCN](<../../.gitbook/assets/NFT Portal ISCN 1 (1).png>)
 
