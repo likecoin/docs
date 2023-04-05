@@ -46,9 +46,9 @@ Please log into [Cosmostation Browser Extension](../wallet/cosmostation/) in you
 
 <figure><img src="../../.gitbook/assets/NFT Portal Cosmostation.png" alt=""><figcaption><p>Click "Confirm" at Cosmostation</p></figcaption></figure>
 
-### Login methold 3: Cosmostation app
+### Login method 3: Cosmostation app
 
-A QR Code will appear after clicking "Cosmostation app".
+A QR Code will appear after clicking "[Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md)".
 
 <figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 1.png" alt=""><figcaption><p>After clicking the Cosmostation app, a QR code appears</p></figcaption></figure>
 
@@ -68,7 +68,7 @@ Connected successfully.
 
 <figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 5.png" alt=""><figcaption><p>Successfully connected to NFT Portal</p></figcaption></figure>
 
-### Login methold 1: Login with Liker Land app
+### Login methold 4: Login with Liker Land app
 
 A QR Code will appear after clicking "Liker ID".
 
@@ -82,11 +82,9 @@ An ISCN window will pop-up, click "Approve".
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1d-en.png" alt=""><figcaption><p>An ISCN window pops up, click "Approve"</p></figcaption></figure>
 
+After successful login, your wallet address will be displayed in the top right corner of the NFT Portal.
 
-
-After successful login, your wallet address will be displayed i bvn the top right corner of the NFT Portal.
-
-<figure><img src="../../.gitbook/assets/NFT Portal 1e.png" alt=""><figcaption><p>After successfully logging in to the NFT Portal, the wallet address is displayed in the upper right corner</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal 1e.png" alt=""><figcaption><p>After successfully logging in to the NFT Portal, the wallet address is displayed in the top right corner</p></figcaption></figure>
 
 ## Publish Writing NFT with an article URL
 
@@ -95,7 +93,7 @@ After successful login, your wallet address will be displayed i bvn the top righ
 If the article is not registered with an ISCN, please directly enter the article URL into the blank space and click "Register ISCN".
 
 {% hint style="info" %}
-Please note if the URL is directly registered with ISCN in this way when publishing Writing NFT, the system will automatically grab the article title and content as metadata.
+Please note if the URL is directly registered with ISCN in this way when publishing a Writing NFT, the system will automatically grab the article title and content as metadata.
 
 **If you want your work to have detailed metadata, please** [**register an ISCN**](../decentralized-publishing/app.like.co.md) **and** [**publish Writing NFT with the ISCN ID**](nft-portal.md#publish-writing-nft-with-iscn-id)**.**
 {% endhint %}
@@ -104,13 +102,13 @@ Please note if the URL is directly registered with ISCN in this way when publish
 
 #### Login with Keplr
 
-When the Keplr window pops up, click "Approve". In the following steps, when you see the Keplr window pops up, just click "Approve".
+When the Keplr window pops up, click "Approve". In the following steps, when you see the Keplr window pop up, just click "Approve".
 
 <figure><img src="../../.gitbook/assets/NFT Portal 3 Keplr.png" alt=""><figcaption><p>When the Keplr window pops up, always click "Approve"</p></figcaption></figure>
 
 #### Login with Cosmostation
 
-When the Cosmostation window pops up, click "Confirm". In the following steps, when you see the Cosmostation window pops up, just click "Confirm".
+When the Cosmostation window pops up, click "Confirm". In the following steps, when you see the Cosmostation window pop up, just click "Confirm".
 
 <figure><img src="../../.gitbook/assets/NFT Portal 3 Cosmostation.png" alt=""><figcaption><p>When the Cosmostation window pops up, always click "Confirm"</p></figcaption></figure>
 
@@ -122,7 +120,7 @@ When the Cosmostation app pops up the Request Transaction Sign window, click "Co
 
 #### Login with Liker ID
 
-When Liker Land app pops up a signature request window, click "Allow". In the following steps, when you see the Liker Land app window pop up, just click "Allow".
+When Liker Land app pops up a signature request window, click "Approve". In the following steps, when you see the Liker Land app window pop up, just click "Approve".
 
 <figure><img src="../../.gitbook/assets/NFT Portal 3 Liker Land app-en.png" alt=""><figcaption><p>When the Liker Land app window pops up, always click "Approve"</p></figcaption></figure>
 
@@ -142,7 +140,7 @@ Click ":pencil2:" on the picture and then click ":game\_die:" to generate a uniq
 
 #### Edit Title
 
-Click ":pencil2:" at the title and modify it directly.
+Click ":pencil2:" at the title and edit it directly.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 4-4.png" alt=""><figcaption><p>Edit Writing NFT title</p></figcaption></figure>
 
@@ -158,7 +156,7 @@ Click "Next" to continue.
 
 Creator message is a special paragraph of each article by the author. Unlike the Transfer message, all the Writing NFTs under the same collection shares the same creator message, and is stored on the NFT class data on chain.
 
-Click "Add message to your collectors” to input to the message.
+Click "Add message to your collectors” to input the message.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5-1.png" alt=""><figcaption><p>Enter Writing NFT Creator message</p></figcaption></figure>
 
@@ -178,7 +176,7 @@ Enter a number between 0-499 in "Numbers of NFTs reserved for giveaways", then c
 
 ### Step 4/4: Sign
 
-Keplr, Cosmostation, Cosmostation app or Liker Land app windows will pop up, please click "Approve" or "Confirm" to sign to register and register ISCN ID (if not registered), Arweave ID, Class ID and mint NFT.
+Keplr, Cosmostation, Cosmostation app or Liker Land app windows will pop up, please click "Approve" or "Confirm" to sign and register ISCN ID (if not registered), Arweave ID, Class ID and mint NFT.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6-1.png" alt=""><figcaption><p>Sign to Register ISCN ID, Arweave ID, Class ID &#x26; Mint Writing NFT</p></figcaption></figure>
 
@@ -196,7 +194,7 @@ If your article is registered with ISCN, you can also use the **** [**NFT Portal
 
 ### Method 1: Publish Writing NFT directly from ISCN
 
-After the article is published an regsitered with ISCN, go to "[My Publishing](https://app.like.co/works)" of [app.like.co](https://app.like.co/) to find the ISCN of the article, and click "Mint NFT" on the top right corner to directly mint the ISCN as Writing NFT, the steps are exactly the same as [Publish Writing NFT with Article URL Step 2-2/4](nft-portal.md#step-2-4-preview-nft).
+After the article is published and regsitered with ISCN, go to "[My Publishing](https://app.like.co/works)" of [app.like.co](https://app.like.co/) to find the ISCN of the article, and click "Mint NFT" on the top right corner to directly mint the ISCN as Writing NFT, the steps are exactly the same as [Publish Writing NFT with Article URL Step 2-2/4](nft-portal.md#step-2-4-preview-nft).
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 4.png" alt=""><figcaption><p>Click Mint NFT to mint ISCN into Writing NFT</p></figcaption></figure>
 
@@ -218,15 +216,15 @@ Enter the ISCN ID in the [NFT Portal](https://app.like.co/nft/url) and click "Re
 
 ## Register ISCN for Matters articles
 
-Users can choose to register ISCN before publishing.
+Users can choose to register ISCN before publishing in [Matters](../../user-guide/creator/matters.md).
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 1.png" alt=""><figcaption><p>Register ISCN with Matters</p></figcaption></figure>
 
-Then follow [Method 1: Publish Writing NFT directly from ISCN](nft-portal.md#method-1-publish-writing-nft-directly-from-iscn).
+Then follow [Method 1: Publish Writing NFT directly from ISCN](nft-portal.md#method-1-publish-writing-nft-directly-from-iscn) to publish Writing NFT.
 
 ## Publish Writing NFT on Liker.Social
 
-Click "Mint" on the [Liker.Social](https://liker.social/) toot to publish the post as NFT.
+Click "Mint" on the [Liker.Social](https://liker.social/) toot to publish the post as Writing NFT.
 
 <figure><img src="../../.gitbook/assets/Lker.Social.webp" alt=""><figcaption><p>Publishing Writing NFT on Liker.Social</p></figcaption></figure>
 
@@ -244,17 +242,17 @@ Publishing NFTs on [illustBuy](https://illustbuy.com/) is just as easy.
 
 ## Batch send NFT to supporters
 
-**Step 1**: Search Collector) of your own wallet on the [LikeCoin NFT Dashboard](https://likecoin.github.io/likecoin-nft-dashboard/#/).
+**Step 1**: Search for "Collectors" in your own wallet on the [LikeCoin NFT Dashboard](https://likecoin.github.io/likecoin-nft-dashboard/#/).
 
 **Step 2**: Export all data.
 
-**Step 3**: Import the csv of the data into a spreadsheet tool for sorting and organizing the wallet addresses of supporters into a list.
+**Step 3**: Import the csv of the data into a spreadsheet tool for sorting and organize the wallet addresses of supporters into a list.
 
-**Step 4**: Select Send NFTs in the Tools of [LikeCoin NFT Marketplace](https://likecoin.github.io/likecoin-nft-marketplace/) and log in to Keplr.
+**Step 4**: Select "Send NFTs" in the Tools of [LikeCoin NFT Marketplace](https://likecoin.github.io/likecoin-nft-marketplace/) and log in to Keplr.
 
-**Step 5**: Find out the NFT Class ID on the Writing NFT that will be distributed to supporters.
+**Step 5**: Find the NFT Class ID on the Writing NFT that will be distributed to supporters.
 
-**Step 6**: Enter the NFT Class ID into the Send NFTs tool, and enter the supporters’ wallet addresses into Recipient Address list and the Transfer message, then press "Send" and sign in Keplr, and the NFT will be batch sent to supporters.
+**Step 6**: Enter the NFT Class ID into the Send NFTs tool, and enter the supporters’ wallet addresses to the "Recipient Address list" and the "Transfer message", then press "Send" and sign in Keplr to batch send NFTs to supporters.
 
 #### Tutorial
 
@@ -262,7 +260,7 @@ Publishing NFTs on [illustBuy](https://illustbuy.com/) is just as easy.
 
 ## Creator’s Introduction
 
-Set your own introduction together with profile picture and display name so your supporters can know you better. ( Need to register a Liker ID ).
+Set your own introduction, profile picture, and display name so your supporters can know you better. ( Need to register a Liker ID ).
 
 {% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
 [edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
