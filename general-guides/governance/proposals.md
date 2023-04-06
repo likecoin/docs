@@ -441,6 +441,6 @@ description: LikeCoin DAO 有過什麼議案？
 * **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2020.2.18 提案，2020.03.16 通過
 * **三大重點**：驗證人的數目由 7 位增加到 10位；驗證人完全開放，參選免入閘免審查，任何人都能架起伺服器做驗證人，委託數最高的 10 個為活躍驗證人 ( active validator )；驗證人可於 40%-60% 間自定佣金（提案時佣金是 50%，沒有選擇）
-*   **詳情**：[https://likecoin.bigdipper.live/proposals/1](https://likecoin.bigdipper.live/proposals/1)****
+*   **詳情**：[https://likecoin.bigdipper.live/proposals/1](https://likecoin.bigdipper.live/proposals/1)
 
     **延伸閱讀**：[讚賞公民共和國首個議案 需要你來理解和支持    ](https://matters.news/@ckxpress/%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E9%A6%96%E5%80%8B%E8%AD%B0%E6%A1%88-%E9%9C%80%E8%A6%81%E4%BD%A0%E4%BE%86%E7%90%86%E8%A7%A3%E5%92%8C%E6%94%AF%E6%8C%81-zdpuAruAzto5efyLYHJKw8CCBAYgHjbLdRJP57XJ5LFqgACEQ)

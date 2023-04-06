@@ -4,9 +4,9 @@ description: 展示 NFT 藏品庫及個人貨架
 
 # 我的書架
 
-****[**我的書架**](https://liker.land/dashboard) **** 列出用戶擁有的所有 NFT，顯示 NFT 資產總值，並進行出售到二手市場及轉贈等操作。也可參看自己是誰人的頭號粉絲。
+[**我的書架**](https://liker.land/dashboard) 列出用戶擁有的所有 NFT，顯示 NFT 資產總值，並進行出售到二手市場及轉贈等操作。也可參看自己是誰人的頭號粉絲。
 
-<figure><img src="../../.gitbook/assets/我的書架.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ## 精選及隱藏
 

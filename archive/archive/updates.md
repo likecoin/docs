@@ -12,7 +12,7 @@ description: LikeCoin 最近有些甚麼動向？
 
 ## 進度報告
 
-你可在 [blog.like.co](https://blog.like.co/zh/category/%E9%80%B2%E5%BA%A6%E6%9B%B4%E6%96%B0/) 查看最新的項目進展。另，Matters [**#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) **** 標籤也不定期發出中文更新。
+你可在 [blog.like.co](https://blog.like.co/zh/category/%E9%80%B2%E5%BA%A6%E6%9B%B4%E6%96%B0/) 查看最新的項目進展。另，Matters [**#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) 標籤也不定期發出中文更新。
 
 
 

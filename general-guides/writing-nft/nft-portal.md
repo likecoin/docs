@@ -12,7 +12,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 作者使用 [**Web3Press**](../../user-guide/wordpress.md) 可一氣呵成發佈文章、註冊 ISCN 及出版 NFT。若作者不使用 WordPress：
 
-**選擇一：**可到 **** [**NFT Portal** 即 app.like.co 的 Mint Writing NFT 分頁](https://app.like.co/nft/url)貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統註冊成為 [ISCN](../decentralized-publishing/what-is-iscn.md) 並出版 NFT
+**選擇一：**可到 [**NFT Portal** 即 app.like.co 的 Mint Writing NFT 分頁](https://app.like.co/nft/url)貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統註冊成為 [ISCN](../decentralized-publishing/what-is-iscn.md) 並出版 NFT
 
 **選擇二**：將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../decentralized-publishing/app.like.co.md)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 出版 NFT
 
@@ -190,7 +190,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 ## 以 ISCN ID 出版 Writing NFT <a href="#publish-writing-nft-with-iscn-id" id="publish-writing-nft-with-iscn-id"></a>
 
-假如你的文章經已註冊 ISCN，你同樣可以使用 **** [**NFT Portal**](https://app.like.co/nft/url) 網站出版 Writing NFT。
+假如你的文章經已註冊 ISCN，你同樣可以使用 [**NFT Portal**](https://app.like.co/nft/url) 網站出版 Writing NFT。
 
 ### 方法 1：查找 ISCN 後直接出版 Writing NFT
 
@@ -204,7 +204,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 2.png" alt=""><figcaption><p>將 ISCN ID 鑄造為 Writing NFT</p></figcaption></figure>
 
-再到 **** [NFT Portal](https://app.like.co/nft/url) 的空格輸入 ISCN ID 並點「Register ISCN」，餘下步驟與[以文章網址出版 Writing NFT 步驟 2-4/4](nft-portal.md#preview-nft-1) 完全相同。
+再到  [NFT Portal](https://app.like.co/nft/url) 的空格輸入 ISCN ID 並點「Register ISCN」，餘下步驟與[以文章網址出版 Writing NFT 步驟 2-4/4](nft-portal.md#preview-nft-1) 完全相同。
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 3.png" alt=""><figcaption><p>輸入 ISCN ID 並點「Register ISCN」鑄造 Writing NFT</p></figcaption></figure>
 
@@ -220,7 +220,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 ## 為 Matters 文章出版 Writing NFT <a href="#publish-writing-nft-for-matters-article" id="publish-writing-nft-for-matters-article"></a>
 
-用戶可以在 [Matters](https://matters.news/) 發佈文章前選擇一拼註冊 ISCN。
+用戶可以在 [Matters](../../user-guide/creator/matters.md) 發佈文章前選擇一拼註冊 ISCN。
 
 ![在 Matters 註冊 ISCN](<../../.gitbook/assets/NFT Portal ISCN 1 (1).png>)
 
