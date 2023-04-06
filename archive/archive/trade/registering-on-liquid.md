@@ -66,7 +66,7 @@ After completing 2FA, you can have a look at the exchange panel but the only thi
 
 * National ID Document
 * Selfie
-* Proof of Address **** e.g. Utility bills, government correspondents, etc, The document should have your legal name on it
+* Proof of Address e.g. Utility bills, government correspondents, etc, The document should have your legal name on it
 
 Submit the documents and wait for Liquid to confirm your application. It takes a few days for it to go through if everythings is all good.
 

@@ -62,7 +62,7 @@ description: Frequently Asked Questions
 * [​Does the LikeCoin DAO have democracy?](general-guides/governance/liquid-democracy.md)
 * [What is LikeCoin chain?](general-guides/governance/likecoin-chain.md)
 * [What is a validator?](general-guides/governance/what-is-a-validator/)
-* [How to become a validator?](validator/become-a-validator.md)****
+* [How to become a validator?](validator/become-a-validator.md)
 * [How can the validator receive community fund delegation?](general-guides/governance/what-is-a-validator/community-delegation.md)
 * ​​[How many proposals proceeded by the LikeCoin DAO?](general-guides/governance/proposals.md)
 * [How to deposit for a proposal?](general-guides/governance/proposal-deposit.md)

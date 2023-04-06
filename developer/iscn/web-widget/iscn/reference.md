@@ -8,9 +8,9 @@ description: ISCN web widget API Reference
 
 ### Base URL <a href="#base-url" id="base-url"></a>
 
-Testnet: [`https://testnet.like.co/in/widget/iscn`](https://testnet.like.co/in/widget/iscn)``
+Testnet: [`https://testnet.like.co/in/widget/iscn`](https://testnet.like.co/in/widget/iscn)
 
-Production: [`https://like.co/in/widget/iscn`](https://like.co/in/widget/iscn)``
+Production: [`https://like.co/in/widget/iscn`](https://like.co/in/widget/iscn)
 
 ### &#x20;Input Params <a href="#input-params" id="input-params"></a>
 

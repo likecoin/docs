@@ -42,7 +42,7 @@ Usually called _LikeCoin_ for short, it is the de facto token in _LikeCoin DAO._
 
 ### LikeCoin chain <a href="#aa59" id="aa59"></a>
 
-A distributed ledger of the open government of _LikeCoin DAO_. A sovereign, application specific blockchain designed for content creation and information property management, offering high-speed, low cost and most importantly, independence. Data on _LikeCoin chain_ is open and can be visualized on [**Big Dipper**](https://likecoin.bigdipper.live/) **** and **Mintscan**.
+A distributed ledger of the open government of _LikeCoin DAO_. A sovereign, application specific blockchain designed for content creation and information property management, offering high-speed, low cost and most importantly, independence. Data on _LikeCoin chain_ is open and can be visualized on [**Big Dipper**](https://likecoin.bigdipper.live/) and **Mintscan**.
 
 The very first beta of _LikeCoin chain_, code-named **KaiTak**, was released on Apr 2019 and was upgraded to **Taipei** on Sept 2019 as the new beta testnet. First public release of _LikeCoin chain_, **SheungWan**, was just launched on Nov 15, signaling the establishment of _LikeCoin DAO_.
 
@@ -78,7 +78,7 @@ With _LikeCoin DAO_ being a community of content creators and lovers, appreciati
 
 In contrast to Like Button of Facebook and other social media, tapping a _LikeCoin button — clapping —_ provides the corresponding creators with tangible rewards. A content can be clapped by a _Liker_ 1–5 times to reflect the degree of appreciation. Each clap represents a vote for the content, helping the creator receive part of the **Creators Pool** allocated for that day.
 
-A _Civic Liker_ enjoys higher weighting for her claps, which other than the **Creators Pool** __ also distributes all of her own monthly payment to creators on average. _LikeCoin button_ is like an assistant to _Likers,_ helping them micro reward creativity automatically with claps as a signal of appreciation.
+A _Civic Liker_ enjoys higher weighting for her claps, which other than the **Creators Pool** also distributes all of her own monthly payment to creators on average. _LikeCoin button_ is like an assistant to _Likers,_ helping them micro reward creativity automatically with claps as a signal of appreciation.
 
 ### Validating Transaction <a href="#9e68" id="9e68"></a>
 

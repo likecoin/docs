@@ -6,7 +6,7 @@ Please refer to [iscn query definition](https://github.com/likecoin/likecoin-cha
 
 #### Query all ISCN related transactions&#x20;
 
-[`https://mainnet-node.like.co/txs?message.module=iscn`](https://mainnet-node.like.co/txs?message.module=iscn)``
+[`https://mainnet-node.like.co/txs?message.module=iscn`](https://mainnet-node.like.co/txs?message.module=iscn)
 
 #### Query ISCN by ID
 

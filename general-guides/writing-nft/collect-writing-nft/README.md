@@ -4,35 +4,35 @@ description: How to collect Writing NFT?
 
 # Collect Writing NFT
 
-## Collect Writing NFT with credit card ( For both Desktop and Mobile )
+## Start Collecting
 
-You can pay by credit card to purchase Writing NFT, and create a wallet to receive NFT after completing the purchase, which is simple and convenient.
+Go to the [campaign page](https://liker.land/campaign/writing-nft) or [LikeCoin NFT Dashboard](https://docs.like.co/v/zh/general-guides/writing-nft/collect-writing-nft/tools) to check out the NFT that you want to buy, and click "Collect Now" to collect;
 
-### Step 1: Start Collecting
+<figure><img src="../../../.gitbook/assets/Buy NFT 1-en.png" alt=""><figcaption></figcaption></figure>
 
-Go to the [campaign page](https://liker.land/campaign/writing-nft) or [LikeCoin NFT Dashboard](https://docs.like.co/v/zh/general-guides/writing-nft/collect-writing-nft/tools) to check out the NFT that you want to buy, and click the current NFT price to collect;
+Or go to the NFT details page and click "Collect";
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 01.png" alt=""><figcaption></figcaption></figure>
-
-Or go to the NFT details page and click "Collect Now";
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 02-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 2-en.png" alt=""><figcaption></figcaption></figure>
 
 Or else go to the author's NFT Portfolio (website: https://liker.land/\[wallet address] ) and click the current NFT price;
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 03-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 3-en.png" alt=""><figcaption></figcaption></figure>
 
 Also can click "Collect Now" on [NFT Widget](nft-widget.md);
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 16-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 4-en.png" alt=""><figcaption></figcaption></figure>
 
 and start to collect Writing NFT.
 
-### Step 2: Pay by Credit Card&#x20;
+## Collect Writing NFT with credit card ( Haven't registered any wallet, For both Desktop and Mobile )
 
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional). Enter the message if you want to do so, if not just click "Pay by card".
+You can pay by credit card to purchase Writing NFT, and create a wallet to receive NFT after completing the purchase, which is simple and convenient.
 
-<figure><img src="../../../.gitbook/assets/pay by card 1-en.png" alt=""><figcaption></figcaption></figure>
+### Step 1: Pay by Credit Card&#x20;
+
+Click on the Writing NFT price or the collect button and the Collect NFT page pops up. "Leave a message to creator" and enter the message if you want to do so, or just click "Pay by card".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by card 1-en.png" alt=""><figcaption></figcaption></figure>
 
 The Stripe page appears, enter your email and credit card information and click "Pay". The purchase price of Writing NFT in fiat currency is calculated based on the market price, exchange fee and credit card handling fee.
 
@@ -42,7 +42,7 @@ Payment Authentication page pop-up, enter your OTP code and press "VERIFY".
 
 <figure><img src="../../../.gitbook/assets/pay by card 3.png" alt=""><figcaption></figcaption></figure>
 
-### Step 3: Provide wallet address
+### Step 2: Provide wallet address
 
 The Reference code appears, and at the same time you will receive an email to claim Writing NFT. Please follow the instructions to install the [Keplr](../../wallet/keplr/) wallet and reply to the email with your wallet address.
 
@@ -54,7 +54,7 @@ You will receive another email saying that the NFT has been sent to your wallet.
 
 <figure><img src="../../../.gitbook/assets/pay by card 6.png" alt=""><figcaption></figcaption></figure>
 
-### Step 4: Check your NFT Collection
+### Step 3: Check your NFT Collection
 
 Go to the upper right corner of the Liker Land website and click "Connect Wallet".
 
@@ -62,7 +62,7 @@ Go to the upper right corner of the Liker Land website and click "Connect Wallet
 
 Go to "[My Dashboard](https://liker.land/dashboard)" via the to view the NFT that you've collected.
 
-<figure><img src="../../../.gitbook/assets/My Dashboard.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by card 7-en.png" alt=""><figcaption></figcaption></figure>
 
 ## Already have a wallet and collect Writing NFT with credit card
 
@@ -76,7 +76,7 @@ Go to the upper right corner of the Liker Land website and click "Connect Wallet
 
 A pop-up window appears, click Keplr to login.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 04-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Keplr-en.png" alt=""><figcaption></figcaption></figure>
 
 When connecting for the first time, a Keplr window will pop up asking for a connection, click "Approve".
 
@@ -84,9 +84,9 @@ When connecting for the first time, a Keplr window will pop up asking for a conn
 
 ### Step 2: Pay by Credit Card&#x20;
 
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional). Enter the message if you want to do so, if not just click "Pay by card".
+Click on the Writing NFT price or the collect button and the Collect NFT page pops up. "Leave a message to creator" and enter the message if you want to do so, or just click "Pay by card".
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 20-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by card with Keplr-en.png" alt=""><figcaption></figcaption></figure>
 
 The Stripe page appears, enter your email and credit card information and click "Pay". The purchase price of Writing NFT in fiat currency is calculated based on the market price, exchange fee and credit card handling fee.
 
@@ -100,38 +100,99 @@ Payment Authentication page pop-up, enter your OTP code and press "VERIFY".
 
 Complete! page appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View Details" to view the details of the NFT purchased.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 15-en.png" alt=""><figcaption></figcaption></figure>
-
-* NFT ID: Each NFT ID is unique.
-* View Content: View Writing NFT content.&#x20;
-* Chain Data: Show the creation and transfer process of the Writing NFT.
-* Collector's Message and Creator's Message
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 19-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Finish-en.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Users who have a Cosmostation wallet or Liker Land app can also use a credit card to purchase Writing NFT, just choose the login method accordingly.
+Users who have a [Cosmostation](../../wallet/cosmostation/), [Cosmostation app](../../wallet/cosmostation-app/) or [Liker I](../../../user-guide/liker-land/download.md) can also use a credit card to purchase Writing NFT, just choose the login method accordingly.
 {% endhint %}
 
 ## Collect Writing NFT with LikeCoin on Desktop Computer
 
 And of course you can buy Writing NFT with LikeCoin. Not only to buy creators' work to encourage them, supporters can also leave messages to motivate their favorite creator. The messages will always be attached to the work, and will be recorded in the remarks field in the on chain record.
 
-### Login with wallets
+### Step 1: Login with wallets
 
 Go to the upper right corner of the Liker Land website and click "Connect Wallet".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 12-en.png" alt=""><figcaption></figcaption></figure>
 
-#### Keplr login
+Choose [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker ID](../../../user-guide/liker-land/download.md) to login and link to the website.
 
-A pop-up window appears, click [Keplr](../../wallet/keplr/) to login.
+<figure><img src="../../../.gitbook/assets/Buy NFT 6-en.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 04-en.png" alt=""><figcaption></figcaption></figure>
+#### Login with Keplr
 
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional). Enter the message if you want to do so, if not just click "Pay by LIKE".
+Please log into [Keplr Browser Extension](../../wallet/keplr/) in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 20-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr 1.png" alt=""><figcaption></figcaption></figure>
+
+A pop-up window asks to link the account again, click "Approve".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr 2.png" alt=""><figcaption></figcaption></figure>
+
+#### Login with Cosmostation
+
+Please log into [Cosmostation Browser Extension](../../wallet/cosmostation/) in your browser. After clicking "Cosmostation", a window will pop up requesting connection, click "Confirm".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation.png" alt=""><figcaption></figcaption></figure>
+
+#### Login with Cosmostation app
+
+A QR Code will appear after clicking "Cosmostation app".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 1-en.png" alt=""><figcaption></figcaption></figure>
+
+On the[ Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md), click the QR Code icon to bring up the camera, and scan the QR Code.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 2.png" alt=""><figcaption></figcaption></figure>
+
+Enter the PIN code to confirm.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 3.jpg" alt=""><figcaption></figcaption></figure>
+
+Click "OK" to confirm.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 4.png" alt=""><figcaption></figcaption></figure>
+
+Click "Confirm" to link the account.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 5.png" alt=""><figcaption></figcaption></figure>
+
+Connected successfully.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 6.png" alt=""><figcaption></figcaption></figure>
+
+#### Login with Liker Land app
+
+A QR Code will appear after clicking "Liker ID".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 1-en.png" alt=""><figcaption></figcaption></figure>
+
+On the [Liker Land app](../../../user-guide/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 2-en.png" alt=""><figcaption></figcaption></figure>
+
+On Liker Land appl pop-up, click "Approve".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 3-en.png" alt=""><figcaption></figcaption></figure>
+
+Click "Approve" again to link the account.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 4-en.png" alt=""><figcaption></figcaption></figure>
+
+After successful login, your avatar will be displayed in the upper right corner.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption></figcaption></figure>
+
+### Step 2: Pay by LIKE
+
+Click on the Writing NFT price or the collect button and the Collect NFT page pops up. "Leave a message to creator" and enter the message if you want to do so, or just click "Pay by LIKE".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE-en.png" alt=""><figcaption></figcaption></figure>
+
+### Step 3: Confirm Purchase
+
+#### Keplr
 
 A Keplr window will pop up, then click "Approve" to confirm the purchase.
 
@@ -139,47 +200,35 @@ A Keplr window will pop up, then click "Approve" to confirm the purchase.
 
 #### Cosmostation login
 
-A pop-up window appears, click [Cosmostation](../../wallet/cosmostation/) to login.
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 21-en.png" alt=""><figcaption></figcaption></figure>
-
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional). Enter the message if you want to do so, if not just click "Pay by LIKE".
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 20-en.png" alt=""><figcaption></figcaption></figure>
-
 A Cosmostation window will pop up, then click "Confirm" to confirm the purchase.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 14-en.png" alt=""><figcaption></figcaption></figure>
 
-### Login with Liker Land app via Wallet Connect
+#### Cosmostation app
 
-Go to the upper right corner of the Liker Land website and click "Connect Wallet".
+The desktop computer pops up the "Collecting NFT" windows.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 12-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 1-en.png" alt=""><figcaption></figcaption></figure>
 
-A pop-up window appears, click Liker ID to login.
+Cosmostation app pops up the Request Transaction Sign window, click "Confirm" to confirm purchase.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 22-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 2.png" alt=""><figcaption></figcaption></figure>
 
-A QR Code appears.
+#### Liker ID
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 08.png" alt=""><figcaption></figcaption></figure>
+The desktop computer pops up the Pending approval on Liker Land app windows.
 
-On the [Liker Land app](../../../user-guide/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Liker Land app 1-en.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 09-en.png" alt=""><figcaption></figcaption></figure>
+Liker Land app pops up a signature request window, click "Approve" to confirm purchase.
 
-A Liker Land app window will pop-up, click "Approve".
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Liker Land app 2-en.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 10-en.png" alt=""><figcaption></figcaption></figure>
+### Step 4: Check your NFT Collection
 
-Click on the Writing NFT price or "Collection Now" and the Collect NFT page pops up, click "Leave a message to creator" (optional). Enter the message if you want to do so, if not just click "Pay by LIKE".&#x20;
+Complete! page appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View Details" to view the details of the NFT purchased.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 20-en.png" alt=""><figcaption></figcaption></figure>
-
-A Wallet Connect request pops up on Liker Land app, then click "Approve" to confirm the purchase.
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 11-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Finish-en.png" alt=""><figcaption></figcaption></figure>
 
 ## Collect Writing NFT with LikeCoin on Mobile
 
@@ -234,5 +283,16 @@ A Wallet Connect request pops up on Liker Land app, then click "Approve" to conf
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 11-en.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-In order to protect the security of user funds, the system will use the minute-level Authz expiration time function when collecting Writing NFT. If you encounter errors such as USER\_TIME\_OUT\_SYNC, please [synchronize the network time on your computer](https://pureinfotech.com/sync-clock-windows-10/) and try again.
+In order to protect the security of user funds, the system will use the minute-level Authz expiration time function when collecting Writing NFT. If you encounter errors such as USER\_TIME\_OUT\_SYNC, please [synchronize the network time ](https://pureinfotech.com/sync-clock-windows-10/)and try again.
 {% endhint %}
+
+## Writing NFT Details
+
+1. NFT ID: Each NFT ID is unique.
+2. Collector's Message: Content entered in "Leave a message to creator".
+3. Creator's Message: The message added during the procedure of "[Add Creator message and Reserve Writing NFT](../nft-portal.md)".
+4. Chain Data: Show the creation and transfer process of the Writing NFT.
+5. View Content: View the actual content of the Writing NFT.
+6. View NFT Content Details: View prices and collection status for the entire NFT collection
+
+<figure><img src="../../../.gitbook/assets/Buy NFT Details-en.png" alt=""><figcaption></figcaption></figure>

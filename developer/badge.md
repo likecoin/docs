@@ -4,7 +4,7 @@ description: Real time LikeCoin info display badges
 
 # Ecosystem Statistics Badge
 
-### Base URL [`https://static.like.co/badge`](https://static.like.co/badge)``
+### Base URL [`https://static.like.co/badge`](https://static.like.co/badge)
 
 ### Ecosystem statistics
 

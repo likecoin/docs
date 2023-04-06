@@ -110,9 +110,9 @@ The REDELEGATE page appears, enter the amount of LikeCoin you want to redelegate
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 2.png" alt=""><figcaption></figcaption></figure>
 
-### Step **** 5: Select the new validator to delegate
+### Step 5: Select the new validator to delegate
 
-Select the validator that you want to redelegate to and click "Next" then confirm ( **** Follow the [Step 4-7 in Delegate via Cosmostation app](delegation-of-likecoin.md#step-4-decide-the-amount-to-delegate-1) ) to redelegate.
+Select the validator that you want to redelegate to and click "Next" then confirm ( Follow the [Step 4-7 in Delegate via Cosmostation app](delegation-of-likecoin.md#step-4-decide-the-amount-to-delegate-1) ) to redelegate.
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 3.png" alt=""><figcaption></figcaption></figure>
 

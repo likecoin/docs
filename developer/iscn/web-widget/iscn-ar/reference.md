@@ -6,9 +6,9 @@ description: ISCN AR web widget API Reference
 
 ### Base URL <a href="#base-url" id="base-url"></a>
 
-Testnet: [`https://testnet.like.co/in/widget/iscn-ar`](https://testnet.like.co/in/widget/iscn-ar)``
+Testnet: [`https://testnet.like.co/in/widget/iscn-ar`](https://testnet.like.co/in/widget/iscn-ar)
 
-Production: [`https://like.co/in/widget/iscn-ar`](https://like.co/in/widget/iscn-ar)``
+Production: [`https://like.co/in/widget/iscn-ar`](https://like.co/in/widget/iscn-ar)
 
 Since `postMessage()` would be needed for operating this widget, caller is expected to use `window.open` on the above urls.
 

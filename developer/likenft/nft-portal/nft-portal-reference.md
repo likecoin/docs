@@ -12,9 +12,9 @@ Allows inputting https URL or ISCN ID to prepare minting of Writing NFT
 
 ### Base URL <a href="#base-url" id="base-url"></a>
 
-Testnet: [`https://app.testnet.like.co/nft/url`](https://app.like.co/nft/url)``
+Testnet: [`https://app.testnet.like.co/nft/url`](https://app.like.co/nft/url)
 
-Production: [`https://app.like.co/nft/url`](https://app.like.co/nft/url)``
+Production: [`https://app.like.co/nft/url`](https://app.like.co/nft/url)
 
 ### &#x20;Input Params <a href="#input-params" id="input-params"></a>
 

@@ -190,7 +190,7 @@ Click "View Your NFT" to view your Writing NFT.
 
 ## Publish Writing NFT with ISCN ID
 
-If your article is registered with ISCN, you can also use the **** [**NFT Portal**](https://app.like.co/nft/url) **** to publish Writing NFT.
+If your article is registered with ISCN, you can also use the [**NFT Portal**](https://app.like.co/nft/url) to publish Writing NFT.
 
 ### Method 1: Publish Writing NFT directly from ISCN
 

@@ -13,7 +13,7 @@ While this feature is being used in production by our partners, many of the conf
 ### Base URL
 
 Testnet: [`https://testnet.like.co/in/widget/pay`](https://testnet.like.co/in/widget/pay)\
-Production: [`https://like.co/in/widget/pay`](https://like.co/in/widget/pay)``
+Production: [`https://like.co/in/widget/pay`](https://like.co/in/widget/pay)
 
 ### &#x20;Input Params
 
@@ -48,7 +48,7 @@ like.co API: `https://api.like.co/tx/id/${txHash}`
 
 Following links are in testnet.
 
-#### Input Link: [`https://testnet.like.co/in/widget/pay?to=ckxpress&amount=1&via=kiutest0&fee=1&state=123&redirect_uri=http%3A%2F%2Flocalhost%3A3000`](https://testnet.like.co/in/widget/pay?to=ckxpress\&amount=1\&via=kiutest0\&fee=1\&state=123\&redirect\_uri=http%3A%2F%2Flocalhost%3A3000)``
+#### Input Link: [`https://testnet.like.co/in/widget/pay?to=ckxpress&amount=1&via=kiutest0&fee=1&state=123&redirect_uri=http%3A%2F%2Flocalhost%3A3000`](https://testnet.like.co/in/widget/pay?to=ckxpress\&amount=1\&via=kiutest0\&fee=1\&state=123\&redirect\_uri=http%3A%2F%2Flocalhost%3A3000)
 
 #### Redirect result:
 
@@ -56,6 +56,6 @@ Following links are in testnet.
 
 #### Tx Status Query
 
-[**`https://api.testnet.like.co/cosmos/lcd/txs/08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C`**](https://api.testnet.like.co/cosmos/lcd/txs/08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C)**``**
+[**`https://api.testnet.like.co/cosmos/lcd/txs/08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C`**](https://api.testnet.like.co/cosmos/lcd/txs/08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C)
 
-#### [**`https://api.testnet.like.co/tx/id/08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C6`**](https://api.testnet.like.co/tx/id/08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C6)**``**
+#### [**`https://api.testnet.like.co/tx/id/08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C6`**](https://api.testnet.like.co/tx/id/08913DDC16F5F130B9ABCF96C54B22C7AEFEBB303DFD3CDA034171D8950F68C6)

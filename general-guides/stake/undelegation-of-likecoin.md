@@ -105,7 +105,7 @@ Click "UNDELEGATE".
 
 ### Step 4: Decide the amount to undelegate
 
-The UNDELEGATE page appears, enter the amount of LikeCoin you want to undelegate, and click "Next" then confirm ( **** Follow the [Step 4-7 in Delegate via Cosmostation app](delegation-of-likecoin.md#step-4-decide-the-amount-to-delegate-1) ) to undelegate.
+The UNDELEGATE page appears, enter the amount of LikeCoin you want to undelegate, and click "Next" then confirm ( Follow the [Step 4-7 in Delegate via Cosmostation app](delegation-of-likecoin.md#step-4-decide-the-amount-to-delegate-1) ) to undelegate.
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption></figcaption></figure>
 

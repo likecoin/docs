@@ -504,7 +504,7 @@
 
 ### **08/01 突破書誌 054期 搵真銀**
 
-****[價值重組實驗](https://like.co/pdf/articles/breakazine.pdf)
+[價值重組實驗](https://like.co/pdf/articles/breakazine.pdf)
 
 ![](../../.gitbook/assets/Breakazine\_9.png)
 
@@ -542,7 +542,7 @@
 
 ### **05/02 彭博商業周刊/中文版 第114期**
 
-****[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html) [PDF](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/financial-services/deloitte-cn-fs-bloomberg-business-megazine-ico-zh-180518.pdf)
+[ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html) [PDF](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/financial-services/deloitte-cn-fs-bloomberg-business-megazine-ico-zh-180518.pdf)
 
 ![](../../.gitbook/assets/bloomberg\_likecoin\_tiny.jpg)
 
@@ -644,7 +644,7 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 
 ### **10/08 明報**
 
-****[科網世代﹕LikeCoin將Like變成錢有可能？ 直落創作人口袋](https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20171008/s00005/1507399895326/%E7%A7%91%E7%B6%B2%E4%B8%96%E4%BB%A3-likecoin%E5%B0%87like%E8%AE%8A%E6%88%90%E9%8C%A2%E6%9C%89%E5%8F%AF%E8%83%BD-%E7%9B%B4%E8%90%BD%E5%89%B5%E4%BD%9C%E4%BA%BA%E5%8F%A3%E8%A2%8B)
+[科網世代﹕LikeCoin將Like變成錢有可能？ 直落創作人口袋](https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20171008/s00005/1507399895326/%E7%A7%91%E7%B6%B2%E4%B8%96%E4%BB%A3-likecoin%E5%B0%87like%E8%AE%8A%E6%88%90%E9%8C%A2%E6%9C%89%E5%8F%AF%E8%83%BD-%E7%9B%B4%E8%90%BD%E5%89%B5%E4%BD%9C%E4%BA%BA%E5%8F%A3%E8%A2%8B)
 
 ![](../../.gitbook/assets/ming2\_tiny.jpg)
 

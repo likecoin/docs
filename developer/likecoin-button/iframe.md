@@ -30,8 +30,8 @@ LikeCoin button is available as either an embedded page which can be used in an 
 
 Example links:
 
-* Widget with `referrer` : [`https://button.rinkeby.like.co/in/like/williamchong-du/?referrer=https%3A%2F%2Fmedium.com%2F%40likecoin_fdn%2Ftest-776059ed593523322`](https://button.rinkeby.like.co/in/like/williamchong-du/?referrer=https%3A%2F%2Fmedium.com%2F%40likecoin\_fdn%2Ftest-776059ed593523322)``
-* Iframe embbed with `iscn_id` : [`https://button.rinkeby.like.co/in/embed/iscn/button?iscn_id=iscn%3A%2F%2Flikecoin-chain%2Fy4JWyvv9mW6zo9rB0Pp-aPw6_655ljCFJI-B19R6F-g%2F1`](https://button.rinkeby.like.co/in/embed/iscn/button?iscn\_id=iscn%3A%2F%2Flikecoin-chain%2Fy4JWyvv9mW6zo9rB0Pp-aPw6\_655ljCFJI-B19R6F-g%2F1)``
+* Widget with `referrer` : [`https://button.rinkeby.like.co/in/like/williamchong-du/?referrer=https%3A%2F%2Fmedium.com%2F%40likecoin_fdn%2Ftest-776059ed593523322`](https://button.rinkeby.like.co/in/like/williamchong-du/?referrer=https%3A%2F%2Fmedium.com%2F%40likecoin\_fdn%2Ftest-776059ed593523322)
+* Iframe embbed with `iscn_id` : [`https://button.rinkeby.like.co/in/embed/iscn/button?iscn_id=iscn%3A%2F%2Flikecoin-chain%2Fy4JWyvv9mW6zo9rB0Pp-aPw6_655ljCFJI-B19R6F-g%2F1`](https://button.rinkeby.like.co/in/embed/iscn/button?iscn\_id=iscn%3A%2F%2Flikecoin-chain%2Fy4JWyvv9mW6zo9rB0Pp-aPw6\_655ljCFJI-B19R6F-g%2F1)
 
 > In case of iframe sandbox, `allow-scripts`, `allow-same-origin`, `allow-popups` `allow-popups-to-escape-sandbox`, `allow-top-navigation-by-user-activation`, `allow-storage-access-by-user-activation` are needed for proper register/login functionality.
 

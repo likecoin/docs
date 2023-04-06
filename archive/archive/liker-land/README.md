@@ -53,7 +53,7 @@ As a Decentralized Publishing Infrastructure, LikeCoin provides Decentralized Re
 
 ### Decentralized Rewards&#xD;
 
-* **Reinventing the Like**: **** By simply attaching a [LikeCoin button](../../../user-guide/creator/) beneath your content and without setting up a paywall, every Like by readers is turned into measurable rewards in LikeCoin tokens.
+* **Reinventing the Like**: By simply attaching a [LikeCoin button](../../../user-guide/creator/) beneath your content and without setting up a paywall, every Like by readers is turned into measurable rewards in LikeCoin tokens.
 * Rewards to creators are from two sources, [Civic Liker](../../../user-guide/civic-liker/) to reward creativity and journalism, while the creators fund, distributed according to the Likes of all users, doubles the rewarding pool.
 
 ### Decentralized Editorial&#xD;

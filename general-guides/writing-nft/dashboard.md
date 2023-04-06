@@ -4,9 +4,9 @@ description: Display Window and Store Shelf of NFT
 
 # My Dashboard
 
-****[**My Dashboard**](https://liker.land/dashboard) page lists all NFTs and their asset values. It is the place where users can transfer NFT and sell them to the secondary market, and also check out your top fans status.
+[**My Dashboard**](https://liker.land/dashboard) page lists all NFTs and their asset values. It is the place where users can transfer NFT and sell them to the secondary market, and also check out your top fans status.
 
-<figure><img src="../../.gitbook/assets/My Dashboard.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ## Feature and Hide
 

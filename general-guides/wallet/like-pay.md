@@ -36,7 +36,7 @@ Some crypto exchanges may require input of Tag/Memo, please fill in the value he
 
 ### **Step 6**
 
-****Input the amount of LikeCoin that you have to transfer, click \[Next].  You may click on the \[Details] to check the estimated [Transaction fee](transaction-fee.md) for this LikeCoin transfer.  Make sure that your wallet has enough spare LikeCoin other than those you have to transfer. Click \[Confirm] to finish the transfer.
+Input the amount of LikeCoin that you have to transfer, click \[Next].  You may click on the \[Details] to check the estimated [Transaction fee](transaction-fee.md) for this LikeCoin transfer.  Make sure that your wallet has enough spare LikeCoin other than those you have to transfer. Click \[Confirm] to finish the transfer.
 
 ![](../../.gitbook/assets/like-pay-4-en.png)
 
