@@ -16,7 +16,7 @@
   * [#translate-wallet-prefix](general-guides/community/translate-wallet-prefix.md)
   * [#faucet-testnet](general-guides/community/faucet-test.md)
 * [Writing NFT](general-guides/writing-nft/README.md)
-  * [收集 Writing NFT](general-guides/writing-nft/collect-writing-nft/README.md)
+  * [收藏 Writing NFT](general-guides/writing-nft/collect-writing-nft/README.md)
     * [NFT Widget](general-guides/writing-nft/collect-writing-nft/nft-widget.md)
     * [NFT 展示櫃](general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)
     * [二級市場](general-guides/writing-nft/collect-writing-nft/nft-marketplace.md)

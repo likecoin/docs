@@ -72,7 +72,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 點「Liker ID」後出現二維碼。
 
-<figure><img src="../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>點 Liker ID 後出現二維碼。</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>點 Liker ID 後出現二維碼</p></figcaption></figure>
 
 在 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
 
