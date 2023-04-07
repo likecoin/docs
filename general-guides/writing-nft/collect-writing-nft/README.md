@@ -278,7 +278,7 @@ Liker Land app 彈出簽名請求視窗，點「允許」確認購買。
 
 **步驟九**：回到瀏覽器後出現正在收藏作品頁。
 
-<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 9.png" alt=""><figcaption><p>瀏覽器後出現正在收藏作品頁</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 9.png" alt=""><figcaption><p>瀏覽器出現正在收藏作品頁</p></figcaption></figure>
 
 **步驟十**：交易已完成！點「檢視類別資訊」查看已購買的 Writing NFT。
 
