@@ -18,39 +18,39 @@ LikeCoin chain was successfully upgraded to the LaiChiKok version on May 4, 2022
 
 Go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
 
-<figure><img src="../../../.gitbook/assets/keplr06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/keplr06.png" alt=""><figcaption><p>Go to dao.like.co, click "Keplr Browser Extension"</p></figcaption></figure>
 
 ### Step 2
 
 Then click "Approve" on Keplr.
 
-<figure><img src="../../../.gitbook/assets/keplr07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/keplr07.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
 
 ### Step 3
 
 Click "Approve" again.
 
-<figure><img src="../../../.gitbook/assets/keplr08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/keplr08.png" alt=""><figcaption><p>Click "Approve" on Keplr again</p></figcaption></figure>
 
 ### Step 4
 
 You can see your balance.
 
-<figure><img src="../../../.gitbook/assets/keplr09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/keplr09.png" alt=""><figcaption><p>LikeCoin balance appears on dao.like.co</p></figcaption></figure>
 
 ### Step 5
 
 LikeCoin chain appears in the Keplr menu and displays the LikeCoin balance.
 
-<figure><img src="../../../.gitbook/assets/Keplr menu 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr menu 1.png" alt=""><figcaption><p>LikeCoin chain displays on Keplr</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Keplr menu 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr menu 2.png" alt=""><figcaption><p>LikeCoin balance eppears</p></figcaption></figure>
 
 ## **Deposit your LikeCoin via dao.like.co to Keplr**
 
 Click on the wallet address on the top left hand corner of [dao.like.co](https://dao.like.co/) to copy it and paste to somewhere else (A crypto exchange or another wallet).
 
-<figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>Click on wallet address and copy</p></figcaption></figure>
 
 ## Using dao.like.co + Keplr to send LikeCoin to another wallet
 
@@ -58,7 +58,7 @@ Click on the wallet address on the top left hand corner of [dao.like.co](https:/
 
 On the Portfolio Page click "Send".
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 1.png" alt=""><figcaption><p>Fill in the recipient's wallet address and the amount of LikeCoin to be sent, then click "Send"</p></figcaption></figure>
 
 ### Step 2
 
@@ -70,21 +70,21 @@ The Send page appears. On "Send To" fill in the wallet address of the receiver, 
 
 Confirmation is required. Click "Send" and "Approve" on Keplr to confirm.
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 3.png" alt=""><figcaption><p>Click "Send"</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 4.png" alt=""><figcaption><p>The Keplr window will pop up, click "Approve"</p></figcaption></figure>
 
 ### Step 4
 
-After the "Sent and confirming", "Successfully Send" appears, sending of LikeCoin is completed.
+After the message "Sent and confirming" appears, "Successfully Sent" message will appear, indicating that the LikeCoin has been sent successfully.
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption><p>Sent and confirming</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption><p>Successfully Send</p></figcaption></figure>
 
 </div>
 

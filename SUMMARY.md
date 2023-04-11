@@ -101,7 +101,7 @@
   * [Notifications](general-guides/writing-nft/notifications.md)
   * [My Dashboard](general-guides/writing-nft/dashboard.md)
   * [Transfer Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)
-  * [Mint NFT](general-guides/writing-nft/nft-portal.md)
+  * [Mint Writing NFT](general-guides/writing-nft/nft-portal.md)
 * [Decentralized Publishing](general-guides/decentralized-publishing/README.md)
   * [What is ISCN](general-guides/decentralized-publishing/what-is-iscn.md)
   * [What is the relationship between ISCN and IPFS?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)

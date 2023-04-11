@@ -4,22 +4,22 @@ description: Catch up with NFT new release
 
 # Follow Creators
 
-User can now follow a creators by providing email address. Whenever the creators publish an NFT, the followers will receive a email notification and never miss the best chance to collect.
+Users can now follow a creator by providing their email address. Whenever the creator publishes an NFT, the followers will receive an email notification and will never miss the chance to collect.
 
-## Step 1: Fill in the email
+## Step 1: Fill in your email
 
-Scroll to the bottom of the creator's NFT Portfolio and enter your email address, then click "Notify Me".
+On the left-hand column of the creator's NFT Portfolio, enter your email address and click "Follow".
 
-<figure><img src="../../.gitbook/assets/subscribe creator 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscribe creator 1-en.png" alt=""><figcaption></figcaption></figure>
 
-## Step 2: Confirm Email
+## Step 2: Confirm your email
 
-You will receive a confirmation email at your email address, click the link to confirm the subscription.
+You will receive a confirmation email at your email address. Click the link in the email to confirm your subscription.
 
-<figure><img src="../../.gitbook/assets/subscribe creator 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscribe creator 2.png" alt=""><figcaption><p>Subscribe creator confirmation email</p></figcaption></figure>
 
-## Step 3: Successful Subscribed
+## Step 3: Successfully subscribed
 
-A pop-up window states that the creator has been successfully subscribed.
+A pop-up window will appear, indicating that you have successfully subscribed to the creator.
 
-<figure><img src="../../.gitbook/assets/subscribe creator 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscribe creator 3.png" alt=""><figcaption><p>Successfully subscribed the creator</p></figcaption></figure>

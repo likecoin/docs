@@ -26,7 +26,7 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 [dao.like.co.md](dao.like.co.md)
 {% endcontent-ref %}
 
-#### You may also export seed words from Liker Land and import to Cosmostation.&#x20;
+#### You may also export seed words from Liker Land and import them to Cosmostation.&#x20;
 
 {% content-ref url="../../../user-guide/liker-id/export-seed-words.md" %}
 [export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)
@@ -36,10 +36,18 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 [import-wallet-into-cosmostation.md](import-wallet-into-cosmostation.md)
 {% endcontent-ref %}
 
-#### Use Cosmostation to collect Writing NFT and enjoy depub.space:
+#### Use Cosmostation to register ISCN, collect Writing NFT, mint Writing NFT and enjoy depub.space:
+
+{% content-ref url="../../decentralized-publishing/app.like.co.md" %}
+[app.like.co.md](../../decentralized-publishing/app.like.co.md)
+{% endcontent-ref %}
 
 {% content-ref url="../../writing-nft/collect-writing-nft/" %}
 [collect-writing-nft](../../writing-nft/collect-writing-nft/)
+{% endcontent-ref %}
+
+{% content-ref url="../../writing-nft/nft-portal.md" %}
+[nft-portal.md](../../writing-nft/nft-portal.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../user-guide/depub.space/" %}

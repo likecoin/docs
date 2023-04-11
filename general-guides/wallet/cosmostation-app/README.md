@@ -32,7 +32,7 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 [block-explorer](../block-explorer/)
 {% endcontent-ref %}
 
-#### You may also export seed words from Liker Land and import to Cosmostation mobiie:
+#### You may also export seed words from Liker Land and import them to Cosmostation mobiie:
 
 {% content-ref url="../../../user-guide/liker-id/export-seed-words.md" %}
 [export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)
@@ -40,4 +40,18 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 
 {% content-ref url="import-wallet-into-cosmostation-app.md" %}
 [import-wallet-into-cosmostation-app.md](import-wallet-into-cosmostation-app.md)
+{% endcontent-ref %}
+
+#### Use Cosmostation mobile to register ISCN, collect Writing NFT and mint Writing NFT:&#x20;
+
+{% content-ref url="../../decentralized-publishing/app.like.co.md" %}
+[app.like.co.md](../../decentralized-publishing/app.like.co.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../writing-nft/collect-writing-nft/" %}
+[collect-writing-nft](../../writing-nft/collect-writing-nft/)
+{% endcontent-ref %}
+
+{% content-ref url="../../writing-nft/nft-portal.md" %}
+[nft-portal.md](../../writing-nft/nft-portal.md)
 {% endcontent-ref %}

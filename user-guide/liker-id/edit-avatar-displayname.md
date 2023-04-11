@@ -8,9 +8,9 @@ description: Set up your unique identity
 
 ### Web
 
-Login [Liker Land](https://liker.land/) with [Keplr Browser Extension](../../general-guides/wallet/keplr/) and click "Settings".
+Login [Liker Land](https://liker.land/) with [Keplr Browser Extension](../../general-guides/wallet/keplr/) and click "Settings", and then click "Liker ID".
 
-<figure><img src="../../.gitbook/assets/Settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled.jpg" alt=""><figcaption></figcaption></figure>
 
 A pop-up windows appears, click "Change Avatar" or "Edit" to change e-mall. Click "Display Name" and "Description" to change them and don't forget to click "Save".
 
@@ -36,7 +36,7 @@ Your name and avatar will appear in various Liker Land scenarios:
 [nft-portfolio.md](../../general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/NFT Portfolio-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portfolio Liker ID.png" alt=""><figcaption></figcaption></figure>
 
 ### LikeCoin button
 
