@@ -18,39 +18,39 @@ LikeCoin chain 經已於 2022 年 5 月 4 日成功升級為 LaiChiKok 版本。
 
 到 [dao.like.co](https://dao.like.co/) 網站，點擊「Keplr Browser Extension」。
 
-<figure><img src="../../../.gitbook/assets/keplr06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/keplr06.png" alt=""><figcaption><p>到 dao.like.co 網站，點「Keplr Browser Extension」</p></figcaption></figure>
 
 ### 步驟二
 
 點擊「Approve」。
 
-<figure><img src="../../../.gitbook/assets/keplr07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/keplr07.png" alt=""><figcaption><p>在 Keplr 點「Approve」</p></figcaption></figure>
 
 ### 步驟三
 
 看見這個畫面再「Approve」多一次。
 
-<figure><img src="../../../.gitbook/assets/keplr08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/keplr08.png" alt=""><figcaption><p>再次在 Keplr 點「Approve」</p></figcaption></figure>
 
 ### 步驟四
 
 你會看到你的 LikeCoin 餘額。
 
-<figure><img src="../../../.gitbook/assets/keplr09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/keplr09.png" alt=""><figcaption><p>在 dao.like.co 出現 LikeCoin 餘額</p></figcaption></figure>
 
 ### 步驟五
 
 在 Keplr 密碼貸幣菜單出現 LikeCoin 並顯示 LikeCoin 餘額。
 
-<figure><img src="../../../.gitbook/assets/Keplr menu 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr menu 1.png" alt=""><figcaption><p>在 Keplr 顯示 LikeCoin chain</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Keplr menu 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr menu 2.png" alt=""><figcaption><p>顯示 LikeCoin 餘額</p></figcaption></figure>
 
 ## 使用 dao.like.co 存入 LikeCoin 到 Keplr <a href="#deposit-your-likecoin-via-dao.like.co-to-keplr" id="deposit-your-likecoin-via-dao.like.co-to-keplr"></a>
 
 在 [dao.like.co](https://dao.like.co/) 點擊左上角錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。
 
-<figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>點擊錢包地址並複製</p></figcaption></figure>
 
 ## 使用 dao.like.co + Keplr 轉帳 LikeCoin 到其他錢包 <a href="#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet" id="using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet"></a>
 
@@ -58,21 +58,21 @@ LikeCoin chain 經已於 2022 年 5 月 4 日成功升級為 LaiChiKok 版本。
 
 在 Portfolio 頁面點「Send」。
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 1.png" alt=""><figcaption><p>在 Portfolio 頁面點「Send」</p></figcaption></figure>
 
 ### 步驟二
 
 出現 Send 頁面，在「Send To」填入收款方的錢包地址，「Amount」填寫需要轉帳的 LikeCoin 數量，並留意必須預留[手續費](../transaction-fee.md)。Memo 一欄填進收款方需要 Tag/Memo（如有），再點「Next」。
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 2.png" alt=""><figcaption><p>填入收款方的錢包地址及需要傳送的 LikeCoin 數量再點「Send」</p></figcaption></figure>
 
 ### 步驟三
 
 點「Send」後彈出 Keplr 視窗再點「Approve」確認執行。
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 3.png" alt=""><figcaption><p>點「Send」</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 4.png" alt=""><figcaption><p>彈出 Keplr 視窗點「Approve」</p></figcaption></figure>
 
 ### 步驟四
 
@@ -80,11 +80,11 @@ LikeCoin chain 經已於 2022 年 5 月 4 日成功升級為 LaiChiKok 版本。
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption><p>Sent and confirming</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption><p>Successfully Send 完成傳送</p></figcaption></figure>
 
 </div>
 

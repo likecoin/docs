@@ -16,7 +16,7 @@ description: 支援 LikeCoin 的多鏈錢包
 [how-to-install-cosmostation-extension.md](how-to-install-cosmostation-extension.md)
 {% endcontent-ref %}
 
-#### 存入、轉帳、委託 LikeCoin；為議案提供保證金，投票及查看交易明細：
+#### 存入、轉帳、委託 LikeCoin、為議案提供保證金、投票及查看交易明細：
 
 {% content-ref url="cosmostation-deposit-and-send-likecoin.md" %}
 [cosmostation-deposit-and-send-likecoin.md](cosmostation-deposit-and-send-likecoin.md)
@@ -36,10 +36,18 @@ description: 支援 LikeCoin 的多鏈錢包
 [import-wallet-into-cosmostation.md](import-wallet-into-cosmostation.md)
 {% endcontent-ref %}
 
-#### 使用 Cosmostation 收集 Writing NFT 及使用 depub.space：
+#### 使用 Cosmostation 註冊 ISCN、收藏 Writing NFT、發行 Writing NFT 及使用 depub.space：
+
+{% content-ref url="../../decentralized-publishing/app.like.co.md" %}
+[app.like.co.md](../../decentralized-publishing/app.like.co.md)
+{% endcontent-ref %}
 
 {% content-ref url="../../writing-nft/collect-writing-nft/" %}
 [collect-writing-nft](../../writing-nft/collect-writing-nft/)
+{% endcontent-ref %}
+
+{% content-ref url="../../writing-nft/nft-portal.md" %}
+[nft-portal.md](../../writing-nft/nft-portal.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../user-guide/depub.space/" %}

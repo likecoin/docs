@@ -14,7 +14,7 @@ description: Cosmostation 手機版
 [how-to-install-cosmostation-app.md](how-to-install-cosmostation-app.md)
 {% endcontent-ref %}
 
-#### 存入、轉帳、委託 LikeCoin：投票及查看交易明細：
+#### 存入、轉帳、委託 LikeCoin、投票及查看交易明細：
 
 {% content-ref url="cosmostation-app-deposit-and-send-likecoin.md" %}
 [cosmostation-app-deposit-and-send-likecoin.md](cosmostation-app-deposit-and-send-likecoin.md)
@@ -40,4 +40,18 @@ description: Cosmostation 手機版
 
 {% content-ref url="import-wallet-into-cosmostation-app.md" %}
 [import-wallet-into-cosmostation-app.md](import-wallet-into-cosmostation-app.md)
+{% endcontent-ref %}
+
+#### 使用 Cosmostation 手機錢包註冊 ISCN、收藏 Writing NFT 及發行 Writing NFT、：
+
+{% content-ref url="../../decentralized-publishing/app.like.co.md" %}
+[app.like.co.md](../../decentralized-publishing/app.like.co.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../writing-nft/collect-writing-nft/" %}
+[collect-writing-nft](../../writing-nft/collect-writing-nft/)
+{% endcontent-ref %}
+
+{% content-ref url="../../writing-nft/nft-portal.md" %}
+[nft-portal.md](../../writing-nft/nft-portal.md)
 {% endcontent-ref %}

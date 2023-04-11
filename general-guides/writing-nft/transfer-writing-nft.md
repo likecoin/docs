@@ -12,15 +12,15 @@ description: 簡單轉移沒難度
 
 ## 步驟一：登入並轉移
 
-登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 後點需要轉移的 NFT，並查看存量「擁有」了多少個。確定需要轉移後點「轉贈」。
+登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 、[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 後點需要轉移的 NFT，並查看存量「擁有」了多少個。確定需要轉移後點「轉贈」。
 
-<figure><img src="../../.gitbook/assets/NFT Transfer 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Transfer 1.png" alt=""><figcaption><p>點「轉贈」開始轉移 Writing NFT</p></figcaption></figure>
 
 ## 步驟二：輸入錢包地址
 
 在轉贈你的 NFT 頁面輸入收取 NFT 的錢包地址，及於附加留言空格填入訊息後點「轉贈」。
 
-<figure><img src="../../.gitbook/assets/NFT Transfer 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Transfer 2.png" alt=""><figcaption><p>輸入錢包地址及轉贈訊息</p></figcaption></figure>
 
 ## 步驟三：確認轉移
 
@@ -28,31 +28,39 @@ description: 簡單轉移沒難度
 
 在 Keplr 彈出視窗，點「Approve」。
 
-<figure><img src="../../.gitbook/assets/NFT Transfer 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Transfer 3.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve」</p></figcaption></figure>
 
 ### 在 Cosmostation 確認轉移 Writing NFT
 
 在 Cosmostation 彈出視窗，點「Confirm」。
 
-<figure><img src="../../.gitbook/assets/NFT Transfer 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Transfer 5.png" alt=""><figcaption><p>Cosmostation 彈出視窗，點「Confirm」</p></figcaption></figure>
+
+### 在 Cosmostation app 確認轉移 Writing NFT
+
+在手機上出現簽名請求，點「Confirm」確認轉移。
+
+<figure><img src="../../.gitbook/assets/NFT Transfer 9-en.png" alt=""><figcaption><p>轉贈你的 NFT</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/NFT Transfer 10.png" alt=""><figcaption><p>在 Cosmostation app 點「Confirm」</p></figcaption></figure>
 
 ### 在 Liker Land app 確認轉移 Writing NFT
 
 在手機上出現簽名請求，點「允許」確認轉移。
 
-<figure><img src="../../.gitbook/assets/NFT Transfer 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Transfer 7.png" alt=""><figcaption><p>轉贈你的 NFT</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/NFT Transfer 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Transfer 6.png" alt=""><figcaption><p>在 Cosmostation app 點「允許」</p></figcaption></figure>
 
 ## 步驟四：成功轉移
 
 彈出視窗出現交易已完成！字樣代表經已成功轉移 NFT。與此同時「擁有」的數字亦會有所改變。你亦可通知收件者查看是否已收到 Writing NFT。
 
-<figure><img src="../../.gitbook/assets/NFT Transfer 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Transfer 4.png" alt=""><figcaption><p>成功轉移 Writing NFT</p></figcaption></figure>
 
 用戶可於附加留言欄位查看已傳送的訊息。
 
-<figure><img src="../../.gitbook/assets/NFT Transfer 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Transfer 8.png" alt=""><figcaption><p>於附加留言欄位查看已傳送的訊息</p></figcaption></figure>
 
 #### 教學影片
 

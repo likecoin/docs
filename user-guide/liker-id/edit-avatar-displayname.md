@@ -8,9 +8,9 @@ description: 讓自己的性格更特出
 
 ### 網頁版
 
-在 [Liker Land](https://liker.land/) 登入 [Keplr Browser Extension](../../general-guides/wallet/keplr/) 後，點「設定」。
+在 [Liker Land](https://liker.land/) 登入 [Keplr Browser Extension](../../general-guides/wallet/keplr/) 後，點「設定」，然後點「Liker ID」。
 
-<figure><img src="../../.gitbook/assets/Liker ID Settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled.jpg" alt=""><figcaption></figcaption></figure>
 
 彈出視窗，可「更改頭像」及「編輯電郵」。更改「顯示名稱」及簡介後務必點「儲存」。
 
@@ -36,7 +36,7 @@ description: 讓自己的性格更特出
 [nft-portfolio.md](../../general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/NFT Portfolio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portfolio Liker ID.png" alt=""><figcaption></figcaption></figure>
 
 ### LikeCoin button 讚賞鍵
 

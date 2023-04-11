@@ -26,7 +26,7 @@
   * [通知功能](general-guides/writing-nft/notifications.md)
   * [我的書架](general-guides/writing-nft/dashboard.md)
   * [轉贈 Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)
-  * [發行 NFT](general-guides/writing-nft/nft-portal.md)
+  * [發行 Writing NFT](general-guides/writing-nft/nft-portal.md)
 * [去中心出版](general-guides/decentralized-publishing/README.md)
   * [什麼是 ISCN?](general-guides/decentralized-publishing/what-is-iscn.md)
   * [ISCN 和 IPFS 的關係是什麼？](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
