@@ -1,0 +1,9 @@
+{
+	"uri": "https://api.ckxpress.com/book-nft/metadata?book_id=1",
+	"metadata": {
+		"name": "《所謂「我不投資」，就是 all in 在法定貨幣》",
+		"description": "談的是分散式金融，實踐的是分散式出版。",
+		"image": "ipfs://bafybeierwqwwtj7wynjaud2jwi5yjxfqnnthvxfky66suih5wlpjuofvey",
+		"external_url": "https://bit.ly/moneyverse-pdf"
+	}
+}
