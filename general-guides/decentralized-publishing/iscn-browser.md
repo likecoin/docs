@@ -4,7 +4,7 @@ description: Check ISCN records and change their metadata
 
 # ISCN Browser
 
-With Wancat's [ISCN Browser](https://lancatlin.github.io/iscn-browser/) you can easily check the latest ISCN records and change their metadata.&#x20;
+With Wancat's [ISCN Browser ](https://likecoin.github.io/iscn-browser)you can easily check the latest ISCN records and change their metadata.&#x20;
 
 ### Latest ISCN records
 
