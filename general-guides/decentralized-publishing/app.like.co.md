@@ -14,55 +14,81 @@ description: 第一個 ISCN 的概念示範應用
 
 用戶可使用 [app.like.co](https://app.like.co/) 嘗試註冊自己的 ISCN。
 
-## 註冊 ISCN
+## 步驟一：登入 app.like.co
 
-### 步驟一：登入 app.like.co
-
-到 [app.like.co](https://app.like.co/) 點擊右上角「Connect Wallet」。
+桌面電腦瀏覽器直接進入 [app.like.co](https://app.like.co/)點擊右上角「Connect Wallet」或直接點「Register ISCN」。
 
 <figure><img src="../../.gitbook/assets/ISCN 1.png" alt=""><figcaption></figcaption></figure>
 
-可使用 [Keplr Browser Extension](../wallet/keplr/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 註冊 ISCN。
+以 [Keplr](../wallet/keplr/)、[Cosmostation](../wallet/cosmostation/)、[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker ID](../../user-guide/liker-land/download.md) 任何一種方式連結並登入網站。
 
-![](<../../.gitbook/assets/ISCN 1 Login 1.png>)
+<figure><img src="../../.gitbook/assets/NFT Portal 1.png" alt=""><figcaption><p>以 Keplr、Cosmostation、Cosmostation app 或 Liker ID 任何一種方式連結並登入 NFT Portal</p></figcaption></figure>
 
-**Keplr Browser Extension**：請於瀏覽器登入 Keplr。第一次使用 Keplr 錢包登入會要求簽署，請選「Approve」。
+### **登入方式 1：Keplr**
 
-![](<../../.gitbook/assets/ISCN 1 Login 2.png>)
+請於瀏覽器登入 [Keplr 瀏覽器擴充功能 ( Keplr Browser Extension )](../wallet/keplr/)，點「Keplr」後彈出視窗要求連結，點「Approve」。
 
-**Liker Land app**：點 Liker ID 後出現二維碼。
+<figure><img src="../../.gitbook/assets/NFT Portal 1a.png" alt=""><figcaption><p>在 Keplr 點「Approve」</p></figcaption></figure>
 
-![](<../../.gitbook/assets/ISCN 1 Login 3.png>)
+### **登入方式 2**：Cosmostation
 
-在 Liker Land 手機應用程式點二維碼圖示調用鏡頭，並掃瞄二維碼。
+請於瀏覽器登入 [Cosmotation 瀏覽器擴充功能 ( Cosmostation Browser Extension )](../wallet/cosmostation/)，點「Cosmostation」後彈出視窗要求連結，點「Confirm」。
 
-![](<../../.gitbook/assets/depub.SPACE wc 4.png>)
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmostation.png" alt=""><figcaption><p>在 Cosmostation 點「Confirm」</p></figcaption></figure>
 
-或於設定點「WalletConnect」再點「New connection」。並掃瞄二維碼。
+### **登入方式 3**：Cosmostation app
 
-![](<../../.gitbook/assets/depub.space wc 5.png>)
+點「Cosmostation app」後出現二維碼。
 
-彈出 ISCN App 視窗，點「允許」。
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 1.png" alt=""><figcaption><p>點 Cosmostation app 後出現二維碼</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ISCN 1 Login 4.png" alt=""><figcaption></figcaption></figure>
+在 [Cosmostation 手機錢包](../wallet/cosmostation-mobile/)點「Wallet Connect」調用鏡頭，並掃瞄二維碼。
 
-完成連結後右上角顯示你的錢包地址，點擊「Register」開始註冊。
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 2.png" alt=""><figcaption><p>打開 Cosmostation app 點 Wallet Connect 掃瞄二維碼</p></figcaption></figure>
+
+輸入 PIN 碼確認。
+
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 3.jpg" alt=""><figcaption><p>PIN 碼認證</p></figcaption></figure>
+
+點「OK」確認連結。
+
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 4.png" alt=""><figcaption><p>點「OK」確認連結</p></figcaption></figure>
+
+成功連結。
+
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 5.png" alt=""><figcaption><p>成功連結 NFT Portal</p></figcaption></figure>
+
+### 登入方式 4：Liker ID
+
+點「Liker ID」後出現二維碼。
+
+<figure><img src="../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>點 Liker ID 後出現二維碼</p></figcaption></figure>
+
+在 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
+
+<figure><img src="../../.gitbook/assets/NFT Portal 1c.png" alt=""><figcaption><p>在 Liker Land app 調用鏡頭，掃瞄二維碼</p></figcaption></figure>
+
+彈出 ISCN 視窗，點「允許」。
+
+<figure><img src="../../.gitbook/assets/NFT Portal 1d.png" alt=""><figcaption><p>彈出 ISCN 視窗，點「允許」</p></figcaption></figure>
+
+完成連結後右上角顯示你的錢包地址，點擊「Register ISCN」開始註冊。
 
 <figure><img src="../../.gitbook/assets/ISCN 2.png" alt=""><figcaption></figcaption></figure>
 
-### 步驟二：上載內容
+## 步驟二：上載內容
 
 點擊「Select a file」上傳檔案，例如相片或影片等，又或者直接把檔案拖拉到中間的位置。
 
-![](<../../.gitbook/assets/ISCN 3.png>)
+<figure><img src="../../.gitbook/assets/ISCN 3.png" alt=""><figcaption></figcaption></figure>
 
 上載完成後，可點擊「View File Info」查看檔案的屬性和狀態，例如相片的 EXIF 元資料包括拍照時的位置及相機配置等。
 
-![](<../../.gitbook/assets/ISCN 4.png>)
+<figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption></figcaption></figure>
 
 檢查完成後點擊「Start Register」。
 
-![](<../../.gitbook/assets/ISCN 5.png>)
+<figure><img src="../../.gitbook/assets/ISCN 5.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟三：填寫元資料
 
@@ -81,9 +107,9 @@ description: 第一個 ISCN 的概念示範應用
 * URL－該內容的網址
 * License－內容授權，不妨參考共享創意的授權條款
 
-![](<../../.gitbook/assets/ISCN 6.png>)
+<figure><img src="../../.gitbook/assets/ISCN 6.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/ISCN 7.png>)
+<figure><img src="../../.gitbook/assets/ISCN 7.png" alt=""><figcaption></figcaption></figure>
 
 雖然很多欄目也不是必填，但建議盡量填寫讓別人可容易發堀你的內容。系統會估算這次註冊所需的費用，點擊「Register」繼續。
 
