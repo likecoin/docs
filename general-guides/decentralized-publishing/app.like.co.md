@@ -16,13 +16,13 @@ description: 第一個 ISCN 的概念示範應用
 
 ## 步驟一：登入 app.like.co
 
-桌面電腦瀏覽器直接進入 [app.like.co](https://app.like.co/)點擊右上角「Connect Wallet」或直接點「Register ISCN」。
+桌面電腦瀏覽器直接進入 [app.like.co](https://app.like.co/) 點擊右上角「Connect Wallet」或直接點「Register ISCN」。
 
-<figure><img src="../../.gitbook/assets/ISCN 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 1.png" alt=""><figcaption><p>在 app.like.co 點擊右上角「Connect Wallet」或直接點「Register ISCN」</p></figcaption></figure>
 
 以 [Keplr](../wallet/keplr/)、[Cosmostation](../wallet/cosmostation/)、[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker ID](../../user-guide/liker-land/download.md) 任何一種方式連結並登入網站。
 
-<figure><img src="../../.gitbook/assets/NFT Portal 1.png" alt=""><figcaption><p>以 Keplr、Cosmostation、Cosmostation app 或 Liker ID 任何一種方式連結並登入 NFT Portal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal 1.png" alt=""><figcaption><p>以 Keplr、Cosmostation、Cosmostation app 或 Liker ID 任何一種方式連結並登入 app.like.co</p></figcaption></figure>
 
 ### **登入方式 1：Keplr**
 
@@ -56,7 +56,7 @@ description: 第一個 ISCN 的概念示範應用
 
 成功連結。
 
-<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 5.png" alt=""><figcaption><p>成功連結 NFT Portal</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 5.png" alt=""><figcaption><p>成功連結 app.like.co</p></figcaption></figure>
 
 ### 登入方式 4：Liker ID
 
@@ -74,21 +74,21 @@ description: 第一個 ISCN 的概念示範應用
 
 完成連結後右上角顯示你的錢包地址，點擊「Register ISCN」開始註冊。
 
-<figure><img src="../../.gitbook/assets/ISCN 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 2.png" alt=""><figcaption><p>成功連結 app.like.co 並顯示錢包地址</p></figcaption></figure>
 
 ## 步驟二：上載內容
 
 點擊「Select a file」上傳檔案，例如相片或影片等，又或者直接把檔案拖拉到中間的位置。
 
-<figure><img src="../../.gitbook/assets/ISCN 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 3.png" alt=""><figcaption><p>點擊「Select a file」上傳檔案</p></figcaption></figure>
 
-上載完成後，可點擊「View File Info」查看檔案的屬性和狀態，例如相片的 EXIF 元資料包括拍照時的位置及相機配置等。
+上載完成後，可點「View File Info」查看檔案的屬性和狀態，例如相片的 EXIF 元資料包括拍照時的位置及相機配置等。
 
-<figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p>點擊「View File Info」查看檔案的屬性和狀態</p></figcaption></figure>
 
-檢查完成後點擊「Start Register」。
+檢查完成後點「Start Register」。
 
-<figure><img src="../../.gitbook/assets/ISCN 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 5.png" alt=""><figcaption><p>點「Start Register」</p></figcaption></figure>
 
 ## 步驟三：填寫元資料
 
@@ -107,9 +107,9 @@ description: 第一個 ISCN 的概念示範應用
 * URL－該內容的網址
 * License－內容授權，不妨參考共享創意的授權條款
 
-<figure><img src="../../.gitbook/assets/ISCN 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 6.png" alt=""><figcaption><p>填寫元資料</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ISCN 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 7.png" alt=""><figcaption><p>填寫創作者資料</p></figcaption></figure>
 
 雖然很多欄目也不是必填，但建議盡量填寫讓別人可容易發堀你的內容。系統會估算這次註冊所需的費用，點擊「Register」繼續。
 
@@ -119,11 +119,11 @@ description: 第一個 ISCN 的概念示範應用
 
 Sign (1/2) Please sign to upload to Arweave
 
-<figure><img src="../../.gitbook/assets/ISCN 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 8.png" alt=""><figcaption><p>Sign (1/2) Please sign to upload to Arweave</p></figcaption></figure>
 
 Sign (2/2) Please sign to register ISCN record
 
-<figure><img src="../../.gitbook/assets/ISCN 9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 9.png" alt=""><figcaption><p>Sign (2/2) Please sign to register ISCN record</p></figcaption></figure>
 
 請依照不同的登入方式進行簽署：
 
@@ -131,39 +131,39 @@ Sign (2/2) Please sign to register ISCN record
 
 彈出 Keplr 視窗，點「Approve」。
 
-<figure><img src="../../.gitbook/assets/ISCN 10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 10.png" alt=""><figcaption><p>彈出 Keplr 視窗，點「Approve」</p></figcaption></figure>
 
 #### 使用 Cosmostation 登入 <a href="#preview-nft" id="preview-nft"></a>
 
 彈出 Cosmostation 視窗，點「Confirm」。
 
-<figure><img src="../../.gitbook/assets/ISCN 11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 11.png" alt=""><figcaption><p>彈出 Cosmostation 視窗，點「Confirm」</p></figcaption></figure>
 
 #### 使用 Cosmostation app 登入
 
 彈出 Request Transaction Sign 視窗，點「Confirm」。
 
-<figure><img src="../../.gitbook/assets/ISCN 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 12.png" alt=""><figcaption><p>Cosmostation app 彈出 Request Transaction Sign 視窗，點「Confirm」</p></figcaption></figure>
 
 #### 使用 Liker ID 登入
 
 彈出簽名請求視窗，點「允許」。
 
-<figure><img src="../../.gitbook/assets/ISCN 13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 13.png" alt=""><figcaption><p>Liker Land app 彈出簽名請求視窗，點「允許」</p></figcaption></figure>
 
 出版到區塊鏈過程只需數秒。
 
 獨有的作品指紋 ISCN 立即面世。
 
-<figure><img src="../../.gitbook/assets/ISCN 14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 14.png" alt=""><figcaption><p>成功註冊 ISCN</p></figcaption></figure>
 
 點擊「[My Publishing](https://app.like.co/works)」顯示所有你普經註冊 ISCN 的項目。
 
-<figure><img src="../../.gitbook/assets/ISCN 15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 15.png" alt=""><figcaption><p>點擊「My Publishing」查看所有 ISCN</p></figcaption></figure>
 
 點擊項目出現已註冊的元資料內容明細。
 
-<figure><img src="../../.gitbook/assets/ISCN 16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 16.png" alt=""><figcaption><p>ISCN 詳盡資料</p></figcaption></figure>
 
 ## 在 Matters 註冊 ISCN
 
@@ -171,7 +171,7 @@ Sign (2/2) Please sign to register ISCN record
 
 已註冊的 ISCN 可於「[My Publishing](https://app.like.co/works)」查看。
 
-<figure><img src="../../.gitbook/assets/Matters ISCN.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Matters ISCN.png" alt=""><figcaption><p>在 Matters 註冊 ISCN</p></figcaption></figure>
 
 ## 出版 Writing NFT
 
