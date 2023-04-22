@@ -90,7 +90,7 @@ description: 第一個 ISCN 的概念示範應用
 
 <figure><img src="../../.gitbook/assets/ISCN 5.png" alt=""><figcaption></figcaption></figure>
 
-### 步驟三：填寫元資料
+## 步驟三：填寫元資料
 
 填寫關於此項內容的元資料：
 
@@ -113,29 +113,57 @@ description: 第一個 ISCN 的概念示範應用
 
 雖然很多欄目也不是必填，但建議盡量填寫讓別人可容易發堀你的內容。系統會估算這次註冊所需的費用，點擊「Register」繼續。
 
-### 步驟四：獲取 ISCN
+## 步驟四：簽署並獲取 ISCN
 
-**Keplr**：此時將彈出 Keplr 視窗，選擇所需要完成註冊的速度（慢 Low、平均 Average、快 High）並點擊「Approve」。
+要成功註冊 ISCN 需簽署兩次，分別為：
 
-![](<../../.gitbook/assets/ISCN 8.png>)
+Sign (1/2) Please sign to upload to Arweave
 
-**Liker Land app**：在手機上出現簽名請求，點「允許」。
+<figure><img src="../../.gitbook/assets/ISCN 8.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/ISCN 8 wc.png>)
+Sign (2/2) Please sign to register ISCN record
+
+<figure><img src="../../.gitbook/assets/ISCN 9.png" alt=""><figcaption></figcaption></figure>
+
+請依照不同的登入方式進行簽署：
+
+#### 使用 Keplr 登入
+
+彈出 Keplr 視窗，點「Approve」。
+
+<figure><img src="../../.gitbook/assets/ISCN 10.png" alt=""><figcaption></figcaption></figure>
+
+#### 使用 Cosmostation 登入 <a href="#preview-nft" id="preview-nft"></a>
+
+彈出 Cosmostation 視窗，點「Confirm」。
+
+<figure><img src="../../.gitbook/assets/ISCN 11.png" alt=""><figcaption></figcaption></figure>
+
+#### 使用 Cosmostation app 登入
+
+彈出 Request Transaction Sign 視窗，點「Confirm」。
+
+<figure><img src="../../.gitbook/assets/ISCN 12.png" alt=""><figcaption></figcaption></figure>
+
+#### 使用 Liker ID 登入
+
+彈出簽名請求視窗，點「允許」。
+
+<figure><img src="../../.gitbook/assets/ISCN 13.png" alt=""><figcaption></figcaption></figure>
 
 出版到區塊鏈過程只需數秒。
 
 獨有的作品指紋 ISCN 立即面世。
 
-![](<../../.gitbook/assets/ISCN 9.png>)
+<figure><img src="../../.gitbook/assets/ISCN 14.png" alt=""><figcaption></figcaption></figure>
 
 點擊「[My Publishing](https://app.like.co/works)」顯示所有你普經註冊 ISCN 的項目。
 
-![](<../../.gitbook/assets/ISCN 10.png>)
+<figure><img src="../../.gitbook/assets/ISCN 15.png" alt=""><figcaption></figcaption></figure>
 
 點擊項目出現已註冊的元資料內容明細。
 
-![](<../../.gitbook/assets/ISCN 11.png>)
+<figure><img src="../../.gitbook/assets/ISCN 16.png" alt=""><figcaption></figcaption></figure>
 
 ## 在 Matters 註冊 ISCN
 
@@ -147,4 +175,4 @@ description: 第一個 ISCN 的概念示範應用
 
 ## 出版 Writing NFT
 
-註冊 ISCN 後，用戶可以把它[出版成 Writing NFT](../writing-nft/nft-portal.md#publish-writing-nft-with-iscn-id)。&#x20;
+註冊 ISCN 後，用戶可以把它[出版成 Writing NFT](app.like.co.md#chu-ban-writing-nft)。&#x20;
