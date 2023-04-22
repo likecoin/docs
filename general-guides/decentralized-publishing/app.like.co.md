@@ -14,57 +14,83 @@ Users can also check an ISCN record and it's details in [app.like.co](https://ap
 
 Users can use [app.like.co](https://app.like.co/) to try out and register his/her ISCN.
 
-## Register an ISCN
+## Step 1: Login app.like.co
 
-### Step 1: Login app.like.co
-
-Visit [**app.like.co**](https://app.like.co) with the browser and click **\[Connect Wallet]** on the top right corner to login by wallet.&#x20;
+Visit [**app.like.co**](https://app.like.co) with the browser and click "Connect Wallet" on the top right corner to login or click "Register ISCN"&#x20;
 
 <figure><img src="../../.gitbook/assets/ISCN 1.png" alt=""><figcaption></figcaption></figure>
 
-Please [register a Keplr wallet](../wallet/keplr/) before registering an ISCN or using [Liker Land app](../../user-guide/liker-land/download.md).
+Choose [Keplr](../wallet/keplr/), [Cosmostation](../wallet/cosmostation/), [Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker ID](../../user-guide/liker-land/download.md) to login and link to the website.
 
-![](<../../.gitbook/assets/ISCN 1 Login 1.png>)
+<figure><img src="../../.gitbook/assets/NFT Portal 1.png" alt=""><figcaption><p>Login and link to app.like.col with Keplr, Cosmostation, Cosmostation app or Liker ID</p></figcaption></figure>
 
-**Keplr Browser Extension**: Please log in to Keplr in your browser. On the first time you log in app.like.co, you will be asked to "Approve" on Keplr.
+### Login method 1: Keplr
 
-![](<../../.gitbook/assets/ISCN 1 Login 2.png>)
+Please log into [Keplr Browser Extension](../wallet/keplr/) in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
 
-**Liker Land app**: A QRCode will appear after clicking "Liker ID".
+<figure><img src="../../.gitbook/assets/Buy NFT 05.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
 
-![](<../../.gitbook/assets/ISCN 1 Login 3.png>)
+### Login method 2: Cosmostation
 
-On the Liker Land app, click the QRCode icon to bring up the camera, and scan the QRCode.
+Please log into [Cosmostation Browser Extension](../wallet/cosmostation/) in your browser. After clicking "Cosmostation", a window will pop up requesting connection, click "Confirm".
 
-![](<../../.gitbook/assets/depub.SPACE 4-en.png>)
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmostation.png" alt=""><figcaption><p>Click "Confirm" at Cosmostation</p></figcaption></figure>
 
-Or click "WalletConnect" on settings, then click "New connection" and and scan the QRCode.
+### Login method 3: Cosmostation app
 
-![](<../../.gitbook/assets/depub.space wc 5-en.png>)
+A QR Code will appear after clicking "Cosmostation app".
 
-The ISCN App window will pop-up, click "Approve".
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 1.png" alt=""><figcaption><p>After clicking the Cosmostation app, a QR code appears</p></figcaption></figure>
 
-![](<../../.gitbook/assets/ISCN 1 Login 4-en.png>)
+On the[ Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md), click the QR Code icon to bring up the camera, and scan the QR Code.
 
-After that your wallet address will be displayed on the top right hand corner, click **\[Register]** to publish your work.
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 2.png" alt=""><figcaption><p>Open the Cosmostation app, tap Wallet Connect to scan the QR code</p></figcaption></figure>
+
+Enter the PIN code to confirm.
+
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 3.jpg" alt=""><figcaption><p>PIN Code Authentication</p></figcaption></figure>
+
+Click "OK" to confirm.
+
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 4.png" alt=""><figcaption><p>Click "OK" to confirm</p></figcaption></figure>
+
+Connected successfully.
+
+<figure><img src="../../.gitbook/assets/NFT Portal Cosmotation app 5.png" alt=""><figcaption><p>Successfully connected to app.like.co</p></figcaption></figure>
+
+### Login method 4: Login with Liker Land app
+
+A QR Code will appear after clicking "Liker ID".
+
+<figure><img src="../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>After clicking Liker ID, a QR code appears</p></figcaption></figure>
+
+On the [Liker Land app](../../user-guide/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
+
+<figure><img src="../../.gitbook/assets/NFT Portal 1c-en.png" alt=""><figcaption><p>Open the Liker Land app, click and scan the QR Code</p></figcaption></figure>
+
+An ISCN window will pop-up, click "Approve".
+
+<figure><img src="../../.gitbook/assets/NFT Portal 1d-en.png" alt=""><figcaption><p>An ISCN window pops up, click "Approve"</p></figcaption></figure>
+
+After successful login, your wallet address will be displayed in the top right corner. Click "Register ISCN" to start ISCN registration.
 
 <figure><img src="../../.gitbook/assets/ISCN 2.png" alt=""><figcaption></figcaption></figure>
 
-### Step 2: Upload Content <a href="#bu-zhou-er-shang-zai-nei-rong" id="bu-zhou-er-shang-zai-nei-rong"></a>
+## Step 2: Upload Content <a href="#bu-zhou-er-shang-zai-nei-rong" id="bu-zhou-er-shang-zai-nei-rong"></a>
 
-Click **\[Select a file]** to select a photo or upload the photo by drag-and-drop.
+Click "Select a file" to select a photo or video, or upload it directly by drag-and-drop.
 
-![](<../../.gitbook/assets/ISCN 3.png>)
+<figure><img src="../../.gitbook/assets/ISCN 3.png" alt=""><figcaption></figcaption></figure>
 
 After the upload is completed, click "View File Info" to check the metadata of your file, for example EXIF data including location and camera settings.
 
-![](<../../.gitbook/assets/ISCN 4.png>)
+<figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption></figcaption></figure>
 
-Click **\[Start Register]** to proceed.
+Click "Start Register" to proceed.
 
-![](<../../.gitbook/assets/ISCN 5.png>)
+<figure><img src="../../.gitbook/assets/ISCN 5.png" alt=""><figcaption></figcaption></figure>
 
-### Step 3: Fill in the metadata <a href="#bu-zhou-san-tian-xie-yuan-zi-liao" id="bu-zhou-san-tian-xie-yuan-zi-liao"></a>
+## Step 3: Fill in the metadata <a href="#bu-zhou-san-tian-xie-yuan-zi-liao" id="bu-zhou-san-tian-xie-yuan-zi-liao"></a>
 
 Fill in the information about this content. &#x20;
 
@@ -81,35 +107,63 @@ Fill in the information about this content. &#x20;
 * URL - of the content
 * License - may refer to Creative Commons for reference
 
-![](<../../.gitbook/assets/ISCN 6.png>)
+<figure><img src="../../.gitbook/assets/ISCN 6.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/ISCN 7.png>)
+<figure><img src="../../.gitbook/assets/ISCN 7.png" alt=""><figcaption></figcaption></figure>
 
-Although most of the fields are optional, it is recommended to be as detailed as possible for content discovery and authenticity later. The system will estimate the cost of this registration. After filling all the information, click **\[Register]**.
+Although most of the fields are optional, it is recommended to be as detailed as possible for content discovery and authenticity later. The system will estimate the cost of this registration. After filling all the information, click "Register".
 
-### Step 4:  Getting the ISCN <a href="#bu-zhou-si-huo-qu-iscn" id="bu-zhou-si-huo-qu-iscn"></a>
+## Step 4:  Sign and getting the ISCN <a href="#bu-zhou-si-huo-qu-iscn" id="bu-zhou-si-huo-qu-iscn"></a>
 
-**Keplr**: A Keplr windows will pop up for payment confirmation, choose the transaction speed you need: Low, Average or High, then click "Approve".
+To successfully register an ISCN, two signatures are required:
 
-![](<../../.gitbook/assets/ISCN 8.png>)
+Sign (1/2) Please sign to upload to Arweave
 
-**Liker Land app**: A signature request shows up on your phone, click "Approve"
+<figure><img src="../../.gitbook/assets/ISCN 8.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/ISCN 8 wc-en.png>)
+Sign (2/2) Please sign to register ISCN record
+
+<figure><img src="../../.gitbook/assets/ISCN 9.png" alt=""><figcaption></figcaption></figure>
+
+Please follow the different login methods to sign:
+
+**Login with Keplr**
+
+A Keplr windows will pop up for confirmation, click "Approve".
+
+<figure><img src="../../.gitbook/assets/ISCN 10 (1).png" alt=""><figcaption></figcaption></figure>
+
+**Login with Cosmostation**
+
+A Cosmostation windows will pop up for confirmation, click "Confirm".
+
+<figure><img src="../../.gitbook/assets/ISCN 10.png" alt=""><figcaption></figcaption></figure>
+
+**Login with Cosmostation app**
+
+The Request Transaction Sign window will pop up, click "Confirm".
+
+<figure><img src="../../.gitbook/assets/ISCN 12.png" alt=""><figcaption></figcaption></figure>
+
+**Login with Liker Land app**
+
+A signature request window will pop up on your phone, click "Approve"
+
+<figure><img src="../../.gitbook/assets/ISCN 13-en.png" alt=""><figcaption></figcaption></figure>
 
 Publishing to blockchain normally takes a few seconds only.
 
 ISCN with a unique content fingerprint is ready.
 
-![](<../../.gitbook/assets/ISCN 9.png>)
+<figure><img src="../../.gitbook/assets/ISCN 14.png" alt=""><figcaption></figcaption></figure>
 
-Back to app.like.co homepage, click **\[**[**My Publishing**](https://app.like.co/works)**]** to list all your publications.
+Back to app.like.co homepage, click "[My Publishing](https://app.like.co/works)" to list all your publications.
 
-![](<../../.gitbook/assets/ISCN 10.png>)
+<figure><img src="../../.gitbook/assets/ISCN 15.png" alt=""><figcaption></figcaption></figure>
 
 Click on a particular piece to check out the metadata and the original file.
 
-![](<../../.gitbook/assets/ISCN 11.png>)
+<figure><img src="../../.gitbook/assets/ISCN 16.png" alt=""><figcaption></figcaption></figure>
 
 ## Register an ISCN on Matters
 
@@ -121,4 +175,4 @@ Registered ISCN can be viewed in "[My Publishing](https://app.like.co/works)".
 
 ## Publish Writing NFT
 
-After registering an ISCN, users can [publish it as Writing NFT](../writing-nft/nft-portal.md#publish-writing-nft-with-iscn-id).
+After registering an ISCN, users can [publish it as Writing NFT](app.like.co.md#publish-writing-nft).
