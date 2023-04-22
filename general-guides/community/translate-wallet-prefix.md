@@ -10,4 +10,4 @@ LikeCoin chain 經已於 2022 年 5 月 4 日成功升級為 LaiChiKok 版本。
 
 2\. 輸入 /translate cosmos1xxxxxx，系統會返回對應的 like1xxxxxxx 新地址；相反若輸入 /translate like1xxxxxx，系統則會返回 cosmos1xxxxxx 格式的舊地址。
 
-![](../../.gitbook/assets/translate-wallet-prefix.png)
+![輸入 /translate](../../.gitbook/assets/translate-wallet-prefix.png)

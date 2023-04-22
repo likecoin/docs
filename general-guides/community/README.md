@@ -12,19 +12,19 @@ description: 想與更多用戶聯繫分享經驗，有渠道嗎？
 
 新用戶請先到 #verify 頻道按 ✅ 進行認證。
 
-<figure><img src="../../.gitbook/assets/discord 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/discord 1.png" alt=""><figcaption><p>到 #verify 頻道按 ✅ 進行認證</p></figcaption></figure>
 
 ## 步驟 2
 
 到 #select-roles 頻道點擊 emoji 選擇關注的議題。
 
-<figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption><p>點擊 emoji 選擇關注的議題</p></figcaption></figure>
 
 ## 步驟 3
 
-按「中」 emoji 以獲取華語身分查看中文頻道。
+點「中」 emoji 以獲取華語身分查看中文頻道。
 
-<figure><img src="../../.gitbook/assets/discord 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/discord 3.png" alt=""><figcaption><p>點「中」 emoji 查看中文頻道</p></figcaption></figure>
 
 此外亦可在 LikeCoin Discord 使用以下功能：
 

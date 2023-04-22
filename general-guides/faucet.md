@@ -14,19 +14,19 @@ description: LikeCoin 水龍頭
 
 在頻道輸入 /faucet 並選擇 Receive 2.5 LIKE on likecoin-mainnet-2
 
-<figure><img src="../.gitbook/assets/faucet-mainnet 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/faucet-mainnet 1.png" alt=""><figcaption><p>輸入 /faucet 並選擇 Receive 2.5 LIKE on likecoin-mainnet-2</p></figcaption></figure>
 
 ## 步驟三
 
 在 /faucet 的 address 後面輸入需要獲取 LikeCoin 的錢包地址。
 
-<figure><img src="../.gitbook/assets/faucet-mainnet 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/faucet-mainnet 2.png" alt=""><figcaption><p>在 /faucet 後面輸入錢包地址</p></figcaption></figure>
 
 ## 步驟四
 
 收到回覆通知 LikeCoin 傳送已完成並提供 txhash 以供查閱。
 
-<figure><img src="../.gitbook/assets/faucet-mainnet 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/faucet-mainnet 3.png" alt=""><figcaption><p>收到回覆通知 LikeCoin 傳送已完成</p></figcaption></figure>
 
 ## 測試網水龍頭
 
