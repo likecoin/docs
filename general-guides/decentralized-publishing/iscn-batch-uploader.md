@@ -17,7 +17,7 @@ description: 如何一次過為大量資料註冊 ISCN，含少量技術程序
 
 以註冊《唐詩三百首》為例。按 ISCN 格式要求，上傳的資料欄位應盡量按 schema.org 中的 [CreativeWork](https://schema.org/CreativeWork) 類別定義，所以第一步先要把 [CSV 檔](https://github.com/edmondyu/TangPoems300/blob/main/TangPoems300.csv)的欄位名稱定好。
 
-![](<../../.gitbook/assets/iscn-batch-uploader 01.png>)
+![《唐詩三百首》csv](<../../.gitbook/assets/iscn-batch-uploader 01.png>)
 
 轉換後的定義為 （原欄名 > CreativeWork 欄名）：
 
@@ -50,7 +50,7 @@ git clone https://github.com/likecoin/iscn-batch-uploader.git
 
 電腦已安裝 git，只需建個文件夾再輸入上面那個指令，便能把 iscn-batch-uploader 文件夾下載了。沒有安裝 git 的話可以[直接從 GitHub 下載 zip 檔](https://github.com/likecoin/iscn-batch-uploader)。（點右上 "Code" 綠色按鍵），解壓獲得 iscn-batch-uploader 文件夾。
 
-![](<../../.gitbook/assets/iscn-batch-uploader 02.png>)
+![下載 iscn-batch-uploader](<../../.gitbook/assets/iscn-batch-uploader 02.png>)
 
 打開 terminal 終端，cd 到 iscn-batch-uploader 文件夾，然後輸入以下指令：
 
@@ -70,7 +70,7 @@ config.COSMOS\_MNEMONIC = 'paint man cloud google winnie pool think hell imposit
 
 把《唐詩三百首》的 CSV 檔，或任何你想註冊 ISCN 的 CSV 資料檔 copy 到 iscn-batch-uploader 文件夾中去。
 
-![](<../../.gitbook/assets/iscn-batch-uploader 03.png>)
+![TangPoem300.csv](<../../.gitbook/assets/iscn-batch-uploader 03.png>)
 
 ### 步驟五：執行程式
 
@@ -86,7 +86,7 @@ node index.js [your csv filename]
 node index.js TangPoems300.csv
 ```
 
-![](<../../.gitbook/assets/iscn-batch-uploader 04.gif>)
+![執行程式](<../../.gitbook/assets/iscn-batch-uploader 04.gif>)
 
 你沒有看錯，註冊三百多筆 ISCN，也不用花 1 LIKE！趁還沒加價快試試看吧。
 
@@ -98,13 +98,13 @@ txHash 是 LikeCoin chain 上的交易記錄編號，你可在 Big Dipper 或 st
 
 打開 "Raw" 選項，可看到詳細的 ISCN 註冊資料記錄。
 
-另外，iscnId 則是這筆內容的 ISCN 編號，你可在 app.like.co 查詢這編號，例如輸入 iscn://likecoin-chain/9MewrmZqHT55nJLtW7EGqo8szOwKtp42AmhKyhWrImw/1 能查到李白的《將進酒》：
+另外，iscnId 則是這筆內容的 ISCN 編號，你可在 [app.like.co](https://app.like.co/) 查詢這編號，例如輸入 iscn://likecoin-chain/9MewrmZqHT55nJLtW7EGqo8szOwKtp42AmhKyhWrImw/1 能查到李白的《將進酒》：
 
 ![李白《將進酒》 ISCN ID iscn://likecoin-chain/9MewrmZqHT55nJLtW7EGqo8szOwKtp42AmhKyhWrImw](<../../.gitbook/assets/iscn-batch-uploader 05.png>)
 
 你也可以剛才用作批量註冊的那 LikeCoin 錢包登入 app.like.co，點 "Your Publishing" 能查到經 iscn-batch-uploader 註冊的內容，可是目前只能查到首 100 筆記錄。
 
-![](<../../.gitbook/assets/iscn-batch-uploader 06.png>)
+![app.like.co Your Publishing](<../../.gitbook/assets/iscn-batch-uploader 06.png>)
 
 ## 進階用法：內容版本更新
 

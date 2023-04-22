@@ -35,7 +35,6 @@
   * [如何註冊 ISCN](general-guides/decentralized-publishing/app.like.co.md)
   * [如何大量註冊 ISCN](general-guides/decentralized-publishing/iscn-batch-uploader.md)
   * [ISCN Browser](general-guides/decentralized-publishing/iscn-browser.md)
-  * [ISCN Wallet](general-guides/decentralized-publishing/iscn-wallet.md)
 * [水龍頭](general-guides/faucet.md)
 * [錢包](general-guides/wallet/README.md)
   * [Keplr 瀏覽器擴充功能](general-guides/wallet/keplr/README.md)
@@ -196,3 +195,4 @@
   * [LikeCoin Grants 計畫](archive/archive/likecoin-grants.md)
   * [FoTan 升級常見問題](archive/archive/fotan.md)
   * [進度更新](archive/archive/updates.md)
+  * [ISCN Wallet](archive/archive/iscn-wallet.md)
