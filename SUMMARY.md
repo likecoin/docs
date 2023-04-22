@@ -195,4 +195,4 @@
   * [LikeCoin Grants 計畫](archive/archive/likecoin-grants.md)
   * [FoTan 升級常見問題](archive/archive/fotan.md)
   * [進度更新](archive/archive/updates.md)
-  * [ISCN Wallet](archive/archive/iscn-wallet.md)
+  * [ISCN Wallet](general-guides/decentralized-publishing/iscn-wallet.md)
