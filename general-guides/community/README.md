@@ -1,30 +1,30 @@
 ---
-description: Share and mingle with other LikeCoin users in the community
+description: Share and connect with other LikeCoin users in the community
 ---
 
 # Community
 
-As Liker Land grows, the community is vivid and alive too.
+As Liker Land grows, the community becomes more vibrant and lively.
 
-[LikeCoin Discord](http://discord.gg/likecoin) is for everyone, there are channels for development, governance, product discussion, etc. Validators and stakeholders exchange ideas and make Liker Land a better place together.
+[LikeCoin Discord](http://discord.gg/likecoin) is for everyone. There are channels including development, governance, product discussion, and more. Validators and stakeholders exchange ideas and work together to make Liker Land a better place.
 
 ## Step 1
 
-New users can go to #verify channel and press ✅ to join the server.
+New users can go to the #verify channel and click on the ✅ reaction to join the server.
 
-<figure><img src="../../.gitbook/assets/discord 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/discord 1.png" alt=""><figcaption><p>Click on the ✅ reaction to join the server</p></figcaption></figure>
 
 ## Step 2
 
-Go to #select-roles channel to select the topic of interest by clicking the emoji.
+Next, go to the #select-roles channel to choose the topic of interest by clicking on the corresponding emoji.
 
-<figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption><p>Click emoji to select roles</p></figcaption></figure>
 
 ## Step 3
 
-Cick the "中" emoji to view the Chinese channel.
+Click on the "中" emoji to view the Chinese channels.
 
-<figure><img src="../../.gitbook/assets/discord 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/discord 3.png" alt=""><figcaption><p>Click on the "中" emoji to view the Chinese channels</p></figcaption></figure>
 
 Moreover users can utilize the following functions on LikeCoin Discord:
 
