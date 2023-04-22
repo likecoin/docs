@@ -14,7 +14,7 @@ Go to [LikeCoin Discord](https://discord.gg/likecoin) #faucet-mainnet channel. I
 
 Type /faucet and choose "Receive 2.5 LIKE on likecoin-mainnet-2".
 
-<figure><img src="../.gitbook/assets/faucet-mainnet 1.png" alt=""><figcaption><p>Type /faucet</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/faucet-mainnet 1.png" alt=""><figcaption><p>Type /faucet and choose "Receive 2.5 LIKE on likecoin-mainnet-2"</p></figcaption></figure>
 
 ## Step 3
 

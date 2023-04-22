@@ -22,7 +22,7 @@ In the LikeCoin Discord, users can send and receive LikeCoin easily. The setup i
 
 4\. You will be directed to the registration page. Click "Connect."
 
-<figure><img src="../../.gitbook/assets/discord set wallet 4.png" alt=""><figcaption><p>Click "Connect." to register receiving address</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/discord set wallet 4.png" alt=""><figcaption><p>Click "Connect" to register receiving address</p></figcaption></figure>
 
 5\. Log in to your [Keplr](../wallet/keplr/), [Liker Land app](../../user-guide/liker-land/download.md) or [Cosmostation](../wallet/cosmostation/) wallet and connect.
 
