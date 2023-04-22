@@ -16,9 +16,9 @@ Users can use [app.like.co](https://app.like.co/) to try out and register his/he
 
 ## Step 1: Login app.like.co
 
-Visit [**app.like.co**](https://app.like.co) with the browser and click "Connect Wallet" on the top right corner to login or click "Register ISCN"&#x20;
+Visit [app.like.co](https://app.like.co) with the browser and click "Connect Wallet" in the top right corner or click "Register ISCN"&#x20;
 
-<figure><img src="../../.gitbook/assets/ISCN 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 1.png" alt=""><figcaption><p>On app.like.co, click "Connect Wallet" in the upper right corner or directly click "Register ISCN"</p></figcaption></figure>
 
 Choose [Keplr](../wallet/keplr/), [Cosmostation](../wallet/cosmostation/), [Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker ID](../../user-guide/liker-land/download.md) to login and link to the website.
 
@@ -74,21 +74,21 @@ An ISCN window will pop-up, click "Approve".
 
 After successful login, your wallet address will be displayed in the top right corner. Click "Register ISCN" to start ISCN registration.
 
-<figure><img src="../../.gitbook/assets/ISCN 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 2.png" alt=""><figcaption><p>Successfully link app.like.co and display the wallet address</p></figcaption></figure>
 
 ## Step 2: Upload Content <a href="#bu-zhou-er-shang-zai-nei-rong" id="bu-zhou-er-shang-zai-nei-rong"></a>
 
 Click "Select a file" to select a photo or video, or upload it directly by drag-and-drop.
 
-<figure><img src="../../.gitbook/assets/ISCN 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 3.png" alt=""><figcaption><p>lick "Select a file" to upload a file</p></figcaption></figure>
 
 After the upload is completed, click "View File Info" to check the metadata of your file, for example EXIF data including location and camera settings.
 
-<figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p> Click "View File Info" to check the metadata of your file</p></figcaption></figure>
 
 Click "Start Register" to proceed.
 
-<figure><img src="../../.gitbook/assets/ISCN 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 5.png" alt=""><figcaption><p>Click "Start Register"</p></figcaption></figure>
 
 ## Step 3: Fill in the metadata <a href="#bu-zhou-san-tian-xie-yuan-zi-liao" id="bu-zhou-san-tian-xie-yuan-zi-liao"></a>
 
@@ -107,9 +107,9 @@ Fill in the information about this content. &#x20;
 * URL - of the content
 * License - may refer to Creative Commons for reference
 
-<figure><img src="../../.gitbook/assets/ISCN 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 6.png" alt=""><figcaption><p>Fill in the metadata</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ISCN 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 7.png" alt=""><figcaption><p>Fill in creator information</p></figcaption></figure>
 
 Although most of the fields are optional, it is recommended to be as detailed as possible for content discovery and authenticity later. The system will estimate the cost of this registration. After filling all the information, click "Register".
 
@@ -119,11 +119,11 @@ To successfully register an ISCN, two signatures are required:
 
 Sign (1/2) Please sign to upload to Arweave
 
-<figure><img src="../../.gitbook/assets/ISCN 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 8.png" alt=""><figcaption><p>Sign (1/2) Please sign to upload to Arweave</p></figcaption></figure>
 
 Sign (2/2) Please sign to register ISCN record
 
-<figure><img src="../../.gitbook/assets/ISCN 9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 9.png" alt=""><figcaption><p>Sign (2/2) Please sign to register ISCN record</p></figcaption></figure>
 
 Please follow the different login methods to sign:
 
@@ -131,39 +131,39 @@ Please follow the different login methods to sign:
 
 A Keplr windows will pop up for confirmation, click "Approve".
 
-<figure><img src="../../.gitbook/assets/ISCN 10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 10 (1).png" alt=""><figcaption><p>When the Keplr window pops up, click "Approve"</p></figcaption></figure>
 
 **Login with Cosmostation**
 
 A Cosmostation windows will pop up for confirmation, click "Confirm".
 
-<figure><img src="../../.gitbook/assets/ISCN 10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 10.png" alt=""><figcaption><p>When the Cosmostation window pops up, click "Confirm"</p></figcaption></figure>
 
 **Login with Cosmostation app**
 
 The Request Transaction Sign window will pop up, click "Confirm".
 
-<figure><img src="../../.gitbook/assets/ISCN 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 12.png" alt=""><figcaption><p>When Cosmostation app pops up the Request Transaction Sign window, click "Confirm"</p></figcaption></figure>
 
 **Login with Liker Land app**
 
 A signature request window will pop up on your phone, click "Approve"
 
-<figure><img src="../../.gitbook/assets/ISCN 13-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 13-en.png" alt=""><figcaption><p>When Liker Land app pops up a signature request window, click "Approve"</p></figcaption></figure>
 
 Publishing to blockchain normally takes a few seconds only.
 
 ISCN with a unique content fingerprint is ready.
 
-<figure><img src="../../.gitbook/assets/ISCN 14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 14.png" alt=""><figcaption><p>Successfully registered ISCN</p></figcaption></figure>
 
 Back to app.like.co homepage, click "[My Publishing](https://app.like.co/works)" to list all your publications.
 
-<figure><img src="../../.gitbook/assets/ISCN 15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 15.png" alt=""><figcaption><p>Click "My Publishing" to view all ISCNs</p></figcaption></figure>
 
 Click on a particular piece to check out the metadata and the original file.
 
-<figure><img src="../../.gitbook/assets/ISCN 16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 16.png" alt=""><figcaption><p>ISCN Details</p></figcaption></figure>
 
 ## Register an ISCN on Matters
 
@@ -171,7 +171,7 @@ When writing an article on [Matters](https://matters.news/), select "Register IS
 
 Registered ISCN can be viewed in "[My Publishing](https://app.like.co/works)".
 
-<figure><img src="../../.gitbook/assets/Matters ISCN-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Matters ISCN-en.png" alt=""><figcaption><p>Register ISCN on Matters</p></figcaption></figure>
 
 ## Publish Writing NFT
 
