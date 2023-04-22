@@ -28,7 +28,7 @@ Click "Connect" in the upper left corner to connect your wallet, you can choose 
 
 <figure><img src="../../.gitbook/assets/Wancat ISCN Wallet 05.png" alt=""><figcaption></figcaption></figure>
 
-After connecting the wallet, click the wallet address in the upper left corner to view all ISCN records of this wallet (note that it is only applicable to the like1 wallet address for the time being).
+After connecting the wallet, click the wallet address in the upper left corner to view all ISCN records associated with this wallet. Note that this feature is currently only applicable to the like1 wallet address.
 
 <figure><img src="../../.gitbook/assets/Wancat ISCN Wallet 06.png" alt=""><figcaption></figcaption></figure>
 

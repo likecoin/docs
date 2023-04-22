@@ -111,7 +111,6 @@
   * [How to register an ISCN?](general-guides/decentralized-publishing/app.like.co.md)
   * [Register ISCN in batch](general-guides/decentralized-publishing/iscn-batch-uploader.md)
   * [ISCN Browser](general-guides/decentralized-publishing/iscn-browser.md)
-  * [ISCN Wallet](general-guides/decentralized-publishing/iscn-wallet.md)
 * [Faucet](general-guides/faucet.md)
 * [Wallet](general-guides/wallet/README.md)
   * [Keplr Browser Extension Wallet](general-guides/wallet/keplr/README.md)
@@ -293,3 +292,4 @@
     * [2020.04.27](archive/archive/updates/2020.04.27.md)
     * [2020.04.20](archive/archive/updates/20200420.md)
     * [2020.04.13](archive/archive/updates/20200413.md)
+  * [ISCN Wallet](archive/archive/iscn-wallet.md)

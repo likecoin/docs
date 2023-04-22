@@ -8,7 +8,7 @@ Users can go to [app.like.co](https://app.like.co/) and register an ISCN for the
 
 Registering ISCN to the LikeCoin chain will also upload the content to [IPFS](https://ipfs.io/) and [Arweave](https://www.arweave.org/) and/or [Numbers Protocol](https://www.numbersprotocol.io/). Users only have to pay a small amount of LikeCoin for registering and hosting.
 
-Users can also check an ISCN record and it's details in [app.like.co](https://app.like.co/).
+Users can also check an ISCN record and its details in [app.like.co](https://app.like.co/).
 
 ![](../../.gitbook/assets/app.like.co.png)
 
@@ -16,7 +16,7 @@ Users can use [app.like.co](https://app.like.co/) to try out and register his/he
 
 ## Step 1: Login app.like.co
 
-Visit [app.like.co](https://app.like.co) with the browser and click "Connect Wallet" in the top right corner or click "Register ISCN"&#x20;
+Visit [app.like.co](https://app.like.co) in your browser and click "Connect Wallet" in the top right corner or click "Register ISCN"&#x20;
 
 <figure><img src="../../.gitbook/assets/ISCN 1.png" alt=""><figcaption><p>On app.like.co, click "Connect Wallet" in the upper right corner or directly click "Register ISCN"</p></figcaption></figure>
 
@@ -78,11 +78,11 @@ After successful login, your wallet address will be displayed in the top right c
 
 ## Step 2: Upload Content <a href="#bu-zhou-er-shang-zai-nei-rong" id="bu-zhou-er-shang-zai-nei-rong"></a>
 
-Click "Select a file" to select a photo or video, or upload it directly by drag-and-drop.
+Click "Select a file" to choose a photo or video, or upload it directly by dragging and dropping.
 
 <figure><img src="../../.gitbook/assets/ISCN 3.png" alt=""><figcaption><p>lick "Select a file" to upload a file</p></figcaption></figure>
 
-After the upload is completed, click "View File Info" to check the metadata of your file, for example EXIF data including location and camera settings.
+After the upload is complete, click "View File Info" to check the metadata of your file, including EXIF data such as location and camera settings.
 
 <figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p> Click "View File Info" to check the metadata of your file</p></figcaption></figure>
 
@@ -92,26 +92,26 @@ Click "Start Register" to proceed.
 
 ## Step 3: Fill in the metadata <a href="#bu-zhou-san-tian-xie-yuan-zi-liao" id="bu-zhou-san-tian-xie-yuan-zi-liao"></a>
 
-Fill in the information about this content. &#x20;
+Fill in the information about this content, including:
 
 * Register your asset in Numbers Protocol - Click on it and the work will be registered with Numbers Protocol too
 * ISCN Title
 * Description
-* Author - Click to fill into more details. You may fill in more than one author as the work may be co-created.
+* Author - Click to fill into more details. You may include more than one author if the work is co-created.
   * Name
   * Liker ID
   * Description
   * URL
   * Wallet Address
-* Tags - help others to find your content
-* URL - of the content
-* License - may refer to Creative Commons for reference
+* Tags - Help others to find your content
+* URL - Link to the content
+* License - You may refer to Creative Commons for reference.
 
 <figure><img src="../../.gitbook/assets/ISCN 6.png" alt=""><figcaption><p>Fill in the metadata</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ISCN 7.png" alt=""><figcaption><p>Fill in creator information</p></figcaption></figure>
 
-Although most of the fields are optional, it is recommended to be as detailed as possible for content discovery and authenticity later. The system will estimate the cost of this registration. After filling all the information, click "Register".
+Although most of the fields are optional, it is recommended to be as detailed as possible for content discovery and authenticity. The system will estimate the cost of this registration. After filling in all the information, click "Register".
 
 ## Step 4:  Sign and getting the ISCN <a href="#bu-zhou-si-huo-qu-iscn" id="bu-zhou-si-huo-qu-iscn"></a>
 
