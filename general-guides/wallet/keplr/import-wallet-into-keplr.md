@@ -10,6 +10,8 @@ description: 導入助記詞並建立錢包
 
 [安裝 Keplr 瀏覽器擴充功能](how-to-install-keplr-extension.md)後直接選「Import Existing Account」。
 
+<figure><img src="../../../.gitbook/assets/Keplr Seed Words 07.png" alt=""><figcaption><p>選擇「Import existing account」</p></figcaption></figure>
+
 或打開 Keplr，點擊右上角人形圖案。
 
 <figure><img src="../../../.gitbook/assets/Keplr Seed Words 01.png" alt=""><figcaption><p>點擊右上角人形圖案</p></figcaption></figure>
@@ -18,11 +20,11 @@ description: 導入助記詞並建立錢包
 
 ![點「Add Account」](<../../../.gitbook/assets/Keplr Seed Words 02.png>)
 
-## 步驟二：導入現有帳號
-
 選擇「Import existing account」。
 
 ![選擇「Import existing account」](<../../../.gitbook/assets/Keplr Seed Words 03.png>)
+
+## 步驟二：導入現有帳號
 
 在 Input your seed 頁面輸入你的錢包助記詞，Account name 輸入你為這個帳戶取的名字，再點「Next」。
 
