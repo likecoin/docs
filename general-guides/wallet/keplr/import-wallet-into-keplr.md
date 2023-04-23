@@ -10,6 +10,8 @@ To import your wallet into Keplr, follow these steps:
 
 Select "Import existing account" directly after [installing the Keplr Browser Extension](how-to-install-keplr-extension.md).
 
+<figure><img src="../../../.gitbook/assets/Keplr Seed Words 07.png" alt=""><figcaption><p>Select "Import existing account"</p></figcaption></figure>
+
 Or, click the figure in the upper right corner of the Keplr wallet.
 
 <figure><img src="../../../.gitbook/assets/Keplr Seed Words 01.png" alt=""><figcaption><p>Click the figure in the upper right corner</p></figcaption></figure>
@@ -18,11 +20,11 @@ On the Select Account page, click "Add Account".
 
 ![Click "Add Account"](<../../../.gitbook/assets/Keplr Seed Words 02.png>)
 
-## Step 2: Import your account
-
 Select "Import existing account".
 
 ![Select "Import existing account"](<../../../.gitbook/assets/Keplr Seed Words 03.png>)
+
+## Step 2: Import your account
 
 Enter your wallet seed words or mnemonic seed on the Input your seed page. Enter the name of this account on the Account name. Click "Next".
 
