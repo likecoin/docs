@@ -12,25 +12,25 @@ description: dao.like.co 管理 LikeCoin 必備
 
 到 [dao.like.co](https://dao.like.co/) 網站，點擊「Cosmostation Browser Extension」。
 
-![](<../../../.gitbook/assets/Comostation dao.like.co 1.png>)
+![到 dao.like.co 網站，點「Cosmostation Browser Extension」](<../../../.gitbook/assets/Comostation dao.like.co 1.png>)
 
 ### 步驟二
 
 點擊「Confirm」。
 
-<figure><img src="../../../.gitbook/assets/Comostation dao.like.co 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Comostation dao.like.co 2.png" alt=""><figcaption><p>在 Cosmostation 點「Confirm」</p></figcaption></figure>
 
 ### 步驟三
 
 你會看到你的 LikeCoin 餘額。
 
-![](<../../../.gitbook/assets/Comostation dao.like.co 4.png>)
+![在 dao.like.co 出現 LikeCoin 餘額](<../../../.gitbook/assets/Comostation dao.like.co 4.png>)
 
 ## 使用 dao.like.co 存入 LikeCoin 到 Cosmostation <a href="#deposit-your-likecoin-via-dao.like.co-to-cosmostation" id="deposit-your-likecoin-via-dao.like.co-to-cosmostation"></a>
 
 在 [dao.like.co](https://dao.like.co/) 點擊左上角錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。
 
-<figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>點擊錢包地址並複製</p></figcaption></figure>
 
 ## 使用 dao.like.co + Cosmostation 轉帳 LikeCoin 到其他錢包 <a href="#using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet" id="using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet"></a>
 
@@ -38,27 +38,27 @@ description: dao.like.co 管理 LikeCoin 必備
 
 在 Portfolio 頁面點「Send」。
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 1.png" alt=""><figcaption><p>在 Portfolio 頁面點「Send」</p></figcaption></figure>
 
 ### 步驟二
 
 出現 Send 頁面，在「Send To」填入收款方的錢包地址，「Amount」填寫需要轉帳的 LikeCoin 數量，並留意必須預留[手續費](../transaction-fee.md)。Memo 一欄填進收款方需要 Tag/Memo（如有），再點「Next」。
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 2.png" alt=""><figcaption><p>填入收款方的錢包地址及需要傳送的 LikeCoin 數量再點「Send」</p></figcaption></figure>
 
 ### 步驟三
 
 確認傳送數量及所需[手續費](../transaction-fee.md)無誤後點「Next」。
 
-<figure><img src="../../../.gitbook/assets/Cosmostation Send 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cosmostation Send 1.png" alt=""><figcaption><p>點「Next」</p></figcaption></figure>
 
 ### 步驟四
 
 點「Send」後彈出視窗再點「Sign」確認執行。
 
-<figure><img src="../../../.gitbook/assets/Cosmostation Send 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cosmostation Send 2.png" alt=""><figcaption><p>點「Send」</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Cosmostation Send 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cosmostation Send 3.png" alt=""><figcaption><p>彈出 Cosmostation 視窗點「Sign」</p></figcaption></figure>
 
 ### 步驟五
 
@@ -66,11 +66,11 @@ description: dao.like.co 管理 LikeCoin 必備
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption><p>Sent and confirming</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption><p>Successfully Send 完成傳送</p></figcaption></figure>
 
 </div>
 
