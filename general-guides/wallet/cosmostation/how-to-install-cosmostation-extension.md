@@ -67,5 +67,5 @@ Click on Cosmostation and enter your password to "Unlock" your wallet.
 {% endcontent-ref %}
 
 {% hint style="danger" %}
-Please keep your mnemonic seed and password safe. If you lose them you are not able to manage your LikeCoin. No one can reset your wallet for you.
+Please keep your mnemonic seed and password safe. If you lose them you are not able to manage your LikeCoin. No one can reset your wallet on your behalf.
 {% endhint %}

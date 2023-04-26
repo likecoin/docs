@@ -39,7 +39,7 @@ When "Done" appears, the registration is completed.
 <figure><img src="../../../.gitbook/assets/keplr google 4 (1).png" alt=""><figcaption><p>Complete registration with Keplr</p></figcaption></figure>
 
 {% hint style="danger" %}
-Please keep your mnemonic seed and password safe. If you lose them, you will not be able to manage your LikeCoin. No one can reset your wallet for you.
+Please keep your mnemonic seed and password safe. If you lose them, you will not be able to manage your LikeCoin. No one can reset your wallet on your behalf.
 {% endhint %}
 
 ### Method 2: Creating a new account via Google One-Click Login
