@@ -10,7 +10,7 @@ description: >-
 
 Please note that the Keplr mobile app currently does not support LikeCoin.
 
-#### Please refer to the following articles to learn how to install Keplr Browser Extension on desktop:
+#### **You can learn how to install Keplr Browser Extension on your desktop by referring to the following articles:**
 
 {% content-ref url="how-to-install-keplr-extension.md" %}
 [how-to-install-keplr-extension.md](how-to-install-keplr-extension.md)
@@ -26,7 +26,7 @@ Please note that the Keplr mobile app currently does not support LikeCoin.
 [dao.like.co.md](dao.like.co.md)
 {% endcontent-ref %}
 
-#### You may also export seed words from Liker Land and import them to Keplr.
+#### You may also export seed words from Liker Land and import them to Keplr:
 
 {% content-ref url="../../../user-guide/liker-id/export-seed-words.md" %}
 [export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)

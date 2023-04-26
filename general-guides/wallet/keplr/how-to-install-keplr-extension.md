@@ -18,15 +18,15 @@ Click the button on the upper right corner of Chrome and pin Keplr for easy acce
 
 <figure><img src="../../../.gitbook/assets/keplr google 5.png" alt=""><figcaption><p>Pin Keplr in the Toolbar</p></figcaption></figure>
 
-## Step 2: Create new account
+## Step 2: Create a new account
 
 ### Method 1: Creating a new account via setting up new seed/mnemonic phrase
 
-After installation, click on Keplr icon on the upper right corner of your browser and you will see the registration screen. Click “Create new account”.
+After installation, click on the Keplr icon on the upper right corner of your browser and you will see the registration screen. Click “Create new account”.
 
 <figure><img src="../../../.gitbook/assets/keplr03.png" alt=""><figcaption><p>Click "Create new account" to register a new account</p></figcaption></figure>
 
-The screen shows up your mnemonic seed. Find a secure place to encrypt and store the seed phrase as it is needed for account recovery. Fill in your Account name, New Password, Confirm password and click "Next".
+The screen shows your mnemonic seed. Find a secure place to encrypt and store the seed phrase as it is needed for account recovery. Fill in your Account name, New Password, Confirm password, and click "Next".
 
 <figure><img src="../../../.gitbook/assets/keplr04.png" alt=""><figcaption><p>Write down the Mnemonic Seed, enter the account name and password</p></figcaption></figure>
 
@@ -39,7 +39,7 @@ When "Done" appears, the registration is completed.
 <figure><img src="../../../.gitbook/assets/keplr google 4 (1).png" alt=""><figcaption><p>Complete registration with Keplr</p></figcaption></figure>
 
 {% hint style="danger" %}
-Please keep your mnemonic seed and password safe. If you lose them you are not able to manage your LikeCoin. No one can reset your wallet for you.
+Please keep your mnemonic seed and password safe. If you lose them, you will not be able to manage your LikeCoin. No one can reset your wallet for you.
 {% endhint %}
 
 ### Method 2: Creating a new account via Google One-Click Login
@@ -48,11 +48,11 @@ Click "Sign in with Google" to register a new Keplr account.
 
 <figure><img src="../../../.gitbook/assets/keplr google 1.png" alt=""><figcaption><p>「Sign in with Google」to register a new Keplr account</p></figcaption></figure>
 
-A Sign in with Google window pop up and log in to your Google account.
+A Sign in with Google window pops up, and you can log in to your Google account.
 
 <figure><img src="../../../.gitbook/assets/keplr google 2.png" alt=""><figcaption><p>The Sign in with Google window will pop up, log in to your Google account</p></figcaption></figure>
 
-Enter your Account name, New Password, Confirm password and click "Next".
+Enter your Account name, New Password, Confirm password, and click "Next".
 
 <figure><img src="../../../.gitbook/assets/keplr google 3.png" alt=""><figcaption><p>Enter the Account name and password</p></figcaption></figure>
 
@@ -60,7 +60,7 @@ When "Done" appears, the registration is completed.
 
 <figure><img src="../../../.gitbook/assets/keplr google 4 (1).png" alt=""><figcaption><p>Complete registration with Keplr</p></figcaption></figure>
 
-## Step 3: Connect to LikeCoin chain
+## Step 3: Connect to the LikeCoin chain
 
 Open the Keplr wallet and click "Add Suggest Chains" on the upper menu.
 
@@ -82,7 +82,7 @@ Your LikeCoin balance appears on your Keplr wallet.
 
 <figure><img src="../../../.gitbook/assets/keplr connection 5.png" alt=""><figcaption><p>View LikeCoin balance in Keplr wallet</p></figcaption></figure>
 
-#### For import existing wallet please refer to:
+#### To import an existing wallet, please refer to:
 
 {% content-ref url="import-wallet-into-keplr.md" %}
 [import-wallet-into-keplr.md](import-wallet-into-keplr.md)

@@ -4,14 +4,14 @@ description: dao.like.co is essential for managing LikeCoin
 
 # Keplr + dao.like.co: Deposit, send, delegate, governance
 
-Use dao.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-app/how-to-install-cosmostation-app.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin.md) LikeCoin; provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote.md) and [view transaction details](../block-explorer/dao.like.co.md).
+Use dao.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-app/how-to-install-cosmostation-app.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin.md) LikeCoin; as well as provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote.md) and [view transaction details](../block-explorer/dao.like.co.md).
 
 ## Connect Keplr with LikeCoin chain in dao.like.co
 
-Users have to connect to [https://chains.keplr.app/](https://chains.keplr.app/) or [dao.like.co](https://dao.like.co/) before the LikeCoin chain can be displayed in the Keplr Browser extension menu.
+Connect Keplr with LikeCoin chain on dao.like.co. In order for the LikeCoin chain to be displayed in the Keplr Browser extension menu, users have to connect to [https://chains.keplr.app/](https://chains.keplr.app/) or [dao.like.co](https://dao.like.co/).
 
 {% hint style="warning" %}
-LikeCoin chain was successfully upgraded to the LaiChiKok version on May 4, 2022. The new LikeCoin wallet address has the prefix "like1" and it also supports the "cosmos1" prefix. If your Keplr was installed before this date and you still use the cosmos1 prefix on the LikeCoin chain, you need to upgrade your wallet address, see the [New LikeCoin address prefix "like" - FAQ](../like-address-prefix.md) for details.
+The LikeCoin chain was successfully upgraded to the LaiChiKok version on May 4, 2022. The new LikeCoin wallet address has the prefix "like1" and also supports the "cosmos1" prefix. If your Keplr was installed before this date and you still use the cosmos1 prefix on the LikeCoin chain, you need to upgrade your wallet address. Please see the [New LikeCoin address prefix "like" - FAQ](../like-address-prefix.md) for details.
 {% endhint %}
 
 ### Step 1
@@ -34,7 +34,7 @@ Click "Approve" again.
 
 ### Step 4
 
-You can see your balance.
+You can see your LikeCoin balance.
 
 <figure><img src="../../../.gitbook/assets/keplr09.png" alt=""><figcaption><p>LikeCoin balance appears on dao.like.co</p></figcaption></figure>
 
@@ -48,23 +48,23 @@ LikeCoin chain appears in the Keplr menu and displays the LikeCoin balance.
 
 ## **Deposit your LikeCoin via dao.like.co to Keplr**
 
-Click on the wallet address on the top left hand corner of [dao.like.co](https://dao.like.co/) to copy it and paste to somewhere else (A crypto exchange or another wallet).
+Click on the wallet address in the top left corner of [dao.like.co](https://dao.like.co/) to copy it and paste to somewhere else (A crypto exchange or another wallet).
 
 <figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>Click on wallet address and copy</p></figcaption></figure>
 
-## Using dao.like.co + Keplr to send LikeCoin to another wallet
+## To send LikeCoin to another wallet using dao.like.co + Keplr
 
 ### Step1
 
 On the Portfolio Page click "Send".
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 1.png" alt=""><figcaption><p>Fill in the recipient's wallet address and the amount of LikeCoin to be sent, then click "Send"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 1.png" alt=""><figcaption><p>On the Portfolio Page click "Send"</p></figcaption></figure>
 
 ### Step 2
 
-The Send page appears. On "Send To" fill in the wallet address of the receiver, fill in the amount of LikeCoin that needs to be sent in "Amount" and reserve some LIKE for the [transaction fee](../transaction-fee.md). On Memo fill in the Tag/Memo which may be required by the receiver. Then click "Next".
+On the Send page, fill in the wallet address of the receiver under "Send To", the amount of LikeCoin that needs to be sent under "Amount", and reserve some LIKE for the [transaction fee](../transaction-fee.md). In the "Memo" field, fill in the tag/memo that may be required by the receiver. Then click "Next".
 
-<figure><img src="../../../.gitbook/assets/Keplr Send 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 2.png" alt=""><figcaption><p>Fill in the recipient's wallet address and the amount of LikeCoin to be sent, then click "Send"</p></figcaption></figure>
 
 ### Step 3
 
@@ -76,7 +76,7 @@ Confirmation is required. Click "Send" and "Approve" on Keplr to confirm.
 
 ### Step 4
 
-After the message "Sent and confirming" appears, "Successfully Sent" message will appear, indicating that the LikeCoin has been sent successfully.
+After the message "Sent and confirming" appears, a "Successfully Sent" message will indicate that the LikeCoin has been sent successfully.
 
 <div>
 

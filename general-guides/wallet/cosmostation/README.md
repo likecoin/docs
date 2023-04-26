@@ -10,7 +10,7 @@ Cosmostation also provides a [web wallet](https://wallet.cosmostation.io/like-co
 
 Note that the Cosmostation does not support registration of Liker ID yet.
 
-#### Please refer to the following articles to learn how to install Cosmostation Browser Extension on desktop:
+#### **You can learn how to install** Cosmostation Browser Extension **on your desktop by referring to the following articles:**
 
 {% content-ref url="how-to-install-cosmostation-extension.md" %}
 [how-to-install-cosmostation-extension.md](how-to-install-cosmostation-extension.md)

@@ -8,44 +8,44 @@ description: Deposit and Send LikeCoin directly on Cosmostation Browser Extensio
 
 ### Step 1
 
-Click LikeCoin on Cosmostation.
+Click on "LikeCoin" in Cosmostation.
 
-<figure><img src="../../../.gitbook/assets/Comostation Deposit 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Comostation Deposit 1.png" alt=""><figcaption><p>Click on "LikeCoin" in Cosmostation</p></figcaption></figure>
 
 ### Step 2
 
 Click "Deposit".
 
-<figure><img src="../../../.gitbook/assets/Comostation Deposit 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Comostation Deposit 2.png" alt=""><figcaption><p>Click "Deposit"</p></figcaption></figure>
 
 ### Step 3
 
-Your wallet address and QRCode appears. Click on the copy icon to copy the wallet address and paste to somewhere else (A crypto exchange or another wallet). Or else scan the QRCode and deposit LikeCoin to your Cosmostation wallet with [LIKE pay](../../../developer/like-pay/). Suggest to deposit a small sum to try out first.
+Your wallet address and QR code will appear. Click the copy icon to copy the wallet address and paste it somewhere else (such as a crypto exchange or another wallet). Alternatively, scan the QR code and deposit LikeCoin to your Cosmostation wallet using [LIKE pay](../like-pay.md). We suggest depositing a small sum first to try it out.
 
-<figure><img src="../../../.gitbook/assets/Comostation Deposit 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Comostation Deposit 3.png" alt=""><figcaption><p>Scan the QR code and deposit LikeCoin to your Cosmostation</p></figcaption></figure>
 
 ## **Send LikeCoin from** Cosmostation **to another wallet**
 
 ### Step 1
 
-Click LikeCoin on Cosmostation.
+Click on "LikeCoin" in Cosmostation.
 
-<figure><img src="../../../.gitbook/assets/Comostation Deposit 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Comostation Deposit 1.png" alt=""><figcaption><p>Click on "LikeCoin" in Cosmostation</p></figcaption></figure>
 
 ### Step 2
 
 Click "Send".
 
-<figure><img src="../../../.gitbook/assets/Comostation Send 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Comostation Send 1.png" alt=""><figcaption><p>Click "Send"</p></figcaption></figure>
 
 ### Step 3
 
-Token is being selected automatically as LIKE with the available balance in the wallet. On the blank space fill in the wallet address of the receiver, then fill in the amount of LikeCoin that need to be sent and reserve some LIKE for the [transaction fee](../transaction-fee.md). On Memo (option) fill in the Tag/Memo which may be required by the receiver. Then click "Send".
+The token will be automatically selected as LIKE with the available balance in the wallet. In the blank space, enter the wallet address of the receiver, then enter the amount of LikeCoin that you wish to send and reserve some LIKE for the [transaction fee](../transaction-fee.md). In the Memo section (optional), enter any necessary Tag/Memo required by the receiver. Then click "Send".
 
-<figure><img src="../../../.gitbook/assets/Comostation Send 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Comostation Send 2.png" alt=""><figcaption><p>Enter the wallet address, amount of LikeCoin to send and click "Send."</p></figcaption></figure>
 
 ### Step 4
 
-On the confirmation screen, check the details again then click "Sign" and the LikeCoin is being sent.
+On the confirmation screen, review the details and click "Sign" to send the LikeCoin.
 
-<figure><img src="../../../.gitbook/assets/Comostation Send 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Comostation Send 3.png" alt=""><figcaption><p>Click "Sign"</p></figcaption></figure>
