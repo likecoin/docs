@@ -59,3 +59,7 @@ LikeCoin 錢包經已就緒。
 {% content-ref url="import-wallet-into-cosmostation-app.md" %}
 [import-wallet-into-cosmostation-app.md](import-wallet-into-cosmostation-app.md)
 {% endcontent-ref %}
+
+{% hint style="danger" %}
+請把助記詞及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Cosmostation 錢包。
+{% endhint %}
