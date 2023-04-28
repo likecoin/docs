@@ -36,13 +36,13 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos 生態系為基礎 [LikeCoin chain
 
 到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」。
 
-<figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption><p>到 https://like.co/in/ 點「切換舊介面」</p></figcaption></figure>
 
 以你常用的社交帳戶 ( Google / Facebook / Twitter / Matters ) 登入。
 
-<figure><img src="../../../.gitbook/assets/likecoin-migration-8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/likecoin-migration-8.png" alt=""><figcaption><p>以 Google / Facebook / Twitter / Matters 登入</p></figcaption></figure>
 
-系統會彈出以下視窗。點擊「現在轉移」。
+系統會彈出以下視窗。點「現在轉移」。
 
 ![點擊「現在轉移」](../../../.gitbook/assets/likecoin-migration-1.png)
 
@@ -72,20 +72,20 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos 生態系為基礎 [LikeCoin chain
 
 過程一般需要幾分鐘，請耐心等候。轉帳期間會扣除 ETH 作為操作的 Gas Fee。
 
-![](../../../.gitbook/assets/likecoin-migration-5.png)
+![等待幾分鐘後轉帳完成](../../../.gitbook/assets/likecoin-migration-5.png)
 
 ### 步驟 4：檢查 LikeCoin 金額 <a href="#step-3-check-your-likecoin-balance" id="step-3-check-your-likecoin-balance"></a>
 
 &#x20;升級完成後，你可到 [https://like.co/in](https://like.co/in) 檢查你的 LikeCoin 餘額。\
 
 
-![](../../../.gitbook/assets/likecoin-migration-6.png)
+![到 https://like.co/in 檢查你的 LikeCoin 餘額](../../../.gitbook/assets/likecoin-migration-6.png)
 
 ### 步驟 5：下載 Liker Land 手機應用程式 <a href="#liker-land" id="liker-land"></a>
 
 你可以到 Google Play store 或 Apple App store，[下載 Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)，以你的社交帳號登入，便可在 app 中查閱你的 LikeCoin 餘額了。
 
-![](../../../.gitbook/assets/likecoin-migration-7.png)
+![下載 Liker Land 手機應用程式查看 LikeCoin 餘額](../../../.gitbook/assets/likecoin-migration-7.png)
 
 ## Liker ID 只綁定 MetaMask 但沒有綁定社交帳號
 
@@ -93,15 +93,15 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos 生態系為基礎 [LikeCoin chain
 
 到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」。
 
-<figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption><p>到 https://like.co/in/ 點「切換舊介面」</p></figcaption></figure>
 
 在登入頁面的右上角選擇「以錢包登入」後再選「MetaMask」。過程中，系統會要求你設定一組密碼。[](https://matters.news/@likecoin/my-eth-shop%E5%B0%87%E6%94%AF%E6%8F%B4%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84like-coin-zdpuAwgQLCHC7afNfU6Cn7EuUeLT6MKUTptUGj5i9jgqPt6Kj)
 
-<figure><img src="../../../.gitbook/assets/likecoin-migration-9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/likecoin-migration-9.png" alt=""><figcaption><p>選擇「以錢包登入」後再選「MetaMask」</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/likecoin-migration-10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/likecoin-migration-10.png" alt=""><figcaption><p>點「接受」</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/likecoin-migration-11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/likecoin-migration-11.png" alt=""><figcaption><p>點 MetaMask</p></figcaption></figure>
 
 ## 假設你的 LikeCoin ERC-20 是從交易所中購買
 

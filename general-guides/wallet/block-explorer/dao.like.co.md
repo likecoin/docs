@@ -8,18 +8,18 @@
 
 到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../keplr/)、[Cosmostation Browser Extension](../cosmostation/) 或 [Authcore](../../../user-guide/liker-id/register/) 登入。
 
-<figure><img src="../../../.gitbook/assets/dao.like.co transaction 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dao.like.co transaction 4.png" alt=""><figcaption><p>選 <a href="../keplr/">Keplr Browser Extension</a>、<a href="../cosmostation/">Cosmostation Browser Extension</a> 或 <a href="../../../user-guide/liker-id/register/">Authcore</a> 登入</p></figcaption></figure>
 
 在左手邊菜單選「Transactions」即可查看以往交易。
 
-<figure><img src="../../../.gitbook/assets/dao.like.co transaction 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dao.like.co transaction 3.png" alt=""><figcaption><p>在左手邊菜單選「Transactions」即可查看以往交易</p></figcaption></figure>
 
 ### 查看任何錢包交易
 
 在 [dao.like.co](https://dao.like.co/) 選 Explore with any addresss。
 
-<figure><img src="../../../.gitbook/assets/dao.like.co transaction 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dao.like.co transaction 1.png" alt=""><figcaption><p>選 Explore with any addresss</p></figcaption></figure>
 
 輸入錢包地址，即可查閱任何錢包的交易。
 
-<figure><img src="../../../.gitbook/assets/dao.like.co transaction 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dao.like.co transaction 2.png" alt=""><figcaption><p>輸入錢包地址，可查閱任何錢包的交易</p></figcaption></figure>

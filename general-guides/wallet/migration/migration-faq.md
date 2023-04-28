@@ -32,7 +32,7 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 ### **6. 在簽署步驟遇上「無法偵測瀏器的 web3」錯誤**
 
-![](../../../.gitbook/assets/likecoin-migration-faq.png)
+![Error「無法偵測瀏器的 web3」](../../../.gitbook/assets/likecoin-migration-faq.png)
 
 這個錯誤是指偵測不到 MetaMask 電子錢包。請檢查你是否在用 Chrome 瀏覽器，及 MetaMask Chrome extension 是否已安裝好。
 
