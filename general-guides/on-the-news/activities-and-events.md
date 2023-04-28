@@ -2,6 +2,14 @@
 
 {% tabs %}
 {% tab title="2023" %}
+### 04/16 Cosmos Interchain Session@Web3 Festival
+
+[如何促進應用專有鏈採用，將 Web2 用戶引入 Web3](https://twitter.com/Bianjie\_Global/status/1647131551807729664)
+
+### 04/13 - Cosmos HK Meetup
+
+[Learnings Building in Cosmos: Bridging Web2 Users to Web3](https://www.facebook.com/Liker.Land/posts/pfbid02kjyvqfoNw29XiZCu3oDQkiScfoNkqzKtjt85xMTSAhjxxDu4eFGjUK7ecqAR61sZl)
+
 ### 03/23 - FOMO Asia Genesis Conference in HKCEC
 
 [Booth and Talk](https://www.facebook.com/Liker.Land/posts/pfbid0zRhqhEtQLD5HEqRs1n5Amh5APSzVMawjBz7LSqx6wkXLAaN7DaS5tyBybH3KZgVTl)
