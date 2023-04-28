@@ -24,27 +24,11 @@ LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，�
 
 | 日期       | 描述                                                                           |
 | -------- | ---------------------------------------------------------------------------- |
-| 星期一，4月3日 | Get updates from the builders. Covering products updates and community news. |
+| 星期一，5月1日 | Get updates from the builders. Covering products updates and community news. |
+| 星期一，4月3日 | Three NFT Book projects coming ahead                                         |
 | 星期一，3月6日 | Latest updates and features on Web3Press and Liker Land.                     |
 | 星期一，2月6日 | Partnership and Products updates                                             |
 | 星期一，1月9日 | Ecosystem and Writing NFT updates                                            |
-
-## **2022 日期及議程**
-
-| 日期        | 描述                                                                            |
-| --------- | ----------------------------------------------------------------------------- |
-| 星期一，12月5日 | Highlights of what LikeCoin did in 2022.                                      |
-| 星期一，11月7日 | IPFS Camp 2022, LikeCoin chain Dragonberry patch                              |
-| 星期一，10月3日 | New Wallet and Osmosis incentives                                             |
-| 星期一，9月5日  | Writing NFT Progress and Roadmap                                              |
-| 星期一，8月1日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
-| 星期一，7月4日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
-| 星期一，6月6日  | Q3 & Q4 Roadmap                                                               |
-| 星期一，5月2日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
-| 星期一，4月4日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
-| 星期一，3月7日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
-| 星期一，2月7日  | Workgroups update (dev, marketing, delegation fund and creator fund commette) |
-| 星期一，1月3日  | LikeCoin Airdrop, Twitter Analytics, 2021 Sum up                              |
 
 ## 會議時間
 
