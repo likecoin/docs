@@ -23,27 +23,11 @@ description: >-
 
 | Date               | Description                                                                  |
 | ------------------ | ---------------------------------------------------------------------------- |
-| Monday, 3 April    | Get updates from the builders. Covering products updates and community news. |
+| Monday, 1 May      | Get updates from the builders. Covering products updates and community news. |
+| Monday, 3 April    | Three NFT Book projects coming ahead                                         |
 | Monday, 6 March    | Latest updates and features on Web3Press and Liker Land                      |
 | Monday, 6 February | Partnership and Products updates                                             |
 | Monday, 9 January  | Ecosystem and Writing NFT updates                                            |
-
-## **2022 Date & Schedule**
-
-| Date                | Description                                                                    |
-| ------------------- | ------------------------------------------------------------------------------ |
-| Monday, 5 December  | Highlights of what LikeCoin did in 2022.                                       |
-| Monday, 7 November  | IPFS Camp 2022, LikeCoin chain Dragonberry patch                               |
-| Monday, 3 October   | New Wallet and Osmosis incentives                                              |
-| Monday, 5 September | Writing NFT Progress and Roadmap                                               |
-| Monday, 1 August    | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
-| Monday, 4 July      | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
-| Monday, 6 June      | Q3 & Q4 Roadmap                                                                |
-| Monday, 2 May       | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
-| Monday, 4 April     | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
-| Monday, 7 March     | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
-| Monday, 7 February  | Workgroups update (dev, marketing, delegation fund and creator fund committee) |
-| Monday, 3 January   | LikeCoin Airdrop, Twitter Analytics, 2021 Sum up                               |
 
 ## **Call Time**
 
