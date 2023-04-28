@@ -6,6 +6,20 @@ description: LikeCoin DAO 有過什麼議案？
 
 ![](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
 
+## 議案 #64 增加 x/iscn and x/likenft 費用
+
+* **提案：**leafwind.tw 🍃
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
+* **日期**：2023.04.07 提案，2023.04.15 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/64](https://bigdipper.live/likecoin/proposals/64)
+
+## 議案 #63 更新 Osmosis 流動性池激勵
+
+* **提案：**medium
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2023.03.28 提案，2023.04.04 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/63](https://bigdipper.live/likecoin/proposals/63)
+
 ## 議案 #62 以 NUM 支付 Irtysh Digital
 
 * **提案：**Phoebe
