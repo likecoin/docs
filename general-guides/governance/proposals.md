@@ -6,6 +6,20 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
 
+## Proposal #64 Increase fee for x/iscn and x/likenft
+
+* Proposer: leafwind.tw 🍃
+* Proposal Type: Parameter Change Proposal
+* Date: Submit on 2023.04.07, Passed on 2023.04.15
+* Details: [https://bigdipper.live/likecoin/proposals/64](https://bigdipper.live/likecoin/proposals/64)
+
+## Proposal #63 Renewal of Pool Incentives on Osmosis
+
+* Proposer: medium
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2023.03.28, Passed on 2023.04.04
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/63](https://bigdipper.live/likecoin/proposals/63)
+
 ## Proposal #62 Signalling proposal: Payout Irtysh Digital with NUM
 
 * Proposer: Phoebe
