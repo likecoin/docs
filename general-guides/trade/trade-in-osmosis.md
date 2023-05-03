@@ -14,9 +14,9 @@ description: 去中心交易所，無需註冊，立即交易
 
 用戶在 Osmosis 可先以信用卡購買 $OSMO，然後再兌換為 $LIKE。
 
-## 使用透過 Osmosis 購買 LikeCoin 專頁購買 LIKE
+## 使用透過 Osmosis 購買 LikeCoin 專頁購買 $LIKE
 
-為方便用戶操作，我們特設[透過 Osmosis 購買 LikeCoin 專頁](https://faucet.like.co/purchase)，方便用戶購買 LikeCoin。
+為方便用戶操作，我們特設[透過 Osmosis 購買 LikeCoin 專頁](https://faucet.like.co/purchase)，方便用戶購買 LikeCoin。留意暫時只支援桌面電腦操作。
 
 ### 步驟一：連接錢包
 
@@ -28,7 +28,7 @@ description: 去中心交易所，無需註冊，立即交易
 
 <figure><img src="../../.gitbook/assets/purchase likecoin 2.png" alt=""><figcaption><p>出現 LikeCoin 及 Osmosis 的錢包地址</p></figcaption></figure>
 
-### 步驟二：購買 OSMO
+### 步驟二：購買 $OSMO
 
 輸入需要購買的 $OSMO 數量後點「Buy Now」。
 
