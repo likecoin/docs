@@ -30,7 +30,7 @@ The system transfers LikeCoin ERC-20 from MetaMask to the smart contract, then d
 
 ## **6.** In the "Sign" process experiences "Cannot detect web3 in browser" error
 
-![](../../../.gitbook/assets/likecoin-migration-faq.png)
+!["Cannot detect web3 in browser" error](../../../.gitbook/assets/likecoin-migration-faq.png)
 
 This error indicates that the system cannot detect MetaMask, please check if you are using Chrome and have Metamask installed.
 
