@@ -14,4 +14,4 @@ A multi-signature wallet ("multisig") is a cryptocurrency wallet that requires t
 
 ## CLI
 
-Users who are used to CLI can download the latest [LikeCoin chain CLI release](https://github.com/likecoin/likecoin-chain/releases) as multisig tools.
+Users who are accustomed to using the command-line interface (CLI) can download the latest [LikeCoin chain CLI release](https://github.com/likecoin/likecoin-chain/releases) for multisig tools.
