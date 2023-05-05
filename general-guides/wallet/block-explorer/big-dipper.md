@@ -14,7 +14,7 @@
 
 <figure><img src="../../../.gitbook/assets/Big Dipper 1.png" alt=""><figcaption><p>點「在 Big Dipper 查看開放數據」</p></figcaption></figure>
 
-瀏覽器彈出 Big Dipper 介面。你也可以使用複製（紅圈）功能記下你 Liker ID 對應的 like1 錢包地址，再於桌機輸入地址（紅箭嘴）瀏覽錢包明細。
+瀏覽器彈出 Big Dipper 介面。你也可以使用複製（紅圈）功能記下你 Liker ID 對應的 [like1 錢包地址](../like-address-prefix.md)，再於桌機輸入地址（紅箭嘴）瀏覽錢包明細。
 
 <figure><img src="../../../.gitbook/assets/Big Dipper 2.png" alt=""><figcaption><p>複製你 Liker ID 對應的 like1 錢包地址</p></figcaption></figure>
 
