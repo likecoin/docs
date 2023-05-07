@@ -16,11 +16,11 @@ Buy $OSMO with a credit card through Transak at Osmosis and exchange to $LIKE. S
 
 ### Fiat Currency / Cryptocurrency -> OSMO ( Binance or any exchanges) -> LIKE (Osmosis)
 
-[Binance listed OSMO on October 31, 2022](https://www.binance.com/en/support/announcement/binance-convert-adds-osmo-ad8b2a8f8c0641d38369ab412ce8a950). Users can trade their fiat or crypto to $OSMO in Binance and then go to Osmosis to swap into $LIKE. Also can check the [list of exchanges supporting $OSMO](https://www.coingecko.com/en/coins/osmosis) in CoinGecko.
+[Binance listed OSMO on October 31, 2022](https://www.binance.com/en/support/announcement/binance-convert-adds-osmo-ad8b2a8f8c0641d38369ab412ce8a950). Users can [trade their fiat or crypto to $OSMO in Binance](https://www.binance.com/en/how-to-buy/osmosis) and then go to Osmosis to swap into $LIKE. Also can check the [list of exchanges supporting $OSMO](https://www.coingecko.com/en/coins/osmosis) in CoinGecko.
 
 ### Fiat Currency -> ATOM ( any exchanges ) -> LIKE (Osmosis)
 
-Go to any exchanges that can buy $ATOM e.g. Binance, FTX, Kucoin, Kraken ( [list of exchanges supporting $ATOM](https://www.coingecko.com/en/coins/cosmos-hub#markets) in CoinGecko ), and then go to Osmosis to exchange $ATOM for LikeCoin.
+Go to any exchanges that can buy $ATOM e.g. Binance, Kucoin, Kraken ( Check the [list of exchanges supporting $ATOM](https://www.coingecko.com/en/coins/cosmos-hub#markets) in CoinGecko ), and then go to Osmosis to exchange $ATOM for LikeCoin.
 
 ### TWD ( MAX ) -> USDT/USDC ( Metamask ) -> axlUSDC ( Satellite ) LIKE -> ( Osmosis )
 

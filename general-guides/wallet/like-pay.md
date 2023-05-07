@@ -32,7 +32,7 @@ The Liker Land app will open your phone camera, scan the LikeCoin receiver's QR 
 
 Some crypto exchanges may require the input of a Tag/Memo. Please fill in the value here or press \[Next] if there is nothing to add.
 
-![Input of a Tag/Memo if needed](<../../.gitbook/assets/digifinex-tagmemo (1).png>)
+![Input of a Tag/Memo if needed](broken-reference)
 
 ### **Step 6**
 
