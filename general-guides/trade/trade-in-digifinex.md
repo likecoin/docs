@@ -14,7 +14,7 @@ DigiFinex 是一所在 CoinMarketCap 排名 20+，交易及流通量均位列國
 
 第一步要把你的 LikeCoin 轉賬到 DigiFinex 交易所。點 DigiFinex 網站右上角的人像「進入用戶中心」，再點「我的資產」，並在搜尋欄輸入 "Like"，再點「充幣」
 
-![「進入用戶中心」。在「我的資產」輸入 "Like"，再點「充幣」](../../.gitbook/assets/digifinex-13.png)
+![「進入用戶中心」，在「我的資產」輸入 "Like"，再點「充幣」](../../.gitbook/assets/digifinex-13.png)
 
 跳轉至「讚賞幣 ( LIKE ) 充值」頁面，點「生成充幣地址」，系統會產在你在 DigiFinex 的 LikeCoin 錢包地址。你也可以在下方查看你的「充幣歷史」
 

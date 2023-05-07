@@ -70,15 +70,15 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 填寫實名認證資料，選擇中國大陸用戶或非中國大陸用戶再點選 \[下一步]
 
-![填寫實名認證資料](../../.gitbook/assets/digifinex-mobile-7.png)
+![填寫所在國家](../../.gitbook/assets/digifinex-mobile-7.png)
 
 填寫詳細資料，需提供國籍、證件上的名字、姓氏、證件類型、證件號碼等各種資料
 
-![填寫詳細資料](../../.gitbook/assets/digifinex-mobile-8.png)
+![填寫實名認證詳細資料](../../.gitbook/assets/digifinex-mobile-8.png)
 
-按提示掃瞄證件後在拍攝手持照片並提交，請注意第三張照片，需要手持身份證，以及一張手寫 DigiFinex+當日上傳日期的紙條。留意圖片僅限 JPG、PNG 格式且大小不能超過 2MB
+按提示掃瞄證件後再拍攝照片並提交，請注意第三張照片，需要手持身份證，以及一張手寫 DigiFinex+當日上傳日期的紙條。留意圖片僅限 JPG、PNG 格式且大小不能超過 2MB
 
-![按提示掃瞄證件後在拍攝手持照片並提交](../../.gitbook/assets/mceclip3.png)
+![按提示掃瞄證件後再拍攝照片並提交](../../.gitbook/assets/mceclip3.png)
 
 掃瞄實名認證人的人臉信息，提交後實時完成審核
 
