@@ -34,7 +34,7 @@ like1 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 
 ## 步驟二：轉帳 LikeCoin 到 DigiFinex
 
-打開 [Liker Land 手機應用程式](https://liker.land/getapp)，點擊「我的錢包」，點畫面上的「LIKE pay」（下圖紅圈位置）
+打開 [Liker Land 手機應用程式](https://liker.land/getapp)，點「我的錢包」，點畫面上的「LIKE pay」（下圖紅圈位置）
 
 ![在 Liker Land 手機應用程式錢包介面點「Like pay」（紅圈）](../../.gitbook/assets/like-pay-1.png)
 
@@ -76,9 +76,9 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈。充值未�
 
 ![在「行情」搜尋欄輸入 "Like" 出現走勢圖表](../../.gitbook/assets/digifinex-18.png)
 
-點「現貨交易」，在左手邊的搜尋欄輸入 "Like"，點擊 LIKE/USDT 並進入交易頁面
+點「現貨交易」，在左手邊的搜尋欄輸入 "Like"，點 LIKE/USDT 並進入交易頁面
 
-![在「現貨交易」搜尋欄輸入 "Like"，點擊 LIKE/USDT 並進入交易頁面](../../.gitbook/assets/digifinex-19.png)
+![在「現貨交易」搜尋欄輸入 "Like"，點 LIKE/USDT 並進入交易頁面](../../.gitbook/assets/digifinex-19.png)
 
 ![LIKE/USDT 交易頁面](../../.gitbook/assets/digifinex-likeusdt.png)
 
@@ -100,7 +100,7 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈。充值未�
 
 ![選擇「買入 LIKE」或「賣出 LIKE」，再輸入價格及數量](../../.gitbook/assets/digifinex-21.png)
 
-資料填妥後，系統會自動計算成交額。確認無誤後，點擊「賣出 LIKE」，操作完成！
+資料填妥後，系統會自動計算成交額。確認無誤後，點「賣出 LIKE」，操作完成！
 
 #### DigiFinex 官方教學
 
@@ -120,7 +120,7 @@ DigiFinex 要求將 "Tag/Memo" 於轉帳期間同時寫入區塊鏈。充值未�
 關於單次最小提幣數量及手續費，可參考 [DigiFinex交易所费率说明](https://digifinex.zendesk.com/hc/zh-tw/articles/360000328422-DigiFinex%E4%BA%A4%E6%98%93%E6%89%80%E8%B4%B9%E7%8E%87%E8%AF%B4%E6%98%8E)&#x20;，又，提幣前必須先完成[雙重認證](registering-on-digifinex.md#3-google-)。
 {% endhint %}
 
-回到【步驟一】中「我的資產」頁面尋找幣種，再點擊「提幣」並「添加提幣地址」添加你的 USDT 或 LikeCoin 轉帳地址，再按照指示即可完成提幣。
+回到【步驟一】中「我的資產」頁面尋找幣種，再點「提幣」並「添加提幣地址」添加你的 USDT 或 LikeCoin 轉帳地址，再按照指示即可完成提幣。
 
 ![點「添加提幣地址」新增 USDT 轉帳地址](../../.gitbook/assets/digifinex-23.png)
 

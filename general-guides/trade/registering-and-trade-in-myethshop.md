@@ -20,9 +20,9 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ## 步驟三：找到 MyEthShop 帳戶的 LikeCoin 錢包地址
 
-點「帳戶」鍵進入下方畫面，在上面綠色點擊「轉入」選 「LIKE」，又或者在一系列密碼貨幣當中選 LIKE 再點擊藍色「轉入」傳 LikeCoin 到 MyEthshop 以便賣出。
+點「帳戶」鍵進入下方畫面，在上面綠色點「轉入」選 「LIKE」，又或者在一系列密碼貨幣當中選 LIKE 再點藍色「轉入」傳 LikeCoin 到 MyEthshop 以便賣出。
 
-<figure><img src="../../.gitbook/assets/myethshop-1.png" alt=""><figcaption><p>選 LIKE 再點擊藍色「轉入」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/myethshop-1.png" alt=""><figcaption><p>選 LIKE 再點藍色「轉入」</p></figcaption></figure>
 
 點「轉入」 接下來畫面的上半部份會出現下圖的二維碼、like 1 開始的一串長長的地址及 Liker ID myethshop，這便是 MyEthShop 的 LikeCoin 錢包地址。
 
@@ -38,7 +38,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ![點上圖紅圈位置打開照相機](../../.gitbook/assets/bitasset-trade-7.png)
 
-輸入你想要轉帳的 LikeCoin 金額，然後點擊「確認」
+輸入你想要轉帳的 LikeCoin 金額，然後點「確認」
 
 ![輸入轉帳的 LikeCoin 金額再點「確認」](../../.gitbook/assets/bitasset-trade-8.png)
 
@@ -80,7 +80,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ## 步驟七：選個好價錢買入/賣出
 
-點「交易錢包」，在畫面選取「LIKE 換 HKD」，顯示價格會定時跳動報告即時賣出/買入價。看準價格，輸入數量再點「下單」即可售出 LikeCoin。
+點「交易錢包」，在畫面選取「LIKE 換 HKD」（如圖 LIKE 在上 HKD 在下代表以 LIKE 兌換 HKD，假如倒轉則是在 HKD 兌換 LIKE），顯示價格會定時跳動報告即時賣出/買入價。看準價格，輸入數量再點「下單」即可售出 LikeCoin。
 
 至於「市價盤」與「限價盤」的分別在於「市價盤」是以即時賣出/買入價操作。而限價盤可讓你在「價格」一欄輸入心儀賣出/買入價，系統自動於指定價格為你賣出/買入。你可以在下方的「LIKE/HKD PRICE」圖表參看 LIKE/HKD 價格走勢以作決定
 

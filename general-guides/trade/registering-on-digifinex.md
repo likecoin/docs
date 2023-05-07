@@ -119,4 +119,4 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 #### 如有疑難，聯絡 DigiFinex 客服
 
-若你在開戶或任何交易所服務的過程中遇到困難，請參考 [DigiFinex 幫助中心](https://digifinex.zendesk.com/hc/zh-tw)或直接聯絡 [DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-tw/articles/360000525241)。點擊 DigiFinex 網站畫面右下角綠色的對話圖示即可獲得支援。
+若你在開戶或任何交易所服務的過程中遇到困難，請參考 [DigiFinex 幫助中心](https://digifinex.zendesk.com/hc/zh-tw)或直接聯絡 [DigiFinex 客服](https://digifinex.zendesk.com/hc/zh-tw/articles/360000525241)。點 DigiFinex 網站畫面右下角綠色的對話圖示即可獲得支援。
