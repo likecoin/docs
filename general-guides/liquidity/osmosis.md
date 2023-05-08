@@ -10,14 +10,14 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 進行流動性挖礦方法很簡單，首先你需要先註冊 Keplr 錢包
 
-{% content-ref url="../../user-guide/liker-id/register-with-keplr.md" %}
-[register-with-keplr.md](../../user-guide/liker-id/register-with-keplr.md)
+{% content-ref url="../wallet/keplr/" %}
+[keplr](../wallet/keplr/)
 {% endcontent-ref %}
 
 及將 LikeCoin 轉帳到錢包內。
 
-{% content-ref url="../wallet/keplr/" %}
-[keplr](../wallet/keplr/)
+{% content-ref url="../wallet/like-pay.md" %}
+[like-pay.md](../wallet/like-pay.md)
 {% endcontent-ref %}
 
 ## 為流動性池提供流動性
@@ -30,15 +30,21 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 [Pool #555 LIKE/ATOM](https://app.osmosis.zone/pool/555)
 
-在 Osmosis 點左手邊菜單 Pools，再搜尋「LIKE」。以下使用 Pool #553 LIKE/OSMO 作例子。
+你亦可以在 Osmosis 點左手邊菜單 Pools，再搜尋「LIKE」找到這兩個流動性池。
+
+以下使用 Pool #553 LIKE/OSMO 作例子。
 
 ### 步驟二：預備密碼貨幣
 
-每一個流動性池都有自己的比例，Pool #553 LIKE/OSMO 的比例是 50% / 50%，換而言之你需要預備 50% LIKE 配對 50% OSMO。
+每一個流動性池都有自己的比例，點「Show pool composition」查看 Pool #553 LIKE/OSMO 的比例是 50% / 50%，換而言之你需要預備 50% LIKE 配對 50% OSMO。與此同時亦可查看以下資訊：
 
-![](<../../.gitbook/assets/Osmosis LP 01.png>)
+* 24h Trading volume：過去 24 小時交易量
+* Pool Liquidity：整個池的流動性總值
+* Swap Fee：幣幣互換交易費，當別的用戶使用這個池提供的流動性進行交易時所需要付出的費用
 
-可點左手邊菜單 Trade 進行交易以獲得 LIKE 或 OSMO。
+<figure><img src="../../.gitbook/assets/Osmosis LP 1.png" alt=""><figcaption></figcaption></figure>
+
+可點左手邊菜單 Swap 進行交易以獲得 LIKE 或 OSMO，或參考以下內容購買 LikeCoin：
 
 {% content-ref url="../trade/trade-in-osmosis.md" %}
 [trade-in-osmosis.md](../trade/trade-in-osmosis.md)
@@ -46,71 +52,62 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 ### 步驟三：為流動性池添加流動性
 
-左上角顯示：
+預備好 LIKE 及 OSMO 後，Level 1 為這個池提供流動性可獲得互換交易費 ( Earn swap fees )。點「Add Liquidity」。
 
-* Pool Liquidity 整個池的流動性總值
-* My Liquidity 自己在這個池擁有的流動性總值
-* Bonded 已綁定的流動性總值
-* Swap Fee 互換交易費，當別的用戶使用這個池提供的流動性進行交易時所需要付出的費用
-* Exit Fee 出池費，離開這池需要付出的費用
+<figure><img src="../../.gitbook/assets/Osmosis LP 2.png" alt=""><figcaption></figcaption></figure>
 
-點「Add / Remove Liquidity」。
+出現 Add Liquidity 畫面，填寫放置進流動性池的 LIKE 數量，OSMO 數量會自動依比例填入，再點「Add Liquidity」添加流動性，Keplr 錢包將彈出確認視窗，點「Approve」即可。接下的數項操作亦將需要 Keplr 確認操作，到時均可一律點「Approve」。
 
-![](<../../.gitbook/assets/Osmosis LP 02.png>)
+<figure><img src="../../.gitbook/assets/Osmosis LP 3.png" alt=""><figcaption></figcaption></figure>
 
-出現 Manage Liquidity 畫面，填寫放置進流動性池的 LIKE 數量，OSMO 數量會自動依比例填入，再點「Add Liquidity」添加流動性，Keplr 錢包將彈出確認視窗，點「Approve」即可。接下的數項操作亦將需要 Keplr 確認操作，到時均可一拼點「Approve」。
+假如希望獲得更多 LIKE 和 OSMO 添加流動性，可隨時點「Trade Pair」進行交易。
 
-![](<../../.gitbook/assets/Osmosis LP 03.png>)
+## 綁定 shares 獲得流動性挖礦獎勵
 
-假如希望獲得更多貨幣去添加流動性，可隨時點「Swap Tokens」進行交易。
-
-提供流動性可獲得互換交易費 ( Swap Fee )。
-
-## 綁定 LP Token 獲得流動性挖礦獎勵
-
-添加流動性後，會依照整個池的流動性對應你提供流動性的份額比例獲得 LP Token，綁定這些 LP Token 可獲流動性挖礦獎勵。
+添加流動性後，會依照整個池的流動性對應你提供流動性的份額比例獲得份額（ shares，有人會稱之為 LP Token），綁定這些 shares 可獲流動性挖礦獎勵。
 
 ### 步驟一：開始綁定
 
-在右手邊的 Available LP tokens 顯示已獲得的 LP Token 數量。然後點「Start Earning」。
+查看已擁有的 shares 數量及大概價值，了解後可進入 Level 2 綁定流動性 ( Bond liquidity )，點「Bond Shares」。
 
-![](<../../.gitbook/assets/Osmosis LP 04.png>)
+<figure><img src="../../.gitbook/assets/Osmosis LP 4.png" alt=""><figcaption></figcaption></figure>
 
-### 步驟二：綁定不同天數
+### 步驟二：綁定 shares
 
-出現 Bond LP tokens 畫面並出現三個流動性計量器，分別為 1 天、7 天 及 14 天，並設有不同的 APR 即年利率，綁定天數越長 APR 越高。你可以選擇一次過綁定所有 LP Token 到 14 天，也可以選擇將不同數量的 LP Token 綁定不同天數。輸入需要綁定的 LP Token 數量，再點「Bond」。
+彈出視窗顯示年利率 ( APR, Annual Percentage Rate ) 並必須綁定 14 天（14 days）方可獲得流動性挖礦獎勵。在 Amount to bond 輸入需要綁定的 shares 數量再點「Bond」。
 
-![](<../../.gitbook/assets/Osmosis LP 05.png>)
+<figure><img src="../../.gitbook/assets/Osmosis LP 5.png" alt=""><figcaption></figcaption></figure>
 
-完成綁定後於 My Bondings 查看經已綁定的 LP Token 數量。
+完成後顯示 shares 需要 14 天去解綁 ( 14 days unbonding )、已綁定的 shares 數量，及 APR 等。
 
-![](<../../.gitbook/assets/Osmosis LP 06.png>)
-
-左上角 Bonded 亦顯示經已綁定的流動性總值經已增加。
-
-![](<../../.gitbook/assets/Osmosis LP 09.png>)
+<figure><img src="../../.gitbook/assets/Osmosis LP 6.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟三：獎勵派發
 
+回到頂部的資訊欄會發現多了一些內容，它們分別為：
+
+* Your Pool Balance：流動性池所綁定的 LIKE 及 OSMO 數量及它們於池中所的 share 為何&#x20;
+* Bonded：已綁定的流動性總值
+* My Liquidity：自己在這個池擁有的流動性總值
+* You're currently earning：你每天正在賺了多少
+
+<figure><img src="../../.gitbook/assets/Osmosis LP 7.png" alt=""><figcaption></figcaption></figure>
+
 Osmosis 的流動性挖礦獎勵將以 OSMO 回饋予流動性挖礦者，並於每天紀元 ( Daily Epoch ) 17:00 UTC 直接發送到 Keplr 錢包。
 
-## 解綁 LP Token 取回密碼貨幣
+## 解綁 shares 取回密碼貨幣
 
-### 步驟一：解除 LP Token 綁定
+### 步驟一：解除 shares 綁定
 
-回到 My Bondings，在需要解綁的流動性計量器選「Unbond all」。
+回到 Bond liquidity 點「Unbond」。
 
-![](<../../.gitbook/assets/Osmosis LP 07.png>)
+<figure><img src="../../.gitbook/assets/Osmosis LP 8.png" alt=""><figcaption></figcaption></figure>
 
-留意解綁所需時間為你選定的流動性計量器的時間，例如選 14 天就需要 14 天才能完成解綁，7 天就需要 7 天才能完成解綁。解綁期間，你仍然可以收取流動性挖礦獎勵，直至解綁完成為止。
+留意解綁需時 14 天。解綁期間，你仍然可以收取流動性挖礦獎勵，直至解綁完成為止。
 
 ### 步驟二：取回密碼貨幣
 
-點「Add / Remove Liquidity」，在 Manage Liquidity 將畫面切換到 Remove Liquidity 選擇取回 100% 即全部、75%、50% 或 25%，即可將密碼貨幣取回。取回貨幣需要支付出池費，並可依照你提供的流動性份額比例一拼取回互換交易費。
-
-![](<../../.gitbook/assets/Osmosis LP 08.png>)
-
-取回的密碼貨幣可於左手邊菜單選 Assets 查看，
+解綁完成後回到 Level 1 點「Remove Liquidity」即可取回密碼貨幣。可於左手邊菜單選 Assets 查看已取回的  LIKE 及 OSMO。
 
 ## 查看以往數據
 
