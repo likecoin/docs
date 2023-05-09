@@ -18,6 +18,8 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
+![到 dao.like.co 網站後選 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
+
 ### 步驟二：選擇已委託的驗證人
 
 到左手邊菜單選擇「Portfolio」，在 Your Stake 點經已委託了的驗證人。
@@ -54,7 +56,7 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 ### 步驟二：選擇已委託的驗證人
 
-在 Validator List 的 「My」選擇需要轉移委託的驗證人。
+在 Validator List 的 「My」選擇需要已委託了的驗證人。
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>在 Validator List 的 「My」選擇需要轉移委託的驗證人</p></figcaption></figure>
 

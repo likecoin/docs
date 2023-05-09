@@ -49,17 +49,17 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 點選右上角的「Vote」，然後在頁面右下角出現&#x20;Yes（支持）、No（反對）、No with Veto（強烈反對）、Abstain（棄權）四個投票選項。選擇其中一項後點「Next」。
 
-![點選右上角的「Vote」再選擇 Yes、No、No with Veto 及 Abstain 後點「Next」](<../../.gitbook/assets/direct vote 04.png>)
+![點選右上角的「Vote」再選擇 Yes、No、No with Veto 或 Abstain 後點「Next」](<../../.gitbook/assets/direct vote 04.png>)
 
 投票需要手續費，查看並同意後再點「Next」。
 
 
 
-![點「Next](<../../.gitbook/assets/direct vote 05.png>)
+![點「Next」](<../../.gitbook/assets/direct vote 05.png>)
 
 系統要求簽署確認，Keplr 及 Cosmostation 用戶點「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點「Send」。
 
-![點「Send](<../../.gitbook/assets/direct vote 06.png>)
+![點「Send」](<../../.gitbook/assets/direct vote 06.png>)
 
 完成確認後系統顯示指令下達，請等待投票完成並不要關掉這個畫面。
 
