@@ -2,7 +2,7 @@
 
 User @baoshin developed a [LikeCoin Validator Report](https://datastudio.google.com/u/0/reporting/030ee2ed-d8b5-4cda-93fd-acdc4f346561/page/p\_pbb9skc0rc?s=kHOl5P2N7i0) that includes validators’ voting rate, voting options in every proposal, stake quantity of validators, etc. A great tool for analyzing LikeCoin governance status.
 
-<figure><img src="../../../.gitbook/assets/validators-report.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/validators-report.png" alt=""><figcaption><p>Validator Report by @baoshin</p></figcaption></figure>
 
 #### Learn More
 
