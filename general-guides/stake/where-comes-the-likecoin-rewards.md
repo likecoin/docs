@@ -6,22 +6,22 @@ description: It is definitely not talking interests from deposit.
 
 ![](../../.gitbook/assets/LikeCoin\_PostList\_1216.png)
 
-_This article reflects the numbers during on January 31, 2022. All parameters can be changed in the future through the governance mechanism, such as_ [_Proposal 7_](https://likecoin.bigdipper.live/proposals/7)_._
+This article reflects the numbers as of January 31, 2022_. All parameters can be changed in the future through the governance mechanism, such as_ [_Proposal 7_](https://likecoin.bigdipper.live/proposals/7)_._
 
-Delegate LikeCoin and earn rewards, this article explains where the LikeCoin rewards come from. Delegation generates rewards as each delegator helps to validate transactions.\
-\
-Validator's rewards for recording all transactions is from inflation, currently set up as 7-20% of the 1.8 billion LikeCoin so far, which is issuing 76.5 million-265 million LikeCoin per year.
+By delegating LikeCoin, you can earn rewards. This article explains where the LikeCoin rewards come from. Delegation generates rewards as each delegator helps to validate transactions.
 
-The inflation amount will be distributed when a block is created in LikeCoin chain, approximately in every 5-6 seconds
+The validator's rewards for recording all transactions come from inflation, which is currently set at 7-20% of the 1.8 billion LikeCoin issued so far, equating to 76.5 million-265 million LikeCoin per year.
 
-2% of the newly minted LikeCoin from inflation will be treated as "Tax" and reserved for the Community Pool. In other words, 98% of LikeCoin from inflation is for validators and stakeholders. Usage of the Community Pool will be determined accordingly to the community's autonomous mechanisms.
+The inflation amount is distributed when a block is created in the LikeCoin chain, which occurs approximately every 5-6 seconds.
 
-If a block is created on every 6 seconds, the number of new blocks created per year are 365\*24\*60\*10 = 5,256,000, therefore the LikeCoin shared to each validators and stakeholders from each block are:
+2% of the newly minted LikeCoin from inflation is reserved for the Community Pool and treated as "Tax." In other words, 98% of the LikeCoin from inflation goes to validators and stakeholders. The usage of the Community Pool is determined by the community's autonomous mechanisms.
+
+If a block is created every 6 seconds, the number of new blocks created per year is 3652460\*10 = 5,256,000. Therefore, the LikeCoin shared to each validator and stakeholder from each block is:
 
 \= 10,000,000 LikeCoin x 98% / 5,256,000
 
 \= 47.7 LikeCoin
 
-That means 47.7 LikeCoin is minted every 6 seconds for validators and stakeholders to distribute according to their delegation ratio. If the commission rate of a validator is 10%, the LikeCoin given to stakeholders every 6 seconds will be 47.7 x (100%-10%) = 42.93 LIKE.
+This means that 47.7 LikeCoin is minted every 6 seconds for validators and stakeholders to distribute according to their delegation ratio. If the commission rate of a validator is 10%, the LikeCoin given to stakeholders every 6 seconds will be 47.7 x (100%-10%) = 42.93 LIKE.
 
-The above calculation based on the assumption of a new block is created every 6 second, but in fact there are deviations in real life. Adding to the 98% from inflation, 98% transaction fee from each transaction will also be distributed to validators and stakeholders according to their delegation ratio.
+The above calculation is based on the assumption that a new block is created every 6 seconds, but in reality, there may be deviations. In addition to the 98% from inflation, 98% of the transaction fee from each transaction will also be distributed to validators and stakeholders according to their delegation ratio.

@@ -1,76 +1,80 @@
 ---
-description: Deposit LikeCoin and make the voting starts
+description: Deposit LikeCoin and make the proposal voting starts
 ---
 
 # Proposal Deposit
 
-Since the [FoTan](https://cloudflare-ipfs.com/ipfs/Qmb7AYNsbRJ95dWXCYCkUbpypAVfuxMZwB1D8wFHfwrLyc/) upgrade, likers can directly deposit the likecoin required to click start proposal voting.&#x20;
+Since the [FoTan](https://cloudflare-ipfs.com/ipfs/Qmb7AYNsbRJ95dWXCYCkUbpypAVfuxMZwB1D8wFHfwrLyc/) upgrade, Likers can now deposit the required LikeCoin directly to start proposal voting.
 
-Any validator can raise a proposal. In order to have a proposal to enter the voting period, 100k LikeCoin has to be deposited within 2 weeks. The deposit may come from other validators and Likers.
+Any validator can raise a proposal, but to enter the voting period, a deposit of 100k LikeCoin must be made within two weeks. The deposit may come from other validators or Likers.
 
-In case the proposal fails to get 100k LikeCoin deposit in 2-week time, the proposal will be abandoned and the deposit will be forfeit and go to the Community Pool. The usage of the pool is determined by further proposals.
+If the proposal fails to get 100k LikeCoin within the two-week time frame, it will be abandoned and the deposit will be forfeited and added to the Community Pool. The usage of the pool will be determined by further proposals.
 
-Please note, if the proposal fails to achieve quorum, or gets more than 1/3 voting power as veto, then the proposal will be turned down and the deposited LikeCoin will be expropriated to the Community Pool; else the deposit will be transferred back to the owners.
+Please note that if the proposal fails to achieve quorum or receives more than one-third of the voting power as veto, the proposal will be rejected and the deposited LikeCoin will be expropriated to the Community Pool. If the proposal is successful, the deposit will be returned to the owners.
 
-There are multiple ways to deposit for a proposal, we suggest using [dao.like.co](https://dao.like.co/welcome) together with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/).
+There are several ways to deposit for a proposal, but we suggest using [dao.like.co](https://dao.like.co/welcome) n conjunction with the [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/).
 
 How to deposit LikeCoin for a proposal&#x20;
 --------------------------------------------
 
-### Step 1: Login dao.like.co
+### Step 1: Log in to dao.like.co
 
-Go to [dao.like.co](https://dao.like.co/) and choose [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to login.
+Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to log in.
 
-![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
+![Go to dao.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in.](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### &#xD;&#xD;Step 2: Select the proposal to deposit
 
-Go to the left hand side menu and select "Proposal", click on the proposal which is on deposit period.
+
+
+On the left-hand side menu, select "Proposal," and then click on the proposal which is in the deposit period.
 
 
 
-![](<../../.gitbook/assets/Proposal Deposit 01.png>)
+![On the left-hand side menu, select "Proposal," and then click on the proposal which is in the deposit period](<../../.gitbook/assets/Proposal Deposit 01.png>)
 
-### &#xD;Step 3: Proposal detail page
+### &#xD;Step 3: View the proposal detail page
 
 The proposal page outlined the proposal content, click "Deposit".
 
-![](<../../.gitbook/assets/Proposal Deposit 02.png>)
+![Click "Deposit"](<../../.gitbook/assets/Proposal Deposit 02.png>)
 
 ### Step 4: Deposit your LikeCoin to a proposal
 
-Input the amount that you would like to deposit for the proposal.
+Enter the amount of LikeCoin that you would like to deposit for the proposal.
 
-![](<../../.gitbook/assets/Proposal Deposit 03.png>)
+![Enter the amount of LikeCoin that you would like to deposit for the proposal](<../../.gitbook/assets/Proposal Deposit 03.png>)
 
-Transaction fee is required, check it out and agree with "Next".
-
-
-
-![](<../../.gitbook/assets/Proposal Deposit 04.png>)
-
-Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm the deposit after clicking "Send". Authcore users directly click "Send".
+A transaction fee is required. Please check it and agree to "Next".
 
 
 
-![](<../../.gitbook/assets/Proposal Deposit 05.png>)
+![Click "Next"](<../../.gitbook/assets/Proposal Deposit 04.png>)
 
-The deposit is on it's way, please wait for the transaction to finish.
+Confirmation is required. Keplr and Cosmostation users will need to approve a pop-up box to confirm the deposit after clicking "Send." Authcore users can directly click "Send".
 
 
 
-![](<../../.gitbook/assets/Proposal Deposit 06.png>)
+![Click "Send"](<../../.gitbook/assets/Proposal Deposit 05.png>)
 
-Successful deposit for a proposal!
 
-![](<../../.gitbook/assets/Proposal Deposit 07.png>)
+
+The deposit is on its way. Please wait for the transaction to finish.
+
+
+
+![Sent and confiming](<../../.gitbook/assets/Proposal Deposit 06.png>)
+
+Successful deposit for the proposal!
+
+![Successful deposit!](<../../.gitbook/assets/Proposal Deposit 07.png>)
 
 ### &#xD;Step 5: Check deposit record
 
-Go to the left hand side menu and select "Transactions" and check out your deposit record.
+On the left-hand side menu, select "Transactions" and check your deposit record.
 
-![](<../../.gitbook/assets/Proposal Deposit 08.png>)
+![Select "Transactions" and check your deposit record.](<../../.gitbook/assets/Proposal Deposit 08.png>)
 
 {% hint style="info" %}
-If the proposal passed or rejected not because the proposal fails to achieve quorum or gets more than 1/3 voting power as veto, the deposit will be transfer back to the likers.
+If the proposal fails to achieve quorum or receives more than 1/3 voting power as veto, the deposit will be forfeited and transferred to the Community Pool. However, if the proposal passes or is rejected for reasons other than those mentioned above, the deposit will be returned to the likers.
 {% endhint %}
