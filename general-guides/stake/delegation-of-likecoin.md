@@ -36,109 +36,71 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
+![到 dao.like.co 網站後選 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### 步驟二：選擇驗證人
 
 登入後，到左手邊菜單選擇「Validators」顯示所有驗證人，點選你需要委託的驗證人。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
+![在「Validators」點選需要委託的驗證人](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
 
 ### 步驟三：進行委託
 
 在驗證人頁面右上角點「Stake」進行委託。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
+![在驗證人頁面右上角點「Stake」進行委託](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
 
 ### 步驟四：輸入委託金額
 
 出現 Stake 頁面，輸入你所需要委託的 LikeCoin 數量，點「Next」。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-04.png>)
+![輸入你所需要委託的 LikeCoin 數量，點「Next」](<../../.gitbook/assets/Civic Liker Web 3-04.png>)
 
 ### 步驟五：確認委託數量及手續費
 
 確認委託數量及所需[手續費](../wallet/transaction-fee.md)無誤後再點「Next」。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-05.png>)
+![再點「Next」](<../../.gitbook/assets/Civic Liker Web 3-05.png>)
 
 ### 步驟六：查看委託
 
-系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點擊「Send」。
+系統要求簽署確認，Keplr 及 Cosmostation 用戶點「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點「Send」。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
+![點「Send」](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
 
 出現 Sent and confirming 畫面後再出現 Successfully staked! 即順利完成委託。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-07.png>) ![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
+![Sent and confirming](<../../.gitbook/assets/Civic Liker Web 3-07.png>) ![Successfully staked! 完成委託](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
 
-點左手邊菜單選擇「Portfolio」，即可看查看已委託的驗證人及委託數量等。
+點左手邊菜單選「Portfolio」，即可看查看已委託的驗證人及委託數量等。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
+![點左手邊菜單選「Portfolio」查看委託明細](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
 
 ### 步驟七：領取回報
 
 到左手邊菜單選擇「Portfolio」，再點右上角「Claim Rewards」。
 
-![](<../../.gitbook/assets/dao.like.co withdraw rewards 01.png>)
+![點右上角「Claim Rewards」](<../../.gitbook/assets/dao.like.co withdraw rewards 01.png>)
 
 出現 Claim Rewards 頁面，點「Next」。
 
-![](<../../.gitbook/assets/dao.like.co withdraw rewards 02.png>)
+![出現 Claim Rewards 頁面，點「Next」](<../../.gitbook/assets/dao.like.co withdraw rewards 02.png>)
 
-系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點擊「Send」。
+系統要求簽署確認，Keplr 及 Cosmostation 用戶點「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點「Send」。
 
-![](<../../.gitbook/assets/dao.like.co withdraw rewards 03.png>)
+![點「Send」](<../../.gitbook/assets/dao.like.co withdraw rewards 03.png>)
 
 出現 Sent and confirming 畫面後再出現 Successfully withdrawal! 即成功領取回報。
 
-![](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
+![Sent and confirming](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![Successfully withdrawal! 成功領取回報](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
 
-Keplr 用戶可直接在 Keplr 按「Claim」領取回報。
+Keplr 用戶可直接在 Keplr 直接點「Claim」領取回報。
 
-<figure><img src="../../.gitbook/assets/keplr withdraw rewards.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/keplr withdraw rewards.png" alt=""><figcaption><p>Keplr 直接點「Claim」領取回報</p></figcaption></figure>
 
-Cosmostation 用戶可直接在 Cosmostation 按「Claim Reward」領取回報。
+Cosmostation 用戶可直接在 Cosmostation 點「Claim Reward」領取回報。
 
-<figure><img src="../../.gitbook/assets/cosmostation withdraw rewards.png" alt=""><figcaption></figcaption></figure>
-
-## 使用 Leap Browser Extension 委託 LikeCoin <a href="#delegate-via-leap" id="delegate-via-leap"></a>
-
-### 步驟一：登入 Leap Browser Extension
-
-打開 [Leap Browser Extension](../wallet/leap/)，點「Stake」。
-
-<figure><img src="../../.gitbook/assets/leap delegate 1.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/leap delegate 2.png" alt=""><figcaption></figcaption></figure>
-
-### 步驟二：選擇驗證人
-
-在 Choose a Validator 頁面點選你需要委託的驗證人。
-
-<figure><img src="../../.gitbook/assets/leap delegate 3.png" alt=""><figcaption></figcaption></figure>
-
-### 步驟三：輸入委託金額
-
-輸入你所需要委託的 LikeCoin 數量，點「Review」。
-
-<figure><img src="../../.gitbook/assets/leap delegate 4.png" alt=""><figcaption></figcaption></figure>
-
-### 步驟四：確認委託數量、手續費並完成委託
-
-顯示[手續費](../wallet/transaction-fee.md)預估數值，點「Stake Like」完成委託。
-
-<figure><img src="../../.gitbook/assets/leap delegate 5.png" alt=""><figcaption></figcaption></figure>
-
-### 步驟五：領取收益
-
-在 Stake 頁面點「Claim」。
-
-<figure><img src="../../.gitbook/assets/leap delegate 6.png" alt=""><figcaption></figcaption></figure>
-
-出現能領取的收益的數量，點「Claim Rewards」領取。
-
-<figure><img src="../../.gitbook/assets/leap delegate 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cosmostation withdraw rewards.png" alt=""><figcaption><p>Cosmostation 點「Claim Reward」領取回報</p></figcaption></figure>
 
 ## 使用 Cosmostation app 委託 LikeCoin <a href="#delegate-via-cosmostation-app" id="delegate-via-cosmostation-app"></a>
 
@@ -146,77 +108,115 @@ Cosmostation 用戶可直接在 Cosmostation 按「Claim Reward」領取回報�
 
 打開 [Cosmostation app](../wallet/cosmostation-mobile/)，點「Delegate」。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption><p>在 Cosmostation app 點「Delegate」</p></figcaption></figure>
 
 ### 步驟二：選擇驗證人
 
 在 Validator List 選「Top」菜單顯示所有驗證人，點選你需要委託的驗證人。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 2.png" alt=""><figcaption><p>在「Top」菜單點選你需要委託的驗證人</p></figcaption></figure>
 
 ### 步驟三：進行委託
 
 點「DELEGATE」。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 3.png" alt=""><figcaption><p>點「DELEGATE」</p></figcaption></figure>
 
 ### 步驟四：輸入委託金額
 
 輸入你所需要委託的 LikeCoin 數量，點「Next」。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 4.png" alt=""><figcaption><p>輸入你所需要委託的 LikeCoin 數量，點「Next」</p></figcaption></figure>
 
 輸入 Memo（如有），點「Next」。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 5.png" alt=""><figcaption><p>點「Next」</p></figcaption></figure>
 
 ### 步驟五：確認委託數量及手續費
 
 顯示[手續費](../wallet/transaction-fee.md)預估數值，點「Next」繼續。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 6.png" alt=""><figcaption><p>點「Next」繼續</p></figcaption></figure>
 
 最後確認委託數量及[手續費](../wallet/transaction-fee.md)、點「Confirm」。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 7.png" alt=""><figcaption><p>點「Confirm」</p></figcaption></figure>
 
 出現「Delegate Notice」，再點「Confirm」。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 8.png" alt=""><figcaption><p>出現「Delegate Notice」，再點「Confirm」</p></figcaption></figure>
 
 ### 步驟六：PIN 碼確認
 
 輸入 PIN 碼確認。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile send 7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile send 7.jpg" alt=""><figcaption><p>輸入 PIN 碼確認</p></figcaption></figure>
 
 ### 步驟七：查看委託
 
-委託完成並顯示詳盡資料。可按「Share」分享或「Explorer」在 Mintscan 區塊瀏覽器中查閱明細。完成後點「Done」結束。
+委託完成並顯示詳盡資料。可點「Share」分享或「Explorer」在 Mintscan 區塊瀏覽器中查閱明細。完成後點「Done」結束。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 9.png" alt=""><figcaption><p>委託完成並顯示詳盡資料，點「Share」分享或「Explorer」查閱明細</p></figcaption></figure>
 
 ### 步驟八：領取收益
 
 在 Validator List 的 「My」選擇「One Click Claim all Rewards」可領取所有已委託的驗證人收益、點「One Click Compounding」可將收益重新投進去驗證人加大委託額。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 10.png" alt=""><figcaption><p>在 Validator List 的 「My」選擇「One Click Claim all Rewards」或「One Click Compounding」</p></figcaption></figure>
 
-又或者點進任何已委託驗證人選「CLAIM REWARDS」提領收益或「COMPOUNDING」將收益重新投進去驗證人加大委託額。
+又或者點進任何已委託驗證人點「CLAIM REWARDS」提領收益或「COMPOUNDING」將收益重新投進去驗證人加大委託額。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 11.png" alt=""><figcaption><p>點「CLAIM REWARDS」提領收益或「COMPOUNDING」將收益重新投進去驗證人加大委託額</p></figcaption></figure>
 
 在 CLAIM REWARD 或 Compounding 頁面點「Next」然後再「Confirm」即可。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 12.png" alt=""><figcaption><p>點「Next」再點「Confirm」</p></figcaption></figure>
+
+## 使用 Leap Browser Extension 委託 LikeCoin <a href="#delegate-via-leap" id="delegate-via-leap"></a>
+
+### 步驟一：登入 Leap Browser Extension
+
+打開 [Leap Browser Extension](../wallet/leap/)，點「Stake」。
+
+<figure><img src="../../.gitbook/assets/leap delegate 1.png" alt=""><figcaption><p>點「Stake」</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/leap delegate 2.png" alt=""><figcaption><p>點「Stake」</p></figcaption></figure>
+
+### 步驟二：選擇驗證人
+
+在 Choose a Validator 頁面點選你需要委託的驗證人。
+
+<figure><img src="../../.gitbook/assets/leap delegate 3.png" alt=""><figcaption><p>在 Choose a Validator 頁面點選需要委託的驗證人</p></figcaption></figure>
+
+### 步驟三：輸入委託金額
+
+輸入你所需要委託的 LikeCoin 數量，點「Review」。
+
+<figure><img src="../../.gitbook/assets/leap delegate 4.png" alt=""><figcaption><p>輸入你所需要委託的 LikeCoin 數量，點「Review」</p></figcaption></figure>
+
+### 步驟四：確認委託數量、手續費並完成委託
+
+顯示[手續費](../wallet/transaction-fee.md)預估數值，點「Stake Like」完成委託。
+
+<figure><img src="../../.gitbook/assets/leap delegate 5.png" alt=""><figcaption><p>點「Stake Like」完成委託</p></figcaption></figure>
+
+### 步驟五：領取收益
+
+在 Stake 頁面點「Claim」。
+
+<figure><img src="../../.gitbook/assets/leap delegate 6.png" alt=""><figcaption><p>在 Stake 頁面點「Claim」</p></figcaption></figure>
+
+出現能領取的收益的數量，點「Claim Rewards」領取。
+
+<figure><img src="../../.gitbook/assets/leap delegate 7.png" alt=""><figcaption><p>點「Claim Rewards」領取收益</p></figcaption></figure>
 
 ## 使用 Liker Land app 委託 LikeCoin <a href="#delegate-via-liker-land" id="delegate-via-liker-land"></a>
 
 ### 步驟一：選擇驗證人
 
-於 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)點擊「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
+於 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)點「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
 
-![點擊我的錢包](../../.gitbook/assets/delegate-4.png)
+![點我的錢包](../../.gitbook/assets/delegate-4.png)
 
 ![驗證人列表](../../.gitbook/assets/delegate-5.png)
 
@@ -224,21 +224,21 @@ Cosmostation 用戶可直接在 Cosmostation 按「Claim Reward」領取回報�
 
 點選了其中一個驗證人後，顯示以下頁面，列出收益年率 ( Rewards )，投票權佔比 ( Voting Power )，已被委託的 LikeCoin ( Liker Share ) 等資料。
 
-點擊「委託」進入下一頁。
+點「委託」進入下一頁。
 
-![](../../.gitbook/assets/delegate-1.png)
+![點「委託」](../../.gitbook/assets/delegate-1.png)
 
 ### 步驟二：輸入委託金額
 
-點擊「委託」後出現以下畫面。輸入你想委託給驗證人的金額，點擊「下一步」。
+點「委託」後出現以下畫面。輸入你想委託給驗證人的金額，點「下一步」。
 
-![](../../.gitbook/assets/delegate-2.png)
+![輸入委託金額，點「下一步」](../../.gitbook/assets/delegate-2.png)
 
 跳至確認畫面，顯示出驗證人的委託戶口地址，按「詳細資料」還可以核查委託款項及是次轉帳[手續費](../wallet/transaction-fee.md)的估算數值，
 
-點擊「確認」，稍待幾秒，畫面上方會出現 "Transaction Completed" 字樣，代表已完成委託。
+點「確認」，稍待幾秒，畫面上方會出現 "Transaction Completed" 字樣，代表已完成委託。
 
-![](../../.gitbook/assets/delegate-3.png)
+![點「確認」](../../.gitbook/assets/delegate-3.png)
 
 已委託的驗證人，會在下方列表中顯示為綠色。
 

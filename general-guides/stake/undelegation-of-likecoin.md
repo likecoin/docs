@@ -29,63 +29,37 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 登入後，到左手邊菜單選擇「Portfolio」，在 Your Stake 點需要解除委託的驗證人。
 
-![](<../../.gitbook/assets/dao.like.co unstake 01.png>)
+![在 Your Stake 點需要解除委託的驗證人](<../../.gitbook/assets/dao.like.co unstake 01.png>)
 
 ### 步驟三：進行取回委託
 
 在驗證人頁面右上角點「Unstake」解除委託。
 
-![](<../../.gitbook/assets/dao.like.co unstake 02.png>)
+![點「Unstake」解除委託](<../../.gitbook/assets/dao.like.co unstake 02.png>)
 
 ### 步驟四：輸入取回委託金額
 
 出現 Unstake 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Next」。
 
-![](<../../.gitbook/assets/dao.like.co unstake 03.png>)
+![輸入你所需要解除委託的 LikeCoin 數量，點「Next」](<../../.gitbook/assets/dao.like.co unstake 03.png>)
 
 ### 步驟五：確認取回委託
 
-系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點擊「Send」。
+系統要求簽署確認，Keplr 及 Cosmostation 用戶點「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點「Send」。
 
-![](<../../.gitbook/assets/dao.like.co unstake 04.png>)
+![點「Send」](<../../.gitbook/assets/dao.like.co unstake 04.png>)
 
 出現 Sent and confirming 畫面後再出現 Successfully unstaked! 即順利取回委託。
 
 <div>
 
-<img src="../../.gitbook/assets/dao.like.co unstake 05.png" alt="">
+<img src="../../.gitbook/assets/dao.like.co unstake 05.png" alt="Sent and confirming">
 
  
 
-<figure><img src="../../.gitbook/assets/dao.like.co unstake 06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dao.like.co unstake 06.png" alt=""><figcaption><p>Successfully unstaked! 取回委託</p></figcaption></figure>
 
 </div>
-
-## 使用 Leap Browser Extension 取回委託 <a href="#undelegate-via-leap" id="undelegate-via-leap"></a>
-
-### 步驟一：登入 Leap Browser Extension
-
-打開 [Leap Browser Extension](../wallet/leap/)，點「Stake」。
-
-<figure><img src="../../.gitbook/assets/leap delegate 1.png" alt=""><figcaption></figcaption></figure>
-
-### 步驟二：選擇已委託的驗證人
-
-在 Breakdown by Validator 選擇要解除委託的驗證人。
-
-<figure><img src="../../.gitbook/assets/leap redelegate 1.png" alt=""><figcaption></figcaption></figure>
-
-### 步驟三：輸入取回委託金額
-
-出現 Unstake 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Review」。
-
-<figure><img src="../../.gitbook/assets/leap undelegate 1.png" alt=""><figcaption></figcaption></figure>
-
-### 步驟四：確認取回委託
-
-點「Unstake LIKE」取回委託。
-
-<figure><img src="../../.gitbook/assets/leap undelegate 2.png" alt=""><figcaption></figcaption></figure>
 
 ## 使用 Cosmostation app 取回委託 <a href="#undelegate-via-cosmostation-app" id="undelegate-via-cosmostation-app"></a>
 
@@ -93,25 +67,51 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 打開 [Cosmostation app](../wallet/cosmostation-mobile/)，點「Delegate」。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption><p>點「Delegate」</p></figcaption></figure>
 
 ### 步驟二：選擇已委託的驗證人
 
 在 Validator List 的 「My」選擇需要取回委託的驗證人。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>在 Validator List 的 「My」選擇需要取回委託的驗證人</p></figcaption></figure>
 
 ### 步驟三：進行取回委託
 
 點「UNDELEGATE」。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 2.png" alt=""><figcaption><p>點「UNDELEGATE」</p></figcaption></figure>
 
 ### 步驟四：輸入取回委託金額
 
-出現 UNDELEGATE 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Next」，再進行確認（參考[使用 Cosmostation app 委託 LikeCoin 步驟四至七](delegation-of-likecoin.md#bu-zhou-si-shu-ru-wei-tuo-jin-e-1)）即可解除委託。
+出現 UNDELEGATE 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Next」，再進行確認（其他細節請參考[使用 Cosmostation app 委託 LikeCoin 步驟四至七](delegation-of-likecoin.md#bu-zhou-si-shu-ru-wei-tuo-jin-e-1)）即可解除委託。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption><p>輸入需要解除委託的 LikeCoin 數量，點「Next」</p></figcaption></figure>
+
+## 使用 Leap Browser Extension 取回委託 <a href="#undelegate-via-leap" id="undelegate-via-leap"></a>
+
+### 步驟一：登入 Leap Browser Extension
+
+打開 [Leap Browser Extension](../wallet/leap/)，點「Stake」。
+
+<figure><img src="../../.gitbook/assets/leap delegate 1.png" alt=""><figcaption><p>點「Stake」</p></figcaption></figure>
+
+### 步驟二：選擇已委託的驗證人
+
+在 Breakdown by Validator 選擇要解除委託的驗證人。
+
+<figure><img src="../../.gitbook/assets/leap redelegate 1.png" alt=""><figcaption><p>在 Breakdown by Validator 選擇要解除委託的驗證人</p></figcaption></figure>
+
+### 步驟三：輸入取回委託金額
+
+出現 Unstake 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Review」。
+
+<figure><img src="../../.gitbook/assets/leap undelegate 1.png" alt=""><figcaption><p>輸入你所需要解除委託的 LikeCoin 數量，點「Review」</p></figcaption></figure>
+
+### 步驟四：確認取回委託
+
+點「Unstake LIKE」取回委託。
+
+<figure><img src="../../.gitbook/assets/leap undelegate 2.png" alt=""><figcaption><p>點「Unstake LIKE」取回委託</p></figcaption></figure>
 
 ## 使用 Liker Land app 取回委託 <a href="#undelegate-via-liker-land" id="undelegate-via-liker-land"></a>
 
@@ -123,9 +123,9 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 ### 步驟二：取回委託
 
-進入驗證人頁面後，選「取回委託」。
+進入驗證人頁面後，點「取回委託」。
 
-![](../../.gitbook/assets/IMG\_2328.jpg)
+![點「取回委託」](../../.gitbook/assets/IMG\_2328.jpg)
 
 ### 步驟三：確認取回委託
 

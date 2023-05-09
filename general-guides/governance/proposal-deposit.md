@@ -21,49 +21,49 @@ description: 讓議案投票得以展開
 
 到 [dao.like.co](https://dao.like.co/) 選擇 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
+![到 dao.like.co 網站後選 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### &#xD;步驟二：選擇議案
 
 登入後，到左手邊菜單選擇「Proposals」顯示所有議案，點選你需要存入保證金的議案。
 
-![](<../../.gitbook/assets/Proposal Deposit 01.png>)
+![到左手邊菜單選擇「Proposals」並點選你需要存入保證金的議案](<../../.gitbook/assets/Proposal Deposit 01.png>)
 
 ### &#xD;步驟三：進入議案頁面
 
-進入議案頁面出現議案內容，點擊右上角「Deposit」
+進入議案頁面出現議案內容，點右上角「Deposit」。
 
-![](<../../.gitbook/assets/Proposal Deposit 02.png>)
+![點「Deposit」](<../../.gitbook/assets/Proposal Deposit 02.png>)
 
 ### 步驟四：存入保證金
 
 在「Amount」空格輸入需要存入的保證金數量。
 
-![](<../../.gitbook/assets/Proposal Deposit 03.png>)
+![在「Amount」空格輸入需要存入的保證金數量](<../../.gitbook/assets/Proposal Deposit 03.png>)
 
-存入需要手續費，查看並同意後再點擊「Next」。
+存入需要手續費，查看並同意後再點「Next」。
 
 
 
-![](<../../.gitbook/assets/Proposal Deposit 04.png>)
+![點「Next」](<../../.gitbook/assets/Proposal Deposit 04.png>)
 
-系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點擊「Send」。
+系統要求簽署確認，Keplr 及 Cosmostation 用戶點「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點「Send」。
 
-![](<../../.gitbook/assets/Proposal Deposit 05.png>)
+![點「Send」](<../../.gitbook/assets/Proposal Deposit 05.png>)
 
 完成確認後系統顯示指令下達，請等待存入完成並不要關掉這個畫面。
 
-![](<../../.gitbook/assets/Proposal Deposit 06.png>)
+![Sent and confirming](<../../.gitbook/assets/Proposal Deposit 06.png>)
 
 成功存入保證金。
 
-![](<../../.gitbook/assets/Proposal Deposit 07.png>)
+![Successful deposit! 成功存入保證金](<../../.gitbook/assets/Proposal Deposit 07.png>)
 
 ### &#xD;步驟五：查看存入紀錄
 
 到左手邊菜單選擇「Transactions」會看到存入保證金紀錄。
 
-![](<../../.gitbook/assets/Proposal Deposit 08.png>)
+![到「Transactions」看到存入保證金紀錄](<../../.gitbook/assets/Proposal Deposit 08.png>)
 
 {% hint style="info" %}
 議案投票通過、或不是因為未能超過法定投票權又或者三份一以上投票權強烈反對而導致未能通過，保證金將發還予出資的 Liker。
