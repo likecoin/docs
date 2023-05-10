@@ -1,5 +1,5 @@
 ---
-description: What is BookForest
+description: What is BookForest?
 ---
 
 # BookForest
@@ -9,6 +9,8 @@ description: What is BookForest
 One significant advantage of publishing books as NFTs is that it creates a unique, immutable record of ownership on the blockchain. This ensures that the book is an original copy, and has not been altered in any way. Additionally, NFTs provide a secure and transparent way for authors to sell their works, as ownership and transaction history are recorded on the blockchain.
 
 With BookForest, readers can have their digital books signed by the author, which provides a personal touch and adds value to the book. Moreover, readers can trade their digital books with other readers, allowing for a new level of interaction and engagement between readers.
+
+Here's the instruction of how to buy NFT books on BookForest:
 
 ## Step 1: Connect wallet
 
