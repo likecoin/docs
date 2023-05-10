@@ -4,7 +4,7 @@ description: Publishing eBook as an NFT
 
 # Mint NFT Book by Script (beta)
 
-### 📣Minting Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the faucet for testing.
+### 📣Minting Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../faucet.md) for testing.
 
 ### 📣This instruction requires technical knowledge about running node.js scripe and editing JSON files
 
@@ -82,7 +82,7 @@ The definitions of data files are stated below:
 | uri                                          | <p>Optional, default value is null.<br><br>Advance usage: the URI of an API to return an image that serves as the og image of the NFT class, which is displayed in the portfolio/dashboard and class view of liker.land, and may display in detail view as well if nfts.csv and nfts_default.json are not set properly.</p> |
 | metadata → image                             | The URL of an image that serves as the og image of the NFT, which is displayed in the portfolio/dashboard and class view of liker.land, and may display in detail view as well if nfts.csv and nfts\_default.json are not set properly.                                                                                     |
 | metadata → external\_url                     | <p>The link to the “View Content” button in the NFT detail page, under the main NFT image.  <br>The url field in iscn.json takes preference.</p>                                                                                                                                                                            |
-| metadata → message                           | The “creator message” that is appended to every NFT in the same class                                                                                                                                                                                                                                                       |
+| metadata → message                           | The “creator message” that is appended to every NFT in the same class.                                                                                                                                                                                                                                                      |
 | metadata → nft\_meta\_collection\_id         | NFT category, e.g.: nft\_book, nft\_mail, nft\_photo, nft\_illustration etc. Liker Land use this field to decide which section the NFT is displayed.                                                                                                                                                                        |
 | metadata → nft\_meta\_collection\_name       | NFT category name                                                                                                                                                                                                                                                                                                           |
 | metadata → nft\_meta\_collection\_descrption | NFT category description                                                                                                                                                                                                                                                                                                    |
@@ -101,8 +101,8 @@ The definitions of data files are stated below:
 | Fields                   | Values                                                                                                                                                                                                                                                                                                                      |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | uri                      | <p>Optional, default value is null.<br><br>Advance usage: the URI of an API to return an image that serves as the og image of the NFT class, which is displayed in the portfolio/dashboard and class view of liker.land, and may display in detail view as well if nfts.csv and nfts_default.json are not set properly.</p> |
-| metadata → name          | default NFT name if the field is not specified in nfts.csv metadata                                                                                                                                                                                                                                                         |
-| metadata → description   | default NFT description if the field is not specified in nfts.csv metadata                                                                                                                                                                                                                                                  |
+| metadata → name          | default NFT name if the field is not specified in nfts.csv metadata.                                                                                                                                                                                                                                                        |
+| metadata → description   | default NFT description if the field is not specified in nfts.csv metadata.                                                                                                                                                                                                                                                 |
 | metadata → image         | If image info is not available in nfts.csv, the image will be provided first by this this URI and second by the metadata→image field.                                                                                                                                                                                       |
 | metadata → external\_url | <p>The link to the “View Content” button in the NFT detail page, under the main NFT image.  <br>The url field in iscn.json takes preference.</p>                                                                                                                                                                            |
 
@@ -126,9 +126,9 @@ For technical details of NFT book, please refer to the below guide:
 
 The script will perform three steps:&#x20;
 
-1\) Register ISCN\
-2\) Create NFT class\
-3\) Mint NFT(s)
+1. Register ISCN
+2. Create NFT class
+3. Mint NFT(s)
 
 You can specify an existing ISCN by the parameter --iscn-id, and specify an existing NFT class ID by the parameter --class-id.  You can also let the script to create everything new.
 
@@ -136,7 +136,7 @@ You can specify an existing ISCN by the parameter --iscn-id, and specify an exis
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------- |
 | nft-count       | An integer. Total number of NFT to be minted.                                                                                                                                                               | --nft-count 100                                                               | YES        |
 | iscn-id         | A string. The ISCN ID that the NFT is referring to.                                                                                                                                                         | --iscn-id iscn://likecoin-chain/IKI9PueuJiOsYvhN6z9jPJIm3UGMh17BQ3tEwEzslQo/3 | NO         |
-| create-new-iscn | Null. If ther parameter is specified, a new ISCN will be registered according to the iscn.json file. Cannot use together with the parameter iscn-id                                                         | --create-new-iscn                                                             | NO         |
+| create-new-iscn | Null. If the parameter is specified, a new ISCN will be registered according to the iscn.json file. Cannot use together with the parameter iscn-id                                                          | --create-new-iscn                                                             | NO         |
 | class-id        | A string. The NFT class ID that the NFT belongs to. It is used in the case to mint additional NFTs within the same Class (collection). The script will create one based on nft-class.json if not specified. | --class-id likenft1yhsps5l8tmeuy9y7k0rjpx97cl67cjkjnzkycecw5xrvjjp6c5yqz0ttmc | NO         |
 | nft-max-supply  | An integer. Maximum number of NFTs that can be minted in an NFT class. No limitation if not specified.                                                                                                      | --nft-max-supply 1000                                                         | NO         |
 
@@ -153,7 +153,7 @@ Note:
 * either the parameter iscn-id or create-new-iscn must be specified, but cannot use both.
 * If create-new-iscn parameter is given, the program will refer to data/iscn.json to register a new ISCN ID
 * if class-id parameter is absent, the program will refer to data/nft\_class.json
-* class-id and nft-max-supply should not be present together, as nft-max-supply should be useful upon creating new nft class **only**
+* class-id and nft-max-supply should not be present together, as nft-max-supply should be useful upon creating new nft class **only.**
 * The number specified in nft-count should be matched the number of rows in data/nfts.csv.
 
 After executing the script, you should have minted the NFT successfully.  Congratulation!
@@ -162,9 +162,9 @@ After executing the script, you should have minted the NFT successfully.  Congra
 
 You may have the need to update the eBook files (epub/pdf) or any metadata, for example, a typical scenario is to include the registered ISCN into the eBook files, and hence you will get new contentFingerprints.   Take this use case as an example, you need to:
 
-1\) Add the ISCN information to the eBook files (pdf/epub)\
-2\) Upload the eBook files to IPFS and get the new hash (contentFingerprint)\
-3\) Update the ISCN to replace the old contentFingerprint by the new one
+1. Add the ISCN information to the eBook files (pdf/epub).
+2. Upload the eBook files to IPFS and get the new hash (contentFingerprint).
+3. Update the ISCN to replace the old contentFingerprint by the new one.
 
 You can always trace back the information of the old ISCN versions, but Liker Land frontend will display the information of the most updated ISCN version.  &#x20;
 
@@ -174,13 +174,4 @@ Check out the tools to update ISCN below:
 [iscn-browser.md](../decentralized-publishing/iscn-browser.md)
 {% endcontent-ref %}
 
-Moreover, please find the ISCN browser tool on testnet [here](http://localhost:5000/s/-LL4mdaVjNgL6A1--PV0-1995411665/general-guides/wallet/migration/migration-faq).
-
-
-
-
-
-
-
-
-
+Moreover, please find the ISCN browser tool on testnet [here](https://likecoin-iscn-browser-testnet.netlify.app/).
