@@ -95,7 +95,7 @@ description: 第一個 ISCN 的概念示範應用
 填寫關於此項內容的元資料：
 
 * Register your asset in Numbers Protocol－勾選它可將內容一拼傳送到 Numbers Protocol
-* ISCN Title－ISCN 名稱
+* ISCN Title－ISCN 標題
 * Description－內容描述
 * Author－點擊填寫更多內容，並可加入多於一名創作者
   * Name－創作者名字

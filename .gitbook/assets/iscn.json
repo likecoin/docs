@@ -1,0 +1,90 @@
+{
+	"contentMetadata": {
+		"url": "https://ckxpress.com/moneyverse/",  
+		"name": "《所謂「我不投資」，就是 all in 在法定貨幣》",
+		"type": "Book",
+		"version": 1,
+		"context": "http://schema.org/",
+		"keywords": ["blockchain", "defi", "money", "hongkong", "crypto", "moneyverse", "LikeCoin", "ckxpress"],
+		"usageInfo": "CC-BY 4.0",
+		"description": "購買本書會透過郵件收到 epub 和 pdf 檔，同時得到換領本書 NFT 的資格。書的 epub 和 pdf 歡迎轉發給朋友，讓更多人獲得相關知識。有別於粵語中「翻版」的原意，「翻版」不是「盜版」，並不違法。\n然而，翻版雖然不是盜版，卻也不是正版。唯有 NFT 的持有者，手上的 epub 和 pdf 才是正版。購買正版是一份美德，是能力所及的讀者該付出的一點承擔，代表著對作者的支持，對知識、報道和創作的尊重。\n翻版是傳播，正版是應援；傳播的同時，不要忘了鼓勵對方購買正版，讓正念 pay it forward。\n鼓勵正版，允許翻版，消滅盜版，是《所謂「我不投資」，就是 all in 在法定貨幣》分散式出版的核心理念。"
+	},
+	"stakeholders": [
+	
+		{
+		"contributionType":"http://schema.org/author",
+		"entity":
+			{
+	
+			"@id":"like13f4glvg80zvfrrs7utft5p68pct4mcq7t5atf6",
+			"name":"作者：高重建"
+	
+			},
+		"rewardProportion":"50"
+	
+		},
+	
+		{
+	
+		"contributionType":"http://schema.org/author",
+		"entity":
+			{
+	
+			"@id":"like103w3wl6wst5taq4qq4epe6znqdrs3p8c9lr0c0",
+			"name":"出版：FAB DAO"
+	
+			},
+		"rewardProportion":"20"
+	
+		},
+	
+		{
+	
+		"contributionType":"http://schema.org/author",
+		"entity":
+			{
+	
+			"@id":"like103w3wl6wst5taq4qq4epe6znqdrs3p8c9lr0c0",
+			"name":"設計：金彥良"
+	
+			},
+		"rewardProportion":"10"
+	
+		},
+	
+		{
+	
+		"contributionType":"http://schema.org/author",
+		"entity":
+			{
+	
+			"@id":"like155vxtzlthq93tv4c2jr3mhnplqc8f2np5pra3r",
+			"name":"編輯：高盈穎"
+	
+			},
+		"rewardProportion":"10"
+	
+		},
+	
+		{
+	
+		"contributionType":"http://schema.org/author",
+		"entity":
+			{
+	
+			"@id":"like10ywsmztkxjl55xarxnhlxwc83z9v2hkxtsajwl",
+			"name":"Liker Land 技術支援"
+	
+			},
+		"rewardProportion":"10"
+	
+		}
+	
+	],
+	"contentFingerprints": [
+		"ipfs://QmcbCCFEz8pLxDyqkZaqXVHr8eapeD6xsQGdvZzMJvQ2B4"
+	],
+	
+	"recordNotes": ""
+	
+}
