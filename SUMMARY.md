@@ -28,6 +28,7 @@
   * [轉贈 Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)
   * [發行 Writing NFT](general-guides/writing-nft/nft-portal.md)
   * [發行 NFT 書（測試版）](general-guides/writing-nft/mint-nft-book.md)
+  * [BookForest](general-guides/writing-nft/bookforest.io.md)
 * [去中心出版](general-guides/decentralized-publishing/README.md)
   * [什麼是 ISCN?](general-guides/decentralized-publishing/what-is-iscn.md)
   * [ISCN 和 IPFS 的關係是什麼？](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
