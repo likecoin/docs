@@ -126,22 +126,28 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 先從驗證人列表中選取欲取消委託的驗證人，已委託的驗證人在列表上呈綠色。點擊後進入驗證人畫面，在上方選項中點「轉移委託」。
 
-![點「轉移委託」](../../.gitbook/assets/IMG\_2329.jpg)
+<figure><img src="../../.gitbook/assets/redelegate 1.png" alt=""><figcaption><p>點「轉移委託」</p></figcaption></figure>
 
 ### 步驟二：選擇新的驗證人
 
 應用程式會彈出驗證人列表。請選取欲轉移 LikeCoin 至哪位驗證人。
 
-![選取欲轉移 LikeCoin 至哪位驗證人](../../.gitbook/assets/IMG\_2330.jpg)
+<figure><img src="../../.gitbook/assets/redelegate 2.png" alt=""><figcaption><p>選擇轉移委託至新的驗證人</p></figcaption></figure>
 
-### 步驟三：確認轉移
+### 步驟三：輸入轉移金額
+
+輸入需要轉移的金額，點「下一步」確認。
+
+<figure><img src="../../.gitbook/assets/redelegate 3.png" alt=""><figcaption><p>輸入需要轉移金額，點「下一步」</p></figcaption></figure>
+
+### 步驟四：確認轉移
 
 應用程式彈出轉移的細節，查核無誤後，點「確認」，並等待轉移過程完成，一般只花幾秒。
 
-![點「確認」](../../.gitbook/assets/IMG\_2331.PNG)
+<figure><img src="../../.gitbook/assets/redelegate 4.png" alt=""><figcaption><p>點「確認」轉移委託</p></figcaption></figure>
 
-### 步驟四：留意冷卻期
+### 步驟五：留意冷卻期
 
 被轉移的金額會有 21 天的冷卻期，期間不能被動用，請注意。
 
-![轉移委託金額會有 21 天的冷卻期](../../.gitbook/assets/IMG\_2332.jpg)
+<figure><img src="../../.gitbook/assets/redelegate 5.png" alt=""><figcaption><p>留意轉移委託有 21 天冷卻期</p></figcaption></figure>

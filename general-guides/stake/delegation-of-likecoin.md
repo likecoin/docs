@@ -216,9 +216,11 @@ Cosmostation 用戶可直接在 Cosmostation 點「Claim Reward」領取回報�
 
 於 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)點「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
 
-![點我的錢包](../../.gitbook/assets/delegate-4.png)
+<figure><img src="../../.gitbook/assets/delegate 1.png" alt=""><figcaption><p>點「我的錢包」</p></figcaption></figure>
 
-![驗證人列表](../../.gitbook/assets/delegate-5.png)
+<figure><img src="../../.gitbook/assets/delegate 2.png" alt=""><figcaption><p>往下移查看其他驗證人</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/delegate 3.png" alt=""><figcaption><p>往「所有驗證人」查看所有驗證人</p></figcaption></figure>
 
 注意每個驗證人提供的回饋年回報率可能略有不同。
 
@@ -226,19 +228,19 @@ Cosmostation 用戶可直接在 Cosmostation 點「Claim Reward」領取回報�
 
 點「委託」進入下一頁。
 
-![點「委託」](../../.gitbook/assets/delegate-1.png)
+<figure><img src="../../.gitbook/assets/delegate 4.png" alt=""><figcaption><p>點「委託」</p></figcaption></figure>
 
 ### 步驟二：輸入委託金額
 
 點「委託」後出現以下畫面。輸入你想委託給驗證人的金額，點「下一步」。
 
-![輸入委託金額，點「下一步」](../../.gitbook/assets/delegate-2.png)
+<figure><img src="../../.gitbook/assets/delegate 5.png" alt=""><figcaption><p>輸入委託金額，點「下一步」</p></figcaption></figure>
 
 跳至確認畫面，顯示出驗證人的委託戶口地址，按「詳細資料」還可以核查委託款項及是次轉帳[手續費](../wallet/transaction-fee.md)的估算數值，
 
 點「確認」，稍待幾秒，畫面上方會出現 "Transaction Completed" 字樣，代表已完成委託。
 
-![點「確認」](../../.gitbook/assets/delegate-3.png)
+<figure><img src="../../.gitbook/assets/delegate 6.png" alt=""><figcaption><p>點「確認」完成委託</p></figcaption></figure>
 
 已委託的驗證人，會在下方列表中顯示為綠色。
 
