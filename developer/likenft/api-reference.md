@@ -67,15 +67,17 @@ Pagination params:
 | ---------------- | ------- | --------------------------------------------- |
 | iscn\_id\_prefix |         | ISCN prefix of NFT class (if minted via ISCN) |
 | account          |         | Account of NFT class (if minted via account)  |
+| iscn\_owner      |         | Query classes owned via ISCN by an address    |
 | expand           |         | expand NFT info                               |
 
 ### NFT API
 
 `/likechain/likenft/v1/nft`
 
-| Param | Example | Description   |
-| ----- | ------- | ------------- |
-| owner |         | Owner address |
+| Param           | Example | Description              |
+| --------------- | ------- | ------------------------ |
+| owner           |         | Owner address            |
+| expand\_classes |         | Expand class information |
 
 ### Owner API
 
@@ -89,18 +91,19 @@ Pagination params:
 
 `/likechain/likenft/v1/event`
 
-| Param              | Example                     | Description                                                       |
-| ------------------ | --------------------------- | ----------------------------------------------------------------- |
-| class\_id          |                             | NFT Class ID                                                      |
-| nft\_id            |                             | NFT ID                                                            |
-| iscn\_id\_prefix   |                             | ISCN ID Prefix (if minted via ISCN)                               |
-| verbose            |                             | Expand events                                                     |
-| action\_type       | /cosmos.nft.v1beta1.MsgSend | Filter event by action                                            |
-| sender             |                             | Get all events sent by an address                                 |
-| receiver           |                             | Get all events received by an address                             |
-| creator            |                             | Get all events of NFT Classes created (ISCN owner) by an address  |
-| ignore\_from\_list |                             | Ignore events sent from address                                   |
-| ignore\_to\_list   |                             | Ignore events sent to address                                     |
+| Param              | Example                     | Description                                                         |
+| ------------------ | --------------------------- | ------------------------------------------------------------------- |
+| class\_id          |                             | NFT Class ID                                                        |
+| nft\_id            |                             | NFT ID                                                              |
+| iscn\_id\_prefix   |                             | ISCN ID Prefix (if minted via ISCN)                                 |
+| verbose            |                             | Expand events                                                       |
+| action\_type       | /cosmos.nft.v1beta1.MsgSend | Filter event by action                                              |
+| sender             |                             | Get all events sent by an address                                   |
+| receiver           |                             | Get all events received by an address                               |
+| creator            |                             | Get all events of NFT Classes created (ISCN owner) by an address    |
+| involver           |                             | Get all events involving an address (sender OR receiver OR creator) |
+| ignore\_from\_list |                             | Ignore events sent from address                                     |
+| ignore\_to\_list   |                             | Ignore events sent to address                                       |
 
 ### Ranking API
 
@@ -121,6 +124,7 @@ Pagination params:
 | sold\_before      | `1659801600`                                       | Rank NFT class base on sales before this UNIX second timestamp |
 | include\_owner    | `true`                                             | Whether to include owner of ISCN when counting sold\_count     |
 | ignore\_list      | `like17m4vwrnhjmd20uu7tst7nv0kap6ee7js69jfrs`      | The addresses to ignore when counting sold count               |
+| order\_by         |                                                    | total\_sold\_value/sold\_count                                 |
 
 Result is order by the number of NFTs not owned by creator nor `ignore_list`
 
@@ -183,17 +187,25 @@ _Note: Currently only like.co API can report the latest price. `price` in the re
 
 `/likechain/likenft/v1/collector`
 
-| Param       | Example                                       | Description                             |
-| ----------- | --------------------------------------------- | --------------------------------------- |
-| **creator** | `like13f4glvg80zvfrrs7utft5p68pct4mcq7t5atf6` | Required. Account address of ISCN owner |
+| Param          | Example                                       | Description                             |
+| -------------- | --------------------------------------------- | --------------------------------------- |
+| **creator**    | `like13f4glvg80zvfrrs7utft5p68pct4mcq7t5atf6` | Required. Account address of ISCN owner |
+| ignore\_list   |                                               | The addresses to ignore                 |
+| include\_owner |                                               | Whether to include owner of ISCN        |
+| price\_by      |                                               | class/nft                               |
+| order\_by      |                                               | price/count                             |
 
 #### Get Creators
 
 `/likechain/likenft/v1/creator`
 
-| Param         | Example                                       | Description                            |
-| ------------- | --------------------------------------------- | -------------------------------------- |
-| **collector** | `like13f4glvg80zvfrrs7utft5p68pct4mcq7t5atf6` | Required. Account address of NFT owner |
+| Param          | Example                                       | Description                            |
+| -------------- | --------------------------------------------- | -------------------------------------- |
+| **collector**  | `like13f4glvg80zvfrrs7utft5p68pct4mcq7t5atf6` | Required. Account address of NFT owner |
+| ignore\_list   |                                               | The addresses to ignore                |
+| include\_owner |                                               | Whether to include owner of ISCN       |
+| price\_by      |                                               | class/nft                              |
+| order\_by      |                                               | price/count                            |
 
 Result is order by count of NFT collections.
 
