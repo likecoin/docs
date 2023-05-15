@@ -228,13 +228,15 @@ You can also use the Liker Land app to stake LikeCoin. You may check out the tut
 
 ### Step 1: Select a validator&#xD;
 
-Open the [Liker Land app](../../user-guide/liker-land/download.md) and click on "My Wallet" to enter the wallet page. On this page, you can check the amount of LikeCoin you have and see a list of validators below. Select one of them as you like.
+Open the [Liker Land app](../../user-guide/liker-land/download.md) and click "My Wallet" to enter the wallet page. On this page, you can check the amount of LikeCoin you have and see a list of validators below. Select one of them as you like.
 
-![](<../../.gitbook/assets/delegate-4-en (1).png>)
+<figure><img src="../../.gitbook/assets/delegate 1-en.png" alt=""><figcaption><p>Click "My Wallet"</p></figcaption></figure>
 
 
 
-![Click "My Wallet"](<../../.gitbook/assets/delegate-5-en (1).png>)
+<figure><img src="../../.gitbook/assets/delegate 2-en.png" alt=""><figcaption><p>Scroll down to see other validators</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/delegate 3-en.png" alt=""><figcaption><p>Click "All validators" to check out all validators</p></figcaption></figure>
 
 Please note that the commission rate of each validator may not be the same.
 
@@ -244,20 +246,19 @@ Select a validator and bring up the page below, which lists the percentage of re
 
 Click "Delegate" and go to the next page.
 
-![Click "Delegate"](<../../.gitbook/assets/delegate-1-en (1).png>)
+<figure><img src="../../.gitbook/assets/delegate 4-en.png" alt=""><figcaption><p>Click "Delegate"</p></figcaption></figure>
 
 ### **Step 2: Enter the amount of LikeCoin to delegate**
 
-Click "Delegate" to bring up the following page, enter the amount of LikeCoin that you would like to delegate to the validator, then click "Next".\
+Click "Delegate" to bring up the following page, enter the amount of LikeCoin that you would like to delegate to the validator, then click "Next".
 
-
-![Click "Delegate", enter the amount of LikeCoin and click "Next"](../../.gitbook/assets/delegate-2-en.png)
+<figure><img src="../../.gitbook/assets/delegate 5-en.png" alt=""><figcaption><p>Enter the amount of LikeCoin to delegate and click "Next"</p></figcaption></figure>
 
 The confirmation page is displayed, showing the validator's wallet address. Click "Details" to reconfirm the amount to delegate and check the estimated [transaction fee](../wallet/transaction-fee.md).
 
 Click "Confirm", and after a few seconds, it displays "Transaction Completed," which means delegation of LikeCoin is completed.
 
-![Click "Confirm"](../../.gitbook/assets/delegate-3-en.png)
+<figure><img src="../../.gitbook/assets/delegate 6-en.png" alt=""><figcaption><p>Click "Confirm" to complete the delegation</p></figcaption></figure>
 
 A validator with your delegation will be displayed as green.
 

@@ -117,12 +117,16 @@ If you delegated LikeCoin to a validator but want to get it back, you can use th
 
 On the LikeCoin wallet page, click on the validator you delegated to (displayed in green).
 
-### Step 2: Undelegate
+<figure><img src="../../.gitbook/assets/undelegate 1-en.png" alt=""><figcaption><p>The delegated validator is in green</p></figcaption></figure>
+
+### &#xD;Step 2: Undelegate
 
 Go to the validator's page and click "Undelegate".
 
-![Click "Undelegate"](../../.gitbook/assets/undelegation-en.png)
+<figure><img src="../../.gitbook/assets/undelegate 2-en.png" alt=""><figcaption><p>Click "Undelegate"</p></figcaption></figure>
 
-### **Step 3: Enter the amount of LikeCoin to undelegate**
+### &#xD;**Step 3: Enter the amount of LikeCoin to undelegate**
 
-Enter the number of LikeCoin you wish to undelegate, then click "Confirm"."
+Enter the number of LikeCoin you wish to undelegate, click "Next" then click "Confirm".
+
+<figure><img src="../../.gitbook/assets/undelegate 3-en.png" alt=""><figcaption><p>Enter the number of LikeCoin to undelegate, click "Next" then click "Confirm".</p></figcaption></figure>

@@ -126,22 +126,28 @@ Steps for Redelegation:
 
 Click on the validator that you delegated (displayed as green) and click "Redelegate".
 
-![Click "Redelegate"](../../.gitbook/assets/redelegation-en.png)
+<figure><img src="../../.gitbook/assets/redelegate 1-en.png" alt=""><figcaption><p>Click "Redelegate"</p></figcaption></figure>
 
 ### Step 2: Select the new validator to delegate
 
 The app pops up a list of validators, select the validator to redelegate your LikeCoin.&#x20;
 
-![Select the validator to redelegate your LikeCoin](../../.gitbook/assets/IMG\_2330.jpg)
+<figure><img src="../../.gitbook/assets/redelegate 2-eb.png" alt=""><figcaption><p>Select the new validator to redelegate to</p></figcaption></figure>
 
-### Step 3: Confirm redelegation
+### **Step 3: Enter the amount of LikeCoin to redelegate**
+
+Enter the amount of LikeCoin that you would like to redelegate to the new validator, then click "Next".
+
+<figure><img src="../../.gitbook/assets/redelegate 3-en.png" alt=""><figcaption><p>Enter the amount of LikeCoin to redelegate, click "Next"</p></figcaption></figure>
+
+### Step 4: Confirm redelegation
 
 Details of redelegation are displayed, check them carefully, click "Confirm" and wait for the redelegation to complete, it usually takes a few seconds.
 
-![Click "Confirm"](../../.gitbook/assets/IMG\_2331.PNG)
+<figure><img src="../../.gitbook/assets/redelegate 4-en.png" alt=""><figcaption><p>Click "Confirm" to redelegate</p></figcaption></figure>
 
 ### **Step 4: Beware of cooling-off period**
 
 The transferred LikeCoin got a 21 days cooling-off period, they cannot be used in any way. Please note.
 
-![The transferred LikeCoin got a 21 days cooling-off period](../../.gitbook/assets/IMG\_2332.jpg)
+<figure><img src="../../.gitbook/assets/redelegate 5-en.png" alt=""><figcaption><p>The transferred LikeCoin got a 21 days cooling-off period</p></figcaption></figure>
