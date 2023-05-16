@@ -44,6 +44,6 @@ When depositing to a centralized exchange, the private key of the deposit addres
 
 You may still need to check with the old wallet address in some past transaction records. You can always check the new/old address mapping in LikeCoin Discord [#translate-wallet-prefix](../community/translate-wallet-prefix.md) channel. For example you can get the corresponding new address by entering “/translate cosmosxxxxxx”, or vice versa, to get the corresponding old address by entering “/translate likexxxxxx”.
 
-#### Read More
+#### To Learn More
 
 [LikeCoin New Address Format: The Story of “like1” | LikeCoin Update](https://blog.like.co/likecoin-newsletter-like1-story/)

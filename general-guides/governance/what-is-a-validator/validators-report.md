@@ -8,6 +8,6 @@ User @baoshin developed a [LikeCoin Validator Report](https://datastudio.google.
 
 <figure><img src="../../../.gitbook/assets/validators-report.png" alt=""><figcaption><p>Validator Report by @baoshin</p></figcaption></figure>
 
-#### Learn More
+#### To Learn More
 
 [【小程序】看看你的驗證人有沒有好好投票？進階版？](https://matters.news/@baoshin/239800)

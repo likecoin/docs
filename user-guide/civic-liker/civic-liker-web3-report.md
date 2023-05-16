@@ -4,6 +4,6 @@ User @baoshin created a [Civic Liker Web3 Report](https://datastudio.google.com/
 
 <figure><img src="../../.gitbook/assets/Civic Liker Web 3 Status.png" alt=""><figcaption></figcaption></figure>
 
-#### Learn More
+#### To Learn More
 
 [【小程序】讚賞公民Web3報表](https://matters.news/@baoshin/244957)

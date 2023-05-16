@@ -16,6 +16,10 @@ The gas fee and decentralized storage fee for uploading to depub.space will be s
 
 _\*The previous 4 LikeCoin rewards were cancelled._
 
+### To Learn More
+
+[Tweeting to the Space – Super Like x depub.space｜LikeCoin Newsletter](https://blog.like.co/en/tweeting-to-the-space-super-like-x-depub-space%EF%BD%9Clikecoin-newsletter/)
+
 ### **Working Together to Build Web3 Content Universe**
 
 depub.space is a decentralized social media in the LikeCoin ecosystem. Every tweet is a record on LikeCoin chain. No registration is needed for the sake of privacy. You can use it simply with your [Keplr](../../general-guides/wallet/keplr/), [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/) or [Liker Land app](download.md) with Wallet Connect.

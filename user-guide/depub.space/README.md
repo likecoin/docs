@@ -10,6 +10,12 @@ Moreover, [Civic Liker](../civic-liker/) can [Super Like ](../liker-land/superli
 
 Using depub.space needs no registration or personal information, all you need is a wallet address. As a"stateless" service, depub.space also minimizes information that users leave online, "privacy by default". depub.space presets all content on-chain, works published on blockchain will leave a trail and be maintained by the public.
 
+#### To Learn More
+
+[Tweeting to the Space – Super Like x depub.space｜LikeCoin Newsletter](https://blog.like.co/en/tweeting-to-the-space-super-like-x-depub-space%EF%BD%9Clikecoin-newsletter/)
+
+[Decentralizing Social Media – depub.space and Liker.Social | LikeCoin Update](https://blog.like.co/en/decentralizing-social-media-depub-space-and-liker-social-likecoin-update/)
+
 ## Login with Keplr
 
 ### Step 1

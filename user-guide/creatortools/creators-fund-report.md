@@ -4,6 +4,6 @@ User @baoshin created a [Creative Fund Report](https://datastudio.google.com/u/0
 
 <figure><img src="../../.gitbook/assets/Creators Fund Reports.png" alt=""><figcaption></figcaption></figure>
 
-#### Learn More
+#### To Learn More
 
 [【自動更新報表】𝓛𝓲𝓴𝓮𝓒𝓸𝓲𝓷創作基金排行榜](https://matters.news/@baoshin/261595)

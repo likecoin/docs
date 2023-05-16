@@ -77,3 +77,7 @@ Read articles on [blog.like.co](https://blog.like.co/en/tag/writingnft/)
 [Writing NFT – Beyond a Singular Unique Creative Work](https://blog.like.co/en/writing-nft-beyond-a-singular-unique-creative-work/)
 
 [Writing NFT – The Future of Decentralize Publishing](https://blog.like.co/en/writing-nft-medium-for-textual-works-on-web3/)
+
+[Reimagining Writing NFT ｜LikeCoin Newsletter](https://blog.like.co/en/a-new-imagination-of-writing-nft-%EF%BD%9Clikecoin-newsletter/)
+
+[Preserving the History with Immutable Evidence | LikeCoin Updates](https://blog.like.co/en/preserving-the-history-with-immutable-evidence-likecoin-updates/)

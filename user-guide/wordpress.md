@@ -18,7 +18,7 @@ The brand new LikeCoin [Web3Press plugin](https://wordpress.org/plugins/likecoin
 
 Readers will get the access of an immutable content copy which is stored in distributed file system after buying an NFT. The copy can be regarded as the “true copy” in Web3.
 
-## To Learn More
+#### To Learn More
 
 [Web3Press – Bridging Websites to Web3](https://blog.like.co/en/web3press-bridging-websites-to-web3/)
 

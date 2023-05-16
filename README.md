@@ -24,13 +24,13 @@ LikeCoin envisions a future where digital content is transformed from “Web-nat
 
 ### Writing NFT
 
-NFT can be an email, an image, an identity, or a book.  **LikeCoin** [**Writing NFT**](general-guides/writing-nft/) is designed especially for text-based content creation.
+NFT can be an email, an image, an identity, or a book. **LikeCoin** [**Writing NFT**](general-guides/writing-nft/) is designed especially for text-based content creation.
 
 Similar to the workflow of traditional publishing, i.e., securing content authorship -> printing the content in books -> selling in bookstore, creators can now register the content on the LikeCoin chain -> mint an NFT of it -> sell it in NFT marketplaces. Compared with the constraints in physical publishing, publishing content and exchanging value in the metaverse can be more flexible and everlasting.
 
-![](.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
+![Writing NFT](.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
 
-![](<.gitbook/assets/image (93).png>)
+![NFT V.S. Traditional Publishing](<.gitbook/assets/image (93).png>)
 
 ### **LikeCoin Mission**
 
@@ -40,7 +40,7 @@ We believe great software should be easy to use. Creators can focus on what they
 
 ### LikeCoin DAO
 
-[LikeCoin DAO](https://dao.like.co/proposals) is a decentralized organization that allows all LIKE token holders to participate in governance decisions. Every LikeCoin holder is a stakeholder of the DAO.&#x20;
+[LikeCoin DAO](https://dao.like.co/proposals) is a decentralized organization that allows all LIKE token holders to participate in governance decisions. Every LikeCoin holder is a stakeholder of the DAO.
 
 The DAO performs collective decisions of the public treasury, infrastructure for common goods, and evolvement of policies, which can all be evolved via the LikeCoin DAO governance process. Governance decisions include, for example, voting on governance decisions related to the token or other rules impacting the LikeCoin ecosystem. The LikeCoin community uses proposals to decide how to allocate resources from the community fund, rules and procedures for governance, selection of representatives for various working groups (“subdao’s”), etc.
 
@@ -58,13 +58,13 @@ The [LIKE ecosystem](https://likecoin.bigdipper.live/) is made up of the communi
 
 Liker Land is one of the core teams in the LikeCoin community and it created the early MVP and Dapps of LikeCoin — including the [LikeCoin button](https://docs.like.co/developer/likecoin-button), [WordPress plugin](https://wordpress.org/plugins/likecoin/), [ISCN app](https://app.like.co/), and the upcoming NFT minting widget that allows creators to mint NFTs directly from their own website.
 
-One of the newest, Dapps in the LikeCoin ecosystem is [depub.space](https://depub.space/). It is a web3-native “decentralized Twitter” where influencers sell ”Follows" and creations as NFTs.&#x20;
+One of the newest, Dapps in the LikeCoin ecosystem is [depub.space](https://depub.space/). It is a web3-native “decentralized Twitter” where influencers sell ”Follows" and creations as NFTs.
 
 ### Kickstarted
 
-The first step is to own LikeCoin, and use it for publishing or governance.  You can try to post a decentralized tweet on [depub.space](https://depub.space), vote on [dao.like.co](http://dao.like.co/), or reward any creators by transferring LIKE via Keplr wallet.
+The first step is to own LikeCoin, and use it for publishing or governance. You can try to post a decentralized tweet on [depub.space](https://depub.space), vote on [dao.like.co](http://dao.like.co/), or reward any creators by transferring LIKE via Keplr wallet.
 
-Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
+Visit [here](https://about.like.co/apps) for more LikeCoin Dapps.
 
 {% content-ref url="faq.md" %}
 [faq.md](faq.md)
@@ -73,12 +73,12 @@ Visit [here](https://about.like.co/apps) for more LikeCoin Dapps. &#x20;
 ## More about LikeCoin
 
 * **Website**: [Like.co](https://like.co) ( for all stakeholders ), [Liker.Land](https://liker.land) ( NFT portal & widget ), [app.like.co](https://app.like.co/) ( NFT portal & widget ), [iscn.io](https://iscn.io/) ( ISCN Specifications )
-* ****[**Discord**](https://discord.gg/likecoin): Our community is here, talking about development and governance discussion
-* ****[**Twitter**](https://twitter.com/likecoin): **** announcements
-* ****[**Publication**](httsps://blog.like.co): progress update, governance, products
-* ****[**Telegram**](https://t.me/likecoin\_dao): announcements
-* [**GitHub**](https://github.com/likecoin): **** source codes
-* **Facebook**: **** [page](https://www.facebook.com/Liker.Land/) ( announcement ); [group](https://www.facebook.com/groups/likecoin) ( creators' sharing ); in Chinese
+* \*\*\*\*[**Discord**](https://discord.gg/likecoin): Our community is here, talking about development and governance discussion
+* \*\*\*\*[**Twitter**](https://twitter.com/likecoin): \*\*\*\* announcements
+* \*\*\*\*[**Publication**](httsps://blog.like.co): progress update, governance, products
+* \*\*\*\*[**Telegram**](https://t.me/likecoin\_dao): announcements
+* [**GitHub**](https://github.com/likecoin): \*\*\*\* source codes
+* **Facebook**: \*\*\*\* [page](https://www.facebook.com/Liker.Land/) ( announcement ); [group](https://www.facebook.com/groups/likecoin) ( creators' sharing ); in Chinese
 * [**Reddit**](https://www.reddit.com/r/LikeCoin/)
 
 ## Contact Us
