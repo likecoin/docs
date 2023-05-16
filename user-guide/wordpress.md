@@ -16,7 +16,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 由於內容備份了在分散式檔案系統，擁有 NFT 的讀者等於擁有了一份內容的正本，可以隨時閱覽。
 
-## 更多詳情
+#### 更多詳情
 
 [Web3Press – 助 WordPress 作者邁向 Web3](https://blog.like.co/zh/web3press-%E5%8A%A9-wordpress-%E4%BD%9C%E8%80%85%E9%82%81%E5%90%91-web3/)
 

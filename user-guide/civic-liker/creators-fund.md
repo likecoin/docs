@@ -15,3 +15,7 @@ description: 目的為鼓勵讀者以按讚回饋優質創作，化讚為賞。
 基金由 LikeCoin 社群通過[議案 #23](https://stake.like.co/proposals/23) 授權「創作基金委員會」管理，定期檢討。
 
 此外亦可參考[創作基金現況報告](https://blog.like.co/zh/tag/%E5%89%B5%E4%BD%9C%E5%9F%BA%E9%87%91/)。
+
+#### 更多詳情
+
+[與創作者息息相關 – LikeCoin 社群基金的去中心化](https://blog.like.co/zh/%E8%88%87%E5%89%B5%E4%BD%9C%E8%80%85%E6%81%AF%E6%81%AF%E7%9B%B8%E9%97%9C-likecoin-%E7%A4%BE%E7%BE%A4%E5%9F%BA%E9%87%91%E7%9A%84%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/)

@@ -44,6 +44,6 @@ LikeCoin 地址從 cosmos 前綴（下稱「舊格式」）轉到 like 前綴（
 
 某些交易記錄可能仍是用舊地址。你隨時可在 LikeCoin Discord 的 [#translate-wallet-prefix](../community/translate-wallet-prefix.md) 頻道，以新/舊地址查閱對應的地址。例如在頻道中輸入 /translate cosmos1xxxxxx ，系統會返回對應的 like1xxxxxxx 新地址；相反若輸入 /translate like1xxxxxx，系統則會返回 cosmos1xxxxxx 格式的舊地址。
 
-#### 延伸閱讀
+#### 更多詳情
 
 [LikeCoin 新地址格式 – “like1” 的故事 ｜ LikeCoin 社群報](https://blog.like.co/zh/community-update-20220321-zh/)

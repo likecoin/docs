@@ -56,7 +56,7 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 3. 在「錢包設定」部份，選 Liker ID
 4. 按畫面指示登入並綁定 Liker ID
 
-### 更多詳盡介紹
+#### 更多詳盡介紹
 
 {% content-ref url="../../creator/matters.md" %}
 [matters.md](../../creator/matters.md)

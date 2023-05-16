@@ -75,3 +75,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 [Writing NFT – 超越唯一、豈止獨特的作品](https://blog.like.co/zh/writing-nft-%E8%B6%85%E8%B6%8A%E5%94%AF%E4%B8%80%E3%80%81%E8%B1%88%E6%AD%A2%E7%8D%A8%E7%89%B9%E7%9A%84%E4%BD%9C%E5%93%81/)
 
 [Writing NFT – 文章出版的專屬載體](https://blog.like.co/zh/writing-nft-%E6%96%87%E7%AB%A0%E7%9A%84%E5%B0%88%E5%B1%AC%E8%BC%89%E9%AB%94/)
+
+[對內容 NFT 的全新想像｜LikeCoin 社群報](https://blog.like.co/zh/%E5%B0%8D%E5%85%A7%E5%AE%B9-nft-%E7%9A%84%E5%85%A8%E6%96%B0%E6%83%B3%E5%83%8F-%EF%BD%9C-likecoin-%E7%A4%BE%E7%BE%A4%E5%A0%B1/)
+
+[永續保存歷史證據｜LikeCoin 社群報](https://blog.like.co/zh/%E6%B0%B8%E7%BA%8C%E4%BF%9D%E5%AD%98%E6%AD%B7%E5%8F%B2%E8%AD%89%E6%93%9A-likecoin-%E7%A4%BE%E7%BE%A4%E5%A0%B1/)

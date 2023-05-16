@@ -10,6 +10,12 @@ description: Web3 去中心化 Twitter
 
 使用 depub.space 無需註冊帳號或留下任何個人資料，只認錢包地址不認人。此外，depub.space 是一個「無狀態」( stateless ) 的服務，減少用戶留在網絡上的資訊，「預設隱私」( privacy by default ) 。 depub.space 預設所有內容全在鏈上，作品一經出版到區塊鏈，便永留記錄。
 
+#### 更多詳情
+
+[推文到宇宙 – Super Like x depub.space｜ LikeCoin 社群報](https://blog.like.co/zh/%E6%8E%A8%E6%96%87%E5%88%B0%E5%AE%87%E5%AE%99-super-like-x-depub-space%EF%BD%9C-likecoin-%E7%A4%BE%E7%BE%A4%E5%A0%B1/)
+
+[社交媒體的去中心化 – depub.SPACE 和 Liker.Social | LikeCoin 社群報](https://blog.like.co/zh/%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94%E7%9A%84%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96-depub-space-%E5%92%8C-liker-social-likecoin-%E7%A4%BE%E7%BE%A4%E5%A0%B1/)
+
 ## Keplr 登入
 
 ### 步驟一
