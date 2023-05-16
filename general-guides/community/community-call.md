@@ -4,7 +4,7 @@ description: How to join the monthly meeting
 
 # #Community Call
 
-The [monthly public community call](../governance/community-call.md) is held openly on the #Community Call channel, and everyone is welcome to join.
+The [monthly public community call](https://blog.like.co/en/tag/community-call/) is held openly on the #Community Call channel, and everyone is welcome to join.
 
 For the date and content of the meeting, please refer to:
 

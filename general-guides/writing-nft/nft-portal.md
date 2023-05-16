@@ -2,13 +2,9 @@
 description: Publish ANY webpage as NFT
 ---
 
-# Mint NFT
+# Mint Writing NFT
 
-### 📣Minting Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the faucet for testing.
-
-{% content-ref url="../faucet.md" %}
-[faucet.md](../faucet.md)
-{% endcontent-ref %}
+### 📣Minting Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../faucet.md) for testing.
 
 Authors can use [**Web3Press**](../../user-guide/wordpress.md) to publish articles, register ISCN and publish NFT in one go. If the author does not use WordPress:
 
@@ -134,6 +130,8 @@ Preview your Writing NFT. You can change the NFT Cover, Title and Description by
 
 Click ":pencil2:" on the picture and then click ":game\_die:" to generate a unique AI cover image. Click ":open\_file\_folder:" to upload or modify an existing picture. If you don't need to change it / the article has no picture, the default OG picture of the article will be displayed / no picture will be displayed.
 
+More about AI Cover Image : [AI-Generated Article Cover Images](https://blog.like.co/en/ai-generated-article-cover-images/)
+
 <figure><img src="../../.gitbook/assets/NFT Portal 4-2-en.png" alt=""><figcaption><p>Generate a Writing NFT AI cover or upload a cover</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/NFT Portal 4-3.png" alt=""><figcaption><p>Successfully generated Writing NFT AI cover</p></figcaption></figure>
@@ -235,6 +233,10 @@ Click "Mint" on the [Liker.Social](https://liker.social/) toot to publish the po
 ## Publish Writing NFT on illustBuy
 
 Publishing NFTs on [illustBuy](https://illustbuy.com/) is just as easy.
+
+#### To Learn More
+
+[illustBuy – The NFT marketplace for illustration](https://blog.like.co/en/illustbuy-nft-marketplace-for-illustration/)
 
 #### Tutorial
 

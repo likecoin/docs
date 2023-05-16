@@ -80,3 +80,5 @@ The current Community Delegation Committee members are: \
 @Lee ｜Liker.Social#9416, Unique ID 727772944805396551\
 @Wright Fu#8863 Unique ID. 786489364011548734\
 @Daisy#1990, Unique ID 608160931503144964
+
+The committee report can be found in the [CDC Progress Update](https://blog.like.co/en/author/cdc/).

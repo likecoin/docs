@@ -40,7 +40,7 @@ description: >-
 | London      | 11:00:00   | BST       | UTC+1      |
 | Toronto     | 06:00:00   | EDT       | UTC-4      |
 
-![](../../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
+![Genesis validator of LikeCoin chain](../../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
 
 ## Meeting Minutes
 

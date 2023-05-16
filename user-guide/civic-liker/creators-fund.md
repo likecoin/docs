@@ -15,3 +15,5 @@ The Creators funding source is from the LikeCoin community pool. The monthly bud
 Free Likers can also help to distribute a small amount of funds to the creators.
 
 The usage of the fund will be reviewed regularly by the Creators Fund Committee established under proposal #23 of LikeCoin DAO.
+
+In addition, you can also refer to the [Creation Fund Status Review](https://blog.like.co/en/tag/creators-fund/).

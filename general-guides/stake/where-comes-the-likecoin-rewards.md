@@ -4,7 +4,7 @@ description: It is definitely not talking interests from deposit.
 
 # Where comes the LikeCoin rewards?
 
-![](../../.gitbook/assets/LikeCoin\_PostList\_1216.png)
+![Where comes the LikeCoin rewards?](../../.gitbook/assets/LikeCoin\_PostList\_1216.png)
 
 This article reflects the numbers as of January 31, 2022_. All parameters can be changed in the future through the governance mechanism, such as_ [_Proposal 7_](https://likecoin.bigdipper.live/proposals/7)_._
 

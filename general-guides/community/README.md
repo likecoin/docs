@@ -8,19 +8,19 @@ As Liker Land grows, the community becomes more vibrant and lively.
 
 [LikeCoin Discord](http://discord.gg/likecoin) is for everyone. There are channels including development, governance, product discussion, and more. Validators and stakeholders exchange ideas and work together to make Liker Land a better place.
 
-## Step 1
+## Step 1: Click emoji and join the server
 
 New users can go to the #verify channel and click on the ✅ reaction to join the server.
 
 <figure><img src="../../.gitbook/assets/discord 1.png" alt=""><figcaption><p>Click on the ✅ reaction to join the server</p></figcaption></figure>
 
-## Step 2
+## Step 2: Select Roles
 
 Next, go to the #select-roles channel to choose the topic of interest by clicking on the corresponding emoji.
 
 <figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption><p>Click emoji to select roles</p></figcaption></figure>
 
-## Step 3
+## Step 3: Check out the Chinese channels
 
 Click on the "中" emoji to view the Chinese channels.
 

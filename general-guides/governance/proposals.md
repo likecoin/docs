@@ -4,7 +4,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 # Proposals
 
-![](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
+![Proposals](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
 
 ## Proposal #64 Increase fee for x/iscn and x/likenft
 

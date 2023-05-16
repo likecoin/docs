@@ -71,3 +71,9 @@ There is no upper limit in principle. However, as the marked price will increase
 ### To Find more latest news about writing NFT
 
 Read articles on [blog.like.co](https://blog.like.co/en/tag/writingnft/)
+
+### To Learn More
+
+[Writing NFT – Beyond a Singular Unique Creative Work](https://blog.like.co/en/writing-nft-beyond-a-singular-unique-creative-work/)
+
+[Writing NFT – The Future of Decentralize Publishing](https://blog.like.co/en/writing-nft-medium-for-textual-works-on-web3/)
