@@ -4,7 +4,7 @@ description: LikeCoin DAO 有過什麼議案？
 
 # 歷史議案
 
-![](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
+![歷史議案](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
 
 ## 議案 #64 增加 x/iscn and x/likenft 費用
 

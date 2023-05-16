@@ -2,13 +2,9 @@
 description: 把任何網頁文章內容出版成 NFT
 ---
 
-# 發行 NFT
+# 發行 Writing NFT
 
-### 📣出版 Writing NFT 需要使用 LikeCoin，用戶可於水龍頭取得少量 LikeCoin 以作測試
-
-{% content-ref url="../faucet.md" %}
-[faucet.md](../faucet.md)
-{% endcontent-ref %}
+### 📣出版 Writing NFT 需要使用 LikeCoin，用戶可於[水龍頭](../faucet.md)取得少量 LikeCoin 以作測試
 
 作者使用 [**Web3Press**](../../user-guide/wordpress.md) 可一氣呵成發佈文章、註冊 ISCN 及出版 NFT。若作者不使用 WordPress：
 
@@ -27,6 +23,10 @@ description: 把任何網頁文章內容出版成 NFT
 以下章節將一一進行介紹。
 
 又，出版 Writing NFT 後可以 iframe 的方式把 [NFT Widget](collect-writing-nft/nft-widget.md) 嵌入文章展示，如網站已安裝 [LikeCoin button 讚賞鍵](../../user-guide/creator/)，將自動展示 NFT Widget
+
+#### 了解更多
+
+
 
 ## 登入 NFT Portal <a href="#login-to-nft-portal" id="login-to-nft-portal"></a>
 
@@ -133,6 +133,8 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 #### 修改封面 <a href="#change-cover" id="change-cover"></a>
 
 在圖片位置按「:pencil2:」後再按「:game\_die:」即可生成獨一無二的 AI 封面圖，按「:open\_file\_folder:」則可上載或修改現有的圖片。如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片。
+
+關於 AI 封面的詳盡介紹：[AI 生成文章封面 – 文字創作利器？](https://blog.like.co/zh/ai-%E7%94%9F%E6%88%90%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2-%E6%96%87%E5%AD%97%E5%89%B5%E4%BD%9C%E5%88%A9%E5%99%A8/)
 
 <figure><img src="../../.gitbook/assets/NFT Portal 4-2.png" alt=""><figcaption><p>生成 Writing NFT AI 封面或上載封面</p></figcaption></figure>
 

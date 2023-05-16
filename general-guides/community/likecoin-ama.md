@@ -1,10 +1,10 @@
 ---
-description: 如何參與 LikeCoin AMA
+description: 如何參與 LikeCoin AMA，例如創作者聊天室等
 ---
 
 # #LikeCoin AMA
 
-參與的方法很簡單：
+參與 LikeCoin AMA 或[創作者聊天室](https://blog.like.co/zh/tag/%E5%89%B5%E4%BD%9C%E8%80%85%E8%81%8A%E5%A4%A9%E5%AE%A4/)的方法很簡單：
 
 1\. 到 LikeCoin Discord 點 #LikeCoin AMA 頻道收聽。
 

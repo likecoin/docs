@@ -4,7 +4,7 @@ description: 所謂 LikeCoin DAO，有民主麼？
 
 # 流動民主
 
-![](../../.gitbook/assets/LikeCoin\_Staking\_Rewards\_voting\_chi.png)
+![流動民主](../../.gitbook/assets/LikeCoin\_Staking\_Rewards\_voting\_chi.png)
 
 LikeCoin 社群——LikeCoin DAO——以流動民主方式治理。
 

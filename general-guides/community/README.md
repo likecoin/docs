@@ -1,5 +1,5 @@
 ---
-description: 想與更多用戶聯繫分享經驗，有渠道嗎？
+description: 想與社群及更多用戶聯繫分享經驗，有渠道嗎？
 ---
 
 # 社群
@@ -8,19 +8,19 @@ description: 想與更多用戶聯繫分享經驗，有渠道嗎？
 
 [LikeCoin Discord](http://discord.gg/likecoin) 歡迎任何人參與，並設有中文及英文頻道，涵蓋創作、開發、治理、產品討論等各種話題，讓公眾與驗證人及各個持份者進行交流。
 
-## 步驟 1
+## 步驟一：進行認證
 
 新用戶請先到 #verify 頻道按 ✅ 進行認證。
 
 <figure><img src="../../.gitbook/assets/discord 1.png" alt=""><figcaption><p>到 #verify 頻道按 ✅ 進行認證</p></figcaption></figure>
 
-## 步驟 2
+## 步驟二：選擇關注議題
 
 到 #select-roles 頻道點擊 emoji 選擇關注的議題。
 
 <figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption><p>點擊 emoji 選擇關注的議題</p></figcaption></figure>
 
-## 步驟 3
+## 步驟三：查看中文頻道的方法
 
 點「中」 emoji 以獲取華語身分查看中文頻道。
 

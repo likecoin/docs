@@ -4,7 +4,7 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 # 社群治理會議
 
-## 會議連結：[http://discord.gg/likecoin](http://discord.gg/likecoin)
+## 會議場地：[http://discord.gg/likecoin](http://discord.gg/likecoin)
 
 ## 如何參與
 
@@ -41,7 +41,7 @@ LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，�
 | 倫敦  | 11:00:00 | BST   | UTC+1  |
 | 多倫多 | 06:00:00 | EDT   | UTC-4  |
 
-![](../../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
+![LikeCoin 的創世驗證人](../../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
 
 ## 會議記錄 <a href="#minutes" id="minutes"></a>
 

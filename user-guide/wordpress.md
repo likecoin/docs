@@ -26,17 +26,17 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 ### 步驟二：開始安裝
 
-如圖點擊左方「外掛」，再點擊上方「安裝外掛」。
+如圖點擊左方「外掛」，再點上方「安裝外掛」。
 
-![](../.gitbook/assets/wordpress-1.png)
+![點「安裝外掛」](../.gitbook/assets/wordpress-1.png)
 
 ### 步驟三：啟用外掛
 
-搜尋關鍵字 "Web3Press" 或 "LikeCoin"，找到 Web3Press 外掛，點擊「立即安裝」並等待完成，再點擊「啟用」。
+搜尋關鍵字 "Web3Press" 或 "LikeCoin"，找到 Web3Press 外掛，點「立即安裝」並等待完成，再點「啟用」。
 
-<figure><img src="../.gitbook/assets/wordpress 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 2.png" alt=""><figcaption><p>點「立即安裝」</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/wordpress 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 3.png" alt=""><figcaption><p>點「啟用」</p></figcaption></figure>
 
 ### 步驟四：完成安裝
 

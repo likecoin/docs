@@ -1,5 +1,5 @@
 ---
-description: 獲取少量 LikeCoin 在 testnet 試用各種功能
+description: 獲取少量 LikeCoin 在測試網試用各種功能
 ---
 
 # #faucet-testnet
@@ -8,8 +8,6 @@ LikeCoin Testnet 用戶可於 #faucet-testnet 獲取少量 LikeCoin 在 testnet 
 
 1. 進入 #faucet-testnet 頻道。如看不到頻道請先到 #verify 頻道進行認證。
 2. 在頻道輸入 /faucet 並選擇 Receive test token for testnet
-
-
 
 <figure><img src="../../.gitbook/assets/faucet-testnet 1.png" alt=""><figcaption><p>輸入 /faucet 並選擇 Receive test token for testnet</p></figcaption></figure>
 
