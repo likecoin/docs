@@ -4,7 +4,7 @@ description: 如何參與每月社群治理會議
 
 # #Community Call
 
-每月的[社群治理會議](../governance/community-call.md)於 #Community Call 頻道公開舉行，任何人都歡迎參與。
+每月的[社群治理會議](https://blog.like.co/en/tag/community-call/)於 #Community Call 頻道公開舉行，任何人都歡迎參與。
 
 會議日期及內容請參看：
 

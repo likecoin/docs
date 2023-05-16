@@ -24,10 +24,6 @@ description: 把任何網頁文章內容出版成 NFT
 
 又，出版 Writing NFT 後可以 iframe 的方式把 [NFT Widget](collect-writing-nft/nft-widget.md) 嵌入文章展示，如網站已安裝 [LikeCoin button 讚賞鍵](../../user-guide/creator/)，將自動展示 NFT Widget
 
-#### 了解更多
-
-
-
 ## 登入 NFT Portal <a href="#login-to-nft-portal" id="login-to-nft-portal"></a>
 
 在桌面電腦瀏覽器直接進入 [**NFT Portal**](https://app.like.co/nft/url) 並選擇以 [Keplr](../wallet/keplr/)、[Cosmostation](../wallet/cosmostation/)、[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker ID](../../user-guide/liker-land/download.md) 任何一種方式連結並登入網站。
@@ -234,7 +230,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 ## 在 Liker.Social 出版 Writing NFT <a href="#publish-writing-nft-on-liker.social" id="publish-writing-nft-on-liker.social"></a>
 
-點擊 [Liker.Social](https://liker.social/) 嘟文頁面的「Mint」可以將嘟文出版 NFT。
+點 [Liker.Social](https://liker.social/) 嘟文頁面的「Mint」可以將嘟文出版 NFT。
 
 <figure><img src="../../.gitbook/assets/Liker.Social.png" alt=""><figcaption><p>在 Liker.Social 出版 Writing NFT</p></figcaption></figure>
 

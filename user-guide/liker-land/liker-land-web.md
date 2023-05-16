@@ -4,7 +4,7 @@ description: 網頁版的 Liker Land
 
 # Liker Land 網頁版
 
-登入網頁版的 [https://Liker.Land](liker-land-web.md#xuan-xiang-yi-wo-de-shu-jia-httpsliker.landdashboard) 後點擊右上角的菜單，會彈出其他選項。​
+登入網頁版的 [https://Liker.Land](liker-land-web.md#xuan-xiang-yi-wo-de-shu-jia-httpsliker.landdashboard) 後點右上角的菜單，會彈出其他選項。​
 
 <figure><img src="../../.gitbook/assets/Liker Land menu.png" alt=""><figcaption></figcaption></figure>
 

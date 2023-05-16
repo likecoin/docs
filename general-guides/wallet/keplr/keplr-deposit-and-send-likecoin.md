@@ -14,7 +14,7 @@ description: 使用 Keplr 瀏覽器擴充功能錢包直接存入及轉帳 LikeC
 
 ### 步驟二
 
-然後點擊錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。又或者點「Deposit」出現二維碼。
+然後點錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。又或者點「Deposit」出現二維碼。
 
 <figure><img src="../../../.gitbook/assets/Keplr deposit and send 02.png" alt=""><figcaption><p>複製錢包地址或點「Deposit」調用二維碼</p></figcaption></figure>
 

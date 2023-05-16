@@ -71,10 +71,12 @@ B. 在頻道#📥｜apply-for-delegation 寫申請帖，申請應包括：
 
 舉例：於 6 月獲得第一輪社群基金委託的驗證人必須於 11 月 15 日中午 12 時 GMT+8 前申請續期。假如驗證人不申請續期，委託將直接被撤回。
 
-現時由認可的社群基金審批委員會成員為：\
+現時由認可的社群委託審批委員會成員為：\
 @Kcat | Oldcat#1539, Unique ID 721183569925505024\
 @kelvinyasu | UD#0571, Unique ID 755636848319135845\
 @KenOokamiHoro#7356, Unique ID 287510283579162626\
 @Lee ｜Liker.Social#9416, Unique ID 727772944805396551\
 @Wright Fu#8863 Unique ID. 786489364011548734\
 @Daisy#1990, Unique ID 608160931503144964
+
+委員會報告可參考 [CDC Progress Update](https://blog.like.co/en/author/cdc/)。

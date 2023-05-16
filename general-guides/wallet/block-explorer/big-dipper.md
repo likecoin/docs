@@ -10,7 +10,7 @@
 
 ### Liker Land app
 
-在 [Liker Land 手機應用程式](https://liker.land/getapp)點擊「我的錢包」，再移動到最底，點「在 Big Dipper 查看開放數據」
+在 [Liker Land 手機應用程式](https://liker.land/getapp)點「我的錢包」，再移動到最底，點「在 Big Dipper 查看開放數據」
 
 <figure><img src="../../../.gitbook/assets/Big Dipper 1.png" alt=""><figcaption><p>點「在 Big Dipper 查看開放數據」</p></figcaption></figure>
 

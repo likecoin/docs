@@ -10,13 +10,13 @@ description: dao.like.co 管理 LikeCoin 必備
 
 ### 步驟一
 
-到 [dao.like.co](https://dao.like.co/) 網站，點擊「Cosmostation Browser Extension」。
+到 [dao.like.co](https://dao.like.co/) 網站，點「Cosmostation Browser Extension」。
 
 ![到 dao.like.co 網站，點「Cosmostation Browser Extension」](<../../../.gitbook/assets/Comostation dao.like.co 1.png>)
 
 ### 步驟二
 
-點擊「Confirm」。
+點「Confirm」。
 
 <figure><img src="../../../.gitbook/assets/Comostation dao.like.co 2.png" alt=""><figcaption><p>在 Cosmostation 點「Confirm」</p></figcaption></figure>
 
@@ -28,9 +28,9 @@ description: dao.like.co 管理 LikeCoin 必備
 
 ## 使用 dao.like.co 存入 LikeCoin 到 Cosmostation <a href="#deposit-your-likecoin-via-dao.like.co-to-cosmostation" id="deposit-your-likecoin-via-dao.like.co-to-cosmostation"></a>
 
-在 [dao.like.co](https://dao.like.co/) 點擊左上角錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。
+在 [dao.like.co](https://dao.like.co/) 點左上角錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。
 
-<figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>點擊錢包地址並複製</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>點錢包地址並複製</p></figcaption></figure>
 
 ## 使用 dao.like.co + Cosmostation 轉帳 LikeCoin 到其他錢包 <a href="#using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet" id="using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet"></a>
 

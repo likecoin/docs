@@ -70,7 +70,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 <figure><img src="../../.gitbook/assets/Keplr Register Liker ID 06.png" alt=""><figcaption></figcaption></figure>
 
-填寫你心儀 Liker ID 並點擊「確認」。
+填寫你心儀 Liker ID 並點「確認」。
 
 <figure><img src="../../.gitbook/assets/Keplr Register Liker ID 07.png" alt=""><figcaption></figcaption></figure>
 

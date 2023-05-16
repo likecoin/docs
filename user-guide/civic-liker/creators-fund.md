@@ -13,3 +13,5 @@ description: 目的為鼓勵讀者以按讚回饋優質創作，化讚為賞。
 免費 Liker 按讚也能令作者獲得少量創作基金資助。
 
 基金由 LikeCoin 社群通過[議案 #23](https://stake.like.co/proposals/23) 授權「創作基金委員會」管理，定期檢討。
+
+此外亦可參考[創作基金現況報告](https://blog.like.co/zh/tag/%E5%89%B5%E4%BD%9C%E5%9F%BA%E9%87%91/)。

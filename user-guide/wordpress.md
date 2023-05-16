@@ -16,6 +16,12 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 由於內容備份了在分散式檔案系統，擁有 NFT 的讀者等於擁有了一份內容的正本，可以隨時閱覽。
 
+## 更多詳情
+
+[Web3Press – 助 WordPress 作者邁向 Web3](https://blog.like.co/zh/web3press-%E5%8A%A9-wordpress-%E4%BD%9C%E8%80%85%E9%82%81%E5%90%91-web3/)
+
+[Web3Press 於 WordCamp Asia 2023 熱烈登場 | LikeCoin 社群報](https://blog.like.co/zh/web3press-%E6%96%BC-wordcamp-asia-2023-likecoin-%E7%A4%BE%E7%BE%A4%E5%A0%B1/)
+
 ## 如何安裝 Web3Press <a href="#installation" id="installation"></a>
 
 請執行以下步驟：
@@ -26,7 +32,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 ### 步驟二：開始安裝
 
-如圖點擊左方「外掛」，再點上方「安裝外掛」。
+如圖點左方「外掛」，再點上方「安裝外掛」。
 
 ![點「安裝外掛」](../.gitbook/assets/wordpress-1.png)
 

@@ -16,13 +16,13 @@ LikeCoin chain 經已於 2022 年 5 月 4 日成功升級為 LaiChiKok 版本。
 
 ### 步驟一
 
-到 [dao.like.co](https://dao.like.co/) 網站，點擊「Keplr Browser Extension」。
+到 [dao.like.co](https://dao.like.co/) 網站，點「Keplr Browser Extension」。
 
 <figure><img src="../../../.gitbook/assets/keplr06.png" alt=""><figcaption><p>到 dao.like.co 網站，點「Keplr Browser Extension」</p></figcaption></figure>
 
 ### 步驟二
 
-點擊「Approve」。
+點「Approve」。
 
 <figure><img src="../../../.gitbook/assets/keplr07.png" alt=""><figcaption><p>在 Keplr 點「Approve」</p></figcaption></figure>
 
@@ -48,9 +48,9 @@ LikeCoin chain 經已於 2022 年 5 月 4 日成功升級為 LaiChiKok 版本。
 
 ## 使用 dao.like.co 存入 LikeCoin 到 Keplr <a href="#deposit-your-likecoin-via-dao.like.co-to-keplr" id="deposit-your-likecoin-via-dao.like.co-to-keplr"></a>
 
-在 [dao.like.co](https://dao.like.co/) 點擊左上角錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。
+在 [dao.like.co](https://dao.like.co/) 點左上角錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。
 
-<figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>點擊錢包地址並複製</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>點錢包地址並複製</p></figcaption></figure>
 
 ## 使用 dao.like.co + Keplr 轉帳 LikeCoin 到其他錢包 <a href="#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet" id="using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet"></a>
 

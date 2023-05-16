@@ -16,6 +16,8 @@ description: 如何在 illustBuy 同人創作平台中加入 LikeCoin button
 
 以後你發佈的每篇作品都會自動顯示 LikeCoin button
 
-### 參考文章
+### 了解更多
 
-> [如何透過讚賞鍵賺取收入？](https://illustbuy.com/likecoin)
+[專營插畫的 NFT 市場 – illustBuy](https://blog.like.co/zh/%E5%B0%88%E7%87%9F%E6%8F%92%E7%95%AB%E7%9A%84-nft-%E5%B8%82%E5%A0%B4-illustbuy/)
+
+[如何透過讚賞鍵賺取收入？](https://illustbuy.com/likecoin)

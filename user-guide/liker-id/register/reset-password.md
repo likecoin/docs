@@ -33,7 +33,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ### 步驟三
 
-輸入你註冊的電郵地址再點擊「發送」，一般是你在 Liker Land 上已驗證的電郵地址
+輸入你註冊的電郵地址再點「發送」，一般是你在 Liker Land 上已驗證的電郵地址
 
 ![](../../../.gitbook/assets/resetpassword-2.png)
 
@@ -50,11 +50,11 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ### **步驟四**
 
-接收重設密碼郵件，點擊郵件中的鏈結重設密碼
+接收重設密碼郵件，點郵件中的鏈結重設密碼
 
 ![](../../../.gitbook/assets/resetpassword-4.png)
 
-輸入新密碼兩次，再點擊 "Reset Password"
+輸入新密碼兩次，再點 "Reset Password"
 
 ![](../../../.gitbook/assets/resetpassword-5.png)
 

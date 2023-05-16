@@ -24,9 +24,9 @@ NFT 可以是任何唯一的數位資料。一封電郵、一張照片、一個�
 \
 **LikeCoin 的** [**Writing NFT**](general-guides/writing-nft/) \*\*專為文字內容的需要而設計。\*\*以傳統的出版流程類比，「作品產權 - 印刷成書 - 上架販賣」可比 LikeCoin 的「產權元資料註冊 – 生成 NFT – 上架 NFT 市場」。在物理世界中出版可能有諸多限制，在元宇宙中的出版和價值交換卻更靈活和恆久。
 
-![](.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
+![Writing NFT](.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
 
-![](<.gitbook/assets/image (3).png>)
+![NFT V.S. 傳統出版](<.gitbook/assets/image (3).png>)
 
 ### LikeCoin DAO
 

@@ -10,7 +10,7 @@ description: 安裝步驟如下，必須使用 Chromium 核心架構瀏覽器
 
 ![ Chrome 線上應用程式商店按「加到 Chrome」安裝 Keplr](../../../.gitbook/assets/keplr01.png)
 
-點擊並將 Keplr 插件「Add extension」加到 Chrome。
+點「Add extension」將 Keplr 插件加到 Chrome。
 
 ![點「Add extension」將 Keplr 加到 Chrome](../../../.gitbook/assets/keplr02.png)
 
@@ -22,11 +22,11 @@ description: 安裝步驟如下，必須使用 Chromium 核心架構瀏覽器
 
 ### 方法一：以助記詞方式註冊
 
-安裝完成後，點擊 Keplr 圖示並顯示註冊畫面。點「Create new account」註冊新帳戶。
+安裝完成後，點 Keplr 圖示並顯示註冊畫面。點「Create new account」註冊新帳戶。
 
 <figure><img src="../../../.gitbook/assets/keplr03.png" alt=""><figcaption><p>點「Create new account」註冊新帳戶</p></figcaption></figure>
 
-第一行是你的助記詞 ( Mnemonic Seed )。請找一個安全的地方加密儲存，因為在回復錢包時會需要用到。輸入你的帳戶名稱 ( Account name )、新密碼 ( New Password )、確認密碼 ( Confirm password ) 然後點擊「Next」。
+第一行是你的助記詞 ( Mnemonic Seed )。請找一個安全的地方加密儲存，因為在回復錢包時會需要用到。輸入你的帳戶名稱 ( Account name )、新密碼 ( New Password )、確認密碼 ( Confirm password ) 然後點「Next」。
 
 <figure><img src="../../../.gitbook/assets/keplr04.png" alt=""><figcaption><p>記下助記詞，輸入帳戶名稱及密碼</p></figcaption></figure>
 
@@ -50,7 +50,7 @@ description: 安裝步驟如下，必須使用 Chromium 核心架構瀏覽器
 
 ### 方法二：以 Google 帳戶註冊
 
-點擊「Sign in with Google」註冊新 Keplr 帳戶。
+點「Sign in with Google」註冊新 Keplr 帳戶。
 
 <figure><img src="../../../.gitbook/assets/keplr google 1.png" alt=""><figcaption><p>「Sign in with Google」註冊新 Keplr 帳戶</p></figcaption></figure>
 
@@ -58,7 +58,7 @@ description: 安裝步驟如下，必須使用 Chromium 核心架構瀏覽器
 
 <figure><img src="../../../.gitbook/assets/keplr google 2.png" alt=""><figcaption><p>彈出 Sign in with Google 視窗，登入 Google 帳戶</p></figcaption></figure>
 
-輸入你的帳戶名稱 ( Account name )、新密碼 ( New Password )、確認密碼 ( Confirm password ) 然後點擊「Next」。
+輸入你的帳戶名稱 ( Account name )、新密碼 ( New Password )、確認密碼 ( Confirm password ) 然後點「Next」。
 
 <figure><img src="../../../.gitbook/assets/keplr google 3.png" alt=""><figcaption><p>輸入帳戶名稱及密碼</p></figcaption></figure>
 

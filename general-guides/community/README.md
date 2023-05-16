@@ -16,7 +16,7 @@ description: 想與社群及更多用戶聯繫分享經驗，有渠道嗎？
 
 ## 步驟二：選擇關注議題
 
-到 #select-roles 頻道點擊 emoji 選擇關注的議題。
+到 #select-roles 頻道點 emoji 選擇關注的議題。
 
 <figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption><p>點擊 emoji 選擇關注的議題</p></figcaption></figure>
 

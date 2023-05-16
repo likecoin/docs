@@ -22,13 +22,13 @@ description: 以硬件錢包保障你的 LikeCoin 資產
 
 ### 步驟三：到 Big Dipper 網站登入
 
-在 [Big Dipper](https://likecoin.bigdipper.live/) 網站的右上角點擊鑰匙符號並登入，會需要一些時間讓 Big Dipper 掃瞄並連接 Ledger 硬件。
+在 [Big Dipper](https://likecoin.bigdipper.live/) 網站的右上角點鑰匙符號並登入，會需要一些時間讓 Big Dipper 掃瞄並連接 Ledger 硬件。
 
 ![](../../.gitbook/assets/hardwarewallet-3.png)
 
 ### 步驟四：查看錢包明細
 
-成功登入後鑰匙符號轉變為頭像符號，點擊它即可查看錢包內帳戶明細。
+成功登入後鑰匙符號轉變為頭像符號，點它即可查看錢包內帳戶明細。
 
 ![](../../.gitbook/assets/hardwarewallet-4.png)
 
@@ -40,15 +40,15 @@ description: 以硬件錢包保障你的 LikeCoin 資產
 
 ## 領取收益
 
-步驟一：在 Big Dipper 點擊綠色「WITHDRAW」。
+步驟一：在 Big Dipper 點綠色「WITHDRAW」。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-1.png)
 
-步驟二：視窗彈出詢問你是否希望領取收益，點擊「NEXT」。
+步驟二：視窗彈出詢問你是否希望領取收益，點「NEXT」。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-2.png)
 
-步驟三：確認頁面顯示你將要進行的操作，點擊「SIGN」確認你需要領取收益。
+步驟三：確認頁面顯示你將要進行的操作，點「SIGN」確認你需要領取收益。
 
 ![](../../.gitbook/assets/hardwarewallet-withdraw-3.png)
 
@@ -66,17 +66,17 @@ description: 以硬件錢包保障你的 LikeCoin 資產
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-1.png)
 
-步驟二：於該投票人的「投票權」一欄點擊綠色的「DELEGATE」。
+步驟二：於該投票人的「投票權」一欄點綠色的「DELEGATE」。
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-2.png)
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-3.png)
 
-步驟三：視窗彈出要求你填寫委託 LikeCoin 的數量，你亦可以加上附註，再點擊「NEXT」。
+步驟三：視窗彈出要求你填寫委託 LikeCoin 的數量，你亦可以加上附註，再點「NEXT」。
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-4.png)
 
-步驟四：確認頁面顯示你將要進行的操作，假如內容正確，點擊「SIGN」。
+步驟四：確認頁面顯示你將要進行的操作，假如內容正確，點「SIGN」。
 
 ![](../../.gitbook/assets/hardwarewallet-delegate-5.png)
 
@@ -88,21 +88,21 @@ description: 以硬件錢包保障你的 LikeCoin 資產
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-1.png)
 
-步驟二：於該投票人的「投票權」一欄點擊紅色的「REDELEGATE」。
+步驟二：於該投票人的「投票權」一欄點紅色的「REDELEGATE」。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-2.png)
 
-步驟三：視窗彈出要求你填寫希望轉移委託的 LikeCoin 數量，點擊「SELECT A VALIDATOR」選擇你想轉移的目標驗證人。
+步驟三：視窗彈出要求你填寫希望轉移委託的 LikeCoin 數量，點「SELECT A VALIDATOR」選擇你想轉移的目標驗證人。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-3.png)
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-4.png)
 
-步驟四：填寫轉移委託 LikeCoin 的數量，你亦可以加上附註，再點擊「NEXT」。
+步驟四：填寫轉移委託 LikeCoin 的數量，你亦可以加上附註，再點「NEXT」。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-5.png)
 
-步驟五：確認頁面顯示你將要進行的操作，假如內容正確，點擊「SIGN」。
+步驟五：確認頁面顯示你將要進行的操作，假如內容正確，點「SIGN」。
 
 ![](../../.gitbook/assets/hardwarewallet-redelegate-6.png)
 

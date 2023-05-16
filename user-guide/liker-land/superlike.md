@@ -8,7 +8,7 @@ description: 何謂 Super Like？
 
 ## 概念
 
-點擊[讚賞鍵](../creator/)第六下，將自動分享文章到去中心社交媒體 [depub.space](../depub.space/)，提升高質內容的曝光度，推文永存於區塊鏈。
+點[讚賞鍵](../creator/)第六下，將自動分享文章到去中心社交媒體 [depub.space](../depub.space/)，提升高質內容的曝光度，推文永存於區塊鏈。
 
 [Liker Land app](download.md) 顯示 depub.space 的 World Feed。
 

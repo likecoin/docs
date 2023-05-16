@@ -16,9 +16,9 @@ description: 第一個 ISCN 的概念示範應用
 
 ## 步驟一：登入 app.like.co
 
-桌面電腦瀏覽器直接進入 [app.like.co](https://app.like.co/) 點擊右上角「Connect Wallet」或直接點「Register ISCN」。
+桌面電腦瀏覽器直接進入 [app.like.co](https://app.like.co/) 點右上角「Connect Wallet」或直接點「Register ISCN」。
 
-<figure><img src="../../.gitbook/assets/ISCN 1.png" alt=""><figcaption><p>在 app.like.co 點擊右上角「Connect Wallet」或直接點「Register ISCN」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 1.png" alt=""><figcaption><p>在 app.like.co 點右上角「Connect Wallet」或直接點「Register ISCN」</p></figcaption></figure>
 
 以 [Keplr](../wallet/keplr/)、[Cosmostation](../wallet/cosmostation/)、[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker ID](../../user-guide/liker-land/download.md) 任何一種方式連結並登入網站。
 
@@ -72,19 +72,19 @@ description: 第一個 ISCN 的概念示範應用
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1d.png" alt=""><figcaption><p>彈出 ISCN 視窗，點「允許」</p></figcaption></figure>
 
-完成連結後右上角顯示你的錢包地址，點擊「Register ISCN」開始註冊。
+完成連結後右上角顯示你的錢包地址，點「Register ISCN」開始註冊。
 
 <figure><img src="../../.gitbook/assets/ISCN 2.png" alt=""><figcaption><p>成功連結 app.like.co 並顯示錢包地址</p></figcaption></figure>
 
 ## 步驟二：上載內容
 
-點擊「Select a file」上傳檔案，例如相片或影片等，又或者直接把檔案拖拉到中間的位置。
+點「Select a file」上傳檔案，例如相片或影片等，又或者直接把檔案拖拉到中間的位置。
 
-<figure><img src="../../.gitbook/assets/ISCN 3.png" alt=""><figcaption><p>點擊「Select a file」上傳檔案</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 3.png" alt=""><figcaption><p>點「Select a file」上傳檔案</p></figcaption></figure>
 
 上載完成後，可點「View File Info」查看檔案的屬性和狀態，例如相片的 EXIF 元資料包括拍照時的位置及相機配置等。
 
-<figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p>點擊「View File Info」查看檔案的屬性和狀態</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p>點「View File Info」查看檔案的屬性和狀態</p></figcaption></figure>
 
 檢查完成後點「Start Register」。
 
@@ -97,7 +97,7 @@ description: 第一個 ISCN 的概念示範應用
 * Register your asset in Numbers Protocol－勾選它可將內容一拼傳送到 Numbers Protocol
 * ISCN Title－ISCN 標題
 * Description－內容描述
-* Author－點擊填寫更多內容，並可加入多於一名創作者
+* Author－點它填寫更多內容，並可加入多於一名創作者
   * Name－創作者名字
   * Liker ID－創作者的 Liker ID
   * Description－創作者簡介
@@ -111,7 +111,7 @@ description: 第一個 ISCN 的概念示範應用
 
 <figure><img src="../../.gitbook/assets/ISCN 7.png" alt=""><figcaption><p>填寫創作者資料</p></figcaption></figure>
 
-雖然很多欄目也不是必填，但建議盡量填寫讓別人可容易發堀你的內容。系統會估算這次註冊所需的費用，點擊「Register」繼續。
+雖然很多欄目也不是必填，但建議盡量填寫讓別人可容易發堀你的內容。系統會估算這次註冊所需的費用，點「Register」繼續。
 
 ## 步驟四：簽署並獲取 ISCN
 
@@ -157,11 +157,11 @@ Sign (2/2) Please sign to register ISCN record
 
 <figure><img src="../../.gitbook/assets/ISCN 14.png" alt=""><figcaption><p>成功註冊 ISCN</p></figcaption></figure>
 
-點擊「[My Publishing](https://app.like.co/works)」顯示所有你普經註冊 ISCN 的項目。
+點「[My Publishing](https://app.like.co/works)」顯示所有你普經註冊 ISCN 的項目。
 
-<figure><img src="../../.gitbook/assets/ISCN 15.png" alt=""><figcaption><p>點擊「My Publishing」查看所有 ISCN</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 15.png" alt=""><figcaption><p>點「My Publishing」查看所有 ISCN</p></figcaption></figure>
 
-點擊項目出現已註冊的元資料內容明細。
+點項目出現已註冊的元資料內容明細。
 
 <figure><img src="../../.gitbook/assets/ISCN 16.png" alt=""><figcaption><p>ISCN 詳盡資料</p></figcaption></figure>
 
