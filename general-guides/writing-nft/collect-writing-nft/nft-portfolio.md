@@ -1,5 +1,5 @@
 ---
-description: Check out other users' Writing NFT collections
+description: Check out other users' NFT collections
 ---
 
 # NFT Portfolio

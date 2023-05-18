@@ -1,5 +1,5 @@
 ---
-description: How to join the monthly meeting
+description: How to join the monthly community meeting
 ---
 
 # #Community Call

@@ -1,5 +1,5 @@
 ---
-description: dao.like.co is essential for managing LikeCoin
+description: Keplr + dao.like.co is essential for managing LikeCoin
 ---
 
 # Keplr + dao.like.co: Deposit, send, delegate, governance

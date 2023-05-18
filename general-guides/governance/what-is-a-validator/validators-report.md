@@ -1,5 +1,5 @@
 ---
-description: Know your validator
+description: Know your validator from the Validator Report
 ---
 
 # Validator Report

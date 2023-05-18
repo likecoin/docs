@@ -1,5 +1,7 @@
 ---
-description: It is definitely not talking interests from deposit.
+description: >-
+  LikeCoin rewards from staking is definitely not the same as interests from
+  deposit
 ---
 
 # Where comes the LikeCoin rewards?

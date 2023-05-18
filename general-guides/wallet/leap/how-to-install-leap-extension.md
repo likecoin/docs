@@ -1,5 +1,5 @@
 ---
-description: On Chromium Based Browsers
+description: Install Leap On Chromium Based Browsers
 ---
 
 # How to install Leap Browser Extension

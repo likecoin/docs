@@ -1,5 +1,5 @@
 ---
-description: What is Staking?
+description: What is Staking? Why stake LikeCoin?
 ---
 
 # Stake

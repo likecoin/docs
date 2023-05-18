@@ -1,3 +1,7 @@
+---
+description: Mintscan is a block explorer for viewing LikeCoin transactions
+---
+
 # Mintscan
 
 Mintscan is a Cosmos block explorer for exchanges and everyday users, provide transaction records, validators, blocks, proposals, IBC relayers and other information queries.

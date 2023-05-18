@@ -1,5 +1,5 @@
 ---
-description: Get Rid of Sales Hurdle
+description: Get Rid of Sales Hurdle on NFT
 ---
 
 # Dynamic Pricing

@@ -1,5 +1,5 @@
 ---
-description: dao.like.co is essential for managing LikeCoin
+description: Cosmostation + dao.like.co is essential for managing LikeCoin
 ---
 
 # Cosmostation + dao.like.co: Deposit, send, delegate, governance

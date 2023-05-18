@@ -1,3 +1,7 @@
+---
+description: The advantages of ISCN
+---
+
 # What's the point of decentralization to the content ecosystem?
 
 Decentralized Publishing has the following features so that the content will be perpetuated and distributed on the internet:

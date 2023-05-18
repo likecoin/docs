@@ -1,5 +1,5 @@
 ---
-description: Bilaterally check the old and new LikeCoin wallet address prefix
+description: Bilaterally check and translate the old and new LikeCoin wallet address prefix
 ---
 
 # #translate-wallet-prefix

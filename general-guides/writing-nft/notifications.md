@@ -1,5 +1,5 @@
 ---
-description: Interaction between authors and collectors
+description: Interaction between NFT authors and collectors
 ---
 
 # Notifications

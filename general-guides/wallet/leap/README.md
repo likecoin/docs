@@ -1,5 +1,5 @@
 ---
-description: Multichain wallet supporting LikeCoin
+description: Leap is a multichain wallet supporting LikeCoin
 ---
 
 # Leap Browser Extension Wallet

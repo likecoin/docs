@@ -1,5 +1,7 @@
 ---
-description: Multichain wallet supporting LikeCoin
+description: >-
+  Installation and Operation guide of Cosmostation, a multichain wallet
+  supporting LikeCoin
 ---
 
 # Cosmostation Browser Extension Wallet

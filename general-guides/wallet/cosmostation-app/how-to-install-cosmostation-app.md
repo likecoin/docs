@@ -1,5 +1,5 @@
 ---
-description: On iPhone or Android
+description: Install Cosmostation app On iPhone or Android
 ---
 
 # How to install Cosmostation app

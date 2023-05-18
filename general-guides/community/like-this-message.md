@@ -1,5 +1,5 @@
 ---
-description: '"Clap" on Discord'
+description: LIKE this message and "Clap" on Discord
 ---
 
 # LIKE this message

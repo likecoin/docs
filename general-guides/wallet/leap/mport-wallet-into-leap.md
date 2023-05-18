@@ -1,5 +1,5 @@
 ---
-description: Import Secret Recovery Phrase and create wallet
+description: Import Secret Recovery Phrase and create a Leap wallet
 ---
 
 # Import wallet into Leap

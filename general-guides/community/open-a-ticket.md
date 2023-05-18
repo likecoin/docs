@@ -1,5 +1,5 @@
 ---
-description: How to use the Discord support tool
+description: How to use the Discord support tool and open a ticket
 ---
 
 # #open-a-ticket

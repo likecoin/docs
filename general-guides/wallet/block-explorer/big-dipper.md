@@ -1,5 +1,5 @@
 ---
-description: Explore LikeCoin chain
+description: Big Dipper is LikeCoin's block explorer
 ---
 
 # Big Dipper

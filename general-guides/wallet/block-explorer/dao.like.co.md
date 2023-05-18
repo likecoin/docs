@@ -1,3 +1,7 @@
+---
+description: dao.like.co is the wallet interface of LikeCoin
+---
+
 # dao.like.co
 
 Using [dao.like.co](https://dao.like.co/) and selecting [Keplr Browser Extension](../keplr/), [Cosmostation Browser Extension](../cosmostation/) or [Authcore](../../../user-guide/liker-id/register/) to login, user can deposit, send and delegate LikeCoin; provide proposal deposit, vote and view transaction details.

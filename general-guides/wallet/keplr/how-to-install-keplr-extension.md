@@ -1,5 +1,5 @@
 ---
-description: On Chromium Based Browsers
+description: Install Keplr On Chromium Based Browsers
 ---
 
 # How to install Keplr Browser Extension

@@ -1,5 +1,5 @@
 ---
-description: On Chromium Based Browsers
+description: Install Cosmostation On Chromium Based Browsers
 ---
 
 # How to install Cosmostation Browser Extension

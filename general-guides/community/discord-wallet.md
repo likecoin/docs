@@ -1,5 +1,5 @@
 ---
-description: Send and Receive LikeCoin on Discord
+description: Send and Receive LikeCoin on LikeCoin Discord wallet
 ---
 
 # LikeCoin Discord wallet

@@ -1,5 +1,5 @@
 ---
-description: Get a small amount of LikeCoin for testing on testnet
+description: Get a small amount of LikeCoin from testnet faucet for testing on testnet
 ---
 
 # #faucet-testnet

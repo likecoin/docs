@@ -1,5 +1,5 @@
 ---
-description: How to check and copy my wallet address?
+description: How to check and copy my LikeCoin wallet address?
 ---
 
 # Wallet Address

@@ -1,3 +1,7 @@
+---
+description: Explaining ISCN
+---
+
 # What is ISCN
 
 ISCN ([International Standard Content Number](https://iscn.io/)) is the unique metadata record of a piece of content registered on the LikeCoin chain.&#x20;

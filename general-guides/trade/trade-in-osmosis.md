@@ -1,5 +1,5 @@
 ---
-description: DEX, registration not required, immediate trade
+description: Osmosis is a DEX, registration not required, immediate trade
 ---
 
 # Trade in Osmosis

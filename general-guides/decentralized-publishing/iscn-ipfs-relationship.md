@@ -1,3 +1,7 @@
+---
+description: ISCN and IPFS are closely related
+---
+
 # What is the relationship between ISCN and IPFS?
 
 The InterPlanetary File System (IPFS) is a decentralized file system protocol for storing and sharing data in a peer-to-peer networks. The IPFS hash of the content can serve as the content fingerprint in an ISCN record.  IPFS provides a lower-layer protocol foundation.

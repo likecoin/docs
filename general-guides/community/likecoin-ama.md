@@ -1,5 +1,5 @@
 ---
-description: 'How to join the #LikeCoin AMA?'
+description: How to join the LikeCoin AMA?
 ---
 
 # #LikeCoin AMA
