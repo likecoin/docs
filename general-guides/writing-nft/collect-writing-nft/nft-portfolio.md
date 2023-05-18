@@ -1,5 +1,5 @@
 ---
-description: 展示 Writing NFT 藏品
+description: 展示 NFT 藏品
 ---
 
 # NFT 展示櫃
