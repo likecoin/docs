@@ -1,5 +1,5 @@
 ---
-description: 使用 Cosmostation 手機應用程式直接存入及轉帳 LikeCoin
+description: 使用 Cosmostation app 直接存入及轉帳 LikeCoin
 ---
 
 # Cosmostation app：存入及轉帳

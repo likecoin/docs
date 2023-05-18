@@ -1,5 +1,5 @@
 ---
-description: 了解驗證人動向
+description: 使用驗證人報表了解驗證人動向
 ---
 
 # 驗證人報表

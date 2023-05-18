@@ -1,5 +1,5 @@
 ---
-description: 導入助記詞並建立錢包
+description: 在 Keplr 導入助記詞並建立錢包
 ---
 
 # 在 Keplr 導入錢包

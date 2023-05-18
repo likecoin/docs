@@ -1,5 +1,5 @@
 ---
-description: 自由買賣 Writing NFT
+description: 在二級市場自由買賣 Writing NFT
 ---
 
 # 二級市場

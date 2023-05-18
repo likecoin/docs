@@ -1,5 +1,5 @@
 ---
-description: 於 iPhone 及 Android
+description: 於 iPhone 及 Android 安裝 Cosmostation app
 ---
 
 # 安裝 Cosmostation app

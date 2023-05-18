@@ -1,3 +1,7 @@
+---
+description: Mintscan 是查看 LikeCoin 交易的區塊瀏覽器
+---
+
 # Mintscan
 
 Mintscan 是適用於交易所和日常用戶的 Cosmos 區塊瀏覽器。

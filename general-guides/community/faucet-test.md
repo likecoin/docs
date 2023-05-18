@@ -1,5 +1,5 @@
 ---
-description: 獲取少量 LikeCoin 在測試網試用各種功能
+description: 在 faucet testnet 獲取少量 LikeCoin 在測試網試用各種功能
 ---
 
 # #faucet-testnet

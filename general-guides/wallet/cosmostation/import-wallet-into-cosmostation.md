@@ -1,5 +1,5 @@
 ---
-description: 導入助記詞並建立錢包
+description: 在 Cosmostation 導入助記詞並建立錢包
 ---
 
 # 在 Cosmostation 導入錢包

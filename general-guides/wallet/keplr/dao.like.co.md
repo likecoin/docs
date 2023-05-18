@@ -1,5 +1,5 @@
 ---
-description: dao.like.co 管理 LikeCoin 必備
+description: Keplr + dao.like.co 管理 LikeCoin 必備
 ---
 
 # Keplr + dao.like.co：提存、委託、治理

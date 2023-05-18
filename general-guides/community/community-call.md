@@ -1,5 +1,5 @@
 ---
-description: 如何參與每月社群治理會議
+description: 如何參與每月社群治理會議 Community Call
 ---
 
 # #Community Call

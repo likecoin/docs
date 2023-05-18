@@ -1,5 +1,5 @@
 ---
-description: 安裝步驟如下，必須使用 Chromium 核心架構瀏覽器
+description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏覽器
 ---
 
 # 安裝 Keplr 瀏覽器擴充功能

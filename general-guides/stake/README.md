@@ -1,5 +1,5 @@
 ---
-description: 什麼是委託？
+description: 什麼是委託？為什麼要委託 LikeCoin？
 ---
 
 # 委託

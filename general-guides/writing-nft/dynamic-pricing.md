@@ -1,5 +1,5 @@
 ---
-description: 營銷無煩惱
+description: Writing NFT 營銷無煩惱
 ---
 
 # 動態定價

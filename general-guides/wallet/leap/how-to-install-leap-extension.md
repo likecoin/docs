@@ -1,5 +1,5 @@
 ---
-description: 安裝步驟如下，緊記保存好助記詞
+description: 安裝 Leap 步驟如下，緊記保存好助記詞
 ---
 
 # 安裝 Leap 瀏覽器擴充功能

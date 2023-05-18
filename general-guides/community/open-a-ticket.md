@@ -1,5 +1,5 @@
 ---
-description: 如可使用 Discord 客服工具
+description: 如可使用 Discord 客服工具 open a ticket 開票
 ---
 
 # #open-a-ticket

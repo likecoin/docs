@@ -1,5 +1,5 @@
 ---
-description: 在 LikeCoin Discord 傳送及接收 LikeCoin
+description: 在 LikeCoin Discord 錢包傳送及接收 LikeCoin
 ---
 
 # LikeCoin Discord 錢包

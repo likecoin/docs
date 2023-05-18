@@ -1,5 +1,5 @@
 ---
-description: 直接在 Discord 拍手
+description: LIKE this mesage 直接在 Discord 拍手
 ---
 
 # LIKE this mesage

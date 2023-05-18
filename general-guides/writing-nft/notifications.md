@@ -1,5 +1,5 @@
 ---
-description: 作者及收藏者雙向互動
+description: Writing NFT 作者及收藏者雙向互動
 ---
 
 # 通知功能

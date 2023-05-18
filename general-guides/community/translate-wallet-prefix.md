@@ -1,5 +1,5 @@
 ---
-description: 雙向查詢新舊前綴錢包地址
+description: 雙向查詢新舊前綴錢包地址靠 translate wallet prefix
 ---
 
 # #translate-wallet-prefix

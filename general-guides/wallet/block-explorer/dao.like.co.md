@@ -1,3 +1,7 @@
+---
+description: dao.like.co 是 LikeCoin 的錢包介面
+---
+
 # dao.like.co
 
 使用 [dao.like.co](https://dao.like.co/) 錢包介面配合 [Keplr Browser Extension](../keplr/)、[Cosmostation Browser Extension](../cosmostation/) 或 [Authcore](../../../user-guide/liker-id/register/) 登入，用戶可存入、轉帳、委託 LikeCoin；為議案提供保證金，投票及查看交易明細等。

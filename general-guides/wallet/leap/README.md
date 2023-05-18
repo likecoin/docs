@@ -1,5 +1,5 @@
 ---
-description: 支援 LikeCoin 的多鏈錢包
+description: Leap 是支援 LikeCoin 的多鏈錢包
 ---
 
 # Leap 瀏覽器擴充功能

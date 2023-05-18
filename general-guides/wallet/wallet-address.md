@@ -1,5 +1,5 @@
 ---
-description: 如何查看及複製自己的錢包地址？
+description: 如何查看及複製自己的 LikeCoin 錢包地址？
 ---
 
 # 錢包地址

@@ -1,5 +1,5 @@
 ---
-description: 絕對不是傳統意義上資本所產生的利息
+description: LikeCoin 的委託回報絕對不是傳統意義上資本所產生的利息
 ---
 
 # 因委託而產生的 LikeCoin 回報，錢從何來？
