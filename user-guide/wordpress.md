@@ -48,7 +48,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 安裝完成後，你會發現在左方的菜單中多了一個 "☆Web3Press" 的選項。恭喜你，你已經完成安裝了！
 
-<figure><img src="../.gitbook/assets/wordpress 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 4.png" alt=""><figcaption><p>☆Web3Press" 選項</p></figcaption></figure>
 
 ## 以 Keplr 簽署發佈 Writing NFT
 
@@ -60,63 +60,63 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 發佈文章後，在 Decentralized Publishing 底下點「Publish」。
 
-<figure><img src="../.gitbook/assets/W3Press mint 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 1.png" alt=""><figcaption><p>點「Publish」</p></figcaption></figure>
 
 彈出視窗，點「Next」。
 
-<figure><img src="../.gitbook/assets/W3Press mint 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 2.png" alt=""><figcaption><p>點「Next」</p></figcaption></figure>
 
 彈出 Keplr 視窗開始將內容上載到 IPFS 及 Arweave，點「Approve」。
 
-<figure><img src="../.gitbook/assets/W3Press mint 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 3.png" alt=""><figcaption><p>在 Keplr 視窗點「Approve」</p></figcaption></figure>
 
 上載途中請不要關閉視窗。
 
-<figure><img src="../.gitbook/assets/W3Press mint 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 4.png" alt=""><figcaption><p>上載途中不要關閉視窗</p></figcaption></figure>
 
 接下來將內容元資料註冊到 LikeCoin chain，在 Keplr 視窗點「Approve」。
 
-<figure><img src="../.gitbook/assets/W3Press mint 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 5.png" alt=""><figcaption><p>在 Keplr 視窗點「Approve」</p></figcaption></figure>
 
 註冊途中請不要關閉視窗。
 
-<figure><img src="../.gitbook/assets/W3Press mint 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 6.png" alt=""><figcaption><p>註冊途中不要關閉視窗</p></figcaption></figure>
 
 ### 步驟二：鑄造 Writing NFT
 
 ISCN 經已成功註冊，點「Continue to mint Writing NFTs」鑄造 Writing NFT。
 
-<figure><img src="../.gitbook/assets/W3Press mint 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 7.png" alt=""><figcaption><p>點「Continue to mint Writing NFTs」</p></figcaption></figure>
 
 {% hint style="info" %}
 你可以隨時到 [app.like.co](https://app.like.co/) 的 [My Publishing](https://app.like.co/works) 查看已註冊的 ISCN。
 {% endhint %}
 
-預覽你的 Writing NFT，如需添加或更改或生成 AI 封面可按「:pencil2:」，如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片；你亦可以按「:pencil2:」更改 Writing NFT 的標題及簡介，詳情可到[發行 NFT](../general-guides/writing-nft/nft-portal.md) 了解更多。完成後按「Next」。
+預覽你的 Writing NFT，如需添加或更改或生成 AI 封面可點「:pencil2:」，如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片；你亦可以點「:pencil2:」更改 Writing NFT 的標題及簡介，詳情可到[發行 Writing NFT](../general-guides/writing-nft/nft-portal.md) 了解更多。完成後點「Next」。
 
-<figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption><p>修改 Writing NFT 封面、標題及簡介後點「Next」</p></figcaption></figure>
 
-亦可為你的 Writing NFT 輸入作者給讀者的話，按「Add message to your collectors」並輸入訊息，完成後按「Next」繼續。
+亦可為你的 Writing NFT 輸入作者給讀者的話，點「Add message to your collectors」並輸入訊息，完成後點「Next」繼續。
 
-<figure><img src="../.gitbook/assets/W3Press mint 9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 9.png" alt=""><figcaption><p>輸入 Writing NFT 作者留言</p></figcaption></figure>
 
-彈出 Keplr 視窗數次以鑄造 Writing NFT，全部按「Approve」。
+彈出 Keplr 視窗數次以鑄造 Writing NFT，全部點「Approve」。
 
-<figure><img src="../.gitbook/assets/W3Press mint 10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 10.png" alt=""><figcaption><p>彈出 Keplr 視窗數次以鑄造 Writing NFT，全部點「Approve」</p></figcaption></figure>
 
 ### 步驟三：完成鑄造
 
-出現 Complete! 頁面代表經已成功鑄造，點「View NFT」預覽你的 Writing NFT。
+出現 Complete! 頁面代表經已成功鑄造，點「View NFT」瀏覽你的 Writing NFT。
 
-<figure><img src="../.gitbook/assets/W3Press mint 11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 11.png" alt=""><figcaption><p>點「View NFT」</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/W3Press mint 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 12.png" alt=""><figcaption><p>瀏覽你的 Writing NFT</p></figcaption></figure>
 
 
 
 你也可以到 Liker Land [我的書架](../general-guides/writing-nft/dashboard.md)查看你的創作。
 
-<figure><img src="../.gitbook/assets/W3Press mint 13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 13.png" alt=""><figcaption><p>到 Liker Land 我的書架查看創作</p></figcaption></figure>
 
 ## 設定 Liker ID <a href="#setting" id="setting"></a>
 
@@ -124,14 +124,14 @@ ISCN 經已成功註冊，點「Continue to mint Writing NFTs」鑄造 Writing N
 
 在管理介面左方菜單，點選 "Web3Press" 外掛設定，再選「Liker ID」。在右方畫面中，輸入 Liker ID 並點「Confirm」：
 
-<figure><img src="../.gitbook/assets/wordpress 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 5.png" alt=""><figcaption><p>輸入 Liker ID</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/wordpress 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 6.png" alt=""><figcaption><p>點「Confirm」</p></figcaption></figure>
 
 * Website Liker ID - 假如網站有多於一個作者，設定 Website Liker ID 後將於沒有設置 Liker ID 的作者文章顯示這個 Liker ID。
 * You Liker ID - 設定你自己的 Liker ID。而成功新增 WordPress 網站新使用者後，新用戶以自己的 WordPress 帳號登入，便可設定自己的 Liker ID 並顯示自己的 NFT Widget / 讚賞鍵。
 
-<figure><img src="../.gitbook/assets/wordpress 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 7.png" alt=""><figcaption><p>新增使用者</p></figcaption></figure>
 
 ## 更多有用功能 <a href="#publish-setting" id="publish-setting"></a>
 
@@ -145,11 +145,11 @@ Web3Press 支援 [Internet Archive](https://archive.org/)，用戶在發佈文�
 若你不知道什麼是 Internet Archive，它是一個非牟利數位圖書館，收藏書籍、電影、音樂及多達 6240 億個網頁存檔以供免費查閱，是網絡開放與自由化的倡議者。更多介紹可參看 ckxpress 有關 [DWeb Camp 之行的體驗分享](https://liker.land/nft/class/likenft1l6875l0mdvz4u9060t5nacd4xcx5ge5wlef2tj2jff2wkna93d2sfezzp9)。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/wordpress 11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 11.png" alt=""><figcaption><p>Publish to Internet Archive 設定</p></figcaption></figure>
 
 ### Publish to Matters <a href="#publish-to-matters" id="publish-to-matters"></a>
 
-由現在開始你可以把 WordPress 網站的文章同步到 Matters。只需簡單登入你的 Matters 電郵 ( Matters login email ) 及密碼 ( Password ) 再按「Login」即可完成設定。
+由現在開始你可以把 WordPress 網站的文章同步到 Matters。只需簡單登入你的 Matters 電郵 ( Matters login email ) 及密碼 ( Password ) 再點「Login」即可完成設定。
 
 撰寫文章時有三個選項：
 
@@ -157,7 +157,7 @@ Web3Press 支援 [Internet Archive](https://archive.org/)，用戶在發佈文�
 * 自動發佈文章至 Matters ( Auto publish post to Matters )－ 當你在 WordPress 網站發佈文章時，該文章亦會同時於 Matters 發佈。
 * 在頁尾增加原文鏈結 ( Add post link in footer ) － 在 Matters 文章中加入 WordPress 文章的原文鏈結。
 
-<figure><img src="../.gitbook/assets/wordpress 10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 10.png" alt=""><figcaption><p>Publish to Matters 設定</p></figcaption></figure>
 
 在 Matters 上發布的作品皆會被上載到星際文件系統（InterPlanetary File System，IPFS）的節點之上。
 
@@ -165,7 +165,7 @@ Web3Press 支援 [Internet Archive](https://archive.org/)，用戶在發佈文�
 
 啟用 Web monetization，[Coil](https://coil.com/) 訂戶訪問網站時可得到打賞。
 
-<figure><img src="../.gitbook/assets/wordpress 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 12.png" alt=""><figcaption><p>Web Monetization 設定</p></figcaption></figure>
 
 ## 其他設定
 
@@ -190,10 +190,10 @@ Web3Press 支援 [Internet Archive](https://archive.org/)，用戶在發佈文�
 
 文章註冊 ISCN 後，可設定是否展示 ISCN badge。狀態分為不展示 ( Not shown )、正常模式 ( Light Mode ) 及深色模式 ( Dark Mode )，選擇後點「Confirm」確認。
 
-<figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption><p>ISCN Badge 設定</p></figcaption></figure>
 
 ### LikeCoin widget advanced settings
 
 自訂每篇網站文章的 NFT Widget / 讚賞鍵顯示設置。
 
-<figure><img src="../.gitbook/assets/wordpress 9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 9.png" alt=""><figcaption><p>LikeCoin widget advanced settings 自訂每篇網站文章的 NFT Widget / 讚賞鍵顯示設置</p></figcaption></figure>
