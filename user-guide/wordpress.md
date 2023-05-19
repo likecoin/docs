@@ -26,164 +26,166 @@ Readers will get the access of an immutable content copy which is stored in dist
 
 ## How to install Web3Press <a href="#likecoin" id="likecoin"></a>
 
-Follow the steps:
+Follow the steps below:
 
-### Step 1：Login WordPress admin dashboard
+### Step 1: Login to the WordPress admin dashboard
 
-Go to the WordPress admin dashboard and login ( For example if your website is www.abc.com, the admin panel address is usually on www.abc.com/wp-admin ).
+Go to the WordPress admin dashboard and log in. For example, if your website is www.abc.com, the admin panel address is usually www.abc.com/wp-admin.
 
-### Step 2：Start Installing
+### Step 2: Begin the Installation
 
-Click on the Menu on the left, go to "Plugin" and click on "Add New" on top.
+Click on the Menu on the left-hand side, navigate to "Plugins," and click on "Add New" at the top.
 
-![](../.gitbook/assets/wordpress-1-en.png)
+![Click "Add New"](../.gitbook/assets/wordpress-1-en.png)
 
-### Step 3：Activate Web3Press
+### Step 3: Activate Web3Press
 
-Search for "Web3Press or "LikeCoin" and find the Wed3Press plugin, click "Install Now" and wait for the system to finish the job, then click "Activate".
+Search for "Web3Press" or "LikeCoin" in the search bar. Locate the Web3Press plugin and click on "Install Now". Wait for the system to complete the installation, and then click on "Activate".
 
-<figure><img src="../.gitbook/assets/wordpress 2-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 2-en.png" alt=""><figcaption><p>Click "Install Now"</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/wordpress 3-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 3-en.png" alt=""><figcaption><p>Click "Activate"</p></figcaption></figure>
 
-### Step 4：Installation Completed
+### Step 4: Installation Completed
 
-After installation, there will be an "☆Web3Press" option in the menu. Congratulations, installation is done!
+Once the installation is finished, you will find a "☆Web3Press" option in the menu. Congratulations, the installation is complete!
 
-<figure><img src="../.gitbook/assets/wordpress 4-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 4-en.png" alt=""><figcaption><p>"☆Web3Press option</p></figcaption></figure>
 
 ## Publishing Writing NFT with Keplr
 
-Please install the [Keplr browser extension](../general-guides/wallet/keplr/) and login before publishing Writing NFT and a small amount of LikeCoin is required. New users can use the [faucet](../general-guides/faucet.md) to get a small amount of LikeCoin to test, or check out how to [buy LikeCoin](../general-guides/trade/buy-likecoin.md).
+Please install the [Keplr browser extension](../general-guides/wallet/keplr/) and log in before publishing Writing NFT. A small amount of LikeCoin is required. New users can use the [faucet](../general-guides/faucet.md) to get a small amount of LikeCoin for testing or learn how to [buy LikeCoin](../general-guides/trade/buy-likecoin.md).
 
 ### Step 1: Register an ISCN
 
 After publishing the article, click "Publish" under Decentralized Publishing.
 
-<figure><img src="../.gitbook/assets/W3Press mint 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 1.png" alt=""><figcaption><p>Click "Publish"</p></figcaption></figure>
 
-Click "Next" on the pop-up windows.
+On the pop-up window, click "Next".
 
-<figure><img src="../.gitbook/assets/W3Press mint 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 2.png" alt=""><figcaption><p>Click "Next"</p></figcaption></figure>
 
-Click "Approve" on the Keplr pop-up window to start uploading content to IPFS and Arweave.
+On the Keplr pop-up window, click "Approve" to start uploading the content to IPFS and Arweave.
 
-<figure><img src="../.gitbook/assets/W3Press mint 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 3.png" alt=""><figcaption><p>On the Keplr pop-up window, click "Approve"</p></figcaption></figure>
 
-Please do not close the window during uploading.
+Please do not close the window during the upload process.
 
-<figure><img src="../.gitbook/assets/W3Press mint 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 4.png" alt=""><figcaption><p>Do not close the window during the upload process</p></figcaption></figure>
 
-Click "Approve" on the Keplr pop-up window to register the content metadata to the LikeCoin chain.
+On the Keplr pop-up window, click "Approve" to register the content metadata on the LikeCoin chain.
 
-<figure><img src="../.gitbook/assets/W3Press mint 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 5.png" alt=""><figcaption><p>On the Keplr pop-up window, click "Approve"</p></figcaption></figure>
 
-Please do not close the window during registration.
+Please do not close the window during the registration process.
 
-<figure><img src="../.gitbook/assets/W3Press mint 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 6.png" alt=""><figcaption><p>Do not close the window during the registration process</p></figcaption></figure>
 
 ### Step 2: Minting Writing NFT
 
-ISCN has been successfully registered, click "Continue to mint Writing NFTs".
+Once the ISCN has been successfully registered, click "Continue to mint Writing NFTs".
 
-<figure><img src="../.gitbook/assets/W3Press mint 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 7.png" alt=""><figcaption><p>Click "Continue to mint Writing NFTs"</p></figcaption></figure>
 
 {% hint style="info" %}
-You can always go to [app.like.co](https://app.like.co/) [My Publishing](https://app.like.co/works) to check the ISCN published.
+You can always go to [app.like.co](https://app.like.co/) [My Publishing](https://app.like.co/works) to check the published ISCN.
 {% endhint %}
 
-Preview your Writing NFT. If you want to add or change or create an AI cover of the Writing NFT, click ":pencil2:". If you don't need to change it / the article has no picture, the default OG picture of the article will be displayed / no picture will be displayed. You can also click ":pencil2:" to change the Title and description of your Writing NFT, to learn more please go to [Mint NFT](../general-guides/writing-nft/nft-portal.md). Then click "Next" to continue.&#x20;
+Preview your Writing NFT. If you want to add, change, or create an AI cover for the Writing NFT, click ":pencil2:". If you don't need to make any changes or if the article has no picture, the default OG picture of the article will be displayed or no picture will be displayed. You can also click ":pencil2:" to change the title and description of your Writing NFT. To learn more, please go to [Mint Writing NFT](../general-guides/writing-nft/nft-portal.md). Then click "Next" to continue.
 
-<figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption><p>Change the cover, title and description of your Writing NFT and click "Next"</p></figcaption></figure>
 
-You can also enter the Creator message. Click "Add message to your collectors" and enter a message. Click "Next" to continue.
+You can also enter a Creator message. Click "Add message to your collectors" and enter a message. Click "Next" to continue.
 
-<figure><img src="../.gitbook/assets/W3Press mint 9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 9.png" alt=""><figcaption><p>Enter Writing NFT Creator message</p></figcaption></figure>
 
-Click "Approve" on all the Keplr pop-up window during the minting process.
+Click "Approve" on all the Keplr pop-up windows during the minting process.
 
-<figure><img src="../.gitbook/assets/W3Press mint 10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 10.png" alt=""><figcaption><p>Click "Approve" on all the Keplr pop-up windows during the minting process</p></figcaption></figure>
 
 ### Step 3: Complete minting
 
-Complete! appears and the Writing NFT has been minted successfully. Click "View NFT" to preview your Writing NFT.
+The minting process is complete! A message saying "Complete!" will appear, indicating that the Writing NFT has been successfully minted. Click "View NFT" to view your Writing NFT.
 
-<figure><img src="../.gitbook/assets/W3Press mint 11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 11.png" alt=""><figcaption><p>Click "View NFT"</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/W3Press mint 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 12.png" alt=""><figcaption><p>View your Writing NFT</p></figcaption></figure>
 
-You can also check out your creations on the Liker Land [My Dashboard](../general-guides/writing-nft/dashboard.md).
+You can also check your creations on the Liker Land [My Dashboard](../general-guides/writing-nft/dashboard.md).
 
-<figure><img src="../.gitbook/assets/W3Press mint 13-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 13-en.png" alt=""><figcaption><p>Check your creations on the Liker Land My Dashboard</p></figcaption></figure>
 
 ## Configuring Liker ID
 
 Before configuring the LikeCoin plugin, please [register a Liker ID](liker-id/).
 
-On the menu, select the Web3Press plugin and select "Liker ID", then fill in the Liker ID and click "Confirm".
+On the menu, select the Web3Press plugin and choose "Liker ID". Fill in the Liker ID and click "Confirm".
 
-<figure><img src="../.gitbook/assets/wordpress 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 5.png" alt=""><figcaption><p>Fill in the Liker ID</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/wordpress 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 6.png" alt=""><figcaption><p>Click "Confirm"</p></figcaption></figure>
 
-* Website Liker ID - If the website has more than one author, the Liker ID will be displayed as default on the author's article if he/she has not set up his/her own Liker ID.
-* Your Liker ID - Set up your own Liker ID. And after successfully adding a new user on the WordPress website, the new user can log in with their WordPress account, set their Liker ID and display their own NFT Widget / Like button.
+* Website Liker ID - If the website has more than one author, the Liker ID will be displayed as the default for the author's articles if they have not set up their own Liker ID.
+* Your Liker ID - Set up your own Liker ID. After successfully adding a new user on the WordPress website, the new user can log in with their WordPress account, set their Liker ID, and display their own NFT Widget / Like button.
 
 ## Other Significant Features
 
 ### Publish to Internet Archive
 
-Fill in the Internet Archive S3 API Key and synchronize the article to Internet Archive when it is published.
+Fill in the Internet Archive S3 API Key and synchronize the article to the Internet Archive when it is published.
 
 {% hint style="info" %}
-Web3Press supports [Internet Archive](https://archive.org/). Articles are sync to the Internet Archive when the WordPress article is published. Please refer to [this article in _Witness_](https://web.archive.org/web/20221215135952/https://thewitnesshk.com/%E6%94%AF%E8%81%AF%E6%9C%83%E6%8B%92%E4%BA%A4%E8%B3%87%E6%96%99%E6%A1%88-%E9%84%92%E5%B9%B8%E5%BD%A4%E6%8C%87%E9%80%9A%E7%9F%A5%E6%9B%B8%E5%B1%AC%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BB%BB%E5%8B%99-%E6%8B%92/) as an example
+Web3Press supports the [Internet Archive](https://archive.org/). Articles are synced to the Internet Archive when the WordPress article is published. Please refer to [this article in _Witness_](https://web.archive.org/web/20221215135952/https://thewitnesshk.com/%E6%94%AF%E8%81%AF%E6%9C%83%E6%8B%92%E4%BA%A4%E8%B3%87%E6%96%99%E6%A1%88-%E9%84%92%E5%B9%B8%E5%BD%A4%E6%8C%87%E9%80%9A%E7%9F%A5%E6%9B%B8%E5%B1%AC%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BB%BB%E5%8B%99-%E6%8B%92/) as an example
 
-The Internet Archive is an American digital library with the stated mission of "universal access to all knowledge". It provides free public access to collections of digitized materials, including websites, software applications/games, music, movies/videos, moving images, and millions of books. In addition to its archiving function, the Archive is an activist organization, advocating a free and open Internet.
+The Internet Archive is an American digital library with the stated mission of "universal access to all knowledge". It provides free public access to collections of digitized materials, including websites, software applications/games, music, movies/videos, moving images, and millions of books. In addition to its archiving function, the Archive is an activist organization, advocating for a free and open Internet.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/wordpress 11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 11.png" alt=""><figcaption><p>Publish to Internet Archive setting</p></figcaption></figure>
 
 ### Publish to Matters
 
-From now on you can sync your WordPress article to Matters. Simply login your Matters email and password then write an article, the content will be on Matters as well.
+From now on, you can sync your WordPress article to [Matters](creator/matters.md). Simply log in with your Matters email and password, then write an article, and the content will also appear on Matters.
 
-There are 3 options:
+There are 3 options available:
 
-* Auto save draft to Matters - Posts drafted will be sync to your Matters's draft box  .
-* Auto publish post to Matters - A copy of the post will be automatically published to Matter when you publish a post on your WordPress site.
-* Add post link in footer - Link of the original WordPress post will be added to the post in Matters.
+* Auto save draft to Matters - Drafted posts will be synced to your Matters' draft box.
+* Auto publish post to Matters - A copy of the post will be automatically published to Matters when you publish a post on your WordPress site.
+* Add post link in footer - The link to the original WordPress post will be added to the post on Matters.
 
-By publishing on Matters, your articles will be stored to the distributed InterPlanetary File System (IPFS) nodes.
+<figure><img src="../.gitbook/assets/wordpress 10.png" alt=""><figcaption><p>Publish to Matters setting</p></figcaption></figure>
+
+By publishing on Matters, your articles will be stored on the distributed InterPlanetary File System (IPFS) nodes.
 
 ### Web Monetization
 
-Web monetization is now enabled on Web3Press plugin. It allows content creators to receive streaming money when [Coil](https://coil.com/) subscribers visit the website.
+Web monetization is now enabled on the Web3Press plugin. It allows content creators to receive streaming money when [Coil](https://www.coil.com/) subscribers visit the website.
 
-<figure><img src="../.gitbook/assets/wordpress 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 12.png" alt=""><figcaption><p>Web monetization setting</p></figcaption></figure>
 
 ## Other Settings
 
 ### LikeCoin Widget
 
-* Show in Posts: After configuring Liker ID, default to display NFT Widget / LikeCoin button button underneath each article
-* Show in Pages: Display like button in WordPress pages
+* Show in Posts: After configuring Liker ID, it will default to displaying the NFT Widget / LikeCoin button underneath each article.
+* Show in Pages: Display the like button in WordPress pages.
 
 {% hint style="info" %}
-**Config NFT Widget / LikeCoin button to appear in anywhere of the articles**
+**Configure the NFT Widget / LikeCoin button to appear anywhere in the articles.**
 
-You can also use shortcode \[likecoin] to display extra NFT Widget / LikeCoin buttons.
+You can also use the shortcode \[likecoin] to display additional NFT Widget / LikeCoin buttons.
 {% endhint %}
 
 ### ISCN Badge
 
-After the article is published to ISCN, you can set it if you want to display the ISCN badge. The options are "Not shown", "Light Mode" and "Dark Mode". Select and click "Confirm".
+After the article is published to ISCN, you can choose whether to display the ISCN badge. The options are "Not shown," "Light Mode," and "Dark Mode." Select your preference and click "Confirm."
 
-<figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption><p>ISCN Badge setting</p></figcaption></figure>
 
 ### LikeCoin widget advanced settings
 
-Customize NFT Widget / LikeCoin button display settings for each article.
+Customize the display settings of the NFT Widget / LikeCoin button for each article.
 
-<figure><img src="../.gitbook/assets/wordpress 9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 9.png" alt=""><figcaption><p>LikeCoin widget advanced settings</p></figcaption></figure>
 
 

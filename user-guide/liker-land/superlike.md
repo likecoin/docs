@@ -4,40 +4,40 @@ description: What is Super Like?
 
 # Super Like - Tweeting to the Space
 
-![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDKKfTTMClruYgMEN2z%2F-MDKL9uOAcQBWwTt-7PY%2Flikecoin\_ad92\_super\_like\_dragonball.png?alt=media\&token=aebf61cf-24c0-4d70-9cce-a582d82122e8)
+![Super Like](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDKKfTTMClruYgMEN2z%2F-MDKL9uOAcQBWwTt-7PY%2Flikecoin\_ad92\_super\_like\_dragonball.png?alt=media\&token=aebf61cf-24c0-4d70-9cce-a582d82122e8)
 
 ## Concept
 
-When users click the 6th like (Super Like) on the [LikeCoin button](../creator/) to an article, it will be posted to the decentralized social media [depub.space](../depub.space/). Not only does this new function boost visibility of quality content, but also helps to keep the content on blockchain indefinitely.
+When users click the 6th like (Super Like) on the [LikeCoin button](../creator/) of an article, it will be posted to the decentralized social media platform [depub.space](../depub.space/). This new feature not only enhances the visibility of high-quality content but also ensures that the content remains on the blockchain indefinitely.
 
-The [Liker Land app](download.md) displays the World Feed for depub.space.
+The [Liker Land app](download.md) provides access to the World Feed of depub.space, allowing users to explore and discover content.
 
-The gas fee and decentralized storage fee for uploading to depub.space will be subsidized by Liker Land.&#x20;
+The gas fee and decentralized storage fee for uploading to depub.space will be subsidized by Liker Land, alleviating the burden on users.
 
-_\*The previous 4 LikeCoin rewards were cancelled._
+_\*Note: The previous 4 LikeCoin rewards have been cancelled._
 
-### To Learn More
+#### To Learn More
 
 [Tweeting to the Space – Super Like x depub.space｜LikeCoin Newsletter](https://blog.like.co/en/tweeting-to-the-space-super-like-x-depub-space%EF%BD%9Clikecoin-newsletter/)
 
-### **Working Together to Build Web3 Content Universe**
+### Working Together to Build the Web3 Content Universe
 
-depub.space is a decentralized social media in the LikeCoin ecosystem. Every tweet is a record on LikeCoin chain. No registration is needed for the sake of privacy. You can use it simply with your [Keplr](../../general-guides/wallet/keplr/), [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/) or [Liker Land app](download.md) with Wallet Connect.
+depub.space is a decentralized social media platform within the LikeCoin ecosystem. Every post on depub.space is recorded on the LikeCoin chain. To prioritize privacy, no registration is required. You can easily access depub.space using [Keplr](../../general-guides/wallet/keplr/), [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/), or the [Liker Land app](download.md) with Wallet Connect.
 
-Creators need content curation tools and distribution channels. One of the conventional methods for promoting quality content is to share its hyperlink on social media such as Facebook or Twitter. Liker Land brings in a brand new option: Readers can click and share the content to depub.space from any website which supports the [LikeCoin button](../creator/).
+Creators require content curation tools and distribution channels. Traditionally, sharing the hyperlink of quality content on social media platforms like Facebook or Twitter has been a common method. Liker Land introduces a fresh alternative: Readers can click and share content to depub.space from any website that supports the [LikeCoin button](../creator/).
 
 ### Mobile Version of depub.space?
 
-Currently, users need to use the desktop Keplr, Cosmostation Browser Extension or Liker Land app with Wallet Connec to access depub.space on desktop, as it cannot be accessed on a mobile device directly. As the mobile wallet of LikeCoin, [Liker Land app ](download.md)may make tweeting on mobile possible once it is incorporated to depub.space. There are however many technical obstacles ahead, and developers in the community are discussing on [Discord](http://discord.gg/likecoin). You are most welcome to join us.
+Currently, users need to access depub.space on desktop through Keplr, Cosmostation Browser Extension, or the Liker Land app with Wallet Connect. Direct access to depub.space on mobile devices is not available. Once the LikeCoin mobile wallet, [Liker Land app](download.md), is integrated with depub.space, tweeting on mobile may become possible. However, there are technical challenges to overcome, and community developers are actively discussing this on [Discord](https://discord.gg/likecoin). We welcome your participation.
 
 ## Usage <a href="#zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
-* Clicking the LikeCoin button for the 5th time, the LikeCoin button icon will turn into a star totem. When clicking on the 6th time, the article is being "Super Liked".
-* The "Super Liked" article will be on Liker Land app.
-* A tick will then appear on the star totem representing one chance of Super Like being utilized. Super Like will be reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button is a progress bar to indicate the time of the reset.
-* The RSS icon on the lower right hand corner turned on and the article is being shared to Liker Land and depub.space.
-* Super Like cannot be accumulated, if it is not being used before the time to reset, it will be obsolete. You can only Super Like twice a day.
-* You can Super Like a single article for more than one time.
+* Clicking the LikeCoin button for the 5th time transforms the LikeCoin button icon into a star totem. When clicked for the 6th time, the article is "Super Liked."
+* The "Super Liked" article will be displayed on the Liker Land app.
+* A checkmark appears on the star totem, representing the utilization of one Super Like. Super Likes are reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button functions as a progress bar indicating the reset time.
+* The RSS icon in the lower right-hand corner activates, and the article is shared to Liker Land and depub.space.
+* Super Likes cannot be accumulated. If they are not used before the reset time, they will become obsolete. You can only use Super Likes twice a day.
+* You can Super Like a single article multiple times.
 
 
 
@@ -47,6 +47,6 @@ Currently, users need to use the desktop Keplr, Cosmostation Browser Extension o
 
 ## **How to participate?** <a href="#zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
-Only [Civic Liker](../civic-liker/) can enjoy Super Like twice a day.
+Only [Civic Likers](../civic-liker/) can enjoy using Super Likes twice a day.
 
 \[[Join **Civic Liker**](../civic-liker/be-a-civic-liker.md)]

@@ -6,7 +6,7 @@ description: A Writing NFT is an NFT representing the ownership of a written wor
 
 ![Writing NFT](../../.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
 
-## FAQ
+## Writing NFT FAQ
 
 ### What is Writing NFT?
 

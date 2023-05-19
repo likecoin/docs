@@ -181,7 +181,7 @@
 * [Web3Press](user-guide/wordpress.md)
 * [Liker Land](user-guide/liker-land/README.md)
   * [Download Liker Land](user-guide/liker-land/download.md)
-  * [Liker Land Web](user-guide/liker-land/liker-land-web.md)
+  * [Liker Land web](user-guide/liker-land/liker-land-web.md)
   * [Like - Reinventing the Like](user-guide/liker-land/like.md)
   * [Super Like - Tweeting to the Space](user-guide/liker-land/superlike.md)
 * [Civic Liker](user-guide/civic-liker/README.md)

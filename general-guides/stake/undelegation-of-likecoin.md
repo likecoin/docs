@@ -27,7 +27,7 @@ If you find that the amount of LikeCoin you undelegated is less than what you in
 
 Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to log in.
 
-<figure><img src="../../.gitbook/assets/Civic Liker Web 3-01.png" alt=""><figcaption><p>Go to dao.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Civic Liker Web 3-01.png" alt=""><figcaption><p>Go to dao.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in</p></figcaption></figure>
 
 ### **Step 2: Select the validator with delegation**
 

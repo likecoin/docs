@@ -42,7 +42,7 @@ Check out the below tutorial clip for staking via [dao.like.co](https://dao.like
 
 Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to log in.
 
-![Go to dao.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in.](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
+![Go to dao.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### Step 2: Select a validator&#xD;
 
@@ -52,7 +52,7 @@ Please note that the commission rate of each validator may not be the same.
 
 
 
-![On "Validators" select the validator to which you want to delegate.](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
+![On "Validators" select the validator to which you want to delegate](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
 
 ### Step 3: Stake
 

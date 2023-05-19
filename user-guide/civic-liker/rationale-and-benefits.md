@@ -6,7 +6,7 @@ description: For Civic Liker only
 
 ### Civic Liker x Independent bookstores
 
-Show off your brilliant Civic Liker avatar on Liker Land mobile app or on Settings [https://like.co/in/settings/](https://like.co/in/settings/), enjoy the benefits offered by various Hong Kong bookstores. Let's call up your friends to join the revolution for a better world!
+Show off your brilliant Civic Liker avatar on the Liker Land mobile app or in the Settings section at [https://like.co/in/settings/](https://like.co/in/settings/) and enjoy the benefits offered by various Hong Kong bookstores. Let's call up your friends to join the revolution for a better world!
 
 [序言書室 Hong Kong Reader](https://www.facebook.com/hkreaders/)：Chinese book 10% off, English book 5% off\
 [解憂舊書店 The Book Cure](https://www.facebook.com/thebookcure.hk)：10% off\
@@ -14,8 +14,8 @@ Show off your brilliant Civic Liker avatar on Liker Land mobile app or on Settin
 [信仰生活互動坊‧塔冷通心靈書舍](https://www.facebook.com/talentum.livingfaith) Talentum Living Faith：10% off\
 [森記圖書公司](https://www.facebook.com/samkeebookco/) Sam Kee Book Company：15% off, 30% off for second hand book
 
-![](<../../.gitbook/assets/Image from iOS.jpg>)
+![解憂舊書店](<../../.gitbook/assets/Image from iOS.jpg>)
 
-![](../../.gitbook/assets/84925728\_2846573142236045\_7338048532563099648\_n.jpg)
+![Civic Liker x Independent bookstores](../../.gitbook/assets/84925728\_2846573142236045\_7338048532563099648\_n.jpg)
 
-![](../../.gitbook/assets/85086425\_2846573175569375\_852406323692699648\_o.jpg)
+![Civic Liker x Independent bookstores](../../.gitbook/assets/85086425\_2846573175569375\_852406323692699648\_o.jpg)
