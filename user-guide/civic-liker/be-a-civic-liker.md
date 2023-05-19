@@ -24,45 +24,45 @@ description: 贊助創作者方法非常簡單
 
 到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../general-guides/wallet/keplr/)、[Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/) 或 [Authcore](../liker-id/register/) 登入已連結了 Liker ID 的錢包。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
+![到 dao.like.co 網站後選 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### 步驟二：選擇讚賞公民節點
 
 點左手邊菜單「Validators」，再點選右上角「All」，尋找名稱為 Civic Liker 的讚賞公民節點然後點下去。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
+![在「Validators」尋找名稱為 Civic Liker 的讚賞公民節點然後點下去](<../../.gitbook/assets/Civic Liker Web 3-02.png>)
 
 ### 步驟三：進行委託
 
 在 Civic Liker 節點右上角點「Stake」進行委託。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
+![點「Stake」進行委託](<../../.gitbook/assets/Civic Liker Web 3-03.png>)
 
 ### 步驟四：輸入委託金額
 
 出現 Stake 頁面，輸入你所需要委託的 LikeCoin 數量，再點「Next」。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-04.png>)
+![輸入你所需要委託的 LikeCoin 數量，點「Next」](<../../.gitbook/assets/Civic Liker Web 3-04.png>)
 
 ### 步驟五：確認委託數量及手續費
 
 確認委託數量及所需手續費無誤後再點「Next」。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-05.png>)
+![再點「Next」](<../../.gitbook/assets/Civic Liker Web 3-05.png>)
 
 ### 步驟六：查看委託
 
 系統要求簽署確認，Keplr 及 Cosmostation 用戶點擊「Send」以後會彈出視窗要求確認執行。Authcore 用戶直接點擊「Send」。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
+![點「Send」](<../../.gitbook/assets/Civic Liker Web 3-06.png>)
 
 出現 Send and confirming 畫面後再出現 Successfully staked! 即順利完成委託。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-07.png>) ![](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
+![Sent and confirming](<../../.gitbook/assets/Civic Liker Web 3-07.png>) ![Successfully staked! 完成委託](<../../.gitbook/assets/Civic Liker Web 3-08.png>)
 
 點左手邊菜單選擇「Portfolio」，即可看到 You Stake 一欄顯示成功委託予 Civic Liker 讚賞公民節點。
 
-![](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
+![點左手邊菜單選「Portfolio」查看委託明細](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
 
 ## 使用 Liker Land app 委託成為讚賞公民
 

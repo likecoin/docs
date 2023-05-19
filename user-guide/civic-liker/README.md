@@ -77,4 +77,4 @@ _\*創作者收到讚賞幣需自行兌換成當地貨幣。_
 
 ## 【[成為讚賞公民](be-a-civic-liker.md)】
 
-![](<../../.gitbook/assets/Civic Liker.png>)
+![成為讚賞公民](<../../.gitbook/assets/Civic Liker.png>)
