@@ -1,5 +1,5 @@
 ---
-description: Osmosis 是 去中心交易所，無需註冊，立即交易
+description: Osmosis 是去中心交易所，無需註冊，立即交易
 ---
 
 # 在 Osmosis 交易

@@ -4,17 +4,17 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 # 讚賞公民
 
-![](../../.gitbook/assets/LikeCoin\_AD110\_CLWeb3\_Banner1.png)
+![Civic Liker Web3](../../.gitbook/assets/LikeCoin\_AD110\_CLWeb3\_Banner1.png)
 
-### 【[成為讚賞公民](be-a-civic-liker.md)】
+## 【[成為讚賞公民](be-a-civic-liker.md)】
 
 讚賞公民是一場回饋優秀內容的運動，讓讀者化讚為賞，回饋創作。
 
-### 讚賞公民 Web3
+## 讚賞公民 Web3
 
-用戶只需以綁定 Liker ID 的錢包地址，委託最少 5,000 LikeCoin 到「讚賞公民節點」，即可成為讚賞公民。讚賞公民節點獲得的**委託回報**將全數讓用戶以按讚的方式回饋作者。
+用戶只需以綁定 Liker ID 的錢包地址[，委託最少 5,000 LikeCoin 到「讚賞公民節點」，即可成為讚賞公民](be-a-civic-liker.md)。讚賞公民節點獲得的**委託回報**將全數讓用戶以按讚的方式回饋作者。
 
-### 不花分毫，即能回饋創作
+## 不花分毫，即能回饋創作
 
 讚 ＝ 賞。任何網站都可安裝 **LikeCoin button**，令讚賞公民每一按讚，同時分配**委託回報**的收益給作者，不用消耗委託的本金。
 
@@ -26,9 +26,10 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 >
 > 用戶可隨時取回已委託的 LikeCoin 本金（冷卻期 21 天）。
 
-![](<../../.gitbook/assets/image (35).png>)
+![安裝 LikeCoin button，令讚賞公民每一按讚，同時分配委託回報的收益給作者](<../../.gitbook/assets/image (35).png>)
 
-### 按讚分配「創作基金」&#xD;
+按讚分配「創作基金」
+
 
 創作者所得的回饋來自兩部份：除了讚賞公民的委託回報外，還有「[創作基金](creators-fund.md)」奬勵。
 
@@ -38,21 +39,23 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 ![基金由 LikeCoin 社群通過議案 #23 授權「創作基金委員會」管理，定期檢討。](../../.gitbook/assets/未命名簡報.jpeg)
 
-### 成為持份者，參與 LikeCoin DAO
+## 成為持份者，參與 LikeCoin DAO
 
 委託了的 LikeCoin 代表投票權，可直接參與 [LikeCoin DAO 議案投票](../../general-guides/governance/direct-vote.md)。委託的 LikeCoin 愈多，投票權也愈大。
 
-### 鼓勵開放多元&#xD;
+鼓勵開放多元
+
 
 我們相信讚賞付出的每分每亳應該用作鼓勵開放多元，因此作者只管在慣用的平台繼續發表作品，不需把作品收在付費牆後犧牲觸及率都能獲得讀者支持。當然，只選擇開放部份內容以讚賞公民方式營運亦是一個選項。
 
 鼓勵更多讚賞公民用戶加入，等於鼓勵更多開放的內容誕生。
 
-### &#xD;NFT 收藏品
+NFT 收藏品
+-------
 
 成為讚賞公民，有機會獲得專屬的 NFT 收藏品。
 
-### 讚賞公民的背景
+## 讚賞公民的背景
 
 讚賞公民運動始於 2019年1月1日，早期版本讀者能透過每月訂閱，以按讚分配每月贊助金額，化讚為賞回饋創作。截至 2022年2月，24,000 位作者透過計劃獲得超過 5,000 萬 LikeCoin 收入。
 
@@ -68,10 +71,10 @@ _\*創作者收到讚賞幣需自行兌換成當地貨幣。_
 [faq.md](faq.md)
 {% endcontent-ref %}
 
-### 延仲閱讀
+#### 更多詳情
 
 [讚賞公民 Web3 改版迎虎年](https://blog.like.co/zh/civic-liker-web3-announcement/)
 
-### 【[成為讚賞公民](be-a-civic-liker.md)】
+## 【[成為讚賞公民](be-a-civic-liker.md)】
 
 ![](<../../.gitbook/assets/Civic Liker.png>)

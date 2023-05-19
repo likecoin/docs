@@ -16,7 +16,7 @@ description: 何謂 Super Like？
 
 _(\*舊有的 4 LikeCoin 奬勵已被取消。)_
 
-### 更多詳情
+#### 更多詳情
 
 [推文到宇宙 – Super Like x depub.space｜ LikeCoin 社群報](https://blog.like.co/zh/%E6%8E%A8%E6%96%87%E5%88%B0%E5%AE%87%E5%AE%99-super-like-x-depub-space%EF%BD%9C-likecoin-%E7%A4%BE%E7%BE%A4%E5%A0%B1/)
 
