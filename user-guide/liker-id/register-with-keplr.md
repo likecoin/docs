@@ -20,7 +20,7 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 | 用戶需自行管理私鑰，安全性較高                                                                                                                                           | 由 Authcore 提供的密碼管理技術管理用戶私鑰，較容易使用，但註冊後用戶也可以[匯出私鑰](export-seed-words.md)自行管理錢包                                                                               |
 | 錢包支援包括 LikeCoin 的多種貨幣，如 ATOM、OSMO、AKT、CRO、KAVA 等等                                                                                                         | 錢包只支援 LikeCoin                                                                                                                                             |
 | 只能以 Keplr 錢包登入                                                                                                                                            | 可以[社交帳號](register/social-media-logins.md) ( Google, Facebook, etc ) 或電郵登入                                                                                  |
-| 只能以桌面電腦 Chrome 瀏覽器的 Keplr extension 登入 Liker Land 網頁版，【**不能登入  Liker Land app】**                                                                          | 可登入 [Liker Land 手機應用程式](../liker-land/download.md)，也可以手機瀏覽器登入 Liker Land 網頁版                                                                               |
+| 只能以桌面電腦 Chrome 瀏覽器的 Keplr extension 登入 Liker Land 網頁版，也【**不能登入  Liker Land app】**                                                                         | 可登入 [Liker Land 手機應用程式](../liker-land/download.md)，也可以手機瀏覽器登入 Liker Land 網頁版                                                                               |
 | 支援使用硬件錢包​                                                                                                                                                 | 不支援硬件錢包                                                                                                                                                    |
 | 必需要轉入收款方的錢包地址[轉帳](../../general-guides/wallet/keplr/keplr-deposit-and-send-likecoin.md)                                                                   | 可輸入收款方的 Liker ID 或錢包地址[轉帳](../../general-guides/wallet/like-pay.md)                                                                                        |
 | 以 [dao.like.co 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin.md#delegate-via-dao.like.co)                                                | 以 [Liker Land app 或 dao.like.co 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin.md)                                                         |
@@ -46,37 +46,37 @@ description: 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 到網址 [https://liker.land/](https://liker.land/civic/) 點右上角「連接錢包」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 01.png" alt=""><figcaption><p>點「連接錢包」</p></figcaption></figure>
 
 彈出視窗，點「Keplr」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 02.png" alt=""><figcaption><p>點「Keplr」</p></figcaption></figure>
 
 彈出 Keplr 視窗點「Approve」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 03.png" alt=""><figcaption><p>彈出 Keplr 視窗點「Approve」</p></figcaption></figure>
 
-在頭像選「讚賞公民」，或者直到網址 [https://liker.land/civic](https://liker.land/civic)。
+從 [Liker Land 網站](https://liker.land)主頁下方訪問[讚賞公民](https://liker.land/en/civic)或者直到網址 [https://liker.land/civic](https://liker.land/civic)。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Civic Liker menu.png" alt=""><figcaption><p>讚賞公民</p></figcaption></figure>
 
 ### 步驟三：開始註冊
 
 點「註冊 Liker ID」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 05.png" alt=""><figcaption><p>點「註冊 Liker ID」</p></figcaption></figure>
 
 彈出 Keplr 視窗，點「Approve」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 06.png" alt=""><figcaption><p>彈出 Keplr 視窗，點「Approve」</p></figcaption></figure>
 
 填寫你心儀 Liker ID 並點「確認」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 07.png" alt=""><figcaption><p>填寫 Liker ID 並點「確認」</p></figcaption></figure>
 
 輸入顯示名稱及個人簡介再點「確認」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 08.png" alt=""><figcaption><p>輸入顯示名稱及個人簡介再點「確認」</p></figcaption></figure>
 
 Liker ID 將成功註冊並轉回 Liker Land 網頁。
 
@@ -90,7 +90,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁。
 
 到 Liker Land [設定頁面](https://like.co/in/settings)，你會看到你 Liker ID 對應的 LikeCoin 錢包地址和 Keplr 所顯示的錢包地址相同，亦即代表你已成功使用 Keplr 註冊 Liker ID。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 09.png" alt=""><figcaption><p>查看錢包地址</p></figcaption></figure>
 
 {% hint style="info" %}
 假如你同時擁有以 Authcore 及 Keplr 註冊的 Liker ID，請確認使用菜單上的登出功能完全登出才登入另一個 Liker ID。

@@ -48,7 +48,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 安裝完成後，你會發現在左方的菜單中多了一個 "☆Web3Press" 的選項。恭喜你，你已經完成安裝了！
 
-<figure><img src="../.gitbook/assets/wordpress 4.png" alt=""><figcaption><p>☆Web3Press" 選項</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 4.png" alt=""><figcaption><p>☆Web3Press 選項</p></figcaption></figure>
 
 ## 以 Keplr 簽署發佈 Writing NFT
 
