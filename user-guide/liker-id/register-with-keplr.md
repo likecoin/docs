@@ -1,5 +1,5 @@
 ---
-description: 去中化註冊  Liker ID 及管理你的 LikeCoin
+description: 以 Keplr 去中化註冊  Liker ID 及管理你的 LikeCoin
 ---
 
 # 以 Keplr 註冊 Liker ID
@@ -96,7 +96,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁。
 假如你同時擁有以 Authcore 及 Keplr 註冊的 Liker ID，請確認使用菜單上的登出功能完全登出才登入另一個 Liker ID。
 {% endhint %}
 
-## 使用指南
+## Keplr 使用指南
 
 {% content-ref url="../../general-guides/wallet/keplr/" %}
 [keplr](../../general-guides/wallet/keplr/)

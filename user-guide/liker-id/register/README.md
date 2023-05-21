@@ -12,27 +12,27 @@ description: Liker ID 要怎樣註冊？
 
 ### 步驟一：開始註冊 <a href="#1" id="1"></a>
 
-打開 Liker Land 手機應用程式，點擊「註冊」。
+打開 Liker Land 手機應用程式，點「註冊」。
 
-<figure><img src="../../../.gitbook/assets/signup 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/signup 01.png" alt=""><figcaption><p>點「註冊」</p></figcaption></figure>
 
 ### 步驟二：選擇註冊方式
 
 Liker Land app 提供電郵地址+密碼及社交帳號 Google 登入、Facebook 登入、Twitter 登入、Apple ID 登入及 Matters 登入等 6 種註冊方式。建議以社交帳號註冊，過程較簡單安全。點擊登入畫面上方的社交帳號圖示。
 
-<figure><img src="../../../.gitbook/assets/signup 02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/signup 02.png" alt=""><figcaption><p>選擇註冊方式</p></figcaption></figure>
 
 ### 步驟三：登入社交帳號及進行授權
 
 填上社交帳戶資料並登入帳戶。以 Twitter 帳號為例，請填入 Twitter 用戶名稱及登入密碼，並點「授權應用程式」。
 
-<figure><img src="../../../.gitbook/assets/signup 03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/signup 03.png" alt=""><figcaption><p>登入社交帳號及進行授權</p></figcaption></figure>
 
 ### 步驟四：創建 Liker ID
 
 彈出綠色的畫面如下，請輸入你喜歡的 Liker ID。系統已為你預設選了一個，若不滿意可在此步驟中修改。填上 Liker ID 後，選「確認」完成程序。
 
-<figure><img src="../../../.gitbook/assets/signup 04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/signup 04.png" alt=""><figcaption><p>輸入你喜歡的 Liker ID</p></figcaption></figure>
 
 {% hint style="warning" %}
 一旦創建了 Liker ID，便不能修改字詞組合或登入方式。若不想再用某個 Liker ID，建議你把它留著不用，再創建一個新的。**留意一個電郵地址只可以註冊一個 Liker ID。**

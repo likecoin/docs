@@ -17,31 +17,31 @@ description: Liker Land app 錢包終於可以導出助記詞
 
 使用桌面電腦訪問 [https://like.co/in/widget/authcore/seedwords](https://like.co/in/widget/authcore/seedwords)，出現提示字句後點「接受」。
 
-![](<../../.gitbook/assets/Seed Words 1.png>)
+![出現提示字句後點「接受」](<../../.gitbook/assets/Seed Words 1.png>)
 
 ### 步驟二：認證身份
 
 點「按此認證身份」。
 
-![](<../../.gitbook/assets/Seed Words 2.png>)
+![點「按此認證身份」](<../../.gitbook/assets/Seed Words 2.png>)
 
 ### 步驟三：重新登入 Liker Land
 
 以電郵及密碼，又或者任何一種[社交帳號登入](register/social-media-logins.md)方式登入 Liker Land。
 
-![](<../../.gitbook/assets/Seed Words 3.png>)
+![重新登入 Liker Land](<../../.gitbook/assets/Seed Words 3.png>)
 
 ### 步驟四：輸入 Authcore 密碼
 
 輸入登入密碼，再點「顯示錢包助記詞」。
 
-![](<../../.gitbook/assets/Seed Words 4.png>)
+![輸入登入密碼，再點「顯示錢包助記詞」](<../../.gitbook/assets/Seed Words 4.png>)
 
 ### 步驟五：複製錢包助記詞
 
 點複製即可複製錢包助記詞。
 
-![](<../../.gitbook/assets/Seed Words 5.png>)
+![複製錢包助記詞](<../../.gitbook/assets/Seed Words 5.png>)
 
 ## 以 Liker Land 手機應用程式匯出助記詞
 
@@ -49,25 +49,25 @@ description: Liker Land app 錢包終於可以導出助記詞
 
 在手機應用程式右下角點設定後再點「匯出錢包助記詞」。
 
-<figure><img src="../../.gitbook/assets/seed word mobile 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/seed word mobile 1.png" alt=""><figcaption><p>點「匯出錢包助記詞」</p></figcaption></figure>
 
 ### 步驟二：確認警告
 
 了解後，點「確認」，系統會要求重新再次登入帳戶。
 
-<figure><img src="../../.gitbook/assets/seed word mobile 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/seed word mobile 2.png" alt=""><figcaption><p>點「確認」</p></figcaption></figure>
 
 ### 步驟三：輸入 Authcore 密碼
 
 再次輸入密碼後點「確認」。
 
-<figure><img src="../../.gitbook/assets/seed word mobile 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/seed word mobile 3.png" alt=""><figcaption><p>輸入密碼後點「確認」</p></figcaption></figure>
 
 ### 步驟四：顯示助記詞
 
 點「複製」將助記詞複製到其他地方。
 
-<figure><img src="../../.gitbook/assets/seed word mobile 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/seed word mobile 4.png" alt=""><figcaption><p>點「複製」將助記詞複製</p></figcaption></figure>
 
 接下來你可以將助記詞導入 Keplr, Cosmostation 或其他支援 Cosmos 生態系統的錢包：
 

@@ -19,33 +19,33 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 ### 手機版
 
-於 [Liker Land 手機應用程式](../../liker-land/download.md)選畫面右下角設定點選「安全」，再點選「社交帳戶登入」。
+於 [Liker Land 手機應用程式](../../liker-land/download.md)選畫面右下角設定點「安全」，再點「社交帳戶登入」。
 
-<figure><img src="../../../.gitbook/assets/social-media-logins-mobile.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/social-media-logins-mobile.png" alt=""><figcaption><p>點「社交帳戶登入」</p></figcaption></figure>
 
-點擊欲綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
+點希望綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
 
-<figure><img src="../../../.gitbook/assets/social-media-logins-mobile-settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/social-media-logins-mobile-settings.png" alt=""><figcaption><p>點社交媒體帳號綁定</p></figcaption></figure>
 
 ### 網頁版
 
-到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」登入。
+到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」登入。
 
-<figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption><p>點「切換舊介面」登入</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/legacy login.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/legacy login.png" alt=""><figcaption><p>登入帳號</p></figcaption></figure>
 
 打開「Authcore 設定」。
 
-<figure><img src="../../../.gitbook/assets/Authcore settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore settings.png" alt=""><figcaption><p>打開「Authcore 設定」</p></figcaption></figure>
 
-點選「安全設定」及「社群登入」。
+點「安全設定」及「社群登入」。
 
-![](../../../.gitbook/assets/social-media-logins-1.png)
+![點「安全設定」及「社群登入」](../../../.gitbook/assets/social-media-logins-1.png)
 
-點擊欲綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
+點希望綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
 
-![](<../../../.gitbook/assets/image (15) (2).png>)
+![點社交媒體帳號綁定](<../../../.gitbook/assets/image (15) (2).png>)
 
 ## 如何綁定 Matters 帳號 <a href="#matters" id="matters"></a>
 
