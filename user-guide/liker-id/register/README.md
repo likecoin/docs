@@ -2,52 +2,52 @@
 description: Login by social media accounts, Matters, or email/password
 ---
 
-# Register Liker ID by general method (with Authcore)
+# Register Liker ID through the general method (with Authcore)
 
-Using [Liker Land mobile app](https://liker.land/getapp) can register Liker ID by general method (with Authcore). However this login method will slowly fade out. Users are advised to [export your seed words from Authcore](../export-seed-words.md) and import them into Keplr in order to manage your LikeCoin.
+Using the [Liker Land mobile app](https://liker.land/getapp), you can register a Liker ID through the general method (with Authcore). However, this login method will gradually phase out. Users are advised [export their seed words from Authcore](../export-seed-words.md) and import them into Keplr or other wallets to manage their LikeCoin.
 
-## Register a Liker ID by general method (with Authcore) using the Liker Land app
+## Register a Liker ID through the general method (with Authcore) using the Liker Land app
 
-Registering a Liker ID is easy, please [download Liker Land app](../../liker-land/download.md) and follow the instructions below:
+To register a Liker ID through the general method (with Authcore) using the [Liker Land app](../../liker-land/download.md), follow these instructions:
 
 ### Step 1: Start Registering
 
-Open your Liker Land app, Click the "Sign Up" Button
+Open your Liker Land app and click the "Sign Up" button.
 
-<figure><img src="../../../.gitbook/assets/signup 01-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/signup 01-en.png" alt=""><figcaption><p>Click "Sign Up"</p></figcaption></figure>
 
 ### **Step 2: Choose your Sign Up method**
 
-Liker Land app provides 6 registering options such as email+password and social logins: Google login, Facebook login, Twitter login, Apple login and Matters login. Suggest to register with your social media accounts, which is safer and easier. Click on the social media icon to continue.
+The Liker Land app provides 6 registration options, such as email+password and social logins: Google login, Facebook login, Twitter login, Apple login, and Matters login. We suggest registering with your social media accounts, as it is safer and easier. Click on the social media icon to continue.
 
-<figure><img src="../../../.gitbook/assets/signup 02-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/signup 02-en.png" alt=""><figcaption><p>Choose your Sign Up method</p></figcaption></figure>
 
-### Step 3: Login your social media account and **authorize** the registration
+### Step 3: Log in to your social media account and authorize the registration
 
-Fill in your social media account details and login. Take Twitter as an example, fill in the Twitter handle and password then click "Authorize app".
+Fill in your social media account details and log in. As an example, if you choose Twitter, fill in your Twitter handle and password, then click "Authorize app".
 
-<figure><img src="../../../.gitbook/assets/signup 03-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/signup 03-en.png" alt=""><figcaption><p>Log in to your social media account and authorize the registration</p></figcaption></figure>
 
 ### Step 4: Create your Liker ID
 
-A green page appears and you can choose your favorite Liker ID. The system will suggest a Liker ID for you but if you are not happy with it, you can change it here. Fill in your Liker ID and click "Confirm" to finish the registration process.
+A green page will appear, allowing you to choose your favorite Liker ID. The system will suggest a Liker ID for you, but if you are not satisfied with it, you can change it here. Fill in your Liker ID and click "Confirm" to complete the registration process.
 
-<figure><img src="../../../.gitbook/assets/signup 04-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/signup 04-en.png" alt=""><figcaption><p>Fill in the Liker ID that you like and click "Confirm"</p></figcaption></figure>
 
 
 
 {% hint style="warning" %}
-You cannot change the Liker ID nor the login method once it has been created.  If you want another Liker ID, just create a new account. Please note that **an email address can only register one Liker ID**.
+Please note that once the Liker ID and login method have been created, they cannot be changed. If you want to have another Liker ID, please create a new account. Also, **please note that each email address or wallet address can only register one Liker ID.**
 
-**You cannot use the same email address to register a Liker ID with Authcore and Keplr.**
+**You cannot use the same email address to register a Liker ID with both Authcore and Keplr**
 {% endhint %}
 
 {% hint style="info" %}
-Liker Land app uses Authcore as a sign-in solution. Check out**:** What is [Authcore](what-is-authcore.md)?
+The Liker Land app utilizes Authcore as a sign-in solution. For more information, check out: What is [Authcore](what-is-authcore.md)?
 {% endhint %}
 
 {% hint style="success" %}
-All LikeCoin and Civic Liker referral programs ended on March 8, 2021.
+Lastly, please note that all LikeCoin and Civic Liker referral programs ended on March 8, 2021.
 {% endhint %}
 
 ## User Guide

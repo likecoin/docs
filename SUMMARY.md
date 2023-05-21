@@ -194,7 +194,7 @@
 * [Liker ID](user-guide/liker-id/README.md)
   * [Register a Liker ID with Keplr](user-guide/liker-id/register-with-keplr.md)
   * [Export Seed Words](user-guide/liker-id/export-seed-words.md)
-  * [Register Liker ID by general method (with Authcore)](user-guide/liker-id/register/README.md)
+  * [Register Liker ID through the general method (with Authcore)](user-guide/liker-id/register/README.md)
     * [Securing my Liker ID](user-guide/liker-id/register/verifying-email-address.md)
     * [Connecting to my social profile](user-guide/liker-id/register/social-media-logins.md)
     * [Resetting password](user-guide/liker-id/register/reset-password.md)
