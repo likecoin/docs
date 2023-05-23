@@ -22,39 +22,39 @@ description: Web3 去中心化 Twitter
 
 請先登入 [Keplr Browser Extension](../../general-guides/wallet/keplr/)，並到 [depub.space](https://depub.space/) 網站左下角點「Connect Wallet」。
 
-![](<../../.gitbook/assets/depub.space 1.png>)
+![點「Connect Wallet」](<../../.gitbook/assets/depub.space 1.png>)
 
 ### 步驟二
 
 點「Keplr Wallet」後彈出視窗要求連結，點「Approve」。
 
-<figure><img src="../../.gitbook/assets/depub.space keplr 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/depub.space keplr 01.png" alt=""><figcaption><p>點「Keplr Wallet」後彈出視窗要求連結，點「Approve」</p></figcaption></figure>
 
 ### 步驟三
 
-點空格後彈出文字框並撰寫文字。可點選「Post on Twitter」連結 Twitter 帳戶進行同步。完成後點「Submit」。
+點空格後彈出文字框並撰寫文字。可點「Post on Twitter」連結 Twitter 帳戶進行同步。完成後點「Submit」。
 
-![](<../../.gitbook/assets/depub.space 3.png>)
+![撰寫文字，完成後點「Submit」](<../../.gitbook/assets/depub.space 3.png>)
 
-![](<../../.gitbook/assets/depub.space 4.png>)
+![點「Post on Twitter」連結 Twitter 帳戶進行同步](<../../.gitbook/assets/depub.space 4.png>)
 
 ### 步驟四
 
 彈出 Keplr 視窗點「Approve」。
 
-![](<../../.gitbook/assets/depub.space 5.png>)
+![彈出 Keplr 視窗點「Approve」](<../../.gitbook/assets/depub.space 5.png>)
 
 ### 步驟五
 
 出現「Your tweet is registered as an NFT.」代表內容經已成功發表，點「OK」。
 
-![](<../../.gitbook/assets/depub.space 6.png>)
+![內容經已成功發表](<../../.gitbook/assets/depub.space 6.png>)
 
 ### 步驟六
 
 出現已發表的推文。
 
-![](<../../.gitbook/assets/depub.space 7.png>)
+![出現已發表的推文](<../../.gitbook/assets/depub.space 7.png>)
 
 ## Cosmostation 登入
 
@@ -62,39 +62,39 @@ description: Web3 去中心化 Twitter
 
 請先登入 [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/)，並到 [depub.space](https://depub.space/) 網站左下角點「Connect Wallet」。
 
-![](<../../.gitbook/assets/depub.space 1.png>)
+![點「Connect Wallet」](<../../.gitbook/assets/depub.space 1.png>)
 
 ### 步驟二
 
 點「Cosmostation」後彈出視窗要求連結，點「Confirm」。
 
-<figure><img src="../../.gitbook/assets/depub.space cosmostation 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/depub.space cosmostation 01.png" alt=""><figcaption><p>點「Cosmostation」後彈出視窗要求連結，點「Confirm」</p></figcaption></figure>
 
 ### 步驟三
 
-點空格後彈出文字框並撰寫文字。可點選「Post on Twitter」連結 Twitter 帳戶進行同步。完成後點「Submit」。
+點空格後彈出文字框並撰寫文字。可點「Post on Twitter」連結 Twitter 帳戶進行同步。完成後點「Submit」。
 
-![](<../../.gitbook/assets/depub.space 3.png>)
+![撰寫文字，完成後點「Submit」](<../../.gitbook/assets/depub.space 3.png>)
 
-![](<../../.gitbook/assets/depub.space 4.png>)
+![點「Post on Twitter」連結 Twitter 帳戶進行同步](<../../.gitbook/assets/depub.space 4.png>)
 
 ### 步驟四
 
 彈出 Cosmostation 視窗點「Confirm」。
 
-<figure><img src="../../.gitbook/assets/depub.space wallet connect 02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/depub.space wallet connect 02.png" alt=""><figcaption><p>彈出 Cosmostation 視窗點「Confirm」</p></figcaption></figure>
 
 ### 步驟五
 
 出現「Your tweet is registered as an NFT.」代表內容經已成功發表，點「OK」。
 
-![](<../../.gitbook/assets/depub.space 6.png>)
+![內容經已成功發表](<../../.gitbook/assets/depub.space 6.png>)
 
 ### 步驟六
 
 出現已發表的推文。
 
-![](<../../.gitbook/assets/depub.space 7.png>)
+![出現已發表的推文](<../../.gitbook/assets/depub.space 7.png>)
 
 ## Liker Land 手機應用程式登入
 
@@ -102,52 +102,52 @@ description: Web3 去中心化 Twitter
 
 到 [depub.space](https://depub.space/) 網站左下角點「Connect Wallet」。
 
-![](<../../.gitbook/assets/depub.space 1.png>)
+![點「Connect Wallet」](<../../.gitbook/assets/depub.space 1.png>)
 
 ### 步驟二
 
 點「WalletConnect」後出現二維碼。
 
-<figure><img src="../../.gitbook/assets/depub.space wallet connect 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/depub.space wallet connect 01.png" alt=""><figcaption><p>點「WalletConnect」後出現二維碼</p></figcaption></figure>
 
 ### 步驟三
 
 在 [Liker Land 手機應用程式](../liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄步驟二的二維碼。
 
-![](<../../.gitbook/assets/depub.SPACE wc 4.png>)
+![調用鏡頭，掃瞄二維碼](<../../.gitbook/assets/depub.SPACE wc 4.png>)
 
 或於設定點「WalletConnect」再點「New connection」。並掃瞄步驟二的二維碼。
 
-![](<../../.gitbook/assets/depub.space wc 5.png>)
+![或於設定點「WalletConnect」再點「New connection」，再掃瞄二維碼](<../../.gitbook/assets/depub.space wc 5.png>)
 
 ### 步驟四
 
 彈出 depub.space 視窗，點「允許」。
 
-![](<../../.gitbook/assets/depub.space wc 6.png>)
+![彈出 depub.space 視窗，點「允許」](<../../.gitbook/assets/depub.space wc 6.png>)
 
 ### 步驟五
 
-回到 depub.space 點空格後彈出文字框並撰寫文字，並可點選「Post on Twitter」連結 Twitter 帳戶進行同步。完成後點「Submit」。
+回到 depub.space 點空格後彈出文字框並撰寫文字，並可點「Post on Twitter」連結 Twitter 帳戶進行同步。完成後點「Submit」。
 
-![](<../../.gitbook/assets/depub.space wc 7.png>)
+![撰寫文字，完成後點「Submit」](<../../.gitbook/assets/depub.space wc 7.png>)
 
-![](<../../.gitbook/assets/depub.space 4.png>)
+![點「Post on Twitter」連結 Twitter 帳戶進行同步](<../../.gitbook/assets/depub.space 4.png>)
 
 ### 步驟六
 
 在手機上出現簽名請求，點「允許」，出現「Your tweet is registered as an NFT.」代表內容經已成功發表，點「OK」。
 
-![](<../../.gitbook/assets/depub.space wc 8.png>) ![](<../../.gitbook/assets/depub.space 6.png>)
+![出現簽名請求，點「允許」](<../../.gitbook/assets/depub.space wc 8.png>) ![內容經已成功發表](<../../.gitbook/assets/depub.space 6.png>)
 
 ### 步驟七
 
 出現已發表的推文。
 
-![](<../../.gitbook/assets/depub.space wc 9.png>)
+![出現已發表的推文](<../../.gitbook/assets/depub.space wc 9.png>)
 
 ## 查看發文記錄
 
 到 [app.like.co](https://app.like.co/) 點「[My Publishing](https://app.like.co/works)」即可查看以往發文記錄。
 
-![](<../../.gitbook/assets/depub.space wc 10.png>)
+![到 app.like.co 點「My Publishing」即可查看以往發文記錄](<../../.gitbook/assets/depub.space wc 10.png>)
