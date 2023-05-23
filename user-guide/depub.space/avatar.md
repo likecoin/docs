@@ -10,19 +10,19 @@ Desmos Profile、Omniflix NFT 及 Stargaze NFT 擁有者可於 [depub.space](htt
 
 登入 depub.space 後，到網站左下角點預設的頭像位置。
 
-<figure><img src="../../.gitbook/assets/depub.space profile 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/depub.space profile 01.png" alt=""><figcaption><p>到 depub.space 網站左下角點預設的頭像位置</p></figcaption></figure>
 
 ### 步驟二
 
 出現設置頁面點「Edit」。
 
-<figure><img src="../../.gitbook/assets/depub.space profile 02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/depub.space profile 02.png" alt=""><figcaption><p>出現設置頁面點「Edit」</p></figcaption></figure>
 
 ### 步驟三
 
 假如用戶擁有與 LikeCoin 錢包相同的助記詞/密鑰所衍生的 Desmos、Omniflix 或 Stargaze 錢包，可於下拉選單選取，即可於 depub.space 作為頭像顯示。
 
-<figure><img src="../../.gitbook/assets/depub.space profile 03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/depub.space profile 03.png" alt=""><figcaption><p>在下拉選單選擇頭像</p></figcaption></figure>
 
 #### 延伸閱讀
 
