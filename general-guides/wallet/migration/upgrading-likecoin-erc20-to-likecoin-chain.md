@@ -44,7 +44,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos 生態系為基礎 [LikeCoin chain
 
 系統會彈出以下視窗。點「現在轉移」。
 
-![點擊「現在轉移」](../../../.gitbook/assets/likecoin-migration-1.png)
+![點「現在轉移」](../../../.gitbook/assets/likecoin-migration-1.png)
 
 ### 步驟 3.1：簡介原理
 
@@ -52,19 +52,19 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos 生態系為基礎 [LikeCoin chain
 
 升級過程其實是把目前你在 MetaMask 上的 LikeCoin ERC-20 轉移到 LikeCoin chain 上。系統會助你簡易完成這個步驟。
 
-第一個步驟是過程簡介，若有興趣明白更多的不妨一讀，然後請點擊「確認」。
+第一個步驟是過程簡介，若有興趣明白更多的不妨一讀，然後請點「確認」。
 
-![點擊「確認」](../../../.gitbook/assets/likecoin-migration-2.png)
+![點「確認」](../../../.gitbook/assets/likecoin-migration-2.png)
 
 ### 步驟 3.2：簽署 <a href="#22" id="22"></a>
 
-由於要在你的電子錢包轉帳，需要你的「簽署」。請點擊「簽署」。
+由於要在你的電子錢包轉帳，需要你的「簽署」。請點「簽署」。
 
-![點擊「簽署」](../../../.gitbook/assets/likecoin-migration-3.png)
+![點「簽署」](../../../.gitbook/assets/likecoin-migration-3.png)
 
-點擊簽署後，MetaMask 會彈出以下的畫面。請點擊 "Connect" 及 "Sign"。
+點簽署後，MetaMask 會彈出以下的畫面。請點「Connect」及「Sign」。
 
-![按 "Connect" 然後 "sign"](../../../.gitbook/assets/likecoin-migration-4.png)
+![按「Connect」然後「sign」](../../../.gitbook/assets/likecoin-migration-4.png)
 
 ### 步驟 3.3：等候轉帳完成
 

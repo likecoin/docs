@@ -12,9 +12,9 @@ description: 在 Keplr 導入助記詞並建立錢包
 
 <figure><img src="../../../.gitbook/assets/Keplr Seed Words 07.png" alt=""><figcaption><p>選擇「Import existing account」</p></figcaption></figure>
 
-或打開 Keplr，點擊右上角人形圖案。
+或打開 Keplr，點右上角人形圖案。
 
-<figure><img src="../../../.gitbook/assets/Keplr Seed Words 01.png" alt=""><figcaption><p>點擊右上角人形圖案</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Seed Words 01.png" alt=""><figcaption><p>點右上角人形圖案</p></figcaption></figure>
 
 在 Select Account 頁面點「Add Account」。
 

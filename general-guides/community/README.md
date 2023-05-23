@@ -18,7 +18,7 @@ description: 想與社群及更多用戶聯繫分享經驗，有渠道嗎？
 
 到 #select-roles 頻道點 emoji 選擇關注的議題。
 
-<figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption><p>點擊 emoji 選擇關注的議題</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption><p>點 emoji 選擇關注的議題</p></figcaption></figure>
 
 ## 步驟三：查看中文頻道的方法
 

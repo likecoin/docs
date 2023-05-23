@@ -20,7 +20,7 @@ description: 使用 Cosmostation 瀏覽器擴充功能錢包直接存入及轉�
 
 ### 步驟三
 
-出現錢包地址及二維碼。點擊錢包地址的複製圖示進行複製並黏貼到所需要的地方（交易所或另一個錢包）。又成者直接使用 [LIKE Pay](../like-pay.md) 掃瞄二維碼就可以轉帳 LikeCoin 到你的 Cosmostation 錢包。建議最初只轉帳小量 LikeCoin 作測試。
+出現錢包地址及二維碼。點錢包地址的複製圖示進行複製並黏貼到所需要的地方（交易所或另一個錢包）。又成者直接使用 [LIKE Pay](../like-pay.md) 掃瞄二維碼就可以轉帳 LikeCoin 到你的 Cosmostation 錢包。建議最初只轉帳小量 LikeCoin 作測試。
 
 <figure><img src="../../../.gitbook/assets/Comostation Deposit 3.png" alt=""><figcaption><p>掃瞄二維碼轉帳 LikeCoin 到你的 Cosmostation 錢包</p></figcaption></figure>
 

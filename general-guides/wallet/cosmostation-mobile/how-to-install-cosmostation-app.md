@@ -22,9 +22,9 @@ description: 於 iPhone 及 Android 安裝 Cosmostation app
 
 ## 步驟三：儲存助記詞
 
-出現遮蓋了的錢包助記詞 ( Mnemonic phrase / Seed Words )，點擊眼睛圖示以顯示他們。
+出現遮蓋了的錢包助記詞 ( Mnemonic phrase / Seed Words )，點眼睛圖示以顯示他們。
 
-<figure><img src="../../../.gitbook/assets/Cosmostation mobile create wallet 4.jpg" alt=""><figcaption><p>點擊眼睛圖示顯示助記詞</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cosmostation mobile create wallet 4.jpg" alt=""><figcaption><p>點眼睛圖示顯示助記詞</p></figcaption></figure>
 
 請找一個安全的地方將錢包助記詞加密儲存，因為在回復錢包時會需要用到。完成後點「ADD WALLET」。
 
