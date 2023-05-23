@@ -20,134 +20,134 @@ Using depub.space needs no registration or personal information, all you need is
 
 ### Step 1
 
-Login your [Keplr Browser Extension](../../general-guides/wallet/keplr/) and go to [depub.space](https://depub.space/), then click "Connect Wallet" at the lower left hand corner.
+Login to your Keplr Browser Extension and go to depub.space, then click "Connect Wallet" at the lower left-hand corner.
 
-![](<../../.gitbook/assets/depub.space 1.png>)
+![Click "Connect Wallet"](<../../.gitbook/assets/depub.space 1.png>)
 
 ### Step 2
 
-Click "Keplr Wallet" and a pop-up window appears requesting connection, click "Approve".
+Click "Keplr Wallet" and a pop-up window will appear requesting connection. Click "Approve".
 
-<figure><img src="../../.gitbook/assets/depub.space keplr 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/depub.space keplr 01.png" alt=""><figcaption><p>Click "Keplr Wallet" and a pop-up window will appear requesting connection. Click "Approve"</p></figcaption></figure>
 
 ### Step 3
 
-After clicking the blank space, a text box will pop up and you can write your text. You may click "Post on Twitter" to link the Twitter account for synchronization. Click "Submit" when finished.
+After clicking the blank space, a text box will pop up and you can write your text. You may click "Post on Twitter" to link your Twitter account for synchronization. Click "Submit" when finished.
 
-![](<../../.gitbook/assets/depub.space 3.png>)
+![Write your text, Click "Submit" when finished](<../../.gitbook/assets/depub.space 3.png>)
 
-![](<../../.gitbook/assets/depub.space 4.png>)
+![Click "Post on Twitter" to link your Twitter account for synchronization](<../../.gitbook/assets/depub.space 4.png>)
 
 ### Step 4
 
 Click "Approve" in the Keplr pop-up window.
 
-![](<../../.gitbook/assets/depub.space 5.png>)
+![Click "Approve" in the Keplr pop-up window](<../../.gitbook/assets/depub.space 5.png>)
 
 ### Step 5
 
-"Your tweet is registered as an NFT." appears indicating that the content has been successfully published. Click "OK".
+"Your tweet is registered as an NFT." will appear, indicating that the content has been successfully published. Click "OK".
 
-![](<../../.gitbook/assets/depub.space 6.png>)
+![The content has been successfully published](<../../.gitbook/assets/depub.space 6.png>)
 
 ### Step 6
 
-The published tweet showed up.
+The published tweet will show up.
 
-![](<../../.gitbook/assets/depub.space 7.png>)
+![The published tweet will show up](<../../.gitbook/assets/depub.space 7.png>)
 
 ## Login with Cosmostation
 
 ### Step 1
 
-Login your [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/) and go to [depub.space](https://depub.space/), then click "Connect Wallet" at the lower left hand corner.
+Login to your [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/) and go to [depub.space](https://depub.space/), then click "Connect Wallet" at the lower left-hand corner.
 
-![](<../../.gitbook/assets/depub.space 1.png>)
+![Click "Connect Wallet"](<../../.gitbook/assets/depub.space 1.png>)
 
 ### Step 2
 
-Click "Cosmostation" and a pop-up window appears requesting connection, click "Confirm".
+Click "Cosmostation" and a pop-up window will appear requesting connection. Click "Confirm".
 
-<figure><img src="../../.gitbook/assets/depub.space cosmostation 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/depub.space cosmostation 01.png" alt=""><figcaption><p>Click "Cosmostation" and a pop-up window will appear requesting connection. Click "Confirm"</p></figcaption></figure>
 
 ### Step 3
 
-After clicking the blank space, a text box will pop up and you can write your text. You may click "Post on Twitter" to link the Twitter account for synchronization. Click "Submit" when finished.
+After clicking the blank space, a text box will pop up and you can write your text. You may click "Post on Twitter" to link your Twitter account for synchronization. Click "Submit" when finished.
 
-![](<../../.gitbook/assets/depub.space 3.png>)
+![Write your text, Click "Submit" when finished](<../../.gitbook/assets/depub.space 3.png>)
 
-![](<../../.gitbook/assets/depub.space 4.png>)
+![Click "Post on Twitter" to link your Twitter account for synchronization](<../../.gitbook/assets/depub.space 4.png>)
 
 ### Step 4
 
-Click "Confirm" in the Keplr pop-up window.
+Click "Confirm" in the Cosmostation pop-up window.
 
-<figure><img src="../../.gitbook/assets/depub.space wallet connect 02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/depub.space wallet connect 02.png" alt=""><figcaption><p>Click "Confirm" in the Cosmostation pop-up window</p></figcaption></figure>
 
 ### Step 5
 
-"Your tweet is registered as an NFT." appears indicating that the content has been successfully published. Click "OK".
+"Your tweet is registered as an NFT." will appear, indicating that the content has been successfully published. Click "OK".
 
-![](<../../.gitbook/assets/depub.space 6.png>)
+![The content has been successfully published](<../../.gitbook/assets/depub.space 6.png>)
 
 ### Step 6
 
-The published tweet showed up.
+The published tweet will show up.
 
-![](<../../.gitbook/assets/depub.space 7.png>)
+![The published tweet will show up](<../../.gitbook/assets/depub.space 7.png>)
 
 ## Login with Liker Land app
 
 ### Step 1
 
-Go to the [depub.space](https://depub.space/) and click "Connect Wallet" at the lower left hand corner.
+Go to [depub.space](https://depub.space/) and click "Connect Wallet" at the lower left-hand corner.
 
-![](<../../.gitbook/assets/depub.space 1.png>)
+![Click "Connect Wallet"](<../../.gitbook/assets/depub.space 1.png>)
 
 ### Step 2
 
-A QRCode will appear after clicking "WalletConnect".
+A QR code will appear after clicking "WalletConnect".
 
-<figure><img src="../../.gitbook/assets/depub.space wallet connect 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/depub.space wallet connect 01.png" alt=""><figcaption><p>A QR code will appear after clicking "WalletConnect"</p></figcaption></figure>
 
 ### Step 3
 
-On the [Liker Land app](../liker-land/download.md), click the QRCode icon to bring up the camera, and scan the QRCode in Step 2.
+On the [Liker Land app](../liker-land/download.md), click the QR code icon to bring up the camera and scan the QR code from Step 2.
 
-![](<../../.gitbook/assets/depub.SPACE 4-en.png>)
+![Click the QR code icon to bring up the camera and scan the QR code](<../../.gitbook/assets/depub.SPACE 4-en.png>)
 
-Or click "WalletConnect" on settings, then click "New connection and and scan the QRCode in step 2.
+Alternatively, click "WalletConnect" in settings, then click "New connection" and scan the QR code from Step 2.
 
-![](<../../.gitbook/assets/depub.space wc 5-en.png>)
+![Or click "WalletConnect" in settings, then click "New connection" and scan the QR code](<../../.gitbook/assets/depub.space wc 5-en.png>)
 
 ### Step 4
 
-The depub.space window will pop-up, click "Approve".
+The depub.space window will pop up, click "Approve".
 
-![](<../../.gitbook/assets/depub.space wc 6-en.png>)
+![The depub.space window will pop up, click "Approve"](<../../.gitbook/assets/depub.space wc 6-en.png>)
 
 ### Step 5
 
-Go back to depub.space to write the text. After clicking the blank space, a text box will pop up and you can write your text. You may  click "Post on Twitter" to link the Twitter account for synchronization. Click "Submit" when finished.
+Go back to depub.space to write the text. After clicking the blank space, a text box will pop up and you can write your text. You may click "Post on Twitter" to link your Twitter account for synchronization. Click "Submit" when finished.
 
-![](<../../.gitbook/assets/depub.space wc 7.png>)
+![Write your text, Click "Submit" when finished](<../../.gitbook/assets/depub.space wc 7.png>)
 
-![](<../../.gitbook/assets/depub.space 4.png>)
+![Click "Post on Twitter" to link your Twitter account for synchronization](<../../.gitbook/assets/depub.space 4.png>)
 
 ### Step 6
 
-A signature request shows up on your phone, click "Approve" and "Your tweet is registered as an NFT." appears, indicating that the content has been successfully published. Click "OK".
+A signature request will show up on your phone, click "Approve" and "Your tweet is registered as an NFT." will appear, indicating that the content has been successfully published. Click "OK".
 
-![](<../../.gitbook/assets/depub.space wc 8-en.png>) ![](<../../.gitbook/assets/depub.space 6.png>)
+![A signature request will show up on your phone, click "Approve"](<../../.gitbook/assets/depub.space wc 8-en.png>) ![The content has been successfully published](<../../.gitbook/assets/depub.space 6.png>)
 
 ### Step 7
 
-The published tweet showed up.
+The published tweet will show up.
 
-![](<../../.gitbook/assets/depub.space wc 9.png>)
+![The published tweet will show up](<../../.gitbook/assets/depub.space wc 9.png>)
 
 ## View posting history
 
 Go to [app.like.co](https://app.like.co/) and click "[My Publishing](https://app.like.co/works)" to view past posting records.
 
-![](<../../.gitbook/assets/depub.space wc 10.png>)
+![Go to app.like.co and click "My Publishing" to view past posting records](<../../.gitbook/assets/depub.space wc 10.png>)

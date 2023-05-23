@@ -4,7 +4,7 @@ description: How to embed LikeCoin button into illustBuy
 
 # illustBuy
 
-[illustBuy](https://illustbuy.com/) only provides Chinese user interface, please refer the instruction [here](https://docs.like.co/v/zh/user-guide/creator/blogging-platforms/illustbuy).
+[illustBuy](https://illustbuy.com/) only provides a Chinese user interface. Please refer to the instructions provided [here](https://docs.like.co/v/zh/user-guide/creator/blogging-platforms/illustbuy).
 
 #### To Learn More
 

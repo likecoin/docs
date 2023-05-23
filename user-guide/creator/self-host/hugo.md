@@ -4,40 +4,41 @@ description: How to embed LikeCoin button into Hugo
 
 # Hugo
 
-Thanks to the user [Wancat](https://www.wancat.cc/post/hugo-install-likecoin/) for the tutorial.
+Thanks to the user [Wancat](https://www.wancat.cc/post/hugo-install-likecoin/) for providing the tutorial.
 
 Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).
 
-Choose a theme for your website first, the following is an example of [CleanWhite](https://themes.gohugo.io/hugo-theme-cleanwhite). 
+Choose a theme for your website first. The following is an example using the [CleanWhite](https://themes.gohugo.io/hugo-theme-cleanwhite) theme.
 
-Hugo allows users to use custom Layout in order to change the website design without altering the theme, LikeCoin button can be added with this function.
+Hugo allows users to use custom layouts to change the website design without altering the theme. The LikeCoin button can be added using this function. Follow the steps below:
 
-The 1st step is to copy the post template, copy the `layouts` folder in `theme` to the directory of the repository
+Copy the post template by copying the `layouts` folder from your `theme` to the repository directory:
 
-```text
+```
 cp -r theme/YOUR_THEME/layouts/ .
 ```
 
-Hugo allows users to create simple templates with [Partial Templates](https://gohugo.io/templates/partials/) and embed it into a page. Create `likecoin.html` in `partials` folder of `layouts`, fill in the following code. Words to encourage clapping of LikeCoin button can also be included in HTML format
+Hugo allows users to create simple templates with [Partial Templates](https://gohugo.io/templates/partials/) and embed them into a page. Create a file named `likecoin.html` in `partials` folder of the `layouts` directory. Fill in the following code. You can also include words to encourage clapping the LikeCoin button in HTML format:
 
-```text
+```
 <iframe class="LikeCoin" height="235" src="https://button.like.co/in/embed/{{ .Site.Params.likerID }}/button?referrer={{ .Permalink }}" width="100%" frameborder=0></iframe>
 ```
 
- Add the following code to `config.toml`, and change \[LikerID\] to your Liker ID
+&#x20;Add the following code to your `config.toml` file and change \[LikerID] to your Liker ID:
 
-```text
+```
 [[params]]
 	likerID = "likerID"
 ```
 
-Then edit the post template, it is usually in `_default/single.html`. This is a Go Template, suggest to put the code after `{{ .Content }}`, LikeCoin button will appear at the end of the article
+Edit the post template, which is usually located in `_default/single.html`. This is a Go Template. It is suggested to place the code after `{{ .Content }}` so that the LikeCoin button will appear at the end of the article:
 
-```text
+```
 {{ partial "likecoin.html" . }}
 ```
 
-Hugo is going to render this partial to your posts. Remember to add the ".", otherwise the LikeCoin template cannot read the data. In fact it is not necessary to modify the original Hugo theme
+Hugo will render this partial for your posts. Remember to include the "." in the code, otherwise the LikeCoin template won't be able to read the data. In fact, it is not necessary to modify the original Hugo theme.
 
-Last step is to run `hugo server` and preview your website.
+The last step is to run `hugo server` to preview your website.
 
+By following these steps, the LikeCoin button will be added to your website.

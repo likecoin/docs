@@ -6,13 +6,13 @@ description: >-
 
 # Blogspot
 
-Thanks [浩剛](https://danieltw.net/archives/2444) for creating the code to embed LikeCoin button into every blog post by adding Javascript to the sidebar tool or change the blog theme.
+Thanks to [浩剛](https://danieltw.net/archives/2444) for creating the code to embed the LikeCoin button into every blog post by adding JavaScript to the sidebar tool or changing the blog theme.
 
 Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).
 
-### **LikeCoin button on sidebar**
+### **LikeCoin button on the sidebar**
 
-On page settings, select a position to add "HTML/JavaScript", paste the following Javascript code into it and change the \[LikerID] to your Liker ID then save it. The LikeCoin button will appear automatically.
+In the page settings, select a position to add the 'HTML/JavaScript' widget. Paste the following JavaScript code into it and change the \[LikerID] to your Liker ID, then save it. The LikeCoin button will appear automatically.
 
 ```
 <script type="text/javascript">
@@ -22,7 +22,7 @@ On page settings, select a position to add "HTML/JavaScript", paste the followin
 
 ### **LikeCoin button at the end of each article**
 
-Go to "Theme" and click "Edit HTML" and search for **data:post.body**, carriage return when seeing `</div>` then add the following source code, and change the \[LikerID] to your Liker ID:\
+Go to 'Theme' and click 'Edit HTML'. Search for **data:post.body**, and when you see `</div>`, insert the following source code, replacing \[LikerID] with your Liker ID:\
 
 
 ```
@@ -33,7 +33,7 @@ Go to "Theme" and click "Edit HTML" and search for **data:post.body**, carriage 
 </b:if>
 ```
 
-data:post.body example below
+Example of data:post.body below:
 
 ```
 <!-- Then use the post body as the schema.org description, for good G+/FB snippeting. -->
@@ -43,7 +43,7 @@ data:post.body example below
 </div>
 ```
 
-adding source code after `</div>` and become
+Add the source code after the closing `</div>` tag, so it becomes:
 
 ```
 <!-- Then use the post body as the schema.org description, for good G+/FB snippeting. -->
@@ -59,7 +59,7 @@ adding source code after `</div>` and become
 </b:if>
 ```
 
-If there are two **data:post.body** when "Edit HTML", You have to edit both because one is for desktop and the other is for mobile. Please note that you have to change to "Custom" for the mobile version in order for the LikeCoin button to display.
+If there are two instances of **data:post.body** in the 'Edit HTML' section, you have to edit both because one is for desktop and the other is for mobile. Please note that you have to change to "Custom" for the mobile version in order for the LikeCoin button to display.
 
 \-------------------------
 

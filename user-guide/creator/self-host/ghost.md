@@ -4,15 +4,15 @@ description: How to embed LikeCoin button into ghost
 
 # ghost
 
-Thanks to the user [STANLEY TSAU](https://stanleytsau.me/likebutton-ghost-integration/) for the tutorial, please note that you have to pay a membership fee for using [ghost](https://ghost.org/pricing/).
+Thanks to the user [STANLEY TSAU](https://stanleytsau.me/likebutton-ghost-integration/) for providing the tutorial. Please note that a membership fee is required for using [Ghost](https://ghost.org/pricing/).
 
 Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).
 
 ### Modify post hbs
 
-Add the IFrame source code into `post.hbs` , change the  \[LikerID\] into your Liker ID
+Add the IFrame source code into `post.hbs` , change the \[LikerID] into your actual Liker ID
 
-```text
+```
 <div class="likecoin-embed likecoin-like-button" style="text-align:center">
     <div>
         <iframe scrolling="no" frameborder="0" src="https://button.like.co/in/embed/[LikerID]/button/?referrer={{ url absolute="true"}}" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation allow-storage-access-by-user-activation"></iframe>
@@ -20,11 +20,11 @@ Add the IFrame source code into `post.hbs` , change the  \[LikerID\] into your L
 </div>
 ```
 
-### Adjust the look and feel of LikeCoin button
+### Adjust the look and feel of the LikeCoin button
 
-Paste the follow code to css
+Paste the follow code into the CSS:
 
-```text
+```
 .likecoin-like-button {
   max-width: 485px;
   max-height: 240px;
@@ -43,5 +43,4 @@ Paste the follow code to css
 }
 ```
 
- All done.
-
+&#x20;All done.

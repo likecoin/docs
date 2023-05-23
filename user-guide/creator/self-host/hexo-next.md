@@ -4,13 +4,13 @@ description: How to embed LikeCoin button into Hexo
 
 # Hexo
 
-Thanks to the user [只是個打字的](https://docs.like.co/v/zh/user-guide/likecoin-button/hexo-next) for the tutorial.
+Thanks to the user [只是個打字的](https://docs.like.co/v/zh/user-guide/likecoin-button/hexo-next) for providing the tutorial.
 
 Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).
 
 ### Function: Add LikeCoin button automatically according to the post URL
 
-In directory `themes/next/layout/_custom/` add a new file `like_coin.ejs` and paste in the following code, change the \[LikerID] to your Like ID.
+In directory `themes/next/layout/_custom/` add a new file named `like_coin.ejs` and paste in the following code, change the \[LikerID] to your actual Like ID.
 
 ```
 <div>
@@ -22,9 +22,9 @@ In directory `themes/next/layout/_custom/` add a new file `like_coin.ejs` and pa
 <div>
 ```
 
-### Add LikeCoin button at the end of each post
+### Add the LikeCoin button at the end of each post
 
-Open `themes/next/layout/_macro/post.swig` and put `like_coin.ejs` into the appropriate position
+Open `themes/next/layout/_macro/post.swig` and place the `like_coin.ejs` in the appropriate position:
 
 ```
  {% raw %}
@@ -55,4 +55,4 @@ Open `themes/next/layout/_macro/post.swig` and put `like_coin.ejs` into the appr
     </div>
 ```
 
-LikeCoin buttons will appear on your articles.
+LikeCoin buttons will now appear on your articles.
