@@ -52,11 +52,11 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 接收重設密碼郵件，點郵件中的鏈結重設密碼。
 
-![點郵件中的鏈結重設密碼](../../../.gitbook/assets/resetpassword-4.png)
+<figure><img src="../../../.gitbook/assets/resetpassword-4.png" alt=""><figcaption><p>點郵件中的鏈結重設密碼</p></figcaption></figure>
 
 輸入新密碼兩次，再點 "Reset Password"。
 
-![](../../../.gitbook/assets/resetpassword-5.png)
+![再點 "Reset Password"](../../../.gitbook/assets/resetpassword-5.png)
 
 重設密碼成功，回到 Liker Land app 或 [https://like.co/in/](https://like.co/in/) 登入 Liker ID。
 

@@ -32,7 +32,7 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 ![選「安全設定」分頁並點「雙重認證」](../../../.gitbook/assets/IMG\_2343.jpg)
 
-### 步驟二：選取認證認用程式
+### 步驟三：選取認證認用程式
 
 1. 點「設立雙重認證」。
 2. 這裡先介紹以 Google Authenticator 設定的流程。請在畫面下方選「使用其他方式」。
@@ -43,7 +43,7 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 ![選「認證應用程式」](../../../.gitbook/assets/IMG\_2346a.jpg)
 
-### 步驟三：設定 Google Authenticator
+### 步驟四：設定 Google Authenticator
 
 上一步後，屏幕上顯示的裡面是：
 

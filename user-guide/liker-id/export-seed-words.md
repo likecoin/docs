@@ -69,7 +69,7 @@ description: Liker Land app 錢包終於可以導出助記詞
 
 <figure><img src="../../.gitbook/assets/seed word mobile 4.png" alt=""><figcaption><p>點「複製」將助記詞複製</p></figcaption></figure>
 
-接下來你可以將助記詞導入 Keplr, Cosmostation 或其他支援 Cosmos 生態系統的錢包：
+接下來你可以將助記詞導入 Keplr, Cosmostation, Leap 或其他支援 Cosmos 生態系統的錢包：
 
 {% content-ref url="../../general-guides/wallet/keplr/import-wallet-into-keplr.md" %}
 [import-wallet-into-keplr.md](../../general-guides/wallet/keplr/import-wallet-into-keplr.md)

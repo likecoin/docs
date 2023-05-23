@@ -30,9 +30,9 @@ Liker Land app 提供電郵地址+密碼及社交帳號 Google 登入、Facebook
 
 ### 步驟四：創建 Liker ID
 
-彈出綠色的畫面如下，請輸入你喜歡的 Liker ID。系統已為你預設選了一個，若不滿意可在此步驟中修改。填上 Liker ID 後，選「確認」完成程序。
+彈出綠色的畫面如下，請輸入你喜歡的 Liker ID。系統已為你預設選了一個，若不滿意可在此步驟中修改。填上 Liker ID 後，點「確認」完成程序。
 
-<figure><img src="../../../.gitbook/assets/signup 04.png" alt=""><figcaption><p>輸入你喜歡的 Liker ID</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/signup 04.png" alt=""><figcaption><p>輸入你喜歡的 Liker ID 並點「確認」</p></figcaption></figure>
 
 {% hint style="warning" %}
 一旦創建了 Liker ID，便不能修改字詞組合或登入方式。若不想再用某個 Liker ID，建議你把它留著不用，再創建一個新的。**留意一個電郵地址只可以註冊一個 Liker ID。**
