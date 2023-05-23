@@ -20,19 +20,19 @@ description: 我不懂自架網站，有什麼第三方寫作平台直接支援 
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
 
-登入痞客邦，前往痞客邦[應用市集 App Market](https://appmarket.pixnet.tw/#!/addons) 安裝 [LikeCoin For 痞客邦 APP](https://appmarket.pixnet.tw/#!/addon/1331)，點擊「安裝」
+登入痞客邦，前往痞客邦[應用市集 App Market](https://appmarket.pixnet.tw/#!/addons) 安裝 [LikeCoin For 痞客邦 APP](https://appmarket.pixnet.tw/#!/addon/1331)，點「安裝」。
 
-![](<../../../.gitbook/assets/Pixnet 1.png>)
+![登入痞客邦，前往痞客邦應用市集 App Market 安裝 LikeCoin For 痞客邦 APP，點「安裝」](<../../../.gitbook/assets/Pixnet 1.png>)
 
-安裝後，點擊「前往設定」
+安裝後，點「前往設定」
 
-![](<../../../.gitbook/assets/Pixnet 2.png>)
+![點「前往設定」](<../../../.gitbook/assets/Pixnet 2.png>)
 
-輸入你的 Liker ID，再點擊「送出」，即可完成設定，此後每篇痞客邦文章都會自動加入讚賞鍵。
+輸入你的 Liker ID，再點「送出」，即可完成設定，此後每篇痞客邦文章都會自動加入讚賞鍵。
 
-![](<../../../.gitbook/assets/Pixnet 3.png>)
+![輸入你的 Liker ID，再點「送出」](<../../../.gitbook/assets/Pixnet 3.png>)
 
-你亦可以隨時進入痞客邦應用市集 App Market ，點擊「已安裝功能」，隨時更改你的設定。
+你亦可以隨時進入痞客邦應用市集 App Market ，點「已安裝功能」，隨時更改你的設定。
 
 ### 參考文章
 

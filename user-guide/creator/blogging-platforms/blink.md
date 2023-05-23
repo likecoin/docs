@@ -18,7 +18,7 @@ https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
 
 讚賞鍵的鏈結便是 https://button.like.co/in/embed/ckxpress/button?referrer=https://blink.com.tw/board/post/83713/
 
-接著點擊「插件式/可編輯」影音，再選擇「嵌入」，將以下程式碼加到你需要顯示讚賞鍵的地方，留意要把 `{{ src }}` 的部份替換為讚賞鍵鏈結
+接著點「插件式/可編輯」影音，再選擇「嵌入」，將以下程式碼加到你需要顯示讚賞鍵的地方，留意要把 `{{ src }}` 的部份替換為讚賞鍵鏈結
 
 ```
 <div class="likecoin-embed likecoin-button">
@@ -38,11 +38,11 @@ https://button.like.co/in/embed/[LikerID]/button?referrer=[網頁URL]
 
 再按「OK」，讚賞鍵便會出現在文章中
 
-![](../../../.gitbook/assets/blink-insert.png)
+![輸入程式碼再按「OK」](../../../.gitbook/assets/blink-insert.png)
 
-你可以按「一般的」，再更改「空間維度」調整讚賞鍵顯示大小。
+你可以點「一般的」，再更改「空間維度」調整讚賞鍵顯示大小。
 
-![](../../../.gitbook/assets/blink.png)
+![點「一般的」，再更改「空間維度」調整讚賞鍵顯示大小](../../../.gitbook/assets/blink.png)
 
 ### 參考文章
 
