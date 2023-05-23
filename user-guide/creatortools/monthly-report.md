@@ -10,8 +10,8 @@ These are 2 circumstances that you do not receive your email report:
 
 * You switch off the "Receive email notification for LikeCoin transaction and news update", go to "Liker ID Settings" or [https://like.co/in/settings/others](https://like.co/in/settings/others) and turn it on.
 
-<figure><img src="../../.gitbook/assets/monthly-report-email-setting-button-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/monthly-report-email-setting-button-en.png" alt=""><figcaption><p>Switch on Email alert</p></figcaption></figure>
 
 * You registered with a mobile number and did not provide any email address, please go to [https://like.co/in/settings/](https://like.co/in/settings/), on "AutoCore Settings" or "Liker ID Settings" click "Profile", then click "Contact". Add your email address and complete authentication, check out "[Securing my Liker ID - Confirm your email address](../liker-id/register/verifying-email-address.md#confirm-your-email-address)".
 
-![](../../.gitbook/assets/monthly-report-email-setting-en.png)
+![Manage your email address](../../.gitbook/assets/monthly-report-email-setting-en.png)
