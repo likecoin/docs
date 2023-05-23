@@ -1,7 +1,7 @@
 ---
 description: >-
-  Aim to encourage content consumers to reward creators by giving "likes" via
-  the LikeCoin button and Civic Liker subscription
+  Creators Fund aims to encourage content consumers to reward creators by giving
+  "likes" via the LikeCoin button and Civic Liker subscription
 ---
 
 # Creators Fund

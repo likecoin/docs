@@ -1,5 +1,5 @@
 ---
-description: Share information using the "Share to DePub" feature
+description: Share information using the LikeCoin Discord "Share to DePub" feature
 ---
 
 # Share tweet from From LikeCoin Discord to depub.space

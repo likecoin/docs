@@ -1,5 +1,5 @@
 ---
-description: A Web3 decentralized Twitter
+description: depub.space is a Web3 decentralized Twitter
 ---
 
 # depub.space
