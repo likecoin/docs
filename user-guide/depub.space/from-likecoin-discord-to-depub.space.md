@@ -1,5 +1,5 @@
 ---
-description: 使用「應用程式」功能分享資訊
+description: 使用 LikeCoin Discord「應用程式」功能分享資訊
 ---
 
 # 從 LikeCoin Discord 推文到 depub.space

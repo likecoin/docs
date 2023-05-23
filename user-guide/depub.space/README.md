@@ -1,5 +1,5 @@
 ---
-description: Web3 去中心化 Twitter
+description: depub.space 是 Web3 去中心化 Twitter
 ---
 
 # depub.space

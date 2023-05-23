@@ -1,5 +1,5 @@
 ---
-description: Liker Land app 錢包終於可以導出助記詞
+description: Liker Land app 錢包終於可以匯出助記詞
 ---
 
 # 匯出錢包助記詞
