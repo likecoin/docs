@@ -30,13 +30,13 @@ Click "Switch to legacy interface".
 
 Login again, on the login box select "Reset Password".
 
-![Click "Reset Password"](../../../.gitbook/assets/resetpassword-1.png)
+<figure><img src="../../../.gitbook/assets/resetpassword 1-en.png" alt=""><figcaption><p>Click "Reset Password"</p></figcaption></figure>
 
 ## Step 3: Input your registered email address
 
 Input your registered email address and press "Send", it should be the email used during registration.
 
-![Input your registered email address and press "Send"](../../../.gitbook/assets/resetpassword-2.png)
+<figure><img src="../../../.gitbook/assets/resetpassword 2-en.png" alt=""><figcaption><p>Input your registered email address and press "Send"</p></figcaption></figure>
 
 {% hint style="info" %}
 If it doesn't work, e.g. "Can't find the email address or phone number" appears, please try to:
@@ -47,13 +47,13 @@ If it doesn't work, e.g. "Can't find the email address or phone number" appears,
 
 The reset password message will appear.
 
-![The reset password message will appear](../../../.gitbook/assets/resetpassword-3.png)
+<figure><img src="../../../.gitbook/assets/resetpassword 3-en.png" alt=""><figcaption><p>The reset password message will appear</p></figcaption></figure>
 
 ## Step 4: Receive the reset password email
 
 Receive the reset password email on your mailbox, click the link on the email to reset password.
 
-![Click the link on the email to reset password](../../../.gitbook/assets/resetpassword-4.png)
+<figure><img src="../../../.gitbook/assets/resetpassword 4-en.png" alt=""><figcaption><p>Receive the reset password email, click the link on the email to reset password</p></figcaption></figure>
 
 Input your new password twice, and click "Reset Password".
 
@@ -67,7 +67,7 @@ You have successfully reset your password, go back to Liker Land app or [https:/
 
 On the login box, use your **email and password to login**. Please do not select the social logins on the above.
 
-![Use your email and password to login](../../../.gitbook/assets/resetpassword-7.png)
+<figure><img src="../../../.gitbook/assets/resetpassword 7-en.png" alt=""><figcaption><p>Use your email and password to login</p></figcaption></figure>
 
 ## **Step 6: Reset Social Logins**
 
