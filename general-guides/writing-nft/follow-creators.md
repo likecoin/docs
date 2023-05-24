@@ -6,11 +6,11 @@ description: 輕易掌握 NFT 發放資訊
 
 用戶可以提供電郵地址以追蹤創作者。每當創作者發佈新的 NFT，粉絲都會收電郵通知，讓你不會錯過最佳收藏機會。
 
-## 方法一：直接追蹤作者
+## 方法一：直接追蹤創作者
 
 在創作者的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)左手邊追蹤作者欄位輸入你的電郵地址，再點「追蹤」。
 
-<figure><img src="../../.gitbook/assets/subscribe creator 1.png" alt=""><figcaption><p>在追蹤作者輸入電郵址址</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscribe creator 1.png" alt=""><figcaption><p>在追蹤作者輸入電郵址址再點「追蹤」</p></figcaption></figure>
 
 出現驗證電郵提示。
 
@@ -24,7 +24,7 @@ description: 輕易掌握 NFT 發放資訊
 
 <figure><img src="../../.gitbook/assets/subscribe creator 7.png" alt=""><figcaption><p>到 Liker Land 的「設定」->「追蹤中」查看經已成功追蹤中的作者</p></figcaption></figure>
 
-## 方法二：在設定填寫電郵地址並追蹤作者
+## 方法二：在設定填寫電郵地址並追蹤創作者
 
 於 [Liker Land](https://liker.land/) 登入 後，點「[設定](https://liker.land/zh-Hant/settings/)」，然後點「[電郵](https://liker.land/zh-Hant/settings/email)」。
 
@@ -36,7 +36,7 @@ description: 輕易掌握 NFT 發放資訊
 
 系統將發送認證電郵到你的電郵地址。假如你還未收到，可點「重發認證電郵」再次重發。
 
-<figure><img src="../../.gitbook/assets/subscribe creator 4.png" alt=""><figcaption><p>點「重發認證電郵」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subscribe creator 4.png" alt=""><figcaption><p>如有需要點「重發認證電郵」</p></figcaption></figure>
 
 你的電郵地址會收到一封確認電郵，點連結確認電郵地址。
 
