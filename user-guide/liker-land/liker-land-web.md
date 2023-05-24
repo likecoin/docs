@@ -26,7 +26,13 @@ description: 網頁版的 Liker Land
 
 ## 選項四：設定 - [https://liker.land/settings/](https://liker.land/settings/)
 
-設定你的 Liker ID。可參看：
+### 設定追蹤作者
+
+{% content-ref url="../../general-guides/writing-nft/follow-creators.md" %}
+[follow-creators.md](../../general-guides/writing-nft/follow-creators.md)
+{% endcontent-ref %}
+
+### 設定 Liker ID
 
 {% content-ref url="../liker-id/edit-avatar-displayname.md" %}
 [edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
