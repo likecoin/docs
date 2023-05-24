@@ -130,13 +130,7 @@ NFT 書的技術細節請參考以下指南：
 
 可以通過參數 --iscn-id 指定一個現存的 ISCN，通過參數 --class-id 指定一個現存的 NFT class ID。 你更可以讓語法從頭開始創建一切。
 
-| 參數              | 論元                                                                                                      | 例字                                                                            | 是否強制 |
-| --------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---- |
-| nft-count       | 一個整數。要鑄造的 NFT 總數。                                                                                       | --nft-count 100                                                               | 是    |
-| iscn-id         | 一個字符串。NFT 所指的 ISCN ID。                                                                                  | --iscn-id iscn://likecoin-chain/IKI9PueuJiOsYvhN6z9jPJIm3UGMh17BQ3tEwEzslQo/3 | 不是   |
-| create-new-iscn | 空值。如果設定了此參數，將根照 iscn.json 文檔註冊一個新的 ISCN。不能和 iscn-id 參數一起使用。                                             | --create-new-iscn                                                             | 不是   |
-| class-id        | 一個字符串。NFT 所屬的 NFT class ID。 它用於在同一 Class ( collection ) 中鑄造額外的 NFT。 如果未設定，該語法將基於 nft-class.json 創建一個新的。 | --class-id likenft1yhsps5l8tmeuy9y7k0rjpx97cl67cjkjnzkycecw5xrvjjp6c5yqz0ttmc | 不是   |
-| nft-max-supply  | 一個整數。在一個 NFT class 中可以鑄造的 NFT 的最大數量。 如無特別說明則無限制。                                                        | --nft-max-supply 1000                                                         | 不是   |
+<table><thead><tr><th width="129">參數</th><th width="230">論元</th><th width="217">例字</th><th>是否強制</th></tr></thead><tbody><tr><td>nft-count</td><td>一個整數。要鑄造的 NFT 總數。</td><td>--nft-count 100</td><td>是</td></tr><tr><td>iscn-id</td><td>一個字符串。NFT 所指的 ISCN ID。</td><td>--iscn-id iscn://likecoin-chain/IKI9PueuJiOsYvhN6z9jPJIm3UGMh17BQ3tEwEzslQo/3</td><td>不是</td></tr><tr><td>create-new-iscn</td><td>空值。如果設定了此參數，將根照 iscn.json 文檔註冊一個新的 ISCN。不能和 iscn-id 參數一起使用。</td><td>--create-new-iscn</td><td>不是</td></tr><tr><td>class-id</td><td>一個字符串。NFT 所屬的 NFT class ID。 它用於在同一 Class ( collection ) 中鑄造額外的 NFT。 如果未設定，該語法將基於 nft-class.json 創建一個新的。</td><td>--class-id likenft1yhsps5l8tmeuy9y7k0rjpx97cl67cjkjnzkycecw5xrvjjp6c5yqz0ttmc</td><td>不是</td></tr><tr><td>nft-max-supply</td><td>一個整數。在一個 NFT class 中可以鑄造的 NFT 的最大數量。 如無特別說明則無限制。</td><td>--nft-max-supply 1000</td><td>不是</td></tr></tbody></table>
 
 例子：
 
