@@ -103,7 +103,7 @@ Complete! page appears, the Writing NFT is successfully collected with an animat
 <figure><img src="../../../.gitbook/assets/Buy NFT Finish-en.png" alt=""><figcaption><p>Successfully purchased Writing NFT</p></figcaption></figure>
 
 {% hint style="info" %}
-Users who have a [Cosmostation](../../wallet/cosmostation/), [Cosmostation app](../../wallet/cosmostation-app/) or [Liker ID](../../../user-guide/liker-land/download.md) can also use a credit card to purchase Writing NFT by selecting the appropriate login method.
+Users who have a [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Cosmostation app](../../wallet/cosmostation-app/) or [Liker ID](../../../user-guide/liker-land/download.md) can also use a credit card to purchase Writing NFT by selecting the appropriate login method.
 {% endhint %}
 
 ## Collect Writing NFT with LikeCoin on Desktop Computer
@@ -116,25 +116,29 @@ Go to the upper right corner of the Liker Land website and click "Connect Wallet
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 12-en.png" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
 
-Choose [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker ID](../../../user-guide/liker-land/download.md) to login and link to the website.
+Choose [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker ID](../../../user-guide/liker-land/download.md) to login and link to the website.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6-en.png" alt=""><figcaption><p>Login and link to Liker Land with Keplr, Cosmostation, Cosmostation app or Liker ID</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 6-1-en.png" alt=""><figcaption><p>Choose Keplr, Cosmostation, Leap to login</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6-2-en.png" alt=""><figcaption><p>Choose Cosmostation app or Liker ID to login</p></figcaption></figure>
 
 #### Login with Keplr
 
-Please log into [Keplr Browser Extension](../../wallet/keplr/) in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
+Please log into [Keplr Browser Extension](../../wallet/keplr/) in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve". Another pop-up window asks to link the account, click "Approve" again to login.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr 1.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
-
-A pop-up window asks to link the account again, click "Approve".
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr 2.png" alt=""><figcaption><p>Click "Approve" again to link the account</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr.png" alt=""><figcaption><p>Click "Approve" twice to login with Keplr</p></figcaption></figure>
 
 #### Login with Cosmostation
 
-Please log into [Cosmostation Browser Extension](../../wallet/cosmostation/) in your browser. After clicking "Cosmostation", a window will pop up requesting connection, click "Confirm".
+Please log into [Cosmostation Browser Extension](../../wallet/cosmostation/) in your browser. After clicking "Cosmostation", a window will pop up requesting connection, click "Confirm" to login.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation.png" alt=""><figcaption><p>Click "Confirm" at Cosmostation</p></figcaption></figure>
+
+#### Login with Leap
+
+Please log into [Leap Browser Extension](../../wallet/leap/) in your browser. After clicking "Leap", a window will pop up requesting connection, click "Connect". Another pop-up window asks to link the account, click "Approve" to login.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Leap.png" alt=""><figcaption><p>Click "Connect" and "Approve" to login with Leap</p></figcaption></figure>
 
 #### Login with Cosmostation app
 
@@ -176,7 +180,7 @@ On Liker Land pop-up, click "Approve".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 3-en.png" alt=""><figcaption><p>The Liker Land window pops up, click "Approve"</p></figcaption></figure>
 
-Click "Approve" again to link the account.
+Click "Approve" again to link the account and login.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 4-en.png" alt=""><figcaption><p>Then click "Approve" to link the account</p></figcaption></figure>
 
@@ -198,11 +202,17 @@ A Keplr window will pop up, then click "Approve" to confirm the purchase.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 07-en.png" alt=""><figcaption><p>Keplr window pops up click "Approve" to confirm the purchase</p></figcaption></figure>
 
-#### Cosmostation login
+#### Cosmostation
 
 A Cosmostation window will pop up, then click "Confirm" to confirm the purchase.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 14-en.png" alt=""><figcaption><p>Cosmostation window pops up click "Confirm" to confirm the purchase</p></figcaption></figure>
+
+#### Leap
+
+A Leap window will pop up, then click "Approve" to confirm the purchase.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 13.png" alt=""><figcaption><p>A Leap window will pop up, then click "Approve" to confirm the purchase</p></figcaption></figure>
 
 #### Cosmostation app
 
