@@ -10,8 +10,6 @@ description: What is Super Like?
 
 When users click the 6th like (Super Like) on the [LikeCoin button](../creator/) of an article, it will be posted to the decentralized social media platform [depub.space](../depub.space/). This new feature not only enhances the visibility of high-quality content but also ensures that the content remains on the blockchain indefinitely.
 
-The [Liker Land app](download.md) provides access to the World Feed of depub.space, allowing users to explore and discover content.
-
 The gas fee and decentralized storage fee for uploading to depub.space will be subsidized by Liker Land, alleviating the burden on users.
 
 _\*Note: The previous 4 LikeCoin rewards have been cancelled._
@@ -28,14 +26,13 @@ Creators require content curation tools and distribution channels. Traditionally
 
 ### Mobile Version of depub.space?
 
-Currently, users need to access depub.space on desktop through Keplr, Cosmostation Browser Extension, or the Liker Land app with Wallet Connect. Direct access to depub.space on mobile devices is not available. Once the LikeCoin mobile wallet, [Liker Land app](download.md), is integrated with depub.space, tweeting on mobile may become possible. However, there are technical challenges to overcome, and community developers are actively discussing this on [Discord](https://discord.gg/likecoin). We welcome your participation.
+Currently, users need to access depub.space on desktop through Keplr, Cosmostation Browser Extension, or the Liker Land app with Wallet Connect. Direct access to depub.space on mobile devices is not available.
 
 ## Usage <a href="#zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
-* Clicking the LikeCoin button for the 5th time transforms the LikeCoin button icon into a star totem. When clicked for the 6th time, the article is "Super Liked."
-* The "Super Liked" article will be displayed on the Liker Land app.
+* Clicking the LikeCoin button for the 5th time transforms the LikeCoin button icon into a star totem. When clicked for the 6th time, the article is "Super Liked".
 * A checkmark appears on the star totem, representing the utilization of one Super Like. Super Likes are reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button functions as a progress bar indicating the reset time.
-* The RSS icon in the lower right-hand corner activates, and the article is shared to Liker Land and depub.space.
+* The RSS icon in the lower right-hand corner activates, and the article is shared to and will be displayed on depub.space.
 * Super Likes cannot be accumulated. If they are not used before the reset time, they will become obsolete. You can only use Super Likes twice a day.
 * You can Super Like a single article multiple times.
 
