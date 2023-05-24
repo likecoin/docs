@@ -81,7 +81,7 @@ Executable: index.js
 | symbol                                       | 保留。                                                                                                                                                      |
 | uri                                          | <p>可選，預設值設定為空。<br></p><p>高級用法：API 生成圖片的 URI 並使用它作為 NFT 類別的 og 圖片，展示於 liker.land 的 NFT 展示櫃/儀表板及類別資訊中，如果 nfts.csv 與nfts_default.json 設定不正確，也將顯示於詳細資料中。</p> |
 | metadata → image                             | 圖片的 URL 作為 NFT 的 og 圖片，並展示於 liker.land 的 NFT 展示櫃/儀表板及類別資訊中，如果 nfts.csv 與 nfts\_default.json 設定不正確，也將顯示於詳細資料中。                                            |
-| metadata → external\_url                     | <p>NFT 詳細資料頁面中「瀏覽內容」按鈕的鏈接，位於 NFT 主圖片下方。</p><p>iscn.json 中的 url 字段優先。</p>                                                                                 |
+| metadata → external\_url                     | <p>NFT 詳細資料頁面中「瀏覽內容」按鍵的鏈接，位於 NFT 主圖片下方。</p><p>iscn.json 中的 url 字段優先。</p>                                                                                 |
 | metadata → message                           | 附加到同一類別中每個 NFT 的「作者留言」。                                                                                                                                  |
 | metadata → nft\_meta\_collection\_id         | NFT 類別，例如：nft\_book、nft\_mail、nft\_photo、nft\_illustration 等。Liker Land 使用此欄位來決定 NFT 顯示在哪個部分。                                                            |
 | metadata → nft\_meta\_collection\_name       | NFT 類別名稱                                                                                                                                                 |

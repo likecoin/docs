@@ -12,7 +12,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 **選擇二**：將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../decentralized-publishing/app.like.co.md)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 出版 NFT
 
-**選擇三**：在 [Matters 網站](https://matters.news/)撰文並選擇「註冊 ISCN」，並於 [app.like.co 的 My Publishing 分頁](https://app.like.co/works)選擇該 ISCN 再按「Mint NFT」出版 NFT
+**選擇三**：在 [Matters 網站](https://matters.news/)撰文並選擇「註冊 ISCN」，並於 [app.like.co 的 My Publishing 分頁](https://app.like.co/works)選擇該 ISCN 再點「Mint NFT」出版 NFT
 
 **選擇四**：在 [Liker.Social](https://liker.social/) 出版 NFT
 
@@ -122,13 +122,13 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 ### 步驟 2/4：預覽 Writing NFT <a href="#preview-nft" id="preview-nft"></a>
 
-預覽你的 Writing NFT，你可以按「:pencil2:」修改封面、標題及簡介：
+預覽你的 Writing NFT，你可以點「:pencil2:」修改封面、標題及簡介：
 
 <figure><img src="../../.gitbook/assets/NFT Portal 4-1.png" alt=""><figcaption><p>修改 Writing NFT 封面、標題及簡介</p></figcaption></figure>
 
 #### 修改封面 <a href="#change-cover" id="change-cover"></a>
 
-在圖片位置按「:pencil2:」後再按「:game\_die:」即可生成獨一無二的 AI 封面圖，按「:open\_file\_folder:」則可上載或修改現有的圖片。如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片。
+在圖片位置點「:pencil2:」後再點「:game\_die:」即可生成獨一無二的 AI 封面圖，點「:open\_file\_folder:」則可上載或修改現有的圖片。如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片。
 
 關於 AI 封面的詳盡介紹：[AI 生成文章封面 – 文字創作利器？](https://blog.like.co/zh/ai-%E7%94%9F%E6%88%90%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2-%E6%96%87%E5%AD%97%E5%89%B5%E4%BD%9C%E5%88%A9%E5%99%A8/)
 
@@ -138,13 +138,13 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 #### 修改標題 <a href="#change-title" id="change-title"></a>
 
-在標題位置按「:pencil2:」後直接修改標題。
+在標題位置點「:pencil2:」後直接修改標題。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 4-4.png" alt=""><figcaption><p>修改 Writing NFT 標題</p></figcaption></figure>
 
 #### 修改簡介 <a href="#change-description" id="change-description"></a>
 
-在簡介位置按「:pencil2:」更改 Writing NFT 的簡介。
+在簡介位置點「:pencil2:」更改 Writing NFT 的簡介。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 4-5.png" alt=""><figcaption><p>修改 Writing NFT 簡介</p></figcaption></figure>
 
@@ -268,7 +268,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 **步驟五**：在用以群發給支持者的 Writing NFT 找出 NFT Class ID。
 
-**步驟六**：將 NFT Class ID 輸入 Send NFTs 工具，並輸入支持者的錢包地址清單 ( Recepient Address list ) 及留給他們的話 ( Transfer message ) ，再按「Send」及在 Keplr 簽署，即可群發 NFT。
+**步驟六**：將 NFT Class ID 輸入 Send NFTs 工具，並輸入支持者的錢包地址清單 ( Recepient Address list ) 及留給他們的話 ( Transfer message ) ，再點「Send」及在 Keplr 簽署，即可群發 NFT。
 
 #### **詳盡介紹**
 

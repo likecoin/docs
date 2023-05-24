@@ -40,7 +40,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ## 步驟二：身份認證 <a href="#2" id="2"></a>
 
-在「基本訊息」頁面的「身份認證」欄點選「未認證」出現下圖。掃瞄二維碼或到 [https://download.digifinex.xyz/](https://download.digifinex.xyz/) 下載 DigiFinex app
+在「基本訊息」頁面的「身份認證」欄點「未認證」出現下圖。掃瞄二維碼或到 [https://download.digifinex.xyz/](https://download.digifinex.xyz/) 下載 DigiFinex app
 
 ![掃瞄二維碼下載DigiFinex app](../../.gitbook/assets/digifinex-11.png)
 
@@ -54,13 +54,13 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 點 \[發送] 並於郵箱或手機取得驗證碼，輸入再點 \[確定]
 
-![點 \[發送\] 並於郵箱或手機取得驗證碼，輸入再點選 \[確定\]](../../.gitbook/assets/digifinex-mobile-3.png)
+![點 \[發送\] 並於郵箱或手機取得驗證碼，輸入再點 \[確定\]](../../.gitbook/assets/digifinex-mobile-3.png)
 
 留意第一次在 DigiFinex app 登錄必須設定手勢密碼（或其他驗證方式，視乎手機系統而定），以後只需要使用它就可以簡單登入帳號而不需要輸入密碼，敬請牢記
 
 ![設定驗證方式](../../.gitbook/assets/digifinex-mobile-4.png)
 
-點選左上角頭像出現選單，再點 \[帳戶安全]
+點左上角頭像出現選單，再點 \[帳戶安全]
 
 ![點 \[帳戶安全\]](../../.gitbook/assets/digifinex-mobile-5.png)
 
@@ -68,7 +68,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 ![點 \[身份認證\] 中的 \[未認證\]](../../.gitbook/assets/digifinex-mobile-6.png)
 
-填寫實名認證資料，選擇中國大陸用戶或非中國大陸用戶再點選 \[下一步]
+填寫實名認證資料，選擇中國大陸用戶或非中國大陸用戶再點 \[下一步]
 
 ![填寫所在國家](../../.gitbook/assets/digifinex-mobile-7.png)
 

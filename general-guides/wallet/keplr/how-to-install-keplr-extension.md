@@ -6,9 +6,9 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 
 ## 步驟一：安裝 Keplr 瀏覽器擴充功能 <a href="#step-1-install-keplr-browser-extension" id="step-1-install-keplr-browser-extension"></a>
 
-到 Chrome 線上應用程式商店按「加到 Chrome」安裝 [Keplr 瀏覽器擴充功能](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)。
+到 Chrome 線上應用程式商店點「加到 Chrome」安裝 [Keplr 瀏覽器擴充功能](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)。
 
-![ Chrome 線上應用程式商店按「加到 Chrome」安裝 Keplr](../../../.gitbook/assets/keplr01.png)
+![ Chrome 線上應用程式商店點「加到 Chrome」安裝 Keplr](../../../.gitbook/assets/keplr01.png)
 
 點「Add extension」將 Keplr 插件加到 Chrome。
 
@@ -30,7 +30,7 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 
 <figure><img src="../../../.gitbook/assets/keplr04.png" alt=""><figcaption><p>記下助記詞，輸入帳戶名稱及密碼</p></figcaption></figure>
 
-再依照次序確認助記詞後按「Register」。
+再依照次序確認助記詞後點「Register」。
 
 <figure><img src="../../../.gitbook/assets/keplr05.png" alt=""><figcaption><p>確認助記詞</p></figcaption></figure>
 
@@ -68,17 +68,17 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 
 ## 步驟三：連接 LikeCoin chain <a href="#step-3-connect-to-likecoin-chain" id="step-3-connect-to-likecoin-chain"></a>
 
-打開 Keplr 錢包，在上方菜單按「Add Suggest Chains」。
+打開 Keplr 錢包，在上方菜單點「Add Suggest Chains」。
 
 <figure><img src="../../../.gitbook/assets/keplr connection 1.png" alt=""><figcaption><p>在 Keplr 「Add Suggest Chains」</p></figcaption></figure>
 
-跳轉到 [https://chains.keplr.app/](https://chains.keplr.app/) 後搜尋 LikeCoin，再按「Add to Keplr >」。
+跳轉到 [https://chains.keplr.app/](https://chains.keplr.app/) 後搜尋 LikeCoin，再點「Add to Keplr >」。
 
 <figure><img src="../../../.gitbook/assets/keplr connection 2.png" alt=""><figcaption><p>在 https://chains.keplr.app/  搜尋 LikeCoin 再 「Add to Keplr >」</p></figcaption></figure>
 
-彈出 Keplr 視窗，按「Approve」。
+彈出 Keplr 視窗，點「Approve」。
 
-<figure><img src="../../../.gitbook/assets/keplr connection 3.png" alt=""><figcaption><p>彈出 Keplr 視窗，按「Approve」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/keplr connection 3.png" alt=""><figcaption><p>彈出 Keplr 視窗，點「Approve」</p></figcaption></figure>
 
 菜單出現「LikeCoin」，選擇它。
 

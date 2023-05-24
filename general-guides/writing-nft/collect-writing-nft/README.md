@@ -30,7 +30,7 @@ description: 如何收藏 Writing NFT
 
 ### 步驟一：以信用卡付款
 
-點 Writing NFT 價格或收藏按鈕後彈出收藏作品頁面，在「留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「以信用卡付款」。
+點 Writing NFT 價格或收藏按鍵後彈出收藏作品頁面，在「留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「以信用卡付款」。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT pay by card 1.png" alt=""><figcaption><p>在收藏作品頁選擇以信用卡付款</p></figcaption></figure>
 
@@ -38,7 +38,7 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/pay by card 2.png" alt=""><figcaption><p>在 Stripe 付款頁面輸入資料</p></figcaption></figure>
 
-彈出信用卡認證頁面，輸入你的 OTP 碼後按「VERIFY」。
+彈出信用卡認證頁面，輸入你的 OTP 碼後點「VERIFY」。
 
 <figure><img src="../../../.gitbook/assets/pay by card 3.png" alt=""><figcaption><p>信用卡 OTP 認證頁面</p></figcaption></figure>
 
@@ -88,7 +88,7 @@ description: 如何收藏 Writing NFT
 
 ### 步驟二：信用卡付款
 
-點 Writing NFT 價格或收藏按鈕後彈出收藏作品頁面，在「留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「以信用卡付款」。
+點 Writing NFT 價格或收藏按鍵後彈出收藏作品頁面，在「留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「以信用卡付款」。
 
 關於「留言給創作者」的詳盡介紹：[以文會友的人情味和空間感 — 購買 Writing NFT 時，留言給作者](https://blog.like.co/zh/%E4%BB%A5%E6%96%87%E6%9C%83%E5%8F%8B%E7%9A%84%E4%BA%BA%E6%83%85%E5%91%B3%E5%92%8C%E7%A9%BA%E9%96%93%E6%84%9F-%E8%B3%BC%E8%B2%B7-writing-nft-%E6%99%82%EF%BC%8C%E7%95%99%E8%A8%80%E7%B5%A6/)
 
@@ -98,7 +98,7 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 17.png" alt=""><figcaption><p>在 Stripe 付款頁面輸入資料</p></figcaption></figure>
 
-彈出信用卡認證頁面，輸入你的 OTP 碼後按「VERIFY」。
+彈出信用卡認證頁面，輸入你的 OTP 碼後點「VERIFY」。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 18.png" alt=""><figcaption><p>信用卡 OTP 認證頁面</p></figcaption></figure>
 
@@ -109,7 +109,7 @@ description: 如何收藏 Writing NFT
 <figure><img src="../../../.gitbook/assets/Buy NFT Finish.png" alt=""><figcaption><p>成功購買 Writing NFT</p></figcaption></figure>
 
 {% hint style="info" %}
-擁有 [Cosmostation](../../wallet/cosmostation/)、[Cosmostation app](../../wallet/cosmostation-mobile/cosmostation-app-deposit-and-send-likecoin.md) 或 [Liker ID](../../../user-guide/liker-land/download.md) 的用戶也可以使用信用卡購買 Writing NFT，只需在登入時採用對應的登入方式即可。
+擁有 [Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker ID](../../../user-guide/liker-land/download.md) 的用戶也可以使用信用卡購買 Writing NFT，只需在登入時採用對應的登入方式即可。
 {% endhint %}
 
 ## 以 LikeCoin 於桌面電腦收藏 Writing NFT <a href="#likecoin" id="likecoin"></a>
@@ -122,25 +122,29 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
 
-選擇以 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker ID](../../../user-guide/liker-land/download.md) 任何一種方式連結並登入網站。
+選擇以 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker ID](../../../user-guide/liker-land/download.md) 任何一種方式連結並登入網站。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6.png" alt=""><figcaption><p>以 Keplr、Cosmostation、Cosmostation app 或 Liker ID 任何一種方式連結並登入 Liker Land</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 6-1.png" alt=""><figcaption><p>選擇以 Keplr、Cosmostation、Leap 登入</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6-2.png" alt=""><figcaption><p>選擇以 Cosmostation app 或 Liker ID 登入</p></figcaption></figure>
 
 #### Keplr 登入
 
-請於瀏覽器登入 [Keplr 瀏覽器擴充功能 ( Keplr Browser Extension )](../../wallet/keplr/)，點「Keplr」後彈出視窗要求連結，點「Approve」。
+請於瀏覽器登入 [Keplr 瀏覽器擴充功能 ( Keplr Browser Extension )](../../wallet/keplr/)，點「Keplr」後彈出視窗要求連結，點「Approve」。接下來會再次彈出視窗要求連結帳戶，繼續點「Approve」登入。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr 1.png" alt=""><figcaption><p>在 Keplr 點「Approve」</p></figcaption></figure>
-
-再次彈出視窗要求連結帳戶，點「Approve」。
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr 2.png" alt=""><figcaption><p>再點「Approve」連結帳戶</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr.png" alt=""><figcaption><p>在 Keplr 點「Approve」 兩次登入</p></figcaption></figure>
 
 #### Cosmostation 登入
 
-請於瀏覽器登入 [Cosmotation 瀏覽器擴充功能 ( Cosmostation Browser Extension )](../../wallet/cosmostation/)，點「Cosmostation」後彈出視窗要求連結，點「Confirm」。
+請於瀏覽器登入 [Cosmotation 瀏覽器擴充功能 ( Cosmostation Browser Extension )](../../wallet/cosmostation/)，點「Cosmostation」後彈出視窗要求連結，點「Confirm」登入。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation.png" alt=""><figcaption><p>在 Cosmostation 點「Confirm」</p></figcaption></figure>
+
+#### Leap 登入
+
+請於瀏覽器登入 Leap 瀏覽器擴充功能 ( Leap Browser Extension )，點「Leap」後彈出視窗要求連結，點「Connect」。接下來會再次彈出視窗要求連結帳戶，繼續點「Approve」登入。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Leap.png" alt=""><figcaption><p>在 Leap 點「Connect」再點「Approve」 登入</p></figcaption></figure>
 
 #### Cosmostation app 登入
 
@@ -164,7 +168,7 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 5.png" alt=""><figcaption><p>點「Confirm」連結帳戶</p></figcaption></figure>
 
-成功連結。
+成功連結並登入。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 6.png" alt=""><figcaption><p>成功連結 Liker Land</p></figcaption></figure>
 
@@ -182,7 +186,7 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 3.png" alt=""><figcaption><p>彈出 Liker Land 視窗，點「允許」</p></figcaption></figure>
 
-再點「允許」連結帳戶。
+再點「允許」連結帳戶並登入。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 4.png" alt=""><figcaption><p>再點「允許」連結帳戶</p></figcaption></figure>
 
@@ -190,9 +194,11 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>成功登入後右上角將顯示你的頭像</p></figcaption></figure>
 
-### 步驟二：用 LIKE 購買
+### 步驟二：用 LIKE 購買 Writing NFT
 
-點 Writing NFT 價格或收藏按鈕後彈出收藏作品頁面，在「留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
+點 Writing NFT 價格或收藏按鍵後彈出收藏作品頁面，在「留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
+
+關於「留言給創作者」的詳盡介紹：[以文會友的人情味和空間感 — 購買 Writing NFT 時，留言給作者](https://blog.like.co/zh/%E4%BB%A5%E6%96%87%E6%9C%83%E5%8F%8B%E7%9A%84%E4%BA%BA%E6%83%85%E5%91%B3%E5%92%8C%E7%A9%BA%E9%96%93%E6%84%9F-%E8%B3%BC%E8%B2%B7-writing-nft-%E6%99%82%EF%BC%8C%E7%95%99%E8%A8%80%E7%B5%A6/)
 
 <figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE.png" alt=""><figcaption><p>輸入給作者的話並用 LIKE 購買</p></figcaption></figure>
 
@@ -209,6 +215,12 @@ description: 如何收藏 Writing NFT
 彈出 Comostation 視窗，再點「Confirm」確認購買。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 14.png" alt=""><figcaption><p>Cosmostation 彈出視窗，點「Confirm」確認購買</p></figcaption></figure>
+
+#### Leap
+
+彈出 Leap 視窗，再點「Approve」確認購買。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 13.png" alt=""><figcaption><p>彈出 Leap 視窗，再點「Approve」確認購買</p></figcaption></figure>
 
 #### Cosmostation app
 
