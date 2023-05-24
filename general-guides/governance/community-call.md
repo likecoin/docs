@@ -31,14 +31,7 @@ description: >-
 
 ## **Call Time**
 
-| Location    | Local Time | Time Zone | UTC Offset |
-| ----------- | ---------- | --------- | ---------- |
-| Hong Kong   | 18:30:00   | UTC+8     | UTC+8      |
-| Taipei      | 18:30:00   | CST       | UTC+8      |
-| Los Angelas | 03:00:00   | PDT       | UTC-7      |
-| New York    | 06:00:00   | EDT       | UTC-4      |
-| London      | 11:00:00   | BST       | UTC+1      |
-| Toronto     | 06:00:00   | EDT       | UTC-4      |
+<table><thead><tr><th width="150">Location</th><th width="150">Local Time</th><th width="150">Time Zone</th><th>UTC Offset</th></tr></thead><tbody><tr><td>Hong Kong</td><td>18:30:00</td><td>UTC+8</td><td>UTC+8</td></tr><tr><td>Taipei</td><td>18:30:00</td><td>CST</td><td>UTC+8</td></tr><tr><td>Los Angelas</td><td>03:00:00</td><td>PDT</td><td>UTC-7</td></tr><tr><td>New York</td><td>06:00:00</td><td>EDT</td><td>UTC-4</td></tr><tr><td>London</td><td>11:00:00</td><td>BST</td><td>UTC+1</td></tr><tr><td>Toronto</td><td>06:00:00</td><td>EDT</td><td>UTC-4</td></tr></tbody></table>
 
 ![Genesis validator of LikeCoin chain](../../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
 

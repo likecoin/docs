@@ -63,47 +63,25 @@ Pagination params:
 
 `/likechain/likenft/v1/class`
 
-| Param            | Example | Description                                   |
-| ---------------- | ------- | --------------------------------------------- |
-| iscn\_id\_prefix |         | ISCN prefix of NFT class (if minted via ISCN) |
-| account          |         | Account of NFT class (if minted via account)  |
-| iscn\_owner      |         | Query classes owned via ISCN by an address    |
-| expand           |         | expand NFT info                               |
+<table><thead><tr><th>Param</th><th>Example</th><th width="276">Description</th></tr></thead><tbody><tr><td>iscn_id_prefix</td><td></td><td>ISCN prefix of NFT class (if minted via ISCN)</td></tr><tr><td>account</td><td></td><td>Account of NFT class (if minted via account)</td></tr><tr><td>iscn_owner</td><td></td><td>Query classes owned via ISCN by an address</td></tr><tr><td>expand</td><td></td><td>expand NFT info</td></tr></tbody></table>
 
 ### NFT API
 
 `/likechain/likenft/v1/nft`
 
-| Param           | Example | Description              |
-| --------------- | ------- | ------------------------ |
-| owner           |         | Owner address            |
-| expand\_classes |         | Expand class information |
+<table><thead><tr><th>Param</th><th>Example</th><th width="276">Description</th></tr></thead><tbody><tr><td>owner</td><td></td><td>Owner address</td></tr><tr><td>expand_classes</td><td></td><td>Expand class information</td></tr></tbody></table>
 
 ### Owner API
 
 `/likechain/likenft/v1/owner`
 
-| Param     | Example | Description  |
-| --------- | ------- | ------------ |
-| class\_id |         | NFT Class ID |
+<table><thead><tr><th>Param</th><th>Example</th><th width="276">Description</th></tr></thead><tbody><tr><td>class_id</td><td></td><td>NFT Class ID</td></tr></tbody></table>
 
 ### Event API
 
 `/likechain/likenft/v1/event`
 
-| Param              | Example                     | Description                                                         |
-| ------------------ | --------------------------- | ------------------------------------------------------------------- |
-| class\_id          |                             | NFT Class ID                                                        |
-| nft\_id            |                             | NFT ID                                                              |
-| iscn\_id\_prefix   |                             | ISCN ID Prefix (if minted via ISCN)                                 |
-| verbose            |                             | Expand events                                                       |
-| action\_type       | /cosmos.nft.v1beta1.MsgSend | Filter event by action                                              |
-| sender             |                             | Get all events sent by an address                                   |
-| receiver           |                             | Get all events received by an address                               |
-| creator            |                             | Get all events of NFT Classes created (ISCN owner) by an address    |
-| involver           |                             | Get all events involving an address (sender OR receiver OR creator) |
-| ignore\_from\_list |                             | Ignore events sent from address                                     |
-| ignore\_to\_list   |                             | Ignore events sent to address                                       |
+<table><thead><tr><th>Param</th><th>Example</th><th width="276">Description</th></tr></thead><tbody><tr><td>class_id</td><td></td><td>NFT Class ID</td></tr><tr><td>nft_id</td><td></td><td>NFT ID</td></tr><tr><td>iscn_id_prefix</td><td></td><td>ISCN ID Prefix (if minted via ISCN)</td></tr><tr><td>verbose</td><td></td><td>Expand events</td></tr><tr><td>action_type</td><td>/cosmos.nft.v1beta1.MsgSend</td><td>Filter event by action</td></tr><tr><td>sender</td><td></td><td>Get all events sent by an address</td></tr><tr><td>receiver</td><td></td><td>Get all events received by an address</td></tr><tr><td>creator</td><td></td><td>Get all events of NFT Classes created (ISCN owner) by an address </td></tr><tr><td>involver</td><td></td><td>Get all events involving an address (sender OR receiver OR creator)</td></tr><tr><td>ignore_from_list</td><td></td><td>Ignore events sent from address</td></tr><tr><td>ignore_to_list</td><td></td><td>Ignore events sent to address</td></tr></tbody></table>
 
 ### Ranking API
 
@@ -111,20 +89,7 @@ Pagination params:
 
 #### Request Params
 
-| Param             | Example                                            | Description                                                    |
-| ----------------- | -------------------------------------------------- | -------------------------------------------------------------- |
-| creator           | `like13f4glvg80zvfrrs7utft5p68pct4mcq7t5atf6`      | The current owner of the ISCN                                  |
-| collector         | `like1vymrc5dxlfwff30m03prwlu08ql4vudn4lue8u`      | The current owner of NFT                                       |
-| type              | `CreativeWork`                                     | The `contentMetadata.@type` field in ISCN                      |
-| stakeholder\_id   | `did:like:1w6es6du93xmhms60gwwtczr2p2h4cdm8r7kc0f` | The `stakeholders.entity.@id` field in ISCN                    |
-| stakeholder\_name | `kin`                                              | The `stakeholders.entity.name` field in ISCN                   |
-| created\_after    | `1659283200`                                       | Get NFT class created after this UNIX second timestamp         |
-| created\_before   | `1659801600`                                       | Get NFT class created before this UNIX second timestamp        |
-| sold\_after       | `1659283200`                                       | Rank NFT class base on sales after this UNIX second timestamp  |
-| sold\_before      | `1659801600`                                       | Rank NFT class base on sales before this UNIX second timestamp |
-| include\_owner    | `true`                                             | Whether to include owner of ISCN when counting sold\_count     |
-| ignore\_list      | `like17m4vwrnhjmd20uu7tst7nv0kap6ee7js69jfrs`      | The addresses to ignore when counting sold count               |
-| order\_by         |                                                    | total\_sold\_value/sold\_count                                 |
+<table><thead><tr><th>Param</th><th width="258.3333333333333">Example</th><th>Description</th></tr></thead><tbody><tr><td>creator</td><td><code>like13f4glvg80zvfrrs7utft5p68pct4mcq7t5atf6</code></td><td>The current owner of the ISCN</td></tr><tr><td>collector</td><td><code>like1vymrc5dxlfwff30m03prwlu08ql4vudn4lue8u</code></td><td>The current owner of NFT</td></tr><tr><td>type</td><td><code>CreativeWork</code></td><td>The <code>contentMetadata.@type</code> field in ISCN</td></tr><tr><td>stakeholder_id</td><td><code>did:like:1w6es6du93xmhms60gwwtczr2p2h4cdm8r7kc0f</code></td><td>The <code>stakeholders.entity.@id</code> field in ISCN</td></tr><tr><td>stakeholder_name</td><td><code>kin</code></td><td>The <code>stakeholders.entity.name</code> field in ISCN</td></tr><tr><td>created_after</td><td><code>1659283200</code></td><td>Get NFT class created after this UNIX second timestamp</td></tr><tr><td>created_before</td><td><code>1659801600</code></td><td>Get NFT class created before this UNIX second timestamp</td></tr><tr><td>sold_after</td><td><code>1659283200</code></td><td>Rank NFT class base on sales after this UNIX second timestamp</td></tr><tr><td>sold_before</td><td><code>1659801600</code></td><td>Rank NFT class base on sales before this UNIX second timestamp</td></tr><tr><td>include_owner</td><td><code>true</code></td><td>Whether to include owner of ISCN when counting sold_count</td></tr><tr><td>ignore_list</td><td><code>like17m4vwrnhjmd20uu7tst7nv0kap6ee7js69jfrs</code></td><td>The addresses to ignore when counting sold count</td></tr><tr><td>order_by</td><td></td><td>total_sold_value/sold_count</td></tr></tbody></table>
 
 Result is order by the number of NFTs not owned by creator nor `ignore_list`
 
