@@ -8,12 +8,12 @@ description: NFT 作者及收藏者雙向互動
 
 ## Liker Land 網頁版
 
-在 Liker Land 網頁版點右上角的頭像再點「[通知](https://liker.land/notifications)」。
+在 [Liker Land 網頁版](https://liker.land/)點右上角的頭像再點「[通知](https://liker.land/notifications)」。
 
 <figure><img src="../../.gitbook/assets/notifications.png" alt=""><figcaption><p>Writing NFT 通知功能</p></figcaption></figure>
 
 ## Liker Land 手機應用程式
 
-在 Liker Land 手機應用程式點:bell:查看通知。
+在 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)點:bell:查看通知。
 
 <figure><img src="../../.gitbook/assets/Liker Land app Writing NFT 3.png" alt=""><figcaption><p>點查看通知</p></figcaption></figure>

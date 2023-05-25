@@ -4,15 +4,17 @@ description: 展示 NFT 藏品庫及個人貨架
 
 # 我的書架
 
+[**我的書架**](https://liker.land/dashboard)列出用戶擁有的所有 NFT，顯示 NFT 資產總值，並進行出售到二手市場及轉贈等操作。也可參看自己是誰人的頭號粉絲。
+
 ## Liker Land 網頁版
 
-[**我的書架**](https://liker.land/dashboard)列出用戶擁有的所有 NFT，顯示 NFT 資產總值，並進行出售到二手市場及轉贈等操作。也可參看自己是誰人的頭號粉絲。
+在 [Liker Land 網頁版](https://liker.land/)點右上角的頭像再點「[我的書架](https://liker.land/dashboard)」。
 
 <figure><img src="../../.gitbook/assets/My Dashboard.png" alt=""><figcaption><p>我的書架</p></figcaption></figure>
 
 ## Liker Land 手機應用程式
 
-點堆疊圖案再點「我的書架」查看。
+在 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)點堆疊圖案再點「我的書架」查看。
 
 <figure><img src="../../.gitbook/assets/Liker Land app Writing NFT 2.png" alt=""><figcaption><p>點堆疊圖案再點「我的書架」查看</p></figcaption></figure>
 
