@@ -20,8 +20,6 @@ There are several ways to collect a Writing NFT:
 2. Visit the [Portfolio](collect-writing-nft/nft-portfolio.md) page of the author or collector and purchase the Writing NFT there.
 3. Look for an [NFT Widget](collect-writing-nft/nft-widget.md) that is embedded in the content you're interested in.
 
-To buy a Writing NFT, you can [use a credit card](collect-writing-nft/) and receive the NFT after installing the [Keplr](http://localhost:5000/s/-LL4mdaVjNgL6A1--PV0-1995411665/general-guides/trade/buy-likecoin) wallet. Alternatively, you can also purchase a Writing NFT with LikeCoin.
-
 ### Where can I check out my NFT collection?
 
 At the [My Dashboard](dashboard.md) page.
@@ -46,7 +44,7 @@ Once your NFTs are published, they will be automatically listed. Others can coll
 
 ### I do not have a Liker ID, can I buy Writing NFT?
 
-Yes. Readers can buy Writing NFT with credit card or LikeCoin without registering a Liker ID.
+Yes. Readers can buy Writing NFT with LikeCoin without registering a Liker ID.
 
 ### I do not have a Liker ID, can I sell Writing NFT?
 

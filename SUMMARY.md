@@ -236,6 +236,7 @@
 
 * [Archive](archive/archive/README.md)
   * [Writing NFT](archive/archive/writing-nft/README.md)
+    * [Collect Writing NFT](archive/archive/writing-nft/collect.md)
     * [ISCN Wallet](archive/archive/writing-nft/iscn-wallet.md)
   * [Liker Land](archive/archive/liker-land/README.md)
     * [My Content Jockey](archive/archive/liker-land/today-headline.md)
