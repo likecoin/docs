@@ -13,3 +13,17 @@ description: 要去哪裏下載 Liker Land？
 {% content-ref url="../liker-id/" %}
 [liker-id](../liker-id/)
 {% endcontent-ref %}
+
+登入 Liker Land 手機應用程式於下方出現其他操作選項。
+
+<figure><img src="../../.gitbook/assets/Liker Land app menu.png" alt=""><figcaption></figcaption></figure>
+
+## 選項一：錢包管理
+
+用戶可進行以下操作：
+
+* [LIKE Pay](../../general-guides/wallet/like-pay.md)
+* [委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin.md)
+* [成為讚賞公民](../civic-liker/be-a-civic-liker.md)
+
+## 選項二：錢包管理

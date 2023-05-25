@@ -20,8 +20,6 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 * 參觀作者或收藏家的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)頁面，並在那裡購買寫作 NFT。
 * 尋找嵌入您感興趣內容的 [NFT Widget](collect-writing-nft/nft-widget.md)。
 
-您可以[使用信用卡](collect-writing-nft/)購買 Writing NFT，在安裝 [Keplr](../wallet/keplr/keplr-deposit-and-send-likecoin.md) 錢包後收到 NFT。或者，您也可以用 LikeCoin 購買 Writing NFT。
-
 ### 如何第一時間接收到新 NFT 上架的消息？
 
 可使用[追蹤作者](follow-creators.md)功能。
@@ -44,7 +42,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 沒有 Liker ID ，能購買 Writing NFT 嗎？
 
-可以，只要使用信用卡或 LikeCoin 即可。
+可以，只要使用 LikeCoin 即可。
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 

@@ -164,6 +164,7 @@
 
 * [存檔](archive/archive/README.md)
   * [Writing NFT](archive/archive/writing-nft/README.md)
+    * [收藏 Writing NFT](archive/archive/writing-nft/collect.md)
     * [ISCN Wallet](archive/archive/writing-nft/iscn-wallet.md)
   * [Liker Land](archive/archive/liker-land/README.md)
     * [我的 Content Jockey](archive/archive/liker-land/today-headline.md)
