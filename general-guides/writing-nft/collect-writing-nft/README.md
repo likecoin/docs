@@ -158,6 +158,42 @@ Complete! page appears, the Writing NFT is successfully collected with an animat
 
 <figure><img src="../../../.gitbook/assets/Buy NFT Finish-en.png" alt=""><figcaption><p>Successfully purchased Writing NFT</p></figcaption></figure>
 
+## Collect Writing NFT on Liker Land app
+
+**Step 1**: After login to the [Liker Land app](../../../user-guide/liker-land/download.md), go to the the stacked icon to browse the NFT bookstore.
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 0-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 2**: After clicking "Collect Now", the Collect NFT page will appear.
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 1-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 3**: You can choose to "Leave a message to creator" (optional) or simply click "Pay by LIKE". If you decide to leave a message, enter it in the provided field.
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 2-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 4**: Pending your signature on Liker Land app will appear.
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 3-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 5**: A LikeCoinApp window will pop-up, click "Approve".
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 4-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 6**: Preparing work for delivery will appear.
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 5-en.png" alt=""><figcaption></figcaption></figure>
+
+**Step 7**: After the payment is successful, you can view the purchased NFT on your bookshelf, or click "View the NFT".
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 6-en.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+If you encounter problems during the purchase process, please go to the setting in the lower right corner and choose "Wallet Connet" to delete the existing link and purchase again.
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 7.png" alt=""><figcaption></figcaption></figure>
+
 ## Collect Writing NFT on Mobile Browser
 
 ### **Through the Cosmostation app**
