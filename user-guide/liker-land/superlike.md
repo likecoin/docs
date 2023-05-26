@@ -10,6 +10,8 @@ description: 何謂 Super Like？
 
 點[讚賞鍵](../creator/)第六下，將自動分享文章到去中心社交媒體 [depub.space](../depub.space/)，提升高質內容的曝光度，推文永存於區塊鏈。
 
+​[Liker Land app](https://docs.like.co/v/zh/user-guide/liker-land/download) 顯示 depub.space 的 World Feed。
+
 推文上鏈所需的 gas fee 及分散式儲存費用將由 Liker Land 補貼。
 
 _(\*舊有的 4 LikeCoin 奬勵已被取消。)_
@@ -31,8 +33,9 @@ depub.space 是 LikeCoin 生態內的去中心社交媒體，每則推文都是�
 ## 使用方法
 
 * 在讚賞鍵點 5 次，讚賞鍵的圖案會從拍掌圖案轉變成星形圖案，這時再點第 6 次，便使用了 Super Like。
-* 星型圖案中顯示了一個「勾號」，代表 Super Like 的機會已用畢。Super Like 功能逢中午 12 時及凌晨 12 時重置，用完一次需待重置時間後才能再次使用。讚賞鍵的綠色外圈是距離下次重置時間的進度條。
-* 右下方的廣播圖示亮著代表這篇文章已被分享並顯示於 depub.space 上。
+* 被 Super Like 了的文章會顯示在 Liker Land app 及 depub.space 上。
+* 星型圖案中顯示了一個「勾號」，代表 Super Like 的機會已用畢。Super Like 功能逢中午 12 時及凌晨 12 時重置，用完一次需待重置時間後才能再次使用。讚賞鍵的綠色外圈是距離下次重置時間 的進度條。
+* 右下方的廣播圖示亮著代表這篇文章已被分享到 Liker Land 及 depub.space 上。
 * Super Like 的機會次數不會累積，若重置前沒有用掉，重置後也仍然只有一次機會，因此每天最多只能使用 Super Like 兩次。
 * 可重複給同一篇文章 Super Like。
 

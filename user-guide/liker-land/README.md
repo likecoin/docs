@@ -22,7 +22,9 @@ Liker Land 作為電子錢包，讓你隨時查看、接收和[轉帳 LikeCoin](
 
 ## 參與去中心出版
 
-瀏覽及收藏最新的 [Writing NFT](../../general-guides/writing-nft/)，從書本到各式作品，一應俱全。
+以 Liker Land 隨時隨地瀏覽去中心社交媒體 [depub.space](https://docs.like.co/v/zh/user-guide/depub.space) 的 World Feed 內容。讀者在支援 LikeCoin button 的網站，[一鍵把內容發佈到 depub.space](https://docs.like.co/v/zh/user-guide/liker-land/superlike) 並出版到區塊鏈，讓好內容永留記錄並得以廣傳。
+
+你也可以瀏覽及收藏最新的 [Writing NFT](../../general-guides/writing-nft/)，從書本到各式作品，一應俱全。
 
 ## 參與讚賞公民
 

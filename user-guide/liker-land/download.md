@@ -20,10 +20,23 @@ description: 要去哪裏下載 Liker Land？
 
 ## 選項一：錢包管理
 
-用戶可進行以下操作：
-
 * [LIKE Pay](../../general-guides/wallet/like-pay.md)
 * [委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin.md)
 * [成為讚賞公民](../civic-liker/be-a-civic-liker.md)
 
-## 選項二：錢包管理
+## 選項二：NFT 書店
+
+* [收藏 Writing NFT](../../general-guides/writing-nft/collect-writing-nft/)
+* [我的書架](../../general-guides/writing-nft/dashboard.md)
+
+## 選項三：[通知功能](../../general-guides/writing-nft/notifications.md)
+
+## 選項四：設定
+
+* 語言
+* [個人資料設定](../liker-id/edit-avatar-displayname.md)
+* 安全：[更改密碼](../liker-id/register/reset-password.md)、[雙重認證](../liker-id/register/verifying-email-address.md)、[裝置](../liker-id/register/devices.md)、[社交帳戶登入](../liker-id/register/social-media-logins.md)
+* Wallect Connect
+* [匯出錢包助記詞](../liker-id/export-seed-words.md)
+* 閱讀列表
+* [推文](superlike.md)
