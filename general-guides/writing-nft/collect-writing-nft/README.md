@@ -4,9 +4,9 @@ description: 如何收藏 Writing NFT
 
 # 收藏 Writing NFT
 
-## 開始收藏 Writing NFT
+## 開始收藏 NFT
 
-到 [Liker Land 主頁](https://liker.land/zh-Hant/writing-nft)或 [LikeCoin NFT Dashboard](tools.md) 查看希望購買的 NFT 再點「立即收藏」。
+到 [Liker Land 主頁](https://liker.land/zh-Hant/writing-nft)或 [LikeCoin NFT Dashboard](tools.md) 查看希望購買的 Writing NFT 再點「立即收藏」。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 1.png" alt=""><figcaption><p>Liker Land 主頁</p></figcaption></figure>
 
@@ -110,7 +110,7 @@ description: 如何收藏 Writing NFT
 
 點 Writing NFT 價格或收藏按鍵後彈出收藏作品頁面，在「簽署留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
 
-關於「留言給創作者」的詳盡介紹：[以文會友的人情味和空間感 — 購買 Writing NFT 時，留言給作者](https://blog.like.co/zh/%E4%BB%A5%E6%96%87%E6%9C%83%E5%8F%8B%E7%9A%84%E4%BA%BA%E6%83%85%E5%91%B3%E5%92%8C%E7%A9%BA%E9%96%93%E6%84%9F-%E8%B3%BC%E8%B2%B7-writing-nft-%E6%99%82%EF%BC%8C%E7%95%99%E8%A8%80%E7%B5%A6/)
+關於「簽署留言給創作者」的詳盡介紹：[以文會友的人情味和空間感 — 購買 Writing NFT 時，留言給作者](https://blog.like.co/zh/%E4%BB%A5%E6%96%87%E6%9C%83%E5%8F%8B%E7%9A%84%E4%BA%BA%E6%83%85%E5%91%B3%E5%92%8C%E7%A9%BA%E9%96%93%E6%84%9F-%E8%B3%BC%E8%B2%B7-writing-nft-%E6%99%82%EF%BC%8C%E7%95%99%E8%A8%80%E7%B5%A6/)
 
 <figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE.png" alt=""><figcaption><p>輸入給作者的話並用 LIKE 購買</p></figcaption></figure>
 
@@ -160,6 +160,42 @@ Liker Land app 彈出簽名請求視窗，點「允許」確認購買。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT Finish.png" alt=""><figcaption><p>成功購買 Writing NFT</p></figcaption></figure>
 
+## 使用 Liker Land 手機應用程式購買 NFT <a href="#mobile" id="mobile"></a>
+
+**步驟一**：登入 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)後後點堆疊圖案瀏覽 NFT 書店。
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 0.png" alt=""><figcaption><p>瀏覽 NFT 書店</p></figcaption></figure>
+
+**步驟二**：點「立即收藏」後彈出收藏作品頁面。
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 1.png" alt=""><figcaption><p>點「立即收藏」</p></figcaption></figure>
+
+**步驟三**：在「簽署留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 2.png" alt=""><figcaption><p>輸入給作者的話並用 LIKE 購買</p></figcaption></figure>
+
+**步驟四**：出現請在 Liker Land 手機應用程式確認你的簽署後，請等待片刻。
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 3.png" alt=""><figcaption><p>請在 Liker Land 手機應用程式確認你的簽署</p></figcaption></figure>
+
+**步驟五**：彈出 LikeCoinApp 視窗，點「允許」。
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 4.png" alt=""><figcaption><p>彈出 LikeCoinApp 視窗，點「允許」</p></figcaption></figure>
+
+**步驟六**：出現正在收藏作品頁面。
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 5.png" alt=""><figcaption><p>正預備運送作品</p></figcaption></figure>
+
+**步驟七**：付款成功後可於你的書架，或點「檢視 NFT」檢視已購買的 NFT。
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 6.png" alt=""><figcaption><p>點「檢視 NFT」</p></figcaption></figure>
+
+{% hint style="warning" %}
+如在購買過程中遇到問題，請到右下角設定點「Wallet Connet」刪除現有連結並再次購買。
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 7.png" alt=""><figcaption><p>刪除現有 Wallet Connect 連結並再次購買</p></figcaption></figure>
+
 ## 於手機瀏覽器收藏 Writing NFT <a href="#mobile" id="mobile"></a>
 
 ### 在 Cosmostation app 簽署 <a href="#cosmostation-app" id="cosmostation-app"></a>
@@ -168,13 +204,13 @@ Liker Land app 彈出簽名請求視窗，點「允許」確認購買。
 
 {% embed url="https://www.youtube.com/watch?v=l6zjetJVNuA" %}
 
-### 在 Liker Land app 簽署 <a href="#liker-land-app" id="liker-land-app"></a>
+### 在 Liker 手機應用程式簽署 <a href="#liker-land-app" id="liker-land-app"></a>
 
-**步驟一**：登入 Liker Land app 後到手機瀏覽器開啟希望購買的 Writing NFT 頁面並開始收藏。
+**步驟一**：登入 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)後到手機瀏覽器開啟希望購買的 NFT 頁面並開始收藏。
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 1.png" alt=""><figcaption><p>在手機瀏覽器開啟希望購買的 Writing NFT 頁面</p></figcaption></figure>
 
-**步驟二**：點 Writing NFT 價格後彈出收藏作品頁面，在「留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
+**步驟二**：點 Writing NFT 價格後彈出收藏作品頁面，在「簽署留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 2.png" alt=""><figcaption><p>輸入給作者的話並用 LIKE 購買</p></figcaption></figure>
 
