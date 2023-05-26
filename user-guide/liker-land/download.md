@@ -16,7 +16,7 @@ description: 要去哪裏下載 Liker Land？
 
 登入 Liker Land 手機應用程式於下方出現其他操作選項。
 
-<figure><img src="../../.gitbook/assets/Liker Land app menu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land app menu.png" alt=""><figcaption><p>Liker Land app 操作選項</p></figcaption></figure>
 
 ## 選項一：錢包管理
 
