@@ -89,7 +89,7 @@ Operators who could not arrange a capable machine might opt to temporarily stop 
 
 #### Migrate to Cosmovisor
 
-To support the automatic upgrade, operators should **migrate to host their node with Cosmovisor** beforehand, which is supported since `v1.2.0`. A setup guide with migration instructions is available [here](../likecoin-chain-node/setup-a-node/). `v1.2.0` is binary compatible with `fotan-1.1`, so operators can **upgrade at their own pace**.
+To support the automatic upgrade, operators should **migrate to host their node with Cosmovisor** beforehand, which is supported since `v1.2.0`. A setup guide with migration instructions is available [here](likecoin-chain-node/setup-a-node/). `v1.2.0` is binary compatible with `fotan-1.1`, so operators can **upgrade at their own pace**.
 
 Operators can also test their setup and practice the migration flow on testnet before the actual upgrade.
 

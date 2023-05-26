@@ -17,6 +17,22 @@ description: StarFerry is the fourth major upgrade to the LikeCoin chain
 * Add custom authz message in iscn and likenft module
 * Add feegrant in iscn and likenft module messages
 
+### SDK Upgrade
+
+We will be upgrading to cosmos-sdk 0.46, which contains x/nft(which we already back-ported to sdk 0.45 in last version) and x/group module. Also ledger support for authz module is re-introduced. We will be also upgrading to ibc-go 5.3.1, which is the supported version containing security fix for Huckleberry.
+
+### Fee grant and authz support
+
+We have implement feegrant and authz support for iscn and x/likenft module, enabling better onboard and minting UX for users and more possibility for dApp use cases.
+
+### Miscellaneous update
+
+A new flag `full_pay_to_royalty` is added to NFT sale related events, which allow seller to optionally send all revenue to stakeholders listed in the NFT's royalty config.
+
+ISCN ID can be now calculated deterministically, which allow messages that required ISCN ID as parameter to be batched together with ISCN creation message in one transaction .
+
+
+
 ### Timeline
 
 | Event            | Time          |
