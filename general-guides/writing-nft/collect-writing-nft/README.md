@@ -10,7 +10,7 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 1.png" alt=""><figcaption><p>Liker Land 主頁</p></figcaption></figure>
 
-或到 NFT 系列資訊頁面頁面點「收集」或當前價格；
+或到 NFT 系列資訊頁面頁面點「收集」或當前價格；此外為了更好地展示創作者與支持者之間的關係，Liker Land 在這 NFT 收藏頁面展示收藏者的頭像。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 2.png" alt=""><figcaption><p>NFT 系列資訊頁面</p></figcaption></figure>
 

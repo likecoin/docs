@@ -131,7 +131,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ### 步驟八：查看投票
 
-投票完成並顯示詳盡資料。可按「Share」分享或「Explorer」在 Mintscan 區塊瀏覽器中查閱明細。完成後點「Done」結束。
+投票完成並顯示詳盡資料。可點「Share」分享或「Explorer」在 Mintscan 區塊瀏覽器中查閱明細。完成後點「Done」結束。
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile vote 8.png" alt=""><figcaption><p>投票完成並顯示詳盡資料，點「Share」分享或「Explorer」查閱明細</p></figcaption></figure>
 
