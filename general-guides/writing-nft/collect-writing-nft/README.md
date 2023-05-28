@@ -10,7 +10,7 @@ Go to the [Liker Land](https://liker.land/) Home page or [LikeCoin NFT Dashboard
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 1-en.png" alt=""><figcaption><p>Liker Land Homepage</p></figcaption></figure>
 
-Or go to the NFT details page and click "Collect" or the current NFT price;
+Or go to the NFT details page and click "Collect" or the current NFT price. To better illustrate the relationship between creators and supporters, Liker Land displays the avatar of collectors on the NFT collection page;
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 2-en.png" alt=""><figcaption><p>NFT Content Details</p></figcaption></figure>
 
