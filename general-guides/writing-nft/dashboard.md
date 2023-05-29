@@ -10,7 +10,7 @@ description: 展示 NFT 藏品庫及個人貨架
 
 在 [Liker Land 網頁版](https://liker.land/)點右上角的頭像再點「[我的書架](https://liker.land/dashboard)」。
 
-<figure><img src="../../.gitbook/assets/My Dashboard.png" alt=""><figcaption><p>我的書架</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/My Dashboard.png" alt=""><figcaption><p>Liker Land 網頁版我的書架</p></figcaption></figure>
 
 ## Liker Land 手機應用程式
 

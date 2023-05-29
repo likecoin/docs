@@ -24,9 +24,9 @@ description: 展示 NFT 藏品
 
 用戶可以透過不同的排序去查看任何 NFT 展示櫃，選擇包括：
 
+* 依照類型
+* 依照價格
 * 依照時間
-* 依照價值
-* 依照擁有時間
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio 4.png" alt=""><figcaption><p>藏品排序</p></figcaption></figure>
 
