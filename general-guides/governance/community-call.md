@@ -23,7 +23,8 @@ description: >-
 
 | Date               | Description                                                                  |
 | ------------------ | ---------------------------------------------------------------------------- |
-| Monday, 1 May      | Get updates from the builders. Covering products updates and community news. |
+| Monday, 5 June     | Get updates from the builders. Covering products updates and community news. |
+| Monday, 1 May      | NFT Book launch and new partnershi                                           |
 | Monday, 3 April    | Three NFT Book projects coming ahead                                         |
 | Monday, 6 March    | Latest updates and features on Web3Press and Liker Land                      |
 | Monday, 6 February | Partnership and Products updates                                             |

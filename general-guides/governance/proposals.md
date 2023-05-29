@@ -6,6 +6,13 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![Proposals](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
 
+## Proposal #65 LikeCoin v4.0.0 ChungKing Upgrade
+
+* Proposer: Civic Liker 讚賞公民
+* Proposal Type: Software Upgrade Proposal
+* Date: Submit on 2023.05.26, Passed on
+* Details: [https://www.mintscan.io/likecoin/proposals/65](https://www.mintscan.io/likecoin/proposals/65)
+
 ## Proposal #64 Increase fee for x/iscn and x/likenft
 
 * Proposer: leafwind.tw 🍃
