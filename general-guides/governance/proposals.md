@@ -6,6 +6,13 @@ description: LikeCoin DAO 有過什麼議案？
 
 ![歷史議案](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
 
+## 議案 LikeCoin v4.0.0 ChungKing 升級
+
+* **提案：**Civic Liker 讚賞公民
+* **類型**：軟件升級議案 ( Software Upgrade Proposal )
+* **日期**：2023.05.26 提案，2023.06.
+* **詳情**：[https://www.mintscan.io/likecoin/proposals/65](https://www.mintscan.io/likecoin/proposals/65)
+
 ## 議案 #64 增加 x/iscn and x/likenft 費用
 
 * **提案：**leafwind.tw 🍃
