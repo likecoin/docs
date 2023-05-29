@@ -156,6 +156,10 @@ Talk:[ "How I make a living with Writing NFT on my WordPress blog"](https://l.fa
 
 [DWeb Camp 2022: Joy of Missing Out](https://ckxpress.com/dweb-camp-2022-jomo/)
 
+### 08/17 台灣國際教育高峰會TIES
+
+[第二場：透過Web 3.0在人文社會領域的應用，想像「無大台」教育的可能](https://www.facebook.com/ckxpress/posts/pfbid0ESzw12Fd62Gh5fMwH3Dti4qUbA4MapUWzbB4YE9EjJrpTkMtpkNHCPTgmHNJWWX6l)
+
 ### 08/11 LikeCoin Twitter
 
 [Community Update: Writing NFT, DePub in Cosmos](https://twitter.com/likecoin/status/1557743919655399426)
