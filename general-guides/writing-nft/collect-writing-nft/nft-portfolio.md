@@ -29,3 +29,12 @@ Users can now view any NFT portfolio by applying different sorting algorithms, i
 * By Time
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio 4-en.png" alt=""><figcaption><p>List by order</p></figcaption></figure>
+
+## Follow Creators
+
+Check out:
+
+{% content-ref url="../follow-creators.md" %}
+[follow-creators.md](../follow-creators.md)
+{% endcontent-ref %}
+
