@@ -2,6 +2,22 @@
 
 {% tabs %}
 {% tab title="2023" %}
+### 05/09 飛地 nowhere
+
+#### [【5月9日 #線上對談】顛覆遊戲規則 ♠️](https://www.facebook.com/nowherebookstore/posts/pfbid02R2gPy3z8w95Y1GX2xZq4MEFM1tKs7EHcifm8obV3vTxnVESRjEjVJTQ6uysS2LEXl)
+
+### 05/08 𝐀𝐑𝐓𝐈𝐒𝐀𝐍 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐯𝐞 | 𝐃𝐀𝐎
+
+[Web3 是孤離，是記憶，是文藝復興？](https://twitter.com/artisan\_xyz/status/1655145749938860032)
+
+### 05/04-05 留下書舍 Have A Nice Stay
+
+[分散式出版工作坊](https://www.facebook.com/hans.bookstorehk/posts/pfbid02qevrrJmcK4CN5TCAEiWPk4gU4T6ZPtSXg6uFkrgxpbWgq4QxzbVgSc9EC9UYUV9Ml)
+
+### 04/18 LikeCoin Discord
+
+[《崩潰與重建：ChatGPT 衝擊下的人類未來》新書分享會](https://blog.like.co/zh/%E3%80%8A%E5%B4%A9%E6%BD%B0%E8%88%87%E9%87%8D%E5%BB%BA%EF%BC%9Achatgpt-%E8%A1%9D%E6%93%8A%E4%B8%8B%E7%9A%84%E4%BA%BA%E9%A1%9E%E6%9C%AA%E4%BE%86%E3%80%8B%E6%96%B0%E6%9B%B8%E5%88%86%E4%BA%AB%E6%9C%83/)
+
 ### 04/16 Cosmos Interchain Session@Web3 Festival
 
 [如何促進應用專有鏈採用，將 Web2 用戶引入 Web3](https://twitter.com/Bianjie\_Global/status/1647131551807729664)
@@ -45,5 +61,7 @@ Talk:[ "How I make a living with Writing NFT on my WordPress blog"](https://l.fa
 ### 02/13 IATC(HK) - 國際演藝評論家協會(香港分會)
 
 [【散點與連線．網上講座（一）】 🌟認識NFT的幾個重要概念](https://www.facebook.com/iatchongkong/posts/pfbid0xAdhk8ZZJittgJi3UdgnfGamPjPP1WHcSNm5xpYnReHwvWZygBT4s4UR1wsCWKmil)
+
+:end:
 {% endtab %}
 {% endtabs %}

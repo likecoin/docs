@@ -52,9 +52,13 @@ description: Activites and Events
 
 [Keynote: Decentralization and Human Rights Showcase](https://2022.ipfs.camp/#Keynotes)
 
+[IPFS Camp 2022 Recap](https://blog.ipfs.tech/2022-11-22-ipfs-camp-22-recap/)
+
 [Video](https://www.youtube.com/watch?v=OxmndRBGuUM\&t=2918s)
 
 [The Future of Decentralized Publishing - Phoebe Poon ( Video )](https://www.youtube.com/watch?v=wMVP1Gw0UzI\&list=PLuhRWgmPaHtQ2w6a7Y-n6PP9M\_8pCvIiq)
+
+[Decentralization and Human Rights - Jonathan Dotan, Phoebe Poon, Xavi Vives](https://www.youtube.com/watch?v=0gbMYNEIVZ8\&list=PLuhRWgmPaHtTQlocvCwd0gamK3ZgdRX0\_\&index=5)
 
 ### 10/28 Matters Discord
 
@@ -96,13 +100,13 @@ description: Activites and Events
 
 [How Are Blockchain & NFTs Changing the Publishing Industry](https://www.binance.com/en/live/video?roomId=2107897)
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ### 08/24 Revive Tech Asia 2022
 
 [Migrating the Creator Economy to Web3](https://revivetech.asia/Schedule/index/date/2022-08-24.html)
 
-<figure><img src="../../../.gitbook/assets/IMG_9081.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9081.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 08/24 LikeCoin Discord
 
@@ -246,19 +250,19 @@ description: Activites and Events
 
 HK Crypto 30mins ep.11 | 艱難見證，見證難難；我們的獅子山
 
-![](../../../.gitbook/assets/181890636\_3249726758587346\_8935775873217263295\_n.png)
+![](../../.gitbook/assets/181890636\_3249726758587346\_8935775873217263295\_n.png)
 
 ### 03/23 Clubhouse CRYPTO 852
 
 HK Crypto 30 mins ep.10 | 創作有價，Likecoin創辦人同你句句真
 
-![](<../../../.gitbook/assets/FireShot Capture 2485 - 🇭🇰 Crypto 30 mins ep.10｜創作有價。Likecoin創辦人同你句句真 - 香港加密貨幣 - Crypto 85\_ - www.joinclubhouse.com.png>)
+![](<../../.gitbook/assets/FireShot Capture 2485 - 🇭🇰 Crypto 30 mins ep.10｜創作有價。Likecoin創辦人同你句句真 - 香港加密貨幣 - Crypto 85\_ - www.joinclubhouse.com.png>)
 
 ### 03/12 MozFest 2021
 
 [Business models on the web are broken! Let's fix them.](https://schedule.mozillafestival.org/session/FTCNBS-1)
 
-![](../../../.gitbook/assets/screenshot\_2021-03-12\_at\_2.10.46\_am.png)
+![](../../.gitbook/assets/screenshot\_2021-03-12\_at\_2.10.46\_am.png)
 
 ### 03/11 HKBU TriAngle
 
@@ -354,7 +358,7 @@ HK Crypto 30 mins ep.10 | 創作有價，Likecoin創辦人同你句句真
 
 [g0v tw hackath39n — 提案 — LikeCoin 狂想曲 ／ Phoebe — 又在家黑客松](https://g0v.hackmd.io/c/g0v-hackath39n)
 
-[Video](../../../)
+[Video](../../)
 
 [Video](https://www.youtube.com/watch?v=Qyapcuur6Lk)
 

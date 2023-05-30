@@ -10,6 +10,10 @@ description: Interviews and Features
 
 [【財科暗戰】高重建即場示範mint NFT書籍《所謂「我不投資」就是all in在法定貨幣》為什麼需要限時限量賣出？實驗證明靠寫作維生仍是可行的（按CC看中文字幕）丨章濤丨區塊鏈丨去中心化出版](https://www.youtube.com/watch?v=QFjKvOCN9V4)
 
+### 12/29 Citizen Cosmos
+
+[PHOEBE POON, PUBLISHING, DEMOCRATS & COMMUNITY](https://www.citizencosmos.space/likecoin)
+
 ### 12/28 財科暗戰
 
 [NFT 又一新應用 高重建出NFT書籍《所謂「我不投資」就是all in在法定貨幣》限量發售！只發售 1000本 最後20本以下網站有售！（按CC看中文字幕）丨章濤丨區塊鏈丨去中心化出版](https://www.youtube.com/watch?v=irMUSECyMTg)
@@ -30,6 +34,10 @@ description: Interviews and Features
 
 [Archived and Alive: Interview with Kin Ko on Writing NFT](https://www.heath.tw/nml-article/archived-and-alive-interview-with-kin-ko-on-writing-nft/)
 
+### 09/20 BlockTempo
+
+[LikeCoin推出「Writing NFT 計畫」一鍵轉文章為NFT收藏、推動去中心化出版](https://www.blocktempo.com/likecoin-launches-writing-nft-project/)
+
 ### 09/05 好青年荼毒室
 
 &#x20;[【哲學係咁傾】ep. 31 甚麼是 NFT？｜嘉賓：高重建](https://www.youtube.com/watch?v=xJ7g45oFU04)
@@ -44,6 +52,10 @@ description: Interviews and Features
 
 [【財科暗戰】Likerland 推出writing NFT，讓創作有價！ 即場示範如何買下喜愛的作品（按CC看中文字幕）丨章濤丨Phoebe丨加密貨幣丨礦工費丨高重建丨LikeCoin](https://www.youtube.com/watch?v=wpfS5G6rKGg\&feature=emb\_title)
 
+### 08/18 區塊勢
+
+[Writing NFT：不到 1 元，就能以出書的規格發行數位創作](https://blocktrend.substack.com/p/470#details)
+
 ### 08/12 ViuTV 99 智富通 FinTech 全方位
 
 [【Fintech全方位】何謂「DePub」、「去中心出版」？區塊鏈技術如何應用於文章創作？](https://iwealthfin.com/blog.php?blog\_id=301)
@@ -55,6 +67,10 @@ description: Interviews and Features
 [【財科暗戰】熊市下區塊鏈團隊如何生存？](https://www.youtube.com/watch?v=3tIImnAvxVc)
 
 [【財科暗戰】 高重建分享對ETH的看法！DHK Token Airdrop可長達5年？（按CC看中文字幕）丨章濤丨高重建丨加密貨幣丨NFT丨Ethereum丨以太幣](https://www.youtube.com/watch?v=32408koE7Lg)
+
+### 06/11 AI BUSINESS
+
+[Russian war crimes in Ukraine documented on blockchain](https://aibusiness.com/responsible-ai/russian-war-crimes-in-ukraine-documented-on-blockchain)
 
 ### 05/24 風傳媒
 
@@ -356,9 +372,9 @@ description: Interviews and Features
 
 [LikeCoin發起人：區塊鏈可還權於民](https://web.archive.org/web/20210508192953/https://hk.appledaily.com/finance/20200817/MDJN6LLEHVCMVDSSFCAFTIQY2E/)
 
-![](../../../.gitbook/assets/202008170401100\_apple\_B02\_1.JPG)
+![](../../.gitbook/assets/202008170401100\_apple\_B02\_1.JPG)
 
-![](../../../.gitbook/assets/202008170400961\_apple\_B02\_1.JPG)
+![](../../.gitbook/assets/202008170400961\_apple\_B02\_1.JPG)
 
 ### 08/07 香港無線電視財經 ‧ 資訊台 看出個未來
 
@@ -504,7 +520,7 @@ description: Interviews and Features
 
 [價值重組實驗](https://like.co/pdf/articles/breakazine.pdf)
 
-![](../../../.gitbook/assets/Breakazine\_9.png)
+![](../../.gitbook/assets/Breakazine\_9.png)
 
 ### 06/11 Cryptocurrency Satellite&#xD;
 
@@ -542,7 +558,7 @@ description: Interviews and Features
 
 [ICO 狂想曲](http://hk.bbwc.cn/avxzbp.html) [PDF](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/financial-services/deloitte-cn-fs-bloomberg-business-megazine-ico-zh-180518.pdf)
 
-![](../../../.gitbook/assets/bloomberg\_likecoin\_tiny.jpg)
+![](../../.gitbook/assets/bloomberg\_likecoin\_tiny.jpg)
 
 ### 05/01 Cryptoground
 
@@ -562,7 +578,7 @@ description: Interviews and Features
 
 [首隻港產加密幣點讚成金 創辦人冀改網絡歪風](http://startupbeat.hkej.com/?p=57661)
 
-![](../../../.gitbook/assets/20180409\_hkej.JPG)
+![](../../.gitbook/assets/20180409\_hkej.JPG)
 
 ### 04/09 ejinsight
 
@@ -594,9 +610,9 @@ description: Interviews and Features
 
 [【當金錢變成數碼】高重建：擁抱觸不到的付款方法 化like成coin支持創作](https://www.mpweekly.com/culture/%E9%9B%BB%E5%AD%90%E8%B2%A8%E5%B9%A3-%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98-%E6%94%AF%E4%BB%98%E5%AF%B6-69230)
 
-![](<../../../.gitbook/assets/Maig Pao Weekly\_0.jpg>)
+![](<../../.gitbook/assets/Maig Pao Weekly\_0.jpg>)
 
-![](<../../../.gitbook/assets/Maig Pao Weekly.jpg>)
+![](<../../.gitbook/assets/Maig Pao Weekly.jpg>)
 
 ### **03/18 INSIDE**
 
@@ -606,7 +622,7 @@ description: Interviews and Features
 
 [首隻港產加密貨幣 化Like為Coin](https://imoney.hket.com/article/2031727/%E9%A6%96%E9%9A%BB%E6%B8%AF%E7%94%A2%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%20%E5%8C%96Like%E7%82%BACoin)
 
-![](../../../.gitbook/assets/LikeCoin\_iMoney.jpg)
+![](../../.gitbook/assets/LikeCoin\_iMoney.jpg)
 
 ### 03/09 Mr.Block 區塊先生
 
@@ -622,13 +638,13 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 
 [金融中心：ICO籌幾千萬？港產加密貨幣誕生](https://web.archive.org/web/20200808001955/https://hk.appledaily.com/finance/20180305/HBHYRDIFNDKOXIV2RYX4CJAJHU/)
 
-![](../../../.gitbook/assets/apple\_blur\_tiny.jpg)
+![](../../.gitbook/assets/apple\_blur\_tiny.jpg)
 
 ### **01/01 903**
 
 高重建 為明日革命
 
-![](../../../.gitbook/assets/903.jpg)
+![](../../.gitbook/assets/903.jpg)
 
 :end:&#x20;
 {% endtab %}
@@ -644,7 +660,7 @@ Winnier of Mr.Block x Blockshow Taipei Meetup
 
 [科網世代﹕LikeCoin將Like變成錢有可能？ 直落創作人口袋](https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20171008/s00005/1507399895326/%E7%A7%91%E7%B6%B2%E4%B8%96%E4%BB%A3-likecoin%E5%B0%87like%E8%AE%8A%E6%88%90%E9%8C%A2%E6%9C%89%E5%8F%AF%E8%83%BD-%E7%9B%B4%E8%90%BD%E5%89%B5%E4%BD%9C%E4%BA%BA%E5%8F%A3%E8%A2%8B)
 
-![](../../../.gitbook/assets/ming2\_tiny.jpg)
+![](../../.gitbook/assets/ming2\_tiny.jpg)
 
 :end:&#x20;
 {% endtab %}
