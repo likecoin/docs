@@ -1,5 +1,5 @@
 ---
-description: StarFerry is the fourth major upgrade to the LikeCoin chain
+description: ChungKing is the fourth major upgrade to the LikeCoin chain
 ---
 
 # ChungKing Upgrade
