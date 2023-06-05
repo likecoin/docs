@@ -1,5 +1,5 @@
 ---
-description: ChungKing is the fourth major upgrade to the LikeCoin chain
+description: StarFerry is the fourth major upgrade to the LikeCoin chain
 ---
 
 # ChungKing Upgrade
@@ -62,13 +62,13 @@ After the upgrade is applied, the day-to-day resources requirement is same as pr
 **Recommended**
 
 * 4 CPU Cores
-* 16GB RAM + 16GB Swap
+* 32GB RAM + 16GB Swap
 * 500GB+ SSD
 
 **Minimum**
 
 * 2 CPU Cores
-* 16GB RAM
+* 16GB RAM + 16GB Swap
 * 500GB+ SSD
 
 Refer to [this third party guide](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-20-04) for steps to add swap space.

@@ -10,7 +10,7 @@ description: Display Window and Store Shelf of NFT
 
 On [Liker Land](https://liker.land/), Click the avatar in the upper right corner and the menu will pop up, then click on "[My Dashboard](https://liker.land/dashboard)".
 
-<figure><img src="../../.gitbook/assets/My Dashboard-en.png" alt=""><figcaption><p>Liker Land web "My Dashboard"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/My Dashboard-en (1).png" alt=""><figcaption><p>Liker Land web "My Dashboard"</p></figcaption></figure>
 
 ## Liker Land app
 
