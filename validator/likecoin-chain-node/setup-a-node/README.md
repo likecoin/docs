@@ -30,7 +30,7 @@ Existing operators migrating their node should ensure that there is **only one i
 
 ## System Requirements
 
-_Note that system requirements may increase drastically when performing chain upgrade_
+_Note that system requirements, especially memory, may increase drastically when performing chain upgrade or state sync._
 
 ### Hardware
 
