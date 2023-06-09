@@ -6,81 +6,101 @@ description: Install Keplr On Chromium Based Browsers
 
 ## Step 1: Install Keplr Browser Extension
 
-Go to the Chrome Webstore and click "Add to Chrome" to install the [Keplr Browser Extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
+Go to the Chrome Web store and click "Add to Chrome" to install the [Keplr Browser Extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
 
-![On Chrome Web Store, click "Add to Chrome" to install Keplr](../../../.gitbook/assets/keplr01-en.png)
+<figure><img src="../../../.gitbook/assets/Keplr 1-en.png" alt=""><figcaption><p>On Chrome Web Store, click "Add to Chrome" to install Keplr</p></figcaption></figure>
 
 Click "Add extension".
 
-![Click "Add extension" to add Keplr to Chrome](../../../.gitbook/assets/keplr02-en.png)
+<figure><img src="../../../.gitbook/assets/Keplr 2.png" alt=""><figcaption><p>Click "Add extension" to add Keplr to Chrome</p></figcaption></figure>
 
 Click the button on the upper right corner of Chrome and pin Keplr for easy access.
 
-<figure><img src="../../../.gitbook/assets/keplr google 5.png" alt=""><figcaption><p>Pin Keplr in the Toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr 3.png" alt=""><figcaption><p>Pin Keplr in the Toolbar</p></figcaption></figure>
 
-## Step 2: Create a new account
+## Step 2: Create a new wallet
 
-### Method 1: Creating a new account via setting up new seed/mnemonic phrase
+### Method 1: Creating a new wallet via setting up a new recovery phrase
 
-After installation, click on the Keplr icon on the upper right corner of your browser and you will see the registration screen. Click “Create new account”.
+After installation, click on the Keplr icon on the upper right corner of your browser, and you will see the registration screen. Click "Create a new wallet".
 
-<figure><img src="../../../.gitbook/assets/keplr03.png" alt=""><figcaption><p>Click "Create new account" to register a new account</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr 4.png" alt=""><figcaption><p>Click "Create a new wallet"</p></figcaption></figure>
 
-The screen shows your mnemonic seed. Find a secure place to encrypt and store the seed phrase as it is needed for account recovery. Fill in your Account name, New Password, Confirm password, and click "Next".
+Click "Create new recovery phrase" to register a new wallet with a recovery phrase.
 
-<figure><img src="../../../.gitbook/assets/keplr04.png" alt=""><figcaption><p>Write down the Mnemonic Seed, enter the account name and password</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr 5.png" alt=""><figcaption><p>Click "Create new recovery phrase" to register a new wallet with a recovery phrase</p></figcaption></figure>
 
-&#x20;Validating the mnemonic seed in order and click "Register".
+Click "I understood. Show my phrase." to confirm that you understand the importance of keeping the recovery phrase secure.
 
-<figure><img src="../../../.gitbook/assets/keplr05.png" alt=""><figcaption><p>Confirm the Mnemonic Seed</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr 6.png" alt=""><figcaption><p>Click "I understood. Show my phrase."</p></figcaption></figure>
 
-When "Done" appears, the registration is completed.
+The screen will display your recovery phrase. Click "Copy to clipboard" and find a secure place to encrypt and store the recovery phrase, as it is necessary for account recovery. Note that you can choose a 12 or 24 words recovery phrase. Write down the recovery phrase and click "Next".
 
-<figure><img src="../../../.gitbook/assets/keplr google 4 (1).png" alt=""><figcaption><p>Complete registration with Keplr</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr 7.png" alt=""><figcaption><p>12 words recovery phrase</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Keplr 8.png" alt=""><figcaption><p>24 words recovery phrase</p></figcaption></figure>
+
+Validate your recovery phrase to ensure that you have stored it correctly. Fill in your Wallet name, Create Keplr Password, Confirm Keplr Password, and click "Next".
+
+<figure><img src="../../../.gitbook/assets/Keplr 9.png" alt=""><figcaption><p>Validate your recovery phrase, Fill in your Wallet name, Password, and click "Next"</p></figcaption></figure>
+
+On the Select Chains page, search for LikeCoin, select it, and click "Save".
+
+<figure><img src="../../../.gitbook/assets/Keplr 10.png" alt=""><figcaption><p>Select LikeCoin and click "Save"</p></figcaption></figure>
+
+When the "Account Created!" page appears, the registration process is complete. Click "Finish".
+
+<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>On "Account Created!" page click "Finish"</p></figcaption></figure>
+
+Click the Keplr icon in the browser toolbar, enter your password, and click "Unlock".
+
+<figure><img src="../../../.gitbook/assets/Keplr 12.png" alt=""><figcaption><p>Click the Keplr icon in the browser toolbar, enter your password, and click "Unlock"</p></figcaption></figure>
+
+You will now see LikeCoin in your wallet, indicating that Keplr has been successfully installed.
+
+<figure><img src="../../../.gitbook/assets/Keplr 13.png" alt=""><figcaption><p>Keplr has been successfully installed with LikeCoin</p></figcaption></figure>
 
 {% hint style="danger" %}
-Please keep your mnemonic seed and password safe. If you lose them, you will not be able to manage your LikeCoin. No one can reset your wallet on your behalf.
+Please keep your recovery phrase and password safe. If you lose them, you will not be able to manage your LikeCoin. No one can reset your wallet on your behalf.
 {% endhint %}
 
-### Method 2: Creating a new account via Google One-Click Login
+### Method 2: Creating a new wallet via Google One-Click Login
 
-Click "Sign in with Google" to register a new Keplr account.
+Click "Connect with Google" to register a new Keplr wallet.
 
-<figure><img src="../../../.gitbook/assets/keplr google 1.png" alt=""><figcaption><p>「Sign in with Google」to register a new Keplr account</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Google 1.png" alt=""><figcaption><p>Click "Connect with Google" to register a new Keplr wallet</p></figcaption></figure>
 
-A Sign in with Google window pops up, and you can log in to your Google account.
+A "Sign in with Google" window will pop up, and you can log in to your Google account.
 
-<figure><img src="../../../.gitbook/assets/keplr google 2.png" alt=""><figcaption><p>The Sign in with Google window will pop up, log in to your Google account</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Google 2.png" alt=""><figcaption><p>A "Sign in with Google" window will pop up, and you can log in to your Google account</p></figcaption></figure>
 
-Enter your Account name, New Password, Confirm password, and click "Next".
+Fill in your Wallet name, Create Keplr Password, Confirm Keplr Password, and click "Next".
 
-<figure><img src="../../../.gitbook/assets/keplr google 3.png" alt=""><figcaption><p>Enter the Account name and password</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Google 3.png" alt=""><figcaption><p>Fill in your Wallet name, Password, and click "Next"</p></figcaption></figure>
 
-When "Done" appears, the registration is completed.
+Write down your private key. Click "Copy to clipboard" to copy it and find a safe place to encrypt and store it, as it will be used for wallet restoration. Write down the private key and click "Import".
 
-<figure><img src="../../../.gitbook/assets/keplr google 4 (1).png" alt=""><figcaption><p>Complete registration with Keplr</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Google 4.png" alt=""><figcaption><p>Write down the private key and click "Import"</p></figcaption></figure>
 
-## Step 3: Connect to the LikeCoin chain
+On the Select Chains page, search for LikeCoin, select it, and click "Save".
 
-Open the Keplr wallet and click "Add Suggest Chains" on the upper menu.
+<figure><img src="../../../.gitbook/assets/Keplr 10.png" alt=""><figcaption><p>Select LikeCoin and click "Save"</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/keplr connection 1.png" alt=""><figcaption><p>In Keplr "Add Suggest Chains"</p></figcaption></figure>
+When the "Account Created!" page appears, the registration process is complete. Click "Finish".
 
-Go to [https://chains.keplr.app](https://chains.keplr.app)/, search for LikeCoin and click "Add to Keplr >".
+<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>On "Account Created!" page click "Finish"</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/keplr connection 2.png" alt=""><figcaption><p>Search for LikeCoin at https://chains.keplr.app/ and then "Add to Keplr >"</p></figcaption></figure>
+Click the Keplr icon in the browser toolbar, enter your password, and click "Unlock".
 
-The Keplr window pops up, click "Approve".
+<figure><img src="../../../.gitbook/assets/Keplr 12.png" alt=""><figcaption><p>Click the Keplr icon in the browser toolbar, enter your password, and click "Unlock"</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/keplr connection 3.png" alt=""><figcaption><p>The Keplr window will pop up, click "Approve"</p></figcaption></figure>
+You will now see LikeCoin in your wallet, indicating that Keplr has been successfully installed.
 
-"LikeCoin" appears in the menu, select it.
+<figure><img src="../../../.gitbook/assets/Keplr 13.png" alt=""><figcaption><p>Keplr has been successfully installed with LikeCoin</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/keplr connection 4.png" alt=""><figcaption><p>Select LikeCoin in the menu</p></figcaption></figure>
-
-Your LikeCoin balance appears on your Keplr wallet.
-
-<figure><img src="../../../.gitbook/assets/keplr connection 5.png" alt=""><figcaption><p>View LikeCoin balance in Keplr wallet</p></figcaption></figure>
+{% hint style="danger" %}
+Please keep your private key and password safe. If you lose them, you will not be able to manage your LikeCoin. No one can reset your wallet on your behalf.
+{% endhint %}
 
 #### To import an existing wallet, please refer to:
 
