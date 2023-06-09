@@ -1,39 +1,79 @@
 ---
-description: 在 Keplr 導入助記詞並建立錢包
+description: 在 Keplr 導入助記詞或私鑰並建立錢包
 ---
 
 # 在 Keplr 導入錢包
 
-請跟隨以下步驟將錢包導入 Keplr：
+請跟隨以下步驟將助記詞或私鑰導入 Keplr：
 
-## 步驟一：開始導入
+## 情境一：重新安裝 Keplr 並導入錢包
 
-[安裝 Keplr 瀏覽器擴充功能](how-to-install-keplr-extension.md)後直接選「Import Existing Account」。
+[安裝 Keplr 瀏覽器擴充功能](how-to-install-keplr-extension.md)後直接點「Import an existing wallet」。
 
-<figure><img src="../../../.gitbook/assets/Keplr Seed Words 07.png" alt=""><figcaption><p>選擇「Import existing account」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Import Keplr 1.png" alt=""><figcaption><p>點「Import an existing wallet」</p></figcaption></figure>
 
-或打開 Keplr，點右上角人形圖案。
+點「User recovery phrase or private key」導入錢包。
 
-<figure><img src="../../../.gitbook/assets/Keplr Seed Words 01.png" alt=""><figcaption><p>點右上角人形圖案</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Import Keplr 2.png" alt=""><figcaption><p>點「User recovery phrase or private key」導入錢包</p></figcaption></figure>
 
-在 Select Account 頁面點「Add Account」。
+輸入你的 12 或 24 字助記詞，又或者私鑰後點「Import」。
 
-![點「Add Account」](<../../../.gitbook/assets/Keplr Seed Words 02.png>)
+<figure><img src="../../../.gitbook/assets/Import Keplr 3.png" alt=""><figcaption><p>輸入你的 12 或 24 字助記詞，又或者私鑰後點「Import」</p></figcaption></figure>
 
-選擇「Import existing account」。
+輸入你的錢包名稱 ( Wallet name )、創造的新密碼 ( Create Keplr Password )、確認密碼 ( Confirm Keplr Password ) 然後點「Next」。
 
-![選擇「Import existing account」](<../../../.gitbook/assets/Keplr Seed Words 03.png>)
+<figure><img src="../../../.gitbook/assets/Import Keplr 4.png" alt=""><figcaption><p>輸入錢包名稱及密碼然後點「Next」</p></figcaption></figure>
 
-## 步驟二：導入現有帳號
+在 Select Chains 選擇區塊鏈頁面輸入 LikeCoin，選擇它並點「Save」儲存。
 
-在 Input your seed 頁面輸入你的錢包助記詞，Account name 輸入你為這個帳戶取的名字，再點「Next」。
+<figure><img src="../../../.gitbook/assets/Keplr 10.png" alt=""><figcaption><p>選擇 LikeCoin 區塊鏈並儲存</p></figcaption></figure>
 
-![輸入錢包助記詞、 Account name 後再點「Next」](<../../../.gitbook/assets/Keplr Seed Words 04.png>)
+出現「Account Created!」頁面代表經已完成導入錢包，點「Done」。
 
-出現 You're all set! 頁面，點「Done」。
+<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>在 Account Created! 頁面點「Done」</p></figcaption></figure>
 
-![You're all set! ](<../../../.gitbook/assets/Keplr Seed Words 05.png>)
+點瀏覽列的 Keplr 圖示，輸入密碼並點「Unlock」。
 
-回到 Keplr 錢包點右上角頭人形圖案，即可看到已導入的新錢包。
+<figure><img src="../../../.gitbook/assets/Keplr 12.png" alt=""><figcaption><p>點瀏覽列的 Keplr 圖示，輸入密碼並點「Unlock」</p></figcaption></figure>
 
-![查看已導入錢包](<../../../.gitbook/assets/Keplr Seed Words 06.png>)
+錢包中出現 LikeCoin 表示經已成功導入錢包。
+
+<figure><img src="../../../.gitbook/assets/Keplr 13.png" alt=""><figcaption><p>錢包中出現 LikeCoin 表示經已成功導入錢包</p></figcaption></figure>
+
+## 情境二：導入多於一個錢包
+
+打開 Keplr，點右上角人形圖案。
+
+<figure><img src="../../../.gitbook/assets/Import Keplr 5.png" alt=""><figcaption><p>點右上角人形圖案</p></figcaption></figure>
+
+在 Select Wallet 頁面點「Add Wallet」。
+
+<figure><img src="../../../.gitbook/assets/Import Keplr 6.png" alt=""><figcaption><p>在 Select Wallet 頁面點「Add Wallet」</p></figcaption></figure>
+
+點「Import an existing wallet」。
+
+<figure><img src="../../../.gitbook/assets/Import Keplr 1.png" alt=""><figcaption><p>點「Import an existing wallet」</p></figcaption></figure>
+
+點「User recovery phrase or private key」導入錢包。
+
+<figure><img src="../../../.gitbook/assets/Import Keplr 2.png" alt=""><figcaption><p>點「User recovery phrase or private key」導入錢包</p></figcaption></figure>
+
+輸入你的 12 或 24 字助記詞，又或者私鑰後點「Import」。
+
+<figure><img src="../../../.gitbook/assets/Import Keplr 3.png" alt=""><figcaption><p>輸入你的 12 或 24 字助記詞，又或者私鑰後點「Import」</p></figcaption></figure>
+
+輸入錢包名稱 ( Wallet name ) 然後點「Next」。
+
+<figure><img src="../../../.gitbook/assets/Import Keplr 7.png" alt=""><figcaption><p>輸入錢包名稱然後點「Next」</p></figcaption></figure>
+
+在 Select Chains 選擇區塊鏈頁面輸入 LikeCoin，選擇它並點「Save」儲存。
+
+<figure><img src="../../../.gitbook/assets/Keplr 10.png" alt=""><figcaption><p>選擇 LikeCoin 區塊鏈並儲存</p></figcaption></figure>
+
+出現「Account Created!」頁面代表經已完成導入錢包，點「Done」。
+
+<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>在 Account Created! 頁面點「Done」</p></figcaption></figure>
+
+回到 Keplr 錢包在 Select Wallet 頁面，即可看到已導入的新錢包。
+
+<figure><img src="../../../.gitbook/assets/Import Keplr 8.png" alt=""><figcaption><p>查看已導入的新錢包</p></figcaption></figure>
