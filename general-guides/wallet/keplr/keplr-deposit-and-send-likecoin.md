@@ -8,44 +8,42 @@ description: Deposit and Send LikeCoin directly on Keplr Browser Extension walle
 
 ### Step 1
 
-Before depositing LikeCoin to your Keplr wallet, please change the display on top to show the LikeCoin chain.
+To deposit LikeCoin to your Keplr wallet, please log in and click "Deposit".
 
-<figure><img src="../../../.gitbook/assets/Keplr deposit and send 01.png" alt=""><figcaption><p>Choose LikeCoin chain on Keplr</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Deposit 1.png" alt=""><figcaption><p>Click "Deposit".</p></figcaption></figure>
 
 ### Step 2
 
-Click on the wallet address to copy it and paste it somewhere else (a crypto exchange or another wallet). Or click "Deposit" to show your QR code.
+Click "Copy" to copy the wallet address and paste it somewhere else (such as a crypto exchange or another wallet). We suggest depositing a small sum first to try it out. You can also click the asterisk to prioritize the LikeCoin wallet address and have it appear at the top of the list for future use.
 
-<figure><img src="../../../.gitbook/assets/Keplr deposit and send 02.png" alt=""><figcaption><p>Copy the wallet address or click "Deposit" to display the QR code</p></figcaption></figure>
-
-Scan the QR code and deposit LikeCoin to your Keplr wallet with LIKE pay. We suggest depositing a small sum to try out first.
-
-<figure><img src="../../../.gitbook/assets/Keplr deposit and send 03.png" alt=""><figcaption><p>Scan the QR code to transfer LikeCoin to your Keplr wallet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Deposit 2.png" alt=""><figcaption><p>Click "Copy" to copy the wallet address</p></figcaption></figure>
 
 ### Step 3
 
-The LikeCoin balance will appear (on the same screen as Step 2) after the deposit is completed.
+After the deposit is completed, the LikeCoin balance will appear on the same screen as Step 1.
 
 ## **Send LikeCoin from Keplr to another wallet**
 
 ### Step 1
 
-You can send LikeCoin via Keplr to another wallet that supports LikeCoin. Change the display on top to show the LikeCoin chain and click "Send".
+You can send LikeCoin from Keplr to another wallet that supports the LikeCoin chain. Click "Send" and then choose LikeCoin or click the LikeCoin balance below.
 
-<figure><img src="../../../.gitbook/assets/Keplr deposit and send 04.png" alt=""><figcaption><p>Click "Send"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 1 (1).png" alt=""><figcaption><p>Click "Send" or LikeCoin balance</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Keplr Send 2 (1).png" alt=""><figcaption><p>Select LikeCoin</p></figcaption></figure>
 
 ### Step 2
 
-Fill in the wallet address of the recipient under "Recipient", and the token will be selected automatically as LIKE. The "Amount" field shows the available balance of LIKE in the wallet. Please enter the amount of LikeCoin that needs to be sent and reserve some LIKE for the [transaction fee](../transaction-fee.md). Under "Memo" (optional), fill in the tag/memo that may be required by the recipient. Then click "Send".
+The Send page will appear. Asset displaying your LikeCoin balance. Fill in the recipient's wallet address, the amount of LikeCoin to be sent, and optionally fill in any required tag/memo for the recipient. The estimated [transaction fee](../transaction-fee.md) will be displayed, so please ensure you have enough LIKE reserved for it. Then, click "Send".
 
-<figure><img src="../../../.gitbook/assets/Keplr deposit and send 05.png" alt=""><figcaption><p>Fill in the recipient's wallet address and the amount of LikeCoin to be sent, then click "Send"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 3 (1).png" alt=""><figcaption><p>Enter the transfer information</p></figcaption></figure>
 
 ### Step 3
 
-On the confirmation screen, check the details again, and then click "Approve".
+On the confirmation screen, review the details again and click "Approve".
 
-<figure><img src="../../../.gitbook/assets/Keplr deposit and send 06.png" alt=""><figcaption><p>Confirm and click "Approve"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Send 4 (1).png" alt=""><figcaption><p>Click "Approve"</p></figcaption></figure>
 
-The transaction is complete. Keplr will show that the Tx is pending and return to the LikeCoin balance screen.
+Returning to the home page, you will see "Transaction Success" indicating that the transfer is complete.
 
-![After Keplr shows Tx is pending, the transfer is completed](../../../.gitbook/assets/keplr13.png)
+<figure><img src="../../../.gitbook/assets/Keplr Send 5 (1).png" alt=""><figcaption><p>Transaction Success" indicating that the transfer is complete</p></figcaption></figure>

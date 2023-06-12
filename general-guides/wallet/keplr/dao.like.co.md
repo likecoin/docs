@@ -6,45 +6,25 @@ description: Keplr + dao.like.co is essential for managing LikeCoin
 
 Use dao.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-app/how-to-install-cosmostation-app.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin.md) LikeCoin; as well as provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote.md) and [view transaction details](../block-explorer/dao.like.co.md).
 
-## Connect Keplr with LikeCoin chain in dao.like.co
-
-Connect Keplr with LikeCoin chain on dao.like.co. In order for the LikeCoin chain to be displayed in the Keplr Browser extension menu, users have to connect to [https://chains.keplr.app/](https://chains.keplr.app/) or [dao.like.co](https://dao.like.co/).
-
-{% hint style="warning" %}
-The LikeCoin chain was successfully upgraded to the LaiChiKok version on May 4, 2022. The new LikeCoin wallet address has the prefix "like1" and also supports the "cosmos1" prefix. If your Keplr was installed before this date and you still use the cosmos1 prefix on the LikeCoin chain, you need to upgrade your wallet address. Please see the [New LikeCoin address prefix "like" - FAQ](../like-address-prefix.md) for details.
-{% endhint %}
+## Log in to dao.like.co
 
 ### Step 1
 
-Go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
+Login Keplr and go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
 
-<figure><img src="../../../.gitbook/assets/keplr06.png" alt=""><figcaption><p>Go to dao.like.co, click "Keplr Browser Extension"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr + dao.like.co 1.png" alt=""><figcaption><p>Go to dao.like.co, click "Keplr Browser Extension"</p></figcaption></figure>
 
 ### Step 2
 
 Then click "Approve" on Keplr.
 
-<figure><img src="../../../.gitbook/assets/keplr07.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr + dao.like.co 2.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
 
 ### Step 3
 
-Click "Approve" again.
-
-<figure><img src="../../../.gitbook/assets/keplr08.png" alt=""><figcaption><p>Click "Approve" on Keplr again</p></figcaption></figure>
-
-### Step 4
-
 You can see your LikeCoin balance.
 
-<figure><img src="../../../.gitbook/assets/keplr09.png" alt=""><figcaption><p>LikeCoin balance appears on dao.like.co</p></figcaption></figure>
-
-### Step 5
-
-LikeCoin chain appears in the Keplr menu and displays the LikeCoin balance.
-
-<figure><img src="../../../.gitbook/assets/Keplr menu 1.png" alt=""><figcaption><p>LikeCoin chain displays on Keplr</p></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/Keplr menu 2.png" alt=""><figcaption><p>LikeCoin balance eppears</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr + dao.like.co 3.png" alt=""><figcaption><p>LikeCoin balance appears on dao.like.co</p></figcaption></figure>
 
 ## **Deposit your LikeCoin via dao.like.co to Keplr**
 
