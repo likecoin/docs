@@ -40,7 +40,7 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 
 <figure><img src="../../../.gitbook/assets/Keplr 8.png" alt=""><figcaption><p>24 字助記詞</p></figcaption></figure>
 
-依照次序輸入你的助記詞以確認你有好好儲存它他們，然後輸入你的錢包名稱 ( Wallet name )、創造的新密碼 ( Create Keplr Password )、確認密碼 ( Confirm Keplr Password ) 然後點「Next」。
+依照次序輸入你的助記詞以確認你有好好儲存它們，然後輸入你的錢包名稱 ( Wallet name )、創造的新密碼 ( Create Keplr Password )、確認密碼 ( Confirm Keplr Password ) 然後點「Next」。
 
 <figure><img src="../../../.gitbook/assets/Keplr 9.png" alt=""><figcaption><p>確認助記詞，輸入錢包名稱及密碼然後點「Next」</p></figcaption></figure>
 
@@ -48,9 +48,9 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 
 <figure><img src="../../../.gitbook/assets/Keplr 10.png" alt=""><figcaption><p>選擇 LikeCoin 區塊鏈並儲存</p></figcaption></figure>
 
-出現「Account Created!」頁面代表經已完成註冊，點「Done」。
+出現「Account Created!」頁面代表經已完成註冊，點「Finish」。
 
-<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>在 Account Created! 頁面點「Done」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>在 Account Created! 頁面點「Finish」</p></figcaption></figure>
 
 點瀏覽列的 Keplr 圖示，輸入密碼並點「Unlock」。
 
@@ -88,7 +88,7 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 
 出現「Account Created!」頁面代表經已完成註冊，點「Done」。
 
-<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>在 Account Created! 頁面點「Done」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>在 Account Created! 頁面點「Finish」</p></figcaption></figure>
 
 點瀏覽列的 Keplr 圖示，輸入密碼並點「Unlock」。
 
@@ -98,7 +98,7 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 
 <figure><img src="../../../.gitbook/assets/Keplr 13.png" alt=""><figcaption><p>錢包中出現 LikeCoin 表示經已成功安裝 Keplr</p></figcaption></figure>
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 請把私鑰及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Keplr 錢包。
 {% endhint %}
 

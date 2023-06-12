@@ -28,9 +28,9 @@ description: 在 Keplr 導入助記詞或私鑰並建立錢包
 
 <figure><img src="../../../.gitbook/assets/Keplr 10.png" alt=""><figcaption><p>選擇 LikeCoin 區塊鏈並儲存</p></figcaption></figure>
 
-出現「Account Created!」頁面代表經已完成導入錢包，點「Done」。
+出現「Account Created!」頁面代表經已完成導入錢包，點「Finish」。
 
-<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>在 Account Created! 頁面點「Done」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>在 Account Created! 頁面點「Finish」</p></figcaption></figure>
 
 點瀏覽列的 Keplr 圖示，輸入密碼並點「Unlock」。
 
@@ -70,9 +70,9 @@ description: 在 Keplr 導入助記詞或私鑰並建立錢包
 
 <figure><img src="../../../.gitbook/assets/Keplr 10.png" alt=""><figcaption><p>選擇 LikeCoin 區塊鏈並儲存</p></figcaption></figure>
 
-出現「Account Created!」頁面代表經已完成導入錢包，點「Done」。
+出現「Account Created!」頁面代表經已完成導入錢包，點「Finish」。
 
-<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>在 Account Created! 頁面點「Done」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>在 Account Created! 頁面點「Finish」</p></figcaption></figure>
 
 回到 Keplr 錢包在 Select Wallet 頁面，即可看到已導入的新錢包。
 
