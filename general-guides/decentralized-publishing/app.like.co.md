@@ -28,7 +28,7 @@ Choose [Keplr](../wallet/keplr/), [Cosmostation](../wallet/cosmostation/), [Cosm
 
 Please log into [Keplr Browser Extension](../wallet/keplr/) in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
 
-<figure><img src="../../.gitbook/assets/NFT Portal 1a.png" alt=""><figcaption><p>NFT Portal 1a (1)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal 1a (1).png" alt=""><figcaption><p>NFT Portal 1a (1)</p></figcaption></figure>
 
 ### Login method 2: Cosmostation
 
@@ -88,7 +88,7 @@ After the upload is complete, click "View File Info" to check the metadata of yo
 
 <figure><img src="../../.gitbook/assets/ISCN 5.png" alt=""><figcaption><p>Click "View File Info" to check the metadata of your file and "Start Upload"</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p> Click "View File Info" to check the metadata of your file</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p>Metadata of your file</p></figcaption></figure>
 
 ### Skip Upload Content
 
