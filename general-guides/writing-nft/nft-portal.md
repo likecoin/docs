@@ -34,7 +34,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 請於瀏覽器登入 [Keplr 瀏覽器擴充功能 ( Keplr Browser Extension )](../wallet/keplr/)，點「Keplr」後彈出視窗要求連結，點「Approve」。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>在 Keplr 點「Approve」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal Keplr.png" alt=""><figcaption><p>在 Keplr 點「Approve」</p></figcaption></figure>
 
 ### **登入方式 2**：Cosmostation
 
@@ -158,17 +158,21 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5-1.png" alt=""><figcaption><p>輸入 Writing NFT 作者留言</p></figcaption></figure>
 
-彈出視窗，輸入內容後點「Confirm」。注意訊息不能寫超過 256 個字元。
+彈出視窗，輸入內容後點「Confirm」。注意訊息不能撰寫超過 256 個字元。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5-2.png" alt=""><figcaption><p>輸入完成後點「Confirm」</p></figcaption></figure>
 
 再次查看內容是否正確，如需要修改可點「Edit」。
 
-此外如需要預留一些 Writing NFT 給自己，點「More settings」。
+此外如需要預留一些 Writing NFT 給自己及調整售價，點「More settings」查多更多設定。
 
-<figure><img src="../../.gitbook/assets/NFT Portal 5-3.png" alt=""><figcaption><p>修改 Writing NFT 作者留言及預留 NFT</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal 5-3.png" alt=""><figcaption><p>修改 Writing NFT 作者留言及查看更多設定</p></figcaption></figure>
 
-在 Numbers of NFTs reserved for giveaways 輸入 0-499 之間的預留數量，完成後再點「Next」。
+在 Numbers of NFTs reserved for giveaways 可輸入 0-499 之間的預留數量；
+
+在 Sales Settings 可設定 Writing NFT 起始售價為 8、128、1024 或 4096 LIKE；
+
+完成後再點「Next」。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>輸入預留 Writing NFT 數量</p></figcaption></figure>
 
