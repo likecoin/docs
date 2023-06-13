@@ -28,7 +28,7 @@ Choose [Keplr](../wallet/keplr/), [Cosmostation](../wallet/cosmostation/), [Cosm
 
 Please log into [Keplr Browser Extension](../wallet/keplr/) in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
 
-<figure><img src="../../.gitbook/assets/NFT Portal 1a.png" alt=""><figcaption><p>NFT Portal 1a (1)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal 1a (1).png" alt=""><figcaption><p>NFT Portal 1a (1)</p></figcaption></figure>
 
 ### Login method 2: Cosmostation
 
