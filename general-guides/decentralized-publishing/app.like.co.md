@@ -90,7 +90,7 @@ description: 第一個 ISCN 的概念示範應用
 
 
 
-<figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p>點「View File Info」查看檔案的屬性和狀態</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p>檔案的屬性和狀態</p></figcaption></figure>
 
 ### 不上傳內容
 

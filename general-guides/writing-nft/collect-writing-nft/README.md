@@ -120,7 +120,7 @@ description: 如何收藏 Writing NFT
 
 彈出 Keplr 視窗，再點「Approve」確認購買。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 7.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve」確認購買</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 07.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve」確認購買</p></figcaption></figure>
 
 #### Cosmostation
 
