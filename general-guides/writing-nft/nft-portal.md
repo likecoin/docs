@@ -34,7 +34,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 請於瀏覽器登入 [Keplr 瀏覽器擴充功能 ( Keplr Browser Extension )](../wallet/keplr/)，點「Keplr」後彈出視窗要求連結，點「Approve」。
 
-<figure><img src="../../.gitbook/assets/NFT Portal 1a.png" alt=""><figcaption><p>在 Keplr 點「Approve」</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>在 Keplr 點「Approve」</p></figcaption></figure>
 
 ### **登入方式 2**：Cosmostation
 
