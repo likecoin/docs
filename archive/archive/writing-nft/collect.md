@@ -60,7 +60,7 @@ A pop-up window appears, click Keplr to login.
 
 When connecting for the first time, a Keplr window will pop up asking for a connection, click "Approve".
 
-![Click "Approve" on Keplr](<../../../.gitbook/assets/NFT Portal 1a.png>)
+![Click "Approve" on Keplr](<../../../.gitbook/assets/NFT Portal 1a (1).png>)
 
 ### Step 2: Pay by Credit Card&#x20;
 
