@@ -25,7 +25,7 @@
   * [追蹤作者](general-guides/writing-nft/follow-creators.md)
   * [通知功能](general-guides/writing-nft/notifications.md)
   * [我的書架](general-guides/writing-nft/dashboard.md)
-  * [轉贈 Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)
+  * [發送 Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)
   * [發行 Writing NFT](general-guides/writing-nft/nft-portal.md)
   * [發行 NFT 書（測試版）](general-guides/writing-nft/mint-nft-book.md)
   * [BookForest](general-guides/writing-nft/bookforest.io.md)
