@@ -28,13 +28,13 @@ On the Transfer Your NFT page, enter the wallet address of the recipient and the
 
 On the Keplr popup window, click "Approve".
 
-<figure><img src="../../.gitbook/assets/NFT Transfer 3-en (1).png" alt=""><figcaption><p>Keplr window pops up click "Approve" to confirm the transfer</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Transfer 3-en.png" alt=""><figcaption><p>Keplr window pops up click "Approve" to confirm the transfer</p></figcaption></figure>
 
 ### Transfer Writing NFT on Cosmostation
 
 On the Cosmostation popup window, click "Confirm".
 
-<figure><img src="../../.gitbook/assets/NFT Transfer 3-en.png" alt=""><figcaption><p>Cosmostation window pops up click "Confirm" to confirm the transfer</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Transfer 3-en (1).png" alt=""><figcaption><p>Cosmostation window pops up click "Confirm" to confirm the transfer</p></figcaption></figure>
 
 ### Transfer Writing NFT on Leap
 

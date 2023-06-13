@@ -34,7 +34,7 @@ Enter the [**NFT Portal**](https://app.like.co/nft/url) on the desktop computer 
 
 Please log into [Keplr Browser Extension](../wallet/keplr/) in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal Keplr.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
 
 ### Login method 2: Cosmostation
 
@@ -164,13 +164,17 @@ A window pops up, enters the content and clicks "Confirm". Note that the message
 
 Check whether the content is correct or not. If they need to be modified, you can press "Edit" to change it.
 
-In addition, if you want to reserve some Writing NFT for yourself, click "More settings".
+In addition, if you want to reserve some Writing NFT for yourself or change the initial price, click "More settings".
 
-<figure><img src="../../.gitbook/assets/NFT Portal 5-3.png" alt=""><figcaption><p>Edit Writing NFT Creator message and reserve NFT</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal 5-3.png" alt=""><figcaption><p>Edit Writing NFT Creator message and click "More settings"</p></figcaption></figure>
 
-Enter a number between 0-499 in "Numbers of NFTs reserved for giveaways", then click "Next" to continue.
+Enter a number between 0-499 in "Numbers of NFTs reserved for giveaways":
 
-<figure><img src="../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>Enter the number of Writing NFT to reserve</p></figcaption></figure>
+Select 8, 128, 1024 or 4069 LIKE as Initial Price;&#x20;
+
+then click "Next" to continue.
+
+<figure><img src="../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>Enter the number of Writing NFT to reserve and set the Initial Price</p></figcaption></figure>
 
 ### Step 4/4: Sign
 
