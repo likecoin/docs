@@ -34,7 +34,7 @@ Enter the [**NFT Portal**](https://app.like.co/nft/url) on the desktop computer 
 
 Please log into [Keplr Browser Extension](../wallet/keplr/) in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
 
-<figure><img src="../../.gitbook/assets/Buy NFT 05.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
 
 ### Login method 2: Cosmostation
 

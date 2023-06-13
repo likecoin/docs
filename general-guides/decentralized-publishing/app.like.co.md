@@ -28,7 +28,7 @@ Choose [Keplr](../wallet/keplr/), [Cosmostation](../wallet/cosmostation/), [Cosm
 
 Please log into [Keplr Browser Extension](../wallet/keplr/) in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve".
 
-<figure><img src="../../.gitbook/assets/Buy NFT 05.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal 1a.png" alt=""><figcaption><p>NFT Portal 1a (1)</p></figcaption></figure>
 
 ### Login method 2: Cosmostation
 
@@ -76,25 +76,31 @@ After successful login, your wallet address will be displayed in the top right c
 
 <figure><img src="../../.gitbook/assets/ISCN 2.png" alt=""><figcaption><p>Successfully link app.like.co and display the wallet address</p></figcaption></figure>
 
-## Step 2: Upload Content <a href="#bu-zhou-er-shang-zai-nei-rong" id="bu-zhou-er-shang-zai-nei-rong"></a>
+## Step 2: Upload or Skip Upload Content <a href="#bu-zhou-er-shang-zai-nei-rong" id="bu-zhou-er-shang-zai-nei-rong"></a>
 
-Click "Select a file" to choose a photo or video, or upload it directly by dragging and dropping.
+### Upload Content
 
-<figure><img src="../../.gitbook/assets/ISCN 3.png" alt=""><figcaption><p>lick "Select a file" to upload a file</p></figcaption></figure>
+Click "Select a file" to choose a photo or video, or upload it directly by dragging and dropping. If you have already uploaded the file, you can also choose "Skip Upload".
 
-After the upload is complete, click "View File Info" to check the metadata of your file, including EXIF data such as location and camera settings.
+<figure><img src="../../.gitbook/assets/ISCN 3.png" alt=""><figcaption><p>Click "Select a file" to upload a file or "Skip Upload"</p></figcaption></figure>
+
+After the upload is complete, click "View File Info" to check the metadata of your file, including EXIF data such as location and camera settings. Review the details again and "Start Upload".
+
+<figure><img src="../../.gitbook/assets/ISCN 5.png" alt=""><figcaption><p>Click "View File Info" to check the metadata of your file and "Start Upload"</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p> Click "View File Info" to check the metadata of your file</p></figcaption></figure>
 
-Click "Start Register" to proceed.
+### Skip Upload Content
 
-<figure><img src="../../.gitbook/assets/ISCN 5.png" alt=""><figcaption><p>Click "Start Register"</p></figcaption></figure>
+Enter an existing content fingerprint.
+
+<figure><img src="../../.gitbook/assets/ISCN 5.5.png" alt=""><figcaption><p>Enter an existing content fingerprint</p></figcaption></figure>
 
 ## Step 3: Fill in the metadata <a href="#bu-zhou-san-tian-xie-yuan-zi-liao" id="bu-zhou-san-tian-xie-yuan-zi-liao"></a>
 
 Fill in the information about this content, including:
 
-* Register your asset in Numbers Protocol - Click on it and the work will be registered with Numbers Protocol too
+* Register your asset in Numbers Protocol - Click on it and the work will be registered with Numbers Protocol too ( Not applicable to Skip Upload ).
 * ISCN Title
 * Description
 * Author - Click to fill into more details. You may include more than one author if the work is co-created.
@@ -131,13 +137,13 @@ Please follow the different login methods to sign:
 
 A Keplr windows will pop up for confirmation, click "Approve".
 
-<figure><img src="../../.gitbook/assets/ISCN 10 (1).png" alt=""><figcaption><p>When the Keplr window pops up, click "Approve"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 10.png" alt=""><figcaption><p>When the Keplr window pops up, click "Approve"</p></figcaption></figure>
 
 **Login with Cosmostation**
 
 A Cosmostation windows will pop up for confirmation, click "Confirm".
 
-<figure><img src="../../.gitbook/assets/ISCN 10.png" alt=""><figcaption><p>When the Cosmostation window pops up, click "Confirm"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISCN 11.webp" alt=""><figcaption><p>When the Cosmostation window pops up, click "Confirm"</p></figcaption></figure>
 
 **Login with Cosmostation app**
 
