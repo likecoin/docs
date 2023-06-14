@@ -10,7 +10,7 @@ description: LikeCoin DAO 有過什麼議案？
 
 * **提案：**Civic Liker 讚賞公民
 * **類型**：軟件升級議案 ( Software Upgrade Proposal )
-* **日期**：2023.05.26 提案，2023.06.
+* **日期**：2023.05.26 提案，2023.06.02 通過
 * **詳情**：[https://www.mintscan.io/likecoin/proposals/65](https://www.mintscan.io/likecoin/proposals/65)
 
 ## 議案 #64 增加 x/iscn and x/likenft 費用

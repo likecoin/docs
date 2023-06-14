@@ -34,21 +34,21 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 如圖點左方「外掛」，再點上方「安裝外掛」。
 
-![點「安裝外掛」](../.gitbook/assets/wordpress-1.png)
+<figure><img src="../.gitbook/assets/wordpress 1.png" alt=""><figcaption><p>點「安裝外掛」</p></figcaption></figure>
 
 ### 步驟三：啟用外掛
 
 搜尋關鍵字 "Web3Press" 或 "LikeCoin"，找到 Web3Press 外掛，點「立即安裝」並等待完成，再點「啟用」。
 
-<figure><img src="../.gitbook/assets/wordpress 2.png" alt=""><figcaption><p>點「立即安裝」</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 2 (1).png" alt=""><figcaption><p>點「立即安裝」</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/wordpress 3.png" alt=""><figcaption><p>點「啟用」</p></figcaption></figure>
 
 ### 步驟四：完成安裝
 
-安裝完成後，你會發現在左方的菜單中多了一個 "☆Web3Press" 的選項。恭喜你，你已經完成安裝了！
+安裝完成後，你會發現在左方的菜單中多了一個「Web3Press」的選項。恭喜你，你已經完成安裝了！
 
-<figure><img src="../.gitbook/assets/wordpress 4.png" alt=""><figcaption><p>☆Web3Press 選項</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 4.png" alt=""><figcaption><p>Web3Press 選項</p></figcaption></figure>
 
 ## 以 Keplr 簽署發佈 Writing NFT
 
@@ -56,67 +56,49 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 留意用戶並不需要註冊 Liker ID 也可以使用 Web3Press 去中心出版。
 
-### 步驟一：註冊 ISCN
+### 步驟一：開始發佈 Writing NFT
 
-發佈文章後，在 Decentralized Publishing 底下點「Publish」。
+發佈文章後，在 Web3Press 底下點「Publish」。
 
 <figure><img src="../.gitbook/assets/W3Press mint 1.png" alt=""><figcaption><p>點「Publish」</p></figcaption></figure>
 
-彈出視窗，點「Next」。
+彈出視窗及 Keplr 視窗，點「Approve」。
 
-<figure><img src="../.gitbook/assets/W3Press mint 2.png" alt=""><figcaption><p>點「Next」</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 2.png" alt=""><figcaption><p>彈出視窗及 Keplr 視窗，點「Approve」</p></figcaption></figure>
 
-彈出 Keplr 視窗開始將內容上載到 IPFS 及 Arweave，點「Approve」。
-
-<figure><img src="../.gitbook/assets/W3Press mint 3.png" alt=""><figcaption><p>在 Keplr 視窗點「Approve」</p></figcaption></figure>
-
-上載途中請不要關閉視窗。
-
-<figure><img src="../.gitbook/assets/W3Press mint 4.png" alt=""><figcaption><p>上載途中不要關閉視窗</p></figcaption></figure>
-
-接下來將內容元資料註冊到 LikeCoin chain，在 Keplr 視窗點「Approve」。
-
-<figure><img src="../.gitbook/assets/W3Press mint 5.png" alt=""><figcaption><p>在 Keplr 視窗點「Approve」</p></figcaption></figure>
-
-註冊途中請不要關閉視窗。
-
-<figure><img src="../.gitbook/assets/W3Press mint 6.png" alt=""><figcaption><p>註冊途中不要關閉視窗</p></figcaption></figure>
-
-### 步驟二：鑄造 Writing NFT
-
-ISCN 經已成功註冊，點「Continue to mint Writing NFTs」鑄造 Writing NFT。
-
-<figure><img src="../.gitbook/assets/W3Press mint 7.png" alt=""><figcaption><p>點「Continue to mint Writing NFTs」</p></figcaption></figure>
-
-{% hint style="info" %}
-你可以隨時到 [app.like.co](https://app.like.co/) 的 [My Publishing](https://app.like.co/works) 查看已註冊的 ISCN。
-{% endhint %}
+### 步驟二：預覽 Writing NFT
 
 預覽你的 Writing NFT，如需添加或更改或生成 AI 封面可點「:pencil2:」，如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片；你亦可以點「:pencil2:」更改 Writing NFT 的標題及簡介，詳情可到[發行 Writing NFT](../general-guides/writing-nft/nft-portal.md) 了解更多。完成後點「Next」。
 
-<figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption><p>修改 Writing NFT 封面、標題及簡介後點「Next」</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 3.png" alt=""><figcaption><p>修改 Writing NFT 封面、標題及簡介後點「Next」</p></figcaption></figure>
 
-亦可為你的 Writing NFT 輸入作者給讀者的話，點「Add message to your collectors」並輸入訊息，完成後點「Next」繼續。
+你可為你的 Writing NFT 輸入作者給讀者的話，點「Add message to your collectors」並輸入訊息。此外如需要預留一些 Writing NFT 給自己及調整售價，可點「More settings」查多更多設定。
 
-<figure><img src="../.gitbook/assets/W3Press mint 9.png" alt=""><figcaption><p>輸入 Writing NFT 作者留言</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 4.png" alt=""><figcaption><p>輸入 Writing NFT 作者留言及查看更多設定</p></figcaption></figure>
+
+在 Numbers of NFTs reserved for giveaways 可輸入 0-499 之間的預留數量；
+
+在 Sales Settings 可設定 Writing NFT 起始售價為 8、128、1024 或 4096 LIKE；
+
+完成後點「Next」繼續。
+
+<figure><img src="../.gitbook/assets/W3Press mint 5.png" alt=""><figcaption><p>輸入預留 Writing NFT 數量及設定起始售價</p></figcaption></figure>
 
 彈出 Keplr 視窗數次以鑄造 Writing NFT，全部點「Approve」。
 
-<figure><img src="../.gitbook/assets/W3Press mint 10.png" alt=""><figcaption><p>彈出 Keplr 視窗數次以鑄造 Writing NFT，全部點「Approve」</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 6.png" alt=""><figcaption><p>彈出 Keplr 視窗數次以鑄造 Writing NFT，全部點「Approve」</p></figcaption></figure>
 
 ### 步驟三：完成鑄造
 
-出現 Complete! 頁面代表經已成功鑄造，點「View NFT」瀏覽你的 Writing NFT。
+出現 Complete! 頁面代表經已成功鑄造，點「View Your NFT」或在編輯介面點「View NFT」瀏覽你的 Writing NFT。
 
-<figure><img src="../.gitbook/assets/W3Press mint 11.png" alt=""><figcaption><p>點「View NFT」</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 7.png" alt=""><figcaption><p>點「View Your NFT」</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/W3Press mint 12.png" alt=""><figcaption><p>瀏覽你的 Writing NFT</p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption><p>點「View NFT」</p></figcaption></figure>
 
 你也可以到 Liker Land [我的書架](../general-guides/writing-nft/dashboard.md)查看你的創作。
 
-<figure><img src="../.gitbook/assets/W3Press mint 13.png" alt=""><figcaption><p>到 Liker Land 我的書架查看創作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 9.png" alt=""><figcaption><p>到 Liker Land 我的書架查看創作</p></figcaption></figure>
 
 ## 設定 Liker ID <a href="#setting" id="setting"></a>
 
