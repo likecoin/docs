@@ -36,7 +36,7 @@ Go to the WordPress admin dashboard and log in. For example, if your website is 
 
 Click on the Menu on the left-hand side, navigate to "Plugins," and click on "Add New" at the top.
 
-![Click "Add New"](../.gitbook/assets/wordpress-1-en.png)
+<figure><img src="../.gitbook/assets/wordpress 1-en.png" alt=""><figcaption><p>Click "Add New"</p></figcaption></figure>
 
 ### Step 3: Activate Web3Press
 
@@ -48,73 +48,59 @@ Search for "Web3Press" or "LikeCoin" in the search bar. Locate the Web3Press plu
 
 ### Step 4: Installation Completed
 
-Once the installation is finished, you will find a "☆Web3Press" option in the menu. Congratulations, the installation is complete!
+Once the installation is finished, you will find a "Web3Press" option in the menu. Congratulations, the installation is complete!
 
-<figure><img src="../.gitbook/assets/wordpress 4-en.png" alt=""><figcaption><p>"☆Web3Press option</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 4-en.png" alt=""><figcaption><p>Web3Press option</p></figcaption></figure>
 
 ## Publishing Writing NFT with Keplr
 
 Please install the [Keplr browser extension](../general-guides/wallet/keplr/) and log in before publishing Writing NFT. A small amount of LikeCoin is required. New users can use the [faucet](../general-guides/faucet.md) to get a small amount of LikeCoin for testing or learn how to [buy LikeCoin](../general-guides/trade/buy-likecoin.md).
 
-### Step 1: Register an ISCN
+Please note that Liker ID is not mandatory for publishing Writing NFT with Web3Press.
 
-After publishing the article, click "Publish" under Decentralized Publishing.
+### Step 1: Start publishing Writing NFT
+
+After publishing the article, click "Publish" under Web3Press.
 
 <figure><img src="../.gitbook/assets/W3Press mint 1.png" alt=""><figcaption><p>Click "Publish"</p></figcaption></figure>
 
-On the pop-up window, click "Next".
+The Convert Content to Wrirting NFT and Keplr windows will appear. On the Keplr pop-up window, click "Approve".
 
-<figure><img src="../.gitbook/assets/W3Press mint 2.png" alt=""><figcaption><p>Click "Next"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 2.png" alt=""><figcaption><p>On the Keplr pop-up window, click "Approve"</p></figcaption></figure>
 
-On the Keplr pop-up window, click "Approve" to start uploading the content to IPFS and Arweave.
-
-<figure><img src="../.gitbook/assets/W3Press mint 3.png" alt=""><figcaption><p>On the Keplr pop-up window, click "Approve"</p></figcaption></figure>
-
-Please do not close the window during the upload process.
-
-<figure><img src="../.gitbook/assets/W3Press mint 4.png" alt=""><figcaption><p>Do not close the window during the upload process</p></figcaption></figure>
-
-On the Keplr pop-up window, click "Approve" to register the content metadata on the LikeCoin chain.
-
-<figure><img src="../.gitbook/assets/W3Press mint 5.png" alt=""><figcaption><p>On the Keplr pop-up window, click "Approve"</p></figcaption></figure>
-
-Please do not close the window during the registration process.
-
-<figure><img src="../.gitbook/assets/W3Press mint 6.png" alt=""><figcaption><p>Do not close the window during the registration process</p></figcaption></figure>
-
-### Step 2: Minting Writing NFT
-
-Once the ISCN has been successfully registered, click "Continue to mint Writing NFTs".
-
-<figure><img src="../.gitbook/assets/W3Press mint 7.png" alt=""><figcaption><p>Click "Continue to mint Writing NFTs"</p></figcaption></figure>
-
-{% hint style="info" %}
-You can always go to [app.like.co](https://app.like.co/) [My Publishing](https://app.like.co/works) to check the published ISCN.
-{% endhint %}
+### Step 2: Preview Writing NFT
 
 Preview your Writing NFT. If you want to add, change, or create an AI cover for the Writing NFT, click ":pencil2:". If you don't need to make any changes or if the article has no picture, the default OG picture of the article will be displayed or no picture will be displayed. You can also click ":pencil2:" to change the title and description of your Writing NFT. To learn more, please go to [Mint Writing NFT](../general-guides/writing-nft/nft-portal.md). Then click "Next" to continue.
 
-<figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption><p>Change the cover, title and description of your Writing NFT and click "Next"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 3.png" alt=""><figcaption><p>Change the cover, title and description of your Writing NFT and click "Next"</p></figcaption></figure>
 
-You can also enter a Creator message. Click "Add message to your collectors" and enter a message. Click "Next" to continue.
+You can also enter a Creator message. Click "Add message to your collectors" and enter a message. Click "Next" to continue. In addition, if you want to reserve some Writing NFT for yourself or change the initial price, click "More settings".
 
-<figure><img src="../.gitbook/assets/W3Press mint 9.png" alt=""><figcaption><p>Enter Writing NFT Creator message</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 4.png" alt=""><figcaption><p>Enter Writing NFT Creator message and click "More settings"</p></figcaption></figure>
+
+Enter a number between 0-499 in "Numbers of NFTs reserved for giveaways":
+
+Select 8, 128, 1024 or 4069 LIKE as Initial Price;&#x20;
+
+Click "Next" to continue.
+
+<figure><img src="../.gitbook/assets/W3Press mint 5.png" alt=""><figcaption><p>Enter the number of Writing NFT to reserve and set the Initial Price</p></figcaption></figure>
 
 Click "Approve" on all the Keplr pop-up windows during the minting process.
 
-<figure><img src="../.gitbook/assets/W3Press mint 10.png" alt=""><figcaption><p>Click "Approve" on all the Keplr pop-up windows during the minting process</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 6.png" alt=""><figcaption><p>Click "Approve" on all the Keplr pop-up windows during the minting process</p></figcaption></figure>
 
 ### Step 3: Complete minting
 
-The minting process is complete! A message saying "Complete!" will appear, indicating that the Writing NFT has been successfully minted. Click "View NFT" to view your Writing NFT.
+The minting process is complete! A message saying "Complete!" will appear, indicating that the Writing NFT has been successfully minted. Click "View Your NFT" or click "View NFT" on the post editor to view your Writing NFT.
 
-<figure><img src="../.gitbook/assets/W3Press mint 11.png" alt=""><figcaption><p>Click "View NFT"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 7.png" alt=""><figcaption><p>Click "View Your NFT"</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/W3Press mint 12.png" alt=""><figcaption><p>View your Writing NFT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption><p>Click "View NFT"</p></figcaption></figure>
 
 You can also check your creations on the Liker Land [My Dashboard](../general-guides/writing-nft/dashboard.md).
 
-<figure><img src="../.gitbook/assets/W3Press mint 13-en.png" alt=""><figcaption><p>Check your creations on the Liker Land My Dashboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 9-en.png" alt=""><figcaption><p>Check your creations on the Liker Land My Dashboard</p></figcaption></figure>
 
 ## Configuring Liker ID
 

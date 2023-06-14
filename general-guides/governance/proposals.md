@@ -10,7 +10,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 * Proposer: Civic Liker 讚賞公民
 * Proposal Type: Software Upgrade Proposal
-* Date: Submit on 2023.05.26, Passed on
+* Date: Submit on 2023.05.26, Passed on 2023.06.02
 * Details: [https://www.mintscan.io/likecoin/proposals/65](https://www.mintscan.io/likecoin/proposals/65)
 
 ## Proposal #64 Increase fee for x/iscn and x/likenft
