@@ -12,7 +12,13 @@ On **August 18, 2021**, the LikeCoin chain upgraded to FoTan, which incorporates
 
 On **July 21, 2022**, the LikeCoin chain upgraded to StarFerry. This upgrade features the [Writing NFT](../writing-nft/) module, and nft-related services, such as nft minting, blind box, and marketplace chain API.
 
-#### &#xD;To Learn More
+On **June 5, 2023**, the LikeCoin chain upgraded to LikeCoin v4.0.0 ChungKing, enhanced NFT and ISCN functions, supported Ledger, minimum validator commission, group module multisig, etc.
+
+
+
+#### To Learn More
+
+[LikeCoin Chain Upgrade – ChungKing](https://blog.like.co/en/likecoin-chain-upgrade-chungking/)
 
 [StarFerry – A Full Ship of Stories | LikeCoin Updates](https://blog.like.co/en/starferry-a-full-ship-of-stories-likecoin-updates/)
 

@@ -23,7 +23,8 @@ description: >-
 
 | Date               | Description                                                                  |
 | ------------------ | ---------------------------------------------------------------------------- |
-| Monday, 5 June     | Get updates from the builders. Covering products updates and community news. |
+| Monday, 3 July     | Get updates from the builders. Covering products updates and community news. |
+| Monday, 5 June     | LikeCoin chain Chungking upgrade and Keplr native support                    |
 | Monday, 1 May      | NFT Book launch and new partnershi                                           |
 | Monday, 3 April    | Three NFT Book projects coming ahead                                         |
 | Monday, 6 March    | Latest updates and features on Web3Press and Liker Land                      |

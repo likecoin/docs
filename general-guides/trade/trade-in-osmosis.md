@@ -114,7 +114,7 @@ Transaction complete. You will receive an email and have the OSMO in your Keplr 
 
 <figure><img src="../../.gitbook/assets/Osmosis 23.png" alt=""><figcaption><p>Transaction complete and receive email confirmation</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Osmosis 24.png" alt=""><figcaption><p>Check your OSMO in Keplr Wallet</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Osmosis 24 (1).png" alt=""><figcaption><p>Check your OSMO in Keplr Wallet</p></figcaption></figure>
 
 ### Step 3: Swap OSMO for LIKE
 
@@ -128,7 +128,7 @@ Enter the amount to swap, you can check out the Rate, Swap Fee and Estimate outp
 
 On Keplr pop-up screen, click "Approve" to continue.
 
-<figure><img src="../../.gitbook/assets/Osmosis 26.png" alt=""><figcaption><p>On Keplr pop-up screen, click "Approve" to continue</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Osmosis 26 (1).png" alt=""><figcaption><p>On Keplr pop-up screen, click "Approve" to continue</p></figcaption></figure>
 
 ### Step 4: Withdraw LIKE from Osmosis to LikeCoin chain
 
@@ -250,7 +250,7 @@ Transaction complete. You will receive an email and have the OSMO in your Keplr 
 
 <figure><img src="../../.gitbook/assets/Osmosis 23.png" alt=""><figcaption><p>Transaction complete and receive email confirmation</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Osmosis 24.png" alt=""><figcaption><p>Check your OSMO in Keplr Wallet</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Osmosis 24 (1).png" alt=""><figcaption><p>Check your OSMO in Keplr Wallet</p></figcaption></figure>
 
 ### Step 5: Swap OSMO for LIKE
 
@@ -260,7 +260,7 @@ Go to the Osmosis frontpage and swap OSMO to LIKE. Enter the amount to swap, you
 
 On Keplr pop-up screen, click "Approve" to continue.
 
-<figure><img src="../../.gitbook/assets/Osmosis 26.png" alt=""><figcaption><p>On Keplr pop-up screen, click "Approve" to continue</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Osmosis 26 (1).png" alt=""><figcaption><p>On Keplr pop-up screen, click "Approve" to continue</p></figcaption></figure>
 
 Go to Assets and your LIKE increased. click "Withdraw >" then Withdraw LIKE appears. Enter the amount of LIKE that needs to be withdrawn in Select Amount, and then click "Withdraw LIKE" to withdraw LIKE back to the LikeCoin chain.
 
