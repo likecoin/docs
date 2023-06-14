@@ -168,7 +168,7 @@ In addition, if you want to reserve some Writing NFT for yourself or change the 
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5-3.png" alt=""><figcaption><p>Edit Writing NFT Creator message and click "More settings"</p></figcaption></figure>
 
-Enter a number between 0-499 in "Numbers of NFTs reserved for giveaways":
+Enter a number between 0-255 in "Numbers of NFTs reserved for giveaways":
 
 Select 8, 128, 1024 or 4069 LIKE as Initial Price;&#x20;
 

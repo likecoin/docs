@@ -78,7 +78,7 @@ You can also enter a Creator message. Click "Add message to your collectors" and
 
 <figure><img src="../.gitbook/assets/W3Press mint 4.png" alt=""><figcaption><p>Enter Writing NFT Creator message and click "More settings"</p></figcaption></figure>
 
-Enter a number between 0-499 in "Numbers of NFTs reserved for giveaways":
+Enter a number between 0-255 in "Numbers of NFTs reserved for giveaways":
 
 Select 8, 128, 1024 or 4069 LIKE as Initial Price;&#x20;
 
