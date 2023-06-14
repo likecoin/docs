@@ -12,7 +12,11 @@ LikeCoin chain 是 LikeCoin DAO 去中心化的數據記錄，專為內容創作
 
 **2022年7月21日** LikeCoin chain 升級到 StarFerry 支援 [Writing NFT](../writing-nft/) 模組及相關服務如鑄造 NFT、盲盒及 NFT 市場等 chain API。
 
+**2023年6月5日** LikeCoin chain 升級 到 LikeCoin v4.0.0 ChungKing 加強多項 NFT 及 ISCN 功能，支援 Ledger、最低驗證人佣金、group 模組 multisig 等。
+
 #### 更多詳情
+
+[LikeCoin Chain Upgrade – ChungKing](https://blog.like.co/en/likecoin-chain-upgrade-chungking/)
 
 [StarFerry – 滿載故事的船 | LikeCoin 社群報](https://blog.like.co/zh/starferry-%E6%BB%BF%E8%BC%89%E6%95%85%E4%BA%8B%E7%9A%84%E8%88%B9-%E7%A4%BE%E7%BE%A4%E5%A0%B1/)
 

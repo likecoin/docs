@@ -22,7 +22,7 @@ LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，�
 
 ## 2023 日期及議程
 
-<table><thead><tr><th width="316">日期</th><th>描述</th></tr></thead><tbody><tr><td>星期一，5月1日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>星期一，4月3日</td><td>Three NFT Book projects coming ahead</td></tr><tr><td>星期一，3月6日</td><td>Latest updates and features on Web3Press and Liker Land.</td></tr><tr><td>星期一，2月6日</td><td>Partnership and Products updates</td></tr><tr><td>星期一，1月9日</td><td>Ecosystem and Writing NFT updates</td></tr></tbody></table>
+<table><thead><tr><th width="316">日期</th><th>描述</th></tr></thead><tbody><tr><td>星期一，7月3日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>星期一，6月5日</td><td>LikeCoin chain Chungking upgrade and Keplr native support</td></tr><tr><td>星期一，5月1日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>星期一，4月3日</td><td>Three NFT Book projects coming ahead</td></tr><tr><td>星期一，3月6日</td><td>Latest updates and features on Web3Press and Liker Land.</td></tr><tr><td>星期一，2月6日</td><td>Partnership and Products updates</td></tr><tr><td>星期一，1月9日</td><td>Ecosystem and Writing NFT updates</td></tr></tbody></table>
 
 ## 會議時間
 

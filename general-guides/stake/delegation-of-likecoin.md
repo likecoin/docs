@@ -94,9 +94,9 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ![Sent and confirming](<../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![Successfully withdrawal! 成功領取回報](<../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
 
-Keplr 用戶可直接在 Keplr 直接點「Claim」領取回報。
+Keplr 用戶可直接在 Keplr 直接點「Claim All」領取回報。
 
-<figure><img src="../../.gitbook/assets/keplr withdraw rewards.png" alt=""><figcaption><p>Keplr 直接點「Claim」領取回報</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr withdraw rewards.png" alt=""><figcaption><p>Keplr 直接點「Claim All」領取回報</p></figcaption></figure>
 
 Cosmostation 用戶可直接在 Cosmostation 點「Claim Reward」領取回報。
 
