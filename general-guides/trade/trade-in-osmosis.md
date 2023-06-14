@@ -20,9 +20,13 @@ description: Osmosis 是去中心交易所，無需註冊，立即交易
 
 ### 步驟一：連接錢包
 
-登入 [Keplr 瀏覽器擴充功能](../wallet/keplr/)後，到[透過 Osmosis 購買 LikeCoin 專頁](https://faucet.like.co/purchase)點「Keplr」連接錢包。&#x20;
+登入 [Keplr 瀏覽器擴充功能](../wallet/keplr/)後，到[透過 Osmosis 購買 LikeCoin 專頁](https://faucet.like.co/purchase)點「Keplr」再點「Approve」連接錢包。&#x20;
 
 <figure><img src="../../.gitbook/assets/purchase likecoin 1.png" alt=""><figcaption><p>點「Keplr」連接錢包</p></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/Osmosis 34.png" alt=""><figcaption><p>在 Keplr 點「Approve」</p></figcaption></figure>
 
 連結成功後出現 LikeCoin 及 Osmosis 的錢包地址以供核對。
 

@@ -64,7 +64,7 @@ LikeCoin 經已從 ERC-20 轉移到以 Cosmos 生態系為基礎 [LikeCoin chain
 
 點簽署後，MetaMask 會彈出以下的畫面。請點「Connect」及「Sign」。
 
-![按「Connect」然後「sign」](../../../.gitbook/assets/likecoin-migration-4.png)
+![點「Connect」然後「sign」](../../../.gitbook/assets/likecoin-migration-4.png)
 
 ### 步驟 3.3：等候轉帳完成
 
