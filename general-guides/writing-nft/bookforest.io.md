@@ -18,30 +18,30 @@ Please log in to your [Keplr Browse Extension](../wallet/keplr/) first.
 
 Go to BookForest website and click "Connect Your Wallet". If you are connecting for the 1st time, a Keplr window will pop up, click "Approve".
 
-<figure><img src="../../.gitbook/assets/bookforest 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bookforest 1.png" alt=""><figcaption><p>Click "Approve" to connect with Keplr</p></figcaption></figure>
 
 ## Step 2: Purchase the NFT book
 
 Choose the book you want to buy in the carousell or BookForest new drops.
 
-<figure><img src="../../.gitbook/assets/bookforest 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bookforest 2.png" alt=""><figcaption><p>Choose the book you want to buy</p></figcaption></figure>
 
 Click "BUY NOW" on the book details page.
 
-<figure><img src="../../.gitbook/assets/bookforest 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bookforest 3.png" alt=""><figcaption><p>Click "BUY NOW" on the book details page</p></figcaption></figure>
 
 Enter into the Stripe payment page, fill in your email and credit card information and click "Buy".
 
-<figure><img src="../../.gitbook/assets/bookforest 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bookforest 4.png" alt=""><figcaption><p>Enter into the Stripe payment page, fill in your email and credit card information and click "Buy"</p></figcaption></figure>
 
 ## Step 3: NFT book purchase completed
 
 The "Thank you!" page appears.
 
-<figure><img src="../../.gitbook/assets/bookforest 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bookforest 5.png" alt=""><figcaption><p>The "Thank you!" page appears</p></figcaption></figure>
 
 Additionally you will receive a confirmation email.
 
-<figure><img src="../../.gitbook/assets/bookforest 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bookforest 6.png" alt=""><figcaption><p>Receive a confirmation email</p></figcaption></figure>
 
 The purchased NFT book will be displayed in "[My Dashboard](dashboard.md)".
