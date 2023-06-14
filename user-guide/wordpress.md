@@ -156,6 +156,14 @@ Web monetization is now enabled on the Web3Press plugin. It allows content creat
 * Show in Posts: After configuring Liker ID, it will default to displaying the NFT Widget / LikeCoin button underneath each article.
 * Show in Pages: Display the like button in WordPress pages.
 
+<figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption><p>LikeCoin Widget settings</p></figcaption></figure>
+
+### LikeCoin widget advanced settings
+
+Customize the display settings of the NFT Widget / LikeCoin button for each article.
+
+<figure><img src="../.gitbook/assets/wordpress 9.png" alt=""><figcaption><p>LikeCoin widget advanced settings</p></figcaption></figure>
+
 {% hint style="info" %}
 **Configure the NFT Widget / LikeCoin button to appear anywhere in the articles.**
 
@@ -166,12 +174,6 @@ You can also use the shortcode \[likecoin] to display additional NFT Widget / Li
 
 After the article is published to ISCN, you can choose whether to display the ISCN badge. The options are "Not shown," "Light Mode," and "Dark Mode." Select your preference and click "Confirm."
 
-<figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption><p>ISCN Badge setting</p></figcaption></figure>
-
-### LikeCoin widget advanced settings
-
-Customize the display settings of the NFT Widget / LikeCoin button for each article.
-
-<figure><img src="../.gitbook/assets/wordpress 9.png" alt=""><figcaption><p>LikeCoin widget advanced settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 13.png" alt=""><figcaption><p>ISCN Badge setting</p></figcaption></figure>
 
 
