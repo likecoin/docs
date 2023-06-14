@@ -168,7 +168,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5-3.png" alt=""><figcaption><p>修改 Writing NFT 作者留言及查看更多設定</p></figcaption></figure>
 
-在 Numbers of NFTs reserved for giveaways 可輸入 0-499 之間的預留數量；
+在 Numbers of NFTs reserved for giveaways 可輸入 0-255 之間的預留數量；
 
 在 Sales Settings 可設定 Writing NFT 起始售價為 8、128、1024 或 4096 LIKE；
 

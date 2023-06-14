@@ -76,7 +76,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 <figure><img src="../.gitbook/assets/W3Press mint 4.png" alt=""><figcaption><p>輸入 Writing NFT 作者留言及查看更多設定</p></figcaption></figure>
 
-在 Numbers of NFTs reserved for giveaways 可輸入 0-499 之間的預留數量；
+在 Numbers of NFTs reserved for giveaways 可輸入 0-255 之間的預留數量；
 
 在 Sales Settings 可設定 Writing NFT 起始售價為 8、128、1024 或 4096 LIKE；
 
