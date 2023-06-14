@@ -18,30 +18,30 @@ description: 購買 NFT 書
 
 進入 [BookForest 網站](https://www.bookforest.io/)點「Connect Your Wallet」，第一次連結彈出 Keplr 視窗，點「Approve」。
 
-<figure><img src="../../.gitbook/assets/bookforest 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bookforest 1.png" alt=""><figcaption><p>點「Approve」連接 Keplr</p></figcaption></figure>
 
 ## 步驟二：購買 NFT 書
 
 在走碼燈或 BookForest new drops 選擇你想購買的書。
 
-<figure><img src="../../.gitbook/assets/bookforest 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bookforest 2.png" alt=""><figcaption><p>選擇你想購買的書</p></figcaption></figure>
 
 在書籍介紹頁面點「BUY NOW」。
 
-<figure><img src="../../.gitbook/assets/bookforest 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bookforest 3.png" alt=""><figcaption><p>在書籍介紹頁面點「BUY NOW」</p></figcaption></figure>
 
 進入 Stripe 付款頁面，填寫你的電郵及信用卡資料後點「Buy」。
 
-<figure><img src="../../.gitbook/assets/bookforest 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bookforest 4.png" alt=""><figcaption><p>進入 Stripe 付款頁面，填寫你的電郵及信用卡資料後點「Buy」</p></figcaption></figure>
 
 ## 步驟三：NFT 書購買完成
 
 出現 Thank you! 頁面。
 
-<figure><img src="../../.gitbook/assets/bookforest 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bookforest 5.png" alt=""><figcaption><p>出現 Thank you! 頁面</p></figcaption></figure>
 
 此外你會收到確認電郵。
 
-<figure><img src="../../.gitbook/assets/bookforest 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bookforest 6.png" alt=""><figcaption><p>收到確認電郵</p></figcaption></figure>
 
 已購買的 NFT 書將於「[我的書架](dashboard.md)」中展示。

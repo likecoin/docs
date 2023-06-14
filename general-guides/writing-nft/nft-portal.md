@@ -150,7 +150,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 完成後點「Next」。
 
-### 步驟 3/4：輸入作者留言及預留 Writing NFT <a href="#creator-message" id="creator-message"></a>
+### 步驟 3/4：輸入作者留言、預留 Writing NFT 及設定起始售價 <a href="#creator-message" id="creator-message"></a>
 
 作者留言是作者於每篇文章顯示的特別段落。與收藏或轉贈時附加留言不同的是，同一個合集下的所有 Writing NFT 將共用同一段作者留言，並儲存於鏈上的 NFT class 資料中。
 
@@ -174,7 +174,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 完成後再點「Next」。
 
-<figure><img src="../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>輸入預留 Writing NFT 數量</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>輸入預留 Writing NFT 數量及設定起始售價</p></figcaption></figure>
 
 ### 步驟 4/4：完成簽署 <a href="#sign" id="sign"></a>
 
