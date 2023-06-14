@@ -6,7 +6,7 @@ description: How to check and copy my LikeCoin wallet address?
 
 ## Keplr
 
-After logging in, click the wallet address to copy it directly.
+After logging in, Click "Deposit" then click "Copy" to copy the wallet address.
 
 <figure><img src="../../.gitbook/assets/Keplr wallet address.png" alt=""><figcaption><p>Copy Keplr wallet address</p></figcaption></figure>
 
