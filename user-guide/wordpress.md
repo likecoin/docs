@@ -62,9 +62,9 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 <figure><img src="../.gitbook/assets/W3Press mint 1.png" alt=""><figcaption><p>點「Publish」</p></figcaption></figure>
 
-彈出視窗及 Keplr 視窗，點「Approve」。
+彈出 Convert Content to Wrirting NFT 視窗及 Keplr 視窗，點「Approve」。
 
-<figure><img src="../.gitbook/assets/W3Press mint 2.png" alt=""><figcaption><p>彈出視窗及 Keplr 視窗，點「Approve」</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/W3Press mint 2.png" alt=""><figcaption><p>於 Keplr 視窗點「Approve」</p></figcaption></figure>
 
 ### 步驟二：預覽 Writing NFT
 
@@ -156,6 +156,14 @@ Web3Press 支援 [Internet Archive](https://archive.org/)，用戶在發佈文�
 * Show in Posts：設定 Liker ID 後，預設為顯示 NFT Widget / 讚賞鍵於網站文章的下方
 * Show in Pages：於 WordPress 頁面中顯示讚賞鍵
 
+<figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption><p>LikeCoin Widget 設定在何處顯示 NFT Widget / 讚賞鍵</p></figcaption></figure>
+
+### LikeCoin widget advanced settings
+
+自訂每篇網站文章的 NFT Widget / 讚賞鍵顯示設置。
+
+<figure><img src="../.gitbook/assets/wordpress 9.png" alt=""><figcaption><p>LikeCoin widget advanced settings 自訂每篇網站文章的 NFT Widget / 讚賞鍵顯示設置</p></figcaption></figure>
+
 {% hint style="info" %}
 #### 於任何位置顯示 NFT Widget / 讚賞鍵 <a href="#how-to-support-multiple-liker-id-on-a-wordpress-site" id="how-to-support-multiple-liker-id-on-a-wordpress-site"></a>
 
@@ -172,10 +180,4 @@ Web3Press 支援 [Internet Archive](https://archive.org/)，用戶在發佈文�
 
 文章註冊 ISCN 後，可設定是否展示 ISCN badge。狀態分為不展示 ( Not shown )、正常模式 ( Light Mode ) 及深色模式 ( Dark Mode )，選擇後點「Confirm」確認。
 
-<figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption><p>ISCN Badge 設定</p></figcaption></figure>
-
-### LikeCoin widget advanced settings
-
-自訂每篇網站文章的 NFT Widget / 讚賞鍵顯示設置。
-
-<figure><img src="../.gitbook/assets/wordpress 9.png" alt=""><figcaption><p>LikeCoin widget advanced settings 自訂每篇網站文章的 NFT Widget / 讚賞鍵顯示設置</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 13.png" alt=""><figcaption><p>ISCN Badge 設定</p></figcaption></figure>
