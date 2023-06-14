@@ -20,13 +20,15 @@ For the convenience of users, we have set up [a special page](https://faucet.lik
 
 ### Step 1: Connect Wallet
 
-After logging in the [Keplr browser extension](../wallet/keplr/), go to [Purchase LIKE via Osmosis](https://faucet.like.co/purchase) and click "Keplr" to connect to the wallet.
+After logging in the [Keplr browser extension](../wallet/keplr/), go to [Purchase LIKE via Osmosis](https://faucet.like.co/purchase) and click "Keplr" and "Approve" to connect to the wallet.
 
-<figure><img src="../../.gitbook/assets/purchase likecoin 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/purchase likecoin 1.png" alt=""><figcaption><p>Click "Keplr"</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Osmosis 34.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
 
 After successfully linking the wallet, you will see the wallet addresses of both LikeCoin and Osmosis for verification.
 
-<figure><img src="../../.gitbook/assets/purchase likecoin 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/purchase likecoin 2.png" alt=""><figcaption><p>LikeCoin and Osmosis wallet address will appear</p></figcaption></figure>
 
 ### Step 2: Buy OSMO
 
