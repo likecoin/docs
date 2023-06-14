@@ -6,7 +6,7 @@ description: 如何查看及複製自己的 LikeCoin 錢包地址？
 
 ## Keplr
 
-登入後直接點錢包地址進行複製。
+登入後點「Deposit」，再點「Copy」複製錢包地址。
 
 <figure><img src="../../.gitbook/assets/Keplr wallet address.png" alt=""><figcaption><p>複製 Keplr 錢包地址</p></figcaption></figure>
 
