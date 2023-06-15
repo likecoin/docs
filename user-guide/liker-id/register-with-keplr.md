@@ -54,21 +54,23 @@ In the pop-up window, click "Keplr".
 
 In the Keplr pop-up window, click "Approve".
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 03.png" alt=""><figcaption><p>In the Keplr pop-up window, click "Approve".</p></figcaption></figure>
-
-Visit the "[Civic Liker](../civic-liker/)" section at the bottom of the [Liker Land website homepage](https://liker.land/) or directly go to [https://liker.land/civic](https://liker.land/civic).
-
-<figure><img src="../../.gitbook/assets/Civic Liker menu-en.png" alt=""><figcaption><p>Civic Liker</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 04.png" alt=""><figcaption><p>In the Keplr pop-up window, click "Approve".</p></figcaption></figure>
 
 ### Step 3: Start Registration
 
-Click "Register Liker ID".
+After logging in to [Liker Land](https://liker.land/), click "[Settings](https://liker.land/en/settings/)", then click "Liker ID".
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 05-en.png" alt=""><figcaption><p>Click "Register Liker ID"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 05-en.jpg" alt=""><figcaption><p>Click "Settings"</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 06-en.png" alt=""><figcaption><p>Click "Liker ID"</p></figcaption></figure>
+
+In Sign in/up click "Keplr Wallet".
+
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 03-en.png" alt=""><figcaption><p>In Sign in/up click "Keplr Wallet".</p></figcaption></figure>
 
 In the Keplr pop-up window, click "Approve".
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 06-en.png" alt=""><figcaption><p>In the Keplr pop-up window, click "Approve".</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 09-en.png" alt=""><figcaption><p>In the Keplr pop-up window, click "Approve".</p></figcaption></figure>
 
 Fill in your desired Liker ID, then click "Confirm".
 
@@ -90,7 +92,7 @@ Please note that once the Liker ID and login method have been created, they cann
 
 In the Liker Land [settings](https://like.co/in/settings), your LikeCoin wallet address will be the same as the Keplr address, indicating that you have successfully registered your Liker ID with Keplr.
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 09-en.png" alt=""><figcaption><p>Check your LikeCoin wallet address</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 10-en.png" alt=""><figcaption><p>Check your LikeCoin wallet address</p></figcaption></figure>
 
 {% hint style="info" %}
 If you have multiple Liker IDs registered with Authcore and Keplr, please make sure to log out completely by clicking "logout" in the menu before signing in with another account.
