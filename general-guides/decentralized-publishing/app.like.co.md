@@ -72,6 +72,12 @@ An ISCN window will pop-up, click "Approve".
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1d-en.png" alt=""><figcaption><p>An ISCN window pops up, click "Approve"</p></figcaption></figure>
 
+{% hint style="warning" %}
+If there is connection problem, go to "Settings" "Wallet Connect" and click X to close the existing connection and try again.
+
+<img src="../../.gitbook/assets/Liker Land app Wallet Connect.png" alt="" data-size="original">
+{% endhint %}
+
 After successful login, your wallet address will be displayed in the top right corner. Click "Register ISCN" to start ISCN registration.
 
 <figure><img src="../../.gitbook/assets/ISCN 2.png" alt=""><figcaption><p>Successfully link app.like.co and display the wallet address</p></figcaption></figure>

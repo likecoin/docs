@@ -78,6 +78,12 @@ An ISCN window will pop-up, click "Approve".
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1d-en.png" alt=""><figcaption><p>An ISCN window pops up, click "Approve"</p></figcaption></figure>
 
+{% hint style="warning" %}
+If there is connection problem, go to "Settings" "Wallet Connect" and click X to close the existing connection and try again.
+
+<img src="../../.gitbook/assets/Liker Land app Wallet Connect.png" alt="" data-size="original">
+{% endhint %}
+
 After successful login, your wallet address will be displayed in the top right corner of the NFT Portal.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1e.png" alt=""><figcaption><p>After successfully logging in to the NFT Portal, the wallet address is displayed in the top right corner</p></figcaption></figure>
