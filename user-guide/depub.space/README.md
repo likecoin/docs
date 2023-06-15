@@ -42,7 +42,7 @@ description: depub.space 是 Web3 去中心化 Twitter
 
 彈出 Keplr 視窗點「Approve」。
 
-![彈出 Keplr 視窗點「Approve」](<../../.gitbook/assets/depub.space 5.png>)
+<figure><img src="../../.gitbook/assets/depub.space 5.png" alt=""><figcaption><p>彈出 Keplr 視窗點「Approve」</p></figcaption></figure>
 
 ### 步驟五
 
@@ -148,6 +148,6 @@ description: depub.space 是 Web3 去中心化 Twitter
 
 ## 查看發文記錄
 
-到 [app.like.co](https://app.like.co/) 點「[My Publishing](https://app.like.co/works)」即可查看以往發文記錄。
+到 [app.like.co](https://app.like.co/) 點「[My Works](https://app.like.co/works)」即可查看以往發文記錄。
 
-![到 app.like.co 點「My Publishing」即可查看以往發文記錄](<../../.gitbook/assets/depub.space wc 10.png>)
+<figure><img src="../../.gitbook/assets/depub.space 10.png" alt=""><figcaption><p>到 app.like.co 點「My Works」即可查看以往發文記錄</p></figcaption></figure>
