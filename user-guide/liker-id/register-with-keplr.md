@@ -54,21 +54,23 @@ description: 以 Keplr 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 彈出 Keplr 視窗點「Approve」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 03.png" alt=""><figcaption><p>彈出 Keplr 視窗點「Approve」</p></figcaption></figure>
-
-從 [Liker Land 網站](https://liker.land)主頁下方訪問[讚賞公民](https://liker.land/en/civic)或者直到網址 [https://liker.land/civic](https://liker.land/civic)。
-
-<figure><img src="../../.gitbook/assets/Civic Liker menu.png" alt=""><figcaption><p>讚賞公民</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 04.png" alt=""><figcaption><p>彈出 Keplr 視窗點「Approve」</p></figcaption></figure>
 
 ### 步驟三：開始註冊
 
-點「註冊 Liker ID」。
+於 [Liker Land](https://liker.land/) 登入後，點「[設定](https://liker.land/zh-Hant/settings/)」，然後點「Liker ID」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 05.png" alt=""><figcaption><p>點「註冊 Liker ID」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 05.jpg" alt=""><figcaption><p>點「設定」</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 06.png" alt=""><figcaption><p>點「Liker ID」</p></figcaption></figure>
+
+在註冊/登入點 Keplr Wallet。
+
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 03.png" alt=""><figcaption><p>在註冊/登入點 Keplr Wallet</p></figcaption></figure>
 
 彈出 Keplr 視窗，點「Approve」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 06.png" alt=""><figcaption><p>彈出 Keplr 視窗，點「Approve」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 09.png" alt=""><figcaption><p>彈出 Keplr 視窗，點「Approve」</p></figcaption></figure>
 
 填寫你心儀 Liker ID 並點「確認」。
 
@@ -90,7 +92,7 @@ Liker ID 將成功註冊並轉回 Liker Land 網頁。
 
 到 Liker Land [設定頁面](https://like.co/in/settings)，你會看到你 Liker ID 對應的 LikeCoin 錢包地址和 Keplr 所顯示的錢包地址相同，亦即代表你已成功使用 Keplr 註冊 Liker ID。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 09.png" alt=""><figcaption><p>查看錢包地址</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 10.png" alt=""><figcaption><p>查看錢包地址</p></figcaption></figure>
 
 {% hint style="info" %}
 假如你同時擁有以 Authcore 及 Keplr 註冊的 Liker ID，請確認使用菜單上的登出功能完全登出才登入另一個 Liker ID。
