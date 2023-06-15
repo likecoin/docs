@@ -26,11 +26,21 @@ description: 網頁版的 Liker Land
 
 ## 選項四：設定 - [https://liker.land/settings/](https://liker.land/settings/)
 
+###
+
+### 設定電郵及通知功能
+
+{% content-ref url="../../general-guides/writing-nft/notifications.md" %}
+[notifications.md](../../general-guides/writing-nft/notifications.md)
+{% endcontent-ref %}
+
 ### 設定追蹤作者
 
 {% content-ref url="../../general-guides/writing-nft/follow-creators.md" %}
 [follow-creators.md](../../general-guides/writing-nft/follow-creators.md)
 {% endcontent-ref %}
+
+### 更改介面語言
 
 ### 設定 Liker ID
 
