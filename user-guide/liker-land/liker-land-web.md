@@ -26,16 +26,18 @@ View and manage NFT [Notifications](../../general-guides/writing-nft/notificatio
 
 ## **Option 4: Settings -** [**https://liker.land/settings/**](https://liker.land/settings/)
 
+### Email  and Follow Creators Settings
+
+{% content-ref url="../../general-guides/writing-nft/follow-creators.md" %}
+[follow-creators.md](../../general-guides/writing-nft/follow-creators.md)
+{% endcontent-ref %}
+
+### Language Settings
+
 ### Liker ID Settings
 
 {% content-ref url="../liker-id/edit-avatar-displayname.md" %}
 [edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
-{% endcontent-ref %}
-
-### Follow Creators Settings
-
-{% content-ref url="../../general-guides/writing-nft/follow-creators.md" %}
-[follow-creators.md](../../general-guides/writing-nft/follow-creators.md)
 {% endcontent-ref %}
 
 ## **Option 5: Sign Out**
