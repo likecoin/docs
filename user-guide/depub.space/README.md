@@ -42,7 +42,7 @@ After clicking the blank space, a text box will pop up and you can write your te
 
 Click "Approve" in the Keplr pop-up window.
 
-![Click "Approve" in the Keplr pop-up window](<../../.gitbook/assets/depub.space 5.png>)
+<figure><img src="../../.gitbook/assets/depub.space 5.png" alt=""><figcaption><p>Click "Approve" in the Keplr pop-up window</p></figcaption></figure>
 
 ### Step 5
 
@@ -148,6 +148,6 @@ The published tweet will show up.
 
 ## View posting history
 
-Go to [app.like.co](https://app.like.co/) and click "[My Publishing](https://app.like.co/works)" to view past posting records.
+Go to [app.like.co](https://app.like.co/) and click "[My Works](https://app.like.co/works)" to view past posting records.
 
-![Go to app.like.co and click "My Publishing" to view past posting records](<../../.gitbook/assets/depub.space wc 10.png>)
+<figure><img src="../../.gitbook/assets/depub.space 10.png" alt=""><figcaption><p>Go to app.like.co and click "My Works" to view past posting records</p></figcaption></figure>
