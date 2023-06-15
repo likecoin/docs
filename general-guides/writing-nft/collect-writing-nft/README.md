@@ -102,6 +102,12 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 4.png" alt=""><figcaption><p>再點「允許」連結帳戶</p></figcaption></figure>
 
+{% hint style="warning" %}
+如遇連接問題，可到「設定」「Wallet Connect」點 X 關掉現有連接後再作嘗試。
+
+<img src="../../../.gitbook/assets/Liker Land app Wallet Connect.png" alt="" data-size="original">
+{% endhint %}
+
 成功登入後 Liker Land 網站右上角將顯示你的頭像。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>成功登入後 Liker Land 網站右上角將顯示你的頭像</p></figcaption></figure>

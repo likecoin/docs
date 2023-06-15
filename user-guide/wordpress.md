@@ -40,7 +40,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 搜尋關鍵字 "Web3Press" 或 "LikeCoin"，找到 Web3Press 外掛，點「立即安裝」並等待完成，再點「啟用」。
 
-<figure><img src="../.gitbook/assets/wordpress 2 (1).png" alt=""><figcaption><p>點「立即安裝」</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/wordpress 2.png" alt=""><figcaption><p>點「立即安裝」</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/wordpress 3.png" alt=""><figcaption><p>點「啟用」</p></figcaption></figure>
 

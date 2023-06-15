@@ -78,6 +78,12 @@ description: 把任何網頁文章內容出版成 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1d.png" alt=""><figcaption><p>彈出 ISCN 視窗，點「允許」</p></figcaption></figure>
 
+{% hint style="warning" %}
+如遇連接問題，可到「設定」「Wallet Connect」點 X 關掉現有連接後再作嘗試。
+
+<img src="../../.gitbook/assets/Liker Land app Wallet Connect.png" alt="" data-size="original">
+{% endhint %}
+
 成功登入後右上角將顯示你的錢包地址及 NFT Portal 註冊頁面。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1e.png" alt=""><figcaption><p>成功登入 NFT Portal，右上角顯示錢包地址</p></figcaption></figure>

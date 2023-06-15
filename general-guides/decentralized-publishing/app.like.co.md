@@ -72,6 +72,12 @@ description: 第一個 ISCN 的概念示範應用
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1d.png" alt=""><figcaption><p>彈出 ISCN 視窗，點「允許」</p></figcaption></figure>
 
+{% hint style="warning" %}
+如遇連接問題，可到「設定」「Wallet Connect」點 X 關掉現有連接後再作嘗試。
+
+<img src="../../.gitbook/assets/Liker Land app Wallet Connect.png" alt="" data-size="original">
+{% endhint %}
+
 完成連結後右上角顯示你的錢包地址，點「Register ISCN」開始註冊。
 
 <figure><img src="../../.gitbook/assets/ISCN 2.png" alt=""><figcaption><p>成功連結 app.like.co 並顯示錢包地址</p></figcaption></figure>
