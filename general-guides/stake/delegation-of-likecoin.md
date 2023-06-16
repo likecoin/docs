@@ -106,7 +106,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 Keplr 用戶可直接在 Keplr 直接點「Claim All」領取回報。
 
-<figure><img src="../../.gitbook/assets/Keplr withdraw rewards.png" alt=""><figcaption><p>Keplr 直接點「Claim All」領取回報</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr withdraw rewards (1).png" alt=""><figcaption><p>Keplr 直接點「Claim All」領取回報</p></figcaption></figure>
 
 Cosmostation 用戶可直接在 Cosmostation 點「Claim Reward」領取回報。
 
@@ -132,7 +132,7 @@ Cosmostation 用戶可直接在 Cosmostation 點「Claim Reward」領取回報�
 
 <figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 3.png" alt=""><figcaption><p>點「Delegate」</p></figcaption></figure>
 
-### 步驟三：進行委託
+### 步驟三：輸入委託金額
 
 輸入你所需要委託的 LikeCoin 數量，點「Delegate」。
 
