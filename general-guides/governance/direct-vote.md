@@ -8,14 +8,26 @@ Since the [FoTan](https://cloudflare-ipfs.com/ipfs/Qmb7AYNsbRJ95dWXCYCkUbpypAVfu
 
 In addition to delegating your voting powers to validators to let them vote on your behalf, you can now vote by yourself. For example, if your validator votes "No," you can vote "Yes" based on the stake that you have. But if you do not cast your vote, your trusted validator will still represent you in the vote.&#x20;
 
-There are multiple ways to vote for a proposal, we suggest using [dao.like.co](https://dao.like.co/welcome) together with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/). You may also want to use:
+There are multiple ways to vote for a proposal, **we suggest using** [**dao.like.co**](direct-vote.md#vote-via-dao.like.co) together with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/).&#x20;
 
+You can also vote directly with [Leap Browser Extension](direct-vote.md#delegate-via-leap-browser-extension).
+
+#### You may also want to vote with web dashboard:&#x20;
+
+For [Keplr Browser Extension](../wallet/keplr/)
+
+* Keplr Dashboard - [https://wallet.keplr.app/](https://wallet.keplr.app/)
 * Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
 * ping.pub - [https://ping.pub/](https://ping.pub/)
+
+For [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/), [Leap Browser Extension](../wallet/leap/)
+
 * Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)
 
-Or else use [Cosmostation app](../wallet/cosmostation-app/) to vote.
+#### Additionally, you may also use your mobile to vote:
+
+* [Cosmostation app](direct-vote.md#vote-via-cosmostation-app)
 
 ## Vote via dao.like.co
 

@@ -6,27 +6,37 @@ description: >-
 
 # Delegation of LikeCoin
 
-Delegation / Staking means delegating LikeCoin to one or more [validators](../governance/what-is-a-validator/) to earn rewards. Likers who delegate LikeCoin to validators can directly vote for proposals or let the validators represent them to raise proposals and vote for or against them when they don't have time to handle it. Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) and is vital to the autonomy of the LikeCoin DAO.
+cDelegation / Staking means delegating LikeCoin to one or more [validators](../governance/what-is-a-validator/) to earn rewards. Likers who delegate LikeCoin to validators can directly vote for proposals or let the validators represent them to raise proposals and vote for or against them when they don't have time to handle it. Delegation demonstrates [liquid democracy](../governance/liquid-democracy.md) and is vital to the autonomy of the LikeCoin DAO.
 
 {% content-ref url="../governance/direct-vote.md" %}
 [direct-vote.md](../governance/direct-vote.md)
 {% endcontent-ref %}
 
-There are several ways to stake LikeCoin. We suggest using [dao.like.co](delegation-of-likecoin.md#delegate-via-dao.like.co) together with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to delegate.
+There are several ways to stake LikeCoin. **We suggest using** [**dao.like.co**](delegation-of-likecoin.md#delegate-via-dao.like.co) together with [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../user-guide/liker-id/register/) to delegate.
 
 You can also delegate directly with [Leap Browser Extension](delegation-of-likecoin.md#delegate-via-leap-browser-extension).
 
-Additionally, you may also use your mobile to delegate:
+#### You may also want to manage your LikeCoin with web dashboard:
 
-* [Cosmostation app](delegation-of-likecoin.md#delegate-via-cosmostation-app)
-* [Liker Land app](delegation-of-likecoin.md#delegate-via-liker-land)
+For [Keplr Browser Extension](../wallet/keplr/)
 
-&#x20;You may also want to manage your LikeCoin with [Keplr Browser Extension](../wallet/keplr/) and:
-
+* Keplr Dashboard - [https://wallet.keplr.app/](https://wallet.keplr.app/)
 * Omniflix - [https://likecoin.omniflix.co/](https://likecoin.omniflix.co/)
 * BitSong - [https://wallet.bitsong.io/](https://wallet.bitsong.io/)&#x20;
 * ping.pub - [https://ping.pub/](https://ping.pub/)
+
+For [Cosmostation Browser Extension](../wallet/cosmostation/)
+
+* Cosmostation Web Wallet - [https://wallet.cosmostation.io/](https://wallet.cosmostation.io/cosmos)
+
+For [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/), [Leap Browser Extension](../wallet/leap/)
+
 * Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)
+
+#### Additionally, you may also use your mobile to delegate:
+
+* [Cosmostation app](delegation-of-likecoin.md#delegate-via-cosmostation-app)
+* [Liker Land app](delegation-of-likecoin.md#delegate-via-liker-land)
 
 {% hint style="success" %}
 [Transaction fees](../wallet/transaction-fee.md) are required for ‌Delegate and Withdraw Rewards.
@@ -112,6 +122,82 @@ Cosmostation users can withdraw rewards directly on Cosmostation by clicking "Cl
 
 <figure><img src="../../.gitbook/assets/cosmostation withdraw rewards.png" alt=""><figcaption><p>Withdraw rewards directly on Cosmostation by clicking "Claim Reward"</p></figcaption></figure>
 
+## Delegate via Keplr Dashboard
+
+### Step 1: Log in to Keplr Dashboard
+
+After logging in to Keplr, click on "Manage Portfolio in Keplr Dashboard".
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard.png" alt=""><figcaption><p>Click on "Manage Portfolio in Keplr Dashboard</p></figcaption></figure>
+
+Choose LikeCoin in the Chains section or directly go to [https://wallet.keplr.app/chains/likecoin](https://wallet.keplr.app/chains/likecoin).
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 1.png" alt=""><figcaption><p>Choose LikeCoin in the Chains section or directly go to https://wallet.keplr.app/chains/likecoin</p></figcaption></figure>
+
+### Step 2: Select a Validator
+
+In the "All Validators" section, choose the validator you want to delegate to and click "Delegate".
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 2.png" alt=""><figcaption><p>Choose the validator to delegate to</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 3.png" alt=""><figcaption><p>Click "Delegate"</p></figcaption></figure>
+
+### Step 3: Decide the amount to delegate
+
+Enter the amount of LikeCoin you want to delegate and click "Delegate".
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 4.png" alt=""><figcaption><p>Enter the amount of LikeCoin to delegate and click "Delegate"</p></figcaption></figure>
+
+### Step 4: Confirm the amount, transaction fee, and complete the delegation
+
+The estimated transaction fee is displayed; click "Approve" to complete the delegation.
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 5.png" alt=""><figcaption><p>Click "Approve" to complete the delegation</p></figcaption></figure>
+
+### Step 5: Check your delegation and Withdraw Rewards
+
+In the "My Validators" section, you can view the validators you have delegated to and the delegated amount. Click "Claim" to withdraw your rewards.
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 6.png" alt=""><figcaption><p>Click "Claim" to withdraw rewards</p></figcaption></figure>
+
+## Delegate via Leap Browser Extension
+
+### Step 1: Login Leap Browser Extension
+
+Log in to the [Leap Browser Extension](../wallet/leap/), click "Stake".
+
+<figure><img src="../../.gitbook/assets/leap delegate 1.png" alt=""><figcaption><p>Click "Stake"</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/leap delegate 2.png" alt=""><figcaption><p>Click "Stake"</p></figcaption></figure>
+
+### Step 2: Select a validator
+
+Select a validator by choosing one from the "Choose a Validator" page.
+
+<figure><img src="../../.gitbook/assets/leap delegate 3.png" alt=""><figcaption><p>Select a validator by choosing one from the "Choose a Validator" page</p></figcaption></figure>
+
+### Step 3: Decide the amount to delegate
+
+Enter the amount of LikeCoin you want to delegate and click "Review".
+
+<figure><img src="../../.gitbook/assets/leap delegate 4.png" alt=""><figcaption><p>Enter the amount of LikeCoin you want to delegate and click "Review"</p></figcaption></figure>
+
+### Step 4: Confirm the amount, transaction fee, and complete the delegation
+
+The estimated [transaction fee](../wallet/transaction-fee.md) is displayed; click "Stake LIKE" to complete the delegation.
+
+<figure><img src="../../.gitbook/assets/leap delegate 5.png" alt=""><figcaption><p>Click "Stake LIKE" to complete the delegation</p></figcaption></figure>
+
+### Step 5: Check your delegation and Withdraw Rewards
+
+Breakdown by Validator on the Stake page showing the successful delegated validator(s) and delegation amount. Click "Claim" to withdraw the reward.
+
+<figure><img src="../../.gitbook/assets/leap delegate 6.png" alt=""><figcaption><p>Click "Claim" on the Stake page</p></figcaption></figure>
+
+The number of rewards that can be claimed will appear. Click "Claim Rewards" to claim them.
+
+<figure><img src="../../.gitbook/assets/leap delegate 7.png" alt=""><figcaption><p>Click "Claim Rewards"</p></figcaption></figure>
+
 ## Delegate via Cosmostation app
 
 ### Step 1: Login Cosmostation app
@@ -181,44 +267,6 @@ Alternatively, click on each validator to "Claim Reward" or "Compounding" one by
 On the CLAIM REWARD or Compounding page, click "Next" and then "Confirm" to withdraw rewards.
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 12.png" alt=""><figcaption><p>Click "Next" and then "Confirm" to withdraw rewards</p></figcaption></figure>
-
-## Delegate via Leap Browser Extension
-
-### Step 1: Login Leap Browser Extension
-
-Log in to the [Leap Browser Extension](../wallet/leap/), click "Stake".
-
-<figure><img src="../../.gitbook/assets/leap delegate 1.png" alt=""><figcaption><p>Click "Stake"</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/leap delegate 2.png" alt=""><figcaption><p>Click "Stake"</p></figcaption></figure>
-
-### Step 2: Select a validator
-
-Select a validator by choosing one from the "Choose a Validator" page.
-
-<figure><img src="../../.gitbook/assets/leap delegate 3.png" alt=""><figcaption><p>Select a validator by choosing one from the "Choose a Validator" page</p></figcaption></figure>
-
-### Step 3: Decide the amount to delegate
-
-Enter the amount of LikeCoin you want to delegate and click "Review".
-
-<figure><img src="../../.gitbook/assets/leap delegate 4.png" alt=""><figcaption><p>Enter the amount of LikeCoin you want to delegate and click "Review"</p></figcaption></figure>
-
-### Step 4: Confirm the amount, transaction fee, and complete the delegation
-
-The estimated [transaction fee](../wallet/transaction-fee.md) is displayed; click "Stake LIKE" to complete the delegation.
-
-<figure><img src="../../.gitbook/assets/leap delegate 5.png" alt=""><figcaption><p>Click "Stake LIKE" to complete the delegation</p></figcaption></figure>
-
-### Step 5: Withdraw Rewards
-
-Click "Claim" on the Stake page.
-
-<figure><img src="../../.gitbook/assets/leap delegate 6.png" alt=""><figcaption><p>Click "Claim" on the Stake page</p></figcaption></figure>
-
-The number of rewards that can be claimed will appear. Click "Claim Rewards" to claim them.
-
-<figure><img src="../../.gitbook/assets/leap delegate 7.png" alt=""><figcaption><p>Click "Claim Rewards"</p></figcaption></figure>
 
 ## Delegate via Liker Land
 

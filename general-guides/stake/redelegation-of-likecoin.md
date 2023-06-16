@@ -4,9 +4,9 @@ description: Transfer the delegated LikeCoin to another validator
 
 # Redelegation of LikeCoin
 
-## Important note **regarding Redelegation**.
+## Important note **regarding Redelegation**
 
-If you previously delegated some LikeCoin to your new validator, the newly delegated LikeCoin will freeze the total LikeCoin amount for 21 days. Please make your decision carefully.
+If you previously delegated some LikeCoin to your new validator, the newly delegated LikeCoin **will freeze the total LikeCoin amount for 21 days**. Please make your decision carefully.
 
 {% hint style="success" %}
 A [transaction fee](../wallet/transaction-fee.md) is required to redelegate LikeCoin
@@ -46,37 +46,43 @@ After the "Sent and confirming" message appears, "Successfully restaked!" will a
 
 ![Sent and confirming](<../../.gitbook/assets/dao.like.co restake 05.png>) ![Successfully restaked!](<../../.gitbook/assets/dao.like.co restake 06.png>)
 
-## **Redelegate via Cosmostation app**
+## Redelegate via Keplr Dashboard
 
-### Step 1: Login Cosmostation app
+### Step 1: Log in to Keplr Dashboard
 
-On the Cosmostation app, click on "Delegate".
+After logging in to Keplr, click on "Manage Portfolio in Keplr Dashboard".
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption><p>Click "Delegate"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Dashboard.png" alt=""><figcaption><p>Click on "Manage Portfolio in Keplr Dashboard</p></figcaption></figure>
+
+Choose LikeCoin in the Chains section or directly go to [https://wallet.keplr.app/chains/likecoin](https://wallet.keplr.app/chains/likecoin).
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 1.png" alt=""><figcaption><p>Choose LikeCoin in the Chains section or directly go to https://wallet.keplr.app/chains/likecoin</p></figcaption></figure>
 
 ### Step 2: Select the validator with delegation
 
-On the "My" tab of the Validator List, click on the validator that you have staked.
+In the "All Validators" section, choose the validator from whom you have already delegated and click "Redelegate".
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>On the "My" tab of the Validator List, click on the validator that you have staked</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 2.png" alt=""><figcaption><p>In the "All Validators" section, choose the validator from whom you have already delegated</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Redekegate 1.png" alt=""><figcaption><p>Click "Redelegate"</p></figcaption></figure>
 
 ### Step 3: Redelegate
 
-Click "REDELEGATE".
+On the "Redelegate to" page, select the validator that you want to redelegate to and click "Next".
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 1.png" alt=""><figcaption><p>Click "REDELEGATE"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Redekegate 2.png" alt=""><figcaption><p>Select the validator to redelegate to and click "Next"</p></figcaption></figure>
 
 ### Step 4: Decide the amount to redelegate
 
-The "REDELEGATE" page will appear, enter the amount of LikeCoin you want to redelegate and then click "Next"
+Enter the amount of LikeCoin you want to redelegate and click "Redelegate".
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 2.png" alt=""><figcaption><p>Enter the amount of LikeCoin you want to redelegate and then click "Next"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Redekegate 3.png" alt=""><figcaption><p>Enter the amount of LikeCoin to redelegate and click "Redelegate"</p></figcaption></figure>
 
-### Step 5: Select the new validator to delegate
+### Step 5: Confirm redelegation
 
-Select the validator that you want to redelegate to and click "Next" then confirm ( Reference to [Step 4-7 in Delegate via Cosmostation app](delegation-of-likecoin.md#step-4-decide-the-amount-to-delegate-1) ) to complete the redelegation.
+Review all the details andClick "Approve" to complete the redelegation
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 3.png" alt=""><figcaption><p>Select the validator that you want to redelegate to and click "Next"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Redekegate 4.png" alt=""><figcaption><p>Click "Approve" to complete the redelegation</p></figcaption></figure>
 
 ## Redelegate via Leap Browser Extension
 
@@ -115,6 +121,38 @@ Enter the amount of LikeCoin you want to redelegate and click "Review".
 Click "Switch Validator" to confirm the redelegation.
 
 <figure><img src="../../.gitbook/assets/leap redelegate 5.png" alt=""><figcaption><p>Click "Switch Validator" to confirm the redelegation</p></figcaption></figure>
+
+## **Redelegate via Cosmostation app**
+
+### Step 1: Login Cosmostation app
+
+On the Cosmostation app, click on "Delegate".
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption><p>Click "Delegate"</p></figcaption></figure>
+
+### Step 2: Select the validator with delegation
+
+On the "My" tab of the Validator List, click on the validator that you have staked.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>On the "My" tab of the Validator List, click on the validator that you have staked</p></figcaption></figure>
+
+### Step 3: Redelegate
+
+Click "REDELEGATE".
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 1.png" alt=""><figcaption><p>Click "REDELEGATE"</p></figcaption></figure>
+
+### Step 4: Decide the amount to redelegate
+
+The "REDELEGATE" page will appear, enter the amount of LikeCoin you want to redelegate and then click "Next"
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 2.png" alt=""><figcaption><p>Enter the amount of LikeCoin you want to redelegate and then click "Next"</p></figcaption></figure>
+
+### Step 5: Select the new validator to delegate
+
+Select the validator that you want to redelegate to and click "Next" then confirm ( Reference to [Step 4-7 in Delegate via Cosmostation app](delegation-of-likecoin.md#step-4-decide-the-amount-to-delegate-1) ) to complete the redelegation.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 3.png" alt=""><figcaption><p>Select the validator that you want to redelegate to and click "Next"</p></figcaption></figure>
 
 ## **Redelegate via Liker Land**
 

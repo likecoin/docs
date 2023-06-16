@@ -57,31 +57,41 @@ After the message "Sent and confirming" appears, "Successfully unstaked!" will c
 
 ![Sent and confirming](<../../.gitbook/assets/dao.like.co unstake 05.png>) ![Successfully unstaked!](<../../.gitbook/assets/dao.like.co unstake 06.png>)
 
-## **Undelegate via Cosmostation app**
+## Undelegate via Keplr Dashboard
 
-### Step 1: Login Cosmostation app
+### Step 1: Log in to Keplr Dashboard
 
-On the [Cosmostation app](../wallet/cosmostation-app/), click "Delegate".
+After logging in to Keplr, click on "Manage Portfolio in Keplr Dashboard".
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption><p>click "Delegate"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Dashboard.png" alt=""><figcaption><p>Click on "Manage Portfolio in Keplr Dashboard</p></figcaption></figure>
+
+Choose LikeCoin in the Chains section or directly go to [https://wallet.keplr.app/chains/likecoin](https://wallet.keplr.app/chains/likecoin).
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 1.png" alt=""><figcaption><p>Choose LikeCoin in the Chains section or directly go to https://wallet.keplr.app/chains/likecoin</p></figcaption></figure>
 
 ### Step 2: Select the validator with delegation
 
-On the "My" of the Validator List click the validator that you have to undelegate.
+In the "All Validators" section, choose the validator from whom you want to undelegate and click "Undelegate".
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>On the "My" of the Validator List click the validator that you have to undelegate</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 2.png" alt=""><figcaption><p>In the "All Validators" section, choose the validator from whom you want to undelegate</p></figcaption></figure>
 
-### Step 3: Undelegate
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Undelegate 1.png" alt=""><figcaption><p>Click "Undelegate"</p></figcaption></figure>
 
-Click "UNDELEGATE".
+### Step 3: Decide the amount to undelegate
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 2.png" alt=""><figcaption><p>Click "UNDELEGATE"</p></figcaption></figure>
+Enter the amount of LikeCoin you want to undelegate and click "Undelegate".
 
-### Step 4: Decide the amount to undelegate
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Undelegate 2.png" alt=""><figcaption><p>Enter the amount of LikeCoin to undelegate and click "Undelegate"</p></figcaption></figure>
 
-The UNDELEGATE page appears, enter the amount of LikeCoin you want to undelegate, and click "Next" then confirm ( Reference to the [Step 4-7 in Delegate via Cosmostation app](delegation-of-likecoin.md#step-4-decide-the-amount-to-delegate-1) ) to undelegate.
+### Step 4: Confirm Undelegation
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption><p>Enter the amount of LikeCoin you want to undelegate, and click "Next"</p></figcaption></figure>
+Click "Approve" to confirm the undelegation.
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Undelegate 3.png" alt=""><figcaption><p>Click "Approve" to confirm the undelegation</p></figcaption></figure>
+
+The Unstaking section will display the amount of LikeCoin being undelegated and the estimated time required for the process.
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Undelegate 4.png" alt=""><figcaption><p>The Unstaking section will display the amount of LikeCoin being undelegated and the estimated time required for the process</p></figcaption></figure>
 
 ## Undelegate via Leap Browser Extension
 
@@ -108,6 +118,32 @@ The Unstake page appears, enter the amount of LikeCoin you want to undelegate, a
 Click "Unstake LIKE" to undelegate your LikeCoin.
 
 <figure><img src="../../.gitbook/assets/leap undelegate 2.png" alt=""><figcaption><p>Click "Unstake LIKE" to undelegate your LikeCoin</p></figcaption></figure>
+
+## **Undelegate via Cosmostation app**
+
+### Step 1: Login Cosmostation app
+
+On the [Cosmostation app](../wallet/cosmostation-app/), click "Delegate".
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption><p>click "Delegate"</p></figcaption></figure>
+
+### Step 2: Select the validator with delegation
+
+On the "My" of the Validator List click the validator that you have to undelegate.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>On the "My" of the Validator List click the validator that you have to undelegate</p></figcaption></figure>
+
+### Step 3: Undelegate
+
+Click "UNDELEGATE".
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 2.png" alt=""><figcaption><p>Click "UNDELEGATE"</p></figcaption></figure>
+
+### Step 4: Decide the amount to undelegate
+
+The UNDELEGATE page appears, enter the amount of LikeCoin you want to undelegate, and click "Next" then confirm ( Reference to the [Step 4-7 in Delegate via Cosmostation app](delegation-of-likecoin.md#step-4-decide-the-amount-to-delegate-1) ) to undelegate.
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption><p>Enter the amount of LikeCoin you want to undelegate, and click "Next"</p></figcaption></figure>
 
 ## **Undelegate via Liker Land**
 
