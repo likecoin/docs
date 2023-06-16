@@ -103,7 +103,7 @@ Click "Approve" again to link the account and login.
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 4-en.png" alt=""><figcaption><p>Then click "Approve" to link the account</p></figcaption></figure>
 
 {% hint style="warning" %}
-If there is connection problem, go to "Settings" "Wallet Connect" and click X to close the existing connection and try again.
+If there is a connection problem, go to "Settings" "Wallet Connect" and click X to close the existing connection and try again.
 
 <img src="../../../.gitbook/assets/Liker Land app Wallet Connect.png" alt="" data-size="original">
 {% endhint %}
