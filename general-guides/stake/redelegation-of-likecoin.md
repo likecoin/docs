@@ -46,6 +46,82 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 
 ![Sent and confirming](<../../.gitbook/assets/dao.like.co restake 05.png>) ![Successfully restaked! 順利轉移委託](<../../.gitbook/assets/dao.like.co restake 06.png>)
 
+## 使用 Keplr Dashboard 轉移委託 LikeCoin
+
+### 步驟一：登入 Keplr Dashboard
+
+登入 Keplr 後點「Manage Portfolio in Keplr Dashboard」。
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard.png" alt=""><figcaption><p>點「Manage Portfolio in Keplr Dashboard」</p></figcaption></figure>
+
+於 Chains 選擇 LikeCoin 或直接到 [https://wallet.keplr.app/chains/likecoin](https://wallet.keplr.app/chains/likecoin)。
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 1.png" alt=""><figcaption><p>於 Chains 選擇 LikeCoin 或直接到 https://wallet.keplr.app/chains/likecoin</p></figcaption></figure>
+
+### 步驟二：選擇已委託的驗證人
+
+在 All Valdiators 選擇你已委託的驗證人，點「Redelegate」。
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 2.png" alt=""><figcaption><p>在 All Valdiators 選擇你已委託的驗證人</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Redekegate 1.png" alt=""><figcaption><p>點「Redelegate」</p></figcaption></figure>
+
+### 步驟三：選擇新驗證人
+
+在 Redelegate to 頁面選擇轉移委託的新驗證人，然後點「Next」。
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Redekegate 2.png" alt=""><figcaption><p>選擇轉移委託的新驗證人，然後點「Next」</p></figcaption></figure>
+
+### 步驟四：輸入轉移委託金額
+
+輸入你所需要轉移委託的 LikeCoin 數量，點「Redelegate」。
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Redekegate 3.png" alt=""><figcaption><p>輸入需要轉移委託的 LikeCoin 數量，點「Redelegate」</p></figcaption></figure>
+
+### 步驟五：確認轉移
+
+查看一切無誤後，點「Approve」確認轉移委託。
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Redekegate 4.png" alt=""><figcaption><p>點「Approve」確認轉移委託</p></figcaption></figure>
+
+## 使用 Leap Browser Extension 轉移委託 <a href="#redelegate-via-leap" id="redelegate-via-leap"></a>
+
+### 步驟一：登入 Leap Browser Extension
+
+打開 [Leap Browser Extension](../wallet/leap/)，點「Stake」。
+
+<figure><img src="../../.gitbook/assets/leap delegate 1.png" alt=""><figcaption><p>點「Stake」</p></figcaption></figure>
+
+### 步驟二：選擇已委託的驗證人
+
+在 Breakdown by Validator 選擇已委託的驗證人。
+
+<figure><img src="../../.gitbook/assets/leap redelegate 1.png" alt=""><figcaption><p>在 Breakdown by Validator 選擇已委託的驗證人</p></figcaption></figure>
+
+### 步驟三：開始轉移委託
+
+點「Switch Validator」。
+
+<figure><img src="../../.gitbook/assets/leap redelegate 2.png" alt=""><figcaption><p>點「Switch Validator」</p></figcaption></figure>
+
+### 步驟四：選擇新驗證人
+
+在 Switch Validator 頁面選擇轉移委託的新驗證人。
+
+<figure><img src="../../.gitbook/assets/leap redelegate 3.png" alt=""><figcaption><p>在 Switch Validator 頁面選擇轉移委託的新驗證人</p></figcaption></figure>
+
+### 步驟五：輸入轉移委託金額
+
+輸入你所需要轉移委託的 LikeCoin 數量，點「Review」。
+
+<figure><img src="../../.gitbook/assets/leap redelegate 4.png" alt=""><figcaption><p>輸入需要轉移委託的 LikeCoin 數量，點「Review」</p></figcaption></figure>
+
+### 步驟六：確認轉移
+
+查看一切無誤後，點「Switch Validator」確認轉移委託。
+
+<figure><img src="../../.gitbook/assets/leap redelegate 5.png" alt=""><figcaption><p>點「Switch Validator」確認轉移委託</p></figcaption></figure>
+
 ## 使用 Cosmostation app 轉移委託 <a href="#redelegate-via-cosmostation-app" id="redelegate-via-cosmostation-app"></a>
 
 ### 步驟一：登入 Cosmostation app
@@ -77,44 +153,6 @@ description: 把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證
 選擇需要轉移委託的新驗證人，點「Next」再進行確認（其他細節請參考[使用 Cosmostation app 委託 LikeCoin 步驟四至七](delegation-of-likecoin.md#bu-zhou-si-shu-ru-wei-tuo-jin-e-1)）即可轉移委託。
 
 <figure><img src="../../.gitbook/assets/Cosmostation mobile redelegate 3.png" alt=""><figcaption><p>選擇需要轉移委託的新驗證人，點「Next」確認</p></figcaption></figure>
-
-## 使用 Leap Browser Extension 轉移委託 <a href="#redelegate-via-leap" id="redelegate-via-leap"></a>
-
-### 步驟一：登入 Leap Browser Extension
-
-打開 [Leap Browser Extension](../wallet/leap/)，點「Stake」。
-
-<figure><img src="../../.gitbook/assets/leap delegate 1.png" alt=""><figcaption><p>點「Stake」</p></figcaption></figure>
-
-### 步驟二：選擇已委託的驗證人
-
-在 Breakdown by Validator 選擇已委託的驗證人。
-
-<figure><img src="../../.gitbook/assets/leap redelegate 1.png" alt=""><figcaption><p>在 Breakdown by Validator 選擇已委託的驗證人</p></figcaption></figure>
-
-### 步驟三：開始轉移委託
-
-點「Switch Validator」。
-
-<figure><img src="../../.gitbook/assets/leap redelegate 2.png" alt=""><figcaption><p>點「Switch Validator」</p></figcaption></figure>
-
-### 步驟四：選擇新驗證人
-
-在 Switch Validator 頁面選擇需要轉移委託的新驗證人。
-
-<figure><img src="../../.gitbook/assets/leap redelegate 3.png" alt=""><figcaption><p>在 Switch Validator 頁面選擇需要轉移委託的新驗證人</p></figcaption></figure>
-
-### 步驟五：輸入轉移委託金額
-
-輸入你所需要轉移委託的 LikeCoin 數量，點「Review」。
-
-<figure><img src="../../.gitbook/assets/leap redelegate 4.png" alt=""><figcaption><p>輸入需要轉移委託的 LikeCoin 數量，點「Review」</p></figcaption></figure>
-
-### 步驟六：確認轉移
-
-查看一切無誤後，點「Switch Validator」確認轉移委託。
-
-<figure><img src="../../.gitbook/assets/leap redelegate 5.png" alt=""><figcaption><p>點「Switch Validator」確認轉移委託</p></figcaption></figure>
 
 ## 使用 Liker Land 轉移委託 <a href="#redelegate-via-liker-land" id="redelegate-via-liker-land"></a>
 

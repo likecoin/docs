@@ -61,31 +61,41 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 </div>
 
-## 使用 Cosmostation app 取回委託 <a href="#undelegate-via-cosmostation-app" id="undelegate-via-cosmostation-app"></a>
+## 使用 Keplr Dashboard 取回委託 LikeCoin
 
-### 步驟一：登入 Cosmostation app
+### 步驟一：登入 Keplr Dashboard
 
-打開 [Cosmostation app](../wallet/cosmostation-mobile/)，點「Delegate」。
+登入 Keplr 後點「Manage Portfolio in Keplr Dashboard」。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption><p>點「Delegate」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Dashboard.png" alt=""><figcaption><p>點「Manage Portfolio in Keplr Dashboard」</p></figcaption></figure>
+
+於 Chains 選擇 LikeCoin 或直接到 [https://wallet.keplr.app/chains/likecoin](https://wallet.keplr.app/chains/likecoin)。
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 1.png" alt=""><figcaption><p>於 Chains 選擇 LikeCoin 或直接到 https://wallet.keplr.app/chains/likecoin</p></figcaption></figure>
 
 ### 步驟二：選擇已委託的驗證人
 
-在 Validator List 的 「My」選擇需要取回委託的驗證人。
+在 All Valdiators 選擇你需要取回委託的驗證人，點「Undelegate」。
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>在 Validator List 的 「My」選擇需要取回委託的驗證人</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Dekegate 2.png" alt=""><figcaption><p>在 All Valdiators 選擇你需要取回委託的驗證人</p></figcaption></figure>
 
-### 步驟三：進行取回委託
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Undelegate 1.png" alt=""><figcaption><p>點「Undelegate」</p></figcaption></figure>
 
-點「UNDELEGATE」。
+### 步驟三：輸入取回委託金額
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 2.png" alt=""><figcaption><p>點「UNDELEGATE」</p></figcaption></figure>
+輸入你所需要解除委託的 LikeCoin 數量，點「Undelegate」。
 
-### 步驟四：輸入取回委託金額
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Undelegate 2.png" alt=""><figcaption><p>輸入你所需要解除委託的 LikeCoin 數量，點「Undelegate」</p></figcaption></figure>
 
-出現 UNDELEGATE 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Next」，再進行確認（其他細節請參考[使用 Cosmostation app 委託 LikeCoin 步驟四至七](delegation-of-likecoin.md#bu-zhou-si-shu-ru-wei-tuo-jin-e-1)）即可解除委託。
+### 步驟四：確認取回委託
 
-<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption><p>輸入需要解除委託的 LikeCoin 數量，點「Next」</p></figcaption></figure>
+點「Approve」取回委託。
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Undelegate 3.png" alt=""><figcaption><p>點「Approve」取回委託</p></figcaption></figure>
+
+在 Unstaking 顯示正在取回委託的 LikeCoin 數量及所需時間。
+
+<figure><img src="../../.gitbook/assets/Keplr Dashboard Undelegate 4.png" alt=""><figcaption><p>在 Unstaking 顯示正在取回委託的 LikeCoin 數量及所需時間</p></figcaption></figure>
 
 ## 使用 Leap Browser Extension 取回委託 <a href="#undelegate-via-leap" id="undelegate-via-leap"></a>
 
@@ -112,6 +122,32 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 點「Unstake LIKE」取回委託。
 
 <figure><img src="../../.gitbook/assets/leap undelegate 2.png" alt=""><figcaption><p>點「Unstake LIKE」取回委託</p></figcaption></figure>
+
+## 使用 Cosmostation app 取回委託 <a href="#undelegate-via-cosmostation-app" id="undelegate-via-cosmostation-app"></a>
+
+### 步驟一：登入 Cosmostation app
+
+打開 [Cosmostation app](../wallet/cosmostation-mobile/)，點「Delegate」。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile delegate 1.png" alt=""><figcaption><p>點「Delegate」</p></figcaption></figure>
+
+### 步驟二：選擇已委託的驗證人
+
+在 Validator List 的 「My」選擇需要取回委託的驗證人。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>在 Validator List 的 「My」選擇需要取回委託的驗證人</p></figcaption></figure>
+
+### 步驟三：執行取回委託
+
+點「UNDELEGATE」。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 2.png" alt=""><figcaption><p>點「UNDELEGATE」</p></figcaption></figure>
+
+### 步驟四：輸入取回委託金額
+
+出現 UNDELEGATE 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Next」，再進行確認（其他細節請參考[使用 Cosmostation app 委託 LikeCoin 步驟四至七](delegation-of-likecoin.md#bu-zhou-si-shu-ru-wei-tuo-jin-e-1)）即可解除委託。
+
+<figure><img src="../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption><p>輸入需要解除委託的 LikeCoin 數量，點「Next」</p></figcaption></figure>
 
 ## 使用 Liker Land app 取回委託 <a href="#undelegate-via-liker-land" id="undelegate-via-liker-land"></a>
 
