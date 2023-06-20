@@ -6,7 +6,9 @@ description: 在 Keplr 導入助記詞或私鑰並建立錢包
 
 請跟隨以下步驟將助記詞或私鑰導入 Keplr：
 
-## 情境一：重新安裝 Keplr 並導入錢包
+## 安裝 Keplr 瀏覽器擴充功能後導入錢包
+
+### 情境一：以助記詞方式導入錢包
 
 [安裝 Keplr 瀏覽器擴充功能](how-to-install-keplr-extension.md)後直接點「Import an existing wallet」。
 
@@ -40,7 +42,13 @@ description: 在 Keplr 導入助記詞或私鑰並建立錢包
 
 <figure><img src="../../../.gitbook/assets/Keplr 13.png" alt=""><figcaption><p>錢包中出現 LikeCoin 表示經已成功導入錢包</p></figcaption></figure>
 
-## 情境二：導入多於一個錢包
+### 情境二：以 Google 帳戶回復錢包
+
+點「Sign in with Google」，並參照[以 Google 帳戶註冊新錢包](how-to-install-keplr-extension.md#fang-fa-er-yi-google-zhang-hu-zhu-ce-xin-qian-bao)的方式回復你的錢包。
+
+## 導入多於一個錢包
+
+你可以導入多於一個以助記詞或以 Google 帳戶註冊的錢包。以下使用助記詞作示範。
 
 打開 Keplr，點右上角人形圖案。
 
