@@ -6,7 +6,9 @@ description: Import recovery phrase or private key and create a Keplr wallet
 
 To import your recovery phrase or private key into Keplr, follow these steps:
 
-## Scenario 1: Reinstall Keplr and import wallet
+## Import wallet after installing the Keplr Browser Extension
+
+### Scenario 1: Import wallet by recovery phrase
 
 Click "Import an existing wallet" directly after [installing the Keplr Browser Extension](how-to-install-keplr-extension.md).
 
@@ -40,7 +42,13 @@ You will now see LikeCoin in your wallet, indicating that Keplr has been success
 
 <figure><img src="../../../.gitbook/assets/Keplr 13.png" alt=""><figcaption><p>Keplr has been successfully reinstalled with LikeCoin</p></figcaption></figure>
 
-## Scenario 2: Import more than one wallet
+### Scenario 2: Recover the wallet created with Google
+
+Click "Sign in with Google", and recover your wallet in the same way as [creating a new wallet via Google One-Click Login](how-to-install-keplr-extension.md#method-2-creating-a-new-wallet-via-google-one-click-login).
+
+## Import more than one wallet
+
+You can import more than one wallet created by recovery phrase or Google login. Recovery Phrase is used in the following as an example.
 
 Click the icon in the upper right corner of the Keplr wallet.
 
