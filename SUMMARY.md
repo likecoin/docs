@@ -123,6 +123,7 @@
     * [Import wallet into Keplr](general-guides/wallet/keplr/import-wallet-into-keplr.md)
   * [Keplr Mobile Wallet](general-guides/wallet/keplr-mobile/README.md)
     * [How to install Keplr Mobile](general-guides/wallet/keplr-mobile/how-to-install-keplr-mobile.md)
+    * [Keplr Mobile: Deposit and Send LikeCoin](general-guides/wallet/keplr-mobile/keplr-mobile-deposit-and-send-likecoin.md)
     * [Import wallet into Keplr Mobile](general-guides/wallet/keplr-mobile/import-wallet-into-keplr-mobile.md)
   * [Cosmostation Browser Extension Wallet](general-guides/wallet/cosmostation/README.md)
     * [How to install Cosmostation Browser Extension](general-guides/wallet/cosmostation/how-to-install-cosmostation-extension.md)

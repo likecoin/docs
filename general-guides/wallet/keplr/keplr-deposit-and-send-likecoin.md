@@ -54,7 +54,7 @@ You can send LikeCoin from Keplr to another wallet that supports the LikeCoin ch
 
 ### Step 2
 
-The Send page will appear. Asset displaying your LikeCoin balance. Fill in the recipient's wallet address, the amount of LikeCoin to be sent, and optionally fill in any required tag/memo for the recipient. The estimated [transaction fee](../transaction-fee.md) will be displayed, so please ensure you have enough LIKE reserved for it. Then, click "Send".
+The Send page will appear. Asset displaying your LikeCoin balance. Fill in the recipient's wallet address, the amount of LikeCoin to be sent, and optionally fill in any required tag/memo for the recipient. The estimated [transaction fee](../transaction-fee.md) will be displayed, so please ensure you have enough LIKE reserved for it. Then, click "Next".
 
 <figure><img src="../../../.gitbook/assets/Keplr Send 3 (1).png" alt=""><figcaption><p>Enter the transfer information</p></figcaption></figure>
 
