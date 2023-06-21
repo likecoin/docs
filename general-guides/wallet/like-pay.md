@@ -54,8 +54,8 @@ Connect to the payment page in the browser, with the format https://like.co/\[Li
 
 ## Other functions
 
-{% content-ref url="../stake/delegation-of-likecoin.md" %}
-[delegation-of-likecoin.md](../stake/delegation-of-likecoin.md)
+{% content-ref url="../stake/delegation-of-likecoin/" %}
+[delegation-of-likecoin](../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
 {% content-ref url="../decentralized-publishing/app.like.co.md" %}

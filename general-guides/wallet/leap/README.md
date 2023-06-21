@@ -20,8 +20,8 @@ Note that Leap does not support the registration of Liker ID yet.
 [leap-deposit-and-send-likecoin.md](leap-deposit-and-send-likecoin.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../stake/delegation-of-likecoin.md" %}
-[delegation-of-likecoin.md](../../stake/delegation-of-likecoin.md)
+{% content-ref url="../../stake/delegation-of-likecoin/" %}
+[delegation-of-likecoin](../../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
 ## Leap Mobile Wallet

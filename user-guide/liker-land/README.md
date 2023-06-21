@@ -18,7 +18,7 @@ In the Web3 world, a [wallet address](../../general-guides/wallet/wallet-address
 
 ## Manage LikeCoin Assets
 
-Liker Land functions as a crypto wallet, allowing you to check, receive, and [transfer LikeCoin](../../general-guides/wallet/like-pay.md) at any time. You can also [delegate LikeCoin](../../general-guides/stake/delegation-of-likecoin.md) to earn delegation rewards.
+Liker Land functions as a crypto wallet, allowing you to check, receive, and [transfer LikeCoin](../../general-guides/wallet/like-pay.md) at any time. You can also [delegate LikeCoin](../../general-guides/stake/delegation-of-likecoin/) to earn delegation rewards.
 
 ## Participate in Decentralized Publishing
 

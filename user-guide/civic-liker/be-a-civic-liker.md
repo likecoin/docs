@@ -66,12 +66,12 @@ Click "Portfolio" on the left-hand side menu, and you will see "You Stake" showi
 
 ## Become a Civic Liker by delegating with the Liker Land app
 
-For details, please refer to "[Delegate via Liker Land](../../general-guides/stake/delegation-of-likecoin.md)" and select the Civic Liker node to delegate.
+For details, please refer to "[Delegate via Liker Land](../../general-guides/stake/delegation-of-likecoin/)" and select the Civic Liker node to delegate.
 
 {% hint style="success" %}
 Civic Liker will take effect within 24 hours after the delegation is completed.
 {% endhint %}
 
 {% hint style="warning" %}
-If the user has already delegated to another validator, please [redelegate](../../general-guides/stake/redelegation-of-likecoin.md) instead of undelegate. Otherwise, you will need to wait for a 21-day cooling-off period before you can use the funds again.
+If the user has already delegated to another validator, please [redelegate](../../general-guides/stake/redelegation-of-likecoin/) instead of undelegate. Otherwise, you will need to wait for a 21-day cooling-off period before you can use the funds again.
 {% endhint %}

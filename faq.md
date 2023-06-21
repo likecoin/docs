@@ -54,7 +54,7 @@ description: Frequently Asked Questions
 
 ## [Stake](general-guides/stake/) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
-* [What is the advantage of delegating LikeCoin?](general-guides/stake/delegation-of-likecoin.md)
+* [What is the advantage of delegating LikeCoin?](general-guides/stake/delegation-of-likecoin/)
 * [Where comes the LikeCoin rewards?](general-guides/stake/where-comes-the-likecoin-rewards.md)
 
 ## [Governance](general-guides/governance/) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>

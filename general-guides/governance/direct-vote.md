@@ -35,8 +35,8 @@ For [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension
 
 Before voting please delegate your LikeCoin to any validators that you trust.
 
-{% content-ref url="../stake/delegation-of-likecoin.md" %}
-[delegation-of-likecoin.md](../stake/delegation-of-likecoin.md)
+{% content-ref url="../stake/delegation-of-likecoin/" %}
+[delegation-of-likecoin](../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
 ### Step 2: Log in to dao.like.co
@@ -97,8 +97,8 @@ On the left-hand side menu, select "Transactions" and check out your past voting
 
 Before voting please delegate your LikeCoin to any validators that you trust.
 
-{% content-ref url="../stake/delegation-of-likecoin.md" %}
-[delegation-of-likecoin.md](../stake/delegation-of-likecoin.md)
+{% content-ref url="../stake/delegation-of-likecoin/" %}
+[delegation-of-likecoin](../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
 ### Step 2: Login Cosmostation app
