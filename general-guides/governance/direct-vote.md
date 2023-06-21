@@ -35,8 +35,8 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 投票前請確認已委託 LikeCoin 予驗證人，委託給任何一個驗證人也是可以的。
 
-{% content-ref url="../stake/delegation-of-likecoin.md" %}
-[delegation-of-likecoin.md](../stake/delegation-of-likecoin.md)
+{% content-ref url="../stake/delegation-of-likecoin/" %}
+[delegation-of-likecoin](../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
 ### 步驟二：登入 dao.like.co
@@ -93,8 +93,8 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 投票前請確認已委託 LikeCoin 予驗證人，委託給任何一個驗證人也是可以的。
 
-{% content-ref url="../stake/delegation-of-likecoin.md" %}
-[delegation-of-likecoin.md](../stake/delegation-of-likecoin.md)
+{% content-ref url="../stake/delegation-of-likecoin/" %}
+[delegation-of-likecoin](../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
 ### 步驟二：登入 Cosmostation app

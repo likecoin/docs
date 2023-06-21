@@ -55,7 +55,7 @@ description: LikeCoin 常見問題
 
 ## [委託](general-guides/stake/)
 
-* [委託 LikeCoin 有什麼好處？](general-guides/stake/delegation-of-likecoin.md)
+* [委託 LikeCoin 有什麼好處？](general-guides/stake/delegation-of-likecoin/)
 * [因委託而產生的 LikeCoin 回報，錢從何來？](general-guides/stake/where-comes-the-likecoin-rewards.md)
 
 ## [治理](general-guides/governance/)

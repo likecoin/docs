@@ -20,7 +20,7 @@ description: 使用 Keplr Mobile 直接存入及轉帳 LikeCoin
 
 ### 步驟二
 
-出現 Send 頁面。Asset 顯示 LikeCoin 餘額。在 Recipient 填入收款方的錢包地址、Amount 填寫需要轉帳的 LikeCoin 數量、Memo 一欄填進收款方需要 Tag/Memo（如有）。下方顯示預計 Transaction Fee 手續費，請務必預留定夠數量後再點「Send」。
+出現 Send 頁面。Asset 顯示 LikeCoin 餘額。在 Recipient 填入收款方的錢包地址、Amount 填寫需要轉帳的 LikeCoin 數量、Memo 一欄填進收款方需要 Tag/Memo（如有）。下方顯示預計 Transaction Fee [手續費](../transaction-fee.md)，請務必預留定夠數量後再點「Send」。
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile send 2.png" alt=""><figcaption><p>輸入收款資料</p></figcaption></figure>
 

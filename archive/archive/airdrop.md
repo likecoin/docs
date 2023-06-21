@@ -14,7 +14,7 @@ description: 如何領取 LikeCoin 空投？
 
 * \#1 [Manage LikeCoin / 管理你的 LikeCoin](../../general-guides/wallet/)
 * \#2 [Decentralize Tweeting / 去中心推文](../../user-guide/depub.space/)
-* \#3 [Stake LikeCoin / 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin.md)
+* \#3 [Stake LikeCoin / 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin/)
 * \#4 [Vote on LikeCoin DAO 在 / LikeCoin DAO 進行投票](../../general-guides/governance/direct-vote.md)
 
 ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker ID](../../user-guide/liker-id/register-with-keplr.md) 的用戶可全程直接使用桌面電腦領取空投。
@@ -141,10 +141,10 @@ LikeCoin [去中心出版](../../general-guides/decentralized-publishing/)。 �
 
 ![](<../../.gitbook/assets/Airdrop 14.png>)
 
-點「Stake now」[委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin.md)，完成後點「Done」領取 25% 空投。更多委託教學請參看：
+點「Stake now」[委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin/)，完成後點「Done」領取 25% 空投。更多委託教學請參看：
 
-{% content-ref url="../../general-guides/stake/delegation-of-likecoin.md" %}
-[delegation-of-likecoin.md](../../general-guides/stake/delegation-of-likecoin.md)
+{% content-ref url="../../general-guides/stake/delegation-of-likecoin/" %}
+[delegation-of-likecoin](../../general-guides/stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
 ## #4 在 LikeCoin DAO 進行投票

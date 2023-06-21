@@ -21,7 +21,7 @@ description: 要去哪裏下載 Liker Land？
 ## 選項一：錢包管理
 
 * [LIKE Pay](../../general-guides/wallet/like-pay.md)
-* [委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin.md)
+* [委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin/)
 * [成為讚賞公民](../civic-liker/be-a-civic-liker.md)
 
 ## 選項二：NFT 書店

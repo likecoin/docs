@@ -58,8 +58,8 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 
 ## 其他操作
 
-{% content-ref url="../stake/delegation-of-likecoin.md" %}
-[delegation-of-likecoin.md](../stake/delegation-of-likecoin.md)
+{% content-ref url="../stake/delegation-of-likecoin/" %}
+[delegation-of-likecoin](../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
 {% content-ref url="../decentralized-publishing/app.like.co.md" %}

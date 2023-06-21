@@ -16,9 +16,9 @@ LikeCoin chain 按照用戶執行不同類型的動作和交易 ( transaction �
 
 * [轉帳 ( LIKE pay )](like-pay.md)：約 0.16 LIKE
 * [委託](../stake/)：約 0.32 LIKE
-* [取回委託](../stake/undelegation-of-likecoin.md)：約 0.4 LIKE&#x20;
-* [轉移委託](../stake/redelegation-of-likecoin.md)：約 0.55 LIKE
-* [領取收益](../stake/delegation-of-likecoin.md#bu-zhou-san-ling-qu-shou-yi-tang-zhu-zuan-hui-bao-ba)： 約 1.25 LIKE
+* [取回委託](../stake/undelegation-of-likecoin/)：約 0.4 LIKE&#x20;
+* [轉移委託](../stake/redelegation-of-likecoin/)：約 0.55 LIKE
+* [領取收益](../stake/delegation-of-likecoin/#bu-zhou-san-ling-qu-shou-yi-tang-zhu-zuan-hui-bao-ba)： 約 1.25 LIKE
 
 在 Liker Land 網頁或手機應用程式錢包確認轉帳、委託、取回委託、轉移委託或領取收益前都會顯示「詳細資料」，可點擊查看手續費的估算數值。
 

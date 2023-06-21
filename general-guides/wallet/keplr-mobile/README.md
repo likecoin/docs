@@ -11,3 +11,9 @@ Keplr Mobile 是 Keplr 的手機版錢包。通過移動設備裝置的便利，
 {% content-ref url="how-to-install-keplr-mobile.md" %}
 [how-to-install-keplr-mobile.md](how-to-install-keplr-mobile.md)
 {% endcontent-ref %}
+
+#### 存入、轉帳、委託 LikeCoin、投票及查看交易明細：
+
+{% content-ref url="keplr-mobile-deposit-and-send-likecoin.md" %}
+[keplr-mobile-deposit-and-send-likecoin.md](keplr-mobile-deposit-and-send-likecoin.md)
+{% endcontent-ref %}

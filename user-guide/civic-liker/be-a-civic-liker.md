@@ -66,12 +66,12 @@ description: 贊助創作者方法非常簡單
 
 ## 使用 Liker Land app 委託成為讚賞公民
 
-步驟詳見[使用 Liker Land app 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin.md#delegate-via-liker-land) 章節，選取名稱為 Civic Liker 讚賞公民節點進行委託即可。
+步驟詳見[使用 Liker Land app 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin/#delegate-via-liker-land) 章節，選取名稱為 Civic Liker 讚賞公民節點進行委託即可。
 
 {% hint style="success" %}
 滿足委託條件後，讚賞公民身份將於 24小時內生效。
 {% endhint %}
 
 {% hint style="warning" %}
-假如用戶經已委託了給別的驗證人，請善用[轉移委託](../../general-guides/stake/redelegation-of-likecoin.md)，而不是取回委託功能，否則需要等待 21 天冷卻期方可重新動用資金。
+假如用戶經已委託了給別的驗證人，請善用[轉移委託](../../general-guides/stake/redelegation-of-likecoin/)，而不是取回委託功能，否則需要等待 21 天冷卻期方可重新動用資金。
 {% endhint %}
