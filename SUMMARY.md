@@ -46,6 +46,7 @@
     * [在 Keplr 導入錢包](general-guides/wallet/keplr/import-wallet-into-keplr.md)
   * [Keplr 手機錢包](general-guides/wallet/keplr-mobile/README.md)
     * [安裝 Keplr 手機錢包](general-guides/wallet/keplr-mobile/how-to-install-keplr-mobile.md)
+    * [Keplr Mobile：存入及轉帳](general-guides/wallet/keplr-mobile/keplr-mobile-deposit-and-send-likecoin.md)
     * [在 Keplr Mobile 導入錢包](general-guides/wallet/keplr-mobile/import-wallet-into-keplr-mobile.md)
   * [Cosmostation 瀏覽器擴充功能](general-guides/wallet/cosmostation/README.md)
     * [安裝 Cosmostation 瀏覽器擴充功能](general-guides/wallet/cosmostation/how-to-install-cosmostation-extension.md)

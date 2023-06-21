@@ -4,7 +4,7 @@ description: 在 Cosmostation app 導入助記詞並建立錢包
 
 # 在 Cosmostation app 導入錢包
 
-## 導入錢包
+## 安裝 Cosmostation app 後導入錢包
 
 ### 步驟一：安裝 Cosmostation 手機應用程式
 

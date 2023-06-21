@@ -6,7 +6,7 @@ description: 在 Keplr Mobile 導入助記詞並建立錢包
 
 請跟隨以下步驟將助記詞或私鑰導入 Keplr Mobile：
 
-## 導入錢包
+## 安裝 Keplr Mobile 後導入錢包
 
 [安裝 Keplr Mobile](how-to-install-keplr-mobile.md) 後直接點「Import existing wallet」：
 
@@ -26,7 +26,7 @@ description: 在 Keplr Mobile 導入助記詞並建立錢包
 
 ### 情境二：使用 Keplr 瀏覽器擴充功能導入錢包
 
-在 Keplr Mobile 點「Import from Keplr Extension」。
+在 Keplr Mobile 點「Import from Keplr Extension」使用 [Keplr 瀏覽器擴充功能](../keplr/)連結並同步你的錢包。
 
 出現進一步指示然後點「Next」調用手機鏡頭。
 
