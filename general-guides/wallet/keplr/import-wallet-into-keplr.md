@@ -1,5 +1,5 @@
 ---
-description: Import recovery phrase or private key and create a Keplr wallet
+description: Import Recovery Phrase or Private Key and create a Keplr wallet
 ---
 
 # Import wallet into Keplr

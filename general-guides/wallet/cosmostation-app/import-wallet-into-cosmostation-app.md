@@ -1,5 +1,5 @@
 ---
-description: Import seed words and create Cosmostation app wallet
+description: Import Seed Words and create a Cosmostation app wallet
 ---
 
 # Import wallet into Cosmostation app

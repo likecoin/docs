@@ -99,7 +99,7 @@ You will now see LikeCoin in your wallet, indicating that Keplr has been success
 <figure><img src="../../../.gitbook/assets/Keplr 13.png" alt=""><figcaption><p>Keplr has been successfully installed with LikeCoin</p></figcaption></figure>
 
 {% hint style="danger" %}
-Keep in mind, the Keplr team does not keep record of this, so you'll need to remember which account you link.
+Please note that the Keplr team does not keep a record of this, so you'll need to remember which account you link.
 
 Please also keep your private key and password safe. If you lose them, you will not be able to manage your LikeCoin. No one can reset your wallet on your behalf.
 {% endhint %}
