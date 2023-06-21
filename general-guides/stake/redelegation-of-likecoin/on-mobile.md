@@ -4,7 +4,45 @@
 
 使用手機瀏覽器可於 [dao.like.co](https://dao.like.co/) 配合 [Authcore](../../../user-guide/liker-id/register/) 轉移委託，步驟與[使用桌機於 dao.like.co 轉移委託 LikeCoin](on-desktop.md#redelegate-via-dao.like.co) 相同。
 
-## 使用 Cosmostation app 轉移委託 <a href="#redelegate-via-cosmostation-app" id="redelegate-via-cosmostation-app"></a>
+## 使用 Keplr Mobile 轉移委託 <a href="#redelegate-via-cosmostation-app" id="redelegate-via-cosmostation-app"></a>
+
+### 步驟一：登入 Keplr Mobile
+
+打開 [Keplr Mobile](../../wallet/keplr-mobile/)，點「Staking」。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 1.png" alt=""><figcaption><p>點「Staking」</p></figcaption></figure>
+
+### 步驟二：選擇已委託的驗證人
+
+在 My Staking 點選你已委託的驗證人。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 2.png" alt=""><figcaption><p>在 My Staking 點選你已委託的驗證人</p></figcaption></figure>
+
+### 步驟三：進行轉移委託
+
+點「Switch Validator」。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 3.png" alt=""><figcaption><p>點「Switch Validator」</p></figcaption></figure>
+
+### 步驟四：選擇新的驗證人
+
+在 All Active Validators 頁面點選轉移委託的新驗證人。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 4.png" alt=""><figcaption><p>在 All Active Validators 頁面點選轉移委託的新驗證人</p></figcaption></figure>
+
+### 步驟五：輸入轉移委託金額
+
+輸入你所需要轉移委託的 LikeCoin 數量，點「Switch Validator」。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 5.png" alt=""><figcaption><p>輸入你所需要轉移委託的 LikeCoin 數量，點「Switch Validator」</p></figcaption></figure>
+
+### 步驟六：確認轉移
+
+查看一切無誤後，點「Approve」確認轉移委託。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 6.png" alt=""><figcaption><p>點「Approve」確認轉移委託</p></figcaption></figure>
+
+## 使用 Cosmostation app 轉移委託
 
 ### 步驟一：登入 Cosmostation app
 

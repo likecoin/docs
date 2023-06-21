@@ -8,7 +8,7 @@
 
 ### 步驟一：登入 Keplr Mobile
 
-打開 Keplr Mobile，點「Staking」。
+打開 [Keplr Mobile](../../wallet/keplr-mobile/)，點「Staking」。
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 1.png" alt=""><figcaption><p>點「Staking」</p></figcaption></figure>
 
@@ -35,6 +35,10 @@
 點「Approve」即可取回委託。
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 5.png" alt=""><figcaption><p>點「Approve」取回委託</p></figcaption></figure>
+
+取回委託後，Staking Dashboard 的 My Unstaking 將顯示正在取回委託的 LikeCoin 數量及所需時間。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 6.png" alt=""><figcaption></figcaption></figure>
 
 ## 使用 Cosmostation app 取回委託 <a href="#undelegate-via-cosmostation-app" id="undelegate-via-cosmostation-app"></a>
 
