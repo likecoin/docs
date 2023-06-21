@@ -4,6 +4,44 @@
 
 Using a mobile browser with [dao.like.co](https://dao.like.co/) can redelegate with [Authcore](../../../user-guide/liker-id/register/), and the steps are the same as [using a desktop computer to redelegate LikeCoin via dao.like.co](redelegate-on-desktop.md#redelegate-via-dao.like.co).
 
+## Redelegate via Keplr Mobile
+
+### Step 1: Login Keplr Mobile
+
+On Keplr Mobile, click "Staking".
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 1 (1).png" alt=""><figcaption><p>Click "Staking"</p></figcaption></figure>
+
+### Step 2: Select the validator with delegation
+
+In the All Active Validators section, choose the validator from whom you have already delegated.
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 2.png" alt=""><figcaption><p>In the All Active Validators section, choose the validator from whom you have already delegated</p></figcaption></figure>
+
+### Step 3: Undelegate
+
+Click "Switch Validator".
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 3.png" alt=""><figcaption><p>Click "Switch Validator"</p></figcaption></figure>
+
+### Step 4: Select the new validator to delegate
+
+On the "Redelegate to" page, select the validator that you want to redelegate to.
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 4.png" alt=""><figcaption><p>On the "Redelegate to" page, select the validator that you want to redelegate to</p></figcaption></figure>
+
+### Step 5: Decide the amount to redelegate
+
+Enter the amount of LikeCoin that you want to redelegate, then click on "Switch Validator".
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 5.png" alt=""><figcaption><p>Enter the amount of LikeCoin that you want to redelegate, then click on "Switch Validator"</p></figcaption></figure>
+
+### Step 6: Confirm redelegation
+
+Review all the details and click "Approve" to complete the redelegation process.
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 6.png" alt=""><figcaption><p>Click "Approve" to complete the redelegation</p></figcaption></figure>
+
 ## **Redelegate via Cosmostation app**
 
 ### Step 1: Login Cosmostation app

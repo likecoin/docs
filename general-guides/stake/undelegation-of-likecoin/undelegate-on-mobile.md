@@ -4,6 +4,42 @@
 
 Using a mobile browser with [dao.like.co](https://dao.like.co/) can undelegate with [Authcore](../../../user-guide/liker-id/register/), and the steps are the same as [using a desktop computer to undelegate LikeCoin via dao.like.co](undelegate-on-desktop.md#undelegate-via-dao.like.co).
 
+## Undelegate via Keplr Mobile
+
+### Step 1: Login Keplr Mobile
+
+On Keplr Mobile, click "Staking".
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 1.png" alt=""><figcaption><p>Click "Staking"</p></figcaption></figure>
+
+### Step 2: Select the validator with delegation
+
+In the "My Staking" section, choose on the validator from whom you want to undelegate.
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 2.png" alt=""><figcaption><p>In the "My Staking" section, choose on the validator from whom you want to undelegate</p></figcaption></figure>
+
+### Step 3: Undelegate
+
+Click "Unstake".
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 3.png" alt=""><figcaption><p>Click "Unstake"</p></figcaption></figure>
+
+### Step 4: Decide the amount to undelegate
+
+Enter the amount of LikeCoin that you want to undelegate and click "Unstake".
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 4.png" alt=""><figcaption><p>Enter the amount of LikeCoin that you want to undelegate and click "Unstake"</p></figcaption></figure>
+
+### Step 5: Confirm Undelegation
+
+Click "Approve" to confirm the undelegation.
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 5.png" alt=""><figcaption><p>Click "Approve" to confirm the undelegation</p></figcaption></figure>
+
+Once the undelegation is completed, the My Unstaking section will show the amount of LikeCoin being undelegated and provide an estimated time for the process to complete.
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 6.png" alt=""><figcaption><p>My Unstaking section will show the amount of LikeCoin being undelegated</p></figcaption></figure>
+
 ## **Undelegate via Cosmostation app**
 
 ### Step 1: Login Cosmostation app

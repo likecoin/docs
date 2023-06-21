@@ -68,7 +68,7 @@ Enter the amount of LikeCoin you want to redelegate and click "Redelegate".
 
 ### Step 5: Confirm redelegation
 
-Review all the details andClick "Approve" to complete the redelegation
+Review all the details and click "Approve" to complete the redelegation.
 
 <figure><img src="../../../.gitbook/assets/Keplr Dashboard Redekegate 4.png" alt=""><figcaption><p>Click "Approve" to complete the redelegation</p></figcaption></figure>
 

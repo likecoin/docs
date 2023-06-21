@@ -14,7 +14,7 @@ On [Keplr Mobile](../../wallet/keplr-mobile/), click "Stake".
 
 ### Step 2: Select a Validator
 
-In the "All Active Validators" choose the validator you want to delegate to.
+In the "All Active Validators", choose the validator you want to delegate to.
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile delegate 2.png" alt=""><figcaption><p>In the "All Active Validators" choose the validator you want to delegate to</p></figcaption></figure>
 

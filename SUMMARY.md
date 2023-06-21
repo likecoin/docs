@@ -162,7 +162,7 @@
   * [Osmosis](general-guides/liquidity/osmosis.md)
 * [Stake](general-guides/stake/README.md)
   * [Delegation of LikeCoin](general-guides/stake/delegation-of-likecoin/README.md)
-    * [Delegate on Desktop](general-guides/stake/delegation-of-likecoin/delegate-on-desktop.md)
+    * [Delegate on desktop](general-guides/stake/delegation-of-likecoin/delegate-on-desktop.md)
     * [Delegate on mobile](general-guides/stake/delegation-of-likecoin/delegate-on-mobile.md)
   * [Undelegation of LikeCoin](general-guides/stake/undelegation-of-likecoin/README.md)
     * [Undelegate on desktop](general-guides/stake/undelegation-of-likecoin/undelegate-on-desktop.md)
