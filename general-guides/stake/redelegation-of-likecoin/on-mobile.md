@@ -32,7 +32,7 @@
 
 ### 步驟五：選擇新的驗證人
 
-選擇需要轉移委託的新驗證人，點「Next」再進行確認（其他細節請參考[使用 Cosmostation app 委託 LikeCoin 步驟四至七](../delegation-of-likecoin/#bu-zhou-si-shu-ru-wei-tuo-jin-e-1)）即可轉移委託。
+選擇需要轉移委託的新驗證人，點「Next」再進行確認（其他細節請參考[使用 Cosmostation app 委託 LikeCoin 步驟四至七](../delegation-of-likecoin/on-mobile.md#delegate-via-cosmostation-app)）即可轉移委託。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile redelegate 3.png" alt=""><figcaption><p>選擇需要轉移委託的新驗證人，點「Next」確認</p></figcaption></figure>
 

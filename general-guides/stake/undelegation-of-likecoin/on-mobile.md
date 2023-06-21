@@ -4,6 +4,38 @@
 
 使用手機瀏覽器可於 [dao.like.co](https://dao.like.co/) 配合 [Authcore](../../../user-guide/liker-id/register/) 取回委託，步驟與[使用桌機於 dao.like.co 取回委託 LikeCoin](on-desktop.md#undelegate-via-dao.like.co) 相同。
 
+## 使用 Keplr Mobile 取回委託
+
+### 步驟一：登入 Keplr Mobile
+
+打開 Keplr Mobile，點「Staking」。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 1.png" alt=""><figcaption><p>點「Staking」</p></figcaption></figure>
+
+### 步驟二：選擇已委託的驗證人
+
+在 My Staking 點選你需要取回委託的驗證人。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 2.png" alt=""><figcaption><p>在 My Staking 點選你需要取回委託的驗證人</p></figcaption></figure>
+
+### 步驟三：執行取回委託
+
+點「Unstake」。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 3.png" alt=""><figcaption><p>點「Unstake」</p></figcaption></figure>
+
+### 步驟四：輸入取回委託金額
+
+輸入你所需要解除委託的 LikeCoin 數量，點「Unstake」。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 4.png" alt=""><figcaption><p>輸入你所需要解除委託的 LikeCoin 數量，點「Unstake」</p></figcaption></figure>
+
+### 步驟五：確認取回委託
+
+點「Approve」即可取回委託。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 5.png" alt=""><figcaption><p>點「Approve」取回委託</p></figcaption></figure>
+
 ## 使用 Cosmostation app 取回委託 <a href="#undelegate-via-cosmostation-app" id="undelegate-via-cosmostation-app"></a>
 
 ### 步驟一：登入 Cosmostation app
@@ -26,7 +58,7 @@
 
 ### 步驟四：輸入取回委託金額
 
-出現 UNDELEGATE 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Next」，再進行確認（其他細節請參考[使用 Cosmostation app 委託 LikeCoin 步驟四至七](../delegation-of-likecoin/#bu-zhou-si-shu-ru-wei-tuo-jin-e-1)）即可解除委託。
+出現 UNDELEGATE 頁面，輸入你所需要解除委託的 LikeCoin 數量，點「Next」，再進行確認（其他細節請參考[使用 Cosmostation app 委託 LikeCoin 步驟四至七](../delegation-of-likecoin/on-mobile.md#delegate-via-cosmostation-app)）即可取回委託。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption><p>輸入需要解除委託的 LikeCoin 數量，點「Next」</p></figcaption></figure>
 
