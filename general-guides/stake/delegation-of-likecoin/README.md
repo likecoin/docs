@@ -39,9 +39,9 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 ## 使用手機委託 LikeCoin
 
-使用手機瀏覽器可配合 [Authcore](../../../user-guide/liker-id/register/) 進行委託。
+使用手機瀏覽器於 [dao.like.co](https://dao.like.co/) 可配合 [Authcore](../../../user-guide/liker-id/register/) 進行委託。
 
-你也可以使用手機應用程式[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 及 [Liker Land app](../../../user-guide/liker-land/download.md) 進行委託。
+你也可以使用手機應用程式 [Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 及 [Liker Land app](../../../user-guide/liker-land/download.md) 進行委託。
 
 {% content-ref url="on-mobile.md" %}
 [on-mobile.md](on-mobile.md)
