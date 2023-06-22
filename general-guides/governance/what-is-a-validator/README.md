@@ -20,8 +20,8 @@ In order to achieve consensus within a community, some trusted parties need to r
 
 Liker endorsement is reflected through delegation. When a Liker delegates their LikeCoin to a validator, they are trusting the validator's technical ability, knowledge, and integrity, and allowing the validator to represent them
 
-{% content-ref url="../direct-vote.md" %}
-[direct-vote.md](../direct-vote.md)
+{% content-ref url="../direct-vote/" %}
+[direct-vote](../direct-vote/)
 {% endcontent-ref %}
 
 ## Validator Status

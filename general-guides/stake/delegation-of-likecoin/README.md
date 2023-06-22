@@ -8,8 +8,8 @@ description: >-
 
 cDelegation / Staking means delegating LikeCoin to one or more [validators](../../governance/what-is-a-validator/) to earn rewards. Likers who delegate LikeCoin to validators can directly vote for proposals or let the validators represent them to raise proposals and vote for or against them when they don't have time to handle it. Delegation demonstrates [liquid democracy](../../governance/liquid-democracy.md) and is vital to the autonomy of the LikeCoin DAO.
 
-{% content-ref url="../../governance/direct-vote.md" %}
-[direct-vote.md](../../governance/direct-vote.md)
+{% content-ref url="../../governance/direct-vote/" %}
+[direct-vote](../../governance/direct-vote/)
 {% endcontent-ref %}
 
 ## Delegation of LikeCoin on Desktop
@@ -41,9 +41,9 @@ For [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extens
 
 ## Delegation of LikeCoin on Mobile
 
-Using a mobile browser with [dao.like.co](../../wallet/block-explorer/dao.like.co.md) can delegate with [Authcore](../../../user-guide/liker-id/register/).
+Using a mobile browser with [dao.like.co](../../wallet/block-explorer/dao.like.co.md) can delegate by [Authcore](../../../user-guide/liker-id/register/).
 
-You can also your Keplr Mobile, [Cosmostation app](./#delegate-via-cosmostation-app) and [Liker Land app](./#delegate-via-liker-land) to delegate.
+You can also use Keplr Mobile, [Cosmostation app](./#delegate-via-cosmostation-app) and [Liker Land app](./#delegate-via-liker-land) to delegate.
 
 {% content-ref url="delegate-on-mobile.md" %}
 [delegate-on-mobile.md](delegate-on-mobile.md)

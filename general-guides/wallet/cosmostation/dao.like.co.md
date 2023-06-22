@@ -4,7 +4,7 @@ description: Cosmostation + dao.like.co is essential for managing LikeCoin
 
 # Cosmostation + dao.like.co: Deposit, send, delegate, governance
 
-Users can manage LikeCoin together with [dao.like.co](https://dao.like.co/) and [Cosmostation Browser Extension](how-to-install-cosmostation-extension.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-cosmostation),[ send](dao.like.co.md#using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin/) LikeCoin; as well as provide provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote.md) and [view transaction details](../block-explorer/dao.like.co.md).
+Users can manage LikeCoin together with [dao.like.co](https://dao.like.co/) and [Cosmostation Browser Extension](how-to-install-cosmostation-extension.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-cosmostation),[ send](dao.like.co.md#using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin/) LikeCoin; as well as provide provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote/) and [view transaction details](../block-explorer/dao.like.co.md).
 
 ## Connect Cosmostation with dao.like.co
 
@@ -84,8 +84,8 @@ After the message "Sent and confirming" appears, a "Successfully Sent" message w
 [proposal-deposit.md](../../governance/proposal-deposit.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../governance/direct-vote.md" %}
-[direct-vote.md](../../governance/direct-vote.md)
+{% content-ref url="../../governance/direct-vote/" %}
+[direct-vote](../../governance/direct-vote/)
 {% endcontent-ref %}
 
 {% content-ref url="../block-explorer/" %}

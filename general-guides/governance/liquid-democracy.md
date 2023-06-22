@@ -24,8 +24,8 @@ Likers who have delegated LikeCoin to validators can directly vote on proposals 
 [proposal-deposit.md](proposal-deposit.md)
 {% endcontent-ref %}
 
-{% content-ref url="direct-vote.md" %}
-[direct-vote.md](direct-vote.md)
+{% content-ref url="direct-vote/" %}
+[direct-vote](direct-vote/)
 {% endcontent-ref %}
 
 {% content-ref url="community-call.md" %}

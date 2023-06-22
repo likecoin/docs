@@ -1,4 +1,4 @@
-# Delegate on Desktop
+# Delegate on desktop
 
 ## Delegate via dao.like.co
 
@@ -72,11 +72,11 @@ After the "Sent and confirming" message appears, you will see "Successful withdr
 
 ![Sent and confirming](<../../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![Successful withdrawal!](<../../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
 
-Keplr users can withdraw rewards directly on Keplr by clicking "Claim All".
+Keplr users can also withdraw rewards directly on Keplr by clicking "Claim All".
 
 <figure><img src="../../../.gitbook/assets/Keplr withdraw rewards.png" alt=""><figcaption><p>Withdraw rewards directly on Keplr by clicking "Claim All"</p></figcaption></figure>
 
-Cosmostation users can withdraw rewards directly on Cosmostation by clicking "Claim Reward".
+Cosmostation users can withdraw rewards directly on Cosmostation by clicking "Claim Reward" as well.
 
 <figure><img src="../../../.gitbook/assets/cosmostation withdraw rewards.png" alt=""><figcaption><p>Withdraw rewards directly on Cosmostation by clicking "Claim Reward"</p></figcaption></figure>
 

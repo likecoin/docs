@@ -24,8 +24,8 @@ Please note that Cosmostation does not support the registration of Liker ID yet.
 [stake](../../stake/)
 {% endcontent-ref %}
 
-{% content-ref url="../../governance/direct-vote.md" %}
-[direct-vote.md](../../governance/direct-vote.md)
+{% content-ref url="../../governance/direct-vote/" %}
+[direct-vote](../../governance/direct-vote/)
 {% endcontent-ref %}
 
 {% content-ref url="../block-explorer/" %}

@@ -38,7 +38,7 @@ Free Liker's Likes can also reward a small amount of the Fund to creators.
 
 ## Be the Stakeholder in LikeCoin DAO <a href="#be-the-stake-holder-in-likecoin-dao" id="be-the-stake-holder-in-likecoin-dao"></a>
 
-The staked LikeCoin represents voting power in [LikeCoin DAO proposal voting](../../general-guides/governance/direct-vote.md). The more LikeCoin you stake, the greater voting power you have.
+The staked LikeCoin represents voting power in [LikeCoin DAO proposal voting](../../general-guides/governance/direct-vote/). The more LikeCoin you stake, the greater voting power you have.
 
 ## Encourage openness <a href="#be-the-stake-holder-in-likecoin-dao" id="be-the-stake-holder-in-likecoin-dao"></a>
 

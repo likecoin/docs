@@ -2,13 +2,13 @@
 
 ## Undelegate LikeCoin via dao.like.co on a mobile browser
 
-Using a mobile browser with [dao.like.co](https://dao.like.co/) can undelegate with [Authcore](../../../user-guide/liker-id/register/), and the steps are the same as [using a desktop computer to undelegate LikeCoin via dao.like.co](undelegate-on-desktop.md#undelegate-via-dao.like.co).
+Using a mobile browser with [dao.like.co](https://dao.like.co/) can undelegate by [Authcore](../../../user-guide/liker-id/register/), and the steps are the same as [using a desktop computer to undelegate LikeCoin via dao.like.co](undelegate-on-desktop.md#undelegate-via-dao.like.co).
 
 ## Undelegate via Keplr Mobile
 
 ### Step 1: Login Keplr Mobile
 
-On Keplr Mobile, click "Staking".
+On [Keplr Mobile](../../wallet/keplr-mobile/), click "Staking".
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 1.png" alt=""><figcaption><p>Click "Staking"</p></figcaption></figure>
 
@@ -32,7 +32,7 @@ Enter the amount of LikeCoin that you want to undelegate and click "Unstake".
 
 ### Step 5: Confirm Undelegation
 
-Click "Approve" to confirm the undelegation.
+Review all the details and and click "Approve" to confirm the undelegation.
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 5.png" alt=""><figcaption><p>Click "Approve" to confirm the undelegation</p></figcaption></figure>
 
@@ -62,7 +62,7 @@ Click "UNDELEGATE".
 
 ### Step 4: Decide the amount to undelegate
 
-The UNDELEGATE page appears, enter the amount of LikeCoin you want to undelegate, and click "Next" then confirm ( Reference to the [Step 4-7 in Delegate via Cosmostation app](../delegation-of-likecoin/#step-4-decide-the-amount-to-delegate-1) ) to undelegate.
+The UNDELEGATE page appears, enter the amount of LikeCoin you want to undelegate, and click "Next" then confirm ( Reference to the [Step 4-7 in Delegate via Cosmostation app](undelegate-on-mobile.md#undelegate-via-cosmostation-app) ) to undelegate.
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption><p>Enter the amount of LikeCoin you want to undelegate, and click "Next"</p></figcaption></figure>
 

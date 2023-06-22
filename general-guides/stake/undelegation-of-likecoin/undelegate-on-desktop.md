@@ -64,7 +64,7 @@ Enter the amount of LikeCoin you want to undelegate and click "Undelegate".
 
 ### Step 4: Confirm Undelegation
 
-Click "Approve" to confirm the undelegation.
+Review all the details and click "Approve" to confirm the undelegation.
 
 <figure><img src="../../../.gitbook/assets/Keplr Dashboard Undelegate 3.png" alt=""><figcaption><p>Click "Approve" to confirm the undelegation</p></figcaption></figure>
 

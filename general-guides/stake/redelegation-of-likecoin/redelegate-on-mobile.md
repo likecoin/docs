@@ -2,13 +2,13 @@
 
 ## Undelegate LikeCoin via dao.like.co on a mobile browser
 
-Using a mobile browser with [dao.like.co](https://dao.like.co/) can redelegate with [Authcore](../../../user-guide/liker-id/register/), and the steps are the same as [using a desktop computer to redelegate LikeCoin via dao.like.co](redelegate-on-desktop.md#redelegate-via-dao.like.co).
+Using a mobile browser with [dao.like.co](https://dao.like.co/) can redelegate by [Authcore](../../../user-guide/liker-id/register/), and the steps are the same as [using a desktop computer to redelegate LikeCoin via dao.like.co](redelegate-on-desktop.md#redelegate-via-dao.like.co).
 
 ## Redelegate via Keplr Mobile
 
 ### Step 1: Login Keplr Mobile
 
-On Keplr Mobile, click "Staking".
+On [Keplr Mobile](../../wallet/keplr-mobile/), click "Staking".
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 1 (1).png" alt=""><figcaption><p>Click "Staking"</p></figcaption></figure>
 
@@ -52,7 +52,7 @@ On the Cosmostation app, click on "Delegate".
 
 ### Step 2: Select the validator with delegation
 
-On the "My" tab of the Validator List, click on the validator that you have staked.
+On the "My" tab of the Validator List, click on the validator that you have delegated.
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>On the "My" tab of the Validator List, click on the validator that you have staked</p></figcaption></figure>
 
@@ -70,7 +70,7 @@ The "REDELEGATE" page will appear, enter the amount of LikeCoin you want to rede
 
 ### Step 5: Select the new validator to delegate
 
-Select the validator that you want to redelegate to and click "Next" then confirm ( Reference to [Step 4-7 in Delegate via Cosmostation app](../delegation-of-likecoin/#step-4-decide-the-amount-to-delegate-1) ) to complete the redelegation.
+Select the validator that you want to redelegate to and click "Next" then confirm ( Reference to [Step 4-7 in Delegate via Cosmostation app](../delegation-of-likecoin/delegate-on-mobile.md#delegate-via-cosmostation-app) ) to complete the redelegation.
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile redelegate 3.png" alt=""><figcaption><p>Select the validator that you want to redelegate to and click "Next"</p></figcaption></figure>
 

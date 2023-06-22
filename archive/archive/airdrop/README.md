@@ -15,7 +15,7 @@ There are 4 tasks required to claim the LikeCoin Airdrop, including:
 * \#1 [Manage LikeCoin](../../../general-guides/wallet/)
 * \#2 [Decentralize Tweeting](../../../user-guide/depub.space/)
 * \#3 [Stake LikeCoin](../../../general-guides/stake/delegation-of-likecoin/)
-* \#4 [Vote on LikeCoin DAO](../../../general-guides/governance/direct-vote.md)
+* \#4 [Vote on LikeCoin DAO](../../../general-guides/governance/direct-vote/)
 
 ATOM and OSMO holders, delegators and liquidity providers can use the desktop computer to claim the airdrop throughout the entire process.
 
@@ -45,7 +45,7 @@ Click on Airdrop mission #1 and the introduction says:
 
 #### Manage LikeCoin
 
-You can manage your LikeCoin by [Keplr](../../../user-guide/liker-id/register-with-keplr.md) or [Liker Land app](../../../user-guide/liker-land/download.md). You can use LIKE to [DePub](../../../general-guides/decentralized-publishing/) on chain, [trade](../../../general-guides/trade/) in exchanges, [stake](../../../general-guides/stake/delegation-of-likecoin/) to earn reward, [vote](../../../general-guides/governance/direct-vote.md) to participate in governance, and [reward creators](../../../user-guide/liker-land/like.md).
+You can manage your LikeCoin by [Keplr](../../../user-guide/liker-id/register-with-keplr.md) or [Liker Land app](../../../user-guide/liker-land/download.md). You can use LIKE to [DePub](../../../general-guides/decentralized-publishing/) on chain, [trade](../../../general-guides/trade/) in exchanges, [stake](../../../general-guides/stake/delegation-of-likecoin/) to earn reward, [vote](../../../general-guides/governance/direct-vote/) to participate in governance, and [reward creators](../../../user-guide/liker-land/like.md).
 
 ![](<../../../.gitbook/assets/Airdrop 05.png>)
 
@@ -141,8 +141,8 @@ Vote on a proposal Visit [https://dao.like.co/proposals/](https://dao.like.co/pr
 
 Click "Vote now" to vote for a proposal on [dao.like.co](https://dao.like.co/), and click "Done" to claim a 25% airdrop when finished. For tutorial about voting:
 
-{% content-ref url="../../../general-guides/governance/direct-vote.md" %}
-[direct-vote.md](../../../general-guides/governance/direct-vote.md)
+{% content-ref url="../../../general-guides/governance/direct-vote/" %}
+[direct-vote](../../../general-guides/governance/direct-vote/)
 {% endcontent-ref %}
 
 ## Airdrop claim successful

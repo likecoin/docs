@@ -105,7 +105,7 @@ As stated in the very beginning, _LikeCoin DAO_ is collectively owned and govern
 
 When a _Liker_ delegates _LikeCoin_ to a _validator_, not only does the _Liker_ help validating transactions for the network and earns rewards, but the _Liker_ also endorses the _validator_ to raise proposals and vote on behalf of them. A _Liker_ as stakeholder may also decide the amount of _LikeCoin_ to delegate to reflect the level of endorsement, and may delegate to one or more _validators_. Delegation is like voting in a society under representative democracy but in a more flexible way.
 
-After the LikeCoin chain upgraded to FoTan on August 18, 2021, stakeholders can [direct vote](../general-guides/governance/direct-vote.md) for a proposal.
+After the LikeCoin chain upgraded to FoTan on August 18, 2021, stakeholders can [direct vote](../general-guides/governance/direct-vote/) for a proposal.
 
 ### Raising a proposal <a href="#81f6" id="81f6"></a>
 

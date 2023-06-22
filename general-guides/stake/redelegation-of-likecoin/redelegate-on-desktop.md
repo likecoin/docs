@@ -10,7 +10,7 @@ Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](.
 
 ### **Step 2: Select the validator with delegation**
 
-Click "Portfolio" on the left-hand side menu, then click on "Your Stake" and select the validator that you have staked.
+Click "Portfolio" on the left-hand side menu, then click on "Your Stake" and select the validator that you have delegated.
 
 ![Click on "Your Stake" and select the validator that you have staked](<../../../.gitbook/assets/dao.like.co unstake 01.png>)
 
