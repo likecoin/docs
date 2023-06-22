@@ -8,13 +8,13 @@ Using a mobile browser with [dao.like.co](https://dao.like.co/) can vote by [Aut
 
 ### Step 1: Delegate LikeCoin
 
-Before voting please delegate your LikeCoin to any validators that you trust.
+Before voting, please delegate your LikeCoin to any validators that you trust.
 
 {% content-ref url="../../stake/delegation-of-likecoin/" %}
 [delegation-of-likecoin](../../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
-### Step 2: Login Cosmostation app
+### Step 2: Login Keplr Mobile
 
 On Keplr Mobile, click "Governance".
 
@@ -22,13 +22,13 @@ On Keplr Mobile, click "Governance".
 
 ### Step 3: Select a proposal
 
-Select the "VOTING PERIOD" proposal. You can also view previous proposals.
+Choose the proposal that is currently in the "VOTING PERIOD". You can also view previous proposals if needed.
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile vote 2.png" alt=""><figcaption><p>Select the "VOTING PERIOD" proposal</p></figcaption></figure>
 
 ### Step 4: Start Voting
 
-Have a read on the proposal content and click "Vote" to start voting.
+Read through the proposal content and click "Vote" to begin the voting process.
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile vote 3.png" alt=""><figcaption><p>Click "Vote"</p></figcaption></figure>
 
@@ -40,7 +40,7 @@ Choices of Yes, No, No with Veto and Abstain appear. Select one of the choices a
 
 ### Step 6: Confirm your Vote
 
-Review all the details and click "Approve" to complete the voting process.
+Review all the details of your vote and click "Approve" to complete the voting process.
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile vote 5.png" alt=""><figcaption><p>Click "Approve"</p></figcaption></figure>
 

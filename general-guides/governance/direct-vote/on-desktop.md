@@ -4,7 +4,7 @@
 
 ### Step 1: Delegate LikeCoin
 
-Before voting please delegate your LikeCoin to any validators that you trust.
+Before voting, please delegate your LikeCoin to any validators that you trust.
 
 {% content-ref url="../../stake/delegation-of-likecoin/" %}
 [delegation-of-likecoin](../../stake/delegation-of-likecoin/)
@@ -61,3 +61,37 @@ Successful vote!
 On the left-hand side menu, select "Transactions" and check out your past voting record.
 
 ![Select "Transactions" and check out your past voting record](<../../../.gitbook/assets/direct vote 09.png>)
+
+## Vote via Leap Browser Extension
+
+### Step 1: Delegate LikeCoin
+
+Before voting, please delegate your LikeCoin to any validators that you trust.
+
+{% content-ref url="../../stake/delegation-of-likecoin/" %}
+[delegation-of-likecoin](../../stake/delegation-of-likecoin/)
+{% endcontent-ref %}
+
+### Step 2: Login to Leap Browser Extension and select the proposal to vote
+
+Open the Leap Browser Extension and click on "Governance". Choose the proposal that is currently in the "Voting Period".
+
+<figure><img src="../../../.gitbook/assets/Leap vote 1.png" alt=""><figcaption><p>Click on "Governance". Choose the proposal that is currently in the "Voting Period"</p></figcaption></figure>
+
+### Step 3: Start Voting
+
+Read through the proposal content and click "Vote" to initiate the voting process.
+
+<figure><img src="../../../.gitbook/assets/Leap vote 2.png" alt=""><figcaption><p>Click "Vote"</p></figcaption></figure>
+
+### Step 4: Voting Choices
+
+Choices of Yes, No, No with Veto and Abstain appear. Select one of the choices and click "Submit".
+
+<figure><img src="../../../.gitbook/assets/Leap vote 3.png" alt=""><figcaption><p>Select Yes, No, No with Veto or Abstain and click "Submit"</p></figcaption></figure>
+
+### Step 5: Voting Completed
+
+The voting process is now complete. You can check the voting record for the proposal.
+
+<figure><img src="../../../.gitbook/assets/Leap vote 4.png" alt=""><figcaption><p>Check the voting record</p></figcaption></figure>
