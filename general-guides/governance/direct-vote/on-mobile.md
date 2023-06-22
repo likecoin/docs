@@ -2,7 +2,7 @@
 
 ## 使用手機瀏覽器於 dao.like.co 投票 <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
 
-使用手機瀏覽器可於 [dao.like.co](https://dao.like.co/) 配合 [Authcore](../../../user-guide/liker-id/register/) 投票，步驟與[使用桌機於 dao.like.co 投票](on-desktop.md#shi-yong-dao.like.co-tou-piao)相同。
+使用手機瀏覽器可於 [dao.like.co](https://dao.like.co/) 配合 [Authcore](../../../user-guide/liker-id/register/) 投票，步驟與[使用桌機於 dao.like.co 投票](on-desktop.md#wu-dao.like.co-tou-piao)相同。
 
 ## 使用 Keplr Mobile 投票
 

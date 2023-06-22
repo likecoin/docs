@@ -32,7 +32,7 @@
 
 ### 步驟五：確認取回委託
 
-點「Approve」即可取回委託。
+查看一切無誤後，點「Approve」即可取回委託。
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 5.png" alt=""><figcaption><p>點「Approve」取回委託</p></figcaption></figure>
 
