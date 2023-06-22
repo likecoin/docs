@@ -8,9 +8,9 @@
 
 ### 步驟二：選擇已委託的驗證人
 
-登入後，到左手邊菜單選擇「Portfolio」，在 Your Stake 點需要解除委託的驗證人。
+登入後，到左手邊菜單選擇「Portfolio」，在 Your Stake 點選需要解除委託的驗證人。
 
-![在 Your Stake 點需要解除委託的驗證人](<../../../.gitbook/assets/dao.like.co unstake 01.png>)
+![在 Your Stake 點選需要解除委託的驗證人](<../../../.gitbook/assets/dao.like.co unstake 01.png>)
 
 ### 步驟三：進行取回委託
 
@@ -56,9 +56,9 @@
 
 ### 步驟二：選擇已委託的驗證人
 
-在 All Valdiators 選擇你需要取回委託的驗證人，點「Undelegate」。
+在 All Valdiators 點選你需要解除委託的驗證人，再點「Undelegate」。
 
-<figure><img src="../../../.gitbook/assets/Keplr Dashboard Dekegate 2.png" alt=""><figcaption><p>在 All Valdiators 選擇你需要取回委託的驗證人</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Dashboard Dekegate 2.png" alt=""><figcaption><p>在 All Valdiators 點選你需要解除委託的驗證人</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Keplr Dashboard Undelegate 1.png" alt=""><figcaption><p>點「Undelegate」</p></figcaption></figure>
 
@@ -70,13 +70,13 @@
 
 ### 步驟四：確認取回委託
 
-點「Approve」取回委託。
+查看一切無誤後，點「Approve」取回委託。
 
 <figure><img src="../../../.gitbook/assets/Keplr Dashboard Undelegate 3.png" alt=""><figcaption><p>點「Approve」取回委託</p></figcaption></figure>
 
-在 Unstaking 顯示正在取回委託的 LikeCoin 數量及所需時間。
+在 Unstaking 顯示正在解除委託的 LikeCoin 數量及所需時間。
 
-<figure><img src="../../../.gitbook/assets/Keplr Dashboard Undelegate 4.png" alt=""><figcaption><p>在 Unstaking 顯示正在取回委託的 LikeCoin 數量及所需時間</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Dashboard Undelegate 4.png" alt=""><figcaption><p>在 Unstaking 顯示正在解除委託的 LikeCoin 數量及所需時間</p></figcaption></figure>
 
 ## 使用 Leap Browser Extension 取回委託 <a href="#undelegate-via-leap" id="undelegate-via-leap"></a>
 
@@ -88,9 +88,9 @@
 
 ### 步驟二：選擇已委託的驗證人
 
-在 Breakdown by Validator 選擇要解除委託的驗證人。
+在 Breakdown by Validator 點選要解除委託的驗證人。
 
-<figure><img src="../../../.gitbook/assets/leap redelegate 1.png" alt=""><figcaption><p>在 Breakdown by Validator 選擇要解除委託的驗證人</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/leap redelegate 1.png" alt=""><figcaption><p>在 Breakdown by Validator 點選要解除委託的驗證人</p></figcaption></figure>
 
 ### 步驟三：輸入取回委託金額
 

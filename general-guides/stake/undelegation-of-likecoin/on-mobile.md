@@ -14,9 +14,9 @@
 
 ### 步驟二：選擇已委託的驗證人
 
-在 My Staking 點選你需要取回委託的驗證人。
+在 My Staking 點選你需要解除委託的驗證人。
 
-<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 2.png" alt=""><figcaption><p>在 My Staking 點選你需要取回委託的驗證人</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 2.png" alt=""><figcaption><p>在 My Staking 點選你需要解除委託的驗證人</p></figcaption></figure>
 
 ### 步驟三：執行取回委託
 
@@ -36,9 +36,9 @@
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 5.png" alt=""><figcaption><p>點「Approve」取回委託</p></figcaption></figure>
 
-取回委託後，Staking Dashboard 的 My Unstaking 將顯示正在取回委託的 LikeCoin 數量及所需時間。
+取回委託後，Staking Dashboard 的 My Unstaking 將顯示正在解除委託的 LikeCoin 數量及所需時間。
 
-<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr mobile undelegate 6.png" alt=""><figcaption><p>My Unstaking 顯示正在取解除託的 LikeCoin</p></figcaption></figure>
 
 ## 使用 Cosmostation app 取回委託 <a href="#undelegate-via-cosmostation-app" id="undelegate-via-cosmostation-app"></a>
 
@@ -50,9 +50,9 @@
 
 ### 步驟二：選擇已委託的驗證人
 
-在 Validator List 的 「My」選擇需要取回委託的驗證人。
+在 Validator List 的 「My」點選需要解除委託的驗證人。
 
-<figure><img src="../../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>在 Validator List 的 「My」選擇需要取回委託的驗證人</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>在 Validator List 的 「My」點選需要解除委託的驗證人</p></figcaption></figure>
 
 ### 步驟三：執行取回委託
 

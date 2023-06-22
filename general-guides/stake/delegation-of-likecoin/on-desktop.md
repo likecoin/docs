@@ -64,11 +64,11 @@
 
 ![Sent and confirming](<../../../.gitbook/assets/dao.like.co withdraw rewards 04.png>) ![Successfully withdrawal! 成功領取回報](<../../../.gitbook/assets/dao.like.co withdraw rewards 05.png>)
 
-Keplr 用戶可直接在 Keplr 直接點「Claim All」領取回報。
+Keplr 用戶也可直接在 Keplr 直接點「Claim All」領取回報。
 
 <figure><img src="../../../.gitbook/assets/Keplr withdraw rewards (1).png" alt=""><figcaption><p>Keplr 直接點「Claim All」領取回報</p></figcaption></figure>
 
-Cosmostation 用戶可直接在 Cosmostation 點「Claim Reward」領取回報。
+Cosmostation 用戶亦可直接在 Cosmostation 點「Claim Reward」領取回報。
 
 <figure><img src="../../../.gitbook/assets/cosmostation withdraw rewards.png" alt=""><figcaption><p>Cosmostation 點「Claim Reward」領取回報</p></figcaption></figure>
 
@@ -86,9 +86,9 @@ Cosmostation 用戶可直接在 Cosmostation 點「Claim Reward」領取回報�
 
 ### 步驟二：選擇驗證人
 
-在 All Valdiators 選擇你需要委託的驗證人，點「Delegate」。
+在 All Valdiators 點選你需要委託的驗證人，再點「Delegate」開始委託。
 
-<figure><img src="../../../.gitbook/assets/Keplr Dashboard Dekegate 2.png" alt=""><figcaption><p>在 All Valdiators 選擇你需要委託的驗證人</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Dashboard Dekegate 2.png" alt=""><figcaption><p>在 All Valdiators 點選你需要委託的驗證人</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Keplr Dashboard Dekegate 3.png" alt=""><figcaption><p>點「Delegate」</p></figcaption></figure>
 

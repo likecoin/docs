@@ -10,9 +10,9 @@
 
 ### 步驟二：選擇已委託的驗證人
 
-到左手邊菜單選擇「Portfolio」，在 Your Stake 點經已委託了的驗證人。
+到左手邊菜單選擇「Portfolio」，在 Your Stake 點選已委託的驗證人。
 
-![在 Your Stake 點經已委託了的驗證人](<../../../.gitbook/assets/dao.like.co unstake 01.png>)
+![在 Your Stake 點選已委託的驗證人](<../../../.gitbook/assets/dao.like.co unstake 01.png>)
 
 在驗證人頁面右上角點「Restake」轉移委託。
 
@@ -48,9 +48,9 @@
 
 ### 步驟二：選擇已委託的驗證人
 
-在 All Valdiators 選擇你已委託的驗證人，點「Redelegate」。
+在 All Valdiators 點選已委託的驗證人，再點「Redelegate」。
 
-<figure><img src="../../../.gitbook/assets/Keplr Dashboard Dekegate 2.png" alt=""><figcaption><p>在 All Valdiators 選擇你已委託的驗證人</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Dashboard Dekegate 2.png" alt=""><figcaption><p>在 All Valdiators 點選已委託的驗證人</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Keplr Dashboard Redekegate 1.png" alt=""><figcaption><p>點「Redelegate」</p></figcaption></figure>
 
@@ -82,9 +82,9 @@
 
 ### 步驟二：選擇已委託的驗證人
 
-在 Breakdown by Validator 選擇已委託的驗證人。
+在 Breakdown by Validator 點選已委託的驗證人。
 
-<figure><img src="../../../.gitbook/assets/leap redelegate 1.png" alt=""><figcaption><p>在 Breakdown by Validator 選擇已委託的驗證人</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/leap redelegate 1.png" alt=""><figcaption><p>在 Breakdown by Validator 點選已委託的驗證人</p></figcaption></figure>
 
 ### 步驟三：開始轉移委託
 

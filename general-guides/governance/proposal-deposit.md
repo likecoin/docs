@@ -19,7 +19,7 @@ description: 存入保證金讓議案投票得以展開
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 選擇 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。
+到 [dao.like.co](https://dao.like.co/) 網站選擇 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../user-guide/liker-id/register/) 登入。留意 Keplr 與 Cosmostaiton 只可於桌機瀏覽器中使用，Authcore 則桌機手機兩相宜。
 
 ![到 dao.like.co 網站後選 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 

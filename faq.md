@@ -67,7 +67,7 @@ description: LikeCoin 常見問題
 * [驗證人如何獲得社群基金的委託？](general-guides/governance/what-is-a-validator/community-delegation.md)
 * [LikeCoin DAO 有過什麼議案？](general-guides/governance/proposals.md)
 * [如何為議案存入保證金？](general-guides/governance/proposal-deposit.md)&#x20;
-* [如何就議案投票？](general-guides/governance/direct-vote.md)
+* [如何就議案投票？](general-guides/governance/direct-vote/)
 * [我對 LikeCoin 的發展有意見，如何參與社群會議？](general-guides/governance/community-call.md)
 
 ## 去中心應用

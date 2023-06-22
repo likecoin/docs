@@ -52,9 +52,9 @@
 
 ### 步驟二：選擇已委託的驗證人
 
-在 Validator List 的 「My」選擇需要已委託了的驗證人。
+在 Validator List 的 「My」點選已委託了的驗證人。
 
-<figure><img src="../../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>在 Validator List 的 「My」選擇需要轉移委託的驗證人</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cosmostation mobile undelegate 1.png" alt=""><figcaption><p>在 Validator List 的 「My」點選已委託了的驗證人</p></figcaption></figure>
 
 ### 步驟三：進行轉移委託
 

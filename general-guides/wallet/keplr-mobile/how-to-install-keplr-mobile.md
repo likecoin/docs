@@ -6,7 +6,7 @@ description: 於 iPhone 及 Android 安裝 Keplr Mobile
 
 ## 步驟一：安裝 Keplr 手機應用程式 <a href="#install-keplr-mobile-app" id="install-keplr-mobile-app"></a>
 
-到 [Apple App Sture](https://apps.apple.com/us/app/keplr-wallet/id1567851089) 或 [Google Play](https://play.google.com/store/apps/details?id=com.chainapsis.keplr\&hl=en\_US) 尋找「Keplr」，以 Android 作為例子，你可以「安裝」並「開啟」它。你也可以使用以下 QR Code 掃瞄並安裝 Keplr 手機應用程式。
+到 [Apple App Sture](https://apps.apple.com/us/app/keplr-wallet/id1567851089) 或 [Google Play](https://play.google.com/store/apps/details?id=com.chainapsis.keplr\&hl=en\_US) 尋找「Keplr」，以 Android 作為例子，你可以「安裝」並「開啟」它。你也可以掃瞄以下 QR Code並安裝 Keplr 手機應用程式。
 
 <div>
 
@@ -18,7 +18,7 @@ description: 於 iPhone 及 Android 安裝 Keplr Mobile
 
 </div>
 
-<figure><img src="../../../.gitbook/assets/Keplr Mobile QR Code.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr Mobile QR Code.png" alt=""><figcaption><p>掃瞄 QR Code 安裝 Keplr 手機應用程式</p></figcaption></figure>
 
 ## 步驟二：安裝新錢包 <a href="#create-a-new-wallet" id="create-a-new-wallet"></a>
 

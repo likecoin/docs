@@ -8,7 +8,7 @@
 
 ### 步驟一：登入 Keplr Mobile
 
-打開 Keplr Mobile，點「Stake」。
+打開 [Keplr Mobile](../../wallet/keplr-mobile/)，點「Stake」。
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile delegate 1.png" alt=""><figcaption><p>點「Stake」</p></figcaption></figure>
 
@@ -16,7 +16,7 @@
 
 出現 All Active Validators 顯示所有驗證人，點選你需要委託的驗證人。
 
-<figure><img src="../../../.gitbook/assets/Keplr mobile delegate 2.png" alt=""><figcaption><p>在 All Active Valdiators 選擇你需要委託的驗證人</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr mobile delegate 2.png" alt=""><figcaption><p>在 All Active Valdiators 點選你需要委託的驗證人</p></figcaption></figure>
 
 ### 步驟三：進行委託
 
@@ -36,7 +36,7 @@
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile delegate 5.png" alt=""><figcaption><p>確認委託數量及所需手續費無誤後點「Approve」</p></figcaption></figure>
 
-出現 Transaction pending 及 successful 代表委託完成，點「Confirm」回到主頁或點「View on Mintscan」在 Mintscan 查看交易明細。
+出現 Transaction pending 及 successful 代表委託完成，點「Confirm」回到主頁或點「View on Mintscan」在 [Mintscan](../../wallet/block-explorer/mintscan.md) 區塊瀏覽器查看交易明細。
 
 <div>
 
@@ -118,7 +118,7 @@
 
 ### 步驟七：查看委託
 
-委託完成並顯示詳盡資料。可點「Share」分享或「Explorer」在 Mintscan 區塊瀏覽器中查閱明細。完成後點「Done」結束。
+委託完成並顯示詳盡資料。可點「Share」分享或「Explorer」在 [Mintscan](../../wallet/block-explorer/mintscan.md) 區塊瀏覽器中查閱明細。完成後點「Done」結束。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile delegate 9.png" alt=""><figcaption><p>委託完成並顯示詳盡資料，點「Share」分享或「Explorer」查閱明細</p></figcaption></figure>
 

@@ -112,7 +112,7 @@ _驗證人_ 的投票權，相等於她被委託了的 _LikeCoin_ 量，因為�
 
 _Liker_ 委託 _LikeCoin_ 予 _驗證人_ 不只可以參與驗證帳目及賺取回報，也同時授權 _驗證人_ 代表自己動議社群發展議案，為議案投票。這種流動民主的委託制度好比更進步的代議政制，因為作為持份者的 _Liker_ 可決定委託多少 _LikeCoin_ 以反映授權的程度，並可以同時委託多於一位_驗證人_，也可以隨時取消授權或轉移授權其他驗證人。
 
-2021年8月18日 LikeCoin chain 升級到 FoTan 後，持份者可[直接就議案投票](../general-guides/governance/direct-vote.md)。
+2021年8月18日 LikeCoin chain 升級到 FoTan 後，持份者可[直接就議案投票](../general-guides/governance/direct-vote/)。
 
 ### 動議議案 <a href="#81f6" id="81f6"></a>
 

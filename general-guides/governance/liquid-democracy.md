@@ -20,8 +20,8 @@ LikeCoin 除了是個通證 ( token )，LikeCoin chain 是區塊鏈，加起來�
 [proposal-deposit.md](proposal-deposit.md)
 {% endcontent-ref %}
 
-{% content-ref url="direct-vote.md" %}
-[direct-vote.md](direct-vote.md)
+{% content-ref url="direct-vote/" %}
+[direct-vote](direct-vote/)
 {% endcontent-ref %}
 
 {% content-ref url="community-call.md" %}

@@ -15,7 +15,7 @@ description: 如何領取 LikeCoin 空投？
 * \#1 [Manage LikeCoin / 管理你的 LikeCoin](../../general-guides/wallet/)
 * \#2 [Decentralize Tweeting / 去中心推文](../../user-guide/depub.space/)
 * \#3 [Stake LikeCoin / 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin/)
-* \#4 [Vote on LikeCoin DAO 在 / LikeCoin DAO 進行投票](../../general-guides/governance/direct-vote.md)
+* \#4 [Vote on LikeCoin DAO 在 / LikeCoin DAO 進行投票](../../general-guides/governance/direct-vote/)
 
 ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker ID](../../user-guide/liker-id/register-with-keplr.md) 的用戶可全程直接使用桌面電腦領取空投。
 
@@ -71,7 +71,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 #### Manage LikeCoin 管理 LikeCoin
 
-你可以通過 [Keplr](../../user-guide/liker-id/register-with-keplr.md) 或 [Liker Land app](../../user-guide/liker-id/register/) 管理你的 LikeCoin。 你可以使用 LIKE [去中心出版 DePub](../../general-guides/decentralized-publishing/)，在交易所[交易](../../general-guides/trade/)、[委託](../../general-guides/stake/)獲得獎勵、[投票](../../general-guides/governance/direct-vote.md)參與治理及[獎勵創作者](../../user-guide/liker-land/like.md)。
+你可以通過 [Keplr](../../user-guide/liker-id/register-with-keplr.md) 或 [Liker Land app](../../user-guide/liker-id/register/) 管理你的 LikeCoin。 你可以使用 LIKE [去中心出版 DePub](../../general-guides/decentralized-publishing/)，在交易所[交易](../../general-guides/trade/)、[委託](../../general-guides/stake/)獲得獎勵、[投票](../../general-guides/governance/direct-vote/)參與治理及[獎勵創作者](../../user-guide/liker-land/like.md)。
 
 ![](<../../.gitbook/assets/Airdrop 05.png>)
 
@@ -169,8 +169,8 @@ LikeCoin 是一個由對內容充滿熱情的創作者及讀者組成的社群�
 
 點「Vote now」在 [dao.like.co](https://dao.like.co/) 投票，完成後點「Done」領取 25% 空投。更多投票教學請參看：
 
-{% content-ref url="../../general-guides/governance/direct-vote.md" %}
-[direct-vote.md](../../general-guides/governance/direct-vote.md)
+{% content-ref url="../../general-guides/governance/direct-vote/" %}
+[direct-vote](../../general-guides/governance/direct-vote/)
 {% endcontent-ref %}
 
 ## 完成領取空投
