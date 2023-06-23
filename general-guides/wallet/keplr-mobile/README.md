@@ -12,7 +12,7 @@ Keplr Mobile is the mobile wallet provided by Keplr. With the convenience of you
 [how-to-install-keplr-mobile.md](how-to-install-keplr-mobile.md)
 {% endcontent-ref %}
 
-#### Deposit, send, delegate and vote:
+#### Deposit, send, delegate LikeCoin; vote and view transaction details:
 
 {% content-ref url="keplr-mobile-deposit-and-send-likecoin.md" %}
 [keplr-mobile-deposit-and-send-likecoin.md](keplr-mobile-deposit-and-send-likecoin.md)
@@ -26,7 +26,15 @@ Keplr Mobile is the mobile wallet provided by Keplr. With the convenience of you
 [on-mobile.md](../../governance/direct-vote/on-mobile.md)
 {% endcontent-ref %}
 
+{% content-ref url="../block-explorer/" %}
+[block-explorer](../block-explorer/)
+{% endcontent-ref %}
+
 #### You may also export seed words from Liker Land and import them to Keplr Mobile:
+
+{% content-ref url="../../../user-guide/liker-id/export-seed-words.md" %}
+[export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)
+{% endcontent-ref %}
 
 {% content-ref url="import-wallet-into-keplr-mobile.md" %}
 [import-wallet-into-keplr-mobile.md](import-wallet-into-keplr-mobile.md)

@@ -14,7 +14,7 @@ Note that Leap does not support the registration of Liker ID yet.
 [how-to-install-leap-extension.md](how-to-install-leap-extension.md)
 {% endcontent-ref %}
 
-#### Deposit, send, delegate and vote:
+#### Deposit, send, delegate LikeCoin; vote and view transaction details:
 
 {% content-ref url="leap-deposit-and-send-likecoin.md" %}
 [leap-deposit-and-send-likecoin.md](leap-deposit-and-send-likecoin.md)
@@ -26,6 +26,26 @@ Note that Leap does not support the registration of Liker ID yet.
 
 {% content-ref url="../../governance/direct-vote/on-desktop.md" %}
 [on-desktop.md](../../governance/direct-vote/on-desktop.md)
+{% endcontent-ref %}
+
+{% content-ref url="../block-explorer/" %}
+[block-explorer](../block-explorer/)
+{% endcontent-ref %}
+
+#### You may also export seed words from Liker Land and import them to Leap:
+
+{% content-ref url="../../../user-guide/liker-id/export-seed-words.md" %}
+[export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)
+{% endcontent-ref %}
+
+{% content-ref url="mport-wallet-into-leap.md" %}
+[mport-wallet-into-leap.md](mport-wallet-into-leap.md)
+{% endcontent-ref %}
+
+#### Collect Writing NFT:
+
+{% content-ref url="../../writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
+[collect-writing-nft-on-desktop.md](../../writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
 {% endcontent-ref %}
 
 ## Leap Mobile Wallet
