@@ -36,14 +36,14 @@ Please note that the Keplr mobile app currently does not support LikeCoin.
 [import-wallet-into-keplr.md](import-wallet-into-keplr.md)
 {% endcontent-ref %}
 
-#### Use Keplr to register ISCN, collect Writing NFT, mint Writing NFT and enjoy depub.space:
+#### Use Keplr to register ISCN, collect and mint Writing NFT, and enjoy depub.space:
 
 {% content-ref url="../../decentralized-publishing/app.like.co.md" %}
 [app.like.co.md](../../decentralized-publishing/app.like.co.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../writing-nft/collect-writing-nft/" %}
-[collect-writing-nft](../../writing-nft/collect-writing-nft/)
+{% content-ref url="../../writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
+[collect-writing-nft-on-desktop.md](../../writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../writing-nft/nft-portal.md" %}

@@ -6,7 +6,7 @@ description: Install Cosmostation app on iPhone or Android
 
 ## Step 1: Install Cosmostation app
 
-Go to the [Apple App Store](https://apps.apple.com/us/app/cosmostation/id1459830339) or [Google Play](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion\&hl=en\_US\&gl=US) to download the cosmostation app.
+Go to the [Apple App Store](https://apps.apple.com/us/app/cosmostation/id1459830339) or [Google Play](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion\&hl=en\_US\&gl=US) to download the Cosmostation app.
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 1.png" alt=""><figcaption><p>Download the cosmostation app</p></figcaption></figure>
 

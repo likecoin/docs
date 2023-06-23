@@ -76,16 +76,16 @@ After the message "Sent and confirming" appears, a "Successfully Sent" message w
 
 ## Using dao.like.co to:
 
-{% content-ref url="../../stake/" %}
-[stake](../../stake/)
+{% content-ref url="../../stake/delegation-of-likecoin/delegate-on-desktop.md" %}
+[delegate-on-desktop.md](../../stake/delegation-of-likecoin/delegate-on-desktop.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../governance/proposal-deposit.md" %}
 [proposal-deposit.md](../../governance/proposal-deposit.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../governance/direct-vote/" %}
-[direct-vote](../../governance/direct-vote/)
+{% content-ref url="../../governance/direct-vote/on-desktop.md" %}
+[on-desktop.md](../../governance/direct-vote/on-desktop.md)
 {% endcontent-ref %}
 
 {% content-ref url="../block-explorer/" %}
@@ -94,4 +94,5 @@ After the message "Sent and confirming" appears, a "Successfully Sent" message w
 
 ## Other wallet interface for managing LikeCoin with Cosmostation
 
+* Cosmostation Web Wallet - [https://wallet.cosmostation.io/](https://wallet.cosmostation.io/cosmos)
 * Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)

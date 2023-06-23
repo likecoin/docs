@@ -85,3 +85,9 @@ In Networks, look for "LikeCoin" and click on it.
 When the LikeCoin balance appears, the user can send, receive or delegate LikeCoin.
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile LikeCoin chain 3.png" alt=""><figcaption><p>The LikeCoin balance appears</p></figcaption></figure>
+
+#### To import an existing wallet, please refer to:
+
+{% content-ref url="import-wallet-into-keplr-mobile.md" %}
+[import-wallet-into-keplr-mobile.md](import-wallet-into-keplr-mobile.md)
+{% endcontent-ref %}
