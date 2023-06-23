@@ -10,7 +10,7 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 [direct-vote](../../governance/direct-vote/)
 {% endcontent-ref %}
 
-## 使用桌機委託 LikeCoin
+## 以桌機委託 LikeCoin
 
 委託 LikeCoin 的方式有多種，**我們建議使用** [**dao.like.co**](./#delegate-via-dao.like.co) 配合 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../user-guide/liker-id/register/) 進行委託。
 
@@ -37,9 +37,9 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 * Leapboard Web Dashboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)
 
-## 使用手機委託 LikeCoin
+## 以手機委託 LikeCoin
 
-使用手機瀏覽器於 [dao.like.co](https://dao.like.co/) 可配合 [Authcore](../../../user-guide/liker-id/register/) 進行委託。
+以手機瀏覽器於 [dao.like.co](https://dao.like.co/) 可配合 [Authcore](../../../user-guide/liker-id/register/) 進行委託。
 
 你也可以使用手機應用程式 [Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 及 [Liker Land app](../../../user-guide/liker-land/download.md) 進行委託。
 

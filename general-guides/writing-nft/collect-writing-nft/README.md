@@ -26,7 +26,7 @@ description: 如何收藏 Writing NFT
 
 ## 以桌機收藏 Writing NFT
 
-同戶可選擇以 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)任何一種方式收藏 Writing NFT：
+同戶可選擇使用 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)任何一種方式收藏 Writing NFT：
 
 {% content-ref url="collect-writing-nft-on-desktop.md" %}
 [collect-writing-nft-on-desktop.md](collect-writing-nft-on-desktop.md)
@@ -34,7 +34,7 @@ description: 如何收藏 Writing NFT
 
 ## 以手機收藏 Writing NFT
 
-用戶可使用 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)購買 NFT。 用戶也可以手機瀏覽器配合 [Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)簽署購買 Writing NFT。
+用戶可使用 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)購買 NFT。 用戶也可以手機瀏覽器配合 [Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)簽署購買 Writing NFT：
 
 {% content-ref url="collect-writing-nft-on-mobile.md" %}
 [collect-writing-nft-on-mobile.md](collect-writing-nft-on-mobile.md)

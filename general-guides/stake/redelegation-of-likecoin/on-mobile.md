@@ -1,8 +1,8 @@
-# 使用手機轉移委託
+# 以手機轉移委託
 
 ## 使用手機瀏覽器於 dao.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
 
-使用手機瀏覽器可於 [dao.like.co](https://dao.like.co/) 配合 [Authcore](../../../user-guide/liker-id/register/) 轉移委託，步驟與[使用桌機於 dao.like.co 轉移委託 LikeCoin](on-desktop.md#redelegate-via-dao.like.co) 相同。
+使用手機瀏覽器可於 [dao.like.co](https://dao.like.co/) 配合 [Authcore](../../../user-guide/liker-id/register/) 轉移委託，步驟與[以桌機於 dao.like.co 轉移委託 LikeCoin](on-desktop.md#redelegate-via-dao.like.co) 相同。
 
 ## 使用 Keplr Mobile 轉移委託 <a href="#redelegate-via-cosmostation-app" id="redelegate-via-cosmostation-app"></a>
 
