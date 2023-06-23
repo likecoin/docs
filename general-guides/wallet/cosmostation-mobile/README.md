@@ -20,12 +20,12 @@ description: Cosmostation 手機版
 [cosmostation-app-deposit-and-send-likecoin.md](cosmostation-app-deposit-and-send-likecoin.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../stake/" %}
-[stake](../../stake/)
+{% content-ref url="../../stake/delegation-of-likecoin/on-mobile.md" %}
+[on-mobile.md](../../stake/delegation-of-likecoin/on-mobile.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../governance/direct-vote/" %}
-[direct-vote](../../governance/direct-vote/)
+{% content-ref url="../../governance/direct-vote/on-mobile.md" %}
+[on-mobile.md](../../governance/direct-vote/on-mobile.md)
 {% endcontent-ref %}
 
 {% content-ref url="../block-explorer/" %}
@@ -42,14 +42,14 @@ description: Cosmostation 手機版
 [import-wallet-into-cosmostation-app.md](import-wallet-into-cosmostation-app.md)
 {% endcontent-ref %}
 
-#### 使用 Cosmostation 手機錢包註冊 ISCN、收藏 Writing NFT 及發行 Writing NFT、：
+#### 使用 Cosmostation 手機錢包註冊 ISCN、收藏及發行 Writing NFT、：
 
 {% content-ref url="../../decentralized-publishing/app.like.co.md" %}
 [app.like.co.md](../../decentralized-publishing/app.like.co.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../writing-nft/collect-writing-nft/" %}
-[collect-writing-nft](../../writing-nft/collect-writing-nft/)
+{% content-ref url="../../writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md" %}
+[collect-writing-nft-on-mobile.md](../../writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../writing-nft/nft-portal.md" %}

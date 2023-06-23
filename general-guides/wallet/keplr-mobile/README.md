@@ -18,6 +18,18 @@ Keplr Mobile 是 Keplr 的手機版錢包。通過移動設備裝置的便利，
 [keplr-mobile-deposit-and-send-likecoin.md](keplr-mobile-deposit-and-send-likecoin.md)
 {% endcontent-ref %}
 
+{% content-ref url="../../stake/delegation-of-likecoin/on-mobile.md" %}
+[on-mobile.md](../../stake/delegation-of-likecoin/on-mobile.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../governance/direct-vote/on-mobile.md" %}
+[on-mobile.md](../../governance/direct-vote/on-mobile.md)
+{% endcontent-ref %}
+
+{% content-ref url="../block-explorer/" %}
+[block-explorer](../block-explorer/)
+{% endcontent-ref %}
+
 #### 你亦可以匯出你的 Liker Land 助記詞以使用 Keplr 手機錢包：
 
 {% content-ref url="../../../user-guide/liker-id/export-seed-words.md" %}
@@ -30,3 +42,6 @@ Keplr Mobile 是 Keplr 的手機版錢包。通過移動設備裝置的便利，
 
 #### 使用 Keplr 手機錢包收藏 Writing NFT：
 
+{% content-ref url="../../writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md" %}
+[collect-writing-nft-on-mobile.md](../../writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
+{% endcontent-ref %}

@@ -70,16 +70,16 @@ description: Keplr + dao.like.co 管理 LikeCoin 必備
 
 ## 使用 dao.like.co：
 
-{% content-ref url="../../stake/" %}
-[stake](../../stake/)
+{% content-ref url="../../stake/delegation-of-likecoin/on-desktop.md" %}
+[on-desktop.md](../../stake/delegation-of-likecoin/on-desktop.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../governance/proposal-deposit.md" %}
 [proposal-deposit.md](../../governance/proposal-deposit.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../governance/direct-vote/" %}
-[direct-vote](../../governance/direct-vote/)
+{% content-ref url="../../governance/direct-vote/on-desktop.md" %}
+[on-desktop.md](../../governance/direct-vote/on-desktop.md)
 {% endcontent-ref %}
 
 {% content-ref url="../block-explorer/" %}

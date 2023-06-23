@@ -85,3 +85,9 @@ description: 於 iPhone 及 Android 安裝 Keplr Mobile
 出現 LikeCoin 餘額，用戶可傳送接收或委託 LikeCoin。
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile LikeCoin chain 3.png" alt=""><figcaption><p>出現 LikeCoin 餘額</p></figcaption></figure>
+
+#### 如需導入錢包，請參看：
+
+{% content-ref url="import-wallet-into-keplr-mobile.md" %}
+[import-wallet-into-keplr-mobile.md](import-wallet-into-keplr-mobile.md)
+{% endcontent-ref %}

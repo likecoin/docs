@@ -76,16 +76,16 @@ description: Comostation + dao.like.co 管理 LikeCoin 必備
 
 ## 使用 dao.like.co： <a href="#using-dao.like.co-to" id="using-dao.like.co-to"></a>
 
-{% content-ref url="../../stake/" %}
-[stake](../../stake/)
+{% content-ref url="../../stake/delegation-of-likecoin/on-desktop.md" %}
+[on-desktop.md](../../stake/delegation-of-likecoin/on-desktop.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../governance/proposal-deposit.md" %}
 [proposal-deposit.md](../../governance/proposal-deposit.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../governance/direct-vote/" %}
-[direct-vote](../../governance/direct-vote/)
+{% content-ref url="../../governance/direct-vote/on-desktop.md" %}
+[on-desktop.md](../../governance/direct-vote/on-desktop.md)
 {% endcontent-ref %}
 
 {% content-ref url="../block-explorer/" %}
@@ -94,4 +94,5 @@ description: Comostation + dao.like.co 管理 LikeCoin 必備
 
 ## 其他可使用 Cosmostation 管理 LikeCoin 的錢包介面 <a href="#other-wallet-interface" id="other-wallet-interface"></a>
 
-Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)
+* Cosmostation Web Wallet - [https://wallet.cosmostation.io/](https://wallet.cosmostation.io/cosmos)
+* Leapboard - [https://cosmos.leapwallet.io/](https://cosmos.leapwallet.io/)

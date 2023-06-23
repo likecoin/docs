@@ -14,14 +14,22 @@ Web3 唯一的非託管超級錢包。使用 Leap 是傳送、互換和委託密
 [how-to-install-leap-extension.md](how-to-install-leap-extension.md)
 {% endcontent-ref %}
 
-#### 存入、轉帳、委託 LikeCoin：
+#### 存入、轉帳、委託 LikeCoin、投票及查看交易明細：
 
 {% content-ref url="leap-deposit-and-send-likecoin.md" %}
 [leap-deposit-and-send-likecoin.md](leap-deposit-and-send-likecoin.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../stake/" %}
-[stake](../../stake/)
+{% content-ref url="../../stake/delegation-of-likecoin/on-desktop.md" %}
+[on-desktop.md](../../stake/delegation-of-likecoin/on-desktop.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../governance/direct-vote/on-desktop.md" %}
+[on-desktop.md](../../governance/direct-vote/on-desktop.md)
+{% endcontent-ref %}
+
+{% content-ref url="../block-explorer/" %}
+[block-explorer](../block-explorer/)
 {% endcontent-ref %}
 
 #### 使用 Leap 收藏 Writing NFT：
