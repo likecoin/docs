@@ -26,7 +26,7 @@ and start to collect Writing NFT.
 
 ## Collect Writing NFT on desktop
 
-Use can choose [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to collect Writing NFT on desktop.
+Use can use [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to collect Writing NFT on desktop.
 
 {% content-ref url="collect-writing-nft-on-desktop.md" %}
 [collect-writing-nft-on-desktop.md](collect-writing-nft-on-desktop.md)

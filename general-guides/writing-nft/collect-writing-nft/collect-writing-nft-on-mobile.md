@@ -44,13 +44,13 @@ If you encounter problems during the purchase process, please go to the settings
 
 ## Collect Writing NFT on Mobile Browser
 
-### **Through the Cosmostation app**
+### **Via the Cosmostation app**
 
 #### **Tutorial**
 
 {% embed url="https://www.youtube.com/watch?v=l6zjetJVNuA" %}
 
-### **Through the Liker Land app**
+### **Via the Liker Land app**
 
 **Step 1**: Log in to the [Liker Land app](../../../user-guide/liker-land/download.md) and use the mobile browser to browse the NFT that you want to collect. Click "Collect Now," "Collect," or the current NFT price.
 
