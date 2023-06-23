@@ -38,7 +38,7 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6-1.png" alt=""><figcaption><p>選擇以 Keplr、Cosmostation、Leap 登入</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6-2.png" alt=""><figcaption><p>選擇以 Cosmostation app 或 Liker ID 登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 6-2-en.png" alt=""><figcaption><p>選擇以 Keplr Mobile, Cosmostation app 或 Liker ID 登入</p></figcaption></figure>
 
 #### Keplr 登入
 
@@ -58,6 +58,28 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Leap.png" alt=""><figcaption><p>在 Leap 點「Connect」再點「Approve」 登入</p></figcaption></figure>
 
+#### Keplr Mobile 登入
+
+點「[Keplr Mobile](../../wallet/keplr-mobile/)」後出現二維碼。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr mobile 1.png" alt=""><figcaption><p>點「Keplr Mobile」後出現二維碼</p></figcaption></figure>
+
+在 Keplr Mobile 手機錢包點右上角標誌調用鏡頭，並掃瞄二維碼。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr mobile 2.png" alt=""><figcaption><p>在Keplr Mobile 調用鏡頭，掃瞄二維碼</p></figcaption></figure>
+
+點「Approve」連結 Liker Land 後再點「Approve」連結帳戶並登入。
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr mobile 3.png" alt=""><figcaption><p>點「Approve」連結 Liker Land</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr mobile 4.png" alt=""><figcaption><p>點「Approve」連結帳戶並登入</p></figcaption></figure>
+
+</div>
+
 #### Cosmostation app 登入
 
 點「[Cosmostation app](../../wallet/cosmostation-mobile/)」後出現二維碼。
@@ -72,13 +94,17 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 3.jpg" alt=""><figcaption><p>PIN 碼認證</p></figcaption></figure>
 
-點「OK」確認連結。
+點「OK」確認連結再點「Confirm」連結帳戶。
+
+<div>
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 4.png" alt=""><figcaption><p>點「OK」確認連結</p></figcaption></figure>
 
-點「Confirm」連結帳戶。
+ 
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 5.png" alt=""><figcaption><p>點「Confirm」連結帳戶</p></figcaption></figure>
+
+</div>
 
 成功連結並登入。
 
@@ -94,13 +120,17 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 2.png" alt=""><figcaption><p>在 Liker Land app 調用鏡頭，掃瞄二維碼</p></figcaption></figure>
 
-彈出 Liker Land 視窗，點「允許」。
+彈出視窗點「允許」連結  Liker Land，並再點「允許」連結帳戶並登入。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 3.png" alt=""><figcaption><p>彈出 Liker Land 視窗，點「允許」</p></figcaption></figure>
+<div>
 
-再點「允許」連結帳戶並登入。
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 3.png" alt=""><figcaption><p>彈出視窗點「允許」連結 Liker Land</p></figcaption></figure>
+
+ 
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 4.png" alt=""><figcaption><p>再點「允許」連結帳戶</p></figcaption></figure>
+
+</div>
 
 {% hint style="warning" %}
 如遇連接問題，可到「設定」「Wallet Connect」點 X 關掉現有連接後再作嘗試。
