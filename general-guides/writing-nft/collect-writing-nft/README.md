@@ -26,7 +26,7 @@ description: 如何收藏 Writing NFT
 
 ## 以桌機收藏 Writing NFT
 
-同戶可選擇以 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker ID](../../../user-guide/liker-land/download.md) 任何一種方式收藏 Writing NFT：
+同戶可選擇以 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)任何一種方式收藏 Writing NFT：
 
 {% content-ref url="collect-writing-nft-on-desktop.md" %}
 [collect-writing-nft-on-desktop.md](collect-writing-nft-on-desktop.md)

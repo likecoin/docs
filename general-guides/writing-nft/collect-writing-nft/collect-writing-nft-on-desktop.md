@@ -1,7 +1,7 @@
 ---
 description: >-
-  使用 Keplr、Cosmostation、Leap、Keplr Mobile、Cosmostation app 或 Liker ID 以桌面電腦收藏
-  Writing NFT
+  使用 Keplr、Cosmostation、Leap、Keplr Mobile、Cosmostation app 或 Liker Land
+  手機應用程式以桌面電腦收藏 Writing NFT
 ---
 
 # 以桌機收藏 Writing NFT
@@ -14,11 +14,11 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
 
-或點「立即收藏」、「收集」、「收藏作品」或當前價格後選擇以 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker ID](../../../user-guide/liker-land/download.md) 任何一種方式連結並登入。
+或點「立即收藏」、「收集」、「收藏作品」或當前價格後選擇以 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)任何一種方式連結並登入。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6-1.png" alt=""><figcaption><p>選擇以 Keplr、Cosmostation、Leap 登入</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6-2-en.png" alt=""><figcaption><p>選擇以 Keplr Mobile, Cosmostation app 或 Liker ID 登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 6-2.png" alt=""><figcaption><p>選擇以 Keplr Mobile, Cosmostation app 或 Liker ID 登入</p></figcaption></figure>
 
 ### Keplr 登入
 
@@ -90,7 +90,7 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 6.png" alt=""><figcaption><p>成功連結 Liker Land</p></figcaption></figure>
 
-### Liker ID 登入
+### Liker Land 手機應用程式登入
 
 點「Liker ID」後出現二維碼。
 
@@ -170,7 +170,7 @@ Cosmostation app 彈出 Request Transaction Sign 視窗，點「Confirm」確認
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 2.png" alt=""><figcaption><p>Cosmostation app 彈出視窗，點「Confirm」確認購買</p></figcaption></figure>
 
-### Liker ID
+### Liker Land 手機應用程式
 
 桌面電腦彈出請在 Liker Land 手機應用程式簽署確認視窗。
 
