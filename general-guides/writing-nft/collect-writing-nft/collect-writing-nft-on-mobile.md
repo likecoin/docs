@@ -1,10 +1,10 @@
 ---
 description: >-
   Using Keplr Mobile, Cosmostation, Leap or Liker Land appp to collect Writing
-  NFT on mobile
+  NFT by LIKE on mobile
 ---
 
-# Collect Writing NFT on mobile
+# Collect Writing NFT by LIKE on mobile
 
 ## Collect Writing NFT on Liker Land app
 
@@ -110,7 +110,7 @@ If you encounter problems during the purchase process, please go to the settings
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 6-en.png" alt=""><figcaption><p>The Collecting NFT page will appear in the browser</p></figcaption></figure>
 
-**Step 7**: Return to the Liker Land app and click "Approve'.
+**Step 7**: Return to the Liker Land app and click "Approve".
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 7-en.png" alt=""><figcaption><p>Return to the Liker Land app and click "Approve'</p></figcaption></figure>
 

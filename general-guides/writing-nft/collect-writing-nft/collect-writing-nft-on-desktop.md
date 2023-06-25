@@ -1,10 +1,10 @@
 ---
 description: >-
   Using Keplr, Cosmostation, Leap, Keplr Mobile, Cosmostation app or Liker Land
-  app to collect Writing NFT on desktop
+  app to collect Writing NFT by LIKE on desktop
 ---
 
-# Collect Writing NFT on desktop
+# Collect Writing NFT by LIKE on desktop
 
 You can purchase Writing NFT with LikeCoin, which not only supports creators' work, but also allows supporters to leave messages to motivate their favorite creators. These messages will always be attached to the work and will be recorded in the remarks field in the on-chain record.
 

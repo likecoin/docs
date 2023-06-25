@@ -94,8 +94,8 @@
   * [#faucet-testnet](general-guides/community/faucet-testnet.md)
 * [Writing NFT](general-guides/writing-nft/README.md)
   * [Collect Writing NFT](general-guides/writing-nft/collect-writing-nft/README.md)
-    * [Collect Writing NFT on desktop](general-guides/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
-    * [Collect Writing NFT on mobile](general-guides/writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
+    * [Collect Writing NFT by LIKE on desktop](general-guides/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
+    * [Collect Writing NFT by LIKE on mobile](general-guides/writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
     * [NFT Widget](general-guides/writing-nft/collect-writing-nft/nft-widget.md)
     * [NFT Portfolio](general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)
     * [NFT Marketplace](general-guides/writing-nft/collect-writing-nft/nft-marketplace.md)
@@ -255,7 +255,6 @@
 
 * [Archive](archive/archive/README.md)
   * [Writing NFT](archive/archive/writing-nft/README.md)
-    * [Collect Writing NFT](archive/archive/writing-nft/collect.md)
     * [ISCN Wallet](archive/archive/writing-nft/iscn-wallet.md)
   * [Liker Land](archive/archive/liker-land/README.md)
     * [My Content Jockey](archive/archive/liker-land/today-headline.md)
