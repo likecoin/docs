@@ -44,8 +44,8 @@ Web3 唯一的非託管超級錢包。使用 Leap 是傳送、互換和委託密
 
 #### 使用 Leap 收藏 Writing NFT：
 
-{% content-ref url="../../../archive/archive/writing-nft/collect.md" %}
-[collect.md](../../../archive/archive/writing-nft/collect.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Leap 手機錢包

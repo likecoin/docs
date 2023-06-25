@@ -1,10 +1,10 @@
 ---
 description: >-
   使用 Keplr、Cosmostation、Leap、Keplr Mobile、Cosmostation app 或 Liker Land
-  手機應用程式以桌面電腦收藏 Writing NFT
+  手機應用程式以桌面電腦用 LIKE 購買 Writing NFT
 ---
 
-# 以桌機收藏 Writing NFT
+# 以桌機用 LIKE 購買 Writing NFT
 
 你可以使用 LikeCoin 購買 Writing NFT。支持者除了用購買的行動去鼓勵創作者以外，亦可以留言激勵他們，而且留言會一直依附在作品上，被記錄在這個購買動作的鏈上記錄裡的備註欄位。
 

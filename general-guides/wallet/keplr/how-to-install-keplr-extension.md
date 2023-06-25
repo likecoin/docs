@@ -4,6 +4,10 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 
 # 安裝 Keplr 瀏覽器擴充功能
 
+#### 教學影片
+
+{% embed url="https://www.youtube.com/watch?v=1AjOZXUqZxs" %}
+
 ## 步驟一：安裝 Keplr 瀏覽器擴充功能 <a href="#step-1-install-keplr-browser-extension" id="step-1-install-keplr-browser-extension"></a>
 
 到 Chrome 線上應用程式商店點「加到 Chrome」安裝 [Keplr 瀏覽器擴充功能](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)。

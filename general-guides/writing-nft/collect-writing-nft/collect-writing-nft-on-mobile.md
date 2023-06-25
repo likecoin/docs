@@ -1,8 +1,8 @@
 ---
-description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用程式以手機收藏 Writing NFT
+description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用程式以手機用 LIKE 購買 Writing NFT
 ---
 
-# 以手機收藏 Writing NFT
+# 以手機用 LIKE 購買 Writing NFT
 
 ## 使用 Liker Land 手機應用程式購買 NFT <a href="#mobile" id="mobile"></a>
 
