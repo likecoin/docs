@@ -6,13 +6,13 @@ description: 如何收藏 Writing NFT
 
 無論有沒有區塊鏈錢包，使用桌機或手機，收藏 Writing NFT 同樣方便：
 
-#### [以信用卡付款收藏 Writing NFT](./#credit-card)
+#### [以信用卡付款收藏 Writing NFT (從未註冊錢包）](./#credit-card)
 
 適用於從未註冊過任何區塊鏈錢包的用戶，手機與桌機均適用。
 
 #### [已擁有錢包並以信用卡付款收藏 Writing NFT](./#credit-card-with-keplr-1) <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
 
-適用於已註冊錢包的用戶，可選擇使用 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)任何一種方式以桌機或手機透過瀏覽器以信用卡付款收藏 Writing NFT。
+適用於已註冊錢包的用戶，可選擇使用 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)任何一種方式透過桌機或手機瀏覽器以信用卡付款收藏 Writing NFT。
 
 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)用戶也可直接在手機應用程式中進行操作。
 
@@ -86,7 +86,7 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT pay by card 7.png" alt=""><figcaption><p>在我的書架查看已購買的 Writing NFT</p></figcaption></figure>
 
-## 已擁有錢包並以信用卡付款付款收藏 Writing NFT <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
+## 已擁有錢包並以信用卡付款收藏 Writing NFT <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
 
 用戶也可以先註冊 [Keplr](../../wallet/keplr/) 錢包再以信用卡購買 Writing NFT。
 
