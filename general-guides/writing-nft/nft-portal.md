@@ -174,13 +174,17 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5-3.png" alt=""><figcaption><p>修改 Writing NFT 作者留言及查看更多設定</p></figcaption></figure>
 
-在 Numbers of NFTs reserved for giveaways 可輸入 0-255 之間的預留數量；
+在 Number of NFTs to premint 可輸入 0-255 之間的預先鑄造 NFT 數量；
 
-在 Sales Settings 可設定 Writing NFT 起始售價為 8、128、1024 或 4096 LIKE；
+在 Numbers of NFTs reserved for giveaways 可預留 0-255 份 NFT 作送贈之用；
+
+點「Reserve All」可一次過預留所有預先鑄造及作為送贈之用的 NFT。
+
+在 Sales Settings 可設定 Writing NFT 起始售價 ( Initial Price ) 為 8、128、1024 或 4096 LIKE；
 
 完成後再點「Next」。
 
-<figure><img src="../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>輸入預留 Writing NFT 數量及設定起始售價</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>輸入預留及送贈 Writing NFT 的數量，並設定起始售價</p></figcaption></figure>
 
 ### 步驟 4/4：完成簽署 <a href="#sign" id="sign"></a>
 
