@@ -12,7 +12,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 **選擇二**：將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../decentralized-publishing/app.like.co.md)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 出版 NFT
 
-**選擇三**：在 [Matters 網站](https://matters.news/)撰文並選擇「註冊 ISCN」，並於 [app.like.co 的 My Publishing 分頁](https://app.like.co/works)選擇該 ISCN 再點「Mint NFT」出版 NFT
+**選擇三**：在 [Matters 網站](https://matters.news/)撰文並選擇「註冊 ISCN」，並於 [app.like.co 的 My Works 分頁](https://app.like.co/works)選擇該 ISCN 再點「Mint NFT」出版 NFT
 
 **選擇四**：在 [Liker.Social](https://liker.social/) 出版 NFT
 
@@ -206,13 +206,13 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 ### 方法 1：查找 ISCN 後直接出版 Writing NFT
 
-文章註冊 ISCN 後，到 [app.like.co](https://app.like.co/) 的「[My Publishing](https://app.like.co/works)」尋找已註冊文章的 ISCN，點右上角「Mint NFT」直接將 ISCN 鑄造為 Writing NFT，所需步驟與[以文章網址出版 Writing NFT 步驟 2-4/4](nft-portal.md#preview-nft-1) 完全相同。
+文章註冊 ISCN 後，到 [app.like.co](https://app.like.co/) 的「[My Works](https://app.like.co/works)」尋找已註冊文章的 ISCN，點右上角「Mint NFT」直接將 ISCN 鑄造為 Writing NFT，所需步驟與[以文章網址出版 Writing NFT 步驟 2-4/4](nft-portal.md#preview-nft-1) 完全相同。
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 4.png" alt=""><figcaption><p>點 Mint NFT 直接將 ISCN 鑄造為 Writing NFT</p></figcaption></figure>
 
 ### 方法 2：複製 ISCN ID 再出版 Writing NFT
 
-到 [app.like.co](https://app.like.co/) 的「[My Publishing](https://app.like.co/works)」尋找已註冊文章的 ISCN ID 並把它複製。
+到 [app.like.co](https://app.like.co/) 的「[My Works](https://app.like.co/works)」尋找已註冊文章的 ISCN ID 並把它複製。
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 2.png" alt=""><figcaption><p>將 ISCN ID 鑄造為 Writing NFT</p></figcaption></figure>
 
