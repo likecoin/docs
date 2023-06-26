@@ -67,3 +67,27 @@ description: 簡單發送 Writing NFT 沒難度
 用戶可於附加留言欄位查看已傳送的訊息。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 8.png" alt=""><figcaption><p>於附加留言欄位查看已傳送的訊息</p></figcaption></figure>
+
+## 群發 NFT 紀念品給支持者 <a href="#batch-send-nft-to-supporters" id="batch-send-nft-to-supporters"></a>
+
+#### 操作步驟
+
+**步驟一**：在 [LikeCoin NFT Dashboard](https://likecoin.github.io/likecoin-nft-dashboard/#/) 搜尋（Search）自己錢包的收藏者 ( Get Collector )。
+
+**步驟二**：導出所有數據 ( Export all data )。
+
+**步驟三**：將數據的 csv 導入試算表工具進行分類與排序，並將支持者錢包地址整理成清單。
+
+**步驟四**：在 [LikeCoin NFT Marketplace](https://likecoin.github.io/likecoin-nft-marketplace/) 的介面工具 ( Tools ) 中選 Send NFTs 並登入 Keplr。
+
+**步驟五**：在用以群發給支持者的 Writing NFT 找出 NFT Class ID。
+
+**步驟六**：將 NFT Class ID 輸入 Send NFTs 工具，並輸入支持者的錢包地址清單 ( Recepient Address list ) 及留給他們的話 ( Transfer message ) ，再點「Send」及在 Keplr 簽署，即可群發 NFT。
+
+#### **詳盡介紹**
+
+[以文會友的人情味和空間感 — 購買 Writing NFT 時，留言給作者](https://blog.like.co/zh/%E4%BB%A5%E6%96%87%E6%9C%83%E5%8F%8B%E7%9A%84%E4%BA%BA%E6%83%85%E5%91%B3%E5%92%8C%E7%A9%BA%E9%96%93%E6%84%9F-%E8%B3%BC%E8%B2%B7-writing-nft-%E6%99%82%EF%BC%8C%E7%95%99%E8%A8%80%E7%B5%A6/)
+
+#### 教學影片
+
+{% embed url="https://www.youtube.com/watch?v=APw46UIzJLM" %}
