@@ -12,7 +12,7 @@ Authors can use [**Web3Press**](../../user-guide/wordpress.md) to publish articl
 
 **Option 2**: Register text, PDF, picture, sound... into [ISCN](../decentralized-publishing/app.like.co.md) first, then paste the ISCN ID to [NFT Portal](https://app.like.co/nft/url) and publish as NFT
 
-**Option 3**: Write on the Matters website and select "Register ISCN", then select the ISCN on the ["My Publishing" tab of app.like.co](https://app.like.co/works) to publish as NFT
+**Option 3**: Write on the Matters website and select "Register ISCN", then select the ISCN on the ["My Works" tab of app.like.co](https://app.like.co/works) to publish as NFT
 
 **Option 4**: Publish NFT on [Liker.Social](https://liker.social/)
 
@@ -174,13 +174,17 @@ In addition, if you want to reserve some Writing NFT for yourself or change the 
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5-3.png" alt=""><figcaption><p>Edit Writing NFT Creator message and click "More settings"</p></figcaption></figure>
 
-Enter a number between 0-255 in "Numbers of NFTs reserved for giveaways":
+In the "Number of NFTs to premint" field, you can enter the quantity of NFTs to be pre-minted, ranging from 0 to 255.
 
-Select 8, 128, 1024 or 4069 LIKE as Initial Price;&#x20;
+In the "Numbers of NFTs reserved for giveaways" field, you can reserve a quantity of NFTs (ranging from 0 to 255) for giveaways.
 
-then click "Next" to continue.
+Clicking "Reserve All" will reserve all the pre-minted NFTs and those reserved for giveaways at once.
 
-<figure><img src="../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>Enter the number of Writing NFT to reserve and set the Initial Price</p></figcaption></figure>
+In the Sales Settings, you can set the initial price for the Writing NFTs, which can be 8, 128, 1024, or 4096 LIKE.
+
+Once done, click "Next".
+
+<figure><img src="../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>Enter the number of Writing NFT to premint and reserve for giveaways, then set the initial price</p></figcaption></figure>
 
 ### Step 4/4: Sign
 
@@ -202,13 +206,13 @@ If your article is registered with ISCN, you can also use the [**NFT Portal**](h
 
 ### Method 1: Publish Writing NFT directly from ISCN
 
-After the article is published and regsitered with ISCN, go to "[My Publishing](https://app.like.co/works)" of [app.like.co](https://app.like.co/) to find the ISCN of the article, and click "Mint NFT" on the top right corner to directly mint the ISCN as Writing NFT, the steps are exactly the same as [Publish Writing NFT with Article URL Step 2-2/4](nft-portal.md#step-2-4-preview-nft).
+After the article is published and regsitered with ISCN, go to "[My Works](https://app.like.co/works)" of [app.like.co](https://app.like.co/) to find the ISCN of the article, and click "Mint NFT" on the top right corner to directly mint the ISCN as Writing NFT, the steps are exactly the same as [Publish Writing NFT with Article URL Step 2-2/4](nft-portal.md#step-2-4-preview-nft).
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 4.png" alt=""><figcaption><p>Click Mint NFT to mint ISCN into Writing NFT</p></figcaption></figure>
 
 ### Method 2: Copy the ISCN ID and publish Writing NFT
 
-Go to "[My Publishing](https://app.like.co/works)" at [app.like.co](https://app.like.co/) to find the ISCN ID of the registered article and copy it.
+Go to "[My Works](https://app.like.co/works)" at [app.like.co](https://app.like.co/) to find the ISCN ID of the registered article and copy it.
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 2.png" alt=""><figcaption><p>Minting ISCN ID as Writing NFT</p></figcaption></figure>
 
