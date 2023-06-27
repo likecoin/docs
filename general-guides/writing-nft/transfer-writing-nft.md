@@ -83,13 +83,13 @@ description: 簡單發送 Writing NFT 沒難度
 #### 方法一：
 
 * 在 [LikeCoin NFT Marketplace](https://likecoin.github.io/likecoin-nft-marketplace/) 的介面工具 ( Tools ) 中選 [Send NFTs](https://likecoin.github.io/likecoin-nft-marketplace/tools/send) 並登入 Keplr。
-* 在用以群發給支持者的 Writing NFT 找出 NFT Class ID。
+* 在用以群發給支持者的 Writing NFT 找出 [NFT Class ID](collect-writing-nft/nft-details.md#nft-class-id)。
 * 將 NFT Class ID 輸入 Send NFTs 工具，並輸入支持者的錢包地址清單 ( Recepient Address list ) 及留給他們的話 ( Transfer message ) ，再點「Send」及在 Keplr 簽署，即可群發 NFT。
 
 #### 方法二：
 
 * 在 [LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/) 選 [Send NFT](https://likecoin.github.io/iscn-nft-tools/send-nft) 並登入 Keplr。
-* 預備 csv 檔案（見[範例](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv)），內裡包括錢包地址 ( address )，送出 NFT 的 classid 及 memo，亦即是[附加留言](transfer-writing-nft.md#bu-zhou-er-shu-ru-qian-bao-di-zhi-ji-fu-jia-liu-yan)，再點「Send」及在 Keplr 簽署，即可群發 NFT。
+* 預備 csv 檔案（見[範例](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv)），內裡包括錢包地址 ( address )，送出 NFT 的 [classid](collect-writing-nft/nft-details.md#nft-class-id) 及 memo，亦即是[附加留言](transfer-writing-nft.md#bu-zhou-er-shu-ru-qian-bao-di-zhi-ji-fu-jia-liu-yan)，再點「Send」及在 Keplr 簽署，即可群發 NFT。
 
 #### **詳盡介紹**
 
