@@ -6,17 +6,17 @@ description: 在二級市場自由買賣 NFT
 
 LikeCoin NFT [二級市場](https://likecoin.github.io/likecoin-nft-marketplace/)原型出爐，實現 NFT 自由買賣。你可以在上面檢閱和購買用戶正在出售的 NFT，也可以找到最新的買賣數據。&#x20;
 
-<figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 1.png" alt=""><figcaption><p>點「Connect」登入</p></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 2.png" alt=""><figcaption><p>查看已擁有的 NFT</p></figcaption></figure>
-
 [**LikeCoin NFT Marketplace**](https://likecoin.github.io/likecoin-nft-marketplace/) 功能包括：
 
 [**My NFT**](https://likecoin.github.io/likecoin-nft-marketplace/owned)－點右上角「Connect」連接 Keplr 瀏覽器擴充功能查看已擁有的 NFT。
 
-[**Latest Listing**](https://likecoin.github.io/likecoin-nft-marketplace/)－二級市場最新上市的 NFT。
+<figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 1.png" alt=""><figcaption><p>點「Connect」登入</p></figcaption></figure>
 
-[**Latest Purchse**](https://likecoin.github.io/likecoin-nft-marketplace/latest/purchase)－二級市場最新售出的 NFT。
+<figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 2.png" alt=""><figcaption><p>查看已擁有的 NFT</p></figcaption></figure>
+
+[**Latest Listing**](https://likecoin.github.io/likecoin-nft-marketplace/)－查看二級市場最新上市的 NFT。
+
+[**Latest Purchse**](https://likecoin.github.io/likecoin-nft-marketplace/latest/purchase)－查看二級市場最新售出的 NFT。
 
 [**Search**](https://likecoin.github.io/likecoin-nft-marketplace/search)－尋找特定的 NFT Class ID。
 
