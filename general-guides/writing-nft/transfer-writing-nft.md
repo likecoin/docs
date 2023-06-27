@@ -10,39 +10,41 @@ description: 簡單發送 Writing NFT 沒難度
 
 以下將示範如何發送 Writing NFT。
 
-## 步驟一：登入並發送
+## 如何發送 Writing NFT
+
+### 步驟一：登入並發送
 
 登入 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/)[Leap Browser Extension](../wallet/leap/)、[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker Land app](../../user-guide/liker-land/download.md) 後點需要發送的 NFT，並查看存量「擁有」了多少個。確定發送後點「發送」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 1.png" alt=""><figcaption><p>點「發送」開始發送 Writing NFT</p></figcaption></figure>
 
-## 步驟二：輸入錢包地址及附加留言
+### 步驟二：輸入錢包地址及附加留言
 
 在發送你的 NFT 頁面輸入收取 NFT 的錢包地址，及於附加留言空格填入訊息後點「發送」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 2.png" alt=""><figcaption><p>輸入錢包地址及附加留言</p></figcaption></figure>
 
-## 步驟三：確認發送
+### 步驟三：確認發送
 
-### 在 Keplr 確認發送 Writing NFT
+#### 在 Keplr 確認發送 Writing NFT
 
 在 Keplr 彈出視窗，點「Approve」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 3.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve」</p></figcaption></figure>
 
-### 在 Cosmostation 確認發送 Writing NFT
+#### 在 Cosmostation 確認發送 Writing NFT
 
 在 Cosmostation 彈出視窗，點「Confirm」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 5.png" alt=""><figcaption><p>Cosmostation 彈出視窗，點「Confirm」</p></figcaption></figure>
 
-### 在 Leap 確認發送 Writing NFT
+#### 在 Leap 確認發送 Writing NFT
 
 在 Leap 彈出視窗，點「Approve」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 11.png" alt=""><figcaption><p>Leap 彈出視窗，點「Approve」</p></figcaption></figure>
 
-### 在 Cosmostation app 確認發送 Writing NFT
+#### 在 Cosmostation app 確認發送 Writing NFT
 
 在手機上出現簽名請求，點「Confirm」確認發送。
 
@@ -50,7 +52,7 @@ description: 簡單發送 Writing NFT 沒難度
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 10.png" alt=""><figcaption><p>在 Cosmostation app 點「Confirm」</p></figcaption></figure>
 
-### 在 Liker Land app 確認發送 Writing NFT
+#### 在 Liker Land app 確認發送 Writing NFT
 
 在手機上出現簽名請求，點「允許」確認發送。
 
@@ -58,7 +60,7 @@ description: 簡單發送 Writing NFT 沒難度
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 6.png" alt=""><figcaption><p>在 Liker Land app 點「允許」</p></figcaption></figure>
 
-## 步驟四：成功發送
+### 步驟四：成功發送
 
 彈出視窗出現發送完成代表經已成功發送 NFT。與此同時「擁有」的數字亦會有所改變。你亦可通知收件者查看是否已收到 Writing NFT。
 
@@ -76,13 +78,18 @@ description: 簡單發送 Writing NFT 沒難度
 
 **步驟二**：導出所有數據 ( Export all data )。
 
-**步驟三**：將數據的 csv 導入試算表工具進行分類與排序，並將支持者錢包地址整理成清單。
+**步驟三**：將數據的 csv 導入試算表工具進行分類與排序，並將支持者錢包地址整理成清單。之後用戶可選擇同種不同方式去群發 NFT：
 
-**步驟四**：在 [LikeCoin NFT Marketplace](https://likecoin.github.io/likecoin-nft-marketplace/) 的介面工具 ( Tools ) 中選 Send NFTs 並登入 Keplr。
+#### 方法一：
 
-**步驟五**：在用以群發給支持者的 Writing NFT 找出 NFT Class ID。
+* 在 [LikeCoin NFT Marketplace](https://likecoin.github.io/likecoin-nft-marketplace/) 的介面工具 ( Tools ) 中選 [Send NFTs](https://likecoin.github.io/likecoin-nft-marketplace/tools/send) 並登入 Keplr。
+* 在用以群發給支持者的 Writing NFT 找出 NFT Class ID。
+* 將 NFT Class ID 輸入 Send NFTs 工具，並輸入支持者的錢包地址清單 ( Recepient Address list ) 及留給他們的話 ( Transfer message ) ，再點「Send」及在 Keplr 簽署，即可群發 NFT。
 
-**步驟六**：將 NFT Class ID 輸入 Send NFTs 工具，並輸入支持者的錢包地址清單 ( Recepient Address list ) 及留給他們的話 ( Transfer message ) ，再點「Send」及在 Keplr 簽署，即可群發 NFT。
+#### 方法二：
+
+* 在 [LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/) 選 [Send NFT](https://likecoin.github.io/iscn-nft-tools/send-nft) 並登入 Keplr。
+* 預備 csv 檔案（見[範例](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv)），內裡包括錢包地址 ( address )，送出 NFT 的 classid 及 memo，亦即是[附加留言](transfer-writing-nft.md#bu-zhou-er-shu-ru-qian-bao-di-zhi-ji-fu-jia-liu-yan)，再點「Send」及在 Keplr 簽署，即可群發 NFT。
 
 #### **詳盡介紹**
 
