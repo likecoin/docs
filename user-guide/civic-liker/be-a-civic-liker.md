@@ -14,9 +14,23 @@ Please note that there is no "Ranking" system for Civic Liker, and the only effe
 
 * Every clap on the LikeCoin button by a Civic Liker will be equivalent to 1 LikeCoin.
 * The stake reward derived from Civic Liker delegation every day will be distributed to the creators according to the principle of 1 clap to the LikeCoin button = 1 LIKE.
-  * The unused staking reward can be accumulated until the account balance is used up.
+* The unused staking reward can be accumulated until the account balance is used up.
 
 Civic Liker can not only distribute the delegation rewards but also distribute the [Creators Fund](creators-fund.md). The influence of clicking the LikeCoin button on the allocation of funds will vary with the delegation amount. Stake more, reward more, and have greater power to vote in LikeCoin DAO and for Creators Fund distribution.
+
+{% hint style="info" %}
+Regarding the accumulation of a significant amount of stake rewards account balance without clapping to creators, the Creation Fund Committee proposed implementing a higher tiers spending mechanism as early as July last year \[refer to the [Creators Fund Status Review (Feb – Jun 2022)](https://blog.like.co/en/creators-fund-status-review-feb-jun-2022/)]. Therefore, starting from June 27, 2023, the distribution of stake rewards account balance will undergo the following changes.
+
+The distribution of stake rewards account balance will be as follows:
+
+Civic Liker with 1-100 LIKE in total rewards, the principle of 1 clap = 1 LIKE will be applied when distributing rewards to creators.
+
+Civic Liker with over 100 LIKE in total rewards, the principle of 1 clap = 10 LIKE will be applied when distributing rewards to creators.
+
+Civic Liker with over 10,000 LIKE in total rewards, the principle of 1 clap = 100 LIKE will be applied when distributing rewards to creators.
+
+These changes will only affect less than 10% of users.
+{% endhint %}
 
 ## Become a Civic Liker by delegating with dao.like.co
 

@@ -12,7 +12,7 @@ The LikeCoin [NFT Marketplace prototype](https://likecoin.github.io/likecoin-nft
 
 <figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 1.png" alt=""><figcaption><p>Click "Connect" to login</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 2.png" alt=""><figcaption><p>Check out the NFT that you have and Click "Sell" to list the NFT to the Marketplace</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 2.png" alt=""><figcaption><p>Check out the NFT that you have and click "Sell" to list the NFT to the Marketplace</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 3.png" alt=""><figcaption><p>Enter the Price, Offer expiration date and click "Conifirm"</p></figcaption></figure>
 
