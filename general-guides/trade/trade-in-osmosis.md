@@ -144,7 +144,7 @@ Go to Assets and your LIKE increased. click "Withdraw >" then Withdraw LIKE appe
 
 ## Buy LikeCoin in Osmosis
 
-You can use Transak to buy OSMO in Osmosis and swap it for LIKE. Note that only desktop computers and [Keplr browser extension](../wallet/keplr/) are supported for the time being.
+You can use Transak to buy OSMO in Osmosis and swap it for LIKE.
 
 ### Step 1: Connect Osmosis
 
@@ -295,3 +295,7 @@ Go to the Osmosis frontpage and select LIKE to swap for any other cryptocurrency
 <figure><img src="../../.gitbook/assets/Osmosis 33.png" alt=""><figcaption><p>Enter the amount to swap, check out the Rate, Swap Fee and Estimate output and click "Swap"</p></figcaption></figure>
 
 Check your Assets to see the funds you traded. Click "Withdraw >" to withdraw your token, just like how you would [Swap OSMO for LIKE](trade-in-osmosis.md#step-5-swap-usdosmo-for-usdlike).
+
+{% hint style="info" %}
+Users can also use Osmosis Apps in Keplr Mobile to swap and deposit/withdraw.
+{% endhint %}

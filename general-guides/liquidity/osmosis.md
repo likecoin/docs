@@ -112,3 +112,7 @@ After the unbinding is complete, go back to Level 1 and click "Remove Liquidity"
 ## Check out past performance
 
 Go to Info on the menu or [https://info.osmosis.zone/](https://info.osmosis.zone/) will provide statistics of the liquidity pool.
+
+{% hint style="info" %}
+Users can also use Osmosis Apps in Keplr Mobile to add and manage liquidity.
+{% endhint %}
