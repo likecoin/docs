@@ -53,3 +53,13 @@ Please note that the Keplr mobile app currently does not support LikeCoin.
 {% content-ref url="../../../user-guide/depub.space/" %}
 [depub.space](../../../user-guide/depub.space/)
 {% endcontent-ref %}
+
+#### Swap LikeCoin and earn liquidity mining incentives on Osmosis:
+
+{% content-ref url="../../trade/trade-in-osmosis.md" %}
+[trade-in-osmosis.md](../../trade/trade-in-osmosis.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../liquidity/" %}
+[liquidity](../../liquidity/)
+{% endcontent-ref %}

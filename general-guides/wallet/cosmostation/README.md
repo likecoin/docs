@@ -55,3 +55,9 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 {% content-ref url="../../../user-guide/depub.space/" %}
 [depub.space](../../../user-guide/depub.space/)
 {% endcontent-ref %}
+
+#### Swap LikeCoin in Osmosis:
+
+{% content-ref url="../../trade/trade-in-osmosis.md" %}
+[trade-in-osmosis.md](../../trade/trade-in-osmosis.md)
+{% endcontent-ref %}

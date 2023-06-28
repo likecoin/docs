@@ -48,6 +48,12 @@ Note that Leap does not support the registration of Liker ID yet.
 [collect-writing-nft-on-desktop.md](../../writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
 {% endcontent-ref %}
 
+#### Swap LiikeCoin in Osmosis:
+
+{% content-ref url="../../trade/trade-in-osmosis.md" %}
+[trade-in-osmosis.md](../../trade/trade-in-osmosis.md)
+{% endcontent-ref %}
+
 ## Leap Mobile Wallet
 
 Leap also launched a mobile wallet, which has the same function as the Leap Browser Extension. Since it is still in the trial stage, please refer to the [Leap official website](https://www.leapwallet.io/) for more details.

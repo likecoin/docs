@@ -297,5 +297,5 @@ Go to the Osmosis frontpage and select LIKE to swap for any other cryptocurrency
 Check your Assets to see the funds you traded. Click "Withdraw >" to withdraw your token, just like how you would [Swap OSMO for LIKE](trade-in-osmosis.md#step-5-swap-usdosmo-for-usdlike).
 
 {% hint style="info" %}
-Users can also use Osmosis Apps in Keplr Mobile to swap and deposit/withdraw.
+Users can also use Osmosis App in Keplr Mobile to swap and deposit/withdraw.
 {% endhint %}
