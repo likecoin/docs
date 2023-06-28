@@ -8,13 +8,7 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 注意流動性挖礦有機會讓用戶遭遇無常損失 ( Impermanent Loss )，請自行評估相關風險。
 
-進行流動性挖礦方法很簡單，首先你需要先註冊 Keplr 錢包
-
-{% content-ref url="../wallet/keplr/" %}
-[keplr](../wallet/keplr/)
-{% endcontent-ref %}
-
-及將 LikeCoin 轉帳到錢包內。
+進行流動性挖礦方法很簡單，首先你需要於桌面電腦操作並先註冊 [Keplr](../wallet/keplr/)、[Leap](../wallet/leap/)、[Cosmostation](../wallet/cosmostation/) 或 [Keplr Mobile](../wallet/keplr-mobile/) 及將 LikeCoin 轉帳到錢包內。
 
 {% content-ref url="../wallet/like-pay.md" %}
 [like-pay.md](../wallet/like-pay.md)
@@ -57,6 +51,8 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 <figure><img src="../../.gitbook/assets/Osmosis LP 2.png" alt=""><figcaption><p>點「Add Liquidity」</p></figcaption></figure>
 
 出現 Add Liquidity 畫面，填寫放置進流動性池的 LIKE 數量，OSMO 數量會自動依比例填入，再點「Add Liquidity」添加流動性，Keplr 錢包將彈出確認視窗，點「Approve」即可。接下的數項操作亦將需要 Keplr 確認操作，到時均可一律點「Approve」。
+
+使用 Leap、Cosmostation、Keplr Mobile 亦會彈出相應確認畫面。
 
 <figure><img src="../../.gitbook/assets/Osmosis LP 3.png" alt=""><figcaption><p>輸入 LIKE 及 OSMO 數量再點「Add Liquidity」</p></figcaption></figure>
 

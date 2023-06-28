@@ -53,3 +53,13 @@ description: Cosmostation 是支援 LikeCoin 的多鏈錢包
 {% content-ref url="../../../user-guide/depub.space/" %}
 [depub.space](../../../user-guide/depub.space/)
 {% endcontent-ref %}
+
+#### 在 Osmosis 交易 LikeCoin，獲得得流動性挖礦獎勵：
+
+{% content-ref url="../../trade/trade-in-osmosis.md" %}
+[trade-in-osmosis.md](../../trade/trade-in-osmosis.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../liquidity/" %}
+[liquidity](../../liquidity/)
+{% endcontent-ref %}

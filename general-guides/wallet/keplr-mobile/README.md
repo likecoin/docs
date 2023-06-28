@@ -45,3 +45,13 @@ Keplr Mobile 是 Keplr 的手機版錢包。通過移動設備裝置的便利，
 {% content-ref url="../../writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md" %}
 [collect-writing-nft-on-mobile.md](../../writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
 {% endcontent-ref %}
+
+#### 在 Osmosis 交易 LikeCoin，獲得得流動性挖礦獎勵：
+
+{% content-ref url="../../trade/trade-in-osmosis.md" %}
+[trade-in-osmosis.md](../../trade/trade-in-osmosis.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../liquidity/" %}
+[liquidity](../../liquidity/)
+{% endcontent-ref %}
