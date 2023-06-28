@@ -21,10 +21,14 @@ description: 贊助創作者方法非常簡單
 {% hint style="info" %}
 針對有讚賞公民累積大量可讚賞總額（即委託讚賞公民節點每天差生的委託回報）卻未有拍手回饋予創作者，創作基金委員會早於去年 7 月已建議實施高一層次的花費機制〔詳見[創作基金現況報告（2022 年 2-6 月）](https://blog.like.co/zh/%E5%89%B5%E4%BD%9C%E5%9F%BA%E9%87%91%E7%8F%BE%E6%B3%81%E5%A0%B1%E5%91%8A%EF%BC%882022-%E5%B9%B4-2-6-%E6%9C%88%EF%BC%89/)〕 。是以由 2023年 6 月 27 日開始，讚賞公民可讚賞總額的分配將作出以下變更。
 
-讚賞公民可讚賞總額為：\
-1-100 LIKE 的讚賞公民，會以 1 拍手 = 1 LIKE 的原則分配予創作者\
-100 LIKE 以上的讚賞公民，會以 1 拍手 = 10 LIKE 的原則分配予創作者\
-10,000 LIKE 以上的讚賞公民，會以 1 拍手 = 100 LIKE 的原則分配予創作者\
+讚賞公民可讚賞總額為：
+
+1-100 LIKE 的讚賞公民，會以 1 拍手 = 1 LIKE 的原則分配予創作者
+
+100 LIKE 以上的讚賞公民，會以 1 拍手 = 10 LIKE 的原則分配予創作者
+
+10,000 LIKE 以上的讚賞公民，會以 1 拍手 = 100 LIKE 的原則分配予創作者
+
 是次變更只會影響少於 10% 的用戶。
 {% endhint %}
 
@@ -74,9 +78,9 @@ description: 贊助創作者方法非常簡單
 
 ![點左手邊菜單選「Portfolio」查看委託明細](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
 
-## 使用 Liker Land app 委託成為讚賞公民
+## 使用 Keplr Mobile、Cosmostation app 或 Liker Land app 委託成為讚賞公民
 
-步驟詳見[使用 Liker Land app 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin/#delegate-via-liker-land) 章節，選取名稱為 Civic Liker 讚賞公民節點進行委託即可。
+步驟詳見[以手機委託 LikeCoin 章節](../../general-guides/stake/delegation-of-likecoin/on-mobile.md)，選取名稱為 Civic Liker 讚賞公民節點進行委託即可。
 
 {% hint style="success" %}
 滿足委託條件後，讚賞公民身份將於 24小時內生效。

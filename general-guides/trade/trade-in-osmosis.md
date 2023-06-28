@@ -146,7 +146,7 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 
 ## 在 Osmosis 購買 LikeCoin
 
-用戶可以在 Osmosis 使用 Transak 購買 OSMO，再交換為 LIKE。留意暫時只支援以桌面電腦及 [Keplr 瀏覽器擴充功能](../wallet/keplr/)操作。
+用戶可以在 Osmosis 使用 Transak 購買 OSMO，再交換為 LIKE。
 
 ### 步驟一：接通 Osmosis
 
@@ -154,9 +154,9 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 
 <figure><img src="../../.gitbook/assets/Osmosis 1.png" alt=""><figcaption><p>點右上角「Connect Wallet」</p></figcaption></figure>
 
-在 Connect Wallet 點 [Keplr Wallet](../wallet/keplr/)。
+在 Connect Wallet 點 [Keplr](../wallet/keplr/)、[Leap](../wallet/leap/)、[Cosmostation](../wallet/cosmostation/) 或 [Keplr Mobile](../wallet/keplr/) 進行連結。
 
-<figure><img src="../../.gitbook/assets/Osmosis 2.png" alt=""><figcaption><p>點 Keplr Wallet</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Osmosis 2.png" alt=""><figcaption><p>在 Connect Wallet 點 Keplr、Leap、Cosmostation 或 Keplr Mobile 進行連結</p></figcaption></figure>
 
 右上角出現你的錢包名稱及經已擁有 OSMO 密碼貨幣的數量。你亦可以隨時點它斷開連結。
 
@@ -248,7 +248,7 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 
 <figure><img src="../../.gitbook/assets/Osmosis 22.png" alt=""><figcaption><p>確認資料無誤後點「Confirm」</p></figcaption></figure>
 
-交易完成。你會收到電郵並於 Keplr 錢包中看到已購買的 OSMO。
+交易完成。你會收到電郵並於 Keplr、Leap、Cosmostation 或 Keplr Mobile錢包中看到已購買的 OSMO。
 
 <figure><img src="../../.gitbook/assets/Osmosis 23.png" alt=""><figcaption><p>交易完成收到電郵</p></figcaption></figure>
 
@@ -260,7 +260,7 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 
 <figure><img src="../../.gitbook/assets/Osmosis 25.png" alt=""><figcaption><p>輸入需要兌換的數量，查看兌換率、需要付出的互換交易費用及預計所得到的 LIKE 數量，點「Swap」進行交易</p></figcaption></figure>
 
-Keplr 彈出交易畫面，點「Approve 」繼續。
+Keplr 彈出交易畫面，點「Approve 」繼續。使用 Leap、Cosmostation、Keplr Mobile 亦會彈出相應確認畫面。
 
 <figure><img src="../../.gitbook/assets/Osmosis 26.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve 」繼續</p></figcaption></figure>
 
@@ -282,7 +282,7 @@ Keplr 彈出交易畫面，點「Approve 」繼續。
 
 <figure><img src="../../.gitbook/assets/Osmosis 30.png" alt=""><figcaption><p>輸入需要存進的 LIKE 數量再點「Deposit LIKE」</p></figcaption></figure>
 
-Keplr 彈出 IBC Transfer 畫面，點「Approve」。
+Keplr 彈出 IBC Transfer 畫面，點「Approve」。使用 Leap、Cosmostation、Keplr Mobile 亦會彈出相應確認畫面。
 
 <figure><img src="../../.gitbook/assets/Osmosis 31.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve 」繼續</p></figcaption></figure>
 
@@ -292,7 +292,7 @@ Osmosis 右上角彈出視窗，到最後出現 IBC Transfer Complete 即代表�
 
 ### 步驟二：將 LIKE 交換為其他密碼貨幣
 
-回到 Osmosis 主頁選 Swap，並選擇 LIKE 轉換為其他 Osmosis 支援的密碼貨幣。在下方點開查看兌換率、需要付出的互換交易費用 ( Swap Fee )，以及預計所得到的密碼貨幣數量 ( Expected Output )。查看無誤後點「Swap」進行交易。並於 Keplr 彈出交易畫面，點「Approve 」完成交易。
+回到 Osmosis 主頁選 Swap，並選擇 LIKE 轉換為其他 Osmosis 支援的密碼貨幣。在下方點開查看兌換率、需要付出的互換交易費用 ( Swap Fee )，以及預計所得到的密碼貨幣數量 ( Expected Output )。查看無誤後點「Swap」進行交易。並於 Keplr、Leap、Cosmostation 或 Keplr Mobile 彈出交易畫面，進行確認並完成交易。
 
 <figure><img src="../../.gitbook/assets/Osmosis 33.png" alt=""><figcaption><p>輸入需要兌換的數量，查看兌換率、需要付出的互換交易費用及預計所得到的密碼貨幣數量，點「Swap」進行交易</p></figcaption></figure>
 
