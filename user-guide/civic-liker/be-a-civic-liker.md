@@ -23,11 +23,11 @@ Regarding the accumulation of a significant amount of stake rewards account bala
 
 The distribution of stake rewards account balance will be as follows:
 
-Civic Liker with 1-100 LIKE in total rewards, the principle of 1 clap = 1 LIKE will be applied when distributing rewards to creators.
+Civic Liker with 1-100 LIKE in stake rewards account balance, the principle of 1 clap = 1 LIKE will be applied when distributing rewards to creators.
 
-Civic Liker with over 100 LIKE in total rewards, the principle of 1 clap = 10 LIKE will be applied when distributing rewards to creators.
+Civic Liker with over 100 LIKE in stake rewards account balance, the principle of 1 clap = 10 LIKE will be applied when distributing rewards to creators.
 
-Civic Liker with over 10,000 LIKE in total rewards, the principle of 1 clap = 100 LIKE will be applied when distributing rewards to creators.
+Civic Liker with over 10,000 LIKE in stake rewards account balance, the principle of 1 clap = 100 LIKE will be applied when distributing rewards to creators.
 
 These changes will only affect less than 10% of users.
 {% endhint %}
@@ -78,9 +78,9 @@ Click "Portfolio" on the left-hand side menu, and you will see "You Stake" showi
 
 ![Click "Portfolio" in the left-hand side menu and check the details](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
 
-## Become a Civic Liker by delegating with the Liker Land app
+## Become a Civic Liker by delegating via the Keplr Mobile, Cosmostation app and Liker Land app
 
-For details, please refer to "[Delegate via Liker Land](../../general-guides/stake/delegation-of-likecoin/)" and select the Civic Liker node to delegate.
+For details, please refer to [Delegate on mobile](../../general-guides/stake/delegation-of-likecoin/delegate-on-mobile.md) and select the Civic Liker node to delegate.
 
 {% hint style="success" %}
 Civic Liker will take effect within 24 hours after the delegation is completed.

@@ -152,9 +152,9 @@ Go to the Osmosis website [https://app.osmosis.zone/](https://app.osmosis.zone/)
 
 <figure><img src="../../.gitbook/assets/Osmosis 1.png" alt=""><figcaption><p>Click "Connect Wallet" on the top right hand corner</p></figcaption></figure>
 
-On Connect Wallet, select "[Keplr Wallet](../wallet/keplr/)".
+On Connect Wallet, select [Keplr](../wallet/keplr/), [Leap](../wallet/leap/), [Cosmostation](../wallet/cosmostation/) or [Keplr Mobile](../wallet/keplr-mobile/).
 
-<figure><img src="../../.gitbook/assets/Osmosis 2.png" alt=""><figcaption><p>select "Keplr Wallet"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Osmosis 2.png" alt=""><figcaption></figcaption></figure>
 
 On the top right hand corner your wallet name and OSMO balance appear. You can also click them to disconnect at any time.
 
@@ -246,7 +246,7 @@ Your credit card information, wallet address, and the amount of OSMO are listed 
 
 <figure><img src="../../.gitbook/assets/Osmosis 22.png" alt=""><figcaption><p>Confirm all the information and click "Confirm".</p></figcaption></figure>
 
-Transaction complete. You will receive an email and have the OSMO in your Keplr wallet.
+Transaction complete. You will receive an email and have the OSMO in your Keplr, Leap, Cosmostation or Keplr Mobile.
 
 <figure><img src="../../.gitbook/assets/Osmosis 23.png" alt=""><figcaption><p>Transaction complete and receive email confirmation</p></figcaption></figure>
 
@@ -258,7 +258,7 @@ Go to the Osmosis frontpage and swap OSMO to LIKE. Enter the amount to swap, you
 
 <figure><img src="../../.gitbook/assets/Osmosis 25.png" alt=""><figcaption><p>Enter the amount to swap, check out the Rate, Swap Fee and Estimate output and click "Swap"</p></figcaption></figure>
 
-On Keplr pop-up screen, click "Approve" to continue.
+On Keplr pop-up screen, click "Approve" to continue. When using Leap, Cosmostation, and Keplr Mobile, the corresponding confirmation screen will also pop up.
 
 <figure><img src="../../.gitbook/assets/Osmosis 26.png" alt=""><figcaption><p>On Keplr pop-up screen, click "Approve" to continue</p></figcaption></figure>
 
@@ -280,7 +280,7 @@ On the Deposit LIKE page, enter the amount of LIKE you want to deposit in "Selec
 
 <figure><img src="../../.gitbook/assets/Osmosis 30.png" alt=""><figcaption><p>Enter the amount of LIKE you want to deposit and click "Deposit LIKE"</p></figcaption></figure>
 
-On IBC Transfer click "Approve".
+On IBC Transfer click "Approve" on Keplr. When using Leap, Cosmostation, and Keplr Mobile, the corresponding confirmation screen will also pop up.
 
 <figure><img src="../../.gitbook/assets/Osmosis 31.png" alt=""><figcaption><p>On Keplr pop-up screen, click "Approve" to continue</p></figcaption></figure>
 
@@ -290,7 +290,7 @@ After several pop-up screens appear, the IBC Transfer is complete and LIKE is de
 
 ### Step 2: Swap LIKE for other cryptocurrencies
 
-Go to the Osmosis frontpage and select LIKE to swap for any other cryptocurrency that Osmosis supports. Enter the amount you want to swap, and check the Rate, Swap Fee, and Expected output. Confirm the details and click "Swap" to perform the trade. Then on the Keplr pop-up screen, click "Approve" to continue.
+Go to the Osmosis frontpage and select LIKE to swap for any other cryptocurrency that Osmosis supports. Enter the amount you want to swap, and check the Rate, Swap Fee, and Expected output. Confirm the details and click "Swap" to perform the trade. Then approve the transaction on the Keplr, Leap, Cosmostation or Keplr Mobile pop-up screen.
 
 <figure><img src="../../.gitbook/assets/Osmosis 33.png" alt=""><figcaption><p>Enter the amount to swap, check out the Rate, Swap Fee and Estimate output and click "Swap"</p></figcaption></figure>
 
