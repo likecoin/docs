@@ -10,7 +10,7 @@ Using a mobile browser with [dao.like.co](https://dao.like.co/) can redelegate b
 
 On [Keplr Mobile](../../wallet/keplr-mobile/), click "Staking".
 
-<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 1 (1).png" alt=""><figcaption><p>Click "Staking"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr mobile redelegate 1.png" alt=""><figcaption><p>Click "Staking"</p></figcaption></figure>
 
 ### Step 2: Select the validator with delegation
 

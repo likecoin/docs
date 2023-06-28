@@ -8,13 +8,7 @@ On Osmosis, users can participate in LIKE liquidity pools for liquidity mining t
 
 Please note that liquidity mining may result in impermanent loss, so assess the risks before diving into the ecosystem.&#x20;
 
-Liquidity mining requires registration of Keplr wallet
-
-{% content-ref url="../wallet/keplr/" %}
-[keplr](../wallet/keplr/)
-{% endcontent-ref %}
-
-and depositing LikeCoin to Keplr.
+Liquidity mining requires registration of[ Keplr](../wallet/keplr/), [Leap](../wallet/leap/), [Cosmosation](../wallet/cosmostation/) or [Keplr Mobile](../wallet/keplr-mobile/) on desktop, and depositing your LikeCoin to these wallets.
 
 {% content-ref url="../wallet/like-pay.md" %}
 [like-pay.md](../wallet/like-pay.md)
@@ -57,6 +51,8 @@ After preparing LIKE and OSMO, on Level 1, you can earn swap fees for providing 
 <figure><img src="../../.gitbook/assets/Osmosis LP 2.png" alt=""><figcaption><p>Click "Add Liquidity"</p></figcaption></figure>
 
 On Add Liquidity, fill in the amount of LIKE that you are going to put in the pool, and the amount of OSMO will be automatically filled in. Then click "Add Liquidity". Keplr will pop up a confirmation window, click "Approve", and it's done. There are several steps that require confirmation from Keplr, click "Approve" when you come across them.
+
+When using Leap, Cosmostation, and Keplr Mobile, the corresponding confirmation screen will also pop up.
 
 <figure><img src="../../.gitbook/assets/Osmosis LP 3.png" alt=""><figcaption><p>Enter the amount of LIKE and OSMO and click "Add Liquidity"</p></figcaption></figure>
 

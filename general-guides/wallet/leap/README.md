@@ -48,10 +48,14 @@ Note that Leap does not support the registration of Liker ID yet.
 [collect-writing-nft-on-desktop.md](../../writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
 {% endcontent-ref %}
 
-#### Swap LiikeCoin in Osmosis:
+#### Swap LikeCoin and earn liquidity mining incentives on Osmosis:
 
 {% content-ref url="../../trade/trade-in-osmosis.md" %}
 [trade-in-osmosis.md](../../trade/trade-in-osmosis.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../liquidity/" %}
+[liquidity](../../liquidity/)
 {% endcontent-ref %}
 
 ## Leap Mobile Wallet

@@ -148,7 +148,7 @@ You can use Transak to buy OSMO in Osmosis and swap it for LIKE.
 
 ### Step 1: Connect Osmosis
 
-Go to the Osmosis website [https://app.osmosis.zone/](https://app.osmosis.zone/), click "Connect Wallet" on the top right hand corner.
+Go to the Osmosis website [https://app.osmosis.zone/](https://app.osmosis.zone/) on desktop, click "Connect Wallet" on the top right hand corner.
 
 <figure><img src="../../.gitbook/assets/Osmosis 1.png" alt=""><figcaption><p>Click "Connect Wallet" on the top right hand corner</p></figcaption></figure>
 
