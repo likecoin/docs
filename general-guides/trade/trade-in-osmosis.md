@@ -299,5 +299,5 @@ Osmosis 右上角彈出視窗，到最後出現 IBC Transfer Complete 即代表�
 換幣完成後，回到左手邊菜單的 Assets 可看到增加了的密碼貨幣，點「Withdraw >」即可提取，做法與[將 OSMO 交換為 LIKE](trade-in-osmosis.md#bu-zhou-wu-jiang-osmo-jiao-huan-wei-like) 相同。
 
 {% hint style="info" %}
-用戶也可以使用 Keplr Mobile 內的 Osmosis Apps 進行交換及存進/提取的操作。
+用戶也可以使用 Keplr Mobile 內的 Osmosis App 進行交換及存進/提取的操作。
 {% endhint %}

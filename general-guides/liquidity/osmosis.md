@@ -112,3 +112,7 @@ Osmosis 的流動性挖礦獎勵將以 OSMO 回饋予流動性挖礦者，並於
 ## 查看以往數據
 
 點左手邊菜單 Info 或到 [https://info.osmosis.zone/](https://info.osmosis.zone/) 可以查看各個流動性池的數據。
+
+{% hint style="info" %}
+用戶也可以使用 Keplr Mobile 內的 Osmosis App 管理流動性。
+{% endhint %}
