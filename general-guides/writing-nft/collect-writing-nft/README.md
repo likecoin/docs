@@ -138,6 +138,16 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT Finish.png" alt=""><figcaption><p>成功購買 Writing NFT</p></figcaption></figure>
 
+#### 繼續了解：
+
+{% content-ref url="collect-writing-nft-on-desktop.md" %}
+[collect-writing-nft-on-desktop.md](collect-writing-nft-on-desktop.md)
+{% endcontent-ref %}
+
+{% content-ref url="collect-writing-nft-on-mobile.md" %}
+[collect-writing-nft-on-mobile.md](collect-writing-nft-on-mobile.md)
+{% endcontent-ref %}
+
 ## 一鍵收藏 Writing NFT｛手機與桌機均適用）
 
 使用一鍵收藏功能可讓用戶一次過購買一位創作者的所有 Writing NFT，並且提供自動過濾功能，不用擔心會重覆購買已購買了的 NFT。
@@ -164,20 +174,10 @@ description: 如何收藏 Writing NFT
 
 ### 步驟四：查看已購買的 Writing NFT
 
-出現正在收藏作品頁面。
+出現收藏作品頁面。
 
-<figure><img src="../../../.gitbook/assets/Collect All 4.png" alt=""><figcaption><p>瀏覽器出現正在收藏作品頁</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect All 4.png" alt=""><figcaption><p>瀏覽器出現收藏作品頁</p></figcaption></figure>
 
-付款成功後可於[我的書架](../dashboard.md)，或點「檢視收藏頁」檢視已購買的 NFT。
+付款成功後可點「檢視收藏頁」檢視已購買的 NFT。
 
 <figure><img src="../../../.gitbook/assets/Collect All 5.png" alt=""><figcaption><p>點「檢視收藏頁」</p></figcaption></figure>
-
-#### 繼續了解：
-
-{% content-ref url="collect-writing-nft-on-desktop.md" %}
-[collect-writing-nft-on-desktop.md](collect-writing-nft-on-desktop.md)
-{% endcontent-ref %}
-
-{% content-ref url="collect-writing-nft-on-mobile.md" %}
-[collect-writing-nft-on-mobile.md](collect-writing-nft-on-mobile.md)
-{% endcontent-ref %}

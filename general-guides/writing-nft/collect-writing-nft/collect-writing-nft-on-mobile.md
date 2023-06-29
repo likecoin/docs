@@ -30,7 +30,7 @@ description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用�
 
 <figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 5.png" alt=""><figcaption><p>正預備運送作品</p></figcaption></figure>
 
-**步驟七**：付款成功後可於你的書架，或點「檢視 NFT」檢視已購買的 NFT。
+**步驟七**：付款成功後可於[我的書架](../dashboard.md)，或點「檢視 NFT」檢視已購買的 NFT。
 
 <figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 6.png" alt=""><figcaption><p>點「檢視 NFT」</p></figcaption></figure>
 
