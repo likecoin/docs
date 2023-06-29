@@ -28,7 +28,7 @@ Users can also collect Writing NFT on a mobile browser by LIKE using [Keplr Mobi
 
 #### [One-Click Collect Writing NFT](./#one-click-collect-writing-nft-1)
 
-Users can use [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to seamlessly purchase NFTs from the same author via desktop or mobile browser.
+Users can use [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to seamlessly purchase NFTs from the same creator via desktop or mobile browser.
 
 ## Start Collecting
 
@@ -40,7 +40,7 @@ Or go to the NFT details page and click "Collect" or the current NFT price. To b
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 2-en.png" alt=""><figcaption><p>NFT Content Details</p></figcaption></figure>
 
-Or else go to the author's [NFT Portfolio](nft-portfolio.md) (website: https://liker.land/\[wallet address] ) and click the current NFT price;
+Or else go to the creator's [NFT Portfolio](nft-portfolio.md) (website: https://liker.land/\[wallet address] ) and click the current NFT price;
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 3-en.png" alt=""><figcaption><p>NFT Portfolio</p></figcaption></figure>
 
@@ -142,7 +142,7 @@ Payment is successful! appears, the Writing NFT is successfully collected with a
 [collect-writing-nft-on-mobile.md](collect-writing-nft-on-mobile.md)
 {% endcontent-ref %}
 
-## One-Click Collect Writing NFT
+## One-Click Collect Writing NFT (For both desktop and mobile)
 
 Using the One-Click Collect feature allows users to purchase all Writing NFTs from a single creator at once, with an automatic filtering feature to prevent duplicate purchases of previously acquired NFTs.
 
@@ -154,7 +154,7 @@ Please log in to your [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/
 
 ### Step 2: Check your backpack
 
-The backpack page will appear. If you already own NFTs from the author, the system will automatically exclude those owned NFTs and only display the ones you have not collected before. You can also click the "X" to remove any NFTs you don't wish to purchase.
+The backpack page will appear. If you already own NFTs from the creator, the system will automatically exclude those owned NFTs and only display the ones you have not collected before. You can also click the "X" to remove any NFTs you don't wish to purchase.
 
 Once you have finished checking, click "Checkout".
 
