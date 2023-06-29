@@ -26,6 +26,10 @@ Users can use the [Liker Land app](../../../user-guide/liker-land/download.md) t
 
 Users can also collect Writing NFT on a mobile browser by LIKE using [Keplr Mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/) or [Liker Land app](../../../user-guide/liker-land/download.md).
 
+#### [One-Click Collect Writing NFT](./#one-click-collect-writing-nft-1)
+
+Users can use [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to seamlessly purchase NFTs from the same author via desktop or mobile browser.
+
 ## Start Collecting
 
 Go to the [Liker Land](https://liker.land/) Home page or [LikeCoin NFT Dashboard](tools.md) to check out the NFT that you want to buy, and click "Collect Now" to collect;
@@ -46,7 +50,7 @@ Also can click "Collect Now" on [NFT Widget](nft-widget.md);
 
 and start to collect Writing NFT.
 
-## Collect Writing NFT with a credit card ( Haven't created any wallet, For both Desktop and Mobile )
+## Collect Writing NFT with a credit card ( Haven't created any wallet, for both desktop and mobile )
 
 You can pay by credit card to purchase Writing NFT, and create a wallet to receive NFT after completing the purchase, which is simple and convenient.
 
@@ -86,7 +90,7 @@ Go to "[My Dashboard](https://liker.land/en/dashboard?tab=collected)" via the me
 
 <figure><img src="../../../.gitbook/assets/Buy NFT pay by card 7-en.png" alt=""><figcaption><p>View purchased Writing NFTs in My Dashboard</p></figcaption></figure>
 
-## Already have a wallet and collect Writing NFT with a credit card
+## Already have a wallet and collect Writing NFT with a credit card (For both desktop and mobile)
 
 Users can also register the [Keplr](../../wallet/keplr/) wallet first and then purchase Writing NFT with a credit card.
 
@@ -124,7 +128,7 @@ Payment Authentication page pop-up, enter your OTP code and press "VERIFY".
 
 ### Step 3: Check your NFT Collection
 
-Complete! page appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View Details" to see the details of the NFT purchased.
+Payment is successful! appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View the NFT" to see the details of the NFT purchased or you can go to [My Dashboard](../dashboard.md) to check out the NFT that you have collected.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT Finish-en.png" alt=""><figcaption><p>Successfully purchased Writing NFT</p></figcaption></figure>
 
@@ -137,3 +141,37 @@ Complete! page appears, the Writing NFT is successfully collected with an animat
 {% content-ref url="collect-writing-nft-on-mobile.md" %}
 [collect-writing-nft-on-mobile.md](collect-writing-nft-on-mobile.md)
 {% endcontent-ref %}
+
+## One-Click Collect Writing NFT
+
+Using the One-Click Collect feature allows users to purchase all Writing NFTs from a single creator at once, with an automatic filtering feature to prevent duplicate purchases of previously acquired NFTs.
+
+### Step 1: Login to your wallet and initiate One-Click Collect
+
+Please log in to your [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md). Then, on the creator's NFT Portfolio, click "Collect All".
+
+<figure><img src="../../../.gitbook/assets/Collect All 1-en.png" alt=""><figcaption><p>Click "Collect All"</p></figcaption></figure>
+
+### Step 2: Check your backpack
+
+The backpack page will appear. If you already own NFTs from the author, the system will automatically exclude those owned NFTs and only display the ones you have not collected before. You can also click the "X" to remove any NFTs you don't wish to purchase.
+
+Once you have finished checking, click "Checkout".
+
+<figure><img src="../../../.gitbook/assets/Collect All 2-en.png" alt=""><figcaption><p> Click "Checkout".</p></figcaption></figure>
+
+### Step 3: Confirm purchase
+
+Using Keplr as an example, a pop-up window will appear, and you can click "Approve" to confirm your purchase. The Cosmostation, Leap, Keplr Mobile, Cosmostation app, or Liker Land mobile application will also display the respective confirmation screens.
+
+<figure><img src="../../../.gitbook/assets/Collect All 3-en.png" alt=""><figcaption><p>Keplr window pops up click "Approve" to confirm the purchase</p></figcaption></figure>
+
+### Step 4: Check your NFT Collection
+
+The Collect NFT page will appear.
+
+<figure><img src="../../../.gitbook/assets/Collect All 4-en.png" alt=""><figcaption><p>The Collect NFT page appears in the browser</p></figcaption></figure>
+
+After the payment is successful, you can view the purchased NFT by clicking "View Portfolio".
+
+<figure><img src="../../../.gitbook/assets/Collect All 5-en.png" alt=""><figcaption><p>Successfully purchased Writing NFT</p></figcaption></figure>

@@ -258,7 +258,7 @@ Go to the Osmosis frontpage and swap OSMO to LIKE. Enter the amount to swap, you
 
 <figure><img src="../../.gitbook/assets/Osmosis 25.png" alt=""><figcaption><p>Enter the amount to swap, check out the Rate, Swap Fee and Estimate output and click "Swap"</p></figcaption></figure>
 
-On Keplr pop-up screen, click "Approve" to continue. When using Leap, Cosmostation, and Keplr Mobile, the corresponding confirmation screen will also pop up.
+On Keplr pop-up screen, click "Approve" to continue. When using Leap, Cosmostation, and Keplr Mobile, the respective confirmation screen will also pop up.
 
 <figure><img src="../../.gitbook/assets/Osmosis 26.png" alt=""><figcaption><p>On Keplr pop-up screen, click "Approve" to continue</p></figcaption></figure>
 
@@ -280,7 +280,7 @@ On the Deposit LIKE page, enter the amount of LIKE you want to deposit in "Selec
 
 <figure><img src="../../.gitbook/assets/Osmosis 30.png" alt=""><figcaption><p>Enter the amount of LIKE you want to deposit and click "Deposit LIKE"</p></figcaption></figure>
 
-On IBC Transfer click "Approve" on Keplr. When using Leap, Cosmostation, and Keplr Mobile, the corresponding confirmation screen will also pop up.
+On IBC Transfer click "Approve" on Keplr. When using Leap, Cosmostation, and Keplr Mobile, the respective confirmation screen will also pop up.
 
 <figure><img src="../../.gitbook/assets/Osmosis 31.png" alt=""><figcaption><p>On Keplr pop-up screen, click "Approve" to continue</p></figcaption></figure>
 
