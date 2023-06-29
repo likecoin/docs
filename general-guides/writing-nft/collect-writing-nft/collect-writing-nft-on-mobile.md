@@ -74,7 +74,7 @@ description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用�
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Keplr Mobile 7.png" alt=""><figcaption><p>正預備運送作品</p></figcaption></figure>
 
-**步驟八**：付款成功後可於你的書架，或點「檢視 NFT」檢視已購買的 NFT。
+**步驟八**：付款成功後可於[我的書架](../dashboard.md)，或點「檢視 NFT」檢視已購買的 NFT。
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Keplr Mobile 8.png" alt=""><figcaption><p>點「檢視 NFT」</p></figcaption></figure>
 
@@ -122,7 +122,7 @@ description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用�
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 9.png" alt=""><figcaption><p>瀏覽器出現正在收藏作品頁</p></figcaption></figure>
 
-**步驟十**：付款成功後可於你的書架，或點「檢視 NFT」檢視已購買的 NFT。
+**步驟十**：付款成功後可於[我的書架](../dashboard.md)，或點「檢視 NFT」檢視已購買的 NFT。
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 10.png" alt=""><figcaption><p>點「檢視 NFT」</p></figcaption></figure>
 

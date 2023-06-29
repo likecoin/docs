@@ -6,7 +6,7 @@ description: 如何收藏 Writing NFT
 
 無論有沒有區塊鏈錢包，使用桌機或手機，收藏 Writing NFT 同樣方便：
 
-#### [以信用卡付款收藏 Writing NFT (從未註冊錢包）](./#credit-card)
+#### [以信用卡付款收藏 Writing NFT（從未註冊錢包）](./#credit-card)
 
 適用於從未註冊過任何區塊鏈錢包的用戶，手機與桌機均適用。
 
@@ -24,7 +24,11 @@ description: 如何收藏 Writing NFT
 
 用戶可使用 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md) 以 LIKE 購買 NFT。
 
-用戶也可以手機瀏覽器配合 [Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)簽署用 LIKE 購買 Writing NFT：
+用戶也可以手機瀏覽器配合 [Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)簽署用 LIKE 購買 Writing NFT。
+
+#### [一鍵收藏 Writing NFT](./#yi-jian-shou-cang-writing-nft-shou-ji-yu-zhuo-ji-jun-shi-yong)
+
+同戶可選擇使用 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)任何一種方式透過桌機或手機瀏覽器一氣呵成購買同一位作者的 NFT。
 
 ## 開始收藏 NFT
 
@@ -86,7 +90,7 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT pay by card 7.png" alt=""><figcaption><p>在我的書架查看已購買的 Writing NFT</p></figcaption></figure>
 
-## 已擁有錢包並以信用卡付款收藏 Writing NFT <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
+## 已擁有錢包並以信用卡付款收藏 Writing NFT｛手機與桌機均適用） <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
 
 用戶也可以先註冊 [Keplr](../../wallet/keplr/) 錢包再以信用卡購買 Writing NFT。
 
@@ -130,9 +134,43 @@ description: 如何收藏 Writing NFT
 
 ### 步驟三：查看已購買的 Writing NFT
 
-出現「交易已完成！」並成功購買 Writing NFT。點「檢視資訊」可查看已購買的 NFT 詳細內容。
+出現「付款成功」並成功購買 Writing NFT。點「檢視 NFT」可查看已購買的 NFT 詳細內容或到[我的書架](../dashboard.md)查看已購買的 NFT。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT Finish.png" alt=""><figcaption><p>成功購買 Writing NFT</p></figcaption></figure>
+
+## 一鍵收藏 Writing NFT｛手機與桌機均適用）
+
+使用一鍵收藏功能可讓用戶一次過購買一位創作者的所有 Writing NFT，並且提供自動過濾功能，不用擔心會重覆購買已購買了的 NFT。
+
+### 步驟一：登入錢包並開始一鍵收藏
+
+請先登入你的  [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程](../../../user-guide/liker-land/download.md)，然後在創作者的 [NFT 展示櫃](nft-portfolio.md)點「一鍵收藏」。
+
+<figure><img src="../../../.gitbook/assets/Collect All 1.png" alt=""><figcaption><p>點「一鍵收藏」</p></figcaption></figure>
+
+### 步驟二：檢查背包
+
+出現背包頁面。假如你經已擁有該作者的 NFT，系統會自動幫你排除已擁有的 NFT，只留下你從未收藏過的 NFT。你也可以點「X」刪除你不想購買的 NFT。
+
+檢查完成後點「結帳」。
+
+<figure><img src="../../../.gitbook/assets/Collect All 2.png" alt=""><figcaption><p>在背包點「結帳」</p></figcaption></figure>
+
+### 步驟三：確認購買
+
+以 Keplr 為例，彈出視窗後點「Approve」確認購買。使用 Cosmostation、Leap、Keplr Mobile、Cosmostation app 或 Liker Land 手機應用程式亦會彈出相應的確認畫面，
+
+<figure><img src="../../../.gitbook/assets/Collect All 3.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve」確認購買</p></figcaption></figure>
+
+### 步驟四：查看已購買的 Writing NFT
+
+出現正在收藏作品頁面。
+
+<figure><img src="../../../.gitbook/assets/Collect All 4.png" alt=""><figcaption><p>瀏覽器出現正在收藏作品頁</p></figcaption></figure>
+
+付款成功後可於[我的書架](../dashboard.md)，或點「檢視收藏頁」檢視已購買的 NFT。
+
+<figure><img src="../../../.gitbook/assets/Collect All 5.png" alt=""><figcaption><p>點「檢視收藏頁」</p></figcaption></figure>
 
 #### 繼續了解：
 
