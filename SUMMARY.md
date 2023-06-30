@@ -107,7 +107,7 @@
   * [My Dashboard](general-guides/writing-nft/dashboard.md)
   * [Transfer Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)
   * [Mint Writing NFT](general-guides/writing-nft/nft-portal.md)
-  * [Mint NFT Book by Script (beta)](general-guides/writing-nft/mint-nft-book.md)
+  * [Mint NFT Book (beta)](general-guides/writing-nft/mint-nft-book.md)
   * [BookForest](general-guides/writing-nft/bookforest.io.md)
 * [Decentralized Publishing](general-guides/decentralized-publishing/README.md)
   * [What is ISCN](general-guides/decentralized-publishing/what-is-iscn.md)

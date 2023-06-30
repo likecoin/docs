@@ -2,7 +2,7 @@
 description: Publishing eBook as an NFT
 ---
 
-# Mint NFT Book by Script (beta)
+# Mint NFT Book (beta)
 
 ### 📣Minting Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../faucet.md) for testing.
 
@@ -26,33 +26,9 @@ The book info page is a single page that lists the book information, such as inf
 
 It would be best to have your book metadata as complete as possible before publishing the NFT book. You can continually update the metadata by updating the version of the book ISCN later if necessary, however. Book metadata includes but is not limited to author name, book name, stakeholders and their wallet address, book description, usage terms, etc.&#x20;
 
-## Install the Minting Script
-
-The minting script is a node.js script. &#x20;
-
-### Install the script
-
-Open your terminal and follow the below steps:
-
-1. Type the command&#x20;
-
-`git clone` [`https://github.com/likecoin/iscn-nft-tools`](https://github.com/likecoin/iscn-nft-tools)
-
-2. In the mint-nft folder and send-nft folder, run the command&#x20;
-
-`npm install`
-
-
-
-Program path: iscn-nft-tools/mint-nft
-
-Executable: index.js
-
 ### Preparing the data files&#x20;
 
-After installing the script, you will get a few sample data files in JSON format under the directory `iscn-nft-tools/mint-nft/data`.  Before running the script, you must prepare the necessary data file.
-
-The definitions of data files are stated below:
+Get a few sample data files in JSON format under the directory [https://github.com/likecoin/iscn-nft-tools/tree/master/mint-nft](https://github.com/likecoin/iscn-nft-tools/tree/master/mint-nft). You must prepare the necessary data file. The definitions of data files are stated below:
 
 #### iscn.json
 
@@ -71,7 +47,7 @@ The definitions of data files are stated below:
 | contentFingerprint            | decentralized storage hash, e.g.: "ipfs://QmVsa6WuHLiZtyfwQrFjgxwLvVqMPsvvvusTdCKmTyqkca", "ar://e-bMr7c3O\_sm20zb7X5Vu870Q8b-Pc7eIxmjYXgJmsI”                                                                        |
 | recordNotes                   | reserved                                                                                                                                                                                                              |
 
-<img src="../../.gitbook/assets/image (1).png" alt="Preview on liker.land" data-size="original">
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **nft\_class.json**
 
@@ -87,16 +63,7 @@ The definitions of data files are stated below:
 | metadata → nft\_meta\_collection\_name       | NFT category name                                                                                                                                                                                                                                                                                                           |
 | metadata → nft\_meta\_collection\_descrption | NFT category description                                                                                                                                                                                                                                                                                                    |
 
-#### nfts.csv
-
-| Fields   | Values                                                                                                                                                                                                                                                                                                                      |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| nftId    | The unique NFT ID under a specific NFT class ID. The system will generate a random ID if it is not specified. Format requirement: [https://docs.like.co/developer/likenft/likecoin-nft-module-spec#mintnft](https://docs.like.co/developer/likenft/likecoin-nft-module-spec#mintnft) .                                      |
-| uri      | <p>Optional, default value is null.<br><br>Advance usage: the URI of an API to return an image that serves as the og image of the NFT class, which is displayed in the portfolio/dashboard and class view of liker.land, and may display in detail view as well if nfts.csv and nfts_default.json are not set properly.</p> |
-| image    | The URL of an image that serves as the og image of the NFT, which is displayed in the NFT detail view of liker.land.                                                                                                                                                                                                        |
-| metadata | Metadata of the NFT image of any related parameter which is expected to be record on chain.                                                                                                                                                                                                                                 |
-
-#### **nft\_default.json**
+#### **nfts\_default.json**
 
 | Fields                   | Values                                                                                                                                                                                                                                                                                                                      |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -105,6 +72,15 @@ The definitions of data files are stated below:
 | metadata → description   | default NFT description if the field is not specified in nfts.csv metadata.                                                                                                                                                                                                                                                 |
 | metadata → image         | If image info is not available in nfts.csv, the image will be provided first by this this URI and second by the metadata→image field.                                                                                                                                                                                       |
 | metadata → external\_url | <p>The link to the “View Content” button in the NFT detail page, under the main NFT image.  <br>The url field in iscn.json takes preference.</p>                                                                                                                                                                            |
+
+#### nfts.csv
+
+| Fields   | Values                                                                                                                                                                                                                                                                                                                      |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| nftId    | The unique NFT ID under a specific NFT class ID. The system will generate a random ID if it is not specified. Format requirement: [https://docs.like.co/developer/likenft/likecoin-nft-module-spec#mintnft](https://docs.like.co/developer/likenft/likecoin-nft-module-spec#mintnft) .                                      |
+| uri      | <p>Optional, default value is null.<br><br>Advance usage: the URI of an API to return an image that serves as the og image of the NFT class, which is displayed in the portfolio/dashboard and class view of liker.land, and may display in detail view as well if nfts.csv and nfts_default.json are not set properly.</p> |
+| image    | The URL of an image that serves as the og image of the NFT, which is displayed in the NFT detail view of liker.land.                                                                                                                                                                                                        |
+| metadata | Metadata of the NFT image of any related parameter which is expected to be record on chain.                                                                                                                                                                                                                                 |
 
 #### Sample files
 
@@ -122,7 +98,67 @@ For technical details of NFT book, please refer to the below guide:
 [writing-nft-1.md](../../developer/likenft/writing-nft-1.md)
 {% endcontent-ref %}
 
-## Executing the Script
+## Mint NFT Book
+
+### Method 1: Publishing NFT Books using Mint LikeCoin NFT/NFT Book
+
+#### Step 1: Upload iscn.json and Register ISCN
+
+Please log in to your [Keplr](../wallet/keplr/) and select [MINT NFT](https://likecoin-nft-book-press-testnet.netlify.app/mint-nft) on [LikeCoin NFT Book Press](https://likecoin-nft-book-press-testnet.netlify.app/). Then click "Connect" in the upper right corner to connect to Keplr.
+
+On the Mint LikeCoin NFT/NFT Book page, select the prepared iscn.json file and click "Choose file" to upload it. After that, click "Create". Keplr will display a pop-up window. The system will register the ISCN based on the provided data. Please click "Approve" to sign and register.
+
+<figure><img src="../../.gitbook/assets/Mint NFT Book 1.png" alt=""><figcaption><p>Click "Choose file" to upload iscn.json and then click "Create"</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Mint NFT Book 2.png" alt=""><figcaption><p>Click "Approve" on Keplr to sign and register</p></figcaption></figure>
+
+#### Step 2: Create NFT Class
+
+After successfully registering the ISCN, create an NFT Class based on it. Unless you want to set a maximum supply limit, you don't need to fill in the "Max number of supply for the NFT Class (optional)" field. Click "Choose file" to upload the prepared nft\_class.json file. Then click "Create" and sign twice with Keplr by clicking "Approve" to generate the NFT Class.
+
+<figure><img src="../../.gitbook/assets/Mint NFT Book 3.png" alt=""><figcaption><p>Click "Choose file" to upload nft_class.json and then click "Create"</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Mint NFT Book 4.png" alt=""><figcaption><p>Click "Approve" twice on Keplr to generate the NFT Class</p></figcaption></figure>
+
+#### Step 3: Mint the NFT Book
+
+You need to upload two files: nfts\_default.json and nfts.csv to mint the NFT Book. Please note that the CSV file specifies the actual number of NFTs you want to publish, and you need to enter the same quantity in the "Number of NFT to mint" field. Then click "Create" and sign with Keplr by clicking "Approve" to confirm.
+
+<figure><img src="../../.gitbook/assets/Mint NFT Book 5.png" alt=""><figcaption><p>Click "Choose file" to upload nfts_default.json and nfts.csv, enter the Number of NFT to mint, and then click "Approve" on Keplr to sign and confirm</p></figcaption></figure>
+
+#### Step 4: Successfully mint the NFT Book
+
+A pop-up window will appear, and you can save the result file. Then return to the page where "Success!" is displayed, indicating NFT Book minted successfully. Click "View your NFT" to check the NFT book in Liker Land.
+
+<figure><img src="../../.gitbook/assets/Mint NFT Book 6.png" alt=""><figcaption><p>save the resSave the result file on the pop-up windowsult file</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Mint NFT Book 7.png" alt=""><figcaption><p>Click "View your NFT"</p></figcaption></figure>
+
+Since you have only completed minting and have not made them available for sale, the book quantity will be shown as "Sold out." The next step is to list the NFT books for sale on Liker Land.
+
+<figure><img src="../../.gitbook/assets/Mint NFT Book 9.png" alt=""><figcaption><p>View published NFT books at Liker Land</p></figcaption></figure>
+
+### Method 2: Install the Minting Script and mint NFT Book with it (Old version)
+
+The minting script is a node.js script. &#x20;
+
+#### Install the script
+
+Open your terminal and follow the below steps:
+
+1. Type the command&#x20;
+
+`git clone` [`https://github.com/likecoin/iscn-nft-tools`](https://github.com/likecoin/iscn-nft-tools)
+
+2. In the mint-nft folder and send-nft folder, run the command&#x20;
+
+`npm install`
+
+Program path: iscn-nft-tools/mint-nft
+
+Executable: index.js
+
+#### Executing the Script
 
 The script will perform three steps:&#x20;
 
@@ -140,8 +176,6 @@ Example:
 
 `IS_TESTNET=TRUE MNEMONIC="...." node index.js --nft-count 100 --iscn-id iscn://xxxx`
 
-
-
 Note:
 
 * either the parameter iscn-id or create-new-iscn must be specified, but cannot use both.
@@ -151,6 +185,66 @@ Note:
 * The number specified in nft-count should be matched the number of rows in data/nfts.csv.
 
 After executing the script, you should have minted the NFT successfully.  Congratulation!
+
+## List NFT Books
+
+### Step 1: Start listing NFT Books
+
+Please log in to your [Keplr](https://docs.like.co/v/zh/general-guides/wallet/keplr) and select "[Manage NFT Books](https://likecoin-nft-book-press-testnet.netlify.app/nft-book-store)" on [LikeCoin NFT Book Press](https://likecoin-nft-book-press-testnet.netlify.app/). Then click "Connect" in the upper right corner to connect to Keplr. On the New NFT Book Listing page, enter the following information:
+
+|                                            |                                                                                                                                |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| NFT Class ID                               | The Minted NFT Book Class ID                                                                                                   |
+| Price(USD) per NFT Book (Minimal $5)       | Minimum selling price for an NFT book should not be less than $5                                                               |
+| Total number of NFT for sale at this price | The total number of NFT books to be sold at this price. For example, 100 books out of 1,000 NFT books to be released for sale  |
+| Product name of this price                 | The product name of the NFT book to be sold in the particular price, supports Chinese and English settings                     |
+| Product description of this price          | The product description of the NFT book to be sold in the particular price, supports Chinese and English settings              |
+
+Click "Add more prices" to set different prices and product descriptions for different versions of the NFT book.
+
+Additionally, in the "Share sales data to wallets (moderator)" field, you can add the wallets of moderator to allow them to view sales data. In the "Email to receive sales notifications" field, you can enter email addresses other than the creator's to receive sales notifications. Once you have filled in the information, click "Submit".
+
+<figure><img src="../../.gitbook/assets/List NFT Book 1.png" alt=""><figcaption><p>Enter the information on the New NFT Book Listing page and click "Submit"</p></figcaption></figure>
+
+### Step 2: View Listed NFT Books
+
+After successfully listing, the listed NFT books will appear under "Current listing". Click on the Class ID to view the listing status in the NFT Book Status.
+
+<figure><img src="../../.gitbook/assets/List NFT Book 2.png" alt=""><figcaption><p>After successful listing, the NFT book will appear in the Current listing, click the Class ID to view the listing status</p></figcaption></figure>
+
+Go back to Liker Land to view the NFT books. You will see that the sales quantity has changed from "Sold out" to listed for sale. The product name, description, and price will be displayed.
+
+<figure><img src="../../.gitbook/assets/List NFT Book 3.png" alt=""><figcaption><p>View published NFT books at Liker Land</p></figcaption></figure>
+
+### Step 3: Sell Books through Different Channels
+
+In the NFT Book Status, select the listed NFT book product under "Copy Purchase Link". In the "Sales channel for this link (Optional)" field, enter the name of the sales channel. You will see the Stripe URL of the sales link. You can provide this URL to the sales channel to attract customers to purchase the book.
+
+<figure><img src="../../.gitbook/assets/List NFT Book 4.png" alt=""><figcaption><p>Enter the name of the sales channel and Stripe URL sales link appears</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/List NFT Book 5.png" alt=""><figcaption><p>Customers use the link to purchase books</p></figcaption></figure>
+
+### Step 4: View Sold NFT Books
+
+After a customer purchases an NFT book, the quantity of the book will decrease in the "Current listing" section of the NFT Book Listing.
+
+<figure><img src="../../.gitbook/assets/List NFT Book 6.png" alt=""><figcaption><p>Current listing shows the new number of NFT books</p></figcaption></figure>
+
+In the NFT Book Status, you can view the sales data for the NFT book. Under "Status", you can see the overall sales status of the NFT book. "Orders" shows the received NFT book orders, "pendingNFT" indicates pending delivery to customers, and "Sales channel" displays the channel from which the book was sold.
+
+<figure><img src="../../.gitbook/assets/List NFT Book 7.png" alt=""><figcaption><p>In NFT Book Status, you can view the sales data of NFT books, click "Send NFT" to send NFT books to customers</p></figcaption></figure>
+
+### Step 5: Send NFT Books to Customers
+
+In the "Action" section, click "Send NFT" to access the "Deliver NFT Book" page. In the "Enter Author's Message (optional)" field, you can enter a message for the reader (optional). In the "Specify NFT ID" section, click "Auto-fetch NFT ID" to automatically retrieve one of the minted NFT books. Then use Keplr to sign and send it to the customer.
+
+<figure><img src="../../.gitbook/assets/List NFT Book 8.png" alt=""><figcaption><p>"Enter Author's Message (optional)" , click "Auto-fetch NFT ID" to automatically retrieve one of the minted NFT books</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/List NFT Book 9.png" alt=""><figcaption><p>Sign with Keplr and send to client</p></figcaption></figure>
+
+After the delivery is complete, the "Send NFT" action will change to "View Transaction", and you can view the NFT book that has been sent to the customer.
+
+<figure><img src="../../.gitbook/assets/List NFT Book 10.png" alt=""><figcaption><p>Click "View Transaction" to view the NFT book that has been sent to the customer</p></figcaption></figure>
 
 ## Updating eBook File and any Metadata's Version
 
