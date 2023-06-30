@@ -148,9 +148,15 @@ description: 如何收藏 Writing NFT
 [collect-writing-nft-on-mobile.md](collect-writing-nft-on-mobile.md)
 {% endcontent-ref %}
 
-## 一鍵收藏 Writing NFT｛手機與桌機均適用）
+## 一鍵收藏 Writing NFT｛手機與桌機均適用） <a href="#collect-all" id="collect-all"></a>
 
 使用一鍵收藏功能可讓用戶一次過購買一位創作者的所有 Writing NFT，並且提供自動過濾功能，不用擔心會重覆購買已購買了的 NFT。
+
+#### 教學影片
+
+{% embed url="https://www.youtube.com/watch?v=nnhUu8VYDdk" %}
+
+{% embed url="https://www.youtube.com/watch?v=DUl3UcO4EA0" %}
 
 ### 步驟一：登入錢包並開始一鍵收藏
 
