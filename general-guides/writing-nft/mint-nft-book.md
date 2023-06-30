@@ -192,7 +192,7 @@ Executable: index.js
 
 ## 上架 NFT 書
 
-### 步驟一：上架 NFT 書
+### 步驟一：開始上架 NFT 書
 
 請先登入你的 [Keplr](../wallet/keplr/)，並於 [LikeCoin NFT Book Press](https://likecoin-nft-book-press-testnet.netlify.app/) 選 [Manage NFT Books](https://likecoin-nft-book-press-testnet.netlify.app/nft-book-store)，再點右上角「Connect」連接 Keplr。在 New NFT Book Listing 頁面輸入以下資料：
 
