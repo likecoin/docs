@@ -104,7 +104,7 @@ For technical details of NFT book, please refer to the below guide:
 
 #### Step 1: Upload iscn.json and Register ISCN
 
-Please log in to your [Keplr](../wallet/keplr/) and select [MINT NFT](https://likecoin-nft-book-press-testnet.netlify.app/mint-nft) on [LikeCoin NFT Book Press](https://likecoin-nft-book-press-testnet.netlify.app/). Then click "Connect" in the upper right corner to connect to Keplr.
+Please log in to your [Keplr](../wallet/keplr/) and select MINT NFT on LikeCoin NFT Book Press. Then click "Connect" in the upper right corner to connect to Keplr.
 
 On the Mint LikeCoin NFT/NFT Book page, select the prepared iscn.json file and click "Choose file" to upload it. After that, click "Create". Keplr will display a pop-up window. The system will register the ISCN based on the provided data. Please click "Approve" to sign and register.
 
@@ -190,7 +190,7 @@ After executing the script, you should have minted the NFT successfully.  Congra
 
 ### Step 1: Start listing NFT Books
 
-Please log in to your [Keplr](https://docs.like.co/v/zh/general-guides/wallet/keplr) and select "[Manage NFT Books](https://likecoin-nft-book-press-testnet.netlify.app/nft-book-store)" on [LikeCoin NFT Book Press](https://likecoin-nft-book-press-testnet.netlify.app/). Then click "Connect" in the upper right corner to connect to Keplr. On the New NFT Book Listing page, enter the following information:
+Please log in to your [Keplr](https://docs.like.co/v/zh/general-guides/wallet/keplr) and select "Manage NFT Books" on LikeCoin NFT Book Press. Then click "Connect" in the upper right corner to connect to Keplr. On the New NFT Book Listing page, enter the following information:
 
 |                                            |                                                                                                                                |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -236,7 +236,7 @@ In the NFT Book Status, you can view the sales data for the NFT book. Under "Sta
 
 ### Step 5: Send NFT Books to Customers
 
-In the "Action" section, click "Send NFT" to access the "Deliver NFT Book" page. In the "Enter Author's Message (optional)" field, you can enter a message for the reader (optional). In the "Specify NFT ID" section, click "Auto-fetch NFT ID" to automatically retrieve one of the minted NFT books. Then use Keplr to sign and send it to the customer.
+In the "Action" section, click "Send NFT" to access the "Deliver NFT Book" page. In the "Enter Author's Message (optional)" field, you can enter a message for the reader (optional). In the "Specify NFT ID" section, enter the NFT ID or click "Auto-fetch NFT ID" to automatically retrieve one of the minted NFT books. Then use Keplr to sign and send it to the customer.
 
 <figure><img src="../../.gitbook/assets/List NFT Book 8.png" alt=""><figcaption><p>"Enter Author's Message (optional)" , click "Auto-fetch NFT ID" to automatically retrieve one of the minted NFT books</p></figcaption></figure>
 
