@@ -104,7 +104,7 @@ NFT 書的技術細節請參考以下指南：
 
 #### 步驟一：上載 iscn.json 並註冊 ISCN
 
-請先登入你的 [Keplr](../wallet/keplr/)，並於 [LikeCoin NFT Book Press](https://likecoin-nft-book-press-testnet.netlify.app/) 選 [MINT NFT](https://likecoin-nft-book-press-testnet.netlify.app/mint-nft)，再點右上角「Connect」連接 Keplr。
+請先登入你的 [Keplr](../wallet/keplr/)，並於 LikeCoin NFT Book Press 選 MINT NFT，再點右上角「Connect」連接 Keplr。
 
 在 Mint LikeCoin NFT/NFT Book 頁面選取已預備好的 iscn.json，點「Choose file」上載後點「Create」，Keplr 將彈出視窗。系統會跟據你預備的資料註冊 ISCN，請點「Approve」簽署並註冊。
 
@@ -194,7 +194,7 @@ Executable: index.js
 
 ### 步驟一：開始上架 NFT 書
 
-請先登入你的 [Keplr](../wallet/keplr/)，並於 [LikeCoin NFT Book Press](https://likecoin-nft-book-press-testnet.netlify.app/) 選 [Manage NFT Books](https://likecoin-nft-book-press-testnet.netlify.app/nft-book-store)，再點右上角「Connect」連接 Keplr。在 New NFT Book Listing 頁面輸入以下資料：
+請先登入你的 [Keplr](../wallet/keplr/)，並於 LikeCoin NFT Book Press 選 Manage NFT Books，再點右上角「Connect」連接 Keplr。在 New NFT Book Listing 頁面輸入以下資料：
 
 | 欄位                                         | 內容                                                |
 | ------------------------------------------ | ------------------------------------------------- |
@@ -242,7 +242,7 @@ Executable: index.js
 
 ### 步驟五：傳送 NFT 書予客戶
 
-在 Action 點「Send NFT」出現 Deliver NFT Book 頁面。在 Enter Author's Message (optional) 輸入給讀者的話（可選填），在 Specify NFT ID 點「Auto-fetch NFT ID」自動抓取其中一份已發行的 NFT 書，再使用 Keplr 簽署並傳送給客戶。
+在 Action 點「Send NFT」出現 Deliver NFT Book 頁面。在 Enter Author's Message (optional) 輸入給讀者的話（可選填），輸入 NFT ID 或在 Specify NFT ID 點「Auto-fetch NFT ID」自動抓取其中一份已發行的 NFT 書，再使用 Keplr 簽署並傳送給客戶。
 
 <figure><img src="../../.gitbook/assets/List NFT Book 8.png" alt=""><figcaption><p>輸入給讀者的話，點「Auto-fetch NFT ID」自動抓取其中一份已發行的 NFT 書</p></figcaption></figure>
 
