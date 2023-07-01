@@ -26,7 +26,7 @@ Users can use the [Liker Land app](../../../user-guide/liker-land/download.md) t
 
 Users can also collect Writing NFT on a mobile browser by LIKE using [Keplr Mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/) or [Liker Land app](../../../user-guide/liker-land/download.md).
 
-#### [One-Click Collect Writing NFT](./#one-click-collect-writing-nft-1)
+#### [One-Click Collect All Writing NFT](./#one-click-collect-all-writing-nft-for-both-desktop-and-mobile)
 
 Users can use [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to seamlessly purchase NFTs from the same creator via desktop or mobile browser.
 
@@ -40,7 +40,7 @@ Or go to the NFT details page and click "Collect" or the current NFT price. To b
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 2-en.png" alt=""><figcaption><p>NFT Content Details</p></figcaption></figure>
 
-Or else go to the creator's [NFT Portfolio](nft-portfolio.md) (website: https://liker.land/\[wallet address] ) and click the current NFT price;
+Or else go to the creator's [NFT Portfolio](nft-portfolio.md) (website: https://liker.land/\[wallet address] ) and click the current NFT price or "[Collect All](./#one-click-collect-writing-nft-for-both-desktop-and-mobile)";
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 3-en.png" alt=""><figcaption><p>NFT Portfolio</p></figcaption></figure>
 
@@ -142,9 +142,9 @@ Payment is successful! appears, the Writing NFT is successfully collected with a
 [collect-writing-nft-on-mobile.md](collect-writing-nft-on-mobile.md)
 {% endcontent-ref %}
 
-## One-Click Collect Writing NFT (For both desktop and mobile)
+## One-Click Collect All Writing NFT (For both desktop and mobile)
 
-Using the One-Click Collect feature allows users to purchase all Writing NFTs from a single creator at once, with an automatic filtering feature to prevent duplicate purchases of previously acquired NFTs.
+Using the One-Click Collect All feature allows users to purchase all Writing NFTs from a single creator at once, with an automatic filtering feature to prevent duplicate purchases of previously acquired NFTs.
 
 ### Step 1: Login to your wallet and initiate One-Click Collect
 
