@@ -22,9 +22,9 @@ Liker Land functions as a crypto wallet, allowing you to check, receive, and [tr
 
 ## Participate in Decentralized Publishing
 
-With Liker Land, you can conveniently browse [depub.space](https://docs.like.co/user-guide/depub.space)'s World Feed content from anywhere, at any time. On websites that support the LikeCoin button, readers can easily post content to the decentralized social media platform depub.space and the blockchain with [just one click](https://docs.like.co/user-guide/liker-land/superlike). This ensures that valuable content is permanently recorded and widely shared.
+You can browse and collect the latest [Writing NFTs](../../general-guides/writing-nft/), ranging from books to works of all kinds.
 
-You can also browse and collect the latest [Writing NFTs](../../general-guides/writing-nft/), ranging from books to works of all kinds.
+With Liker Land, you can also conveniently browse [depub.space](https://docs.like.co/user-guide/depub.space)'s World Feed content from anywhere, at any time. On websites that support the LikeCoin button, readers can easily post content to the decentralized social media platform depub.space and the blockchain with [just one click](https://docs.like.co/user-guide/liker-land/superlike). This ensures that valuable content is permanently recorded and widely shared.
 
 ## Participate in Civic Liker
 
