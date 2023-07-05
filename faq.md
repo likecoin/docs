@@ -13,6 +13,7 @@ description: LikeCoin 常見問題
 * [有媒體報導可以參詳嗎？](general-guides/on-the-news.md)
 * [LikeCoin 有提供品牌形象指引和相關素材下載麼？](branding.md)
 * [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
+* [想與社群及更多用戶聯繫分享經驗，有渠道嗎？](faq.md#she-qun)
 
 ## [Writing NFT](general-guides/writing-nft/)
 
@@ -32,26 +33,33 @@ description: LikeCoin 常見問題
 * [怎樣註冊 ISCN？ ](general-guides/decentralized-publishing/app.like.co.md)
 * [可以大量註冊 ISCN 嗎？](general-guides/decentralized-publishing/iscn-batch-uploader.md)
 
+## [水龍頭](general-guides/faucet.md)
+
+* [如何獲取 LikeCoin 淺賞生態？](general-guides/faucet.md)
+* [如何在測試網獲取 LikeCoin？](general-guides/community/faucet-test.md)
+
 ## [錢包](general-guides/wallet/)
 
 * [有沒有去中心化的錢包可以提供？](general-guides/wallet/)
 * [如何轉帳 LikeCoin？](general-guides/wallet/like-pay.md)
 * [LikeCoin 支援硬件錢包嗎？](general-guides/wallet/hardware-wallet.md)
+* [LikeCoin 有沒有多重簽署錢包？](general-guides/wallet/multisig.md)
 * [如何找到自己的錢包地址？](general-guides/wallet/wallet-address.md)
 * [LikeCoin 有區塊鏈瀏覽器嗎？](general-guides/wallet/block-explorer/)
 * [操作 LikeCoin 需要手續費嗎？](general-guides/wallet/transaction-fee.md)
-* [我的舊版 LikeCoin ERC-20 應該怎處理？](general-guides/wallet/migration/)
 * [什麼是 like1 錢包地址？](general-guides/wallet/like-address-prefix.md)
+* [我的舊版 LikeCoin ERC-20 應該怎處理？](general-guides/wallet/migration/)
 
 ## [交易](general-guides/trade/)
 
 * [如何兌換 LikeCoin 為其他密碼貨幣或法定貨幣？](general-guides/trade/)
-* [可以使用信用卡購買 LikeCoin 嗎？](archive/archive/trade/trade-in-liquid.md)
+* [有什麼購買 LikeCoin 的渠道？](general-guides/trade/buy-likecoin.md)
+* [可以使用信用卡購買 LikeCoin 嗎？](general-guides/trade/trade-in-osmosis.md)
 
-## [流動性挖礦](faq.md#undefined)
+## [流動性挖礦](general-guides/liquidity/)
 
-* [如何在 Osmosis 進行流動性挖礦？](general-guides/liquidity/osmosis.md)
-* [如何在 Osmosi 為 LikeCoin 提供流動性？](general-guides/liquidity/osmosis.md)
+* [如何在 Osmosis 為 LikeCoin 提供流動性？](general-guides/liquidity/osmosis.md#providing-liquidity)
+* [如何在 Osmosis 進行流動性挖礦？](general-guides/liquidity/osmosis.md#yield-farming)
 
 ## [委託](general-guides/stake/)
 
@@ -60,45 +68,44 @@ description: LikeCoin 常見問題
 
 ## [治理](general-guides/governance/)
 
-* [所謂 LikeCoin DAO 有民主麼？](general-guides/governance/liquid-democracy.md)
+* [我對 LikeCoin 的發展有意見，如何參與社群會議？](general-guides/governance/community-call.md)
 * [LikeCoin chain 是什麼？](general-guides/governance/likecoin-chain.md)
-* [什麼是驗證人？](general-guides/governance/what-is-a-validator/)
-* [如何成為驗證人？](broken-reference)
-* [驗證人如何獲得社群基金的委託？](general-guides/governance/what-is-a-validator/community-delegation.md)
-* [LikeCoin DAO 有過什麼議案？](general-guides/governance/proposals.md)
+* [所謂 LikeCoin DAO 有民主麼？](general-guides/governance/liquid-democracy.md)
 * [如何為議案存入保證金？](general-guides/governance/proposal-deposit.md)&#x20;
 * [如何就議案投票？](general-guides/governance/direct-vote/)
-* [我對 LikeCoin 的發展有意見，如何參與社群會議？](general-guides/governance/community-call.md)
+* [什麼是驗證人？](general-guides/governance/what-is-a-validator/)
+* [如何成為驗證人？](validator/become-a-validator.md)
+* [驗證人如何獲得社群基金的委託？](general-guides/governance/what-is-a-validator/community-delegation.md)
+* [LikeCoin DAO 有過什麼議案？](general-guides/governance/proposals.md)
 
 ## 去中心應用
 
-* [如何在自架 WordPress 加入 LikeCoin button？](user-guide/wordpress.md)
-* [Facebook 已有很多新聞了，我為什麼還要用 Liker Land？](user-guide/liker-land/)
-* [下載了 Liker Land 手機應用程式可以看到些什麼？](user-guide/liker-land/)
-* [我一邊瀏覽一邊閱讀就好，幹嘛還要閱讀列表？](archive/archive/liker-land/reading-list.md)
+### [Liker Land](faq.md#liker-land)
+
+* [下載了 Liker Land 手機應用程式可以做些什麼？](user-guide/liker-land/)
 * [什麼是「化讚為賞」？「化讚為賞」的去中心讚賞如何運作？錢從何來？](user-guide/liker-land/like.md)
-* [何謂 Super Like](user-guide/liker-land/superlike.md)
-* [什麼是 depub.space？](user-guide/depub.space/)
+* [何謂 Super Like？](user-guide/liker-land/superlike.md)
+
+### [讚賞公民](user-guide/civic-liker/)
+
+* [為何要成為讚賞公民？](faq.md#zan-shang-gong-min)
+* [如何成為讚賞公民？](user-guide/civic-liker/be-a-civic-liker.md)
+* [有什麼福利嗎？](user-guide/civic-liker/rationale-and-benefits.md)
+
+### [Liker ID](user-guide/liker-id/)
+
+* [Liker ID 要怎樣註冊？](user-guide/liker-id/)
+* [什麼是 Authcore？](user-guide/liker-id/register/what-is-authcore.md)
+* [無法以社交帳號登入 Liker ID，怎麼辦？不知何解無法登入嗎？試試重設密碼吧！](user-guide/liker-id/register/reset-password.md)
+* [可以匯出 Liker ID 私鑰嗎？](user-guide/liker-id/export-seed-words.md)
+
+### [LikeCoin button 讚賞鍵](faq.md#likecoin-button-zan-shang-jian)
+
+* [如何在自架 WordPress 網站整合讚賞鍵功能並出版作品到區塊鏈？](user-guide/wordpress.md)
 * [LikeCoin button 讚賞鍵有什麼功能？](user-guide/creator/)
 * [我不懂自架網站，有什麼第三方寫作平台直接支援 LikeCoin 麼？](user-guide/creator/blogging-platforms/)
 * [如何查看每週、每天、每篇文章所獲得的讚賞收益？](user-guide/creatortools/rewards.md)
 * [如何查看每月創作進度？](user-guide/creatortools/monthly-report.md)
-
-### [Civic Liker](faq.md#civic-liker)
-
-* [為何要成為讚賞公民？有什麼福利嗎？](user-guide/civic-liker/rationale-and-benefits.md)
-* [如何成為讚賞公民？](user-guide/civic-liker/be-a-civic-liker.md)
-
-### [Liker ID](user-guide/liker-id/)
-
-* [Liker ID 要怎樣註冊？](faq.md#liker-id)
-* [無法以社交帳號登入 Liker ID，怎麼辦？不知何解無法登入嗎？試試重設密碼吧！](user-guide/liker-id/register/reset-password.md)
-* [什麼是 Authcore？](user-guide/liker-id/register/what-is-authcore.md)
-* [可以匯出 Liker ID 私鑰嗎？](user-guide/liker-id/export-seed-words.md)
-
-### [社群](general-guides/community/)
-
-* [如何聯系 LikeCoin 社群？](faq.md#she-qun)
 
 你也可能對以下條目有興趣：
 

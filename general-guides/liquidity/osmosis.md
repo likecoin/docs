@@ -14,7 +14,7 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 [like-pay.md](../wallet/like-pay.md)
 {% endcontent-ref %}
 
-## 為流動性池提供流動性
+## 為流動性池提供流動性 <a href="#providing-liquidity" id="providing-liquidity"></a>
 
 ### 步驟一：選定流動性池
 
@@ -58,7 +58,7 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 假如希望獲得更多 LIKE 和 OSMO 添加流動性，可隨時點「Trade Pair」進行交易。
 
-## 綁定 shares 獲得流動性挖礦獎勵
+## 綁定 shares 獲得流動性挖礦獎勵 <a href="#yield-farming" id="yield-farming"></a>
 
 添加流動性後，會依照整個池的流動性對應你提供流動性的份額比例獲得份額（ shares，有人會稱之為 LP Token），綁定這些 shares 可獲流動性挖礦獎勵。
 

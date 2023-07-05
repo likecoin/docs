@@ -1,5 +1,5 @@
 ---
-description: 如何在自架 WordPress 加入 NFT Widget，出版 WordPress 作品到區塊鏈？
+description: 如何在自架 WordPress 網站加入 NFT Widget，出版 WordPress 作品到區塊鏈？
 ---
 
 # Web3Press
