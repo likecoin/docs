@@ -46,7 +46,9 @@ Install the Keplr wallet before registering your Liker ID. If you have already c
 
 Go to [https://liker.land/](https://liker.land/) and click "Connect Wallet" in the top right-hand corner.
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 01.png" alt=""><figcaption><p>Click "Connect Wallet"</p></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 01-en.png" alt=""><figcaption><p>Click "Connect Wallet"</p></figcaption></figure>
 
 In the pop-up window, click "Keplr".
 

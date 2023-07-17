@@ -144,7 +144,7 @@ Result is order by the number of NFTs not owned by creator nor `ignore_list`
 
 _Note: Currently only like.co API can report the latest price. `price` in the response is always 0. Please refer to like.co API documentation for price information_
 
-***
+
 
 ### Social Graph API
 

@@ -84,6 +84,8 @@ You will receive another email saying that the NFT has been sent to your wallet.
 
 Go to the upper right corner of the Liker Land website and click "Connect Wallet".
 
+
+
 <figure><img src="../../../.gitbook/assets/Buy NFT 12-en.png" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
 
 Go to "[My Dashboard](https://liker.land/en/dashboard?tab=collected)" via the menu to view the NFT that you've collected.
@@ -102,7 +104,7 @@ Users who have a [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet
 
 Go to the upper right corner of the Liker Land website and click "Connect Wallet".
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 12-en.png" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
 
 A pop-up window appears, click Keplr to login.
 
