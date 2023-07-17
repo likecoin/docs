@@ -84,7 +84,7 @@ description: 如何收藏 Writing NFT
 
 到 [Liker Land](https://liker.land/) 網站右上角點「連接錢包」。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
 
 點頭像再選「[我的書架](https://liker.land/dashboard?tab=collected)」即可查看已購買的 NFT。
 
@@ -106,7 +106,9 @@ description: 如何收藏 Writing NFT
 
 登入 Keplr 後到 [Liker Land](https://liker.land/) 網站右上角點「連接錢包」。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 12 (1).png" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
 
 彈出視窗出現 [Keplr](../../wallet/keplr/)，點登入。
 

@@ -46,7 +46,9 @@ description: 以 Keplr 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 到網址 [https://liker.land/](https://liker.land/civic/) 點右上角「連接錢包」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 01.png" alt=""><figcaption><p>點「連接錢包」</p></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 01 (1).png" alt=""><figcaption><p>點「連接錢包」</p></figcaption></figure>
 
 彈出視窗，點「Keplr」。
 
