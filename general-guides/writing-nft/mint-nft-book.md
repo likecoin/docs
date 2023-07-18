@@ -6,7 +6,7 @@ description: 將電子書發行為 NFT
 
 ### 📣發行 Writing NFT 需要 LikeCoin，用戶可以從[水龍頭](../faucet.md)獲取少量 LikeCoin 進行測試。&#x20;
 
-### 📣此說明需要具備執行 node.js 語法及編輯 JSON 文件的技術知識
+### 📣此說明需要編輯 JSON 文件的技術知識
 
 ## 事前準備
 
