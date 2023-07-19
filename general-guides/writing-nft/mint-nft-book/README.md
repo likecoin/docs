@@ -4,9 +4,17 @@ description: 將電子書發行為 NFT
 
 # 發行 NFT 書（測試版）
 
-### 📣發行 Writing NFT 需要 LikeCoin，用戶可以從[水龍頭](../faucet.md)獲取少量 LikeCoin 進行測試。&#x20;
+### 📣發行 Writing NFT 需要 LikeCoin，用戶可以從[水龍頭](../../faucet.md)獲取少量 LikeCoin 進行測試。&#x20;
 
 ### 📣此說明需要編輯 JSON 文件的技術知識
+
+出版 NFT 書涉及三個階段：
+
+1. 預備電子書文檔、NFT 書封面及各項資料文檔
+2. 發行 NFT 書
+3. 上架 NFT 書到 Liker Land
+
+以下將詳盡介紹每一個步驟。
 
 ## 事前準備
 
@@ -86,13 +94,13 @@ description: 將電子書發行為 NFT
 
 #### 示範文檔
 
-{% file src="../../.gitbook/assets/iscn.json" %}
+{% file src="../../../.gitbook/assets/iscn.json" %}
 
-{% file src="../../.gitbook/assets/nft_class.json" %}
+{% file src="../../../.gitbook/assets/nft_class.json" %}
 
-{% file src="../../.gitbook/assets/nfts_default.json" %}
+{% file src="../../../.gitbook/assets/nfts_default.json" %}
 
-{% file src="../../.gitbook/assets/nfts.csv" %}
+{% file src="../../../.gitbook/assets/nfts.csv" %}
 
 NFT 書的技術細節請參考以下指南：
 
@@ -100,19 +108,17 @@ NFT 書的技術細節請參考以下指南：
 
 ## 發行 NFT 書
 
-### 方法一：使用 Mint LikeCoin NFT/NFT Book 發行 NFT 書
+### 步驟一：上載 iscn.json 並註冊 ISCN
 
-#### 步驟一：上載 iscn.json 並註冊 ISCN
-
-請先登入你的 [Keplr](../wallet/keplr/)，並於 LikeCoin NFT Book Press 選 MINT NFT，再點右上角「Connect」連接 Keplr。
+請先登入你的 [Keplr](../../wallet/keplr/)，並於 LikeCoin NFT Book Press 選 MINT NFT，再點右上角「Connect」連接 Keplr。
 
 在 Mint LikeCoin NFT/NFT Book 頁面選取已預備好的 iscn.json，點「Choose file」上載後點「Create」，Keplr 將彈出視窗。系統會跟據你預備的資料註冊 ISCN，請點「Approve」簽署並註冊。
 
-<figure><img src="../../.gitbook/assets/Mint NFT Book 1.png" alt=""><figcaption><p>點「Choose file」上載 iscn.json 再點「Create」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Mint NFT Book 1.png" alt=""><figcaption><p>點「Choose file」上載 iscn.json 再點「Create」</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Mint NFT Book 2.png" alt=""><figcaption><p>於 Keplr 點「Approve」簽署並註冊</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Mint NFT Book 2.png" alt=""><figcaption><p>於 Keplr 點「Approve」簽署並註冊</p></figcaption></figure>
 
-#### 步驟二：創建 NFT Class
+### 步驟二：創建 NFT Class
 
 成功註冊 ISCN 後根據它去創造一個 NFT Class。
 
@@ -120,137 +126,27 @@ NFT 書的技術細節請參考以下指南：
 
 按著點「Choose file」上傳預先製作好的 nft\_class.json，再點「Create」並於 Keplr 點「Approve」簽署兩次成功生成 NFT Class。
 
-<figure><img src="../../.gitbook/assets/Mint NFT Book 3.png" alt=""><figcaption><p>點「Choose file」上載 nft_class.json 再點「Create」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Mint NFT Book 3.png" alt=""><figcaption><p>點「Choose file」上載 nft_class.json 再點「Create」</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Mint NFT Book 4.png" alt=""><figcaption><p>於 Keplr 點「Approve」兩次生成 NFT Class</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Mint NFT Book 4.png" alt=""><figcaption><p>於 Keplr 點「Approve」兩次生成 NFT Class</p></figcaption></figure>
 
-#### 步驟三：正式發行 NFT
+### 步驟三：正式發行 NFT
 
 接下來需要上載兩個檔案，點「Choose file」分別上載 nfts\_default.json 及 nfts.csv。留意在 CSV 裡面會真正指定你準備發行多少枚 NFT，並且需要在 Number of NFT to mint 輸入相同的數量。然後再點「Create」並於 Keplr 點「Approve」簽署確認。
 
-<figure><img src="../../.gitbook/assets/Mint NFT Book 5.png" alt=""><figcaption><p>點「Choose file」上載 nfts_default.json 及 nfts.csv，在 Number of NFT to mint 輸入發行數量，再於 Keplr 點「Approve」簽署確認</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Mint NFT Book 5.png" alt=""><figcaption><p>點「Choose file」上載 nfts_default.json 及 nfts.csv，在 Number of NFT to mint 輸入發行數量，再於 Keplr 點「Approve」簽署確認</p></figcaption></figure>
 
-#### 步驟四：成功發行
+### 步驟四：成功發行
 
 彈出視窗並儲存發行結果檔案，將檔案儲存後回到頁面出現 Success! 字樣即代表成功發行 NFT。點「View your NFT」在 Liker Land 查看已發行的 NFT 書。
 
-<figure><img src="../../.gitbook/assets/Mint NFT Book 6.png" alt=""><figcaption><p>彈出視窗儲存發行結果檔案</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Mint NFT Book 6.png" alt=""><figcaption><p>彈出視窗儲存發行結果檔案</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Mint NFT Book 7.png" alt=""><figcaption><p>點「View your NFT」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Mint NFT Book 7.png" alt=""><figcaption><p>點「View your NFT」</p></figcaption></figure>
 
 由於只完成發行但並未上架開放銷售，書籍數量會顯示為 Sold out。故此下一個步驟就是要把已發行的 NFT 書放上 Liker Land 售賣。
 
-<figure><img src="../../.gitbook/assets/Mint NFT Book 9.png" alt=""><figcaption><p>在 Liker Land 查看已發行的 NFT 書</p></figcaption></figure>
-
-### 方法二：安裝並使用鑄造語法發行 NFT（舊版）
-
-鑄造語法是一個 node.js 語法。
-
-#### 安裝語法
-
-打開你的終端 ( terminal ) 並按照以下步驟操作：
-
-1. 鍵入指令
-
-`git clone` [`https://github.com/likecoin/iscn-nft-tools`](https://github.com/likecoin/iscn-nft-tools)`​`
-
-2. 在 mint-nft 文件夾及 send-nft 文件夾中，執行指令
-
-`npm install`
-
-​Program path: iscn-nft-tools/mint-nft
-
-Executable: index.js
-
-#### 執行語法
-
-&#x20;該語法將執行三個步驟：
-
-1. 註冊 ISCN
-2. 創建 NFT class
-3. 鑄造 NFT
-
-可以通過參數 --iscn-id 指定一個現存的 ISCN，通過參數 --class-id 指定一個現存的 NFT class ID。 你更可以讓語法從頭開始創建一切。
-
-<table><thead><tr><th width="129">參數</th><th width="230">論元</th><th width="217">例字</th><th>是否強制</th></tr></thead><tbody><tr><td>nft-count</td><td>一個整數。要鑄造的 NFT 總數。</td><td>--nft-count 100</td><td>是</td></tr><tr><td>iscn-id</td><td>一個字符串。NFT 所指的 ISCN ID。</td><td>--iscn-id iscn://likecoin-chain/IKI9PueuJiOsYvhN6z9jPJIm3UGMh17BQ3tEwEzslQo/3</td><td>不是</td></tr><tr><td>create-new-iscn</td><td>空值。如果設定了此參數，將根照 iscn.json 文檔註冊一個新的 ISCN。不能和 iscn-id 參數一起使用。</td><td>--create-new-iscn</td><td>不是</td></tr><tr><td>class-id</td><td>一個字符串。NFT 所屬的 NFT class ID。 它用於在同一 Class ( collection ) 中鑄造額外的 NFT。 如果未設定，該語法將基於 nft-class.json 創建一個新的。</td><td>--class-id likenft1yhsps5l8tmeuy9y7k0rjpx97cl67cjkjnzkycecw5xrvjjp6c5yqz0ttmc</td><td>不是</td></tr><tr><td>nft-max-supply</td><td>一個整數。在一個 NFT class 中可以鑄造的 NFT 的最大數量。 如無特別說明則無限制。</td><td>--nft-max-supply 1000</td><td>不是</td></tr></tbody></table>
-
-例子：
-
-`IS_TESTNET=TRUE MNEMONIC="...." node index.js --nft-count 100 --create-new-iscn`
-
-`IS_TESTNET=TRUE MNEMONIC="...." node index.js --nft-count 100 --iscn-id iscn://xxxx`
-
-筆記：
-
-* 必須指定 iscn-id 或 create-new-iscn 參數，但不能同時使用兩者。
-* 如果已提供 create-new-iscn 參數，程序將引用 data/iscn.json 註冊一個新的 ISCN ID。
-* 如果沒有提供 class-id 參數，程序會參考 data/nft\_class.json。
-* class-id 和 nft-max-supply 不應該一起存在，因為 nft-max-supply 應該**只在**創建新的 nft class 時使用。
-* nft-count 中指定的數字應與 data/nfts.csv 中的行數相匹配。
-
-執行語法後，你應該已經成功鑄造了 NFT。恭喜！
-
-## 上架 NFT 書
-
-### 步驟一：開始上架 NFT 書
-
-請先登入你的 [Keplr](../wallet/keplr/)，並於 LikeCoin NFT Book Press 選 Manage NFT Books，再點右上角「Connect」連接 Keplr。在 New NFT Book Listing 頁面輸入以下資料：
-
-| 欄位                                         | 內容                                                |
-| ------------------------------------------ | ------------------------------------------------- |
-| NFT Class ID                               | 已發行的 NFT 書 Class ID                               |
-| Price(USD) per NFT Book (Minimal $5)       | NFT 書的最低售價（不少於 5 美元）                              |
-| Total number of NFT for sale at this price | 該售價的 NFT 書總銷售數量。例如將已發行 1,000 本 NFT 書中的 100 書作售賣之用 |
-| Product name of this price                 | 該售價 NFT 書的產品名稱，支援中英文設定                            |
-| Product description of this price          | 該售價 NFT 書的產品描述，支援中英文設定                            |
-
-點「Add more prices」可以設定不同版本的 NFT 書售價及產品描述。
-
-此外在 Share sales data to wallets (moderator) 可加入共同協作者的錢包以參看銷售數據；Email to receive sales notifications 除了作者以外，可設定其他收取銷售訊息的電郵地址。
-
-填寫完成後點「Submit」。
-
-<figure><img src="../../.gitbook/assets/List NFT Book 1.png" alt=""><figcaption><p>在 New NFT Book Listing 頁面輸入資料再點「Submit」</p></figcaption></figure>
-
-### 步驟二：查看已上架的 NFT 書
-
-成功上架後在 Current listing 出現已上架的 NFT 書，點 Class ID 可在 NFT Book Status 查看上架狀態。
-
-<figure><img src="../../.gitbook/assets/List NFT Book 2.png" alt=""><figcaption><p>成功上架後在 Current listing 出現已上架的 NFT 書，點 Class ID 查看上架狀態</p></figcaption></figure>
-
-回到 Liker Land 查看已發行的 NFT 書，會看到銷售數量由 Sold out 變成已上架開放銷售，並於版面顯示產品名稱、描述及售價等資訊。
-
-<figure><img src="../../.gitbook/assets/List NFT Book 3.png" alt=""><figcaption><p>在 Liker Land 查看已發行的 NFT 書</p></figcaption></figure>
-
-### 步驟三：透過不同渠道賣書
-
-在 NFT Book Status 於 Copy Purhcase Link 選擇已上架 NFT 書產品，然後在 Sales channel for this link (Optional) 輸入銷售渠道的名稱，在下方將出現銷售連結的 Stripe 網址 URL。可將網址提供給銷售渠道宣傳吸引客戶買書，
-
-<figure><img src="../../.gitbook/assets/List NFT Book 4.png" alt=""><figcaption><p>輸入銷售渠道的名稱出現銷售連結的 Stripe 網址 URL</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/List NFT Book 5.png" alt=""><figcaption><p>客戶使用連結購書</p></figcaption></figure>
-
-### 步驟四：查看已售出的 NFT 書
-
-客戶購買 NFT 書後，NFT Book Listing 中的 Current listing 將顯示 NFT 書的數量減少了。
-
-<figure><img src="../../.gitbook/assets/List NFT Book 6.png" alt=""><figcaption><p>Current listing 顯示新的 NFT 書數量</p></figcaption></figure>
-
-於 NFT Book Status 可查看該 NFT 書的銷售數據。在 Status 可看到 NFT 書的整體銷售狀態：Orders 出現已收到的 NFT 書訂單、顯示 pendingNFT 代表尚待發出予客戶、Sales channel 顯示從哪個銷售渠道賣出。
-
-<figure><img src="../../.gitbook/assets/List NFT Book 7.png" alt=""><figcaption><p>於 NFT Book Status 可查看 NFT 書的銷售數據， 點「Send NFT」傳送 NFT 書予客戶</p></figcaption></figure>
-
-### 步驟五：傳送 NFT 書予客戶
-
-在 Action 點「Send NFT」出現 Deliver NFT Book 頁面。在 Enter Author's Message (optional) 輸入給讀者的話（可選填），輸入 NFT ID 或在 Specify NFT ID 點「Auto-fetch NFT ID」自動抓取其中一份已發行的 NFT 書，再使用 Keplr 簽署並傳送給客戶。
-
-<figure><img src="../../.gitbook/assets/List NFT Book 8.png" alt=""><figcaption><p>輸入給讀者的話，點「Auto-fetch NFT ID」自動抓取其中一份已發行的 NFT 書</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/List NFT Book 9.png" alt=""><figcaption><p>使用 Keplr 簽署並傳送給客戶</p></figcaption></figure>
-
-傳送完成後，Action 的 Send NFT 變成了「View Transaction」並可查看已傳送予客戶的 NFT 書。
-
-<figure><img src="../../.gitbook/assets/List NFT Book 10.png" alt=""><figcaption><p>點「View Transaction」查看已傳送予客戶的 NFT 書</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Mint NFT Book 9.png" alt=""><figcaption><p>在 Liker Land 查看已發行的 NFT 書</p></figcaption></figure>
 
 ## 更新電子書文件或任何元資料的版本
 
@@ -264,8 +160,14 @@ Executable: index.js
 
 查看用於更新 ISCN 的工具：
 
-{% content-ref url="../decentralized-publishing/iscn-browser.md" %}
-[iscn-browser.md](../decentralized-publishing/iscn-browser.md)
+{% content-ref url="../../decentralized-publishing/iscn-browser.md" %}
+[iscn-browser.md](../../decentralized-publishing/iscn-browser.md)
 {% endcontent-ref %}
 
 此外，可在此處找到[測試網上的 ISCN 瀏覽器工具](https://likecoin-iscn-browser-testnet.netlify.app/)。
+
+繼續閱讀：
+
+{% content-ref url="publish-nft-book.md" %}
+[publish-nft-book.md](publish-nft-book.md)
+{% endcontent-ref %}
