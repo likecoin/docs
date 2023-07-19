@@ -12,7 +12,7 @@ description: 將電子書發行為 NFT
 
 1. 預備電子書文檔、NFT 書封面及各項資料文檔
 2. 發行 NFT 書
-3. 上架 NFT 書到 Liker Land
+3. 上架 NFT 書到 Liker Land 及銷售
 
 以下將詳盡介紹每一個步驟。
 
@@ -168,6 +168,6 @@ NFT 書的技術細節請參考以下指南：
 
 繼續閱讀：
 
-{% content-ref url="publish-nft-book.md" %}
-[publish-nft-book.md](publish-nft-book.md)
+{% content-ref url="list-nft-book.md" %}
+[list-nft-book.md](list-nft-book.md)
 {% endcontent-ref %}
