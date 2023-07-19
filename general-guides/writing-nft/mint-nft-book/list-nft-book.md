@@ -13,7 +13,7 @@ description: 上架 NFT 書到 Liker Land 及銷售
 | 欄位                                         | 內容                                                |
 | ------------------------------------------ | ------------------------------------------------- |
 | NFT Class ID                               | 已發行的 NFT 書 Class ID                               |
-| Price(USD) per NFT Book (Minimal $5)       | NFT 書的最低售價（不少於 5 美元）                              |
+| Price(USD) per NFT Book (Minimal $0.9)     | NFT 書的最低售價（不少於 0.9 美元）                            |
 | Total number of NFT for sale at this price | 該售價的 NFT 書總銷售數量。例如將已發行 1,000 本 NFT 書中的 100 書作售賣之用 |
 | Product name of this price                 | 該售價 NFT 書的產品名稱，支援中英文設定                            |
 | Product description of this price          | 該售價 NFT 書的產品描述，支援中英文設定                            |
