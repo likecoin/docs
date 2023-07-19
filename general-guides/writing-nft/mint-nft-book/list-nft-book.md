@@ -13,7 +13,7 @@ Please log in to your [Keplr](https://docs.like.co/v/zh/general-guides/wallet/ke
 |                                            |                                                                                                                                |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
 | NFT Class ID                               | The Minted NFT Book Class ID                                                                                                   |
-| Price(USD) per NFT Book (Minimal $5)       | Minimum selling price for an NFT book should not be less than $5                                                               |
+| Price(USD) per NFT Book (Minimal $0.9)     | Minimum selling price for an NFT book should not be less than $0.9                                                             |
 | Total number of NFT for sale at this price | The total number of NFT books to be sold at this price. For example, 100 books out of 1,000 NFT books to be released for sale  |
 | Product name of this price                 | The product name of the NFT book to be sold in the particular price, supports Chinese and English settings                     |
 | Product description of this price          | The product description of the NFT book to be sold in the particular price, supports Chinese and English settings              |
