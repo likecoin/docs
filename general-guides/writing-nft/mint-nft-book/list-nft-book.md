@@ -8,7 +8,7 @@ description: Listing the NFT book on Liker Land and sales
 
 ### Step 1: Start listing NFT Books
 
-Please log in to your [Keplr](https://docs.like.co/v/zh/general-guides/wallet/keplr) and select "Manage NFT Books" on LikeCoin [NFT Book Press](https://likecoin.github.io/nft-book-press/). Then click "Connect" in the upper right corner to connect to Keplr. On the New NFT Book Listing page, enter the following information:
+Please log in to your [Keplr](https://docs.like.co/v/zh/general-guides/wallet/keplr) and select "[Manage NFT Books](https://likecoin.github.io/nft-book-press/nft-book-store)" on [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/). Then click "Connect" in the upper right corner to connect to Keplr. On the New NFT Book Listing page, enter the following information:
 
 |                                            |                                                                                                                                |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |

@@ -110,7 +110,7 @@ For technical details of NFT book, please refer to the below guide:
 
 ### Step 1: Upload iscn.json and Register ISCN
 
-Please log in to your [Keplr](../../wallet/keplr/) and select MINT NFT on LikeCoin NFT Book Press. Then click "Connect" in the upper right corner to connect to Keplr.
+Please log in to your [Keplr](../../wallet/keplr/) and select "[Mint NFT](https://likecoin.github.io/nft-book-press/mint-nft)" on [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/). Then click "Connect" in the upper right corner to connect to Keplr.
 
 On the Mint LikeCoin NFT/NFT Book page, select the prepared iscn.json file and click "Choose file" to upload it. After that, click "Create". Keplr will display a pop-up window. The system will register the ISCN based on the provided data. Please click "Approve" to sign and register.
 
