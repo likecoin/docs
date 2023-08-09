@@ -180,11 +180,15 @@ In the "Numbers of NFTs reserved for giveaways" field, you can reserve a quantit
 
 Clicking "Reserve All" will reserve all the pre-minted NFTs and those reserved for giveaways at once.
 
-In the Sales Settings, you can set the initial price for the Writing NFTs, which can be 8, 128, 1024, or 4096 LIKE.
+In the Sales Settings, you can set the initial price for the Writing NFTs, which can be 8, 128, 1024, or 4096 LIKE. If not configured, the default initial price is set at 128 LIKE.
 
 Once done, click "Next".
 
 <figure><img src="../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>Enter the number of Writing NFT to premint and reserve for giveaways, then set the initial price</p></figcaption></figure>
+
+{% hint style="info" %}
+Creators can also set their Writing NFT as "not for sale" by filling in the "Number of NFTs to premint" equal to the "Number of NFTs reserved for giveaways." This means that the creator reserves all NFTs for gifting purposes, achieving the effect of setting the NFT as "not for sale," as the issued NFTs are all reserved by the creator and will not circulate in the market. Writing NFTs reserved by the author can be given away for free or sold on the [NFT Marketplace](collect-writing-nft/nft-marketplace.md).
+{% endhint %}
 
 ### Step 4/4: Sign
 

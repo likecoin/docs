@@ -21,15 +21,17 @@ description: >-
 
 ## **2023 Date & Schedule**
 
-| Date               | Description                                                                  |
-| ------------------ | ---------------------------------------------------------------------------- |
-| Monday, 3 July     | Get updates from the builders. Covering products updates and community news. |
-| Monday, 5 June     | LikeCoin chain Chungking upgrade and Keplr native support                    |
-| Monday, 1 May      | NFT Book launch and new partnershi                                           |
-| Monday, 3 April    | Three NFT Book projects coming ahead                                         |
-| Monday, 6 March    | Latest updates and features on Web3Press and Liker Land                      |
-| Monday, 6 February | Partnership and Products updates                                             |
-| Monday, 9 January  | Ecosystem and Writing NFT updates                                            |
+| Date                | Description                                                                  |
+| ------------------- | ---------------------------------------------------------------------------- |
+| Monday, 4 September | Get updates from the builders. Covering products updates and community news. |
+| Monday, 7 August    | Stripe payment is live and new books on the shelf                            |
+| Monday, 3 July      | Streamlined experience of LikeCoin chain with Keplr and Stripe               |
+| Monday, 5 June      | LikeCoin chain Chungking upgrade and Keplr native support                    |
+| Monday, 1 May       | NFT Book launch and new partnershi                                           |
+| Monday, 3 April     | Three NFT Book projects coming ahead                                         |
+| Monday, 6 March     | Latest updates and features on Web3Press and Liker Land                      |
+| Monday, 6 February  | Partnership and Products updates                                             |
+| Monday, 9 January   | Ecosystem and Writing NFT updates                                            |
 
 ## **Call Time**
 

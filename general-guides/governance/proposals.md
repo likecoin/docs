@@ -6,6 +6,13 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![Proposals](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
 
+## Proposal #66 Community Pool Spend - Creators Fund
+
+* Proposer: Edmond
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2023.06.08, Passed on 2023.06.25
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/66](https://bigdipper.live/likecoin/proposals/66)
+
 ## Proposal #65 LikeCoin v4.0.0 ChungKing Upgrade
 
 * Proposer: Civic Liker 讚賞公民
