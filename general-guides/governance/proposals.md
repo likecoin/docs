@@ -6,7 +6,14 @@ description: LikeCoin DAO 有過什麼議案？
 
 ![歷史議案](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
 
-## 議案 LikeCoin v4.0.0 ChungKing 升級
+## 議案 #66 存入 1,200,000 LIKE 到創作基金委員會的錢包
+
+* **提案：**Edmond
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2023.06.08 提案，2023.06.25 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/66](https://bigdipper.live/likecoin/proposals/66)
+
+## 議案 #65 LikeCoin v4.0.0 ChungKing 升級
 
 * **提案：**Civic Liker 讚賞公民
 * **類型**：軟件升級議案 ( Software Upgrade Proposal )

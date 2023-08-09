@@ -180,7 +180,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 點「Reserve All」可一次過預留所有預先鑄造及作為送贈之用的 NFT；
 
-在 Sales Settings 可設定 Writing NFT 起始售價 ( Initial Price ) 為 8、128、1024 或 4096 LIKE，如不作設定，起始售價預設定 128 LIKE；
+在 Sales Settings 可設定 Writing NFT 起始售價 ( Initial Price ) 為 8、128、1024 或 4096 LIKE，如不作設定，起始售價預設為 128 LIKE；
 
 完成後再點「Next」。
 
