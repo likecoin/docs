@@ -10,7 +10,7 @@ description: 在 Keplr 導入助記詞或私鑰並建立錢包
 
 ### 情境一：以助記詞方式導入錢包
 
-[安裝 Keplr 瀏覽器擴充功能](how-to-install-keplr-extension.md)後直接點「Import an existing wallet」。
+[安裝 Keplr 瀏覽器擴充功能](how-to-install-keplr-extension/)後直接點「Import an existing wallet」。
 
 <figure><img src="../../../.gitbook/assets/Import Keplr 1.png" alt=""><figcaption><p>點「Import an existing wallet」</p></figcaption></figure>
 
@@ -44,7 +44,7 @@ description: 在 Keplr 導入助記詞或私鑰並建立錢包
 
 ### 情境二：以 Google 帳戶回復錢包
 
-點「Sign in with Google」，並參照[以 Google 帳戶註冊新錢包](how-to-install-keplr-extension.md#fang-fa-er-yi-google-zhang-hu-zhu-ce-xin-qian-bao)的方式回復你的錢包。
+點「Sign in with Google」，並參照[以 Google 帳戶註冊新錢包](how-to-install-keplr-extension/#fang-fa-er-yi-google-zhang-hu-zhu-ce-xin-qian-bao)的方式回復你的錢包。
 
 ## 導入多於一個錢包
 
