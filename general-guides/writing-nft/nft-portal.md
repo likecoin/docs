@@ -180,7 +180,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 點「Reserve All」可一次過預留所有預先鑄造及作為送贈之用的 NFT；
 
-在 Sales Settings 可設定 Writing NFT 起始售價 ( Initial Price ) 為 All Free、8、128、1024 或 4096 LIKE。All Free 即是把 NFT 供收藏者自行 Free Mint，他們不需要付出任何費用，只需付出[手續費](../wallet/transaction-fee.md)。如不作設定，起始售價預將設為 128 LIKE；
+在 Sales Settings 可設定 Writing NFT 起始售價 ( Initial Price ) 為 All Free、8、128、1024 或 4096 LIKE。All Free 即是將 NFT 供收藏者自行 Free Mint，他們不需要付出任何費用，只需付出[手續費](../wallet/transaction-fee.md)。如不作設定，起始售價預會設為 128 LIKE；
 
 完成後再點「Next」。
 
@@ -189,7 +189,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 {% hint style="info" %}
 任何作者也能把 Writing NFT 設成「非賣品」，方法是填寫 “Number of NFTs to premint” 的數量**等同**於 “Number of NFTs reserved for giveaways”，即代表作者預留全數 NFT 作送贈之用，便能達到設定 NFT 成「非賣品」 的效果，因為已發行的 NFT 都被作者預留而不會於市面流通。作者預留了的 Writing NFT ，免費送出或經二級市場售賣均可。
 
-預留 NFT 與 Free Mint 不同之處是所有已鑄造 NFT 均由作者自行保留並[發送](transfer-writing-nft.md)，而後者則是由收藏者自行鑄造並透過系統自動發送開去。
+預留 NFT 與 Free Mint 不同之處是前者所有已鑄造 NFT 均由創作者自行保留並[發送](transfer-writing-nft.md)，而後者則是由收藏者自行鑄造並透過系統自動發送開去。
 {% endhint %}
 
 ### 步驟 4/4：完成簽署 <a href="#sign" id="sign"></a>
