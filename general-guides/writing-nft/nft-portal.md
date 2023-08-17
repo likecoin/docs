@@ -180,7 +180,7 @@ In the "Numbers of NFTs reserved for giveaways" field, you can reserve a quantit
 
 Clicking "Reserve All" will reserve all the pre-minted NFTs and those reserved for giveaways at once.
 
-In the Sales Settings, you can set the initial price for the Writing NFTs, which can be All Free, 8, 128, 1024, or 4096 LIKE. "All Free" means allowing users to freely mint NFTs on their own. If not configured, the default initial price is set at 128 LIKE.
+In the Sales Settings, you can set the initial price for the Writing NFTs, which can be All Free, 8, 128, 1024, or 4096 LIKE. "All Free" means allowing collecters to freely mint NFTs on their own, they just have to pay [transaction fee](../wallet/transaction-fee.md) . If not configured, the default initial price is set at 128 LIKE.
 
 Once done, click "Next".
 
