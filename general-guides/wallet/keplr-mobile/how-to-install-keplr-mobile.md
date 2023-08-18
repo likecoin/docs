@@ -26,29 +26,7 @@ description: 於 iPhone 及 Android 安裝 Keplr Mobile
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile install 3.png" alt=""><figcaption><p>點「Create a new wallet」</p></figcaption></figure>
 
-### 方法一：以助記詞方式註冊新錢包 <a href="#create-new-mnemonic" id="create-new-mnemonic"></a>
-
-點「Create new mnemonic」。
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 4.png" alt=""><figcaption><p>點「Create new mnemonic」</p></figcaption></figure>
-
-出現助記詞 ( Recovery Phrase )，點「Copy to clipboard」複製並找一個安全的地方加密儲存，因為在回復錢包時會需要用到。接著輸入你的錢包名稱 ( Wallet nickname )、密碼 ( Password )、確認密碼 ( Confirm password ) 然後點「Next」。
-
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 5.png" alt=""><figcaption><p>複製並儲存助記詞</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 6.png" alt=""><figcaption><p>輸入錢包名稱及密碼再點「Next」</p></figcaption></figure>
-
-</div>
-
-{% hint style="danger" %}
-請把助記詞及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Keplr 錢包。
-{% endhint %}
-
-### 方法二：以 Google 帳戶註冊新錢包 <a href="#sign-in-with-google" id="sign-in-with-google"></a>
+### 方法一：以 Google 帳戶註冊新錢包 <a href="#sign-in-with-google" id="sign-in-with-google"></a>
 
 點「Sign in with Google」註冊新 Keplr 錢包。
 
@@ -64,6 +42,28 @@ description: 於 iPhone 及 Android 安裝 Keplr Mobile
 
 {% hint style="danger" %}
 注意 Keplr 團隊不會進行記錄，故此你需要自行牢記鏈接的帳戶。
+{% endhint %}
+
+### 方法二：以助記詞方式註冊新錢包 <a href="#create-new-mnemonic" id="create-new-mnemonic"></a>
+
+點「Create new mnemonic」。
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile install 4.png" alt=""><figcaption><p>點「Create new mnemonic」</p></figcaption></figure>
+
+出現助記詞，點「Copy to clipboard」複製並找一個安全的地方加密儲存，因為在回復錢包時會需要用到。接著輸入你的錢包名稱 ( Wallet nickname )、密碼 ( Password )、確認密碼 ( Confirm password ) 然後點「Next」。
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile install 5.png" alt=""><figcaption><p>複製並儲存助記詞</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile install 6.png" alt=""><figcaption><p>輸入錢包名稱及密碼再點「Next」</p></figcaption></figure>
+
+</div>
+
+{% hint style="danger" %}
+請把助記詞及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Keplr 錢包。
 {% endhint %}
 
 ## 步驟三：完成安裝 <a href="#youre-all-set" id="youre-all-set"></a>

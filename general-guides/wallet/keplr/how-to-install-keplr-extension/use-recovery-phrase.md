@@ -10,7 +10,7 @@ description: 緊記保存好助記詞
 
 [如何安裝 Keplr 密碼貨幣錢包並以助記詞註冊（廣東話）](https://www.youtube.com/watch?v=RC8PugjnZq8\&t=4s)
 
-安裝 Keplr 瀏覽器擴充功能後頁面自動跳轉。點「Create a new wallet」，再點「Create new recovery phrase」以助記詞註冊新錢包。
+[安裝 Keplr 瀏覽器擴充功能](./)後頁面自動跳轉。點「Create a new wallet」，再點「Create new recovery phrase」以助記詞註冊新錢包。
 
 <figure><img src="../../../../.gitbook/assets/Keplr Seed Phrase 1.png" alt=""><figcaption><p>點「Create a new wallet」，再點「Create new recovery phrase」以助記詞註冊新錢包</p></figcaption></figure>
 

@@ -4,7 +4,7 @@ description: Keplr 使用 Web3Auth 推出社交帳號登入功能
 
 # 以 Google 帳戶註冊新錢包
 
-妥裝 Keplr 瀏覽器擴充功能後頁面自動跳轉。點「Create a new wallet」，再點「Connect with Google」註冊新 Keplr 錢包。
+[安裝 Keplr 瀏覽器擴充功能後](./)頁面自動跳轉。點「Create a new wallet」，再點「Connect with Google」註冊新 Keplr 錢包。
 
 <figure><img src="../../../../.gitbook/assets/Keplr Web3Auth 2.png" alt=""><figcaption><p>點「Create a new wallet」，再點「Connect with Google」註冊新 Keplr 錢包</p></figcaption></figure>
 
