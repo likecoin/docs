@@ -12,10 +12,6 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 
 <figure><img src="../../../../.gitbook/assets/Keplr 2.png" alt=""><figcaption><p>點「Add extension」將 Keplr 加到 Chrome</p></figcaption></figure>
 
-在 Chrome 右上角按鍵訂選 Keplr 於瀏覽列方便使用。
-
-<figure><img src="../../../../.gitbook/assets/Keplr 3.png" alt=""><figcaption><p>釘選 Keplr 於瀏覽列</p></figcaption></figure>
-
 接下來你可以使用 Google 帳戶或助記詞方式註冊新錢包：
 
 {% content-ref url="sign-up-with-google.md" %}
@@ -31,7 +27,3 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 {% content-ref url="../import-wallet-into-keplr.md" %}
 [import-wallet-into-keplr.md](../import-wallet-into-keplr.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-安裝 Keplr 後你可以[使用它註冊 Liker ID](../../../../user-guide/liker-id/register-with-keplr.md)
-{% endhint %}

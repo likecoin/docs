@@ -4,11 +4,7 @@ description: Keplr 使用 Web3Auth 推出社交帳號登入功能
 
 # 以 Google 帳戶註冊新錢包
 
-點瀏覽列上方的 Keplr 圖示開始註冊。
-
-<figure><img src="../../../../.gitbook/assets/Keplr Web3Auth 1.png" alt=""><figcaption><p>點瀏覽列上方的 Keplr 圖示</p></figcaption></figure>
-
-點「Create a new wallet」，再點「Connect with Google」註冊新 Keplr 錢包。
+妥裝 Keplr 瀏覽器擴充功能後頁面自動跳轉。點「Create a new wallet」，再點「Connect with Google」註冊新 Keplr 錢包。
 
 <figure><img src="../../../../.gitbook/assets/Keplr Web3Auth 2.png" alt=""><figcaption><p>點「Create a new wallet」，再點「Connect with Google」註冊新 Keplr 錢包</p></figcaption></figure>
 
@@ -32,7 +28,15 @@ description: Keplr 使用 Web3Auth 推出社交帳號登入功能
 
 <figure><img src="../../../../.gitbook/assets/Keplr Web3Auth 7.png" alt=""><figcaption><p>在 Account Created! 頁面點「Finish」</p></figcaption></figure>
 
-點瀏覽列的 Keplr 圖示，輸入密碼並點「Unlock」。
+在 Chrome 右上角按鍵訂選 Keplr 於瀏覽列方便使用。
+
+<figure><img src="../../../../.gitbook/assets/Keplr 3.png" alt=""><figcaption><p>釘選 Keplr 於瀏覽列</p></figcaption></figure>
+
+點瀏覽列上方的 Keplr 圖示開始使用。
+
+<figure><img src="../../../../.gitbook/assets/Keplr Web3Auth 1.png" alt=""><figcaption><p>點瀏覽列上方的 Keplr 圖示</p></figcaption></figure>
+
+如出現登入頁面，輸入密碼並點「Unlock」。
 
 <figure><img src="../../../../.gitbook/assets/Keplr 12.png" alt=""><figcaption><p>點瀏覽列的 Keplr 圖示，輸入密碼並點「Unlock」</p></figcaption></figure>
 
@@ -43,4 +47,14 @@ description: Keplr 使用 Web3Auth 推出社交帳號登入功能
 {% hint style="danger" %}
 注意 Keplr 團隊不會進行記錄，故此你需要自行牢記鏈接的帳戶。\
 請把私鑰及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Keplr 錢包。
+{% endhint %}
+
+如何找到錢包地址：
+
+{% content-ref url="../../wallet-address.md" %}
+[wallet-address.md](../../wallet-address.md)
+{% endcontent-ref %}
+
+{% hint style="info" %}
+安裝 Keplr 後你可以[使用它註冊 Liker ID](../../../../user-guide/liker-id/register-with-keplr.md)
 {% endhint %}
