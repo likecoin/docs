@@ -12,8 +12,8 @@ Please note that the Keplr mobile app currently does not support LikeCoin.
 
 #### **You can learn how to install Keplr Browser Extension on your desktop by referring to the following articles:**
 
-{% content-ref url="how-to-install-keplr-extension.md" %}
-[how-to-install-keplr-extension.md](how-to-install-keplr-extension.md)
+{% content-ref url="how-to-install-keplr-extension/" %}
+[how-to-install-keplr-extension](how-to-install-keplr-extension/)
 {% endcontent-ref %}
 
 #### Deposit, send, delegate LikeCoin; proposal deposits, vote and view transaction details:

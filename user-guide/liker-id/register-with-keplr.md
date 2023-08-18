@@ -38,8 +38,8 @@ Users can manage LikeCoin using [Cosmostation](../../general-guides/wallet/cosmo
 
 Install the Keplr wallet before registering your Liker ID. If you have already completed the installation, please skip this step.
 
-{% content-ref url="../../general-guides/wallet/keplr/how-to-install-keplr-extension.md" %}
-[how-to-install-keplr-extension.md](../../general-guides/wallet/keplr/how-to-install-keplr-extension.md)
+{% content-ref url="../../general-guides/wallet/keplr/how-to-install-keplr-extension/" %}
+[how-to-install-keplr-extension](../../general-guides/wallet/keplr/how-to-install-keplr-extension/)
 {% endcontent-ref %}
 
 ### Step 2: Login to Keplr

@@ -10,7 +10,7 @@ To import your recovery phrase or private key into Keplr, follow these steps:
 
 ### Scenario 1: Import wallet by recovery phrase
 
-Click "Import an existing wallet" directly after [installing the Keplr Browser Extension](how-to-install-keplr-extension.md).
+Click "Import an existing wallet" directly after [installing the Keplr Browser Extension](how-to-install-keplr-extension/).
 
 <figure><img src="../../../.gitbook/assets/Import Keplr 1.png" alt=""><figcaption><p>Click "Import an existing wallet"</p></figcaption></figure>
 
@@ -28,11 +28,11 @@ Fill in your Wallet name, Create Keplr Password, Confirm Keplr Password, and cli
 
 On the Select Chains page, search for LikeCoin, select it, and click "Save".
 
-<figure><img src="../../../.gitbook/assets/Keplr 10.png" alt=""><figcaption><p>Select LikeCoin and click "Save"</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Select LikeCoin and click "Save"</p></figcaption></figure>
 
 When the "Account Created!" page appears, the registration process is complete. Click "Finish".
 
-<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>On "Account Created!" page click "Finish"</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>On "Account Created!" page click "Finish"</p></figcaption></figure>
 
 Click the Keplr icon in the browser toolbar, enter your password, and click "Unlock".
 
@@ -44,7 +44,7 @@ You will now see LikeCoin in your wallet, indicating that Keplr has been success
 
 ### Scenario 2: Recover the wallet created with Google
 
-Click "Sign in with Google", and recover your wallet in the same way as [creating a new wallet via Google One-Click Login](how-to-install-keplr-extension.md#method-2-creating-a-new-wallet-via-google-one-click-login).
+Click "Sign in with Google", and recover your wallet in the same way as [creating a new wallet via Google One-Click Login](how-to-install-keplr-extension/#method-2-creating-a-new-wallet-via-google-one-click-login).
 
 ## Import more than one wallet
 
@@ -76,11 +76,11 @@ Enter the wallet name and click "Next".
 
 On the Select Chains page, search for LikeCoin, select it, and click "Save".
 
-<figure><img src="../../../.gitbook/assets/Keplr 10.png" alt=""><figcaption><p>Select LikeCoin and click "Save"</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Select LikeCoin and click "Save"</p></figcaption></figure>
 
 When the "Account Created!" page appears, the registration process is complete. Click "Finish".
 
-<figure><img src="../../../.gitbook/assets/Keplr 11.png" alt=""><figcaption><p>On "Account Created!" page click "Finish"</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>On "Account Created!" page click "Finish"</p></figcaption></figure>
 
 Go back to the Select Wallet page of the Keplr wallet, and you will see the newly imported wallet.
 
