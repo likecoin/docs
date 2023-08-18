@@ -26,7 +26,25 @@ In your Keplr Mobile app, click on "Create a new wallet".
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile install 3.png" alt=""><figcaption><p>Click on "Create a new wallet"</p></figcaption></figure>
 
-### Method 1: Creating a new wallet by setting up a new recovery phrase
+### Method 1: Creating a new wallet with Google One-Click Login
+
+Click "Sign in with Google" to register a new Keplr wallet.
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile install 7.png" alt=""><figcaption><p>Click "Sign in with Google" to register a new Keplr wallet</p></figcaption></figure>
+
+A "Sign in with Google" window will appear, and you can log in to your Google account.
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile install 8.png" alt=""><figcaption><p>A "Sign in with Google" window will appear, and you can log in to your Google account</p></figcaption></figure>
+
+Fill in your Wallet nickname, Password, Confirm password, and click "Next".
+
+<figure><img src="../../../.gitbook/assets/Keplr mobile install 9.png" alt=""><figcaption><p>Fill in your Wallet nickname, Password and click "Next"</p></figcaption></figure>
+
+{% hint style="danger" %}
+Please note that the Keplr team does not keep a record of this, so you'll need to remember which account you link. ‍
+{% endhint %}
+
+### Method 2: Creating a new wallet by setting up a new recovery phrase
 
 Click on "Create new mnemonic".
 
@@ -46,24 +64,6 @@ The screen will display your recovery phrase. Click "Copy to clipboard" and find
 
 {% hint style="danger" %}
 Please keep your recovery phrase and password safe. If you lose them, you will not be able to manage your LikeCoin. No one can reset your wallet on your behalf.
-{% endhint %}
-
-### Method 2: Creating a new wallet with Google One-Click Login
-
-Click "Sign in with Google" to register a new Keplr wallet.
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 7.png" alt=""><figcaption><p>Click "Sign in with Google" to register a new Keplr wallet</p></figcaption></figure>
-
-A "Sign in with Google" window will appear, and you can log in to your Google account.
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 8.png" alt=""><figcaption><p>A "Sign in with Google" window will appear, and you can log in to your Google account</p></figcaption></figure>
-
-Fill in your Wallet nickname, Password, Confirm password, and click "Next".
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 9.png" alt=""><figcaption><p>Fill in your Wallet nickname, Password and click "Next"</p></figcaption></figure>
-
-{% hint style="danger" %}
-Please note that the Keplr team does not keep a record of this, so you'll need to remember which account you link. ‍
 {% endhint %}
 
 ## Step 3: Installation Completed
