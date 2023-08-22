@@ -6,13 +6,13 @@ description: Web version of Liker Land
 
 The homepage displays the latest NFT book and article recommendations.
 
-<figure><img src="../../.gitbook/assets/Liker Land Desktop-en.png" alt=""><figcaption><p>Liker Land web</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land web-en.png" alt=""><figcaption><p>Liker Land web</p></figcaption></figure>
 
 After logging in to Liker Land web - [https://Liker.Land](https://liker.land/), click the avatar in the upper right corner and the menu will pop up.
 
 <figure><img src="../../.gitbook/assets/Liker Land menu-en.png" alt=""><figcaption><p>Liker Kand menu</p></figcaption></figure>
 
-## **Option 1:** My Dashboard - [https://liker.land/dashboard](https://liker.land/dashboard)
+## **Option 1:** My Dashboard - [https://liker.land/en/feed](https://liker.land/en/feed)
 
 Access your [My Dashboard](../../general-guides/writing-nft/dashboard.md).
 
@@ -20,13 +20,19 @@ Access your [My Dashboard](../../general-guides/writing-nft/dashboard.md).
 
 Use the [NFT Portal](../../general-guides/writing-nft/nft-portal.md) to mint NFTs.
 
-## Option 3: Notifications - [https://liker.land/notifications](https://liker.land/notifications)
+## Option 3: Notifications - [https://liker.land/en/notifications](https://liker.land/en/notifications)
 
 View and manage NFT [Notifications](../../general-guides/writing-nft/notifications.md).
 
-## **Option 4: Settings -** [**https://liker.land/settings/**](https://liker.land/settings/)
+## **Option 4: Settings -** [**https://liker.land/en/settings/**](https://liker.land/en/settings/)
 
-### Email  and Follow Creators Settings
+### Email and Notification Settings
+
+{% content-ref url="../../general-guides/writing-nft/notifications.md" %}
+[notifications.md](../../general-guides/writing-nft/notifications.md)
+{% endcontent-ref %}
+
+### Follow Creators Settings
 
 {% content-ref url="../../general-guides/writing-nft/follow-creators.md" %}
 [follow-creators.md](../../general-guides/writing-nft/follow-creators.md)
