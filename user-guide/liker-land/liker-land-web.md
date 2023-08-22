@@ -12,7 +12,7 @@ description: 網頁版的 Liker Land
 
 <figure><img src="../../.gitbook/assets/Liker Land menu.png" alt=""><figcaption><p>Liker Land 操作選項</p></figcaption></figure>
 
-## 選項一：我的書架 - [https://liker.land/dashboard](https://liker.land/dashboard)
+## 選項一：我的書架 - [https://liker.land/zh-Hant/feed](https://liker.land/zh-Hant/feed)
 
 連接用戶[我的書架](../../general-guides/writing-nft/dashboard.md)頁面。‌
 
@@ -20,13 +20,19 @@ description: 網頁版的 Liker Land
 
 使用 [NFT Portal](../../general-guides/writing-nft/nft-portal.md) 發行 NFT。
 
-## 選項三：通知 - [https://liker.land/notifications](https://liker.land/notifications)
+## 選項三：通知 - [https://liker.land/zh-Hant/notifications](https://liker.land/zh-Hant/notifications)
 
 送贈及收藏 NFT [通知](../../general-guides/writing-nft/notifications.md)。
 
-## 選項四：設定 - [https://liker.land/settings/](https://liker.land/settings/)
+## 選項四：設定 - [https://liker.land/zh-Hant/settings/](https://liker.land/zh-Hant/settings/)
 
-### 設定電郵及追蹤作者
+### 設定電郵及通知設定
+
+{% content-ref url="../../general-guides/writing-nft/notifications.md" %}
+[notifications.md](../../general-guides/writing-nft/notifications.md)
+{% endcontent-ref %}
+
+### 關注作者
 
 {% content-ref url="../../general-guides/writing-nft/follow-creators.md" %}
 [follow-creators.md](../../general-guides/writing-nft/follow-creators.md)
