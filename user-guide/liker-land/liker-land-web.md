@@ -4,27 +4,27 @@ description: Web version of Liker Land
 
 # Liker Land web
 
-The homepage displays the latest NFT book and article recommendations.
-
-<figure><img src="../../.gitbook/assets/Liker Land web-en.png" alt=""><figcaption><p>Liker Land web</p></figcaption></figure>
-
 After logging in to Liker Land web - [https://Liker.Land](https://liker.land/), click the avatar in the upper right corner and the menu will pop up.
 
 <figure><img src="../../.gitbook/assets/Liker Land menu-en.png" alt=""><figcaption><p>Liker Kand menu</p></figcaption></figure>
 
-## **Option 1:** My Dashboard - [https://liker.land/en/feed](https://liker.land/en/feed)
+## **Option 1: Enter Store -** [**https://liker.land/en/store**](https://liker.land/en/store)
+
+The bookstore displays selected NFT books, popular and latest Writing NFTs and article recommendations.
+
+## **Option 2:** My Dashboard - [https://liker.land/en/feed](https://liker.land/en/feed)
 
 Access your [My Dashboard](../../general-guides/writing-nft/dashboard.md).
 
-## **Option 2: Mint NFT -** [**https://app.like.co/nft/url**](https://app.like.co/nft/url)
+## **Option 3: Mint NFT -** [**https://app.like.co/nft/url**](https://app.like.co/nft/url)
 
 Use the [NFT Portal](../../general-guides/writing-nft/nft-portal.md) to mint NFTs.
 
-## Option 3: Notifications - [https://liker.land/en/notifications](https://liker.land/en/notifications)
+## Option 4: Notifications - [https://liker.land/en/notifications](https://liker.land/en/notifications)
 
 View and manage NFT [Notifications](../../general-guides/writing-nft/notifications.md).
 
-## **Option 4: Settings -** [**https://liker.land/en/settings/**](https://liker.land/en/settings/)
+## **Option 5: Settings -** [**https://liker.land/en/settings/**](https://liker.land/en/settings/)
 
 ### Email and Notification Settings
 
@@ -46,6 +46,6 @@ View and manage NFT [Notifications](../../general-guides/writing-nft/notificatio
 [edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
 {% endcontent-ref %}
 
-## **Option 5: Sign Out**
+## **Option 6: Sign Out**
 
 Click to log out of Liker Land. If you wish to log in with a different Liker ID, you must log out completely from the Liker Land web. Otherwise, you will be redirected to the previous Liker ID during your next login attempt.
