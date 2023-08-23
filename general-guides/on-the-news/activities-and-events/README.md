@@ -2,9 +2,17 @@
 
 {% tabs %}
 {% tab title="2023" %}
+### 07/29 COSCUP 2023
+
+[分散式出版面對的三道圍牆](https://coscup.org/2023/zh-TW/session/ZHVR7V)
+
+### 06/09 香港開源年會 2023
+
+[分散式出版面對的三道圍牆](https://hkoscon.org/2023/topics/fensanshichubanmianduidesandaoweiqiang)
+
 ### 05/09 飛地 nowhere
 
-#### [【5月9日 #線上對談】顛覆遊戲規則 ♠️](https://www.facebook.com/nowherebookstore/posts/pfbid02R2gPy3z8w95Y1GX2xZq4MEFM1tKs7EHcifm8obV3vTxnVESRjEjVJTQ6uysS2LEXl)
+[【5月9日 #線上對談】顛覆遊戲規則 ♠️](https://www.facebook.com/nowherebookstore/posts/pfbid02R2gPy3z8w95Y1GX2xZq4MEFM1tKs7EHcifm8obV3vTxnVESRjEjVJTQ6uysS2LEXl)
 
 ### 05/08 𝐀𝐑𝐓𝐈𝐒𝐀𝐍 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐯𝐞 | 𝐃𝐀𝐎
 

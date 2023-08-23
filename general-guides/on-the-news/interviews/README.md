@@ -2,6 +2,14 @@
 
 {% tabs %}
 {% tab title="2023" %}
+### 08/07 852Dev
+
+[點{解,樣}做去中心化出版 #DePub ft. @ckxpress @wtpoons - web3任我dev💻 #16](https://twitter.com/852devxyz/status/1686724316279488512)
+
+### 07/31 Viu TV
+
+[【Fintech全方位】發掘金融以外的應用層面📝區塊鏈技術提升創作者經濟生態](https://www.youtube.com/watch?v=pwtf\_OyV\_0o)
+
 ### 05/26 Hostinger Blog
 
 [WordPress Turns 20: Empowering People to Success Online](https://www.hostinger.com/blog/wordpress-20th-anniversary)
