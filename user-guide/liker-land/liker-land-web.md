@@ -26,21 +26,23 @@ View and manage NFT [Notifications](../../general-guides/writing-nft/notificatio
 
 ## **Option 5: Settings -** [**https://liker.land/en/settings/**](https://liker.land/en/settings/)
 
-### Email and Notification Settings
+<figure><img src="../../.gitbook/assets/Liker Land settings-en.png" alt=""><figcaption></figcaption></figure>
+
+### Email - [https://liker.land/en/settings/email](https://liker.land/en/settings/email)
 
 {% content-ref url="../../general-guides/writing-nft/notifications.md" %}
 [notifications.md](../../general-guides/writing-nft/notifications.md)
 {% endcontent-ref %}
 
-### Follow Creators Settings
+### Following - [https://liker.land/en/settings/following](https://liker.land/en/settings/following) -&#x20;
 
 {% content-ref url="../../general-guides/writing-nft/follow-creators.md" %}
 [follow-creators.md](../../general-guides/writing-nft/follow-creators.md)
 {% endcontent-ref %}
 
-### Language Settings
+### Language - [https://liker.land/en/settings/language](https://liker.land/en/settings/language)
 
-### Liker ID Settings
+### Liker ID - [https://like.co/in/](https://like.co/in/)
 
 {% content-ref url="../liker-id/edit-avatar-displayname.md" %}
 [edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
