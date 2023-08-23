@@ -40,4 +40,4 @@ description: 輕易掌握 NFT 發放資訊
 
 你也可以點「取消關注」確認不再關注該作者。
 
-<figure><img src="../../.gitbook/assets/Follow 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Follow 4.png" alt=""><figcaption><p>點「取消關注」不再關注該作者</p></figcaption></figure>
