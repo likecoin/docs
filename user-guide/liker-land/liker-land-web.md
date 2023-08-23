@@ -6,7 +6,9 @@ description: 網頁版的 Liker Land
 
 主貢顯示最新的 NFT 書及文章推介。
 
-<figure><img src="../../.gitbook/assets/Liker Land Desktop.png" alt=""><figcaption><p>Liker Land 主頁</p></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/Liker Land web.png" alt=""><figcaption><p>Liker Land 主頁</p></figcaption></figure>
 
 登入網頁版的 [https://Liker.Land](liker-land-web.md#xuan-xiang-yi-wo-de-shu-jia-httpsliker.landdashboard) 後點右上角的頭像出現其他操作選項。​
 

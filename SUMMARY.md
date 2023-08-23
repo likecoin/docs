@@ -25,7 +25,7 @@
     * [二級市場](general-guides/writing-nft/collect-writing-nft/nft-marketplace.md)
     * [其他工具](general-guides/writing-nft/collect-writing-nft/tools.md)
   * [動態定價](general-guides/writing-nft/dynamic-pricing.md)
-  * [追蹤作者](general-guides/writing-nft/follow-creators.md)
+  * [關注作者](general-guides/writing-nft/follow-creators.md)
   * [通知功能](general-guides/writing-nft/notifications.md)
   * [我的書架](general-guides/writing-nft/dashboard.md)
   * [發送 Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)
