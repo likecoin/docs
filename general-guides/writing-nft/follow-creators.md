@@ -34,10 +34,10 @@ description: 輕易掌握 NFT 發放資訊
 
 <figure><img src="../../.gitbook/assets/Follow 2.png" alt=""><figcaption><p>出現「已成功關注 [創作者的 Liker ID 或錢包地址] 」</p></figcaption></figure>
 
-到 [Liker Land](https://liker.land/) 的「[設定](https://liker.land/zh-Hant/settings/)」->「[關注中](https://liker.land/zh-Hant/settings/following)」查看經已成功關注的作者。
+到 [Liker Land](https://liker.land/) 的「[設定](https://liker.land/zh-Hant/settings/)」->「[關注中](https://liker.land/zh-Hant/settings/following)」查看經已成功關注的創作者。
 
 <figure><img src="../../.gitbook/assets/Follow 3.png" alt=""><figcaption><p>到 Liker Land 的「設定」->「關注中」</p></figcaption></figure>
 
-你也可以點「取消關注」確認不再關注該作者。
+你也可以點「取消關注」確認不再關注該創作者。
 
 <figure><img src="../../.gitbook/assets/Follow 4.png" alt=""><figcaption><p>點「取消關注」不再關注該作者</p></figcaption></figure>

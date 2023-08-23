@@ -26,21 +26,23 @@ description: 網頁版的 Liker Land
 
 ## 選項五：設定 - [https://liker.land/zh-Hant/settings/](https://liker.land/zh-Hant/settings/)
 
-### 設定電郵及通知設定
+<figure><img src="../../.gitbook/assets/Liker Land settings.png" alt=""><figcaption><p>設定</p></figcaption></figure>
+
+### 電郵 - [https://liker.land/zh-Hant/settings/email](https://liker.land/zh-Hant/settings/email)
 
 {% content-ref url="../../general-guides/writing-nft/notifications.md" %}
 [notifications.md](../../general-guides/writing-nft/notifications.md)
 {% endcontent-ref %}
 
-### 關注作者
+### 關注中 - [https://liker.land/zh-Hant/settings/following](https://liker.land/zh-Hant/settings/following)
 
 {% content-ref url="../../general-guides/writing-nft/follow-creators.md" %}
 [follow-creators.md](../../general-guides/writing-nft/follow-creators.md)
 {% endcontent-ref %}
 
-### 更改介面語言
+### 更改介面語言 - [https://liker.land/zh-Hant/settings/language](https://liker.land/zh-Hant/settings/language)
 
-### 設定 Liker ID
+### Liker ID - [https://like.co/in/register](https://like.co/in/register)
 
 {% content-ref url="../liker-id/edit-avatar-displayname.md" %}
 [edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
