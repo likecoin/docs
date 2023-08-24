@@ -24,6 +24,8 @@ Will talk about the options one by one.
 
 After publishing the NFT, users can embed an [NFT Widget](collect-writing-nft/nft-widget.md) into any webpage by iframe. If the [LikeCoin button](../../user-guide/creator/) has been installed to the website, the NFT Widget will be displayed automatically.
 
+***
+
 ## Login to NFT Portal&#x20;
 
 Enter the [**NFT Portal**](https://app.like.co/nft/url) on the desktop computer browser and choose [Keplr](../wallet/keplr/), [Cosmostation](../wallet/cosmostation/), [Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker ID](../../user-guide/liker-land/download.md) to login and link to the website.
@@ -87,6 +89,8 @@ If there is a connection problem, go to "Settings" "Wallet Connect" and click X 
 After successful login, your wallet address will be displayed in the top right corner of the NFT Portal.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1e.png" alt=""><figcaption><p>After successfully logging in to the NFT Portal, the wallet address is displayed in the top right corner</p></figcaption></figure>
+
+***
 
 ## Publish Writing NFT with an article URL
 
@@ -206,6 +210,8 @@ Click "View Your NFT" to view your Writing NFT.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6-3-en.png" alt=""><figcaption><p>Check out the published Writing NFT</p></figcaption></figure>
 
+***
+
 ## Publish Writing NFT with ISCN ID
 
 If your article is registered with ISCN, you can also use the [**NFT Portal**](https://app.like.co/nft/url) to publish Writing NFT.
@@ -226,11 +232,15 @@ Enter the ISCN ID in the [NFT Portal](https://app.like.co/nft/url) and click "Re
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 3.png" alt=""><figcaption><p>Enter ISCN ID and click "Register ISCN" to mint Writing NFT</p></figcaption></figure>
 
+***
+
 ## Publish sound as Writing NFT
 
-#### Tutorial
+### Video Tutorial
 
-{% embed url="https://www.youtube.com/watch?v=X0uLaPOkucA" %}
+[Translate the subtitle to your language - 基於已有的 ISCN ID 出版 Writing NFT （國語）](https://www.youtube.com/watch?v=X0uLaPOkucA)
+
+***
 
 ## Publish Matters article as Writing NFT
 
@@ -244,23 +254,27 @@ Then follow [Method 1: Publish Writing NFT directly from ISCN](nft-portal.md#met
 
 Click "Mint" on the [Liker.Social](https://liker.social/) toot to publish the post as Writing NFT.
 
+### Video Tutorial
+
+[Translate the subtitle to your language - 在基於 Mastodon 的 Liker.Social 上把 toot 發行成 NFT（國語）](https://www.youtube.com/watch?v=ElBZ4ZRc8io)
+
 <figure><img src="../../.gitbook/assets/Lker.Social.webp" alt=""><figcaption><p>Publishing Writing NFT on Liker.Social</p></figcaption></figure>
 
-#### Tutorial
-
-{% embed url="https://www.youtube.com/watch?v=ElBZ4ZRc8io" %}
+***
 
 ## Publish Writing NFT on illustBuy
 
 Publishing NFTs on [illustBuy](https://illustbuy.com/) is just as easy.
 
-#### To Learn More
+### Video Tutorial
+
+[Translate the subtitle to your language - 專營插畫的 NFT 市場 - illustBuy： 鑄造 NFT 教學](https://www.youtube.com/watch?v=6EGFXDdb100)
+
+### To Learn More
 
 [illustBuy – The NFT marketplace for illustration](https://blog.like.co/en/illustbuy-nft-marketplace-for-illustration/)
 
-#### Tutorial
-
-{% embed url="https://www.youtube.com/watch?v=6EGFXDdb100" %}
+***
 
 ## Creator’s Introduction
 

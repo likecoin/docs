@@ -16,6 +16,8 @@ Publishing an NFT book involves three stages:
 
 The following will provide a detailed explanation of each step.
 
+***
+
 ## Prerequisites&#x20;
 
 ### Prepare your eBook files&#x20;
@@ -106,6 +108,8 @@ For technical details of NFT book, please refer to the below guide:
 [writing-nft-1.md](../../../developer/likenft/writing-nft-1.md)
 {% endcontent-ref %}
 
+***
+
 ## Mint NFT Book
 
 ### Step 1: Upload iscn.json and Register ISCN
@@ -143,6 +147,8 @@ A pop-up window will appear, and you can save the result file. Then return to th
 Since you have only completed minting and have not made them available for sale, the book quantity will be shown as "Sold out." The next step is to list the NFT books for sale on Liker Land.
 
 <figure><img src="../../../.gitbook/assets/Mint NFT Book 9.png" alt=""><figcaption><p>View published NFT books at Liker Land</p></figcaption></figure>
+
+***
 
 ## Updating eBook File and any Metadata's Version
 

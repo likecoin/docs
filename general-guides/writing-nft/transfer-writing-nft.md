@@ -70,6 +70,8 @@ Users can view the messages sent previously in the Transfer Message field.
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 8.png" alt=""><figcaption><p>View the Transfer Message</p></figcaption></figure>
 
+***
+
 ## Batch send NFT to supporters
 
 **Step 1**: Search for "Collectors" in your own wallet on the [LikeCoin NFT Dashboard](https://likecoin.github.io/likecoin-nft-dashboard/#/).
@@ -88,7 +90,3 @@ Users can view the messages sent previously in the Transfer Message field.
 
 * In [LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/), select "[Send NFT](https://likecoin.github.io/iscn-nft-tools/send-nft)" and log in with Keplr.
 * Prepare a CSV file ( see [example](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv) ) containing the wallet addresses, the [Class ID](collect-writing-nft/nft-details.md#nft-class-id)s of the NFTs to be sent, and the memos, which are the [transfer messages](transfer-writing-nft.md#step-2-enter-the-recipients-wallet-address-and-transfer-message). Then click "Send" and sign the transaction in Keplr to mass distribute the NFTs.
-
-#### Tutorial
-
-{% embed url="https://www.youtube.com/watch?v=APw46UIzJLM" %}

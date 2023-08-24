@@ -34,6 +34,8 @@ Go back to Liker Land to view the NFT books. You will see that the sales quantit
 
 <figure><img src="../../../.gitbook/assets/List NFT Book 3.png" alt=""><figcaption><p>View published NFT books at Liker Land</p></figcaption></figure>
 
+***
+
 ## NFT Book Sales
 
 ### Step 1: Sell Books through Different Channels
