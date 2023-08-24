@@ -4,31 +4,53 @@ description: Display Window and Store Shelf of NFT
 
 # My Dashboard
 
-[**My Dashboard**](https://liker.land/dashboard) page lists all NFTs and their asset values. It is the place to check out the top fans status as well.
-
 ## **Liker Land web**
 
-On [Liker Land](https://liker.land/), Click the avatar in the upper right corner and the menu will pop up, then click on "[My Dashboard](https://liker.land/dashboard)".
+Upon logging in to Liker Land, users can utilize the following functions in [My Dashboard](https://liker.land/en/feed?view=town):
 
-<figure><img src="../../.gitbook/assets/My Dashboard 1-en.png" alt=""><figcaption><p>Liker Land web "My Dashboard"</p></figcaption></figure>
+### Plaza
 
-## Liker Land app
+Within the [Plaza](https://liker.land/en/feed?view=town), you can quickly view all the user activities you are following, discover new friends and their creations. Additionally, you can explore captivating content from your friends' reading lists.
 
-Click the stack icon on the [Liker Land app](../../user-guide/liker-land/download.md) and then click "My Bookshelf".
+<figure><img src="../../.gitbook/assets/Plaza-en.png" alt=""><figcaption><p>Plaza</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/My Dashboard Liker Land app-en.png" alt=""><figcaption><p>Click the stack icon on the Liker Land app and then click "My Bookshelf"</p></figcaption></figure>
+### Collectibles
 
-## Total Sales
+Collectibles lists NFTs collected and created by the user.
 
-Click Total Sales (LIKE) on My Dashboard to view NFT Sales Earnings, Resales Earnings and Royalties.
+<figure><img src="../../.gitbook/assets/Dashboard 6-en.png" alt=""><figcaption><p>Collectibles</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/My Dashboard 2-en.png" alt=""><figcaption><p>Click Total Sales (LIKE) on My Dashboard to view NFT Sales Earnings, Resales Earnings and Royalties</p></figcaption></figure>
+### Statistics
 
-Samples:
+You can view the number of NFTs collected, Asset Value (LIKE), the number of NFTs created, and the number of NFTs collectors. Click on Total Sales (LIKE) to view NFT Sales Earnings, Resales Earnings, and Royalties.
+
+<figure><img src="../../.gitbook/assets/Dashboard 2-en.png" alt=""><figcaption><p>Statistics</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/My Dashboard Total Sales Sample 1.png" alt=""><figcaption><p>Sales Earnings sample</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/My Dashboard Total Sales Sample 2.png" alt=""><figcaption><p>Royalties sample</p></figcaption></figure>
+
+### Top Fans and My Followers
+
+Check out who the top fans of yours are among creators. Click on "My followers" to see who is following you.
+
+<figure><img src="../../.gitbook/assets/Dashboard 3-en.png" alt=""><figcaption><p>Top Fans and My Followers</p></figcaption></figure>
+
+After viewing your followers, you can click on "Export my follower list" to export the list of followers.
+
+<figure><img src="../../.gitbook/assets/Dashboard 4-en.png" alt=""><figcaption><p>Export my follower list</p></figcaption></figure>
+
+### Public Portfolio
+
+Click on Public Portfolio to directly link to your personal public [NFT Portfolio](collect-writing-nft/nft-portfolio.md).
+
+<figure><img src="../../.gitbook/assets/Dashboard 5-en.png" alt=""><figcaption><p>Public Portfolio</p></figcaption></figure>
+
+## Liker Land app
+
+Log in to the [Liker Land app](../../user-guide/liker-land/download.md) or log in to Liker Land in a mobile browser. Click the stack icon and then click "My Bookshelf" to view information such as Plaza, Collectibles, and Statistics.
+
+<figure><img src="../../.gitbook/assets/Dashboard Liker Lad app-en.png" alt=""><figcaption><p>Log in to the Liker Land app or log in to Liker Land in a mobile browser, click the stack icon and then click "My Bookshelf"</p></figcaption></figure>
 
 ## Feature and Hide
 
