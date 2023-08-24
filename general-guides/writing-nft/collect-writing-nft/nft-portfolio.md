@@ -6,7 +6,17 @@ description: Check out other users' NFT collections
 
 Besides collecting via the NFT Widget, readers can also collect Writing NFTs from the writer's **NFT Portfolio** page (in the format https://liker.land/\[WalletAddress]). Writers and collectors can share links to their collections through any channel.
 
-<figure><img src="../../../.gitbook/assets/NFT Portfolio 1-en.png" alt=""><figcaption><p>NFT Portfolio</p></figcaption></figure>
+## Collected
+
+Display the user's NFT collection.
+
+<figure><img src="../../../.gitbook/assets/NFT Portfolio Collected-en.png" alt=""><figcaption><p>Collected</p></figcaption></figure>
+
+## Created
+
+Displays the NFT created by this user.
+
+<figure><img src="../../../.gitbook/assets/NFT Portfolio Created-en.png" alt=""><figcaption><p>Created</p></figcaption></figure>
 
 ## NFT Gems
 
@@ -14,9 +24,11 @@ In addition to expressing the value of the collectibles in numbers, the Portfoli
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio 2.png" alt=""><figcaption><p>NFT Gems</p></figcaption></figure>
 
-## Top Fans
+## Favorite Creators and Top Fans
 
-The "Top Fans" function enhances the relationship between creators and their supporters.
+The "Favorite Creators" and "Top Fans" function enhances the relationship between creators and their supporters.
+
+<figure><img src="../../../.gitbook/assets/NFT Portfolio 7-en.png" alt=""><figcaption><p>Favorite Creators</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio 3-en.png" alt=""><figcaption><p>Top Fans</p></figcaption></figure>
 
@@ -24,9 +36,18 @@ The "Top Fans" function enhances the relationship between creators and their sup
 
 Users can now view any NFT portfolio by applying different sorting algorithms, including sorting:
 
+* NFT type: All NFTs, Articles, Books
+
+<figure><img src="../../../.gitbook/assets/NFT Portfolio 5-en.png" alt=""><figcaption><p>NFT type</p></figcaption></figure>
+
+* Creators
+
+<figure><img src="../../../.gitbook/assets/NFT Portfolio 6-en.png" alt=""><figcaption><p>Creators</p></figcaption></figure>
+
 * By Type
 * By Price
 * By Time
+* By Own
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio 4-en.png" alt=""><figcaption><p>List by order</p></figcaption></figure>
 
