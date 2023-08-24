@@ -16,7 +16,7 @@ description: 展示 NFT 藏品
 
 展示該用戶創作的 NFT。
 
-<figure><img src="../../../.gitbook/assets/NFT Portfolio Created.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portfolio Created.png" alt=""><figcaption><p>創作</p></figcaption></figure>
 
 ## NFT 寶石
 
@@ -36,13 +36,13 @@ description: 展示 NFT 藏品
 
 用戶可以透過不同的排序去查看任何 NFT 展示櫃，選擇包括：
 
-* 依類型篩選
+* 依類型篩選：所有 NFT、文章、書
 
-<figure><img src="../../../.gitbook/assets/NFT Portfolio 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portfolio 5.png" alt=""><figcaption><p>類型</p></figcaption></figure>
 
 * 依作者篩選
 
-<figure><img src="../../../.gitbook/assets/NFT Portfolio 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portfolio 6.png" alt=""><figcaption><p>作者</p></figcaption></figure>
 
 * 按類型
 * 按價格
