@@ -12,9 +12,9 @@ description: 網頁版的 Liker Land
 
 書店展示精選 NFT 書，熱門與最新的 Writing NFT 及文章推介。
 
-## 選項二：我的書架 - [https://liker.land/zh-Hant/feed](https://liker.land/zh-Hant/feed)
+## 選項二：我的書架 - [https://liker.land/zh-Hant/feed](https://liker.land/zh-Hant/feed?view=town)
 
-連接用戶[我的書架](../../general-guides/writing-nft/dashboard.md)頁面。‌
+連接用戶[我的書架](https://liker.land/zh-Hant/feed?view=town)頁面。‌
 
 ## 選項三：發行 NFT - [https://app.like.co/nft/url](https://app.like.co/nft/url)
 
