@@ -42,6 +42,8 @@ If you encounter problems during the purchase process, please go to the settings
 <img src="../../../.gitbook/assets/Liker Land app Buy NFT 7.png" alt="" data-size="original">
 {% endhint %}
 
+***
+
 ## Collect Writing NFT on Mobile Browser
 
 ### Via Keplr Mobile

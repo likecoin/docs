@@ -96,6 +96,7 @@
   * [Collect Writing NFT](general-guides/writing-nft/collect-writing-nft/README.md)
     * [Collect Writing NFT by LIKE on desktop](general-guides/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
     * [Collect Writing NFT by LIKE on mobile](general-guides/writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
+    * [One-Click Collect All Writing NFT](general-guides/writing-nft/collect-writing-nft/collect-all.md)
     * [NFT Widget](general-guides/writing-nft/collect-writing-nft/nft-widget.md)
     * [NFT Details](general-guides/writing-nft/collect-writing-nft/nft-details.md)
     * [NFT Portfolio](general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)

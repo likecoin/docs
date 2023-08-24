@@ -12,7 +12,7 @@ You can purchase Writing NFT with LikeCoin, which not only supports creators' wo
 
 Go to the upper right corner of the [Liker Land](https://liker.land/) website and click "Connect Wallet".
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 12-en.png" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 12-en (1).png" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
 
 Or click "Collect Now", "Collect" or the current NFT price and choose [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to login.
 

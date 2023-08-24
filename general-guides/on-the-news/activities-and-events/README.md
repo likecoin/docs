@@ -14,6 +14,8 @@
 
 [【5月9日 #線上對談】顛覆遊戲規則 ♠️](https://www.facebook.com/nowherebookstore/posts/pfbid02R2gPy3z8w95Y1GX2xZq4MEFM1tKs7EHcifm8obV3vTxnVESRjEjVJTQ6uysS2LEXl)
 
+[影片](https://www.youtube.com/watch?v=O0FtTFIyxIE)
+
 ### 05/08 𝐀𝐑𝐓𝐈𝐒𝐀𝐍 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐯𝐞 | 𝐃𝐀𝐎
 
 [Web3 是孤離，是記憶，是文藝復興？](https://twitter.com/artisan\_xyz/status/1655145749938860032)
