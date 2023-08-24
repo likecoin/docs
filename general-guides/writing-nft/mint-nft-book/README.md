@@ -16,6 +16,8 @@ description: 將電子書發行為 NFT
 
 以下將詳盡介紹每一個步驟。
 
+***
+
 ## 事前準備
 
 ### 預備你的電子書文檔
@@ -55,7 +57,7 @@ description: 將電子書發行為 NFT
 | contentFingerprint            | 分散式儲存哈希，例如："ipfs://QmVsa6WuHLiZtyfwQrFjgxwLvVqMPsvvvusTdCKmTyqkca"，"ar://e-bMr7c3O\_sm20zb7X5Vu870Q8b-Pc7eIxmjYXgJmsI"                                                 |
 | recordNotes                   | 保留                                                                                                                                                                     |
 
-**​​**
+**​**
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LL4mdaVjNgL6A1--PV0-1972196547%2Fuploads%2FZZ2EgkjFmyXs9mwNexNW%2Fimage.png?alt=media&#x26;token=e9c15bd8-4a3c-4e15-b89b-cafa937d0805" alt=""><figcaption></figcaption></figure>
 
@@ -106,6 +108,8 @@ NFT 書的技術細節請參考以下指南：
 
 {% embed url="https://docs.like.co/developer/likenft/nft-book-spec" %}
 
+***
+
 ## 發行 NFT 書
 
 ### 步驟一：上載 iscn.json 並註冊 ISCN
@@ -147,6 +151,8 @@ NFT 書的技術細節請參考以下指南：
 由於只完成發行但並未上架開放銷售，書籍數量會顯示為 Sold out。故此下一個步驟就是要把已發行的 NFT 書放上 Liker Land 售賣。
 
 <figure><img src="../../../.gitbook/assets/Mint NFT Book 9.png" alt=""><figcaption><p>在 Liker Land 查看已發行的 NFT 書</p></figcaption></figure>
+
+***
 
 ## 更新電子書文件或任何元資料的版本
 

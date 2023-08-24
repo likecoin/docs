@@ -36,6 +36,8 @@ description: 上架 NFT 書到 Liker Land 及銷售
 
 <figure><img src="../../../.gitbook/assets/List NFT Book 3.png" alt=""><figcaption><p>在 Liker Land 查看已發行的 NFT 書</p></figcaption></figure>
 
+***
+
 ## 銷售 NFT 書
 
 ### 步驟一：透過不同渠道賣書

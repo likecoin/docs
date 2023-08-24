@@ -24,6 +24,8 @@ description: 把任何網頁文章內容出版成 NFT
 
 又，出版 Writing NFT 後可以 iframe 的方式把 [NFT Widget](collect-writing-nft/nft-widget.md) 嵌入文章展示，如網站已安裝 [LikeCoin button 讚賞鍵](../../user-guide/creator/)，將自動展示 NFT Widget
 
+***
+
 ## 登入 NFT Portal <a href="#login-to-nft-portal" id="login-to-nft-portal"></a>
 
 在桌面電腦瀏覽器直接進入 [**NFT Portal**](https://app.like.co/nft/url) 並選擇以 [Keplr](../wallet/keplr/)、[Cosmostation](../wallet/cosmostation/)、[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker ID](../../user-guide/liker-land/download.md) 任何一種方式連結並登入網站。
@@ -87,6 +89,8 @@ description: 把任何網頁文章內容出版成 NFT
 成功登入後右上角將顯示你的錢包地址及 NFT Portal 註冊頁面。
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1e.png" alt=""><figcaption><p>成功登入 NFT Portal，右上角顯示錢包地址</p></figcaption></figure>
+
+***
 
 ## 以文章網址出版 Writing NFT <a href="#publish-writing-nft-with-an-article-url" id="publish-writing-nft-with-an-article-url"></a>
 
@@ -206,9 +210,15 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6-3.png" alt=""><figcaption><p>查看已發行的 Writing NFT</p></figcaption></figure>
 
+***
+
 ## 以 ISCN ID 出版 Writing NFT <a href="#publish-writing-nft-with-iscn-id" id="publish-writing-nft-with-iscn-id"></a>
 
 假如你的文章經已註冊 ISCN，你同樣可以使用 [**NFT Portal**](https://app.like.co/nft/url) 網站出版 Writing NFT。
+
+### 教學影片
+
+[基於已有的 ISCN ID 出版 Writing NFT （國語）](https://www.youtube.com/watch?v=X0uLaPOkucA)
 
 ### 方法 1：查找 ISCN 後直接出版 Writing NFT
 
@@ -226,53 +236,59 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 3.png" alt=""><figcaption><p>輸入 ISCN ID 並點「Register ISCN」鑄造 Writing NFT</p></figcaption></figure>
 
-#### 教學影片
-
-{% embed url="https://www.youtube.com/watch?v=X0uLaPOkucA" %}
+***
 
 ## 把語音檔出版成 Writing NFT
 
-#### 教學影片
+### 教學影片
 
-{% embed url="https://www.youtube.com/watch?v=YkVZzYVeT_E" %}
+[把語音檔出版成 Writing NFT （國語）](https://www.youtube.com/watch?v=YkVZzYVeT\_E)
+
+***
 
 ## 為 Matters 文章出版 Writing NFT <a href="#publish-writing-nft-for-matters-article" id="publish-writing-nft-for-matters-article"></a>
 
 用戶可以在 [Matters](../../user-guide/creator/matters.md) 發佈文章前選擇一拼註冊 ISCN。
 
+### 教學影片
+
+[為 Matters 上的舊文章註冊 ISCN （國語）](https://www.youtube.com/watch?v=y0\_mmmIqp3E)
+
 ![在 Matters 註冊 ISCN](<../../.gitbook/assets/NFT Portal ISCN 1 (1).png>)
 
 再依照 [方法 1：查找 ISCN 後直接出版 Writing NFT](nft-portal.md#fang-fa-1-cha-zhao-iscn-hou-zhi-jie-chu-ban-writing-nft) 即可出版 Writing NFT。
 
-#### 教學影片
-
-{% embed url="https://www.youtube.com/watch?v=y0_mmmIqp3E&t" %}
+***
 
 ## 在 Liker.Social 出版 Writing NFT <a href="#publish-writing-nft-on-liker.social" id="publish-writing-nft-on-liker.social"></a>
 
 點 [Liker.Social](https://liker.social/) 嘟文頁面的「Mint」可以將嘟文出版 NFT。
 
+### 教學影片
+
+[在基於 Mastodon 的 Liker.Social 上把 toot 發行成 NFT（國語）](https://www.youtube.com/watch?v=ElBZ4ZRc8io)
+
 <figure><img src="../../.gitbook/assets/Liker.Social.png" alt=""><figcaption><p>在 Liker.Social 出版 Writing NFT</p></figcaption></figure>
 
-#### 詳盡介紹
+### 詳盡介紹
 
 [在 Liker Social 出版 Writing NFT](https://blog.like.co/zh/liker-social-%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%87%BA%E7%89%88-writing-nft/)
 
-#### 教學影片
-
-{% embed url="https://www.youtube.com/watch?v=ElBZ4ZRc8io" %}
+***
 
 ## 在 illustBuy 出版 Writing NFT <a href="#publish-writing-nft-on-illustbuy" id="publish-writing-nft-on-illustbuy"></a>
 
 在 [illustBuy](https://illustbuy.com/) 出版 NFT亦同樣簡易。
 
-#### 詳盡介紹
+### 教學影片
+
+[專營插畫的 NFT 市場 - illustBuy： 鑄造 NFT 教學](https://www.youtube.com/watch?v=6EGFXDdb100)
+
+### 詳盡介紹
 
 [專營插畫的 NFT 市場 – illustBuy](https://blog.like.co/zh/%E5%B0%88%E7%87%9F%E6%8F%92%E7%95%AB%E7%9A%84-nft-%E5%B8%82%E5%A0%B4-illustbuy/)
 
-#### 教學影片
-
-{% embed url="https://www.youtube.com/watch?v=6EGFXDdb100" %}
+***
 
 ## 設置作者簡介 <a href="#creators-introduction" id="creators-introduction"></a>
 
