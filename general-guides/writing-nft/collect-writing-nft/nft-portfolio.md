@@ -30,7 +30,7 @@ description: 展示 NFT 藏品
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio 4.png" alt=""><figcaption><p>藏品排序</p></figcaption></figure>
 
-## 追蹤作者
+## 關注作者
 
 詳見：
 

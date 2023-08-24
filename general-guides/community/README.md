@@ -8,6 +8,10 @@ description: 想與社群及更多用戶聯繫分享經驗，有渠道嗎？
 
 [LikeCoin Discord](http://discord.gg/likecoin) 歡迎任何人參與，並設有中文及英文頻道，涵蓋創作、開發、治理、產品討論等各種話題，讓公眾與驗證人及各個持份者進行交流。
 
+## 教學影片
+
+[如何註冊 Discord 及加入 LikeCoin Writing NFT 社群（廣東話）](https://www.youtube.com/watch?v=f5CF8C9lsoU)
+
 ## 步驟一：進行認證
 
 新用戶請先到 #verify 頻道按 ✅ 進行認證。
@@ -37,7 +41,3 @@ description: 想與社群及更多用戶聯繫分享經驗，有渠道嗎？
 * [#translate-wallet-prefix](translate-wallet-prefix.md)－雙向查詢新舊前綴錢包地址
 * [#faucet-testnet](faucet-test.md)－獲取少量 LikeCoin 在 testnet 試用各種功能
 * [#faucet-mainnet](../faucet.md) - 主網水龍頭
-
-## LikeCoin Discord 使用教學（廣東話）
-
-{% embed url="https://www.youtube.com/watch?v=f5CF8C9lsoU" %}

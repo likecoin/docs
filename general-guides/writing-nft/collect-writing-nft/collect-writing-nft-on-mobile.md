@@ -42,6 +42,8 @@ description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用�
 <img src="../../../.gitbook/assets/Liker Land app Buy NFT 7.png" alt="刪除現有 Wallet Connect 連結並再次購買" data-size="original">
 {% endhint %}
 
+***
+
 ## 以手機瀏覽器收藏 Writing NFT <a href="#mobile" id="mobile"></a>
 
 ### 在 Keplr Mobile 簽署

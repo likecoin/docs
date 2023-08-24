@@ -14,6 +14,8 @@ description: NFT 好幫手
 
 <figure><img src="../../../.gitbook/assets/LikeCoin NFT Dashboard 1.png" alt=""><figcaption><p>搜尋 ( Search ) 後點「export all data」匯出資料</p></figcaption></figure>
 
+***
+
 ## LikeCoin ISCN/NFT Tools
 
 [**LikeCoin ISCN/NFT Tools**](https://likecoin.github.io/iscn-nft-tools/) 提供各種批量管理 NFT 的工具：
@@ -33,6 +35,8 @@ description: NFT 好幫手
 <figure><img src="../../../.gitbook/assets/LikeCoin ISCNNFT Tools 3.png" alt=""><figcaption><p>List and Sell NFT</p></figcaption></figure>
 
 [**ISCN Browser & Editor**](../../decentralized-publishing/iscn-browser.md)－連結至 ISCN Browser
+
+***
 
 ## 其他小工具
 

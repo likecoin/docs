@@ -26,9 +26,11 @@ description: 如何收藏 Writing NFT
 
 用戶也可以手機瀏覽器配合 [Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)簽署用 LIKE 購買 Writing NFT。
 
-#### [一鍵收藏 Writing NFT](./#yi-jian-shou-cang-writing-nft-shou-ji-yu-zhuo-ji-jun-shi-yong)
+#### [一鍵收藏 Writing NFT](collect-all.md)
 
 同戶可選擇使用 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)任何一種方式透過桌機或手機瀏覽器一氣呵成購買同一位作者的 NFT。
+
+***
 
 ## 開始收藏 NFT
 
@@ -49,6 +51,8 @@ description: 如何收藏 Writing NFT
 <figure><img src="../../../.gitbook/assets/Buy NFT 4.png" alt=""><figcaption><p>NFT Widget</p></figcaption></figure>
 
 即可開始收藏 Writing NFT。
+
+***
 
 ## 以信用卡付款收藏 Writing NFT（從未註冊錢包，手機與桌機均適用） <a href="#credit-card" id="credit-card"></a>
 
@@ -84,11 +88,13 @@ description: 如何收藏 Writing NFT
 
 到 [Liker Land](https://liker.land/) 網站右上角點「連接錢包」。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
 
 點頭像再選「[我的書架](https://liker.land/dashboard?tab=collected)」即可查看已購買的 NFT。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT pay by card 7.png" alt=""><figcaption><p>在我的書架查看已購買的 Writing NFT</p></figcaption></figure>
+
+***
 
 ## 已擁有錢包並以信用卡付款收藏 Writing NFT｛手機與桌機均適用） <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
 
@@ -100,15 +106,13 @@ description: 如何收藏 Writing NFT
 
 ### 教學影片
 
-{% embed url="https://www.youtube.com/watch?v=chZNVmZFzHU" %}
+[開發中：直接刷信用卡買 Writing NFT（國語）](https://www.youtube.com/watch?v=chZNVmZFzHU)
 
 ### 步驟一：Keplr 登入
 
 登入 Keplr 後到 [Liker Land](https://liker.land/) 網站右上角點「連接錢包」。
 
-
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 12 (1).png" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
 
 彈出視窗出現 [Keplr](../../wallet/keplr/)，點登入。
 
@@ -150,42 +154,6 @@ description: 如何收藏 Writing NFT
 [collect-writing-nft-on-mobile.md](collect-writing-nft-on-mobile.md)
 {% endcontent-ref %}
 
-## 一鍵收藏 Writing NFT｛手機與桌機均適用） <a href="#collect-all" id="collect-all"></a>
-
-使用一鍵收藏功能可讓用戶一次過購買一位創作者的所有 Writing NFT，並且提供自動過濾功能，不用擔心會重覆購買已購買了的 NFT。
-
-#### 教學影片
-
-{% embed url="https://www.youtube.com/watch?v=nnhUu8VYDdk" %}
-
-{% embed url="https://www.youtube.com/watch?v=DUl3UcO4EA0" %}
-
-### 步驟一：登入錢包並開始一鍵收藏
-
-請先登入你的  [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程](../../../user-guide/liker-land/download.md)，然後在創作者的 [NFT 展示櫃](nft-portfolio.md)點「一鍵收藏」。
-
-<figure><img src="../../../.gitbook/assets/Collect All 1.png" alt=""><figcaption><p>點「一鍵收藏」</p></figcaption></figure>
-
-### 步驟二：檢查背包
-
-出現背包頁面。假如你經已擁有該作者的 NFT，系統會自動幫你排除已擁有的 NFT，只留下你從未收藏過的 NFT。你也可以點「X」刪除你不想購買的 NFT。
-
-檢查完成後點「結帳」。
-
-<figure><img src="../../../.gitbook/assets/Collect All 2.png" alt=""><figcaption><p>在背包點「結帳」</p></figcaption></figure>
-
-### 步驟三：確認購買
-
-以 Keplr 為例，彈出視窗後點「Approve」確認購買。使用 Cosmostation、Leap、Keplr Mobile、Cosmostation app 或 Liker Land 手機應用程式亦會彈出相應的確認畫面，
-
-<figure><img src="../../../.gitbook/assets/Collect All 3.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve」確認購買</p></figcaption></figure>
-
-### 步驟四：查看已購買的 Writing NFT
-
-出現收藏作品頁面。
-
-<figure><img src="../../../.gitbook/assets/Collect All 4.png" alt=""><figcaption><p>瀏覽器出現收藏作品頁</p></figcaption></figure>
-
-付款成功後可點「檢視收藏頁」檢視已購買的 NFT。
-
-<figure><img src="../../../.gitbook/assets/Collect All 5.png" alt=""><figcaption><p>點「檢視收藏頁」</p></figcaption></figure>
+{% content-ref url="collect-all.md" %}
+[collect-all.md](collect-all.md)
+{% endcontent-ref %}

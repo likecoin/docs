@@ -19,6 +19,7 @@
   * [收藏 Writing NFT](general-guides/writing-nft/collect-writing-nft/README.md)
     * [以桌機用 LIKE 購買 Writing NFT](general-guides/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
     * [以手機用 LIKE 購買 Writing NFT](general-guides/writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
+    * [一鍵收藏 Writing NFT](general-guides/writing-nft/collect-writing-nft/collect-all.md)
     * [NFT Widget](general-guides/writing-nft/collect-writing-nft/nft-widget.md)
     * [NFT 詳細資訊](general-guides/writing-nft/collect-writing-nft/nft-details.md)
     * [NFT 展示櫃](general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)
