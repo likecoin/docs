@@ -12,7 +12,7 @@ After logging in to Liker Land web - [https://Liker.Land](https://liker.land/), 
 
 The bookstore displays selected NFT books, popular and latest Writing NFTs and article recommendations.
 
-## **Option 2:** My Dashboard - [https://liker.land/en/feed](https://liker.land/en/feed)
+## **Option 2:** My Dashboard - [https://liker.land/en/feed](https://liker.land/en/feed?view=town)
 
 Access your [My Dashboard](../../general-guides/writing-nft/dashboard.md).
 

@@ -16,7 +16,7 @@ Within the [Plaza](https://liker.land/en/feed?view=town), you can quickly view a
 
 ### Collectibles
 
-Collectibles lists NFTs collected and created by the user.
+[Collectibles](https://liker.land/en/feed?view=collectibles\&tab=collected) lists NFTs collected and created by the user.
 
 <figure><img src="../../.gitbook/assets/Dashboard 6-en.png" alt=""><figcaption><p>Collectibles</p></figcaption></figure>
 
