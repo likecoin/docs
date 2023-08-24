@@ -10,13 +10,13 @@ description: 展示 NFT 藏品庫
 
 ### 廣場
 
-在廣場中，所有你關注的用戶動態都一目了然，發現新的同好和作品。你也可以從朋友的閱讀清單中，發掘更多你感到興趣的內容。
+在[廣場](https://liker.land/zh-Hant/feed?view=town)中，所有你關注的用戶動態都一目了然，發現新的同好和作品。你也可以從朋友的閱讀清單中，發掘更多你感到興趣的內容。
 
 <figure><img src="../../.gitbook/assets/Plaza.png" alt=""><figcaption><p>廣場</p></figcaption></figure>
 
 ### 藏品
 
-列出用戶擁有的 NFT 收藏及創作。
+[藏品](https://liker.land/zh-Hant/feed?view=collectibles\&tab=collected)列出用戶擁有的 NFT 收藏及創作。
 
 <figure><img src="../../.gitbook/assets/Dashboard 6.png" alt=""><figcaption><p>藏品</p></figcaption></figure>
 
@@ -50,7 +50,7 @@ description: 展示 NFT 藏品庫
 
 登入 [Liker Land 手機應用程式](../../user-guide/liker-land/download.md)或在手機瀏覽器登入 Liker Land 後點堆疊圖案再點「我的書架」查看廣場、藏品及整體數據等資訊。
 
-<figure><img src="../../.gitbook/assets/Dashboard Liker Lad app.png" alt=""><figcaption><p>登入 Liker Land 手機應用程式後點堆疊圖案再點「我的書架」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Dashboard Liker Lad app.png" alt=""><figcaption><p>登入 Liker Land 手機應用程式或在手機瀏覽器登入 Liker Land 後點堆疊圖案再點「我的書架」</p></figcaption></figure>
 
 ## 精選及隱藏 NFT
 

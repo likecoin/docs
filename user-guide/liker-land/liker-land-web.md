@@ -14,7 +14,7 @@ description: 網頁版的 Liker Land
 
 ## 選項二：我的書架 - [https://liker.land/zh-Hant/feed](https://liker.land/zh-Hant/feed?view=town)
 
-連接用戶[我的書架](https://liker.land/zh-Hant/feed?view=town)頁面。‌
+連接用戶[我的書架](../../general-guides/writing-nft/dashboard.md)頁面。‌
 
 ## 選項三：發行 NFT - [https://app.like.co/nft/url](https://app.like.co/nft/url)
 
