@@ -6,7 +6,17 @@ description: 展示 NFT 藏品
 
 讀者除了可於 NFT Widget 收集當前文章的 NFT 外，也可以到用戶的 **NFT 展示櫃** 頁面（網址為 https://liker.land/\[錢包地址]）直接購買正在發售中的 NFT。用戶也可以經任何渠道分享他的 NFT 藏品連結。
 
-<figure><img src="../../../.gitbook/assets/NFT Portfolio 1.png" alt=""><figcaption><p>NFT 展示櫃</p></figcaption></figure>
+## 收藏
+
+展示該用戶的 NFT 藏品。
+
+<figure><img src="../../../.gitbook/assets/NFT Portfolio Collected.png" alt=""><figcaption><p>收藏</p></figcaption></figure>
+
+## 創作
+
+展示該用戶創作的 NFT。
+
+<figure><img src="../../../.gitbook/assets/NFT Portfolio Created.png" alt=""><figcaption></figcaption></figure>
 
 ## NFT 寶石
 
@@ -14,9 +24,11 @@ description: 展示 NFT 藏品
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio 2.png" alt=""><figcaption><p>NFT 寶石</p></figcaption></figure>
 
-## 頭號粉絲
+## 最愛作者及頭號粉絲
 
-頭號粉絲功能，增進創作者與支持者之間的關係。
+最愛作者及頭號粉絲功能，增進創作者與支持者之間的關係。
+
+<figure><img src="../../../.gitbook/assets/NFT Portfolio 7.png" alt=""><figcaption><p>最愛作者</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio 3.png" alt=""><figcaption><p>頭號粉絲</p></figcaption></figure>
 
@@ -24,9 +36,18 @@ description: 展示 NFT 藏品
 
 用戶可以透過不同的排序去查看任何 NFT 展示櫃，選擇包括：
 
-* 依照類型
-* 依照價格
-* 依照時間
+* 依類型篩選
+
+<figure><img src="../../../.gitbook/assets/NFT Portfolio 5.png" alt=""><figcaption></figcaption></figure>
+
+* 依作者篩選
+
+<figure><img src="../../../.gitbook/assets/NFT Portfolio 6.png" alt=""><figcaption></figcaption></figure>
+
+* 按類型
+* 按價格
+* 按時間
+* 按擁有
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio 4.png" alt=""><figcaption><p>藏品排序</p></figcaption></figure>
 
