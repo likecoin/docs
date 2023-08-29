@@ -99,7 +99,7 @@ In blockchain jargon, the above mechanism of decentralized consensus is called B
 
 ## **Governance** <a href="#ca09" id="ca09"></a>
 
-As stated in the very beginning, _LikeCoin DAO_ is collectively owned and governed by the community. A [liquid democracy](https://en.wikipedia.org/wiki/Liquid\_democracy) system is designed and deployed upon Genesis to enable the self governance of _LikeCoin DAO_ by all _Likers_ though _validators_.
+As stated in the very beginning, _LikeCoin DAO_ is collectively owned and governed by the community. A [liquid democracy](https://en.wikipedia.org/wiki/Liquid\_democracy) system is designed and deployed upon Genesis to enable the self governance of _LikeCoin DAO_ by all _Likers_ through _validators_.
 
 ### Delegation <a href="#c538" id="c538"></a>
 
