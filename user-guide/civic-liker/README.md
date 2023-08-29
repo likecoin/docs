@@ -18,7 +18,7 @@ You can become a Civic Liker by [staking at least 5,000 LikeCoin to the "Civic L
 
 Like = reward. Every Civic Liker's "Like" by clicking the [LikeCoin button](../creator/) will be converted into LikeCoin rewards for the creators. The stake reward is distributed without touching the staked LikeCoin principal. The more you stake, the more stake reward you will receive, and thus the more budget you can allocate to rewarding creativity.
 
-> Exampe:
+> Example:
 >
 > Let's say Alice stakes 25,000 LIKE to the "Civic Liker" node. Assuming the staking APR is 15%, the monthly stake reward would be 25,000 × 0.15 × 12 = 312.5 LIKE. By giving "Likes," you can distribute the stake reward to creators while keeping your staked LikeCoin untouched.
 >
