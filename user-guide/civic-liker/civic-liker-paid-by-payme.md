@@ -2,7 +2,7 @@
 description: For Hong Kong resident only
 ---
 
-# How to pay Civic Liker yearly scubscription by PayMe or FPS
+# How to pay Civic Liker yearly subscription by PayMe or FPS
 
 #### _**The following applies to Civic Liker 1.0, please contact LikeCoin help desk before making the payment.**_
 
