@@ -8,7 +8,7 @@ description: >-
 
 The current hassle to publish articles as NFTs: Creators needed to find ways to save the contents and metadata on decentralized storage such as IPFS or blockchain, before selling them on the NFT marketplaces. Furthermore, they had to purchase several kinds of cryptocurrencies during the process. We have good news for WordPress users: After finishing your articles, you only need one click to publish NFT credentials to blockchain. the whole process just takes one minute to complete within the WordPress editor!
 
-The brand new LikeCoin [Web3Press plugin](https://wordpress.org/plugins/likecoin/) is tailor made for Gutenberg editor, which links up the WordPress website with Web3 by just one click and decentralized publishing can be actualized to the fullest. It's functions include:
+The brand new LikeCoin [Web3Press plugin](https://wordpress.org/plugins/likecoin/) is tailor made for Gutenberg editor, which links up the WordPress website with Web3 by just one click and decentralized publishing can be actualized to the fullest. Its functions include:
 
 * Set the post title and tags as the NFT metadata automatically
 * One-click publishing to LikeCoin plus storage at IPFS and Arweave and register [ISCN](../general-guides/decentralized-publishing/what-is-iscn.md).
@@ -64,7 +64,7 @@ After publishing the article, click "Publish" under Web3Press.
 
 <figure><img src="../.gitbook/assets/W3Press mint 1.png" alt=""><figcaption><p>Click "Publish"</p></figcaption></figure>
 
-The Convert Content to Wrirting NFT and Keplr windows will appear. On the Keplr pop-up window, click "Approve".
+The Convert Content to Writing NFT and Keplr windows will appear. On the Keplr pop-up window, click "Approve".
 
 <figure><img src="../.gitbook/assets/W3Press mint 2.png" alt=""><figcaption><p>On the Keplr pop-up window, click "Approve"</p></figcaption></figure>
 
@@ -176,4 +176,4 @@ After the article is published to ISCN, you can choose whether to display the IS
 
 <figure><img src="../.gitbook/assets/wordpress 13.png" alt=""><figcaption><p>ISCN Badge setting</p></figcaption></figure>
 
-
+
