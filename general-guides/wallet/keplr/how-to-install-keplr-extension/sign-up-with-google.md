@@ -45,7 +45,7 @@ description: Keplr 使用 Web3Auth 推出社交帳號登入功能
 <figure><img src="../../../../.gitbook/assets/Keplr 13.png" alt=""><figcaption><p>錢包中出現 LikeCoin 表示經已成功安裝 Keplr</p></figcaption></figure>
 
 {% hint style="danger" %}
-注意 Keplr 團隊不會進行記錄，故此你需要自行牢記鏈接的帳戶。\
+注意 Keplr 團隊不會記錄你的私鑰，故此你需要自行牢記鏈接的帳戶。\
 請把私鑰及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Keplr 錢包。
 {% endhint %}
 
