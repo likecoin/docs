@@ -116,7 +116,7 @@ Cosmostation app 將彈出 Request Transaction Sign 視窗，點「Confirm」。
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 6-1.png" alt=""><figcaption><p>簽署以註冊 ISCN ID、Arweave ID、Class ID 及鑄造 Writing NFT</p></figcaption></figure>
 
-出現 Completed! 及 3D 封面圖即代表 NFT 已鑄造完成，如網站未曾安裝 [LikeCoin button 讚賞鍵](../../../user-guide/creator/)可直接貼上 Embed NFT widget into your site 的代碼，即可在任何網頁展示 [NFT Widget](../collect-writing-nft/nft-widget.md)。
+出現 Completed! 及 3D 封面圖即代表 NFT 已鑄造完成，如網站未曾安裝 [LikeCoin button 讚賞鍵](../../../user-guide/creator/)可直接貼上 Embed NFT widget into your site 的代碼，即可在任何網頁展示 [NFT 小部件](../collect-writing-nft/nft-widget.md)。
 
 點「View Your NFT」查看已發行的 Writing NFT。
 
@@ -127,5 +127,5 @@ Cosmostation app 將彈出 Request Transaction Sign 視窗，點「Confirm」。
 {% hint style="info" %}
 留意如果將網址直接以這個方式註冊 ISCN 並出版 Writing NFT，系統會自動抓取文章標題及內容作為元資料。
 
-**如希望作品擁有詳盡元資料，請先** [**註冊 ISCN**](../../decentralized-publishing/app.like.co.md) **再以 ISCN ID 出版 Writing NFT。**&#x20;
+**如希望作品擁有詳盡元資料，請先** [**註冊 ISCN**](../../decentralized-publishing/app.like.co.md) **再以** [**ISCN ID 出版 Writing NFT**](by-iscn-id.md)**。**&#x20;
 {% endhint %}

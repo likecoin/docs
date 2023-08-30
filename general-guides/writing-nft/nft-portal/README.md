@@ -18,7 +18,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### **選擇二：**以文章網址出版 Writing NFT
 
-可到 [**NFT Portal** 即 app.like.co 的 Mint Writing NFT 分頁](https://app.like.co/nft/url)貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統註冊成為 [ISCN](../../decentralized-publishing/what-is-iscn.md) 並出版 NFT，
+可到 [**NFT Portal** 即 app.like.co 的 Mint Writing NFT 分頁](https://app.like.co/nft/url)貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統註冊成為 [ISCN](../../decentralized-publishing/what-is-iscn.md) 並出版 NFT。
 
 > #### 教學
 >
@@ -32,13 +32,13 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### **選擇三**：以 ISCN ID 出版 Writing NFT
 
-將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../../decentralized-publishing/app.like.co.md)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 出版 NFT，
+將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../../decentralized-publishing/app.like.co.md)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 出版 NFT。
 
 > #### 教學：[以 ISCN ID 出版 Writing NFT](by-iscn-id.md)
 
 ### **選擇四**：為 Matters 文章出版 Writing NFT
 
-在 [Matters 網站](https://matters.news/)撰文並選擇「註冊 ISCN」，並於 [app.like.co 的 My Works 分頁](https://app.like.co/works)選擇該 ISCN 再點「Mint NFT」出版 NFT，
+在 [Matters 網站](https://matters.news/)撰文並選擇「註冊 ISCN」，並於 [app.like.co 的 My Works 分頁](https://app.like.co/works)選擇該 ISCN 再點「Mint NFT」出版 NFT。
 
 > #### 教學：[為 Matters 文章出版 Writing NFT](matters.md)
 
@@ -50,7 +50,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### **選擇六**：在 illustBuy 出版 Writing NFT
 
-在插畫平台 [illustBuy](https://illustbuy.com/) 出版 NFT，
+在插畫平台 [illustBuy](https://illustbuy.com/) 出版 NFT。
 
 > #### 教學：[在 illustBuy 出版 Writing NFT](illustbuy.md)
 
