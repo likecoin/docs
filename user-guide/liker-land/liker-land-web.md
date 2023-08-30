@@ -18,7 +18,7 @@ description: 網頁版的 Liker Land
 
 ## 選項三：發行 NFT - [https://app.like.co/nft/url](https://app.like.co/nft/url)
 
-使用 [NFT Portal](../../general-guides/writing-nft/nft-portal.md) 發行 NFT。
+使用 [NFT Portal](../../general-guides/writing-nft/nft-portal/) 發行 NFT。
 
 ## 選項四：通知 - [https://liker.land/zh-Hant/notifications](https://liker.land/zh-Hant/notifications)
 

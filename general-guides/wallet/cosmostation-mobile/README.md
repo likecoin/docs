@@ -52,6 +52,6 @@ description: Cosmostation 手機版
 [collect-writing-nft-on-mobile.md](../../writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../writing-nft/nft-portal.md" %}
-[nft-portal.md](../../writing-nft/nft-portal.md)
+{% content-ref url="../../writing-nft/nft-portal/" %}
+[nft-portal](../../writing-nft/nft-portal/)
 {% endcontent-ref %}

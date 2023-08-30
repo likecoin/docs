@@ -46,7 +46,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 
-可以。[Web3Press plugin](../../user-guide/wordpress.md) 支援僅以 [Keplr](../wallet/keplr/) 地址生成 [NFT Widget](collect-writing-nft/nft-widget.md)。另，也可經 [NFT Portal](nft-portal.md) 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
+可以。[Web3Press plugin](../../user-guide/wordpress.md) 支援僅以 [Keplr](../wallet/keplr/) 地址生成 [NFT Widget](collect-writing-nft/nft-widget.md)。另，也可經 [NFT Portal](nft-portal/) 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
 
 ### 如何安裝 NFT Widget?
 
@@ -54,7 +54,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 作品沒有安裝 NFT Widget，也能發售 NFT 嗎？
 
-可在 [NFT Portal](nft-portal.md) 發行 NFT，然後在自己的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)或[二級市場](collect-writing-nft/nft-marketplace.md)發售。
+可在 [NFT Portal](nft-portal/) 發行 NFT，然後在自己的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)或[二級市場](collect-writing-nft/nft-marketplace.md)發售。
 
 ### 如何把 NFT 賣到二級市場？
 

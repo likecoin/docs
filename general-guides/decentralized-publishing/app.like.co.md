@@ -22,7 +22,7 @@ description: 第一個 ISCN 的概念示範應用
 
 以 [Keplr](../wallet/keplr/)、[Cosmostation](../wallet/cosmostation/)、[Cosmostation app](../wallet/cosmostation-mobile/) 或 [Liker ID](../../user-guide/liker-land/download.md) 任何一種方式連結並登入網站。
 
-<figure><img src="../../.gitbook/assets/NFT Portal 1.png" alt=""><figcaption><p>以 Keplr、Cosmostation、Cosmostation app 或 Liker ID 任何一種方式連結並登入 app.like.co</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>以 Keplr、Cosmostation、Cosmostation app 或 Liker ID 任何一種方式連結並登入 app.like.co</p></figcaption></figure>
 
 ### **登入方式 1：Keplr**
 
