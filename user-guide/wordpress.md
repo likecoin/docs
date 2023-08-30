@@ -70,7 +70,7 @@ The Convert Content to Wrirting NFT and Keplr windows will appear. On the Keplr 
 
 ### Step 2: Preview Writing NFT
 
-Preview your Writing NFT. If you want to add, change, or create an AI cover for the Writing NFT, click ":pencil2:". If you don't need to make any changes or if the article has no picture, the default OG picture of the article will be displayed or no picture will be displayed. You can also click ":pencil2:" to change the title and description of your Writing NFT. To learn more, please go to [Mint Writing NFT](../general-guides/writing-nft/nft-portal.md). Then click "Next" to continue.
+Preview your Writing NFT. If you want to add, change, or create an AI cover for the Writing NFT, click ":pencil2:". If you don't need to make any changes or if the article has no picture, the default OG picture of the article will be displayed or no picture will be displayed. You can also click ":pencil2:" to change the title and description of your Writing NFT. To learn more, please go to [Mint Writing NFT](../general-guides/writing-nft/nft-portal/). Then click "Next" to continue.
 
 <figure><img src="../.gitbook/assets/W3Press mint 3.png" alt=""><figcaption><p>Change the cover, title and description of your Writing NFT and click "Next"</p></figcaption></figure>
 

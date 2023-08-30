@@ -52,6 +52,6 @@ Please note that Cosmostation does not support the registration of Liker ID yet.
 [collect-writing-nft-on-mobile.md](../../writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../writing-nft/nft-portal.md" %}
-[nft-portal.md](../../writing-nft/nft-portal.md)
+{% content-ref url="../../writing-nft/nft-portal/" %}
+[nft-portal](../../writing-nft/nft-portal/)
 {% endcontent-ref %}

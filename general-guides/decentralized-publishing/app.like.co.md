@@ -22,7 +22,7 @@ Visit [app.like.co](https://app.like.co) in your browser and click "Connect Wall
 
 Choose [Keplr](../wallet/keplr/), [Cosmostation](../wallet/cosmostation/), [Cosmostation app](../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker ID](../../user-guide/liker-land/download.md) to login and link to the website.
 
-<figure><img src="../../.gitbook/assets/NFT Portal 1.png" alt=""><figcaption><p>Login and link to app.like.col with Keplr, Cosmostation, Cosmostation app or Liker ID</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Login and link to app.like.col with Keplr, Cosmostation, Cosmostation app or Liker ID</p></figcaption></figure>
 
 ### Login method 1: Keplr
 
