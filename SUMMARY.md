@@ -35,7 +35,7 @@
     * [Cosmostation](general-guides/writing-nft/nft-portal/cosmostation.md)
     * [Cosmostation app](general-guides/writing-nft/nft-portal/cosmostation-app.md)
     * [Liker Land app](general-guides/writing-nft/nft-portal/liker-land-app.md)
-    * [Matters.town](general-guides/writing-nft/nft-portal/matters.md)
+    * [Matters](general-guides/writing-nft/nft-portal/matters.md)
     * [Liker Social](general-guides/writing-nft/nft-portal/liker-social.md)
     * [illustBuy](general-guides/writing-nft/nft-portal/illustbuy.md)
     * [以 ISCN ID 發行 NFT](general-guides/writing-nft/nft-portal/by-iscn-id.md)
