@@ -58,7 +58,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 把語音檔出版成 NFT。
 
-> #### 教學：[把語音檔出版成 Writing NFT](jiang-yu-yin-dang-fa-hang-nft.md)
+> #### 教學：[把語音檔出版成 Writing NFT](sound.md)
 
 ***
 
