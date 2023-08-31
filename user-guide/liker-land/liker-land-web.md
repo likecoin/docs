@@ -18,7 +18,7 @@ Access your [My Dashboard](../../general-guides/writing-nft/dashboard.md).
 
 ## **Option 3: Mint NFT -** [**https://app.like.co/nft/url**](https://app.like.co/nft/url)
 
-Use the [NFT Portal](../../general-guides/writing-nft/nft-portal.md) to mint NFTs.
+Use the [NFT Portal](../../general-guides/writing-nft/nft-portal/) to mint NFTs.
 
 ## Option 4: Notifications - [https://liker.land/en/notifications](https://liker.land/en/notifications)
 

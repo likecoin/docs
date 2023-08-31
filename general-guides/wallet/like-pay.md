@@ -62,8 +62,8 @@ Connect to the payment page in the browser, with the format https://like.co/\[Li
 [app.like.co.md](../decentralized-publishing/app.like.co.md)
 {% endcontent-ref %}
 
-{% content-ref url="../writing-nft/nft-portal.md" %}
-[nft-portal.md](../writing-nft/nft-portal.md)
+{% content-ref url="../writing-nft/nft-portal/" %}
+[nft-portal](../writing-nft/nft-portal/)
 {% endcontent-ref %}
 
 {% content-ref url="../writing-nft/collect-writing-nft/" %}

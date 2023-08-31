@@ -48,8 +48,8 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 [collect-writing-nft-on-desktop.md](../../writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../writing-nft/nft-portal.md" %}
-[nft-portal.md](../../writing-nft/nft-portal.md)
+{% content-ref url="../../writing-nft/nft-portal/" %}
+[nft-portal](../../writing-nft/nft-portal/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../user-guide/depub.space/" %}
