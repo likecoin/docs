@@ -12,7 +12,7 @@ description: 使用 Keplr 註冊 ISCN
 
 請於瀏覽器登入 [Keplr 瀏覽器擴充功能 ( Keplr Browser Extension )](../../wallet/keplr/)，點「Keplr」後彈出視窗要求連結，點「Approve」。
 
-<figure><img src="../../../.gitbook/assets/ISCN Keplr.png" alt=""><figcaption><p>以 Keplr 登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN Keplr.png" alt=""><figcaption><p>以 Keplr 登入 app.like.co</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1a.png" alt=""><figcaption><p>在 Keplr 點「Approve」</p></figcaption></figure>
 

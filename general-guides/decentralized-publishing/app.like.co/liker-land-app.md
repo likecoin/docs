@@ -12,7 +12,7 @@ description: 使用 Liker Land app 註冊 ISCN
 
 點「Liker ID」登入後出現二維碼。
 
-<figure><img src="../../../.gitbook/assets/ISCN Liker Land app.png" alt=""><figcaption><p>以 Liker ID 登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN Liker Land app.png" alt=""><figcaption><p>以 Liker ID 登入 app.like.co</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>點 Liker ID 後出現二維碼</p></figcaption></figure>
 

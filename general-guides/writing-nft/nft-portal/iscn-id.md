@@ -4,11 +4,13 @@ description: 以 ISCN ID 出版 Writing NFT
 
 # 以 ISCN ID 發行 NFT
 
-假如你的文章經已註冊 ISCN，你同樣可以使用 [**NFT Portal**](https://app.like.co/nft/url) 網站出版 Writing NFT。
+假如你的文章經已註冊 ISCN，你同樣可以使用 [**NFT Portal**](https://app.like.co/nft/url) 網站出版 Writing NFT。你亦可以將 PDF、圖片、聲音…先註冊成 ISCN，再將 ISCN ID 貼到 NFT Portal 出版 NFT。
 
 ## 教學影片
 
 [基於已有的 ISCN ID 出版 Writing NFT （國語）](https://www.youtube.com/watch?v=X0uLaPOkucA)
+
+[把語音檔出版成 Writing NFT （國語）](https://www.youtube.com/watch?v=YkVZzYVeT\_E)
 
 ## 方法 1：查找 ISCN 後直接出版 Writing NFT
 
@@ -22,6 +24,6 @@ description: 以 ISCN ID 出版 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/NFT Portal ISCN 2.png" alt=""><figcaption><p>將 ISCN ID 鑄造為 Writing NFT</p></figcaption></figure>
 
-再到  [NFT Portal](https://app.like.co/nft/url) 的空格輸入 ISCN ID 並點「Register ISCN」，餘下步驟與以文章網址出版 Writing NFT 完全相同。
+再到 [NFT Portal](https://app.like.co/nft/url) 的空格輸入 ISCN ID 並點「Register ISCN」，餘下步驟與以文章網址出版 Writing NFT 完全相同。
 
 <figure><img src="../../../.gitbook/assets/NFT Portal ISCN 3.png" alt=""><figcaption><p>輸入 ISCN ID 並點「Register ISCN」鑄造 Writing NFT</p></figcaption></figure>

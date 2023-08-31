@@ -30,4 +30,4 @@ description: 第一個 ISCN 的概念示範應用
 
 ## 出版 Writing NFT
 
-註冊 ISCN 後，用戶可以[把它出版成 Writing NFT](../../writing-nft/nft-portal/by-iscn-id.md)。&#x20;
+註冊 ISCN 後，用戶可以[把它出版成 Writing NFT](../../writing-nft/nft-portal/iscn-id.md)。&#x20;

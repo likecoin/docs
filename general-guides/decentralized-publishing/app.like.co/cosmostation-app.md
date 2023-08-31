@@ -12,7 +12,7 @@ description: 使用 Cosmostation app 註冊 ISCN
 
 點「Cosmostation app」登入後出現二維碼。
 
-<figure><img src="../../../.gitbook/assets/ISCN Cosmostation app.png" alt=""><figcaption><p>以 Cosmostation app 登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN Cosmostation app.png" alt=""><figcaption><p>以 Cosmostation app 登入 app.like.co</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/NFT Portal Cosmotation app 1.png" alt=""><figcaption><p>點 Cosmostation app 後出現二維碼</p></figcaption></figure>
 

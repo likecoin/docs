@@ -12,7 +12,7 @@ description: 使用 Cosmostation 註冊 ISCN
 
 請於瀏覽器登入 [Cosmotation 瀏覽器擴充功能 ( Cosmostation Browser Extension )](../../wallet/cosmostation/)，點「Cosmostation」後彈出視窗要求連結，點「Confirm」。
 
-<figure><img src="../../../.gitbook/assets/ISCN Cosmostation.png" alt=""><figcaption><p>以 Cosmostation 登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN Cosmostation.png" alt=""><figcaption><p>以 Cosmostation 登入 app.like.co</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/NFT Portal Cosmostation.png" alt=""><figcaption><p>在 Cosmostation 點「Confirm」</p></figcaption></figure>
 

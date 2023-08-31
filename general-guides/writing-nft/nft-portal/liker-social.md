@@ -4,7 +4,7 @@ description: 在 Liker.Social 出版 Writing NFT
 
 # Liker Social
 
-點 [Liker.Social](https://liker.social/) 嘟文頁面的「Mint」可以將嘟文出版 NFT。
+點 [Liker.Social](../../../user-guide/liker.social.md) 嘟文頁面的「Mint」可以將嘟文出版 NFT。
 
 ## 教學影片
 

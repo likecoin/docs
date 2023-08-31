@@ -32,7 +32,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../../decentralized-publishing/app.like.co/)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 出版 NFT。
 
-> #### 教學：[以 ISCN ID 出版 Writing NFT](by-iscn-id.md)
+> #### 教學：[以 ISCN ID 出版 Writing NFT](iscn-id.md)
 
 ### **選擇四**：為 Matters 文章出版 Writing NFT
 
@@ -47,10 +47,6 @@ description: 把任何網頁文章內容出版成 NFT
 ### **選擇六**：在 illustBuy 出版 Writing NFT
 
 在插畫平台 [**illustBuy**](illustbuy.md) 出版 NFT。
-
-### **選擇七**：將語音檔發行 Writing NFT
-
-把[**語音檔出版成 NFT**](sound.md)。
 
 ***
 

@@ -111,5 +111,5 @@ description: 使用 Cosmostation 以文章網址出版 Writing NFT
 {% hint style="info" %}
 留意如果將網址直接以這個方式註冊 ISCN 並出版 Writing NFT，系統會自動抓取文章標題及內容作為元資料。
 
-**如希望作品擁有詳盡元資料，請先** [**註冊 ISCN**](../../decentralized-publishing/app.like.co/) **再**[**以 ISCN ID 出版 Writing NFT**](by-iscn-id.md)**。**&#x20;
+**如希望作品擁有詳盡元資料，請先** [**註冊 ISCN**](../../decentralized-publishing/app.like.co/) **再**[**以 ISCN ID 出版 Writing NFT**](iscn-id.md)**。**&#x20;
 {% endhint %}
