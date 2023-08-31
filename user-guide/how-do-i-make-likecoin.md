@@ -14,7 +14,8 @@ The source of the creators' daily reward consists of two parts:
 
 **1. The monthly subscription fee**: paid by Civic Liker, his/her monthly supporting amount will be credited to the content creator in the form of equivalent LikeCoin.
 
-e.g. Veryotaku receives USD5 from 1 supporter and USD5 from 3 supporters, total USD35
+e.g. Veryotaku receives USD5 from 1 supporter and USD10 from 3 supporters, total USD35
+
  \(equivalent in LikeCoin \).
 
 **2. Creators fund**: managed by the foundation. The daily amount is adjusted according to the total amount donated by Civic Likers. Both of the likes given by Civic Liker and ordinary likers will be considered as votes for fund distribution.
