@@ -5,7 +5,7 @@ description: 把任何網頁文章內容出版成 NFT
 # 發行 Writing NFT
 
 {% hint style="info" %}
-## 📣出版 Writing NFT 需要使用 LikeCoin，用戶可於[水龍頭](../../faucet.md)取得少量 LikeCoin 以作測試
+### 📣發行 Writing NFT 需要 LikeCoin，用戶可於[水龍頭](../../faucet.md)取得少量 LikeCoin 以作測試
 {% endhint %}
 
 ## 發行 Writing NFT 的方式
