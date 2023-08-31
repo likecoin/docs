@@ -20,6 +20,8 @@ description: 第一個 ISCN 的概念示範應用
 
 用戶也可使用 [Cosmostation](../../writing-nft/nft-portal/cosmostation.md)、[Cosmostation app](../../writing-nft/nft-portal/cosmostation-app.md) 或 [Liker ID](../../writing-nft/nft-portal/liker-land-app.md) 進行註冊。
 
+或於 [Matters](matters.md) 網站發文時一拼註冊 ISCN。
+
 ***
 
 ## 出版 Writing NFT
