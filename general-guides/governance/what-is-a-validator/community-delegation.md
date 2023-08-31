@@ -17,7 +17,7 @@ If you would like to apply community delegation, please:
 A. Post about yourself and why you want to participate in LikeCoin at [matters.news](https://matters.news/) or [medium.com](https://medium.com/) or their own WordPress blog and register the post into an ISCN.
 
 * You may post your introduction article in English or Chinese.
-* You may check out the instructions in “[How to register an ISCN?](../../decentralized-publishing/app.like.co.md)”
+* You may check out the instructions in “[How to register an ISCN?](../../decentralized-publishing/app.like.co/)”
 * When you post on Matters.news - Use the function "add tag” on matters.news to tag [#Validator Intro](https://matters.news/tags/VGFnOjUzMTkw) in your article.
 * When you post on Medium - You may post on matters.news or post on medium.com with the tag #Validator Intro and #LikeCoin
 

@@ -29,7 +29,7 @@ description: Frequently Asked Questions
 * [What will happen if the content is updated? Does ISCN support versioning?](general-guides/decentralized-publishing/what-is-iscn.md)
 * [Does ISCN support content stored on IPFS only?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [What type of content is supported by ISCN?](general-guides/decentralized-publishing/content-type.md)
-* [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co.md)
+* [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co/)
 * [Can I register for ISCN in a batch?](general-guides/decentralized-publishing/iscn-batch-uploader.md)
 
 ## [Faucet](general-guides/faucet.md) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>

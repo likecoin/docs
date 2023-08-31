@@ -4,9 +4,13 @@ description: Publishing eBook as an NFT
 
 # Mint NFT Book (beta)
 
+{% hint style="info" %}
 ### 📣Minting Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../../faucet.md) for testing.
+{% endhint %}
 
+{% hint style="info" %}
 ### 📣This instruction requires technical knowledge about running node.js scripe and editing JSON files
+{% endhint %}
 
 Publishing an NFT book involves three stages:
 

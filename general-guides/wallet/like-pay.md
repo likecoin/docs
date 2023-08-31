@@ -58,8 +58,8 @@ Connect to the payment page in the browser, with the format https://like.co/\[Li
 [delegation-of-likecoin](../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
-{% content-ref url="../decentralized-publishing/app.like.co.md" %}
-[app.like.co.md](../decentralized-publishing/app.like.co.md)
+{% content-ref url="../decentralized-publishing/app.like.co/" %}
+[app.like.co](../decentralized-publishing/app.like.co/)
 {% endcontent-ref %}
 
 {% content-ref url="../writing-nft/nft-portal/" %}

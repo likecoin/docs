@@ -127,5 +127,5 @@ Click "View Your NFT" to view your Writing NFT.
 {% hint style="info" %}
 Please note if the URL is directly registered with ISCN in this way when publishing a Writing NFT, the system will automatically grab the article title and content as metadata.
 
-**If you want your work to have detailed metadata, please** [**register an ISCN**](../../decentralized-publishing/app.like.co.md) **and** [**publish Writing NFT with the ISCN ID**](by-iscn-id.md)**.**
+**If you want your work to have detailed metadata, please** [**register an ISCN**](../../decentralized-publishing/app.like.co/) **and** [**publish Writing NFT with the ISCN ID**](iscn-id.md)**.**
 {% endhint %}

@@ -5,16 +5,14 @@ description: Publish ANY webpage as NFT
 # Mint Writing NFT
 
 {% hint style="info" %}
-## 📣Minting Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../../faucet.md) for testing.
+### 📣Minting Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../../faucet.md) for testing.
 {% endhint %}
 
 ## How to publish Writing NFT
 
 ### Option 1: Publish Writing NFT with Web3Press
 
-Authors can use [**Web3Press**](https://wordpress.org/plugins/likecoin/) to publish articles, register ISCN and publish NFT in one go. If the author does not use WordPress.
-
-> #### Tutorial: [Web3Press](../../../user-guide/wordpress.md)
+Authors can use [**Web3Press**](../../../user-guide/wordpress.md) to publish articles, register ISCN and publish NFT in one go. If the author does not use WordPress.
 
 ### Option 2: Publish Writing NFT with an article URL
 
@@ -22,19 +20,19 @@ Creators can copy the URL of any webpage, paste it to [**NFT Portal** website a.
 
 > #### Tutorial
 >
-> #### [Publish Writing NFT with an article URL by Keplr](keplr.md)
+> ### Recommend:thumbsup:Publish Writing NFT with an article URL by [Keplr](keplr.md)
 >
-> #### [Publish Writing NFT with an article URL by Cosmostation](cosmostation.md)
+> #### Publish Writing NFT with an article URL by [Cosmostation](cosmostation.md)
 >
-> #### [Publish Writing NFT with an article URL by Cosmostation app](cosmostation-app.md)
+> #### Publish Writing NFT with an article URL by [Cosmostation app](cosmostation-app.md)
 >
-> #### [Publish Writing NFT with an article URL by Liker Land app](liker-land-app.md)
+> #### Publish Writing NFT with an article URL by [Liker Land app](liker-land-app.md)
 
 ### **Option 3**: Publish Writing NFT with ISCN ID
 
-Register text, PDF, picture, sound... into [ISCN](../../decentralized-publishing/app.like.co.md) first, then paste the ISCN ID to [NFT Portal](https://app.like.co/nft/url) and publish as NFT.
+Register text, PDF, picture, sound... into [ISCN](../../decentralized-publishing/app.like.co/) first, then paste the ISCN ID to [NFT Portal](https://app.like.co/nft/url) and publish as NFT.
 
-> #### Tutorial: [Mint Writing NFT with ISCN ID](by-iscn-id.md)
+> #### Tutorial: [Mint Writing NFT with ISCN ID](iscn-id.md)
 
 ### **Option 4**: Publish Matters article as Writing NFT
 
@@ -44,21 +42,11 @@ Write on the Matters website and select "Register ISCN", then select the ISCN on
 
 ### **Option 5**: Publish Writing NFT on Liker.Social
 
-Publish NFT on [Liker.Social](https://liker.social/), decentralized microblogs based on LikeCoin & Mastodon.
-
-> #### Tutorial: [Publish Writing NFT on Liker.Social](liker-social.md)
+Publish NFT on [**Liker.Social**](liker-social.md), decentralized microblogs based on LikeCoin & Mastodon.
 
 ### **Option 6**: Publish Writing NFT on illustBuy
 
-Publish NFT on the [illustBuy](https://illustbuy.com/) illustration platform.
-
-> #### Tutorial:[ Publish Writing NFT on illustBuy](illustbuy.md)
-
-### **Option 7**: Publish sound as Writintg NFT
-
-Publish sound as NFT.
-
-> #### Tutorial: [Publish sound as Writintg NFT](sound.md)
+Publish NFT on the [**illustBuy**](illustbuy.md) illustration platform.
 
 ***
 
@@ -82,7 +70,7 @@ Set your own introduction, profile picture, and display name so your supporters 
 
 ***
 
-### Display NFT Widget
+## Display NFT Widget
 
 After publishing the NFT, creators can embed an [NFT Widget](../collect-writing-nft/nft-widget.md) into any webpage by iframe.
 
