@@ -30,7 +30,7 @@ description: LikeCoin 常見問題
 * [若內容更新了怎麼辦？ISCN 支援內容版本嗎？ ](general-guides/decentralized-publishing/what-is-iscn.md)
 * [ISCN 記錄的內容只支援 IPFS 上的檔案嗎？ ](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [ISCN 支援什麼內容格式？](general-guides/decentralized-publishing/content-type.md)
-* [怎樣註冊 ISCN？ ](general-guides/decentralized-publishing/app.like.co.md)
+* [怎樣註冊 ISCN？ ](general-guides/decentralized-publishing/app.like.co/)
 * [可以大量註冊 ISCN 嗎？](general-guides/decentralized-publishing/iscn-batch-uploader.md)
 
 ## [水龍頭](general-guides/faucet.md)

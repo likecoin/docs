@@ -38,8 +38,8 @@ description: Cosmostation 是支援 LikeCoin 的多鏈錢包
 
 #### 使用 Cosmostation 註冊 ISCN、收藏與發行 Writing NFT 及使用 depub.space：
 
-{% content-ref url="../../decentralized-publishing/app.like.co.md" %}
-[app.like.co.md](../../decentralized-publishing/app.like.co.md)
+{% content-ref url="../../decentralized-publishing/app.like.co/" %}
+[app.like.co](../../decentralized-publishing/app.like.co/)
 {% endcontent-ref %}
 
 {% content-ref url="../../writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md" %}

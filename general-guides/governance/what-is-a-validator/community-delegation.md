@@ -17,7 +17,7 @@ description: 驗證人可如何獲得社群委託？
 A. 在 [Matters.news](https://matters.news/) 或 [Medium.com](https://medium.com/) 或自己的 WordPress Blog 撰文介結自己為什麼希望參與 LikeCoin 社群，並將內容註冊為 ISCN。
 
 * 您可以用英文或中文撰寫文章。
-* 你可以了解[如何註冊 ISCN](../../decentralized-publishing/app.like.co.md)。
+* 你可以了解[如何註冊 ISCN](../../decentralized-publishing/app.like.co/)。
 * 當你在 Matters 網站撰文自我介紹，並為文章加上 [#Validator Intro](https://matters.news/tags/VGFnOjUzMTkw) 標籤
 * 當你在 Medium 網站撰文自我介紹時請加上 #Validator Intro 及 #LikeCoin 標籤。
 

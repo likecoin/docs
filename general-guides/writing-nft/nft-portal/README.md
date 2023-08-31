@@ -12,9 +12,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### **選擇一：以 Word3Press  出版 Writing NFT**
 
-作者使用 [**Web3Press**](https://zh-hk.wordpress.org/plugins/likecoin/) 可一氣呵成發佈文章、註冊 ISCN 及出版 NFT。
-
-> #### 教學：[Web3Press](../../../user-guide/wordpress.md)
+作者使用 [**Web3Press**](../../../user-guide/wordpress.md) 可一氣呵成發佈文章、註冊 ISCN 及出版 NFT。
 
 ### **選擇二：**以文章網址出版 Writing NFT
 
@@ -22,7 +20,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 > #### 教學
 >
-> #### 使用 [Keplr](keplr.md) 以文章網址出版 Writing NFT
+> ### 建議:thumbsup:使用 [Keplr](keplr.md) 以文章網址出版 Writing NFT
 >
 > #### 使用 [Cosmostation](cosmostation.md) 以文章網址出版 Writing NFT
 >
@@ -32,7 +30,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### **選擇三**：以 ISCN ID 出版 Writing NFT
 
-將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../../decentralized-publishing/app.like.co.md)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 出版 NFT。
+將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../../decentralized-publishing/app.like.co/)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 出版 NFT。
 
 > #### 教學：[以 ISCN ID 出版 Writing NFT](by-iscn-id.md)
 
@@ -44,21 +42,15 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### **選擇五**：在 Liker.Social 出版 Writing NFT
 
-在去中心化的社群平台 [Liker.Social](https://liker.social/) 出版 NFT。
-
-> #### 教學：[在 Liker.Social 出版 Writing NFT](liker-social.md)
+在去中心化的社群平台 [**Liker.Social**](liker-social.md) 出版 NFT。
 
 ### **選擇六**：在 illustBuy 出版 Writing NFT
 
-在插畫平台 [illustBuy](https://illustbuy.com/) 出版 NFT。
-
-> #### 教學：[在 illustBuy 出版 Writing NFT](illustbuy.md)
+在插畫平台 [**illustBuy**](illustbuy.md) 出版 NFT。
 
 ### **選擇七**：將語音檔發行 Writing NFT
 
-把語音檔出版成 NFT。
-
-> #### 教學：[把語音檔出版成 Writing NFT](sound.md)
+把[**語音檔出版成 NFT**](sound.md)。
 
 ***
 

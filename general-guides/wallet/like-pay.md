@@ -62,8 +62,8 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 [delegation-of-likecoin](../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
-{% content-ref url="../decentralized-publishing/app.like.co.md" %}
-[app.like.co.md](../decentralized-publishing/app.like.co.md)
+{% content-ref url="../decentralized-publishing/app.like.co/" %}
+[app.like.co](../decentralized-publishing/app.like.co/)
 {% endcontent-ref %}
 
 {% content-ref url="../writing-nft/nft-portal/" %}

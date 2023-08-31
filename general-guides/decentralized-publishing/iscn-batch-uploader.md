@@ -4,16 +4,13 @@ description: 如何一次過為大量資料註冊 ISCN，含少量技術程序
 
 # 如何大量註冊 ISCN
 
-大量資料註冊 ISCN
------------
-
-### 事前準備
+## 事前準備
 
 1. 可以處理 CSV 檔案的工具，推薦免費的 Google spreadsheet。將要註冊的資料以 CSV 格式整理好。
 2. 可執行 Linux command 的電腦。電腦需已安裝 node.js 及 git 的最新版本。下文將以 Mac 為例。
 3. 一個已有少量 LikeCoin 的錢包。[錢包需以 Keplr 註冊](../wallet/keplr/)，因為必須用到這錢包的助記詞  ( seed words )。
 
-### 步驟一：資料整理
+## 步驟一：資料整理
 
 以註冊《唐詩三百首》為例。按 ISCN 格式要求，上傳的資料欄位應盡量按 schema.org 中的 [CreativeWork](https://schema.org/CreativeWork) 類別定義，所以第一步先要把 [CSV 檔](https://github.com/edmondyu/TangPoems300/blob/main/TangPoems300.csv)的欄位名稱定好。
 
@@ -42,7 +39,7 @@ description: 如何一次過為大量資料註冊 ISCN，含少量技術程序
 
 《唐詩三百首》只有 300 多筆記錄，然而就算處理上百萬條記錄，也可用完全相同的方法。把整本《聖經》、莎翁的劇本、自己的所有文章、某些歌曲的樂譜、某份報紙的備份、機構的會議記錄等，也用如此方式批量註冊到區塊鏈。整理資料的工序絕對是非技術人能發揮的巨大舞台。
 
-### 步驟二：安裝 iscn-batch-uploader
+## 步驟二：安裝 iscn-batch-uploader
 
 ```
 git clone https://github.com/likecoin/iscn-batch-uploader.git
@@ -60,19 +57,19 @@ npm install
 
 這指令會令程式庫就緒。
 
-### 步驟三：修改設定
+## 步驟三：修改設定
 
 成功下載後，在 iscn-batch-uploader 文件夾中有個 config 文件夾，裡面有個 config.js 文件。用任何文字編輯器打開它，在 config.COSMOS\_MNEMONIC 那一列填上你 LikeCoin 錢包的助記詞，例如：
 
 config.COSMOS\_MNEMONIC = 'paint man cloud google winnie pool think hell imposition police illegal tyranny';
 
-### 步驟四：複製 CSV 檔到執行目錄
+## 步驟四：複製 CSV 檔到執行目錄
 
 把《唐詩三百首》的 CSV 檔，或任何你想註冊 ISCN 的 CSV 資料檔 copy 到 iscn-batch-uploader 文件夾中去。
 
 ![TangPoem300.csv](<../../.gitbook/assets/iscn-batch-uploader 03.png>)
 
-### 步驟五：執行程式
+## 步驟五：執行程式
 
 一切就緒了。在 Terminal 終端，確認 iscn-batch-uploader 是當前文件夾，然後輸入以下指令：
 
@@ -90,7 +87,7 @@ node index.js TangPoems300.csv
 
 你沒有看錯，註冊三百多筆 ISCN，也不用花 1 LIKE！趁還沒加價快試試看吧。
 
-### 步驟六：檢查結果
+## 步驟六：檢查結果
 
 程式成功執行後，在 iscn-batch-uploader 文件夾會多了一個 "output.csv" 檔案，跟原資料檔案比較增加了兩個欄位： txHash 及 iscnId。
 
@@ -106,6 +103,8 @@ txHash 是 LikeCoin chain 上的交易記錄編號，你可在 Big Dipper 或 st
 
 ![app.like.co Your Publishing](<../../.gitbook/assets/iscn-batch-uploader 06.png>)
 
+***
+
 ## 進階用法：內容版本更新
 
 iscn-batch-uploader 工具支援內容版本更新，用法是：
@@ -118,6 +117,8 @@ node index.js TangPoems300A.csv --update
 ```
 
 這樣當程序讀到已存在的 ISCN 記錄時，會更新區塊鏈上同一筆 ISCN 記錄而不是註冊一筆新的。新版本號會在 ISCN ID 最尾的字段反映，例如 /1 代表 version 1，/2 代表 version 2。若在 app.like.co 輸入 ISCN ID 查詢時忽略最後的版本號，系統會默認回傳最新版本。
+
+***
 
 ## 問題：註冊失敗怎麼辦？
 
