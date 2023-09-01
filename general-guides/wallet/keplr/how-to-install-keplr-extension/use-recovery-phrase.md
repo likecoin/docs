@@ -4,7 +4,7 @@ description: 緊記保存好助記詞
 
 # 以助記詞方式註冊新錢包
 
-教學影片
+#### 📺教學影片
 
 [如何安裝 Keplr 密碼貨幣錢包並以助記詞註冊（國語）](https://www.youtube.com/watch?v=bPaZk-ehWrg)
 
@@ -50,12 +50,20 @@ description: 緊記保存好助記詞
 請把助記詞及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Keplr 錢包。
 {% endhint %}
 
-如何找到錢包地址：
+{% hint style="info" %}
+安裝 Keplr 後你可以[使用它註冊 Liker ID](../../../../user-guide/liker-id/register-with-keplr.md)
+{% endhint %}
+
+***
+
+## 如何找到 LikeCoin 錢包地址
 
 {% content-ref url="../../wallet-address.md" %}
 [wallet-address.md](../../wallet-address.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-安裝 Keplr 後你可以[使用它註冊 Liker ID](../../../../user-guide/liker-id/register-with-keplr.md)
-{% endhint %}
+#### 如需導入錢包，請參看：
+
+{% content-ref url="../import-wallet-into-keplr.md" %}
+[import-wallet-into-keplr.md](../import-wallet-into-keplr.md)
+{% endcontent-ref %}

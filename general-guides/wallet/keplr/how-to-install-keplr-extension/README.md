@@ -2,7 +2,9 @@
 description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏覽器
 ---
 
-# 安裝 Keplr 瀏覽器擴充功能
+# 安裝 Keplr 及註冊錢包
+
+## 安裝 Keplr 瀏覽器擴充功能
 
 到 Chrome 線上應用程式商店點「加到 Chrome」安裝 [Keplr 瀏覽器擴充功能](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)。
 
@@ -12,18 +14,75 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 
 <figure><img src="../../../../.gitbook/assets/Keplr 2.png" alt=""><figcaption><p>點「Add extension」將 Keplr 加到 Chrome</p></figcaption></figure>
 
-接下來你可以使用 Google 帳戶或助記詞方式註冊新錢包：
+***
 
-{% content-ref url="sign-up-with-google.md" %}
-[sign-up-with-google.md](sign-up-with-google.md)
+## 以 Google 帳戶註冊新錢包
+
+#### 📺教學影片
+
+[如何以 Google 帳號註冊 Keplr 密碼貨幣錢包（國語）](https://www.youtube.com/watch?v=zUIvj18hEXY)
+
+[如何以 Google 帳號註冊 Keplr 密碼貨幣錢包（廣東話）](https://www.youtube.com/watch?v=8sdDNkwzknE)
+
+[安裝 Keplr 瀏覽器擴充功能後](./)頁面自動跳轉。點「Create a new wallet」，再點「Connect with Google」註冊新 Keplr 錢包。
+
+<figure><img src="../../../../.gitbook/assets/Keplr Web3Auth 2.png" alt=""><figcaption><p>點「Create a new wallet」，再點「Connect with Google」註冊新 Keplr 錢包</p></figcaption></figure>
+
+彈出 Sign in with Google 視窗，登入 Google 帳戶。
+
+<figure><img src="../../../../.gitbook/assets/Keplr Web3Auth 3.png" alt=""><figcaption><p>彈出 Sign in with Google 視窗，登入 Google 帳戶</p></figcaption></figure>
+
+輸入你的錢包名稱 ( Wallet name )、創造的新密碼 ( Create Keplr Password )、確認密碼 ( Confirm Keplr Password ) 然後點「Next」。
+
+<figure><img src="../../../../.gitbook/assets/Keplr Web3Auth 4.png" alt=""><figcaption><p>輸入錢包名稱及密碼然後點「Next」</p></figcaption></figure>
+
+記下你的私鑰 ( Private Key )，點「Copy to clipboard」複製並找一個安全的地方加密儲存，因為在回復錢包時會需要用到。將私鑰記下後點「Import」。
+
+<figure><img src="../../../../.gitbook/assets/Keplr Web3Auth 5.png" alt=""><figcaption><p>記下私鑰後點「Import」</p></figcaption></figure>
+
+在 Select Chains 選擇區塊鏈頁面輸入 LikeCoin，選擇它並點「Save」儲存。
+
+<figure><img src="../../../../.gitbook/assets/Keplr Web3Auth 6.png" alt=""><figcaption><p>選擇 LikeCoin 區塊鏈並儲存</p></figcaption></figure>
+
+出現「Account Created!」頁面代表經已完成註冊，點「Finish」。
+
+<figure><img src="../../../../.gitbook/assets/Keplr Web3Auth 7.png" alt=""><figcaption><p>在 Account Created! 頁面點「Finish」</p></figcaption></figure>
+
+在 Chrome 右上角按鍵訂選 Keplr 於瀏覽列方便使用。
+
+<figure><img src="../../../../.gitbook/assets/Keplr 3.png" alt=""><figcaption><p>釘選 Keplr 於瀏覽列</p></figcaption></figure>
+
+點瀏覽列上方的 Keplr 圖示開始使用。
+
+<figure><img src="../../../../.gitbook/assets/Keplr Web3Auth 1.png" alt=""><figcaption><p>點瀏覽列上方的 Keplr 圖示</p></figcaption></figure>
+
+如出現登入頁面，輸入密碼並點「Unlock」。
+
+<figure><img src="../../../../.gitbook/assets/Keplr 12.png" alt=""><figcaption><p>點瀏覽列的 Keplr 圖示，輸入密碼並點「Unlock」</p></figcaption></figure>
+
+錢包中出現 LikeCoin 表示經已成功安裝 Keplr。
+
+<figure><img src="../../../../.gitbook/assets/Keplr 13.png" alt=""><figcaption><p>錢包中出現 LikeCoin 表示經已成功安裝 Keplr</p></figcaption></figure>
+
+{% hint style="danger" %}
+注意 Keplr 團隊不會記錄你的私鑰，故此你需要自行牢記鏈接的帳戶。\
+請把私鑰及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Keplr 錢包。
+{% endhint %}
+
+{% hint style="info" %}
+安裝 Keplr 後你可以[使用它註冊 Liker ID](../../../../user-guide/liker-id/register-with-keplr.md)
+{% endhint %}
+
+***
+
+## 如何找到 LikeCoin 錢包地址
+
+{% content-ref url="../../wallet-address.md" %}
+[wallet-address.md](../../wallet-address.md)
 {% endcontent-ref %}
+
+#### 你也可以使用助記詞方式註冊新錢包：
 
 {% content-ref url="use-recovery-phrase.md" %}
 [use-recovery-phrase.md](use-recovery-phrase.md)
-{% endcontent-ref %}
-
-#### 如需導入錢包，請參看：
-
-{% content-ref url="../import-wallet-into-keplr.md" %}
-[import-wallet-into-keplr.md](../import-wallet-into-keplr.md)
 {% endcontent-ref %}
