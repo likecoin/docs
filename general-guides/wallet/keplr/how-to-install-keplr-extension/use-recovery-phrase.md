@@ -44,12 +44,20 @@ You will now see LikeCoin in your wallet, indicating that Keplr has been success
 Please keep your recovery phrase and password safe. If you lose them, you will not be able to manage your LikeCoin. No one can reset your wallet on your behalf.
 {% endhint %}
 
-How to find the wallet address:
+{% hint style="info" %}
+After installation you can also [register a Liker ID](../../../../user-guide/liker-id/register-with-keplr.md).
+{% endhint %}
+
+***
+
+## How to find the LikeCoin wallet address
 
 {% content-ref url="../../wallet-address.md" %}
 [wallet-address.md](../../wallet-address.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-After installation you can also [register a Liker ID](../../../../user-guide/liker-id/register-with-keplr.md).
-{% endhint %}
+#### To import a wallet, please refer to:
+
+{% content-ref url="../import-wallet-into-keplr.md" %}
+[import-wallet-into-keplr.md](../import-wallet-into-keplr.md)
+{% endcontent-ref %}
