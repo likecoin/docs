@@ -14,17 +14,15 @@ description: Osmosis 是去中心交易所，無需註冊，立即交易
 
 用戶在 Osmosis 可先以信用卡購買 OSMO，然後再兌換為 LIKE。
 
-## 使用透過 Osmosis 購買 LikeCoin 專頁購買 LIKE
+## 透過 Osmosis 購買 LikeCoin 專頁購買 LIKE
 
-為方便用戶操作，我們特設[透過 Osmosis 購買 LikeCoin 專頁](https://faucet.like.co/purchase)，方便用戶購買 LikeCoin。留意暫時只支援桌面電腦操作。
+為方便用戶操作，我們特設[透過 Osmosis 購買 LikeCoin 專頁](https://faucet.like.co/zh-Hant/purchase)，方便用戶購買 LikeCoin。留意暫時只支援桌面電腦操作。
 
 ### 步驟一：連接錢包
 
-登入 [Keplr 瀏覽器擴充功能](../wallet/keplr/)後，到[透過 Osmosis 購買 LikeCoin 專頁](https://faucet.like.co/purchase)點「Keplr」再點「Approve」連接錢包。&#x20;
+登入 [Keplr 瀏覽器擴充功能](../wallet/keplr/)後，到[透過 Osmosis 購買 LikeCoin 專頁](https://faucet.like.co/zh-Hant/purchase)點「Keplr」再點「Approve」連接錢包。&#x20;
 
 <figure><img src="../../.gitbook/assets/purchase likecoin 1.png" alt=""><figcaption><p>點「Keplr」連接錢包</p></figcaption></figure>
-
-
 
 <figure><img src="../../.gitbook/assets/Osmosis 34.png" alt=""><figcaption><p>在 Keplr 點「Approve」</p></figcaption></figure>
 
