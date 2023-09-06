@@ -16,11 +16,11 @@ Users can first purchase OSMO with a credit card on Osmosis and then swap it for
 
 ## Buy LikeCoin using the Purchase LIKE via Osmosis page
 
-For the convenience of users, we have set up [a special page](https://faucet.like.co/purchase) for purchasing LikeCoin via Osmosis. Please note that only desktop computer is supported for the time being.
+For the convenience of users, we have set up [a special page](https://faucet.like.co/en/purchase) for purchasing LikeCoin via Osmosis. Please note that only desktop computer is supported for the time being.
 
 ### Step 1: Connect Wallet
 
-After logging in the [Keplr browser extension](../wallet/keplr/), go to [Purchase LIKE via Osmosis](https://faucet.like.co/purchase) and click "Keplr" and "Approve" to connect to the wallet.
+After logging in the [Keplr browser extension](../wallet/keplr/), go to [Purchase LIKE via Osmosis](https://faucet.like.co/en/purchase) and click "Keplr" and "Approve" to connect to the wallet.
 
 <figure><img src="../../.gitbook/assets/purchase likecoin 1.png" alt=""><figcaption><p>Click "Keplr"</p></figcaption></figure>
 
