@@ -8,7 +8,7 @@ description: 使用 Keplr 以文章網址出版 Writing NFT
 
 請於桌面電腦瀏覽器登入 [Keplr 瀏覽器擴充功能 ( Keplr Browser Extension )](../../wallet/keplr/) 後，直接進入 [**NFT Portal** ](https://app.like.co/nft/url)並選擇以 Keplr 登入網站。
 
-<figure><img src="../../../.gitbook/assets/NFT Portal Keplr.png" alt=""><figcaption><p>以 Keplr 登入 NFT Portal</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portal Keplr (2).png" alt=""><figcaption><p>以 Keplr 登入 NFT Portal</p></figcaption></figure>
 
 點 Keplr 後彈出視窗要求連結，點「Approve」。
 

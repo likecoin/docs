@@ -10,11 +10,11 @@ description: LikeCoin 水龍頭
 
 到 [LikeCoin 鏈免費水龍頭](https://faucet.like.co/zh-Hant)網頁並以錢包登入。
 
-<figure><img src="../.gitbook/assets/faucet-mainnet 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/faucet-mainnet 4.png" alt=""><figcaption><p>以錢包登入</p></figcaption></figure>
 
 顯示 LikeCoin 錢包地址。
 
-<figure><img src="../.gitbook/assets/faucet-mainnet 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/faucet-mainnet 5.png" alt=""><figcaption><p>顯示 LikeCoin 錢包地址</p></figcaption></figure>
 
 又或者參考以下章節獲取 LikeCoin 錢包地址：
 

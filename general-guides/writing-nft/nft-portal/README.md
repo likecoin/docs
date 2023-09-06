@@ -12,7 +12,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### **選擇一：以 Word3Press  出版 Writing NFT**
 
-作者使用 [**Web3Press**](../../../user-guide/wordpress.md) 可一氣呵成發佈文章、註冊 ISCN 及出版 NFT。
+創作者使用 [**Web3Press**](../../../user-guide/wordpress.md) 可一氣呵成發佈文章、註冊 ISCN 及出版 NFT。
 
 ### **選擇二：**以文章網址出版 Writing NFT
 
