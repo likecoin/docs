@@ -18,7 +18,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 * 到 [Liker Land](https://liker.land/?utm\_source=docs) NFT 市場查看，那裡也有 Writing NFT。
 * 參觀作者或收藏家的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)頁面，並在那裡購買寫作 NFT。
-* 尋找嵌入您感興趣內容的 [NFT Widget](collect-writing-nft/nft-widget.md)。
+* 尋找嵌入您感興趣內容的 [NFT 小部件](collect-writing-nft/nft-widget.md)。
 
 ### 如何第一時間接收到新 NFT 上架的消息？
 
@@ -38,7 +38,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 如何發售 Writing NFT？
 
-可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../../user-guide/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT Widget](collect-writing-nft/nft-widget.md) 及 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)發售，作者不用手動做額外動作上架市場。
+可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../../user-guide/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT 小部件](collect-writing-nft/nft-widget.md) 及 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)發售，作者不用手動做額外動作上架市場。
 
 ### 沒有 Liker ID ，能購買 Writing NFT 嗎？
 
@@ -46,13 +46,13 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 
-可以。[Web3Press plugin](../../user-guide/wordpress.md) 支援僅以 [Keplr](../wallet/keplr/) 地址生成 [NFT Widget](collect-writing-nft/nft-widget.md)。另，也可經 [NFT Portal](nft-portal/) 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
+可以。[Web3Press plugin](../../user-guide/wordpress.md) 支援僅以 [Keplr](../wallet/keplr/) 地址生成 [NFT 小部件](collect-writing-nft/nft-widget.md)。另，也可經 [NFT Portal](nft-portal/) 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
 
-### 如何安裝 NFT Widget?
+### 如何安裝 NFT 小部件?
 
-可安裝 LikeCoin [Web3Press plugin](../../user-guide/wordpress.md)，每篇帖文即自動加上 [NFT Widget](collect-writing-nft/nft-widget.md)。另也可在支援 NFT Widget 的寫作平台發文。稍懂技術的朋友，可在網頁上加上 NFT Widget 的 iframe。
+可安裝 LikeCoin [Web3Press plugin](../../user-guide/wordpress.md)，每篇帖文即自動加上 [NFT 小部件](collect-writing-nft/nft-widget.md)。另也可在支援 NFT 小部件 的寫作平台發文。稍懂技術的朋友，可在網頁上加上 NFT 小部件 的 iframe。
 
-### 作品沒有安裝 NFT Widget，也能發售 NFT 嗎？
+### 作品沒有安裝 NFT 小部件，也能發售 NFT 嗎？
 
 可在 [NFT Portal](nft-portal/) 發行 NFT，然後在自己的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)或[二級市場](collect-writing-nft/nft-marketplace.md)發售。
 

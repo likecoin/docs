@@ -4,7 +4,7 @@ description: 展示 NFT 藏品
 
 # NFT 展示櫃
 
-讀者除了可於 NFT Widget 收集當前文章的 NFT 外，也可以到用戶的 **NFT 展示櫃** 頁面（網址為 https://liker.land/\[錢包地址]）直接購買正在發售中的 NFT。用戶也可以經任何渠道分享他的 NFT 藏品連結。
+讀者除了可於 [NFT 小部件](nft-widget.md)收集當前文章的 NFT 外，也可以到用戶的 **NFT 展示櫃** 頁面（網址為 https://liker.land/\[錢包地址]）直接購買正在發售中的 NFT。用戶也可以經任何渠道分享他的 NFT 藏品連結。
 
 ## 收藏
 

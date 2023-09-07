@@ -1,5 +1,5 @@
 ---
-description: 如何在自架 WordPress 網站加入 NFT Widget，出版 WordPress 作品到區塊鏈？
+description: 如何在自架 WordPress 網站加入 NFT 小部件，出版 WordPress 作品到區塊鏈？
 ---
 
 # Web3Press
@@ -11,7 +11,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 * 抓取文章的標籤和標題等內容作為 NFT 的元數據
 * 一鍵發佈文章到 LikeCoin 並儲存於 IPFS 及 Arweave 分散式檔案系統並註冊 [ISCN](../general-guides/decentralized-publishing/what-is-iscn.md)
 * 以 LikeCoin 一筆過支付內容上鏈及分散式儲存費用
-* 鑄造 Writing NFT 後 [NFT Widget](../general-guides/writing-nft/collect-writing-nft/nft-widget.md) 自動在文章下方顯示，讓讀者[收集 NFT](../general-guides/writing-nft/collect-writing-nft/)，並整合 [LikeCoin button 讚賞鍵](creator/)功能
+* 鑄造 Writing NFT 後 [NFT 小部件 ( Widget )](../general-guides/writing-nft/collect-writing-nft/nft-widget.md) 自動在文章下方顯示，讓讀者[收集 NFT](../general-guides/writing-nft/collect-writing-nft/)，並整合 [LikeCoin button 讚賞鍵](creator/)功能
 * 支援 [Internet Archive](https://archive.org/) 自動備份
 
 由於內容備份了在分散式檔案系統，擁有 NFT 的讀者等於擁有了一份內容的正本，可以隨時閱覽。
@@ -154,18 +154,18 @@ Web3Press 支援 [Internet Archive](https://archive.org/)，用戶在發佈文�
 ### LikeCoin Widget
 
 * Show in Posts：設定 Liker ID 後，預設為顯示 NFT Widget / 讚賞鍵於網站文章的下方
-* Show in Pages：於 WordPress 頁面中顯示讚賞鍵
+* Show in Pages：於 WordPress 頁面中顯示 NFT Widget / 讚賞鍵
 
 <figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption><p>LikeCoin Widget 設定在何處顯示 NFT Widget / 讚賞鍵</p></figcaption></figure>
 
 ### LikeCoin widget advanced settings
 
-自訂每篇網站文章的 NFT Widget / 讚賞鍵顯示設置。
+自訂每篇網站文章的 NFT Widge  / 讚賞鍵顯示設置。
 
 <figure><img src="../.gitbook/assets/wordpress 9.png" alt=""><figcaption><p>LikeCoin widget advanced settings 自訂每篇網站文章的 NFT Widget / 讚賞鍵顯示設置</p></figcaption></figure>
 
 {% hint style="info" %}
-#### 於任何位置顯示 NFT Widget / 讚賞鍵 <a href="#how-to-support-multiple-liker-id-on-a-wordpress-site" id="how-to-support-multiple-liker-id-on-a-wordpress-site"></a>
+#### 於任何位置顯示 NFT Widget <a href="#how-to-support-multiple-liker-id-on-a-wordpress-site" id="how-to-support-multiple-liker-id-on-a-wordpress-site"></a>
 
 你可使用短代碼 \[likecoin] 在文章中任何位置顯示額外的 NFT Widget / 讚賞鍵。
 {% endhint %}

@@ -44,13 +44,13 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 2.png" alt=""><figcaption><p>NFT 系列資訊頁面</p></figcaption></figure>
 
-又或者到作者的 [NFT 展示櫃](nft-portfolio.md)（網址為 https://liker.land/\[錢包地址] ）點 NFT 當前價格或「[一鍵收藏](./#collect-all)」；
+又或者到作者的 [NFT 展示櫃](nft-portfolio.md)（網址為 https://liker.land/\[錢包地址] ）點 NFT 當前價格或「[一鍵收藏](./#yi-jian-shou-cang-writing-nft)」；
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 3.png" alt=""><figcaption><p>NFT 展示櫃</p></figcaption></figure>
 
-於 [NFT Widget](nft-widget.md) 點「收藏作品」；
+於 [NFT 小部件](nft-widget.md)點「收藏作品」；
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 4.png" alt=""><figcaption><p>NFT Widget</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 4.png" alt=""><figcaption><p>NFT 小部件</p></figcaption></figure>
 
 即可開始收藏 Writing NFT。
 
