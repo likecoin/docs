@@ -44,7 +44,7 @@ Or go to the NFT details page and click "Collect" or the current NFT price. To b
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 2-en.png" alt=""><figcaption><p>NFT Content Details</p></figcaption></figure>
 
-Or else go to the creator's [NFT Portfolio](nft-portfolio.md) (website: https://liker.land/\[wallet address] ) and click the current NFT price or "[Collect All](./#one-click-collect-writing-nft-for-both-desktop-and-mobile)";
+Or else go to the creator's [NFT Portfolio](nft-portfolio.md) (website: https://liker.land/\[wallet address] ) and click the current NFT price or "[Collect All](collect-all.md)";
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 3-en.png" alt=""><figcaption><p>NFT Portfolio</p></figcaption></figure>
 

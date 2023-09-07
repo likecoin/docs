@@ -4,7 +4,7 @@ description: Check out other users' NFT collections
 
 # NFT Portfolio
 
-Besides collecting via the NFT Widget, readers can also collect Writing NFTs from the writer's **NFT Portfolio** page (in the format https://liker.land/\[WalletAddress]). Writers and collectors can share links to their collections through any channel.
+Besides collecting via the [NFT Widget](nft-widget.md), readers can also collect Writing NFTs from the writer's **NFT Portfolio** page (in the format https://liker.land/\[WalletAddress]). Writers and collectors can share links to their collections through any channel.
 
 ## Collected
 

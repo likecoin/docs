@@ -113,7 +113,9 @@ On the menu, select the Web3Press plugin and choose "Liker ID". Fill in the Like
 <figure><img src="../.gitbook/assets/wordpress 6.png" alt=""><figcaption><p>Click "Confirm"</p></figcaption></figure>
 
 * Website Liker ID - If the website has more than one author, the Liker ID will be displayed as the default for the author's articles if they have not set up their own Liker ID.
-* Your Liker ID - Set up your own Liker ID. After successfully adding a new user on the WordPress website, the new user can log in with their WordPress account, set their Liker ID, and display their own NFT Widget / Like button.
+* Your Liker ID - Set up your own Liker ID. After successfully adding a new user on the WordPress website, the new user can log in with their WordPress account, set their Liker ID, and display their own NFT Widget / LikeCoin button.
+
+<figure><img src="../.gitbook/assets/wordpress 7-en.png" alt=""><figcaption><p>Add new user</p></figcaption></figure>
 
 ## Other Significant Features
 
@@ -154,7 +156,7 @@ Web monetization is now enabled on the Web3Press plugin. It allows content creat
 ### LikeCoin Widget
 
 * Show in Posts: After configuring Liker ID, it will default to displaying the NFT Widget / LikeCoin button underneath each article.
-* Show in Pages: Display the like button in WordPress pages.
+* Show in Pages: Display the NFT Widget / LikeCoin button in WordPress pages.
 
 <figure><img src="../.gitbook/assets/wordpress 8.png" alt=""><figcaption><p>LikeCoin Widget settings</p></figcaption></figure>
 
