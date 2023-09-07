@@ -4,7 +4,7 @@ description: Interaction between NFT authors and collectors
 
 # Notifications
 
-[**Notifications**](https://liker.land/en/notifications) record NFT gifts and collections. You can also check the messages from writers and collectors, continue to communicate and interact with each other.
+[**Notifications**](https://liker.land/en/notifications) record NFT gifts and collections. You can also check the messages from creators and collectors, continue to communicate and interact with each other.
 
 ## Liker Land web
 
@@ -20,6 +20,6 @@ Click :bell: on the [Liker Land app](../../../user-guide/liker-land/download.md)
 
 ## Notification Settings
 
-[After verifying the email](follow-creators.md#step-1-setup-email), you can set the "Notification Settings" to receive notifications when Transfer or Collect NFTs. You can also enter the amount of LikeCoin, and a notification will be sent when the transaction price is greater than the set value.
+[After verifying the email](follow-creators.md), you can set the "Notification Settings" to receive notifications when Transfer or Collect NFTs. You can also enter the amount of LikeCoin, and a notification will be sent when the transaction price is greater than the set value.
 
 <figure><img src="../../../.gitbook/assets/notifications settings-en.png" alt=""><figcaption><p>Notification Settings</p></figcaption></figure>

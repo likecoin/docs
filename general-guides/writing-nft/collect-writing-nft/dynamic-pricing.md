@@ -4,7 +4,7 @@ description: Get Rid of Sales Hurdle on NFT
 
 # Dynamic Pricing
 
-We understand that writers prefer to focus on creation. Although there are unavoidable sales and promotional works such as building relationships with readers, sales efforts should be minimized as much as possible.
+We understand that creators prefer to focus on creation. Although there are unavoidable sales and promotional works such as building relationships with readers, sales efforts should be minimized as much as possible.
 
 Writing NFTs help creators deal with two important sales parameters automatically: 1) marked price, and 2) quantity.
 

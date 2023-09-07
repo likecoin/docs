@@ -10,8 +10,8 @@ Unlike popular NFT marketplaces such as OpenSea that converge creators' and buye
 
 To let readers collect Writing NFTs as they read, the collecting action is as easy as giving a like. An "**NFT Widget**" will be embedded at the bottom of the article. It works like a vending machine, showing the current price of this Writing NFT, and allowing readers to collect it with just a click if the price is right.
 
-Writers can install the [Web3Press plugin](../../../user-guide/wordpress.md) to publish posts as NFTs if their website is based on WordPress. The plugin embeds the NFT Widget at the bottom of each post for readers to collect.
+Creators can install the [Web3Press plugin](../../../user-guide/wordpress.md) to publish posts as NFTs if their website is based on WordPress. The plugin embeds the NFT Widget at the bottom of each post for readers to collect.
 
-Writers who are not using WordPress can also embed the NFT Widget into any webpage by using an iframe, the embed code is generated when minting NFT with [NFT Portal](../../../developer/likenft/nft-portal/).
+Creators who are not using WordPress can also embed the NFT Widget into any webpage by using an iframe, the embed code is generated when minting NFT with [NFT Portal](../../../developer/likenft/nft-portal/).
 
 <figure><img src="../../../.gitbook/assets/NFT Widget-en.png" alt=""><figcaption><p>NFT Widget</p></figcaption></figure>
