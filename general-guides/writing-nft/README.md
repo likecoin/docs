@@ -22,15 +22,15 @@ There are several ways to collect a Writing NFT:
 
 ### Where can I check out my NFT collection?
 
-At the [My Dashboard](dashboard.md) page.
+At the [My Dashboard](collect-writing-nft/dashboard.md) page.
 
 ### How to know that there are new NFTs for sale?
 
-Use the [Follow Creators](follow-creators.md) function.
+Use the [Follow Creators](collect-writing-nft/follow-creators.md) function.
 
 ### On what basis does the price of Writing NFT change?
 
-[The price changes dynamically based on supply and demand of the NFT](dynamic-pricing.md). Creators do not need to set the price and quantity. Readers do not need to set the bidding price too, just collect when the price feels right. The market price will decrease when someone sells in the [NFT Marketplace](collect-writing-nft/nft-marketplace.md).
+[The price changes dynamically based on supply and demand of the NFT](collect-writing-nft/dynamic-pricing.md). Creators do not need to set the price and quantity. Readers do not need to set the bidding price too, just collect when the price feels right. The market price will decrease when someone sells in the [NFT Marketplace](collect-writing-nft/nft-marketplace.md).
 
 ### How to transfer NFT?
 

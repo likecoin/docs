@@ -76,7 +76,7 @@ If you encounter problems during the purchase process, please go to the settings
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Keplr Mobile 7-en.png" alt=""><figcaption><p>The Collecting NFT page appears in the browser</p></figcaption></figure>
 
-**Step 8**: After the payment is successful!, you can view the purchased NFT on [My Dashboard](../dashboard.md) or click "View the NFT."
+**Step 8**: After the payment is successful!, you can view the purchased NFT on [My Dashboard](dashboard.md) or click "View the NFT."
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Keplr Mobile 8-en.png" alt=""><figcaption><p>Click "View the NFT</p></figcaption></figure>
 
@@ -124,7 +124,7 @@ If you encounter problems during the purchase process, please go to the settings
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 9-en.png" alt=""><figcaption><p>The Collecting NFT page appears in the browser</p></figcaption></figure>
 
-**Step 10**: After the payment is successful!, you can view the purchased NFT on [My Dashboard](../dashboard.md) or click "View the NFT."
+**Step 10**: After the payment is successful!, you can view the purchased NFT on [My Dashboard](dashboard.md) or click "View the NFT."
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 10-en.png" alt=""><figcaption><p>Click "View the NFT</p></figcaption></figure>
 

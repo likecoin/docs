@@ -180,7 +180,7 @@ The Liker Land app pops up a signature request window, click "Approve" to confir
 
 ## Step 4: Check your NFT Collection
 
-Payment is successful! appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View the NFT" to see the details of the NFT purchased or you can go to [My Dashboard](../dashboard.md) to check out the NFT that you have collected.
+Payment is successful! appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View the NFT" to see the details of the NFT purchased or you can go to [My Dashboard](dashboard.md) to check out the NFT that you have collected.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT Finish-en.png" alt=""><figcaption><p>Successfully purchased Writing NFT</p></figcaption></figure>
 

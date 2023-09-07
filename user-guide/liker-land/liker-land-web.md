@@ -14,7 +14,7 @@ The bookstore displays selected NFT books, popular and latest Writing NFTs and a
 
 ## **Option 2:** My Dashboard - [https://liker.land/en/feed](https://liker.land/en/feed?view=town)
 
-Access your [My Dashboard](../../general-guides/writing-nft/dashboard.md).
+Access your [My Dashboard](../../general-guides/writing-nft/collect-writing-nft/dashboard.md).
 
 ## **Option 3: Mint NFT -** [**https://app.like.co/nft/url**](https://app.like.co/nft/url)
 
@@ -22,7 +22,7 @@ Use the [NFT Portal](../../general-guides/writing-nft/nft-portal/) to mint NFTs.
 
 ## Option 4: Notifications - [https://liker.land/en/notifications](https://liker.land/en/notifications)
 
-View and manage NFT [Notifications](../../general-guides/writing-nft/notifications.md).
+View and manage NFT [Notifications](../../general-guides/writing-nft/collect-writing-nft/notifications.md).
 
 ## **Option 5: Settings -** [**https://liker.land/en/settings/**](https://liker.land/en/settings/)
 
@@ -30,14 +30,14 @@ View and manage NFT [Notifications](../../general-guides/writing-nft/notificatio
 
 ### Email - [https://liker.land/en/settings/email](https://liker.land/en/settings/email)
 
-{% content-ref url="../../general-guides/writing-nft/notifications.md" %}
-[notifications.md](../../general-guides/writing-nft/notifications.md)
+{% content-ref url="../../general-guides/writing-nft/collect-writing-nft/notifications.md" %}
+[notifications.md](../../general-guides/writing-nft/collect-writing-nft/notifications.md)
 {% endcontent-ref %}
 
 ### Following - [https://liker.land/en/settings/following](https://liker.land/en/settings/following) -&#x20;
 
-{% content-ref url="../../general-guides/writing-nft/follow-creators.md" %}
-[follow-creators.md](../../general-guides/writing-nft/follow-creators.md)
+{% content-ref url="../../general-guides/writing-nft/collect-writing-nft/follow-creators.md" %}
+[follow-creators.md](../../general-guides/writing-nft/collect-writing-nft/follow-creators.md)
 {% endcontent-ref %}
 
 ### Language - [https://liker.land/en/settings/language](https://liker.land/en/settings/language)

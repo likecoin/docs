@@ -27,9 +27,9 @@ Log in to the Liker Land mobile app and you can find the following:
 ## Option 2: NFT Bookstore
 
 * [Collect Writing NFT](../../general-guides/writing-nft/collect-writing-nft/)
-* [My Bookshelf](../../general-guides/writing-nft/dashboard.md)
+* [My Bookshelf](../../general-guides/writing-nft/collect-writing-nft/dashboard.md)
 
-## Option 3: [Notifications](../../general-guides/writing-nft/notifications.md)
+## Option 3: [Notifications](../../general-guides/writing-nft/collect-writing-nft/notifications.md)
 
 ## Option 4: Settings
 

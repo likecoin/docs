@@ -55,7 +55,7 @@ Users can now view any NFT portfolio by applying different sorting algorithms, i
 
 Check out:
 
-{% content-ref url="../follow-creators.md" %}
-[follow-creators.md](../follow-creators.md)
+{% content-ref url="follow-creators.md" %}
+[follow-creators.md](follow-creators.md)
 {% endcontent-ref %}
 

@@ -80,7 +80,7 @@ You can also enter a Creator message. Click "Add message to your collectors" and
 
 Enter a number between 0-255 in "Numbers of NFTs reserved for giveaways":
 
-Select 8, 128, 1024 or 4069 LIKE as Initial Price;&#x20;
+Select 8, 128, 1024 or 4069 LIKE as Initial Price;
 
 Click "Next" to continue.
 
@@ -98,7 +98,7 @@ The minting process is complete! A message saying "Complete!" will appear, indic
 
 <figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption><p>Click "View NFT"</p></figcaption></figure>
 
-You can also check your creations on the Liker Land [My Dashboard](../general-guides/writing-nft/dashboard.md).
+You can also check your creations on the Liker Land [My Dashboard](../general-guides/writing-nft/collect-writing-nft/dashboard.md).
 
 <figure><img src="../.gitbook/assets/W3Press mint 9-en.png" alt=""><figcaption><p>Check your creations on the Liker Land My Dashboard</p></figcaption></figure>
 
@@ -175,5 +175,3 @@ You can also use the shortcode \[likecoin] to display additional NFT Widget / Li
 After the article is published to ISCN, you can choose whether to display the ISCN badge. The options are "Not shown," "Light Mode," and "Dark Mode." Select your preference and click "Confirm."
 
 <figure><img src="../.gitbook/assets/wordpress 13.png" alt=""><figcaption><p>ISCN Badge setting</p></figcaption></figure>
-
-

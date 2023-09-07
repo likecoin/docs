@@ -35,3 +35,9 @@ The Collect NFT page will appear.
 After the payment is successful, you can view the purchased NFT by clicking "View Portfolio".
 
 <figure><img src="../../../.gitbook/assets/Collect All 5-en.png" alt=""><figcaption><p>Successfully purchased Writing NFT</p></figcaption></figure>
+
+#### Follow the creator and collect his/her new works:
+
+{% content-ref url="follow-creators.md" %}
+[follow-creators.md](follow-creators.md)
+{% endcontent-ref %}

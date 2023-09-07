@@ -44,4 +44,4 @@ Additionally you will receive a confirmation email.
 
 <figure><img src="../../.gitbook/assets/bookforest 6.png" alt=""><figcaption><p>Receive a confirmation email</p></figcaption></figure>
 
-The purchased NFT book will be displayed in "[My Dashboard](dashboard.md)".
+The purchased NFT book will be displayed in "[My Dashboard](collect-writing-nft/dashboard.md)".

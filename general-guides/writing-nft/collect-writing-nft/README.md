@@ -6,27 +6,29 @@ description: How to collect Writing NFT?
 
 No matter if you have a crypto wallet or not, collecting Writing NFTs on desktop or mobile is equally convenient:
 
-#### [Collect Writing NFT with a credit card (without a wallet)](./#collect-writing-nft-with-a-credit-card-havent-created-any-wallet-for-both-desktop-and-mobile)
+## Ways to collect Writing NFT
+
+### [Collect Writing NFT with a credit card (without a wallet)](./#collect-writing-nft-with-a-credit-card-havent-created-any-wallet-for-both-desktop-and-mobile)
 
 Applicable to those who haven't created any wallet, and it works on both desktop and mobile.
 
-#### [Already have a wallet and collect Writing NFT with a credit card](./#already-have-a-wallet-and-collect-writing-nft-with-a-credit-card-1)
+### [Already have a wallet and collect Writing NFT with a credit card](./#already-have-a-wallet-and-collect-writing-nft-with-a-credit-card-for-both-desktop-and-mobile)
 
 Applicable to those who have created a wallet. Use can use [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to collect Writing NFT via desktop or mobile browser and pay by credit card.
 
 Liker Land app users can pay by credit card directly in the app.
 
-#### [Collect Writing NFT by LIKE on desktop](collect-writing-nft-on-desktop.md)
+### [Collect Writing NFT by LIKE on desktop](collect-writing-nft-on-desktop.md)
 
 Users can use [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to collect Writing NFT by LIKE on desktop.
 
-#### [Collect Writing NFT by LIKE on mobile](collect-writing-nft-on-mobile.md)
+### [Collect Writing NFT by LIKE on mobile](collect-writing-nft-on-mobile.md)
 
 Users can use the [Liker Land app](../../../user-guide/liker-land/download.md) to collect Writing NFT by LIKE.
 
 Users can also collect Writing NFT on a mobile browser by LIKE using [Keplr Mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/) or [Liker Land app](../../../user-guide/liker-land/download.md).
 
-#### [One-Click Collect All Writing NFT](collect-all.md)
+### [One-Click Collect All Writing NFT](collect-all.md)
 
 Users can use [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to seamlessly purchase NFTs from the same creator via desktop or mobile browser.
 
@@ -34,7 +36,7 @@ Users can use [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmosta
 
 ## Start Collecting
 
-Go to the [Liker Land](https://liker.land/) Home page or [LikeCoin NFT Dashboard](tools.md) to check out the NFT that you want to buy, and click "Collect Now" to collect;
+Go to the [Liker Land Book Store](https://liker.land/en/store) or [LikeCoin NFT Dashboard](tools.md) to check out the NFT that you want to buy, and click "Collect Now" to collect;
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 1-en.png" alt=""><figcaption><p>Liker Land Homepage</p></figcaption></figure>
 
@@ -136,7 +138,7 @@ Payment Authentication page pop-up, enter your OTP code and press "VERIFY".
 
 ### Step 3: Check your NFT Collection
 
-Payment is successful! appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View the NFT" to see the details of the NFT purchased or you can go to [My Dashboard](../dashboard.md) to check out the NFT that you have collected.
+Payment is successful! appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View the NFT" to see the details of the NFT purchased or you can go to [My Dashboard](dashboard.md) to check out the NFT that you have collected.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT Finish-en.png" alt=""><figcaption><p>Successfully purchased Writing NFT</p></figcaption></figure>
 

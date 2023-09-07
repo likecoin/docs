@@ -12,4 +12,4 @@ The marked price of each Writing NFT will be adjusted automatically according to
 
 There is no upper limit to the quantity of Writing NFTs. Whenever someone collects an NFT at the marked price, a new NFT instance will be minted. As the marked price increases automatically with the minted quantity, the circulation limit will be set by the market when the marked price reaches an unacceptable value in some sense.
 
-![The system sets the marked price and quantity automatically to minimize the sales hurdles for creators](<../../.gitbook/assets/image (24).png>)
+![The system sets the marked price and quantity automatically to minimize the sales hurdles for creators](<../../../.gitbook/assets/image (24).png>)
