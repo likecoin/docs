@@ -16,7 +16,7 @@ description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用�
 
 **步驟三**：在「簽署留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
 
-<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 2.png" alt=""><figcaption><p>輸入給作者的話並用 LIKE 購買</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 2.png" alt=""><figcaption><p>輸入給舍作者的話並用 LIKE 購買</p></figcaption></figure>
 
 **步驟四**：出現請在 Liker Land 手機應用程式確認你的簽署後，請等待片刻。
 
