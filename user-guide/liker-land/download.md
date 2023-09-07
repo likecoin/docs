@@ -27,9 +27,9 @@ description: 要去哪裏下載 Liker Land？
 ## 選項二：NFT 書店
 
 * [收藏 Writing NFT](../../general-guides/writing-nft/collect-writing-nft/)
-* [我的書架](../../general-guides/writing-nft/dashboard.md)
+* [我的書架](../../general-guides/writing-nft/collect-writing-nft/dashboard.md)
 
-## 選項三：[通知功能](../../general-guides/writing-nft/notifications.md)
+## 選項三：[通知功能](../../general-guides/writing-nft/collect-writing-nft/notifications.md)
 
 ## 選項四：設定
 

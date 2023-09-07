@@ -41,3 +41,9 @@ description: 手機與桌機均適用
 付款成功後可點「檢視收藏頁」檢視已購買的 NFT。
 
 <figure><img src="../../../.gitbook/assets/Collect All 5.png" alt=""><figcaption><p>點「檢視收藏頁」</p></figcaption></figure>
+
+#### 建議同時關注作者以便收藏新作：
+
+{% content-ref url="follow-creators.md" %}
+[follow-creators.md](follow-creators.md)
+{% endcontent-ref %}

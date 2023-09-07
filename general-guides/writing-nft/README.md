@@ -22,15 +22,15 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 如何第一時間接收到新 NFT 上架的消息？
 
-可使用[追蹤作者](follow-creators.md)功能。
+可使用[追蹤作者](collect-writing-nft/follow-creators.md)功能。
 
 ### NFT 的價格如何訂定？
 
-系統會[根據供需情況自行調節賣價](dynamic-pricing.md)，作者不用設定售價，讀者也不用設定買價。當一定數量的 NFT 售出後，售價便會調升；有人在[二級市場](collect-writing-nft/nft-marketplace.md)放售，售價便會回落。
+系統會[根據供需情況自行調節賣價](collect-writing-nft/dynamic-pricing.md)，作者不用設定售價，讀者也不用設定買價。當一定數量的 NFT 售出後，售價便會調升；有人在[二級市場](collect-writing-nft/nft-marketplace.md)放售，售價便會回落。
 
 ### 可在哪兒查看收集了的 NFT？
 
-在[我的書架](dashboard.md)頁面。
+在[我的書架](collect-writing-nft/dashboard.md)頁面。
 
 ### 如何轉贈 NFT？
 

@@ -55,6 +55,6 @@ description: 展示 NFT 藏品
 
 詳見：
 
-{% content-ref url="../follow-creators.md" %}
-[follow-creators.md](../follow-creators.md)
+{% content-ref url="follow-creators.md" %}
+[follow-creators.md](follow-creators.md)
 {% endcontent-ref %}

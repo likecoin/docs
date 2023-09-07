@@ -44,4 +44,4 @@ description: 購買 NFT 書
 
 <figure><img src="../../.gitbook/assets/bookforest 6.png" alt=""><figcaption><p>收到確認電郵</p></figcaption></figure>
 
-已購買的 NFT 書將於「[我的書架](dashboard.md)」中展示。
+已購買的 NFT 書將於「[我的書架](collect-writing-nft/dashboard.md)」中展示。

@@ -182,7 +182,7 @@ Liker Land app 彈出簽名請求視窗，點「允許」確認購買。
 
 ## 步驟四：查看已購買的 Writing NFT
 
-出現「付款成功」並成功購買 Writing NFT。點「檢視 NFT」可查看已購買的 NFT 詳細內容或到[我的書架](../dashboard.md)查看已購買的 NFT。
+出現「付款成功」並成功購買 Writing NFT。點「檢視 NFT」可查看已購買的 NFT 詳細內容或到[我的書架](dashboard.md)查看已購買的 NFT。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT Finish.png" alt=""><figcaption><p>成功購買 Writing NFT</p></figcaption></figure>
 
