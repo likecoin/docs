@@ -1,3 +1,7 @@
+---
+description: Where can I find the latest updates on the LikeCoin project?
+---
+
 # LikeCoin Progress Update
 
-You can visit LikeCoin blog to read the most updated updates at [LikeCoin Blog](https://blog.like.co/category/progress-update/).
+You can visit the [LikeCoin blog](https://blog.like.co/en/) to read the most recent updates.
