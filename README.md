@@ -36,7 +36,7 @@ LikeCoin DAO 持份者一起決策和執行如公共財政、公益建設、政�
 
 ### 開始體驗
 
-第一步是擁有 LikeCoin，及使用它來出版或參與治理。你可嘗試在分散式推特 [depub.space](https://depub.space) 發文，到 [dao.like.co](https://dao.like.co/proposals) 投票，或直接使用 [Keplr](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en) 錢包以 LikeCoin 打賞作者。
+第一步是擁有 LikeCoin，及使用它來出版或參與治理。你可嘗試在分散式推特 [depub.space](https://depub.space) 發文，到 [dao.like.co](https://dao.like.co/proposals) 投票，或直接使用 [Keplr](general-guides/wallet/keplr/) 錢包以 LikeCoin 打賞作者。
 
 欲尋找更多 Dapp 應用，[請訪問這裡](https://about.like.co/apps)。
 
