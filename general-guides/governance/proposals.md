@@ -6,6 +6,27 @@ description: LikeCoin DAO 有過什麼議案？
 
 ![歷史議案](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
 
+## 議案 #69 更新通脹參數
+
+* **提案：**leafwind.tw 🍃
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
+* **日期**：2023.08.31 提案，2023.09.08 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/69](https://bigdipper.live/likecoin/proposals/69)
+
+## 議案 #68 更新通脹參數
+
+* **提案：**leafwind.tw 🍃
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
+* **日期**：2023.08.31 提案，議案無效
+* **詳情**：[https://bigdipper.live/likecoin/proposals/68](https://bigdipper.live/likecoin/proposals/68)
+
+## 議案 #67 更新通脹參數
+
+* **提案：**leafwind.tw 🍃
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
+* **日期**：2023.08.24 提案，2023.09.07 否決
+* **詳情**：[https://bigdipper.live/likecoin/proposals/67](https://bigdipper.live/likecoin/proposals/67)
+
 ## 議案 #66 存入 1,200,000 LIKE 到創作基金委員會的錢包
 
 * **提案：**Edmond
