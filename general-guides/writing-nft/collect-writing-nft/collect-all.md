@@ -50,7 +50,7 @@ After the payment is successful, you can view the purchased NFT by clicking "Vie
 
 After the payment is successful, the "Collection NFT" page will appear. You can view the purchased NFT by clicking "View the NFT".
 
-<figure><img src="../../../.gitbook/assets/Collect All 7-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect All 7-en.png" alt=""><figcaption><p> Click "View the NFT".</p></figcaption></figure>
 
 #### Follow the creator and collect his/her new works:
 

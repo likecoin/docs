@@ -23,7 +23,8 @@ description: >-
 
 | Date                | Description                                                                  |
 | ------------------- | ---------------------------------------------------------------------------- |
-| Monday, 4 September | Get updates from the builders. Covering products updates and community news. |
+| Monday, 2 October   | Get updates from the builders. Covering products updates and community news. |
+| Monday, 4 September | Discover the Impressive New Features of Keplr 2.0                            |
 | Monday, 7 August    | Stripe payment is live and new books on the shelf                            |
 | Monday, 3 July      | Streamlined experience of LikeCoin chain with Keplr and Stripe               |
 | Monday, 5 June      | LikeCoin chain Chungking upgrade and Keplr native support                    |

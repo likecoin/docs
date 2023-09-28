@@ -6,6 +6,27 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![Proposals](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
 
+## Proposal #69 Update Inflation parameters.
+
+* Proposer: leafwind.tw 🍃
+* Proposal Type: Parameter Change Proposal
+* Date: Submit on 2023.08.31, Passed on 2023.09.08
+* Details: [https://bigdipper.live/likecoin/proposals/69](https://bigdipper.live/likecoin/proposals/69)
+
+## Proposal #68 Update Inflation parameters.
+
+* Proposer: leafwind.tw 🍃
+* Proposal Type: Parameter Change Proposal
+* Date: Submit on 2023.08.31 and it is a invalid proposal
+* Details: [https://bigdipper.live/likecoin/proposals/68](https://bigdipper.live/likecoin/proposals/68)
+
+## Proposal #67 Update Inflation parameters.
+
+* Proposer: leafwind.tw 🍃
+* Proposal Type: Parameter Change Proposal
+* Date: Submit on 2023.08.24, Rejected on 2023.09.07
+* Details: [https://bigdipper.live/likecoin/proposals/67](https://bigdipper.live/likecoin/proposals/67)
+
 ## Proposal #66 Community Pool Spend - Creators Fund
 
 * Proposer: Edmond
