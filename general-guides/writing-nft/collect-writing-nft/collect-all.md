@@ -14,7 +14,7 @@ description: 手機與桌機均適用
 
 ## 步驟一：登入錢包並開始一鍵收藏
 
-請先登入你的  [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程](../../../user-guide/liker-land/download.md)，然後在創作者的 [NFT 展示櫃](nft-portfolio.md)點「一鍵收藏」。
+請先登入你的  [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)，然後在創作者的 [NFT 展示櫃](nft-portfolio.md)點「一鍵收藏」。
 
 <figure><img src="../../../.gitbook/assets/Collect All 1.png" alt=""><figcaption><p>點「一鍵收藏」</p></figcaption></figure>
 
@@ -22,17 +22,27 @@ description: 手機與桌機均適用
 
 出現背包頁面。假如你經已擁有該創作者的 NFT，系統會自動幫你排除已擁有的 NFT，只留下你從未收藏過的 NFT。你也可以點「X」刪除你不想購買的 NFT。
 
-檢查完成後點「結帳」。
+檢查完成後點「以 LIKE 結帳」或「以信用卡結帳」。
 
-<figure><img src="../../../.gitbook/assets/Collect All 2.png" alt=""><figcaption><p>在背包點「結帳」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect All 2.png" alt=""><figcaption><p>在背包點點「以 LIKE 結帳」或「以信用卡結帳」</p></figcaption></figure>
 
 ## 步驟三：確認購買
+
+### 以 LIKE 結帳
 
 以 Keplr 為例，彈出視窗後點「Approve」確認購買。使用 Cosmostation、Leap、Keplr Mobile、Cosmostation app 或 Liker Land 手機應用程式亦會彈出相應的確認畫面，
 
 <figure><img src="../../../.gitbook/assets/Collect All 3.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve」確認購買</p></figcaption></figure>
 
+### 以信用卡結帳
+
+填寫信用卡資料再點「Pay」。
+
+<figure><img src="../../../.gitbook/assets/Collect All 6.png" alt=""><figcaption><p>填寫信用卡資料再點「Pay」</p></figcaption></figure>
+
 ## 步驟四：查看已購買的 Writing NFT
+
+### 以 LIKE 結帳
 
 出現收藏作品頁面。
 
@@ -41,6 +51,12 @@ description: 手機與桌機均適用
 付款成功後可點「檢視收藏頁」檢視已購買的 NFT。
 
 <figure><img src="../../../.gitbook/assets/Collect All 5.png" alt=""><figcaption><p>點「檢視收藏頁」</p></figcaption></figure>
+
+### 以信用卡結帳
+
+付款成功後出現「收藏成功」頁，點「檢視收藏」檢視已購買的 NFT。
+
+<figure><img src="../../../.gitbook/assets/Collect All 7.png" alt=""><figcaption><p>點「檢視收藏」</p></figcaption></figure>
 
 #### 建議同時關注作者以便收藏新作：
 
