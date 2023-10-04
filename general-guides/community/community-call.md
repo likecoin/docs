@@ -30,4 +30,4 @@ description: 如何參與每月社群治理會議 Community Call
 
 ![輸入文字內容聊天](<../../.gitbook/assets/Community Call 4.png>)
 
-5\. 會議完結後亦可在 ＃🍰｜community-delegation-discussion 頻道跟進各項事宜。
+5\. 會議完結後亦可在 #📞｜community-call-discussion 頻道跟進各項事宜。
