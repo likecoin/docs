@@ -30,4 +30,4 @@ Participating in the community call is simple:
 
 ![Enter text content to chat during the meeting](<../../.gitbook/assets/Community Call 4.png>)
 
-5\. You can also follow up on various issues in the #community-call-discussion channel. If you cannot see the channel, please go to the #verify channel and get started.
+5\. You can also follow up on various issues in the 📞｜community-call-discussion channel.
