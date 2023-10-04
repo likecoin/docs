@@ -4,9 +4,9 @@ description: 如可使用 Discord 客服工具 open a ticket 開票
 
 # #open-a-ticket
 
-在 #open-a-ticket 頻道可使用私密的方式與管理員聯絡。你也可以使用 [Liker Land 客服工具](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)與客服聯繫。
+在 #🎫｜open-a-ticket 頻道可使用私密的方式與管理員聯絡。你也可以使用 [Liker Land 客服工具](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)與客服聯繫。
 
-1\. 到 #open-a-ticket 頻道點「Create ticket」。
+1\. 到 #🎫｜open-a-ticket 頻道點「Create ticket」。
 
 <figure><img src="../../.gitbook/assets/ticket tool 1.png" alt=""><figcaption><p>點「Create ticket」</p></figcaption></figure>
 

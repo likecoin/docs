@@ -14,13 +14,13 @@ description: 想與社群及更多用戶聯繫分享經驗，有渠道嗎？
 
 ## 步驟一：進行認證
 
-新用戶請先到 #verify 頻道按 ✅ 進行認證。
+新用戶請先到 #👍｜verify 頻道按 ✅ 進行認證。
 
-<figure><img src="../../.gitbook/assets/discord 1.png" alt=""><figcaption><p>到 #verify 頻道按 ✅ 進行認證</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/discord 1.png" alt=""><figcaption><p>到 #👍｜verify 頻道按 ✅ 進行認證</p></figcaption></figure>
 
 ## 步驟二：選擇關注議題
 
-到 #select-roles 頻道點 emoji 選擇關注的議題。
+到 #🙋｜select-roles 頻道點 emoji 選擇關注的議題。
 
 <figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption><p>點 emoji 選擇關注的議題</p></figcaption></figure>
 
@@ -34,10 +34,10 @@ description: 想與社群及更多用戶聯繫分享經驗，有渠道嗎？
 
 * [#Community Call](community-call.md)－參與每月社群治理會議
 * [#LikeCoin AMA](likecoin-ama.md) - 參與 LikeCoin 的線上聚會和作者聊天室
-* [#open-a-ticket](open-a-ticket.md) - 使用 Discord 客服工具私訊管理員
+* [#🎫｜open-a-ticke](open-a-ticket.md)t - 使用 Discord 客服工具私訊管理員
+* [#🌊｜faucet-mainne](../faucet.md)t - 主網水龍頭
+* [#💧｜faucet-testnet](faucet-test.md)－獲取少量 LikeCoin 在 testnet 試用各種功能
+* [#🔁｜translate-wallet-prefix](translate-wallet-prefix.md)－雙向查詢新舊前綴錢包地址
 * [LikeCoin Disocrd 錢包](discord-wallet.md) - 在 Discord 傳送及接收 LikeCoin
 * [LIKE this mesage](like-this-mesage.md) - 在 Discord 「拍手」傳送 5 LIKE 予訊息作者
 * [Share to DePub](../../user-guide/depub.space/from-likecoin-discord-to-depub.space.md) - 從 LikeCoin Discord 推文到 [depub.space](https://depub.space/)
-* [#translate-wallet-prefix](translate-wallet-prefix.md)－雙向查詢新舊前綴錢包地址
-* [#faucet-testnet](faucet-test.md)－獲取少量 LikeCoin 在 testnet 試用各種功能
-* [#faucet-mainnet](../faucet.md) - 主網水龍頭

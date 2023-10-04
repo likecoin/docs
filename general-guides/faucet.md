@@ -26,7 +26,7 @@ description: LikeCoin 水龍頭
 
 ### 步驟一
 
-進入 [LikeCoin Discord](https://discord.gg/likecoin) #faucet-mainnet 頻道。如看不到頻道請先到 #verify 頻道進行認證。
+進入 [LikeCoin Discord](https://discord.gg/likecoin) #🌊｜faucet-mainnet 頻道。如看不到頻道請先到 #👍｜verify 頻道進行認證。
 
 ### 步驟二
 
