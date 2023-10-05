@@ -14,6 +14,10 @@ Within the [Plaza](https://liker.land/en/feed?view=town), you can quickly view a
 
 <figure><img src="../../../.gitbook/assets/Plaza-en.png" alt=""><figcaption><p>Plaza</p></figcaption></figure>
 
+#### To Learn More
+
+[Liker Land – The “Plaza” for Content Lovers](https://blog.like.co/en/liker-land-the-plaza-for-content-lovers/)
+
 ### Collectibles
 
 [Collectibles](https://liker.land/en/feed?view=collectibles\&tab=collected) lists NFTs collected and created by the user.
