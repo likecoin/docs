@@ -86,7 +86,7 @@ description: 使用 Cosmostation 以文章網址出版 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>輸入預留及送贈 Writing NFT 的數量，並設定起始售價</p></figcaption></figure>
 
-此外，也可以為 NFT 設定收藏期限，該日期過後收藏者將不能收集該 NFT；
+也可以於 set a deadline for collection 為 NFT 設定收藏期限，該日期過後收藏者將不能收集該 NFT；
 
 完成後再點「Next」。
 

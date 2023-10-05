@@ -14,6 +14,10 @@ description: 展示 NFT 藏品庫
 
 <figure><img src="../../../.gitbook/assets/Plaza.png" alt=""><figcaption><p>廣場</p></figcaption></figure>
 
+#### 更多詳情
+
+[內容愛好者的廣場 – Liker Land 新功能](https://blog.like.co/zh/%E5%85%A7%E5%AE%B9%E6%84%9B%E5%A5%BD%E8%80%85%E7%9A%84%E5%BB%A3%E5%A0%B4-liker-land-%E6%96%B0%E5%8A%9F%E8%83%BD/)
+
 ### 藏品
 
 [藏品](https://liker.land/zh-Hant/feed?view=collectibles\&tab=collected)列出用戶擁有的 NFT 收藏及創作。
