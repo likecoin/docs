@@ -96,11 +96,15 @@ In the "Numbers of NFTs reserved for giveaways" field, you can reserve a quantit
 
 Clicking "Reserve All" will reserve all the pre-minted NFTs and those reserved for giveaways at once.
 
-In the Sales Settings, you can set the initial price for the Writing NFTs, which can be All Free, 8, 128, 1024, or 4096 LIKE. "All Free" means allowing collecters to freely mint NFTs on their own, they just have to pay [transaction fee](../../wallet/transaction-fee.md) . If not configured, the default initial price is set at 128 LIKE.
+In the Sales Settings, you can set the initial price for the Writing NFTs, which can be All Free, $1, $2, $4, $8, $16, $32, $64, $128, $256. "All Free" means allowing collecters to freely mint NFTs on their own, they just have to pay [transaction fee](../../wallet/transaction-fee.md) . If not configured, the default initial price is set at $1.&#x20;
+
+<figure><img src="../../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>Enter the number of Writing NFT to premint and reserve for giveaways, then set the initial price</p></figcaption></figure>
+
+In addition, you can also set a deadline of collection, after which collectors will not be able to collect the NFT.
 
 Once done, click "Next".
 
-<figure><img src="../../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>Enter the number of Writing NFT to premint and reserve for giveaways, then set the initial price</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portal 5-5.png" alt=""><figcaption><p>Set a deadline of collection and click "Next"</p></figcaption></figure>
 
 {% hint style="info" %}
 Creators can also set their Writing NFT as "not for sale" by filling in the "Number of NFTs to premint" equal to the "Number of NFTs reserved for giveaways." This means that the creator reserves all NFTs for gifting purposes, achieving the effect of setting the NFT as "not for sale," as the issued NFTs are all reserved by the creator and will not circulate in the market. Writing NFTs reserved by the author can be given away for free or sold on the [NFT Marketplace](../collect-writing-nft/nft-marketplace.md).
