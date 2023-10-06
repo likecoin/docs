@@ -22,7 +22,7 @@ Within the [Plaza](https://liker.land/en/feed?view=town), you can quickly view a
 
 [Collectibles](https://liker.land/en/feed?view=collectibles\&tab=collected) lists NFTs collected and created by the user.
 
-<figure><img src="../../../.gitbook/assets/Dashboard 6-en.png" alt=""><figcaption><p>Collectibles</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collectibles-en.png" alt=""><figcaption><p>Collectibles</p></figcaption></figure>
 
 ### Statistics
 
@@ -50,14 +50,16 @@ Click on Public Portfolio to directly link to your personal public [NFT Portfoli
 
 <figure><img src="../../../.gitbook/assets/Dashboard 5-en.png" alt=""><figcaption><p>Public Portfolio</p></figcaption></figure>
 
+## Feature and Hide
+
+Users can organize their own portfolio by featuring or hiding NFT items (clicking the star on the top right hand corner). The featured NFT will be placed on top of the list, while the hidden NFT won’t be displayed in public view.
+
+
+
+<figure><img src="../../../.gitbook/assets/Featured NFT-en.png" alt=""><figcaption><p>Feature and hide Writing NFT, click to feature NFT, click again to hide</p></figcaption></figure>
+
 ## Liker Land app
 
 Log in to the [Liker Land app](../../../user-guide/liker-land/download.md) or log in to Liker Land in a mobile browser. Click the stack icon and then click "My Bookshelf" to view information such as Plaza, Collectibles, and Statistics.
 
 <figure><img src="../../../.gitbook/assets/Dashboard Liker Lad app-en.png" alt=""><figcaption><p>Log in to the Liker Land app or log in to Liker Land in a mobile browser, click the stack icon and then click "My Bookshelf"</p></figcaption></figure>
-
-## Feature and Hide
-
-Users can organize their own portfolio by featuring or hiding NFT items (clicking the star on the top right hand corner). The featured NFT will be placed on top of the list, while the hidden NFT won’t be displayed in public view.
-
-<figure><img src="../../../.gitbook/assets/Featured NFT.png" alt=""><figcaption><p>Feature and hide Writing NFT, click to feature NFT, click again to hide</p></figcaption></figure>
