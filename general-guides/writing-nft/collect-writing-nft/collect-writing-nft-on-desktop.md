@@ -8,37 +8,75 @@ description: >-
 
 You can purchase Writing NFT with LikeCoin, which not only supports creators' work, but also allows supporters to leave messages to motivate their favorite creators. These messages will always be attached to the work and will be recorded in the remarks field in the on-chain record.
 
-## Step 1: Login with wallets
+## Step 1: Connect Wallet
 
 Go to the upper right corner of the [Liker Land](https://liker.land/) website and click "Connect Wallet".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 12-en (1).png" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
 
-Or click "Collect Now", "Collect" or the current NFT price and choose [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to login.
+Or click "Collect Now", "Collect" or the current NFT price and choose [Keplr](collect-writing-nft-on-desktop.md#keplr), [Cosmostation](collect-writing-nft-on-desktop.md#cosmostation), [Leap](collect-writing-nft-on-desktop.md#leap), [Keplr mobile](collect-writing-nft-on-desktop.md#keplr-mobile), [Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) or [Liker Land app](collect-writing-nft-on-desktop.md#liker-land-app) to connect wallet, login and purchase NFT.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6-1-en.png" alt=""><figcaption><p>Choose Keplr, Cosmostation, Leap to login</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6-2-en.png" alt=""><figcaption><p>Choose Keplr, Cosmostation app or Liker ID to login</p></figcaption></figure>
 
-### Login with Keplr
+## Step 2: Login and Purchase NFT
+
+### Keplr
 
 Please log into [Keplr Browser Extension](../../wallet/keplr/) in your browser. After clicking "Keplr", a window will pop up requesting connection, click "Approve". Another pop-up window asks to link the account, click "Approve" again to login.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr.png" alt=""><figcaption><p>Click "Approve" twice to login with Keplr</p></figcaption></figure>
 
-### Login with Cosmostation
+After successful login, your avatar will be displayed in the upper right corner of the Liker Land website.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>After login, your avatar is in the upper right corner of the Liker Land website</p></figcaption></figure>
+
+Click on the Writing NFT price or the collect button and the Collect NFT page pops up. "Leave a signed message to creator" and enter the message if you want to do so, or just click "Pay by LIKE".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE-en.png" alt=""><figcaption><p>Leave a message to creator and Pay by LIKE</p></figcaption></figure>
+
+A Keplr window will pop up, then click "Approve" to confirm the purchase.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 07-en.png" alt=""><figcaption><p>Keplr window pops up click "Approve" to confirm the purchase</p></figcaption></figure>
+
+### Cosmostation
 
 Please log into [Cosmostation Browser Extension](../../wallet/cosmostation/) in your browser. After clicking "Cosmostation", a window will pop up requesting connection, click "Confirm" to login.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation.png" alt=""><figcaption><p>Click "Confirm" at Cosmostation</p></figcaption></figure>
 
-### Login with Leap
+After successful login, your avatar will be displayed in the upper right corner of the Liker Land website.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>After login, your avatar is in the upper right corner of the Liker Land website</p></figcaption></figure>
+
+Click on the Writing NFT price or the collect button and the Collect NFT page pops up. "Leave a signed message to creator" and enter the message if you want to do so, or just click "Pay by LIKE".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE-en.png" alt=""><figcaption><p>Leave a message to creator and Pay by LIKE</p></figcaption></figure>
+
+A Cosmostation window will pop up, then click "Confirm" to confirm the purchase.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 14-en.png" alt=""><figcaption><p>Cosmostation window pops up click "Confirm" to confirm the purchase</p></figcaption></figure>
+
+### Leap
 
 Please log into [Leap Browser Extension](../../wallet/leap/) in your browser. After clicking "Leap", a window will pop up requesting connection, click "Connect". Another pop-up window asks to link the account, click "Approve" to login.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Leap.png" alt=""><figcaption><p>Click "Connect" and "Approve" to login with Leap</p></figcaption></figure>
 
-### Login with Keplr Mobile
+After successful login, your avatar will be displayed in the upper right corner of the Liker Land website.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>After login, your avatar is in the upper right corner of the Liker Land website</p></figcaption></figure>
+
+Click on the Writing NFT price or the collect button and the Collect NFT page pops up. "Leave a signed message to creator" and enter the message if you want to do so, or just click "Pay by LIKE".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE-en.png" alt=""><figcaption><p>Leave a message to creator and Pay by LIKE</p></figcaption></figure>
+
+A Leap window will pop up, then click "Approve" to confirm the purchase.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 13.png" alt=""><figcaption><p>A Leap window will pop up, then click "Approve" to confirm the purchase</p></figcaption></figure>
+
+### Keplr Mobile
 
 A QR Code will appear after clicking "[Keplr Mobile](../../wallet/keplr-mobile/)".
 
@@ -60,7 +98,23 @@ Click "Approve" to connect with Liker Land and click "Approve" again to link the
 
 </div>
 
-### Login with Cosmostation app
+After successful login, your avatar will be displayed in the upper right corner of the Liker Land website.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>After login, your avatar is in the upper right corner of the Liker Land website</p></figcaption></figure>
+
+Click on the Writing NFT price or the collect button and the Collect NFT page pops up. "Leave a signed message to creator" and enter the message if you want to do so, or just click "Pay by LIKE".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE-en.png" alt=""><figcaption><p>Leave a message to creator and Pay by LIKE</p></figcaption></figure>
+
+The desktop computer displays the "Pending your signature on Keplr mobile app" window.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Keplr mobile 1-en.png" alt=""><figcaption><p>The desktop computer displays the "Pending your signature on Keplr mobile app" window</p></figcaption></figure>
+
+The Keplr mobile pops up the Confirm Transaction window, click "Approve" to confirm purchase.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Keplr mobile 2.png" alt=""><figcaption><p>Keplr mobile window pops up, click "Approve" to confirm the purchase</p></figcaption></figure>
+
+### Cosmostation app
 
 A QR Code will appear after clicking "[Cosmostation app](../../wallet/cosmostation-app/)".
 
@@ -90,7 +144,27 @@ Connected successfully.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 6.png" alt=""><figcaption><p>Successfully connected to Liker Land</p></figcaption></figure>
 
-### Login with Liker Land app
+After successful login, your avatar will be displayed in the upper right corner of the Liker Land website.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>After login, your avatar is in the upper right corner of the Liker Land website</p></figcaption></figure>
+
+Click on the Writing NFT price or the collect button and the Collect NFT page pops up. "Leave a signed message to creator" and enter the message if you want to do so, or just click "Pay by LIKE".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE-en.png" alt=""><figcaption><p>Leave a message to creator and Pay by LIKE</p></figcaption></figure>
+
+The desktop computer displays the "Collecting NFT" window.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 1-en.png" alt=""><figcaption><p>The desktop computer displays the window of Collecting NFT</p></figcaption></figure>
+
+The Cosmostation app pops up the Request Transaction Sign window, click "Confirm" to confirm purchase.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 2.png" alt=""><figcaption><p>Cosmostation app window pops up, click "Confirm" to confirm the purchase</p></figcaption></figure>
+
+### Liker Land app
+
+#### Video Tutorial
+
+[Mobile Wallet Connect to app.like.co by Liker Land app](https://www.youtube.com/watch?v=OycNwW3a91c)
 
 A QR Code will appear after clicking "Liker ID".
 
@@ -122,53 +196,9 @@ After successful login, your avatar will be displayed in the upper right corner 
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>After login, your avatar is in the upper right corner of the Liker Land website</p></figcaption></figure>
 
-## Step 2: Pay by LIKE
-
 Click on the Writing NFT price or the collect button and the Collect NFT page pops up. "Leave a signed message to creator" and enter the message if you want to do so, or just click "Pay by LIKE".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE-en.png" alt=""><figcaption><p>Leave a message to creator and Pay by LIKE</p></figcaption></figure>
-
-## Step 3: Confirm Purchase
-
-### Keplr
-
-A Keplr window will pop up, then click "Approve" to confirm the purchase.
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 07-en.png" alt=""><figcaption><p>Keplr window pops up click "Approve" to confirm the purchase</p></figcaption></figure>
-
-### Cosmostation
-
-A Cosmostation window will pop up, then click "Confirm" to confirm the purchase.
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 14-en.png" alt=""><figcaption><p>Cosmostation window pops up click "Confirm" to confirm the purchase</p></figcaption></figure>
-
-### Leap
-
-A Leap window will pop up, then click "Approve" to confirm the purchase.
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 13.png" alt=""><figcaption><p>A Leap window will pop up, then click "Approve" to confirm the purchase</p></figcaption></figure>
-
-### Keplr app
-
-The desktop computer displays the "Pending your signature on Keplr mobile app" window.
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 8 Keplr mobile 1-en.png" alt=""><figcaption><p>The desktop computer displays the "Pending your signature on Keplr mobile app" window</p></figcaption></figure>
-
-The Keplr mobile pops up the Confirm Transaction window, click "Approve" to confirm purchase.
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 8 Keplr mobile 2.png" alt=""><figcaption><p>Keplr mobile window pops up, click "Approve" to confirm the purchase</p></figcaption></figure>
-
-### Cosmostation app
-
-The desktop computer displays the "Collecting NFT" window.
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 1-en.png" alt=""><figcaption><p>The desktop computer displays the window of Collecting NFT</p></figcaption></figure>
-
-The Cosmostation app pops up the Request Transaction Sign window, click "Confirm" to confirm purchase.
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 2.png" alt=""><figcaption><p>Cosmostation app window pops up, click "Confirm" to confirm the purchase</p></figcaption></figure>
-
-### Liker Land app
 
 The desktop computer displays the Pending approval on Liker Land app windows.
 
@@ -178,7 +208,7 @@ The Liker Land app pops up a signature request window, click "Approve" to confir
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 8 Liker Land app 2-en.png" alt=""><figcaption><p>Liker Land app window pops up click "Approve" to confirm the purchase</p></figcaption></figure>
 
-## Step 4: Check your NFT Collection
+## Step 3: Check your NFT Collection
 
 Payment is successful! appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View the NFT" to see the details of the NFT purchased or you can go to [My Dashboard](dashboard.md) to check out the NFT that you have collected.
 
