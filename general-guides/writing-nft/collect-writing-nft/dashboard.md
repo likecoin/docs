@@ -22,7 +22,9 @@ description: 展示 NFT 藏品庫
 
 [藏品](https://liker.land/zh-Hant/feed?view=collectibles\&tab=collected)列出用戶擁有的 NFT 收藏及創作。
 
-<figure><img src="../../../.gitbook/assets/Dashboard 6.png" alt=""><figcaption><p>藏品</p></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/Collectible.png" alt=""><figcaption><p>藏品</p></figcaption></figure>
 
 ### 整體數據
 
