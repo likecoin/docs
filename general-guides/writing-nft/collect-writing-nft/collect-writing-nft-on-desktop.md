@@ -14,31 +14,75 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
 
-或點「立即收藏」、「收集」、「收藏作品」或當前價格後選擇以 [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)任何一種方式連結並登入。
+或點「立即收藏」、「收集」、「收藏作品」或當前價格後選擇以 [Keplr](collect-writing-nft-on-desktop.md#keplr)、[Cosmostation](collect-writing-nft-on-desktop.md#cosmostation)、[Leap](collect-writing-nft-on-desktop.md#leap)、[Keplr Mobile](collect-writing-nft-on-desktop.md#keplr-mobile)、[Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) 或 [Liker Land](collect-writing-nft-on-desktop.md#liker-land-shou-ji-ying-yong-cheng-shi) 手機應用程式任何一種方式連結錢包，登入並購買 NFT。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6-1.png" alt=""><figcaption><p>選擇以 Keplr、Cosmostation、Leap 登入</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6-2.png" alt=""><figcaption><p>選擇以 Keplr Mobile, Cosmostation app 或 Liker ID 登入</p></figcaption></figure>
 
-### Keplr 登入
+## 步驟二：登入並購買 NFT
+
+### Keplr
 
 請於瀏覽器登入 [Keplr 瀏覽器擴充功能 ( Keplr Browser Extension )](../../wallet/keplr/)，點「Keplr」後彈出視窗要求連結，點「Approve」。接下來會再次彈出視窗要求連結帳戶，繼續點「Approve」登入。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Keplr.png" alt=""><figcaption><p>在 Keplr 點「Approve」 兩次登入</p></figcaption></figure>
 
-### Cosmostation 登入
+成功登入後 Liker Land 網站右上角將顯示你的頭像。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>成功登入後 Liker Land 網站右上角將顯示你的頭像</p></figcaption></figure>
+
+點 Writing NFT 價格或收藏按鍵後彈出收藏作品頁面，在「簽署留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
+
+關於「簽署留言給創作者」的詳盡介紹：[以文會友的人情味和空間感 — 購買 Writing NFT 時，留言給作者](https://blog.like.co/zh/%E4%BB%A5%E6%96%87%E6%9C%83%E5%8F%8B%E7%9A%84%E4%BA%BA%E6%83%85%E5%91%B3%E5%92%8C%E7%A9%BA%E9%96%93%E6%84%9F-%E8%B3%BC%E8%B2%B7-writing-nft-%E6%99%82%EF%BC%8C%E7%95%99%E8%A8%80%E7%B5%A6/)
+
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE.png" alt=""><figcaption><p>輸入給創作者的話並用 LIKE 購買</p></figcaption></figure>
+
+彈出 Keplr 視窗，再點「Approve」確認購買。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 07.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve」確認購買</p></figcaption></figure>
+
+### Cosmostation
 
 請於瀏覽器登入 [Cosmotation 瀏覽器擴充功能 ( Cosmostation Browser Extension )](../../wallet/cosmostation/)，點「Cosmostation」後彈出視窗要求連結，點「Confirm」登入。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation.png" alt=""><figcaption><p>在 Cosmostation 點「Confirm」</p></figcaption></figure>
 
-### Leap 登入
+成功登入後 Liker Land 網站右上角將顯示你的頭像。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>成功登入後 Liker Land 網站右上角將顯示你的頭像</p></figcaption></figure>
+
+點 Writing NFT 價格或收藏按鍵後彈出收藏作品頁面，在「簽署留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
+
+關於「簽署留言給創作者」的詳盡介紹：[以文會友的人情味和空間感 — 購買 Writing NFT 時，留言給作者](https://blog.like.co/zh/%E4%BB%A5%E6%96%87%E6%9C%83%E5%8F%8B%E7%9A%84%E4%BA%BA%E6%83%85%E5%91%B3%E5%92%8C%E7%A9%BA%E9%96%93%E6%84%9F-%E8%B3%BC%E8%B2%B7-writing-nft-%E6%99%82%EF%BC%8C%E7%95%99%E8%A8%80%E7%B5%A6/)
+
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE.png" alt=""><figcaption><p>輸入給創作者的話並用 LIKE 購買</p></figcaption></figure>
+
+彈出 Comostation 視窗，再點「Confirm」確認購買。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 14.png" alt=""><figcaption><p>Cosmostation 彈出視窗，點「Confirm」確認購買</p></figcaption></figure>
+
+### Leap
 
 請於瀏覽器登入 [Leap 瀏覽器擴充功能 ( Leap Browser Extension )](../../wallet/leap/)，點「Leap」後彈出視窗要求連結，點「Connect」。接下來會再次彈出視窗要求連結帳戶，繼續點「Approve」登入。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Leap.png" alt=""><figcaption><p>在 Leap 點「Connect」再點「Approve」 登入</p></figcaption></figure>
 
-### Keplr Mobile 登入
+成功登入後 Liker Land 網站右上角將顯示你的頭像。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>成功登入後 Liker Land 網站右上角將顯示你的頭像</p></figcaption></figure>
+
+點 Writing NFT 價格或收藏按鍵後彈出收藏作品頁面，在「簽署留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
+
+關於「簽署留言給創作者」的詳盡介紹：[以文會友的人情味和空間感 — 購買 Writing NFT 時，留言給作者](https://blog.like.co/zh/%E4%BB%A5%E6%96%87%E6%9C%83%E5%8F%8B%E7%9A%84%E4%BA%BA%E6%83%85%E5%91%B3%E5%92%8C%E7%A9%BA%E9%96%93%E6%84%9F-%E8%B3%BC%E8%B2%B7-writing-nft-%E6%99%82%EF%BC%8C%E7%95%99%E8%A8%80%E7%B5%A6/)
+
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE.png" alt=""><figcaption><p>輸入給創作者的話並用 LIKE 購買</p></figcaption></figure>
+
+彈出 Leap 視窗，再點「Approve」確認購買。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 13.png" alt=""><figcaption><p>彈出 Leap 視窗，再點「Approve」確認購買</p></figcaption></figure>
+
+### Keplr Mobile
 
 點「[Keplr Mobile](../../wallet/keplr-mobile/)」後出現二維碼。
 
@@ -60,7 +104,25 @@ description: >-
 
 </div>
 
-### Cosmostation app 登入
+成功登入後 Liker Land 網站右上角將顯示你的頭像。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>成功登入後 Liker Land 網站右上角將顯示你的頭像</p></figcaption></figure>
+
+點 Writing NFT 價格或收藏按鍵後彈出收藏作品頁面，在「簽署留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
+
+關於「簽署留言給創作者」的詳盡介紹：[以文會友的人情味和空間感 — 購買 Writing NFT 時，留言給作者](https://blog.like.co/zh/%E4%BB%A5%E6%96%87%E6%9C%83%E5%8F%8B%E7%9A%84%E4%BA%BA%E6%83%85%E5%91%B3%E5%92%8C%E7%A9%BA%E9%96%93%E6%84%9F-%E8%B3%BC%E8%B2%B7-writing-nft-%E6%99%82%EF%BC%8C%E7%95%99%E8%A8%80%E7%B5%A6/)
+
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE.png" alt=""><figcaption><p>輸入給創作者的話並用 LIKE 購買</p></figcaption></figure>
+
+桌面電腦彈出「請在 Keplr 手機應用程式確認你的簽署」視窗。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Keplr mobile 1.png" alt=""><figcaption><p>桌面電腦彈出「請在 Keplr 手機應用程式確認你的簽署」視窗</p></figcaption></figure>
+
+Keplr Mobile 彈出 Confirm Transaction 視窗，點「Approve」確認購買。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Keplr mobile 2.png" alt=""><figcaption><p>Keplr Mobile 彈出視窗，點「Approve」確認購買</p></figcaption></figure>
+
+### Cosmostation app
 
 點「[Cosmostation app](../../wallet/cosmostation-mobile/)」後出現二維碼。
 
@@ -90,7 +152,29 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Cosmostation app 6.png" alt=""><figcaption><p>成功連結 Liker Land</p></figcaption></figure>
 
-### Liker Land 手機應用程式登入
+成功登入後 Liker Land 網站右上角將顯示你的頭像。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>成功登入後 Liker Land 網站右上角將顯示你的頭像</p></figcaption></figure>
+
+點 Writing NFT 價格或收藏按鍵後彈出收藏作品頁面，在「簽署留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
+
+關於「簽署留言給創作者」的詳盡介紹：[以文會友的人情味和空間感 — 購買 Writing NFT 時，留言給作者](https://blog.like.co/zh/%E4%BB%A5%E6%96%87%E6%9C%83%E5%8F%8B%E7%9A%84%E4%BA%BA%E6%83%85%E5%91%B3%E5%92%8C%E7%A9%BA%E9%96%93%E6%84%9F-%E8%B3%BC%E8%B2%B7-writing-nft-%E6%99%82%EF%BC%8C%E7%95%99%E8%A8%80%E7%B5%A6/)
+
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE.png" alt=""><figcaption><p>輸入給創作者的話並用 LIKE 購買</p></figcaption></figure>
+
+桌面電腦彈出正在收藏作品視窗。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 1.png" alt=""><figcaption><p>桌面電腦彈出正在收藏作品視窗</p></figcaption></figure>
+
+Cosmostation app 彈出 Request Transaction Sign 視窗，點「Confirm」確認購買。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 2.png" alt=""><figcaption><p>Cosmostation app 彈出視窗，點「Confirm」確認購買</p></figcaption></figure>
+
+### Liker Land 手機應用程式
+
+#### 教學影片
+
+[Mobile Wallet Connect to app.like.co by Liker Land app](https://www.youtube.com/watch?v=OycNwW3a91c)
 
 點「Liker ID」後出現二維碼。
 
@@ -122,55 +206,11 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>成功登入後 Liker Land 網站右上角將顯示你的頭像</p></figcaption></figure>
 
-## 步驟二：用 LIKE 購買 Writing NFT
-
 點 Writing NFT 價格或收藏按鍵後彈出收藏作品頁面，在「簽署留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
 
 關於「簽署留言給創作者」的詳盡介紹：[以文會友的人情味和空間感 — 購買 Writing NFT 時，留言給作者](https://blog.like.co/zh/%E4%BB%A5%E6%96%87%E6%9C%83%E5%8F%8B%E7%9A%84%E4%BA%BA%E6%83%85%E5%91%B3%E5%92%8C%E7%A9%BA%E9%96%93%E6%84%9F-%E8%B3%BC%E8%B2%B7-writing-nft-%E6%99%82%EF%BC%8C%E7%95%99%E8%A8%80%E7%B5%A6/)
 
 <figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE.png" alt=""><figcaption><p>輸入給創作者的話並用 LIKE 購買</p></figcaption></figure>
-
-## 步驟三：確認購買
-
-### Keplr
-
-彈出 Keplr 視窗，再點「Approve」確認購買。
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 07.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve」確認購買</p></figcaption></figure>
-
-### Cosmostation
-
-彈出 Comostation 視窗，再點「Confirm」確認購買。
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 14.png" alt=""><figcaption><p>Cosmostation 彈出視窗，點「Confirm」確認購買</p></figcaption></figure>
-
-### Leap
-
-彈出 Leap 視窗，再點「Approve」確認購買。
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 13.png" alt=""><figcaption><p>彈出 Leap 視窗，再點「Approve」確認購買</p></figcaption></figure>
-
-### Keplr Mobile
-
-桌面電腦彈出「請在 Keplr 手機應用程式確認你的簽署」視窗。
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 8 Keplr mobile 1.png" alt=""><figcaption><p>桌面電腦彈出「請在 Keplr 手機應用程式確認你的簽署」視窗</p></figcaption></figure>
-
-Keplr Mobile 彈出 Confirm Transaction 視窗，點「Approve」確認購買。
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 8 Keplr mobile 2.png" alt=""><figcaption><p>Keplr Mobile 彈出視窗，點「Approve」確認購買</p></figcaption></figure>
-
-### Cosmostation app
-
-桌面電腦彈出正在收藏作品視窗。
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 1.png" alt=""><figcaption><p>桌面電腦彈出正在收藏作品視窗</p></figcaption></figure>
-
-Cosmostation app 彈出 Request Transaction Sign 視窗，點「Confirm」確認購買。
-
-<figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 2.png" alt=""><figcaption><p>Cosmostation app 彈出視窗，點「Confirm」確認購買</p></figcaption></figure>
-
-### Liker Land 手機應用程式
 
 桌面電腦彈出請在 Liker Land 手機應用程式簽署確認視窗。
 
@@ -180,7 +220,7 @@ Liker Land app 彈出簽名請求視窗，點「允許」確認購買。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 8 Liker Land app 2.png" alt=""><figcaption><p>Liker Land app 彈出視窗，點「允許」確認購買</p></figcaption></figure>
 
-## 步驟四：查看已購買的 Writing NFT
+## 步驟三：查看已購買的 Writing NFT
 
 出現「付款成功」並成功購買 Writing NFT。點「檢視 NFT」可查看已購買的 NFT 詳細內容或到[我的書架](dashboard.md)查看已購買的 NFT。
 

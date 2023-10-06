@@ -33,7 +33,7 @@
     * [Keplr](general-guides/writing-nft/nft-portal/keplr.md)
     * [Cosmostation](general-guides/writing-nft/nft-portal/cosmostation.md)
     * [Cosmostation app](general-guides/writing-nft/nft-portal/cosmostation-app.md)
-    * [Liker Land app](general-guides/writing-nft/nft-portal/liker-land-app.md)
+    * [Liker Land 手機應用程式](general-guides/writing-nft/nft-portal/liker-land-shou-ji-ying-yong-cheng-shi.md)
     * [Matters](general-guides/writing-nft/nft-portal/matters.md)
     * [Liker Social](general-guides/writing-nft/nft-portal/liker-social.md)
     * [illustBuy](general-guides/writing-nft/nft-portal/illustbuy.md)
