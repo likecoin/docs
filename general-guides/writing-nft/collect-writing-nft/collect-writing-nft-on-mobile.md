@@ -90,11 +90,11 @@ If you encounter problems during the purchase process, please go to the settings
 
 **Step 1**: Log in to the [Liker Land app](../../../user-guide/liker-land/download.md) and use the mobile browser to browse the NFT that you want to collect. Click "Collect Now," "Collect," or the current NFT price.
 
-<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 1-en.png" alt=""><figcaption><p>Click "Collect Now"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Keplr Mobile 1-en.png" alt=""><figcaption><p>Click "Collect Now"</p></figcaption></figure>
 
 **Step 2**: The Collect NFT page will appear. You can choose to "Leave a signed message to creator" (optional) or simply click "Pay by LIKE". If you decide to leave a message, enter it in the provided field.
 
-<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 2-en.png" alt=""><figcaption><p>Leave a signed message to creator and Pay by LIKE</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Keplr Mobile 2-en.png" alt=""><figcaption><p>Leave a signed message to creator and Pay by LIKE</p></figcaption></figure>
 
 **Step 3**: A pop-up window will appear. Click "Liker ID" to log in.
 

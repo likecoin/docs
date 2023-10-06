@@ -126,7 +126,7 @@ When connecting for the first time, a Keplr window will pop up asking for a conn
 
 Click on the Writing NFT price or the collect button and the Collect NFT page pops up. "Leave a message to creator" and enter the message if you want to do so, or just click "Pay by card".
 
-<figure><img src="../../../.gitbook/assets/Buy NFT pay by card with Keplr-en.png" alt=""><figcaption><p>Leave a message to creator and Pay by card</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by card with Keplr-en.png" alt=""><figcaption><p>Choose to Pay by card on the collection NFT page</p></figcaption></figure>
 
 The Stripe page will appear. Enter your email and credit card information, then click "Pay". The purchase price of the Writing NFT in fiat currency is calculated based on the market price, exchange fee, and credit card handling fee.
 
