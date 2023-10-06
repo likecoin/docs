@@ -90,11 +90,11 @@ description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用�
 
 **步驟一**：登入 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)後到手機瀏覽器開啟希望購買的 NFT 頁面並點「立即收藏」、「收集」、「收藏作品」或當前價格開始收藏 Writing NFT。
 
-<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 1.png" alt=""><figcaption><p>點「立即收藏」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Keplr Mobile 1.png" alt=""><figcaption><p>點「立即收藏」</p></figcaption></figure>
 
 **步驟二**：彈出收藏作品頁面，在「簽署留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
 
-<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 2.png" alt=""><figcaption><p>輸入給作者的話並用 LIKE 購買</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Keplr Mobile 2.png" alt=""><figcaption><p>輸入給作者的話並用 LIKE 購買</p></figcaption></figure>
 
 **步驟三**：彈出視窗選擇 Liker ID，點擊並連接。
 
@@ -129,5 +129,7 @@ description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用�
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 10.png" alt=""><figcaption><p>點「檢視 NFT」</p></figcaption></figure>
 
 {% hint style="warning" %}
-如在購買過程中遇到問題，請到右下角設定點「Wallet Connet」刪除現有連結並再次購買
+如在購買過程中遇到問題，請到右下角設定點「Wallet Connet」刪除現有連結並再次購買。
+
+<img src="../../../.gitbook/assets/Liker Land app Buy NFT 7.png" alt="刪除現有 Wallet Connect 連結並再次購買" data-size="original">
 {% endhint %}

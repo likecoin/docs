@@ -130,7 +130,7 @@ description: 如何收藏 Writing NFT
 
 關於「留言給創作者」的詳盡介紹：[以文會友的人情味和空間感 — 購買 Writing NFT 時，留言給作者](https://blog.like.co/zh/%E4%BB%A5%E6%96%87%E6%9C%83%E5%8F%8B%E7%9A%84%E4%BA%BA%E6%83%85%E5%91%B3%E5%92%8C%E7%A9%BA%E9%96%93%E6%84%9F-%E8%B3%BC%E8%B2%B7-writing-nft-%E6%99%82%EF%BC%8C%E7%95%99%E8%A8%80%E7%B5%A6/)
 
-<figure><img src="../../../.gitbook/assets/Buy NFT pay by card with Keplr.png" alt=""><figcaption><p>輸入給作者的話並以信用卡付款</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT pay by card with Keplr.png" alt=""><figcaption><p>在收藏作品頁選擇以信用卡付款</p></figcaption></figure>
 
 出現 Stripe 頁面，輸入電郵及信用卡資料後點「Pay」。法定貨幣購買 Writing NFT 價錢綜合市價、兌換費用及信用咭手續費計算。
 
