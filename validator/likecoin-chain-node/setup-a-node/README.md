@@ -130,7 +130,7 @@ Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/test
 ```bash
 export MONIKER='<My Validator>'
 export GENESIS_URL='https://raw.githubusercontent.com/likecoin/testnets/master/likecoin-public-testnet-5/genesis.json'
-export LIKED_SEED_NODES='1ca24cb5e744287284372cfdfe545f9ee16703c6@20.6.73.206:26656,49976c3bd43da9271f226cbedf02d4b6b8fc880c@35.233.143.230:26656'
+export LIKED_SEED_NODES='5d798391c8ea63a7a75e79479dcc9733ae7c5c1d@65.108.111.177:26656,49976c3bd43da9271f226cbedf02d4b6b8fc880c@35.233.143.230:26656'
 export LIKED_VERSION='4.0.0'
 cd ~/likecoin-chain
 make -C deploy setup-node
