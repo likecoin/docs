@@ -2,23 +2,75 @@
 
 {% tabs %}
 {% tab title="2023" %}
+### 11/18 WordCamp Hong Kong 2023
+
+[5年後還是新手 – WordPress Plugin開發大冒險](https://hongkong.wordcamp.org/2023/session/5%E5%B9%B4%E5%BE%8C%E9%82%84%E6%98%AF%E6%96%B0%E6%89%8B-wordpress-plugin%E9%96%8B%E7%99%BC%E5%A4%A7%E5%86%92%E9%9A%AA/)
+
+### 11/6-7 HK Web3 Month Conference
+
+[Sovereignty Blockchain: Abstracting Complexity for Seamless Building Experience for Consumer Products](https://www.hkweb3month.com/agenda)
+
+[Speaker](https://twitter.com/HKWeb3Month/status/1716392722553348269)
+
+<figure><img src="../../../.gitbook/assets/IMG_8696.jpg" alt=""><figcaption></figcaption></figure>
+
+### 11/02 RSS3 HKFINTECH Week Web3 Night
+
+[HKFINTECH Week Web3 Night](https://lu.ma/qzdacuwm)
+
+[Community Partner](https://twitter.com/rss3\_/status/1720387481978507317)
+
+### 10/14 WordCamp Taiwan 2023
+
+[Booth](https://taiwan.wordcamp.org/2023/sponsors/)
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/IMG_0226.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/IMG_0228.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### 10/04 Lingnan University
+
+[Guest Speaker of Digital Creativity class in the Master of Cultural Studies program of Lingnan University](https://www.linkedin.com/posts/james-chong-452540139\_thank-you-phoebe-poon-for-being-a-guest-speaker-activity-7115669440381284353-3rXe/)
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/7a5bbf37-8d96-4876-a2ac-69a600278619.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/94d65a57-3c4a-49a5-a404-6eaf4008c733.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### 09/14-15 留下書舍 Have A Nice Stay
+
+[分散式出版工作坊](https://www.facebook.com/hans.bookstorehk/posts/pfbid022yGoyUmj8rTEB6ZLMpMRZ18eeerr9ds7FKX4K7XSDzZdc7MuSzVS4Sp1qmmZBuMal)
+
 ### 07/29 COSCUP 2023
 
 [分散式出版面對的三道圍牆](https://coscup.org/2023/zh-TW/session/ZHVR7V)
 
-### 06/09 香港開源年會 2023
+### 06/09 Hong Kong Open Source Conference 2023
 
 [分散式出版面對的三道圍牆](https://hkoscon.org/2023/topics/fensanshichubanmianduidesandaoweiqiang)
+
+### 05/27 WordPress 20 週年慶典
+
+[我使用的 6 個 WordPress 外掛 By Kin Ko (廣東話 Cantonese)](https://www.meetup.com/hong-kong-wordpress-meetup/events/293095406/)
+
+[Photos](https://twitter.com/daisymarisfung/status/1662296857098489857)
 
 ### 05/09 飛地 nowhere
 
 [【5月9日 #線上對談】顛覆遊戲規則 ♠️](https://www.facebook.com/nowherebookstore/posts/pfbid02R2gPy3z8w95Y1GX2xZq4MEFM1tKs7EHcifm8obV3vTxnVESRjEjVJTQ6uysS2LEXl)
 
-[影片](https://www.youtube.com/watch?v=O0FtTFIyxIE)
-
-### 05/08 𝐀𝐑𝐓𝐈𝐒𝐀𝐍 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐯𝐞 | 𝐃𝐀𝐎
-
-[Web3 是孤離，是記憶，是文藝復興？](https://twitter.com/artisan\_xyz/status/1655145749938860032)
+[Video](https://www.youtube.com/watch?v=O0FtTFIyxIE)
 
 ### 05/04-05 留下書舍 Have A Nice Stay
 
@@ -31,6 +83,8 @@
 ### 04/16 Cosmos Interchain Session@Web3 Festival
 
 [如何促進應用專有鏈採用，將 Web2 用戶引入 Web3](https://twitter.com/Bianjie\_Global/status/1647131551807729664)
+
+[香港掀起跨链旋风！「 2023 香港 Web3 嘉年华-跨链专场」圆满落幕](https://zhuanlan.zhihu.com/p/622931361)
 
 ### 04/13 - Cosmos HK Meetup
 
