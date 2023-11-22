@@ -12,6 +12,12 @@
 
 [【Fintech全方位】發掘金融以外的應用層面📝區塊鏈技術提升創作者經濟生態](https://www.youtube.com/watch?v=pwtf\_OyV\_0o)
 
+### 06/08 RTHK
+
+[鏗鏘集：虛擬資產新機遇](https://digitalrepository.lib.hku.hk/catalog/0c489m376)
+
+[Video](https://www.youtube.com/watch?v=IKX3\_YIPOO0)
+
 ### 05/26 Hostinger Blog
 
 [WordPress Turns 20: Empowering People to Success Online](https://www.hostinger.com/blog/wordpress-20th-anniversary)
