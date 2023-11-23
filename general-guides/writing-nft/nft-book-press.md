@@ -1,2 +1,169 @@
-# NFT Book Press
+---
+description: 使用 NFT Book Press 發行 NFT 書
+---
 
+# 發行 NFT 書
+
+{% hint style="info" %}
+發行 NFT 需於桌面電腦使用 [Keplr 瀏覽器擴充功能](../wallet/keplr/)及 LikeCoin
+{% endhint %}
+
+在區塊鏈出版 NFT 書包含以下流程：
+
+1. [備妥 epub 檔](nft-book-press.md#edit-metadata)
+2. [註冊 ISCN](nft-book-press.md#register-iscn)
+3. [上架銷售](nft-book-press.md#nft-book-store)
+
+***
+
+## 製作 epub 檔案並輸入元資料 <a href="#edit-metadata" id="edit-metadata"></a>
+
+首先製作好電子書的 epub 檔案，並確保經已輸入並整理好 Metadata。Metadata 即是[元資料](../decentralized-publishing/what-is-iscn.md)。包括書名、作者、封面圖、出版日期、描述等內容。以常用的 epub 編輯軟件為例：
+
+#### calibre
+
+在 calibre 編輯元資料的按鈕就在畫面的左上角 Edit Metadata，整理好元資料後記緊按 Save to disk。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 1.png" alt=""><figcaption><p>在 calibre 點 Edit Metadata 開啟編輯元資料介面，完成後按 Save to disk</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 2.png" alt=""><figcaption><p>編輯元資料後按「OK」</p></figcaption></figure>
+
+#### Sigil
+
+在 Sigil 可按 F8 鍵可即時編輯元資料。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 3.png" alt=""><figcaption><p>在 Sigl 按 F8 鍵編輯元資料</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 4.png" alt=""><figcaption><p>編輯元資料後按「確定」</p></figcaption></figure>
+
+***
+
+## 註冊 ISCN <a href="#register-iscn" id="register-iscn"></a>
+
+準備好 epub 檔案後，接下來把它註冊成 ISCN。
+
+### 步驟一：上載檔案
+
+到 [app.like.co](https://app.like.co/) 網站，點「Register ISCN」。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 5.png" alt=""><figcaption><p>到 app.like.co 網站，點「Register ISCN」</p></figcaption></figure>
+
+彈出視窗並點 Keplr 連結錢包。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 6.png" alt=""><figcaption><p>彈出視窗並點 Keplr 連結錢包</p></figcaption></figure>
+
+點「Select a file」上載已預備好的 epub 檔案。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 7.png" alt=""><figcaption><p>點「Select a file」上載已預備好的 epub 檔案</p></figcaption></figure>
+
+系統會自動把 epub 檔案內容分解成兩個檔案，一個是 epub 檔案，另一個是封面圖檔。如果沒有問題，點「Start Upload」，系統會將這兩個檔案上傳到分散式網絡。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 8.png" alt=""><figcaption><p>點「Start Upload」將檔案上傳到分散式網絡</p></figcaption></figure>
+
+Keplr 錢包將彈出視窗數次，點「Approve」簽署後靜侯一會兒。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption><p>在 Keplr 點「Approve」簽署</p></figcaption></figure>
+
+### 步驟二：輸入書籍資料
+
+出現 File Ready 代表檔案上傳成功，並出現四條 Hash 網址，每兩條 Hash 對應一個檔案。包括 IPFS 及 AR ( Arweave ) 格式。以附圖為例，四條 Hash 代表 IPFS 的 epub 檔、IPFS 的封面檔、AR 的 epub 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 10.png" alt=""><figcaption><p>檔案上傳成功，出現 Hash 網址</p></figcaption></figure>
+
+往下移動頁面。與此同時系統亦會依照元資料內容自動填上書名、描述、作者等。亦可為書籍加入標籤 ( Tags ) 作分類。然後點「Same As URLs」。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>點「Same As URLs」</p></figcaption></figure>
+
+系統會認定其中一條 Hash 網址的 epub 檔案，確認無誤後點「Confirm」。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 12.png" alt=""><figcaption><p>點「Confirm」確認</p></figcaption></figure>
+
+如有需要可填寫 URL 與 ISBN 的欄位；Type 顯示為 Book；License 可以選擇合適的 License，預設是版權所有。確認一切無誤後點「Register」。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 13.png" alt=""><figcaption><p>確認無誤後點「Register」</p></figcaption></figure>
+
+Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位置不要點擊 Retry，靜侯一會兒就可以了。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 14.png" alt=""><figcaption><p>在 Keplr 點「Approve」簽署</p></figcaption></figure>
+
+### 步驟三：註冊 ISCN 完成
+
+出現 Completed! Here is your ISCN 說明 ISCN 經已成功註冊。ISCN ID 欄位的一串字符，接下來 NFT 書上架時會需要用到，留意最後的數字是 ISCN 版本號碼，於上架時並不需要輸入，只需要輸入前面的內容。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 15.png" alt=""><figcaption><p>成功註冊並記下 ISCN ID</p></figcaption></figure>
+
+***
+
+## 上架銷售 <a href="#nft-book-store" id="nft-book-store"></a>
+
+上架銷售分開兩個步驟：鑄造 NFT 書及上架。類比傳統出版就是將書稿印刷成書和上架販賣。
+
+### 步驟一：鑄造 NFT 書
+
+到 [LikeCoin NFT BookPress](https://likecoin.github.io/nft-book-press/) 網站，點「Mint NFT」，進入網站後按右上角「Connect Wallet」連接 Keplr。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
+
+在 Enter ISCN ID or NFT Class ID 一欄輸入早前在 app.like.co 註冊完成的 ISCN ID 並留意不需要輸入版本號碼，輸入完成後點「Submit」。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>在 Enter ISCN ID or NFT Class ID 一欄輸入 ISCN ID</p></figcaption></figure>
+
+{% hint style="info" %}
+假如你忘記了你的 ISCN ID，可以到 app.like.co 的 [My Works](https://app.like.co/works) 找回它。
+{% endhint %}
+
+系統會為你自動抽出 ISCN 的基本資料。點「By filling required information」分頁繼續。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 18.png" alt=""><figcaption><p>點「By filling required information」分頁</p></figcaption></figure>
+
+如若你的書檔是 epub，系統會自動抽出 AR 封面的連結放在 image URL 一欄。
+
+在 Number of NFT to mint: 一欄輸入需要鑄造多少個 NFT。External URL (optional): 與 URI (optional): 不用填寫。
+
+填寫完成並確認無誤後按「Mint」，Keplr 錢包將彈出視窗數次，點「Approve」簽署。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 19.png" alt=""><figcaption><p>填寫 Number of NFT to mint: 並確認無誤後按「Mint」</p></figcaption></figure>
+
+出現 🎉 Success! 畫面代表經已成功鑄造 NFT，點「Continue to publish NFT Book」可繼續完成上架。點「View your NFT」可以到 Liker Land 查看已鑄造的 NFT 書。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 20.png" alt=""><figcaption><p>點「Continue to publish NFT Book」可繼續完成上架。點「View your NFT」可以到 Liker Land 查看已鑄造的 NFT 書</p></figcaption></figure>
+
+由於現時還未上架販賣，所以會看到「售罄」字樣。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 21.png" alt=""><figcaption><p>還未上架販賣出現「售罄」字樣</p></figcaption></figure>
+
+### 步驟二：上架
+
+回到 NFT BookPress，點「Continue to publish NFT Book」後出現 NFT Book Store Management Page 頁面。
+
+{% hint style="info" %}
+假如你不小心關掉了之前的頁面，你可以在步驟一 Enter ISCN ID or NFT Class ID 一欄輸入你的 NFT Class ID 即可看到「Continue to publish NFT Book」。Class ID 是你的 NFT 書網址後面的一串。舉例你的 NFT 網址是 https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x ，NFT Class ID 就是 likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x 。
+{% endhint %}
+
+在 New NFT Book Listing 自動出現 NFT Class ID 及 Total number of NFT for sale 即是經已鑄造的 NFT 書數量。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 22.png" alt=""><figcaption><p> 自動出現 NFT Class ID 及 Total number of NFT for sale 即是經已鑄造的 NFT 書數量</p></figcaption></figure>
+
+在 Pricing and Availability 輸入以下內容：
+
+* Default display currency when user checkout - 訂價為 USD 或 HKD
+* Price(USD) of this book (Minimal 0.9 or free) - 最低價格為 0.9 美金，又或者輸入 0 代表免費送出
+* Total number of NFT for sale of this edition - 這一個版本的 NFT 書銷售數量。留意 Total number of NFT for sale 指的是經已鑄造的 NFT 書數量，而 Total number of NFT for sale of this edition 則是設定這個特定版本的銷售數量。&#x20;
+* Product name of this edition - 可依照個人喜好為 NFT 設定版本，例如 Standard Edition 標準版、Free 免費版等。點右上角的 Add Edition 可以加入多個不同版本。
+* 在 Product description of this edition 可輸入 NFT 書版本的中英文描述。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 23.png" alt=""><figcaption><p>在 Pricing and Availability 輸入各種內容</p></figcaption></figure>
+
+此外用戶還可以設定是否搭配實體貨品作售賣 ( Physical Goods )，連結 Stripe 帳戶 ( Connect to your own Stripe Account ) 及指定 NFT 書的 PDF 檔案是否能被下載等等 ( Disable file download for PDF )。
+
+完成輸入後點「Submit」。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 24.png" alt=""><figcaption><p>輸入所有內容後點「Submit」</p></figcaption></figure>
+
+在 Current Listing 出現已上架的書藉版本。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 25.png" alt=""><figcaption></figcaption></figure>
+
+回到 Liker Land 查看，NFT 書經已成功上架。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 26.png" alt=""><figcaption></figcaption></figure>
