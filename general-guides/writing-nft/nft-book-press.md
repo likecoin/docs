@@ -1,5 +1,5 @@
 ---
-description: 使用 NFT Book Press 發行 NFT 書
+description: 使用 NFT Book Press 將電子書發行為 NFT
 ---
 
 # 發行 NFT 書
@@ -88,7 +88,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 ### 步驟三：註冊 ISCN 完成
 
-出現 Completed! Here is your ISCN 說明 ISCN 經已成功註冊。ISCN ID 欄位的一串字符，接下來 NFT 書上架時會需要用到，留意最後的數字是 ISCN 版本號碼，於上架時並不需要輸入，只需要輸入前面的內容。
+出現 Completed! Here is your ISCN 說明 ISCN 經已成功註冊。ISCN ID 欄位的一串字符接下來於 NFT 書上架時會需要用到，留意最後的數字是 ISCN 版本號碼，於上架時並不需要輸入，只需要輸入前面的內容。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 15.png" alt=""><figcaption><p>成功註冊並記下 ISCN ID</p></figcaption></figure>
 
@@ -98,7 +98,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 上架銷售分開兩個步驟：鑄造 NFT 書及上架。類比傳統出版就是將書稿印刷成書和上架販賣。
 
-### 步驟一：鑄造 NFT 書
+### 步驟一：鑄造 NFT 書 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
 到 [LikeCoin NFT BookPress](https://likecoin.github.io/nft-book-press/) 網站，點「Mint NFT」，進入網站後按右上角「Connect Wallet」連接 Keplr。
 
@@ -132,12 +132,12 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 21.png" alt=""><figcaption><p>還未上架販賣出現「售罄」字樣</p></figcaption></figure>
 
-### 步驟二：上架
+### 步驟二：上架 <a href="#publish-nft-book" id="publish-nft-book"></a>
 
 回到 NFT BookPress，點「Continue to publish NFT Book」後出現 NFT Book Store Management Page 頁面。
 
 {% hint style="info" %}
-假如你不小心關掉了之前的頁面，你可以在步驟一 Enter ISCN ID or NFT Class ID 一欄輸入你的 NFT Class ID 即可看到「Continue to publish NFT Book」。Class ID 是你的 NFT 書網址後面的一串。舉例你的 NFT 網址是 https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x ，NFT Class ID 就是 likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x 。
+假如你不小心關掉了之前的頁面，你可以在[步驟一](nft-book-press.md#mint-nft-book) Enter ISCN ID or NFT Class ID 一欄輸入你的 NFT Class ID 即可看到「Continue to publish NFT Book」。Class ID 是你的 NFT 書網址後面的一串。舉例你的 NFT 網址是 https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x ，NFT Class ID 就是 likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x 。
 {% endhint %}
 
 在 New NFT Book Listing 自動出現 NFT Class ID 及 Total number of NFT for sale 即是經已鑄造的 NFT 書數量。
@@ -154,16 +154,25 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23.png" alt=""><figcaption><p>在 Pricing and Availability 輸入各種內容</p></figcaption></figure>
 
-此外用戶還可以設定是否搭配實體貨品作售賣 ( Physical Goods )，連結 Stripe 帳戶 ( Connect to your own Stripe Account ) 及指定 NFT 書的 PDF 檔案是否能被下載等等 ( Disable file download for PDF )。
-
-完成輸入後點「Submit」。
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 24.png" alt=""><figcaption><p>輸入所有內容後點「Submit」</p></figcaption></figure>
+此外用戶還可以設定是否搭配實體貨品作售賣 ( Physical Goods )，連結 Stripe 帳戶 ( Connect to your own Stripe Account ) 及指定 NFT 書的 PDF 檔案是否能被下載等等 ( Disable file download for PDF )。完成輸入後點「Submit」。
 
 在 Current Listing 出現已上架的書藉版本。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 24.png" alt=""><figcaption><p>在 Current Listing 出現已上架的書藉版本</p></figcaption></figure>
 
 回到 Liker Land 查看，NFT 書經已成功上架。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 25.png" alt=""><figcaption><p>NFT 書經已成功上架</p></figcaption></figure>
+
+***
+
+### 匯入 epub 檔案到各家閱讀器
+
+除了可使用 USB 方式上載 epub 檔案到閱讀器。不同廠牌亦支援以網絡介面上載，更多詳情可參看：
+
+* Readmoo - [桌機](https://cloudhey.medium.com/readmoo%E8%AE%80%E5%A2%A8%E9%9B%BB%E5%AD%90%E6%9B%B8%E9%80%B2%E9%9A%8E%E4%BD%BF%E7%94%A8%E7%B4%80%E9%8C%84-ebf534ab6408)、[iOS](https://news.readmoo.com/2023/05/24/new-new-update-133/)、[Android](https://news.readmoo.com/2023/04/07/new-new-update-128/)
+* Kobo - [使用 Dropbox 將書籍新增至您的 eReader](https://help.kobo.com/hc/zh-tw/articles/360033830114-%E4%BD%BF%E7%94%A8-Dropbox-%E5%B0%87%E6%9B%B8%E7%B1%8D%E6%96%B0%E5%A2%9E%E8%87%B3%E6%82%A8%E7%9A%84-eReader)
+* HyRead - [傳輸檔案&放書](https://www.youtube.com/watch?v=nQFnyYgDCCE)
+* Pubook - [如何使用 Pubook 閱讀自己擁有的電子書檔案？](https://support.pubu.tw/hc/zh-tw/articles/12485186892185-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-Pubook-%E9%96%B1%E8%AE%80%E8%87%AA%E5%B7%B1%E6%93%81%E6%9C%89%E7%9A%84%E9%9B%BB%E5%AD%90%E6%9B%B8%E6%AA%94%E6%A1%88-)
+* Kindle - [Send to Kindle](https://www.amazon.com/-/zh\_TW/gp/sendtokindle)
+* Boox - [不用傳輸線 BOOX 如何分享文件？](https://boox.com.tw/?p=1052)
