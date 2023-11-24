@@ -84,7 +84,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署後靜侯一會兒。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 12.png" alt=""><figcaption><p>點「Confirm」確認</p></figcaption></figure>
 
-如有需要可填寫 URL 與 ISBN 的欄位；Type 顯示為 Book；License 可以選擇合適的 License，預設是版權所有。確認一切無誤後點「Register」。
+如有需要可填寫 URL 與 ISBN 的欄位；Type 顯示為 Book；License 可以選擇合適的版權宣告，預設是版權所有 ( Copyright. All rights reserved. )。 確認一切無誤後點「Register」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 13.png" alt=""><figcaption><p>確認無誤後點「Register」</p></figcaption></figure>
 
@@ -110,7 +110,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
 
-在 Enter ISCN ID or NFT Class ID 一欄輸入早前在 app.like.co 註冊完成的 ISCN ID 並留意不需要輸入版本號碼，輸入完成後點「Submit」。
+在 Enter ISCN ID or NFT Class ID 一欄輸入早前在 app.like.co 註冊完成的 ISCN ID 並留意不需要輸入 ISCN 版本號碼，輸入完成後點「Submit」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>在 Enter ISCN ID or NFT Class ID 一欄輸入 ISCN ID</p></figcaption></figure>
 
