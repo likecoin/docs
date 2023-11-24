@@ -115,8 +115,7 @@
     * [Liker.Social](general-guides/writing-nft/nft-portal/liker-social.md)
     * [illustBuy](general-guides/writing-nft/nft-portal/illustbuy.md)
     * [Publish NFT with ISCN ID](general-guides/writing-nft/nft-portal/iscn-id.md)
-  * [Mint NFT Book (beta)](general-guides/writing-nft/mint-nft-book/README.md)
-    * [List NFT Book](general-guides/writing-nft/mint-nft-book/list-nft-book.md)
+  * [Mint NFT Book](general-guides/writing-nft/nft-book-press.md)
   * [Transfer Writing NFT](general-guides/writing-nft/transfer-writing-nft.md)
   * [BookForest](general-guides/writing-nft/bookforest.io.md)
 * [Decentralized Publishing](general-guides/decentralized-publishing/README.md)
@@ -269,6 +268,8 @@
 
 * [Archive](archive/archive/README.md)
   * [Writing NFT](archive/archive/writing-nft/README.md)
+    * [Mint NFT Book (beta)](archive/archive/writing-nft/mint-nft-book/README.md)
+      * [List NFT Book](archive/archive/writing-nft/mint-nft-book/list-nft-book.md)
     * [ISCN Wallet](archive/archive/writing-nft/iscn-wallet.md)
   * [Liker Land](archive/archive/liker-land/README.md)
     * [My Content Jockey](archive/archive/liker-land/today-headline.md)

@@ -5,7 +5,7 @@ description: Publishing eBook as an NFT
 # Mint NFT Book (beta)
 
 {% hint style="info" %}
-### 📣Minting Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../../faucet.md) for testing.
+### 📣Minting Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../../../../general-guides/faucet.md) for testing.
 {% endhint %}
 
 {% hint style="info" %}
@@ -61,7 +61,7 @@ Get a few sample data files in JSON format under the directory [https://github.c
 | contentFingerprint            | decentralized storage hash, e.g.: "ipfs://QmVsa6WuHLiZtyfwQrFjgxwLvVqMPsvvvusTdCKmTyqkca", "ar://e-bMr7c3O\_sm20zb7X5Vu870Q8b-Pc7eIxmjYXgJmsI”                                                                        |
 | recordNotes                   | reserved                                                                                                                                                                                                              |
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **nft\_class.json**
 
@@ -98,18 +98,18 @@ Get a few sample data files in JSON format under the directory [https://github.c
 
 #### Sample files
 
-{% file src="../../../.gitbook/assets/iscn.json" %}
+{% file src="../../../../.gitbook/assets/iscn.json" %}
 
-{% file src="../../../.gitbook/assets/nft_class (1).json" %}
+{% file src="../../../../.gitbook/assets/nft_class (1).json" %}
 
-{% file src="../../../.gitbook/assets/nfts.csv" %}
+{% file src="../../../../.gitbook/assets/nfts.csv" %}
 
-{% file src="../../../.gitbook/assets/nfts_default.json" %}
+{% file src="../../../../.gitbook/assets/nfts_default.json" %}
 
 For technical details of NFT book, please refer to the below guide:
 
-{% content-ref url="../../../developer/likenft/writing-nft-1.md" %}
-[writing-nft-1.md](../../../developer/likenft/writing-nft-1.md)
+{% content-ref url="../../../../developer/likenft/writing-nft-1.md" %}
+[writing-nft-1.md](../../../../developer/likenft/writing-nft-1.md)
 {% endcontent-ref %}
 
 ***
@@ -118,39 +118,39 @@ For technical details of NFT book, please refer to the below guide:
 
 ### Step 1: Upload iscn.json and Register ISCN
 
-Please log in to your [Keplr](../../wallet/keplr/) and select "[Mint NFT](https://likecoin.github.io/nft-book-press/mint-nft)" on [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/). Then click "Connect" in the upper right corner to connect to Keplr.
+Please log in to your [Keplr](../../../../general-guides/wallet/keplr/) and select "[Mint NFT](https://likecoin.github.io/nft-book-press/mint-nft)" on [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/). Then click "Connect" in the upper right corner to connect to Keplr.
 
 On the Mint LikeCoin NFT/NFT Book page, select the prepared iscn.json file and click "Choose file" to upload it. After that, click "Create". Keplr will display a pop-up window. The system will register the ISCN based on the provided data. Please click "Approve" to sign and register.
 
-<figure><img src="../../../.gitbook/assets/Mint NFT Book 1.png" alt=""><figcaption><p>Click "Choose file" to upload iscn.json and then click "Create"</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Mint NFT Book 1.png" alt=""><figcaption><p>Click "Choose file" to upload iscn.json and then click "Create"</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Mint NFT Book 2.png" alt=""><figcaption><p>Click "Approve" on Keplr to sign and register</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Mint NFT Book 2.png" alt=""><figcaption><p>Click "Approve" on Keplr to sign and register</p></figcaption></figure>
 
 ### Step 2: Create NFT Class
 
 After successfully registering the ISCN, create an NFT Class based on it. Unless you want to set a maximum supply limit, you don't need to fill in the "Max number of supply for the NFT Class (optional)" field. Click "Choose file" to upload the prepared nft\_class.json file. Then click "Create" and sign twice with Keplr by clicking "Approve" to generate the NFT Class.
 
-<figure><img src="../../../.gitbook/assets/Mint NFT Book 3.png" alt=""><figcaption><p>Click "Choose file" to upload nft_class.json and then click "Create"</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Mint NFT Book 3.png" alt=""><figcaption><p>Click "Choose file" to upload nft_class.json and then click "Create"</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Mint NFT Book 4.png" alt=""><figcaption><p>Click "Approve" twice on Keplr to generate the NFT Class</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Mint NFT Book 4.png" alt=""><figcaption><p>Click "Approve" twice on Keplr to generate the NFT Class</p></figcaption></figure>
 
 ### Step 3: Mint the NFT Book
 
 You need to upload two files: nfts\_default.json and nfts.csv to mint the NFT Book. Please note that the CSV file specifies the actual number of NFTs you want to publish, and you need to enter the same quantity in the "Number of NFT to mint" field. Then click "Create" and sign with Keplr by clicking "Approve" to confirm.
 
-<figure><img src="../../../.gitbook/assets/Mint NFT Book 5.png" alt=""><figcaption><p>Click "Choose file" to upload nfts_default.json and nfts.csv, enter the Number of NFT to mint, and then click "Approve" on Keplr to sign and confirm</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Mint NFT Book 5.png" alt=""><figcaption><p>Click "Choose file" to upload nfts_default.json and nfts.csv, enter the Number of NFT to mint, and then click "Approve" on Keplr to sign and confirm</p></figcaption></figure>
 
 ### Step 4: Successfully mint the NFT Book
 
 A pop-up window will appear, and you can save the result file. Then return to the page where "Success!" is displayed, indicating NFT Book minted successfully. Click "View your NFT" to check the NFT book in Liker Land.
 
-<figure><img src="../../../.gitbook/assets/Mint NFT Book 6.png" alt=""><figcaption><p>save the resSave the result file on the pop-up windowsult file</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Mint NFT Book 6.png" alt=""><figcaption><p>save the resSave the result file on the pop-up windowsult file</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Mint NFT Book 7.png" alt=""><figcaption><p>Click "View your NFT"</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Mint NFT Book 7.png" alt=""><figcaption><p>Click "View your NFT"</p></figcaption></figure>
 
 Since you have only completed minting and have not made them available for sale, the book quantity will be shown as "Sold out." The next step is to list the NFT books for sale on Liker Land.
 
-<figure><img src="../../../.gitbook/assets/Mint NFT Book 9.png" alt=""><figcaption><p>View published NFT books at Liker Land</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Mint NFT Book 9.png" alt=""><figcaption><p>View published NFT books at Liker Land</p></figcaption></figure>
 
 ***
 
@@ -166,8 +166,8 @@ You can always trace back the information of the old ISCN versions, but Liker La
 
 Check out the tools to update ISCN below:
 
-{% content-ref url="../../decentralized-publishing/iscn-browser.md" %}
-[iscn-browser.md](../../decentralized-publishing/iscn-browser.md)
+{% content-ref url="../../../../general-guides/decentralized-publishing/iscn-browser.md" %}
+[iscn-browser.md](../../../../general-guides/decentralized-publishing/iscn-browser.md)
 {% endcontent-ref %}
 
 Moreover, please find the ISCN browser tool on testnet [here](https://likecoin-iscn-browser-testnet.netlify.app/).
