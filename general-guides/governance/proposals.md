@@ -6,6 +6,41 @@ description: LikeCoin DAO 有過什麼議案？
 
 ![歷史議案](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
 
+## 議案 #65 LikeCoin v4.1.1 ChungKing+ 升級
+
+* **提案：**Civic Liker 讚賞公民
+* **類型**：軟件升級議案 ( Software Upgrade Proposal )
+* **日期**：2023.11.22 提案，2023.11.29 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/77](https://bigdipper.live/likecoin/proposals/77)
+
+## 議案 #76 創作基金
+
+* **提案：**Edmond
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2023.11.14 提案，2023.11.22 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/76](https://bigdipper.live/likecoin/proposals/76)
+
+## 議案 #75 固定通脹率於 7%
+
+* **提案：**leafwind.tw 🍃
+* **類型**：參數修訂議案 ( Parameter Change Proposal )
+* **日期**：2023.11.02 提案，2023.11.14 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/75](https://bigdipper.live/likecoin/proposals/75)
+
+## 議案 #74 1000x 手續費
+
+* **提案：**leafwind.tw 🍃
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2023.11.02 提案，2023.11.14 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/74](https://bigdipper.live/likecoin/proposals/74)
+
+## 議案 #73 於 Osmosis 創建新的 LIKE/USDC 池
+
+* **提案：**Oldcat
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2023.10.11 提案，2023.10.19 通過
+* **詳情**：[https://bigdipper.live/likecoin/proposals/73](https://bigdipper.live/likecoin/proposals/73)
+
 ## 議案 #69 更新通脹參數
 
 * **提案：**leafwind.tw 🍃
