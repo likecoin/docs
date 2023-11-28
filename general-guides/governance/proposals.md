@@ -6,6 +6,41 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![Proposals](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
 
+## Proposal #77 LikeCoin v4.1.1 ChungKing+ Upgrade
+
+* Proposer: Civic Liker 讚賞公民
+* Proposal Type: Software Upgrade Proposal
+* Date: Submit on 2023.11.22, Passed on 2023.11.29
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/77](https://bigdipper.live/likecoin/proposals/77)
+
+## Proposal #76 Community Pool Spend - Creators Fund
+
+* Proposer: Edmond
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2023.11.14, Passed on 2023.11.22
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/76](https://bigdipper.live/likecoin/proposals/76)
+
+## Proposal #75 \[Parameter Change] Fix Inflation rate to 7%.
+
+* Proposer: leafwind.tw 🍃
+* Proposal Type: Parameter Change Proposal
+* Date: Submit on 2023.11.02, Passed on 2023.11.14
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/75](https://bigdipper.live/likecoin/proposals/75)
+
+## Proposal #74 \[Signaling Proposal] 1000x tx fee.
+
+* Proposer: leafwind.tw 🍃
+* Proposal Type: Text Proposal
+* Date: Submit on 2023.11.02, Passed on 2023.11.14
+* Details: [https://bigdipper.live/likecoin/proposals/74](https://bigdipper.live/likecoin/proposals/74)
+
+## Proposal #73 Creation of a new LIKE/USDC pool in Osmosis
+
+* Proposer: Oldcat
+* Proposal Type: Text Proposal
+* Date: Submit on 2023.10.11, Passed on 2023.10.19
+* Details: [https://bigdipper.live/likecoin/proposals/73](https://bigdipper.live/likecoin/proposals/73)
+
 ## Proposal #69 Update Inflation parameters.
 
 * Proposer: leafwind.tw 🍃
