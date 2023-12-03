@@ -34,7 +34,7 @@ Use the [Follow Creators](collect-writing-nft/follow-creators.md) function.
 
 ### How to transfer NFT?
 
-[Transfer](transfer-writing-nft.md) can be done at the NFT page, just enter the wallet address of the receiver to transfer.
+[Transfer](transfer-writing-nft/) can be done at the NFT page, just enter the wallet address of the receiver to transfer.
 
 ### How to list Writing NFT for sale?
 

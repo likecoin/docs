@@ -109,7 +109,7 @@ Once done, click "Next".
 {% hint style="info" %}
 Creators can also set their Writing NFT as "not for sale" by filling in the "Number of NFTs to premint" equal to the "Number of NFTs reserved for giveaways." This means that the creator reserves all NFTs for gifting purposes, achieving the effect of setting the NFT as "not for sale," as the issued NFTs are all reserved by the creator and will not circulate in the market. Writing NFTs reserved by the author can be given away for free or sold on the [NFT Marketplace](../collect-writing-nft/nft-marketplace.md).
 
-The difference between "Reserved NFT" and "Free Mint" lies in the fact that all minted NFTs are retained and [distributed by the authors](../transfer-writing-nft.md) themselves in the former, whereas in the latter, collectors mint them on their own and the system automatically sends them out.
+The difference between "Reserved NFT" and "Free Mint" lies in the fact that all minted NFTs are retained and [distributed by the authors](../transfer-writing-nft/) themselves in the former, whereas in the latter, collectors mint them on their own and the system automatically sends them out.
 {% endhint %}
 
 ## Step 4/4: Sign

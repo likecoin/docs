@@ -34,6 +34,6 @@ Find specific NFTs using the [NFT Class ID](nft-details.md#nft-class-id).
 
 ### [**Tools**](https://likecoin.github.io/likecoin-nft-marketplace/tools)
 
-[**Send NFTs**](https://likecoin.github.io/likecoin-nft-marketplace/tools/send) for easy mass distribution, see the guide for [Batch send NFT to supporters](../transfer-writing-nft.md#batch-send-nft-to-supporters).
+[**Send NFTs**](https://likecoin.github.io/likecoin-nft-marketplace/tools/send) for easy mass distribution, see the guide for [Batch send NFT to supporters](../transfer-writing-nft/#batch-send-nft-to-supporters).
 
 The current NFT Marketplace interface is a minimal viable product designed to achieve basic functions without any UX/UI design. Feel free to try it out and provide your feedback on the [LikeCoin Discord](https://discord.gg/likecoin).
