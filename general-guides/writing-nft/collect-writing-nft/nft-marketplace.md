@@ -42,7 +42,7 @@ LikeCoin NFT Marketplace 功能包括：
 
 ### [**Tools**](https://likecoin.github.io/likecoin-nft-marketplace/tools)
 
-[Send NFTs](https://likecoin.github.io/likecoin-nft-marketplace/tools/send) 方便群發 NFT，詳見[群發 NFT 紀念品給支持者](../transfer-writing-nft.md#batch-send-nft-to-supporters)。
+[Send NFTs](https://likecoin.github.io/likecoin-nft-marketplace/tools/send) 方便群發 NFT，詳見[群發 NFT 紀念品給支持者](../transfer-writing-nft/#batch-send-nft-to-supporters)。
 
 現時的二級市場工具介面是最簡可行產品 ( Minimal Viable Product )，先求把基本功能實現卻未有任何 UX/UI 的設計。歡迎試用並到 [LikeCoin Discord](https://discord.gg/likecoin) 回饋你的想法。
 

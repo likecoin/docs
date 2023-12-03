@@ -34,7 +34,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 如何轉贈 NFT？
 
-可在 NFT 頁面[輸入對方的錢包地址轉贈](transfer-writing-nft.md)。
+可在 NFT 頁面[輸入對方的錢包地址轉贈](transfer-writing-nft/)。
 
 ### 如何發售 Writing NFT？
 

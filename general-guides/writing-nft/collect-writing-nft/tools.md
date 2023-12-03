@@ -2,7 +2,7 @@
 description: NFT 好幫手
 ---
 
-# 其他工具
+# 其他 NFT 工具
 
 ## LikeCoin NFT Dashboard
 
@@ -30,7 +30,7 @@ description: NFT 好幫手
 
 ### [**Send NFT**](https://likecoin.github.io/iscn-nft-tools/send-nft)
 
-傳送 NFT，可提供 NFT CSV 檔案進行群發，詳見[群發 NFT 紀念品給支持者](../transfer-writing-nft.md#batch-send-nft-to-supporters)。
+傳送 NFT，可提供 NFT CSV 檔案進行群發，詳見[群發 NFT 紀念品給支持者](../transfer-writing-nft/#batch-send-nft-to-supporters)。
 
 <figure><img src="../../../.gitbook/assets/LikeCoin ISCNNFT Tools 2.png" alt=""><figcaption><p>Send NFT</p></figcaption></figure>
 

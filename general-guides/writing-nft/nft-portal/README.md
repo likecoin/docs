@@ -54,8 +54,8 @@ description: 把任何網頁文章內容出版成 NFT
 
 出版 Writing NFT 後，可將作品發送到個別錢包，又或者將 NFT 紀念品群發到多個錢包。
 
-{% content-ref url="../transfer-writing-nft.md" %}
-[transfer-writing-nft.md](../transfer-writing-nft.md)
+{% content-ref url="../transfer-writing-nft/" %}
+[transfer-writing-nft](../transfer-writing-nft/)
 {% endcontent-ref %}
 
 ***
