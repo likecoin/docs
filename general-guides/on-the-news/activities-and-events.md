@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2023" %}
+### 12/09 WeMedia Summit 2023
+
+[地區報與自媒體的分散式出版：載體、通路、歸檔](https://www.facebook.com/culturemediahk/posts/pfbid02qShFwHcuf6jLeSzFrBciJcWzx4RiCw9gZRsJcCnGUx7AdHndaqz5rhP2qN486bunl)
+
 ### 12/09 Funding the Commons
 
 [Decentralizing the Narrative: Web3's Role in Democratizing Media](https://fundingthecommons.io/taipei-2023)
