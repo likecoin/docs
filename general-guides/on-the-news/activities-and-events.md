@@ -2,6 +2,14 @@
 
 {% tabs %}
 {% tab title="2023" %}
+### 12/09 Funding the Commons
+
+[Decentralizing the Narrative: Web3's Role in Democratizing Media](https://fundingthecommons.io/taipei-2023)
+
+### 12/01 NFT Taipei
+
+[Panel: How to Create Digital Democracy Through Blockchain?](https://twitter.com/nfttpe/status/1730227662633734625)
+
 ### 11/18 WordCamp Hong Kong 2023
 
 [5年後還是新手 – WordPress Plugin開發大冒險](https://hongkong.wordcamp.org/2023/session/5%E5%B9%B4%E5%BE%8C%E9%82%84%E6%98%AF%E6%96%B0%E6%89%8B-wordpress-plugin%E9%96%8B%E7%99%BC%E5%A4%A7%E5%86%92%E9%9A%AA/)
