@@ -120,7 +120,7 @@ For latest genesis url and seed node, we host the latest info on Github: [Mainne
 export MONIKER='<My Validator>'
 export GENESIS_URL='https://raw.githubusercontent.com/likecoin/mainnet/master/genesis.json'
 export LIKED_SEED_NODES='913bd0f4bea4ef512ffba39ab90eae84c1420862@34.82.131.35:26656,e44a2165ac573f84151671b092aa4936ac305e2a@nnkken.dev:26656'
-export LIKED_VERSION='4.0.0'
+export LIKED_VERSION='4.1.1'
 cd ~/likecoin-chain
 make -C deploy setup-node
 ```
@@ -131,12 +131,12 @@ Testnet Info of can find here: [Public Testnet](https://github.com/likecoin/test
 export MONIKER='<My Validator>'
 export GENESIS_URL='https://raw.githubusercontent.com/likecoin/testnets/master/likecoin-public-testnet-5/genesis.json'
 export LIKED_SEED_NODES='5d798391c8ea63a7a75e79479dcc9733ae7c5c1d@65.108.111.177:26656,49976c3bd43da9271f226cbedf02d4b6b8fc880c@35.233.143.230:26656'
-export LIKED_VERSION='4.0.0'
+export LIKED_VERSION='4.1.1'
 cd ~/likecoin-chain
 make -C deploy setup-node
 ```
 
-If you decided not to using state sync as describe below, you may need to change the `LIKED_VERSION=4.0.0`. 4.0.0 is the version we start adpoting cosmovisor, it should upgrade itself to newer version during sync. There is still some manual upgrade need due to patch or bugs, please refer to [syncing-from-genesis.md](syncing-from-genesis.md "mention").
+If you decided not to using state sync as describe below, you may need to change the `LIKED_VERSION=4.1.1`. 4.1.1 is the version we start adpoting cosmovisor, it should upgrade itself to newer version during sync. There is still some manual upgrade need due to patch or bugs, please refer to [syncing-from-genesis.md](syncing-from-genesis.md "mention").
 
 ### Import existing validator files
 
@@ -436,7 +436,7 @@ cp docker-compose.yml.template docker-compose.yml
 Edit `.env` to target new docker image tag:
 
 ```shell
-LIKECOIN_DOCKER_IMAGE="likecoin/likecoin-chain:v4.0.0"
+LIKECOIN_DOCKER_IMAGE="likecoin/likecoin-chain:v4.1.1"
 ```
 
 Create cosmovisor folders structure:

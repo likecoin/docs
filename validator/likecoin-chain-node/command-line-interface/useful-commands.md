@@ -170,6 +170,14 @@ Proposal content can be supplied either by command arguments or a file.
 liked tx gov submit-proposal [OPTIONS]
 ```
 
+Or for legacy proposals
+
+```
+liked tx gov submit-legacy-proposal [OPTIONS]
+```
+
+
+
 ### Transaction: Deposit
 
 Deposit into an open proposal for voting.

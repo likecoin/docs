@@ -17,6 +17,8 @@ Genesis: https://raw.githubusercontent.com/likecoin/mainnet/master/genesis.json
   * The upgrade should be automated by cosmovisor at height 4,810,000
 * v4.0.0
   * The upgrade should be automated by cosmovisor at height 9,419,200
+* v4.1.1
+  * The upgrade should be automated by cosmovisor at height 12,102,100
 
 #### Testnet
 
@@ -32,3 +34,5 @@ Genesis: https://raw.githubusercontent.com/likecoin/testnets/master/likecoin-pub
   * You will have to replace the the binary with a hotfix: [https://github.com/oursky/likecoin-chain/releases/tag/v3.0.0-rc1-hotfix-testnet-handler](https://github.com/oursky/likecoin-chain/releases/tag/v3.0.0-rc1-hotfix-testnet-handler) . The hotfix match the proposal parameter.
 * v4.0.0
   * The upgrade should be automated by cosmovisor at height 6,041,650
+* v4.1.1
+  * The upgrade should be automated by cosmovisor at height 8,546,600
