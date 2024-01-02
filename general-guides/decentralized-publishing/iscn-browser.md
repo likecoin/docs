@@ -1,5 +1,5 @@
 ---
-description: 查閱 ISCN 記錄及修改元資料
+description: 查閱 ISCN 記錄及修改元數據
 ---
 
 # ISCN Browser
@@ -36,7 +36,7 @@ Wancat 製作 [ISCN Browser](https://lancatlin.github.io/iscn-browser/) 方便�
 
 <figure><img src="../../.gitbook/assets/Wancat ISCN Wallet 07.png" alt=""><figcaption><p>修改或轉移 ISCN</p></figcaption></figure>
 
-點「Edit」修改 ISCN 資料包括內容元資料 ( ContentMetadata )、持分者 ( Stakeholders ) 及內容指紋 ( ContentFingerprints ) 等，輸入新資料後點「Update」即可。
+點「Edit」修改 ISCN 資料包括內容元數據 ( ContentMetadata )、持分者 ( Stakeholders ) 及內容指紋 ( ContentFingerprints ) 等，輸入新資料後點「Update」即可。
 
 <figure><img src="../../.gitbook/assets/Wancat ISCN Wallet 08.png" alt=""><figcaption><p>修改 ISCN 資料</p></figcaption></figure>
 

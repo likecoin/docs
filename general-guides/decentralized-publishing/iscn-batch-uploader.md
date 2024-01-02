@@ -33,7 +33,7 @@ description: 如何一次過為大量資料註冊 ISCN，含少量技術程序
 
 像《唐詩三百首》這種較短的內容，把內文全部以 text 欄位寫進 LikeCoin chain 成本也不高；但為了演示實際用途還是把每篇唐詩都另儲成一個 txt 檔案，批量上傳到 pinata 這 IPFS pinning service 平台，再把回傳的 hash 填在每筆唐詩的對應記錄中。這樣註冊的 ISCN 便會有「內容指紋」資料。又，iscn-batch-uploader 目前暫未支援 Arweave 連結的欄位。
 
-而上傳資料到 IPFS，再獲得 ipfsHash 作內容指紋這工序暫時亦未能批量處理。遺憾地 iscn-batch-uploader 並未能解決這問題。若不懂寫代碼，便恐怕要逐個逐個檔案上傳再抄下 hash，這痛苦的手動程序絕對不適合用作處理大量資料。非技術朋友建議別急著處理內容指紋這欄位，先把內容元資料 ( metadata ) 註冊並拿到 ISCN 編號，因為 _iscn-batch-uploader 工具支援**更新**現有 ISCN 記錄_。日後待資料齊全了，再一口氣把內容指紋更新上區塊鏈不遲。
+而上傳資料到 IPFS，再獲得 ipfsHash 作內容指紋這工序暫時亦未能批量處理。遺憾地 iscn-batch-uploader 並未能解決這問題。若不懂寫代碼，便恐怕要逐個逐個檔案上傳再抄下 hash，這痛苦的手動程序絕對不適合用作處理大量資料。非技術朋友建議別急著處理內容指紋這欄位，先把內容元數據 ( metadata ) 註冊並拿到 ISCN 編號，因為 _iscn-batch-uploader 工具支援**更新**現有 ISCN 記錄_。日後待資料齊全了，再一口氣把內容指紋更新上區塊鏈不遲。
 
 若是懂技術的朋友，可嘗試使用[整合 pinata 的 python 小工具](https://github.com/edmondyu/pinata-python-util)。歡迎隨便使用，或提交修改建議。
 

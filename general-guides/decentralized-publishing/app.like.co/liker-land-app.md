@@ -42,7 +42,7 @@ description: 使用 Liker Land app 註冊 ISCN
 
 <figure><img src="../../../.gitbook/assets/ISCN 3.png" alt=""><figcaption><p>點「Select a file」上傳檔案或「Skip Upload」不上傳檔案</p></figcaption></figure>
 
-上載完成後，可點「View File Info」查看檔案的屬性和狀態，例如相片的 EXIF 元資料包括拍照時的位置及相機配置等。確認無誤後再點「Start Upload」。
+上載完成後，可點「View File Info」查看檔案的屬性和狀態，例如相片的 EXIF 元數據包括拍照時的位置及相機配置等。確認無誤後再點「Start Upload」。
 
 <figure><img src="../../../.gitbook/assets/ISCN 5.png" alt=""><figcaption><p>點「View File Info」查看檔案的屬性和狀態再點再點「Start Upload」</p></figcaption></figure>
 
@@ -54,9 +54,9 @@ description: 使用 Liker Land app 註冊 ISCN
 
 <figure><img src="../../../.gitbook/assets/ISCN 5.5.png" alt=""><figcaption><p>輸入已有的內容指紋 ( content fingerprint )</p></figcaption></figure>
 
-## 步驟三：填寫元資料
+## 步驟三：填寫元數據
 
-填寫關於此項內容的元資料：
+填寫關於此項內容的元數據：
 
 * Register your asset in Numbers Protocol－勾選它可將內容一拼傳送到 Numbers Protocol（不適用於不需上傳內容的作品）
 * ISCN Title－ISCN 標題
@@ -71,7 +71,7 @@ description: 使用 Liker Land app 註冊 ISCN
 * URL－該內容的網址
 * License－內容授權，不妨參考共享創意的授權條款
 
-<figure><img src="../../../.gitbook/assets/ISCN 6.png" alt=""><figcaption><p>填寫元資料</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN 6.png" alt=""><figcaption><p>填寫元數據</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/ISCN 7.png" alt=""><figcaption><p>填寫創作者資料</p></figcaption></figure>
 
@@ -103,6 +103,6 @@ description: 使用 Liker Land app 註冊 ISCN
 
 <figure><img src="../../../.gitbook/assets/ISCN 15.png" alt=""><figcaption><p>點「My Publishing」查看所有 ISCN</p></figcaption></figure>
 
-點項目出現已註冊的元資料內容明細。
+點項目出現已註冊的元數據內容明細。
 
 <figure><img src="../../../.gitbook/assets/ISCN 16.png" alt=""><figcaption><p>ISCN 詳盡資料</p></figcaption></figure>

@@ -129,7 +129,7 @@ Cosmostation app 將彈出 Request Transaction Sign 視窗，點「Confirm」。
 <figure><img src="../../../.gitbook/assets/NFT Portal 6-3.png" alt=""><figcaption><p>查看已發行的 Writing NFT</p></figcaption></figure>
 
 {% hint style="info" %}
-留意如果將網址直接以這個方式註冊 ISCN 並出版 Writing NFT，系統會自動抓取文章標題及內容作為元資料。
+留意如果將網址直接以這個方式註冊 ISCN 並出版 Writing NFT，系統會自動抓取文章標題及內容作為元數據。
 
-**如希望作品擁有詳盡元資料，請先** [**註冊 ISCN**](../../decentralized-publishing/app.like.co/) **再以** [**ISCN ID 出版 Writing NFT**](iscn-id.md)**。**&#x20;
+**如希望作品擁有詳盡元數據，請先** [**註冊 ISCN**](../../decentralized-publishing/app.like.co/) **再以** [**ISCN ID 出版 Writing NFT**](iscn-id.md)**。**&#x20;
 {% endhint %}

@@ -36,9 +36,9 @@ description: 將電子書發行為 NFT
 
 圖書資料頁是列出書籍資料的單一頁面，例如作者及出版商的資料、書籍介紹及推薦等。它可以是任何類型的網頁。
 
-### 準備元資料
+### 準備元數據
 
-在出版 NFT 書之前，最好令你的書籍元資料 ( metadata ) 盡可能完整。但是如有必要，你也通過更新書的 ISCN 的版本不斷更新元資料。書籍元資料包括但不限於作者姓名、書籍名稱、持份者及其錢包地址、書籍描述、使用條款等。
+在出版 NFT 書之前，最好令你的書籍元數據 ( metadata ) 盡可能完整。但是如有必要，你也通過更新書的 ISCN 的版本不斷更新元數據。書籍元數據包括但不限於作者姓名、書籍名稱、持份者及其錢包地址、書籍描述、使用條款等。
 
 ### 準備資料文檔  <a href="#preparing-the-data-files" id="preparing-the-data-files"></a>
 
@@ -84,9 +84,9 @@ description: 將電子書發行為 NFT
 | 欄位                       | 內容                                                                                                                                                       |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | uri                      | <p>可選，預設值設定為空。<br></p><p>高級用法：API 生成圖片的 URI 並使用它作為 NFT 類別的 og 圖片，展示於 liker.land 的 NFT 展示櫃/儀表板及類別資訊中，如果 nfts.csv 與nfts_default.json 設定不正確，也將顯示於詳細資料中。</p> |
-| metadata → name          | 預設的 NFT 名稱，如該欄位未在 nfts.csv 元資料中被指定。                                                                                                                      |
-| metadata → description   | 預設的 NFT 描述，如該欄位未在 nfts.csv 元資料中被指定。                                                                                                                      |
-| metadata → image         | 如果圖片內容在 nfts.csv 中不可用，圖片將首先由這個 URI 提供，其次由元資料 → 圖片欄位提供。                                                                                                   |
+| metadata → name          | 預設的 NFT 名稱，如該欄位未在 nfts.csv 元數據中被指定。                                                                                                                      |
+| metadata → description   | 預設的 NFT 描述，如該欄位未在 nfts.csv 元數據中被指定。                                                                                                                      |
+| metadata → image         | 如果圖片內容在 nfts.csv 中不可用，圖片將首先由這個 URI 提供，其次由元數據 → 圖片欄位提供。                                                                                                   |
 | metadata → external\_url | <p>NFT 詳細資料頁面中「瀏覽內容」按鍵的鏈接，位於 NFT 主圖下方。</p><p>iscn.json 中的 url 欄位優先。</p>                                                                                  |
 
 #### nfts.csv
@@ -96,7 +96,7 @@ description: 將電子書發行為 NFT
 | nftId    | 特定 NFT class ID 下的獨有的 NFT ID。如果並未指定，系統將生成一個隨機 ID。 格式要求：https://docs.like.co/developer/likenft/likecoin-nft-module-spec#mintnft。                          |
 | uri      | <p>可選，預設值設定為空。<br></p><p>高級用法：API 生成圖片的 URI 並使用它作為 NFT 類別的 og 圖片，展示於 liker.land 的 NFT 展示櫃/儀表板及類別資訊中，如果 nfts.csv 與nfts_default.json 設定不正確，也將顯示於詳細資料中。</p> |
 | image    | 圖片的 URL 將作為 NFT 的 og 圖片並顯示於 liker.land NFT 詳細資料頁面                                                                                                        |
-| metadata | NFT 圖片的元資料與任何相關參數並將被記錄於鏈上。                                                                                                                               |
+| metadata | NFT 圖片的元數據與任何相關參數並將被記錄於鏈上。                                                                                                                               |
 
 #### 示範文檔
 
@@ -158,9 +158,9 @@ NFT 書的技術細節請參考以下指南：
 
 ***
 
-## 更新電子書文件或任何元資料的版本
+## 更新電子書文件或任何元數據的版本
 
-你可能需要更新電子書文檔 (epub/pdf) 或任何元資料，例如，典型的情況是將註冊的 ISCN 包含到電子書文檔中，因此你將獲得新的內容指紋。以此例子，你需要：
+你可能需要更新電子書文檔 (epub/pdf) 或任何元數據，例如，典型的情況是將註冊的 ISCN 包含到電子書文檔中，因此你將獲得新的內容指紋。以此例子，你需要：
 
 1. 將 ISCN 內容添加到電子書文檔 (pdf/epub)。
 2. 將電子書文檔上傳到 IPFS 並獲取新的哈希值 (contentFingerprint)。

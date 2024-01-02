@@ -22,25 +22,25 @@ description: 使用 NFT Book Press 將電子書發行為 NFT
 
 ***
 
-## 製作 epub 檔案並輸入元資料 <a href="#edit-metadata" id="edit-metadata"></a>
+## 製作 epub 檔案並輸入元數據 <a href="#edit-metadata" id="edit-metadata"></a>
 
-首先製作好電子書的 epub 檔案，並確保經已輸入並整理好 Metadata。Metadata 即是[元資料](../decentralized-publishing/what-is-iscn.md)。包括書名、作者、封面圖、出版日期、描述等內容。以常用的 epub 編輯軟件為例：
+首先製作好電子書的 epub 檔案，並確保經已輸入並整理好 Metadata。Metadata 即是[元數據](../decentralized-publishing/what-is-iscn.md)。包括書名、作者、封面圖、出版日期、描述等內容。以常用的 epub 編輯軟件為例：
 
 #### calibre
 
-在 calibre 編輯元資料的按鈕就在畫面的左上角 Edit Metadata，整理好元資料後記緊按 Save to disk。
+在 calibre 編輯元數據的按鈕就在畫面的左上角 Edit Metadata，整理好元數據後記緊按 Save to disk。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 1.png" alt=""><figcaption><p>在 calibre 點 Edit Metadata 開啟編輯元資料介面，完成後按 Save to disk</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 1.png" alt=""><figcaption><p>在 calibre 點 Edit Metadata 開啟編輯元數據介面，完成後按 Save to disk</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 2.png" alt=""><figcaption><p>編輯元資料後按「OK」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 2.png" alt=""><figcaption><p>編輯元數據後按「OK」</p></figcaption></figure>
 
 #### Sigil
 
-在 Sigil 可按 F8 鍵可即時編輯元資料。
+在 Sigil 可按 F8 鍵可即時編輯元數據。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 3.png" alt=""><figcaption><p>在 Sigl 按 F8 鍵編輯元資料</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 3.png" alt=""><figcaption><p>在 Sigl 按 F8 鍵編輯元數據</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 4.png" alt=""><figcaption><p>編輯元資料後按「確定」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 4.png" alt=""><figcaption><p>編輯元數據後按「確定」</p></figcaption></figure>
 
 ***
 
@@ -76,7 +76,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署後靜侯一會兒。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 10.png" alt=""><figcaption><p>檔案上傳成功，出現 Hash 網址</p></figcaption></figure>
 
-往下移動頁面。與此同時系統亦會依照元資料內容自動填上書名、描述、作者等。亦可為書籍加入標籤 ( Tags ) 作分類。然後點「Same As URLs」。
+往下移動頁面。與此同時系統亦會依照元數據內容自動填上書名、描述、作者等。亦可為書籍加入標籤 ( Tags ) 作分類。然後點「Same As URLs」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>點「Same As URLs」</p></figcaption></figure>
 
