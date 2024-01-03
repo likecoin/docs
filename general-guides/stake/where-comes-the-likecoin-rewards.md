@@ -10,7 +10,7 @@ description: >-
 
 This article reflects the numbers as of January 31, 2022_. All parameters can be changed in the future through the governance mechanism, such as_ [_Proposal 7_](https://likecoin.bigdipper.live/proposals/7)_._
 
-By delegating LikeCoin, you can earn rewards. This article explains where the LikeCoin rewards come from. Delegation generates rewards as each delegator helps to validate transactions.
+By delegating [LikeCoin](https://like.co/), you can earn rewards. This article explains where the LikeCoin rewards come from. Delegation generates rewards as each delegator helps to validate transactions.
 
 The validator's rewards for recording all transactions come from inflation, which is currently set at 7-20% of the 1.8 billion LikeCoin issued so far, equating to 76.5 million-265 million LikeCoin per year.
 

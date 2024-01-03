@@ -4,7 +4,7 @@ description: Send and Receive LikeCoin on LikeCoin Discord wallet
 
 # LikeCoin Discord wallet
 
-In the LikeCoin Discord, users can send and receive LikeCoin easily. The setup is simple, and it allows users to deposit, send and check their balances. Here are the steps to set up a wallet and perform these actions:
+In the LikeCoin Discord, users can send and receive [LikeCoin](https://like.co/) easily. The setup is simple, and it allows users to deposit, send and check their balances. Here are the steps to set up a wallet and perform these actions:
 
 ## Set up a wallet to receive LikeCoin on Discord
 

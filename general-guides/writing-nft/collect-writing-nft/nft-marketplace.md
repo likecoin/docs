@@ -4,7 +4,7 @@ description: NFT Free Market
 
 # NFT Marketplace
 
-The LikeCoin [NFT Marketplace prototype](https://likecoin.github.io/likecoin-nft-marketplace/) has been released, enabling free trading of NFTs! You can check out and buy NFTs and also find the latest buying and selling data.
+The [LikeCoin NFT Marketplace](https://likecoin.github.io/likecoin-nft-marketplace/) prototype has been released, enabling free trading of NFTs! You can check out and buy NFTs and also find the latest buying and selling data.
 
 ## [**LikeCoin NFT Marketplace**](https://likecoin.github.io/likecoin-nft-marketplace/)
 

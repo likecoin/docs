@@ -6,7 +6,7 @@ description: >-
 
 # Delegation of LikeCoin
 
-cDelegation / Staking means delegating LikeCoin to one or more [validators](../../governance/what-is-a-validator/) to earn rewards. Likers who delegate LikeCoin to validators can directly vote for proposals or let the validators represent them to raise proposals and vote for or against them when they don't have time to handle it. Delegation demonstrates [liquid democracy](../../governance/liquid-democracy.md) and is vital to the autonomy of the LikeCoin DAO.
+cDelegation / Staking means delegating [LikeCoin](https://like.co/) to one or more [validators](../../governance/what-is-a-validator/) to earn rewards. Likers who delegate LikeCoin to validators can directly vote for proposals or let the validators represent them to raise proposals and vote for or against them when they don't have time to handle it. Delegation demonstrates [liquid democracy](../../governance/liquid-democracy.md) and is vital to the autonomy of the LikeCoin DAO.
 
 {% content-ref url="../../governance/direct-vote/" %}
 [direct-vote](../../governance/direct-vote/)

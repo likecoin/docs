@@ -4,7 +4,7 @@ description: Get a small amount of LikeCoin from testnet faucet for testing on t
 
 # #faucet-testnet
 
-LikeCoin Testnet users can get a small amount of LikeCoin at #💧｜faucet-testnet to try out various features on the testnet.
+LikeCoin Testnet users can get a small amount of [LikeCoin](https://like.co/) at #💧｜faucet-testnet to try out various features on the testnet.
 
 1. Go to the #💧｜faucet-testnet channel. If you cannot see the channel please go to the #👍｜verify channel to get started, then click 🛠️ on the #🙋｜select-roles channel to choose to view the channels of developers and engineers.
 2. Type /faucet and choose "Receive test token for testnet".

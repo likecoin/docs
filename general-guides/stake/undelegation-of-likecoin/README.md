@@ -10,7 +10,7 @@ description: >-
 
 Once you've confirmed your undelegation, the following happens:
 
-1. It will take a 21-day cooling-off period for your LikeCoin to be returned to your wallet, during which time the LikeCoin cannot be redelegated, rewarded, or transferred.
+1. It will take a 21-day cooling-off period for your [LikeCoin](https://like.co/) to be returned to your wallet, during which time the LikeCoin cannot be redelegated, rewarded, or transferred.
 2. Validator lost his/her voting power of the amount the LikeCoin withdrew.
 
 {% hint style="success" %}

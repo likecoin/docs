@@ -8,7 +8,7 @@ Please check out our FAQ below. Don't see an answer to your question? Feel free 
 
 ## **1.** I never installed MetaMask, how to migrate?
 
-If you did not install MetaMask, that means you never used a wallet to accumulate LikeCoin. he numbers displayed on [Like.co/in](https://like.co/in/) are just in temporary storage by the system.
+If you did not install MetaMask, that means you never used a wallet to accumulate [LikeCoin](https://like.co/). he numbers displayed on [Like.co/in](https://like.co/in/) are just in temporary storage by the system.
 
 You do not have to migrate your LikeCoin. Login to the [Liker Land app](../../../user-guide/liker-land/download.md) and the LikeCoin in temporary storage will go into your new wallet.
 

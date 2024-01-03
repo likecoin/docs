@@ -8,7 +8,7 @@ description: LikeCoin OTC
 Reminder: Suggest to try with a small amount before making any large transactions
 {% endhint %}
 
-LikeCoin validators and some institutions provide LikeCoin over-the-counter trading services. They are not a partnership with the LikeCoin founding team, use it at your own risk.
+[LikeCoin](https://like.co/) validators and some institutions provide LikeCoin over-the-counter trading services. They are not a partnership with the LikeCoin founding team, use it at your own risk.
 
 ## 碼農日常大小事
 

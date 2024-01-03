@@ -10,7 +10,7 @@ The Cosmos ecosystem encourages each blockchain to focus on a single application
 
 ## Why didn’t LikeCoin use “like” as its address prefix?
 
-When LikeCoin migrated to Cosmos, the Cosmos Ecosystem had just started, and the address prefixes format had not yet been formularized. The LikeCoin founding team chose “cosmos” as the wallet address prefix of $LIKE at that time which was the same as the Cosmos native token $ATOM. But after two years, we should follow the consensus of the Cosmos ecosystem and change the prefix to the “like”.
+When [LikeCoin](https://like.co/) migrated to Cosmos, the Cosmos Ecosystem had just started, and the address prefixes format had not yet been formularized. The LikeCoin founding team chose “cosmos” as the wallet address prefix of $LIKE at that time which was the same as the Cosmos native token $ATOM. But after two years, we should follow the consensus of the Cosmos ecosystem and change the prefix to the “like”.
 
 ## What is the advantage of using “like” as address prefix?
 
