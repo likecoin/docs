@@ -16,7 +16,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 你可以幾種方式收藏 Writing NFT：
 
-* 到 [Liker Land](https://liker.land/?utm\_source=docs) NFT 市場查看，那裡也有 Writing NFT。
+* 到 [Liker Land NFT 市場](https://liker.land/zh-Hant/store/articles)查看，那裡也有 Writing NFT。
 * 參觀作者或收藏家的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)頁面，並在那裡購買寫作 NFT。
 * 尋找嵌入您感興趣內容的 [NFT 小部件](collect-writing-nft/nft-widget.md)。
 
@@ -42,7 +42,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 沒有 Liker ID ，能購買 Writing NFT 嗎？
 
-可以，只要使用 LikeCoin 即可。
+可以，只要使用 [LikeCoin](https://like.co/) 即可。
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 

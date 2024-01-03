@@ -8,7 +8,7 @@ description: 驗證人 ( Validators ) 是什麼？
 
 ## 銀行+立委 <a href="#bank-legco" id="bank-legco"></a>
 
-LikeCoin DAO 的驗證人同時擔當「銀行」及「立法委員」的角色。
+[LikeCoin](https://like.co/) DAO 的驗證人同時擔當「銀行」及「立法委員」的角色。
 
 驗證人 ( Validators ) 負責 7x24 營運伺服器群以核實所有 Likers 的資料記錄，包括代幣轉賬、內容發佈、投票動作等。LikeCoin DAO 的驗證人同時擔當銀行及立法委員的角色。
 

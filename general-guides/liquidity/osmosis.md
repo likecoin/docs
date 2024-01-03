@@ -4,7 +4,7 @@ description: 如何在 Osmosis 獲得流動性挖礦獎勵
 
 # Osmosis
 
-現時 LikeCoin 在 Osmosis 有兩個流動性池 ，提供流動性就能獲得互換交易費 ( Swap Fee ) 及流動性挖礦獎勵 ( Liquidity Mining Incentives )。
+現時 [LikeCoin](https://like.co/) 在 [Osmosis](https://osmosis.zone/) 有兩個流動性池 ，提供流動性就能獲得互換交易費 ( Swap Fee ) 及流動性挖礦獎勵 ( Liquidity Mining Incentives )。
 
 注意流動性挖礦有機會讓用戶遭遇無常損失 ( Impermanent Loss )，請自行評估相關風險。
 

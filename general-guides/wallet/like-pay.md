@@ -48,7 +48,7 @@ Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款
 
 ### 步驟二
 
-在瀏覽器連接支付頁面，格式是 https://like.co/\[Liker ID] 假設對方的 Liker ID 為 ckxpress，支付頁面就是 [https://like.co/ckxpress](https://like.co/ckxpress)。輸入需要轉帳的 LikeCoin 數量，請留意錢包內需要有定夠[手續費](transaction-fee.md)，再點「確認」 即可完成轉帳。
+在瀏覽器連接支付頁面，格式是 https://like.co/\[Liker ID] 假設對方的 Liker ID 為 ckxpress，支付頁面就是 [https://like.co/ckxpress](https://like.co/ckxpress)。輸入需要轉帳的 [LikeCoin](https://like.co/) 數量，請留意錢包內需要有定夠[手續費](transaction-fee.md)，再點「確認」 即可完成轉帳。
 
 ![手續費於「確認」下方顯示](../../.gitbook/assets/like-pay-5.png)
 

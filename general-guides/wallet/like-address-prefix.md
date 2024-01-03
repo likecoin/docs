@@ -6,7 +6,7 @@ description: LikeCoin v2.0.0 LaiChiKok Prefix 大升級後的變更
 
 ## 什麼是錢包地址前綴？
 
-Cosmos 生態鼓勵一條區塊鏈專注一種應用，每條區塊鏈會以不同的前綴定義原生貨幣的地址，技術上需不是硬性規定，但約定俗成。例如 Cosmos Hub 的地址以 “cosmos” 開始，Osmosis 以 “osmo” 開始，Juno 以 “juno” 開始，等等。
+[Cosmos](https://cosmos.network/) 生態鼓勵一條區塊鏈專注一種應用，每條區塊鏈會以不同的前綴定義原生貨幣的地址，技術上需不是硬性規定，但約定俗成。例如 Cosmos Hub 的地址以 “cosmos” 開始，Osmosis 以 “osmo” 開始，Juno 以 “juno” 開始，等等。
 
 ## 為何 LikeCoin 沒有選用 “like” 作為地址前綴？
 

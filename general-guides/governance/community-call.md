@@ -18,15 +18,15 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 ## 常規會議 <a href="#monthly" id="monthly"></a>
 
-LikeCoin  社群會議於每月首個星期一東八時區 1820 線上舉行，主要使用英語。
+[LikeCoin](https://like.co/) 社群會議於每月首個星期一東八時區 1830 線上舉行，主要使用英語。
 
 ## 2024 日期及議程
 
-<table><thead><tr><th width="172">日期</th><th>描述</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="172">日期</th><th>描述</th></tr></thead><tbody><tr><td>星期一，1月8日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 ## 2023 日期及議程
 
-<table><thead><tr><th width="175">日期</th><th>描述</th></tr></thead><tbody><tr><td>星期一，12月4日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>星期一，11月6日</td><td>Enriching Liker Land with Project Gutenberg’s Literary Treasures</td></tr><tr><td>星期一，10月2日</td><td>Liker Land Writing NFT Free Mint, NFT Book Store Advancement, and LikeCoin Tokenomics</td></tr><tr><td>星期一，9月4日</td><td>Discover the Impressive New Features of Keplr 2.0</td></tr><tr><td>星期一，8月7日</td><td>Stripe payment is live and new books on the shelf</td></tr><tr><td>星期一，7月3日</td><td>Streamlined experience of LikeCoin chain with Keplr and Stripe</td></tr><tr><td>星期一，6月5日</td><td>LikeCoin chain Chungking upgrade and Keplr native support</td></tr><tr><td>星期一，5月1日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>星期一，4月3日</td><td>Three NFT Book projects coming ahead</td></tr><tr><td>星期一，3月6日</td><td>Latest updates and features on Web3Press and Liker Land.</td></tr><tr><td>星期一，2月6日</td><td>Partnership and Products updates</td></tr><tr><td>星期一，1月9日</td><td>Ecosystem and Writing NFT updates</td></tr></tbody></table>
+<table><thead><tr><th width="175">日期</th><th>描述</th></tr></thead><tbody><tr><td>星期一，12月4日</td><td>LikeCoin chan upgrade, significant enhancements on NFT Book Press and bookstores collaboration</td></tr><tr><td>星期一，11月6日</td><td>Enriching Liker Land with Project Gutenberg’s Literary Treasures</td></tr><tr><td>星期一，10月2日</td><td>Liker Land Writing NFT Free Mint, NFT Book Store Advancement, and LikeCoin Tokenomics</td></tr><tr><td>星期一，9月4日</td><td>Discover the Impressive New Features of Keplr 2.0</td></tr><tr><td>星期一，8月7日</td><td>Stripe payment is live and new books on the shelf</td></tr><tr><td>星期一，7月3日</td><td>Streamlined experience of LikeCoin chain with Keplr and Stripe</td></tr><tr><td>星期一，6月5日</td><td>LikeCoin chain Chungking upgrade and Keplr native support</td></tr><tr><td>星期一，5月1日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>星期一，4月3日</td><td>Three NFT Book projects coming ahead</td></tr><tr><td>星期一，3月6日</td><td>Latest updates and features on Web3Press and Liker Land.</td></tr><tr><td>星期一，2月6日</td><td>Partnership and Products updates</td></tr><tr><td>星期一，1月9日</td><td>Ecosystem and Writing NFT updates</td></tr></tbody></table>
 
 ## 會議時間
 

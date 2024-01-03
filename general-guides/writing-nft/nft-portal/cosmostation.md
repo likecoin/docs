@@ -20,7 +20,7 @@ description: 使用 Cosmostation 以文章網址出版 Writing NFT
 
 ## 步驟 1/4：註冊 ISCN <a href="#register-iscn" id="register-iscn"></a>
 
-假如文章並未註冊 ISCN，請直接把文章網址輸入空格並點「Register ISCN」。
+假如文章並未註冊 [ISCN](../../decentralized-publishing/what-is-iscn.md)，請直接把文章網址輸入空格並點「Register ISCN」。
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 2.png" alt=""><figcaption><p>輸入 URL 再點「Register ISCN」</p></figcaption></figure>
 

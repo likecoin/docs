@@ -4,7 +4,7 @@ description: LIKE this mesage 直接在 Discord 拍手
 
 # LIKE this mesage
 
-在 LikeCoin Discord 可以使用「LIKE this message」（喜歡這個訊息）功能「拍手」並傳送 5 LIKE 予訊息的作者。拍手前請先[在 Discord 存入 LikeCoin](discord-wallet.md#zai-discord-cun-ru-likecoin)。
+在 [LikeCoin Discord](https://discord.com/invite/likecoin) 可以使用「LIKE this message」（喜歡這個訊息）功能「拍手」並傳送 5 LIKE 予訊息的作者。拍手前請先[在 Discord 存入 LikeCoin](discord-wallet.md#zai-discord-cun-ru-likecoin)。
 
 1\. 在 LikeCoin Discord 訊息點右鍵選擇「應用程式」，再點「LIKE this message」。
 

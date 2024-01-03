@@ -4,7 +4,7 @@ description: 如何交易 LikeCoin？
 
 # 交易
 
-可透過以下渠道交易 LikeCoin：
+可透過以下渠道交易 [LikeCoin](https://like.co/)：
 
 ### 去中心化交易所 DEX
 

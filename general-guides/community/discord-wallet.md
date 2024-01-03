@@ -4,7 +4,7 @@ description: 在 LikeCoin Discord 錢包傳送及接收 LikeCoin
 
 # LikeCoin Discord 錢包
 
-在 LikeCoin Discord 可以傳送及接收 [LikeCoin](https://like.co/)，用戶需要先設定存入款項及設定收款的錢包。
+在 [LikeCoin Discord](https://discord.com/invite/likecoin) 可以傳送及接收 [LikeCoin](https://like.co/)，用戶需要先設定存入款項及設定收款的錢包。
 
 ## 在 Discord 設定收款錢包
 

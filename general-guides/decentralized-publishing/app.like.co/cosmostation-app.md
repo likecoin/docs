@@ -62,7 +62,7 @@ description: 使用 Cosmostation app 註冊 ISCN
 
 填寫關於此項內容的元數據：
 
-* Register your asset in Numbers Protocol－勾選它可將內容一拼傳送到 Numbers Protocol（不適用於不需上傳內容的作品）
+* Register your asset in Numbers Protocol－勾選它可將內容一拼傳送到 [Numbers Protocol](https://www.numbersprotocol.io/)（不適用於不需上傳內容的作品）
 * ISCN Title－ISCN 標題
 * Description－內容描述
 * Author－點它填寫更多內容，並可加入多於一名創作者

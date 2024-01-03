@@ -1,10 +1,10 @@
-# 使用桌機投票
+# 以桌機投票
 
 ## 於 dao.like.co 投票
 
 ### 步驟一：委託 LikeCoin
 
-投票前請確認已委託 LikeCoin 予驗證人，委託給任何一個驗證人也是可以的。
+投票前請確認已委託 [LikeCoin](https://like.co/) 予驗證人，委託給任何一個驗證人也是可以的。
 
 {% content-ref url="../../stake/delegation-of-likecoin/" %}
 [delegation-of-likecoin](../../stake/delegation-of-likecoin/)

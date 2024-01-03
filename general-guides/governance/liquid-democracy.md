@@ -6,7 +6,7 @@ description: 所謂 LikeCoin DAO，有民主麼？
 
 ![流動民主](../../.gitbook/assets/LikeCoin\_Staking\_Rewards\_voting\_chi.png)
 
-LikeCoin 社群——LikeCoin DAO——以流動民主方式治理。
+[LikeCoin](https://like.co/) 社群——LikeCoin DAO——以流動民主方式治理。
 
 任何持有 LikeCoin 的人都是持份者，每個持份者都能參與 LikeCoin DAO 的治理。
 
@@ -14,7 +14,7 @@ LikeCoin 除了是個通證 ( token )，LikeCoin chain 是區塊鏈，加起來�
 
 在流動民主機制中：首先，所有 LikeCoin 的持有人都是持份者 ( stakeholder )，LikeCoin 持有數反映的是持份，Liker 可以把 LikeCoin 委託給信賴的驗證人，相對於代議政制中人民選出自己信賴的代表，比國際流行的代議政制更進一步的是，持份者還除了可以決定選誰，還能決定充權的程度，因為委託 LikeCoin 越多，驗證人的投票權越大，也能同時委託給幾個驗證人；其次，委託的驗證人隨時可以改變，因此沒有一個固定的任期，持份者隨時可以另選賢能，驗證人長期需要考慮對持份者負責。所以，到了這個階段，基金會相當於一個政府，其執行和權力受制於相當於人民代表的驗證人。
 
-自 LikeCoin chain 於 2021年8月18日升級 FoTan 後，每位經已委託 LikeCoin 予驗證人的持份者都可以直接就議案投票，進行「直接民主」。
+自 [LikeCoin chain](likecoin-chain.md) 於 2021年8月18日升級 FoTan 後，每位經已委託 LikeCoin 予驗證人的持份者都可以直接就議案投票，進行「直接民主」。
 
 {% content-ref url="proposal-deposit.md" %}
 [proposal-deposit.md](proposal-deposit.md)

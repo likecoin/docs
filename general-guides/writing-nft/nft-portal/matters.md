@@ -10,7 +10,7 @@ description: 為 Matters 文章出版 Writing NFT
 
 ## 步驟一：發佈文章前選擇一拼註冊 ISCN
 
-用戶可以在 [Matters](../../../user-guide/creator/matters.md) 發佈文章前選擇一拼註冊 ISCN。
+用戶可以在 [Matters](../../../user-guide/creator/matters.md) 發佈文章前選擇一拼註冊 [ISCN](../../decentralized-publishing/what-is-iscn.md)。
 
 ![在 Matters 註冊 ISCN](<../../../.gitbook/assets/NFT Portal ISCN 1 (1).png>)
 

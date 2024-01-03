@@ -4,7 +4,7 @@ description: 想與社群及更多用戶聯繫分享經驗，有渠道嗎？
 
 # 社群
 
-隨著 Liker Land 日漸壯大，社群發展亦相當蓬勃。
+隨著 [Liker Land](https://liker.land/) 日漸壯大，社群發展亦相當蓬勃。
 
 [LikeCoin Discord](http://discord.gg/likecoin) 歡迎任何人參與，並設有中文及英文頻道，涵蓋創作、開發、治理、產品討論等各種話題，讓公眾與驗證人及各個持份者進行交流。
 

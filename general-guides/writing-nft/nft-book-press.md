@@ -24,11 +24,11 @@ description: 使用 NFT Book Press 將電子書發行為 NFT
 
 ## 製作 epub 檔案並輸入元數據 <a href="#edit-metadata" id="edit-metadata"></a>
 
-首先製作好電子書的 epub 檔案，並確保經已輸入並整理好 Metadata。Metadata 即是[元數據](../decentralized-publishing/what-is-iscn.md)。包括書名、作者、封面圖、出版日期、描述等內容。以常用的 epub 編輯軟件為例：
+首先製作好電子書的 [epub](https://zh.wikipedia.org/zh-hk/EPUB) 檔案，並確保經已輸入並整理好 Metadata。Metadata 即是[元數據](../decentralized-publishing/what-is-iscn.md)。包括書名、作者、封面圖、出版日期、描述等內容。以常用的 epub 編輯軟件為例：
 
 #### calibre
 
-在 calibre 編輯元數據的按鈕就在畫面的左上角 Edit Metadata，整理好元數據後記緊按 Save to disk。
+在 [calibre](https://calibre-ebook.com/) 編輯元數據的按鈕就在畫面的左上角 Edit Metadata，整理好元數據後記緊按 Save to disk。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 1.png" alt=""><figcaption><p>在 calibre 點 Edit Metadata 開啟編輯元數據介面，完成後按 Save to disk</p></figcaption></figure>
 
@@ -36,7 +36,7 @@ description: 使用 NFT Book Press 將電子書發行為 NFT
 
 #### Sigil
 
-在 Sigil 可按 F8 鍵可即時編輯元數據。
+在 [Sigil](https://sigil-ebook.com/) 可按 F8 鍵可即時編輯元數據。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 3.png" alt=""><figcaption><p>在 Sigl 按 F8 鍵編輯元數據</p></figcaption></figure>
 
@@ -130,7 +130,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 19.png" alt=""><figcaption><p>填寫 Number of NFT to mint: 並確認無誤後按「Mint」</p></figcaption></figure>
 
-出現 🎉 Success! 畫面代表經已成功鑄造 NFT，點「Continue to publish NFT Book」可繼續完成上架。點「View your NFT」可以到 Liker Land 查看已鑄造的 NFT 書。
+出現 🎉 Success! 畫面代表經已成功鑄造 NFT，點「Continue to publish NFT Book」可繼續完成上架。點「View your NFT」可以到 [Liker Land](https://liker.land/) 查看已鑄造的 NFT 書。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 20.png" alt=""><figcaption><p>點「Continue to publish NFT Book」可繼續完成上架。點「View your NFT」可以到 Liker Land 查看已鑄造的 NFT 書</p></figcaption></figure>
 

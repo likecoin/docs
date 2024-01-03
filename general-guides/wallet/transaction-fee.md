@@ -4,7 +4,7 @@ description: 轉帳、委託、取回委託、轉移委託及領取收益均需�
 
 # 手續費
 
-自2021年3月9日起，LikeCoin chain 秉承 Cosmos Hub 疊代更新同步調整 Gas 參數與 Cosmos Hub 其他項目看齊。Gas 用於表達每項動作和交易對區塊所造成的壓力，亦是運行和讀寫內容到區塊鏈所需要花費的勞動力的表達方式。不單止是 Cosmos Hub，其他區塊鏈平台如以太坊 ( Ethereum ) 亦使用 Gas 作為計算單位。
+自2021年3月9日起，[LikeCoin chain](https://www.mintscan.io/likecoin) 秉承 [Cosmos Hub](https://hub.cosmos.network/) 疊代更新同步調整 Gas 參數與 Cosmos Hub 其他項目看齊。Gas 用於表達每項動作和交易對區塊所造成的壓力，亦是運行和讀寫內容到區塊鏈所需要花費的勞動力的表達方式。不單止是 Cosmos Hub，其他區塊鏈平台如以太坊 ( Ethereum ) 亦使用 Gas 作為計算單位。
 
 ## 手續費的重要性
 
