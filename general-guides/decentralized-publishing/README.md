@@ -12,4 +12,4 @@ Decentralized Publishing's features include:
 * Openness and Transparency
 * Low Barrier
 
-LikeCoin is a Decentralized Publishing Infrastructure.  Content metadata will be registered in the LikeCoin public blockchain as ISCN, International Standard Content Number, and link to decentralized storage solution like the [IPFS](https://medium.com/u/30a067dbeb93) or [Arweave](https://medium.com/u/6dc77d82a3ce) for storing and serving ISCN-linked content.
+LikeCoin is a Decentralized Publishing Infrastructure.  Content metadata will be registered in the LikeCoin public blockchain as [ISCN](what-is-iscn.md), International Standard Content Number, and link to decentralized storage solution like the [IPFS](https://ipfs.tech/) or [Arweave](https://www.arweave.org/) for storing and serving ISCN-linked content.

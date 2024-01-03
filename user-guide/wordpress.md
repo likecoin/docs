@@ -11,7 +11,7 @@ The current hassle to publish articles as NFTs: Creators needed to find ways to 
 The brand new LikeCoin [Web3Press plugin](https://wordpress.org/plugins/likecoin/) is tailor made for Gutenberg editor, which links up the WordPress website with Web3 by just one click and decentralized publishing can be actualized to the fullest. Its functions include:
 
 * Set the post title and tags as the NFT metadata automatically
-* One-click publishing to LikeCoin plus storage at IPFS and Arweave and register [ISCN](../general-guides/decentralized-publishing/what-is-iscn.md).
+* One-click publishing to LikeCoin plus storage at [IPFS](https://ipfs.tech/) and [Arweave](https://www.arweave.org/) and register [ISCN](../general-guides/decentralized-publishing/what-is-iscn.md).
 * On-chain and decentralized storage fees can be paid by LikeCoin in one go
 * After minting Writing NFT, a [NFT Widget](../general-guides/writing-nft/collect-writing-nft/nft-widget.md) is automatically embedded at the bottom of each post for readers to [collect Writing NFT](../general-guides/writing-nft/collect-writing-nft/) and Integrate [LikeCoin button](creator/).
 * Support [Internet Archive](https://archive.org/) auto backups
