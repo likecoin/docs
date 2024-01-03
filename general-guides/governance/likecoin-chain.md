@@ -4,7 +4,7 @@ description: LikeCoin 的區塊鏈
 
 # LikeCoin chain
 
-LikeCoin chain 是 LikeCoin DAO 去中心化的數據記錄，專為內容創作和資料產權而設計，提供高效、便宜，及尤其重要的獨立性。LikeCoin chain 上的開放數據可在 [Big Dipper](http://likecoin.bigdipper.live/) 或 [Mintscan](../wallet/block-explorer/mintscan.md) 上瀏覽。
+[LikeCoin chain](https://www.mintscan.io/likecoin) 是 LikeCoin DAO 去中心化的數據記錄，專為內容創作和資料產權而設計，提供高效、便宜，及尤其重要的獨立性。LikeCoin chain 上的開放數據可在 [Big Dipper](http://likecoin.bigdipper.live/) 或 [Mintscan](../wallet/block-explorer/mintscan.md) 上瀏覽。
 
 **2019 年 11 月 15 日** LikeCoin 由 ERC-20 升級到 [Cosmos Hub](https://cosmos.network/) 生態系的 LikeCoin chain 版本代號 SheungWan。
 

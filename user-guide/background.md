@@ -4,7 +4,7 @@ description: 以下為一些詞彙的解說，亦是憲法基礎，助你了解 
 
 # 詞彙表
 
-## 基本概念 <a href="#448e" id="448e"></a>
+## 基本概念 <a href="#id-448e" id="id-448e"></a>
 
 ### LikeCoin DAO
 
@@ -12,21 +12,21 @@ description: 以下為一些詞彙的解說，亦是憲法基礎，助你了解 
 
 以區塊鏈的術語來說，_LikeCoin DAO_ 是一個分散式自治機構 ( **DAO**, decentralized autonomous organization )。
 
-### Liker <a href="#5799" id="5799"></a>
+### Liker <a href="#id-5799" id="id-5799"></a>
 
 _LikeCoin DAO_ 的市民。每位 _Liker_ 擁有一獨特的 _Liker ID_ 以資識別。雖然很多 _Likers_ 是作者、攝影師、繪師、編輯、及內容管理者，_LikeCoin DAO_ 也完全歡迎不生產內容的內容消費者的參與和投入，並為他們提供服務。
 
-### 讚賞公民 ( Civic Liker ) <a href="#75ea" id="75ea"></a>
+### 讚賞公民 ( Civic Liker ) <a href="#id-75ea" id="id-75ea"></a>
 
-最少委託 5,000 LikeCoin 到讚賞公民節點，並以委託回報金以化讚為賞的方式回饋創作的 _Liker_，是 _LikeCoin DAO_ 的納稅人，在支持創作的同時亦能享有一些獨特的好處。
+最少委託 5,000 [LikeCoin](https://like.co/) 到讚賞公民節點，並以委託回報金以化讚為賞的方式回饋創作的 _Liker_，是 _LikeCoin DAO_ 的納稅人，在支持創作的同時亦能享有一些獨特的好處。
 
-### Liker Land app <a href="#2696" id="2696"></a>
+### Liker Land app <a href="#id-2696" id="id-2696"></a>
 
 一個整合了閱讀器、護照及錢包的 app。[_Liker Land_ 手機應用程式](https://like.co/in/getapp)有如你掌上的共和國政府。
 
 有些技術愛好者或更喜歡使用如命令字元介面及硬體錢包等底層工具。這需要相當的技術知識，已超出本文的關注範疇。
 
-### 讚賞鍵 ( LikeCoin button ) <a href="#82e1" id="82e1"></a>
+### 讚賞鍵 ( LikeCoin button ) <a href="#id-82e1" id="id-82e1"></a>
 
 一個已註冊商標的拍手鍵，附帶在故事、圖像、畫作及其他創作內容中，讓 _Liker_ 按讚表達讚賞，同時為作者帶來收入。[Matters](https://matters.news) 上所有文章已預設提供 _讚賞鍵。_媒體特約作者，把 Liker ID 提供給[香港獨立媒體網](https://docs.like.co/v/zh/user-guide/creator)等合作平台，即能為文章安裝 _讚賞鍵_。自媒體作者於自架 WordPress 網站安裝 [LikeCoin 外掛](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上 _讚賞鍵_，[Medium](https://medium.com) 作者可在文章中自行貼上 _讚賞鍵_ 鏈結，也可在 [Blogspot ( Blogger.com )](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
 
@@ -46,7 +46,7 @@ _LikeCoin DAO_ 政府去中心化的數據記錄，專為內容創作和資料�
 
 _LikeCoin chain_ **FoTan** 版本將提供 International Standard Content Number (_"ISCN"_) 高階功能，預計 2020 年推出。
 
-### 驗證人 ( Validator ) <a href="#9d28" id="9d28"></a>
+### 驗證人 ( Validator ) <a href="#id-9d28" id="id-9d28"></a>
 
 負責 7x24 營運伺服器群以核實所有 _Likers_ 的資料記錄，包括代幣轉賬、內容發佈、投票動作等。 _LikeCoin chain_ 上的 _驗證人_ 同時擔當 _LikeCoin DAO_ 銀行及立法委員的角色。
 
@@ -65,13 +65,13 @@ _LikeCoin DAO_ 成立後，第一批共 7 組承擔重任的 _驗證人_ 是：
 
 ## 機制 <a href="#d993" id="d993"></a>
 
-### 通證發行 <a href="#397c" id="397c"></a>
+### 通證發行 <a href="#id-397c" id="id-397c"></a>
 
 _LikeCoin_ 在 2017 年首次面世時在以太坊區塊鏈以 「ERC-20 通證」形式發行。升級至 _LikeCoin DAO_ 的新標準以後，舊版本代幣被稱為 LikeCoin ERC-20，升級了的代幣則被稱為 _LikeCoin 通證_ ，或簡稱 _LikeCoin_ 。
 
 按照 _LikeCoin_ 白皮書，_LikeCoin_ 最終流通總額為 20 億，按用途分配為**代幣銷售池** ( 360,538,485 )、**生態拓展池** ( 439,461,515 )、**團隊池** ( 2億 ) 及**創作者池** ( 10億 )。當創世區塊升級時從**代幣銷售池**、**生態拓展池**及**團隊池**中發行了 10 億 _LikeCoin_，至於**創作者池**將會在未來升級時進行處理。
 
-### 升級 <a href="#4ee6" id="4ee6"></a>
+### 升級 <a href="#id-4ee6" id="id-4ee6"></a>
 
 當 _LikeCoin DAO_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _LikeCoin DAO_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 _Liker_ 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com/) 交易所兌換為 Bitcoin 或以太幣（補充：Liquid 交易所已支援 _LikeCoin 通證，_假如仍然需交易 LikeCoin ERC-20，可到 [BitAsset](https://www.bitasset.com/) 或 [MyEthShop](https://www.myethshop.com/)）。
 
@@ -79,7 +79,7 @@ _LikeCoin_ 在 2017 年首次面世時在以太坊區塊鏈以 「ERC-20 通證�
 
 發行新 _LikeCoin_ 的通脹 / 增發率 ( inflation ) 將由 _驗證人_ 全體決定。_LikeCoin DAO_ 創世區塊增發率為1%。新發行的 _LikeCoin_ 將被用作驗證交易的回報（詳情參閱下文[**驗證交易**](https://docs.like.co/v/zh/constitution#9e68)的段落）
 
-### 回報創意 支持共享 <a href="#61ef" id="61ef"></a>
+### 回報創意 支持共享 <a href="#id-61ef" id="id-61ef"></a>
 
 _LikeCoin DAO_ 是由創作者及內容愛好者組成的社群，讚賞及創造力回報就是核心價值。&#x20;
 
@@ -87,7 +87,7 @@ _LikeCoin DAO_ 是由創作者及內容愛好者組成的社群，讚賞及創�
 
 _讚賞公民_ 按讚權重較高，除了**創作者池**外亦會把他們已繳付的個人月費平均地全數回饋作者。_讚賞鍵_ 猶如 _Likers_ 的助手，幫助他們自動透過按讚的微支付形式展示對創作者的讚賞。
 
-### **驗證交易** <a href="#9e68" id="9e68"></a>
+### **驗證交易** <a href="#id-9e68" id="id-9e68"></a>
 
 社群要取得共識，必須讓有公信力的機構記錄所有交易。按照傳統做法記帳由銀行執行並需要收取服務費用。然而在 _LikeCoin DAO_，帳目以分散對等的方式，由 _Likers_ 授權的 _驗證人_ 負責記錄，每筆操作只需 5 秒且成本極低。
 
@@ -114,7 +114,7 @@ _Liker_ 委託 _LikeCoin_ 予 _驗證人_ 不只可以參與驗證帳目及賺�
 
 2021年8月18日 LikeCoin chain 升級到 FoTan 後，持份者可[直接就議案投票](../general-guides/governance/direct-vote/)。
 
-### 動議議案 <a href="#81f6" id="81f6"></a>
+### 動議議案 <a href="#id-81f6" id="id-81f6"></a>
 
 每一項動議都會影響現有系統，未能作出任何改變的動議實在沒有意義。所有 _驗證人_ 均可以提交議案，發起投票。
 

@@ -9,7 +9,7 @@ description: 如何在自架 WordPress 網站加入 NFT 小部件，出版 WordP
 LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為古騰堡編輯器度身訂造，讓 WordPress 網站一鍵接通 Web3，實現完整的分散式出版。功能包括：
 
 * 抓取文章的標籤和標題等內容作為 NFT 的元數據
-* 一鍵發佈文章到 LikeCoin 並儲存於 IPFS 及 Arweave 分散式檔案系統並註冊 [ISCN](../general-guides/decentralized-publishing/what-is-iscn.md)
+* 一鍵發佈文章到 [LikeCoin](https://like.co/) 並儲存於 IPFS 及 Arweave 分散式檔案系統並註冊 [ISCN](../general-guides/decentralized-publishing/what-is-iscn.md)
 * 以 LikeCoin 一筆過支付內容上鏈及分散式儲存費用
 * 鑄造 Writing NFT 後 [NFT 小部件 ( Widget )](../general-guides/writing-nft/collect-writing-nft/nft-widget.md) 自動在文章下方顯示，讓讀者[收集 NFT](../general-guides/writing-nft/collect-writing-nft/)，並整合 [LikeCoin button 讚賞鍵](creator/)功能
 * 支援 [Internet Archive](https://archive.org/) 自動備份

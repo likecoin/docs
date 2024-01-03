@@ -8,7 +8,7 @@ description: 升級 LikeCoin 的過程遇到阻滯，怎麼辦？
 
 ## **1. 我從沒安裝過 MetaMask，要怎樣升級？**
 
-既然你沒有安裝過 MetaMask，即是你從沒用過自己的錢包儲存 LikeCoin， [Like.co/in](http://like.co/in) 網頁上顯示的 LikeCoin 數字只是系統幫你暫時寄存的。
+既然你沒有安裝過 MetaMask，即是你從沒用過自己的錢包儲存 [LikeCoin](https://like.co/)， [Like.co/in](http://like.co/in) 網頁上顯示的 LikeCoin 數字只是系統幫你暫時寄存的。
 
 你不用跑升級流程，只需用慣常的方法登入 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)，待領的 LikeCoin 便會自動存入你的新錢包。
 

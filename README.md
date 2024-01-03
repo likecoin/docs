@@ -8,7 +8,7 @@ description: 有關 LikeCoin、去中心出版、及 LikeCoin DAO
 
 ### LikeCoin 是什麼
 
-LikeCoin 讓每一個人以 NFT 的方式實踐去中心出版（[NFT Portal & Widget](https://app.like.co/), [Writing NFT WordPress 外掛](https://wordpress.org/plugins/likecoin/)、[開放 APIs](https://api.like.co/)）。
+[LikeCoin](https://like.co/) 讓每一個人以 NFT 的方式實踐去中心出版（[NFT Portal & Widget](https://app.like.co/), [Writing NFT WordPress 外掛](https://wordpress.org/plugins/likecoin/)、[開放 APIs](https://api.like.co/)）。
 
 ### 內容擁有權
 

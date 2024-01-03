@@ -4,7 +4,7 @@ description: 在 faucet testnet 獲取少量 LikeCoin 在測試網試用各種�
 
 # #faucet-testnet
 
-LikeCoin Testnet 用戶可於 #💧｜faucet-testnet 獲取少量 LikeCoin 在 testnet 試用各種功能。
+LikeCoin Testnet 用戶可於 #💧｜faucet-testnet 獲取少量 [LikeCoin](https://like.co/) 在 testnet 試用各種功能。
 
 1. 進入 #💧｜faucet-testnet 頻道。如看不到頻道請先到 #👍｜verify 頻道進行認證，並在 #🙋｜select-roles 頻道按下🛠️ 選擇查看開發者、工程師的頻道。
 2. 在頻道輸入 /faucet 並選擇 Receive test token for testnet

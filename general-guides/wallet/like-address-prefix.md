@@ -10,7 +10,7 @@ Cosmos 生態鼓勵一條區塊鏈專注一種應用，每條區塊鏈會以不�
 
 ## 為何 LikeCoin 沒有選用 “like” 作為地址前綴？
 
-當 LikeCoin 剛轉到 Cosmos 時，Cosmos 生態才剛剛起步發展，地址前綴取名的方法還未成為普遍共識。當時 LikeCoin 創始團隊選擇與 Cosmos 原生通證 ATOM 相同的 “cosmos” 作為 LikeCoin 的錢包地址前綴，但發展至兩年後的今天，理應跟隨 Cosmos 生態的共識轉成 like 前綴。
+當 [LikeCoin](https://like.co/) 剛轉到 Cosmos 時，Cosmos 生態才剛剛起步發展，地址前綴取名的方法還未成為普遍共識。當時 LikeCoin 創始團隊選擇與 Cosmos 原生通證 ATOM 相同的 “cosmos” 作為 LikeCoin 的錢包地址前綴，但發展至兩年後的今天，理應跟隨 Cosmos 生態的共識轉成 like 前綴。
 
 ## 轉用 “like” 作地址前綴有什麼優點？
 

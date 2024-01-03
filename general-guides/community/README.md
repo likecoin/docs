@@ -34,8 +34,8 @@ description: 想與社群及更多用戶聯繫分享經驗，有渠道嗎？
 
 * [#Community Call](community-call.md)－參與每月社群治理會議
 * [#LikeCoin AMA](likecoin-ama.md) - 參與 LikeCoin 的線上聚會和作者聊天室
-* [#🎫｜open-a-ticke](open-a-ticket.md)t - 使用 Discord 客服工具私訊管理員
-* [#🌊｜faucet-mainne](../faucet.md)t - 主網水龍頭
+* [#🎫｜open-a-ticket](open-a-ticket.md) - 使用 Discord 客服工具私訊管理員
+* [#🌊｜faucet-mainnet](../faucet.md) - 主網水龍頭
 * [#💧｜faucet-testnet](faucet-test.md)－獲取少量 LikeCoin 在 testnet 試用各種功能
 * [#🔁｜translate-wallet-prefix](translate-wallet-prefix.md)－雙向查詢新舊前綴錢包地址
 * [LikeCoin Disocrd 錢包](discord-wallet.md) - 在 Discord 傳送及接收 LikeCoin

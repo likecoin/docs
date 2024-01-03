@@ -10,7 +10,7 @@ _本文數據反映的是 2022年1月31日的情況，_所有參數日後均能�
 
 委託能獲得回報，因為每位委託者都在幫忙記帳；那不是傳統意義上資本所產生的利息。
 
-驗證人記帳的回報來自[增發 (inflation)](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)，目前設定為總貨幣流通量，即截至目前為止十億八千萬 LikeCoin 的 7-20%，亦即每年新發行七千六百五十萬 - 二億五千六百萬 LikeCoin。
+驗證人記帳的回報來自[增發 (inflation)](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6)，目前設定為總貨幣流通量，即截至目前為止十億八千萬 [LikeCoin](https://like.co/) 的 7-20%，亦即每年新發行七千六百五十萬 - 二億五千六百萬 LikeCoin。
 
 此筆款項會平均於每個區塊產生時分發，現時每個區塊生成的時間為 5-6 秒。
 

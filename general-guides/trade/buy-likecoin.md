@@ -8,7 +8,7 @@ description: 如何購買 LikeCoin？
 提示：進行任何大額交易前請先作少量嘗試
 {% endhint %}
 
-建議用戶使用 [Keplr](../wallet/keplr/) 錢包購買及管理 LikeCoin，購買途徑如下：
+建議用戶使用 [Keplr](../wallet/keplr/) 錢包購買及管理 [LikeCoin](https://like.co/)，購買途徑如下：
 
 ### 法定貨幣 -> OSMO ( Osmosis 上的 Transak ) -> LIKE ( Osmosis )
 
