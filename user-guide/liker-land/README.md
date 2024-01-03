@@ -10,7 +10,7 @@ description: Liker Land 助你探索元宇宙，接通 Web3 世界
 [download.md](download.md)
 {% endcontent-ref %}
 
-Liker Land 是 LikeCoin 的用戶介面，整合了去中心化身份、去中心出版功能及 LikeCoin 資產管理功能於一身，幫助用戶探索元宇宙，接通 Web3 世界。
+[Liker Land](https://liker.land/) 是 [LikeCoin](https://like.co/) 的用戶介面，整合了去中心化身份、去中心出版功能及 LikeCoin 資產管理功能於一身，幫助用戶探索元宇宙，接通 Web3 世界。
 
 ## 去中心化身份
 

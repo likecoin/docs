@@ -12,7 +12,7 @@ description: 簡單發送 Writing NFT 沒難度
 
 ## 步驟一：登入並發送
 
-登入 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/)[Leap Browser Extension](../../wallet/leap/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land app](../../../user-guide/liker-land/download.md) 後點需要發送的 NFT，並查看存量「擁有」了多少個。確定發送後點「發送」。
+在 [Liker Land](https://liker.land/) 登入 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/)[Leap Browser Extension](../../wallet/leap/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land app](../../../user-guide/liker-land/download.md) 後點需要發送的 NFT，並查看存量「擁有」了多少個。確定發送後點「發送」。
 
 <figure><img src="../../../.gitbook/assets/NFT Transfer 1.png" alt=""><figcaption><p>點「發送」開始發送 Writing NFT</p></figcaption></figure>
 

@@ -6,7 +6,7 @@ description: 展示 NFT 藏品庫
 
 ## Liker Land 網頁版
 
-登入 Liker Land 後用戶可於[個人主頁](https://liker.land/zh-Hant/feed?view=town)使用以下功能：
+登入 [Liker Land](https://liker.land/) 後用戶可於[個人主頁](https://liker.land/zh-Hant/feed?view=town)使用以下功能：
 
 ### 廣場
 

@@ -50,4 +50,4 @@ description: 網頁版的 Liker Land
 
 ## 選項六：登出
 
-在此登出 Liker Land。假若你想使用另一帳號登入，必須先於 Liker Land 網站登出才行，否則下次登入時仍會自動登入上次登入的帳戶。
+在此登出 [Liker Land](https://liker.land/)。假若你想使用另一帳號登入，必須先於 Liker Land 網站登出才行，否則下次登入時仍會自動登入上次登入的帳戶。
