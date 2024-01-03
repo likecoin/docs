@@ -4,7 +4,7 @@ description: depub.space 是 Web3 去中心化 Twitter
 
 # depub.space
 
-[depub.space](https://depub.space/) 是 Web3 去中心化 Twitter，只需要付出少量 [LikeCoin](https://like.co/) 就可直接將文字及圖片 “DePub”（去中心出版）至 IPFS 及區塊鏈，非常方便。用戶可以使用 [Keplr](../../general-guides/wallet/keplr/)、[Cosmostation 瀏覽器錢包](../../general-guides/wallet/cosmostation/)及 [Liker Land app](../liker-land/download.md) 經 Wallet Connect 接駁 depub.space 直接發文。
+[depub.space](https://depub.space/) 是 Web3 去中心化 [Twitter](https://twitter.com/)，只需要付出少量 [LikeCoin](https://like.co/) 就可直接將文字及圖片 “DePub”（去中心出版）至 [IPFS](https://ipfs.tech/) 及區塊鏈，非常方便。用戶可以使用 [Keplr](../../general-guides/wallet/keplr/)、[Cosmostation 瀏覽器錢包](../../general-guides/wallet/cosmostation/)及 [Liker Land app](../liker-land/download.md) 經 Wallet Connect 接駁 depub.space 直接發文。
 
 此外[讚賞公民](../civic-liker/)按 [Super Like](../liker-land/superlike.md) 可自動推文到 depub.space，Liker 也可以在 depub.space 拍手[化讚為賞](../liker-land/like.md)。
 

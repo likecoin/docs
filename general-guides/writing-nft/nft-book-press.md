@@ -5,7 +5,7 @@ description: 使用 NFT Book Press 將電子書發行為 NFT
 # 發行 NFT 書
 
 {% hint style="info" %}
-發行 NFT 需於桌面電腦使用 [Keplr 瀏覽器擴充功能](../wallet/keplr/)及 LikeCoin
+發行 NFT 需於桌面電腦使用 [Keplr 瀏覽器擴充功能](../wallet/keplr/)及 [LikeCoin](https://like.co/)
 {% endhint %}
 
 在區塊鏈出版 NFT 書包含以下流程：
@@ -72,7 +72,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署後靜侯一會兒。
 
 ### 步驟二：輸入書籍資料
 
-出現 File Ready 代表檔案上傳成功，並出現四條 Hash 網址，每兩條 Hash 對應一個檔案。包括 IPFS 及 AR ( Arweave ) 格式。以附圖為例，四條 Hash 代表 IPFS 的 epub 檔、IPFS 的封面檔、AR 的 epub 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
+出現 File Ready 代表檔案上傳成功，並出現四條 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 epub 檔、IPFS 的封面檔、AR 的 epub 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 10.png" alt=""><figcaption><p>檔案上傳成功，出現 Hash 網址</p></figcaption></figure>
 

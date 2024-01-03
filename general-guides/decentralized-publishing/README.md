@@ -1,5 +1,5 @@
 ---
-description: '什麼是去中心出版 (#DePub)？'
+description: 什麼是去中心出版 (#DePub)？
 ---
 
 # 去中心出版
@@ -12,5 +12,4 @@ description: '什麼是去中心出版 (#DePub)？'
 * 公開透明
 * 低門檻
 
-LikeCoin 是去中心出版基建，協助作者把內容註冊到區塊鏈，寫下永久的憑據 - ISCN \( International Standard Content Number \)，配合如 IPFS 或 Arweave 等分散式檔案系統所提供的內容指紋，讓服務供應者可基於這公共的資料庫存取和分發內容。
-
+[LikeCoin](https://like.co/) 是去中心出版基建，協助作者把內容註冊到區塊鏈，寫下永久的憑據 - [ISCN ( International Standard Content Number )](what-is-iscn.md)，配合如 [IPFS](https://ipfs.tech/) 或 [Arweave](https://www.arweave.org/) 等分散式檔案系統所提供的內容指紋，讓服務供應者可基於這公共的資料庫存取和分發內容。
