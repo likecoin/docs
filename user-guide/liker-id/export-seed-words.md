@@ -27,7 +27,7 @@ Click "Press to reauthenticate".
 
 ### Step 3: Re-login to Liker Land
 
-Log in to Liker Land with your email and password, or use any [social profile](register/social-media-logins.md) login.
+Log in to [Liker Land](https://like.co/) with your email and password, or use any [social profile](register/social-media-logins.md) login.
 
 ![Re-login to Liker Land](<../../.gitbook/assets/Seed Words 3en.png>)
 

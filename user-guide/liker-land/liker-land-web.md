@@ -50,4 +50,4 @@ View and manage NFT [Notifications](../../general-guides/writing-nft/collect-wri
 
 ## **Option 6: Sign Out**
 
-Click to log out of Liker Land. If you wish to log in with a different Liker ID, you must log out completely from the Liker Land web. Otherwise, you will be redirected to the previous Liker ID during your next login attempt.
+Click to log out of [Liker Land](liker-land-web.md#liker-id-https-like.co-in). If you wish to log in with a different Liker ID, you must log out completely from the Liker Land web. Otherwise, you will be redirected to the previous Liker ID during your next login attempt.

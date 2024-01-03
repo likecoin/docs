@@ -10,7 +10,7 @@ description: Liker Land - Explore the Metaverse and connect to Web3
 [download.md](download.md)
 {% endcontent-ref %}
 
-Liker Land is the user interface of LikeCoin, offering various functions to integrate decentralized identity, participate in decentralized publishing, and manage your LikeCoin assets. It helps users explore the metaverse and connect to Web3.
+[Liker Land](https://liker.land/) is the user interface of [LikeCoin](https://like.co/), offering various functions to integrate decentralized identity, participate in decentralized publishing, and manage your LikeCoin assets. It helps users explore the metaverse and connect to Web3.
 
 ## Decentralized Identity
 

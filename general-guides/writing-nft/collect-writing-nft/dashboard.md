@@ -6,7 +6,7 @@ description: Display Window and Store Shelf of NFT
 
 ## **Liker Land web**
 
-Upon logging in to Liker Land, users can utilize the following functions in [My Dashboard](https://liker.land/en/feed?view=town):
+Upon logging in to [Liker Land](https://like.co/), users can utilize the following functions in [My Dashboard](https://liker.land/en/feed?view=town):
 
 ### Plaza
 
