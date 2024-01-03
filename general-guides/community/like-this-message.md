@@ -4,7 +4,7 @@ description: LIKE this message and "Clap" on Discord
 
 # LIKE this message
 
-In LikeCoin Discord, you can use the "LIKE this message" function to support users.  Please [deposit LikeCoin on Discord](discord-wallet.md#deposit-likecoin-on-discord) first.\
+In [LikeCoin Discord](https://discord.com/invite/likecoin), you can use the "LIKE this message" function to support users.  Please [deposit LikeCoin on Discord](discord-wallet.md#deposit-likecoin-on-discord) first.\
 
 
 1\. Right click on the LikeCoin Discord post, select "Apps" and click "LIKE this message".

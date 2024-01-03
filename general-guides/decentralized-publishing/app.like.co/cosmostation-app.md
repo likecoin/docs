@@ -60,7 +60,7 @@ If you choose "Skip Upload", enter an existing content fingerprint.
 
 Fill in the information about this content, including:
 
-* Register your asset in Numbers Protocol - Click on it and the work will be registered with Numbers Protocol too ( Not applicable to Skip Upload ).
+* Register your asset in Numbers Protocol - Click on it and the work will be registered with [Numbers Protocol](https://www.numbersprotocol.io/) too ( Not applicable to Skip Upload ).
 * ISCN Title
 * Description
 * Author - Click to fill into more details. You may include more than one author if the work is co-created.

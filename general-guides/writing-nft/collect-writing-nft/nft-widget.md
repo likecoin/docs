@@ -6,7 +6,7 @@ description: Collect as You Read – The Embedded Vending Machine for Writings
 
 Readers can [collect Writing NFTs](./) in an extremely easy way.
 
-Unlike popular NFT marketplaces such as OpenSea that converge creators' and buyers' traffic into a centralized portal, buyers of Writing NFTs are actually **readers** who want to focus on reading. The buying process for readers who are surfing the internet should be integrated with the reading experience. Shopping around in a mall and immersing oneself in a book are two totally different experiences, and we believe that most readers prefer the latter.
+Unlike popular NFT marketplaces such as [OpenSea](https://opensea.io/) that converge creators' and buyers' traffic into a centralized portal, buyers of Writing NFTs are actually **readers** who want to focus on reading. The buying process for readers who are surfing the internet should be integrated with the reading experience. Shopping around in a mall and immersing oneself in a book are two totally different experiences, and we believe that most readers prefer the latter.
 
 To let readers collect Writing NFTs as they read, the collecting action is as easy as giving a like. An "**NFT Widget**" will be embedded at the bottom of the article. It works like a vending machine, showing the current price of this Writing NFT, and allowing readers to collect it with just a click if the price is right.
 

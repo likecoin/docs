@@ -4,7 +4,7 @@ description: Mobile version of Cosmostatoin
 
 # Cosmostation Mobile Wallet
 
-In addition to the browser extension wallet, Cosmostation also supports mobile. Users can download the Cosmostation app on iOS or Android to manage your LikeCoin. [Cosmostation also has a browser extension wallet](../cosmostation/) that supports LikeCoin chain.
+In addition to the browser extension wallet, Cosmostation also supports mobile. Users can download the Cosmostation app on iOS or Android to manage your LikeCoin. [Cosmostation also has a browser extension wallet](../cosmostation/) that supports [LikeCoin chain](https://www.mintscan.io/likecoin).
 
 Please note that Cosmostation does not support the registration of Liker ID yet.
 

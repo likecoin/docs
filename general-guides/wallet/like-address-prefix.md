@@ -6,7 +6,7 @@ description: After the LikeCoin v2.0.0 LaiChiKok Prefix Upgrade
 
 ## What is wallet address prefix?
 
-The Cosmos ecosystem encourages each blockchain to focus on a single application. Each blockchain will define the address format of its native token with a specific prefix. It is not a mandatory requirement but each blockchain will have its own address format. For example, the Cosmos Hub address starts with “cosmos”, Osmosis with “osmo”, Juno with “juno”, etc.
+The [Cosmos](https://cosmos.network/) ecosystem encourages each blockchain to focus on a single application. Each blockchain will define the address format of its native token with a specific prefix. It is not a mandatory requirement but each blockchain will have its own address format. For example, the Cosmos Hub address starts with “cosmos”, Osmosis with “osmo”, Juno with “juno”, etc.
 
 ## Why didn’t LikeCoin use “like” as its address prefix?
 

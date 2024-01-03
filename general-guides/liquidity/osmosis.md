@@ -4,11 +4,11 @@ description: How to earn liquidity mining incentives on Osmosis
 
 # Osmosis
 
-On Osmosis, users can participate in LIKE liquidity pools for liquidity mining to earn incentives and swap fees.&#x20;
+On [Osmosis](https://osmosis.zone/), users can participate in LIKE liquidity pools for liquidity mining to earn incentives and swap fees.&#x20;
 
 Please note that liquidity mining may result in impermanent loss, so assess the risks before diving into the ecosystem.&#x20;
 
-Liquidity mining requires registration of[ Keplr](../wallet/keplr/), [Leap](../wallet/leap/), [Cosmosation](../wallet/cosmostation/) or [Keplr Mobile](../wallet/keplr-mobile/) on desktop, and depositing your LikeCoin to these wallets.
+Liquidity mining requires registration of[ Keplr](../wallet/keplr/), [Leap](../wallet/leap/), [Cosmosation](../wallet/cosmostation/) or [Keplr Mobile](../wallet/keplr-mobile/) on desktop, and depositing your [LikeCoin](https://like.co/) to these wallets.
 
 {% content-ref url="../wallet/like-pay.md" %}
 [like-pay.md](../wallet/like-pay.md)

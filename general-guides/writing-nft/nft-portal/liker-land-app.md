@@ -34,7 +34,7 @@ After successful login, your wallet address will be displayed in the top right c
 
 ## Step 1/4: Register ISCN
 
-If the article is not registered with an ISCN, please directly enter the article URL into the blank space and click "Register ISCN".
+If the article is not registered with an [ISCN](../../decentralized-publishing/what-is-iscn.md), please directly enter the article URL into the blank space and click "Register ISCN".
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 2.png" alt=""><figcaption><p>Enter the URL and click "Register ISCN"</p></figcaption></figure>
 

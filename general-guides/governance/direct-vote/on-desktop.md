@@ -1,10 +1,10 @@
-# Vote on Desktop
+# Vote on desktop
 
 ## Vote via dao.like.co
 
 ### Step 1: Delegate LikeCoin
 
-Before voting, please delegate your LikeCoin to any validators that you trust.
+Before voting, please delegate your [LikeCoin](https://like.co/) to any validators that you trust.
 
 {% content-ref url="../../stake/delegation-of-likecoin/" %}
 [delegation-of-likecoin](../../stake/delegation-of-likecoin/)

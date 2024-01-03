@@ -4,7 +4,7 @@ description: LikeCoin Faucet
 
 # Faucet
 
-Use this [faucet](https://faucet.like.co/en) to get a small amount of LIKE and start playing around the LikeCoin ecosystem. Each wallet and user can only claim once.
+Use this [faucet](https://faucet.like.co/en) to get a small amount of LIKE and start playing around the [LikeCoin](https://like.co/) ecosystem. Each wallet and user can only claim once.
 
 ## Get LikeCoin wallet address
 

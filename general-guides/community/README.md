@@ -4,7 +4,7 @@ description: Share and connect with other LikeCoin users in the community
 
 # Community
 
-As Liker Land grows, the community becomes more vibrant and lively.
+As [Liker Land](https://liker.land/) grows, the community becomes more vibrant and lively.
 
 [LikeCoin Discord](http://discord.gg/likecoin) is for everyone. There are channels including development, governance, product discussion, and more. Validators and stakeholders exchange ideas and work together to make Liker Land a better place.
 

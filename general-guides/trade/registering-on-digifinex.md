@@ -4,7 +4,7 @@ description: How to register on DigiFinex Exchange
 
 # Registering on DigiFinex
 
-Buying and selling LikeCoin on DigiFinex requires an account. Please go to the [DigiFinex website](https://www.digifinex.com/zh-hk/?ts=1597115837) and follow these steps to register an account:
+Buying and selling [LikeCoin](https://like.co/) on DigiFinex requires an account. Please go to the [DigiFinex website](https://www.digifinex.com/zh-hk/?ts=1597115837) and follow these steps to register an account:
 
 ## Step 1: Confirm password and email or mobile phone number
 
@@ -37,7 +37,7 @@ Then go to the "Basic Information" page. You have to proceed with Real-name veri
 
 > [【New User Guide】- How to register an account> ](https://digifinex.zendesk.com/hc/en-us/articles/360006576493--New-User-Guide-How-to-register-an-account)
 
-## Step 2: Real-name verification <a href="#2" id="2"></a>
+## Step 2: Real-name verification <a href="#id-2" id="id-2"></a>
 
 On the "Basic Information" page "Real-name verification," click on the "Unverified," and the following page appears. Scan the QR Code or go to [https://download.digifinex.xyz/](https://download.digifinex.com/) and download the DigiFinex app.
 
@@ -99,8 +99,8 @@ After the upload is completed, wait for approval. The review will be completed i
 
 > [How to do ID-verification (a.k.a KYC)>> ](https://digifinex.zendesk.com/hc/en-us/articles/360006473334--How-to-do-ID-verification-a-k-a-KYC-)
 
-Step 3: Set up 2-Factor Authentication&#x20;(2FA) <a href="#3-google" id="3-google"></a>
---------------------------------------------------
+Step 3: Set up 2-Factor Authentication&#x20;(2FA) <a href="#id-3-google" id="id-3-google"></a>
+--------------------------------------------------------
 
 You have to set up 2-Factor Authentication; otherwise, you will not be able to withdraw from DigiFinex. Please download Google Authenticator on your mobile device.
 

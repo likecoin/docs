@@ -16,7 +16,7 @@ A "Writing NFT" is a non-fungible token (NFT) representing the ownership of a wr
 
 There are several ways to collect a Writing NFT:
 
-1. Check out the [Liker Land NFT marketplace](https://liker.land/?utm\_source=docs), where Writing NFTs are also available.
+1. Check out the [Liker Land NFT marketplace](https://liker.land/zh-Hant/store/articles), where Writing NFTs are also available.
 2. Visit the [Portfolio](collect-writing-nft/nft-portfolio.md) page of the author or collector and purchase the Writing NFT there.
 3. Look for an [NFT Widget](collect-writing-nft/nft-widget.md) that is embedded in the content you're interested in.
 
@@ -44,7 +44,7 @@ Once your NFTs are published, they will be automatically listed. Others can coll
 
 ### I do not have a Liker ID, can I buy Writing NFT?
 
-Yes. Readers can buy Writing NFT with LikeCoin without registering a Liker ID.
+Yes. Readers can buy Writing NFT with [LikeCoin](https://like.co/) without registering a Liker ID.
 
 ### I do not have a Liker ID, can I sell Writing NFT?
 

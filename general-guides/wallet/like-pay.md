@@ -18,7 +18,7 @@ Open the mobile app and click on \[My Wallet] on top to manage your wallet. Then
 
 ### Step 3&#xD;
 
-Fill in the Liker ID or wallet address in the \[Receiver's Liker ID or address] field, or scan the QR Code. Ask the LikeCoin receiver to open their wallet and click the \[Receive] button to show their QR Code. Then, click on the icon circled in red and use your phone camera to scan the LikeCoin receiver's QR Code.
+Fill in the Liker ID or wallet address in the \[Receiver's Liker ID or address] field, or scan the QR Code. Ask the [LikeCoin](https://like.co/) receiver to open their wallet and click the \[Receive] button to show their QR Code. Then, click on the icon circled in red and use your phone camera to scan the LikeCoin receiver's QR Code.
 
 ![Use your phone camera to scan the LikeCoin receiver's QR Code](../../.gitbook/assets/like-pay-2-en.png)
 

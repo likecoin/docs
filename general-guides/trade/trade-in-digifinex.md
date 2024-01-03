@@ -8,7 +8,7 @@ description: Buy and Sell LikeCoin with DigiFinex
 Reminder: We suggest trying a small amount before making any large transactions.
 {% endhint %}
 
-DigiFinex is a top 20+ exchange on CoinMarketCap, and its trade and exchange volumes are at the highest level.. It provides LIKE/USDT trading pairs. If you do not have a DigiFinex account, please take a look at this. Moreover, you have to download the [Keplr](../wallet/keplr/) wallet or [Liker Land app](https://liker.land/getapp) to send/receive LikeCoin. The following instructions are based on DigiFinex web, but you may also use the [DigiFinex app](https://digifinex.zendesk.com/hc/en-us/articles/360000603862-How-to-download-APP) to trade LikeCoin.
+DigiFinex is a top 20+ exchange on CoinMarketCap, and its trade and exchange volumes are at the highest level.. It provides LIKE/USDT trading pairs. If you do not have a DigiFinex account, please take a look at this. Moreover, you have to download the [Keplr](../wallet/keplr/) wallet or [Liker Land app](https://liker.land/getapp) to send/receive [LikeCoin](https://like.co/). The following instructions are based on DigiFinex web, but you may also use the [DigiFinex app](https://digifinex.zendesk.com/hc/en-us/articles/360000603862-How-to-download-APP) to trade LikeCoin.
 
 ## Step 1: Create your LikeCoin wallet on DigiFinex
 

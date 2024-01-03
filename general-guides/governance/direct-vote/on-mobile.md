@@ -1,4 +1,4 @@
-# Vote on Mobile
+# Vote on mobile
 
 ## Vote via dao.like.co on a mobile browser
 
@@ -8,7 +8,7 @@ Using a mobile browser with [dao.like.co](https://dao.like.co/) can vote by [Aut
 
 ### Step 1: Delegate LikeCoin
 
-Before voting, please delegate your LikeCoin to any validators that you trust.
+Before voting, please delegate your [LikeCoin](https://like.co/) to any validators that you trust.
 
 {% content-ref url="../../stake/delegation-of-likecoin/" %}
 [delegation-of-likecoin](../../stake/delegation-of-likecoin/)

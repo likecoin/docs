@@ -8,7 +8,7 @@ description: Osmosis is a DEX, registration not required, immediate trade
 Reminder: We suggest trying with a small amount before making any large transactions.
 {% endhint %}
 
-On October 20, 2021, Likers can access LIKE in a permissionless and frictionless way with LikeCoin's first DEX listing of LIKE on Osmosis. For instance, swap LIKE for different listed tokens on Osmosis (or vice versa), including the USD stablecoin USDC. Registration is not required, and there is no minimum deposit or withdrawal limit. Users can operate with their wallet all the way down and experience decentralized trading.
+On October 20, 2021, Likers can access LIKE in a permissionless and frictionless way with [LikeCoin](https://like.co/)'s first DEX listing of LIKE on Osmosis. For instance, swap LIKE for different listed tokens on Osmosis (or vice versa), including the USD stablecoin USDC. Registration is not required, and there is no minimum deposit or withdrawal limit. Users can operate with their wallet all the way down and experience decentralized trading.
 
 Transak is a registered crypto asset firm with the UK Financial Conduct Authority under the Money Laundering, Terrorist Financing and Transfer of Funds regulations in respect of its activities in crypto assets. Transak enables users to buy or sell crypto with a credit card.
 

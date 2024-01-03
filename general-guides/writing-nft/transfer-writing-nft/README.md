@@ -12,7 +12,7 @@ Transferring Writing NFT is demonstrated as follows:
 
 ## Step 1: Login and transfer
 
-Log in to your [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/), [Leap Browser Extension](../../wallet/leap/), [Cosmostation app](../../wallet/cosmostation-app/) or [Liker Land app](../../../user-guide/liker-land/download.md). Then, click on the NFT that needs to be transferred and check how many of them you own. Click "Transfer".
+Log in to [Liker Land](https://liker.land/) with your [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/), [Leap Browser Extension](../../wallet/leap/), [Cosmostation app](../../wallet/cosmostation-app/) or [Liker Land app](../../../user-guide/liker-land/download.md). Then, click on the NFT that needs to be transferred and check how many of them you own. Click "Transfer".
 
 <figure><img src="../../../.gitbook/assets/NFT Transfer 1-en.png" alt=""><figcaption><p>Click "Transfer" to start transferring Writing NFT</p></figcaption></figure>
 

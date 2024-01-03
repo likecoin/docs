@@ -4,7 +4,7 @@ description: How to trade LikeCoin
 
 # Trade
 
-These are the ways to trade LikeCoin:
+These are the ways to trade [LikeCoin](https://like.co/):
 
 ### Decentralized Cryptocurrency Exchanges, DEX
 

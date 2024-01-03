@@ -6,7 +6,7 @@ description: Does the LikeCoin DAO have democracy?
 
 ![Liquid Democracy](../../.gitbook/assets/LikeCoin\_Staking\_Rewards\_voting\_eng.png)
 
-LikeCoin Community —— LikeCoin DAO —— governance by Liquid Democracy
+[LikeCoin](https://like.co/) Community —— LikeCoin DAO —— governance by Liquid Democracy
 
 Anyone who owes LikeCoin is a stakeholder, every stakeholder can have a stake in the governance of the LikeCoin DAO
 

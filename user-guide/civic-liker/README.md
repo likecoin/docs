@@ -12,7 +12,7 @@ Civic Liker is a movement that rewards good content and encourages openness.
 
 ## Civic Liker Web3 <a href="#civic-liker-web3-beta" id="civic-liker-web3-beta"></a>
 
-You can become a Civic Liker by [staking at least 5,000 LikeCoin to the "Civic Liker" node with a Liker ID tied to the staking wallet address](be-a-civic-liker.md). The node takes 100% of the stake reward to allow you to distribute the reward to the creators you "like" via the LikeCoin button.
+You can become a Civic Liker by [staking at least 5,000 LikeCoin to the "Civic Liker" node with a Liker ID tied to the staking wallet address](be-a-civic-liker.md). The node takes 100% of the stake reward to allow you to distribute the reward to the creators you "like" via the [LikeCoin button](../creator/).
 
 ## Reward creators without spending your principal
 

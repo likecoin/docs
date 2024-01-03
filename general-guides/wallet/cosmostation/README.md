@@ -6,7 +6,7 @@ description: >-
 
 # Cosmostation Browser Extension Wallet
 
-[Cosmostation](https://www.cosmostation.io/) is a non-custodial multi-chain cryptocurrency browser extension wallet for the Cosmos Interchain, Ethereum, ETH Layer 2, and EVM ecosystems. refer to the following guide for how to install Cosmostation. [Cosmostation has a mobile wallet](../cosmostation-app/) that supports LikeCoin chain too.
+[Cosmostation](https://www.cosmostation.io/) is a non-custodial multi-chain cryptocurrency browser extension wallet for the Cosmos Interchain, Ethereum, ETH Layer 2, and EVM ecosystems. refer to the following guide for how to install Cosmostation. [Cosmostation has a mobile wallet](../cosmostation-app/) that supports [LikeCoin chain](https://www.mintscan.io/likecoin) too.
 
 Cosmostation also provides a [web wallet](https://wallet.cosmostation.io/like-coin), but it only supports sending and delegating LikeCoin and you can login with Cosmostation Browser Extension.
 

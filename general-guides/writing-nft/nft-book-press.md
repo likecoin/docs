@@ -5,7 +5,7 @@ description: Mint NFT Book with LikeCoin NFT Book Press
 # Mint NFT Book
 
 {% hint style="info" %}
-Mint NFT requires the [Keplr Browser Extension](../wallet/keplr/) and LikeCoin on a desktop computer
+Mint NFT requires the [Keplr Browser Extension](../wallet/keplr/) and [LikeCoin](https://like.co/) on a desktop computer
 {% endhint %}
 
 Publishing an NFT book on the blockchain involves the following processes:
@@ -18,11 +18,11 @@ Publishing an NFT book on the blockchain involves the following processes:
 
 ## Create an epub file and enter metadata
 
-Create an ePub file and enter metadata. First, create the ePub file for the e-book, and ensure that the metadata has been entered and organized. Metadata includes book title, author, cover image, publication date, description, etc. Taking the commonly used ePub editing software as an example:
+Create an [ePub](https://en.wikipedia.org/wiki/EPUB) file and enter [metadata](../decentralized-publishing/what-is-iscn.md). First, create the ePub file for the e-book, and ensure that the metadata has been entered and organized. Metadata includes book title, author, cover image, publication date, description, etc. Taking the commonly used ePub editing software as an example:
 
 #### calibre
 
-The "Edit Metadata" button is in the upper left corner of the screen. After organizing the metadata, click "Save to disk".
+In [calibre](https://calibre-ebook.com/), the "Edit Metadata" button is in the upper left corner of the screen. After organizing the metadata, click "Save to disk".
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 1.png" alt=""><figcaption><p>The "Edit Metadata" and "Save to disk" buttons in calibre</p></figcaption></figure>
 
@@ -30,7 +30,7 @@ The "Edit Metadata" button is in the upper left corner of the screen. After orga
 
 #### Sigil
 
-In Sigil, you can press the F8 key to edit metadata on the fly.
+In [Sigil](https://sigil-ebook.com/), you can press the F8 key to edit metadata on the fly.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 3.png" alt=""><figcaption><p>In Sigil press the F8 key to edit metadata</p></figcaption></figure>
 
@@ -120,7 +120,7 @@ If your book file is in ePub format, the system will automatically extract the l
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 19.png" alt=""><figcaption><p>Enter the number of NFTs to mint in the "Number of NFT to mint" field and click "Mint"</p></figcaption></figure>
 
-The 🎉 Success! screen appears, indicating that the NFT has been successfully minted. Click "Continue to publish NFT Book" to complete the listing. Click "View your NFT" to view minted NFT books in Liker Land.
+The 🎉 Success! screen appears, indicating that the NFT has been successfully minted. Click "Continue to publish NFT Book" to complete the listing. Click "View your NFT" to view minted NFT books in [Liker Land](https://liker.land/).
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 20.png" alt=""><figcaption><p>. Click "Continue to publish NFT Book" to complete the listing. Click "View your NFT" to view minted NFT books in Liker Land</p></figcaption></figure>
 

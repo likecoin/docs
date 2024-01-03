@@ -6,7 +6,7 @@ description: >-
 
 # Transaction Fee
 
-Since March 9, 2021, the LikeCoin chain has followed the Cosmos Hub upgrades and added the Gas parameter, which is the same as other projects in the Cosmos Hub network. Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the blockchain. Not only on Cosmos Hub, but other blockchain platforms such as Ethereum also use Gas as the unit of measurement.
+Since March 9, 2021, the [LikeCoin chain](https://www.mintscan.io/likecoin) has followed the [Cosmos Hub](https://hub.cosmos.network/) upgrades and added the Gas parameter, which is the same as other projects in the Cosmos Hub network. Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the blockchain. Not only on Cosmos Hub, but other blockchain platforms such as Ethereum also use Gas as the unit of measurement.
 
 ## The importance of transaction fee
 
