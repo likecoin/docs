@@ -28,7 +28,7 @@ description: 讓自己的性格更特出
 
 ## 使用場景
 
-修改完成後，你的資訊會在 Liker Land 的各種使用場景中顯示：
+修改完成後，你的資訊會在 [Liker Land](https://github.com/warner/python-spake2) 的各種使用場景中顯示：
 
 ### NFT 展示櫃
 

@@ -51,7 +51,7 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 用戶需要在 Matters 網站內設置綁定：
 
-1. 請登入 [Matters.news](https://matters.news)
+1. 請登入 [Matters.town](https://matters.town/)
 2. 點擊左手邊「我的」，從菜單中選「設定」
 3. 在「錢包設定」部份，選 Liker ID
 4. 按畫面指示登入並綁定 Liker ID

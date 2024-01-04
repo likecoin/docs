@@ -6,7 +6,7 @@ description: 讚賞公民專享
 
 ## 讚賞公民 x 獨立書店
 
-讚賞公民尊屬優惠經已推出，以下香港獨立書店將提供優惠或贈送限量貼紙予讚賞公民會員，請於結帳時出示 Liker Land 手機應用程式中的會員頭像，或用手機瀏覽器訪問 Settings 或 [https://like.co/in/settings/](https://like.co/in/settings/) 顯示自己的讚賞公民會籍。
+讚賞公民尊屬優惠經已推出，以下香港獨立書店將提供優惠或贈送限量貼紙予讚賞公民會員，請於結帳時出示 [Liker Land](https://liker.land/) 手機應用程式中的會員頭像，或用手機瀏覽器訪問 Settings 或 [https://like.co/in/settings/](https://like.co/in/settings/) 顯示自己的讚賞公民會籍。
 
 大家齊來幫襯勁買，支持獨立書店吧！
 

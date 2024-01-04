@@ -12,7 +12,7 @@ description: 何謂 Super Like？
 
 ​[Liker Land app](https://docs.like.co/v/zh/user-guide/liker-land/download) 顯示 depub.space 的 World Feed。
 
-推文上鏈所需的 gas fee 及分散式儲存費用將由 Liker Land 補貼。
+推文上鏈所需的 gas fee 及分散式儲存費用將由 [Liker Land](https://liker.land/) 補貼。
 
 _(\*舊有的 4 LikeCoin 奬勵已被取消。)_
 

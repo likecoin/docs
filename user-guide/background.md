@@ -14,11 +14,11 @@ description: 以下為一些詞彙的解說，亦是憲法基礎，助你了解 
 
 ### Liker <a href="#id-5799" id="id-5799"></a>
 
-_LikeCoin DAO_ 的市民。每位 _Liker_ 擁有一獨特的 _Liker ID_ 以資識別。雖然很多 _Likers_ 是作者、攝影師、繪師、編輯、及內容管理者，_LikeCoin DAO_ 也完全歡迎不生產內容的內容消費者的參與和投入，並為他們提供服務。
+_LikeCoin DAO_ 的市民。每位 _Liker_ 擁有一獨特的 [_Liker ID_](liker-id/) 以資識別。雖然很多 _Likers_ 是作者、攝影師、繪師、編輯、及內容管理者，_LikeCoin DAO_ 也完全歡迎不生產內容的內容消費者的參與和投入，並為他們提供服務。
 
 ### 讚賞公民 ( Civic Liker ) <a href="#id-75ea" id="id-75ea"></a>
 
-最少委託 5,000 [LikeCoin](https://like.co/) 到讚賞公民節點，並以委託回報金以化讚為賞的方式回饋創作的 _Liker_，是 _LikeCoin DAO_ 的納稅人，在支持創作的同時亦能享有一些獨特的好處。
+最少委託 5,000 [LikeCoin](https://like.co/) 到[讚賞公民節點](https://bigdipper.live/likecoin/validators/likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug)，並以委託回報金以化讚為賞的方式回饋創作的 _Liker_，是 _LikeCoin DAO_ 的納稅人，在支持創作的同時亦能享有一些獨特的好處。
 
 ### Liker Land app <a href="#id-2696" id="id-2696"></a>
 
@@ -32,7 +32,7 @@ _LikeCoin DAO_ 的市民。每位 _Liker_ 擁有一獨特的 _Liker ID_ 以資�
 
 ### LikeCoin 通證 ( LikeCoin token ) <a href="#c246" id="c246"></a>
 
-一般會簡稱為 _LikeCoin_，_LikeCoin DAO_ 的貨幣，主要用途有三：
+一般會簡稱為 [_LikeCoin_](https://like.co/)，_LikeCoin DAO_ 的貨幣，主要用途有三：
 
 * **儲存及交換價值** － 用作奬賞創作者、_驗證人_ 等，及一般付款用途。
 * **代表一位 **_**Liker**_** 的貢獻及投票權重** － 貢獻愈大，會獲得愈多 _LikeCoin_，從而在 DAO 中有更大的影響力。
@@ -40,7 +40,7 @@ _LikeCoin DAO_ 的市民。每位 _Liker_ 擁有一獨特的 _Liker ID_ 以資�
 
 ### LikeCoin chain <a href="#aa59" id="aa59"></a>
 
-_LikeCoin DAO_ 政府去中心化的數據記錄，專為內容創作和資料產權而設計，提供高效、便宜，及尤其重要的獨立性。_LikeCoin chain_ 上的開放數據可在 [**Big Dipper**](https://likecoin.bigdipper.live) 上瀏覽。
+_LikeCoin DAO_ 政府去中心化的數據記錄，專為內容創作和資料產權而設計，提供高效、便宜，及尤其重要的獨立性。_LikeCoin chain_ 上的開放數據可在 [**Big Dipper**](https://likecoin.bigdipper.live) 及 [**Mintscan**](../general-guides/wallet/block-explorer/mintscan.md) 上瀏覽。
 
 2019年四月開發出 _LikeCoin chain_ 初代測試版本代號為 **KaiTak**（啟德），並於九月份升級為新的測試網絡 **Taipei**（台北）。直至 11月15日 被命名為 **SheungWan**（上環）的 _LikeCoin chain_ 第一次公開發怖，同時亦標誌著 _LikeCoin DAO_ 的誕生。
 
@@ -73,7 +73,7 @@ _LikeCoin_ 在 2017 年首次面世時在以太坊區塊鏈以 「ERC-20 通證�
 
 ### 升級 <a href="#id-4ee6" id="id-4ee6"></a>
 
-當 _LikeCoin DAO_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _LikeCoin DAO_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 _Liker_ 處理相關事宜。然而你仍然可以儲存 LikeCoin ERC-20 並於 [Liquid](https://www.liquid.com/) 交易所兌換為 Bitcoin 或以太幣（補充：Liquid 交易所已支援 _LikeCoin 通證，_假如仍然需交易 LikeCoin ERC-20，可到 [BitAsset](https://www.bitasset.com/) 或 [MyEthShop](https://www.myethshop.com/)）。
+當 _LikeCoin DAO_ 於 2019年12月2日開始運作，_LikeCoin_ 取代 LikeCoin ERC-20 成為 _LikeCoin DAO_ 的官方通證，亦即是代表創作者會收到 _LikeCoin_ 作為回饋。從儲存於創世區塊轉移池的 10 億 _LikeCoin_ 中解鎖若干數量 _LikeCoin_ 的方法就是以 1：1 方式把 LikeCoin ERC-20 轉換為新 _LikeCoin_。官方網站已提供轉移頁面予 _Liker_ 處理相關事宜。
 
 當 LikeCoin ERC-20 轉換為 _LikeCoin_，前者將於以太坊被燒毀。故此 _LikeCoin_ 及 LikeCoin ERC-20 在市面的合計流通量將維持不變。
 

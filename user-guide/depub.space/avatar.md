@@ -4,7 +4,7 @@ description: 讓你的推文更加醒目
 
 # 為 depub.space 增添頭像
 
-Desmos Profile、Omniflix NFT 及 Stargaze NFT 擁有者可於 [depub.space](https://depub.space/) 頭像展示自己的 NFT。
+[Desmos Profile](https://desmos.network/dpm)、[Omniflix NFT](https://omniflix.network/) 及 [Stargaze NFT](https://www.stargaze.zone/) 擁有者可於 [depub.space](https://depub.space/) 頭像展示自己的 NFT。
 
 ### 步驟一
 
@@ -20,7 +20,7 @@ Desmos Profile、Omniflix NFT 及 Stargaze NFT 擁有者可於 [depub.space](htt
 
 ### 步驟三
 
-假如用戶擁有與 LikeCoin 錢包相同的助記詞/密鑰所衍生的 Desmos、Omniflix 或 Stargaze 錢包，可於下拉選單選取，即可於 depub.space 作為頭像顯示。
+假如用戶擁有與 [LikeCoin](https://like.co/) 錢包相同的助記詞/密鑰所衍生的 Desmos、Omniflix 或 Stargaze 錢包，可於下拉選單選取，即可於 depub.space 作為頭像顯示。
 
 <figure><img src="../../.gitbook/assets/depub.space profile 03.png" alt=""><figcaption><p>在下拉選單選擇頭像</p></figcaption></figure>
 

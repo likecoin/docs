@@ -27,7 +27,7 @@ description: Liker Land app 錢包終於可以匯出助記詞
 
 ### 步驟三：重新登入 Liker Land
 
-以電郵及密碼，又或者任何一種[社交帳號登入](register/social-media-logins.md)方式登入 Liker Land。
+以電郵及密碼，又或者任何一種[社交帳號登入](register/social-media-logins.md)方式登入 [Liker Land](https://liker.land/)。
 
 ![重新登入 Liker Land](<../../.gitbook/assets/Seed Words 3.png>)
 

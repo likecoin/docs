@@ -20,7 +20,7 @@ description: 贊助創作者方法非常簡單
 \
 留意，讚賞公民目前沒有「等級」制度，委託更多 LikeCoin 的唯一效果只是回饋更多給作者：
 
-* 讚賞公民對 [LikeCoin button 讚賞鍵](../creator/)的每一下拍手直接等於 1 LikeCoin
+* 讚賞公民對 [LikeCoin button 讚賞鍵](../creator/)的每一下拍手直接等於 1 [LikeCoin](https://like.co/)
 * 委託讚賞公民節點每天差生的委託回報將依照以上一拍 = 1 LIKE 的原則分配予作者
 * 未有用到的委託回報餘額可以一直累積，直至帳號餘額用完為止
 

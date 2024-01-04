@@ -8,13 +8,13 @@ description: 對讚賞公民 Web3 有問題嗎？可以在這兒找答案
 
 ### **1. 讚賞公民對創作社群有何貢獻？**
 
-* 利用委託 LikeCoin 的回報金，以按讚的方式回饋作者。委託愈多，貢獻愈大
-* 按讚同時也影響創作基金的分配，進一步回饋創作
+* 利用委託 [LikeCoin](https://like.co/) 的回報金，以按讚的方式回饋作者。委託愈多，貢獻愈大
+* 按讚同時也影響[創作基金](creators-fund.md)的分配，進一步回饋創作
 * 有權參與社群投票，決定政策
 
 ### **2. 如何成為讚賞公民？**
 
-註冊 Liker ID，並委託一定數量 LikeCoin 至「[Civic Liker 讚賞公民](https://likecoin.bigdipper.live/validators/likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug)節點」，即獲讚賞公民資格。
+註冊 Liker ID，並委託一定數量 LikeCoin 至「[Civic Liker 讚賞公民節點](https://bigdipper.live/likecoin/validators/likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug)」，即獲讚賞公民資格。
 
 ### **3. 讚賞公民如何回饋創作者？**
 
@@ -50,7 +50,7 @@ description: 對讚賞公民 Web3 有問題嗎？可以在這兒找答案
 
 ### **11. 讚賞公民節點由誰負責營運？**
 
-讚賞公民節點由 Liker Land 公司營運。
+讚賞公民節點由 [Liker Land](https://liker.land/) 公司營運。
 
 ### **12. 讚賞公民節點會否投票？**
 

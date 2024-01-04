@@ -51,7 +51,7 @@
     * [Keplr](general-guides/decentralized-publishing/app.like.co/keplr.md)
     * [Cosmostation](general-guides/decentralized-publishing/app.like.co/cosmostation.md)
     * [Cosmostation app](general-guides/decentralized-publishing/app.like.co/cosmostation-app.md)
-    * [Liker Land app](general-guides/decentralized-publishing/app.like.co/liker-land-app.md)
+    * [Liker Land 手機應用程式](general-guides/decentralized-publishing/app.like.co/liker-land-app.md)
     * [Matters](general-guides/decentralized-publishing/app.like.co/matters.md)
   * [如何大量註冊 ISCN](general-guides/decentralized-publishing/iscn-batch-uploader.md)
   * [ISCN Browser](general-guides/decentralized-publishing/iscn-browser.md)

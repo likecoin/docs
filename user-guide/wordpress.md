@@ -4,7 +4,7 @@ description: 如何在自架 WordPress 網站加入 NFT 小部件，出版 WordP
 
 # Web3Press
 
-過往要把文章以 NFT 形式出版，工序很䌓複：作者須先把內容及元數據儲存在如 IPFS 等分散式空間或區塊鏈上，再上傳到 NFT 市場定價出售，過程中還要入手幾款不同用途的密碼貨幣。然而現在 WordPress 的用戶有福了，因為寫完文章以後只需按一個鍵，便能完成出版 NFT 的工序，內容立即上鏈，過程只需一分鐘！
+過往要把文章以 NFT 形式出版，工序很䌓複：作者須先把內容及元數據儲存在如 IPFS 等分散式空間或區塊鏈上，再上傳到 NFT 市場定價出售，過程中還要入手幾款不同用途的密碼貨幣。然而現在 [WordPress](https://wordpress.org/) 的用戶有福了，因為寫完文章以後只需按一個鍵，便能完成出版 NFT 的工序，內容立即上鏈，過程只需一分鐘！
 
 LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為古騰堡編輯器度身訂造，讓 WordPress 網站一鍵接通 Web3，實現完整的分散式出版。功能包括：
 
