@@ -38,7 +38,7 @@
     * [Liker Social](general-guides/writing-nft/nft-portal/liker-social.md)
     * [illustBuy](general-guides/writing-nft/nft-portal/illustbuy.md)
     * [以 ISCN ID 發行 NFT](general-guides/writing-nft/nft-portal/iscn-id.md)
-  * [發行 NFT 書](general-guides/writing-nft/nft-book-press.md)
+  * [發行 NFT 電子書](general-guides/writing-nft/nft-book-press.md)
   * [發送 Writing NFT](general-guides/writing-nft/transfer-writing-nft/README.md)
     * [群發 NFT 紀念品給支持者](general-guides/writing-nft/transfer-writing-nft/batch.md)
   * [BookForest](general-guides/writing-nft/bookforest.io.md)

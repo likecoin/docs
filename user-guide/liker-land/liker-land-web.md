@@ -10,7 +10,7 @@ description: 網頁版的 Liker Land
 
 ## 選項一：瀏覽書店 - [https://liker.land/zh-Hant/store](https://liker.land/zh-Hant/store)
 
-書店展示精選 NFT 書，熱門與最新的 Writing NFT 及文章推介。
+書店展示精選 NFT 電子書，熱門與最新的 Writing NFT 及文章推介。
 
 ## 選項二：個人主頁 - [https://liker.land/zh-Hant/feed](https://liker.land/zh-Hant/feed?view=town)
 

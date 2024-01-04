@@ -1,5 +1,5 @@
 ---
-description: 購買 NFT 書
+description: 購買 NFT 電子書
 ---
 
 # BookForest
@@ -10,7 +10,7 @@ description: 購買 NFT 書
 
 透過 BookForest，讀者可以讓作者為他們的電子書簽名，提供了個人風格並增加了書的價值。此外，讀者可以與其他讀者交易他們的電子出版物，從而使讀者之間的互動及參與度達到嶄新的水平。
 
-以下將介紹如何於 BookForest 購買 NFT 書：
+以下將介紹如何於 BookForest 購買 NFT 電子書：
 
 ## 步驟一：連接錢包
 
@@ -20,7 +20,7 @@ description: 購買 NFT 書
 
 <figure><img src="../../.gitbook/assets/bookforest 1.png" alt=""><figcaption><p>點「Approve」連接 Keplr</p></figcaption></figure>
 
-## 步驟二：購買 NFT 書
+## 步驟二：購買 NFT 電子書
 
 在走碼燈或 BookForest new drops 選擇你想購買的書。
 
@@ -34,7 +34,7 @@ description: 購買 NFT 書
 
 <figure><img src="../../.gitbook/assets/bookforest 4.png" alt=""><figcaption><p>進入 Stripe 付款頁面，填寫你的電郵及信用卡資料後點「Buy」</p></figcaption></figure>
 
-## 步驟三：NFT 書購買完成
+## 步驟三：NFT 電子書購買完成
 
 出現 Thank you! 頁面。
 
@@ -44,4 +44,4 @@ description: 購買 NFT 書
 
 <figure><img src="../../.gitbook/assets/bookforest 6.png" alt=""><figcaption><p>收到確認電郵</p></figcaption></figure>
 
-已購買的 NFT 書將於「[我的書架](collect-writing-nft/dashboard.md)」中展示。
+已購買的 NFT 電子書將於「[我的書架](collect-writing-nft/dashboard.md)」中展示。

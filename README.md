@@ -12,11 +12,11 @@ description: 有關 LikeCoin、去中心出版、及 LikeCoin DAO
 
 ### 內容擁有權
 
-在 LikeCoin 上出版 NFT，獲得內容擁有權的憑證。
+在 LikeCoin 上[出版 NFT](general-guides/writing-nft/nft-portal/)，獲得內容擁有權的憑證。
 
 ### 去中心出版
 
-鑄造並售賣作品的 NFT。作者在市場售賣 NFT，有如在 Amazon 售賣電子書或在書店售賣書籍一般。
+鑄造並[售賣作品的 NFT](https://liker.land/zh-Hant/store)。作者在市場售賣 NFT，有如在 Amazon 售賣電子書或在書店售賣書籍一般。
 
 ### 專為內容而設計的 NFT
 

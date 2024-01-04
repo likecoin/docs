@@ -24,7 +24,7 @@ description: 要去哪裏下載 Liker Land？
 * [委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin/)
 * [成為讚賞公民](../civic-liker/be-a-civic-liker.md)
 
-## 選項二：NFT 書店
+## 選項二：NFT 電子書店
 
 * [收藏 Writing NFT](../../general-guides/writing-nft/collect-writing-nft/)
 * [我的書架](../../general-guides/writing-nft/collect-writing-nft/dashboard.md)
