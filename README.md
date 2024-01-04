@@ -4,6 +4,8 @@ description: 'What is LikeCoin, #DePub, and the LikeCoin DAO'
 
 # Decentralize Publishing
 
+
+
 ![](<.gitbook/assets/LCF001-key visual v4.1-1.jpg>)
 
 ### What is LikeCoin?
@@ -12,7 +14,7 @@ LikeCoin decentralizes publishing by allowing everyone to publish their content 
 
 ### Content Ownership
 
-Own your content by publishing an NFT on the LikeCoin chain.
+Own your content by [publishing an NFT](general-guides/writing-nft/nft-portal/) on the LikeCoin chain.
 
 ### Decentralize Publishing
 

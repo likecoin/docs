@@ -1,14 +1,14 @@
 ---
-description: Mint NFT Book with LikeCoin NFT Book Press
+description: Mint NFT eBook with LikeCoin NFT Book Press
 ---
 
-# Mint NFT Book
+# Mint NFT eBook
 
 {% hint style="info" %}
 Mint NFT requires the [Keplr Browser Extension](../wallet/keplr/) and [LikeCoin](https://like.co/) on a desktop computer
 {% endhint %}
 
-Publishing an NFT book on the blockchain involves the following processes:
+Publishing an NFT eBook on the blockchain involves the following processes:
 
 1. [Prepare the ePub File](nft-book-press.md#create-an-epub-file-and-enter-metadata)
 2. [Register ISCN](nft-book-press.md#register-iscn)
@@ -88,7 +88,7 @@ The Keplr wallet will pop up a window several times; click "Approve" to sign. Be
 
 ### Step 3: ISCN registration completed
 
-"Completed! Here is your ISCN" appears, indicating that the ISCN has been successfully registered. The string of characters in the ISCN ID field will be used when the NFT book is listed for sale. Note that the last number is the ISCN version number; you do not need to enter it when listing the NFT book.
+"Completed! Here is your ISCN" appears, indicating that the ISCN has been successfully registered. The string of characters in the ISCN ID field will be used when the NFT eBook is listed for sale. Note that the last number is the ISCN version number; you do not need to enter it when listing the NFT eBook.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 15.png" alt=""><figcaption><p>ISCN has been successfully registered</p></figcaption></figure>
 
@@ -96,9 +96,9 @@ The Keplr wallet will pop up a window several times; click "Approve" to sign. Be
 
 ## List the Book for Sale
 
-Listing for sale is divided into two steps: minting the NFT book and listing it. An analogy to traditional publishing is printing manuscripts into books and placing them on bookshelves for sale.
+Listing for sale is divided into two steps: minting the NFT eBook and listing it. An analogy to traditional publishing is printing manuscripts into books and placing them on bookshelves for sale.
 
-### Step 1: Mint the NFT book
+### Step 1: Mint the NFT eBook
 
 Visit the [LikeCoin NFT BookPress](https://likecoin.github.io/nft-book-press/) website, click "Mint NFT", enter the website, and click the "Connect Wallet" link in the upper right corner to connect with Keplr.
 
@@ -120,9 +120,9 @@ If your book file is in ePub format, the system will automatically extract the l
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 19.png" alt=""><figcaption><p>Enter the number of NFTs to mint in the "Number of NFT to mint" field and click "Mint"</p></figcaption></figure>
 
-The 🎉 Success! screen appears, indicating that the NFT has been successfully minted. Click "Continue to publish NFT Book" to complete the listing. Click "View your NFT" to view minted NFT books in [Liker Land](https://liker.land/).
+The 🎉 Success! screen appears, indicating that the NFT has been successfully minted. Click "Continue to publish NFT Book" to complete the listing. Click "View your NFT" to view minted NFT eBooks in [Liker Land](https://liker.land/).
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 20.png" alt=""><figcaption><p>. Click "Continue to publish NFT Book" to complete the listing. Click "View your NFT" to view minted NFT books in Liker Land</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 20.png" alt=""><figcaption><p>. Click "Continue to publish NFT Book" to complete the listing. Click "View your NFT" to view minted NFT eBooks in Liker Land</p></figcaption></figure>
 
 Since it is not yet available for sale, you will see the words "Sold Out".
 
@@ -133,10 +133,10 @@ Since it is not yet available for sale, you will see the words "Sold Out".
 Return to LikeCoin NFT BookPress, click "Continue to publish NFT Book," and the NFT Book Store Management Page will appear.
 
 {% hint style="info" %}
-If you accidentally closed the page, you can enter your NFT Class ID in [Step 1](nft-book-press.md#register-iscn) "Enter ISCN ID or NFT Class ID," and you will see "Continue to publish NFT Book". The Class ID is the string after the URL of your NFT book. For example, your NFT URL is  https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x, and the NFT Class ID is likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mf z0yz57gffwsrgrasl2m59x.
+If you accidentally closed the page, you can enter your NFT Class ID in [Step 1](nft-book-press.md#register-iscn) "Enter ISCN ID or NFT Class ID," and you will see "Continue to publish NFT Book". The Class ID is the string after the URL of your NFT eBook. For example, your NFT URL is  https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x, and the NFT Class ID is likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mf z0yz57gffwsrgrasl2m59x.
 {% endhint %}
 
-The NFT Class ID and Total number of NFT for sale, which is the number of NFT books that have been minted, automatically appear in the "New NFT Book Listing".
+The NFT Class ID and Total number of NFT for sale, which is the number of NFT eBooks that have been minted, automatically appear in the "New NFT Book Listing".
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 22.png" alt=""><figcaption><p>The NFT Class ID and Total number of NFT for sale automatically appear in the "New NFT Book Listing"</p></figcaption></figure>
 
@@ -144,18 +144,18 @@ Enter the following in "Pricing and Availability":
 
 * Default display currency when user checkout: Pricing is USD or HKD.
 * Price (USD) of this book (Minimal 0.9 or free): The minimum price is 0.9 USD, or enter 0 for free.&#x20;
-* Total number of NFT for sale of this edition: Number of NFT books for sales for this edition. Note that the "Total number of NFT for sale" refers to the number of NFT books that have been minted, while the "Total number of NFT for sale of this edition" sets the sales quantity of this specific edition.
+* Total number of NFT for sale of this edition: Number of NFT eBooks for sales for this edition. Note that the "Total number of NFT for sale" refers to the number of NFT eBooks that have been minted, while the "Total number of NFT for sale of this edition" sets the sales quantity of this specific edition.
 * Product name of this edition: You can set the version of NFT according to your personal preferences, such as Standard Edition, Free Edition, etc. Click "Add Edition" in the upper right corner to add multiple different versions.
-* In "Product description of this edition", you can enter the Chinese and English description of the NFT book version.
+* In "Product description of this edition", you can enter the Chinese and English description of the NFT eBook version.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23.png" alt=""><figcaption><p>Enter information into "Pricing and Availability"</p></figcaption></figure>
 
-In addition, users can also set whether to sell Physical Goods, Connect to your own Stripe Account, and whether the PDF file of the specified NFT book can be downloaded ("Disable file download for PDF"). Then click "Submit".
+In addition, users can also set whether to sell Physical Goods, Connect to your own Stripe Account, and whether the PDF file of the specified NFT eBook can be downloaded ("Disable file download for PDF"). Then click "Submit".
 
 The version of the book will appear in "Current Listing".
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 24.png" alt=""><figcaption><p>The version of the book will appear in "Current Listing"</p></figcaption></figure>
 
-Go back to Liker Land to check that the NFT book has been successfully listed for sale.
+Go back to Liker Land to check that the NFT eBook has been successfully listed for sale.
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 25.png" alt=""><figcaption><p>The NFT book has been successfully listed for sale</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 25.png" alt=""><figcaption><p>The NFT eBook has been successfully listed for sale</p></figcaption></figure>

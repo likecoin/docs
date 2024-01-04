@@ -116,7 +116,7 @@
     * [Liker.Social](general-guides/writing-nft/nft-portal/liker-social.md)
     * [illustBuy](general-guides/writing-nft/nft-portal/illustbuy.md)
     * [Publish NFT with ISCN ID](general-guides/writing-nft/nft-portal/iscn-id.md)
-  * [Mint NFT Book](general-guides/writing-nft/nft-book-press.md)
+  * [Mint NFT eBook](general-guides/writing-nft/nft-book-press.md)
   * [Transfer Writing NFT](general-guides/writing-nft/transfer-writing-nft/README.md)
     * [Batch send NFT to supporters](general-guides/writing-nft/transfer-writing-nft/batch.md)
   * [BookForest](general-guides/writing-nft/bookforest.io.md)

@@ -10,7 +10,7 @@ After logging in to Liker Land web - [https://Liker.Land](https://liker.land/), 
 
 ## **Option 1: Enter Store -** [**https://liker.land/en/store**](https://liker.land/en/store)
 
-The bookstore displays selected NFT books, popular and latest Writing NFTs and article recommendations.
+The bookstore displays selected NFT eBooks, popular and latest Writing NFTs and article recommendations.
 
 ## **Option 2:** My Dashboard - [https://liker.land/en/feed](https://liker.land/en/feed?view=town)
 
