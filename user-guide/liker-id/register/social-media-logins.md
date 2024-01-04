@@ -54,7 +54,7 @@ Click on the social media login ( except Matters ), follow the on-screen instruc
 Users have to go to the Matters website for linking:
 
 1. Switch to the English interface on the right-hand corner.
-2. Log in to [Matters.news](https://matters.news/).
+2. Log in to [Matters.town](https://matters.town/).
 3. Click on "My Page" on the left-hand side and select "Settings" from the menu.
 4. Under "Wallet Settings," select "Liker ID."
 5. Log in to your Liker ID and link it with Matters according to the instructions.

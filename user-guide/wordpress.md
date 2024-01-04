@@ -6,7 +6,7 @@ description: >-
 
 # Web3Press
 
-The current hassle to publish articles as NFTs: Creators needed to find ways to save the contents and metadata on decentralized storage such as IPFS or blockchain, before selling them on the NFT marketplaces. Furthermore, they had to purchase several kinds of cryptocurrencies during the process. We have good news for WordPress users: After finishing your articles, you only need one click to publish NFT credentials to blockchain. the whole process just takes one minute to complete within the WordPress editor!
+The current hassle to publish articles as NFTs: Creators needed to find ways to save the contents and metadata on decentralized storage such as IPFS or blockchain, before selling them on the NFT marketplaces. Furthermore, they had to purchase several kinds of cryptocurrencies during the process. We have good news for [WordPress](https://wordpress.org/) users: After finishing your articles, you only need one click to publish NFT credentials to blockchain. the whole process just takes one minute to complete within the WordPress editor!
 
 The brand new LikeCoin [Web3Press plugin](https://wordpress.org/plugins/likecoin/) is tailor made for Gutenberg editor, which links up the WordPress website with Web3 by just one click and decentralized publishing can be actualized to the fullest. Its functions include:
 

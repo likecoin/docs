@@ -12,7 +12,7 @@ When users click the 6th like (Super Like) on the [LikeCoin button](../creator/)
 
 ​The [Liker Land app](download.md) displays the World Feed from depub.space.
 
-The gas fee and decentralized storage fee for uploading to depub.space will be subsidized by Liker Land, alleviating the burden on users.
+The gas fee and decentralized storage fee for uploading to depub.space will be subsidized by [Liker Land](https://liker.land/), alleviating the burden on users.
 
 _\*Note: The previous 4 LikeCoin rewards have been cancelled._
 

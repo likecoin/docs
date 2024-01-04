@@ -4,7 +4,7 @@ description: Easier to identify your tweet
 
 # Avatar for depub.space
 
-Desmos Profile, Omniflix NFT and Stargaze NFT owners can display their NFTs on [depub.space](https://depub.space/) as avatar.
+[Desmos Profile](https://desmos.network/dpm), [Omniflix NFT](https://omniflix.network/) and [Stargaze NFT](https://www.stargaze.zone/) owners can display their NFTs on [depub.space](https://depub.space/) as avatar.
 
 ## Step 1
 
@@ -20,6 +20,6 @@ The settings page appears, click "Edit".
 
 ## Step 3
 
-If the user has a Desmos, Omniflix, or Stargaze wallet derived from the same mnemonic/private key as the LikeCoin wallet, he/she can select the corresponding option from the drop-down menu to display the NFT as an avatar in depub.space.
+If the user has a Desmos, Omniflix, or Stargaze wallet derived from the same mnemonic/private key as the [LikeCoin](https://like.co/) wallet, he/she can select the corresponding option from the drop-down menu to display the NFT as an avatar in depub.space.
 
 <figure><img src="../../.gitbook/assets/depub.space profile 03.png" alt=""><figcaption><p>Select the corresponding option from the drop-down menu to display the NFT as an avatar</p></figcaption></figure>

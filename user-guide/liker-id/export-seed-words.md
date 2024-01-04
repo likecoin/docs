@@ -4,7 +4,7 @@ description: Liker Land app wallet can finally export seed words
 
 # Export Seed Words
 
-Starting in April 2022, users can export seed words from [Liker ID registered through the general method (with Authcore)](register/) and import them into, for example, Keplr, to manage their LikeCoin.
+Starting in April 2022, users can export seed words from [Liker ID registered through the general method (with Authcore)](register/) and import them into, for example, Keplr, to manage their [LikeCoin](https://like.co/).
 
 Before exporting the seed words, please note:
 

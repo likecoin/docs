@@ -4,7 +4,7 @@ description: Civic Liker Data Analysis
 
 # ​Civic Liker Web3 Report
 
-User @baoshin created a [Civic Liker Web3 Report](https://datastudio.google.com/u/0/reporting/d801e66d-5de6-4046-8244-dcfd77a15d47/page/p\_dhohm7ddsc) that listed the number of stakes and the stake distribution of the Civic Liker nodes.
+User @baoshin created a [Civic Liker Web3 Report](https://datastudio.google.com/u/0/reporting/d801e66d-5de6-4046-8244-dcfd77a15d47/page/p\_dhohm7ddsc) that listed the number of stakes and the stake distribution of the [Civic Liker node](https://bigdipper.live/likecoin/validators/likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug).
 
 <figure><img src="../../.gitbook/assets/Civic Liker Web 3 Status.png" alt=""><figcaption><p>​Civic Liker Web3 Report</p></figcaption></figure>
 

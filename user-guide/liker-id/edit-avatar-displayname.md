@@ -28,7 +28,7 @@ Click on the settings icon located at the lower right-hand corner and select "Pr
 
 ## Use Case
 
-Your name and avatar will appear in various Liker Land scenarios:
+Your name and avatar will appear in various [Liker Land](https://liker.land/) scenarios:
 
 ### NFT Portfolio
 

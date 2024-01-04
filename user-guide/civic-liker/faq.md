@@ -7,7 +7,7 @@ description: Civic Liker Web3 FAQ
 ## Schedule of the new scheme
 
 * The new version of Civic Liker Web3 (beta) was launched on February 21, 2022.
-* Liker Land has ceased supporting credit card payments and new Civic Liker registrations until the new scheme is implemented.
+* [Liker Land](https://liker.land/) has ceased supporting credit card payments and new Civic Liker registrations until the new scheme is implemented.
 * Credit card/PayPal auto-renewal payments for existing subscriptions will be automatically halted on the next billing day. During this period, the Civic Liker status remains in effect.
 * The balance that existing Civic Likers have paid will be combined with the delegation rewards in the new scheme, allowing them to continue rewarding creators by clicking LikeCoin buttons.
 * For annual subscriptions, a pro-rata refund of LikeCoin equivalent to the remaining months will be provided.
@@ -16,13 +16,13 @@ description: Civic Liker Web3 FAQ
 
 ### **1.** What is the contribution of Civic Liker to the creators community?
 
-* Civic Likers contribute by using the rewards earned from delegating LikeCoin to reward creators through clicking the LikeCoin button and giving likes. The larger the delegation, the greater the contribution.
-* Additionally, clicking the LikeCoin button also impacts the distribution of the Creators Fund, Reinventing the Likes by turning them into income.
+* Civic Likers contribute by using the rewards earned from delegating [LikeCoin](https://like.co/) to reward creators through clicking the [LikeCoin button](../creator/) and giving likes. The larger the delegation, the greater the contribution.
+* Additionally, clicking the LikeCoin button also impacts the distribution of the [Creators Fund](creators-fund.md), Reinventing the Likes by turning them into income.
 * Civic Likers also have the right to participate in community voting to help decide policies.
 
 ### **2. How to become a Civic Liker?**
 
-To become a Civic Liker, you need to [register a Liker ID](../liker-id/) and delegate a certain amount of LikeCoin to the "[Civic Liker](https://likecoin.bigdipper.live/validators/likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug)" node.
+To become a Civic Liker, you need to [register a Liker ID](../liker-id/) and delegate a certain amount of LikeCoin to the ["Civic Liker" node](https://bigdipper.live/likecoin/validators/likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug).
 
 ### **3. How can Civic Liker support creators?**
 
@@ -58,7 +58,7 @@ Yes, but it will not affect the distribution of the Creators Fund.
 
 ### **11.** Who is responsible for operating the Civic Liker node?
 
-The Civic Liker node is operated by Liker Land Corporation.
+The Civic Liker node is operated by [Liker Land](https://liker.land/) Corporation.
 
 ### **12. Will the Civic Liker node vote?**
 

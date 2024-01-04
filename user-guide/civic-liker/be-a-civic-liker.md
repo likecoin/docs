@@ -18,7 +18,7 @@ Users stake at least **5,000** LIKE to the "Civic Liker node" **with a wallet ad
 
 Based on the current commission rate of about 15%, the monthly rewards that 5,000 LIKE can generate are equal to 5,000 \* 0.15 / 12 = 62.5 LIKE, which is approximately US$1.5 per month at the current exchange rate. The more you delegate, the more Likes you can turn into actual income.
 
-Please note that there is no "Ranking" system for Civic Liker, and the only effect of delegating more LikeCoin is to reward more to the creators:
+Please note that there is no "Ranking" system for Civic Liker, and the only effect of delegating more [LikeCoin](https://like.co/) is to reward more to the creators:
 
 * Every clap on the LikeCoin button by a Civic Liker will be equivalent to 1 LikeCoin.
 * The stake reward derived from Civic Liker delegation every day will be distributed to the creators according to the principle of 1 clap to the LikeCoin button = 1 LIKE.

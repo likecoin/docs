@@ -12,4 +12,4 @@ Users who have registered a [Liker ID](../liker-id/) can use the [Liker Land app
 
 Moreover, creators can track their [weekly and daily rewards](../creatortools/rewards.md) received from each article. They will also receive [monthly reports](../creatortools/monthly-report.md) from the Liker Land team, providing insights into their achievements.
 
-Readers also have the option to send LikeCoin directly to the creators using [LIKE pay](../../general-guides/wallet/like-pay.md).
+Readers also have the option to send [LikeCoin](https://like.co/) directly to the creators using [LIKE pay](../../general-guides/wallet/like-pay.md).

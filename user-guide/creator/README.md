@@ -16,7 +16,7 @@ From the LikeCoin button on each creation, readers can:
 
 ### LikeCoin button
 
-[Matters](https://matters.news/) s empowered with the LikeCoin button by default. Content creators can provide their [Liker ID](../liker-id/) to [InMedia](https://www.inmediahk.net/) for embedding the LikeCoin button. We-Media can install the [LikeCoin WordPress plugin](https://wordpress.org/plugins/likecoin/), which automatically adds a LikeCoin button to the end of each article. [Medium](https://medium.com/) writers can insert the LikeCoin button link to embed it into an article. The LikeCoin button also supports [Blogspot ( Blogger.com )](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms.
+[Matters](https://matters.town/) s empowered with the LikeCoin button by default. Content creators can provide their [Liker ID](../liker-id/) to [InMedia](https://www.inmediahk.net/) for embedding the LikeCoin button. We-Media can install the [LikeCoin WordPress plugin](https://wordpress.org/plugins/likecoin/), which automatically adds a LikeCoin button to the end of each article. [Medium](https://medium.com/) writers can insert the LikeCoin button link to embed it into an article. The LikeCoin button also supports [Blogspot ( Blogger.com )](https://www.blogger.com/dashboard/reading), [Pixnet](https://appmarket.pixnet.tw/#!/addon/1331) and other content platforms.
 
 <figure><img src="../../.gitbook/assets/LikeCoin button-en.png" alt=""><figcaption><p>LikeCoin button</p></figcaption></figure>
 
