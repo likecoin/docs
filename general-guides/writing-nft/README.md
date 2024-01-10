@@ -14,17 +14,17 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 如何購買 Writing NFT？
 
-你可以幾種方式收藏 Writing NFT：
+你可以幾種方式收藏 NFT 電子書及文章 NFT：
 
-* 到 [Liker Land NFT 市場](https://liker.land/zh-Hant/store/articles)查看，那裡也有 Writing NFT。
-* 參觀作者或收藏家的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)頁面，並在那裡購買寫作 NFT。
+* 到 Liker Land NFT 書店查看，那裡有 [NFT 電子書](https://liker.land/zh-Hant/store)及[文章 NFT](https://liker.land/zh-Hant/store/articles)。
+* 參觀作者或收藏家的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)頁面，並在那裡購買 NFT。
 * 尋找嵌入您感興趣內容的 [NFT 小部件](collect-writing-nft/nft-widget.md)。
 
 ### 如何第一時間接收到新 NFT 上架的消息？
 
 可使用[追蹤作者](collect-writing-nft/follow-creators.md)功能。
 
-### NFT 的價格如何訂定？
+### 文章 NFT 的價格如何訂定？
 
 系統會[根據供需情況自行調節賣價](collect-writing-nft/dynamic-pricing.md)，作者不用設定售價，讀者也不用設定買價。當一定數量的 NFT 售出後，售價便會調升；有人在[二級市場](collect-writing-nft/nft-marketplace.md)放售，售價便會回落。
 
@@ -36,7 +36,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 可在 NFT 頁面[輸入對方的錢包地址轉贈](transfer-writing-nft/)。
 
-### 如何發售 Writing NFT？
+### 如何發售文字 NFT？
 
 可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../../user-guide/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT 小部件](collect-writing-nft/nft-widget.md) 及 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)發售，作者不用手動做額外動作上架市場。
 
@@ -60,7 +60,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 在[二級市場](collect-writing-nft/nft-marketplace.md)設定 NFT 的賣出價，讀者即可以該售價收集。
 
-### 能設定作品的 NFT 發行量上限嗎？
+### 能設定文字作品的 NFT 發行量上限嗎？
 
 原則上發行量沒有上限，但由於提升售價會自動隨交易量而上升，當售價上升到超過市場可接受的價位後，便會自然沒人交易，變相限制了發行量。
 

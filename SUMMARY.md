@@ -40,7 +40,7 @@
     * [以 ISCN ID 發行 NFT](general-guides/writing-nft/nft-portal/iscn-id.md)
   * [發行 NFT 電子書](general-guides/writing-nft/nft-book-press/README.md)
     * [修改 NFT 電子書](general-guides/writing-nft/nft-book-press/change-nft-ebook.md)
-    * [銷毁 NFT 電子書](general-guides/writing-nft/nft-book-press/bun-nft-ebook.md)
+    * [銷毁 NFT 電子書](general-guides/writing-nft/nft-book-press/burn-nft-ebook.md)
   * [發送 Writing NFT](general-guides/writing-nft/transfer-writing-nft/README.md)
     * [群發 NFT 紀念品給支持者](general-guides/writing-nft/transfer-writing-nft/batch.md)
   * [BookForest](general-guides/writing-nft/bookforest.io.md)
