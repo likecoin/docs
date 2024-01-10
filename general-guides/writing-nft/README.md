@@ -20,13 +20,13 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 * 參觀作者或收藏家的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)頁面，並在那裡購買 NFT。
 * 尋找嵌入您感興趣內容的 [NFT 小部件](collect-writing-nft/nft-widget.md)。
 
+### 沒有 Liker ID ，能購買 Writing NFT 嗎？
+
+可以，只要使用 [LikeCoin](https://like.co/) 即可。
+
 ### 如何第一時間接收到新 NFT 上架的消息？
 
 可使用[追蹤作者](collect-writing-nft/follow-creators.md)功能。
-
-### 文章 NFT 的價格如何訂定？
-
-系統會[根據供需情況自行調節賣價](collect-writing-nft/dynamic-pricing.md)，作者不用設定售價，讀者也不用設定買價。當一定數量的 NFT 售出後，售價便會調升；有人在[二級市場](collect-writing-nft/nft-marketplace.md)放售，售價便會回落。
 
 ### 可在哪兒查看收集了的 NFT？
 
@@ -36,13 +36,25 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 可在 NFT 頁面[輸入對方的錢包地址轉贈](transfer-writing-nft/)。
 
+### 如何把 NFT 賣到二級市場？
+
+在[二級市場](collect-writing-nft/nft-marketplace.md)設定 NFT 的賣出價，讀者即可以該售價收集。
+
+### 文章 NFT 的價格如何訂定？
+
+系統會[根據供需情況自行調節賣價](collect-writing-nft/dynamic-pricing.md)，作者不用設定售價，讀者也不用設定買價。當一定數量的 NFT 售出後，售價便會調升；有人在[二級市場](collect-writing-nft/nft-marketplace.md)放售，售價便會回落。
+
+### 如何發售 NFT 電子書？
+
+使用 [LikeCoin NFT Book Press](nft-portal/)  可發行 NFT 電子書。
+
 ### 如何發售文字 NFT？
 
 可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../../user-guide/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT 小部件](collect-writing-nft/nft-widget.md) 及 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)發售，作者不用手動做額外動作上架市場。
 
-### 沒有 Liker ID ，能購買 Writing NFT 嗎？
+### 能設定文字作品的 NFT 發行量上限嗎？
 
-可以，只要使用 [LikeCoin](https://like.co/) 即可。
+原則上發行量沒有上限，但由於提升售價會自動隨交易量而上升，當售價上升到超過市場可接受的價位後，便會自然沒人交易，變相限制了發行量。
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 
@@ -55,14 +67,6 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 ### 作品沒有安裝 NFT 小部件，也能發售 NFT 嗎？
 
 可在 [NFT Portal](nft-portal/) 發行 NFT，然後在自己的 [NFT 展示櫃](collect-writing-nft/nft-portfolio.md)或[二級市場](collect-writing-nft/nft-marketplace.md)發售。
-
-### 如何把 NFT 賣到二級市場？
-
-在[二級市場](collect-writing-nft/nft-marketplace.md)設定 NFT 的賣出價，讀者即可以該售價收集。
-
-### 能設定文字作品的 NFT 發行量上限嗎？
-
-原則上發行量沒有上限，但由於提升售價會自動隨交易量而上升，當售價上升到超過市場可接受的價位後，便會自然沒人交易，變相限制了發行量。
 
 ### 了解更多 Writing NFT 最新消息
 
