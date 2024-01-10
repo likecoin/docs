@@ -94,9 +94,9 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 ### 步驟三：註冊 ISCN 完成
 
-出現 Completed! Here is your ISCN 說明 ISCN 經已成功註冊。ISCN ID 欄位的一串字符接下來於 NFT 電子書上架時會需要用到，留意最後的數字是 ISCN 版本號碼，於上架時並不需要輸入，只需要輸入前面的內容。
+出現 Completed! Here is your ISCN 說明 ISCN 經已成功註冊。點 ISCN ID 欄位的一串字符把它複製，接下來於 NFT 電子書上架時會需要用到。圖中的 /1 是這個 ISCN 第 1 個版本的意思，於製作 NFT 電子書時並不重要。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 15.png" alt=""><figcaption><p>成功註冊並記下 ISCN ID</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 15.png" alt=""><figcaption><p>成功註冊並複製 ISCN ID</p></figcaption></figure>
 
 ***
 
@@ -110,7 +110,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
 
-在 Enter ISCN ID or NFT Class ID 一欄輸入早前在 app.like.co 註冊完成的 ISCN ID 並留意不需要輸入 ISCN 版本號碼，輸入完成後點「Submit」。
+在 Enter ISCN ID or NFT Class ID 一欄輸入早前在 app.like.co 註冊完成並已複製的 ISCN ID，輸入完成後點「Submit」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>在 Enter ISCN ID or NFT Class ID 一欄輸入 ISCN ID</p></figcaption></figure>
 
@@ -118,17 +118,17 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 假如你忘記了你的 ISCN ID，可以到 app.like.co 的 [My Works](https://app.like.co/works) 找回它。
 {% endhint %}
 
-系統會為你自動抽出 ISCN 的基本資料。點「By filling required information」分頁繼續。
+系統會為你自動抽出 ISCN 的基本資料，接著你需要於「By filling required information」分頁填寫其他資料。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 18.png" alt=""><figcaption><p>點「By filling required information」分頁</p></figcaption></figure>
+在 Number of NFT to mint: 一欄輸入需要鑄造多少個 NFT。
 
 如若你的書檔是 epub，系統會自動抽出 AR 封面的連結放在 image URL 一欄。
 
-在 Number of NFT to mint: 一欄輸入需要鑄造多少個 NFT。External URL (optional): 與 URI (optional): 不用填寫。
+External URL (optional): 與 URI (optional): 不用填寫。
 
 填寫完成並確認無誤後按「Mint」，Keplr 錢包將彈出視窗數次，點「Approve」簽署。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 19.png" alt=""><figcaption><p>填寫 Number of NFT to mint: 並確認無誤後按「Mint」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 18.png" alt=""><figcaption><p>填寫所需資料，確認無誤後按「Mint」</p></figcaption></figure>
 
 出現 🎉 Success! 畫面代表經已成功鑄造 NFT，點「Continue to publish NFT Book」可繼續完成上架。點「View your NFT」可以到 [Liker Land](https://liker.land/) 查看已鑄造的 NFT 電子書。
 
