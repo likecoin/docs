@@ -130,7 +130,7 @@ Example: sending 1000 LIKE from the `faucet` account managed by `liked`
 likecli tx bank send faucet cosmos1mw2l98asefxev9s9mvdtm2j5mcap9mn5t3u8lh 1000000000000nanolike \
     --chain-id likecoin-public-testnet-3 \
     --gas 100000 \
-    --gas-prices 100.0nanolike
+    --gas-prices 10000.0nanolike
 ```
 
 ## likecli

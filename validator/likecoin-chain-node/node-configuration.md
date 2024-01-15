@@ -13,7 +13,7 @@ The minimum price per gas which your node will accept a transaction. The amount 
 Validators are recommend to set a `minimum-gas-prices` to a non zero value,  e.g.&#x20;
 
 ```
-minimum-gas-prices = "1.0nanolike"
+minimum-gas-prices = "10000.0nanolike"
 ```
 
 Transaction that has a gas price lower than the configured value would not be processed by the validator. Forcing a minimum gas price to be set for all transactions helps combatting spam transactions.
