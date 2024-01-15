@@ -239,7 +239,7 @@ You are recommended to review `~/.liked/config/config.toml` and `~/.liked/config
 In particular, please set a minimum gas price for your node and enable state sync in `app.toml`:
 
 ```toml
-minimum-gas-prices = "1.0nanolike"
+minimum-gas-prices = "10000.0nanolike"
 snapshot-interval = 1000
 ```
 
@@ -339,7 +339,7 @@ Below values are examples and can be customized.
 --chain-id="likecoin-mainnet-2" \
 --from=$KEY_NAME \
 --keyring-backend=file \
---gas-prices 10nanolike
+--gas-prices 10000nanolike
 ```
 
 You can obtain the validator address by:
@@ -373,7 +373,7 @@ You may edit validator details anytime:
 --chain-id="likecoin-mainnet-2" \
 --from=$KEY_NAME \
 --keyring-backend=file \
---gas-prices 10nanolike
+--gas-prices 10000nanolike
 ```
 
 #### Vote

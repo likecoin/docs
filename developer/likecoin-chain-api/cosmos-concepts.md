@@ -80,7 +80,7 @@ Different from Ethereum, transactions specify their transaction fee directly, in
 
 Nodes calculates the gas price by `gas_price = fee / gas`, and may reject transactions with gas price lower than their expectation.
 
-We currently recommend validators to set the gas price to `1.0nanolike`. For a typical coin sending transaction, it consumes about 44000 gas, which means the transaction fee is 0.044 LikeCoin.
+We currently recommend validators to set the gas price to `10000.0nanolike` as per proposal 74. For a typical coin sending transaction, it consumes about 44000 gas, which means the transaction fee is 0.044 LikeCoin.
 
 Since the fee is specified in the transaction, it will not be refunded even if the actual gas consumption is less than the provided one.
 
