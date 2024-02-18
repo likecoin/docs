@@ -10,7 +10,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 * Proposer: Edmond
 * Proposal Type: Community Pool Spend Proposal
-* Date: Submit on 2024.02.14, Passed on
+* Date: Submit on 2024.02.08, Passed on
 * Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/78](https://bigdipper.live/likecoin/proposals/78)
 
 ## Proposal #77 LikeCoin v4.1.1 ChungKing+ Upgrade
