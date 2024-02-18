@@ -25,7 +25,7 @@ description: >-
 
 ## **2024 Date & Schedule**
 
-<table><thead><tr><th width="218">Date </th><th>Description</th></tr></thead><tbody><tr><td>Monday, 8 January </td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="218">Date </th><th>Description</th></tr></thead><tbody><tr><td>Monday, 4 March</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>Monday, 5 February</td><td>Expanding Horizons: New Book Listings, Enhanced Functionalities, and Broadened Engagement of Liker Land BookStore</td></tr><tr><td>Monday, 8 January </td><td>Fresh off 2024, Reviews technical tasks and unveils new book titles</td></tr></tbody></table>
 
 ## **2023 Date & Schedule**
 

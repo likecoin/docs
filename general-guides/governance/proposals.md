@@ -6,6 +6,13 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![Proposals](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
 
+## Proposal #78 Deposit 1,200,000 LIKE to Creators Fund wallet
+
+* Proposer: Edmond
+* Proposal Type: Community Pool Spend Proposal
+* Date: Submit on 2024.02.14, Passed on
+* Details:[ ](https://likecoin.bigdipper.live/proposals/47)[https://bigdipper.live/likecoin/proposals/78](https://bigdipper.live/likecoin/proposals/78)
+
 ## Proposal #77 LikeCoin v4.1.1 ChungKing+ Upgrade
 
 * Proposer: Civic Liker 讚賞公民
