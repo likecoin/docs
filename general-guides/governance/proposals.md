@@ -6,7 +6,14 @@ description: LikeCoin DAO 有過什麼議案？
 
 ![歷史議案](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
 
-## 議案 #65 LikeCoin v4.1.1 ChungKing+ 升級
+## 議案 #78 存入 1,200,000 LIKE 到創作基金的錢包
+
+* **提案：**Edmond
+* **類型**：社群池支出議案 ( Community Pool Spend Proposal )
+* **日期**：2024.02.08 提案，
+* **詳情**：[https://bigdipper.live/likecoin/proposals/78](https://bigdipper.live/likecoin/proposals/78)
+
+## 議案 #77 LikeCoin v4.1.1 ChungKing+ 升級
 
 * **提案：**Civic Liker 讚賞公民
 * **類型**：軟件升級議案 ( Software Upgrade Proposal )
@@ -505,7 +512,7 @@ description: LikeCoin DAO 有過什麼議案？
 * 重點：建議每位 LikeCoin 持份者都可以發起議案及進行技票
 * 詳情：[https://likecoin.bigdipper.live/proposals/4](https://likecoin.bigdipper.live/proposals/4)
 
-## 議案 #3 提高驗證人名額至 25 名 <a href="#3" id="3"></a>
+## 議案 #3 提高驗證人名額至 25 名 <a href="#id-3" id="id-3"></a>
 
 * **提案**：北科大區塊鏈社
 * **類型**：參數修訂議案 ( Parameter Change Proposal )
@@ -519,7 +526,7 @@ description: LikeCoin DAO 有過什麼議案？
 * **日期**：2020.06.17 提案，2020.07.08 通過
 * **詳情**：[https://likecoin.bigdipper.live/proposals/2](https://likecoin.bigdipper.live/proposals/2)
 
-## 議案 #1 **開放驗證人資格及提高驗證人名額至 10 名** <a href="#1" id="1"></a>
+## 議案 #1 **開放驗證人資格及提高驗證人名額至 10 名** <a href="#id-1" id="id-1"></a>
 
 * **提案**：[Matters](https://matters.news/@likecoin/like-coin-chain-proposal-1-relaxing-validator-requirements-to-transform-like-coin-chain-to-a-permissionless-b-po-s-mechanism-bafyreienrrgu5a35wvgztutzjzl6hey5csqdhimukzrpxfp64xn223fi5q)
 * **類型**：參數修訂議案 ( Parameter Change Proposal )
