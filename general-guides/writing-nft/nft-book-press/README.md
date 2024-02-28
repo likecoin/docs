@@ -80,12 +80,12 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署後靜侯一會兒。
 2. ISCN Title：書名
 3. Description：描述
 4. Author：作者
-5. Stakeholders：持份者。系統預設加入作者及正在製作電子書的帳戶為持份者。
+5. Stakeholders：持份者。系統預設加入作者及正在製作 NFT 電子書的帳戶為持份者。
 6. Tags：標籤，可加入作為分類。
 7. Downloadable URL：下載書檔時所顯示的名稱
 8. URL：書檔所對應的 URL
 9. License：可以選擇合適的版權宣告，預設是版權所有 ( Copyright. All rights reserved. )
-10. Content Fingerprints：顯示 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 epub 檔、IPFS 的封面檔、AR 的 epub 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
+10. Content Fingerprints：顯示書檔及封面 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 epub 檔、IPFS 的封面檔、AR 的 epub 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
 11. \+Other settings：點開它出現 URL 可輸入書籍的網址及 ISBN 輸入 ISBN 號碼。完成後點「Register」。
 
 <figure><img src="../../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>點「Register」註冊 ISCN</p></figcaption></figure>
