@@ -66,21 +66,27 @@ The Keplr wallet will pop up a window several times; click "Approve" to sign and
 
 ### Step 2: Enter book information
 
-"File Ready" appears, indicating that the file has been successfully uploaded. Four URL Hashes appear, with each pair corresponding to one file, including IPFS and AR (Arweave) formats. Taking the attached screenshot as an example, the four hashes represent the IPFS ePub file, IPFS book cover file, AR ePub file, and AR book cover file. Click on the URLs to check whether the content has been successfully uploaded.
+"File Ready" appears, indicating that the file has been successfully uploaded. The system will automatically fill in the information based on the metadata content. The user can change them if they want:
 
-<figure><img src="../../../.gitbook/assets/NFT Book Press 10.png" alt=""><figcaption><p>Upon successfully uploaded, Four URL Hashes appear</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Book Press 10.png" alt=""><figcaption><p>"File Ready" appears</p></figcaption></figure>
 
-Scroll down the page. Simultaneously, the system will automatically fill in the book title, description, author, etc., based on the metadata content. You can also add tags to books for classification. Then click "Same As URLs".
+1. Type: The default is "Book" for NFT eBooks.
+2. ISCN Title: The title of the book associated with the ISCN.
+3. Description: A brief description of the NFT eBook.
+4. Author: The author's name.
+5. Stakeholders: The system will automatically add the author and the ISCN registrant as stakeholders.
+6. Tags: These are used for classification purposes.
+7. Downloadable URL: The file's name of the ePub when it is being downloaded.
+8. URL: The URL of the ePub.
+9. License: The default is "Copyright. All rights reserved" for copyright declaration.
+10. Content Fingerprints: These are URL hashes of the book and its cover. Each pair corresponds to one file, including IPFS and AR (Arweave) formats. Click on the URLs to check whether the content has been successfully uploaded. For instance, the four hashes in the attached screenshot represent the IPFS ePub file, IPFS book cover file, AR ePub file, and AR book cover file.
+11. \+Other settings: Click on it to fill in the URL and ISBN fields if required.
 
-<figure><img src="../../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>Click "Same As URLs"</p></figcaption></figure>
+After confirming that everything is correct, click "Register".
 
-The system will identify the ePub file from one of the hash URLs. Click "Confirm" after confirming it is correct.
 
-<figure><img src="../../../.gitbook/assets/NFT Book Press 12.png" alt=""><figcaption><p>Click "Confirm"</p></figcaption></figure>
 
-Fill in the URL and ISBN fields if required; the Type is displayed as Book. You can select the appropriate License for copyright declaration; the default is "Copyright. All rights reserved". After confirming that everything is correct, click "Register".
-
-<figure><img src="../../../.gitbook/assets/NFT Book Press 13.png" alt=""><figcaption><p>After confirming that everything is correct, click "Register"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>Click "Register"</p></figcaption></figure>
 
 The Keplr wallet will pop up a window several times; click "Approve" to sign. Be careful not to click "Retry"; just wait for a while.
 
