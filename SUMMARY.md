@@ -197,8 +197,6 @@
 
 * [存檔](archive/archive/README.md)
   * [Writing NFT](archive/archive/writing-nft/README.md)
-    * [發行 NFT 書（測試版）](archive/archive/writing-nft/mint-nft-book/README.md)
-      * [上架 NFT 書](archive/archive/writing-nft/mint-nft-book/list-nft-book.md)
     * [ISCN Wallet](archive/archive/writing-nft/iscn-wallet.md)
   * [Liker Land](archive/archive/liker-land/README.md)
     * [我的 Content Jockey](archive/archive/liker-land/today-headline.md)
