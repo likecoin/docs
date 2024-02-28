@@ -72,21 +72,23 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署後靜侯一會兒。
 
 ### 步驟二：輸入書籍資料
 
-出現 File Ready 代表檔案上傳成功，並出現四條 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 epub 檔、IPFS 的封面檔、AR 的 epub 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
+出現 File Ready 代表檔案上傳成功，系統會依照元數據內容生成以下資料，如有需要可作修改：
 
-<figure><img src="../../../.gitbook/assets/NFT Book Press 10.png" alt=""><figcaption><p>檔案上傳成功，出現 Hash 網址</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Book Press 10.png" alt=""><figcaption><p>File Ready 頁面</p></figcaption></figure>
 
-往下移動頁面。與此同時系統亦會依照元數據內容自動填上書名、描述、作者等。亦可為書籍加入標籤 ( Tags ) 作分類。然後點「Same As URLs」。
+1. Type：顯示 ISCN 種類為 Book 即 NFT 電子書。
+2. ISCN Title：書名
+3. Description：描述
+4. Author：作者
+5. Stakeholders：持份者。系統預設加入作者及正在製作電子書的帳戶為持份者。
+6. Tags：標籤，可加入作為分類。
+7. Downloadable URL：下載書檔時所顯示的名稱
+8. URL：書檔所對應的 URL
+9. License：可以選擇合適的版權宣告，預設是版權所有 ( Copyright. All rights reserved. )
+10. Content Fingerprints：顯示 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 epub 檔、IPFS 的封面檔、AR 的 epub 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
+11. \+Other settings：點開它出現 URL 可輸入書籍的網址及 ISBN 輸入 ISBN 號碼。完成後點「Register」。
 
-<figure><img src="../../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>點「Same As URLs」</p></figcaption></figure>
-
-系統會認定其中一條 Hash 網址的 epub 檔案，確認無誤後點「Confirm」。
-
-<figure><img src="../../../.gitbook/assets/NFT Book Press 12.png" alt=""><figcaption><p>點「Confirm」確認</p></figcaption></figure>
-
-如有需要可填寫 URL 與 ISBN 的欄位；Type 顯示為 Book；License 可以選擇合適的版權宣告，預設是版權所有 ( Copyright. All rights reserved. )。 確認一切無誤後點「Register」。
-
-<figure><img src="../../../.gitbook/assets/NFT Book Press 13.png" alt=""><figcaption><p>確認無誤後點「Register」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>點「Register」註冊 ISCN</p></figcaption></figure>
 
 Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位置不要點 Retry，靜侯一會兒就可以了。
 
