@@ -22,7 +22,7 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 ## 2024 日期及議程
 
-<table><thead><tr><th width="172">日期</th><th>描述</th></tr></thead><tbody><tr><td>星期一，3月4日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>星期一，2月5日</td><td>Expanding Horizons: New Book Listings, Enhanced Functionalities, and Broadened Engagement of Liker Land BookStore</td></tr><tr><td>星期一，1月8日</td><td>Fresh off 2024, Reviews technical tasks and unveils new book titles</td></tr></tbody></table>
+<table><thead><tr><th width="172">日期</th><th>描述</th></tr></thead><tbody><tr><td>星期一，5月6日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>星期一，4月1日</td><td>New Physical Bookstore Partnerships, NFT eBooks Tipping Feature and Successful Offline Meetup</td></tr><tr><td>星期一，3月4日</td><td>ISCN Development Progress, Exciting Book Releases and Offline Events in Taipei</td></tr><tr><td>星期一，2月5日</td><td>Expanding Horizons: New Book Listings, Enhanced Functionalities, and Broadened Engagement of Liker Land BookStore</td></tr><tr><td>星期一，1月8日</td><td>Fresh off 2024, Reviews technical tasks and unveils new book titles</td></tr></tbody></table>
 
 ## 2023 日期及議程
 
