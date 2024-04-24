@@ -4,13 +4,17 @@ description: Big Dipper 是 LikeCoin 的區塊瀏覽器
 
 # Big Dipper
 
+{% hint style="danger" %}
+2024/04/24 存檔。資訊已過期。
+{% endhint %}
+
 [北斗 Big Dipper](https://likecoin.bigdipper.live/) 以簡便的介面，除了展示治理相關的議案內容、投票結果、驗證人的介紹、投票紀錄外，還有更基本的，所有交易證明。北斗就像個開放政府，讓公民查閱和搜尋 LikeCoin DAO 所有開放數據。
 
 ## 如何在 Big Dipper 查看錢包明細
 
 ### Keplr / Cosmostation / Liker Land 網頁
 
-複製[錢包地址](../wallet-address.md)並於 [Big Dipper 網站](https://likecoin.bigdipper.live/) 的搜尋欄位貼上。
+複製[錢包地址](../../../general-guides/wallet/wallet-address.md)並於 [Big Dipper 網站](https://likecoin.bigdipper.live/) 的搜尋欄位貼上。
 
 ### Liker Land app
 
@@ -18,7 +22,7 @@ description: Big Dipper 是 LikeCoin 的區塊瀏覽器
 
 <figure><img src="../../../.gitbook/assets/Big Dipper 1.png" alt=""><figcaption><p>點「在 Big Dipper 查看開放數據」</p></figcaption></figure>
 
-瀏覽器彈出 Big Dipper 介面。你也可以使用複製（紅圈）功能記下你 Liker ID 對應的 [like1 錢包地址](../like-address-prefix.md)，再於桌機輸入地址（紅箭嘴）瀏覽錢包明細。
+瀏覽器彈出 Big Dipper 介面。你也可以使用複製（紅圈）功能記下你 Liker ID 對應的 [like1 錢包地址](../../../general-guides/wallet/like-address-prefix.md)，再於桌機輸入地址（紅箭嘴）瀏覽錢包明細。
 
 <figure><img src="../../../.gitbook/assets/Big Dipper 2.png" alt=""><figcaption><p>複製你 Liker ID 對應的 like1 錢包地址</p></figcaption></figure>
 
