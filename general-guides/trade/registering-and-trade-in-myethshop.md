@@ -4,6 +4,10 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 # 註冊及在 MyEthShop 交易
 
+{% hint style="info" %}
+為符合香港法例要求，由 2024 年 6 月 1 日起，MyEthShop 將完全以場外交易模式營運。網頁交易將會停止運作，但客人仍可以繼續在 MyEthShop 門巿以現金進行交易，詳見[公告](https://www.facebook.com/myethshop/posts/pfbid02rhHnVAErJF1ab4Jo5eUbHQ94YqD8g3Y26F853cjS5xcrdYrqqmzhgcaq4q7botTHl)。
+{% endhint %}
+
 {% hint style="warning" %}
 提示：進行任何大額交易前請先作少量嘗試
 {% endhint %}
@@ -22,7 +26,15 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 點「帳戶」鍵進入下方畫面，在上面綠色點「轉入」選 「LIKE」，又或者在一系列密碼貨幣當中選 LIKE 再點藍色「轉入」傳 LikeCoin 到 MyEthshop 以便賣出。
 
+<div>
+
+<figure><img src="broken-reference" alt=""><figcaption><p>選 LIKE 再點藍色「轉入」</p></figcaption></figure>
+
+ 
+
 <figure><img src="../../.gitbook/assets/myethshop-1.png" alt=""><figcaption><p>選 LIKE 再點藍色「轉入」</p></figcaption></figure>
+
+</div>
 
 點「轉入」 接下來畫面的上半部份會出現下圖的二維碼、like 1 開始的一串長長的地址及 Liker ID myethshop，這便是 MyEthShop 的 LikeCoin 錢包地址。
 
@@ -46,19 +58,9 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ## 步驟五：複製哈希 Transaction Hash / TXID
 
-回到 Liker Land 手機應用程式錢包介面，往下點 \[在 Big Dipper 查看開放數據]
+回到 Liker Land 手機應用程式錢包介面，往下點 \[在 [Mintscan](../wallet/block-explorer/mintscan.md) 查看開放數據] 並複製哈希地址。
 
-<figure><img src="../../.gitbook/assets/Big Dipper 1.png" alt=""><figcaption><p>點 [在 Big Dipper 查看開放數據]</p></figcaption></figure>
-
-會跳出畫開啟瀏覽器顯示 [Big Dipper](../../archive/archive/wallet/big-dipper.md) 內容，選取剛進行的交易，會看見 Hash 下面一串的就是哈希 Transaction Hash / TXID，並說明是從你的錢包地址轉帳到 MyEthshop 的錢包 like1zr8fwqpkj0sydpjfjqa4uk4ptu6tahgfam3m8m。複製哈希地址
-
-<figure><img src="../../.gitbook/assets/myethshop-3.png" alt=""><figcaption><p>查看 Hash</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/myethshop-4.png" alt=""><figcaption><p>查看交易明細</p></figcaption></figure>
-
-假如在手機開啟北斗時出現問題，你亦可使用桌面電腦，打開 Big Dipper 網站 [https://likecoin.bigdipper.live/](https://likecoin.bigdipper.live/) 並在紅箭嘴位置輸入你的錢包地址，同樣可以查看交易內容。
-
-<figure><img src="../../.gitbook/assets/myethshop-5.png" alt=""><figcaption><p>到 Big Dipper 網站查看交易內容</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/myethshop-2 (1).png" alt=""><figcaption><p>點 [在 Mintscan 查看開放數據]</p></figcaption></figure>
 
 ## 步驟六：填寫哈希及確認 MyEthShop 收款
 

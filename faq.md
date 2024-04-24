@@ -42,7 +42,7 @@ description: LikeCoin 常見問題
 
 * [有沒有去中心化的錢包可以提供？](general-guides/wallet/)
 * [如何轉帳 LikeCoin？](general-guides/wallet/like-pay.md)
-* [LikeCoin 支援硬件錢包嗎？](general-guides/wallet/hardware-wallet.md)
+* [LikeCoin 支援硬件錢包嗎？](archive/archive/wallet/hardware-wallet.md)
 * [LikeCoin 有沒有多重簽署錢包？](general-guides/wallet/multisig.md)
 * [如何找到自己的錢包地址？](general-guides/wallet/wallet-address.md)
 * [LikeCoin 有區塊鏈瀏覽器嗎？](general-guides/wallet/block-explorer/)
