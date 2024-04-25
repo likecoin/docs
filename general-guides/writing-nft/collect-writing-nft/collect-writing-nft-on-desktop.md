@@ -12,7 +12,7 @@ description: >-
 
 到 [Liker Land](https://liker.land/) 網站右上角點「連接錢包」。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 12.png" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
 
 或點「立即收藏」、「收集」、「收藏作品」或當前價格後選擇以 [Keplr](collect-writing-nft-on-desktop.md#keplr)、[Cosmostation](collect-writing-nft-on-desktop.md#cosmostation)、[Leap](collect-writing-nft-on-desktop.md#leap)、[Keplr Mobile](collect-writing-nft-on-desktop.md#keplr-mobile)、[Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) 或 [Liker Land](collect-writing-nft-on-desktop.md#liker-land-shou-ji-ying-yong-cheng-shi) 手機應用程式任何一種方式連結錢包，登入並購買 NFT。
 
