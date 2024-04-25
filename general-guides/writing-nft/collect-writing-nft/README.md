@@ -90,15 +90,15 @@ description: 如何收藏 Writing NFT
 
 登入你的 Keplr 錢包，並到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT Connect 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
 
 點「登入」。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT Connect 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 彈出視窗出現 Keplr，點它登入 Liker Land。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT Connect 3.png" alt=""><figcaption><p>點 Keplr 登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 3.png" alt=""><figcaption><p>點 Keplr 登入 Liker Land</p></figcaption></figure>
 
 彈出 Keplr 視窗要求連結，點「Approve」。
 
@@ -126,15 +126,15 @@ description: 如何收藏 Writing NFT
 
 登入你的 Keplr 錢包，並到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT Connect 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
 
 點「登入」。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT Connect 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 彈出視窗出現 Keplr，點它登入 Liker Land。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT Connect 3.png" alt=""><figcaption><p>點 Keplr 登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 3.png" alt=""><figcaption><p>點 Keplr 登入 Liker Land</p></figcaption></figure>
 
 彈出 Keplr 視窗要求連結，點「Approve」。
 

@@ -10,15 +10,17 @@ description: >-
 
 ## 步驟一：連接錢包
 
-到 [Liker Land](https://liker.land/) 網站右上角點「連接錢包」。
+到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>連接錢包</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
 
-或點「立即收藏」、「收集」、「收藏作品」或當前價格後選擇以 [Keplr](collect-writing-nft-on-desktop.md#keplr)、[Cosmostation](collect-writing-nft-on-desktop.md#cosmostation)、[Leap](collect-writing-nft-on-desktop.md#leap)、[Keplr Mobile](collect-writing-nft-on-desktop.md#keplr-mobile)、[Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) 或 [Liker Land](collect-writing-nft-on-desktop.md#liker-land-shou-ji-ying-yong-cheng-shi) 手機應用程式任何一種方式連結錢包，登入並購買 NFT。
+點「登入」。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6-1.png" alt=""><figcaption><p>選擇以 Keplr、Cosmostation、Leap 登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6-2.png" alt=""><figcaption><p>選擇以 Keplr Mobile, Cosmostation app 或 Liker ID 登入</p></figcaption></figure>
+彈出視窗出現登入選項。或點「立即收藏」、「收集」、「收藏作品」或當前價格後選擇以 [Keplr](collect-writing-nft-on-desktop.md#keplr)、[Cosmostation](collect-writing-nft-on-desktop.md#cosmostation)、[Leap](collect-writing-nft-on-desktop.md#leap)、[Keplr Mobile](collect-writing-nft-on-desktop.md#keplr-mobile)、[Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) 或 [Liker Land](collect-writing-nft-on-desktop.md#liker-land-shou-ji-ying-yong-cheng-shi) 手機應用程式等任何一種方式連結錢包，登入並購買 Writing NFT。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6.png" alt=""><figcaption><p>各種登入選項</p></figcaption></figure>
 
 ## 步驟二：登入並購買 NFT
 
