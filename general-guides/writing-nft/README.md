@@ -50,7 +50,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 如何發售文字 NFT？
 
-可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../../user-guide/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT 小部件](collect-writing-nft/nft-widget.md) 及 [NFT 展示櫃](collect-writing-nft/bookshelf.md)發售，作者不用手動做額外動作上架市場。
+可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../../user-guide/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT 小部件](collect-writing-nft/nft-widget.md) 及[書架](collect-writing-nft/bookshelf.md)發售，作者不用手動做額外動作上架市場。
 
 ### 能設定文字作品的 NFT 發行量上限嗎？
 
@@ -66,7 +66,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 作品沒有安裝 NFT 小部件，也能發售 NFT 嗎？
 
-可在 [NFT Portal](nft-portal/) 發行 NFT，然後在自己的 [NFT 展示櫃](collect-writing-nft/bookshelf.md)或[二級市場](collect-writing-nft/nft-marketplace.md)發售。
+可在 [NFT Portal](nft-portal/) 發行 NFT，然後在自己的[書架](collect-writing-nft/bookshelf.md)或[二級市場](collect-writing-nft/nft-marketplace.md)發售。
 
 ### 了解更多 Writing NFT 最新消息
 
