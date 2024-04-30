@@ -22,7 +22,7 @@
     * [一鍵收藏 Writing NFT](general-guides/writing-nft/collect-writing-nft/collect-all.md)
     * [關注創作者](general-guides/writing-nft/collect-writing-nft/follow-creators.md)
     * [NFT 小部件](general-guides/writing-nft/collect-writing-nft/nft-widget.md)
-    * [NFT 展示櫃](general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)
+    * [書架](general-guides/writing-nft/collect-writing-nft/bookshelf.md)
     * [個人主頁](general-guides/writing-nft/collect-writing-nft/dashboard.md)
     * [通知功能](general-guides/writing-nft/collect-writing-nft/notifications.md)
     * [NFT 詳細資訊](general-guides/writing-nft/collect-writing-nft/nft-details.md)

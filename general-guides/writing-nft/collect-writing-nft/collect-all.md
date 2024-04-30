@@ -14,7 +14,7 @@ description: 手機與桌機均適用
 
 ## 步驟一：登入錢包並開始一鍵收藏
 
-請先登入你的  [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)，然後在創作者的 [NFT 展示櫃](nft-portfolio.md)點「一鍵收藏」。
+請先登入你的  [Keplr](../../wallet/keplr/)、[Cosmostation](../../wallet/cosmostation/)、[Leap](../../wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../wallet/keplr-mobile/)、[Cosmostation app](../../wallet/cosmostation-mobile/) 或 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)，然後在創作者的 [NFT 展示櫃](bookshelf.md)點「一鍵收藏」。
 
 <figure><img src="../../../.gitbook/assets/Collect All 1.png" alt=""><figcaption><p>點「一鍵收藏」</p></figcaption></figure>
 

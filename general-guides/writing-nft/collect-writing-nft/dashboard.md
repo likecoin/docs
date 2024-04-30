@@ -46,9 +46,9 @@ description: 展示 NFT 藏品庫
 
 <figure><img src="../../../.gitbook/assets/Dashboard 4.png" alt=""><figcaption><p>點「匯出正在關注我的名單」匯出關注者清單</p></figcaption></figure>
 
-### 展示櫃
+### 書架
 
-點展示櫃直接連結至個人公開的[書架](nft-portfolio.md)。
+點展示櫃直接連結至個人的[書架](bookshelf.md)。
 
 <figure><img src="../../../.gitbook/assets/Bookshelf.png" alt=""><figcaption><p>書架</p></figcaption></figure>
 
