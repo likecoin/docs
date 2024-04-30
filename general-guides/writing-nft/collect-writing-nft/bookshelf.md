@@ -4,9 +4,9 @@ description: 展示 NFT 藏品
 
 # 書架
 
-收藏者除了可於 [NFT 小部件](nft-widget.md)收集當前文章的 NFT 外，也可以到創作者的 **公開書架** 頁面（網址為 https://liker.land/\[錢包地址]）直接購買正在發售中的 NFT。收藏者與創作者和也可以經任何渠道以 NFT 展示櫃頁面分享他的 NFT 藏品連結。
+收藏者除了可於 [NFT 小部件](nft-widget.md)收集當前文章的 NFT 外，也可以到創作者的 **書架** 頁面（網址為 https://liker.land/\[錢包地址]）直接購買正在發售中的 NFT。收藏者與創作者和也可以經任何渠道以 **書架** 頁面分享他的 NFT 藏品連結。
 
-公開書架包含以下功能：
+書架包含以下功能：
 
 ## 收藏
 
@@ -22,7 +22,7 @@ description: 展示 NFT 藏品
 
 ## NFT 寶石
 
-除了以數字表達收藏品的價值以外，展示櫃頁面進一步以不同級數的寶石來反映 Writing NFT 的現價，鑲在同一篇作品上的寶石顏色和形狀會隨着市場價格改變，美化 Writing NFT 展示。
+除了以數字表達收藏品的價值以外，書架頁面進一步以不同級數的寶石來反映 Writing NFT 的現價，鑲在同一篇作品上的寶石顏色和形狀會隨着市場價格改變，美化 Writing NFT 展示。
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio 2.png" alt=""><figcaption><p>NFT 寶石</p></figcaption></figure>
 
@@ -36,7 +36,7 @@ description: 展示 NFT 藏品
 
 ## 藏品排序
 
-用戶可以透過不同的排序去查看任何 NFT 展示櫃，選擇包括：
+用戶可以透過不同的排序去查看任何書架，選擇包括：
 
 * 依類型篩選：所有 NFT、文章、書
 

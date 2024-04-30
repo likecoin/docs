@@ -48,13 +48,13 @@ description: 展示 NFT 藏品庫
 
 ### 書架
 
-點展示櫃直接連結至個人的[書架](bookshelf.md)。
+點書架直接連結至個人的[書架](bookshelf.md)。
 
 <figure><img src="../../../.gitbook/assets/Bookshelf.png" alt=""><figcaption><p>書架</p></figcaption></figure>
 
 ## 精選及隱藏 NFT
 
-用戶可以透過精選或隱藏 NFT 項目（點右上角的星星進行）以調整自己的展示櫃。精選 NFT 將於版面置頂，而隱藏 NFT 將不會公開展示。
+用戶可以透過精選或隱藏 NFT 項目（點右上角的星星進行）以調整自己的書架。精選 NFT 將於版面置頂，而隱藏 NFT 將不會公開展示。
 
 <figure><img src="../../../.gitbook/assets/Featured NFT.png" alt=""><figcaption><p>精選及隱藏 Writing NFT，點一下精選 NFT，再點一下即可隱藏</p></figcaption></figure>
 

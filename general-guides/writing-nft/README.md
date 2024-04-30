@@ -17,7 +17,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 你可以幾種方式收藏 NFT 電子書及文章 NFT：
 
 * 到 Liker Land NFT 書店查看，那裡有 [NFT 電子書](https://liker.land/zh-Hant/store)及[文章 NFT](https://liker.land/zh-Hant/store/articles)。
-* 參觀作者或收藏家的 [NFT 展示櫃](collect-writing-nft/bookshelf.md)頁面，並在那裡購買 NFT。
+* 參觀作者或收藏家的 [書架](collect-writing-nft/bookshelf.md) 頁面，並在那裡購買 NFT。
 * 尋找嵌入您感興趣內容的 [NFT 小部件](collect-writing-nft/nft-widget.md)。
 
 ### 沒有 Liker ID ，能購買 Writing NFT 嗎？

@@ -30,13 +30,13 @@ description: 讓自己的性格更特出
 
 修改完成後，你的資訊會在 [Liker Land](https://github.com/warner/python-spake2) 的各種使用場景中顯示：
 
-### NFT 展示櫃
+### 書架
 
 {% content-ref url="../../general-guides/writing-nft/collect-writing-nft/bookshelf.md" %}
 [bookshelf.md](../../general-guides/writing-nft/collect-writing-nft/bookshelf.md)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/NFT Portfolio Liker ID.png" alt=""><figcaption><p>NFT 展示櫃</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portfolio Liker ID.png" alt=""><figcaption><p>書架</p></figcaption></figure>
 
 ### LikeCoin button 讚賞鍵
 

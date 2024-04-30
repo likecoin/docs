@@ -26,7 +26,7 @@ description: 輕易掌握 NFT 發放資訊
 
 ## 步驟二：關注創作者
 
-在創作者的 [NFT 展示櫃](bookshelf.md)左手邊作者介紹欄位下點「關注」。
+在創作者的[書架](bookshelf.md)左手邊作者介紹欄位下點「關注」。
 
 <figure><img src="../../../.gitbook/assets/Follow 1.png" alt=""><figcaption><p>點「關注」</p></figcaption></figure>
 
