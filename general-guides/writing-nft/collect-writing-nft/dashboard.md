@@ -48,9 +48,9 @@ description: 展示 NFT 藏品庫
 
 ### 展示櫃
 
-點展示櫃直接連結至個人公開的 [NFT 展示櫃](nft-portfolio.md)。
+點展示櫃直接連結至個人公開的[書架](nft-portfolio.md)。
 
-<figure><img src="../../../.gitbook/assets/Dashboard 5.png" alt=""><figcaption><p>展示櫃</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Bookshelf.png" alt=""><figcaption><p>書架</p></figcaption></figure>
 
 ## 精選及隱藏 NFT
 
