@@ -1,5 +1,5 @@
 ---
-description: 數位出版專門
+description: 數位出版專業
 ---
 
 # 端點出版
