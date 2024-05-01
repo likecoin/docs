@@ -15,23 +15,23 @@ description: LikeCoin 常見問題
 * [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
 * [想與社群及更多用戶聯繫分享經驗，有渠道嗎？](faq.md#she-qun)
 
-## [Writing NFT](general-guides/writing-nft/)
+## [Writing NFT](depub/writing-nft/)
 
-* [常見問題](general-guides/writing-nft/)
+* [常見問題](depub/writing-nft/)
 
 ## [去中心出版](./)
 
 * [什麼是去中心出版 #DePub？](./)
-* [ISCN 是什麼？](general-guides/decentralized-publishing/what-is-iscn.md)
-* [ISCN 和 IPFS 的關係是什麼？](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
-* [ISCN 的分散特性對內容生態有什麼好處？ ](general-guides/decentralized-publishing/benefits.md)
-* [註冊 ISCN 要費用嗎？](general-guides/decentralized-publishing/what-is-iscn.md)
-* [ISCN 記錄是永遠的嗎？](general-guides/decentralized-publishing/benefits.md)&#x20;
-* [若內容更新了怎麼辦？ISCN 支援內容版本嗎？ ](general-guides/decentralized-publishing/what-is-iscn.md)
-* [ISCN 記錄的內容只支援 IPFS 上的檔案嗎？ ](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
-* [ISCN 支援什麼內容格式？](general-guides/decentralized-publishing/content-type.md)
-* [怎樣註冊 ISCN？ ](general-guides/decentralized-publishing/app.like.co/)
-* [可以大量註冊 ISCN 嗎？](general-guides/decentralized-publishing/iscn-batch-uploader.md)
+* [ISCN 是什麼？](depub/what-is-iscn/)
+* [ISCN 和 IPFS 的關係是什麼？](depub/what-is-iscn/iscn-ipfs-relationship.md)
+* [ISCN 的分散特性對內容生態有什麼好處？ ](depub/what-is-iscn/benefits.md)
+* [註冊 ISCN 要費用嗎？](depub/what-is-iscn/)
+* [ISCN 記錄是永遠的嗎？](depub/what-is-iscn/benefits.md)&#x20;
+* [若內容更新了怎麼辦？ISCN 支援內容版本嗎？ ](depub/what-is-iscn/)
+* [ISCN 記錄的內容只支援 IPFS 上的檔案嗎？ ](depub/what-is-iscn/iscn-ipfs-relationship.md)
+* [ISCN 支援什麼內容格式？](depub/what-is-iscn/content-type.md)
+* [怎樣註冊 ISCN？ ](depub/what-is-iscn/app.like.co/)
+* [可以大量註冊 ISCN 嗎？](depub/what-is-iscn/iscn-batch-uploader.md)
 
 ## [水龍頭](general-guides/faucet.md)
 

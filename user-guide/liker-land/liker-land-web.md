@@ -14,15 +14,15 @@ description: 網頁版的 Liker Land
 
 ## 選項二：個人主頁 - [https://liker.land/zh-Hant/feed](https://liker.land/zh-Hant/feed?view=town)
 
-連接用戶[個人主頁](../../general-guides/writing-nft/collect-writing-nft/dashboard.md)頁面。‌
+連接用戶[個人主頁](../../depub/writing-nft/collect-writing-nft/dashboard.md)頁面。‌
 
-## 選項三：發行 NFT - [https://app.like.co/nft/url](https://app.like.co/nft/url)
+## 選項三：出版 NFT - [https://app.like.co/nft/url](https://app.like.co/nft/url)
 
-使用 [NFT Portal](../../general-guides/writing-nft/nft-portal/) 發行 NFT。
+使用 [NFT Portal](../../depub/writing-nft/nft-portal/) 出版 NFT。
 
 ## 選項四：通知 - [https://liker.land/zh-Hant/notifications](https://liker.land/zh-Hant/notifications)
 
-送贈及收藏 NFT [通知](../../general-guides/writing-nft/collect-writing-nft/notifications.md)。
+送贈及收藏 NFT [通知](../../depub/writing-nft/collect-writing-nft/notifications.md)。
 
 ## 選項五：設定 - [https://liker.land/zh-Hant/settings/](https://liker.land/zh-Hant/settings/)
 
@@ -30,14 +30,14 @@ description: 網頁版的 Liker Land
 
 ### 電郵 - [https://liker.land/zh-Hant/settings/email](https://liker.land/zh-Hant/settings/email)
 
-{% content-ref url="../../general-guides/writing-nft/collect-writing-nft/notifications.md" %}
-[notifications.md](../../general-guides/writing-nft/collect-writing-nft/notifications.md)
+{% content-ref url="../../depub/writing-nft/collect-writing-nft/notifications.md" %}
+[notifications.md](../../depub/writing-nft/collect-writing-nft/notifications.md)
 {% endcontent-ref %}
 
 ### 關注中 - [https://liker.land/zh-Hant/settings/following](https://liker.land/zh-Hant/settings/following)
 
-{% content-ref url="../../general-guides/writing-nft/collect-writing-nft/follow-creators.md" %}
-[follow-creators.md](../../general-guides/writing-nft/collect-writing-nft/follow-creators.md)
+{% content-ref url="../../depub/writing-nft/collect-writing-nft/follow-creators.md" %}
+[follow-creators.md](../../depub/writing-nft/collect-writing-nft/follow-creators.md)
 {% endcontent-ref %}
 
 ### 更改介面語言 - [https://liker.land/zh-Hant/settings/language](https://liker.land/zh-Hant/settings/language)

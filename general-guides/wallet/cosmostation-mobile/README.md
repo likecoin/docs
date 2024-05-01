@@ -42,16 +42,16 @@ description: Cosmostation 手機版
 [import-wallet-into-cosmostation-app.md](import-wallet-into-cosmostation-app.md)
 {% endcontent-ref %}
 
-#### 使用 Cosmostation 手機錢包註冊 ISCN、收藏及發行 Writing NFT、：
+#### 使用 Cosmostation 手機錢包註冊 ISCN、收藏及出版 Writing NFT、：
 
-{% content-ref url="../../decentralized-publishing/app.like.co/" %}
-[app.like.co](../../decentralized-publishing/app.like.co/)
+{% content-ref url="../../../depub/what-is-iscn/app.like.co/" %}
+[app.like.co](../../../depub/what-is-iscn/app.like.co/)
 {% endcontent-ref %}
 
-{% content-ref url="../../writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md" %}
-[collect-writing-nft-on-mobile.md](../../writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
+{% content-ref url="../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md" %}
+[collect-writing-nft-on-mobile.md](../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../writing-nft/nft-portal/" %}
-[nft-portal](../../writing-nft/nft-portal/)
+{% content-ref url="../../../depub/writing-nft/nft-portal/" %}
+[nft-portal](../../../depub/writing-nft/nft-portal/)
 {% endcontent-ref %}

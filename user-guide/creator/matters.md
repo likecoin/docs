@@ -80,6 +80,6 @@ Matters 於 2020年3月推出[一鍵搬家](https://matters.news/migration)功�
 
 詳見：
 
-{% content-ref url="../../general-guides/writing-nft/nft-portal/" %}
-[nft-portal](../../general-guides/writing-nft/nft-portal/)
+{% content-ref url="../../depub/writing-nft/nft-portal/" %}
+[nft-portal](../../depub/writing-nft/nft-portal/)
 {% endcontent-ref %}

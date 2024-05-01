@@ -32,18 +32,18 @@ description: Keplr 是支援 LikeCoin 的多鏈錢包
 [import-wallet-into-keplr.md](import-wallet-into-keplr.md)
 {% endcontent-ref %}
 
-#### 使用 Keplr 註冊 ISCN、收藏與發行 Writing NFT，及使用 depub.space：
+#### 使用 Keplr 註冊 ISCN、收藏與出版 Writing NFT，及使用 depub.space：
 
-{% content-ref url="../../decentralized-publishing/app.like.co/" %}
-[app.like.co](../../decentralized-publishing/app.like.co/)
+{% content-ref url="../../../depub/what-is-iscn/app.like.co/" %}
+[app.like.co](../../../depub/what-is-iscn/app.like.co/)
 {% endcontent-ref %}
 
-{% content-ref url="../../writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
-[collect-writing-nft-on-desktop.md](../../writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
+{% content-ref url="../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
+[collect-writing-nft-on-desktop.md](../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../writing-nft/nft-portal/" %}
-[nft-portal](../../writing-nft/nft-portal/)
+{% content-ref url="../../../depub/writing-nft/nft-portal/" %}
+[nft-portal](../../../depub/writing-nft/nft-portal/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../user-guide/depub.space/" %}
