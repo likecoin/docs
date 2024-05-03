@@ -1,10 +1,10 @@
 ---
-description: 如何收藏 NFT 電子書
+description: 如何購買 NFT 電子書
 ---
 
-# 收藏 NFT 電子書
+# 購買 NFT 電子書
 
-無論有沒有區塊鏈錢包，使用桌機或手機，收藏 NFT eBook 同樣方便。
+無論有沒有區塊鏈錢包，使用桌機或手機，購買 NFT eBook 同樣方便。
 
 ## 步驟一：開始購買
 
@@ -56,4 +56,4 @@ description: 如何收藏 NFT 電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 9.png" alt=""><figcaption><p>出現你已成功領取電子書頁面</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 10.png" alt=""><figcaption><p>到我的書架查看收藏</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect NFT Book 10.png" alt=""><figcaption><p>到書架查看收藏</p></figcaption></figure>
