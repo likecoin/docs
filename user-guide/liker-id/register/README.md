@@ -70,8 +70,8 @@ Liker Land 手機應用程式使用 Authcore 登入。什麼是 Authcore？[請�
 
 選擇 Google 或 Apple 登入。
 
-<figure><img src="../../../.gitbook/assets/Authcore Login 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore Login 2.png" alt=""><figcaption><p>Google 或 Apple 登入</p></figcaption></figure>
 
 如需使用其他登入選項，可到 [https://liker.land/zh-Hant/store/featured?authcore\_legacy=1](https://liker.land/zh-Hant/store/featured?authcore\_legacy=1) 登入。
 
-<figure><img src="../../../.gitbook/assets/Authcore Login 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore Login 3.png" alt=""><figcaption><p>舊版登入</p></figcaption></figure>

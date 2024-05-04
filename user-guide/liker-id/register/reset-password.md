@@ -72,6 +72,6 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 登入成功後，請[重新設定好你的 Google, Facebook, Twitter 等登入方式](social-media-logins.md)。
 
-![登入成功後，請重新設定好你的 Google, Facebook, Twitter 等登入方式](../../../.gitbook/assets/social-media-logins-1.png)
+![登入成功後，請重新設定好你的 Google, Facebook, Twitter 等登入方式](broken-reference)
 
 假若問題仍是無法解決，請到 [Liker Land](https://liker.land/) 或 [Like.co](https://like.co/) 尋求客服幫助。

@@ -39,9 +39,9 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 <figure><img src="../../../.gitbook/assets/Authcore settings.png" alt=""><figcaption><p>打開「Authcore 設定」</p></figcaption></figure>
 
-點「安全設定」及「社群登入」。
+點「安全設定」及「社交帳戶登入」。
 
-![點「安全設定」及「社群登入」](../../../.gitbook/assets/social-media-logins-1.png)
+![點「安全設定」及「社交帳戶登入」](../../../.gitbook/assets/social-media-logins-1.png)
 
 點希望綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
 
