@@ -8,23 +8,27 @@ description: 網頁版的 Liker Land
 
 <figure><img src="../../.gitbook/assets/Liker Land menu.png" alt=""><figcaption><p>Liker Land 操作選項</p></figcaption></figure>
 
-## 選項一：瀏覽書店 - [https://liker.land/zh-Hant/store](https://liker.land/zh-Hant/store)
+## 選項一：瀏覽書店 - [https://liker.land/zh-Hant/store/featured](https://liker.land/zh-Hant/store/featured)
 
-書店展示精選 NFT 電子書，熱門與最新的 Writing NFT 及文章推介。
+書店展示精選 NFT 電子書。
 
-## 選項二：個人主頁 - [https://liker.land/zh-Hant/feed](https://liker.land/zh-Hant/feed?view=town)
+## 選項二：熱門文章 - [https://liker.land/zh-Hant/store/articles](https://liker.land/zh-Hant/store/articles)
+
+熱門與最新的 Writing NFT 及文章推介。
+
+## 選項三：個人主頁 - [https://liker.land/zh-Hant/feed?view=town](https://liker.land/zh-Hant/feed?view=town)
 
 連接用戶[個人主頁](../../depub/writing-nft/collect-writing-nft/dashboard.md)頁面。‌
 
-## 選項三：出版 NFT - [https://app.like.co/nft/url](https://app.like.co/nft/url)
+## 選項四：我的書架 - [https://liker.land/zh-Hant/\[錢包地址\]?tab=collected](https://liker.land/zh-Hant/\[%E9%8C%A2%E5%8C%85%E5%9C%B0%E5%9D%80]?tab=collected)
+
+連接用戶[書架](../../depub/writing-nft/collect-writing-nft/bookshelf.md)頁面。‌
+
+## 選項五：發行 NFT - [https://app.like.co/nft/url](https://app.like.co/nft/url)
 
 使用 [NFT Portal](../../depub/writing-nft/nft-portal/) 出版 NFT。
 
-## 選項四：通知 - [https://liker.land/zh-Hant/notifications](https://liker.land/zh-Hant/notifications)
-
-送贈及收藏 NFT [通知](../../depub/writing-nft/collect-writing-nft/notifications.md)。
-
-## 選項五：設定 - [https://liker.land/zh-Hant/settings/](https://liker.land/zh-Hant/settings/)
+## 選項六：設定 - [https://liker.land/zh-Hant/settings/](https://liker.land/zh-Hant/settings/)
 
 <figure><img src="../../.gitbook/assets/Liker Land settings.png" alt=""><figcaption><p>設定</p></figcaption></figure>
 
@@ -40,7 +44,7 @@ description: 網頁版的 Liker Land
 [follow-creators.md](../../depub/writing-nft/collect-writing-nft/follow-creators.md)
 {% endcontent-ref %}
 
-### 更改介面語言 - [https://liker.land/zh-Hant/settings/language](https://liker.land/zh-Hant/settings/language)
+### 介面語言 - [https://liker.land/zh-Hant/settings/language](https://liker.land/zh-Hant/settings/language)
 
 ### Liker ID - [https://like.co/in/register](https://like.co/in/register)
 
