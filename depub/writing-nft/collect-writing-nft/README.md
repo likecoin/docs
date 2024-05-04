@@ -74,17 +74,11 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/pay by card 3.png" alt=""><figcaption><p>信用卡 OTP 認證頁面</p></figcaption></figure>
 
-### 步驟二：提供錢包地址
+### 步驟二：連接錢包及驗證電郵地址
 
-出現 Reference code，與此同時你會收到領取 Writing NFT 的電郵。請依照指示安裝好 [Keplr](../../../general-guides/wallet/keplr/) 錢包後回覆電郵並提供你的錢包地址。
-
-<figure><img src="../../../.gitbook/assets/pay by card 4.png" alt=""><figcaption><p>出現領取 Writing NFT Reference Code</p></figcaption></figure>
+與此同時你會收到領取 Writing NFT 的電郵。請依照指示安裝好 [Keplr](../../../general-guides/wallet/keplr/) 錢包後驗證電郵地址。過程中如有任何疑問，請與 [Liker Land 客服](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)聯絡。
 
 <figure><img src="../../../.gitbook/assets/pay by card 5.png" alt=""><figcaption><p>領取 Writing NFT 的電郵指示</p></figcaption></figure>
-
-接下來你會收到另一封電郵說明 NFT 經已經發送到你的錢包。過程中如有任何疑問，請與 [Liker Land 客服](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)聯絡。
-
-<figure><img src="../../../.gitbook/assets/pay by card 6.png" alt=""><figcaption><p>電郵說明 NFT 經已經發送到錢包</p></figcaption></figure>
 
 ### 步驟三：查看已購買的 Writing NFT
 
