@@ -20,7 +20,7 @@ description: 網頁版的 Liker Land
 
 連接用戶[個人主頁](../../depub/writing-nft/collect-writing-nft/dashboard.md)頁面。‌
 
-## 選項四：我的書架 - [https://liker.land/zh-Hant/\[錢包地址\]?tab=collected](https://liker.land/zh-Hant/\[%E9%8C%A2%E5%8C%85%E5%9C%B0%E5%9D%80]?tab=collected)
+## 選項四：我的書架 - https://liker.land/zh-Hant/\[錢包地址]?tab=collected
 
 連接用戶[書架](../../depub/writing-nft/collect-writing-nft/bookshelf.md)頁面。‌
 
@@ -52,6 +52,6 @@ description: 網頁版的 Liker Land
 [edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
 {% endcontent-ref %}
 
-## 選項六：登出
+## 選項七：登出
 
 在此登出 [Liker Land](https://liker.land/)。假若你想使用另一帳號登入，必須先於 Liker Land 網站登出才行，否則下次登入時仍會自動登入上次登入的帳戶。
