@@ -40,13 +40,17 @@ description: 以 Keplr 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 ### 步驟二：登入 Keplr
 
-到網址 [https://liker.land/](https://liker.land/civic/) 點右上角「連接錢包」。
+登入你的 Keplr 錢包，並到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 01 (1).png" alt=""><figcaption><p>點「連接錢包」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Buy NFT Connect 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
 
-彈出視窗，點「Keplr」。
+點「登入」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 02.png" alt=""><figcaption><p>點「Keplr」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Buy NFT Connect 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+
+彈出視窗出現 Keplr，點它登入 Liker Land。
+
+<figure><img src="../../.gitbook/assets/Buy NFT Connect 3.png" alt=""><figcaption><p>點 Keplr 登入 Liker Land</p></figcaption></figure>
 
 彈出 Keplr 視窗點「Approve」。
 
@@ -56,7 +60,7 @@ description: 以 Keplr 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 於 [Liker Land](https://liker.land/) 登入後，點「[設定](https://liker.land/zh-Hant/settings/)」，然後點「Liker ID」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 05.jpg" alt=""><figcaption><p>點「設定」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 05.png" alt=""><figcaption><p>點「設定」</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Keplr Register Liker ID 06.png" alt=""><figcaption><p>點「Liker ID」</p></figcaption></figure>
 
