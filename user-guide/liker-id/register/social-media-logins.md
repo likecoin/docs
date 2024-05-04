@@ -1,19 +1,19 @@
 ---
-description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方便，帳號更安全
+description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方便，帳戶更安全
 ---
 
-# 綁定社交帳號
+# 綁定社交帳戶
 
 {% hint style="info" %}
 以下內容只適用於[以一般方法 ( Authcore ) 註冊的 Liker ID](./)。
 {% endhint %}
 
-## 為什麼要綁定社交帳號
+## 為什麼要綁定社交帳戶
 
-把 Liker ID 綁定社交帳號有兩個好處：
+把 Liker ID 綁定社交帳戶有兩個好處：
 
-1. 登入時可用你慣用的社交媒體帳號，不用輸入電郵地址及密碼。
-2. 保障你的 Liker ID。當一個登入方法出問題時，例如忘了密碼，或出現個別的平台帳號問題，仍可以用其他帳號的身份登入。
+1. 登入時可用你慣用的社交媒體帳戶，不用輸入電郵地址及密碼。
+2. 保障你的 Liker ID。當一個登入方法出問題時，例如忘了密碼，或出現個別的平台帳戶問題，仍可以用其他帳戶的身份登入。
 
 ## 綁定方法（除 Matters 外）
 
@@ -23,9 +23,9 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 <figure><img src="../../../.gitbook/assets/social-media-logins-mobile.png" alt=""><figcaption><p>點「社交帳戶登入」</p></figcaption></figure>
 
-點希望綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
+點希望綁定的社交媒體帳戶（除 Matters 外），然後按照屏幕指示登入該平台的帳戶。
 
-<figure><img src="../../../.gitbook/assets/social-media-logins-mobile-settings.png" alt=""><figcaption><p>點社交媒體帳號綁定</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/social-media-logins-mobile-settings.png" alt=""><figcaption><p>點社交媒體帳戶綁定</p></figcaption></figure>
 
 ### 網頁版
 
@@ -33,7 +33,7 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 <figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption><p>點「切換舊介面」登入</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/legacy login.png" alt=""><figcaption><p>登入帳號</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/legacy login.png" alt=""><figcaption><p>登入帳戶</p></figcaption></figure>
 
 打開「Authcore 設定」。
 
@@ -43,11 +43,11 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 ![點「安全設定」及「社交帳戶登入」](../../../.gitbook/assets/social-media-logins-1.png)
 
-點希望綁定的社交媒體帳號（除 Matters 外），然後按照屏幕指示登入該平台的帳號。
+點希望綁定的社交媒體帳戶（除 Matters 外），然後按照屏幕指示登入該平台的帳戶。
 
-![點社交媒體帳號綁定](<../../../.gitbook/assets/image (15) (2).png>)
+![點社交媒體帳戶綁定](<../../../.gitbook/assets/image (15) (2).png>)
 
-## 如何綁定 Matters 帳號 <a href="#matters" id="matters"></a>
+## 如何綁定 Matters 帳戶 <a href="#matters" id="matters"></a>
 
 用戶需要在 Matters 網站內設置綁定：
 

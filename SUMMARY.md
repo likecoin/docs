@@ -156,7 +156,7 @@
   * [匯出錢包助記詞](user-guide/liker-id/export-seed-words.md)
   * [以一般方法 ( Authcore ) 註冊 Liker ID](user-guide/liker-id/register/README.md)
     * [保護你的 Liker ID](user-guide/liker-id/register/verifying-email-address.md)
-    * [綁定社交帳號](user-guide/liker-id/register/social-media-logins.md)
+    * [綁定社交帳戶](user-guide/liker-id/register/social-media-logins.md)
     * [重設密碼](user-guide/liker-id/register/reset-password.md)
     * [管理登入裝置](user-guide/liker-id/register/devices.md)
     * [什麼是 Authcore？](user-guide/liker-id/register/what-is-authcore.md)
