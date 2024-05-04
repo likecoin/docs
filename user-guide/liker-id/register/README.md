@@ -6,7 +6,7 @@ description: Liker ID 要怎樣註冊？
 
 使用 [Liker Land 手機應用程式](https://liker.land/getapp) 能以一般方法 ( Authcore ) 註冊 Liker ID。但留意此登入方式將慢慢淡出。建議用戶立即[從 Authcore 匯出你的助記詞](../export-seed-words.md)並導入 Keplr 或其他錢包，以便管理你的 [LikeCoin](https://like.co/)。
 
-## 使用 Liker Land app 以一般方法 ( Authcore ) 註冊 Liker ID
+## 使用 Liker Land 手機應用程式以一般方法 ( Authcore ) 註冊 Liker ID
 
 只需下載 [Liker Land 手機應用程式](../../liker-land/download.md)，並執行以下程序即可：
 
@@ -48,8 +48,30 @@ Liker Land 手機應用程式使用 Authcore 登入。什麼是 Authcore？[請�
 所有 LikeCoin 推薦獎賞及讚賞公民推廣活動經已於2021年3月8日完結。
 {% endhint %}
 
-## 使用指南
+### 使用指南
 
 {% content-ref url="../../../general-guides/wallet/like-pay.md" %}
 [like-pay.md](../../../general-guides/wallet/like-pay.md)
 {% endcontent-ref %}
+
+## 在 Liker Land 網頁版以一般方法 ( Authcore ) 登入 Liker ID
+
+到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
+
+點「登入」。
+
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+
+點 Email/Social 使用 Liker ID 以電郵/社交登入。
+
+<figure><img src="../../../.gitbook/assets/Authcore Login 1.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+
+選擇 Google 或 Apple 登入。
+
+<figure><img src="../../../.gitbook/assets/Authcore Login 2.png" alt=""><figcaption></figcaption></figure>
+
+如需使用其他登入選項，可到 [https://liker.land/zh-Hant/store/featured?authcore\_legacy=1](https://liker.land/zh-Hant/store/featured?authcore\_legacy=1) 登入。
+
+<figure><img src="../../../.gitbook/assets/Authcore Login 3.png" alt=""><figcaption></figcaption></figure>
