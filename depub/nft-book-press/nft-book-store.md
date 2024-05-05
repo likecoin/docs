@@ -8,7 +8,7 @@ description: 管理已出版的 NFT 電子書
 
 到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，點「Manage NFT Books」，進入網站後按右上角「Connect Wallet」連結 Keplr。
 
-## Current Listing
+## NFT Book Listing - Current Listing
 
 Current Listing 顯示現時已上架的 NFT 電子書，點選其中一本並進行管理。
 
