@@ -25,7 +25,7 @@ NFT Book Status \[書名] 顯示正在管理的 NFT 電子書。
   2. Default Recipient Name - 預設接收者名稱
   3. Default Gift Message - 預設給接收者的訊息
   4. Gift Giver’s Name - 送書人的名稱
-  5. Upload Recipient List CSV file - 點 Download CSV Template 下載格式檔案，填寫 Email（電郵，必填）、Wallet（錢包地址，選填）、Recipient name（接收者名稱，選填。如有填寫將覆蓋 Default Recipient Name 的內容）、Message（訊息，選填。如有填寫將覆蓋 Default Gift Message 的內容），完成後再點「Choose File」上載
+  5. Upload Recipient List CSV file - 點 「Download CSV Template」 下載 CSV 格式檔案，填寫 Email（電郵，必填）、Wallet（錢包地址，選填）、Recipient name（接收者名稱，選填。如有填寫將覆蓋 Default Recipient Name 的內容）、Message（訊息，選填。如有填寫將覆蓋 Default Gift Message 的內容），完成後再點「Choose File」上載
   6. 上載完成後可在 Recipients 查看內容是否正確，再點「Confirm」送出 NFT 電子書。
 
 <figure><img src="../../.gitbook/assets/Manage NFT Books 2.png" alt=""><figcaption><p>NFT Book Status</p></figcaption></figure>

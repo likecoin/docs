@@ -179,6 +179,10 @@ Physical Goods - 選取後代表書籍版本為實體書，讀者需要支付寄
 
 連結 Stripe 帳戶，點擊後將開始連結 Stripe 帳戶，詳見：
 
+{% content-ref url="stripe.md" %}
+[stripe.md](stripe.md)
+{% endcontent-ref %}
+
 #### Email to receive sales notification
 
 輸入需要接收銷售通知的電郵地址，再點「Add」
