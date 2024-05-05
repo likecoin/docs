@@ -124,7 +124,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 * 在 Number of NFT to mint 一欄輸入需要鑄造多少個 NFT
 * 如若你的書檔是 epub，系統會自動抽出 AR 封面的連結放在 image URL 一欄
-* External URL (optional)、URI (optional) 及 及 Max number of supply for this NFT Class (optional) 可按需要填寫。
+* External URL (optional)、URI (optional) 及 Max number of supply for this NFT Class (optional) 可按需要填寫。
 
 填寫完成並確認無誤後按「Mint」，Keplr 錢包將彈出視窗數次，點「Approve」簽署。
 
@@ -150,7 +150,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 在 New NFT Book Listing 出現已鑄造 NFT 電子書的 NFT Class ID。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 22.png" alt=""><figcaption><p> 自動出現 NFT Class ID</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 22.png" alt=""><figcaption><p>在 New NFT Book Listing 出現已鑄造 NFT 電子書的 NFT Class ID</p></figcaption></figure>
 
 #### Pricing and Availability
 
@@ -173,7 +173,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 Physical Goods - 選取後代表書籍版本為實體書，讀者需要支付寄送費用。於 Advance Settings 開啟此功能方可選取
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 23a.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 23a.png" alt=""><figcaption><p>Product Information 與 Shipping Optioins</p></figcaption></figure>
 
 #### Connect to a Stripe  Account
 
@@ -183,7 +183,7 @@ Physical Goods - 選取後代表書籍版本為實體書，讀者需要支付寄
 
 輸入需要接收銷售通知的電郵地址，再點「Add」
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 23b.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 23b.png" alt=""><figcaption><p>Connect to a Stripe  Account 與 Email to receive sales notification</p></figcaption></figure>
 
 #### Advance Settings
 
@@ -191,17 +191,19 @@ Physical Goods - 選取後代表書籍版本為實體書，讀者需要支付寄
 
 * Default Display Currency at Check out - 將預設美元結算改為港元
 * Shipping Options - 加入寄送費用選項
-* Share sales data to wallets - 輸入需要接收銷售數據的電郵地址，再點「Add」
+* Share sales data to wallets - 輸入需要接收銷售數據的錢包地址，再點「Add」
 * Send NFT Grant - 如選擇了 Automatic deliver NFT，需要點「Grant」給予權限方可讓 Liker Land 為你自動傳送 NFT 電子書
-* DRM  Options - Force NFT claim before view 選取 Must claim NFT to view 代表讀者一定要領取 NFT 電子書方可閱讀；Disable File Download 選取 Disable Download 代表不讓讀者下載 NFT 電子書，只容許線上觀看
+* DRM  Options
+  * Force NFT claim before view - 選取 Must claim NFT to view 代表讀者一定要領取 NFT 電子書方可閱讀
+  * Disable File Download - 選取 Disable Download 代表不讓讀者下載 NFT 電子書，只容許線上閱讀
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 23c.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 23c.png" alt=""><figcaption><p>Advance Settings</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 23d.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 23d.png" alt=""><figcaption><p>Shipping Options</p></figcaption></figure>
 
 完成設定後點「Submit」。假如用戶選擇 Automatic deliver NFT，將出現提示說明一但選擇自動傳送 NFT 電子書給讀者將不能更改為手動。確認無誤後點「OK」。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 23e.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 23e.png" alt=""><figcaption><p>確認無誤後點「OK」</p></figcaption></figure>
 
 接著在 Current Listing 會出現已上架的書藉版本。
 

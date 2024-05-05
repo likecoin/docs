@@ -9,6 +9,8 @@
 
 * [去中心出版](depub/decentralized-publishing.md)
 * [出版 NFT 電子書](depub/nft-book-press/README.md)
+  * [管理 NFT 電子書](depub/nft-book-press/nft-book-store.md)
+  * [設定 NFT 電子書套裝](depub/nft-book-press/collection.md)
   * [修改已出版的 NFT 電子書資料](depub/nft-book-press/modify-nft-ebook.md)
   * [銷毁已出版的 NFT 電子書](depub/nft-book-press/burn-nft-ebook.md)
   * [上架 Liker Land NFT 電子書的常見問題](depub/nft-book-press/nft-book-press-faq.md)
