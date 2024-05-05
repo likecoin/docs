@@ -108,7 +108,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 ### 步驟一：鑄造 NFT 電子書 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-到 [LikeCoin NFT BookPress](https://likecoin.github.io/nft-book-press/) 網站，點「Mint NFT」，進入網站後按右上角「Connect Wallet」連結 Keplr。
+到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，點「Mint NFT」，進入網站後按右上角「Connect Wallet」連結 Keplr。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
 
