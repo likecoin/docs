@@ -18,13 +18,17 @@ description: 如何連接 Stripe 帳戶
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 2.png" alt=""><figcaption><p>填寫電郵及電話號碼</p></figcaption></figure>
 
-你的電郵會收到驗證碼 ( verification code )，把它填進去。
+你的電話會收到驗證碼 ( verification code )，把它填進去。
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 3.png" alt=""><figcaption><p>輸入驗驗碼</p></figcaption></figure>
 
-在 Tell us about your business 填寫所在國家 ( Country ) 及產業屬性 ( Type of business )。
+在 Tell us about your business 填寫所在國家 ( Country ) 及產業屬性 ( Type of business )，點「Continue」。
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 4.png" alt=""><figcaption><p>填寫所在國家及產業屬性</p></figcaption></figure>
+
+輸入名字 ( First Name )、姓氏 ( First Name ) 及出生日期 ( Date of birth )，，點「Continue」。
+
+<figure><img src="../../.gitbook/assets/Manage Stripe Account 5.png" alt=""><figcaption></figcaption></figure>
 
 點銀行帳戶 ( Bank Account ) 設定你的i帳戶擁有者姓名 ( Account holder name )、選擇銀行 ( Choose your bank )、選擇分行 ( Choose your branch ) 及輸入你的帳戶號碼 ( Account Number ) 再點「Save」。
 
