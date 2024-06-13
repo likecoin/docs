@@ -36,7 +36,7 @@
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile delegate 5.png" alt=""><figcaption><p>確認委託數量及所需手續費無誤後點「Approve」</p></figcaption></figure>
 
-出現 Transaction pending 及 successful 代表委託完成，點「Confirm」回到主頁或點「View on Mintscan」在 [Mintscan](../../wallet/block-explorer/mintscan.md) 區塊瀏覽器查看交易明細。
+出現 Transaction pending 及 successful 代表委託完成，點「Confirm」回到主頁或點「View on Mintscan」在 [Mintscan](../../../archive/archive/wallet/mintscan.md) 區塊瀏覽器查看交易明細。
 
 <div>
 
@@ -118,7 +118,7 @@
 
 ### 步驟七：查看委託
 
-委託完成並顯示詳盡資料。可點「Share」分享或「Explorer」在 [Mintscan](../../wallet/block-explorer/mintscan.md) 區塊瀏覽器中查閱明細。完成後點「Done」結束。
+委託完成並顯示詳盡資料。可點「Share」分享或「Explorer」在 [Mintscan](../../../archive/archive/wallet/mintscan.md) 區塊瀏覽器中查閱明細。完成後點「Done」結束。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile delegate 9.png" alt=""><figcaption><p>委託完成並顯示詳盡資料，點「Share」分享或「Explorer」查閱明細</p></figcaption></figure>
 

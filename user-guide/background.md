@@ -40,7 +40,7 @@ _LikeCoin DAO_ 的市民。每位 _Liker_ 擁有一獨特的 [_Liker ID_](liker-
 
 ### LikeCoin chain <a href="#aa59" id="aa59"></a>
 
-_LikeCoin DAO_ 政府去中心化的數據記錄，專為內容創作和資料產權而設計，提供高效、便宜，及尤其重要的獨立性。_LikeCoin chain_ 上的開放數據可在 [**Big Dipper**](https://likecoin.bigdipper.live) 及 [**Mintscan**](../general-guides/wallet/block-explorer/mintscan.md) 上瀏覽。
+_LikeCoin DAO_ 政府去中心化的數據記錄，專為內容創作和資料產權而設計，提供高效、便宜，及尤其重要的獨立性。_LikeCoin chain_ 上的開放數據可在 [**Big Dipper**](https://likecoin.bigdipper.live) 及 [**Mintscan**](../archive/archive/wallet/mintscan.md) 上瀏覽。
 
 2019年四月開發出 _LikeCoin chain_ 初代測試版本代號為 **KaiTak**（啟德），並於九月份升級為新的測試網絡 **Taipei**（台北）。直至 11月15日 被命名為 **SheungWan**（上環）的 _LikeCoin chain_ 第一次公開發怖，同時亦標誌著 _LikeCoin DAO_ 的誕生。
 

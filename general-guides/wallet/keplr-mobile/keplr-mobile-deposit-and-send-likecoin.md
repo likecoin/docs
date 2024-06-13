@@ -30,7 +30,7 @@ description: 使用 Keplr Mobile 直接存入及轉帳 LikeCoin
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile send 3.png" alt=""><figcaption><p>點「Approve」</p></figcaption></figure>
 
-出現 Transaction pending 及 successful 代表轉帳完成，點「Confirm」回到主頁或點「View on Mintscan」在 [Mintscan](../block-explorer/mintscan.md) 查看交易明細。
+出現 Transaction pending 及 successful 代表轉帳完成，點「Confirm」回到主頁或點「View on Mintscan」在 [Mintscan](../../../archive/archive/wallet/mintscan.md) 查看交易明細。
 
 <div>
 

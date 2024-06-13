@@ -58,7 +58,7 @@ description: 如何註冊 MyEthShop 找換店帳號及進行交易
 
 ## 步驟五：複製哈希 Transaction Hash / TXID
 
-回到 Liker Land 手機應用程式錢包介面，往下點 \[在 [Mintscan](../wallet/block-explorer/mintscan.md) 查看開放數據] 並複製哈希地址。
+回到 Liker Land 手機應用程式錢包介面，往下點 \[在 [Mintscan](../../archive/archive/wallet/mintscan.md) 查看開放數據] 並複製哈希地址。
 
 <figure><img src="../../.gitbook/assets/myethshop-2 (1).png" alt=""><figcaption><p>點 [在 Mintscan 查看開放數據]</p></figcaption></figure>
 
