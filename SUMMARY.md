@@ -111,7 +111,7 @@
   * [在 Osmosis 交易](general-guides/trade/trade-in-osmosis.md)
   * [註冊 DigiFinex 帳號](general-guides/trade/registering-on-digifinex.md)
   * [在 DigiFinex 交易](general-guides/trade/trade-in-digifinex.md)
-  * [註冊及在 MyEthShop 交易](general-guides/trade/registering-and-trade-in-myethshop.md)
+  * [在 MyEthShop 交易](general-guides/trade/registering-and-trade-in-myethshop.md)
   * [場外交易](general-guides/trade/otc.md)
 * [流動性](general-guides/liquidity/README.md)
   * [Osmosis](general-guides/liquidity/osmosis.md)
