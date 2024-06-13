@@ -171,9 +171,18 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 #### Shipping Optioins
 
-Physical Goods - 選取後代表書籍版本為實體書，讀者需要支付寄送費用。於 Advance Settings 開啟此功能方可選取
+Physical Goods - 選取 Includes physical good that requires shipping 後代表書籍版本為實體書，讀者需要支付寄送費用。點「View Current Shipping Options」可查看現時已設定的寄送方式。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23a.png" alt=""><figcaption><p>Product Information 與 Shipping Optioins</p></figcaption></figure>
+
+#### Shipping Options Info
+
+* Name of the shipping option - 填寫寄送方式的中英文名稱
+* Price(USD) of this shipping option - 該寄送方式以美元計算的費用
+
+點「Set Shipping Options」儲存該寄送方式，點「Add Options」增加更多寄送方式，完成後點「Save」。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 23f.png" alt=""><figcaption></figcaption></figure>
 
 #### Connect to a Stripe  Account
 
@@ -193,17 +202,28 @@ Physical Goods - 選取後代表書籍版本為實體書，讀者需要支付寄
 
 點 Advance Settings 可額外輸入以下內容：
 
-* Default Display Currency at Check out - 將預設美元結算改為港元
-* Shipping Options - 加入寄送費用選項
+* Default Display Currency at Check out - 將預設顯示美元改為顯示港元
+* Shipping Options - 寄送費用選項
 * Share sales data to wallets - 輸入需要接收銷售數據的錢包地址，再點「Add」
-* Send NFT Grant - 如選擇了 Automatic deliver NFT，需要點「Grant」給予權限方可讓 Liker Land 為你自動傳送 NFT 電子書
+* Send NFT Grant - 如選擇了 Automatic deliver NFT，Liker Land 預設擁有「Grant」權限為你自動傳送 NFT 電子書
 * DRM  Options
   * Force NFT claim before view - 選取 Must claim NFT to view 代表讀者一定要領取 NFT 電子書方可閱讀
+  * Insert cutomized message page in eBook - 自動插入訊息於 NFT 電子書中
   * Disable File Download - 選取 Disable Download 代表不讓讀者下載 NFT 電子書，只容許線上閱讀
+* Coupon Codes - 點「Add New」設定優惠券：
+  1. Coupon Code - 設定優惠券的名稱
+  2. Discount Multiplier - 優惠幅度，例如 10% 即九折優惠
+  3. Expiry Date - 優惠結束期限
+  4. 設定完成後點「Add」加入優惠券。
+* Copy Purchase Link - 設定購買連結
+  1. Price - 選擇哪一個版本的 NFT 電子書
+  2. Sales channel for this link - 輸入名字，為你的銷售渠道設定專屬購買連結以便促銷
+  3. Copy Purchase Link」 - 點「Copy Purchase Link」復製銷售渠道專屬連結
+  4. Purchase Link QR Code - 點「Download」下載專屬連結的 QR Code
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23c.png" alt=""><figcaption><p>Advance Settings</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 23d.png" alt=""><figcaption><p>Shipping Options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage NFT Books 6.png" alt=""><figcaption><p>Coupon Codes</p></figcaption></figure>
 
 完成設定後點「Submit」。假如用戶選擇 Automatic deliver NFT，將出現提示說明一但選擇自動傳送 NFT 電子書給讀者將不能更改為手動。確認無誤後點「OK」。
 

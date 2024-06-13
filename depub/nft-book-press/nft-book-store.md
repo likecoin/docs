@@ -35,19 +35,3 @@ NFT Book Status \[書名] 顯示正在管理的 NFT 電子書。
 * Sales Channel Summary - 查看來自各種不同銷售渠道的總結
 
 <figure><img src="../../.gitbook/assets/Manage NFT Books 4.png" alt=""><figcaption><p>Sales Channel Summary</p></figcaption></figure>
-
-* Coupon Codes - 設定各種優惠券：
-  1. Coupon Code - 設定優惠券的名稱
-  2. Discount Multiplier - 優惠幅度，例如 10% 即九折優惠
-  3. Expiry Date - 優惠結束期限
-  4. 設定完成後點「Add」加入優惠券。
-
-<figure><img src="../../.gitbook/assets/Manage NFT Books 6.png" alt=""><figcaption><p>Coupon Codes</p></figcaption></figure>
-
-* Copy Purchase Link - 設定購買連結
-  1. Price - 選擇哪一個版本的 NFT 電子書
-  2. Sales channel for this link - 輸入名字，為你的銷售渠道設定專屬購買連結以便促銷
-  3. Copy Purchase Link」 - 點「Copy Purchase Link」復製銷售渠道專屬連結
-  4. Purchase Link QR Code - 點「Download」下載專屬連結的 QR Code
-
-<figure><img src="../../.gitbook/assets/Manage NFT Books 5.png" alt=""><figcaption><p>Copy Purchase Link</p></figcaption></figure>
