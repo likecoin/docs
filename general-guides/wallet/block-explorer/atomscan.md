@@ -8,7 +8,7 @@ description: ATOMScan 是查看 LikeCoin 交易的工具
 
 ### 步驟一
 
-到 Ping.pub 網站，或直接到 [https://ping.pub/likecoin](https://ping.pub/likecoin)。
+到 [ATOMScan](https://atomscan.com/) 網站，或直接到 [https://atomscan.com/likecoin](https://atomscan.com/likecoin)。
 
 在搜尋欄輸入錢包地址。
 
