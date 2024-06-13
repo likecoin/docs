@@ -48,7 +48,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 準備好 epub 檔案後，接下來把它註冊成 ISCN。
 
-### 步驟一：上載檔案
+### 步驟一：上載檔案 <a href="#upload-file" id="upload-file"></a>
 
 到 [app.like.co](https://app.like.co/) 網站，點「Register ISCN」。
 
@@ -70,7 +70,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署後靜侯一會兒。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption><p>在 Keplr 點「Approve」簽署</p></figcaption></figure>
 
-### 步驟二：輸入書籍資料
+### 步驟二：輸入書籍資料 <a href="#metadata" id="metadata"></a>
 
 出現 File Ready 代表檔案上傳成功，系統會依照元數據內容生成以下資料，如有需要可作修改：
 
@@ -94,7 +94,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 14.png" alt=""><figcaption><p>在 Keplr 點「Approve」簽署</p></figcaption></figure>
 
-### 步驟三：註冊 ISCN 完成
+### 步驟三：註冊 ISCN 完成 <a href="#successfully-registered-iscn" id="successfully-registered-iscn"></a>
 
 出現 Completed! Here is your ISCN 說明 ISCN 經已成功註冊。點 ISCN ID 欄位的一串字符把它複製，接下來於 NFT 電子書上架時會需要用到。圖中的 /1 是這個 ISCN 第 1 個版本的意思，於製作 NFT 電子書時並不重要。
 
@@ -182,7 +182,7 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 
 點「Set Shipping Options」儲存該寄送方式，點「Add Options」增加更多寄送方式，完成後點「Save」。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 23f.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 23f.png" alt=""><figcaption><p>Shipping Options</p></figcaption></figure>
 
 #### Connect to a Stripe  Account
 

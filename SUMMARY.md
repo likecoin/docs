@@ -11,6 +11,7 @@
 * [出版 NFT 電子書](depub/nft-book-press/README.md)
   * [管理 NFT 電子書](depub/nft-book-press/nft-book-store.md)
   * [設定 NFT 電子書套裝](depub/nft-book-press/collection.md)
+  * [補書上架](depub/nft-book-press/add-books.md)
   * [設定 Stripe 帳戶](depub/nft-book-press/stripe.md)
   * [修改已出版的 NFT 電子書資料](depub/nft-book-press/modify-nft-ebook.md)
   * [銷毁已出版的 NFT 電子書](depub/nft-book-press/burn-nft-ebook.md)
