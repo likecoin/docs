@@ -211,15 +211,15 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
   * Insert cutomized message page in eBook - 自動插入訊息於 NFT 電子書中
   * Disable File Download - 選取 Disable Download 代表不讓讀者下載 NFT 電子書，只容許線上閱讀
 * Coupon Codes - 點「Add New」設定優惠券：
-  1. Coupon Code - 設定優惠券的名稱
-  2. Discount Multiplier - 優惠幅度，例如 10% 即九折優惠
-  3. Expiry Date - 優惠結束期限
-  4. 設定完成後點「Add」加入優惠券。
+  * Coupon Code - 設定優惠券的名稱
+  * Discount Multiplier - 優惠幅度，例如 10% 即九折優惠
+  * Expiry Date - 優惠結束期限
+  * 設定完成後點「Add」加入優惠券。
 * Copy Purchase Link - 設定購買連結
-  1. Price - 選擇哪一個版本的 NFT 電子書
-  2. Sales channel for this link - 輸入名字，為你的銷售渠道設定專屬購買連結以便促銷
-  3. Copy Purchase Link」 - 點「Copy Purchase Link」復製銷售渠道專屬連結
-  4. Purchase Link QR Code - 點「Download」下載專屬連結的 QR Code
+  * Price - 選擇哪一個版本的 NFT 電子書
+  * Sales channel for this link - 輸入名字，為你的銷售渠道設定專屬購買連結以便促銷
+  * Copy Purchase Link」 - 點「Copy Purchase Link」復製銷售渠道專屬連結
+  * Purchase Link QR Code - 點「Download」下載專屬連結的 QR Code
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23c.png" alt=""><figcaption><p>Advance Settings</p></figcaption></figure>
 
