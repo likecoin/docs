@@ -188,8 +188,8 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 
 連結 Stripe 帳戶，點擊後將開始連結 Stripe 帳戶，詳見：
 
-{% content-ref url="stripe.md" %}
-[stripe.md](stripe.md)
+{% content-ref url="user-setting/stripe.md" %}
+[stripe.md](user-setting/stripe.md)
 {% endcontent-ref %}
 
 #### Email to receive sales notification
