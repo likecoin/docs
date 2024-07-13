@@ -76,7 +76,7 @@ description: 使用 Keplr 以文章網址出版 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 5-3.png" alt=""><figcaption><p>修改 Writing NFT 作者留言及查看更多設定</p></figcaption></figure>
 
-在 Number of NFTs to premint 可輸入 0-255 之間的預先鑄造 NFT 數量；
+在 Number of NFTs to mint 可輸入 0-255 之間的鑄造 NFT 數量；
 
 在 Numbers of NFTs reserved for giveaways 可預留 0-255 份 NFT 作送贈之用；
 
