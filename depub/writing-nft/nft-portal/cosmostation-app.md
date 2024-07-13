@@ -100,7 +100,7 @@ Cosmostation app 將彈出 Request Transaction Sign 視窗，點「Confirm」。
 
 在 Sales Settings 可設定 Writing NFT 起始售價 ( Initial Price ) 為 All Free、$1、$2、$4、$8、$16、$32、$64、$128、$256。All Free 即是將 NFT 供收藏者自行 Free Mint，他們不需要付出任何費用，只需付出[手續費](../../../general-guides/wallet/transaction-fee.md)。如不作設定，起始售價預會設為 $1；
 
-<figure><img src="../../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>輸入預留及送贈 Writing NFT 的數量，並設定起始售價</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>輸入鑄造及送贈 Writing NFT 的數量，並設定起始售價</p></figcaption></figure>
 
 也可以於 set a deadline for collection 為 NFT 設定收藏期限，該日期過後收藏者將不能收集該 NFT；
 
