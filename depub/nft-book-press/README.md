@@ -239,7 +239,7 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 
 ***
 
-### 匯入 epub 檔案到各家閱讀器
+### 匯入 epub 檔案到各家閱讀器 <a href="#ereader" id="ereader"></a>
 
 除了可使用 USB 方式匯入 epub 檔案到閱讀器。不同廠牌亦支援以網絡介面上載，更多詳情可參看：
 
