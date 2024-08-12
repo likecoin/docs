@@ -34,7 +34,7 @@ description: 如何購買 NFT 電子書
 
 ## 步驟五：連結 Liker Land 帳號 <a href="#step-5" id="step-5"></a>
 
-點「註冊」或「或以其他方式登入」註冊或登入 Liker Land 帳號。
+點「使用信箱註冊」或「或以其他方式登入」註冊或登入 Liker Land 帳號。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 6.png" alt=""><figcaption><p>註冊或登入 Liker Land 帳號</p></figcaption></figure>
 
@@ -50,7 +50,7 @@ description: 如何購買 NFT 電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 8.png" alt=""><figcaption><p>輸入留給作者的說話再點「確認」</p></figcaption></figure>
 
-## 步驟八：𢦓功領取電子書 <a href="#step-8" id="step-8"></a>
+## 步驟八：成功領取電子書 <a href="#step-8" id="step-8"></a>
 
 出現你已成功領取電子書頁面，你也可以點「檢視收藏」查看已購買的 NFT 電子書。
 
