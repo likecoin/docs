@@ -103,6 +103,6 @@ description: 使用 Keplr 註冊 ISCN
 [cosmostation-app.md](cosmostation-app.md)
 {% endcontent-ref %}
 
-{% content-ref url="liker-land-app.md" %}
-[liker-land-app.md](liker-land-app.md)
+{% content-ref url="likecoin-app.md" %}
+[likecoin-app.md](likecoin-app.md)
 {% endcontent-ref %}

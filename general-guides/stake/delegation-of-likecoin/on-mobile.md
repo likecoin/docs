@@ -118,7 +118,7 @@
 
 ### 步驟七：查看委託
 
-委託完成並顯示詳盡資料。可點「Share」分享或「Explorer」在 [Mintscan](../../../archive/archive/wallet/mintscan.md) 區塊瀏覽器中查閱明細。完成後點「Done」結束。
+委託完成並顯示詳盡資料，完成後點「Done」結束。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile delegate 9.png" alt=""><figcaption><p>委託完成並顯示詳盡資料，點「Share」分享或「Explorer」查閱明細</p></figcaption></figure>
 
@@ -136,11 +136,11 @@
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile delegate 12.png" alt=""><figcaption><p>點「Next」再點「Confirm」</p></figcaption></figure>
 
-## 使用 Liker Land app 委託 LikeCoin <a href="#delegate-via-liker-land" id="delegate-via-liker-land"></a>
+## 使用 LikeCoin app 委託 LikeCoin <a href="#delegate-via-liker-land" id="delegate-via-liker-land"></a>
 
 ### 步驟一：選擇驗證人
 
-於 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)點「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
+於 [LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)點「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
 
 <figure><img src="../../../.gitbook/assets/delegate 1.png" alt=""><figcaption><p>點「我的錢包」</p></figcaption></figure>
 
@@ -174,4 +174,4 @@
 
 回到錢包的頁面，你可以下拉刷新錢包的狀態。
 
-回饋金額會 5 至 6 秒派發一次 - 什麼？跟銀行的每月派息快太多了吧！你可在錢包驗證人頁面中的 「未領取收益」欄查看累積的回饋金額，或按「領取收益」把回報存進錢包，留意 Liker Land 手機應用程式最低收益存進數量為 1 LikeCoin，少於 1 LikeCoin 的收益將不能存進錢包。
+回饋金額會 5 至 6 秒派發一次 - 什麼？跟銀行的每月派息快太多了吧！你可在錢包驗證人頁面中的 「未領取收益」欄查看累積的回饋金額，或按「領取收益」把回報存進錢包，留意 LikeCoin 手機應用程式最低收益存進數量為 1 LikeCoin，少於 1 LikeCoin 的收益將不能存進錢包。

@@ -1,10 +1,10 @@
 ---
-description: Liker Land app 錢包終於可以匯出助記詞
+description: LikeCoin 錢包終於可以匯出助記詞
 ---
 
-# 匯出錢包助記詞
+# 匯出 LikeCoin app 助記詞
 
-由 2022 年 4 月開始，用戶可以自 [Liker Land](https://liker.land/) 匯出[以一般方法 ( Authcore ) 註冊 Liker ID](register/) 的錢包助記詞並在其他錢包例如 Keplr 導入助記詞以管理自己的 [LikeCoin](https://like.co/)。
+由 2022 年 4 月開始，用戶可以匯出[以一般方法 ( Authcore ) 註冊 Liker ID](register/) 的錢包助記詞並在其他錢包例如 Keplr 導入助記詞以管理自己的 [LikeCoin](https://like.co/)。
 
 在匯出錢包助記詞前，請留意：
 
@@ -27,7 +27,7 @@ description: Liker Land app 錢包終於可以匯出助記詞
 
 ### 步驟三：重新登入 Liker Land
 
-以 [Keplr](../../general-guides/wallet/keplr/) 或 [Liker Land 手機應用程式](../liker-land/download.md) 登入 [Liker Land](https://liker.land/)。
+以 [Keplr](../../general-guides/wallet/keplr/) 或 [LikeCoin 手機應用程式](../liker-land/download.md) 登入 [Liker Land](https://liker.land/)。
 
 <figure><img src="../../.gitbook/assets/Seed Words 3pre.png" alt=""><figcaption></figcaption></figure>
 
@@ -47,7 +47,7 @@ description: Liker Land app 錢包終於可以匯出助記詞
 
 ![複製錢包助記詞](<../../.gitbook/assets/Seed Words 5.png>)
 
-## 以 Liker Land 手機應用程式匯出助記詞
+## 以 LikeCoin 手機應用程式匯出助記詞
 
 ### 步驟一：開始匯出錢包助記詞
 

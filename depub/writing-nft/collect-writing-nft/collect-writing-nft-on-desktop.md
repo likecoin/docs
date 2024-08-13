@@ -1,6 +1,6 @@
 ---
 description: >-
-  使用 Keplr、Cosmostation、Leap、Keplr Mobile、Cosmostation app 或 Liker Land
+  使用 Keplr、Cosmostation、Leap、Keplr Mobile、Cosmostation app 或 LikeCoin
   手機應用程式以桌面電腦用 LIKE 購買 Writing NFT
 ---
 
@@ -172,7 +172,7 @@ Cosmostation app 彈出 Request Transaction Sign 視窗，點「Confirm」確認
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 2.png" alt=""><figcaption><p>Cosmostation app 彈出視窗，點「Confirm」確認購買</p></figcaption></figure>
 
-### Liker Land 手機應用程式
+### LikeCoin 手機應用程式
 
 #### 教學影片
 
@@ -182,9 +182,9 @@ Cosmostation app 彈出 Request Transaction Sign 視窗，點「Confirm」確認
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 1.png" alt=""><figcaption><p>點 Liker ID 後出現二維碼</p></figcaption></figure>
 
-在 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
+在 [LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 2.png" alt=""><figcaption><p>在 Liker Land app 調用鏡頭，掃瞄二維碼</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 2.png" alt=""><figcaption><p>在 LikeCoin app 調用鏡頭，掃瞄二維碼</p></figcaption></figure>
 
 彈出視窗點「允許」連結  Liker Land，並再點「允許」連結帳戶並登入。
 
@@ -214,13 +214,13 @@ Cosmostation app 彈出 Request Transaction Sign 視窗，點「Confirm」確認
 
 <figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE.png" alt=""><figcaption><p>輸入給創作者的話並用 LIKE 購買</p></figcaption></figure>
 
-桌面電腦彈出請在 Liker Land 手機應用程式簽署確認視窗。
+桌面電腦彈出請在 LikeCoin 手機應用程式簽署確認視窗。
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 8 Liker Land app 1.png" alt=""><figcaption><p>桌面電腦彈出正在收藏作品視窗</p></figcaption></figure>
 
-Liker Land app 彈出簽名請求視窗，點「允許」確認購買。
+LikeCoin app 彈出簽名請求視窗，點「允許」確認購買。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 8 Liker Land app 2.png" alt=""><figcaption><p>Liker Land app 彈出視窗，點「允許」確認購買</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Liker Land app 2.png" alt=""><figcaption><p>LikeCoin app 彈出視窗，點「允許」確認購買</p></figcaption></figure>
 
 ## 步驟三：查看已購買的 Writing NFT
 

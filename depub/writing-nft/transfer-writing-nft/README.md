@@ -12,7 +12,7 @@ description: 簡單發送 Writing NFT 沒難度
 
 ## 步驟一：登入並發送
 
-在 [Liker Land](https://liker.land/) 登入 [Keplr Browser Extension](../../../general-guides/wallet/keplr/)、[Cosmostation Browser Extension](../../../general-guides/wallet/cosmostation/)、[Leap Browser Extension](../../../general-guides/wallet/leap/)、[Cosmostation app](../../../general-guides/wallet/cosmostation-mobile/) 或 [Liker Land app](../../../user-guide/liker-land/download.md) 後點需要發送的 NFT，並查看存量「擁有」了多少個。確定發送後點「發送」。
+在 [Liker Land](https://liker.land/) 登入 [Keplr Browser Extension](../../../general-guides/wallet/keplr/)、[Cosmostation Browser Extension](../../../general-guides/wallet/cosmostation/)、[Leap Browser Extension](../../../general-guides/wallet/leap/)、[Cosmostation app](../../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin app](../../../user-guide/liker-land/download.md) 後點需要發送的 NFT，並查看存量「擁有」了多少個。確定發送後點「發送」。
 
 <figure><img src="../../../.gitbook/assets/NFT Transfer 1.png" alt=""><figcaption><p>點「發送」開始發送 Writing NFT</p></figcaption></figure>
 
@@ -50,13 +50,13 @@ description: 簡單發送 Writing NFT 沒難度
 
 <figure><img src="../../../.gitbook/assets/NFT Transfer 10.png" alt=""><figcaption><p>在 Cosmostation app 點「Confirm」</p></figcaption></figure>
 
-#### 在 Liker Land app 確認發送 Writing NFT
+#### 在 LikeCoin app 確認發送 Writing NFT
 
 在手機上出現簽名請求，點「允許」確認發送。
 
-<figure><img src="../../../.gitbook/assets/NFT Transfer 7.png" alt=""><figcaption><p>使用 Liker Land app 發送你的 NFT</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Transfer 7.png" alt=""><figcaption><p>使用 LikeCoin app 發送你的 NFT</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/NFT Transfer 6.png" alt=""><figcaption><p>在 Liker Land app 點「允許」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Transfer 6.png" alt=""><figcaption><p>在 LikeCoin app 點「允許」</p></figcaption></figure>
 
 ## 步驟四：成功發送
 

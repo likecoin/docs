@@ -12,9 +12,9 @@ description: NFT 作者及收藏者雙向互動
 
 <figure><img src="../../../.gitbook/assets/notifications.png" alt=""><figcaption><p>Writing NFT 通知功能</p></figcaption></figure>
 
-## Liker Land 手機應用程式
+## LikeCoin 手機應用程式
 
-在 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)點:bell:查看通知。
+在 [LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)點:bell:查看通知。
 
 <figure><img src="../../../.gitbook/assets/Liker Land app Writing NFT 3.png" alt=""><figcaption><p>點<span data-gb-custom-inline data-tag="emoji" data-code="1f514">🔔</span>查看通知</p></figcaption></figure>
 

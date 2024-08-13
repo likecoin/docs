@@ -91,7 +91,7 @@ node index.js TangPoems300.csv
 
 程式成功執行後，在 iscn-batch-uploader 文件夾會多了一個 "output.csv" 檔案，跟原資料檔案比較增加了兩個欄位： txHash 及 iscnId。
 
-txHash 是 LikeCoin chain 上的交易記錄編號，你可在 Big Dipper 或 stake.like.co 等區塊瀏覽器中查找這串編碼以檢視該筆記錄，例如你可在 Big Dipper 中輸入這個 TX hash: C75B2BD9C79A83670C49F97522E7670CBB7E4892CAC26D5F09E5913C57870E5C
+txHash 是 LikeCoin chain 上的交易記錄編號，你可在 [Ping.pub](../../general-guides/wallet/block-explorer/ping.pub.md) 或 stake.like.co 等區塊瀏覽器中查找這串編碼以檢視該筆記錄，例如你可在 Ping.pub 中輸入這個 TX hash: C75B2BD9C79A83670C49F97522E7670CBB7E4892CAC26D5F09E5913C57870E5C
 
 打開 "Raw" 選項，可看到詳細的 ISCN 註冊資料記錄。
 

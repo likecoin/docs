@@ -1,8 +1,8 @@
 ---
-description: 使用 Liker Land app 以文章網址出版 Writing NFT
+description: 使用 LikeCoin app 以文章網址出版 Writing NFT
 ---
 
-# Liker Land 手機應用程式
+# LikeCoin 手機應用程式
 
 ## 登入 NFT Portal <a href="#login-to-nft-portal" id="login-to-nft-portal"></a>
 
@@ -14,9 +14,9 @@ description: 使用 Liker Land app 以文章網址出版 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>點 Liker ID 後出現二維碼</p></figcaption></figure>
 
-在 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
+在 [LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
 
-<figure><img src="../../../.gitbook/assets/NFT Portal 1c.png" alt=""><figcaption><p>在 Liker Land app 調用鏡頭，掃瞄二維碼</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portal 1c.png" alt=""><figcaption><p>在 LikeCoin app 調用鏡頭，掃瞄二維碼</p></figcaption></figure>
 
 彈出 ISCN 視窗，點「允許」。
 
@@ -38,9 +38,9 @@ description: 使用 Liker Land app 以文章網址出版 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 2.png" alt=""><figcaption><p>輸入 URL 再點「Register ISCN」</p></figcaption></figure>
 
-Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟看見 Liker Land app 視窗彈出都點「允許」即可。
+LikeCoin app 將彈出簽名請求視窗，點「允許」。往後的步驟看見 LikeCoin app 視窗彈出都點「允許」即可。
 
-<figure><img src="../../../.gitbook/assets/NFT Portal 3 Liker Land app.png" alt=""><figcaption><p>Liker Land app 視窗彈出一律點「允許」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portal 3 Liker Land app.png" alt=""><figcaption><p>LikeCoin app 視窗彈出一律點「允許」</p></figcaption></figure>
 
 ## 步驟 2/4：預覽 Writing NFT <a href="#preview-nft" id="preview-nft"></a>
 
@@ -114,7 +114,7 @@ Liker Land app 將彈出簽名請求視窗，點「允許」。往後的步驟�
 
 ## 步驟 4/4：完成簽署 <a href="#sign" id="sign"></a>
 
-將彈出 Liker Land app 視窗，請點「允許」進行簽署以註冊 ISCN ID、Arweave ID、Class ID 及鑄造 NFT。
+將彈出 LikeCoin app 視窗，請點「允許」進行簽署以註冊 ISCN ID、Arweave ID、Class ID 及鑄造 NFT。
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 6-1.png" alt=""><figcaption><p>簽署以註冊 ISCN ID、Arweave ID、Class ID 及鑄造 Writing NFT</p></figcaption></figure>
 

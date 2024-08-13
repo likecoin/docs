@@ -18,7 +18,7 @@ description: 讓自己的性格更特出
 
 ### 手機版
 
-在 [Liker Land 手機應用程式](../liker-land/download.md)直接點頭像轉換新頭像。
+在 [LikeCoin 手機應用程式](../liker-land/download.md)直接點頭像轉換新頭像。
 
 <figure><img src="../../.gitbook/assets/avatar 1.png" alt=""><figcaption><p>點頭像轉換新頭像</p></figcaption></figure>
 
@@ -46,13 +46,13 @@ description: 讓自己的性格更特出
 
 <figure><img src="../../.gitbook/assets/Settings 02.png" alt=""><figcaption><p>LikeCoin button 讚賞鍵</p></figcaption></figure>
 
-### Liker Land 手機應用程式及網頁
+### LikeCoin 手機應用程式及網頁
 
 {% content-ref url="../liker-land/download.md" %}
 [download.md](../liker-land/download.md)
 {% endcontent-ref %}
 
-![Liker Land 手機應用程式及網頁](<../../.gitbook/assets/Settings 03.png>)
+![LikeCoin 手機應用程式及網頁](<../../.gitbook/assets/Settings 03.png>)
 
 ### LIKE pay
 

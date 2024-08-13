@@ -96,7 +96,7 @@ description: depub.space 是 Web3 去中心化 Twitter
 
 ![出現已發表的推文](<../../.gitbook/assets/depub.space 7.png>)
 
-## Liker Land 手機應用程式登入
+## LikeCoin 手機應用程式登入
 
 ### 步驟一
 
@@ -112,7 +112,7 @@ description: depub.space 是 Web3 去中心化 Twitter
 
 ### 步驟三
 
-在 [Liker Land 手機應用程式](../liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄步驟二的二維碼。
+在 [LikeCoin 手機應用程式](../liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄步驟二的二維碼。
 
 ![調用鏡頭，掃瞄二維碼](<../../.gitbook/assets/depub.SPACE wc 4.png>)
 

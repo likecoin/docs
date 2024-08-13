@@ -1,8 +1,8 @@
 ---
-description: 使用 Liker Land app 註冊 ISCN
+description: 使用 LikeCoin app 註冊 ISCN
 ---
 
-# Liker Land app
+# LikeCoin 手機應用程式
 
 ## 步驟一：登入 app.like.co
 
@@ -16,9 +16,9 @@ description: 使用 Liker Land app 註冊 ISCN
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>點 Liker ID 後出現二維碼</p></figcaption></figure>
 
-在 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
+在 [LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
 
-<figure><img src="../../../.gitbook/assets/NFT Portal 1c.png" alt=""><figcaption><p>在 Liker Land app 調用鏡頭，掃瞄二維碼</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portal 1c.png" alt=""><figcaption><p>在 LikeCoin app 調用鏡頭，掃瞄二維碼</p></figcaption></figure>
 
 彈出 ISCN 視窗，點「允許」。
 
@@ -81,7 +81,7 @@ description: 使用 Liker Land app 註冊 ISCN
 
 彈出簽署請求視窗，點「允許」。
 
-<figure><img src="../../../.gitbook/assets/ISCN 13.png" alt=""><figcaption><p>Liker Land app 彈出簽署請求視窗，點「允許」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN 13.png" alt=""><figcaption><p>LikeCoin app 彈出簽署請求視窗，點「允許」</p></figcaption></figure>
 
 要成功註冊 ISCN 需簽署兩次，分別為：
 

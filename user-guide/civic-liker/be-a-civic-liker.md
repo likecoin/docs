@@ -86,7 +86,7 @@ description: 贊助創作者方法非常簡單
 
 ![點左手邊菜單選「Portfolio」查看委託明細](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
 
-## 使用 Keplr Mobile、Cosmostation app 或 Liker Land app 委託成為讚賞公民
+## 使用 Keplr Mobile、Cosmostation app 或 LikeCoin app 委託成為讚賞公民
 
 步驟詳見[以手機委託 LikeCoin 章節](../../general-guides/stake/delegation-of-likecoin/on-mobile.md)，選取名稱為 Civic Liker 讚賞公民節點進行委託即可。
 

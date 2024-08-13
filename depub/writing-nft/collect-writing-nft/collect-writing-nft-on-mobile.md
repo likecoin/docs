@@ -1,12 +1,12 @@
 ---
-description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用程式以手機用 LIKE 購買 Writing NFT
+description: 使用 Keplr Mobile、Cosmostation app 或 LikeCoin 手機應用程式以手機用 LIKE 購買 Writing NFT
 ---
 
 # 以手機用 LIKE 購買 Writing NFT
 
-## 使用 Liker Land 手機應用程式購買 NFT <a href="#mobile" id="mobile"></a>
+## 使用 LikeCoin 手機應用程式購買 NFT <a href="#mobile" id="mobile"></a>
 
-**步驟一**：登入 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)後後點堆疊圖案瀏覽 NFT 書店。
+**步驟一**：登入 [LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)後後點堆疊圖案瀏覽 NFT 書店。
 
 <figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 0.png" alt=""><figcaption><p>瀏覽 NFT 書店</p></figcaption></figure>
 
@@ -18,9 +18,9 @@ description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用�
 
 <figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 2.png" alt=""><figcaption><p>輸入給舍作者的話並用 LIKE 購買</p></figcaption></figure>
 
-**步驟四**：出現請在 Liker Land 手機應用程式確認你的簽署後，請等待片刻。
+**步驟四**：出現請在 LikeCoin 手機應用程式確認你的簽署後，請等待片刻。
 
-<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 3.png" alt=""><figcaption><p>請在 Liker Land 手機應用程式確認你的簽署</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 3.png" alt=""><figcaption><p>請在 LikeCoin 手機應用程式確認你的簽署</p></figcaption></figure>
 
 **步驟五**：彈出 LikeCoinApp 視窗，點「允許」。
 
@@ -86,9 +86,9 @@ description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用�
 
 {% embed url="https://www.youtube.com/watch?v=l6zjetJVNuA" %}
 
-### 在 Liker Land 手機應用程式簽署 <a href="#liker-land-app" id="liker-land-app"></a>
+### 在 LikeCoin 手機應用程式簽署 <a href="#liker-land-app" id="liker-land-app"></a>
 
-**步驟一**：登入 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)後到手機瀏覽器開啟希望購買的 NFT 頁面並點「立即收藏」、「收集」、「收藏作品」或當前價格開始收藏 Writing NFT。
+**步驟一**：登入 [LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)後到手機瀏覽器開啟希望購買的 NFT 頁面並點「立即收藏」、「收集」、「收藏作品」或當前價格開始收藏 Writing NFT。
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Keplr Mobile 1.png" alt=""><figcaption><p>點「立即收藏」</p></figcaption></figure>
 
@@ -100,9 +100,9 @@ description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用�
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 3.png" alt=""><figcaption><p>彈出視窗選擇 Liker ID，點擊並連接</p></figcaption></figure>
 
-**步驟四**：在 Liker Land app 彈出 Liker Land 視窗，點「允許」。
+**步驟四**：在 LikeCoin app 彈出 Liker Land 視窗，點「允許」。
 
-<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 4.png" alt=""><figcaption><p>Liker Land app 彈出視窗，點「允許」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 4.png" alt=""><figcaption><p>LikeCoin app 彈出視窗，點「允許」</p></figcaption></figure>
 
 **步驟五**：出現即將回瀏覽器繼續，點「確認」並回到瀏覽器。
 
@@ -112,9 +112,9 @@ description: 使用 Keplr Mobile、Cosmostation app 或 Liker Land 手機應用�
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 6.png" alt=""><figcaption><p>瀏覽器出現正在收藏作品頁面</p></figcaption></figure>
 
-**步驟七**：回到 Liker Land app，點「允許」。
+**步驟七**：回到 LikeCoin app，點「允許」。
 
-<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 7.png" alt=""><figcaption><p>回到 Liker Land app，點「允許」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 7.png" alt=""><figcaption><p>回到 LikeCoin app，點「允許」</p></figcaption></figure>
 
 **步驟八**：再次出現即將回瀏覽器繼續，點「確認」並回到瀏覽器。
 

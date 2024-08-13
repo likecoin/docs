@@ -4,21 +4,21 @@ description: Liker ID 要怎樣註冊？
 
 # 以一般方法 ( Authcore ) 註冊 Liker ID
 
-使用 [Liker Land 手機應用程式](https://liker.land/getapp) 能以一般方法 ( Authcore ) 註冊 Liker ID。但留意此登入方式將慢慢淡出。建議用戶立即[從 Authcore 匯出你的助記詞](../export-seed-words.md)並導入 Keplr 或其他錢包，以便管理你的 [LikeCoin](https://like.co/)。
+使用 [LikeCoin 手機應用程式](https://liker.land/getapp) 能以一般方法 ( Authcore ) 註冊 Liker ID。用戶亦可[從 Authcore 匯出你的助記詞](../export-seed-words.md)並導入 [Keplr](../../../general-guides/wallet/keplr/) 或其他[錢包](../../../general-guides/wallet/)，以便管理你的 [LikeCoin](https://like.co/)。
 
-## 使用 Liker Land 手機應用程式以一般方法 ( Authcore ) 註冊 Liker ID
+## 使用 LikeCoin 手機應用程式以一般方法 ( Authcore ) 註冊 Liker ID
 
-只需下載 [Liker Land 手機應用程式](../../liker-land/download.md)，並執行以下程序即可：
+只需下載 [LikeCoin 手機應用程式](../../liker-land/download.md)，並執行以下程序即可：
 
 ### 步驟一：開始註冊 <a href="#id-1" id="id-1"></a>
 
-打開 Liker Land 手機應用程式，點「註冊」。
+打開 LikeCoin 手機應用程式，點「註冊」。
 
 <figure><img src="../../../.gitbook/assets/signup 01.png" alt=""><figcaption><p>點「註冊」</p></figcaption></figure>
 
 ### 步驟二：選擇註冊方式
 
-Liker Land app 提供電郵地址+密碼及社交帳號 Google 登入、Facebook 登入、Twitter 登入、Apple ID 登入及 Matters 登入等 6 種註冊方式。建議以社交帳號註冊，過程較簡單安全。點擊登入畫面上方的社交帳號圖示。
+LikeCoin app 提供電郵地址+密碼及社交帳號 Google 登入、Facebook 登入、Twitter 登入、Apple ID 登入及 Matters 登入等 6 種註冊方式。建議以社交帳號註冊，過程較簡單安全。點擊登入畫面上方的社交帳號圖示。
 
 <figure><img src="../../../.gitbook/assets/signup 02.png" alt=""><figcaption><p>選擇註冊方式</p></figcaption></figure>
 
@@ -41,7 +41,7 @@ Liker Land app 提供電郵地址+密碼及社交帳號 Google 登入、Facebook
 {% endhint %}
 
 {% hint style="info" %}
-Liker Land 手機應用程式使用 Authcore 登入。什麼是 Authcore？[請參考此條目](what-is-authcore.md)。
+LikeCoin 手機應用程式使用 Authcore 登入。什麼是 Authcore？[請參考此條目](what-is-authcore.md)。
 {% endhint %}
 
 {% hint style="success" %}

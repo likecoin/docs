@@ -58,8 +58,8 @@ description: 展示 NFT 藏品庫
 
 <figure><img src="../../../.gitbook/assets/Featured NFT.png" alt=""><figcaption><p>精選及隱藏 Writing NFT，點一下精選 NFT，再點一下即可隱藏</p></figcaption></figure>
 
-## Liker Land 手機應用程式及手機瀏覽器
+## LikeCoin 手機應用程式及手機瀏覽器
 
-登入 [Liker Land 手機應用程式](../../../user-guide/liker-land/download.md)或在手機瀏覽器登入 [Liker Land](https://liker.land/) 後點堆疊圖案再點「我的書架」查看廣場、藏品及整體數據等資訊。
+登入 [LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)或在手機瀏覽器登入 [Liker Land](https://liker.land/) 後點堆疊圖案再點「我的書架」查看廣場、藏品及整體數據等資訊。
 
-<figure><img src="../../../.gitbook/assets/Dashboard Liker Lad app.png" alt=""><figcaption><p>登入 Liker Land 手機應用程式或在手機瀏覽器登入 Liker Land 後點堆疊圖案再點「我的書架」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Dashboard Liker Lad app.png" alt=""><figcaption><p>登入 LikeCoin 手機應用程式或在手機瀏覽器登入 Liker Land 後點堆疊圖案再點「我的書架」</p></figcaption></figure>

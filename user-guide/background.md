@@ -20,9 +20,9 @@ _LikeCoin DAO_ 的市民。每位 _Liker_ 擁有一獨特的 [_Liker ID_](liker-
 
 最少委託 5,000 [LikeCoin](https://like.co/) 到[讚賞公民節點](https://bigdipper.live/likecoin/validators/likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug)，並以委託回報金以化讚為賞的方式回饋創作的 _Liker_，是 _LikeCoin DAO_ 的納稅人，在支持創作的同時亦能享有一些獨特的好處。
 
-### Liker Land app <a href="#id-2696" id="id-2696"></a>
+### LikeCoin app <a href="#id-2696" id="id-2696"></a>
 
-一個整合了閱讀器、護照及錢包的 app。[_Liker Land_ 手機應用程式](https://like.co/in/getapp)有如你掌上的共和國政府。
+一個整合了閱讀器、護照及錢包的 app。[_LikeCoin_ 手機應用程式](https://like.co/in/getapp)有如你掌上的共和國政府。
 
 有些技術愛好者或更喜歡使用如命令字元介面及硬體錢包等底層工具。這需要相當的技術知識，已超出本文的關注範疇。
 

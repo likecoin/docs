@@ -1,20 +1,20 @@
 ---
-description: 用 Liker Land 手機應用程式轉帳 LikeCoin，幾秒搞定
+description: 用 LikeCoin 手機應用程式轉帳 LikeCoin，幾秒搞定
 ---
 
 # LIKE pay
 
-## 使用 Liker Land 手機應用程式轉帳 LikeCoin
+## 使用 LikeCoin 手機應用程式轉帳 LikeCoin
 
 ### **步驟一**
 
-首先你需要安裝、[以一般方法 ( Authcore ) 註冊 Liker ID](../../user-guide/liker-id/register/) 並登入 [Liker Land 手機應用程式](https://liker.land/getapp)。
+首先你需要安裝、[以一般方法 ( Authcore ) 註冊 Liker ID](../../user-guide/liker-id/register/) 並登入 [LikeCoin 手機應用程式](https://liker.land/getapp)。
 
 ### **步驟二**
 
 打開手機應用程式後，點「我的錢包」，打開你的錢包。點畫面上方的「LIKE pay」。
 
-![在 Liker Land 手機應用程式錢包介面點「Like pay」（紅圈）](../../.gitbook/assets/like-pay-1.png)
+![在 LikeCoin 手機應用程式錢包介面點「Like pay」（紅圈）](../../.gitbook/assets/like-pay-1.png)
 
 ### **步驟三**
 
@@ -24,7 +24,7 @@ description: 用 Liker Land 手機應用程式轉帳 LikeCoin，幾秒搞定
 
 ### **步驟四**
 
-Liker Land 手機應用程式會打開你手機的相機鏡頭，請對著收款方的二維碼掃瞄。然後再按「下一步」。
+LikeCoin 手機應用程式會打開你手機的相機鏡頭，請對著收款方的二維碼掃瞄。然後再按「下一步」。
 
 ![掃瞄收款方的二維碼](../../.gitbook/assets/IMG\_2158.PNG)
 

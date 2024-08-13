@@ -22,11 +22,11 @@ description: 如何查看及複製自己的 LikeCoin 錢包地址？
 
 <figure><img src="../../.gitbook/assets/Leap wallet address.png" alt=""><figcaption><p>複製 Leap 錢包地址</p></figcaption></figure>
 
-## Liker Land app
+## LikeCoin app
 
 點「收款」，再點二維碼下方的「複製」即可複製錢包地址。
 
-![在 Liker Land app 複錢包地址](<../../.gitbook/assets/wallet address liker land app.png>)
+![在 LikeCoin app 複錢包地址](<../../.gitbook/assets/wallet address liker land app.png>)
 
 ## Liker Land 網頁
 
