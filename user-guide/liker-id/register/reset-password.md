@@ -58,7 +58,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ![再點 "Reset Password"](../../../.gitbook/assets/resetpassword-5.png)
 
-重設密碼成功，回到 Liker Land app 或 [https://like.co/in/](https://like.co/in/) 登入 Liker ID。
+重設密碼成功，回到 LikeCoin app 或 [https://like.co/in/](https://like.co/in/) 登入 Liker ID。
 
 ![重設密碼成功](../../../.gitbook/assets/resetpassword-6.png)
 

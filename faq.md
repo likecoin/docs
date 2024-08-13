@@ -82,7 +82,7 @@ description: LikeCoin 常見問題
 
 ### [Liker Land](faq.md#liker-land)
 
-* [下載了 Liker Land 手機應用程式可以做些什麼？](user-guide/liker-land/)
+* [下載了 LikeCoin 手機應用程式可以做些什麼？](user-guide/liker-land/)
 * [什麼是「化讚為賞」？「化讚為賞」的去中心讚賞如何運作？錢從何來？](user-guide/liker-land/like.md)
 * [何謂 Super Like？](user-guide/liker-land/superlike.md)
 
