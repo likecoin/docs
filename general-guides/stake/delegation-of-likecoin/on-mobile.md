@@ -36,7 +36,7 @@
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile delegate 5.png" alt=""><figcaption><p>確認委託數量及所需手續費無誤後點「Approve」</p></figcaption></figure>
 
-出現 Transaction pending 及 successful 代表委託完成，點「Confirm」回到主頁或點「View on Mintscan」在 [Mintscan](../../../archive/archive/wallet/mintscan.md) 區塊瀏覽器查看交易明細。
+出現 Transaction pending 及 successful 代表委託完成，點「Confirm」回到主頁。
 
 <div>
 
