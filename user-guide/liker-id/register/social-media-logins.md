@@ -19,7 +19,7 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 ### 手機版
 
-於 [Liker Land 手機應用程式](../../liker-land/download.md)選畫面右下角設定點「安全」，再點「社交帳戶登入」。
+於 [LikeCoin 手機應用程式](../../liker-land/download.md)選畫面右下角設定點「安全」，再點「社交帳戶登入」。
 
 <figure><img src="../../../.gitbook/assets/social-media-logins-mobile.png" alt=""><figcaption><p>點「社交帳戶登入」</p></figcaption></figure>
 

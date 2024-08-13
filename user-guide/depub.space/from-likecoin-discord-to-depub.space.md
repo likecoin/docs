@@ -20,9 +20,9 @@ description: 使用 LikeCoin Discord「應用程式」功能分享資訊
 
 ## 步驟三
 
-用戶將被帶到這個頁面，點「Use Keplr」或「Liker ID Sign In」以 [Keplr Browser Extension](../../general-guides/wallet/keplr/) 或 [Liker Land app](../liker-land/download.md) 登入並於程式中點「Approve」或「允許」確認貼文。
+用戶將被帶到這個頁面，點「Use Keplr」或「Liker ID Sign In」以 [Keplr Browser Extension](../../general-guides/wallet/keplr/) 或 [LikeCoin app](../liker-land/download.md) 登入並於程式中點「Approve」或「允許」確認貼文。
 
-![點「Use Keplr」或「Liker ID Sign In」以 Keplr Browser Extension 或 Liker Land app 登入並於程式中點「Approve」或「允許」確認貼文](<../../.gitbook/assets/discord depub.space 03.png>)
+![點「Use Keplr」或「Liker ID Sign In」以 Keplr Browser Extension 或 LikeCoin app 登入並於程式中點「Approve」或「允許」確認貼文](<../../.gitbook/assets/discord depub.space 03.png>)
 
 ## 步驟四
 

@@ -12,7 +12,7 @@ description: 查看有哪些裝置登入過你的 Liker ID
 
 #### 手機版
 
-於 [Liker Land 手機應用程式](../../liker-land/download.md)選畫面右下角設定點「安全」，再點 「裝置」。
+於 [LikeCoin 手機應用程式](../../liker-land/download.md)選畫面右下角設定點「安全」，再點 「裝置」。
 
 #### 網頁版
 

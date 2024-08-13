@@ -14,7 +14,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 **手機版**
 
-在 [Liker Land 手機應用程式](../../liker-land/download.md)點「登入」。
+在 [LikeCoin 手機應用程式](../../liker-land/download.md)點「登入」。
 
 **網頁版**
 

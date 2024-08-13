@@ -4,7 +4,7 @@ description: 查看每週、每天、每篇文章所獲得的讚賞收益，一�
 
 # 查看讚賞成就
 
-點 [Liker Land 手機應用程式](../liker-land/download.md)的「所獲讚賞」能查看你本星期因讀者讚賞而獲得的 [LikeCoin](https://like.co/)。
+點 [LikeCoin 手機應用程式](../liker-land/download.md)的「所獲讚賞」能查看你本星期因讀者讚賞而獲得的 [LikeCoin](https://like.co/)。
 
 
 
