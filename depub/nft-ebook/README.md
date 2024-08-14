@@ -4,7 +4,7 @@ description: 如何購買 NFT 電子書
 
 # 購買 NFT 電子書
 
-無論有沒有區塊鏈錢包，使用桌機或手機，購買 NFT eBook 同樣方便。
+無論有沒有區塊鏈錢包，使用桌機或手機，購買 NFT 電子書同樣方便。
 
 ## 步驟一：開始購買 <a href="#step-1" id="step-1"></a>
 
@@ -32,11 +32,11 @@ description: 如何購買 NFT 電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 5.png" alt=""><figcaption><p>收到電郵過知</p></figcaption></figure>
 
-## 步驟五：連結 Liker Land 帳號 <a href="#step-5" id="step-5"></a>
+## 步驟五：連結 Liker Land 帳戶 <a href="#step-5" id="step-5"></a>
 
-點「使用信箱註冊」或「或以其他方式登入」註冊或登入 Liker Land 帳號。
+點「使用信箱註冊」或「或以其他方式登入」註冊或登入 Liker Land 帳戶。
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 6.png" alt=""><figcaption><p>註冊或登入 Liker Land 帳號</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect NFT Book 6.png" alt=""><figcaption><p>註冊或登入 Liker Land 帳戶</p></figcaption></figure>
 
 ## 步驟六：確認錢包地址 <a href="#step-6" id="step-6"></a>
 

@@ -24,6 +24,6 @@ LikeCoin button 讚賞鍵，是讀者和你的作品互動的核心，用以讚�
 
 ### NFT 小部件
 
-如文章網址已出版為 Writing NFT，LikeCoin button 讀賞鍵將進化為具備拍手及 [收集 Writing NFT](../../depub/collect-writing-nft/) 功能的 [NFT 小部件](../../depub/liker-land-web/nft-widget.md)。
+如文章網址已出版為 Writing NFT，LikeCoin button 讀賞鍵將進化為具備拍手及 [收集 Writing NFT](../../depub/collect-writing-nft/) 功能的 [NFT 小部件](../../depub/nft-portal/nft-widget.md)。
 
 <figure><img src="../../.gitbook/assets/NFT Widget.png" alt=""><figcaption><p>具備拍手及收集 Writing NFT 功能的 NFT 小部件</p></figcaption></figure>

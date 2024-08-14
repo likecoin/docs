@@ -18,7 +18,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 * 到 Liker Land NFT 書店查看，那裡有 [NFT 電子書](https://liker.land/zh-Hant/store)及[文章 NFT](https://liker.land/zh-Hant/store/articles)。
 * 參觀作者或收藏家的 [書架](liker-land-web/bookshelf.md) 頁面，並在那裡購買 NFT。
-* 尋找嵌入您感興趣內容的 [NFT 小部件](liker-land-web/nft-widget.md)。
+* 尋找嵌入您感興趣內容的 [NFT 小部件](nft-portal/nft-widget.md)。
 
 ### 沒有 Liker ID ，能購買 Writing NFT 嗎？
 
@@ -30,7 +30,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 可在哪兒查看收集了的 NFT？
 
-在[我的書架](liker-land-web/dashboard.md)頁面。
+在[我的書架](liker-land-web/bookshelf.md)頁面。
 
 ### 如何轉贈 NFT？
 
@@ -46,11 +46,11 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 如何發售 NFT 電子書？
 
-使用 [LikeCoin NFT Book Press](nft-portal/)  可出版 NFT 電子書。
+使用 [LikeCoin NFT Book Press](nft-book-press/)  可出版 NFT 電子書。
 
 ### 如何發售文字 NFT？
 
-可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../user-guide/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT 小部件](liker-land-web/nft-widget.md) 及[書架](liker-land-web/bookshelf.md)發售，作者不用手動做額外動作上架市場。
+可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../user-guide/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT 小部件](nft-portal/nft-widget.md) 及[書架](liker-land-web/bookshelf.md)發售，作者不用手動做額外動作上架市場。
 
 ### 能設定文字作品的 NFT 發行量上限嗎？
 
@@ -58,11 +58,11 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 
-可以。[Web3Press plugin](../user-guide/wordpress.md) 支援僅以 [Keplr](../general-guides/wallet/keplr/) 地址生成 [NFT 小部件](liker-land-web/nft-widget.md)。另，也可經 [NFT Portal](nft-portal/) 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
+可以。[Web3Press plugin](../user-guide/wordpress.md) 支援僅以 [Keplr](../general-guides/wallet/keplr/) 地址生成 [NFT 小部件](nft-portal/nft-widget.md)。另，也可經 [NFT Portal](nft-portal/) 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
 
 ### 如何安裝 NFT 小部件?
 
-可安裝 LikeCoin [Web3Press plugin](../user-guide/wordpress.md)，每篇帖文即自動加上 [NFT 小部件](liker-land-web/nft-widget.md)。另也可在支援 NFT 小部件 的寫作平台發文。稍懂技術的朋友，可在網頁上加上 NFT 小部件 的 iframe。
+可安裝 LikeCoin [Web3Press plugin](../user-guide/wordpress.md)，每篇帖文即自動加上 [NFT 小部件](nft-portal/nft-widget.md)。另也可在支援 NFT 小部件 的寫作平台發文。稍懂技術的朋友，可在網頁上加上 NFT 小部件 的 iframe。
 
 ### 作品沒有安裝 NFT 小部件，也能發售 NFT 嗎？
 

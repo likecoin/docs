@@ -104,7 +104,7 @@ description: 使用 Keplr 以文章網址出版 Writing NFT
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6-1.png" alt=""><figcaption><p>簽署以註冊 ISCN ID、Arweave ID、Class ID 及鑄造 Writing NFT</p></figcaption></figure>
 
-出現 Completed! 及 3D 封面圖即代表 NFT 已鑄造完成，如網站未曾安裝 [LikeCoin button 讚賞鍵](../../user-guide/creator/)可直接貼上 Embed NFT widget into your site 的代碼，即可在任何網頁展示 [NFT 小部件](../liker-land-web/nft-widget.md)。
+出現 Completed! 及 3D 封面圖即代表 NFT 已鑄造完成，如網站未曾安裝 [LikeCoin button 讚賞鍵](../../user-guide/creator/)可直接貼上 Embed NFT widget into your site 的代碼，即可在任何網頁展示 [NFT 小部件](nft-widget.md)。
 
 點「View Your NFT」查看已出版的 Writing NFT。
 

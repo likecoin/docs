@@ -23,7 +23,7 @@ description: 導出支持者錢包地址，再群發 NFT 給他們
 #### 方法一
 
 * 在 [LikeCoin NFT Marketplace](https://likecoin.github.io/likecoin-nft-marketplace/) 的介面工具 ( Tools ) 中選 [Send NFTs](https://likecoin.github.io/likecoin-nft-marketplace/tools/send) 並登入 Keplr。
-* 在用以群發給支持者的 Writing NFT 找出 [NFT Class ID](../liker-land-web/nft-details.md#nft-class-id)。
+* 在用以群發給支持者的 NFT 找出 [NFT Class ID](../liker-land-web/nft-details.md#nft-class-id)。
 * 將 NFT Class ID 輸入 Send NFTs 工具，並輸入支持者的錢包地址清單 ( Recepient Address list ) 及留給他們的話 ( Transfer message ) ，再點「Send」及在 Keplr 簽署，即可群發 NFT。
 
 #### 方法二
