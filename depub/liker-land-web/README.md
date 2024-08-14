@@ -14,7 +14,7 @@ description: 網頁版的 Liker Land
 
 ## 選項二：熱門文章 - [https://liker.land/zh-Hant/store/articles](https://liker.land/zh-Hant/store/articles)
 
-熱門與最新的 Writing NFT 及文章推介。
+熱門與最新的文章 NFT 推介。
 
 ## 選項三：個人主頁 - [https://liker.land/zh-Hant/feed?view=town](https://liker.land/zh-Hant/feed?view=town)
 
