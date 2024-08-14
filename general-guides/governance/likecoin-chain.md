@@ -10,7 +10,7 @@ description: LikeCoin 的區塊鏈
 
 **2021 年 8 月 18 日** LikeCoin chain 升級到 FoTan 版本提供 [International Standard Content Number ("ISCN")](../../depub/what-is-iscn/) 、跨鏈通訊及 [Stargate](https://stargate.cosmos.network/) 等高階功能。
 
-**2022 年 7 月 21 日** LikeCoin chain 升級到 StarFerry 支援 [Writing NFT](../../depub/writing-nft/) 模組及相關服務如鑄造 NFT、盲盒及 NFT 市場等 chain API。
+**2022 年 7 月 21 日** LikeCoin chain 升級到 StarFerry 支援 [Writing NFT](../../depub/writing-nft.md) 模組及相關服務如鑄造 NFT、盲盒及 NFT 市場等 chain API。
 
 **2023 年 6 月 5 日** LikeCoin chain 升級 到 LikeCoin v4.0.0 ChungKing 加強多項 NFT 及 [ISCN](../../depub/what-is-iscn/) 功能，支援 Ledger、最低驗證人佣金、group 模組 multisig 等。
 

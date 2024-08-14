@@ -27,9 +27,9 @@ description: 要去哪裏下載 LikeCoin app？
 ## 選項二：NFT 電子書店
 
 * [潯覽書店](../../depub/nft-ebook/)
-* [個人主頁](../../depub/writing-nft/collect-writing-nft/dashboard.md)
+* [個人主頁](../../depub/liker-land-web/dashboard.md)
 
-## 選項三：[通知功能](../../depub/writing-nft/collect-writing-nft/notifications.md)
+## 選項三：[通知功能](../../depub/liker-land-web/notifications.md)
 
 ## 選項四：設定
 

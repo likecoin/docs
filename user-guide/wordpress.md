@@ -11,7 +11,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 * 抓取文章的標籤和標題等內容作為 NFT 的元數據
 * 一鍵發佈文章到 [LikeCoin](https://like.co/) 並儲存於 [IPFS](https://ipfs.tech/) 及 [Arweave](https://www.arweave.org/) 分散式檔案系統並註冊 [ISCN](../depub/what-is-iscn/)
 * 以 LikeCoin 一筆過支付內容上鏈及分散式儲存費用
-* 鑄造 Writing NFT 後 [NFT 小部件 ( Widget )](../depub/writing-nft/collect-writing-nft/nft-widget.md) 自動在文章下方顯示，讓讀者[收集 NFT](../depub/writing-nft/collect-writing-nft/)，並整合 [LikeCoin button 讚賞鍵](creator/)功能
+* 鑄造 Writing NFT 後 [NFT 小部件 ( Widget )](../depub/liker-land-web/nft-widget.md) 自動在文章下方顯示，讓讀者[收集 NFT](../depub/collect-writing-nft/)，並整合 [LikeCoin button 讚賞鍵](creator/)功能
 * 支援 [Internet Archive](https://archive.org/) 自動備份
 
 由於內容備份了在分散式檔案系統，擁有 NFT 的讀者等於擁有了一份內容的正本，可以隨時閱覽。
@@ -68,7 +68,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 ### 步驟二：預覽 Writing NFT
 
-預覽你的 Writing NFT，如需添加或更改或生成 AI 封面可點「:pencil2:」，如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片；你亦可以點「:pencil2:」更改 Writing NFT 的標題及簡介，詳情可到[出版 Writing NFT](../depub/writing-nft/nft-portal/) 了解更多。完成後點「Next」。
+預覽你的 Writing NFT，如需添加或更改或生成 AI 封面可點「:pencil2:」，如不需更改 / 文章沒有圖片，將顯示文章預設的 OG 圖 / 不顯示圖片；你亦可以點「:pencil2:」更改 Writing NFT 的標題及簡介，詳情可到[出版 Writing NFT](../depub/nft-portal/) 了解更多。完成後點「Next」。
 
 <figure><img src="../.gitbook/assets/W3Press mint 3.png" alt=""><figcaption><p>修改 Writing NFT 封面、標題及簡介後點「Next」</p></figcaption></figure>
 
@@ -96,7 +96,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 <figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption><p>點「View NFT」</p></figcaption></figure>
 
-你也可以到 Liker Land [我的書架](../depub/writing-nft/collect-writing-nft/dashboard.md)查看你的創作。
+你也可以到 Liker Land [我的書架](../depub/liker-land-web/dashboard.md)查看你的創作。
 
 <figure><img src="../.gitbook/assets/W3Press mint 9.png" alt=""><figcaption><p>到 Liker Land 我的書架查看創作</p></figcaption></figure>
 

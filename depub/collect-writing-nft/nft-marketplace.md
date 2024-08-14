@@ -18,13 +18,13 @@ LikeCoin NFT Marketplace 功能包括：
 
 ### [**My NFT**](https://likecoin.github.io/likecoin-nft-marketplace/owned)
 
-點右上角「Connect」連接 [Keplr 瀏覽器擴充功能](../../../general-guides/wallet/keplr/)查看已擁有的 NFT。點「Sell」將 NFT 於二級市場上市。
+點右上角「Connect」連接 [Keplr 瀏覽器擴充功能](../../general-guides/wallet/keplr/)查看已擁有的 NFT。點「Sell」將 NFT 於二級市場上市。
 
-<figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 1.png" alt=""><figcaption><p>點「Connect」登入</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LikeCoin NFT Marketplace 1.png" alt=""><figcaption><p>點「Connect」登入</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 2.png" alt=""><figcaption><p>查看已擁有的 NFT，點「Sell」將 NFT 於二級市場上市</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LikeCoin NFT Marketplace 2.png" alt=""><figcaption><p>查看已擁有的 NFT，點「Sell」將 NFT 於二級市場上市</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 3.png" alt=""><figcaption><p>輸入價格 ( Price )、上架有效日期 ( Offer expiration ) 再點「Confirm」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LikeCoin NFT Marketplace 3.png" alt=""><figcaption><p>輸入價格 ( Price )、上架有效日期 ( Offer expiration ) 再點「Confirm」</p></figcaption></figure>
 
 ####
 
@@ -38,7 +38,7 @@ LikeCoin NFT Marketplace 功能包括：
 
 ### [**Search**](https://likecoin.github.io/likecoin-nft-marketplace/search)
 
-尋找特定的 [NFT Class ID](nft-details.md#nft-class-id)。
+尋找特定的 [NFT Class ID](../liker-land-web/nft-details.md#nft-class-id)。
 
 ### [**Tools**](https://likecoin.github.io/likecoin-nft-marketplace/tools)
 

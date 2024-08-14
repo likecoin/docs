@@ -5,18 +5,18 @@ description: 把任何網頁文章內容出版成 NFT
 # 出版 Writing NFT
 
 {% hint style="info" %}
-### 📣出版 Writing NFT 需要 LikeCoin，用戶可於[水龍頭](../../../general-guides/faucet.md)取得少量 LikeCoin 以作測試
+### 📣出版 Writing NFT 需要 LikeCoin，用戶可於[水龍頭](../../general-guides/faucet.md)取得少量 LikeCoin 以作測試
 {% endhint %}
 
 ## 出版 Writing NFT 的方式
 
 ### **選擇一：以 Word3Press  出版 Writing NFT**
 
-創作者使用 [**Web3Press**](../../../user-guide/wordpress.md) 可一氣呵成發佈文章、註冊 ISCN 及出版 NFT。
+創作者使用 [**Web3Press**](../../user-guide/wordpress.md) 可一氣呵成發佈文章、註冊 ISCN 及出版 NFT。
 
 ### **選擇二：**以文章網址出版 Writing NFT
 
-可到 [**NFT Portal** 即 app.like.co 的 Mint Writing NFT 分頁](https://app.like.co/nft/url)貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統註冊成為 [ISCN](../../what-is-iscn/) 並出版 NFT。
+可到 [**NFT Portal** 即 app.like.co 的 Mint Writing NFT 分頁](https://app.like.co/nft/url)貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統註冊成為 [ISCN](../what-is-iscn/) 並出版 NFT。
 
 > #### 教學
 >
@@ -30,7 +30,7 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### **選擇三**：以 ISCN ID 出版 Writing NFT
 
-將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../../what-is-iscn/app.like.co/)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 出版 NFT。
+將文章的文字、PDF、圖片、聲音…先[註冊成 ISCN](../what-is-iscn/app.like.co/)，再將 ISCN ID 貼到 [NFT Portal](https://app.like.co/nft/url) 出版 NFT。
 
 > #### 教學：[以 ISCN ID 出版 Writing NFT](iscn-id.md)
 
@@ -64,16 +64,16 @@ description: 把任何網頁文章內容出版成 NFT
 
 建議設置創作者個人簡介、圖片及顯示名稱讓你的支持者更加了解你（必須註冊 Liker ID）。
 
-{% content-ref url="../../../user-guide/liker-id/edit-avatar-displayname.md" %}
-[edit-avatar-displayname.md](../../../user-guide/liker-id/edit-avatar-displayname.md)
+{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
 {% endcontent-ref %}
 
 ***
 
 ## 展示 NFT 小部件
 
-出版 Writing NFT 後可以 iframe 的方式把 [NFT 小部件](../collect-writing-nft/nft-widget.md)嵌入文章展示。
+出版 Writing NFT 後可以 iframe 的方式把 [NFT 小部件](../liker-land-web/nft-widget.md)嵌入文章展示。
 
-{% content-ref url="../collect-writing-nft/nft-widget.md" %}
-[nft-widget.md](../collect-writing-nft/nft-widget.md)
+{% content-ref url="../liker-land-web/nft-widget.md" %}
+[nft-widget.md](../liker-land-web/nft-widget.md)
 {% endcontent-ref %}

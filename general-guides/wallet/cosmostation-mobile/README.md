@@ -48,10 +48,10 @@ description: Cosmostation 手機版
 [app.like.co](../../../depub/what-is-iscn/app.like.co/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md" %}
-[collect-writing-nft-on-mobile.md](../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
+{% content-ref url="../../../depub/collect-writing-nft/collect-writing-nft-on-mobile.md" %}
+[collect-writing-nft-on-mobile.md](../../../depub/collect-writing-nft/collect-writing-nft-on-mobile.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../depub/writing-nft/nft-portal/" %}
-[nft-portal](../../../depub/writing-nft/nft-portal/)
+{% content-ref url="../../../depub/nft-portal/" %}
+[nft-portal](../../../depub/nft-portal/)
 {% endcontent-ref %}

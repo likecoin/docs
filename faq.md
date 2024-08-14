@@ -15,9 +15,9 @@ description: LikeCoin 常見問題
 * [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
 * [想與社群及更多用戶聯繫分享經驗，有渠道嗎？](faq.md#she-qun)
 
-## [Writing NFT](depub/writing-nft/)
+## [Writing NFT](depub/writing-nft.md)
 
-* [常見問題](depub/writing-nft/)
+* [常見問題](depub/writing-nft.md)
 
 ## [去中心出版](./)
 

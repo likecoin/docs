@@ -44,8 +44,8 @@ Web3 唯一的非託管超級錢包。使用 Leap 是傳送、互換和委託密
 
 #### 使用 Leap 收藏 Writing NFT：
 
-{% content-ref url="../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
-[collect-writing-nft-on-desktop.md](../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
+{% content-ref url="../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
+[collect-writing-nft-on-desktop.md](../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md)
 {% endcontent-ref %}
 
 #### 在 Osmosis 交易 LikeCoin，獲得得流動性挖礦獎勵：

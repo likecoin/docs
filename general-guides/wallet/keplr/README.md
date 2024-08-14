@@ -38,12 +38,12 @@ description: Keplr 是支援 LikeCoin 的多鏈錢包
 [app.like.co](../../../depub/what-is-iscn/app.like.co/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
-[collect-writing-nft-on-desktop.md](../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
+{% content-ref url="../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
+[collect-writing-nft-on-desktop.md](../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../depub/writing-nft/nft-portal/" %}
-[nft-portal](../../../depub/writing-nft/nft-portal/)
+{% content-ref url="../../../depub/nft-portal/" %}
+[nft-portal](../../../depub/nft-portal/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../user-guide/depub.space/" %}

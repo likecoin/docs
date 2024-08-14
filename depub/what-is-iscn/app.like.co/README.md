@@ -22,7 +22,7 @@ description: 第一個 ISCN 的概念示範應用
 
 #### 建議 :thumbsup: 用戶以 [Keplr](keplr.md) 連結並登入 [app.like.co](https://app.like.co/) 嘗試註冊自己的 ISCN。
 
-用戶也可使用 [Cosmostation](../../writing-nft/nft-portal/cosmostation.md)、[Cosmostation app](../../writing-nft/nft-portal/cosmostation-app.md) 或 [Liker ID](../../writing-nft/nft-portal/likecoin-app.md) 進行註冊。
+用戶也可使用 [Cosmostation](../../nft-portal/cosmostation.md)、[Cosmostation app](../../nft-portal/cosmostation-app.md) 或 [Liker ID](../../nft-portal/likecoin-app.md) 進行註冊。
 
 或於 [Matters](matters.md) 網站發文時一拼註冊 ISCN。
 
@@ -30,4 +30,4 @@ description: 第一個 ISCN 的概念示範應用
 
 ## 出版 Writing NFT
 
-註冊 ISCN 後，用戶可以[把它出版成 Writing NFT](../../writing-nft/nft-portal/iscn-id.md)。&#x20;
+註冊 ISCN 後，用戶可以[把它出版成 Writing NFT](../../nft-portal/iscn-id.md)。&#x20;
