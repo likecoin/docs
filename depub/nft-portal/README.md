@@ -25,8 +25,6 @@ description: 把任何網頁文章內容出版成 NFT
 > #### 使用 [Cosmostation](cosmostation.md) 以文章網址出版 Writing NFT
 >
 > #### 使用 [Cosmostation app](cosmostation-app.md) 以文章網址出版 Writing NFT
->
-> #### 使用 [LikeCoin app](likecoin-app.md) 以文章網址出版 Writing NFT
 
 ### **選擇三**：以 ISCN ID 出版 Writing NFT
 
