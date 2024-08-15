@@ -2,15 +2,15 @@
 description: Writing NFT 是代表文字作品擁有權的 NFT
 ---
 
-# Writing NFT
+# Writing NFT 常見問題
 
 ![Writing NFT](../.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
-
-## Writing NFT 常見問題
 
 ### 什麼是 Writing NFT?
 
 顧名思義，Writing NFT 是一種非同質化代幣 (NFT)，代表著某篇文字作品的所有權，像是文章或任何其他形式的文字，無論附帶插圖與否。換句話說，它是證明某段數位文字內容所有權的證據。
+
+在技術上，Writing NFT 函蓋所有文字類型 NFT，包括文章 NFT 及 NFT 電子書；在稱呼上如沒有特別說明，則泛是指文章 NFT。
 
 ### 如何購買 Writing NFT？
 
@@ -48,13 +48,13 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 使用 [LikeCoin NFT Book Press](nft-book-press/)  可出版 NFT 電子書。
 
-### 如何發售文字 NFT？
+### 如何發售文章 NFT？
 
 可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../user-guide/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT 小部件](nft-portal/nft-widget.md) 及[書架](liker-land-web/bookshelf.md)發售，作者不用手動做額外動作上架市場。
 
 ### 能設定文字作品的 NFT 發行量上限嗎？
 
-原則上發行量沒有上限，但由於提升售價會自動隨交易量而上升，當售價上升到超過市場可接受的價位後，便會自然沒人交易，變相限制了發行量。
+原則上發行量沒有上限，但由於提升售價會自動隨交易量而上升，當售價上升到超過市場可接受的價位後，便會自然沒人交易，變相限制了發行量。詳情可參考 [動態定價](collect-writing-nft/dynamic-pricing.md)。
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 

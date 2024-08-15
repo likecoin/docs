@@ -8,7 +8,7 @@
 ## 📕 去中心出版 <a href="#depub" id="depub"></a>
 
 * [去中心出版](depub/decentralized-publishing.md)
-* [Writing NFT](depub/writing-nft.md)
+* [Writing NFT 常見問題](depub/writing-nft.md)
 * [出版 NFT 電子書](depub/nft-book-press/README.md)
   * [管理 NFT 電子書](depub/nft-book-press/nft-book-store.md)
   * [設定 NFT 電子書套裝](depub/nft-book-press/collection.md)
