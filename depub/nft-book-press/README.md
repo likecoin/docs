@@ -14,6 +14,12 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 2. [註冊 ISCN](./#register-iscn)
 3. [上架銷售](./#nft-book-store)
 
+並可進行其他後續操作：
+
+4. [設置作者簡介](./#creators-introduction)
+5. [發送 NFT 電子書及群發 NFT 紀念品到多個錢包](./#fa-song-nft-ji-qun-fa-nft-ji-nian-pin-dao-duo-ge-qian-bao)
+6. [匯入 EPUB 檔案到各家閱讀器](./#ereader)
+
 ## 教學影片
 
 [5 分鐘出版電子書到區塊鏈（國語 TTS 旁白）](https://www.youtube.com/watch?v=QppGdM-EtBY)
@@ -239,7 +245,23 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 
 ***
 
-## 匯入 epub 檔案到各家閱讀器 <a href="#ereader" id="ereader"></a>
+## 設置作者簡介 <a href="#creators-introduction" id="creators-introduction"></a>
+
+建議設置創作者個人簡介、圖片及顯示名稱讓你的支持者更加了解你。
+
+{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
+{% endcontent-ref %}
+
+## 發送 NFT 電子書及群發 NFT 紀念品到多個錢包 <a href="#transfer-nft-ebook" id="transfer-nft-ebook"></a>
+
+出版 NFT 電子書後，可將作品發送到個別錢包，又或者將 NFT 電子書作為紀念品群發到多個錢包。
+
+{% content-ref url="../transfer-writing-nft/" %}
+[transfer-writing-nft](../transfer-writing-nft/)
+{% endcontent-ref %}
+
+## 匯入 EPUB 檔案到各家閱讀器 <a href="#ereader" id="ereader"></a>
 
 除了可使用 USB 方式匯入 epub 檔案到閱讀器。不同廠牌亦支援以網絡介面上載，更多詳情可參看：
 

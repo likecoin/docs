@@ -5,7 +5,7 @@ description: 把任何網頁文章內容出版成 NFT
 # 出版 Writing NFT
 
 {% hint style="info" %}
-### 📣出版 Writing NFT 需要 LikeCoin，用戶可於[水龍頭](../../general-guides/faucet.md)取得少量 LikeCoin 以作測試
+📣出版 Writing NFT 需要 LikeCoin，用戶可於[水龍頭](../../general-guides/faucet.md)取得少量 LikeCoin 以作測試
 {% endhint %}
 
 ## 出版 Writing NFT 的方式
@@ -48,6 +48,14 @@ description: 把任何網頁文章內容出版成 NFT
 
 ***
 
+## 設置作者簡介 <a href="#creators-introduction" id="creators-introduction"></a>
+
+建議設置創作者個人簡介、圖片及顯示名稱讓你的支持者更加了解你。
+
+{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
+{% endcontent-ref %}
+
 ## 發送 NFT 及群發 NFT 紀念品到多個錢包
 
 出版 Writing NFT 後，可將作品發送到個別錢包，又或者將 NFT 紀念品群發到多個錢包。
@@ -55,18 +63,6 @@ description: 把任何網頁文章內容出版成 NFT
 {% content-ref url="../transfer-writing-nft/" %}
 [transfer-writing-nft](../transfer-writing-nft/)
 {% endcontent-ref %}
-
-***
-
-## 設置作者簡介 <a href="#creators-introduction" id="creators-introduction"></a>
-
-建議設置創作者個人簡介、圖片及顯示名稱讓你的支持者更加了解你（必須註冊 Liker ID）。
-
-{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
-[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
-{% endcontent-ref %}
-
-***
 
 ## 展示 NFT 小部件
 
