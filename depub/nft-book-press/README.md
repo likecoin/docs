@@ -5,6 +5,10 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 # 出版 NFT 電子書
 
 {% hint style="info" %}
+出版前可參考 [上架 Liker Land NFT 電子書的常見問題](nft-book-press-faq.md)
+{% endhint %}
+
+{% hint style="info" %}
 出版 NFT 電子書需使用桌面電腦及 [LikeCoin](https://like.co/)
 {% endhint %}
 
@@ -16,9 +20,15 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 並可進行其他後續操作：
 
-4. [設置作者簡介](./#creators-introduction)
-5. [發送 NFT 電子書及群發 NFT 紀念品到多個錢包](./#fa-song-nft-ji-qun-fa-nft-ji-nian-pin-dao-duo-ge-qian-bao)
-6. [匯入 EPUB 檔案到各家閱讀器](./#ereader)
+4. [設置 Liker Land 書店作者簡介](./#creators-introduction)
+5. [NFT Book Press 用戶設定](user-setting/)
+6. [發送 NFT 電子書及群發 NFT 紀念品到多個錢包](./#fa-song-nft-ji-qun-fa-nft-ji-nian-pin-dao-duo-ge-qian-bao)
+7. [匯入 EPUB 檔案到各家閱讀器](./#ereader)
+8. [管理 NFT 電子書](nft-book-store.md)
+9. [設定 NFT 電子書套裝](collection.md)
+10. [補書上架](replenishment.md)
+11. [修改已出版的 NFT 電子書資料](modify-nft-ebook.md)
+12. [銷毁已出版的 NFT 電子書](burn-nft-ebook.md)
 
 參看短片了解出版原理（留意以下影片使用 Keplr 登入，如使用 Email/Social 登入流程將更為簡單）：
 
@@ -92,7 +102,9 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 8. URL：書檔所對應的 URL
 9. License：可以選擇合適的版權宣告，預設是版權所有 ( Copyright. All rights reserved. )
 10. Content Fingerprints：顯示書檔及封面 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 EPUB 檔、IPFS 的封面檔、AR 的 EPUB 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
-11. \+Other settings：點開它出現 URL 可輸入書籍的網址及 ISBN 輸入 ISBN 號碼。完成後點「Register」。
+11. \+Other settings：點開它出現 URL 可輸入書籍的網址及 ISBN 輸入 ISBN 號碼。
+
+完成後點「Register」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>點「Register」註冊 ISCN</p></figcaption></figure>
 
@@ -112,7 +124,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 在 ISCN 記錄右上角點「Mint Book」。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption><p>點「Mint Book」</p></figcaption></figure>
 
 系統會自動跳轉到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，並於 Enter ISCN ID or NFT Class ID 一欄預先輸入ISCN ID。點右上角「Sign In」登入網站後再點「Submit」。
 
@@ -245,7 +257,7 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 
 ***
 
-## 設置作者簡介 <a href="#creators-introduction" id="creators-introduction"></a>
+## 設置 Liker Land 書店作者簡介 <a href="#creators-introduction" id="creators-introduction"></a>
 
 建議設置創作者個人簡介、圖片及顯示名稱讓你的支持者更加了解你。
 
