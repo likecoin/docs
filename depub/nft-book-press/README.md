@@ -5,12 +5,12 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 # 出版 NFT 電子書
 
 {% hint style="info" %}
-出版 NFT 電子書需於桌面電腦使用 [Keplr 瀏覽器擴充功能](../../general-guides/wallet/keplr/)及 [LikeCoin](https://like.co/)
+出版 NFT 電子書需使用桌面電腦及 [LikeCoin](https://like.co/)
 {% endhint %}
 
 在區塊鏈出版 NFT 電子書包含以下流程：
 
-1. [備妥 epub 檔](./#edit-metadata)
+1. [備妥 EPUB 檔](./#edit-metadata)
 2. [註冊 ISCN](./#register-iscn)
 3. [上架銷售](./#nft-book-store)
 
@@ -20,7 +20,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 5. [發送 NFT 電子書及群發 NFT 紀念品到多個錢包](./#fa-song-nft-ji-qun-fa-nft-ji-nian-pin-dao-duo-ge-qian-bao)
 6. [匯入 EPUB 檔案到各家閱讀器](./#ereader)
 
-## 教學影片
+參看短片了解出版原理（留意以下影片使用 Keplr 登入，如使用 Email/Social 登入流程將更為簡單）：
 
 [5 分鐘出版電子書到區塊鏈（國語 TTS 旁白）](https://www.youtube.com/watch?v=QppGdM-EtBY)
 
@@ -28,9 +28,9 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 ***
 
-## 製作 epub 檔案並輸入元數據 <a href="#edit-metadata" id="edit-metadata"></a>
+## 製作 EPUB 檔案並輸入元數據 <a href="#edit-metadata" id="edit-metadata"></a>
 
-首先製作好電子書的 [epub](https://zh.wikipedia.org/zh-hk/EPUB) 檔案，並確保經已輸入並整理好 Metadata。Metadata 即是[元數據](../what-is-iscn/)。包括書名、作者、封面圖、出版日期、描述等內容。以常用的 epub 編輯軟件為例：
+首先製作好電子書的 [EPUB](https://zh.wikipedia.org/zh-hk/EPUB) 檔案，並確保經已輸入並整理好 Metadata。Metadata 即是[元數據](../what-is-iscn/)。包括書名、作者、封面圖、出版日期、描述等內容。以常用的 EPUB 編輯軟件為例：
 
 #### calibre
 
@@ -52,7 +52,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 ## 註冊 ISCN <a href="#register-iscn" id="register-iscn"></a>
 
-準備好 epub 檔案後，接下來把它註冊成 ISCN。
+準備好 EPUB 檔案後，接下來把它註冊成 ISCN。
 
 ### 步驟一：上載檔案 <a href="#upload-file" id="upload-file"></a>
 
@@ -60,21 +60,21 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 5.png" alt=""><figcaption><p>到 app.like.co 網站，點「Register ISCN」</p></figcaption></figure>
 
-彈出視窗並點 Keplr 連結錢包。
+彈出視窗並連結錢包，**建議使用 Email/Social 註冊 Liker ID 並登入**，詳見：
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 6.png" alt=""><figcaption><p>彈出視窗並點 Keplr 連結錢包</p></figcaption></figure>
+{% content-ref url="../../user-guide/liker-id/register/" %}
+[register](../../user-guide/liker-id/register/)
+{% endcontent-ref %}
 
-點「Select a file」上載已預備好的 epub 檔案。
+<figure><img src="../../.gitbook/assets/NFT Book Press 6.png" alt=""><figcaption><p>彈出視窗並連結錢包</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 7.png" alt=""><figcaption><p>點「Select a file」上載已預備好的 epub 檔案</p></figcaption></figure>
+登入後點「Select a file」上載已預備好的 EPUB 檔案。
 
-系統會自動把 epub 檔案內容分解成兩個檔案，一個是 epub 檔案，另一個是封面圖檔。如果沒有問題點「Start Upload」，系統會將這兩個檔案上傳到分散式網絡。
+<figure><img src="../../.gitbook/assets/NFT Book Press 7.png" alt=""><figcaption><p>點「Select a file」上載已預備好的 EPUB 檔案</p></figcaption></figure>
+
+系統會自動把 EPUB 檔案內容分解成兩個檔案，一個是 EPUB 檔案，另一個是封面圖檔。如果沒有問題點「Start Upload」，系統會將這兩個檔案上傳到分散式網絡。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 8.png" alt=""><figcaption><p>點「Start Upload」將檔案上傳到分散式網絡</p></figcaption></figure>
-
-Keplr 錢包將彈出視窗數次，點「Approve」簽署後靜侯一會兒。
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption><p>在 Keplr 點「Approve」簽署</p></figcaption></figure>
 
 ### 步驟二：輸入書籍資料 <a href="#metadata" id="metadata"></a>
 
@@ -91,20 +91,16 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署後靜侯一會兒。
 7. Downloadable URL：下載書檔時所顯示的名稱
 8. URL：書檔所對應的 URL
 9. License：可以選擇合適的版權宣告，預設是版權所有 ( Copyright. All rights reserved. )
-10. Content Fingerprints：顯示書檔及封面 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 epub 檔、IPFS 的封面檔、AR 的 epub 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
+10. Content Fingerprints：顯示書檔及封面 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 EPUB 檔、IPFS 的封面檔、AR 的 EPUB 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
 11. \+Other settings：點開它出現 URL 可輸入書籍的網址及 ISBN 輸入 ISBN 號碼。完成後點「Register」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>點「Register」註冊 ISCN</p></figcaption></figure>
 
-Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位置不要點 Retry，靜侯一會兒就可以了。
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 14.png" alt=""><figcaption><p>在 Keplr 點「Approve」簽署</p></figcaption></figure>
-
 ### 步驟三：註冊 ISCN 完成 <a href="#successfully-registered-iscn" id="successfully-registered-iscn"></a>
 
-出現 Completed! Here is your ISCN 說明 ISCN 經已成功註冊。點 ISCN ID 欄位的一串字符把它複製，接下來於 NFT 電子書上架時會需要用到。圖中的 /1 是這個 ISCN 第 1 個版本的意思，於製作 NFT 電子書時並不重要。
+出現 Completed! Here is your ISCN 說明 ISCN 經已成功註冊。留意 ISCN ID 欄位的一串字符接下來於 NFT 電子書上架時將需要用到。圖中的 /1 是這個 ISCN 第 1 個版本的意思。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 15.png" alt=""><figcaption><p>成功註冊並複製 ISCN ID</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 15.png" alt=""><figcaption><p>成功註冊並出現 ISCN ID</p></figcaption></figure>
 
 ***
 
@@ -114,25 +110,29 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 
 ### 步驟一：鑄造 NFT 電子書 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，點「Mint NFT」，進入網站後按右上角「Connect Wallet」連結 Keplr。
+在 ISCN 記錄右上角點「Mint Book」。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption></figcaption></figure>
 
-在 Enter ISCN ID or NFT Class ID 一欄輸入早前在 app.like.co 註冊完成並已複製的 ISCN ID，輸入完成後點「Submit」。
+系統會自動跳轉到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，並於 Enter ISCN ID or NFT Class ID 一欄預先輸入ISCN ID。點右上角「Sign In」登入網站後再點「Submit」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>在 Enter ISCN ID or NFT Class ID 一欄輸入 ISCN ID</p></figcaption></figure>
 
+又或者直接到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，點「Mint NFT」，進入網站後按右上角「Sign In」登入。並於 Enter ISCN ID or NFT Class ID 一欄手動輸入早前註冊的 ISCN ID 再點「Submit」。
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
+
 {% hint style="info" %}
-假如你忘記了你的 ISCN ID，可以到 app.like.co 的 [My Works](https://app.like.co/works) 找回它。
+假如你忘記了你的 ISCN ID，可以隨時到 app.like.co 的 [My Works](https://app.like.co/works) 找回它。
 {% endhint %}
 
 系統會為你自動抽出 ISCN 的基本資料，接著你需要於「By filling required information」分頁填寫其他資料：
 
 * 在 Number of NFT to mint 一欄輸入需要鑄造多少個 NFT
-* 如若你的書檔是 epub，系統會自動抽出 AR 封面的連結放在 image URL 一欄
+* 如若你的書檔是 EPUB，系統會自動抽出 AR 封面的連結放在 image URL 一欄
 * External URL (optional)、URI (optional) 及 Max number of supply for this NFT Class (optional) 可按需要填寫。
 
-填寫完成並確認無誤後按「Mint」，Keplr 錢包將彈出視窗數次，點「Approve」簽署。
+填寫完成並確認無誤後按「Mint」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 18.png" alt=""><figcaption><p>填寫所需資料，確認無誤後按「Mint」</p></figcaption></figure>
 
@@ -163,7 +163,7 @@ Keplr 錢包將彈出視窗數次，點「Approve」簽署。留意在這個位�
 * Unit Price in USD (Minimum 0.99 or 0 for free) - 最低價格為 0.9 美金，又或者輸入 0 代表免費送出
 * Total number of NFT ebook/edition for sale - 填寫這一個版本的 NFT 電子書銷售數量。假設你鑄造了 10 本書，可以設定 5 本書為版本一、另外 5 本書為版本二之類。點下方的「Add Edition」可加入多個不同版本。留意每一個版本可供銷售的 NFT 電子書數量加起來不能多於已鑄造的數量。
 * Delivery method of this book
-  * Automatic deliver NFT - 自動傳送 NFT 電子書給讀者
+  * Automatic deliver NFT - 自動傳送 NFT 電子書給讀者。選項一經設定，不能修改。
   * Sign memo and manually deliver each NFT - 自行簽署並手動傳送 NFT 電子書給讀者
 * Memo of this book - 於傳送 NFT 電子書時自動加入給讀者的話
 * Allow custom price - 設定讀者購買電子書的時候可[額外支持作者](../nft-ebook/)
@@ -212,7 +212,7 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 * Shipping Options - 寄送費用選項
 * Share sales data to wallets - 輸入需要接收銷售數據的錢包地址，再點「Add」
 * Send NFT Grant - 如選擇了 Automatic deliver NFT，Liker Land 預設擁有「Grant」權限為你自動傳送 NFT 電子書
-* DRM  Options
+* DRM Options
   * Force NFT claim before view - 選取 Must claim NFT to view 代表讀者一定要領取 NFT 電子書方可閱讀
   * Insert cutomized message page in eBook - 自動插入訊息於 NFT 電子書中
   * Disable File Download - 選取 Disable Download 代表不讓讀者下載 NFT 電子書，只容許線上閱讀
@@ -261,9 +261,13 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 [transfer-writing-nft](../transfer-writing-nft/)
 {% endcontent-ref %}
 
+{% content-ref url="nft-book-store.md" %}
+[nft-book-store.md](nft-book-store.md)
+{% endcontent-ref %}
+
 ## 匯入 EPUB 檔案到各家閱讀器 <a href="#ereader" id="ereader"></a>
 
-除了可使用 USB 方式匯入 epub 檔案到閱讀器。不同廠牌亦支援以網絡介面上載，更多詳情可參看：
+除了可使用 USB 方式匯入 EPUB 檔案到閱讀器。不同廠牌亦支援以網絡介面上載，更多詳情可參看：
 
 * Readmoo - [桌機](https://cloudhey.medium.com/readmoo%E8%AE%80%E5%A2%A8%E9%9B%BB%E5%AD%90%E6%9B%B8%E9%80%B2%E9%9A%8E%E4%BD%BF%E7%94%A8%E7%B4%80%E9%8C%84-ebf534ab6408)、[iOS](https://news.readmoo.com/2023/05/24/new-new-update-133/)、[Android](https://news.readmoo.com/2023/04/07/new-new-update-128/)
 * Kobo - [使用 Dropbox 將書籍新增至您的 eReader](https://help.kobo.com/hc/zh-tw/articles/360033830114-%E4%BD%BF%E7%94%A8-Dropbox-%E5%B0%87%E6%9B%B8%E7%B1%8D%E6%96%B0%E5%A2%9E%E8%87%B3%E6%82%A8%E7%9A%84-eReader)

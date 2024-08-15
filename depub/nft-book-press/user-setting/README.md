@@ -14,8 +14,8 @@ description: 加入及更改用戶設定，參與 Affiliation Program
 [stripe.md](stripe.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../user-guide/liker-id/register-with-keplr.md" %}
-[register-with-keplr.md](../../../user-guide/liker-id/register-with-keplr.md)
+{% content-ref url="../../../user-guide/liker-id/" %}
+[liker-id](../../../user-guide/liker-id/)
 {% endcontent-ref %}
 
 <figure><img src="../../../.gitbook/assets/Manage User Setting 2.png" alt=""><figcaption><p>仍未完成用戶設定</p></figcaption></figure>
