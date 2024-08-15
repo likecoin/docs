@@ -22,11 +22,11 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 沒有 Liker ID ，能購買 Writing NFT 嗎？
 
-可以，只要使用 [LikeCoin](https://like.co/) 即可。
+可以，只要使用信用卡或 [LikeCoin](https://like.co/) 即可。
 
 ### 如何第一時間接收到新 NFT 上架的消息？
 
-可使用[追蹤作者](liker-land-web/follow-creators.md)功能。
+可使用[追蹤作者](liker-land-web/follow-creators.md)功能，或訂閱 [Liker Land Substack](https://newsletter.liker.land/)。
 
 ### 可在哪兒查看收集了的 NFT？
 
@@ -70,7 +70,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 了解更多 Writing NFT 最新消息
 
-可到 [blog.like.co](https://blog.like.co/zh/tag/writing-nft/) 參看更多內容。
+可到 [blog.like.co](https://blog.like.co/zh/) 參看更多內容。
 
 ### 更多詳情
 
