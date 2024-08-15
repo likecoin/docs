@@ -5,7 +5,7 @@ description: 查看有哪些裝置登入過你的 Liker ID
 # 管理登入裝置
 
 {% hint style="info" %}
-以下內容只適用於[以一般方法 ( Authcore ) 註冊的 Liker ID](./)。
+以下內容只適用於[以電郵或社交登入 ( Authcore ) 註冊的 Liker ID](./)。
 {% endhint %}
 
 你可以查看有哪些電腦、手機或其他裝置目前正在使用或最近曾經使用您的 Liker ID。這項資訊可協助你確認沒有其他人登入你的帳戶。

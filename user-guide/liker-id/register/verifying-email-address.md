@@ -5,10 +5,10 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 # 保護你的 Liker ID
 
 {% hint style="info" %}
-以下內容只適用於[以一般方法 ( Authcore ) 註冊的 Liker ID](./)。
+以下內容只適用於[以電郵或社交登入 ( Authcore ) 註冊的 Liker ID](./)。
 {% endhint %}
 
-## 雙重認證 ( 2FA ) <a href="#2fa" id="2fa"></a>
+## 雙重認證 ( 2FA ) <a href="#id-2fa" id="id-2fa"></a>
 
 設定雙重認證後，新裝置登入時會要求填上認證碼產生器生成的 6 位數字認證碼。
 

@@ -5,7 +5,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 # 重設密碼
 
 {% hint style="info" %}
-以下內容只適用於[以一般方法 ( Authcore ) 註冊的 Liker ID](./)。
+以下內容只適用於[以電郵或社交登入 ( Authcore ) 註冊的 Liker ID](./)。
 {% endhint %}
 
 有時因為不明原因無法以社交帳號登入 Liker ID，不妨試試以下步驟，重新設定密碼看看。

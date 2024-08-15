@@ -4,7 +4,7 @@ description: LikeCoin 錢包終於可以匯出助記詞
 
 # 匯出 LikeCoin app 助記詞
 
-由 2022 年 4 月開始，用戶可以匯出[以一般方法 ( Authcore ) 註冊 Liker ID](register/) 的錢包助記詞並在其他錢包例如 Keplr 導入助記詞以管理自己的 [LikeCoin](https://like.co/)。
+由 2022 年 4 月開始，用戶可以匯出[以電郵或社交登入 ( Authcore ) 註冊 Liker ID](register/) 的錢包助記詞並在其他錢包例如 Keplr 導入助記詞以管理自己的 [LikeCoin](https://like.co/)。
 
 在匯出錢包助記詞前，請留意：
 

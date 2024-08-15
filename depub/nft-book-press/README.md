@@ -265,9 +265,9 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 [edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
 {% endcontent-ref %}
 
-## 發送 NFT 電子書及群發 NFT 紀念品到多個錢包 <a href="#transfer-nft-ebook" id="transfer-nft-ebook"></a>
+## 發送 NFT 電子書及群發 NFT 禮物到多個錢包 <a href="#transfer-nft-ebook" id="transfer-nft-ebook"></a>
 
-出版 NFT 電子書後，可將作品發送到個別錢包，又或者將 NFT 電子書作為紀念品群發到多個錢包。
+將作品發送到個別錢包又或者將 NFT 電子書作為禮物群發到多個錢包。
 
 {% content-ref url="../transfer-writing-nft/" %}
 [transfer-writing-nft](../transfer-writing-nft/)
