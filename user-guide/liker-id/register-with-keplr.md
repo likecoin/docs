@@ -16,7 +16,7 @@ description: 以 Keplr 去中化註冊  Liker ID 及管理你的 LikeCoin
 | 用戶需自行管理私鑰，安全性較高                                                                                                                                         | 由 Authcore 提供的密碼管理技術管理用戶私鑰，較容易使用，但註冊後用戶也可以[匯出私鑰](export-seed-words.md)自行管理錢包                                                                            |
 | 錢包支援包括 LikeCoin 的多種貨幣，如 ATOM、OSMO、AKT、CRO、KAVA 等等                                                                                                       | 錢包只支援 LikeCoin                                                                                                                                          |
 | 只能以 Keplr 錢包登入                                                                                                                                          | 可以[社交帳號](register/social-media-logins.md) ( Google, Facebook, etc ) 或電郵登入                                                                               |
-| 只能以桌面電腦 Chrome 瀏覽器的 Keplr extension 登入 Liker Land 網頁版，也【**不能登入  LikeCoin app】**                                                                         | 可登入 [LikeCoin 手機應用程式](../liker-land/download.md)，也可以手機瀏覽器登入 Liker Land 網頁版                                                                              |
+| 只能以桌面電腦 Chrome 瀏覽器的 Keplr extension 登入 Liker Land 網頁版，也 【**不能登入  LikeCoin app】**                                                                        | 可登入 [LikeCoin 手機應用程式](../liker-land/download.md)，也可以手機瀏覽器登入 Liker Land 網頁版                                                                              |
 | 支援使用硬件錢包​                                                                                                                                               | 不支援硬件錢包                                                                                                                                                 |
 | 必需要轉入收款方的錢包地址[轉帳](../../general-guides/wallet/keplr/keplr-deposit-and-send-likecoin.md)                                                                 | 可輸入收款方的 Liker ID 或錢包地址[轉帳](../../general-guides/wallet/like-pay.md)                                                                                     |
 | 以 [dao.like.co 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin/#delegate-via-dao.like.co)                                                | 以 [LikeCoin app 或 dao.like.co 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin/)                                                          |
@@ -42,11 +42,11 @@ description: 以 Keplr 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 登入你的 Keplr 錢包，並到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
 
 點「登入」。
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 彈出視窗出現 Keplr，點它登入 Liker Land。
 
