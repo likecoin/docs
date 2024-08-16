@@ -55,7 +55,7 @@ description: LikeCoin 錢包終於可以匯出助記詞
 
 登入後點右上角頭像，點「設定」再點「匯出錢包助記詞」。&#x20;
 
-<figure><img src="../../../.gitbook/assets/Seed Words 0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Seed Words 0.png" alt=""><figcaption><p>點「設定」再點「匯出錢包助記詞」</p></figcaption></figure>
 
 出現提示字句後點「接受」。
 

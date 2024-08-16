@@ -6,16 +6,6 @@ description: 讓自己的性格更特出
 
 ## 修改方法
 
-### 網頁版
-
-在 [Liker Land](https://liker.land/) 登入 [Keplr Browser Extension](../../general-guides/wallet/keplr/) 後，點「設定」，然後點「Liker ID」。
-
-<figure><img src="../../.gitbook/assets/Liker ID avatar desktop start.png" alt=""><figcaption><p>點「設定」，然後點「Liker ID」</p></figcaption></figure>
-
-彈出視窗，可「更改頭像」及「編輯電郵」。更改「顯示名稱」及簡介後務必點「儲存」。
-
-<figure><img src="../../.gitbook/assets/Liker ID avatar desktop.png" alt=""><figcaption><p>「更改頭像」及「編輯電郵」。更改「顯示名稱」及簡介後務必點「儲存」</p></figcaption></figure>
-
 ### 手機版
 
 在 [LikeCoin 手機應用程式](../liker-land/download.md)直接點頭像轉換新頭像。
@@ -25,6 +15,30 @@ description: 讓自己的性格更特出
 於畫面右下角設定點「個人資訊」再點「個人檔案」更改顯示名稱。
 
 <figure><img src="../../.gitbook/assets/avatar 2.png" alt=""><figcaption><p>於畫面右下角設定點「個人資訊」再點「個人檔案」更改顯示名稱</p></figcaption></figure>
+
+### 網頁版
+
+到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
+
+<figure><img src="../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
+
+點「登入」。
+
+<figure><img src="../../.gitbook/assets/Authcore 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+
+點 Email/Social 使用 Liker ID 以電郵/社交登入。
+
+<figure><img src="../../.gitbook/assets/Authcore 3.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+
+登入後點右上角頭像，點「設定」再點「Liker ID」。&#x20;
+
+<figure><img src="../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>點「設定」再點「Liker ID」</p></figcaption></figure>
+
+可「更改頭像」及「編輯電郵」。更改「顯示名稱」及簡介後務必點「儲存」。
+
+<figure><img src="../../.gitbook/assets/Liker ID avatar desktop.png" alt=""><figcaption><p>「更改頭像」及「編輯電郵」。更改「顯示名稱」及簡介後務必點「儲存」</p></figcaption></figure>
+
+***
 
 ## 使用場景
 
