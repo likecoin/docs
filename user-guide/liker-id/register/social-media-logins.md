@@ -45,6 +45,10 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 <figure><img src="../../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>點「設定」再點「Liker ID」</p></figcaption></figure>
 
+打開右上角「Authcore 設定」。
+
+<figure><img src="../../../.gitbook/assets/Authcore settings.png" alt=""><figcaption><p>打開「Authcore 設定」</p></figcaption></figure>
+
 點「安全設定」及「社交帳戶登入」。
 
 ![點「安全設定」及「社交帳戶登入」](../../../.gitbook/assets/social-media-logins-1.png)

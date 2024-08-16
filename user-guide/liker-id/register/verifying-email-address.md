@@ -8,6 +8,48 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 以下內容只適用於[以電郵或社交登入 ( Authcore ) 註冊的 Liker ID](./)。
 {% endhint %}
 
+## 認證電郵地址 <a href="#confirm-your-email-address" id="confirm-your-email-address"></a>
+
+### 步驟一：進入 Liker ID 設定
+
+到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
+
+<figure><img src="../../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
+
+點「登入」。
+
+<figure><img src="../../../.gitbook/assets/Authcore 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+
+點 Email/Social 使用 Liker ID 以電郵/社交登入。
+
+<figure><img src="../../../.gitbook/assets/Authcore 3.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+
+登入後點右上角頭像，點「設定」再點「Liker ID」。&#x20;
+
+<figure><img src="../../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>點「設定」再點「Liker ID」</p></figcaption></figure>
+
+在「你的電郵」點「編輯」進入「管理電郵」的頁面。
+
+<figure><img src="../../../.gitbook/assets/auth-email-0.png" alt=""><figcaption><p>在「你的電郵」點「編輯」進入「管理電郵」的頁面</p></figcaption></figure>
+
+### 步驟二：認證電郵
+
+在「管理電郵」的頁面，點「現在認證」。
+
+![在「管理電郵」的頁面，點「現在認證」](../../../.gitbook/assets/auth-email-1.png)
+
+### 步驟三：輸入認證碼
+
+你的郵箱會收到一封包含六位數字認證碼的電郵。請填在下方畫面的空格中，點「認證」。
+
+![輸入六位數字認證碼再點「認證」](https://downloads.intercomcdn.com/i/o/171962025/7a29375736dc15a5f3eb9909/image.png)
+
+見到下方這畫面，代表認證已成功。
+
+![認證已成功](../../../.gitbook/assets/auth-email-3.png)
+
+***
+
 ## 雙重認證 ( 2FA ) <a href="#id-2fa" id="id-2fa"></a>
 
 設定雙重認證後，新裝置登入時會要求填上認證碼產生器生成的 6 位數字認證碼。
@@ -70,30 +112,6 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 ![選「產生後備認證碼」](../../../.gitbook/assets/2fa-backup-screen.png)
 
 所有設定雙重認證的步驟至此完成了。
-
-## 認證電郵地址 <a href="#confirm-your-email-address" id="confirm-your-email-address"></a>
-
-### 步驟一：進入個人檔案設定
-
-到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」登入。
-
-打開「AuthCore 設定」並點「個人檔案」，再點「聯絡方式」，並點「電郵」，跳入「管理電郵」的頁面。
-
-### 步驟二：認證電郵
-
-在「管理電郵」的頁面，點「現在認證」。
-
-![在「管理電郵」的頁面，點「現在認證」](../../../.gitbook/assets/auth-email-1.png)
-
-### 步驟三：輸入認證碼
-
-你的郵箱會收到一封包含六位數字認證碼的電郵。請填在下方畫面的空格中，點「認證」。
-
-![輸入六位數字認證碼再點「認證」](https://downloads.intercomcdn.com/i/o/171962025/7a29375736dc15a5f3eb9909/image.png)
-
-見到下方這畫面，代表認證已成功。
-
-![認證已成功](../../../.gitbook/assets/auth-email-3.png)
 
 #### 教學影片
 
