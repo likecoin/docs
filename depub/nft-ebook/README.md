@@ -38,6 +38,12 @@ description: 如何購買 NFT 電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 6.png" alt=""><figcaption><p>註冊或登入 Liker Land 帳戶</p></figcaption></figure>
 
+有關註冊 Liker ID 可參考：
+
+{% content-ref url="../../user-guide/liker-id/" %}
+[liker-id](../../user-guide/liker-id/)
+{% endcontent-ref %}
+
 ## 步驟六：確認錢包地址 <a href="#step-6" id="step-6"></a>
 
 在此書將新增至以下帳戶中頁面出現錢包地址，確認無誤後點「確認」。你也可以隨時到「我的書架」查看錢包地址是否正確。
@@ -58,9 +64,9 @@ description: 如何購買 NFT 電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 10.png" alt=""><figcaption><p>到書架查看收藏</p></figcaption></figure>
 
-## 匯入 epub 檔案到各家閱讀器 <a href="#reader" id="reader"></a>
+## 匯入 EPUB 檔案到各家閱讀器 <a href="#reader" id="reader"></a>
 
-除了可使用 USB 方式匯入 epub 檔案到閱讀器。不同廠牌亦支援以網絡介面上載，更多詳情可參看：
+如購買的 EPUB 不設 DRM，除了可使用 USB 方式匯入 EPUB 檔案到閱讀器。不同廠牌亦支援以網絡介面上載，更多詳情可參看：
 
 * Readmoo - [桌機](https://cloudhey.medium.com/readmoo%E8%AE%80%E5%A2%A8%E9%9B%BB%E5%AD%90%E6%9B%B8%E9%80%B2%E9%9A%8E%E4%BD%BF%E7%94%A8%E7%B4%80%E9%8C%84-ebf534ab6408)、[iOS](https://news.readmoo.com/2023/05/24/new-new-update-133/)、[Android](https://news.readmoo.com/2023/04/07/new-new-update-128/)
 * Kobo - [使用 Dropbox 將書籍新增至您的 eReader](https://help.kobo.com/hc/zh-tw/articles/360033830114-%E4%BD%BF%E7%94%A8-Dropbox-%E5%B0%87%E6%9B%B8%E7%B1%8D%E6%96%B0%E5%A2%9E%E8%87%B3%E6%82%A8%E7%9A%84-eReader)
