@@ -10,13 +10,13 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 有時因為不明原因無法以社交帳號登入 Liker ID，不妨試試以下步驟，重新設定密碼看看。
 
-## **步驟一：登入網站**
+## 步驟一：登入
 
-### **手機版**
+### 手機版
 
 在 [LikeCoin 手機應用程式](../../liker-land/download.md)點「登入」。
 
-### **網頁版**
+### 網頁版
 
 先確保自己在登出狀態，你可以打開右上角的功能選單找到「登出」的選項。
 
@@ -32,7 +32,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 <figure><img src="../../../.gitbook/assets/Authcore 3.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
 
-## **步驟二：重設密碼**
+## 步驟二：重設密碼
 
 在登入視窗中，點「重設密碼」。
 
@@ -55,7 +55,7 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ![出現重設密碼訊息](../../../.gitbook/assets/resetpassword-3.png)
 
-## **步驟四：接收郵件重設密碼**
+## 步驟四：接收郵件重設密碼
 
 接收重設密碼郵件，點郵件中的鏈結重設密碼。
 
@@ -69,13 +69,13 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ![重設密碼成功](../../../.gitbook/assets/resetpassword-6.png)
 
-## **步驟五：以電郵及密碼登入**
+## 步驟五：以電郵及密碼登入
 
 在登入畫面，**以電郵及密碼登入**。留意不是選上方的社交帳號登入喔。
 
 ![以電郵及密碼登入](../../../.gitbook/assets/resetpassword-7.png)
 
-## **步驟六：重新設定社交帳號登入方式**
+## 步驟六：重新設定社交帳號登入方式
 
 登入成功後，請[重新設定好你的 Google, Facebook, Twitter 等登入方式](social-media-logins.md)。
 
