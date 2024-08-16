@@ -52,6 +52,12 @@ description: 網頁版的 Liker Land
 [liker-id](../../user-guide/liker-id/)
 {% endcontent-ref %}
 
+### 匯出錢包助記詞（只適用於以電郵或社交登入註冊的 Liker ID）
+
+{% content-ref url="../../user-guide/liker-id/register/export-seed-words.md" %}
+[export-seed-words.md](../../user-guide/liker-id/register/export-seed-words.md)
+{% endcontent-ref %}
+
 ### 清理閱讀器緩存
 
 一按清理閱讀器緩存，重新載入即可看到新內容。

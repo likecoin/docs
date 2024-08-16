@@ -34,8 +34,8 @@ description: Cosmostation 手機版
 
 #### 你亦可以匯出你的 Liker Land 助記詞以使用 Cosmostation 手機錢包：
 
-{% content-ref url="../../../user-guide/liker-id/export-seed-words.md" %}
-[export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)
+{% content-ref url="../../../user-guide/liker-id/register/export-seed-words.md" %}
+[export-seed-words.md](../../../user-guide/liker-id/register/export-seed-words.md)
 {% endcontent-ref %}
 
 {% content-ref url="import-wallet-into-cosmostation-app.md" %}

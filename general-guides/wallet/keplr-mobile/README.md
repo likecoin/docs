@@ -32,8 +32,8 @@ Keplr Mobile 是 Keplr 的手機版錢包。通過移動設備裝置的便利，
 
 #### 你亦可以匯出你的 Liker Land 助記詞以使用 Keplr 手機錢包：
 
-{% content-ref url="../../../user-guide/liker-id/export-seed-words.md" %}
-[export-seed-words.md](../../../user-guide/liker-id/export-seed-words.md)
+{% content-ref url="../../../user-guide/liker-id/register/export-seed-words.md" %}
+[export-seed-words.md](../../../user-guide/liker-id/register/export-seed-words.md)
 {% endcontent-ref %}
 
 {% content-ref url="import-wallet-into-keplr-mobile.md" %}

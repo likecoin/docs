@@ -37,6 +37,6 @@ description: 要去哪裏下載 LikeCoin app？
 * [個人資料設定](../liker-id/edit-avatar-displayname.md)
 * 安全：[更改密碼](../liker-id/register/reset-password.md)、[雙重認證](../liker-id/register/verifying-email-address.md)、[裝置](../liker-id/register/devices.md)、[社交帳戶登入](../liker-id/register/social-media-logins.md)
 * Wallect Connect
-* [匯出錢包助記詞](../liker-id/export-seed-words.md)
+* [匯出錢包助記詞](../liker-id/register/export-seed-words.md)
 * 閱讀列表
 * [推文](superlike.md)

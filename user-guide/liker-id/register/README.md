@@ -4,7 +4,7 @@ description: Liker ID 要怎樣註冊？
 
 # 以電郵或社交登入 ( Authcore ) 註冊 Liker ID
 
-使用 [LikeCoin 手機應用程式](https://liker.land/getapp) 能以電郵或社交登入 ( Authcore ) 註冊 Liker ID。用戶亦可[從 Authcore 匯出你的助記詞](../export-seed-words.md)並導入 [Keplr](../../../general-guides/wallet/keplr/) 或其他[錢包](../../../general-guides/wallet/)，以便管理你的 [LikeCoin](https://like.co/)。
+使用 [LikeCoin 手機應用程式](https://liker.land/getapp) 能以電郵或社交登入 ( Authcore ) 註冊 Liker ID。用戶亦可[從 Authcore 匯出你的助記詞](export-seed-words.md)並導入 [Keplr](../../../general-guides/wallet/keplr/) 或其他[錢包](../../../general-guides/wallet/)，以便管理你的 [LikeCoin](https://like.co/)。
 
 ## 使用 LikeCoin 手機應用程式以電郵或社交登入 ( Authcore ) 註冊 Liker ID <a href="#likecoin-app" id="likecoin-app"></a>
 
