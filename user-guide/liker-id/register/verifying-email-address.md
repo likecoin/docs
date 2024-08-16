@@ -14,17 +14,27 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 以下步驟須在桌面電腦上操作，也需要備妥一部你常用的手機。設定步驟如下：
 
-### 步驟一：使用舊介面登入
+### 步驟一：登入 Liker Land
 
-到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」登入。
+到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
 
-<figure><img src="../../../.gitbook/assets/resetpassword-0.png" alt=""><figcaption><p>點「切換舊介面」登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/legacy login.png" alt=""><figcaption><p>登入帳號</p></figcaption></figure>
+點「登入」。
+
+<figure><img src="../../../.gitbook/assets/Authcore 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+
+點 Email/Social 使用 Liker ID 以電郵/社交登入。
+
+<figure><img src="../../../.gitbook/assets/Authcore 3.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+
+登入後點右上角頭像，點「設定」再點「Liker ID」。&#x20;
+
+<figure><img src="../../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>點「設定」再點「Liker ID」</p></figcaption></figure>
 
 ### 步驟二：進入安全設定
 
-打開「Authcore 設定」。
+打開右上角「Authcore 設定」。
 
 <figure><img src="../../../.gitbook/assets/Authcore settings.png" alt=""><figcaption><p>打開「Authcore 設定」</p></figcaption></figure>
 

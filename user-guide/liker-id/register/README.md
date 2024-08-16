@@ -6,7 +6,7 @@ description: Liker ID 要怎樣註冊？
 
 使用 [LikeCoin 手機應用程式](https://liker.land/getapp) 能以電郵或社交登入 ( Authcore ) 註冊 Liker ID。用戶亦可[從 Authcore 匯出你的助記詞](../export-seed-words.md)並導入 [Keplr](../../../general-guides/wallet/keplr/) 或其他[錢包](../../../general-guides/wallet/)，以便管理你的 [LikeCoin](https://like.co/)。
 
-## 使用 LikeCoin 手機應用程式以電郵或社交登入 ( Authcore ) 註冊 Liker ID
+## 使用 LikeCoin 手機應用程式以電郵或社交登入 ( Authcore ) 註冊 Liker ID <a href="#likecoin-app" id="likecoin-app"></a>
 
 只需下載 [LikeCoin 手機應用程式](../../liker-land/download.md)，並執行以下程序即可：
 
@@ -54,26 +54,28 @@ LikeCoin 手機應用程式使用 Authcore 登入。什麼是 Authcore？[請參
 [like-pay.md](../../../general-guides/wallet/like-pay.md)
 {% endcontent-ref %}
 
-## 在 Liker Land 網頁版以電郵或社交登入 ( Authcore ) 註冊 Liker ID
+***
+
+## 在 Liker Land 網頁版以電郵或社交登入 ( Authcore ) 註冊 Liker ID <a href="#liker-land-web" id="liker-land-web"></a>
 
 到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT Connect 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
 
 點「登入」。
 
-<figure><img src="../../../.gitbook/assets/Buy NFT Connect 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 使用 Liker ID 以電郵/社交登入。
 
-<figure><img src="../../../.gitbook/assets/Authcore Login 1.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 3.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
 
-選擇「建立帳戶」。
+點「建立帳戶」。
 
-<figure><img src="../../../.gitbook/assets/Authcore Login 2.png" alt=""><figcaption><p>Google 或 Apple 登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 4.png" alt=""><figcaption><p>點「建立帳戶」</p></figcaption></figure>
+
+點任何一項社交登入建立帳戶，又或者輸入電郵及密碼再點「建立帳戶」。
+
+<figure><img src="../../../.gitbook/assets/Authcore 5.png" alt=""><figcaption><p>以社交登入或電郵密碼建立帳戶</p></figcaption></figure>
 
 餘下註冊程序與手機版相同。
-
-如需使用其他登入選項，可到 [https://liker.land/zh-Hant/store/featured?authcore\_legacy=1](https://liker.land/zh-Hant/store/featured?authcore\_legacy=1) 登入。
-
-<figure><img src="../../../.gitbook/assets/Authcore Login 3.png" alt=""><figcaption><p>舊版登入</p></figcaption></figure>

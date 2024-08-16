@@ -37,7 +37,7 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 打開「Authcore 設定」。
 
-<figure><img src="../../../.gitbook/assets/Authcore settings.png" alt=""><figcaption><p>打開「Authcore 設定」</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>打開「Authcore 設定」</p></figcaption></figure>
 
 點「安全設定」及「社交帳戶登入」。
 

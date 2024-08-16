@@ -38,10 +38,10 @@ description: 如何購買 NFT 電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 6.png" alt=""><figcaption><p>註冊或登入 Liker Land 帳戶</p></figcaption></figure>
 
-有關註冊 Liker ID 可參考：
+有關以電郵註冊可參考：
 
-{% content-ref url="../../user-guide/liker-id/" %}
-[liker-id](../../user-guide/liker-id/)
+{% content-ref url="../../user-guide/liker-id/register/" %}
+[register](../../user-guide/liker-id/register/)
 {% endcontent-ref %}
 
 ## 步驟六：確認錢包地址 <a href="#step-6" id="step-6"></a>
