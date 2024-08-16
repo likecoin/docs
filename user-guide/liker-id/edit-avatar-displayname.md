@@ -26,9 +26,9 @@ description: 讓自己的性格更特出
 
 <figure><img src="../../.gitbook/assets/Authcore 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
-點 Email/Social 使用 Liker ID 以電郵/社交登入。
+點 Email/Social 或 Keplr 登入。
 
-<figure><img src="../../.gitbook/assets/Authcore 3.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker ID avatar desktop login.png" alt=""><figcaption><p>點 Email/Social 或 Keplr 登入</p></figcaption></figure>
 
 登入後點右上角頭像，點「設定」再點「Liker ID」。&#x20;
 
