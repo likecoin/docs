@@ -12,7 +12,7 @@ description: 簡單發送沒難度
 
 ## 步驟一：登入並發送
 
-在 [Liker Land](https://liker.land/) 登入 [Keplr Browser Extension](../../general-guides/wallet/keplr/)、[Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/)、[Leap Browser Extension](../../general-guides/wallet/leap/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin app](../../user-guide/liker-land/download.md) 後點需要發送的 NFT，並查看存量「擁有」了多少個。確定發送後點「發送」。
+在 [Liker Land](https://liker.land/) 登入你的[電郵/社交登入](../../user-guide/liker-id/register/) 、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)…等，然後點需要發送的 NFT，並查看存量「擁有」了多少個。確定發送後點「發送」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 1.png" alt=""><figcaption><p>點「發送」開始發送 NFT</p></figcaption></figure>
 
@@ -24,25 +24,29 @@ description: 簡單發送沒難度
 
 ## 步驟三：確認發送
 
-#### 在 Keplr 確認發送 NFT
+### 電郵/社交登入
+
+不需額外確認。
+
+### 在 Keplr 確認發送 NFT
 
 在 Keplr 彈出視窗，點「Approve」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 3.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve」</p></figcaption></figure>
 
-#### 在 Cosmostation 確認發送 NFT
+### 在 Cosmostation 確認發送 NFT
 
 在 Cosmostation 彈出視窗，點「Confirm」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 5.png" alt=""><figcaption><p>Cosmostation 彈出視窗，點「Confirm」</p></figcaption></figure>
 
-#### 在 Leap 確認發送 NFT
+### 在 Leap 確認發送 NFT
 
 在 Leap 彈出視窗，點「Approve」。
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 11.png" alt=""><figcaption><p>Leap 彈出視窗，點「Approve」</p></figcaption></figure>
 
-#### 在 Cosmostation app 確認發送 NFT
+### 在 Cosmostation app 確認發送 NFT
 
 在手機上出現簽名請求，點「Confirm」確認發送。
 
@@ -50,7 +54,7 @@ description: 簡單發送沒難度
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 10.png" alt=""><figcaption><p>在 Cosmostation app 點「Confirm」</p></figcaption></figure>
 
-#### 在 LikeCoin app 確認發送 NFT
+### 在 LikeCoin app 確認發送 NFT
 
 在手機上出現簽名請求，點「允許」確認發送。
 
