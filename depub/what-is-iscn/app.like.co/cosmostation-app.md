@@ -14,7 +14,7 @@ description: 使用 Cosmostation app 註冊 ISCN
 
 <figure><img src="../../../.gitbook/assets/ISCN Cosmostation app.png" alt=""><figcaption><p>以 Cosmostation app 登入 app.like.co</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/NFT Portal Cosmotation app 1.png" alt=""><figcaption><p>點 Cosmostation app 後出現二維碼</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>點 Cosmostation app 後出現二維碼</p></figcaption></figure>
 
 在 [Cosmostation 手機錢包](../../../general-guides/wallet/cosmostation-mobile/)點「Wallet Connect」調用鏡頭，並掃瞄二維碼。
 

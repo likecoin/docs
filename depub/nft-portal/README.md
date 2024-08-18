@@ -18,9 +18,9 @@ description: 把任何網頁文章內容出版成 NFT
 
 可到 [**NFT Portal** 即 app.like.co 的 Mint Writing NFT 分頁](https://app.like.co/nft/url)貼上文章的網址，系統會自動抓取文章標題及把文章內容儲存到分散式檔案系統註冊成為 [ISCN](../what-is-iscn/) 並出版 NFT。
 
-> #### 教學
+> #### 建議:thumbsup:使用[電郵或社交登入](authcore.md)以文章網址出版 Writing NFT
 >
-> ### 建議:thumbsup:使用 [Keplr](keplr.md) 以文章網址出版 Writing NFT
+> #### 使用 [Keplr](keplr.md) 以文章網址出版 Writing NFT
 >
 > #### 使用 [Cosmostation](cosmostation.md) 以文章網址出版 Writing NFT
 >
@@ -40,11 +40,11 @@ description: 把任何網頁文章內容出版成 NFT
 
 ### **選擇五**：在 Liker.Social 出版 Writing NFT
 
-在去中心化的社群平台 [**Liker.Social**](liker-social.md) 出版 NFT。
+> #### 在去中心化的社群平台 [**Liker.Social**](liker-social.md) 出版 NFT。
 
 ### **選擇六**：在 illustBuy 出版 Writing NFT
 
-在插畫平台 [**illustBuy**](illustbuy.md) 出版 NFT。
+> #### 在插畫平台 [**illustBuy**](illustbuy.md) 出版 NFT
 
 ***
 

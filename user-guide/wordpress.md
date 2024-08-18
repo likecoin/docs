@@ -96,7 +96,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 <figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption><p>點「View NFT」</p></figcaption></figure>
 
-你也可以到 Liker Land [我的書架](../depub/liker-land-web/dashboard.md)查看你的創作。
+你也可以到 Liker Land [我的書架](../depub/liker-land-web/bookshelf.md)查看你的創作。
 
 <figure><img src="../.gitbook/assets/W3Press mint 9.png" alt=""><figcaption><p>到 Liker Land 我的書架查看創作</p></figcaption></figure>
 

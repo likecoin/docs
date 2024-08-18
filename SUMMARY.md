@@ -25,6 +25,7 @@
     * [董富記](depub/nft-ebook/nft-book-platform/dungfookei.md)
     * [BookForest](depub/nft-ebook/nft-book-platform/bookforest.io.md)
 * [出版 Writing NFT](depub/nft-portal/README.md)
+  * [電郵或社交登入](depub/nft-portal/authcore.md)
   * [Keplr](depub/nft-portal/keplr.md)
   * [Cosmostation](depub/nft-portal/cosmostation.md)
   * [Cosmostation app](depub/nft-portal/cosmostation-app.md)
