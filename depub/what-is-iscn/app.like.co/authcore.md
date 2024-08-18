@@ -1,8 +1,8 @@
 ---
-description: 使用 Cosmostation app 註冊 ISCN
+description: 使用電郵或社交登入註冊 ISCN
 ---
 
-# Cosmostation app
+# 電郵或社交登入
 
 ## 步驟一：登入 app.like.co
 
@@ -10,29 +10,7 @@ description: 使用 Cosmostation app 註冊 ISCN
 
 <figure><img src="../../../.gitbook/assets/ISCN 1.png" alt=""><figcaption><p>在 app.like.co 點右上角「Connect Wallet」或直接點「Register ISCN」</p></figcaption></figure>
 
-點「Cosmostation app」登入後出現二維碼。
-
-<figure><img src="../../../.gitbook/assets/ISCN Cosmostation app.png" alt=""><figcaption><p>以 Cosmostation app 登入 app.like.co</p></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/NFT Portal Cosmotation app 1.png" alt=""><figcaption><p>點 Cosmostation app 後出現二維碼</p></figcaption></figure>
-
-在 [Cosmostation 手機錢包](../../../general-guides/wallet/cosmostation-mobile/)點「Wallet Connect」調用鏡頭，並掃瞄二維碼。
-
-<figure><img src="../../../.gitbook/assets/NFT Portal Cosmotation app 2.png" alt=""><figcaption><p>打開 Cosmostation app 點 Wallet Connect 掃瞄二維碼</p></figcaption></figure>
-
-輸入 PIN 碼確認。
-
-<figure><img src="../../../.gitbook/assets/NFT Portal Cosmotation app 3.jpg" alt=""><figcaption><p>PIN 碼認證</p></figcaption></figure>
-
-點「OK」確認連結。
-
-<figure><img src="../../../.gitbook/assets/NFT Portal Cosmotation app 4.png" alt=""><figcaption><p>點「OK」確認連結</p></figcaption></figure>
-
-成功連結。
-
-<figure><img src="../../../.gitbook/assets/NFT Portal Cosmotation app 5.png" alt=""><figcaption><p>成功連結 app.like.co</p></figcaption></figure>
-
-完成連結後右上角顯示你的錢包地址，點「Register ISCN」開始註冊。
+點「Email/Social」後彈出視窗要求連結，請於桌面電腦瀏覽器[以電郵或社交登入](../../../user-guide/liker-id/register/)。
 
 <figure><img src="../../../.gitbook/assets/ISCN 2.png" alt=""><figcaption><p>成功連結 app.like.co 並顯示錢包地址</p></figcaption></figure>
 
@@ -48,8 +26,6 @@ description: 使用 Cosmostation app 註冊 ISCN
 
 <figure><img src="../../../.gitbook/assets/ISCN 5.png" alt=""><figcaption><p>點「View File Info」查看檔案的屬性和狀態再點再點「Start Upload」</p></figcaption></figure>
 
-
-
 <figure><img src="../../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p>檔案的屬性和狀態</p></figcaption></figure>
 
 ### 不上傳內容
@@ -62,7 +38,7 @@ description: 使用 Cosmostation app 註冊 ISCN
 
 填寫關於此項內容的元數據：
 
-* Register your asset in Numbers Protocol－勾選它可將內容一拼傳送到 [Numbers Protocol](https://www.numbersprotocol.io/)（不適用於不需上傳內容的作品）
+* Register your asset in Numbers Protocol－勾選它可將內容一拼傳送到 [Numbers Protoco](https://www.numbersprotocol.io/)l（不適用於不需上傳內容的作品）
 * ISCN Title－ISCN 標題
 * Description－內容描述
 * Author－點它填寫更多內容，並可加入多於一名創作者
@@ -82,10 +58,6 @@ description: 使用 Cosmostation app 註冊 ISCN
 雖然很多欄目也不是必填，但建議盡量填寫讓別人可容易發堀你的內容。系統會估算這次註冊所需的費用，點「Register」繼續。
 
 ## 步驟四：簽署並獲取 ISCN
-
-彈出 Request Transaction Sign 視窗要求簽署，點「Confirm」。
-
-<figure><img src="../../../.gitbook/assets/ISCN 12.png" alt=""><figcaption><p>Cosmostation app 彈出 Request Transaction Sign 視窗，點「Confirm」</p></figcaption></figure>
 
 要成功註冊 ISCN 需簽署兩次，分別為：
 

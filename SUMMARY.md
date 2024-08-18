@@ -54,6 +54,7 @@
   * [ISCN 的去中心特性對內容生態有什麼好處？](depub/what-is-iscn/benefits.md)
   * [ISCN 支援什麼內容格式？](depub/what-is-iscn/content-type.md)
   * [如何註冊 ISCN](depub/what-is-iscn/app.like.co/README.md)
+    * [電郵或社交登入](depub/what-is-iscn/app.like.co/authcore.md)
     * [Keplr](depub/what-is-iscn/app.like.co/keplr.md)
     * [Cosmostation](depub/what-is-iscn/app.like.co/cosmostation.md)
     * [Cosmostation app](depub/what-is-iscn/app.like.co/cosmostation-app.md)
