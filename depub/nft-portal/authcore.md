@@ -1,5 +1,5 @@
 ---
-description: 以電郵或社交登入出版 Writing NFT
+description: 使用電郵或社交登入以文章網址出版 Writing NFT
 ---
 
 # 電郵或社交登入
@@ -12,7 +12,7 @@ description: 以電郵或社交登入出版 Writing NFT
 [register](../../user-guide/liker-id/register/)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/NFT Portal EmailSocial.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portal EmailSocial.png" alt=""><figcaption><p>以 電郵或社交登入 NFT Portal</p></figcaption></figure>
 
 成功登入後右上角將顯示你的錢包地址及 NFT Portal 註冊頁面。
 

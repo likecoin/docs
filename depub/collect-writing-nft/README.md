@@ -104,19 +104,15 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../.gitbook/assets/Writing NFT 3.png" alt=""><figcaption><p>登入 Liker Land</p></figcaption></figure>
 
-點頭像再選「[我的書架](https://liker.land/dashboard?tab=collected)」即可查看已購買的 NFT。
+點頭像再選「[我的書架](../liker-land-web/bookshelf.md)」即可查看已購買的 NFT。
 
 <figure><img src="../../.gitbook/assets/Buy NFT pay by card 7.png" alt=""><figcaption><p>在我的書架查看已購買的 Writing NFT</p></figcaption></figure>
 
 ***
 
-## 已擁有錢包並以信用卡付款收藏 Writing NFT（手機與桌機均適用） <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
+## 已擁有錢包並以信用卡付款收藏 Writing NFT（手機與桌機均適用）
 
-用戶也可以使用已註冊的錢包再以信用卡購買 Writing NFT。
-
-{% hint style="info" %}
 已註冊[電郵或社交登入](../../user-guide/liker-id/register/)、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/)、[Keplr Mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 等用戶也可以使用信用卡購買 Writing NFT，只需在登入時採用對應的登入方式即可。
-{% endhint %}
 
 ### 教學影片
 
