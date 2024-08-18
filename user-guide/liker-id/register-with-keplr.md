@@ -50,7 +50,7 @@ description: 以 Keplr 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 彈出視窗出現 Keplr，點它登入 Liker Land。
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 3.png" alt=""><figcaption><p>點 Keplr 登入 Liker Land</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>點 Keplr 登入 Liker Land</p></figcaption></figure>
 
 彈出 Keplr 視窗點「Approve」。
 
