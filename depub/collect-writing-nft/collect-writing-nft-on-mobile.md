@@ -1,5 +1,5 @@
 ---
-description: 使用 Keplr Mobile、Cosmostation app 或 LikeCoin 手機應用程式以手機用 LIKE 購買 Writing NFT
+description: 使用 Keplr mobile、Cosmostation app 或 LikeCoin 手機應用程式以手機用 LIKE 購買 Writing NFT
 ---
 
 # 以手機用 LIKE 購買 Writing NFT
@@ -46,9 +46,9 @@ description: 使用 Keplr Mobile、Cosmostation app 或 LikeCoin 手機應用程
 
 ## 以手機瀏覽器收藏 Writing NFT <a href="#mobile" id="mobile"></a>
 
-### 在 Keplr Mobile 簽署
+### 在 Keplr mobile 簽署
 
-**步驟一**：登入 Keplr Mobile 後到手機瀏覽器開啟希望購買的 NFT 頁面並點「立即收藏」、「收集」、「收藏作品」或當前價格開始收藏 Writing NFT。
+**步驟一**：登入 Keplr mobile 後到手機瀏覽器開啟希望購買的 NFT 頁面並點「立即收藏」、「收集」、「收藏作品」或當前價格開始收藏 Writing NFT。
 
 <figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 1.png" alt=""><figcaption><p>點「立即收藏」</p></figcaption></figure>
 
@@ -56,21 +56,21 @@ description: 使用 Keplr Mobile、Cosmostation app 或 LikeCoin 手機應用程
 
 <figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 2.png" alt=""><figcaption><p>輸入給作者的話並用 LIKE 購買</p></figcaption></figure>
 
-**步驟三**：彈出視窗選擇 Keplr Mobile ，點擊並連接。
+**步驟三**：彈出視窗選擇 Keplr mobile ，點擊並連接。
 
-<figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 3.png" alt=""><figcaption><p>彈出視窗選擇 Keplr Mobile ，點擊並連接</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 3.png" alt=""><figcaption><p>彈出視窗選擇 Keplr mobile ，點擊並連接</p></figcaption></figure>
 
-**步驟四**：在 Keplr Mobile 彈出視窗，點「Approve」。
+**步驟四**：在 Keplr mobile 彈出視窗，點「Approve」。
 
-<figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 4.png" alt=""><figcaption><p>在 Keplr Mobile 彈出視窗，點「Approve」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 4.png" alt=""><figcaption><p>在 Keplr mobile 彈出視窗，點「Approve」</p></figcaption></figure>
 
 **步驟五**：瀏覽器出現正在收藏作品頁面。
 
 <figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 5.png" alt=""><figcaption><p>瀏覽器出現正在收藏作品頁面</p></figcaption></figure>
 
-**步驟六**：回到 Keplr Mobile ，點「Approve」。
+**步驟六**：回到 Keplr mobile ，點「Approve」。
 
-<figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 6.png" alt=""><figcaption><p>回到 Keplr Mobile ，點「Approve」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 6.png" alt=""><figcaption><p>回到 Keplr mobile ，點「Approve」</p></figcaption></figure>
 
 **步驟七**：回到瀏覽器後出現正在收藏作品頁面。
 

@@ -14,7 +14,7 @@ description: 手機與桌機均適用
 
 ## 步驟一：登入錢包並開始一鍵收藏
 
-請先登入你的[電郵/社交登入](../../user-guide/liker-id/register/) 、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)…等，然後在創作者的[書架](../liker-land-web/bookshelf.md)點「一鍵收藏」。
+請先登入你的[電郵/社交登入](../../user-guide/liker-id/register/) 、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)…等，然後在創作者的[書架](../liker-land-web/bookshelf.md)點「一鍵收藏」。
 
 <figure><img src="../../.gitbook/assets/Collect All 1.png" alt=""><figcaption><p>點「一鍵收藏」</p></figcaption></figure>
 
@@ -30,7 +30,7 @@ description: 手機與桌機均適用
 
 ### 以 LIKE 結帳
 
-以 Keplr 為例，彈出視窗後點「Approve」確認購買。使用 Cosmostation、Leap、Keplr Mobile、Cosmostation app 或 LikeCoin 手機應用程式亦會彈出相應的確認畫面，
+以 Keplr 為例，彈出視窗後點「Approve」確認購買。使用 Cosmostation、Leap、Keplr mobile、Cosmostation app 或 LikeCoin 手機應用程式亦會彈出相應的確認畫面，
 
 <figure><img src="../../.gitbook/assets/Collect All 3.png" alt=""><figcaption><p>Keplr 彈出視窗，點「Approve」確認購買</p></figcaption></figure>
 

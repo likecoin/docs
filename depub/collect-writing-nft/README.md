@@ -16,7 +16,7 @@ description: 如何收藏 Writing NFT
 
 ### [已擁有錢包並以信用卡付款收藏 Writing NFT](./#credit-card-with-keplr-1) <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
 
-適用於已註冊錢包的用戶，可選擇使用[電郵或社交登入](../../user-guide/liker-id/register/)、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)等任何一種方式透過桌機或手機瀏覽器以信用卡付款收藏 Writing NFT。
+適用於已註冊錢包的用戶，可選擇使用[電郵或社交登入](../../user-guide/liker-id/register/)、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)等任何一種方式透過桌機或手機瀏覽器以信用卡付款收藏 Writing NFT。
 
 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)用戶也可直接在手機應用程式中進行操作。
 
@@ -24,17 +24,17 @@ description: 如何收藏 Writing NFT
 
 ### [以桌機用 LIKE 購買 Writing NFT](collect-writing-nft-on-desktop.md)
 
-同戶可選擇使用[電郵或社交登入](../../user-guide/liker-id/register/)、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)等任何一種方式以桌機用 LIKE 購買 Writing NFT
+同戶可選擇使用[電郵或社交登入](../../user-guide/liker-id/register/)、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)等任何一種方式以桌機用 LIKE 購買 Writing NFT
 
 ### [以手機用 LIKE 購買 Writing NFT](collect-writing-nft-on-mobile.md)
 
 用戶可使用 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md) 以 LIKE 購買 NFT。
 
-用戶也可以手機瀏覽器配合 [Keplr Mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)簽署用 LIKE 購買 Writing NFT。
+用戶也可以手機瀏覽器配合 [Keplr mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)簽署用 LIKE 購買 Writing NFT。
 
 ### [一鍵收藏 Writing NFT](collect-all.md)
 
-同戶可選擇使用[電郵或社交登入](../../user-guide/liker-id/register/)、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr Mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)等任何一種方式透過桌機或手機瀏覽器一氣呵成購買同一位創作者的 Writing NFT。
+同戶可選擇使用[電郵或社交登入](../../user-guide/liker-id/register/)、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)等任何一種方式透過桌機或手機瀏覽器一氣呵成購買同一位創作者的 Writing NFT。
 
 ***
 
@@ -112,7 +112,7 @@ description: 如何收藏 Writing NFT
 
 ## 已擁有錢包並以信用卡付款收藏 Writing NFT（手機與桌機均適用）
 
-已註冊[電郵或社交登入](../../user-guide/liker-id/register/)、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/)、[Keplr Mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 等用戶也可以使用信用卡購買 Writing NFT，只需在登入時採用對應的登入方式即可。
+已註冊[電郵或社交登入](../../user-guide/liker-id/register/)、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/)、[Keplr mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 等用戶也可以使用信用卡購買 Writing NFT，只需在登入時採用對應的登入方式即可。
 
 ### 教學影片
 
