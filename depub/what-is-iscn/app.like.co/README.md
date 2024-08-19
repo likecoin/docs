@@ -22,7 +22,7 @@ description: 第一個 ISCN 的概念示範應用
 
 #### 建議:thumbsup:以[電郵或社交登入](authcore.md) [app.like.co](https://app.like.co/) 嘗試註冊自己的 ISCN。
 
-用戶也可使用 [Keplr](keplr.md)、[Cosmostation](cosmostation.md)、[Cosmostation app](cosmostation-app.md) 或 [LikeCoin 手機應用程式](likecoin-app.md)進行註冊。
+用戶也可使用 [Keplr](keplr.md)、[Cosmostation](cosmostation.md)、[Cosmostation app](cosmostation-app.md) 等進行註冊。
 
 或於 [Matters](matters.md) 網站發文時一拼註冊 ISCN。
 

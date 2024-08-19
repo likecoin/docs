@@ -2,7 +2,11 @@
 description: 使用 LikeCoin app 註冊 ISCN
 ---
 
-# LikeCoin 手機應用程式
+# 使用 LikeCoin app 註冊 ISCN
+
+{% hint style="danger" %}
+2024/08/14 存檔。資訊已過期。
+{% endhint %}
 
 ## 步驟一：登入 app.like.co
 

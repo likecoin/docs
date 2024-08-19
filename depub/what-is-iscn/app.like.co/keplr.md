@@ -92,17 +92,3 @@ description: 使用 Keplr 註冊 ISCN
 點項目出現已註冊的元數據內容明細。
 
 <figure><img src="../../../.gitbook/assets/ISCN 16.png" alt=""><figcaption><p>ISCN 詳盡資料</p></figcaption></figure>
-
-#### 其他註冊 ISCN 的方式：
-
-{% content-ref url="cosmostation.md" %}
-[cosmostation.md](cosmostation.md)
-{% endcontent-ref %}
-
-{% content-ref url="cosmostation-app.md" %}
-[cosmostation-app.md](cosmostation-app.md)
-{% endcontent-ref %}
-
-{% content-ref url="likecoin-app.md" %}
-[likecoin-app.md](likecoin-app.md)
-{% endcontent-ref %}
