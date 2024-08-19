@@ -35,31 +35,3 @@ description: Cosmostation 是支援 LikeCoin 的多鏈錢包
 {% content-ref url="import-wallet-into-cosmostation.md" %}
 [import-wallet-into-cosmostation.md](import-wallet-into-cosmostation.md)
 {% endcontent-ref %}
-
-#### 使用 Cosmostation 註冊 ISCN、收藏與出版 Writing NFT 及使用 depub.space：
-
-{% content-ref url="../../../depub/what-is-iscn/app.like.co/" %}
-[app.like.co](../../../depub/what-is-iscn/app.like.co/)
-{% endcontent-ref %}
-
-{% content-ref url="../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
-[collect-writing-nft-on-desktop.md](../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../../depub/nft-portal/" %}
-[nft-portal](../../../depub/nft-portal/)
-{% endcontent-ref %}
-
-{% content-ref url="../../../user-guide/depub.space/" %}
-[depub.space](../../../user-guide/depub.space/)
-{% endcontent-ref %}
-
-#### 在 Osmosis 交易 LikeCoin，獲得得流動性挖礦獎勵：
-
-{% content-ref url="../../trade/trade-in-osmosis.md" %}
-[trade-in-osmosis.md](../../trade/trade-in-osmosis.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../liquidity/" %}
-[liquidity](../../liquidity/)
-{% endcontent-ref %}

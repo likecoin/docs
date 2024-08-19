@@ -42,22 +42,6 @@ Web3 唯一的非託管超級錢包。使用 Leap 是傳送、互換和委託密
 [import-wallet-into-leap.md](import-wallet-into-leap.md)
 {% endcontent-ref %}
 
-#### 使用 Leap 收藏 Writing NFT：
-
-{% content-ref url="../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
-[collect-writing-nft-on-desktop.md](../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md)
-{% endcontent-ref %}
-
-#### 在 Osmosis 交易 LikeCoin，獲得得流動性挖礦獎勵：
-
-{% content-ref url="../../trade/trade-in-osmosis.md" %}
-[trade-in-osmosis.md](../../trade/trade-in-osmosis.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../liquidity/" %}
-[liquidity](../../liquidity/)
-{% endcontent-ref %}
-
 ## Leap 手機錢包
 
 Leap 亦推出了手機錢包，功能與 Leap 瀏覽器擴充功能相同，由於仍處於率先試用階段，更多詳情請參看 [Leap 官網](https://www.leapwallet.io/)。

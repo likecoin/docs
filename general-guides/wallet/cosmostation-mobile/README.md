@@ -41,17 +41,3 @@ description: Cosmostation 手機版
 {% content-ref url="import-wallet-into-cosmostation-app.md" %}
 [import-wallet-into-cosmostation-app.md](import-wallet-into-cosmostation-app.md)
 {% endcontent-ref %}
-
-#### 使用 Cosmostation 手機錢包註冊 ISCN、收藏及出版 Writing NFT、：
-
-{% content-ref url="../../../depub/what-is-iscn/app.like.co/" %}
-[app.like.co](../../../depub/what-is-iscn/app.like.co/)
-{% endcontent-ref %}
-
-{% content-ref url="../../../depub/collect-writing-nft/collect-writing-nft-on-mobile.md" %}
-[collect-writing-nft-on-mobile.md](../../../depub/collect-writing-nft/collect-writing-nft-on-mobile.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../../depub/nft-portal/" %}
-[nft-portal](../../../depub/nft-portal/)
-{% endcontent-ref %}
