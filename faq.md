@@ -13,7 +13,7 @@ description: LikeCoin 常見問題
 * [有媒體報導可以參詳嗎？](general-guides/on-the-news.md)
 * [LikeCoin 有提供品牌形象指引和相關素材下載麼？](branding.md)
 * [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
-* [想與社群及更多用戶聯繫分享經驗，有渠道嗎？](faq.md#she-qun)
+* [想與社群及更多用戶聯繫分享經驗，有渠道嗎？](general-guides/community/)
 
 ## [Writing NFT](depub/writing-nft.md)
 
@@ -42,7 +42,6 @@ description: LikeCoin 常見問題
 
 * [有沒有去中心化的錢包可以提供？](general-guides/wallet/)
 * [如何轉帳 LikeCoin？](general-guides/wallet/like-pay.md)
-* [LikeCoin 支援硬件錢包嗎？](archive/archive/wallet/hardware-wallet.md)
 * [LikeCoin 有沒有多重簽署錢包？](general-guides/wallet/multisig.md)
 * [如何找到自己的錢包地址？](general-guides/wallet/wallet-address.md)
 * [LikeCoin 有區塊鏈瀏覽器嗎？](general-guides/wallet/block-explorer/)
@@ -88,7 +87,7 @@ description: LikeCoin 常見問題
 
 ### [讚賞公民](user-guide/civic-liker/)
 
-* [為何要成為讚賞公民？](faq.md#zan-shang-gong-min)
+* [為何要成為讚賞公民？](user-guide/civic-liker/)
 * [如何成為讚賞公民？](user-guide/civic-liker/be-a-civic-liker.md)
 * [有什麼福利嗎？](user-guide/civic-liker/rationale-and-benefits.md)
 
@@ -99,7 +98,7 @@ description: LikeCoin 常見問題
 * [無法以社交帳號登入 Liker ID，怎麼辦？不知何解無法登入嗎？試試重設密碼吧！](user-guide/liker-id/register/reset-password.md)
 * [可以匯出 Liker ID 私鑰嗎？](user-guide/liker-id/register/export-seed-words.md)
 
-### [LikeCoin button 讚賞鍵](faq.md#likecoin-button-zan-shang-jian)
+### [LikeCoin button 讚賞鍵](user-guide/creator/)
 
 * [如何在自架 WordPress 網站整合讚賞鍵功能並出版作品到區塊鏈？](user-guide/wordpress.md)
 * [LikeCoin button 讚賞鍵有什麼功能？](user-guide/creator/)
