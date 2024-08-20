@@ -64,13 +64,13 @@ description: 如何購買 NFT 電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 10.png" alt=""><figcaption><p>到我的書架查看收藏</p></figcaption></figure>
 
-## 步驟九：閱讀 NFT 電子書 <a href="#step-8" id="step-8"></a>
+## 步驟九：閱讀 NFT 電子書 <a href="#read-nft-ebook" id="read-nft-ebook"></a>
 
-用戶可點「打開書本」打開電子書直接閱讀。
+用戶可點「打開書本」打開其中一種格式的 NFT 電子書直接閱讀。
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 11.png" alt=""><figcaption><p>直接閱讀 NFT 電子書</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect NFT Book 11.png" alt=""><figcaption><p>打開其中一種格式的 NFT 電子書直接閱讀</p></figcaption></figure>
 
-## 步驟九：下載 NFT 電子書檔 <a href="#step-8" id="step-8"></a>
+## 步驟十：下載 NFT 電子書檔 <a href="#download-nft-ebook" id="download-nft-ebook"></a>
 
 如所購買 NFT 電子書的作者容許下載電子書檔案，點右上角下載圖示即可下載書檔。
 
