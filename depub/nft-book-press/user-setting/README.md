@@ -4,7 +4,7 @@ description: 加入及更改用戶設定，參與 Affiliation Program
 
 # 用戶設定
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，點「Manage User Setting」，進入網站後按右上角「Connect Wallet」連結 Keplr。
+到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，點「Manage User Setting」，進入網站後按右上角「Connect Wallet」連結結錢包。
 
 <figure><img src="../../../.gitbook/assets/Manage User Setting 1.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Manage User Setting」</p></figcaption></figure>
 

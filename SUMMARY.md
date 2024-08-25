@@ -11,7 +11,7 @@
 * [Writing NFT 常見問題](depub/writing-nft.md)
 * [出版電子書](depub/nft-book-press/README.md)
   * [管理電子書](depub/nft-book-press/nft-book-store.md)
-  * [設定 NFT 電子書套裝](depub/nft-book-press/collection.md)
+  * [設定電子書套裝](depub/nft-book-press/collection.md)
   * [用戶設定](depub/nft-book-press/user-setting/README.md)
     * [設定 Stripe 帳戶](depub/nft-book-press/user-setting/stripe.md)
   * [補書上架](depub/nft-book-press/replenishment.md)
