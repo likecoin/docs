@@ -22,7 +22,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 4. [管理電子書](nft-book-store.md)
 5. [設定電子書套裝](collection.md)
-6. [NFT Book Press 用戶設定](user-setting/)
+6. [NFT Book Press 用戶設定](user-setting.md)
 7. [補書上架](replenishment.md)
 8. [設置 Liker Land 書店作者簡介](./#creators-introduction)
 9. [發送電子書及群發 NFT 紀念品到多個錢包](./#fa-song-nft-ji-qun-fa-nft-ji-nian-pin-dao-duo-ge-qian-bao)
@@ -202,8 +202,8 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 
 連結 Stripe 帳戶，點擊後將開始連結 Stripe 帳戶，詳見：
 
-{% content-ref url="user-setting/stripe.md" %}
-[stripe.md](user-setting/stripe.md)
+{% content-ref url="user-setting.md" %}
+[user-setting.md](user-setting.md)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 27.png" alt=""><figcaption><p>Connect to a Stripe Account</p></figcaption></figure>
@@ -290,8 +290,8 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 
 ## 修改用戶設定 <a href="#creators-introduction" id="creators-introduction"></a>
 
-{% content-ref url="user-setting/" %}
-[user-setting](user-setting/)
+{% content-ref url="user-setting.md" %}
+[user-setting.md](user-setting.md)
 {% endcontent-ref %}
 
 ## 設置 Liker Land 書店作者簡介 <a href="#creators-introduction" id="creators-introduction"></a>
