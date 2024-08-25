@@ -16,7 +16,7 @@ description: 電子書太好賣了，怎樣上架更多
 
 到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，點「Mint NFT」，進入網站後按右上角「Connect Wallet」連結 Keplr。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
 
 在 Enter ISCN ID or NFT Class ID 一欄輸入 **NFT Class ID**，輸入完成後點「Submit」。
 
