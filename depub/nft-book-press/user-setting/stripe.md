@@ -4,9 +4,9 @@ description: 如何連接 Stripe 帳戶
 
 # 設定 Stripe 帳戶
 
-以下將介紹如何連接 Stripe 帳戶 以提現，更多詳情請參考[上架 Liker Land NFT 電子書的常見問題](../nft-book-press-faq.md)。
+以下將介紹如何連接 Stripe 帳戶 以提現，更多詳情請參考[上架 Liker Land 電子書的常見問題](../nft-book-press-faq.md)。
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，點「Manage Stripe Account」，進入網站後按右上角「Connect Wallet」連結 Keplr。
+到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Connect Wallet」連結錢包，再點「Manage Stripe Account」。
 
 ## Stripe Connect Status
 
