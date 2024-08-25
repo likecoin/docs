@@ -55,14 +55,14 @@ Pending Action 顯示有多少項目尚待處理、Sold 售賣數據及 Stocks �
 
 點「Add New」設定優惠券：
 
-<figure><img src="../../.gitbook/assets/Manage NFT Books 9.png" alt=""><figcaption><p>Coupon Codes</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage NFT Books 9.png" alt=""><figcaption><p>點「Add New」設定優惠券</p></figcaption></figure>
 
 * Coupon Code - 設定優惠券的名稱
 * Discount Multiplier - 優惠幅度，例如 10% 即九折優惠
 * Expiry Date - 優惠結束期限
 * 設定完成後點「Add」加入優惠券。
 
-<figure><img src="../../.gitbook/assets/Manage NFT Books 6.png" alt=""><figcaption><p>Coupon Codes</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage NFT Books 6.png" alt=""><figcaption><p>New Coupon</p></figcaption></figure>
 
 ### Copy Purchase Link
 

@@ -8,7 +8,7 @@ description: 加入及更改用戶設定，參與 Affiliation Program
 
 仍未設定 Stripe 帳戶將顯示「No」。建議逐一完成 Book Affiliation Program 及 Stripe Connect 設定以收取售書貨款及電郵通知。
 
-<figure><img src="../../.gitbook/assets/Manage Stripe Account 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage Stripe Account 1.png" alt=""><figcaption><p>User Setting</p></figcaption></figure>
 
 ### Book Affiliation Program
 
@@ -21,6 +21,12 @@ description: 加入及更改用戶設定，參與 Affiliation Program
 {% content-ref url="../../user-guide/liker-id/register/verifying-email-address.md" %}
 [verifying-email-address.md](../../user-guide/liker-id/register/verifying-email-address.md)
 {% endcontent-ref %}
+
+完成設定後在任何 NFT 電子書網址連結附加 `?from=@[Liker ID]`，即可從書籍銷售中獲得佣金。舉例：
+
+* Liker ID 是 `ckxpress`
+* NFT 電子書的連結是 https://liker.land/zh-Hant/nft/class/likenft19symzw3xmh42gukzts858wf6rsdkn6e4jtc9wp8jh4kphfmffy5s6acyxg
+* 專屬連結就是 https://liker.land/zh-Hant/nft/class/likenft19symzw3xmh42gukzts858wf6rsdkn6e4jtc9wp8jh4kphfmffy5s6acyxg?from=@ckxpress
 
 ### Stripe Connect Status
 
@@ -61,10 +67,6 @@ Stripe 審批完成後 Setup Completed 將轉為「Yes」。
 你可以隨時點「Login to Stripe account」查看或修改資料。
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 19.png" alt=""><figcaption><p>點「Login to Stripe account」查看或修改資料</p></figcaption></figure>
-
-
-
-
 
 ### Book Sales Commission History
 
