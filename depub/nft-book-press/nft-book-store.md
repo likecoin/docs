@@ -6,7 +6,7 @@ description: 管理已出版的電子書
 
 書籍出版後想了解銷售概況或進行更多設定，可使用 Manage NFT Books 功能。除了上架電子書的設定，更提供各種額外管理功能。
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Connect Wallet」連結結錢包，再點「Manage NFT Books」，
+到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Sign in」連結結錢包，再點「Manage NFT Books」，
 
 ### NFT Book Listing - Current Listing
 

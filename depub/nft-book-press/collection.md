@@ -6,7 +6,7 @@ description: 設定電子書套裝銷售
 
 電子書套裝結合多本電子書成為套裝銷售，適合系列叢書或各種促銷之用。
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Connect Wallet」連結錢包，再點「Manage Book Collection」，
+到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Sign in」連結錢包，再點「Manage Book Collection」，
 
 ### NFT Book Collections
 

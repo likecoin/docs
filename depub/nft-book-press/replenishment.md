@@ -14,9 +14,7 @@ description: 電子書太好賣了，怎樣上架更多
 
 ## 步驟二：鑄造更多 NFT 電子書 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，點「Mint NFT」，進入網站後按右上角「Connect Wallet」連結 Keplr。
-
-<figure><img src="broken-reference" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
+到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Sign in」連結錢包，再點「Mint NFT」。
 
 在 Enter ISCN ID or NFT Class ID 一欄輸入 **NFT Class ID**，輸入完成後點「Submit」。
 

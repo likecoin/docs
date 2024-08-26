@@ -4,7 +4,7 @@ description: 加入及更改用戶設定，參與 Affiliation Program
 
 # 用戶設定
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Connect Wallet」連結錢包，再點「User Setting」。
+到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Sign in」連結錢包，再點「User Setting」。
 
 仍未設定 Stripe 帳戶將顯示「No」。建議逐一完成 Book Affiliation Program 及 Stripe Connect 設定以收取售書貨款及電郵通知。
 
@@ -22,10 +22,10 @@ description: 加入及更改用戶設定，參與 Affiliation Program
 [verifying-email-address.md](../../user-guide/liker-id/register/verifying-email-address.md)
 {% endcontent-ref %}
 
-完成設定後在任何 NFT 電子書網址連結附加 `?from=@[Liker ID]`，即可從書籍銷售中獲得佣金。舉例：
+完成設定後在任何電子書網址連結附加 `?from=@[Liker ID]`，即可從書籍銷售中獲得佣金。舉例：
 
 * Liker ID 是 `ckxpress`
-* NFT 電子書的連結是 https://liker.land/zh-Hant/nft/class/likenft19symzw3xmh42gukzts858wf6rsdkn6e4jtc9wp8jh4kphfmffy5s6acyxg
+* NFT的連結是 https://liker.land/zh-Hant/nft/class/likenft19symzw3xmh42gukzts858wf6rsdkn6e4jtc9wp8jh4kphfmffy5s6acyxg
 * 專屬連結就是 https://liker.land/zh-Hant/nft/class/likenft19symzw3xmh42gukzts858wf6rsdkn6e4jtc9wp8jh4kphfmffy5s6acyxg?from=@ckxpress
 
 ### Stripe Connect Status

@@ -4,7 +4,7 @@ description: 產生書店 Affiliation Link 以作速銷
 
 # Affiliation Link
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Connect Wallet」連結錢包，再點「Affiliation Link」。
+到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Sign in」連結錢包，再點「Affiliation Link」。
 
 ## Generate Affiliation Links
 
