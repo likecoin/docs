@@ -44,6 +44,6 @@ description: 電子書太好賣了，怎樣上架更多
 
 ## 步驟五：修改可供銷售的 NFT 電子書數量 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-直接在 Total number of NFT ebook/edition for sale 修改可供銷售的 NFT 電子書數量，再點「Save Changes」即可補書上架。
+直接在 Total number of NFT for sale of this book 修改可供銷售的 NFT 電子書數量，再點「Save Changes」即可補書上架。
 
-<figure><img src="../../.gitbook/assets/Add Books 5.png" alt=""><figcaption><p>在 Total number of NFT ebook/edition for sale 修改可供銷售的 NFT 電子書數量</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Add Books 5.png" alt=""><figcaption><p>在 Total number of NFT for sale of this book 修改可供銷售的 NFT 電子書數量</p></figcaption></figure>

@@ -5,7 +5,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 # 出版電子書
 
 {% hint style="info" %}
-出版前可參考 [上架 Liker Land 電子書的常見問題](nft-book-press-faq.md)
+出版前可參考 [上架 Liker Land 電子書的常見問題](faq.md)
 {% endhint %}
 
 {% hint style="info" %}
@@ -27,8 +27,8 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 8. [設置 Liker Land 書店作者簡介](./#creators-introduction)
 9. [發送電子書及群發 NFT 紀念品到多個錢包](./#fa-song-nft-ji-qun-fa-nft-ji-nian-pin-dao-duo-ge-qian-bao)
 10. [匯入 EPUB 檔案到各家閱讀器](./#ereader)
-11. [修改已出版的電子書資料](modify-ebook.md)
-12. [銷毁已出版的電子書](burn-ebook.md)
+11. [修改已出版的電子書資料](modify.md)
+12. [銷毁已出版的電子書](burn.md)
 
 參看短片了解出版原理（留意以下影片使用 Keplr 登入，如使用 Email/Social 登入流程將更為簡單）：
 
@@ -173,7 +173,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 ### Pricing and Availability
 
 * Unit Price in USD (Minimum 0.99 or 0 for free) - 最低價格為 0.9 美金，又或者輸入 0 代表免費送出
-* Total number of NFT ebook/edition for sale - 填寫這一個版本的電子書銷售數量。假設你鑄造了 10 本書，可以設定 5 本書為版本一、另外 5 本書為版本二之類。點下方的「Add Edition」可加入多個不同版本。留意每一個版本可供銷售的電子書數量加起來不能多於已鑄造的數量。
+* Total number of NFT ebook for sale - 填寫這一個版本的電子書銷售數量。假設你鑄造了 10 本書，可以設定 5 本書為版本一、另外 5 本書為版本二之類。點下方的「Add Edition」可加入多個不同版本。留意每一個版本可供銷售的電子書數量加起來不能多於已鑄造的數量。
 * Delivery method of this book - 可選擇兩種不同傳送電子書的方式：
   1. Automatic deliver NFT - 自動傳送電子書給讀者。選項一經設定，不能修改。
      * Memo of this book - 如選擇自動傳送電子書給讀者，於傳送時自動加入給讀者的話。
