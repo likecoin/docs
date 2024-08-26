@@ -70,6 +70,6 @@ Stripe 審批完成後 Setup Completed 將轉為「Yes」。
 
 ### Book Sales Commission History
 
-完成設定後的狀態。在 Book Sales Commission History 我參看佣金狀態。
+完成設定後的狀態。在 Book Sales Commission History 可參看佣金狀態。
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 20.png" alt=""><figcaption><p>已完成所有設定</p></figcaption></figure>
