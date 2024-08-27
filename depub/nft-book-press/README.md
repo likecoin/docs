@@ -23,12 +23,13 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 4. [管理電子書](nft-book-store.md)
 5. [設定電子書套裝](collection.md)
 6. [NFT Book Press 用戶設定](user.md)
-7. [補書上架](replenishment.md)
-8. [設置 Liker Land 書店作者簡介](./#creators-introduction)
-9. [發送電子書及群發 NFT 紀念品到多個錢包](./#fa-song-nft-ji-qun-fa-nft-ji-nian-pin-dao-duo-ge-qian-bao)
-10. [匯入 EPUB 檔案到各家閱讀器](./#ereader)
-11. [修改已出版的電子書資料](modify.md)
-12. [銷毁已出版的電子書](burn.md)
+7. [設定 Affiliation Link](affiliation-link.md)
+8. [補書上架](replenishment.md)
+9. [修改已出版的電子書資料](modify.md)
+10. [銷毁已出版的電子書](burn.md)
+11. [發送電子書及群發 NFT 紀念品到多個錢包](../transfer-writing-nft/)
+12. [匯入 EPUB 檔案到各家閱讀器](./#ereader)
+13. [設置 Liker Land 書店作者簡介](../../user-guide/liker-id/edit-avatar-displayname.md)
 
 參看短片了解出版原理（留意以下影片使用 Keplr 登入，如使用 Email/Social 登入流程將更為簡單）：
 
@@ -273,46 +274,6 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 <figure><img src="../../.gitbook/assets/NFT Book Press 25.png" alt=""><figcaption><p>電子書經已成功上架</p></figcaption></figure>
 
 ***
-
-你可以繼續：
-
-## 管理電子書 <a href="#creators-introduction" id="creators-introduction"></a>
-
-{% content-ref url="nft-book-store.md" %}
-[nft-book-store.md](nft-book-store.md)
-{% endcontent-ref %}
-
-## 設定電子書套裝 <a href="#creators-introduction" id="creators-introduction"></a>
-
-{% content-ref url="collection.md" %}
-[collection.md](collection.md)
-{% endcontent-ref %}
-
-## 修改用戶設定 <a href="#creators-introduction" id="creators-introduction"></a>
-
-{% content-ref url="user.md" %}
-[user.md](user.md)
-{% endcontent-ref %}
-
-## 設置 Liker Land 書店作者簡介 <a href="#creators-introduction" id="creators-introduction"></a>
-
-建議設置創作者個人簡介、圖片及顯示名稱讓你的支持者更加了解你。
-
-{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
-[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
-{% endcontent-ref %}
-
-## 發送電子書及群發 NFT 禮物到多個錢包 <a href="#transfer-nft-ebook" id="transfer-nft-ebook"></a>
-
-將作品發送到個別錢包又或者將電子書作為禮物群發到多個錢包。
-
-{% content-ref url="../transfer-writing-nft/" %}
-[transfer-writing-nft](../transfer-writing-nft/)
-{% endcontent-ref %}
-
-{% content-ref url="nft-book-store.md" %}
-[nft-book-store.md](nft-book-store.md)
-{% endcontent-ref %}
 
 ## 匯入 EPUB 檔案到各家閱讀器 <a href="#ereader" id="ereader"></a>
 

@@ -10,13 +10,13 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 顧名思義，Writing NFT 是一種非同質化代幣 (NFT)，代表著某篇文字作品的所有權，像是文章或任何其他形式的文字，無論附帶插圖與否。換句話說，它是證明某段數位文字內容所有權的證據。
 
-在技術上，Writing NFT 函蓋所有文字類型 NFT，包括文章 NFT 及 NFT 電子書；在稱呼上如沒有特別說明，則泛指文章 NFT。
+在技術上，Writing NFT 函蓋所有文字類型 NFT，包括文章 NFT 及電子書；在稱呼上如沒有特別說明，則泛指文章 NFT。
 
 ### 如何購買 Writing NFT？
 
-你可以幾種方式收藏 NFT 電子書及文章 NFT：
+你可以幾種方式收藏電子書及文章 NFT：
 
-* 到 Liker Land NFT 書店查看，那裡有 [NFT 電子書](https://liker.land/zh-Hant/store)及[文章 NFT](https://liker.land/zh-Hant/store/articles)。
+* 到 Liker Land NFT 書店查看，那裡有[電子書](https://liker.land/zh-Hant/store)及[文章 NFT](https://liker.land/zh-Hant/store/articles)。
 * 參觀作者或收藏家的 [書架](liker-land-web/bookshelf.md) 頁面，並在那裡購買 NFT。
 * 尋找嵌入您感興趣內容的 [NFT 小部件](nft-portal/nft-widget.md)。
 
@@ -44,9 +44,9 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 系統會[根據供需情況自行調節賣價](collect-writing-nft/dynamic-pricing.md)，作者不用設定售價，讀者也不用設定買價。當一定數量的 NFT 售出後，售價便會調升；有人在[二級市場](collect-writing-nft/nft-marketplace.md)放售，售價便會回落。
 
-### 如何發售 NFT 電子書？
+### 如何發售電子書？
 
-使用 [LikeCoin NFT Book Press](nft-book-press/)  可出版 NFT 電子書。
+使用 [LikeCoin NFT Book Press](nft-book-press/)  可出版電子書。
 
 ### 如何發售文章 NFT？
 

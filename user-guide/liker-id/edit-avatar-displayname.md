@@ -44,7 +44,7 @@ description: 讓自己的性格更特出
 
 修改完成後，你的資訊會在 [Liker Land](https://github.com/warner/python-spake2) 的各種使用場景中顯示：
 
-### 書架
+### 我的書架
 
 {% content-ref url="../../depub/liker-land-web/bookshelf.md" %}
 [bookshelf.md](../../depub/liker-land-web/bookshelf.md)

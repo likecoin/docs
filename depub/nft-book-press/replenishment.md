@@ -4,15 +4,15 @@ description: 電子書太好賣了，怎樣上架更多
 
 # 補書上架
 
-補書上架跟平常上架 NFT 電子書的方式類同，只是有一點要注意。
+補書上架跟平常上架電子書的方式類同，只是有一點要注意。
 
 ## 步驟一：預備補書的 NFT Class ID <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-到 Liker Land 書店瀏覽已出版的 NFT 電子書並記下 https://liker.land/zh-Hant/nft/class/ 後 like 開頭的一串文字與數字，這便是 NFT Class ID。
+到 Liker Land 書店瀏覽已出版的電子書並記下 https://liker.land/zh-Hant/nft/class/ 後 like 開頭的一串文字與數字，這便是 NFT Class ID。
 
 <figure><img src="../../.gitbook/assets/Add Books 1.png" alt=""><figcaption><p>找出 NFT Class ID</p></figcaption></figure>
 
-## 步驟二：鑄造更多 NFT 電子書 <a href="#mint-nft-book" id="mint-nft-book"></a>
+## 步驟二：鑄造更多電子書 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
 到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Sign in」連結錢包，再點「Mint NFT」。
 
@@ -32,7 +32,7 @@ description: 電子書太好賣了，怎樣上架更多
 
 ## 步驟四：選擇補書版本 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-點 Current Listing 顯示現時已上架的 NFT 電子書，點需要補書的 NFT 電子書以進行管理。
+點 Current Listing 顯示現時已上架的電子書，點需要補書的電子書以進行管理。
 
 <figure><img src="../../.gitbook/assets/Manage NFT Books 1.png" alt=""><figcaption><p>Current Listing</p></figcaption></figure>
 
@@ -42,8 +42,8 @@ description: 電子書太好賣了，怎樣上架更多
 
 <figure><img src="../../.gitbook/assets/Add Books 4.png" alt=""><figcaption><p>點 Editions</p></figcaption></figure>
 
-## 步驟五：修改可供銷售的 NFT 電子書數量 <a href="#mint-nft-book" id="mint-nft-book"></a>
+## 步驟五：修改可供銷售的電子書數量 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-直接在 Total number of NFT for sale of this book 修改可供銷售的 NFT 電子書數量，再點「Save Changes」即可補書上架。
+直接在 Total number of NFT for sale of this book 修改可供銷售的電子書數量，再點「Save Changes」即可補書上架。
 
-<figure><img src="../../.gitbook/assets/Add Books 5.png" alt=""><figcaption><p>在 Total number of NFT for sale of this book 修改可供銷售的 NFT 電子書數量</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Add Books 5.png" alt=""><figcaption><p>在 Total number of NFT for sale of this book 修改可供銷售的電子書數量</p></figcaption></figure>
