@@ -180,7 +180,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
      * Memo of this book - 如選擇自動傳送電子書給讀者，於傳送時自動加入給讀者的話。
   2. Sign memo and manually deliver each NFT - 自行簽署並手動傳送電子書給讀者：
      * Is Physical only good - 如選擇自行簽署會彈出此選項詢問書籍是否只包含實體版本，並出現 This edition does not contain digital file/NFT。如選取，則代表此版本不提供電子書檔，並將由作者寄出實體書。並請於 Advanced Settings 加入郵費選項。
-* Allow custom price - 設定讀者購買電子書的時候可[額外支持作者](../nft-ebook/)。
+* Allow custom price - 設定讀者購買電子書的時候可[額外支持作者](../ebook/)。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23.png" alt=""><figcaption><p>在 Pricing and Availability 輸入各種內容</p></figcaption></figure>
 

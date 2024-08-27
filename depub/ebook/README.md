@@ -1,10 +1,10 @@
 ---
-description: 如何購買 NFT 電子書
+description: 如何購買電子書
 ---
 
-# 購買 NFT 電子書
+# 購買電子書
 
-無論有沒有區塊鏈錢包，使用桌機或手機，購買 NFT 電子書同樣方便。
+無論有沒有區塊鏈錢包，使用桌機或手機，購買電子書同樣方便。
 
 ## 步驟一：開始購買 <a href="#step-1" id="step-1"></a>
 
@@ -24,9 +24,9 @@ description: 如何購買 NFT 電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 3.png" alt=""><figcaption><p>在 Stripe 付款頁面輸入資料</p></figcaption></figure>
 
-## 步驟四：成功購買 NFT 電子書 <a href="#step-4" id="step-4"></a>
+## 步驟四：成功購買電子書 <a href="#step-4" id="step-4"></a>
 
-彈出感謝你的支持與購買頁面，點「開始領取我的電子書」領取 NFT 電子書。與此同時你的電郵亦會收到領書電郵。
+彈出感謝你的支持與購買頁面，點「開始領取我的電子書」領取電子書。與此同時你的電郵亦會收到領書電郵。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 4.png" alt=""><figcaption><p>點「開始領取我的電子書」</p></figcaption></figure>
 
@@ -58,21 +58,21 @@ description: 如何購買 NFT 電子書
 
 ## 步驟八：成功領取電子書 <a href="#step-8" id="step-8"></a>
 
-出現你已成功領取電子書頁面，你也可以點「檢視收藏」查看已購買的 NFT 電子書。
+出現你已成功領取電子書頁面，你也可以點「檢視收藏」查看已購買的電子書。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 9.png" alt=""><figcaption><p>出現你已成功領取電子書頁面</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 10.png" alt=""><figcaption><p>到我的書架查看收藏</p></figcaption></figure>
 
-## 步驟九：閱讀 NFT 電子書 <a href="#read-nft-ebook" id="read-nft-ebook"></a>
+## 步驟九：閱讀電子書 <a href="#read-nft-ebook" id="read-nft-ebook"></a>
 
-用戶可點「打開書本」打開其中一種格式的 NFT 電子書直接閱讀。
+用戶可點「打開書本」打開其中一種格式的電子書直接閱讀。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 11.png" alt=""><figcaption><p>打開其中一種格式的 NFT 電子書直接閱讀</p></figcaption></figure>
 
-## 步驟十：下載 NFT 電子書檔 <a href="#download-nft-ebook" id="download-nft-ebook"></a>
+## 步驟十：下載電子書檔 <a href="#download-nft-ebook" id="download-nft-ebook"></a>
 
-如所購買 NFT 電子書的作者容許下載電子書檔案，點右上角下載圖示即可下載書檔。
+如所購買電子書的作者容許下載電子書檔案，點右上角下載圖示即可下載書檔。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>下載書檔</p></figcaption></figure>
 
