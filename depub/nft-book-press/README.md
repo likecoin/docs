@@ -5,7 +5,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 # 出版電子書
 
 {% hint style="info" %}
-出版前可參考 [上架 Liker Land 電子書的常見問題](faq.md)
+出版前可參考 [上架 Liker Land 電子書的常見問題](../faq.md)
 {% endhint %}
 
 {% hint style="info" %}
@@ -27,7 +27,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 8. [補書上架](replenishment.md)
 9. [修改已出版的電子書資料](modify.md)
 10. [銷毁已出版的電子書](burn.md)
-11. [發送電子書及群發 NFT 紀念品到多個錢包](../transfer-writing-nft/)
+11. [發送電子書及群發 NFT 紀念品到多個錢包](../transfer-writing-nft.md)
 12. [匯入 EPUB 檔案到各家閱讀器](./#ereader)
 13. [設置 Liker Land 書店作者簡介](../../user-guide/liker-id/edit-avatar-displayname.md)
 

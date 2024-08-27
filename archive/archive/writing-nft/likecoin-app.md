@@ -113,7 +113,7 @@ LikeCoin app 將彈出簽名請求視窗，點「允許」。往後的步驟看�
 {% hint style="info" %}
 任何作者也能把 Writing NFT 設成「非賣品」，方法是填寫 “Number of NFTs to premint” 的數量**等同**於 “Number of NFTs reserved for giveaways”，即代表作者預留全數 NFT 作送贈之用，便能達到設定 NFT 成「非賣品」 的效果，因為已出版的 NFT 都被作者預留而不會於市面流通。作者預留了的 Writing NFT ，免費送出或經二級市場售賣均可。
 
-預留 NFT 與 Free Mint 不同之處是前者所有已鑄造 NFT 均由創作者自行保留並[發送](../../../depub/transfer-writing-nft/)，而後者則是由收藏者自行鑄造並透過系統自動發送開去。
+預留 NFT 與 Free Mint 不同之處是前者所有已鑄造 NFT 均由創作者自行保留並[發送](../../../depub/transfer-writing-nft.md)，而後者則是由收藏者自行鑄造並透過系統自動發送開去。
 {% endhint %}
 
 ## 步驟 4/4：完成簽署 <a href="#sign" id="sign"></a>

@@ -2,7 +2,7 @@
 description: 電子書出版大哉問
 ---
 
-# 上架 Liker Land NFT 電子書的常見問題
+# 上架電子書的常見問題
 
 [Book Press](https://likecoin.github.io/nft-book-press/) 為 [Liker Land](https://liker.land/zh-Hant) 提供的提供的自助上架服務。我們提供作者 / 出版者上架販售，讓作者自行出版，也可以作為出版社擔任發行的角色，因此您除了是作者外，亦是您作品的出版者（出版社）Liker Land 則為販售您作品的電子書服務，不佔任何作品版權，也不會要求分成作品於其他平台銷售所得的利潤。\
 \
@@ -56,7 +56,7 @@ Liker Land 只負責將您的作品代理經銷至我們的平台，電子書的
 
 ***
 
-## 關於上架 （[詳細教學](./)）
+## 關於上架 （[詳細教學](nft-book-press/)）
 
 ### 是否提供製作 EPUB 檔服務？
 

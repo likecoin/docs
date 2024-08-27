@@ -10,13 +10,9 @@ description: >-
 
 ## 步驟一：連接錢包
 
-到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
+到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../.gitbook/assets/Writing NFT 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
-
-點「登入」。
-
-<figure><img src="../../.gitbook/assets/Writing NFT 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 1 (1).png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 彈出視窗出現登入選項。或點「立即收藏」、「收集」、「收藏作品」或當前價格後選擇[電郵或社交登入](../../user-guide/liker-id/register/)、[Keplr](collect-writing-nft-on-desktop.md#keplr)、[Cosmostation](collect-writing-nft-on-desktop.md#cosmostation)、[Leap](collect-writing-nft-on-desktop.md#leap)、[Keplr mobile](collect-writing-nft-on-desktop.md#keplr-mobile)、[Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app)、[LikeCoin 手機應用程式](collect-writing-nft-on-desktop.md#likecoin-shou-ji-ying-yong-cheng-shi)等任何一種方式連結錢包，登入並購買 Writing NFT。
 

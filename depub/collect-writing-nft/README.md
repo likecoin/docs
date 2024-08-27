@@ -92,13 +92,9 @@ description: 如何收藏 Writing NFT
 
 ### 步驟三：查看已購買的 Writing NFT
 
-到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
+到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../.gitbook/assets/Writing NFT 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
-
-點「登入」。
-
-<figure><img src="../../.gitbook/assets/Writing NFT 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 1.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 彈出視窗出現 Email/Social 登入選項，點它登入 Liker Land。
 
@@ -122,11 +118,11 @@ description: 如何收藏 Writing NFT
 
 到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
 
-<figure><img src="../../.gitbook/assets/Writing NFT 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
 
 點「登入」。
 
-<figure><img src="../../.gitbook/assets/Writing NFT 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 彈出視窗出現登入選項，點它登入 Liker Land。
 
