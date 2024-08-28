@@ -8,15 +8,15 @@ description: 網頁版的 Liker Land
 
 <figure><img src="../../.gitbook/assets/Liker Land menu.png" alt=""><figcaption><p>Liker Land 操作選項</p></figcaption></figure>
 
-## 選項一：我的書架
+## 選項一：我的書架 - [https://liker.land/zh-Hant/bookshelf?tab=collected](https://liker.land/zh-Hant/bookshelf?tab=collected)
 
 連接用戶[我的書架](bookshelf.md)頁面。‌
 
-## 選項二：通知
+## 選項二：通知 - [https://liker.land/zh-Hant/notifications](https://liker.land/zh-Hant/notifications)
 
 查看最新[通知](notifications.md)。
 
-## 選項三：帳戶及設定
+## 選項三：帳戶及設定 - [https://liker.land/zh-Hant/settings/](https://liker.land/zh-Hant/settings/)
 
 <figure><img src="../../.gitbook/assets/Liker Land setting.png" alt=""><figcaption><p>帳戶及設定</p></figcaption></figure>
 
@@ -24,7 +24,7 @@ description: 網頁版的 Liker Land
 
 點錢包地址可複制它；寶石顯示所收集 NFT 的稀有度；並可查閱錢包內的 LIKE 餘額。
 
-<figure><img src="../../.gitbook/assets/Liker Land setting Liker ID.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land setting Liker ID.png" alt=""><figcaption><p>用戶資訊</p></figcaption></figure>
 
 ### 整體數據
 
