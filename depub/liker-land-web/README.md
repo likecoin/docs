@@ -16,7 +16,7 @@ description: 網頁版的 Liker Land
 
 查看最新[通知](notifications.md)。
 
-## 選項三：帳戶及設定 - [https://liker.land/zh-Hant/settings/](https://liker.land/zh-Hant/settings/)
+## 選項三：帳戶及設定 - [https://liker.land/zh-Hant/settings/](https://liker.land/zh-Hant/settings/) <a href="#account-and-settings" id="account-and-settings"></a>
 
 <figure><img src="../../.gitbook/assets/Liker Land setting.png" alt=""><figcaption><p>帳戶及設定</p></figcaption></figure>
 

@@ -66,8 +66,8 @@ description: 把任何網頁文章內容出版成 NFT
 
 ## 展示 NFT 小部件
 
-出版 Writing NFT 後可以 iframe 的方式把 [NFT 小部件](nft-widget.md)嵌入文章展示。
+出版 Writing NFT 後可以 iframe 的方式把 [NFT 小部件](../collect-writing-nft/nft-widget.md)嵌入文章展示。
 
-{% content-ref url="nft-widget.md" %}
-[nft-widget.md](nft-widget.md)
+{% content-ref url="../collect-writing-nft/nft-widget.md" %}
+[nft-widget.md](../collect-writing-nft/nft-widget.md)
 {% endcontent-ref %}

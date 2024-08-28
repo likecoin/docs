@@ -52,7 +52,7 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../.gitbook/assets/Buy NFT 3.png" alt=""><figcaption><p>NFT 展示櫃</p></figcaption></figure>
 
-於 [NFT 小部件](../nft-portal/nft-widget.md)點「收藏作品」；
+於 [NFT 小部件](nft-widget.md)點「收藏作品」；
 
 <figure><img src="../../.gitbook/assets/Buy NFT 4.png" alt=""><figcaption><p>NFT 小部件</p></figcaption></figure>
 

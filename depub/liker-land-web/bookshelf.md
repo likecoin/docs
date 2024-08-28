@@ -4,7 +4,7 @@ description: 展示 NFT 藏品
 
 # 我的書架
 
-我的書架包含以下功能：
+[我的書架](https://liker.land/zh-Hant/bookshelf?tab=collected)包含以下功能：
 
 ## 收藏
 
