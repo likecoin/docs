@@ -24,7 +24,7 @@ description: 要去哪裏下載 LikeCoin app？
 * [委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin/)
 * [成為讚賞公民](../civic-liker/be-a-civic-liker.md)
 
-## 選項二：NFT 電子書店
+## 選項二：電子書店
 
 * [潯覽書店](../../depub/ebook/)
 * [個人主頁](../../archive/archive/liker-land/dashboard.md)
