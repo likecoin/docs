@@ -26,8 +26,6 @@ LikeCoin NFT Marketplace 功能包括：
 
 <figure><img src="../../.gitbook/assets/LikeCoin NFT Marketplace 3.png" alt=""><figcaption><p>輸入價格 ( Price )、上架有效日期 ( Offer expiration ) 再點「Confirm」</p></figcaption></figure>
 
-####
-
 ### [**Latest Listing**](https://likecoin.github.io/likecoin-nft-marketplace/)
 
 查看二級市場最新上市的 NFT。

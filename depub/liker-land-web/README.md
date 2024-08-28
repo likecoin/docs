@@ -2,35 +2,39 @@
 description: 網頁版的 Liker Land
 ---
 
-# Liker Land 網頁介紹
+# Liker Land 網站介紹
 
 登入網頁版的 [https://Liker.Land](./#xuan-xiang-yi-wo-de-shu-jia-httpsliker.landdashboard) 後點右上角的頭像出現其他操作選項。​
 
 <figure><img src="../../.gitbook/assets/Liker Land menu.png" alt=""><figcaption><p>Liker Land 操作選項</p></figcaption></figure>
 
-## 選項一：瀏覽書店 - [https://liker.land/zh-Hant/store](https://liker.land/zh-Hant/store)
+## 選項一：我的書架
 
-書店展示精選 NFT 電子書。
+連接用戶[我的書架](bookshelf.md)頁面。‌
 
-## 選項二：熱門文章 - [https://liker.land/zh-Hant/store/articles](https://liker.land/zh-Hant/store/articles)
+## 選項二：通知
 
-熱門與最新的文章 NFT 推介。
+查看最新[通知](notifications.md)。
 
-## 選項三：個人主頁 - [https://liker.land/zh-Hant/feed?view=town](https://liker.land/zh-Hant/feed?view=town)
+## 選項三：帳戶及設定
 
-連接用戶[個人主頁](dashboard.md)頁面。‌
+<figure><img src="../../.gitbook/assets/Liker Land setting.png" alt=""><figcaption><p>帳戶及設定</p></figcaption></figure>
 
-## 選項四：我的書架 - https://liker.land/zh-Hant/\[錢包地址]?tab=collected
+### 用戶資訊
 
-連接用戶[書架](bookshelf.md)頁面。‌
+點錢包地址可複制它；寶石顯示所收集 NFT 的稀有度；並可查閱錢包內的 LIKE 餘額。
 
-## 選項五：發行 NFT - [https://app.like.co/nft/url](https://app.like.co/nft/url)
+<figure><img src="../../.gitbook/assets/Liker Land setting Liker ID.png" alt=""><figcaption></figcaption></figure>
 
-使用 [NFT Portal](../nft-portal/) 出版 NFT。
+### 整體數據
 
-## 選項六：設定 - [https://liker.land/zh-Hant/settings/](https://liker.land/zh-Hant/settings/)
+可查看個人的 NFT 的收藏、資產值 (LIKE)、創作數量及收藏者數量。點總銷售額 (LIKE) 可查看銷售收入、二手銷售及分潤。
 
-<figure><img src="../../.gitbook/assets/Liker Land settings.png" alt=""><figcaption><p>設定</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Dashboard 2.png" alt=""><figcaption><p>整體數據</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/My Dashboard Total Sales Sample 1.png" alt=""><figcaption><p>在我的書架點總銷售額 (LIKE) 可查看 NFT 的銷售收入、二手銷售及分潤</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/My Dashboard Total Sales Sample 2.png" alt=""><figcaption><p>分潤實例</p></figcaption></figure>
 
 ### 電郵 - [https://liker.land/zh-Hant/settings/email](https://liker.land/zh-Hant/settings/email)
 
