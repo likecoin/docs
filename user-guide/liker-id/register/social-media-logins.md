@@ -29,13 +29,9 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 ### 網頁版
 
-到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
+到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
-
-點「登入」。
-
-<figure><img src="../../../.gitbook/assets/Authcore 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 使用 Liker ID 以電郵/社交登入。
 

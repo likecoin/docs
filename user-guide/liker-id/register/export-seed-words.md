@@ -41,13 +41,9 @@ description: LikeCoin 錢包終於可以匯出助記詞
 
 ### 步驟一：到匯出錢包助記詞網址
 
-到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
+到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
-
-點「登入」。
-
-<figure><img src="../../../.gitbook/assets/Authcore 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 使用 Liker ID 以電郵/社交登入。
 
@@ -69,11 +65,7 @@ description: LikeCoin 錢包終於可以匯出助記詞
 
 ### 步驟三：重新登入 Liker Land
 
-以 [Keplr](../../../general-guides/wallet/keplr/) 或 [LikeCoin 手機應用程式](../../liker-land/download.md) 登入 [Liker Land](https://liker.land/)。
-
-<figure><img src="../../../.gitbook/assets/Seed Words 3pre.png" alt=""><figcaption></figcaption></figure>
-
-又或者點「切換舊介面」以電郵及密碼，又或者任何一種[社交帳號登入](social-media-logins.md)方式登入 [Liker Land](https://liker.land/)。
+以電郵及密碼，又或者任何一種[社交帳號登入](social-media-logins.md)方式重新登入 [Liker Land](https://liker.land/)。
 
 ![重新登入 Liker Land](<../../../.gitbook/assets/Seed Words 3.png>)
 

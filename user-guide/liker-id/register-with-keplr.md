@@ -40,37 +40,29 @@ description: 以 Keplr 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 ### 步驟二：登入 Keplr
 
-登入你的 Keplr 錢包，並到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
+登入你的 Keplr 錢包，並到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
-
-點「登入」。
-
-<figure><img src="../../.gitbook/assets/Authcore 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 彈出視窗出現 Keplr，點它登入 Liker Land。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>點 Keplr 登入 Liker Land</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 02.png" alt=""><figcaption><p>點 Keplr 登入 Liker Land</p></figcaption></figure>
 
-彈出 Keplr 視窗點「Approve」。
+彈出 Keplr 視窗點「Approve」，接下來出現 Keplr 視窗請一律點 Approve。
 
 <figure><img src="../../.gitbook/assets/Keplr Register Liker ID 04.png" alt=""><figcaption><p>彈出 Keplr 視窗點「Approve」</p></figcaption></figure>
 
 ### 步驟三：開始註冊
 
-於 [Liker Land](https://liker.land/) 登入後，點「[設定](https://liker.land/zh-Hant/settings/)」，然後點「Liker ID」。
+於 [Liker Land](https://liker.land/) 登入後，點「[帳戶及設定](https://liker.land/zh-Hant/settings/)」，然後點「Liker ID」。
 
 <figure><img src="../../.gitbook/assets/Keplr Register Liker ID 05.png" alt=""><figcaption><p>點「設定」</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Keplr Register Liker ID 06.png" alt=""><figcaption><p>點「Liker ID」</p></figcaption></figure>
 
-在註冊/登入點 Keplr Wallet。
+在註冊/登入再次登入 Keplr。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 03.png" alt=""><figcaption><p>在註冊/登入點 Keplr Wallet</p></figcaption></figure>
-
-彈出 Keplr 視窗，點「Approve」。
-
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 09.png" alt=""><figcaption><p>彈出 Keplr 視窗，點「Approve」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 08.png" alt=""><figcaption><p>在註冊/登入再次登入 Keplr</p></figcaption></figure>
 
 填寫你心儀 Liker ID 並點「確認」。
 
@@ -78,7 +70,7 @@ description: 以 Keplr 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 輸入顯示名稱及個人簡介再點「確認」。
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 08.png" alt=""><figcaption><p>輸入顯示名稱及個人簡介再點「確認」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 08 (1).png" alt=""><figcaption><p>輸入顯示名稱及個人簡介再點「確認」</p></figcaption></figure>
 
 Liker ID 將成功註冊並轉回 Liker Land 網頁。
 

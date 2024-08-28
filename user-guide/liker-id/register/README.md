@@ -58,13 +58,9 @@ LikeCoin 手機應用程式使用 Authcore 登入。什麼是 Authcore？[請參
 
 ## 在 Liker Land 網頁版以電郵或社交登入 ( Authcore ) 註冊 Liker ID <a href="#liker-land-web" id="liker-land-web"></a>
 
-到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
+到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
-
-點「登入」。
-
-<figure><img src="../../../.gitbook/assets/Authcore 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 使用 Liker ID 以電郵/社交登入。
 

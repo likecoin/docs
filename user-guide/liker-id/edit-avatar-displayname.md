@@ -18,13 +18,9 @@ description: 讓自己的性格更特出
 
 ### 網頁版
 
-到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
+到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
-
-點「登入」。
-
-<figure><img src="../../.gitbook/assets/Authcore 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 或 Keplr 登入。
 
@@ -32,7 +28,7 @@ description: 讓自己的性格更特出
 
 登入後點右上角頭像，點「設定」再點「Liker ID」。&#x20;
 
-<figure><img src="../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>點「設定」再點「Liker ID」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore Liker ID (1).png" alt=""><figcaption><p>點「設定」再點「Liker ID」</p></figcaption></figure>
 
 可「更改頭像」及「編輯電郵」。更改「顯示名稱」及簡介後務必點「儲存」。
 

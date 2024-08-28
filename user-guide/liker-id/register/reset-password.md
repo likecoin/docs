@@ -20,13 +20,9 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 先確保自己在登出狀態，你可以打開右上角的功能選單找到「登出」的選項。
 
-到 [Liker Land](https://liker.land/) 網站右上角點「瀏覽書店」。
+到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「瀏覽書店」</p></figcaption></figure>
-
-點「登入」。
-
-<figure><img src="../../../.gitbook/assets/Authcore 2.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 使用 Liker ID 以電郵/社交登入。
 
