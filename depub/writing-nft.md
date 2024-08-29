@@ -10,7 +10,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 顧名思義，Writing NFT 是一種非同質化代幣 (NFT)，代表著某篇文字作品的所有權，像是文章或任何其他形式的文字，無論附帶插圖與否。換句話說，它是證明某段數位文字內容所有權的證據。
 
-在技術上，Writing NFT 函蓋所有文字類型 NFT，包括文章 NFT 及電子書；在稱呼上如沒有特別說明，則泛指文章 NFT。
+在技術上，Writing NFT 涵蓋所有文字類型 NFT，包括文章 NFT 及電子書；在稱呼上如沒有特別說明，則泛指文章 NFT。
 
 ### 如何購買 Writing NFT？
 
