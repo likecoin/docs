@@ -36,9 +36,11 @@ description: 如何購買電子書
 
 ## 步驟四：信用卡付款 <a href="#step-4" id="step-4"></a>
 
-如選擇加入購物車，點頁面右上角購物車出現購物明細，確認無誤後點「以信用卡結帳」；如直接購買則直接跳轉至 Stripe 頁面。
+如選擇加入購物車，點頁面右上角購物車出現購物明細，確認無誤後點「以信用卡結帳」。
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 2b.png" alt=""><figcaption></figcaption></figure>
+如直接購買則直接跳轉至 Stripe 頁面。
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 2b.png" alt=""><figcaption><p>點「以信用卡結帳」</p></figcaption></figure>
 
 &#x20;在 Stripe 頁面，輸入電郵及信用卡資料後點「Pay」。如有額外打賞作者，將顯示 Extra Tip。
 
