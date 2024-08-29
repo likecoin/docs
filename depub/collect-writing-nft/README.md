@@ -48,7 +48,7 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../.gitbook/assets/Buy NFT 2.png" alt=""><figcaption><p>NFT 系列資訊頁面</p></figcaption></figure>
 
-又或者到作者的[書架](../liker-land-web/bookshelf.md)（網址為 https://liker.land/\[錢包地址] ）點 NFT 當前價格或「[一鍵收藏](./#yi-jian-shou-cang-writing-nft)」；
+又或者到作者的[書架](../liker-land/bookshelf.md)（網址為 https://liker.land/\[錢包地址] ）點 NFT 當前價格或「[一鍵收藏](./#yi-jian-shou-cang-writing-nft)」；
 
 <figure><img src="../../.gitbook/assets/Buy NFT 3.png" alt=""><figcaption><p>NFT 展示櫃</p></figcaption></figure>
 
@@ -100,7 +100,7 @@ description: 如何收藏 Writing NFT
 
 <figure><img src="../../.gitbook/assets/Writing NFT 3.png" alt=""><figcaption><p>登入 Liker Land</p></figcaption></figure>
 
-點頭像再選「[我的書架](../liker-land-web/bookshelf.md)」即可查看已購買的 NFT。
+點頭像再選「[我的書架](../liker-land/bookshelf.md)」即可查看已購買的 NFT。
 
 <figure><img src="../../.gitbook/assets/Buy NFT pay by card 7.png" alt=""><figcaption><p>在我的書架查看已購買的 Writing NFT</p></figcaption></figure>
 
@@ -142,7 +142,7 @@ description: 如何收藏 Writing NFT
 
 ### 步驟三：查看已購買的 Writing NFT
 
-出現「付款成功」並成功購買 Writing NFT。點「檢視 NFT」可查看已購買的 NFT 詳細內容或到[我的書架](../liker-land-web/bookshelf.md)查看已購買的 NFT。
+出現「付款成功」並成功購買 Writing NFT。點「檢視 NFT」可查看已購買的 NFT 詳細內容或到[我的書架](../liker-land/bookshelf.md)查看已購買的 NFT。
 
 <figure><img src="../../.gitbook/assets/Buy NFT Finish.png" alt=""><figcaption><p>成功購買 Writing NFT</p></figcaption></figure>
 

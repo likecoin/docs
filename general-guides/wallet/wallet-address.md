@@ -6,7 +6,7 @@ description: 如何查看及複製自己的 LikeCoin 錢包地址？
 
 ## Liker Land 網頁
 
-登入 [Liker Land](https://liker.land/) 後，直接到[帳戶及設定](../../depub/liker-land-web/#xuan-xiang-san-zhang-hu-ji-she-ding-httpsliker.landzhhantsettings)查看及點錢包地址複製。
+登入 [Liker Land](https://liker.land/) 後，直接到[帳戶及設定](../../depub/liker-land/#xuan-xiang-san-zhang-hu-ji-she-ding-httpsliker.landzhhantsettings)查看及點錢包地址複製。
 
 <figure><img src="../../.gitbook/assets/Liker Land Wallet Address.png" alt=""><figcaption><p>在 Liker Land 網頁複製錢包地址</p></figcaption></figure>
 

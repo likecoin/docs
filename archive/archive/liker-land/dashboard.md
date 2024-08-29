@@ -52,7 +52,7 @@ description: 展示 NFT 藏品庫
 
 ### 書架
 
-點書架直接連結至的[我的書架](../../../depub/liker-land-web/bookshelf.md)。
+點書架直接連結至的[我的書架](../../../depub/liker-land/bookshelf.md)。
 
 <figure><img src="../../../.gitbook/assets/Bookshelf.png" alt=""><figcaption><p>書架</p></figcaption></figure>
 

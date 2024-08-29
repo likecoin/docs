@@ -44,4 +44,4 @@ description: 購買電子書
 
 <figure><img src="../../../.gitbook/assets/bookforest 6.png" alt=""><figcaption><p>收到確認電郵</p></figcaption></figure>
 
-已購買的電子書將於「[我的書架](../../liker-land-web/bookshelf.md)」中展示。
+已購買的電子書將於「[我的書架](../../liker-land/bookshelf.md)」中展示。

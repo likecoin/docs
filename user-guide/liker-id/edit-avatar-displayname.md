@@ -42,8 +42,8 @@ description: 讓自己的性格更特出
 
 ### 我的書架
 
-{% content-ref url="../../depub/liker-land-web/bookshelf.md" %}
-[bookshelf.md](../../depub/liker-land-web/bookshelf.md)
+{% content-ref url="../../depub/liker-land/bookshelf.md" %}
+[bookshelf.md](../../depub/liker-land/bookshelf.md)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Portfolio Liker ID.png" alt=""><figcaption><p>書架</p></figcaption></figure>

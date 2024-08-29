@@ -24,13 +24,13 @@ description: NFT 好幫手
 
 ### [**Mint NFT**](https://likecoin.github.io/iscn-nft-tools/mint-nft)
 
-直接使用 ISCN ID 或 [NFT Class ID](liker-land-web/nft-details.md#nft-class-id) 鑄造 NFT，又或者提供 ISCN data JSON 檔案鑄造 NFT。
+直接使用 ISCN ID 或 [NFT Class ID](liker-land/nft-details.md#nft-class-id) 鑄造 NFT，又或者提供 ISCN data JSON 檔案鑄造 NFT。
 
 <figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools 4.png" alt=""><figcaption><p>Mint NFT</p></figcaption></figure>
 
 ### [**Send NFT**](https://likecoin.github.io/iscn-nft-tools/send-nft)
 
-傳送 NFT，可提供 NFT CSV 檔案進行群發，詳見[群發 NFT 紀念品給支持者](transfer-writing-nft.md#batch-send-nft-to-supporters)。
+傳送 NFT，可提供 NFT CSV 檔案進行群發，詳見[群發 NFT 紀念品給支持者](transfer-nft.md#batch-send-nft-to-supporters)。
 
 <figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools 2.png" alt=""><figcaption><p>Send NFT</p></figcaption></figure>
 
