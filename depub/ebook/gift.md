@@ -33,3 +33,15 @@ description: 贈書給親朋好友
 與此收禮者會收到電郵過知。當他/她領書後，你也會收到電郵通知。
 
 <figure><img src="../../.gitbook/assets/Gift 5.png" alt=""><figcaption><p>收到電郵過知</p></figcaption></figure>
+
+## 步驟五：閱讀電子書 <a href="#read-ebook" id="read-ebook"></a>
+
+領書後可點「打開書本」打開其中一種格式的電子書直接閱讀。
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 11.png" alt=""><figcaption><p>打開其中一種格式的 NFT 電子書直接閱讀</p></figcaption></figure>
+
+## 步驟六：下載電子書檔 <a href="#download-ebook" id="download-ebook"></a>
+
+如所購買電子書的作者容許下載電子書檔案，點右上角下載圖示即可下載書檔。
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>下載書檔</p></figcaption></figure>

@@ -8,6 +8,16 @@ description: 如何購買電子書
 
 ## 步驟一：開始購買 <a href="#step-1" id="step-1"></a>
 
+你可以將書加入購物車或直接購買：
+
+### 加入購物車
+
+在作品頁面點「加入購物車」。
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 1a.png" alt=""><figcaption><p>點「加入購物車」</p></figcaption></figure>
+
+### 直接購買
+
 在作品頁面上點「購買」。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 1.png" alt=""><figcaption><p>點「購買」</p></figcaption></figure>
@@ -18,13 +28,23 @@ description: 如何購買電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 2.png" alt=""><figcaption><p>額外支持作者</p></figcaption></figure>
 
-## 步驟三：信用卡付款 <a href="#step-3" id="step-3"></a>
+## 步驟三：加購好書 <a href="#step-3" id="step-3"></a>
 
-出現 Stripe 頁面，輸入電郵及信用卡資料後點「Pay」。如有額外打賞作者，將顯示 Extra Tip。
+彈出熱銷好書頁面，可點「加購」選擇加購該書。
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 2a.png" alt=""><figcaption><p>點「加購」</p></figcaption></figure>
+
+## 步驟四：信用卡付款 <a href="#step-4" id="step-4"></a>
+
+如選擇加入購物車，點頁面右上角購物車出現購物明細，確認無誤後點「以信用卡結帳」；如直接購買則直接跳轉至 Stripe 頁面。
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 2b.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;在 Stripe 頁面，輸入電郵及信用卡資料後點「Pay」。如有額外打賞作者，將顯示 Extra Tip。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 3.png" alt=""><figcaption><p>在 Stripe 付款頁面輸入資料</p></figcaption></figure>
 
-## 步驟四：成功購買電子書 <a href="#step-4" id="step-4"></a>
+## 步驟五：成功購買電子書 <a href="#step-5" id="step-5"></a>
 
 彈出感謝你的支持與購買頁面，點「開始領取我的電子書」領取電子書。與此同時你的電郵亦會收到領書電郵。
 
@@ -32,7 +52,7 @@ description: 如何購買電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 5.png" alt=""><figcaption><p>收到電郵過知</p></figcaption></figure>
 
-## 步驟五：連結 Liker Land 帳戶 <a href="#step-5" id="step-5"></a>
+## 步驟六：連結 Liker Land 帳戶
 
 點「使用信箱註冊」或「或以其他方式登入」註冊或登入 Liker Land 帳戶。
 
@@ -44,19 +64,19 @@ description: 如何購買電子書
 [register](../../user-guide/liker-id/register/)
 {% endcontent-ref %}
 
-## 步驟六：確認錢包地址 <a href="#step-6" id="step-6"></a>
+## 步驟七：確認錢包地址
 
 在此書將新增至以下帳戶中頁面出現錢包地址，確認無誤後點「確認」。你也可以隨時到「我的書架」查看錢包地址是否正確。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 7.png" alt=""><figcaption><p>點「確認」確認錢包地址</p></figcaption></figure>
 
-## 步驟七：留言給作者 <a href="#step-7" id="step-7"></a>
+## 步驟八：留言給作者 <a href="#step-8" id="step-8"></a>
 
 輸入留給作者的說話，完成後點「確認」。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 8.png" alt=""><figcaption><p>輸入留給作者的說話再點「確認」</p></figcaption></figure>
 
-## 步驟八：成功領取電子書 <a href="#step-8" id="step-8"></a>
+## 步驟九：成功領取電子書 <a href="#step-9" id="step-9"></a>
 
 出現你已成功領取電子書頁面，你也可以點「檢視收藏」查看已購買的電子書。
 
@@ -64,13 +84,13 @@ description: 如何購買電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 10.png" alt=""><figcaption><p>到我的書架查看收藏</p></figcaption></figure>
 
-## 步驟九：閱讀電子書 <a href="#read-ebook" id="read-ebook"></a>
+## 步驟十：閱讀電子書 <a href="#read-ebook" id="read-ebook"></a>
 
 用戶可點「打開書本」打開其中一種格式的電子書直接閱讀。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 11.png" alt=""><figcaption><p>打開其中一種格式的 NFT 電子書直接閱讀</p></figcaption></figure>
 
-## 步驟十：下載電子書檔 <a href="#download-ebook" id="download-ebook"></a>
+## 步驟十一：下載電子書檔 <a href="#download-ebook" id="download-ebook"></a>
 
 如所購買電子書的作者容許下載電子書檔案，點右上角下載圖示即可下載書檔。
 
