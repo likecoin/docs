@@ -48,9 +48,11 @@ description: 如何購買電子書
 
 ## 步驟五：成功購買電子書 <a href="#step-5" id="step-5"></a>
 
-彈出感謝你的支持與購買頁面，點「開始領取我的電子書」領取電子書。與此同時你的電郵亦會收到領書電郵。
+彈出感謝你的支持與購買頁面，點「下一步」領取電子書。與此同時你的電郵亦會收到領書電郵。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 4.png" alt=""><figcaption><p>點「開始領取我的電子書」</p></figcaption></figure>
+
+點「閱讀你的電子書」亦可開始領書。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 5.png" alt=""><figcaption><p>收到電郵過知</p></figcaption></figure>
 
