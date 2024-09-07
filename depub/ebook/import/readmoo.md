@@ -1,10 +1,10 @@
 ---
-description: 導入 Liker Land 電子書到 Readmoo
+description: 匯入 Liker Land 電子書到 Readmoo
 ---
 
-# 導入書檔到 Readmoo
+# 匯入書檔到 Readmoo
 
-用戶可參考以下教學導入 EPUB 或 PDF 到 Readmoo：
+用戶可參考以下教學匯入 EPUB 或 PDF 到 Readmoo：
 
 ## 桌機
 

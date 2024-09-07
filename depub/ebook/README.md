@@ -86,7 +86,7 @@ description: 如何購買電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 9.png" alt=""><figcaption><p>出現你已成功領取電子書頁面</p></figcaption></figure>
 
-或在「[我的書架](https://rinkeby.liker.land/zh-Hant/bookshelf?tab=collected)」查看已購買的電子書。
+或在「[我的書架](https://liker.land/zh-Hant/bookshelf?tab=collected)」查看已購買的電子書。
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 10.png" alt=""><figcaption><p>到我的書架查看收藏</p></figcaption></figure>
 
