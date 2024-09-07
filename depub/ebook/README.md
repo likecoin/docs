@@ -86,27 +86,20 @@ description: 如何購買電子書
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 9.png" alt=""><figcaption><p>出現你已成功領取電子書頁面</p></figcaption></figure>
 
+或在「[我的書架](https://rinkeby.liker.land/zh-Hant/bookshelf?tab=collected)」查看已購買的電子書。
+
 <figure><img src="../../.gitbook/assets/Collect NFT Book 10.png" alt=""><figcaption><p>到我的書架查看收藏</p></figcaption></figure>
 
-## 步驟十：閱讀電子書 <a href="#read-ebook" id="read-ebook"></a>
+繼續了解：
 
-用戶可點「打開書本」打開其中一種格式的電子書直接閱讀。
+{% content-ref url="read.md" %}
+[read.md](read.md)
+{% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 11.png" alt=""><figcaption><p>打開其中一種格式的 NFT 電子書直接閱讀</p></figcaption></figure>
+{% content-ref url="import/" %}
+[import](import/)
+{% endcontent-ref %}
 
-## 步驟十一：下載電子書檔 <a href="#download-ebook" id="download-ebook"></a>
-
-如所購買電子書的作者容許下載電子書檔案，點右上角下載圖示即可下載書檔。
-
-<figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>下載書檔</p></figcaption></figure>
-
-## 匯入 EPUB 檔案到各家閱讀器 <a href="#reader" id="reader"></a>
-
-如購買的 EPUB 不設 DRM，除了可使用 USB 方式匯入 EPUB 檔案到閱讀器。不同廠牌亦支援以網絡介面上載，更多詳情可參看：
-
-* Readmoo - [桌機](https://cloudhey.medium.com/readmoo%E8%AE%80%E5%A2%A8%E9%9B%BB%E5%AD%90%E6%9B%B8%E9%80%B2%E9%9A%8E%E4%BD%BF%E7%94%A8%E7%B4%80%E9%8C%84-ebf534ab6408)、[iOS](https://news.readmoo.com/2023/05/24/new-new-update-133/)、[Android](https://news.readmoo.com/2023/04/07/new-new-update-128/)
-* Kobo - [使用 Dropbox 將書籍新增至您的 eReader](https://help.kobo.com/hc/zh-tw/articles/360033830114-%E4%BD%BF%E7%94%A8-Dropbox-%E5%B0%87%E6%9B%B8%E7%B1%8D%E6%96%B0%E5%A2%9E%E8%87%B3%E6%82%A8%E7%9A%84-eReader)
-* HyRead - [傳輸檔案&放書](https://www.youtube.com/watch?v=nQFnyYgDCCE)
-* Pubook - [如何使用 Pubook 閱讀自己擁有的電子書檔案？](https://support.pubu.tw/hc/zh-tw/articles/12485186892185-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-Pubook-%E9%96%B1%E8%AE%80%E8%87%AA%E5%B7%B1%E6%93%81%E6%9C%89%E7%9A%84%E9%9B%BB%E5%AD%90%E6%9B%B8%E6%AA%94%E6%A1%88-)
-* Kindle - [Send to Kindle](https://www.amazon.com/-/zh\_TW/gp/sendtokindle)
-* Boox - [不用傳輸線 BOOX 如何分享文件？](https://boox.com.tw/?p=1052)
+{% content-ref url="gift.md" %}
+[gift.md](gift.md)
+{% endcontent-ref %}
