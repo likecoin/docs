@@ -2,13 +2,13 @@
 description: 匯入 Liker Land 電子書到 Readmoo
 ---
 
-# 匯入書檔到 Readmoo
+# 匯入電子書檔到 Readmoo
 
 用戶可參考以下教學匯入 EPUB 或 PDF 到 Readmoo：
 
 ## 桌機
 
-[Readmoo讀墨電子書進階使用紀錄](https://cloudhey.medium.com/readmoo%E8%AE%80%E5%A2%A8%E9%9B%BB%E5%AD%90%E6%9B%B8%E9%80%B2%E9%9A%8E%E4%BD%BF%E7%94%A8%E7%B4%80%E9%8C%84-ebf534ab6408)
+[如何上傳個人文件？](https://readmoo.com/mooink-series/manual#sort3-20)
 
 ## iOS、Android
 

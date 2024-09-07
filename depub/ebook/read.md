@@ -4,7 +4,7 @@ description: 如何閱讀電子書
 
 # 閱讀電子書
 
-## 步驟一：直接閱讀電子書
+## 步驟一：閱讀電子書
 
 用戶可點「打開書本」打開其中一種格式的電子書直接閱讀。
 
@@ -18,6 +18,6 @@ description: 如何閱讀電子書
 
 繼續了解：
 
-{% content-ref url="import/" %}
-[import](import/)
+{% content-ref url="ereader/" %}
+[ereader](ereader/)
 {% endcontent-ref %}

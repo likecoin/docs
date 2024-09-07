@@ -48,6 +48,6 @@ description: 贈書給親朋好友
 
 繼續了解：
 
-{% content-ref url="import/" %}
-[import](import/)
+{% content-ref url="ereader/" %}
+[ereader](ereader/)
 {% endcontent-ref %}

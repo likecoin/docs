@@ -96,8 +96,8 @@ description: 如何購買電子書
 [read.md](read.md)
 {% endcontent-ref %}
 
-{% content-ref url="import/" %}
-[import](import/)
+{% content-ref url="ereader/" %}
+[ereader](ereader/)
 {% endcontent-ref %}
 
 {% content-ref url="gift.md" %}
