@@ -16,7 +16,7 @@ Created: February 17, 2022 8:12 PM
 
 ### Authors
 
-* Elliot Ng [elliotng@oursky.com](mailto:elliotng@oursky.com) (@chihimng)
+* Elise Ng [elise@oursky.com](mailto:elise@oursky.com) (@elise-ng)
 * Rick Mak [rickmak@oursky.com](mailto:rickmak@oursky.com) (@rickmak)
 * Rico Wong [hochiw@oursky.com](mailto:hochiw@oursky.com) (@hochiw)
 
