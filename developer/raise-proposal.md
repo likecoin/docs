@@ -86,7 +86,8 @@ description: Raise a proposal with LikeCoin chain daemon.
          --from proposer \
          --node https://mainnet-node.like.co:443/rpc/ \
          --chain-id likecoin-mainnet-2 \
-         --gas-prices 10000nanolike
+         --gas-prices 10000nanolike \
+         --gas 2000000
     ```
 
     For testnet:
@@ -97,7 +98,8 @@ description: Raise a proposal with LikeCoin chain daemon.
          --from proposer \
          --node https://node.testnet.like.co:443/rpc/ \
          --chain-id likecoin-public-testnet-5 \
-         --gas-prices 10000nanoekil
+         --gas-prices 10000nanoekil \
+         --gas 2000000
     ```
 7.  Deposit the proposal
 
