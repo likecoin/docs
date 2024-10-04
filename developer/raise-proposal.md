@@ -10,7 +10,7 @@ description: Raise a proposal with LikeCoin chain daemon.
 
     [https://github.com/likecoin/likecoin-chain/releases](https://github.com/likecoin/likecoin-chain/releases)
 
-    At the time of writing, it's [v1.2.0](https://github.com/likecoin/likecoin-chain/releases/tag/v1.2.0).
+    At the time of writing, it's [v4.2.0](https://github.com/likecoin/likecoin-chain/releases/tag/v4.2.0)
 
     Unzip the file and go to the unzipped folder.
 2.  Open a terminal
@@ -18,16 +18,20 @@ description: Raise a proposal with LikeCoin chain daemon.
     Open a terminal under the unzipped folder. If you run `ls` command, you will see files as below.
 
     ```bash
-    JohnDoe@MacBook-Pro  likecoin-chain_1.2.0_Darwin_arm64 % ls
+    JohnDoe@MacBook-Pro  likecoin-chain_4.2.0_Darwin_arm64 % ls
     CHANGELOG.md	LICENSE		README.md	bin
     ```
-3.  Add account keys
+3.  Add or recover account keys
 
     Run following command to add an operator key with key-name `proposer`. Type-in your passphrase twice, the command will output your operator address, and also a 12-24 words mnemonic phrase. Please backup the mnemonic phrase properly as it represents your validator's private key.
 
-    ```bash
-    ./bin/liked keys add proposer
-    ```
+    <pre class="language-bash"><code class="lang-bash"><strong>./bin/liked keys add proposer
+    </strong></code></pre>
+
+    If you already have a mnemonic phrase, add the option `--recover`
+
+    <pre class="language-bash"><code class="lang-bash"><strong>./bin/liked keys add proposer --recover
+    </strong></code></pre>
 4.  Deposit some coin
 
     To enable an empty account on the chain, we need to deposit some coins first.
@@ -77,7 +81,7 @@ description: Raise a proposal with LikeCoin chain daemon.
     For mainnet:
 
     ```bash
-    ./bin/liked tx gov submit-proposal \
+    ./bin/liked tx gov submit-legacy-proposal \
          --proposal=proposals/text-proposal.json \
          --from proposer \
          --node https://mainnet-node.like.co:443/rpc/ \
@@ -87,18 +91,18 @@ description: Raise a proposal with LikeCoin chain daemon.
     For testnet:
 
     ```bash
-    ./bin/liked tx gov submit-proposal \
+    ./bin/liked tx gov submit-legacy-proposal \
          --proposal=proposals/text-proposal.json \
          --from proposer \
          --node https://node.testnet.like.co:443/rpc/ \
-         --chain-id likecoin-public-testnet-3
+         --chain-id likecoin-public-testnet-5
     ```
 7.  Deposit the proposal
 
     Find the raised proposal:
 
-    For mainnet: [https://stake.like.co/proposals](https://stake.like.co/proposals)
+    For mainnet: [https://dao.like.co/proposals](https://dao.like.co/proposals)
 
-    For testnet: [https://likecoin-public-testnet-3.netlify.app/proposals](https://likecoin-public-testnet-3.netlify.app/proposals)
+    For testnet: [https://likecoin-public-testnet-5.netlify.app/proposals/](https://likecoin-public-testnet-5.netlify.app/proposals/)
 
     Deposit some coins to the proposal.
