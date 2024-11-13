@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="2024" %}
+### 10/05-06 英國香港書展
+
+[Liker Land 電子書店x數位出版](https://www.facebook.com/permalink.php?story\_fbid=pfbid02WJ7UyNLQnB8ntVCbtfYuZRJaJu9mz3tmaaQiHWT3Ui5gRyHq9wP9gTYhafpi5XkZl\&id=100083819965668\&locale=zh\_TW)
+
 ### 08/10 飛地書店
 
 [DHK dao & da0：web3 實踐公民社會經驗分享——高重建 ╳ 葉向林](https://www.facebook.com/nowherebookstore/posts/pfbid0f9a6DdrjL95DzLZkMiLTiLGDfRmVwqDd3A8i3tSatZRHYVUA2zEQWkUuMi5baqifl)
