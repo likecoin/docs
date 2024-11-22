@@ -14,10 +14,6 @@ If you cannot login your Liker ID with your social logins, please try the follow
 
 ## Step 1: Login
 
-### Mobile
-
-On the [LikeCoin app](../../liker-land/download.md) click "Sign In"
-
 ### Web
 
 make sure that you are being logged out. You may go to the menu at the top right hand corner and find the "Logout" option.
@@ -29,6 +25,10 @@ Go to the upper right corner of the [Liker Land website](https://liker.land/en) 
 Click "Email/Social" using Liker ID by email or social login
 
 <figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+
+### Mobile
+
+On the [LikeCoin app](../../liker-land/download.md) click "Sign In"
 
 ## **Step 2:** Reset Password
 

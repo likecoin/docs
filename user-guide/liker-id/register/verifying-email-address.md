@@ -36,11 +36,13 @@ On the "Manage email" page, click "Confirm Now".
 
 ![On the "Manage email" page, click "Confirm Now"](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJpIkC4GeOL3XxM0u5%2Fauth-email-1.png?alt=media\&token=c01af70c-90c3-48d5-9203-f7f3e6ab5fa1)
 
-### Step 3: Enter the confirmation code
+### Step 3: Enter the verification code
 
-An email with a 6-digit confirmation code will be sent to your mailbox. Enter it into the blank space below and click "Confirm".
+An email with a six-digit verification code will be sent to your mailbox. Enter it into the blank space below and click "Confirm".
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 06.png" alt=""><figcaption><p>Enter the 6-digit confirmation code into the blank space below and click "Confirm".</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 06.png" alt=""><figcaption><p>Receive a six-digit account verification code in their email.</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 05-en.png" alt=""><figcaption><p>Enter the 6-digit verification code into the blank space and click "Verify"</p></figcaption></figure>
 
 If you see the page below, it's done.
 

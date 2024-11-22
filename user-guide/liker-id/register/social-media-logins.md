@@ -17,7 +17,9 @@ There are two benefits to linking your social acount logins:
 1. You don't have to input your email address and password; just use your usual social media account to log in.
 2. Protect access to your Liker ID: If there is an issue with one of the login methods (e.g., forgetting the password or technical problems with the platform itself), you can still use other social media logins to access your Liker ID.
 
-### Web (Except Matters)
+## Linking Method (Except Matters)
+
+### Web
 
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
@@ -42,8 +44,6 @@ Click "Security settings" and "Social Account login".
 Click on the social media login ( except Matters ), follow the on-screen instructions, and log in to your account.
 
 ![Click on the social media login](../../../.gitbook/assets/social-media-logins-2-en.png)
-
-## Linking Method (Except Matters)
 
 ### Mobile
 
