@@ -11,43 +11,17 @@ description: LikeCoin 錢包終於可以匯出助記詞
 * 你的網絡與周邊環境是否安全。
 * 你使用的電腦是否經已進行病毒掃描以確保沒有病毒或木馬程式。
 
-## 以 LikeCoin 手機應用程式匯出助記詞
-
-### 步驟一：開始匯出錢包助記詞
-
-在手機應用程式右下角點設定後再點「匯出錢包助記詞」。
-
-<figure><img src="../../../.gitbook/assets/seed word mobile 1.png" alt=""><figcaption><p>點「匯出錢包助記詞」</p></figcaption></figure>
-
-### 步驟二：確認警告
-
-了解後，點「確認」，系統會要求重新再次登入帳戶。
-
-<figure><img src="../../../.gitbook/assets/seed word mobile 2.png" alt=""><figcaption><p>點「確認」</p></figcaption></figure>
-
-### 步驟三：輸入 Authcore 密碼
-
-再次輸入密碼後點「確認」。
-
-<figure><img src="../../../.gitbook/assets/seed word mobile 3.png" alt=""><figcaption><p>輸入密碼後點「確認」</p></figcaption></figure>
-
-### 步驟四：顯示助記詞
-
-點「複製」將助記詞複製到其他地方。
-
-<figure><img src="../../../.gitbook/assets/seed word mobile 4.png" alt=""><figcaption><p>點「複製」將助記詞複製</p></figcaption></figure>
-
 ## 以桌面電腦匯出助記詞
 
 ### 步驟一：到匯出錢包助記詞網址
 
 到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 使用 Liker ID 以電郵/社交登入。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
 
 登入後點右上角頭像，點「設定」再點「匯出錢包助記詞」。&#x20;
 
@@ -80,6 +54,32 @@ description: LikeCoin 錢包終於可以匯出助記詞
 點複製即可複製錢包助記詞。
 
 ![複製錢包助記詞](<../../../.gitbook/assets/Seed Words 5.png>)
+
+## 以 LikeCoin 手機應用程式匯出助記詞
+
+### 步驟一：開始匯出錢包助記詞
+
+在手機應用程式右下角點設定後再點「匯出錢包助記詞」。
+
+<figure><img src="../../../.gitbook/assets/seed word mobile 1.png" alt=""><figcaption><p>點「匯出錢包助記詞」</p></figcaption></figure>
+
+### 步驟二：確認警告
+
+了解後，點「確認」，系統會要求重新再次登入帳戶。
+
+<figure><img src="../../../.gitbook/assets/seed word mobile 2.png" alt=""><figcaption><p>點「確認」</p></figcaption></figure>
+
+### 步驟三：輸入 Authcore 密碼
+
+再次輸入密碼後點「確認」。
+
+<figure><img src="../../../.gitbook/assets/seed word mobile 3.png" alt=""><figcaption><p>輸入密碼後點「確認」</p></figcaption></figure>
+
+### 步驟四：顯示助記詞
+
+點「複製」將助記詞複製到其他地方。
+
+<figure><img src="../../../.gitbook/assets/seed word mobile 4.png" alt=""><figcaption><p>點「複製」將助記詞複製</p></figcaption></figure>
 
 ***
 

@@ -12,19 +12,15 @@ description: 查看有哪些裝置登入過你的 Liker ID
 
 ## 步驟一：登入
 
-### 手機版
-
-於 [LikeCoin 手機應用程式](../../liker-land/download.md)選畫面右下角設定點「安全」，再點 「裝置」。
-
 ### 網頁版
 
 到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 使用 Liker ID 以電郵/社交登入。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
 
 登入後點右上角頭像，點「設定」再點「Liker ID」。&#x20;
 
@@ -37,6 +33,10 @@ description: 查看有哪些裝置登入過你的 Liker ID
 點「安全設定」及「裝置」。
 
 ![點「安全設定」及「裝置」](../../../.gitbook/assets/管理登入裝置1.png)
+
+### 手機版
+
+於 [LikeCoin 手機應用程式](../../liker-land/download.md)選畫面右下角設定點「安全」，再點 「裝置」。
 
 ## 步驟二：登出裝置
 

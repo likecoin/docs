@@ -14,11 +14,11 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 使用 Liker ID 以電郵/社交登入。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
 
 登入後點右上角頭像，點「設定」再點「Liker ID」。&#x20;
 
@@ -38,7 +38,9 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 你的郵箱會收到一封包含六位數字認證碼的電郵。請填在下方畫面的空格中，點「認證」。
 
-![輸入六位數字認證碼再點「認證」](https://downloads.intercomcdn.com/i/o/171962025/7a29375736dc15a5f3eb9909/image.png)
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 06.png" alt=""><figcaption><p>六位數字認證碼電郵</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 05.png" alt=""><figcaption><p>輸入六位數字認證碼再點「認證」</p></figcaption></figure>
 
 見到下方這畫面，代表認證已成功。
 
@@ -56,11 +58,11 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 使用 Liker ID 以電郵/社交登入。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
 
 登入後點右上角頭像，點「設定」再點「Liker ID」。&#x20;
 
@@ -74,7 +76,7 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 選「安全設定」分頁並點「雙重認證」。
 
-![選「安全設定」分頁並點「雙重認證」](../../../.gitbook/assets/IMG\_2343.jpg)
+![選「安全設定」分頁並點「雙重認證」](../../../.gitbook/assets/IMG_2343.jpg)
 
 ### 步驟三：選取認證認用程式
 
@@ -85,7 +87,7 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 
 在下一個頁面，選「認證應用程式」。
 
-![選「認證應用程式」](../../../.gitbook/assets/IMG\_2346a.jpg)
+![選「認證應用程式」](../../../.gitbook/assets/IMG_2346a.jpg)
 
 ### 步驟四：設定 Google Authenticator
 
@@ -94,7 +96,7 @@ description: 設定雙重認證及認證電郵地址，增強你 Liker ID 的安
 ![用 Google Authenticator 掃抽二維碼再輸入驗證碼](../../../.gitbook/assets/2fa-google-authenticator.png)
 
 1. 在手機上下載 Google Authenticator 應用程式：\
-   [安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh\_TW)\
+   [安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh_TW)\
    [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 2. 打開 Google Authenticator 應用程式。點應用程式右上角的 「＋」。
 3. 掃描桌面電腦上的二維碼。

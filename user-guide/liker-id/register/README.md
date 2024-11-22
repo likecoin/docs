@@ -36,15 +36,15 @@ description: 帳戶要怎樣註冊？
 
 用戶將在電郵收到六位數字認證碼。
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 06.png" alt=""><figcaption><p>六位數字認證碼</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 06.png" alt=""><figcaption><p>六位數字認證碼電郵</p></figcaption></figure>
 
-在認證帳戶畫面輸入電郵內的六位數字認證碼
+在認證帳戶畫面輸入電郵內的六位數字認證碼。
 
 <figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 05.png" alt=""><figcaption><p>在註冊畫面輸入六位數字認證碼</p></figcaption></figure>
 
 ### 以 Google 或 Apple ID 社交登入建立帳戶
 
-如用戶選擇以 Google 或 Apple ID 社交登入建立帳戶，將會在電郵中收到確認連結，點擊並確認建立帳戶。
+如用戶選擇點 Google 或 Apple ID 標誌並以社交登入建立帳戶，將會在電郵中收到確認連結。點擊並確認建立帳戶。
 
 <figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 08.png" alt=""><figcaption><p>點擊連結及建立帳戶</p></figcaption></figure>
 
@@ -73,11 +73,3 @@ description: 帳戶要怎樣註冊？
 {% hint style="success" %}
 所有 LikeCoin 推薦獎賞及讚賞公民推廣活動經已於2021年3月8日完結。
 {% endhint %}
-
-### 使用指南
-
-{% content-ref url="../../../general-guides/wallet/like-pay.md" %}
-[like-pay.md](../../../general-guides/wallet/like-pay.md)
-{% endcontent-ref %}
-
-***
