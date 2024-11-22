@@ -16,11 +16,11 @@ The followings are for [Liker ID registered through Email/Social (with Authcore)
 
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 
-<figure><img src="../../../.gitbook/assets/Authcore 3-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
 
 After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
 
@@ -38,13 +38,13 @@ On the "Manage email" page, click "Confirm Now".
 
 ### Step 3: Enter the confirmation code
 
-An email with a 6-digit code will be sent to your mailbox. Enter it into the blank space below and click "Confirm".
+An email with a 6-digit confirmation code will be sent to your mailbox. Enter it into the blank space below and click "Confirm".
 
-![Enter the 6-digit code into the blank space below and click "Confirm".](https://downloads.intercomcdn.com/i/o/171962025/7a29375736dc15a5f3eb9909/image.png)
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 06.png" alt=""><figcaption><p>Enter the 6-digit confirmation code into the blank space below and click "Confirm".</p></figcaption></figure>
 
 If you see the page below, it's done.
 
-![It's done!](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJpVUgHk4bjk15P\_XD%2Fauth-email-3.png?alt=media\&token=6aaa354d-ef5a-4179-a00a-08c3ca9f7495)
+![It's done!](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJpVUgHk4bjk15P_XD%2Fauth-email-3.png?alt=media\&token=6aaa354d-ef5a-4179-a00a-08c3ca9f7495)
 
 ***
 
@@ -58,11 +58,11 @@ The following steps need to be performed on a desktop computer, and a smartphone
 
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 
-<figure><img src="../../../.gitbook/assets/Authcore 3-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
 
 After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
 
@@ -99,7 +99,7 @@ Continuing from the previous step, the page now displays a QR Code:
 
 1.  Download Google Authenticator on your mobile phone.
 
-    [Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh\_TW)\
+    [Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh_TW)\
     [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 2. Open the Google Authenticator app and click on the "+" sign in the top right-hand corner.
 3. Scan the QR Code on your desktop computer.

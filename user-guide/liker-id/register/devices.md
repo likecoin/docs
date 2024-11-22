@@ -12,19 +12,15 @@ You can see computers, phones, and other devices that are currently using or hav
 
 ## Step 1: Login
 
-### Mobile
-
-On the [LikeCoin app](../../liker-land/download.md), click on setting at the lower right hand corner and select "Security", then click "Devices".
-
 ### Web
 
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 
-<figure><img src="../../../.gitbook/assets/Authcore 3-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
 
 After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
 
@@ -37,6 +33,10 @@ Click "AuthCore Settings" in the upper right corner.
 Click "Security settings" and "Devices".
 
 ![Click "Security settings" and "Devices"](../../../.gitbook/assets/device-1-en.png)
+
+### Mobile
+
+On the [LikeCoin app](../../liker-land/download.md), click on setting at the lower right hand corner and select "Security", then click "Devices".
 
 ## Step 2: Log Out Devices
 

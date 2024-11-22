@@ -232,7 +232,7 @@
 ## 💻 DApp <a href="#user-guide" id="user-guide"></a>
 
 * [Liker ID](user-guide/liker-id/README.md)
-  * [Register a Liker ID through Email/Social (with Authcore)](user-guide/liker-id/register/README.md)
+  * [Register through Email/Social (with Authcore)](user-guide/liker-id/register/README.md)
     * [Securing your Liker ID](user-guide/liker-id/register/verifying-email-address.md)
     * [Connecting to my social account](user-guide/liker-id/register/social-media-logins.md)
     * [Resetting password](user-guide/liker-id/register/reset-password.md)
@@ -315,7 +315,7 @@
     * [Youtube](archive/archive/creatortools/youtube.md)
     * [Youput](archive/archive/creatortools/youput.md)
   * [Community](archive/archive/community/README.md)
-    * [LikeCoin Leafwind Bot](archive/archive/community/likecoin\_leafwind\_bot.md)
+    * [LikeCoin Leafwind Bot](archive/archive/community/likecoin_leafwind_bot.md)
     * [Products and Services](archive/archive/community/products-and-services.md)
     * [Progress Updates](archive/archive/community/updates/README.md)
       * [2020.08.24](archive/archive/community/updates/2020.08.24.md)

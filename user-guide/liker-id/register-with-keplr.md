@@ -44,7 +44,7 @@ Install the Keplr wallet before registering your Liker ID. If you have already c
 
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 A pop-up window appears, click Keplr to login to Liker Land.
 

@@ -11,43 +11,17 @@ Before exporting the seed words, please note:
 * Ensure that your network and surrounding environment are secure.
 * Scan the computer you are using for viruses to ensure it is free from viruses or Trojans.
 
-## Export Seed Words from the LikeCoin App
-
-### Step 1: Start exporting the wallet seed words
-
-Click on Settings in the lower right corner, then click "Export Seed Words".
-
-<figure><img src="../../../.gitbook/assets/seed word mobile 1-en.png" alt=""><figcaption><p>Click "Export Seed Words"</p></figcaption></figure>
-
-### Step 2: Acknowledge the warning
-
-Click "Confirm", and the system will prompt you to log in to your account again.
-
-<figure><img src="../../../.gitbook/assets/seed word mobile 2-en.png" alt=""><figcaption><p>Click "Confirm"</p></figcaption></figure>
-
-### Step 3: Enter your Authcore password
-
-Enter the password again and click "Confirm".
-
-<figure><img src="../../../.gitbook/assets/seed word mobile 3-en.png" alt=""><figcaption><p>Enter the password again and click "Confirm"</p></figcaption></figure>
-
-### Step 4: Display the seed words
-
-Click "Copy" to copy them to another location.
-
-<figure><img src="../../../.gitbook/assets/seed word mobile 4-en.png" alt=""><figcaption><p>Click "Copy" to copy the seed words</p></figcaption></figure>
-
 ## Export Seed Words from a Desktop Computer
 
 ### Step 1: Go to the URL for exporting seed words
 
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>Click "Login</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 
-<figure><img src="../../../.gitbook/assets/Authcore 3-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
 
 After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Export wallet seed words".
 
@@ -80,6 +54,34 @@ Enter your login password and click "Show Seed Words".
 Click "Copy" to copy the seed words.
 
 ![Click "Copy" to copy the seed words](<../../../.gitbook/assets/Seed Words 5en.png>)
+
+***
+
+## Export Seed Words from the LikeCoin App
+
+### Step 1: Start exporting the wallet seed words
+
+Click on Settings in the lower right corner, then click "Export Seed Words".
+
+<figure><img src="../../../.gitbook/assets/seed word mobile 1-en.png" alt=""><figcaption><p>Click "Export Seed Words"</p></figcaption></figure>
+
+### Step 2: Acknowledge the warning
+
+Click "Confirm", and the system will prompt you to log in to your account again.
+
+<figure><img src="../../../.gitbook/assets/seed word mobile 2-en.png" alt=""><figcaption><p>Click "Confirm"</p></figcaption></figure>
+
+### Step 3: Enter your Authcore password
+
+Enter the password again and click "Confirm".
+
+<figure><img src="../../../.gitbook/assets/seed word mobile 3-en.png" alt=""><figcaption><p>Enter the password again and click "Confirm"</p></figcaption></figure>
+
+### Step 4: Display the seed words
+
+Click "Copy" to copy them to another location.
+
+<figure><img src="../../../.gitbook/assets/seed word mobile 4-en.png" alt=""><figcaption><p>Click "Copy" to copy the seed words</p></figcaption></figure>
 
 ***
 

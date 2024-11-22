@@ -1,49 +1,78 @@
 ---
-description: Login by social media accounts, Matters, or email/password
+description: How do I register an account?
 ---
 
-# Register a Liker ID through Email/Social (with Authcore)
+# Register through Email/Social (with Authcore)
 
-Using the [LikeCoin app](https://liker.land/getapp), you can register a Liker ID through Email/Social (with Authcore). Users can also [export their seed words from Authcore](export-seed-words.md) and import them into [Keplr](../../../general-guides/wallet/keplr/) or other wallets to manage their LikeCoin.
+On the [Liker Land website](https://liker.land/en), you can register a Liker ID through Email/Social (with Authcore). Users can also [export their seed words from Authcore](export-seed-words.md) and import them into [Keplr](../../../general-guides/wallet/keplr/) or other wallets to manage their LikeCoin.
 
-## Register a Liker ID through Email/Social (with Authcore) using the LikeCoin app
+## Step 1: Log in to the website
 
-To register a Liker ID through the general method (with Authcore) using the [LikeCoin app](../../liker-land/download.md), follow these instructions:
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-### Step 1: Start Registering
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>ick "Login"</p></figcaption></figure>
 
-Open your LikeCoin app and click the "Sign Up" button.
+## Step 2: Log in with email or social account
 
-<figure><img src="../../../.gitbook/assets/signup 01-en.png" alt=""><figcaption><p>Click "Sign Up"</p></figcaption></figure>
+Click "Email/Social" using Liker ID by email or social login
 
-### **Step 2: Choose your Sign Up method**
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
 
-The LikeCoin app provides 6 registration options, such as email+password and social logins: Google login, Facebook login, Twitter login, Apple login, and Matters login. We suggest registering with your social media accounts, as it is safer and easier. Click on the social media icon to continue.
+## Step 3: Create Account
 
-<figure><img src="../../../.gitbook/assets/signup 02-en.png" alt=""><figcaption><p>Choose your Sign Up method</p></figcaption></figure>
+Click "Create account".
 
-### Step 3: Log in to your social media account and authorize the registration
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 03-en.png" alt=""><figcaption><p>Click "Create account"</p></figcaption></figure>
 
-Fill in your social media account details and log in. As an example, if you choose Twitter, fill in your Twitter handle and password, then click "Authorize app".
 
-<figure><img src="../../../.gitbook/assets/signup 03-en.png" alt=""><figcaption><p>Log in to your social media account and authorize the registration</p></figcaption></figure>
 
-### Step 4: Create your Liker ID
+## Step 4: Choose the method to create an account
 
-A green page will appear, allowing you to choose your favorite Liker ID. The system will suggest a Liker ID for you, but if you are not satisfied with it, you can change it here. Fill in your Liker ID and click "Confirm" to complete the registration process.
+Users can choose to create an account by logging in with their Google or Apple ID, or by entering their email and password to "Create an Account."
 
-<figure><img src="../../../.gitbook/assets/signup 04-en.png" alt=""><figcaption><p>Fill in the Liker ID that you like and click "Confirm"</p></figcaption></figure>
+### Create an account with your email and password.
+
+Enter your email and password, then click "Create Account."
+
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 04-en.png" alt=""><figcaption><p>Create account with social login or username+password</p></figcaption></figure>
+
+Users will receive a six-digit verification code in their email.\
+
+
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 06.png" alt=""><figcaption><p>Six-digit verification code</p></figcaption></figure>
+
+Enter the six-digit verification code from the email into the account verification screen.
+
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 05-en.png" alt=""><figcaption><p>Enter the six-digit verification code from the email into the account verification screen.</p></figcaption></figure>
+
+## Create an account using Google or Apple ID
+
+If users choose to create an account using Google or Apple ID, they will receive a confirmation link via email. Click on the link and confirm to create the account.
+
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 08.png" alt=""><figcaption><p>Click the confirmation link and create an account.</p></figcaption></figure>
+
+## Step 5: Account and Settings
+
+Upon successful registration, you will be automatically logged into the website. Users can click on the avatar at the top right corner and select "Account and Settings" to perform various operations. If users need to create a Liker ID, they can click on "Liker ID" to set up their Liker ID.
+
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 07-en.png" alt=""><figcaption><p>Account and Settings</p></figcaption></figure>
+
+### Step 6: Create your Liker ID
+
+Click on Liker ID and log in again. The following screen will pop up allowing you to choose your favorite Liker ID. The system will suggest a Liker ID for you, but if you are not satisfied with it, you can change it here. Fill in your Liker ID and click "Confirm" to complete the registration process.
+
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 09-en.png" alt=""><figcaption><p>Fill in the Liker ID that you like and click "Confirm"</p></figcaption></figure>
 
 
 
 {% hint style="warning" %}
-Please note that once the Liker ID and login method have been created, they cannot be changed. If you want to have another Liker ID, please create a new account. Also, **please note that each email address or wallet address can only register one Liker ID.**
-
-**You cannot use the same email address to register a Liker ID with both Authcore and Keplr**
+* Please note that once you have created a Liker ID with Authcore, you will not be able to modify the word combination or use Keplr or other wallets as a login method.
+* If you want to have another Liker ID, please create a new account. Also, **please note that each email address or wallet address can only register one Liker ID.**
+* **You cannot use the same email address to register a Liker ID with both Authcore and Keplr**
 {% endhint %}
 
 {% hint style="info" %}
-The LikeCoin app utilizes Authcore as a sign-in solution. For more information, check out: What is [Authcore](what-is-authcore.md)?
+What is [Authcore](what-is-authcore.md)?
 {% endhint %}
 
 {% hint style="success" %}
@@ -57,23 +86,3 @@ Lastly, please note that all LikeCoin and Civic Liker referral programs ended on
 {% endcontent-ref %}
 
 ***
-
-## Register a Liker ID through Email/Social (with Authcore) on Liker Land web
-
-Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
-
-<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
-
-Click "Email/Social" using Liker ID by email or social login
-
-<figure><img src="../../../.gitbook/assets/Authcore 3-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
-
-Click "Create account".
-
-<figure><img src="../../../.gitbook/assets/Authcore 4-en.png" alt=""><figcaption><p>Click "Create account"</p></figcaption></figure>
-
-Click on any of the social logins to create an account, or enter your email and password and click ‘Create account".
-
-<figure><img src="../../../.gitbook/assets/Authcore 5-en.png" alt=""><figcaption><p>Create account with social login or username+password</p></figcaption></figure>
-
-The rest of the registration process is the same as for the mobile version.

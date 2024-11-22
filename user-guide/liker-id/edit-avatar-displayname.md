@@ -20,7 +20,7 @@ Click on the settings icon located at the lower right-hand corner and select "Pr
 
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" or Keplr to login.
 
