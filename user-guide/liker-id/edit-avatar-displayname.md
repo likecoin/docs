@@ -20,7 +20,7 @@ description: 讓自己的性格更特出
 
 到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 或 Keplr 登入。
 

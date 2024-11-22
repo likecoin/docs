@@ -149,7 +149,7 @@
 ## 💻 去中心應用 <a href="#user-guide" id="user-guide"></a>
 
 * [Liker ID](user-guide/liker-id/README.md)
-  * [以電郵或社交登入 ( Authcore ) 註冊 Liker ID](user-guide/liker-id/register/README.md)
+  * [以電郵或社交登入 ( Authcore ) 註冊](user-guide/liker-id/register/README.md)
     * [保護你的 Liker ID](user-guide/liker-id/register/verifying-email-address.md)
     * [綁定社交帳戶](user-guide/liker-id/register/social-media-logins.md)
     * [重設密碼](user-guide/liker-id/register/reset-password.md)

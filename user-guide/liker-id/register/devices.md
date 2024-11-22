@@ -20,11 +20,11 @@ description: 查看有哪些裝置登入過你的 Liker ID
 
 到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 使用 Liker ID 以電郵/社交登入。
 
-<figure><img src="../../../.gitbook/assets/Authcore 3.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
 
 登入後點右上角頭像，點「設定」再點「Liker ID」。&#x20;
 

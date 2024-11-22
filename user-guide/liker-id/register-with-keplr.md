@@ -42,7 +42,7 @@ description: 以 Keplr 去中化註冊  Liker ID 及管理你的 LikeCoin
 
 登入你的 Keplr 錢包，並到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../.gitbook/assets/Authcore 1.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 彈出視窗出現 Keplr，點它登入 Liker Land。
 
