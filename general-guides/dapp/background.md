@@ -16,7 +16,7 @@ In blockchain terminology, _LikeCoin DAO_ is a decentralized autonomous organiza
 
 ### Liker <a href="#id-5799" id="id-5799"></a>
 
-A citizen in _LikeCoin DAO_. Each _Liker_ has a unique [_Liker ID_](../../depub/liker-id/) to identify herself. While many _Likers_ are writers, photographers, illustrators, editors and curators, _LikeCoin DAO_ totally welcomes silent content consumers and offers services for them to involve and contribute without creating contents.
+A citizen in _LikeCoin DAO_. Each _Liker_ has a unique [_Liker ID_](liker-id/) to identify herself. While many _Likers_ are writers, photographers, illustrators, editors and curators, _LikeCoin DAO_ totally welcomes silent content consumers and offers services for them to involve and contribute without creating contents.
 
 ### Civic Liker <a href="#id-75ea" id="id-75ea"></a>
 

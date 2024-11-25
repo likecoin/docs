@@ -4,7 +4,7 @@ description: How to embed LikeCoin button into Wix
 
 # Wix / Weebly
 
-Before adding the LikeCoin button, please [register a Liker ID](../../../../depub/liker-id/).
+Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).
 
 Create your LikeCoin button link according to the format below:
 

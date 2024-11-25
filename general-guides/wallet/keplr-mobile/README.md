@@ -32,8 +32,8 @@ Keplr Mobile is the mobile wallet provided by Keplr. With the convenience of you
 
 #### You may also export seed words from Liker Land and import them to Keplr Mobile:
 
-{% content-ref url="../../../depub/liker-id/register/export-seed-words.md" %}
-[export-seed-words.md](../../../depub/liker-id/register/export-seed-words.md)
+{% content-ref url="../../../depub/register/export-seed-words.md" %}
+[export-seed-words.md](../../../depub/register/export-seed-words.md)
 {% endcontent-ref %}
 
 {% content-ref url="import-wallet-into-keplr-mobile.md" %}

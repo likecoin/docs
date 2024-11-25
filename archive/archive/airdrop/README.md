@@ -45,7 +45,7 @@ Click on Airdrop mission #1 and the introduction says:
 
 #### Manage LikeCoin
 
-You can manage your LikeCoin by [Keplr](../../../depub/liker-id/register-with-keplr.md) or [Liker Land app](../../../general-guides/dapp/liker-land/download.md). You can use LIKE to [DePub](../../../depub/decentralized-publishing.md) on chain, [trade](../../../general-guides/trade/) in exchanges, [stake](../../../general-guides/stake/delegation-of-likecoin/) to earn reward, [vote](../../../general-guides/governance/direct-vote/) to participate in governance, and [reward creators](../../../general-guides/dapp/liker-land/like.md).
+You can manage your LikeCoin by [Keplr](../../../general-guides/dapp/liker-id/register-with-keplr.md) or [Liker Land app](../../../general-guides/dapp/liker-land/download.md). You can use LIKE to [DePub](../../../depub/decentralized-publishing.md) on chain, [trade](../../../general-guides/trade/) in exchanges, [stake](../../../general-guides/stake/delegation-of-likecoin/) to earn reward, [vote](../../../general-guides/governance/direct-vote/) to participate in governance, and [reward creators](../../../general-guides/dapp/liker-land/like.md).
 
 ![](<../../../.gitbook/assets/Airdrop 05.png>)
 
@@ -111,7 +111,7 @@ Click "Next".
 
 #### Stake LikeCoin
 
-Visit [https://dao.like.co/validators](https://dao.like.co/validators) and connect with [Keplr](../../../depub/liker-id/register-with-keplr.md) or [Authcore](../../../depub/liker-id/register/) (social login). Stake any amount of LikeCoin to at least one [validator](../../../general-guides/governance/what-is-a-validator/) in the “Validators” page.
+Visit [https://dao.like.co/validators](https://dao.like.co/validators) and connect with [Keplr](../../../general-guides/dapp/liker-id/register-with-keplr.md) or [Authcore](../../../depub/register/) (social login). Stake any amount of LikeCoin to at least one [validator](../../../general-guides/governance/what-is-a-validator/) in the “Validators” page.
 
 ![](<../../../.gitbook/assets/Airdrop 14.png>)
 
@@ -135,7 +135,7 @@ Welcome to the LikeCoin DAO.
 
 Click "Next".
 
-Vote on a proposal Visit [https://dao.like.co/proposals/](https://dao.like.co/proposals/) and connect with your [Keplr](../../../depub/liker-id/register-with-keplr.md) or [Authcore](../../../depub/liker-id/register/). In the “Proposals” page, vote on one of the proposals.
+Vote on a proposal Visit [https://dao.like.co/proposals/](https://dao.like.co/proposals/) and connect with your [Keplr](../../../general-guides/dapp/liker-id/register-with-keplr.md) or [Authcore](../../../depub/register/). In the “Proposals” page, vote on one of the proposals.
 
 ![](<../../../.gitbook/assets/Airdrop 16.png>)
 

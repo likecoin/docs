@@ -12,14 +12,14 @@ If the proposal fails to get 100k LikeCoin within the two-week time frame, it wi
 
 Please note that if the proposal fails to achieve quorum or receives more than one-third of the voting power as veto, the proposal will be rejected and the deposited LikeCoin will be expropriated to the Community Pool. If the proposal is successful, the deposit will be returned to the owners.
 
-There are several ways to deposit for a proposal, but we suggest using [dao.like.co](https://dao.like.co/welcome) n conjunction with the [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../depub/liker-id/register/).
+There are several ways to deposit for a proposal, but we suggest using [dao.like.co](https://dao.like.co/welcome) n conjunction with the [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../depub/register/).
 
 How to deposit LikeCoin for a proposal&#x20;
 --------------------------------------------
 
 ### Step 1: Log in to dao.like.co
 
-Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../depub/liker-id/register/) to log in. Note that Keplr Browser Extension and Cosmostation Browser Extension can only be used in desktop browsers, while Authcore is suitable for both desktop and mobile devices.
+Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../wallet/keplr/), [Cosmostation Browser Extension](../wallet/cosmostation/) or [Authcore](../../depub/register/) to log in. Note that Keplr Browser Extension and Cosmostation Browser Extension can only be used in desktop browsers, while Authcore is suitable for both desktop and mobile devices.
 
 ![Go to dao.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in.](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 

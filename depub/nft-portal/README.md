@@ -52,8 +52,8 @@ Write on the Matters website and select "Register ISCN", then select the ISCN on
 
 Set your own introduction, profile picture, and display name so your supporters can know you better.
 
-{% content-ref url="../liker-id/edit-avatar-displayname.md" %}
-[edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
+{% content-ref url="../register/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../register/edit-avatar-displayname.md)
 {% endcontent-ref %}
 
 ## Transfer NFT or Batch send NFT to more than one wallet

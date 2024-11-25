@@ -104,7 +104,7 @@ You can also check your creations on the Liker Land [My Dashboard](../../archive
 
 ## Configuring Liker ID
 
-Before configuring the LikeCoin plugin, please [register a Liker ID](../../depub/liker-id/).
+Before configuring the LikeCoin plugin, please [register a Liker ID](liker-id/).
 
 On the menu, select the Web3Press plugin and choose "Liker ID". Fill in the Liker ID and click "Confirm".
 

@@ -15,7 +15,7 @@ Go to the upper right corner of the Liker Land website and click "Login".
 
 <figure><img src="../../.gitbook/assets/Writing NFT 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
-Or click "Collect Now", "Collect" or the current NFT price and choose [Email/Social](../liker-id/register/), [Keplr](collect-writing-nft-on-desktop.md#keplr), [Cosmostation](collect-writing-nft-on-desktop.md#cosmostation), [Leap](collect-writing-nft-on-desktop.md#leap), [Keplr mobile](collect-writing-nft-on-desktop.md#keplr-mobile), [Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) or [LikeCoin app](collect-writing-nft-on-desktop.md#liker-land-app)...etc to connect wallet, login and purchase Writing NFT.
+Or click "Collect Now", "Collect" or the current NFT price and choose [Email/Social](../register/), [Keplr](collect-writing-nft-on-desktop.md#keplr), [Cosmostation](collect-writing-nft-on-desktop.md#cosmostation), [Leap](collect-writing-nft-on-desktop.md#leap), [Keplr mobile](collect-writing-nft-on-desktop.md#keplr-mobile), [Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) or [LikeCoin app](collect-writing-nft-on-desktop.md#liker-land-app)...etc to connect wallet, login and purchase Writing NFT.
 
 <figure><img src="../../.gitbook/assets/Writing NFT 4-en.png" alt=""><figcaption><p>Various kind of logins</p></figcaption></figure>
 

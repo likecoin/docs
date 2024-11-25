@@ -29,7 +29,7 @@ and other follow up actions:
 10. [Burn ebook](burn.md)
 11. [Transfer ebook or Batch send NFT to more than one wallet](../transfer-nft.md)
 12. [Import EPUB files to various ereaders](./#ereader)
-13. [Creator’s Introduction on Liker Land BookStore](../liker-id/edit-avatar-displayname.md)
+13. [Creator’s Introduction on Liker Land BookStore](../register/edit-avatar-displayname.md)
 
 ***
 
@@ -67,8 +67,8 @@ Visit the[ app.like.co](https://app.like.co/) website and click "Register ISCN".
 
 A pop-up window will appear to connect your wallet. It is recommended to register and **log in with a Liker ID using Email/Social**. For more details, refer to:
 
-{% content-ref url="../liker-id/register/" %}
-[register](../liker-id/register/)
+{% content-ref url="../register/" %}
+[register](../register/)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 6.png" alt=""><figcaption><p>A pop-up window will appear; click and connect to a wallet</p></figcaption></figure>

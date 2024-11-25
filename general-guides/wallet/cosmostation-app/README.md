@@ -34,8 +34,8 @@ Please note that Cosmostation does not support the registration of Liker ID yet.
 
 #### You may also export seed words from Liker Land and import them to Cosmostation app:
 
-{% content-ref url="../../../depub/liker-id/register/export-seed-words.md" %}
-[export-seed-words.md](../../../depub/liker-id/register/export-seed-words.md)
+{% content-ref url="../../../depub/register/export-seed-words.md" %}
+[export-seed-words.md](../../../depub/register/export-seed-words.md)
 {% endcontent-ref %}
 
 {% content-ref url="import-wallet-into-cosmostation-app.md" %}

@@ -7,7 +7,7 @@ description: >-
 # Connecting to my social account
 
 {% hint style="info" %}
-The followings are for [Liker ID registered through Email/Social (with Authcore)](./).
+The followings are for [Liker ID registered through Email/Social (with Authcore)](../../../depub/register/).
 {% endhint %}
 
 ## Why Link Different Social Account Logins:
@@ -47,7 +47,7 @@ Click on the social media login ( except Matters ), follow the on-screen instruc
 
 ### Mobile
 
-On the [LikeCoin app](../../../general-guides/dapp/liker-land/download.md), click on "Settings" at the lower right-hand corner and select "Security", then click "Social Account Login".
+On the [LikeCoin app](../liker-land/download.md), click on "Settings" at the lower right-hand corner and select "Security", then click "Social Account Login".
 
 <figure><img src="../../../.gitbook/assets/social-media-logins-mobile-en.png" alt=""><figcaption><p>Click "Social Account Login"</p></figcaption></figure>
 

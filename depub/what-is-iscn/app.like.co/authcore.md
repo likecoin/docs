@@ -10,7 +10,7 @@ Visit [app.like.co](https://app.like.co) in your browser and click "Connect Wall
 
 <figure><img src="../../../.gitbook/assets/ISCN 1.png" alt=""><figcaption><p>On app.like.co, click "Connect Wallet" in the upper right corner or directly click "Register ISCN"</p></figcaption></figure>
 
-Please log in with [Email/Social.](../../liker-id/register/)&#x20;
+Please log in with [Email/Social.](../../register/)&#x20;
 
 <figure><img src="../../../.gitbook/assets/ISCN EmailSocial.png" alt=""><figcaption><p>Email/Social login</p></figcaption></figure>
 

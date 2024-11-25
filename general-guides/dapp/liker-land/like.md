@@ -6,7 +6,7 @@ description: How does the "Reinventing the Like" Decentralized Rewards work?
 
 Any website embedded with a LikeCoin button can convert "Likes" into rewards, allowing each clap to support content creators and transform likes into actual income.
 
-Users who have registered a [Liker ID](../../../depub/liker-id/) can easily clap or "Like" to support the creators. When a LikeCoin button is present in an article, Likers can clap it 1-5 times to indicate their level of appreciation. Each clap represents a vote for the content, contributing to the creator's share of the daily [Creators Fund](../civic-liker/creators-fund.md) allocation.
+Users who have registered a [Liker ID](../liker-id/) can easily clap or "Like" to support the creators. When a LikeCoin button is present in an article, Likers can clap it 1-5 times to indicate their level of appreciation. Each clap represents a vote for the content, contributing to the creator's share of the daily [Creators Fund](../civic-liker/creators-fund.md) allocation.
 
 [Civic Likers](../civic-liker/), in particular, have a significant impact on the distribution of the daily [Creators Fund](../civic-liker/creators-fund.md) through their claps. By being a Civic Liker, users can use the special feature called "[Super Like](superlike.md)". Clicking the LikeCoin button for the 6th time allows them to share their favorite and noteworthy content to [depub.space](../depub.space/).
 

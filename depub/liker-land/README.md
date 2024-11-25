@@ -52,14 +52,14 @@ You can view the number of NFTs collected, Asset Value (LIKE), the number of NFT
 
 ### Liker ID - [https://like.co/in/settings](https://like.co/in/settings)
 
-{% content-ref url="../liker-id/" %}
-[liker-id](../liker-id/)
+{% content-ref url="../../general-guides/dapp/liker-id/" %}
+[liker-id](../../general-guides/dapp/liker-id/)
 {% endcontent-ref %}
 
 ### Export Wallet Seed Words (For Liker ID registered through Email/Social only) - [https://like.co/in/widget/authcore/seedwords?language=en](https://like.co/in/widget/authcore/seedwords?language=en)
 
-{% content-ref url="../liker-id/register/export-seed-words.md" %}
-[export-seed-words.md](../liker-id/register/export-seed-words.md)
+{% content-ref url="../register/export-seed-words.md" %}
+[export-seed-words.md](../register/export-seed-words.md)
 {% endcontent-ref %}
 
 ### **Clear Reader Cache**

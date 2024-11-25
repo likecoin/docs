@@ -8,7 +8,6 @@ description: Frequently Asked Questions
 ----------------------------------------------------------------------------------------------------------
 
 * ​[What is LikeCoin?](./)
-* [Where to find the latest updates about LikeCoin?](archive/archive/updates.md)
 * [What does the media say about LikeCoin?](general-guides/on-the-news/)
 * [Does LikeCoin provide branding and design materials for download?](general-guides/branding/)
 * [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](https://go.crisp.chat/chat/embed/?website_id=5c009125-5863-4059-ba65-43f177ca33f7)
@@ -74,7 +73,7 @@ description: Frequently Asked Questions
 * [How can the validator receive community fund delegation?](general-guides/governance/what-is-a-validator/community-delegation.md)
 * ​​[How many proposals proceeded by the LikeCoin DAO?](general-guides/governance/proposals.md)
 
-## DApps <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
+## [DApps](faq.md#wo-shi-du-zhe-4) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
 ### [Liker Land](general-guides/dapp/liker-land/)
 
@@ -82,18 +81,18 @@ description: Frequently Asked Questions
 * [What is "Reinventing the Like"? How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](general-guides/dapp/liker-land/like.md)
 * [What is Super Like?](general-guides/dapp/liker-land/superlike.md)
 
-## [​Civic Liker​](general-guides/dapp/civic-liker/) <a href="#civic-liker" id="civic-liker"></a>
+### [​Liker ID​](general-guides/dapp/liker-id/) <a href="#liker-id" id="liker-id"></a>
+
+* [How to register a Liker ID?](general-guides/dapp/liker-id/)
+* [What is Authcore?](depub/register/what-is-authcore.md)
+* [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](depub/register/reset-password.md)
+* [Can I export my private key?](depub/register/export-seed-words.md)
+
+### [​Civic Liker​](general-guides/dapp/civic-liker/) <a href="#civic-liker" id="civic-liker"></a>
 
 * [Why should I become a Civic Liker?](general-guides/dapp/civic-liker/)
 * [How to be a Civic Liker?](general-guides/dapp/civic-liker/be-a-civic-liker.md)
 * [Any benefits?](general-guides/dapp/civic-liker/rationale-and-benefits.md)
-
-## [​Liker ID​](depub/liker-id/) <a href="#liker-id" id="liker-id"></a>
-
-* [How to register a Liker ID?](depub/liker-id/)
-* [What is Authcore?](depub/liker-id/register/what-is-authcore.md)
-* [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](depub/liker-id/register/reset-password.md)
-* [Can I export my private key?](depub/liker-id/register/export-seed-words.md)
 
 ### [LikeCoin button](general-guides/dapp/creator/)
 

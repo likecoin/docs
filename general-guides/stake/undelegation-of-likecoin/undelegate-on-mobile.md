@@ -2,7 +2,7 @@
 
 ## Undelegate LikeCoin via dao.like.co on a mobile browser
 
-Using a mobile browser with [dao.like.co](https://dao.like.co/) can undelegate by [Authcore](../../../depub/liker-id/register/), and the steps are the same as [using a desktop computer to undelegate LikeCoin via dao.like.co](undelegate-on-desktop.md#undelegate-via-dao.like.co).
+Using a mobile browser with [dao.like.co](https://dao.like.co/) can undelegate by [Authcore](../../../depub/register/), and the steps are the same as [using a desktop computer to undelegate LikeCoin via dao.like.co](undelegate-on-desktop.md#undelegate-via-dao.like.co).
 
 ## Undelegate via Keplr Mobile
 

@@ -22,7 +22,7 @@ description: Civic Liker Web3 FAQ
 
 ### **2. How to become a Civic Liker?**
 
-To become a Civic Liker, you need to [register a Liker ID](../../../depub/liker-id/) and delegate a certain amount of LikeCoin to the ["Civic Liker" node](https://bigdipper.live/likecoin/validators/likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug).
+To become a Civic Liker, you need to [register a Liker ID](../liker-id/) and delegate a certain amount of LikeCoin to the ["Civic Liker" node](https://bigdipper.live/likecoin/validators/likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug).
 
 ### **3. How can Civic Liker support creators?**
 

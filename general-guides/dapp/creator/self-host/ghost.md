@@ -6,7 +6,7 @@ description: How to embed LikeCoin button into ghost
 
 Thanks to the user [STANLEY TSAU](https://stanleytsau.me/likebutton-ghost-integration/) for providing the tutorial. Please note that a membership fee is required for using [Ghost](https://ghost.org/pricing/).
 
-Before adding the LikeCoin button, please [register a Liker ID](../../../../depub/liker-id/).
+Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).
 
 ### Modify post hbs
 

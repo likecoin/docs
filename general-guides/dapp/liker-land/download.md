@@ -10,8 +10,8 @@ description: Where to download LikeCoin app?
 * For users in China or Android devices without Google Play, you can download the [APK on GitHub](https://github.com/likecoin/likecoin-app/releases)
 * [Once you have download LikeCoin app](https://liker.land/getapp), please proceed to register a Liker ID.
 
-{% content-ref url="../../../depub/liker-id/" %}
-[liker-id](../../../depub/liker-id/)
+{% content-ref url="../liker-id/" %}
+[liker-id](../liker-id/)
 {% endcontent-ref %}
 
 Log in to the LikeCoin app and you can find the following:
@@ -34,9 +34,9 @@ Log in to the LikeCoin app and you can find the following:
 ## Option 4: Settings
 
 * Language
-* [Profile](../../../depub/liker-id/edit-avatar-displayname.md)
-* Security: [Change Password](../../../depub/liker-id/register/reset-password.md), [2FA](../../../depub/liker-id/register/verifying-email-address.md), [Devices](../../../depub/liker-id/register/devices.md), [Social Account Login](../../../depub/liker-id/register/social-media-logins.md)
+* [Profile](../../../depub/register/edit-avatar-displayname.md)
+* Security: [Change Password](../../../depub/register/reset-password.md), [2FA](../../../depub/register/verifying-email-address.md), [Devices](../../../depub/register/devices.md), [Social Account Login](../liker-id/social-media-logins.md)
 * Wallet Connect
-* [Export Seed Words](../../../depub/liker-id/register/export-seed-words.md)
+* [Export Seed Words](../../../depub/register/export-seed-words.md)
 * Bookmarks
 * [Tweets](superlike.md)

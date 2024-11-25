@@ -8,7 +8,7 @@ description: >-
 
 ## Medium
 
-Before adding the LikeCoin button, please [register a Liker ID](../../../../depub/liker-id/).
+Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).
 
 For example, if your Liker ID is "ckxpress", your LikeCoin button link will be https://button.like.co/ckxpress
 

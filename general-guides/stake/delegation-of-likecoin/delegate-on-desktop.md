@@ -8,7 +8,7 @@ Check out the below tutorial clip for staking via [dao.like.co](https://dao.like
 
 ### Step 1: Log in to dao.like.co
 
-Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/) or [Authcore](../../../depub/liker-id/register/) to log in.
+Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/) or [Authcore](../../../depub/register/) to log in.
 
 ![Go to dao.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
 

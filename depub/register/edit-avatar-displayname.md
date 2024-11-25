@@ -6,21 +6,9 @@ description: Set up your unique identity
 
 ## How to set up
 
-### Mobile
-
-In the [LikeCoin app](../../general-guides/dapp/liker-land/download.md), you can change your avatar by checking the avatar section.
-
-<figure><img src="../../.gitbook/assets/avatar 1-en.png" alt=""><figcaption><p>Change your avatar by checking the avatar section</p></figcaption></figure>
-
-Click on the settings icon located at the lower right-hand corner and select "Profile". Then, click on "Profile" again to change your display name.
-
-<figure><img src="../../.gitbook/assets/avatar 2-en.png" alt=""><figcaption><p>Click on the settings icon located at the lower right-hand corner and select "Profile". Then, click on "Profile" again to change your display name</p></figcaption></figure>
-
-### Web
-
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" or Keplr to login.
 
@@ -55,19 +43,3 @@ Your name and avatar will appear in various [Liker Land](https://liker.land/) sc
 {% endcontent-ref %}
 
 ![LikeCoin button](<../../.gitbook/assets/Settings 02.png>)
-
-### LikeCoin app and web
-
-{% content-ref url="../../general-guides/dapp/liker-land/download.md" %}
-[download.md](../../general-guides/dapp/liker-land/download.md)
-{% endcontent-ref %}
-
-![LikeCoin app and web](<../../.gitbook/assets/Settings 03.png>)
-
-### LIKE pay
-
-{% content-ref url="../../general-guides/wallet/like-pay.md" %}
-[like-pay.md](../../general-guides/wallet/like-pay.md)
-{% endcontent-ref %}
-
-![LIKE pay](<../../.gitbook/assets/Settings 04-en.png>)

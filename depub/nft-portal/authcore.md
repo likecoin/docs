@@ -8,8 +8,8 @@ description: Publish Writing NFT with an article URL by Email/Social
 
 Enter the [**NFT Portal**](https://app.like.co/nft/url) on the desktop computer browser and log in with Email/Social. Learn more about Email/Social login:
 
-{% content-ref url="../liker-id/register/" %}
-[register](../liker-id/register/)
+{% content-ref url="../register/" %}
+[register](../register/)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Portal EmailSocial.png" alt=""><figcaption><p>Login and link to NFT Portal with Email/Social</p></figcaption></figure>

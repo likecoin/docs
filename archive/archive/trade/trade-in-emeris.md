@@ -18,8 +18,8 @@ You will have to use Keplr to login to Emeris. If you are used to managing your 
 
 Register a Liker ID with Keplr.
 
-{% content-ref url="../../../depub/liker-id/register-with-keplr.md" %}
-[register-with-keplr.md](../../../depub/liker-id/register-with-keplr.md)
+{% content-ref url="../../../general-guides/dapp/liker-id/register-with-keplr.md" %}
+[register-with-keplr.md](../../../general-guides/dapp/liker-id/register-with-keplr.md)
 {% endcontent-ref %}
 
 ### Step 2: Deposit

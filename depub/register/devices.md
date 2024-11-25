@@ -12,39 +12,33 @@ You can see computers, phones, and other devices that are currently using or hav
 
 ## Step 1: Login
 
-### Web
-
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
 
 After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
 
-<figure><img src="../../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
 
 Click "AuthCore Settings" in the upper right corner.
 
-<figure><img src="../../../.gitbook/assets/Authcore settings-en.png" alt=""><figcaption><p>Click "AuthCore Settings"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore settings-en.png" alt=""><figcaption><p>Click "AuthCore Settings"</p></figcaption></figure>
 
 Click "Security settings" and "Devices".
 
-![Click "Security settings" and "Devices"](../../../.gitbook/assets/device-1-en.png)
-
-### Mobile
-
-On the [LikeCoin app](../../../general-guides/dapp/liker-land/download.md), click on setting at the lower right hand corner and select "Security", then click "Devices".
+![Click "Security settings" and "Devices"](../../.gitbook/assets/device-1-en.png)
 
 ## Step 2: Log Out Devices
 
 "Manage devices" shows all the devices currently logged in your Liker ID, you can click on one of the devices and click "Log Out", or click "Log out all other devices" to log out all devices.
 
-!["Manage devices" shows all the devices currently logged in your Liker ID](../../../.gitbook/assets/device-2-en.png)
+!["Manage devices" shows all the devices currently logged in your Liker ID](../../.gitbook/assets/device-2-en.png)
 
-![Click on one of the devices and click "Log Out"](../../../.gitbook/assets/device-3-en.png)
+![Click on one of the devices and click "Log Out"](../../.gitbook/assets/device-3-en.png)
 
 {% hint style="warning" %}
 To help keep your Liker ID secure, sign out on devices that:

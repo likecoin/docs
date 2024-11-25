@@ -64,8 +64,8 @@ Click "Sign Up with Email", "Or log in with another method" to register or log i
 
 Learn more about Sign Up with Email:
 
-{% content-ref url="../liker-id/register/" %}
-[register](../liker-id/register/)
+{% content-ref url="../register/" %}
+[register](../register/)
 {% endcontent-ref %}
 
 ## Step 7: Confirm Wallet Address

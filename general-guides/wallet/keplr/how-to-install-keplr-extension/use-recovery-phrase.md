@@ -45,7 +45,7 @@ Please keep your recovery phrase and password safe. If you lose them, you will n
 {% endhint %}
 
 {% hint style="info" %}
-After installation you can also [register a Liker ID](../../../../depub/liker-id/register-with-keplr.md).
+After installation you can also [register a Liker ID](../../../dapp/liker-id/register-with-keplr.md).
 {% endhint %}
 
 ***

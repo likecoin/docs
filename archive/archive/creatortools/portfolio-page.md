@@ -10,11 +10,11 @@ Archived on 2022/08/15. Information is out of date.
 
 ## How to access your Portfolio Page
 
-Portfolio Page helps user to share their reading history, The Portfolio Page url is https://liker.land/\[Your Liker ID], if your [Liker ID](../../../depub/liker-id/) is ckxpress, your link is going to be [https://liker.land/ckxpress](https://liker.land/ckxpress).&#x20;
+Portfolio Page helps user to share their reading history, The Portfolio Page url is https://liker.land/\[Your Liker ID], if your [Liker ID](../../../general-guides/dapp/liker-id/) is ckxpress, your link is going to be [https://liker.land/ckxpress](https://liker.land/ckxpress).&#x20;
 
 ## Personal Information
 
-The left hand side of the Portfolio Page displays information of the user, including [Liker ID](../../../depub/liker-id/) and name. If the user is a [Civic Liker](../../../general-guides/dapp/civic-liker/), the date he/she started to be a Civic Liker and with the following functions:
+The left hand side of the Portfolio Page displays information of the user, including [Liker ID](../../../general-guides/dapp/liker-id/) and name. If the user is a [Civic Liker](../../../general-guides/dapp/civic-liker/), the date he/she started to be a Civic Liker and with the following functions:
 
 * Follow - Click and follow the user
 * [LIKE Pay](../../../developer/like-pay/)－Transfer LikeCoin to the user
