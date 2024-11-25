@@ -41,23 +41,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 ## 製作 EPUB 檔案並輸入元數據 <a href="#edit-metadata" id="edit-metadata"></a>
 
-首先製作好電子書的 [EPUB](https://zh.wikipedia.org/zh-hk/EPUB) 檔案，並確保經已輸入並整理好 Metadata。Metadata 即是[元數據](../what-is-iscn/)。包括書名、作者、封面圖、出版日期、描述等內容。以常用的 EPUB 編輯軟件為例：
-
-#### calibre
-
-在 [calibre](https://calibre-ebook.com/) 編輯元數據的按鈕就在畫面的左上角 Edit Metadata，整理好元數據後記緊按 Save to disk。
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 1.png" alt=""><figcaption><p>在 calibre 點 Edit Metadata 開啟編輯元數據介面，完成後按 Save to disk</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 2.png" alt=""><figcaption><p>編輯元數據後按「OK」</p></figcaption></figure>
-
-#### Sigil
-
-在 [Sigil](https://sigil-ebook.com/) 可按 F8 鍵可即時編輯元數據。
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 3.png" alt=""><figcaption><p>在 Sigl 按 F8 鍵編輯元數據</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 4.png" alt=""><figcaption><p>編輯元數據後按「確定」</p></figcaption></figure>
+首先製作好電子書的 [EPUB](https://zh.wikipedia.org/zh-hk/EPUB) 檔案，並確保經已輸入並整理好 Metadata。Metadata 即是[元數據](../what-is-iscn/)。包括書名、作者、封面圖、出版日期、描述等內容。接下內系統能自動從 EPUB Metadata 抽取所需資料以供出版之用。
 
 ***
 
