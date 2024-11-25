@@ -35,23 +35,7 @@ and other follow up actions:
 
 ## Create an EPUB file and enter metadata
 
-Create an [EPUB](https://en.wikipedia.org/wiki/EPUB) file and enter [metadata](../what-is-iscn/). First, create the EPUB file for the ebook, and ensure that the metadata has been entered and organized. Metadata includes book title, author, cover image, publication date, description, etc. Taking the commonly used EPUB editing software as an example:
-
-#### calibre
-
-In [calibre](https://calibre-ebook.com/), the "Edit Metadata" button is in the upper left corner of the screen. After organizing the metadata, click "Save to disk".
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 1.png" alt=""><figcaption><p>The "Edit Metadata" and "Save to disk" buttons in calibre</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 2.png" alt=""><figcaption><p>Click "OK" after edited metadata</p></figcaption></figure>
-
-#### Sigil
-
-In [Sigil](https://sigil-ebook.com/), you can press the F8 key to edit metadata on the fly.
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 3.png" alt=""><figcaption><p>In Sigil press the F8 key to edit metadata</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 4.png" alt=""><figcaption><p>Click "OK" after edited metadata</p></figcaption></figure>
+Create an [EPUB](https://en.wikipedia.org/wiki/EPUB) file and enter [metadata](../what-is-iscn/). First, create the EPUB file for the ebook, and ensure that the metadata has been entered and organized. Metadata includes book title, author, cover image, publication date, description, etc. The system can automatically extract the necessary information from EPUB Metadata for publishing later on.
 
 ***
 
