@@ -12,7 +12,7 @@ Archived on 2022/08/30. Airdrop discountinued.
 
 ### Liker ID registered by general method (with Authcore)
 
-Users who [registered Liker ID by general method (with Authcore)](../../../user-guide/liker-id/register/) and Civic Liker, please prepare your Liker Land app and desktop computer to claim the airdrop.
+Users who [registered Liker ID by general method (with Authcore)](../../../depub/liker-id/register/) and Civic Liker, please prepare your Liker Land app and desktop computer to claim the airdrop.
 
 Go to the [LikeCoin Airdrop](https://app.like.co/airdrop/check) page, select "Liker ID", or click "Connect Wallet" in the upper right corner.
 

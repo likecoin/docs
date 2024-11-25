@@ -10,7 +10,7 @@ Archived on 2024/08/14. Information is out of date.
 
 ## Login to NFT Portal&#x20;
 
-Enter the [**NFT Portal**](https://app.like.co/nft/url) on the desktop computer browser and choose [Liker ID](../../../user-guide/liker-land/download.md) to login and link to the website.
+Enter the [**NFT Portal**](https://app.like.co/nft/url) on the desktop computer browser and choose [Liker ID](../../../general-guides/dapp/liker-land/download.md) to login and link to the website.
 
 <figure><img src="../../../.gitbook/assets/NFT Portal Liker Land app.png" alt=""><figcaption><p>Login and link to NFT Portal with Liker ID</p></figcaption></figure>
 
@@ -18,7 +18,7 @@ A QR Code will appear after clicking "Liker ID".
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>After clicking Liker ID, a QR code appears</p></figcaption></figure>
 
-On the [LikeCoin app](../../../user-guide/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
+On the [LikeCoin app](../../../general-guides/dapp/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1c-en.png" alt=""><figcaption><p>Open the LikeCoin app, click and scan the QR Code</p></figcaption></figure>
 
@@ -122,7 +122,7 @@ LikeCoin app windows will pop up, please click "Approve" to sign and register IS
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 6-1.png" alt=""><figcaption><p>Sign to Register ISCN ID, Arweave ID, Class ID &#x26; Mint Writing NFT</p></figcaption></figure>
 
-Seeing Completed! and the 3D cover image means that the NFT has been minted. If the [LikeCoin button](../../../user-guide/creator/) has not been installed on the website, you can directly paste the code of Embed NFT widget into your site, and the [NFT Widget](../../../depub/collect-writing-nft/nft-widget.md) can be displayed on any web page.
+Seeing Completed! and the 3D cover image means that the NFT has been minted. If the [LikeCoin button](../../../general-guides/dapp/creator/) has not been installed on the website, you can directly paste the code of Embed NFT widget into your site, and the [NFT Widget](../../../depub/collect-writing-nft/nft-widget.md) can be displayed on any web page.
 
 Click "View Your NFT" to view your Writing NFT.
 

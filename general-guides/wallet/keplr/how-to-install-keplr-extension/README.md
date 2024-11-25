@@ -65,7 +65,7 @@ Please also keep your private key and password safe. If you lose them, you will 
 {% endhint %}
 
 {% hint style="info" %}
-After installation you can also [register a Liker ID](../../../../user-guide/liker-id/register-with-keplr.md).
+After installation you can also [register a Liker ID](../../../../depub/liker-id/register-with-keplr.md).
 {% endhint %}
 
 ***

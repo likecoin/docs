@@ -104,7 +104,7 @@ Cosmostation windows will pop up, please click "Confirm" to sign and register IS
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6-1.png" alt=""><figcaption><p>Sign to Register ISCN ID, Arweave ID, Class ID &#x26; Mint Writing NFT</p></figcaption></figure>
 
-Seeing Completed! and the 3D cover image means that the NFT has been minted. If the [LikeCoin button](../../user-guide/creator/) has not been installed on the website, you can directly paste the code of Embed NFT widget into your site, and the [NFT Widget](../collect-writing-nft/nft-widget.md) can be displayed on any web page.
+Seeing Completed! and the 3D cover image means that the NFT has been minted. If the [LikeCoin button](../../general-guides/dapp/creator/) has not been installed on the website, you can directly paste the code of Embed NFT widget into your site, and the [NFT Widget](../collect-writing-nft/nft-widget.md) can be displayed on any web page.
 
 Click "View Your NFT" to view your Writing NFT.
 

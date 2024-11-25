@@ -18,5 +18,5 @@ A [transaction fee](../../wallet/transaction-fee.md) is required to undelegate L
 {% endhint %}
 
 {% hint style="danger" %}
-If you find that the amount of LikeCoin you undelegated is less than what you initially delegated, it may be because your validator was penalized for [failing to validate transactions properly](../../../user-guide/background.md#9e68). It's important to choose your validator wisely to avoid this situation.
+If you find that the amount of LikeCoin you undelegated is less than what you initially delegated, it may be because your validator was penalized for [failing to validate transactions properly](../../dapp/background.md#9e68). It's important to choose your validator wisely to avoid this situation.
 {% endhint %}

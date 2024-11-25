@@ -14,8 +14,8 @@ Please note providing liquidity may result in impermanent loss, assess the risks
 
 Liquidity providing requires registration of Keplr wallet
 
-{% content-ref url="../../../user-guide/liker-id/register-with-keplr.md" %}
-[register-with-keplr.md](../../../user-guide/liker-id/register-with-keplr.md)
+{% content-ref url="../../../depub/liker-id/register-with-keplr.md" %}
+[register-with-keplr.md](../../../depub/liker-id/register-with-keplr.md)
 {% endcontent-ref %}
 
 and depositing LikeCoin to Keplr.

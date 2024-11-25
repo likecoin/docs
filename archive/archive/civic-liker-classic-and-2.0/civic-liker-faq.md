@@ -5,7 +5,7 @@ description: Civic Liker Classic and Civic Liker 2.0
 # Civic Liker FAQ
 
 {% hint style="danger" %}
-Archived on 2022/06/14. Information is out of date, please refer to the new entry "[Civic Liker](../../../user-guide/civic-liker/)".
+Archived on 2022/06/14. Information is out of date, please refer to the new entry "[Civic Liker](../../../general-guides/dapp/civic-liker/)".
 {% endhint %}
 
 On December 21, 2020 Civic Liker Classic evolved to Civic Liker 2.0. Have questions about the new scheme? Check out the following FAQ.

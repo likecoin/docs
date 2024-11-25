@@ -8,7 +8,7 @@ Using the One-Click Collect All feature allows users to purchase all Writing NFT
 
 ## Step 1: Login to your wallet and initiate One-Click Collect
 
-Please log in to your [Email/Social](../../user-guide/liker-id/register/), [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikerCoin app](../../user-guide/liker-land/download.md)...etc. Then, on the creator's [Bookshelf](../liker-land/bookshelf.md), click "Collect All".
+Please log in to your [Email/Social](../liker-id/register/), [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikerCoin app](../../general-guides/dapp/liker-land/download.md)...etc. Then, on the creator's [Bookshelf](../liker-land/bookshelf.md), click "Collect All".
 
 <figure><img src="../../.gitbook/assets/Collect All 1-en.png" alt=""><figcaption><p>Click "Collect All"</p></figcaption></figure>
 

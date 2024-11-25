@@ -8,7 +8,7 @@ description: >-
 
 ## Collect Writing NFT on LikeCoin app
 
-**Step 1**: After logging in to the [LikeCoin app](../../user-guide/liker-land/download.md), go to the the stacked icon to browse the NFT bookstore.
+**Step 1**: After logging in to the [LikeCoin app](../../general-guides/dapp/liker-land/download.md), go to the the stacked icon to browse the NFT bookstore.
 
 <figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 0-en.png" alt=""><figcaption><p>Browse the NFT bookstore</p></figcaption></figure>
 
@@ -88,7 +88,7 @@ If you encounter problems during the purchase process, please go to the settings
 
 ### **Via the** LikeCoin app
 
-**Step 1**: Log in to the [LikeCoin app](../../user-guide/liker-land/download.md) and use the mobile browser to browse the NFT that you want to collect. Click "Collect Now," "Collect," or the current NFT price.
+**Step 1**: Log in to the [LikeCoin app](../../general-guides/dapp/liker-land/download.md) and use the mobile browser to browse the NFT that you want to collect. Click "Collect Now," "Collect," or the current NFT price.
 
 <figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 1-en.png" alt=""><figcaption><p>Click "Collect Now"</p></figcaption></figure>
 

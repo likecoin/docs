@@ -5,10 +5,10 @@ description: Why should I become a Civic Liker? Any benefits?
 # Civic Liker Classic and 2.0
 
 {% hint style="danger" %}
-Archived on 2022/06/14. Information is out of date, please refer to the new entry "[Civic Liker](../../../user-guide/civic-liker/)".
+Archived on 2022/06/14. Information is out of date, please refer to the new entry "[Civic Liker](../../../general-guides/dapp/civic-liker/)".
 {% endhint %}
 
-![](<../../../.gitbook/assets/LikeCoin\_AD98\_2point0-01 (1).png>)
+![](<../../../.gitbook/assets/LikeCoin_AD98_2point0-01 (1).png>)
 
 ## [Be a **Civic Liker**](be-a-civic-liker.md)
 
@@ -47,7 +47,7 @@ Other than supporting creators, Civic Likers enjoy various benefits such as taki
 * Receive idol newsletter
 * Join offline events
 * Detailed reward distribution report
-* [Bookstores discount  ](../../../user-guide/civic-liker/rationale-and-benefits.md)
+* [Bookstores discount  ](../../../general-guides/dapp/civic-liker/rationale-and-benefits.md)
 
 Encourage more people to join Civic Liker and build a healthy decentralized publishing ecosystem, please support the Republic of Liker Land.
 

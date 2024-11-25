@@ -5,7 +5,7 @@ description: Yearly plan only applicable for subscription to Civic Liker Classic
 # How to pay Civic Liker yearly subscription
 
 {% hint style="danger" %}
-Archived on 2022/06/14. Information is out of date, please refer to the new entry "[Civic Liker](../../../user-guide/civic-liker/)".
+Archived on 2022/06/14. Information is out of date, please refer to the new entry "[Civic Liker](../../../general-guides/dapp/civic-liker/)".
 {% endhint %}
 
 {% hint style="warning" %}

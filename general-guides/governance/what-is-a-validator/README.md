@@ -4,7 +4,7 @@ description: What is a validator?
 
 # Validator
 
-![Validator](../../../.gitbook/assets/LikeCoin\_AD78\_PostList\_1213.png)
+![Validator](../../../.gitbook/assets/LikeCoin_AD78_PostList_1213.png)
 
 ## Bank + Senator
 
@@ -28,7 +28,7 @@ Liker endorsement is reflected through delegation. When a Liker delegates their 
 
 ### Active Validator
 
-An active validator is one that performs its duty of [validating transactions](../../../user-guide/background.md#9e68) and has the most delegated LikeCoin within the active validator numbers as governed by the constitution.
+An active validator is one that performs its duty of [validating transactions](../../dapp/background.md#9e68) and has the most delegated LikeCoin within the active validator numbers as governed by the constitution.
 
 
 

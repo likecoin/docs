@@ -2,7 +2,7 @@
 description: Web version of Liker Land
 ---
 
-# Liker Land web
+# About Liker Land
 
 After logging in to Liker Land web - [https://Liker.Land](https://liker.land/), click the avatar in the upper right corner and the menu will pop up.
 
@@ -52,14 +52,14 @@ You can view the number of NFTs collected, Asset Value (LIKE), the number of NFT
 
 ### Liker ID - [https://like.co/in/settings](https://like.co/in/settings)
 
-{% content-ref url="../../user-guide/liker-id/" %}
-[liker-id](../../user-guide/liker-id/)
+{% content-ref url="../liker-id/" %}
+[liker-id](../liker-id/)
 {% endcontent-ref %}
 
 ### Export Wallet Seed Words (For Liker ID registered through Email/Social only) - [https://like.co/in/widget/authcore/seedwords?language=en](https://like.co/in/widget/authcore/seedwords?language=en)
 
-{% content-ref url="../../user-guide/liker-id/register/export-seed-words.md" %}
-[export-seed-words.md](../../user-guide/liker-id/register/export-seed-words.md)
+{% content-ref url="../liker-id/register/export-seed-words.md" %}
+[export-seed-words.md](../liker-id/register/export-seed-words.md)
 {% endcontent-ref %}
 
 ### **Clear Reader Cache**

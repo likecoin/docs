@@ -36,7 +36,7 @@ DigiFinex has **a minimum deposit amount of 100 LikeCoin. A single deposit which
 
 ## Step 2: Transfer LikeCoin to DigiFinex
 
-Open the [Liker Land app](../../user-guide/liker-land/download.md), click on "My Wallet." Then, click on the \[Send] button (circled in red below).
+Open the [Liker Land app](../dapp/liker-land/download.md), click on "My Wallet." Then, click on the \[Send] button (circled in red below).
 
 ![On Liker Land app select \[Send\] (circled in red)](../../.gitbook/assets/like-pay-1-en.png)
 

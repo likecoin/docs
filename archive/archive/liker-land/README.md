@@ -10,12 +10,12 @@ Archived on 2022/06/28. Information is out of date.
 
 
 
-![](<../../../.gitbook/assets/LikeCoin\_AD72\_AppStore\_OG\_ios\_android (1).png>)
+![](<../../../.gitbook/assets/LikeCoin_AD72_AppStore_OG_ios_android (1).png>)
 
 Liker Land is the user interface of LikeCoin, with function collaboration on reading, content collection, crypto wallet and ID Card, bridging readers and content creators.
 
-{% content-ref url="../../../user-guide/liker-land/download.md" %}
-[download.md](../../../user-guide/liker-land/download.md)
+{% content-ref url="../../../general-guides/dapp/liker-land/download.md" %}
+[download.md](../../../general-guides/dapp/liker-land/download.md)
 {% endcontent-ref %}
 
 ## **For Readers**
@@ -38,7 +38,7 @@ Bookmarking any web page to Liker Land [Readling list](readling-list.md) to read
 
 ### **Reinventing the Like**
 
-From [each clap](../../../user-guide/liker-land/like.md) the reader made, content creators can earn rewards.
+From [each clap](../../../general-guides/dapp/liker-land/like.md) the reader made, content creators can earn rewards.
 
 ## For Content Creators
 
@@ -49,14 +49,14 @@ As a Decentralized Publishing Infrastructure, LikeCoin provides Decentralized Re
 * [Decentralized Publishing Infrastructure](../../../depub/decentralized-publishing.md) help creators to register content metadata in the LikeCoin public blockchain
 * User [app.like.co](../../../depub/what-is-iscn/app.like.co/) or [ISCN Batch Uploader](../../../depub/what-is-iscn/iscn-batch-uploader.md) to register ISCN
 * Help creators to write content to [IPFS](https://ipfs.io/), achieve it through [Matters](https://matters.news/)
-* DePub + ISCN in one go is available on [WordPress](../../../user-guide/wordpress.md) at the moment
+* DePub + ISCN in one go is available on [WordPress](../../../general-guides/dapp/wordpress.md) at the moment
 
 ### Decentralized Rewards&#xD;
 
-* **Reinventing the Like**: By simply attaching a [LikeCoin button](../../../user-guide/creator/) beneath your content and without setting up a paywall, every Like by readers is turned into measurable rewards in LikeCoin tokens.
-* Rewards to creators are from two sources, [Civic Liker](../../../user-guide/civic-liker/) to reward creativity and journalism, while the creators fund, distributed according to the Likes of all users, doubles the rewarding pool.
+* **Reinventing the Like**: By simply attaching a [LikeCoin button](../../../general-guides/dapp/creator/) beneath your content and without setting up a paywall, every Like by readers is turned into measurable rewards in LikeCoin tokens.
+* Rewards to creators are from two sources, [Civic Liker](../../../general-guides/dapp/civic-liker/) to reward creativity and journalism, while the creators fund, distributed according to the Likes of all users, doubles the rewarding pool.
 
 ### Decentralized Editorial&#xD;
 
 * [Liker Land](today-headline.md): "Not Browsing, But Reading", our mobile app designed to be scarce to cut out noise from signals.
-* Apart from rewarding creators as a Liker, readers may go further to become a [Content Jockey](../../../user-guide/liker-land/superlike.md), help distribute creative stories and insightful commentaries with Super Likes.
+* Apart from rewarding creators as a Liker, readers may go further to become a [Content Jockey](../../../general-guides/dapp/liker-land/superlike.md), help distribute creative stories and insightful commentaries with Super Likes.

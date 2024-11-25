@@ -2,7 +2,7 @@
 
 ## Undelegate LikeCoin via dao.like.co on a mobile browser
 
-Using a mobile browser with [dao.like.co](https://dao.like.co/) can redelegate by [Authcore](../../../user-guide/liker-id/register/), and the steps are the same as [using a desktop computer to redelegate LikeCoin via dao.like.co](redelegate-on-desktop.md#redelegate-via-dao.like.co).
+Using a mobile browser with [dao.like.co](https://dao.like.co/) can redelegate by [Authcore](../../../depub/liker-id/register/), and the steps are the same as [using a desktop computer to redelegate LikeCoin via dao.like.co](redelegate-on-desktop.md#redelegate-via-dao.like.co).
 
 ## Redelegate via Keplr Mobile
 
@@ -76,7 +76,7 @@ Select the validator that you want to redelegate to and click "Next" then confir
 
 ## **Redelegate via** LikeCoin app
 
-[LikeCoin app](../../../user-guide/liker-land/download.md) "Redelegate" function helps users to transfer the delegated LikeCoin from one validator to another. LikeCoin will be transferred immediately after confirmation, voting power of the validator is affected too. The newly delegated LikeCoin receives rewards according to the rewards percentage of the new validator.
+[LikeCoin app](../../dapp/liker-land/download.md) "Redelegate" function helps users to transfer the delegated LikeCoin from one validator to another. LikeCoin will be transferred immediately after confirmation, voting power of the validator is affected too. The newly delegated LikeCoin receives rewards according to the rewards percentage of the new validator.
 
 Steps for Redelegation:
 

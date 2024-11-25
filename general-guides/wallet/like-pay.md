@@ -8,7 +8,7 @@ description: Transfer LikeCoin using LikeCoin app in a few clicks
 
 ### Step 1&#xD;
 
-Download the [LikeCoin app](https://liker.land/getapp), [register a Liker ID through Email/Social (with Authcore)](../../user-guide/liker-id/register/), and login.
+Download the [LikeCoin app](https://liker.land/getapp), [register a Liker ID through Email/Social (with Authcore)](../../depub/liker-id/register/), and login.
 
 ### Step 2
 
@@ -26,7 +26,7 @@ Fill in the Liker ID or wallet address in the \[Receiver's Liker ID or address] 
 
 The LikeCoin app will open your phone camera, scan the LikeCoin receiver's QR Code, and click \[Next].
 
-![Scan the LikeCoin receiver's QR Code](../../.gitbook/assets/IMG\_2158.PNG)
+![Scan the LikeCoin receiver's QR Code](../../.gitbook/assets/IMG_2158.PNG)
 
 ### **Step 5**
 

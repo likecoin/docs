@@ -21,7 +21,7 @@ Before becoming a Civic Liker, please [register a Liker ID](https://docs.like.co
 
 ![](../../../.gitbook/assets/register-civic-liker-1-en.png)
 
-* Click on the "Become a Civic Liker" button on the content creator's [LikeCoin button](../../../user-guide/creator/)
+* Click on the "Become a Civic Liker" button on the content creator's [LikeCoin button](../../../general-guides/dapp/creator/)
 
 ![](../../../.gitbook/assets/register-civic-liker-2.png)
 

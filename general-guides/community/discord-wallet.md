@@ -24,7 +24,7 @@ In the [LikeCoin Discord](https://discord.com/invite/likecoin), users can send a
 
 <figure><img src="../../.gitbook/assets/discord set wallet 4.png" alt=""><figcaption><p>Click "Connect" to register receiving address</p></figcaption></figure>
 
-5\. Log in to your [Keplr](../wallet/keplr/), [LikeCoin app](../../user-guide/liker-land/download.md) or [Cosmostation](../wallet/cosmostation/) wallet and connect.
+5\. Log in to your [Keplr](../wallet/keplr/), [LikeCoin app](../dapp/liker-land/download.md) or [Cosmostation](../wallet/cosmostation/) wallet and connect.
 
 <figure><img src="../../.gitbook/assets/discord set wallet 5.png" alt=""><figcaption><p>Log in to wallet</p></figcaption></figure>
 
@@ -54,7 +54,7 @@ In the [LikeCoin Discord](https://discord.com/invite/likecoin), users can send a
 
 <figure><img src="../../.gitbook/assets/discord deposit 3.png" alt=""><figcaption><p>Click "Deposit" in the private message</p></figcaption></figure>
 
-4\. Log in to your [Keplr](../wallet/keplr/), [LikeCoin app](../../user-guide/liker-land/download.md) or [Cosmostation](../wallet/cosmostation/) wallet and connect.
+4\. Log in to your [Keplr](../wallet/keplr/), [LikeCoin app](../dapp/liker-land/download.md) or [Cosmostation](../wallet/cosmostation/) wallet and connect.
 
 <figure><img src="../../.gitbook/assets/discord deposit 4.png" alt=""><figcaption><p>Log in to wallet</p></figcaption></figure>
 

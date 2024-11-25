@@ -13,7 +13,7 @@ If you would like to know if you are eligible for the airdrop or not, please [re
 There are 4 tasks required to claim the LikeCoin Airdrop, including:
 
 * \#1 [Manage LikeCoin](../../../general-guides/wallet/)
-* \#2 [Decentralize Tweeting](../../../user-guide/depub.space/)
+* \#2 [Decentralize Tweeting](../../../general-guides/dapp/depub.space/)
 * \#3 [Stake LikeCoin](../../../general-guides/stake/delegation-of-likecoin/)
 * \#4 [Vote on LikeCoin DAO](../../../general-guides/governance/direct-vote/)
 
@@ -45,7 +45,7 @@ Click on Airdrop mission #1 and the introduction says:
 
 #### Manage LikeCoin
 
-You can manage your LikeCoin by [Keplr](../../../user-guide/liker-id/register-with-keplr.md) or [Liker Land app](../../../user-guide/liker-land/download.md). You can use LIKE to [DePub](../../../depub/decentralized-publishing.md) on chain, [trade](../../../general-guides/trade/) in exchanges, [stake](../../../general-guides/stake/delegation-of-likecoin/) to earn reward, [vote](../../../general-guides/governance/direct-vote/) to participate in governance, and [reward creators](../../../user-guide/liker-land/like.md).
+You can manage your LikeCoin by [Keplr](../../../depub/liker-id/register-with-keplr.md) or [Liker Land app](../../../general-guides/dapp/liker-land/download.md). You can use LIKE to [DePub](../../../depub/decentralized-publishing.md) on chain, [trade](../../../general-guides/trade/) in exchanges, [stake](../../../general-guides/stake/delegation-of-likecoin/) to earn reward, [vote](../../../general-guides/governance/direct-vote/) to participate in governance, and [reward creators](../../../general-guides/dapp/liker-land/like.md).
 
 ![](<../../../.gitbook/assets/Airdrop 05.png>)
 
@@ -93,8 +93,8 @@ Native on chain, privacy by default. Visit [https://depub.space/](https://depub.
 
 Click "Tweet now" to tweet at [depub.space](https://depub.space/), and click "Done" to claim a 25% airdrop when finished. For tutorial about depub.space:
 
-{% content-ref url="../../../user-guide/depub.space/" %}
-[depub.space](../../../user-guide/depub.space/)
+{% content-ref url="../../../general-guides/dapp/depub.space/" %}
+[depub.space](../../../general-guides/dapp/depub.space/)
 {% endcontent-ref %}
 
 ## #3 Stake LikeCoin
@@ -111,7 +111,7 @@ Click "Next".
 
 #### Stake LikeCoin
 
-Visit [https://dao.like.co/validators](https://dao.like.co/validators) and connect with [Keplr](../../../user-guide/liker-id/register-with-keplr.md) or [Authcore](../../../user-guide/liker-id/register/) (social login). Stake any amount of LikeCoin to at least one [validator](../../../general-guides/governance/what-is-a-validator/) in the “Validators” page.
+Visit [https://dao.like.co/validators](https://dao.like.co/validators) and connect with [Keplr](../../../depub/liker-id/register-with-keplr.md) or [Authcore](../../../depub/liker-id/register/) (social login). Stake any amount of LikeCoin to at least one [validator](../../../general-guides/governance/what-is-a-validator/) in the “Validators” page.
 
 ![](<../../../.gitbook/assets/Airdrop 14.png>)
 
@@ -135,7 +135,7 @@ Welcome to the LikeCoin DAO.
 
 Click "Next".
 
-Vote on a proposal Visit [https://dao.like.co/proposals/](https://dao.like.co/proposals/) and connect with your [Keplr](../../../user-guide/liker-id/register-with-keplr.md) or [Authcore](../../../user-guide/liker-id/register/). In the “Proposals” page, vote on one of the proposals.
+Vote on a proposal Visit [https://dao.like.co/proposals/](https://dao.like.co/proposals/) and connect with your [Keplr](../../../depub/liker-id/register-with-keplr.md) or [Authcore](../../../depub/liker-id/register/). In the “Proposals” page, vote on one of the proposals.
 
 ![](<../../../.gitbook/assets/Airdrop 16.png>)
 

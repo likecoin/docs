@@ -14,7 +14,7 @@ On [Liker Land](https://liker.land/), Click the avatar in the upper right corner
 
 ## LikeCoin app
 
-Click :bell: on the [LikeCoin app](../../user-guide/liker-land/download.md) to check for notifications.
+Click :bell: on the [LikeCoin app](../../general-guides/dapp/liker-land/download.md) to check for notifications.
 
 <figure><img src="../../.gitbook/assets/Liker Land app Writing NFT 3-en.png" alt=""><figcaption><p>Click<span data-gb-custom-inline data-tag="emoji" data-code="1f514">🔔</span>on the LikeCoin app</p></figcaption></figure>
 

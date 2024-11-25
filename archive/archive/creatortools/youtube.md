@@ -12,7 +12,7 @@ Archived on 2022/06/14. Information is out of date.
 
 Liker Land Chrome / Brave / Firefox Extension is not only for [bookmarking any web page to your Liker Land Reading List for reading them later](../liker-land/readling-list.md), Youtuber can also earn LikeCoin with it. Just complete a simple step when uploading your video and you are ready to get rewards.
 
-Before installing the LikeCoin plugin, please [register a Liker ID](../../../user-guide/liker-id/).
+Before installing the LikeCoin plugin, please [register a Liker ID](../../../depub/liker-id/).
 
 ### Step 1: Install Liker Land Chrome / Brave / Firefox extension
 

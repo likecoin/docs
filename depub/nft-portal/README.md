@@ -12,7 +12,7 @@ description: Publish ANY webpage as NFT
 
 ### Option 1: Publish Writing NFT with Web3Press
 
-Authors can use [**Web3Press**](../../user-guide/wordpress.md) to publish articles, register ISCN and publish NFT in one go. If the author does not use WordPress.
+Authors can use [**Web3Press**](../../general-guides/dapp/wordpress.md) to publish articles, register ISCN and publish NFT in one go. If the author does not use WordPress.
 
 ### Option 2: Publish Writing NFT with an article URL
 
@@ -52,8 +52,8 @@ Write on the Matters website and select "Register ISCN", then select the ISCN on
 
 Set your own introduction, profile picture, and display name so your supporters can know you better.
 
-{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
-[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
+{% content-ref url="../liker-id/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
 {% endcontent-ref %}
 
 ## Transfer NFT or Batch send NFT to more than one wallet

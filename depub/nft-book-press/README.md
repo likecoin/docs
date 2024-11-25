@@ -29,7 +29,7 @@ and other follow up actions:
 10. [Burn ebook](burn.md)
 11. [Transfer ebook or Batch send NFT to more than one wallet](../transfer-nft.md)
 12. [Import EPUB files to various ereaders](./#ereader)
-13. [Creator’s Introduction on Liker Land BookStore](../../user-guide/liker-id/edit-avatar-displayname.md)
+13. [Creator’s Introduction on Liker Land BookStore](../liker-id/edit-avatar-displayname.md)
 
 ***
 
@@ -67,8 +67,8 @@ Visit the[ app.like.co](https://app.like.co/) website and click "Register ISCN".
 
 A pop-up window will appear to connect your wallet. It is recommended to register and **log in with a Liker ID using Email/Social**. For more details, refer to:
 
-{% content-ref url="../../user-guide/liker-id/register/" %}
-[register](../../user-guide/liker-id/register/)
+{% content-ref url="../liker-id/register/" %}
+[register](../liker-id/register/)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 6.png" alt=""><figcaption><p>A pop-up window will appear; click and connect to a wallet</p></figcaption></figure>
@@ -97,7 +97,7 @@ The system will automatically split the EPUB file content into two files: one is
 8. URL: The URL of the EPUB.
 9. License: The default is "Copyright. All rights reserved" for copyright declaration.
 10. Content Fingerprints: These are URL hashes of the book and its cover. Each pair corresponds to one file, including IPFS and AR (Arweave) formats. Click on the URLs to check whether the content has been successfully uploaded. For instance, the four hashes in the attached screenshot represent the IPFS EPUB file, IPFS book cover file, AR EPUB file, and AR book cover file.
-11. \+Other settings: Click on it to fill in the URL and ISBN fields if required.
+11. +Other settings: Click on it to fill in the URL and ISBN fields if required.
 
 After confirming that everything is correct, click "Register".
 
@@ -275,5 +275,5 @@ Go back to Liker Land to check that the ebook has been successfully listed for s
 
 Besides using USB to import EPUB files to ereaders, different brands also support uploading via network interfaces:
 
-* Kindle - [Send to Kindle](https://www.amazon.com/-/zh\_TW/gp/sendtokindle)
+* Kindle - [Send to Kindle](https://www.amazon.com/-/zh_TW/gp/sendtokindle)
 * Boox - [The Complete Guide of Transferring Files](https://shop.boox.com/blogs/news/the-complete-guide-of-transferring-files)

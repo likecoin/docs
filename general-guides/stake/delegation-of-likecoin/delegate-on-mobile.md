@@ -2,7 +2,7 @@
 
 ## Delegate LikeCoin via dao.like.co on a mobile browser
 
-Using a mobile browser with [dao.like.co](https://dao.like.co/) can delegate by [Authcore](../../../user-guide/liker-id/register/), and the steps are the same as [using a desktop computer to delegate LikeCoin via dao.like.co](delegate-on-desktop.md#delegate-via-dao.like.co).
+Using a mobile browser with [dao.like.co](https://dao.like.co/) can delegate by [Authcore](../../../depub/liker-id/register/), and the steps are the same as [using a desktop computer to delegate LikeCoin via dao.like.co](delegate-on-desktop.md#delegate-via-dao.like.co).
 
 ## Delegate via Keplr Mobile
 
@@ -38,29 +38,13 @@ The estimated [transaction fee](../../wallet/transaction-fee.md) is displayed; c
 
 You will see "Transaction pending" and then "Transaction successful", indicating that the delegation is complete. Click "Confirm" to return to the homepage.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile Transaction Pending.png" alt=""><figcaption><p>Transaction pending</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile Transaction successful.png" alt=""><figcaption><p>Transaction successful</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Keplr mobile Transaction Pending.png" alt=""><figcaption><p>Transaction pending</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr mobile Transaction successful.png" alt=""><figcaption><p>Transaction successful</p></figcaption></figure></div>
 
 ### Step 6: Check your delegation and withdraw rewards
 
 Click "Claim" on the Keplr Mobile homepage to withdraw your rewards, review the details again and click "Approve". Clicking "Staking" and the Staking Dashboard will appear.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile delegate 6.png" alt=""><figcaption><p>Click "Claim" to withdraw rewards or Clicking "Staking"<br>to withdraw your rewards</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile delegate 7.png" alt=""><figcaption><p>Click "Approve" to withdraw rewards</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Keplr mobile delegate 6.png" alt=""><figcaption><p>Click "Claim" to withdraw rewards or Clicking "Staking"<br>to withdraw your rewards</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr mobile delegate 7.png" alt=""><figcaption><p>Click "Approve" to withdraw rewards</p></figcaption></figure></div>
 
 In "My Pending Rewards," you can also check the amount of rewards to be withdrawn and click "Claim" to complete the process. "My Staking" displays the number of LikeCoins delegated and the distribution of validators.
 
@@ -144,7 +128,7 @@ You can also use the LikeCoin app to stake LikeCoin. You may check out the tutor
 
 ### Step 1: Select a validator&#xD;
 
-Open the [LikeCoin app](../../../user-guide/liker-land/download.md) and click "My Wallet" to enter the wallet page. On this page, you can check the amount of LikeCoin you have and see a list of validators below. Select one of them as you like.
+Open the [LikeCoin app](../../dapp/liker-land/download.md) and click "My Wallet" to enter the wallet page. On this page, you can check the amount of LikeCoin you have and see a list of validators below. Select one of them as you like.
 
 <figure><img src="../../../.gitbook/assets/delegate 1-en.png" alt=""><figcaption><p>Click "My Wallet"</p></figcaption></figure>
 

@@ -12,7 +12,7 @@ Transferring NFT is demonstrated as follows:
 
 ## Step 1: Login and transfer
 
-Log in to [Liker Land](https://liker.land/) with your [Email/Social](../user-guide/liker-id/register/), [Keplr](../general-guides/wallet/keplr/), [Cosmostation](../general-guides/wallet/cosmostation/), [Leap](../general-guides/wallet/leap/), [Keplr mobile](../general-guides/wallet/keplr-mobile/), [Cosmostation app](../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikerCoin app](../user-guide/liker-land/download.md)...etc. Then, click on the NFT that needs to be transferred and check how many of them you own. Click "Transfer".
+Log in to [Liker Land](https://liker.land/) with your [Email/Social](liker-id/register/), [Keplr](../general-guides/wallet/keplr/), [Cosmostation](../general-guides/wallet/cosmostation/), [Leap](../general-guides/wallet/leap/), [Keplr mobile](../general-guides/wallet/keplr-mobile/), [Cosmostation app](../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikerCoin app](../general-guides/dapp/liker-land/download.md)...etc. Then, click on the NFT that needs to be transferred and check how many of them you own. Click "Transfer".
 
 <figure><img src="../.gitbook/assets/NFT Transfer 1-en.png" alt=""><figcaption><p>Click "Transfer" to start transferring NFT</p></figcaption></figure>
 

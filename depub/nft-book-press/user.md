@@ -14,12 +14,12 @@ If the Stripe account is not set up, it will display “No.” It is recommended
 
 Click “Setup your ID” to start the Liker ID registration and email confirmation process. For more details, see:
 
-{% content-ref url="../../user-guide/liker-id/" %}
-[liker-id](../../user-guide/liker-id/)
+{% content-ref url="../liker-id/" %}
+[liker-id](../liker-id/)
 {% endcontent-ref %}
 
-{% content-ref url="../../user-guide/liker-id/register/verifying-email-address.md" %}
-[verifying-email-address.md](../../user-guide/liker-id/register/verifying-email-address.md)
+{% content-ref url="../liker-id/register/verifying-email-address.md" %}
+[verifying-email-address.md](../liker-id/register/verifying-email-address.md)
 {% endcontent-ref %}
 
 After completing the setup, append `?from=@[Liker ID]` to any ebook URL. This allows you to earn commissions from book sales. For example:

@@ -20,7 +20,7 @@ A QR Code will appear after clicking "Liker ID".
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>After clicking Liker ID, a QR code appears</p></figcaption></figure>
 
-On the [LikeCoin app](../../../user-guide/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
+On the [LikeCoin app](../../../general-guides/dapp/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1c-en.png" alt=""><figcaption><p>Open the LikeCoin app, click and scan the QR Code</p></figcaption></figure>
 

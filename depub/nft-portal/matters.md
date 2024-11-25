@@ -6,7 +6,7 @@ description: Publish Matters article as Writing NFT
 
 ## Step 1: Choose to register ISCN before publishing the article
 
-Users can choose to register [ISCN](../what-is-iscn/) before publishing in [Matters](../../user-guide/creator/matters.md).
+Users can choose to register [ISCN](../what-is-iscn/) before publishing in [Matters](../../general-guides/dapp/creator/matters.md).
 
 <figure><img src="../../.gitbook/assets/NFT Portal ISCN 1.png" alt=""><figcaption><p>Register ISCN with Matters</p></figcaption></figure>
 

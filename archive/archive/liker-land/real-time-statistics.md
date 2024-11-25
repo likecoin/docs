@@ -8,7 +8,7 @@ description: How many people joined LikeCoin DAO?
 Archived on 2022/06/14. Information is out of date.
 {% endhint %}
 
-As of July 2021, [LikeCoin DAO](https://liker.land/getapp) has **1,700+** [**Civic Likers**](../../../user-guide/civic-liker/), which is **1.6%** of all **104,584+ Likers**, who rewarded **45mil+ LikeCoin** to **519,568+ contents** by **17,276+ creators** on **1,300+ media**.
+As of July 2021, [LikeCoin DAO](https://liker.land/getapp) has **1,700+** [**Civic Likers**](../../../general-guides/dapp/civic-liker/), which is **1.6%** of all **104,584+ Likers**, who rewarded **45mil+ LikeCoin** to **519,568+ contents** by **17,276+ creators** on **1,300+ media**.
 
 **Real-time statistics:**[ ![Number of Liker](https://static.like.co/badge/stats/liker.svg)](https://like.co/) [![Number of creator](https://static.like.co/badge/stats/creator.svg)](https://like.co/) [![Number of content](https://static.like.co/badge/stats/content.svg)](https://like.co/) [![Number of LIKE given](https://static.like.co/badge/stats/LIKE.svg)](https://like.co/)
 

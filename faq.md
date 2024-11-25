@@ -2,16 +2,16 @@
 description: Frequently Asked Questions
 ---
 
-# LikeCoin FAQ
+# Liker Land FAQ
 
 [LikeCoin Overview](./)&#x20;<a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 ----------------------------------------------------------------------------------------------------------
 
 * ​[What is LikeCoin?](./)
-* [Where to find the latest updates about LikeCoin?](updates.md)
+* [Where to find the latest updates about LikeCoin?](archive/archive/updates.md)
 * [What does the media say about LikeCoin?](general-guides/on-the-news/)
-* [Does LikeCoin provide branding and design materials for download?](branding/)
-* [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
+* [Does LikeCoin provide branding and design materials for download?](general-guides/branding/)
+* [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](https://go.crisp.chat/chat/embed/?website_id=5c009125-5863-4059-ba65-43f177ca33f7)
 * [How to connect with other LikeCoin users in the community?](general-guides/community/)
 
 ## [Decentralized Publishing](depub/decentralized-publishing.md) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
@@ -76,35 +76,35 @@ description: Frequently Asked Questions
 
 ## DApps <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 
-### [Liker Land](user-guide/liker-land/)
+### [Liker Land](general-guides/dapp/liker-land/)
 
-* [What can I do on the LikeCoin app?](user-guide/liker-land/)
-* [What is "Reinventing the Like"? How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](user-guide/liker-land/like.md)
-* [What is Super Like?](user-guide/liker-land/superlike.md)
+* [What can I do on the LikeCoin app?](general-guides/dapp/liker-land/)
+* [What is "Reinventing the Like"? How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](general-guides/dapp/liker-land/like.md)
+* [What is Super Like?](general-guides/dapp/liker-land/superlike.md)
 
-## [​Civic Liker​](user-guide/civic-liker/) <a href="#civic-liker" id="civic-liker"></a>
+## [​Civic Liker​](general-guides/dapp/civic-liker/) <a href="#civic-liker" id="civic-liker"></a>
 
-* [Why should I become a Civic Liker?](user-guide/civic-liker/)
-* [How to be a Civic Liker?](user-guide/civic-liker/be-a-civic-liker.md)
-* [Any benefits?](user-guide/civic-liker/rationale-and-benefits.md)
+* [Why should I become a Civic Liker?](general-guides/dapp/civic-liker/)
+* [How to be a Civic Liker?](general-guides/dapp/civic-liker/be-a-civic-liker.md)
+* [Any benefits?](general-guides/dapp/civic-liker/rationale-and-benefits.md)
 
-## [​Liker ID​](user-guide/liker-id/) <a href="#liker-id" id="liker-id"></a>
+## [​Liker ID​](depub/liker-id/) <a href="#liker-id" id="liker-id"></a>
 
-* [How to register a Liker ID?](user-guide/liker-id/)
-* [What is Authcore?](user-guide/liker-id/register/what-is-authcore.md)
-* [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](user-guide/liker-id/register/reset-password.md)
-* [Can I export my private key?](user-guide/liker-id/register/export-seed-words.md)
+* [How to register a Liker ID?](depub/liker-id/)
+* [What is Authcore?](depub/liker-id/register/what-is-authcore.md)
+* [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](depub/liker-id/register/reset-password.md)
+* [Can I export my private key?](depub/liker-id/register/export-seed-words.md)
 
-### [LikeCoin button](user-guide/creator/)
+### [LikeCoin button](general-guides/dapp/creator/)
 
-* [How to embed LikeCoin button into a self-hosted WordPress and publishing post to blockchain?](user-guide/wordpress.md)
-* [What are the functions of the LikeCoin button?](user-guide/creator/)
-* [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](user-guide/creator/blogging-platforms/)[  ](archive/archive/creatortools/portfolio-page.md)
-* [How to check my daily and weekly rewards?](user-guide/creatortools/rewards.md)
-* [How to check my monthly achievement?](user-guide/creatortools/monthly-report.md)
+* [How to embed LikeCoin button into a self-hosted WordPress and publishing post to blockchain?](general-guides/dapp/wordpress.md)
+* [What are the functions of the LikeCoin button?](general-guides/dapp/creator/)
+* [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](general-guides/dapp/creator/blogging-platforms/)[  ](archive/archive/creatortools/portfolio-page.md)
+* [How to check my daily and weekly rewards?](general-guides/dapp/creatortools/rewards.md)
+* [How to check my monthly achievement?](general-guides/dapp/creatortools/monthly-report.md)
 
 You may also want to check out:
 
-{% content-ref url="user-guide/background.md" %}
-[background.md](user-guide/background.md)
+{% content-ref url="general-guides/dapp/background.md" %}
+[background.md](general-guides/dapp/background.md)
 {% endcontent-ref %}

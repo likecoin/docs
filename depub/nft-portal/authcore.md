@@ -8,8 +8,8 @@ description: Publish Writing NFT with an article URL by Email/Social
 
 Enter the [**NFT Portal**](https://app.like.co/nft/url) on the desktop computer browser and log in with Email/Social. Learn more about Email/Social login:
 
-{% content-ref url="../../user-guide/liker-id/register/" %}
-[register](../../user-guide/liker-id/register/)
+{% content-ref url="../liker-id/register/" %}
+[register](../liker-id/register/)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Portal EmailSocial.png" alt=""><figcaption><p>Login and link to NFT Portal with Email/Social</p></figcaption></figure>
@@ -100,7 +100,7 @@ The system will sign and register ISCN ID, Arweave ID, Class ID and mint NFT.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6-1.png" alt=""><figcaption><p>Sign to Register ISCN ID, Arweave ID, Class ID &#x26; Mint Writing NFT</p></figcaption></figure>
 
-Seeing Completed! and the 3D cover image means that the NFT has been minted. If the [LikeCoin button](../../user-guide/creator/) has not been installed on the website, you can directly paste the code of Embed NFT widget into your site, and the [NFT Widget](../collect-writing-nft/nft-widget.md) can be displayed on any web page.
+Seeing Completed! and the 3D cover image means that the NFT has been minted. If the [LikeCoin button](../../general-guides/dapp/creator/) has not been installed on the website, you can directly paste the code of Embed NFT widget into your site, and the [NFT Widget](../collect-writing-nft/nft-widget.md) can be displayed on any web page.
 
 Click "View Your NFT" to view your Writing NFT.
 
