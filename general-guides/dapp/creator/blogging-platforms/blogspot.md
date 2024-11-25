@@ -6,7 +6,7 @@ description: 以 JavaScript 在 Blogspot 等各家網誌的文末、側欄產生
 
 感謝用戶 [浩剛](https://danieltw.net/archives/author/daniel) 製作程式碼，只需透過側欄小工具或者修改佈景主題原始碼，置入 JavaScript 就可以在每篇文筆中自動產生讚賞鍵。
 
-安裝讚賞鍵以前，請先 [註冊 Liker ID](../../../../depub/liker-id/)。
+安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
 
 ### 在側欄放置讚賞鍵
 

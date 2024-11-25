@@ -4,7 +4,7 @@ description: 如何在 illustBuy 同人創作平台中加入 LikeCoin button
 
 # illustBuy
 
-安裝讚賞鍵以前，請先 [註冊 Liker ID](../../../../depub/liker-id/)。
+安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
 
 點 [illustBuy](https://illustbuy.com/) 網站右上角「登入」並登入  illustBuy 帳戶 ，再點右上角你的顯示名稱
 

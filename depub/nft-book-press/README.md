@@ -29,7 +29,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 10. [銷毁已出版的電子書](burn.md)
 11. [發送電子書及群發 NFT 紀念品到多個錢包](../transfer-nft.md)
 12. [匯入 EPUB 檔案到各家閱讀器](./#ereader)
-13. [設置 Liker Land 書店作者簡介](../liker-id/edit-avatar-displayname.md)
+13. [設置 Liker Land 書店作者簡介](../register/edit-avatar-displayname.md)
 
 參看短片了解出版原理（留意以下影片使用 Keplr 登入，如使用 Email/Social 登入流程將更為簡單）：
 
@@ -73,8 +73,8 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 彈出視窗並連結錢包，**建議使用 Email/Social 註冊 Liker ID 並登入**，詳見：
 
-{% content-ref url="../liker-id/register/" %}
-[register](../liker-id/register/)
+{% content-ref url="../register/" %}
+[register](../register/)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 6.png" alt=""><figcaption><p>彈出視窗並連結錢包</p></figcaption></figure>

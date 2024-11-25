@@ -12,7 +12,7 @@
 
 ### 步驟二：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站選擇 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/liker-id/register/) 登入。
+到 [dao.like.co](https://dao.like.co/) 網站選擇 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/register/) 登入。
 
 ![到 dao.like.co 選擇 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
 

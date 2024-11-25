@@ -8,7 +8,7 @@ description: 用 LikeCoin 手機應用程式轉帳 LikeCoin，幾秒搞定
 
 ### **步驟一**
 
-首先你需要安裝、[以電郵或社交登入 ( Authcore ) 註冊 Liker ID](../../depub/liker-id/register/) 並登入 [LikeCoin 手機應用程式](https://liker.land/getapp)。
+首先你需要安裝、[以電郵或社交登入 ( Authcore ) 註冊 Liker ID](../../depub/register/) 並登入 [LikeCoin 手機應用程式](https://liker.land/getapp)。
 
 ### **步驟二**
 

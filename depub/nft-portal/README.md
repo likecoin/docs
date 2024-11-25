@@ -52,8 +52,8 @@ description: 把任何網頁文章內容出版成 NFT
 
 建議設置創作者個人簡介、圖片及顯示名稱讓你的支持者更加了解你。
 
-{% content-ref url="../liker-id/edit-avatar-displayname.md" %}
-[edit-avatar-displayname.md](../liker-id/edit-avatar-displayname.md)
+{% content-ref url="../register/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../register/edit-avatar-displayname.md)
 {% endcontent-ref %}
 
 ## 發送 NFT 及群發 NFT 紀念品到多個錢包

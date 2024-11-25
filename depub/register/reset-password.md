@@ -12,33 +12,27 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 ## 步驟一：登入
 
-### 網頁版
-
 先確保自己在登出狀態，你可以打開右上角的功能選單找到「登出」的選項。
 
 到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 01.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 使用 Liker ID 以電郵/社交登入。
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
-
-### 手機版
-
-在 [LikeCoin 手機應用程式](../../../general-guides/dapp/liker-land/download.md)點「登入」。
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 02.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
 
 ## 步驟二：重設密碼
 
 在登入視窗中，點「重設密碼」。
 
-![點「重設密碼」](../../../.gitbook/assets/resetpassword-1.png)
+![點「重設密碼」](../../.gitbook/assets/resetpassword-1.png)
 
 ## 步驟三：輸入已驗證的電郵地址
 
 輸入你註冊的電郵地址再點「發送」，一般是你在 Liker Land 上已驗證的電郵地址。
 
-![輸入你註冊的電郵地址再點「發送」](../../../.gitbook/assets/resetpassword-2.png)
+![輸入你註冊的電郵地址再點「發送」](../../.gitbook/assets/resetpassword-2.png)
 
 {% hint style="info" %}
 若不成功，例如出現「找不到相關電郵或電話號碼」的錯誤訊息，請試試：
@@ -49,32 +43,32 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 完成後出現以下訊息。
 
-![出現重設密碼訊息](../../../.gitbook/assets/resetpassword-3.png)
+![出現重設密碼訊息](../../.gitbook/assets/resetpassword-3.png)
 
 ## 步驟四：接收郵件重設密碼
 
 接收重設密碼郵件，點郵件中的鏈結重設密碼。
 
-<figure><img src="../../../.gitbook/assets/resetpassword-4.png" alt=""><figcaption><p>點郵件中的鏈結重設密碼</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/resetpassword-4.png" alt=""><figcaption><p>點郵件中的鏈結重設密碼</p></figcaption></figure>
 
 輸入新密碼兩次，再點 "Reset Password"。
 
-![再點 "Reset Password"](../../../.gitbook/assets/resetpassword-5.png)
+![再點 "Reset Password"](../../.gitbook/assets/resetpassword-5.png)
 
 重設密碼成功，回到 LikeCoin app 或 Liker Land 網頁版登入。
 
-![重設密碼成功](../../../.gitbook/assets/resetpassword-6.png)
+![重設密碼成功](../../.gitbook/assets/resetpassword-6.png)
 
 ## 步驟五：以電郵及密碼登入
 
 在登入畫面，**以電郵及密碼登入**。留意不是選上方的社交帳號登入喔。
 
-![以電郵及密碼登入](../../../.gitbook/assets/resetpassword-7.png)
+![以電郵及密碼登入](../../.gitbook/assets/resetpassword-7.png)
 
 ## 步驟六：重新設定社交帳號登入方式
 
-登入成功後，請[重新設定好你的 Google, Facebook, Twitter 等登入方式](social-media-logins.md)。
+登入成功後，請重新設定好你的社交登入方式。
 
-![登入成功後，請重新設定好你的 Google, Facebook, Twitter 等登入方式](../../../.gitbook/assets/social-media-logins-1.png)
+![登入成功後，請重新設定好你的 Google, Facebook, Twitter 等登入方式](../../.gitbook/assets/social-media-logins-1.png)
 
 假若問題仍是無法解決，請到 [Liker Land](https://liker.land/) 或 [Like.co](https://like.co/) 尋求客服幫助。

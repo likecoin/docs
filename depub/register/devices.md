@@ -12,39 +12,33 @@ description: 查看有哪些裝置登入過你的 Liker ID
 
 ## 步驟一：登入
 
-### 網頁版
-
 到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 01.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
 點 Email/Social 使用 Liker ID 以電郵/社交登入。
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 02.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
 
 登入後點右上角頭像，點「設定」再點「Liker ID」。&#x20;
 
-<figure><img src="../../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>點「設定」再點「Liker ID」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>點「設定」再點「Liker ID」</p></figcaption></figure>
 
 打開右上角「Authcore 設定」。
 
-<figure><img src="../../../.gitbook/assets/Authcore settings.png" alt=""><figcaption><p>打開「Authcore 設定」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore settings.png" alt=""><figcaption><p>打開「Authcore 設定」</p></figcaption></figure>
 
 點「安全設定」及「裝置」。
 
-![點「安全設定」及「裝置」](../../../.gitbook/assets/管理登入裝置1.png)
-
-### 手機版
-
-於 [LikeCoin 手機應用程式](../../../general-guides/dapp/liker-land/download.md)選畫面右下角設定點「安全」，再點 「裝置」。
+![點「安全設定」及「裝置」](../../.gitbook/assets/管理登入裝置1.png)
 
 ## 步驟二：登出裝置
 
 「管理裝置」顯示您目前已登入 Liker ID 的裝置，你可點某一裝置直接「登出」，也可點擊「從所有其他裝置登出」直接登出所有裝置。
 
-![「管理裝置」顯示您目前已登入 Liker ID 的裝置](../../../.gitbook/assets/管理登入裝置2.png)
+![「管理裝置」顯示您目前已登入 Liker ID 的裝置](../../.gitbook/assets/管理登入裝置2.png)
 
-![點某一裝置直接「登出」](../../../.gitbook/assets/管理登入裝置3.png)
+![點某一裝置直接「登出」](../../.gitbook/assets/管理登入裝置3.png)
 
 {% hint style="warning" %}
 為確保 Liker ID 安全，如果裝置符合下列任一情況，請登出帳戶：

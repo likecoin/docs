@@ -6,21 +6,11 @@ description: 讓自己的性格更特出
 
 ## 修改方法
 
-### 手機版
-
-在 [LikeCoin 手機應用程式](../../general-guides/dapp/liker-land/download.md)直接點頭像轉換新頭像。
-
-<figure><img src="../../.gitbook/assets/avatar 1.png" alt=""><figcaption><p>點頭像轉換新頭像</p></figcaption></figure>
-
-於畫面右下角設定點「個人資訊」再點「個人檔案」更改顯示名稱。
-
-<figure><img src="../../.gitbook/assets/avatar 2.png" alt=""><figcaption><p>於畫面右下角設定點「個人資訊」再點「個人檔案」更改顯示名稱</p></figcaption></figure>
-
-### 網頁版
-
 到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 01.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+
+
 
 點 Email/Social 或 Keplr 登入。
 
@@ -55,19 +45,3 @@ description: 讓自己的性格更特出
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/Settings 02.png" alt=""><figcaption><p>LikeCoin button 讚賞鍵</p></figcaption></figure>
-
-### LikeCoin 手機應用程式及網頁
-
-{% content-ref url="../../general-guides/dapp/liker-land/download.md" %}
-[download.md](../../general-guides/dapp/liker-land/download.md)
-{% endcontent-ref %}
-
-![LikeCoin 手機應用程式及網頁](<../../.gitbook/assets/Settings 03.png>)
-
-### LIKE pay
-
-{% content-ref url="../../general-guides/wallet/like-pay.md" %}
-[like-pay.md](../../general-guides/wallet/like-pay.md)
-{% endcontent-ref %}
-
-![LIKE pay](<../../.gitbook/assets/Settings 04.png>)

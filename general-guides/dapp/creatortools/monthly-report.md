@@ -16,6 +16,6 @@ description: 持續創作，但收不到電郵報告，何解？
 
 ## 你用了手機號碼註冊，沒有提供電郵地址
 
-請訪問 [https://like.co/in/settings](https://like.co/in/settings) ，在「AuthCore 設定」或「Liker ID 設定」下點擊「個人檔案」，再點「聯絡方式」管理電郵部份，新增電郵地址並進行認證，詳見[保護你的 Liker ID 認證電郵地址](../../../depub/liker-id/register/verifying-email-address.md#confirm-your-email-address)。
+請訪問 [https://like.co/in/settings](https://like.co/in/settings) ，在「AuthCore 設定」或「Liker ID 設定」下點擊「個人檔案」，再點「聯絡方式」管理電郵部份，新增電郵地址並進行認證，詳見[保護你的 Liker ID 認證電郵地址](../../../depub/register/verifying-email-address.md#confirm-your-email-address)。
 
 ![新增電郵地址並進行認證](../../../.gitbook/assets/monthly-report-email-setting.png)

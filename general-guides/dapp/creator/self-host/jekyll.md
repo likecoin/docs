@@ -6,7 +6,7 @@ description: 如何在 Jekyll 開發環境的文章中加入 LikeCoin button
 
 感謝用戶 [PinGuの独り言](https://pingu.moe/2020/01/integrate-likebutton-with-jekyll/) 的教學範本。
 
-安裝讚賞鍵以前，請先 [註冊 Liker ID](../../../../depub/liker-id/)。
+安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
 
 ### 從 \_config.yml 設定 liker\_id <a href="#cong-configyml-she-ding-likerid" id="cong-configyml-she-ding-likerid"></a>
 

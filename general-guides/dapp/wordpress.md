@@ -102,7 +102,7 @@ LikeCoin [Web3Press plugin](https://zh-hk.wordpress.org/plugins/likecoin/) 為�
 
 ## 設定 Liker ID <a href="#setting" id="setting"></a>
 
-設定前請先[註冊 Liker ID](../../depub/liker-id/)。
+設定前請先[註冊 Liker ID](liker-id/)。
 
 在管理介面左方菜單，點選 "Web3Press" 外掛設定，再選「Liker ID」。在右方畫面中，輸入 Liker ID 並點「Confirm」：
 

@@ -10,7 +10,7 @@ description: 使用電郵或社交登入註冊 ISCN
 
 <figure><img src="../../../.gitbook/assets/ISCN 1.png" alt=""><figcaption><p>在 app.like.co 點右上角「Connect Wallet」或直接點「Register ISCN」</p></figcaption></figure>
 
-點「Email/Social」後彈出視窗要求連結，請於桌面電腦瀏覽器[以電郵或社交登入](../../liker-id/register/)。
+點「Email/Social」後彈出視窗要求連結，請於桌面電腦瀏覽器[以電郵或社交登入](../../register/)。
 
 <figure><img src="../../../.gitbook/assets/ISCN EmailSocial.png" alt=""><figcaption><p>Email/Social 登入</p></figcaption></figure>
 

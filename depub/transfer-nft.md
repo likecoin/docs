@@ -12,7 +12,7 @@ description: 簡單發送沒難度
 
 ## 步驟一：登入並發送
 
-在 [Liker Land](https://liker.land/) 登入你的[電郵/社交登入](liker-id/register/) 、[Keplr](../general-guides/wallet/keplr/)、[Cosmostation](../general-guides/wallet/cosmostation/)、[Leap](../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr mobile](../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../general-guides/dapp/liker-land/download.md)…等，然後點需要發送的 NFT，並查看存量「擁有」了多少個。確定發送後點「發送」。
+在 [Liker Land](https://liker.land/) 登入你的[電郵/社交登入](register/) 、[Keplr](../general-guides/wallet/keplr/)、[Cosmostation](../general-guides/wallet/cosmostation/)、[Leap](../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr mobile](../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../general-guides/dapp/liker-land/download.md)…等，然後點需要發送的 NFT，並查看存量「擁有」了多少個。確定發送後點「發送」。
 
 <figure><img src="../.gitbook/assets/NFT Transfer 1.png" alt=""><figcaption><p>點「發送」開始發送 NFT</p></figcaption></figure>
 

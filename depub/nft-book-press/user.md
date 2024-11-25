@@ -14,12 +14,12 @@ description: 加入及更改用戶設定，參與 Affiliation Program
 
 點「Setup your ID」將開始註冊 Liker ID 及驗證電郵流程，詳見：
 
-{% content-ref url="../liker-id/" %}
-[liker-id](../liker-id/)
+{% content-ref url="../../general-guides/dapp/liker-id/" %}
+[liker-id](../../general-guides/dapp/liker-id/)
 {% endcontent-ref %}
 
-{% content-ref url="../liker-id/register/verifying-email-address.md" %}
-[verifying-email-address.md](../liker-id/register/verifying-email-address.md)
+{% content-ref url="../register/verifying-email-address.md" %}
+[verifying-email-address.md](../register/verifying-email-address.md)
 {% endcontent-ref %}
 
 完成設定後在任何電子書網址連結附加 `?from=@[Liker ID]`，即可從書籍銷售中獲得佣金。舉例：

@@ -10,8 +10,8 @@ description: 要去哪裏下載 LikeCoin app？
 * 中國大陸，或者其他沒有 Google Play 的 Android 用戶，可於 [GitHub 直接下載 apk 檔](https://github.com/likecoin/likecoin-app/releases)
 * [下載 LikeCoin app](https://liker.land/getapp) 後，請花兩分鐘註冊 Liker ID：
 
-{% content-ref url="../../../depub/liker-id/" %}
-[liker-id](../../../depub/liker-id/)
+{% content-ref url="../liker-id/" %}
+[liker-id](../liker-id/)
 {% endcontent-ref %}
 
 登入 LikeCoin 手機應用程式於下方出現其他操作選項。
@@ -34,9 +34,9 @@ description: 要去哪裏下載 LikeCoin app？
 ## 選項四：設定
 
 * 語言
-* [個人資料設定](../../../depub/liker-id/edit-avatar-displayname.md)
-* 安全：[更改密碼](../../../depub/liker-id/register/reset-password.md)、[雙重認證](../../../depub/liker-id/register/verifying-email-address.md)、[裝置](../../../depub/liker-id/register/devices.md)、[社交帳戶登入](../../../depub/liker-id/register/social-media-logins.md)
+* [個人資料設定](../../../depub/register/edit-avatar-displayname.md)
+* 安全：[更改密碼](../../../depub/register/reset-password.md)、[雙重認證](../../../depub/register/verifying-email-address.md)、[裝置](../../../depub/register/devices.md)、[社交帳戶登入](../liker-id/social-media-logins.md)
 * Wallect Connect
-* [匯出錢包助記詞](../../../depub/liker-id/register/export-seed-words.md)
+* [匯出錢包助記詞](../../../depub/register/export-seed-words.md)
 * 閱讀列表
 * [推文](superlike.md)

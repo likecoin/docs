@@ -12,14 +12,14 @@ description: 存入保證金讓議案投票得以展開
 
 留意，若未能超過法定投票權，又或者三份一以上投票權強烈反對（被視為「惡意提案」），則議案不通過之餘，LikeCoin 保證金也會被沒收並撥入社群基&#x91D1;**；**&#x5426;則保證金將歸還予出資的 Likers。
 
-存入保證金的方式有多種，我們建議使用 [dao.like.co](https://dao.like.co/) 配合 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../depub/liker-id/register/)。
+存入保證金的方式有多種，我們建議使用 [dao.like.co](https://dao.like.co/) 配合 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../depub/register/)。
 
 如何就議案存入保證金
 ----------
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站選擇 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../depub/liker-id/register/) 登入。留意 Keplr 與 Cosmostaiton 只可於桌機瀏覽器中使用，Authcore 則桌機手機兩相宜。
+到 [dao.like.co](https://dao.like.co/) 網站選擇 [Keplr Browser Extension](../wallet/keplr/)、[Cosmostation Browser Extension](../wallet/cosmostation/) 或 [Authcore](../../depub/register/) 登入。留意 Keplr 與 Cosmostaiton 只可於桌機瀏覽器中使用，Authcore 則桌機手機兩相宜。
 
 ![到 dao.like.co 網站後選 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../.gitbook/assets/Civic Liker Web 3-01.png>)
 

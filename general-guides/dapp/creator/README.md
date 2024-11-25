@@ -16,7 +16,7 @@ LikeCoin button 讚賞鍵，是讀者和你的作品互動的核心，用以讚�
 
 ### LikeCoin button 讚賞鍵
 
-[Matters](https://matters.town/) 上所有文章已預設提供 LikeCoin button 讚賞鍵；媒體特約作者，把 [Liker ID](../../../depub/liker-id/) 提供給[香港獨立媒體網](https://www.inmediahk.net/)等合作平台，即能為文章安裝讚賞鍵；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 外掛](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上讚賞鍵，[Medium](https://medium.com) 作者可在文章中自行貼上讚賞鍵鏈結，也可在 [Blogspot ( Blogger.com )](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
+[Matters](https://matters.town/) 上所有文章已預設提供 LikeCoin button 讚賞鍵；媒體特約作者，把 [Liker ID](../liker-id/) 提供給[香港獨立媒體網](https://www.inmediahk.net/)等合作平台，即能為文章安裝讚賞鍵；自媒體作者於自架 WordPress 網站安裝 [LikeCoin 外掛](https://zh-hk.wordpress.org/plugins/likecoin/)，每篇文章下方便自動加上讚賞鍵，[Medium](https://medium.com) 作者可在文章中自行貼上讚賞鍵鏈結，也可在 [Blogspot ( Blogger.com )](https://www.blogger.com/)、[痞客邦](https://appmarket.pixnet.tw/#!/addon/1331)及其他平台上使用。‌
 
 
 

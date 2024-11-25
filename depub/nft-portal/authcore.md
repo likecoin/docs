@@ -8,8 +8,8 @@ description: 使用電郵或社交登入以文章網址出版 Writing NFT
 
 請於桌面電腦瀏覽器以電郵或社交登入 [**NFT Portal**](https://app.like.co/nft/url)。了解更多關於電郵或社交登入：
 
-{% content-ref url="../liker-id/register/" %}
-[register](../liker-id/register/)
+{% content-ref url="../register/" %}
+[register](../register/)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Portal EmailSocial.png" alt=""><figcaption><p>以 電郵或社交登入 NFT Portal</p></figcaption></figure>

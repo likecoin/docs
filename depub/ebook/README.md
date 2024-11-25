@@ -64,8 +64,8 @@ description: 如何購買電子書
 
 有關以電郵註冊可參考：
 
-{% content-ref url="../liker-id/register/" %}
-[register](../liker-id/register/)
+{% content-ref url="../register/" %}
+[register](../register/)
 {% endcontent-ref %}
 
 ## 步驟七：確認錢包地址

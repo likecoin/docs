@@ -4,7 +4,7 @@ description: 贊助創作者方法非常簡單
 
 # 如何成為讚賞公民
 
-成為讚賞公民前請先 [註冊 Liker ID](../../../depub/liker-id/)。
+成為讚賞公民前請先 [註冊 Liker ID](../liker-id/)。
 
 用戶只需以**連結了 Liker ID 的錢包**，**委託最少 5,000 LIKE 到「讚賞公民」節點**，即可獲得讚賞公民資格，用戶的所有委託回報將以按讚方式分配給創作者。不需動用委託本金，只花委託回報便可化讚為賞。
 
@@ -44,7 +44,7 @@ description: 贊助創作者方法非常簡單
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/liker-id/register/) 登入已連結了 Liker ID 的錢包。
+到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/register/) 登入已連結了 Liker ID 的錢包。
 
 ![到 dao.like.co 網站後選 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
 

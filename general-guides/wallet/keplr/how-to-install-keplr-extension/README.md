@@ -70,7 +70,7 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 {% endhint %}
 
 {% hint style="info" %}
-安裝 Keplr 後你可以[使用它註冊 Liker ID](../../../../depub/liker-id/register-with-keplr.md)
+安裝 Keplr 後你可以[使用它註冊 Liker ID](../../../dapp/liker-id/register-with-keplr.md)
 {% endhint %}
 
 ***

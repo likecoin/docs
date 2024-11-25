@@ -52,14 +52,14 @@ description: 網頁版的 Liker Land
 
 ### Liker ID - [https://like.co/in/settings](https://like.co/in/settings)
 
-{% content-ref url="../liker-id/" %}
-[liker-id](../liker-id/)
+{% content-ref url="../../general-guides/dapp/liker-id/" %}
+[liker-id](../../general-guides/dapp/liker-id/)
 {% endcontent-ref %}
 
 ### 匯出錢包助記詞（只適用於以電郵或社交登入註冊的 Liker ID）
 
-{% content-ref url="../liker-id/register/export-seed-words.md" %}
-[export-seed-words.md](../liker-id/register/export-seed-words.md)
+{% content-ref url="../register/export-seed-words.md" %}
+[export-seed-words.md](../register/export-seed-words.md)
 {% endcontent-ref %}
 
 ### 清理閱讀器緩存

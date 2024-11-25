@@ -6,6 +6,14 @@ description: Liker Land 常見問題
 
 ![](.gitbook/assets/LikeCoin_AD27_Small_Update-01.png)
 
+## [項目概覽](./)
+
+* [LikeCoin 是什麼？](./)
+* [有媒體報導可以參詳嗎？](general-guides/on-the-news.md)
+* [LikeCoin 有提供品牌形象指引和相關素材下載麼？](general-guides/branding.md)
+* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://go.crisp.chat/chat/embed/?website_id=5c009125-5863-4059-ba65-43f177ca33f7)
+* [想與社群及更多用戶聯繫分享經驗，有渠道嗎？](general-guides/community/)
+
 ## [去中心出版](./)
 
 * [上架電子書的常見問題](depub/faq.md)
@@ -66,13 +74,21 @@ description: Liker Land 常見問題
 * [驗證人如何獲得社群基金的委託？](general-guides/governance/what-is-a-validator/community-delegation.md)
 * [LikeCoin DAO 有過什麼議案？](general-guides/governance/proposals.md)
 
-## 去中心應用
+## [去中心應用](general-guides/dapp/)
 
 ### [LikeCoin 手機應用程式](general-guides/dapp/liker-land/)
 
 * [下載了 LikeCoin 手機應用程式可以做些什麼？](general-guides/dapp/liker-land/)
 * [什麼是「化讚為賞」？「化讚為賞」的去中心讚賞如何運作？錢從何來？](general-guides/dapp/liker-land/like.md)
 * [何謂 Super Like？](general-guides/dapp/liker-land/superlike.md)
+
+### [Liker ID](general-guides/dapp/liker-id/)
+
+* [Liker ID 要怎樣註冊？](faq.md#liker-id)
+* [什麼是 Authcore？](depub/register/what-is-authcore.md)
+* [無法以社交帳號登入 Liker ID，怎麼辦？](depub/register/reset-password.md)
+* [不知何解無法登入嗎？試試重設密碼吧！](depub/register/reset-password.md)
+* [可以匯出 Liker ID 私鑰嗎？](depub/register/export-seed-words.md)
 
 ### [讚賞公民](general-guides/dapp/civic-liker/)
 

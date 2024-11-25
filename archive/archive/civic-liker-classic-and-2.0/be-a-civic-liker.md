@@ -8,7 +8,7 @@ description: 贊助創作者方法非常簡單
 2022/06/14 存檔。資訊已過期，請參看新條目 [如何成為讚賞公民](../../../general-guides/dapp/civic-liker/be-a-civic-liker.md)
 {% endhint %}
 
-成為讚賞公民前請先 [註冊 Liker ID](../../../depub/liker-id/)。
+成為讚賞公民前請先 [註冊 Liker ID](../../../general-guides/dapp/liker-id/)。
 
 ## 訂閱心儀創作者
 

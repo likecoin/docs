@@ -14,7 +14,7 @@ description: 以下為一些詞彙的解說，亦是憲法基礎，助你了解 
 
 ### Liker <a href="#id-5799" id="id-5799"></a>
 
-_LikeCoin DAO_ 的市民。每位 _Liker_ 擁有一獨特的 [_Liker ID_](../../depub/liker-id/) 以資識別。雖然很多 _Likers_ 是作者、攝影師、繪師、編輯、及內容管理者，_LikeCoin DAO_ 也完全歡迎不生產內容的內容消費者的參與和投入，並為他們提供服務。
+_LikeCoin DAO_ 的市民。每位 _Liker_ 擁有一獨特的 [_Liker ID_](liker-id/) 以資識別。雖然很多 _Likers_ 是作者、攝影師、繪師、編輯、及內容管理者，_LikeCoin DAO_ 也完全歡迎不生產內容的內容消費者的參與和投入，並為他們提供服務。
 
 ### 讚賞公民 ( Civic Liker ) <a href="#id-75ea" id="id-75ea"></a>
 
