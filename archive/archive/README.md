@@ -1,8 +1,9 @@
 ---
 description: 儲存資訊已過期內容
+hidden: true
 ---
 
-# 存檔
+# 過期內容存檔
 
 {% hint style="danger" %}
 存檔。資訊已過期。

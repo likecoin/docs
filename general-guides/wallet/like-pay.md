@@ -8,7 +8,7 @@ description: 用 LikeCoin 手機應用程式轉帳 LikeCoin，幾秒搞定
 
 ### **步驟一**
 
-首先你需要安裝、[以電郵或社交登入 ( Authcore ) 註冊 Liker ID](../../user-guide/liker-id/register/) 並登入 [LikeCoin 手機應用程式](https://liker.land/getapp)。
+首先你需要安裝、[以電郵或社交登入 ( Authcore ) 註冊 Liker ID](../../depub/liker-id/register/) 並登入 [LikeCoin 手機應用程式](https://liker.land/getapp)。
 
 ### **步驟二**
 
@@ -26,7 +26,7 @@ description: 用 LikeCoin 手機應用程式轉帳 LikeCoin，幾秒搞定
 
 LikeCoin 手機應用程式會打開你手機的相機鏡頭，請對著收款方的二維碼掃瞄。然後再按「下一步」。
 
-![掃瞄收款方的二維碼](../../.gitbook/assets/IMG\_2158.PNG)
+![掃瞄收款方的二維碼](../../.gitbook/assets/IMG_2158.PNG)
 
 ### **步驟五**
 
@@ -53,5 +53,5 @@ LikeCoin 手機應用程式會打開你手機的相機鏡頭，請對著收款�
 ![手續費於「確認」下方顯示](../../.gitbook/assets/like-pay-5.png)
 
 {% hint style="info" %}
-[Matters](../../user-guide/creator/matters.md) 使用者可任意對任何一篇文章「支持作者」轉帳，詳見 [玩轉 Matters 實用指南](https://matters.news/guide)
+[Matters](../dapp/creator/matters.md) 使用者可任意對任何一篇文章「支持作者」轉帳，詳見 [玩轉 Matters 實用指南](https://matters.news/guide)
 {% endhint %}

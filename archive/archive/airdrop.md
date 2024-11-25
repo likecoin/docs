@@ -13,13 +13,13 @@ description: 如何領取 LikeCoin 空投？
 領取 LikeCoin 空投需要進行 4 項任務，包括：
 
 * \#1 [Manage LikeCoin / 管理你的 LikeCoin](../../general-guides/wallet/)
-* \#2 [Decentralize Tweeting / 去中心推文](../../user-guide/depub.space/)
+* \#2 [Decentralize Tweeting / 去中心推文](../../general-guides/dapp/depub.space/)
 * \#3 [Stake LikeCoin / 委託 LikeCoin](../../general-guides/stake/delegation-of-likecoin/)
 * \#4 [Vote on LikeCoin DAO 在 / LikeCoin DAO 進行投票](../../general-guides/governance/direct-vote/)
 
-ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker ID](../../user-guide/liker-id/register-with-keplr.md) 的用戶可全程直接使用桌面電腦領取空投。
+ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker ID](../../depub/liker-id/register-with-keplr.md) 的用戶可全程直接使用桌面電腦領取空投。
 
-[以一般方法 ( Authcore ) 註冊 Liker ID](../../user-guide/liker-id/register/) 的讚賞公民用戶，請預備 Liker Land app 及桌面電腦領取空投。
+[以一般方法 ( Authcore ) 註冊 Liker ID](../../depub/liker-id/register/) 的讚賞公民用戶，請預備 Liker Land app 及桌面電腦領取空投。
 
 空投將於 2022 年 2 月 21 日開始，直至 2022 年 8 月 22 日完結。
 
@@ -71,7 +71,7 @@ ATOM/OSMO 持有人、委託人或流動性提供者及[以 Keplr 註冊 Liker I
 
 #### Manage LikeCoin 管理 LikeCoin
 
-你可以通過 [Keplr](../../user-guide/liker-id/register-with-keplr.md) 或 [Liker Land app](../../user-guide/liker-id/register/) 管理你的 LikeCoin。 你可以使用 LIKE [去中心出版 DePub](../../depub/decentralized-publishing.md)，在交易所[交易](../../general-guides/trade/)、[委託](../../general-guides/stake/)獲得獎勵、[投票](../../general-guides/governance/direct-vote/)參與治理及[獎勵創作者](../../user-guide/liker-land/like.md)。
+你可以通過 [Keplr](../../depub/liker-id/register-with-keplr.md) 或 [Liker Land app](../../depub/liker-id/register/) 管理你的 LikeCoin。 你可以使用 LIKE [去中心出版 DePub](../../depub/decentralized-publishing.md)，在交易所[交易](../../general-guides/trade/)、[委託](../../general-guides/stake/)獲得獎勵、[投票](../../general-guides/governance/direct-vote/)參與治理及[獎勵創作者](../../general-guides/dapp/liker-land/like.md)。
 
 ![](<../../.gitbook/assets/Airdrop 05.png>)
 
@@ -119,8 +119,8 @@ LikeCoin [去中心出版](../../depub/decentralized-publishing.md)。 通過在
 
 點「Tweet now」在 [depub.space](https://depub.space/) 推文，完成後點「Done」領取 25% 空投。更多 depub.space 教學請參看：
 
-{% content-ref url="../../user-guide/depub.space/" %}
-[depub.space](../../user-guide/depub.space/)
+{% content-ref url="../../general-guides/dapp/depub.space/" %}
+[depub.space](../../general-guides/dapp/depub.space/)
 {% endcontent-ref %}
 
 ## #3 委託 LikeCoin
@@ -137,7 +137,7 @@ LikeCoin [去中心出版](../../depub/decentralized-publishing.md)。 通過在
 
 #### Stake LikeCoin 委託 LikeCoin
 
-到 [https://dao.like.co/validators](https://dao.like.co/validators) 並連接 [Keplr](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/)。 將任何數量的 LikeCoin [委託](../../general-guides/stake/)給「Validators」頁面中至少一位[驗證人](../../general-guides/governance/what-is-a-validator/)。
+到 [https://dao.like.co/validators](https://dao.like.co/validators) 並連接 [Keplr](../../depub/liker-id/register-with-keplr.md) 或 [Authcore](../../depub/liker-id/register/)。 將任何數量的 LikeCoin [委託](../../general-guides/stake/)給「Validators」頁面中至少一位[驗證人](../../general-guides/governance/what-is-a-validator/)。
 
 ![](<../../.gitbook/assets/Airdrop 14.png>)
 
@@ -163,7 +163,7 @@ LikeCoin 是一個由對內容充滿熱情的創作者及讀者組成的社群�
 
 #### Vote on a proposal 對議案進行投票
 
-到 [https://dao.like.co/proposals/](https://dao.like.co/proposals/) 並連接你的 [Keplr](../../user-guide/liker-id/register-with-keplr.md) 或 [Authcore](../../user-guide/liker-id/register/)。 在「Proposals」頁面中，對其中一項議案進行投票。
+到 [https://dao.like.co/proposals/](https://dao.like.co/proposals/) 並連接你的 [Keplr](../../depub/liker-id/register-with-keplr.md) 或 [Authcore](../../depub/liker-id/register/)。 在「Proposals」頁面中，對其中一項議案進行投票。
 
 ![](<../../.gitbook/assets/Airdrop 16.png>)
 

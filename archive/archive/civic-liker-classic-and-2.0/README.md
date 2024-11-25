@@ -5,10 +5,10 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 # Civic Liker Classic 與 2.0
 
 {% hint style="danger" %}
-2022/06/14 存檔。資訊已過期，請參看新條目 [讚賞公民](../../../user-guide/civic-liker/)
+2022/06/14 存檔。資訊已過期，請參看新條目 [讚賞公民](../../../general-guides/dapp/civic-liker/)
 {% endhint %}
 
-![](../../../.gitbook/assets/LikeCoin\_AD98\_2point0-01.png)
+![](../../../.gitbook/assets/LikeCoin_AD98_2point0-01.png)
 
 ## [成為讚賞公民](be-a-civic-liker.md)
 
@@ -53,7 +53,7 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 * 收取偶像個人通訊
 * 參與線下活動
 * 詳細贊助報告
-* [購書優惠](../../../user-guide/civic-liker/rationale-and-benefits.md)
+* [購書優惠](../../../general-guides/dapp/civic-liker/rationale-and-benefits.md)
 
 請鼓勵更多人加入讚賞公民，共建更健康的創作生態，請支持讚賞公民共和國發展。
 

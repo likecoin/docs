@@ -4,15 +4,15 @@ description: dao.like.co 是 LikeCoin 的錢包介面
 
 # dao.like.co
 
-使用 [dao.like.co](https://dao.like.co/) 錢包介面配合 [Keplr Browser Extension](../keplr/)、[Cosmostation Browser Extension](../cosmostation/) 或 [Authcore](../../../user-guide/liker-id/register/) 登入，用戶可存入、轉帳、委託 [LikeCoin](https://like.co/)；為議案提供保證金，投票及查看交易明細等。
+使用 [dao.like.co](https://dao.like.co/) 錢包介面配合 [Keplr Browser Extension](../keplr/)、[Cosmostation Browser Extension](../cosmostation/) 或 [Authcore](../../../depub/liker-id/register/) 登入，用戶可存入、轉帳、委託 [LikeCoin](https://like.co/)；為議案提供保證金，投票及查看交易明細等。
 
 ## 如何在 dao.like.co 查看錢包明細
 
 ### 錢包登入
 
-到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../keplr/)、[Cosmostation Browser Extension](../cosmostation/) 或 [Authcore](../../../user-guide/liker-id/register/) 登入。
+到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../keplr/)、[Cosmostation Browser Extension](../cosmostation/) 或 [Authcore](../../../depub/liker-id/register/) 登入。
 
-<figure><img src="../../../.gitbook/assets/dao.like.co transaction 4.png" alt=""><figcaption><p>選 <a href="../keplr/">Keplr Browser Extension</a>、<a href="../cosmostation/">Cosmostation Browser Extension</a> 或 <a href="../../../user-guide/liker-id/register/">Authcore</a> 登入</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dao.like.co transaction 4.png" alt=""><figcaption><p>選 <a href="../keplr/">Keplr Browser Extension</a>、<a href="../cosmostation/">Cosmostation Browser Extension</a> 或 <a href="../../../depub/liker-id/register/">Authcore</a> 登入</p></figcaption></figure>
 
 在左手邊菜單選「Transactions」即可查看以往交易。
 

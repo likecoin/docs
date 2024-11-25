@@ -4,7 +4,7 @@ description: 驗證人 ( Validators ) 是什麼？
 
 # 驗證人
 
-![驗證人](../../../.gitbook/assets/LikeCoin\_AD78\_PostList\_1213.png)
+![驗證人](../../../.gitbook/assets/LikeCoin_AD78_PostList_1213.png)
 
 ## 銀行+立委 <a href="#bank-legco" id="bank-legco"></a>
 
@@ -28,7 +28,7 @@ Likers 透過委託的方法授權給驗證人。委託 LikeCoin 代表 Liker �
 
 ### 活躍驗證人 ( Active Validator)&#x20;
 
-履行[驗證交易](../../../user-guide/background.md#9e68)責任，並在 LikeCoin DAO 憲法界定下的活躍驗證人數目內獲得最多委託的驗證人。
+履行[驗證交易](../../dapp/background.md#9e68)責任，並在 LikeCoin DAO 憲法界定下的活躍驗證人數目內獲得最多委託的驗證人。
 
 ### 閒置驗證人 ( Inactive Validator )
 
@@ -36,6 +36,6 @@ Likers 透過委託的方法授權給驗證人。委託 LikeCoin 代表 Liker �
 
 ## 成為驗證人
 
-{% content-ref url="../../../validator/become-a-validator.md" %}
-[become-a-validator.md](../../../validator/become-a-validator.md)
+{% content-ref url="become-a-validator.md" %}
+[become-a-validator.md](become-a-validator.md)
 {% endcontent-ref %}

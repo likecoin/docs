@@ -16,8 +16,8 @@ description: 如何在 Emeris 提供流動性
 
 提供流動性方法很簡單，首先你需要先註冊 Keplr 錢包
 
-{% content-ref url="../../../user-guide/liker-id/register-with-keplr.md" %}
-[register-with-keplr.md](../../../user-guide/liker-id/register-with-keplr.md)
+{% content-ref url="../../../depub/liker-id/register-with-keplr.md" %}
+[register-with-keplr.md](../../../depub/liker-id/register-with-keplr.md)
 {% endcontent-ref %}
 
 及將 LikeCoin 傳送到錢包內。

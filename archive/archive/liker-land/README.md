@@ -8,12 +8,12 @@ description: Facebook 已經可以按讚啦，為甚麼還要多搞一個 LikeCo
 2022/06/28 存檔。資訊已過期。
 {% endhint %}
 
-![](../../../.gitbook/assets/LikeCoin\_AD72\_AppStore\_OG\_ios\_android.png)
+![](../../../.gitbook/assets/LikeCoin_AD72_AppStore_OG_ios_android.png)
 
 Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢包、護照等更項功能於一身；也是讚者與創作者溝通的橋樑。
 
-{% content-ref url="../../../user-guide/liker-land/download.md" %}
-[download.md](../../../user-guide/liker-land/download.md)
+{% content-ref url="../../../general-guides/dapp/liker-land/download.md" %}
+[download.md](../../../general-guides/dapp/liker-land/download.md)
 {% endcontent-ref %}
 
 ## **讀者向** <a href="#for-readers" id="for-readers"></a>
@@ -36,7 +36,7 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 
 ### **化讚為賞**
 
-每個[按讚](../../../user-guide/liker-land/like.md)都會成為對創作者的實質鼓勵。
+每個[按讚](../../../general-guides/dapp/liker-land/like.md)都會成為對創作者的實質鼓勵。
 
 ## 創作者向 <a href="#for-content-creators" id="for-content-creators"></a>
 
@@ -47,14 +47,14 @@ Liker Land 是 LikeCoin 的用戶介面，整合了閱讀、內容儲存、錢�
 * [去中心出版](../../../depub/decentralized-publishing.md)基建協助作者把內容註冊到區塊鏈，寫下永久的憑據
 * 使用 [app.like.co](../../../depub/what-is-iscn/app.like.co/) 或 [ISCN Batch Uploader](../../../depub/what-is-iscn/iscn-batch-uploader.md) 註冊 ISCN
 * 替作者把內容存放到 [IPFS](https://ipfs.io)，透過 [Matters](https://matters.news/) 實現
-* 暫時只有 [WordPress](../../../user-guide/wordpress.md) 可一次過實踐出版 + 註冊功能
+* 暫時只有 [WordPress](../../../general-guides/dapp/wordpress.md) 可一次過實踐出版 + 註冊功能
 
 ### 去中心讚賞
 
-* **化讚為賞**：只需在內容加入 [LikeCoin button 讚賞鍵](../../../user-guide/creator/)，每個讀者的按讚，都會化為實質回報
-* 作者回饋有兩個來源，一為[讚賞公民](../../../user-guide/civic-liker/)饋創作，二為基金會放大每份讚賞公民月費的創作基金
+* **化讚為賞**：只需在內容加入 [LikeCoin button 讚賞鍵](../../../general-guides/dapp/creator/)，每個讀者的按讚，都會化為實質回報
+* 作者回饋有兩個來源，一為[讚賞公民](../../../general-guides/dapp/civic-liker/)饋創作，二為基金會放大每份讚賞公民月費的創作基金
 
 ### 去中心策展
 
 * [Liker Land](today-headline.md)：「不是瀏覽，而是閱讀。」針對深度閱讀開發的手機應用，為讀者提供清淨閱讀環境。
-* 部分讀者化身[內容伯樂 ( Content Jockey )](../../../user-guide/liker-land/superlike.md)，透過 Super Like，推薦內容成為 Liker Land 的頭條
+* 部分讀者化身[內容伯樂 ( Content Jockey )](../../../general-guides/dapp/liker-land/superlike.md)，透過 Super Like，推薦內容成為 Liker Land 的頭條

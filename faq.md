@@ -1,19 +1,10 @@
 ---
-description: LikeCoin 常見問題
+description: Liker Land 常見問題
 ---
 
-# LikeCoin 答客問
+# Liker Land 答客問
 
-![](.gitbook/assets/LikeCoin\_AD27\_Small\_Update-01.png)
-
-## [LikeCoin 項目概覽](./)
-
-* [LikeCoin 是什麼？](./)
-* [在那兒可參看最新工作進展？](updates.md)
-* [有媒體報導可以參詳嗎？](general-guides/on-the-news.md)
-* [LikeCoin 有提供品牌形象指引和相關素材下載麼？](branding.md)
-* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
-* [想與社群及更多用戶聯繫分享經驗，有渠道嗎？](general-guides/community/)
+![](.gitbook/assets/LikeCoin_AD27_Small_Update-01.png)
 
 ## [去中心出版](./)
 
@@ -71,41 +62,34 @@ description: LikeCoin 常見問題
 * [如何為議案存入保證金？](general-guides/governance/proposal-deposit.md)&#x20;
 * [如何就議案投票？](general-guides/governance/direct-vote/)
 * [什麼是驗證人？](general-guides/governance/what-is-a-validator/)
-* [如何成為驗證人？](validator/become-a-validator.md)
+* [如何成為驗證人？](general-guides/governance/what-is-a-validator/become-a-validator.md)
 * [驗證人如何獲得社群基金的委託？](general-guides/governance/what-is-a-validator/community-delegation.md)
 * [LikeCoin DAO 有過什麼議案？](general-guides/governance/proposals.md)
 
 ## 去中心應用
 
-### [Liker Land](faq.md#liker-land)
+### [LikeCoin 手機應用程式](general-guides/dapp/liker-land/)
 
-* [下載了 LikeCoin 手機應用程式可以做些什麼？](user-guide/liker-land/)
-* [什麼是「化讚為賞」？「化讚為賞」的去中心讚賞如何運作？錢從何來？](user-guide/liker-land/like.md)
-* [何謂 Super Like？](user-guide/liker-land/superlike.md)
+* [下載了 LikeCoin 手機應用程式可以做些什麼？](general-guides/dapp/liker-land/)
+* [什麼是「化讚為賞」？「化讚為賞」的去中心讚賞如何運作？錢從何來？](general-guides/dapp/liker-land/like.md)
+* [何謂 Super Like？](general-guides/dapp/liker-land/superlike.md)
 
-### [讚賞公民](user-guide/civic-liker/)
+### [讚賞公民](general-guides/dapp/civic-liker/)
 
-* [為何要成為讚賞公民？](user-guide/civic-liker/)
-* [如何成為讚賞公民？](user-guide/civic-liker/be-a-civic-liker.md)
-* [有什麼福利嗎？](user-guide/civic-liker/rationale-and-benefits.md)
+* [為何要成為讚賞公民？](general-guides/dapp/civic-liker/)
+* [如何成為讚賞公民？](general-guides/dapp/civic-liker/be-a-civic-liker.md)
+* [有什麼福利嗎？](general-guides/dapp/civic-liker/rationale-and-benefits.md)
 
-### [Liker ID](user-guide/liker-id/)
+### [LikeCoin button 讚賞鍵](general-guides/dapp/creator/)
 
-* [Liker ID 要怎樣註冊？](user-guide/liker-id/)
-* [什麼是 Authcore？](user-guide/liker-id/register/what-is-authcore.md)
-* [無法以社交帳號登入 Liker ID，怎麼辦？不知何解無法登入嗎？試試重設密碼吧！](user-guide/liker-id/register/reset-password.md)
-* [可以匯出 Liker ID 私鑰嗎？](user-guide/liker-id/register/export-seed-words.md)
-
-### [LikeCoin button 讚賞鍵](user-guide/creator/)
-
-* [如何在自架 WordPress 網站整合讚賞鍵功能並出版作品到區塊鏈？](user-guide/wordpress.md)
-* [LikeCoin button 讚賞鍵有什麼功能？](user-guide/creator/)
-* [我不懂自架網站，有什麼第三方寫作平台直接支援 LikeCoin 麼？](user-guide/creator/blogging-platforms/)
-* [如何查看每週、每天、每篇文章所獲得的讚賞收益？](user-guide/creatortools/rewards.md)
-* [如何查看每月創作進度？](user-guide/creatortools/monthly-report.md)
+* [如何在自架 WordPress 網站整合讚賞鍵功能並出版作品到區塊鏈？](general-guides/dapp/wordpress.md)
+* [LikeCoin button 讚賞鍵有什麼功能？](general-guides/dapp/creator/)
+* [我不懂自架網站，有什麼第三方寫作平台直接支援 LikeCoin 麼？](general-guides/dapp/creator/blogging-platforms/)
+* [如何查看每週、每天、每篇文章所獲得的讚賞收益？](general-guides/dapp/creatortools/rewards.md)
+* [如何查看每月創作進度？](general-guides/dapp/creatortools/monthly-report.md)
 
 你也可能對以下條目有興趣：
 
-{% content-ref url="user-guide/background.md" %}
-[background.md](user-guide/background.md)
+{% content-ref url="general-guides/dapp/background.md" %}
+[background.md](general-guides/dapp/background.md)
 {% endcontent-ref %}

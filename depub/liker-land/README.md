@@ -2,7 +2,7 @@
 description: 網頁版的 Liker Land
 ---
 
-# Liker Land 網站介紹
+# Liker Land 介紹
 
 登入網頁版的 [https://Liker.Land](./#xuan-xiang-yi-wo-de-shu-jia-httpsliker.landdashboard) 後點右上角的頭像出現其他操作選項。​
 
@@ -52,14 +52,14 @@ description: 網頁版的 Liker Land
 
 ### Liker ID - [https://like.co/in/settings](https://like.co/in/settings)
 
-{% content-ref url="../../user-guide/liker-id/" %}
-[liker-id](../../user-guide/liker-id/)
+{% content-ref url="../liker-id/" %}
+[liker-id](../liker-id/)
 {% endcontent-ref %}
 
 ### 匯出錢包助記詞（只適用於以電郵或社交登入註冊的 Liker ID）
 
-{% content-ref url="../../user-guide/liker-id/register/export-seed-words.md" %}
-[export-seed-words.md](../../user-guide/liker-id/register/export-seed-words.md)
+{% content-ref url="../liker-id/register/export-seed-words.md" %}
+[export-seed-words.md](../liker-id/register/export-seed-words.md)
 {% endcontent-ref %}
 
 ### 清理閱讀器緩存

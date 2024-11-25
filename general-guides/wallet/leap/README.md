@@ -34,8 +34,8 @@ Web3 唯一的非託管超級錢包。使用 Leap 是傳送、互換和委託密
 
 #### 你亦可以匯出你的 Liker Land 助記詞以使用 Leap 錢包：
 
-{% content-ref url="../../../user-guide/liker-id/register/export-seed-words.md" %}
-[export-seed-words.md](../../../user-guide/liker-id/register/export-seed-words.md)
+{% content-ref url="../../../depub/liker-id/register/export-seed-words.md" %}
+[export-seed-words.md](../../../depub/liker-id/register/export-seed-words.md)
 {% endcontent-ref %}
 
 {% content-ref url="import-wallet-into-leap.md" %}

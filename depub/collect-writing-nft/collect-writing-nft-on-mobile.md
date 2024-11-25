@@ -6,7 +6,7 @@ description: 使用 Keplr mobile、Cosmostation app 或 LikeCoin 手機應用程
 
 ## 使用 LikeCoin 手機應用程式購買 NFT <a href="#mobile" id="mobile"></a>
 
-**步驟一**：登入 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)後後點堆疊圖案瀏覽 NFT 書店。
+**步驟一**：登入 [LikeCoin 手機應用程式](../../general-guides/dapp/liker-land/download.md)後後點堆疊圖案瀏覽 NFT 書店。
 
 <figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 0.png" alt=""><figcaption><p>瀏覽 NFT 書店</p></figcaption></figure>
 
@@ -88,7 +88,7 @@ description: 使用 Keplr mobile、Cosmostation app 或 LikeCoin 手機應用程
 
 ### 在 LikeCoin 手機應用程式簽署 <a href="#liker-land-app" id="liker-land-app"></a>
 
-**步驟一**：登入 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)後到手機瀏覽器開啟希望購買的 NFT 頁面並點「立即收藏」、「收集」、「收藏作品」或當前價格開始收藏 Writing NFT。
+**步驟一**：登入 [LikeCoin 手機應用程式](../../general-guides/dapp/liker-land/download.md)後到手機瀏覽器開啟希望購買的 NFT 頁面並點「立即收藏」、「收集」、「收藏作品」或當前價格開始收藏 Writing NFT。
 
 <figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 1.png" alt=""><figcaption><p>點「立即收藏」</p></figcaption></figure>
 

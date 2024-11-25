@@ -28,8 +28,8 @@ description: Cosmostation 是支援 LikeCoin 的多鏈錢包
 
 #### 你亦可以匯出你的 Liker Land 助記詞以使用 Cosmostation 錢包：
 
-{% content-ref url="../../../user-guide/liker-id/register/export-seed-words.md" %}
-[export-seed-words.md](../../../user-guide/liker-id/register/export-seed-words.md)
+{% content-ref url="../../../depub/liker-id/register/export-seed-words.md" %}
+[export-seed-words.md](../../../depub/liker-id/register/export-seed-words.md)
 {% endcontent-ref %}
 
 {% content-ref url="import-wallet-into-cosmostation.md" %}

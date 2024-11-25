@@ -4,7 +4,7 @@ description: 請詳細參看所需步驟
 
 # 升級 LikeCoin ERC-20 到 LikeCoin chain
 
-[LikeCoin](https://like.co/) 經已從 ERC-20 轉移到以 Cosmos 生態系為基礎 [LikeCoin chain](../../governance/likecoin-chain.md)，用戶再不能使用 MetaMask 錢包登入而需要使用 [Keplr](../keplr/) 或 [LikecCoin 手機應用程式](../../../user-guide/liker-land/download.md)。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
+[LikeCoin](https://like.co/) 經已從 ERC-20 轉移到以 Cosmos 生態系為基礎 [LikeCoin chain](../../governance/likecoin-chain.md)，用戶再不能使用 MetaMask 錢包登入而需要使用 [Keplr](../keplr/) 或 [LikecCoin 手機應用程式](../../dapp/liker-land/download.md)。這篇文章是給以往使用 MetaMask 而並未完成轉移 Liker ID 的用戶參看。
 
 留意所有升級步驟必須使用桌面電腦進行，不支援手機升級。
 
@@ -83,7 +83,7 @@ description: 請詳細參看所需步驟
 
 ### 步驟 5：下載 LikeCoin 手機應用程式 <a href="#liker-land" id="liker-land"></a>
 
-你可以到 Google Play store 或 Apple App store，[下載 LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)，以你的社交帳號登入，便可在 app 中查閱你的 LikeCoin 餘額了。
+你可以到 Google Play store 或 Apple App store，[下載 LikeCoin 手機應用程式](../../dapp/liker-land/download.md)，以你的社交帳號登入，便可在 app 中查閱你的 LikeCoin 餘額了。
 
 ![下載 LikeCoin 手機應用程式查看 LikeCoin 餘額](../../../.gitbook/assets/likecoin-migration-7.png)
 
@@ -113,6 +113,6 @@ description: 請詳細參看所需步驟
 
 {% hint style="danger" %}
 * 使用 [https://migration.like.co/](https://migration.like.co/) 升級時請不要直接輸入交易所的 Cosmos 錢包地址，假如某些交易所需要輸入 Tag/Memo 才能存幣，這樣會導致損失並有機會讓你不能成功存入你的 LikeCoin。請先將 LikeCoin 轉入自己的 Cosmos 錢包地址後才進行其他交易或轉換。
-* **也不要直接將幣倒進相關的 Smart Contract 地址。**你必須使用 [https://migration.like.co/](upgrading-likecoin-erc20-to-likecoin-chain.md#liker-land) 進行升級。
+* **也不要直接將幣倒進相關的 Smart Contract 地址。**&#x4F60;必須使用 [https://migration.like.co/](upgrading-likecoin-erc20-to-likecoin-chain.md#liker-land) 進行升級。
 * 錯誤的 LikeCoin ERC-20 升級操作將無法挽回。
 {% endhint %}

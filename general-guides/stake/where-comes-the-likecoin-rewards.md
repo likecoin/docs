@@ -4,9 +4,9 @@ description: LikeCoin 的委託回報絕對不是傳統意義上資本所產生�
 
 # 因委託而產生的 LikeCoin 回報，錢從何來？
 
-![因委託而產生的 LikeCoin 回報，錢從何來？](../../.gitbook/assets/LikeCoin\_PostList\_1216.png)
+![因委託而產生的 LikeCoin 回報，錢從何來？](../../.gitbook/assets/LikeCoin_PostList_1216.png)
 
-_本文數據反映的是 2022年1月31日的情況，_所有參數日後均能透過社群治理機制改動，如[議案7](https://likecoin.bigdipper.live/proposals/7)。
+_本文數據反映的是 2022年1月31日的情況，_&#x6240;有參數日後均能透過社群治理機制改動，如[議案7](https://likecoin.bigdipper.live/proposals/7)。
 
 委託能獲得回報，因為每位委託者都在幫忙記帳；那不是傳統意義上資本所產生的利息。
 

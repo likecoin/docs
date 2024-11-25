@@ -5,7 +5,7 @@ description: 方法非常簡單
 # 如何修改付款信用卡資料
 
 {% hint style="danger" %}
-2022/06/14 存檔。資訊已過期，請參看新條目 [讚賞公民](../../../user-guide/civic-liker/)
+2022/06/14 存檔。資訊已過期，請參看新條目 [讚賞公民](../../../general-guides/dapp/civic-liker/)
 {% endhint %}
 
 請跟隨以下簡單步驟：\

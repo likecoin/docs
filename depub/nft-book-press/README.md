@@ -29,13 +29,13 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 10. [銷毁已出版的電子書](burn.md)
 11. [發送電子書及群發 NFT 紀念品到多個錢包](../transfer-nft.md)
 12. [匯入 EPUB 檔案到各家閱讀器](./#ereader)
-13. [設置 Liker Land 書店作者簡介](../../user-guide/liker-id/edit-avatar-displayname.md)
+13. [設置 Liker Land 書店作者簡介](../liker-id/edit-avatar-displayname.md)
 
 參看短片了解出版原理（留意以下影片使用 Keplr 登入，如使用 Email/Social 登入流程將更為簡單）：
 
 [5 分鐘出版電子書到區塊鏈（國語 TTS 旁白）](https://www.youtube.com/watch?v=QppGdM-EtBY)
 
-[5 分鐘出版電子書到區塊鏈（廣東話 TTS 旁白）](https://www.youtube.com/watch?v=T08nI\_G1c8E)
+[5 分鐘出版電子書到區塊鏈（廣東話 TTS 旁白）](https://www.youtube.com/watch?v=T08nI_G1c8E)
 
 ***
 
@@ -73,8 +73,8 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 彈出視窗並連結錢包，**建議使用 Email/Social 註冊 Liker ID 並登入**，詳見：
 
-{% content-ref url="../../user-guide/liker-id/register/" %}
-[register](../../user-guide/liker-id/register/)
+{% content-ref url="../liker-id/register/" %}
+[register](../liker-id/register/)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 6.png" alt=""><figcaption><p>彈出視窗並連結錢包</p></figcaption></figure>
@@ -103,7 +103,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 8. URL：書檔所對應的 URL
 9. License：可以選擇合適的版權宣告，預設是版權所有 ( Copyright. All rights reserved. )
 10. Content Fingerprints：顯示書檔及封面 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 EPUB 檔、IPFS 的封面檔、AR 的 EPUB 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
-11. \+Other settings：點開它出現 URL 可輸入書籍的網址及 ISBN 輸入 ISBN 號碼。
+11. +Other settings：點開它出現 URL 可輸入書籍的網址及 ISBN 輸入 ISBN 號碼。
 
 完成後點「Register」。
 
@@ -283,5 +283,5 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 * Kobo - [使用 Dropbox 將書籍新增至您的 eReader](https://help.kobo.com/hc/zh-tw/articles/360033830114-%E4%BD%BF%E7%94%A8-Dropbox-%E5%B0%87%E6%9B%B8%E7%B1%8D%E6%96%B0%E5%A2%9E%E8%87%B3%E6%82%A8%E7%9A%84-eReader)
 * HyRead - [傳輸檔案&放書](https://www.youtube.com/watch?v=nQFnyYgDCCE)
 * Pubook - [如何使用 Pubook 閱讀自己擁有的電子書檔案？](https://support.pubu.tw/hc/zh-tw/articles/12485186892185-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-Pubook-%E9%96%B1%E8%AE%80%E8%87%AA%E5%B7%B1%E6%93%81%E6%9C%89%E7%9A%84%E9%9B%BB%E5%AD%90%E6%9B%B8%E6%AA%94%E6%A1%88-)
-* Kindle - [Send to Kindle](https://www.amazon.com/-/zh\_TW/gp/sendtokindle)
+* Kindle - [Send to Kindle](https://www.amazon.com/-/zh_TW/gp/sendtokindle)
 * Boox - [不用傳輸線 BOOX 如何分享文件？](https://boox.com.tw/?p=1052)

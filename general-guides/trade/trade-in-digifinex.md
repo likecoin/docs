@@ -29,7 +29,7 @@ like1 起始的一連串數字就是你在 DigiFinex 的 LikeCoin 錢包地址�
 ![點「顯示二維碼」出現你的 LikeCoin 錢包二維碼](../../.gitbook/assets/digifinex-16.png)
 
 {% hint style="danger" %}
-留意 DigiFinex 設有單筆最小充值量 **100 LikeCoin**，**未達此金額的存款將直接消失掉！**請務必看清楚才轉帳。
+留意 DigiFinex 設有單筆最小充值量 **100 LikeCoin**，**未達此金額的存款將直接消失掉！**&#x8ACB;務必看清楚才轉帳。
 {% endhint %}
 
 ## 步驟二：轉帳 LikeCoin 到 DigiFinex

@@ -4,7 +4,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 # Writing NFT 常見問題
 
-![Writing NFT](../.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
+![Writing NFT](../.gitbook/assets/likecoin_ad115_writingnft_b-01.jpeg)
 
 ### 什麼是 Writing NFT?
 
@@ -50,7 +50,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 如何發售文章 NFT？
 
-可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../user-guide/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT 小部件](collect-writing-nft/nft-widget.md) 及[書架](liker-land/bookshelf.md)發售，作者不用手動做額外動作上架市場。
+可經任何支援 Writing NFT 的寫作網站出版，例如 [WordPress 網站](../general-guides/dapp/wordpress.md)、[Liker.Social](https://liker.social/) 或 [illustBuy](https://illustbuy.com/) 等。作品發佈後便自動上架，在 [NFT 小部件](collect-writing-nft/nft-widget.md) 及[書架](liker-land/bookshelf.md)發售，作者不用手動做額外動作上架市場。
 
 ### 能設定文字作品的 NFT 發行量上限嗎？
 
@@ -58,11 +58,11 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 沒有 Liker ID ，能出售 Writing NFT 嗎？
 
-可以。[Web3Press plugin](../user-guide/wordpress.md) 支援僅以 [Keplr](../general-guides/wallet/keplr/) 地址生成 [NFT 小部件](collect-writing-nft/nft-widget.md)。另，也可經 [NFT Portal](nft-portal/) 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
+可以。[Web3Press plugin](../general-guides/dapp/wordpress.md) 支援僅以 [Keplr](../general-guides/wallet/keplr/) 地址生成 [NFT 小部件](collect-writing-nft/nft-widget.md)。另，也可經 [NFT Portal](nft-portal/) 以錢包登入生成 NFT，然後在自己的展示櫃頁面顯示所生成的 NFT，並可分享連結讓讀者購買。
 
 ### 如何安裝 NFT 小部件?
 
-可安裝 LikeCoin [Web3Press plugin](../user-guide/wordpress.md)，每篇帖文即自動加上 [NFT 小部件](collect-writing-nft/nft-widget.md)。另也可在支援 NFT 小部件 的寫作平台發文。稍懂技術的朋友，可在網頁上加上 NFT 小部件 的 iframe。
+可安裝 LikeCoin [Web3Press plugin](../general-guides/dapp/wordpress.md)，每篇帖文即自動加上 [NFT 小部件](collect-writing-nft/nft-widget.md)。另也可在支援 NFT 小部件 的寫作平台發文。稍懂技術的朋友，可在網頁上加上 NFT 小部件 的 iframe。
 
 ### 作品沒有安裝 NFT 小部件，也能發售 NFT 嗎？
 

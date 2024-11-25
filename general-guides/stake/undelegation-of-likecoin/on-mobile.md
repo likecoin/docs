@@ -2,7 +2,7 @@
 
 ## 使用手機瀏覽器於 dao.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
 
-使用手機瀏覽器可於 [dao.like.co](https://dao.like.co/) 配合 [Authcore](../../../user-guide/liker-id/register/) 取回委託，步驟與[以桌機於 dao.like.co 取回委託 LikeCoin](on-desktop.md#undelegate-via-dao.like.co) 相同。
+使用手機瀏覽器可於 [dao.like.co](https://dao.like.co/) 配合 [Authcore](../../../depub/liker-id/register/) 取回委託，步驟與[以桌機於 dao.like.co 取回委託 LikeCoin](on-desktop.md#undelegate-via-dao.like.co) 相同。
 
 ## 使用 Keplr Mobile 取回委託
 
@@ -68,7 +68,7 @@
 
 ## 使用 LikeCoin app 取回委託 <a href="#undelegate-via-liker-land" id="undelegate-via-liker-land"></a>
 
-若你已把 LikeCoin 委託了給驗證人，現在想領回，可用 [LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)中的「取回委託」功能。請參考以下步驟：
+若你已把 LikeCoin 委託了給驗證人，現在想領回，可用 [LikeCoin 手機應用程式](../../dapp/liker-land/download.md)中的「取回委託」功能。請參考以下步驟：
 
 ### 步驟一：選擇已委託的驗證人
 

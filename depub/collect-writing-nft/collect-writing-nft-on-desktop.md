@@ -14,7 +14,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/Writing NFT 1 (1).png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
 
-彈出視窗出現登入選項。或點「立即收藏」、「收集」、「收藏作品」或當前價格後選擇[電郵或社交登入](../../user-guide/liker-id/register/)、[Keplr](collect-writing-nft-on-desktop.md#keplr)、[Cosmostation](collect-writing-nft-on-desktop.md#cosmostation)、[Leap](collect-writing-nft-on-desktop.md#leap)、[Keplr mobile](collect-writing-nft-on-desktop.md#keplr-mobile)、[Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app)、[LikeCoin 手機應用程式](collect-writing-nft-on-desktop.md#likecoin-shou-ji-ying-yong-cheng-shi)等任何一種方式連結錢包，登入並購買 Writing NFT。
+彈出視窗出現登入選項。或點「立即收藏」、「收集」、「收藏作品」或當前價格後選擇[電郵或社交登入](../liker-id/register/)、[Keplr](collect-writing-nft-on-desktop.md#keplr)、[Cosmostation](collect-writing-nft-on-desktop.md#cosmostation)、[Leap](collect-writing-nft-on-desktop.md#leap)、[Keplr mobile](collect-writing-nft-on-desktop.md#keplr-mobile)、[Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app)、[LikeCoin 手機應用程式](collect-writing-nft-on-desktop.md#likecoin-shou-ji-ying-yong-cheng-shi)等任何一種方式連結錢包，登入並購買 Writing NFT。
 
 <figure><img src="../../.gitbook/assets/Writing NFT 4.png" alt=""><figcaption><p>各種登入選項</p></figcaption></figure>
 
@@ -104,15 +104,7 @@ description: >-
 
 點「Approve」連結 Liker Land 後再點「Approve」連結帳戶並登入。
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Buy NFT 6 Keplr mobile 3.png" alt=""><figcaption><p>點「Approve」連結 Liker Land</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Buy NFT 6 Keplr mobile 4.png" alt=""><figcaption><p>點「Approve」連結帳戶並登入</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/Buy NFT 6 Keplr mobile 3.png" alt=""><figcaption><p>點「Approve」連結 Liker Land</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Buy NFT 6 Keplr mobile 4.png" alt=""><figcaption><p>點「Approve」連結帳戶並登入</p></figcaption></figure></div>
 
 成功登入後 Liker Land 網站右上角將顯示你的頭像。
 
@@ -148,15 +140,7 @@ Keplr mobile 彈出 Confirm Transaction 視窗，點「Approve」確認購買。
 
 點「OK」確認連結再點「Confirm」連結帳戶。
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Buy NFT 6 Cosmostation app 4.png" alt=""><figcaption><p>點「OK」確認連結</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Buy NFT 6 Cosmostation app 5.png" alt=""><figcaption><p>點「Confirm」連結帳戶</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/Buy NFT 6 Cosmostation app 4.png" alt=""><figcaption><p>點「OK」確認連結</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Buy NFT 6 Cosmostation app 5.png" alt=""><figcaption><p>點「Confirm」連結帳戶</p></figcaption></figure></div>
 
 成功連結並登入。
 
@@ -190,21 +174,13 @@ Cosmostation app 彈出 Request Transaction Sign 視窗，點「Confirm」確認
 
 <figure><img src="../../.gitbook/assets/Buy NFT 6 Liker Land app 1.png" alt=""><figcaption><p>點 Liker ID 後出現二維碼</p></figcaption></figure>
 
-在 [LikeCoin 手機應用程式](../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
+在 [LikeCoin 手機應用程式](../../general-guides/dapp/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
 
 <figure><img src="../../.gitbook/assets/Buy NFT 6 Liker Land app 2.png" alt=""><figcaption><p>在 LikeCoin app 調用鏡頭，掃瞄二維碼</p></figcaption></figure>
 
 彈出視窗點「允許」連結  Liker Land，並再點「允許」連結帳戶並登入。
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Buy NFT 6 Liker Land app 3.png" alt=""><figcaption><p>彈出視窗點「允許」連結 Liker Land</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Buy NFT 6 Liker Land app 4.png" alt=""><figcaption><p>再點「允許」連結帳戶</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/Buy NFT 6 Liker Land app 3.png" alt=""><figcaption><p>彈出視窗點「允許」連結 Liker Land</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Buy NFT 6 Liker Land app 4.png" alt=""><figcaption><p>再點「允許」連結帳戶</p></figcaption></figure></div>
 
 {% hint style="warning" %}
 如遇連接問題，可到「設定」「Wallet Connect」點 X 關掉現有連接後再作嘗試。

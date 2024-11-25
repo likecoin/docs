@@ -20,7 +20,7 @@ description: 使用 LikeCoin app 註冊 ISCN
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>點 Liker ID 後出現二維碼</p></figcaption></figure>
 
-在 [LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
+在 [LikeCoin 手機應用程式](../../../general-guides/dapp/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1c.png" alt=""><figcaption><p>在 LikeCoin app 調用鏡頭，掃瞄二維碼</p></figcaption></figure>
 

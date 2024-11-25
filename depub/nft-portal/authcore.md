@@ -8,8 +8,8 @@ description: 使用電郵或社交登入以文章網址出版 Writing NFT
 
 請於桌面電腦瀏覽器以電郵或社交登入 [**NFT Portal**](https://app.like.co/nft/url)。了解更多關於電郵或社交登入：
 
-{% content-ref url="../../user-guide/liker-id/register/" %}
-[register](../../user-guide/liker-id/register/)
+{% content-ref url="../liker-id/register/" %}
+[register](../liker-id/register/)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Portal EmailSocial.png" alt=""><figcaption><p>以 電郵或社交登入 NFT Portal</p></figcaption></figure>
@@ -100,7 +100,7 @@ description: 使用電郵或社交登入以文章網址出版 Writing NFT
 
 <figure><img src="../../.gitbook/assets/NFT Portal 6-1.png" alt=""><figcaption><p>簽署以註冊 ISCN ID、Arweave ID、Class ID 及鑄造 Writing NFT</p></figcaption></figure>
 
-出現 Completed! 及 3D 封面圖即代表 NFT 已鑄造完成，如網站未曾安裝 [LikeCoin button 讚賞鍵](../../user-guide/creator/)可直接貼上 Embed NFT widget into your site 的代碼，即可在任何網頁展示 [NFT 小部件](../collect-writing-nft/nft-widget.md)。
+出現 Completed! 及 3D 封面圖即代表 NFT 已鑄造完成，如網站未曾安裝 [LikeCoin button 讚賞鍵](../../general-guides/dapp/creator/)可直接貼上 Embed NFT widget into your site 的代碼，即可在任何網頁展示 [NFT 小部件](../collect-writing-nft/nft-widget.md)。
 
 點「View Your NFT」查看已出版的 Writing NFT。
 

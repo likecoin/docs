@@ -40,4 +40,4 @@ description: 想與社群及更多用戶聯繫分享經驗，有渠道嗎？
 * [#🔁｜translate-wallet-prefix](translate-wallet-prefix.md)－雙向查詢新舊前綴錢包地址
 * [LikeCoin Disocrd 錢包](discord-wallet.md) - 在 Discord 傳送及接收 LikeCoin
 * [LIKE this mesage](like-this-mesage.md) - 在 Discord 「拍手」傳送 5 LIKE 予訊息作者
-* [Share to DePub](../../user-guide/depub.space/from-likecoin-discord-to-depub.space.md) - 從 LikeCoin Discord 推文到 [depub.space](https://depub.space/)
+* [Share to DePub](../dapp/depub.space/from-likecoin-discord-to-depub.space.md) - 從 LikeCoin Discord 推文到 [depub.space](https://depub.space/)

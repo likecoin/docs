@@ -4,361 +4,361 @@ description: LikeCoin DAO 有過什麼議案？
 
 # 歷史議案
 
-![歷史議案](../../.gitbook/assets/LikeCoin\_AD59\_Banner.png)
+![歷史議案](../../.gitbook/assets/LikeCoin_AD59_Banner.png)
 
 ## 議案 #81 LikeCoin v4.2.0 ChungKing++ 升級
 
-* **提案：**Civic Liker 讚賞公民
+* **提案：**&#x43;ivic Liker 讚賞公民
 * **類型**：軟件升級議案 ( Software Upgrade Proposal )
 * **日期**：2024.04.12 提案，2024.04.19 通過
 * **詳情**：[https://ping.pub/likecoin/gov/81](https://ping.pub/likecoin/gov/81)
 
-## 議案 #80 **指引式議案：**將 NUM 兌換為 USDe 穩定幣
+## 議案 #80 **指引式議案：**&#x5C07; NUM 兌換為 USDe 穩定幣
 
-* **提案：**Civic Liker 讚賞公民
+* **提案：**&#x43;ivic Liker 讚賞公民
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2024.03.06 提案，2024.03.14 通過
 * **詳情**：[https://ping.pub/likecoin/gov/80](https://ping.pub/likecoin/gov/80)
 
 ## 議案 #78 存入 1,200,000 LIKE 到創作基金的錢包
 
-* **提案：**Edmond
+* **提案：**&#x45;dmond
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2024.02.08 提案，2024.02.21 通過
 * **詳情**：[https://ping.pub/likecoin/gov/78](https://ping.pub/likecoin/gov/78)
 
 ## 議案 #77 LikeCoin v4.1.1 ChungKing+ 升級
 
-* **提案：**Civic Liker 讚賞公民
+* **提案：**&#x43;ivic Liker 讚賞公民
 * **類型**：軟件升級議案 ( Software Upgrade Proposal )
 * **日期**：2023.11.22 提案，2023.11.29 通過
 * **詳情**：[https://ping.pub/likecoin/gov/77](https://ping.pub/likecoin/gov/77)
 
 ## 議案 #76 創作基金
 
-* **提案：**Edmond
+* **提案：**&#x45;dmond
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2023.11.14 提案，2023.11.22 通過
 * **詳情**：[https://ping.pub/likecoin/gov/76](https://ping.pub/likecoin/gov/76)
 
 ## 議案 #75 固定通脹率於 7%
 
-* **提案：**leafwind.tw 🍃
+* **提案：**&#x6C;eafwind.tw 🍃
 * **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2023.11.02 提案，2023.11.14 通過
 * **詳情**：[https://ping.pub/likecoin/gov/75](https://ping.pub/likecoin/gov/75)
 
 ## 議案 #74 1000x 手續費
 
-* **提案：**leafwind.tw 🍃
+* **提案：**&#x6C;eafwind.tw 🍃
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2023.11.02 提案，2023.11.14 通過
 * **詳情**：[https://ping.pub/likecoin/gov/74](https://ping.pub/likecoin/gov/74)
 
 ## 議案 #73 於 Osmosis 創建新的 LIKE/USDC 池
 
-* **提案：**Oldcat
+* **提案：**&#x4F;ldcat
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2023.10.11 提案，2023.10.19 通過
 * **詳情**：[https://ping.pub/likecoin/gov/73](https://ping.pub/likecoin/gov/73)
 
 ## 議案 #69 更新通脹參數
 
-* **提案：**leafwind.tw 🍃
+* **提案：**&#x6C;eafwind.tw 🍃
 * **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2023.08.31 提案，2023.09.08 通過
 * **詳情**：[https://ping.pub/likecoin/gov/69](https://ping.pub/likecoin/gov/69)
 
 ## 議案 #68 更新通脹參數
 
-* **提案：**leafwind.tw 🍃
+* **提案：**&#x6C;eafwind.tw 🍃
 * **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2023.08.31 提案，議案無效
 * **詳情**：[https://ping.pub/likecoin/gov/68](https://ping.pub/likecoin/gov/68)
 
 ## 議案 #67 更新通脹參數
 
-* **提案：**leafwind.tw 🍃
+* **提案：**&#x6C;eafwind.tw 🍃
 * **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2023.08.24 提案，2023.09.07 否決
 * **詳情**：[https://ping.pub/likecoin/gov/67](https://ping.pub/likecoin/gov/67)
 
 ## 議案 #66 存入 1,200,000 LIKE 到創作基金委員會的錢包
 
-* **提案：**Edmond
+* **提案：**&#x45;dmond
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2023.06.08 提案，2023.06.25 通過
 * **詳情**：[https://ping.pub/likecoin/gov/66](https://ping.pub/likecoin/gov/66)
 
 ## 議案 #65 LikeCoin v4.0.0 ChungKing 升級
 
-* **提案：**Civic Liker 讚賞公民
+* **提案：**&#x43;ivic Liker 讚賞公民
 * **類型**：軟件升級議案 ( Software Upgrade Proposal )
 * **日期**：2023.05.26 提案，2023.06.02 通過
 * **詳情**：[https://ping.pub/likecoin/gov/65](https://ping.pub/likecoin/gov/65)
 
 ## 議案 #64 增加 x/iscn and x/likenft 費用
 
-* **提案：**leafwind.tw 🍃
+* **提案：**&#x6C;eafwind.tw 🍃
 * **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2023.04.07 提案，2023.04.15 通過
 * **詳情**：[https://ping.pub/likecoin/gov/64](https://ping.pub/likecoin/gov/64)
 
 ## 議案 #63 更新 Osmosis 流動性池激勵
 
-* **提案：**medium
+* **提案：**&#x6D;edium
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2023.03.28 提案，2023.04.04 通過
 * **詳情**：[https://ping.pub/likecoin/gov/63](https://ping.pub/likecoin/gov/63)
 
 ## 議案 #62 以 NUM 支付 Irtysh Digital
 
-* **提案：**Phoebe
+* **提案：**&#x50;hoebe
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.03.02 提案，2023.03.13 通過
 * **詳情**：[https://ping.pub/likecoin/gov/62](https://ping.pub/likecoin/gov/62)
 
 ## 議案 #61 向遷移錢包存入 1,000,000 LIKE
 
-* **提案：**William
+* **提案：**&#x57;illiam
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2023.02.26 提案，2023.03.06 通過
 * **詳情**：[https://ping.pub/likecoin/gov/61](https://ping.pub/likecoin/gov/61)
 
 ## 議案 #60 存入 1,200,000 LIKE 到創作基金委員會的錢包
 
-* **提案：**Edmond
+* **提案：**&#x45;dmond
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2023.02.21 提案，2023.02.28 通過
 * **詳情**：[https://ping.pub/likecoin/gov/60](https://ping.pub/likecoin/gov/60)
 
 ## 議案 #59 社群委託委員會更新
 
-* **提案：**Daisy
+* **提案：**&#x44;aisy
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2023.01.17 提案，2023.01.24 通過
 * **詳情**：[https://ping.pub/likecoin/gov/59](https://ping.pub/likecoin/gov/59)
 
 ## 議案 #58 存入 1,200,000 LIKE 到創作基金委員會的錢包
 
-* **提案：**Edmond
+* **提案：**&#x45;dmond
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.11.03 提案，2022.11.10 通過
 * **詳情**：[https://ping.pub/likecoin/gov/58](https://ping.pub/likecoin/gov/58)
 
 ## 議案 #57 更新 Osmosis 流動性池激勵
 
-* **提案：**medium
+* **提案：**&#x6D;edium
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.10.01 提案，2022.10.11 通過
 * **詳情**：[https://ping.pub/likecoin/gov/57](https://ping.pub/likecoin/gov/57)
 
 ## 議案 #56 向遷移錢包存入 2,000,000 LIKE
 
-* **提案：**William
+* **提案：**&#x57;illiam
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.09.02 提案，2022.09.11 通過
 * **詳情**：[https://ping.pub/likecoin/gov/56](https://ping.pub/likecoin/gov/56)
 
 ## 議案 #55 在 LikeCoin 上更新過期的 CosmosHub IBC 客戶端
 
-* **提案：**William
+* **提案：**&#x57;illiam
 * **類型**：ibc.core.client.v1.Client 更新議案
 * **日期**：2022.09.01 提案，2022.09.08 通過
 * **詳情**：[https://ping.pub/likecoin/gov/55](https://ping.pub/likecoin/gov/55)
 
 ## 議案 #54 新用戶申請 fairdrop 的虛擬提案
 
-* **提案：**Mikasa
+* **提案：**&#x4D;ikasa
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2022.08.18 提案，2022.08.25 通過
 * **詳情**：[https://ping.pub/likecoin/gov/54](https://ping.pub/likecoin/gov/54)
 
 ## 議案 #53 跟進議案 51 - 存入 15,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
 
-* **提案：**ckxpress
+* **提案：**&#x63;kxpress
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.07.26 提案，2022.08.04 通過
 * **詳情**：[https://ping.pub/likecoin/gov/53](https://ping.pub/likecoin/gov/53)
 
 ## 議案 #52 LikeCoin v3.0.0 StarFerry NFT 升級
 
-* **提案：**Civic Liker
+* **提案：**&#x43;ivic Liker
 * **類型**：軟件升級議案 ( Software Upgrade Proposal )
 * **日期**：2022.07.12 提案，2022.07.20 通過
 * **詳情**：[https://ping.pub/likecoin/gov/52](https://ping.pub/likecoin/gov/52)
 
 ## 議案 #51 存入 20,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
 
-* **提案：**ckxpress
+* **提案：**&#x63;kxpress
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.07.12 提案，2022.07.22 法定投票人數不足被否決
 * **詳情**：[https://ping.pub/likecoin/gov/51](https://ping.pub/likecoin/gov/51)
 
 ## 議案 #50 存入 1,200,000 LIKE 到創作基金委員會的錢包
 
-* **提案：**Edmond
+* **提案：**&#x45;dmond
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.07.06 提案，2022.07.14 通過
 * **詳情**：[https://ping.pub/likecoin/gov/50](https://ping.pub/likecoin/gov/50)
 
 ## 議案 #49 存入 5,000,000 LIKE 到 Marketing SubDAO 的多重簽署錢包
 
-* **提案：**Phoebe
+* **提案：**&#x50;hoebe
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.06.28 提案，2022.07.05 通過
 * **詳情**：[https://ping.pub/likecoin/gov/49](https://ping.pub/likecoin/gov/49)
 
 ## 議案 #48 更新 Osmosis 池激勵措施
 
-* **提案：**medium
+* **提案：**&#x6D;edium
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.06.02 提案，2022.06.10 通過
 * **詳情**：[https://ping.pub/likecoin/gov/48](https://ping.pub/likecoin/gov/48)
 
 ## 議案 #47 存入 20,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
 
-* **提案：**ckxpress
+* **提案：**&#x63;kxpress
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.05.29 提案，2022.06.08 通過
 * **詳情**：[https://ping.pub/likecoin/gov/47](https://ping.pub/likecoin/gov/47)
 
 ## 議案 #46 LikeCoin v2.0.0 LaiChiKok Prefix 升級
 
-* **提案：**Civic Liker
+* **提案：**&#x43;ivic Liker
 * **類型**：軟件升級議案 ( Software Upgrade Proposal )
 * **日期**：2022.04.21 提案，2022.04.29 通過
 * **詳情**：[https://ping.pub/likecoin/gov/46](https://ping.pub/likecoin/gov/46)
 
 ## 議案 #45 存入 3,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
 
-* **提案：**ckxpress
+* **提案：**&#x63;kxpress
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.04.20 提案，2022.04.29 通過
 * **詳情**：[https://ping.pub/likecoin/gov/45](https://ping.pub/likecoin/gov/45)
 
 ## 議案 #44 LikeCoin chain 升級驗證人激勵計劃
 
-* **提案：**Bulgakov 及 D
+* **提案：**&#x42;ulgakov 及 D
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.04.08 提案，2022.04.19 通過
 * **詳情**：[https://ping.pub/likecoin/gov/44](https://ping.pub/likecoin/gov/44)
 
 ## 議案 #43 【議案 #42 修正案】存入 1,000,000 LIKE 到 Marketing SubDAO 的多重簽署錢包
 
-* **提案：**Phoebe
+* **提案：**&#x50;hoebe
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.03.23 提案，2022.03.23 通過
 * **詳情**：[https://ping.pub/likecoin/gov/43](https://ping.pub/likecoin/gov/43)
 
 ## 議案 #42 存入 1,000,000 LIKE 到 Marketing SubDAO 的多重簽署錢包
 
-* **提案：**Phoebe
+* **提案：**&#x50;hoebe
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.03.10 提案，2022.03.31 通過
 * **詳情**：[https://ping.pub/likecoin/gov/42](https://ping.pub/likecoin/gov/42)
 
 ## 議案 #41 修改通漲率參數由 25% 到 100%
 
-* **提案：**Liker.Social
+* **提案：**&#x4C;iker.Social
 * **類型**：參數修訂議案 ( Parameter Change Proposal )
 * **日期**：2022.03.08 提案，2022.03.18 通過
 * **詳情**：[https://ping.pub/likecoin/gov/41](https://ping.pub/likecoin/gov/41)
 
 ## 議案 #40 存入 2,000,000 LIKE 到 Tech SubDAO 的多重簽署錢包
 
-* **提案：**ckxpress
+* **提案：**&#x63;kxpress
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.03.07 提案，2022.03.02 通過
 * **詳情**：[https://ping.pub/likecoin/gov/40](https://ping.pub/likecoin/gov/40)
 
-## 議案 #39 **指引式議案：**讓 Tech SubDAO 接手議案 33 的餘下工作
+## 議案 #39 **指引式議案：**&#x8B93; Tech SubDAO 接手議案 33 的餘下工作
 
-* **提案：**ckxpress
+* **提案：**&#x63;kxpress
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2022.03.04 提案，2022.03.11 通過
 * **詳情**：[https://ping.pub/likecoin/gov/39](https://ping.pub/likecoin/gov/39)
 
-## 議案 #38 **指引式議案：**賦權成立 Marketing subDAO
+## 議案 #38 **指引式議案：**&#x8CE6;權成立 Marketing subDAO
 
-* **提案：**Phoebe
+* **提案：**&#x50;hoebe
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2022.02.20 提案，2022.03.02 通過
 * **詳情**：[https://ping.pub/likecoin/gov/38](https://ping.pub/likecoin/gov/38)
 
 ## 議案 #37 Osmosis 流動性池獎勵
 
-* **提案：**medium
+* **提案：**&#x6D;edium
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.02.17 提案，2022.02.27 通過
 * **詳情**：[https://ping.pub/likecoin/gov/37](https://ping.pub/likecoin/gov/37)
 
-## 議案 #36 **指引式議案：**賦權 @ckxpress 成立 Tech subDAO
+## 議案 #36 **指引式議案：**&#x8CE6;權 @ckxpress 成立 Tech subDAO
 
-* **提案：**ckxpress
+* **提案：**&#x63;kxpress
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2022.02.17 提案，2022.02.27 通過
 * **詳情**：[https://ping.pub/likecoin/gov/36](https://ping.pub/likecoin/gov/36)
 
 ## 議案 #35 2022年2月的社群池支出
 
-* **提案：**Yoitsu
+* **提案：**&#x59;oitsu
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.02.07 提案，2022.02.15 通過
 * **詳情**：[https://ping.pub/likecoin/gov/35](https://ping.pub/likecoin/gov/35)
 
 ## 議案 #34 將社群委託轉移到 Public Node
 
-* **提案：**1% Potato
+* **提案：**&#x31;% Potato
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2022.02.07 提案，2022.02.21 押金不足，提案被移除
 * **詳情**：[https://ping.pub/likecoin/gov/34](https://ping.pub/likecoin/gov/34)
 
 ## 議案 #33 從社群池支出聘用 OurSky
 
-* **提案：**moonbeam
+* **提案：**&#x6D;oonbeam
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.01.21 提案，2022.01.31 通過
 * **詳情**：[https://ping.pub/likecoin/gov/33](https://ping.pub/likecoin/gov/33)
 
 ## 議案 #32 解散社群委託委員會
 
-* **提案：**1% Potato
+* **提案：**&#x31;% Potato
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2022.01.18 提案，2022.02.03 被否決
 * **詳情**：[https://ping.pub/likecoin/gov/32](https://ping.pub/likecoin/gov/32)
 
 ## 議案 #31 傳送 50,000USDe LIKE 到 Tendermint (HackAtom VI)
 
-* **提案：**Phoebe
+* **提案：**&#x50;hoebe
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2022.01.11 提案，2022.01.19 通過
 * **詳情**：[https://ping.pub/likecoin/gov/31](https://ping.pub/likecoin/gov/31)
 
 ## 議案 #30 【修正議案 25】為 Cosmos 社群及讚賞公民提供空投
 
-* **提案：**BusinessAsMission
+* **提案：**&#x42;usinessAsMission
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2022.01.10 提案，通過
 * **詳情**：[https://ping.pub/likecoin/gov/30](https://ping.pub/likecoin/gov/30)
 
 ## 議案 #29 將轉移池及團隊池的 LikeCoin 傳送到社群池
 
-* **提案：**ckxpress
+* **提案：**&#x63;kxpress
 * **類型**：文本式議案 ( Text Proposal )
 * **日期**：2021.12.31 提案，2022.12.30 通過
 * **詳情**：[https://ping.pub/likecoin/gov/29](https://ping.pub/likecoin/gov/29)
 
 ## 議案 #28 從社群池支出聘用 Irtysh Digital
 
-* **提案：**Phoebe
+* **提案：**&#x50;hoebe
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.12.14 提案，2021.12.30 通過
 * **詳情**：[https://ping.pub/likecoin/gov/28](https://ping.pub/likecoin/gov/28)
 
 ## 議案 #27 傳送 50,000USDe LIKE 予 Numbers Protocol
 
-* **提案：**ckxpress
+* **提案：**&#x63;kxpress
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.12.14 提案，2021.12.27 通過
 * **詳情**：[https://ping.pub/likecoin/gov/27](https://ping.pub/likecoin/gov/27)
@@ -379,7 +379,7 @@ description: LikeCoin DAO 有過什麼議案？
 
 ## 議案 #24 測試社群池支出功能
 
-* **提案：**Chung Wu
+* **提案：**&#x43;hung Wu
 * **類型**：社群池支出議案 ( Community Pool Spend Proposal )
 * **日期**：2021.11.29 提案，2021.12.06 通過
 * **詳情**：[https://ping.pub/likecoin/gov/24](https://ping.pub/likecoin/gov/24)

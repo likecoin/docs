@@ -18,8 +18,8 @@ description: 跨鏈 DEX 聚合器，無需註冊，立即交易
 
 請先以 Keplr 註冊 Liker ID。
 
-{% content-ref url="../../../user-guide/liker-id/register-with-keplr.md" %}
-[register-with-keplr.md](../../../user-guide/liker-id/register-with-keplr.md)
+{% content-ref url="../../../depub/liker-id/register-with-keplr.md" %}
+[register-with-keplr.md](../../../depub/liker-id/register-with-keplr.md)
 {% endcontent-ref %}
 
 ### 步驟二：轉帳

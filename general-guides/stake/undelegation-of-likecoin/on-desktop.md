@@ -1,10 +1,10 @@
-# 使用桌機取回委託
+# 以桌機取回委託
 
 ## 於 dao.like.co 取回委託 LikeCoin <a href="#undelegate-via-dao.like.co" id="undelegate-via-dao.like.co"></a>
 
 ### 步驟一：登入 dao.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../user-guide/liker-id/register/) 登入。
+到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/liker-id/register/) 登入。
 
 ### 步驟二：選擇已委託的驗證人
 
@@ -32,15 +32,7 @@
 
 出現 Sent and confirming 畫面後再出現 Successfully unstaked! 即順利取回委託。
 
-<div>
-
-<img src="../../../.gitbook/assets/dao.like.co unstake 05.png" alt="Sent and confirming">
-
- 
-
-<figure><img src="../../../.gitbook/assets/dao.like.co unstake 06.png" alt=""><figcaption><p>Successfully unstaked! 取回委託</p></figcaption></figure>
-
-</div>
+<div><img src="../../../.gitbook/assets/dao.like.co unstake 05.png" alt="Sent and confirming"> <figure><img src="../../../.gitbook/assets/dao.like.co unstake 06.png" alt=""><figcaption><p>Successfully unstaked! 取回委託</p></figcaption></figure></div>
 
 ## 使用 Keplr Dashboard 取回委託 LikeCoin
 

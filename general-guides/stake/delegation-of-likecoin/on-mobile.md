@@ -2,7 +2,7 @@
 
 ## 使用手機瀏覽器於 dao.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
 
-使用手機瀏覽器於 [dao.like.co](https://dao.like.co/) 可配合 [Authcore](../../../user-guide/liker-id/register/) 進行委託，步驟與[以桌機於 dao.like.co 委託 LikeCoin](on-desktop.md#delegate-via-dao.like.co) 相同。
+使用手機瀏覽器於 [dao.like.co](https://dao.like.co/) 可配合 [Authcore](../../../depub/liker-id/register/) 進行委託，步驟與[以桌機於 dao.like.co 委託 LikeCoin](on-desktop.md#delegate-via-dao.like.co) 相同。
 
 ## 使用 Keplr Mobile 委託 LikeCoin
 
@@ -38,29 +38,13 @@
 
 出現 Transaction pending 及 successful 代表委託完成，點「Confirm」回到主頁。
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile Transaction Pending.png" alt=""><figcaption><p>Transaction pending</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile Transaction successful.png" alt=""><figcaption><p>Transaction successful</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Keplr mobile Transaction Pending.png" alt=""><figcaption><p>Transaction pending</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr mobile Transaction successful.png" alt=""><figcaption><p>Transaction successful</p></figcaption></figure></div>
 
 ### 步驟六：查看委託及領取收益
 
 在 Keplr Mobile 主頁 My Rewards 點「Claim」確認一切無誤後點「Approve」領取回報。又或者點 Staking 後出現 Staking Dashboard。
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile delegate 6.png" alt=""><figcaption><p>點「Claim」領取回報或點 Staking 查看 Staking Dashboard</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile delegate 7.png" alt=""><figcaption><p>點「Approve」領取回報</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Keplr mobile delegate 6.png" alt=""><figcaption><p>點「Claim」領取回報或點 Staking 查看 Staking Dashboard</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr mobile delegate 7.png" alt=""><figcaption><p>點「Approve」領取回報</p></figcaption></figure></div>
 
 在 My Pending Rewards 查看待領回報數量，點「Claim」同樣可領取委託回報。My Staking 顯示已委託的 LikeCoin 數量及驗證人分佈。
 
@@ -140,7 +124,7 @@
 
 ### 步驟一：選擇驗證人
 
-於 [LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)點「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
+於 [LikeCoin 手機應用程式](../../dapp/liker-land/download.md)點「我的錢包」進入錢包內頁。在內頁中，除了可查看結餘以外，下部有一個列表列出一些驗證人，你可以按你喜歡選其中一個。
 
 <figure><img src="../../../.gitbook/assets/delegate 1.png" alt=""><figcaption><p>點「我的錢包」</p></figcaption></figure>
 

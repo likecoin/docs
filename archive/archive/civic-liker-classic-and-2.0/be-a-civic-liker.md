@@ -5,10 +5,10 @@ description: 贊助創作者方法非常簡單
 # 如何訂閱讚賞公民
 
 {% hint style="danger" %}
-2022/06/14 存檔。資訊已過期，請參看新條目 [如何成為讚賞公民](../../../user-guide/civic-liker/be-a-civic-liker.md)
+2022/06/14 存檔。資訊已過期，請參看新條目 [如何成為讚賞公民](../../../general-guides/dapp/civic-liker/be-a-civic-liker.md)
 {% endhint %}
 
-成為讚賞公民前請先 [註冊 Liker ID](../../../user-guide/liker-id/)。
+成為讚賞公民前請先 [註冊 Liker ID](../../../depub/liker-id/)。
 
 ## 訂閱心儀創作者
 
@@ -21,7 +21,7 @@ description: 贊助創作者方法非常簡單
 
 ![](../../../.gitbook/assets/register-civic-liker-1.png)
 
-* 點擊創作者 [LikeCoin button 讚賞鍵](../../../user-guide/creator/)的「按月贊助」
+* 點擊創作者 [LikeCoin button 讚賞鍵](../../../general-guides/dapp/creator/)的「按月贊助」
 
 ![](../../../.gitbook/assets/register-civic-liker-2.png)
 

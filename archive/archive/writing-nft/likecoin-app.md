@@ -10,7 +10,7 @@ description: 使用 LikeCoin app 以文章網址出版 Writing NFT
 
 ## 登入 NFT Portal <a href="#login-to-nft-portal" id="login-to-nft-portal"></a>
 
-進入 [**NFT Portal**](https://app.like.co/nft/url) 並選擇以 [Liker ID](../../../user-guide/liker-land/download.md) 登入網站。
+進入 [**NFT Portal**](https://app.like.co/nft/url) 並選擇以 [Liker ID](../../../general-guides/dapp/liker-land/download.md) 登入網站。
 
 <figure><img src="../../../.gitbook/assets/NFT Portal Liker Land app.png" alt=""><figcaption><p>以 Liker ID 登入 NFT Portal</p></figcaption></figure>
 
@@ -18,7 +18,7 @@ description: 使用 LikeCoin app 以文章網址出版 Writing NFT
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>點 Liker ID 後出現二維碼</p></figcaption></figure>
 
-在 [LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
+在 [LikeCoin 手機應用程式](../../../general-guides/dapp/liker-land/download.md)點二維碼圖示調用鏡頭，並掃瞄二維碼。
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1c.png" alt=""><figcaption><p>在 LikeCoin app 調用鏡頭，掃瞄二維碼</p></figcaption></figure>
 
@@ -122,7 +122,7 @@ LikeCoin app 將彈出簽名請求視窗，點「允許」。往後的步驟看�
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 6-1.png" alt=""><figcaption><p>簽署以註冊 ISCN ID、Arweave ID、Class ID 及鑄造 Writing NFT</p></figcaption></figure>
 
-出現 Completed! 及 3D 封面圖即代表 NFT 已鑄造完成，如網站未曾安裝 [LikeCoin button 讚賞鍵](../../../user-guide/creator/)可直接貼上 Embed NFT widget into your site 的代碼，即可在任何網頁展示 [NFT 小部件](../../../depub/collect-writing-nft/nft-widget.md)。
+出現 Completed! 及 3D 封面圖即代表 NFT 已鑄造完成，如網站未曾安裝 [LikeCoin button 讚賞鍵](../../../general-guides/dapp/creator/)可直接貼上 Embed NFT widget into your site 的代碼，即可在任何網頁展示 [NFT 小部件](../../../depub/collect-writing-nft/nft-widget.md)。
 
 點「View Your NFT」查看已出版的 Writing NFT。
 

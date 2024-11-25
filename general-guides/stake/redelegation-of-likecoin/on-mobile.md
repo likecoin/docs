@@ -2,7 +2,7 @@
 
 ## 使用手機瀏覽器於 dao.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
 
-使用手機瀏覽器可於 [dao.like.co](https://dao.like.co/) 配合 [Authcore](../../../user-guide/liker-id/register/) 轉移委託，步驟與[以桌機於 dao.like.co 轉移委託 LikeCoin](on-desktop.md#redelegate-via-dao.like.co) 相同。
+使用手機瀏覽器可於 [dao.like.co](https://dao.like.co/) 配合 [Authcore](../../../depub/liker-id/register/) 轉移委託，步驟與[以桌機於 dao.like.co 轉移委託 LikeCoin](on-desktop.md#redelegate-via-dao.like.co) 相同。
 
 ## 使用 Keplr Mobile 轉移委託 <a href="#redelegate-via-cosmostation-app" id="redelegate-via-cosmostation-app"></a>
 
@@ -76,7 +76,7 @@
 
 ## 使用 LikeCoin app 轉移委託 <a href="#redelegate-via-liker-land" id="redelegate-via-liker-land"></a>
 
-[LikeCoin 手機應用程式](../../../user-guide/liker-land/download.md)提供「轉移委託」功能，讓用戶把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證人。轉移的 LikeCoin 金額在確認後即時轉帳，驗證人的投票權也會即時受影響。用戶已轉移的金額將按新驗證人提供的回報率獲取回報。
+[LikeCoin 手機應用程式](../../dapp/liker-land/download.md)提供「轉移委託」功能，讓用戶把已委託給某位驗證人的 LikeCoin 轉移給另一位驗證人。轉移的 LikeCoin 金額在確認後即時轉帳，驗證人的投票權也會即時受影響。用戶已轉移的金額將按新驗證人提供的回報率獲取回報。
 
 轉移委託的步驟如下：
 

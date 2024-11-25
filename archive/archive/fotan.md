@@ -22,7 +22,7 @@ LikeCoin chain 經已於 2021年8月18日 19:45 GMT+8 晚上升級主鏈由 Sheu
 
 ### 我的拍手會不見了嗎？
 
-於升級期間所有拍手記錄將被儲存，不用擔心發生遺失問題。然而創作基金有機會因技術交接需時而延遲發放。同樣情況適用於 [Civic Liker Classic](../../user-guide/civic-liker/) 用戶，他們按讚而攤分給不同作者的 LikeCoin 亦可能會延遲發放。
+於升級期間所有拍手記錄將被儲存，不用擔心發生遺失問題。然而創作基金有機會因技術交接需時而延遲發放。同樣情況適用於 [Civic Liker Classic](../../general-guides/dapp/civic-liker/) 用戶，他們按讚而攤分給不同作者的 LikeCoin 亦可能會延遲發放。
 
 ### 升級期間我可以登入 Liker Land 手機應用程式或網頁版嗎？
 
