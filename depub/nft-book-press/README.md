@@ -71,21 +71,30 @@ The system will automatically split the EPUB file content into two files: one is
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 10.png" alt=""><figcaption><p>"File Ready" appears</p></figcaption></figure>
 
-1. Type: The default is "Book" for ebook.
-2. ISCN Title: The title of the book associated with the ISCN.
-3. Description: A brief description of the ebook.
-4. Author: The author's name.
-5. Stakeholders: The system will automatically add the author and the ISCN registrant as stakeholders.
-6. Tags: These are used for classification purposes.
-7. Downloadable URL: The file's name of the EPUB when it is being downloaded.
-8. URL: The URL of the EPUB.
-9. License: The default is "Copyright. All rights reserved" for copyright declaration.
-10. Content Fingerprints: These are URL hashes of the book and its cover. Each pair corresponds to one file, including IPFS and AR (Arweave) formats. Click on the URLs to check whether the content has been successfully uploaded. For instance, the four hashes in the attached screenshot represent the IPFS EPUB file, IPFS book cover file, AR EPUB file, and AR book cover file.
-11. +Other settings: Click on it to fill in the URL and ISBN fields if required.
+1. **Type**: The default is "Book" for ebook.
+2. **Lang**: The system will display the corresponding language based on the Metadata. For example, zh stands for Traditional Chinese.
+3. **ISCN Title**: The title of the book associated with the ISCN.
+4. **Description**: A brief description of the ebook.
+5. **Author**: The author's name.
+6. **Stakeholders**: The system will automatically add the author and the ISCN registrant as stakeholders.
+7. **Tags**: These are used for classification purposes.
+8. **Hide file storage link from public blockchain**: Avoid the link appearing in general public.
+9. **Downloadable URL**: The file's name of the EPUB when it is being downloaded.
+10. **URL**: The URL of the EPUB.
+11. **License**: The default is "Copyright. All rights reserved" for copyright declaration.
+12. **Content Fingerprints**: These are URL hashes of the book and its cover. Each pair corresponds to one file, including IPFS and AR (Arweave) formats. Click on the URLs to check whether the content has been successfully uploaded. For instance, the four hashes in the attached screenshot represent the IPFS EPUB file, IPFS book cover file, AR EPUB file, and AR book cover file.
+13. **Registrant**: Wallet address used during registration
 
-After confirming that everything is correct, click "Register".
+Click on +Other settings and fill in more content if required:
+
+14. **URL:** The corresponding URL for the book content
+15. **ISBN:** The book's ISBN
+16. **Publisher:** Publisher of the book
+17. **Original Date Published:** The original publication date
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>Click "Register"</p></figcaption></figure>
+
+After confirming that everything is correct, click "Register".
 
 ### Step 3: ISCN registration completed
 
