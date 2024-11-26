@@ -28,9 +28,7 @@ Users can use [Email/Social](../register/), [Keplr](../../general-guides/wallet/
 
 ### [Collect Writing NFT by LIKE on mobile](collect-writing-nft-on-mobile.md)
 
-Users can use the [LikeCoin app](../../general-guides/dapp/liker-land/download.md) to collect Writing NFT by LIKE.
-
-Users can also collect Writing NFT on a mobile browser by LIKE using [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/) or [LikeCoin app](../../general-guides/dapp/liker-land/download.md).
+Users can collect Writing NFT on a mobile browser by LIKE using [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/) or [LikeCoin app](../../general-guides/dapp/liker-land/download.md).
 
 ### [One-Click Collect All Writing NFT](collect-all.md)
 

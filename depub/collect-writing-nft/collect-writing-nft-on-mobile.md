@@ -1,48 +1,10 @@
 ---
 description: >-
-  Using Keplr mobile, Cosmostation, Leap or LikeCoin app to collect Writing NFT
-  by LIKE on mobile
+  Use the Keplr mobile or Cosmostation app to purchase Writing NFTs with LIKE on
+  your phone.
 ---
 
 # Collect Writing NFT by LIKE on mobile
-
-## Collect Writing NFT on LikeCoin app
-
-**Step 1**: After logging in to the [LikeCoin app](../../general-guides/dapp/liker-land/download.md), go to the the stacked icon to browse the NFT bookstore.
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 0-en.png" alt=""><figcaption><p>Browse the NFT bookstore</p></figcaption></figure>
-
-**Step 2**: After clicking "Collect Now", the Collect NFT page will appear.
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 1-en.png" alt=""><figcaption><p>Click "Collect Now"</p></figcaption></figure>
-
-**Step 3**: You can choose to "Leave a signed message to creator" (optional) or simply click "Pay by LIKE". If you decide to leave a message, enter it in the provided field.
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 2-en.png" alt=""><figcaption><p>Leave a signed message to creator and Pay by LIKE</p></figcaption></figure>
-
-**Step 4**: The message "Pending your signature on LikeCoin app" will appear.
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 3-en.png" alt=""><figcaption><p>The message "Pending your signature on LikeCoin app" will appear</p></figcaption></figure>
-
-**Step 5**: A LikeCoinApp window will pop up, click "Approve".
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 4-en.png" alt=""><figcaption><p>A LikeCoinApp window will pop up, click "Approve"</p></figcaption></figure>
-
-**Step 6**: The message "Preparing work for delivery" will appear.
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 5-en.png" alt=""><figcaption><p>The message "Preparing work for delivery" will appear</p></figcaption></figure>
-
-**Step 7**: After the payment is successful, you can view the purchased NFT on your bookshelf or click "View the NFT".
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 6-en.png" alt=""><figcaption><p>Click "View the NFT"</p></figcaption></figure>
-
-{% hint style="warning" %}
-If you encounter problems during the purchase process, please go to the settings in the lower right corner and choose "Wallet Connect" to delete the existing link and purchase again.
-
-<img src="../../.gitbook/assets/Liker Land app Buy NFT 7.png" alt="" data-size="original">
-{% endhint %}
-
-***
 
 ## Collect Writing NFT on Mobile Browser
 
