@@ -77,26 +77,26 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 10.png" alt=""><figcaption><p>File Ready 頁面</p></figcaption></figure>
 
-1. Type：顯示 ISCN 種類為 Book 即電子書。
-2. Lang:  系統會跟據 Metadata 顯示對應語言，以圖示為例，zh 為繁體中文
-3. ISCN Title：書名
-4. Description：描述
-5. Author：作者
-6. Stakeholders：持份者。系統預設加入作者及正在製作電子書的帳戶為持份者。
-7. Tags：標籤，可加入作為分類。
-8. Hide file storage link from public blockchain：隱藏文件儲存鏈接，避免公開在區塊鏈上。
-9. Downloadable URL：下載書檔時所顯示的名稱
-10. URL：書檔所對應的 URL
-11. License：可以選擇合適的版權宣告，預設是版權所有 ( Copyright. All rights reserved. )
-12. Content Fingerprints：顯示書檔及封面 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 EPUB 檔、IPFS 的封面檔、AR 的 EPUB 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
-13. Registrant：註冊時使用的錢包地址
+1. **Type**：顯示 ISCN 種類為 Book 即電子書。
+2. **Lang**:  系統會跟據 Metadata 顯示對應語言，以圖示為例，zh 為繁體中文
+3. **ISCN Title**：書名
+4. **Description**：描述
+5. **Author**：作者
+6. **Stakeholders**：持份者。系統預設加入作者及正在製作電子書的帳戶為持份者。
+7. **Tags**：標籤，可加入作為分類。
+8. **Hide file storage link from public blockchain**：隱藏文件儲存鏈接，避免公開在區塊鏈上。
+9. **Downloadable URL**：下載書檔時所顯示的名稱
+10. **URL**：書檔所對應的 URL
+11. **License**：可以選擇合適的版權宣告，預設是版權所有 ( Copyright. All rights reserved. )
+12. **Content Fingerprints**：顯示書檔及封面 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 EPUB 檔、IPFS 的封面檔、AR 的 EPUB 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
+13. **Registrant**：註冊時使用的錢包地址
 
-點開 +Other settings 選擇填為更多內容：
+點開 +Other settings 選擇填寫更多內容：
 
-14. URL：書籍內容對應的網址
-15. ISBN：書籍的 ISBN
-16. Publisher：發行商
-17. Original Date Published：最初的出版日期
+14. **URL**：書籍內容對應的網址
+15. **ISBN**：書籍的 ISBN
+16. **Publisher**：發行商
+17. **Original Date Published**：最初的出版日期
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>點「Register」註冊 ISCN</p></figcaption></figure>
 
