@@ -22,8 +22,6 @@ LikeCoin app functions as a crypto wallet, allowing you to check, receive, and [
 
 ## Participate in Decentralized Publishing
 
-You can browse and collect the latest [ebooks](../../../depub/ebook/) and [Writing NFTs](../../../depub/collect-writing-nft/), ranging from books to works of all kinds.
-
 With LikeCoin app, you can also conveniently browse [depub.space](https://docs.like.co/user-guide/depub.space)'s World Feed content from anywhere, at any time. On websites that support the LikeCoin button, readers can easily post content to the decentralized social media platform depub.space and the blockchain with [just one click](https://docs.like.co/user-guide/liker-land/superlike). This ensures that valuable content is permanently recorded and widely shared.
 
 ## Participate in Civic Liker

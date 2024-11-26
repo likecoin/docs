@@ -12,12 +12,6 @@ On [Liker Land](https://liker.land/), Click the avatar in the upper right corner
 
 <figure><img src="../../.gitbook/assets/notifications.png" alt=""><figcaption><p>NFT notification</p></figcaption></figure>
 
-## LikeCoin app
-
-Click :bell: on the [LikeCoin app](../../general-guides/dapp/liker-land/download.md) to check for notifications.
-
-<figure><img src="../../.gitbook/assets/Liker Land app Writing NFT 3-en.png" alt=""><figcaption><p>Click<span data-gb-custom-inline data-tag="emoji" data-code="1f514">🔔</span>on the LikeCoin app</p></figcaption></figure>
-
 ## Notification Settings
 
 [After verifying the email](follow-creators.md), you can set the "Notification Settings" to receive notifications when Transfer or Collect NFTs. You can also enter the amount of [LikeCoin](https://like.co/), and a notification will be sent when the transaction price is greater than the set value.

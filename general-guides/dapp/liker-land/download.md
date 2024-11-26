@@ -16,22 +16,17 @@ description: Where to download LikeCoin app?
 
 Log in to the LikeCoin app and you can find the following:
 
-<figure><img src="../../../.gitbook/assets/Liker Land app menu.png" alt=""><figcaption><p>LikeCoin app menu</p></figcaption></figure>
-
 ## Option 1: Wallet
+
+<figure><img src="../../../.gitbook/assets/Liker Land app-en.png" alt=""><figcaption><p>Wallet</p></figcaption></figure>
 
 * [LIKE Pay](../../wallet/like-pay.md)
 * [Delegate LikeCoin](../../stake/)
 * [Civic Liker](../civic-liker/)
 
-## Option 2: Bookstore
+## Option 2: Settings
 
-* [Browse the Bookstore](../../../depub/ebook/)
-* [My Dashboard](../../../depub/liker-land/bookshelf.md)
-
-## Option 3: [Notifications](../../../depub/liker-land/notifications.md)
-
-## Option 4: Settings
+<figure><img src="../../../.gitbook/assets/Liker Land app menu-en.png" alt=""><figcaption><p>Settings</p></figcaption></figure>
 
 * Language
 * [Profile](../../../depub/register/edit-avatar-displayname.md)
