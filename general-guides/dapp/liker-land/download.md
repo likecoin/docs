@@ -16,22 +16,17 @@ description: 要去哪裏下載 LikeCoin app？
 
 登入 LikeCoin 手機應用程式於下方出現其他操作選項。
 
-<figure><img src="../../../.gitbook/assets/Liker Land app menu.png" alt=""><figcaption><p>LikeCoin app 操作選項</p></figcaption></figure>
-
 ## 選項一：錢包管理
+
+<figure><img src="../../../.gitbook/assets/Liker Land app.png" alt=""><figcaption></figcaption></figure>
 
 * [LIKE Pay](../../wallet/like-pay.md)
 * [委託 LikeCoin](../../stake/delegation-of-likecoin/)
 * [成為讚賞公民](../civic-liker/be-a-civic-liker.md)
 
-## 選項二：電子書店
+## 選項二：設定
 
-* [潯覽書店](../../../depub/ebook/)
-* [個人主頁](../../../depub/liker-land/bookshelf.md)
-
-## 選項三：[通知功能](../../../depub/liker-land/notifications.md)
-
-## 選項四：設定
+<figure><img src="../../../.gitbook/assets/Liker Land app menu.png" alt=""><figcaption></figcaption></figure>
 
 * 語言
 * [個人資料設定](../../../depub/register/edit-avatar-displayname.md)

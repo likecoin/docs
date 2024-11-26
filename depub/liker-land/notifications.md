@@ -12,12 +12,6 @@ description: NFT 作者及收藏者雙向互動
 
 <figure><img src="../../.gitbook/assets/notifications.png" alt=""><figcaption><p>NFT 通知功能</p></figcaption></figure>
 
-## LikeCoin 手機應用程式
-
-在 [LikeCoin 手機應用程式](../../general-guides/dapp/liker-land/download.md)點:bell:查看通知。
-
-<figure><img src="../../.gitbook/assets/Liker Land app Writing NFT 3.png" alt=""><figcaption><p>點<span data-gb-custom-inline data-tag="emoji" data-code="1f514">🔔</span>查看通知</p></figcaption></figure>
-
 ## 通知設定
 
 [認證電郵後](follow-creators.md)，你可以在「通知設定」設定在發送或收藏 NFT 時收到通知。你也可以輸入 [LikeCoin](https://like.co/) 金額，當交易價格大於該設定值時會發出通知。
