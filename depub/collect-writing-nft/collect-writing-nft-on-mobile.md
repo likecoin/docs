@@ -1,48 +1,8 @@
 ---
-description: 使用 Keplr mobile、Cosmostation app 或 LikeCoin 手機應用程式以手機用 LIKE 購買 Writing NFT
+description: 使用 Keplr mobile、Cosmostation app 以手機用 LIKE 購買 Writing NFT
 ---
 
 # 以手機用 LIKE 購買 Writing NFT
-
-## 使用 LikeCoin 手機應用程式購買 NFT <a href="#mobile" id="mobile"></a>
-
-**步驟一**：登入 [LikeCoin 手機應用程式](../../general-guides/dapp/liker-land/download.md)後後點堆疊圖案瀏覽 NFT 書店。
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 0.png" alt=""><figcaption><p>瀏覽 NFT 書店</p></figcaption></figure>
-
-**步驟二**：點「立即收藏」後彈出收藏作品頁面。
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 1.png" alt=""><figcaption><p>點「立即收藏」</p></figcaption></figure>
-
-**步驟三**：在「簽署留言給創作者」輸入給創作者的訊息（非必須）。輸入完成後又或者直接點「用 LIKE 購買」。
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 2.png" alt=""><figcaption><p>輸入給舍作者的話並用 LIKE 購買</p></figcaption></figure>
-
-**步驟四**：出現請在 LikeCoin 手機應用程式確認你的簽署後，請等待片刻。
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 3.png" alt=""><figcaption><p>請在 LikeCoin 手機應用程式確認你的簽署</p></figcaption></figure>
-
-**步驟五**：彈出 LikeCoinApp 視窗，點「允許」。
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 4.png" alt=""><figcaption><p>彈出 LikeCoinApp 視窗，點「允許」</p></figcaption></figure>
-
-**步驟六**：出現正在收藏作品頁面。
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 5.png" alt=""><figcaption><p>正預備運送作品</p></figcaption></figure>
-
-**步驟七**：付款成功後可於[我的書架](../../archive/archive/liker-land/dashboard.md)，或點「檢視 NFT」檢視已購買的 NFT。
-
-<figure><img src="../../.gitbook/assets/Liker Land app Buy NFT 6.png" alt=""><figcaption><p>點「檢視 NFT」</p></figcaption></figure>
-
-{% hint style="warning" %}
-如在購買過程中遇到問題，請到右下角設定點「Wallet Connet」刪除現有連結並再次購買。
-
-
-
-<img src="../../.gitbook/assets/Liker Land app Buy NFT 7.png" alt="刪除現有 Wallet Connect 連結並再次購買" data-size="original">
-{% endhint %}
-
-***
 
 ## 以手機瀏覽器收藏 Writing NFT <a href="#mobile" id="mobile"></a>
 
@@ -131,5 +91,5 @@ description: 使用 Keplr mobile、Cosmostation app 或 LikeCoin 手機應用程
 {% hint style="warning" %}
 如在購買過程中遇到問題，請到右下角設定點「Wallet Connet」刪除現有連結並再次購買。
 
-<img src="../../.gitbook/assets/Liker Land app Buy NFT 7.png" alt="刪除現有 Wallet Connect 連結並再次購買" data-size="original">
+<img src="broken-reference" alt="刪除現有 Wallet Connect 連結並再次購買" data-size="original">
 {% endhint %}

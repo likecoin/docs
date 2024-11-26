@@ -28,8 +28,6 @@ description: 如何收藏 Writing NFT
 
 ### [以手機用 LIKE 購買 Writing NFT](collect-writing-nft-on-mobile.md)
 
-用戶可使用 [LikeCoin 手機應用程式](../../general-guides/dapp/liker-land/download.md) 以 LIKE 購買 NFT。
-
 用戶也可以手機瀏覽器配合 [Keplr mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../general-guides/dapp/liker-land/download.md)簽署用 LIKE 購買 Writing NFT。
 
 ### [一鍵收藏 Writing NFT](collect-all.md)
