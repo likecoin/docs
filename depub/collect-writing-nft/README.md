@@ -18,8 +18,6 @@ Applicable to those who haven't created any wallet, and it works on both desktop
 
 Applicable to those who have created a wallet. User can use [Email/Social](../register/), [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikeCoin app](../../general-guides/dapp/liker-land/download.md)...etc to collect Writing NFT via desktop or mobile browser and pay by credit card.
 
-[LikeCoin app](../../archive/archive/writing-nft/likecoin-app-1.md) users can pay by credit card directly in the app.
-
 ### LikeCoin
 
 ### [Collect Writing NFT by LIKE on desktop](collect-writing-nft-on-desktop.md)
