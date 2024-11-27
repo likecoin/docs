@@ -1,27 +1,26 @@
 ---
-description: 產生書店 Affiliation Link 以作速銷
+description: 產生 Affiliation Link 以作速銷
 ---
 
 # Affiliation Link
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Sign in」連結錢包，再點「Affiliation Link」。
+到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按左下角「Sign in」連結錢包，再點「[Affiliation Link](https://likecoin-nft-book-press-testnet.netlify.app/affiliation-link)」。
 
-## Generate Affiliation Links
+### Affiliation Link Generator
 
-在 Product ID 輸入 NFT Class ID 或 Collection ID。
+* 在 **Destination** 選擇連結樣式：
+  * **Liker Land Product Page** - Liker  Land 網站產品頁連結
+  * **Strip Checkout Page** - Stripe 購書連結
+  * **Custom Page** - 自訂連結
 
-<figure><img src="../../.gitbook/assets/Affiliation Link 1.png" alt=""><figcaption><p>輸入 NFT Class ID 或 Collection ID</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Affiliation Link 1.png" alt=""><figcaption><p>Destination</p></figcaption></figure>
 
-在 Link Settings 選擇連結樣式：
+* 在 **Product ID/URL(s)** 輸入 NFT Class ID 或 Collection ID。
+* 選擇 **Include default channels** 將一拼產生 Liker Land 及其他書店，例如一拳書店、界限書店的連結
+* 選擇 **Prefix Channel ID for UTM Campaign 可**設定各種 Query String。
 
-* Use Liker Land Link (Product Page) - Liker  Land 網站產品頁連結
-* Direct Link (Stripe) - Stripe 購書連結
-* Custom Link - 自訂連結
+<figure><img src="../../.gitbook/assets/Affiliation Link 2.png" alt=""><figcaption></figcaption></figure>
 
-如有需要可繼續設定 Custom Channels 及 Query Parameters。完成後點「Generate」。
+完成後點「**Generate**」並成功產生推廣連結。
 
-<figure><img src="../../.gitbook/assets/Affiliation Link 2.png" alt=""><figcaption><p>設置 Link Settings</p></figcaption></figure>
-
-成功產生各家書店的推廣連結。
-
-<figure><img src="../../.gitbook/assets/Affiliation Link 3.png" alt=""><figcaption><p>書店推廣連結</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Affiliation Link 3.png" alt=""><figcaption><p>推廣連結</p></figcaption></figure>

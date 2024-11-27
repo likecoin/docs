@@ -80,4 +80,4 @@ User Setting 顯示 Liker ID 所設置的電郵，Email Notification Settings �
 
 在 Book Sales Commission History 可參看佣金狀態。Commission Payout History 可參看佣金支付記錄。
 
-<figure><img src="../../.gitbook/assets/Manage Stripe Account 13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage Stripe Account 13.png" alt=""><figcaption><p>Book Sales Commission History, Commission Payout History</p></figcaption></figure>
