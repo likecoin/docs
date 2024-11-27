@@ -4,25 +4,25 @@ description: Add or modify user settings and join the Affiliation Program
 
 # User Setting
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the upper right corner to connect to your wallet, the click "User Setting".
+Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[User Setting](https://likecoin.github.io/nft-book-press/nft-book-store/user)".
 
-If the Stripe account is not set up, it will display “No.” It is recommended to complete the Book Affiliation Program and Stripe Connect settings one by one to receive book sale payments and email notifications.
+If the Stripe account is not set up, it will display “No.” It is recommended to complete the Book Affiliation Program and Stripe Connect setup one by one to participate in the affiliate program and receive book sales payments.
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 1.png" alt=""><figcaption><p>User Setting</p></figcaption></figure>
 
 ### Book Affiliation Program <a href="#book-affiliation-program" id="book-affiliation-program"></a>
 
-Click “Setup your ID” to start the Liker ID registration and email confirmation process. For more details, see:
+Click “**Setup your ID**” to start the Liker ID registration and email confirmation process. For more details, see:
 
-{% content-ref url="../../general-guides/dapp/liker-id/" %}
-[liker-id](../../general-guides/dapp/liker-id/)
+{% content-ref url="../register/" %}
+[register](../register/)
 {% endcontent-ref %}
 
-{% content-ref url="../register/verifying-email-address.md" %}
-[verifying-email-address.md](../register/verifying-email-address.md)
-{% endcontent-ref %}
+"After completing the setup, the Affiliation channel ID will be displayed.
 
-After completing the setup, append `?from=@[Liker ID]` to any ebook URL. This allows you to earn commissions from book sales. For example:
+<figure><img src="../../.gitbook/assets/Manage Stripe Account 11.png" alt=""><figcaption><p>Affiliation channel ID</p></figcaption></figure>
+
+Append `?from=@[Liker ID]` to any ebook URL. This allows you to earn commissions from book sales. For example:
 
 * If your Liker ID is `ckxpress`
 * The NFT e-book link is: https://liker.land/zh-Hant/nft/class/likenft19symzw3xmh42gukzts858wf6rsdkn6e4jtc9wp8jh4kphfmffy5s6acyxg
@@ -30,7 +30,7 @@ After completing the setup, append `?from=@[Liker ID]` to any ebook URL. This al
 
 ### Stripe Connect Status <a href="#stripe-connect-status" id="stripe-connect-status"></a>
 
-Click “Setup Stripe Payment Recipient Account” to start setting up your Stripe account.
+Click “**Setup your ID**” to start setting up your Stripe account.
 
 The Stripe website appears. Fill in your email and mobile number, then click "Continue".
 
@@ -69,10 +69,16 @@ You can click "Login to Stripe account" at any time to view or modify informatio
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 19.png" alt=""><figcaption><p>Click "Login to Stripe account" to view or modify information</p></figcaption></figure>
 
+### User Setting <a href="#user-setting" id="user-setting"></a>
 
+In User Settings, the email set for the Liker ID will be displayed. The default setting for Email Notification Settings is "Receive email notifications about commissions". f you do not wish to receive these emails, you can turn it off and then click "**Update**" to save the changes.
+
+<figure><img src="../../.gitbook/assets/Manage Stripe Account 12.png" alt=""><figcaption><p>User Setting</p></figcaption></figure>
 
 ### Book Sales Commission History
 
-The status after completing the setup. In Book Sales Commission History, you can view the commission status.
+### Commission Payout History
 
-<figure><img src="../../.gitbook/assets/Manage Stripe Account 20.png" alt=""><figcaption><p>Setup Completed</p></figcaption></figure>
+In Book Sales Commission History, you can view the commission status. In Commission Payout History, you can view the commission payout records.
+
+<figure><img src="../../.gitbook/assets/Manage Stripe Account 13.png" alt=""><figcaption><p>Book Sales Commission History, Commission Payout History</p></figcaption></figure>
