@@ -32,9 +32,9 @@ description: 電子書太好賣了，怎樣上架更多
 
 ## 步驟四：選擇補書版本 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-點 Current Listing 顯示現時已上架的電子書，點需要補書的電子書以進行管理。
+點 [Mange NFT Books](https://likecoin.github.io/nft-book-press/nft-book-store) 顯示現時已上架的電子書，點需要補書的電子書以進行管理。
 
-<figure><img src="../../.gitbook/assets/Manage NFT Books 1.png" alt=""><figcaption><p>rrent Listing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage NFT Books 1.png" alt=""><figcaption><p>Current Listing 顯示已上架的電子書</p></figcaption></figure>
 
 點需要補書的版本。如需要創建新版本，點「New Edition」。
 
@@ -42,6 +42,6 @@ description: 電子書太好賣了，怎樣上架更多
 
 ## 步驟五：修改可供銷售的電子書數量 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-直接在 Total number of NFT for sale of this book 修改可供銷售的電子書數量，再點「Save Changes」即可補書上架。
+直接在 Total number of NFT for sale of this book 修改可供銷售的電子書數量，再點「**Save Changes**」即可補書上架。
 
 <figure><img src="../../.gitbook/assets/Add Books 5.png" alt=""><figcaption><p>在 Total number of NFT for sale of this book 修改可供銷售的電子書數量</p></figcaption></figure>
