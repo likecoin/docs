@@ -34,7 +34,7 @@ Enter the number of NFTs to mint in the "Number of NFT to mint" field. After fil
 
 Current Listing displays the ebooks that are currently listed. Select the one that needs replenishing and manage it.
 
-<figure><img src="../../.gitbook/assets/Manage NFT Books 1.png" alt=""><figcaption><p>Current Listing</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Current Listing</p></figcaption></figure>
 
 Click on the version that needs replenishing. If you need to create a new edition, click “New Edition".
 
