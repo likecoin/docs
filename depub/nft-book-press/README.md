@@ -98,7 +98,7 @@ After confirming that everything is correct, click "**Register**".
 
 ### Step 3: ISCN registration completed
 
-The message "Completed! Here is your ISCN" appears, indicating that the ISCN has been successfully registered. The string of characters in the ISCN ID field will be used when listing the ebook for sale. Note that the '/1' in the picture is the ISCN version number.
+The message "Completed! Here is your ISCN" appears, indicating that the ISCN has been successfully registered. The string of characters in the ISCN ID field will be used when listing the ebook for sale. Note that the "/1" in the picture is the ISCN version number.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 15.png" alt=""><figcaption><p>Completed ISCN registration and copy the ISCN ID</p></figcaption></figure>
 
@@ -110,15 +110,15 @@ Listing for sale is divided into two steps: minting the ebook and listing it. An
 
 ### Step 1: Mint the ebook
 
-Click ‘**Mint Book**’ at the top right corner of the ISCN record.
+Click "**Mint Book"** at the top right corner of the ISCN record.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption><p>Click "Mint Book"</p></figcaption></figure>
 
-The system will automatically redirect to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, and the ISCN ID will be pre-entered in the ‘Enter ISCN ID or NFT Class ID’ field. After clicking 'Sign In' at the bottom left corner to log in to the website, click **'Submit**'.
+The system will automatically redirect to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website Mint LikeCoin NFT/NFT Book page, and the ISCN ID will be pre-entered in the "Enter ISCN ID or NFT Class ID" field. After clicking "**Sign In**" at the bottom left corner to log in to the website, click "**Submit"**.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>In the "Enter ISCN ID or NFT Class ID" field, enter the ISCN ID</p></figcaption></figure>
 
-Alternatively, go directly to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website and click "[Mint NFT](https://likecoin-nft-book-press-testnet.netlify.app/mint-nft)". Click ‘Sign In’ at the bottom left corner to log in. Manually enter the previously registered ISCN ID in the "Enter ISCN ID or NFT Class ID" field and then click "**Submit**".
+Alternatively, go directly to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website and click "[Mint NFT](https://likecoin-nft-book-press-testnet.netlify.app/mint-nft)". Click "**Sign In**" at the bottom left corner to log in. Manually enter the previously registered ISCN ID in the "Enter ISCN ID or NFT Class ID" field and then click "**Submit**".
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>Visit the LikeCoin NFT BookPress website, click "Mint NFT"</p></figcaption></figure>
 
@@ -156,7 +156,7 @@ If you accidentally closed the page, you can enter your NFT Class ID in [Step 1]
 
 ### New NFT Book Listing
 
-The NFT Class ID of the minted ebook appears in the New NFT Book Listing
+The NFT Class ID of the minted ebook appears in the New NFT Book Listing and please fill in the following:
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 22.png" alt=""><figcaption><p>The NFT Class ID of the minted ebook appears in the New NFT Book Listing</p></figcaption></figure>
 
@@ -168,8 +168,8 @@ The NFT Class ID of the minted ebook appears in the New NFT Book Listing
   1. **Automatic deliver NFT** - Automatically send the ebook to the reader. Once this option is set, it cannot be changed.
      * **Memo of this book** - If you choose to automatically send the ebook to the reader, a memo will be automatically added to the reader upon delivery.
   2. **Sign memo and manually deliver each NFT** - Sign and manually send the ebook to the reader
-     * **Is Physical only good** - If you choose to sign manually, this option will pop up to ask if the book only contains a physical version, displaying "This edition does not contain digital file/NFT". If selected, it means this version does not provide an ebook file and the physical book will be sent by the author. Please add the postage option in Advanced Settings.
-* **Allow custom price** - Choose "**Allow users to pay more than the defined price**".' Readers can provide an [extra tip](../ebook/#step-2-show-your-support-with-a-tip) to the author when purchasing the eBook.
+     * **Is Physical only good** - If you choose to sign manually, this option will pop up to ask if the book only contains a physical version, displaying "**This edition does not contain digital file/NFT**". If selected, it means this version does not provide an ebook file and the physical book will be sent by the author. Please add the postage option in Advanced Settings.
+* **Allow custom price** - Choose "**Allow users to pay more than the defined price**". Readers can provide an [extra tip](../ebook/#step-2-show-your-support-with-a-tip) to the author when purchasing the eBook.
 * **Unlist Edition** - Select "**Pause selling of this Edition**" to temporarily stop offering this eBook edition.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23.png" alt=""><figcaption><p>Pricing and Availability</p></figcaption></figure>
@@ -217,7 +217,7 @@ Shipping options, click the **“+Add**” in the top right corner.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23f.png" alt=""><figcaption><p>Click the “+Add” in the top right corner</p></figcaption></figure>
 
-The “Editing Shipping Options” page appears.
+The Editing Shipping Options page appears.
 
 * **Name of the shipping option** - Fill in the name of the shipping method in both Chinese and English.
 * **Price(USD) of this shipping option** - Specify the cost of this shipping method in US dollars.
