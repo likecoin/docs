@@ -4,24 +4,24 @@ description: Generate a bookstore Affiliation Link for sales promotion
 
 # Affiliation Link
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the upper right corner to connect to your wallet, the click "Affiliation Link".
+Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[Affiliation Link](https://likecoin-nft-book-press-testnet.netlify.app/affiliation-link)".
 
-### Generate Affiliation Links
+### Affiliation Link Generator <a href="#affiliation-link-generator" id="affiliation-link-generator"></a>
 
-Enter the NFT Class ID or Collection ID in the Product ID field.
+In **Destination**, choose the link style:
 
-<figure><img src="../../.gitbook/assets/Affiliation Link 1.png" alt=""><figcaption><p>Enter the NFT Class ID or Collection ID in the Product ID field</p></figcaption></figure>
+* **Liker Land Product Page** - Link to the Liker Land product page
+* **Stripe Checkout Page** - Link to purchase the book on Stripe
+* **Custom Page** - Custom link
 
-In "Link Settings", choose the link style:
+<figure><img src="../../.gitbook/assets/Affiliation Link 1.png" alt=""><figcaption><p><strong>Destination</strong></p></figcaption></figure>
 
-* Use Liker Land Link (Product Page) - Link to the product page on the Liker Land website
-* Direct Link (Stripe) - Stripe purchase link
-* Custom Link - Custom link If needed
+* **In Product ID/URL(s)**, enter the NFT Class ID or Collection ID.
+* Select "**Include default channels**" to generate links for Liker Land and other bookstores, such as One Punch Bookstore and Boundary Bookstore.
+* Select "**Prefix Channel ID for UTM Campaign**" to set up various Query Strings.
 
-You can continue to set up Custom Channels and Query Parameters. Once done, click “Generate.”
+<figure><img src="../../.gitbook/assets/Affiliation Link 2.png" alt=""><figcaption><p>Setting up the Affiliation Link</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Affiliation Link 2.png" alt=""><figcaption><p>Link Settings</p></figcaption></figure>
+After completion, click "**Generate**" to create the affiliation link.
 
-Successfully generate affiliation links for various bookstores.
-
-<figure><img src="../../.gitbook/assets/Affiliation Link 3.png" alt=""><figcaption><p>Affiliation links generated</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Affiliation Link 3.png" alt=""><figcaption><p>Affiliation Link created</p></figcaption></figure>
