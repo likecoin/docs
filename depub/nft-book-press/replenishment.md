@@ -34,7 +34,7 @@ description: 電子書太好賣了，怎樣上架更多
 
 點 Current Listing 顯示現時已上架的電子書，點需要補書的電子書以進行管理。
 
-<figure><img src="../../.gitbook/assets/Manage NFT Books 1.png" alt=""><figcaption><p>Current Listing</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Current Listing</p></figcaption></figure>
 
 
 

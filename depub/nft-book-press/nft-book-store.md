@@ -6,7 +6,7 @@ description: 管理已出版的電子書
 
 書籍出版後想了解銷售概況或進行更多設定，可使用 Manage NFT Books 功能。除了上架電子書的設定，更提供各種額外管理功能。
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Sign in」連結結錢包，再點「Manage NFT Books」，
+到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按點左下角「**Sign in**」連結結錢包，再點「[Manage NFT Books](https://likecoin.github.io/nft-book-press/nft-book-store)」，
 
 ### NFT Book Listing - Current Listing
 
@@ -22,14 +22,14 @@ NFT Book Status \[書名] 顯示正在管理的電子書。
 
 ### Gift Books
 
-點右上角 Gift Books 可將電子書贈送給別人：
+點右上角 **Gift Books** 可將電子書贈送給別人：
 
-1. Gift edition - 選擇贈送哪一個版本的電子書
-2. Default Recipient Name - 預設接收者名稱
-3. Default Gift Message - 預設給接收者的訊息
-4. Gift Giver’s Name - 送書人的名稱
-5. Upload Recipient List CSV file - 點 「Download CSV Template」 下載 CSV 格式檔案，填寫 Email（電郵，必填）、Wallet（錢包地址，選填）、Recipient name（接收者名稱，選填。如有填寫將覆蓋 Default Recipient Name 的內容）、Message（訊息，選填。如有填寫將覆蓋 Default Gift Message 的內容），完成後再點「Choose File」上載
-6. 上載完成後可在 Recipients 查看內容是否正確，再點「Confirm」送出電子書。
+1. **Gift edition** - 選擇贈送哪一個版本的電子書
+2. **Default Recipient Name** - 預設接收者名稱
+3. **Default Gift Message** - 預設給接收者的訊息
+4. **Gift Giver’s Name** - 送書人的名稱
+5. **Upload Recipient List CSV file** - 點 「Download CSV Template」 下載 CSV 格式檔案，填寫 Email（電郵，必填）、Wallet（錢包地址，選填）、Recipient name（接收者名稱，選填。如有填寫將覆蓋 Default Recipient Name 的內容）、Message（訊息，選填。如有填寫將覆蓋 Default Gift Message 的內容），完成後再點「**Choose File**」上載
+6. 上載完成後可在 Recipients 查看內容是否正確，再點「**Confirm**」送出電子書。
 
 <figure><img src="../../.gitbook/assets/Manage NFT Books 3.png" alt=""><figcaption><p>Gift Books</p></figcaption></figure>
 
@@ -41,28 +41,41 @@ Pending Action 顯示有多少項目尚待處理、Sold 售賣數據及 Stocks �
 
 ### Orders
 
-顯示有多少宗訂單及它們的狀態。
+顯示有多少宗訂單及它們的狀態，包括 Order Date 訂單日期、Status (Pending NFT 代表等待作者簽署及發送電子書，Complted 表示交易已完成)、Sales Channel 銷售渠道、Price 價格、Price Name 該價格的名稱、Quantity 數量、Coupon Applied 有沒有使用優惠券、Buyer Email 購書者的電郵、Reader Email 讀者的電郵、Reader Wallet 讀者的錢包地址、Reader Message 讀者給作者的留言。
 
 <figure><img src="../../.gitbook/assets/Manage NFT Books 8.png" alt=""><figcaption><p>Orders</p></figcaption></figure>
 
+### Editions
+
+詳見 [出版電子書 -> Product Information](./#product-information)。
+
+### Connect to a Stripe Account
+
+詳見 [用戶設定](user.md)。
+
+### Email to receive sales notifications
+
+詳見 [出版電子書 -> Email to receive sales notifications](./#email-to-receive-sales-notification)。
+
 ### Sales Channel Summary
 
-查看來自各種不同銷售渠道的總結
+查看來自各種不同銷售渠道的總結，包括Channel ID 銷售渠道名稱、Count 數量及 Total USD 美金總數。
 
 <figure><img src="../../.gitbook/assets/Manage NFT Books 4.png" alt=""><figcaption><p>Sales Channel Summary</p></figcaption></figure>
 
-### Coupon Codes
+點 Advance Settings 可額外設定以下內容：
 
-點「Add New」設定優惠券：
+### Shipping Options
 
-<figure><img src="../../.gitbook/assets/Manage NFT Books 9.png" alt=""><figcaption><p>點「Add New」設定優惠券</p></figcaption></figure>
+詳見 [出版電子書 -> Shipping Options](./#shipping-options)。
 
-* Coupon Code - 設定優惠券的名稱
-* Discount Multiplier - 優惠幅度，例如 10% 即九折優惠
-* Expiry Date - 優惠結束期限
-* 設定完成後點「Add」加入優惠券。
+### Share sales data to wallets
 
-<figure><img src="../../.gitbook/assets/Manage NFT Books 6.png" alt=""><figcaption><p>New Coupon</p></figcaption></figure>
+詳見 [出版電子書 -> Share sales data to wallets](./#share-sales-data-to-wallets)。
+
+### DRM Options
+
+詳見 [出版電子書 -> DRM Options](./#drm-options)。
 
 ### Copy Purchase Link
 
