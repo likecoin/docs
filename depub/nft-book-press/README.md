@@ -120,11 +120,11 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption><p>點「Mint Book」</p></figcaption></figure>
 
-系統會自動跳轉到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，並於 Enter ISCN ID or NFT Class ID 一欄預先輸入ISCN ID。點右上角「Sign In」登入網站後再點「Submit」。
+系統會自動跳轉到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，並於 Enter ISCN ID or NFT Class ID 一欄預先輸入ISCN ID。點左下角「Sign In」登入網站後再點「Submit」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>在 Enter ISCN ID or NFT Class ID 一欄輸入 ISCN ID</p></figcaption></figure>
 
-又或者直接到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，點「Mint NFT」，進入網站後按右上角「Sign In」登入。並於 Enter ISCN ID or NFT Class ID 一欄手動輸入早前註冊的 ISCN ID 再點「Submit」。
+又或者直接到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站按左下角「Sign In」登入，再點「[Mint NFT](https://likecoin-nft-book-press-testnet.netlify.app/mint-nft)」，進入網站後並於 Enter ISCN ID or NFT Class ID 一欄手動輸入早前註冊的 ISCN ID 再點「Submit」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
 
@@ -134,7 +134,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 系統會為你自動抽出 ISCN 的基本資料，接著你需要於「By filling required information」分頁填寫其他資料：
 
-* 在 Number of NFT to mint 一欄輸入需要鑄造多少個 NFT
+* 在 **Number of NFT to mint** 一欄輸入需要鑄造多少個 NFT
 * 如若你的書檔是 EPUB，系統會自動抽出 AR 封面的連結放在 image URL 一欄
 * External URL (optional)、URI (optional) 及 Max number of supply for this NFT Class (optional) 可按需要填寫。
 
@@ -146,13 +146,13 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 20.png" alt=""><figcaption><p>點「Continue to publish NFT Book」可繼續完成上架。點「View your NFT」可以到 Liker Land 查看已鑄造的電子書</p></figcaption></figure>
 
-由於現時還未上架販賣，所以會看到「售罄」字樣。
+由於現時還未上架販賣，所以在 Liker Land 會看到「售罄」字樣。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 21.png" alt=""><figcaption><p>還未上架販賣出現「售罄」字樣</p></figcaption></figure>
 
 ### 步驟二：上架 <a href="#publish-nft-book" id="publish-nft-book"></a>
 
-回到 LikeCoin NFT BookPress，點「Continue to publish NFT Book」後出現 NFT Book Store Management Page 頁面。
+回到 LikeCoin NFT BookPress，點「Continue to publish NFT Book」後出現 [NFT Book Store Management Page](https://likecoin.github.io/nft-book-press/nft-book-store) 頁面。
 
 {% hint style="info" %}
 假如你不小心關掉了之前的頁面，你可以在[步驟一](./#mint-nft-book) Enter ISCN ID or NFT Class ID 一欄輸入你的 NFT Class ID 即可看到「Continue to publish NFT Book」。Class ID 是你的電子書網址後面的一串。舉例你的 NFT 網址是 https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x ，NFT Class ID 就是 likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x 。
@@ -160,35 +160,36 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 ### New NFT Book Listing
 
-在 New NFT Book Listing 出現已鑄造電子書的 NFT Class ID。
+在 New NFT Book Listing 出現已鑄造電子書的 NFT Class ID，並請填寫以下欄目。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 22.png" alt=""><figcaption><p>在 New NFT Book Listing 出現已鑄造電子書的 NFT Class ID</p></figcaption></figure>
 
 ### Pricing and Availability
 
-* Unit Price in USD (Minimum 0.99 or 0 for free) - 最低價格為 0.9 美金，又或者輸入 0 代表免費送出
-* Total number of NFT ebook for sale - 填寫這一個版本的電子書銷售數量。假設你鑄造了 10 本書，可以設定 5 本書為版本一、另外 5 本書為版本二之類。點下方的「Add Edition」可加入多個不同版本。留意每一個版本可供銷售的電子書數量加起來不能多於已鑄造的數量。
-* Delivery method of this book - 可選擇兩種不同傳送電子書的方式：
-  1. Automatic deliver NFT - 自動傳送電子書給讀者。選項一經設定，不能修改。
-     * Memo of this book - 如選擇自動傳送電子書給讀者，於傳送時自動加入給讀者的話。
-  2. Sign memo and manually deliver each NFT - 自行簽署並手動傳送電子書給讀者：
-     * Is Physical only good - 如選擇自行簽署會彈出此選項詢問書籍是否只包含實體版本，並出現 This edition does not contain digital file/NFT。如選取，則代表此版本不提供電子書檔，並將由作者寄出實體書。並請於 Advanced Settings 加入郵費選項。
-* Allow custom price - 設定讀者購買電子書的時候可[額外支持作者](../ebook/)。
+* **Unit Price in USD (Minimum 0.99 or 0 for free)** - 最低價格為 0.99 美金，又或者輸入 0 代表免費送出
+* **Total number of NFT ebook for sale** - 填寫這一個版本的電子書銷售數量。假設你鑄造了 10 本書，可以設定 5 本書為版本一、另外 5 本書為版本二之類。點下方的「Add Edition」可加入多個不同版本。留意每一個版本可供銷售的電子書數量加起來不能多於已鑄造的數量。
+* **Delivery method of this book** - 可選擇兩種不同傳送電子書的方式：
+  1. **Automatic deliver NFT** - 自動傳送電子書給讀者。選項一經設定，不能修改。
+     * **Memo of this book** - 如選擇自動傳送電子書給讀者，於傳送時自動加入給讀者的話。
+  2. **Sign memo and manually deliver each NFT** - 自行簽署並手動傳送電子書給讀者
+     * **Is Physical only good** - 如選擇自行簽署會彈出此選項詢問書籍是否只包含實體版本，並出現 This edition does not contain digital file/NFT。如選取，則代表此版本不提供電子書檔，並將由作者寄出實體書。請於 Advanced Settings 加入郵費選項。
+* **Allow custom price** - 選擇 Allow uers to pay more than defined price 設定讀者購買電子書的時候可[額外支持作者](../ebook/)。
+* **Unlist Edition** - 選擇 Pause selling of this Edition 可暫時停止供應此版本電子書
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23.png" alt=""><figcaption><p>在 Pricing and Availability 輸入各種內容</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 24.png" alt=""><figcaption><p>Sign memo and manually deliver each NFT</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 23more.png" alt=""><figcaption><p>Sign memo and manually deliver each NFT</p></figcaption></figure>
 
 ### Product Information
 
-* Product name / 產品名稱 - 可依照個人喜好為電子書設定版本，例如 Standard Edition 標準版、Free 免費版等
-* Description (Optional) / 描述（選項） - 可輸入電子書版本的中英文描述
+* **Product name / 產品名稱** - 可依照個人喜好為電子書設定版本，例如 Standard Edition 標準版、Free 免費版等
+* **Description (Optional) / 描述（選項）** - 可輸入電子書版本的中英文描述
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23a.png" alt=""><figcaption><p>設定 Product Information</p></figcaption></figure>
 
 ### Shipping Optioins
 
-Physical Goods - 選取 Includes physical good that requires shipping 後代表書籍版本為實體書，讀者需要支付寄送費用。但需要先在 advanced settings 進行設定才可啟用此選項。
+**Physical Goods** - 選取 Includes physical good that requires shipping 後代表書籍版本為實體書，讀者需要支付寄送費用。但需要先在 advanced settings 進行設定才可啟用此選項。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 26.png" alt=""><figcaption></figcaption></figure>
 
@@ -214,12 +215,6 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23c.png" alt=""><figcaption><p>Advance Settings</p></figcaption></figure>
 
-### Default Currency
-
-將預設顯示美元改為顯示港元。
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 23d.png" alt=""><figcaption><p>Default Currency</p></figcaption></figure>
-
 ### Shipping Options
 
 寄送費用選項，點右上角「+Add」。
@@ -228,8 +223,8 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 
 出現「Editing Shipping Options」頁面。
 
-* Name of the shipping option - 填寫寄送方式的中英文名稱
-* Price(USD) of this shipping option - 該寄送方式以美元計算的費用
+* **Name of the shipping option** - 填寫寄送方式的中英文名稱
+* **Price(USD) of this shipping option** - 該寄送方式以美元計算的費用
 * 點「Add Options」可增加更多寄送方式
 
 完成後點「Save」儲存該寄送方式。
@@ -248,9 +243,11 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 
 ### DRM Options
 
-* Force NFT claim before view - 選取 Must claim NFT to view 代表讀者一定要領取電子書方可閱讀
-* Disable File Download - 選取 Disable Download 代表不讓讀者下載電子書，只容許線上閱讀
-* Insert cutomized message page in eBook - 選擇 Enable custom message page 將自動插入簽名頁於 EPUB 檔案中
+在 DRM Options 進行數位版權管理：
+
+* **Force NFT claim before view** - 選取 Must claim NFT to view 代表讀者一定要領取電子書方可閱讀
+* **Disable File Download** - 選取 Disable Download 代表不讓讀者下載電子書，只容許線上閱讀
+* **Insert cutomized message page in eBook** - 選擇 Enable custom message page 將自動插入簽名頁於 EPUB 檔案中
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23j.png" alt=""><figcaption><p>DRM Options</p></figcaption></figure>
 
@@ -265,16 +262,3 @@ Physical Goods - 選取 Includes physical good that requires shipping 後代表�
 回到 Liker Land 查看，電子書經已成功上架。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 25.png" alt=""><figcaption><p>電子書經已成功上架</p></figcaption></figure>
-
-***
-
-## 匯入 EPUB 檔案到各家閱讀器 <a href="#ereader" id="ereader"></a>
-
-除了可使用 USB 方式匯入 EPUB 檔案到閱讀器。不同廠牌亦支援以網絡介面上載，更多詳情可參看：
-
-* Readmoo - [桌機](https://cloudhey.medium.com/readmoo%E8%AE%80%E5%A2%A8%E9%9B%BB%E5%AD%90%E6%9B%B8%E9%80%B2%E9%9A%8E%E4%BD%BF%E7%94%A8%E7%B4%80%E9%8C%84-ebf534ab6408)、[iOS](https://news.readmoo.com/2023/05/24/new-new-update-133/)、[Android](https://news.readmoo.com/2023/04/07/new-new-update-128/)
-* Kobo - [使用 Dropbox 將書籍新增至您的 eReader](https://help.kobo.com/hc/zh-tw/articles/360033830114-%E4%BD%BF%E7%94%A8-Dropbox-%E5%B0%87%E6%9B%B8%E7%B1%8D%E6%96%B0%E5%A2%9E%E8%87%B3%E6%82%A8%E7%9A%84-eReader)
-* HyRead - [傳輸檔案&放書](https://www.youtube.com/watch?v=nQFnyYgDCCE)
-* Pubook - [如何使用 Pubook 閱讀自己擁有的電子書檔案？](https://support.pubu.tw/hc/zh-tw/articles/12485186892185-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-Pubook-%E9%96%B1%E8%AE%80%E8%87%AA%E5%B7%B1%E6%93%81%E6%9C%89%E7%9A%84%E9%9B%BB%E5%AD%90%E6%9B%B8%E6%AA%94%E6%A1%88-)
-* Kindle - [Send to Kindle](https://www.amazon.com/-/zh_TW/gp/sendtokindle)
-* Boox - [不用傳輸線 BOOX 如何分享文件？](https://boox.com.tw/?p=1052)
