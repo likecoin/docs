@@ -28,7 +28,7 @@ In addition to the book price, you can now further support the author by tipping
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 2-en.png" alt=""><figcaption><p>Show your support with a tip!</p></figcaption></figure>
 
-## Step3: You might also like...
+## Step 3: You might also like...
 
 The You might also like... page pops up, and you can click "Add to cart" and add the ebook to your shopping cart.
 
