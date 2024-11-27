@@ -41,7 +41,7 @@ Pending Action 顯示有多少項目尚待處理、Sold 售賣數據及 Stocks �
 
 ### Orders
 
-顯示有多少宗訂單及它們的狀態，包括 Order Date 訂單日期、Status (Pending NFT 代表等待作者簽署及發送電子書，Complted 表示交易已完成)、Sales Channel 銷售渠道、Price 價格、Price Name 該價格的名稱、Quantity 數量、Coupon Applied 有沒有使用優惠券、Buyer Email 購書者的電郵、Reader Email 讀者的電郵、Reader Wallet 讀者的錢包地址、Reader Message 讀者給作者的留言。
+顯示有多少宗訂單及它們的狀態，包括 Order Date 訂單日期、Status（Pending NFT 代表等待作者簽署及發送電子書，Complted 表示交易已完成）、Sales Channel 銷售渠道、Price 價格、Price Name 該價格的名稱、Quantity 數量、Coupon Applied 有沒有使用優惠券、Buyer Email 購書者的電郵、Reader Email 讀者的電郵、Reader Wallet 讀者的錢包地址、Reader Message 讀者給作者的留言。
 
 <figure><img src="../../.gitbook/assets/Manage NFT Books 8.png" alt=""><figcaption><p>Orders</p></figcaption></figure>
 
