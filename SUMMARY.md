@@ -11,7 +11,7 @@
   * [管理電子書](depub/nft-book-press/nft-book-store.md)
   * [設定電子書套裝](depub/nft-book-press/collection.md)
   * [用戶設定](depub/nft-book-press/user.md)
-  * [Affiliation Link](depub/nft-book-press/affiliation-link.md)
+  * [推廣連結](depub/nft-book-press/tui-guang-lian-jie.md)
   * [補書上架](depub/nft-book-press/replenishment.md)
   * [修改已出版的電子書資料](depub/nft-book-press/modify.md)
   * [銷毁已出版的電子書](depub/nft-book-press/burn.md)

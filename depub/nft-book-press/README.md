@@ -23,7 +23,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 4. [管理電子書](nft-book-store.md)
 5. [設定電子書套裝](collection.md)
 6. [NFT Book Press 用戶設定](user.md)
-7. [設定 Affiliation Link](affiliation-link.md)
+7. [設定 Affiliation Link](tui-guang-lian-jie.md)
 8. [補書上架](replenishment.md)
 9. [修改已出版的電子書資料](modify.md)
 10. [銷毁已出版的電子書](burn.md)
@@ -118,7 +118,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>在 Enter ISCN ID or NFT Class ID 一欄輸入 ISCN ID</p></figcaption></figure>
 
-又或者直接到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站按左下角「**Sign In**」登入，再點「[Mint NFT](https://likecoin-nft-book-press-testnet.netlify.app/mint-nft)」，進入網站後並於 Enter ISCN ID or NFT Class ID 一欄手動輸入早前註冊的 ISCN ID 再點「**Submit**」。
+又或者直接到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站按左下角「**Sign In**」登入，再點「[Mint NFT](https://likecoin.github.io/nft-book-press/mint-nft)」，進入網站後並於 Enter ISCN ID or NFT Class ID 一欄手動輸入早前註冊的 ISCN ID 再點「**Submit**」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
 

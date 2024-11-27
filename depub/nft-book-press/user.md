@@ -1,5 +1,5 @@
 ---
-description: 加入及更改用戶設定，參與 Affiliation Program
+description: 加入及更改用戶設定，參與推廣聯盟計劃
 ---
 
 # 用戶設定

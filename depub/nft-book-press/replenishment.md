@@ -14,9 +14,9 @@ description: 電子書太好賣了，怎樣上架更多
 
 ## 步驟二：鑄造更多電子書 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按右上角「Sign in」連結錢包，再點「Mint NFT」。
+到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按左下角「**Sign in**」連結錢包，再點「[Mint NFT](https://likecoin.github.io/nft-book-press/mint-nft)」。
 
-在 Enter ISCN ID or NFT Class ID 一欄輸入 **NFT Class ID**，輸入完成後點「Submit」。
+在 Enter ISCN ID or NFT Class ID 一欄輸入 **NFT Class ID**，輸入完成後點「**Submit**」。
 
 {% hint style="danger" %}
 重要！補書上架需要輸入 的是 **NFT Class ID** 而不是 ISCN ID！
@@ -26,7 +26,7 @@ description: 電子書太好賣了，怎樣上架更多
 
 ## 步驟三：填寫鑄造數量 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-在 Number of NFT to mint 一欄輸入需要鑄造多少個 NFT，填寫完成並確認無誤後按「Mint」，Keplr 錢包將彈出視窗數次，點「Approve」簽署即完成鑄造。
+在 Number of NFT to mint 一欄輸入需要鑄造多少個 NFT，填寫完成並確認無誤後按「**Mint**」簽署並完成鑄造。
 
 <figure><img src="../../.gitbook/assets/Add Books 3.png" alt=""><figcaption><p>確認無誤後按「Mint」</p></figcaption></figure>
 
@@ -34,9 +34,7 @@ description: 電子書太好賣了，怎樣上架更多
 
 點 Current Listing 顯示現時已上架的電子書，點需要補書的電子書以進行管理。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Current Listing</p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Manage NFT Books 1.png" alt=""><figcaption><p>rrent Listing</p></figcaption></figure>
 
 點需要補書的版本。如需要創建新版本，點「New Edition」。
 
