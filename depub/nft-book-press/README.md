@@ -118,7 +118,7 @@ The system will automatically redirect to the [LikeCoin NFT Book Press](https://
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>In the "Enter ISCN ID or NFT Class ID" field, enter the ISCN ID</p></figcaption></figure>
 
-Alternatively, go directly to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website and click "[Mint NFT](https://likecoin-nft-book-press-testnet.netlify.app/mint-nft)". Click "**Sign In**" at the bottom left corner to log in. Manually enter the previously registered ISCN ID in the "Enter ISCN ID or NFT Class ID" field and then click "**Submit**".
+Alternatively, go directly to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website and click "[Mint NFT](https://likecoin.github.io/nft-book-press/mint-nft)". Click "**Sign In**" at the bottom left corner to log in. Manually enter the previously registered ISCN ID in the "Enter ISCN ID or NFT Class ID" field and then click "**Submit**".
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>Visit the LikeCoin NFT BookPress website, click "Mint NFT"</p></figcaption></figure>
 

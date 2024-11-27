@@ -14,7 +14,7 @@ Visit the Liker Land Bookstore and find the ebooks you want to replenish. Note d
 
 ## Step 2：Mint more ebooks <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the upper right corner to connect to your wallet, the click "Mint Book".
+Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "**Sign in**" in the bottom left corner to connect to your wallet, the click "[Mint NFT](https://likecoin.github.io/nft-book-press/mint-nft)".
 
 In the "Enter ISCN ID or NFT Class ID" field, input the **NFT Class ID**. Afterward, click "Submit".
 
@@ -26,15 +26,15 @@ Important! To replenish books, you need to enter the **NFT Class ID**, not the I
 
 ## Step 3：Fill in the number of books to mint <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-Enter the number of NFTs to mint in the "Number of NFT to mint" field. After filling in and confirming that everything is correct, click "Mint". The Keplr wallet will pop up windows several times. Click "Approve" to sign and complete minting.
+Enter the number of NFTs to mint in the "Number of NFT to mint" field. After filling in and confirming that everything is correct, click "**Mint**" to sign and complete minting.
 
 <figure><img src="../../.gitbook/assets/Add Books 3.png" alt=""><figcaption><p>Enter all the information and click "Mint"</p></figcaption></figure>
 
 ## Step 4: Select the Edition to replenish <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-Current Listing displays the ebooks that are currently listed. Select the one that needs replenishing and manage it.
+Click [Manage NFT Books](https://likecoin.github.io/nft-book-press/nft-book-store) to displays the ebooks that are currently listed. Select the one that needs replenishing and manage it.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Current Listing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage NFT Books 1.png" alt=""><figcaption><p>Current Listing</p></figcaption></figure>
 
 Click on the version that needs replenishing. If you need to create a new edition, click “New Edition".
 
@@ -42,6 +42,6 @@ Click on the version that needs replenishing. If you need to create a new editio
 
 ## Step 5: Adjust the quantity of ebooks available for sale <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-Simply modify the “Total number of NFT for sale of this book”, and then click “Save Changes” to replenish the ebooks.
+Simply modify the “Total number of NFT for sale of this book”, and then click “**Save Changes**” to replenish the ebooks.
 
 <figure><img src="../../.gitbook/assets/Add Books 5.png" alt=""><figcaption><p>Modify the “Total number of NFT for sale of this book”</p></figcaption></figure>

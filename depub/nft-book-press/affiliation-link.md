@@ -4,7 +4,7 @@ description: Generate a bookstore Affiliation Link for sales promotion
 
 # Affiliation Link
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[Affiliation Link](https://likecoin-nft-book-press-testnet.netlify.app/affiliation-link)".
+Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[Affiliation Link](https://likecoin.github.io/nft-book-press/affiliation-link)".
 
 ### Affiliation Link Generator <a href="#affiliation-link-generator" id="affiliation-link-generator"></a>
 
