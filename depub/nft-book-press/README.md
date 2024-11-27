@@ -31,12 +31,6 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 12. [匯入 EPUB 檔案到各家閱讀器](./#ereader)
 13. [設置 Liker Land 書店作者簡介](../register/edit-avatar-displayname.md)
 
-參看短片了解出版原理（留意以下影片使用 Keplr 登入，如使用 Email/Social 登入流程將更為簡單）：
-
-[5 分鐘出版電子書到區塊鏈（國語 TTS 旁白）](https://www.youtube.com/watch?v=QppGdM-EtBY)
-
-[5 分鐘出版電子書到區塊鏈（廣東話 TTS 旁白）](https://www.youtube.com/watch?v=T08nI_G1c8E)
-
 ***
 
 ## 製作 EPUB 檔案並輸入元數據 <a href="#edit-metadata" id="edit-metadata"></a>
@@ -51,7 +45,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 ### 步驟一：上載檔案 <a href="#upload-file" id="upload-file"></a>
 
-到 [app.like.co](https://app.like.co/) 網站，點「Register ISCN」。
+到 [app.like.co](https://app.like.co/) 網站，點「**Register ISCN**」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 5.png" alt=""><figcaption><p>到 app.like.co 網站，點「Register ISCN」</p></figcaption></figure>
 
@@ -63,11 +57,11 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 6.png" alt=""><figcaption><p>彈出視窗並連結錢包</p></figcaption></figure>
 
-登入後點「Select a file」上載已預備好的 EPUB 檔案。
+登入後點「**Select a file**」上載已預備好的 EPUB 檔案。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 7.png" alt=""><figcaption><p>點「Select a file」上載已預備好的 EPUB 檔案</p></figcaption></figure>
 
-系統會自動把 EPUB 檔案內容分解成兩個檔案，一個是 EPUB 檔案，另一個是封面圖檔。如果沒有問題點「Start Upload」，系統會將這兩個檔案上傳到分散式網絡。
+系統會自動把 EPUB 檔案內容分解成兩個檔案，一個是 EPUB 檔案，另一個是封面圖檔。如果沒有問題點「**Start Upload**」，系統會將這兩個檔案上傳到分散式網絡。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 8.png" alt=""><figcaption><p>點「Start Upload」將檔案上傳到分散式網絡</p></figcaption></figure>
 
@@ -78,7 +72,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 <figure><img src="../../.gitbook/assets/NFT Book Press 10.png" alt=""><figcaption><p>File Ready 頁面</p></figcaption></figure>
 
 1. **Type**：顯示 ISCN 種類為 Book 即電子書。
-2. **Lang**:  系統會跟據 Metadata 顯示對應語言，以圖示為例，zh 為繁體中文
+2. **Lang：**&#x7CFB;統會跟據 Metadata 顯示對應語言，以圖示為例，zh 為繁體中文
 3. **ISCN Title**：書名
 4. **Description**：描述
 5. **Author**：作者
@@ -100,7 +94,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>點「Register」註冊 ISCN</p></figcaption></figure>
 
-完成後點「Register」。
+完成後點「**Register**」。
 
 ### 步驟三：註冊 ISCN 完成 <a href="#successfully-registered-iscn" id="successfully-registered-iscn"></a>
 
@@ -116,15 +110,15 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 ### 步驟一：鑄造電子書 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-在 ISCN 記錄右上角點「Mint Book」。
+在 ISCN 記錄右上角點「**Mint Book**」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption><p>點「Mint Book」</p></figcaption></figure>
 
-系統會自動跳轉到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，並於 Enter ISCN ID or NFT Class ID 一欄預先輸入ISCN ID。點左下角「Sign In」登入網站後再點「Submit」。
+系統會自動跳轉到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站的 Mint LikeCoin NFT/NFT Book 頁面，並於 Enter ISCN ID or NFT Class ID 一欄預先輸入ISCN ID。點左下角「**Sign In**」登入網站後再點「**Submit**」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>在 Enter ISCN ID or NFT Class ID 一欄輸入 ISCN ID</p></figcaption></figure>
 
-又或者直接到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站按左下角「Sign In」登入，再點「[Mint NFT](https://likecoin-nft-book-press-testnet.netlify.app/mint-nft)」，進入網站後並於 Enter ISCN ID or NFT Class ID 一欄手動輸入早前註冊的 ISCN ID 再點「Submit」。
+又或者直接到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站按左下角「**Sign In**」登入，再點「[Mint NFT](https://likecoin-nft-book-press-testnet.netlify.app/mint-nft)」，進入網站後並於 Enter ISCN ID or NFT Class ID 一欄手動輸入早前註冊的 ISCN ID 再點「**Submit**」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
 
@@ -138,11 +132,11 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 * 如若你的書檔是 EPUB，系統會自動抽出 AR 封面的連結放在 image URL 一欄
 * External URL (optional)、URI (optional) 及 Max number of supply for this NFT Class (optional) 可按需要填寫。
 
-填寫完成並確認無誤後按「Mint」。
+填寫完成並確認無誤後按「**Mint**」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 18.png" alt=""><figcaption><p>填寫所需資料，確認無誤後按「Mint」</p></figcaption></figure>
 
-出現 🎉 Success! 畫面代表經已成功鑄造 NFT，點「Continue to publish NFT Book」可繼續完成上架。點「View your NFT」可以到 [Liker Land](https://liker.land/) 查看已鑄造的電子書。
+出現 🎉 Success! 畫面代表經已成功鑄造 NFT，點「**Continue to publish NFT Book**」可繼續完成上架。點「**View your NFT**」可以到 [Liker Land](https://liker.land/) 查看已鑄造的電子書。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 20.png" alt=""><figcaption><p>點「Continue to publish NFT Book」可繼續完成上架。點「View your NFT」可以到 Liker Land 查看已鑄造的電子書</p></figcaption></figure>
 
@@ -152,7 +146,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 ### 步驟二：上架 <a href="#publish-nft-book" id="publish-nft-book"></a>
 
-回到 LikeCoin NFT BookPress，點「Continue to publish NFT Book」後出現 [NFT Book Store Management Page](https://likecoin.github.io/nft-book-press/nft-book-store) 頁面。
+回到 LikeCoin NFT BookPress，點「**Continue to publish NFT Book**」後出現 [NFT Book Store Management Page](https://likecoin.github.io/nft-book-press/nft-book-store) 頁面。
 
 {% hint style="info" %}
 假如你不小心關掉了之前的頁面，你可以在[步驟一](./#mint-nft-book) Enter ISCN ID or NFT Class ID 一欄輸入你的 NFT Class ID 即可看到「Continue to publish NFT Book」。Class ID 是你的電子書網址後面的一串。舉例你的 NFT 網址是 https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x ，NFT Class ID 就是 likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x 。
@@ -160,21 +154,21 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 ### New NFT Book Listing
 
-在 New NFT Book Listing 出現已鑄造電子書的 NFT Class ID，並請填寫以下欄目。
+在 New NFT Book Listing 出現已鑄造電子書的 NFT Class ID，並請填寫以下欄位。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 22.png" alt=""><figcaption><p>在 New NFT Book Listing 出現已鑄造電子書的 NFT Class ID</p></figcaption></figure>
 
 ### Pricing and Availability
 
 * **Unit Price in USD (Minimum 0.99 or 0 for free)** - 最低價格為 0.99 美金，又或者輸入 0 代表免費送出
-* **Total number of NFT ebook for sale** - 填寫這一個版本的電子書銷售數量。假設你鑄造了 10 本書，可以設定 5 本書為版本一、另外 5 本書為版本二之類。點下方的「Add Edition」可加入多個不同版本。留意每一個版本可供銷售的電子書數量加起來不能多於已鑄造的數量。
+* **Total number of NFT ebook for sale** - 填寫這一個版本的電子書銷售數量。假設你鑄造了 10 本書，可以設定 5 本書為版本一、另外 5 本書為版本二之類。點下方的「**Add Edition**」可加入多個不同版本。留意每一個版本可供銷售的電子書數量加起來不能多於已鑄造的數量。
 * **Delivery method of this book** - 可選擇兩種不同傳送電子書的方式：
   1. **Automatic deliver NFT** - 自動傳送電子書給讀者。選項一經設定，不能修改。
      * **Memo of this book** - 如選擇自動傳送電子書給讀者，於傳送時自動加入給讀者的話。
   2. **Sign memo and manually deliver each NFT** - 自行簽署並手動傳送電子書給讀者
-     * **Is Physical only good** - 如選擇自行簽署會彈出此選項詢問書籍是否只包含實體版本，並出現 This edition does not contain digital file/NFT。如選取，則代表此版本不提供電子書檔，並將由作者寄出實體書。請於 Advanced Settings 加入郵費選項。
-* **Allow custom price** - 選擇 Allow uers to pay more than defined price 設定讀者購買電子書的時候可[額外支持作者](../ebook/)。
-* **Unlist Edition** - 選擇 Pause selling of this Edition 可暫時停止供應此版本電子書
+     * **Is Physical only good** - 如選擇自行簽署會彈出此選項詢問書籍是否只包含實體版本，並出現 **This edition does not contain digital file/NFT**。如選取，則代表此版本不提供電子書檔，並將由作者寄出實體書。請於 Advanced Settings 加入郵費選項。
+* **Allow custom price** - 選擇 **Allow uers to pay more than defined price** 設定讀者購買電子書的時候可[額外支持作者](../ebook/)。
+* **Unlist Edition** - 選擇 **Pause selling of this Edition** 可暫時停止供應此版本電子書
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23.png" alt=""><figcaption><p>在 Pricing and Availability 輸入各種內容</p></figcaption></figure>
 
@@ -189,7 +183,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 ### Shipping Optioins
 
-**Physical Goods** - 選取 Includes physical good that requires shipping 後代表書籍版本為實體書，讀者需要支付寄送費用。但需要先在 advanced settings 進行設定才可啟用此選項。
+**Physical Goods** - 選取 **Includes physical good that requires shipping** 後代表書籍版本為實體書，讀者需要支付寄送費用。但需要先在 advanced settings 進行設定才可啟用此選項。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 26.png" alt=""><figcaption></figcaption></figure>
 
@@ -205,7 +199,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 ### Email to receive sales notification
 
-輸入需要接收銷售通知的電郵地址，再點「Add」。
+輸入需要接收銷售通知的電郵地址，再點「**Add**」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23b.png" alt=""><figcaption><p>Email to receive sales notification</p></figcaption></figure>
 
@@ -217,27 +211,27 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 ### Shipping Options
 
-寄送費用選項，點右上角「+Add」。
+寄送費用選項，點右上角「**+Add**」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23f.png" alt=""><figcaption><p>點右上角「+Add」</p></figcaption></figure>
 
-出現「Editing Shipping Options」頁面。
+出現 Editing Shipping Options 頁面。
 
 * **Name of the shipping option** - 填寫寄送方式的中英文名稱
 * **Price(USD) of this shipping option** - 該寄送方式以美元計算的費用
-* 點「Add Options」可增加更多寄送方式
+* 點「**Add Options**」可增加更多寄送方式
 
-完成後點「Save」儲存該寄送方式。
+完成後點「**Save**」儲存該寄送方式。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23g.png" alt=""><figcaption><p>Editing Shipping Options</p></figcaption></figure>
 
 ### Share sales data to wallets
 
-輸入需要接收銷售數據的錢包地址，再點「Add」。預設已加入 Liker Land 的錢包地址。在 Send NFT Grant 點「Grant」 可授權該錢包為你自動傳送電子書。
+輸入需要接收銷售數據的錢包地址，再點「**Add**」。預設已加入 Liker Land 的錢包地址。在 Send NFT Grant 點「**Grant**」 可授權該錢包為你自動傳送電子書。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23h.png" alt=""><figcaption><p>Share sales data to wallets</p></figcaption></figure>
 
-在 Send NFT Authz Grants Management Page 點「Submit」即可授權。
+在 Send NFT Authz Grants Management Page 點「**Submit**」即可授權。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23i.png" alt=""><figcaption><p>Send NFT Authz Grants Management Page</p></figcaption></figure>
 
@@ -245,13 +239,13 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 在 DRM Options 進行數位版權管理：
 
-* **Force NFT claim before view** - 選取 Must claim NFT to view 代表讀者一定要領取電子書方可閱讀
-* **Disable File Download** - 選取 Disable Download 代表不讓讀者下載電子書，只容許線上閱讀
-* **Insert cutomized message page in eBook** - 選擇 Enable custom message page 將自動插入簽名頁於 EPUB 檔案中
+* **Force NFT claim before view** - 選取 **Must claim NFT to view** 代表讀者一定要領取電子書方可閱讀
+* **Disable File Download** - 選取 **Disable Download** 代表不讓讀者下載電子書，只容許線上閱讀
+* **Insert cutomized message page in eBook** - 選擇 **Enable custom message page** 將自動插入簽名頁於 EPUB 檔案中
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23j.png" alt=""><figcaption><p>DRM Options</p></figcaption></figure>
 
-完成設定後點「Submit」。假如用戶選擇 Automatic deliver NFT，將出現提示說明一但選擇自動傳送電子書給讀者將不能更改為手動。確認無誤後點「OK」。
+完成設定後點「**Submit**」。假如用戶選擇 Automatic deliver NFT，將出現提示說明一但選擇自動傳送電子書給讀者將不能更改為手動。確認無誤後點「**OK**」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23e.png" alt=""><figcaption><p>確認無誤後點「OK」</p></figcaption></figure>
 
