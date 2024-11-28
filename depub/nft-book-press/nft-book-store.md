@@ -8,9 +8,9 @@ description: 管理已出版的電子書
 
 到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按點左下角「**Sign in**」連結結錢包，再點「[Manage NFT Books](https://likecoin.github.io/nft-book-press/nft-book-store)」，
 
-### NFT Book Listing - Current Listing
+### NFT Book Listing
 
-Current Listing 顯示現時已上架的電子書，點選其中一本並進行管理。
+Current Listing 顯示現時已上架的電子書，Viewable Listing 是指你能管理的電子書。點選其中一本並進行管理。
 
 <figure><img src="../../.gitbook/assets/Manage NFT Books 1.png" alt=""><figcaption><p>Current Listing</p></figcaption></figure>
 

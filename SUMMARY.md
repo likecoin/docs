@@ -12,6 +12,7 @@
   * [設定電子書套裝](depub/nft-book-press/collection.md)
   * [用戶設定](depub/nft-book-press/user.md)
   * [推廣連結](depub/nft-book-press/tui-guang-lian-jie.md)
+  * [管理 Authz 授權](depub/nft-book-press/authz.md)
   * [補書上架](depub/nft-book-press/replenishment.md)
   * [修改已出版的電子書資料](depub/nft-book-press/modify.md)
   * [銷毁已出版的電子書](depub/nft-book-press/burn.md)

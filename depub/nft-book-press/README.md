@@ -235,6 +235,12 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23i.png" alt=""><figcaption><p>Send NFT Authz Grants Management Page</p></figcaption></figure>
 
+如需撒銷 Authz 授權請參考：
+
+{% content-ref url="authz.md" %}
+[authz.md](authz.md)
+{% endcontent-ref %}
+
 ### DRM Options
 
 在 DRM Options 進行數位版權管理：
