@@ -14,7 +14,7 @@ description: 刪除已發行的電子書
 
 由於鑄造電子書時通常會鑄造多於一份 NFT，使用 [Liker Land](https://liker.land/) 發送 Writing NFT 功能每次只能發送一份 NFT 效率未免太低，建議使用 LikeCoin ISCN/NFT Tools 將已鑄造的 NFT 群發到那個作為「垃圾桶」、不主動對外公開的新錢包地址。要群發 NFT，請先預備一個 CSV 檔。範例可於這裡下載：
 
-[https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv)
+[https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list_example.csv)
 
 在 address 一欄輸入垃圾桶地址，在 classid 都填上要丟那本書的 NFT Class ID。假如你有 100 個 NFT 要丟，CSV 檔便要有 100 列這樣重覆的資料。
 
@@ -22,7 +22,7 @@ description: 刪除已發行的電子書
 
 ## 步驟二：使用 LikeCoin NFT BookPress 群發 NFT 到垃圾桶地址
 
-到 [LikeCoin NFT BookPress](https://likecoin.github.io/nft-book-press/) 網站點「LikeCoin ISCN/NFT Tools」。
+到 [LikeCoin NFT BookPress](https://likecoin.github.io/nft-book-press/) 網站點「[LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/)」。
 
 <figure><img src="../../.gitbook/assets/Burn NFT Book 2.png" alt=""><figcaption><p>點「LikeCoin ISCN/NFT Tools」</p></figcaption></figure>
 

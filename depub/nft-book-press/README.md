@@ -23,7 +23,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 4. [管理電子書](nft-book-store.md)
 5. [設定電子書套裝](collection.md)
 6. [NFT Book Press 用戶設定](user.md)
-7. [設定 Affiliation Link](tui-guang-lian-jie.md)
+7. [設定推廣連結](tui-guang-lian-jie.md)
 8. [補書上架](replenishment.md)
 9. [修改已出版的電子書資料](modify.md)
 10. [銷毁已出版的電子書](burn.md)
