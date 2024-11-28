@@ -52,4 +52,4 @@ Enter the trash can address in "Transfer to", click "Transfer", and confirm in K
 
 <figure><img src="../../.gitbook/assets/Burn NFT Book 8.png" alt=""><figcaption><p>Enter the trash can address in "Transfer to" and click "Transfer"</p></figcaption></figure>
 
-Following these steps, the abandoned book will no longer appear on your Liker Land profile.
+Following these steps, the abandoned book will no longer appear on your Liker Land [Bookshelf](../liker-land/bookshelf.md).

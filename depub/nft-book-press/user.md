@@ -18,7 +18,15 @@ Click “**Setup your ID**” to start the Liker ID registration and email confi
 [register](../register/)
 {% endcontent-ref %}
 
-"After completing the setup, the Affiliation channel ID will be displayed.
+You may also want to editor your avatar and name:
+
+{% content-ref url="../register/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../register/edit-avatar-displayname.md)
+{% endcontent-ref %}
+
+
+
+After completing the setup, the Affiliation channel ID will be displayed.
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 11.png" alt=""><figcaption><p>Affiliation channel ID</p></figcaption></figure>
 
