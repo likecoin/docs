@@ -8,9 +8,9 @@ After the book is published, if you would like to understand the sales overview 
 
 Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "**Sign in**" in the bottom left corner to connect to your wallet, then click "[Manage NFT Books](https://likecoin.github.io/nft-book-press/nft-book-store)".
 
-### NFT Book Listing - Current Listing <a href="#nft-book-listing-current-listing" id="nft-book-listing-current-listing"></a>
+### NFT Book Listing <a href="#nft-book-listing-current-listing" id="nft-book-listing-current-listing"></a>
 
-Current Listing displays the ebooks that are currently listed. Select one of them and manage it.
+Current Listing displays the ebooks that are currently listed. Viewable Listing refers to ebooks that you can manage. Select one of them and manage it.
 
 <figure><img src="../../.gitbook/assets/Manage NFT Books 1.png" alt=""><figcaption><p>Current Listing</p></figcaption></figure>
 

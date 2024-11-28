@@ -12,6 +12,7 @@
   * [Manage Book Collection](depub/nft-book-press/collection.md)
   * [User Setting](depub/nft-book-press/user.md)
   * [Affiliation Link](depub/nft-book-press/affiliation-link.md)
+  * [NFT Authz Grants](depub/nft-book-press/authz.md)
   * [ebooks Replenishment](depub/nft-book-press/replenishment.md)
   * [Modify ebook](depub/nft-book-press/modify.md)
   * [Burn ebook](depub/nft-book-press/burn.md)

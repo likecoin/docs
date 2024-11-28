@@ -237,6 +237,12 @@ Click “**Submit**” on the Send NFT Authz Grants Management Page to authorize
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23i.png" alt=""><figcaption><p>Send NFT Authz Grants Management Page</p></figcaption></figure>
 
+To revoke Authz Grants please refer to:
+
+{% content-ref url="authz.md" %}
+[authz.md](authz.md)
+{% endcontent-ref %}
+
 ### DRM Options
 
 Manage digital rights in DRM Options:
