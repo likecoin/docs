@@ -14,7 +14,7 @@ If you wish to remove a published ebook, keep in mind that the ebook cannot be e
 
 Given that multiple NFTs are typically minted when creating an ebook, using the Liker Land [Transfer Writing NFT](../transfer-nft.md) function to send one NFT at a time is inefficient. It's recommended to utilize the LikeCoin ISCN/NFT Tools for batch sending. Begin by preparing a CSV file. Download a sample here:
 
-[https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv)
+[https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list_example.csv)
 
 Enter the trash can address in the address column, and input the NFT Class ID of the ebook you want to abandon in the classid. If, for example, you have 100 NFTs to dispose of, the CSV file will have 100 columns of duplicate data.
 
@@ -22,11 +22,11 @@ Enter the trash can address in the address column, and input the NFT Class ID of
 
 ## Step 2: Use LikeCoin NFT BookPress to batch NFT to the trash can address
 
-Visit the [LikeCoin NFT BookPress](https://likecoin.github.io/nft-book-press/) website and click on "LikeCoin ISCN/NFT Tools".
+Visit the [LikeCoin NFT BookPress](https://likecoin.github.io/nft-book-press/) website and click on "[LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/)".
 
 <figure><img src="../../.gitbook/assets/Burn NFT Book 2.png" alt=""><figcaption><p>Click "LikeCoin ISCN/NFT Tools"</p></figcaption></figure>
 
-On the [LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/) website, click "Connect" in the upper right corner to link the wallet, then click "Send NFT".
+On the [LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/) website, click "Connect" in the upper right corner to link the wallet, then click "[Send NFT](https://likecoin.github.io/iscn-nft-tools/send-nft)".
 
 <figure><img src="../../.gitbook/assets/Burn NFT Book 3.png" alt=""><figcaption><p>Click "Send NFT"</p></figcaption></figure>
 
