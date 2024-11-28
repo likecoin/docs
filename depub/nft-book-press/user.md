@@ -18,6 +18,12 @@ description: 加入及更改用戶設定，參與推廣聯盟計劃
 [register](../register/)
 {% endcontent-ref %}
 
+亦可修改頭像及顯示名稱：
+
+{% content-ref url="../register/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../register/edit-avatar-displayname.md)
+{% endcontent-ref %}
+
 完成設定後顯示 Affiliation channel ID。
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 11.png" alt=""><figcaption><p>Affiliation channel ID</p></figcaption></figure>

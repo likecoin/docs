@@ -26,7 +26,7 @@ description: 刪除已發行的電子書
 
 <figure><img src="../../.gitbook/assets/Burn NFT Book 2.png" alt=""><figcaption><p>點「LikeCoin ISCN/NFT Tools」</p></figcaption></figure>
 
-到達 [LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/) 網站後點右上角「Connect」連結錢包，再點「Send NFT」。
+到達 [LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/) 網站後點右上角「Connect」連結錢包，再點「[Send NFT](https://likecoin.github.io/iscn-nft-tools/send-nft)」。
 
 <figure><img src="../../.gitbook/assets/Burn NFT Book 3.png" alt=""><figcaption><p>點「Send NFT」</p></figcaption></figure>
 
@@ -52,4 +52,4 @@ description: 刪除已發行的電子書
 
 <figure><img src="../../.gitbook/assets/Burn NFT Book 8.png" alt=""><figcaption><p>在 Transfer to 輸入垃圾桶地址再點「Transfer」</p></figcaption></figure>
 
-完成以上步驟後，Liker Land 個人主頁便不會再出現已遭丟棄的那本書。
+完成以上步驟後，Liker Land [我的書架](../liker-land/bookshelf.md)便不會再出現已遭丟棄的那本書。
