@@ -2,7 +2,7 @@
 description: 網頁版的 Liker Land
 ---
 
-# Liker Land 介紹
+# Liker Land 功能介紹
 
 登入網頁版的 [https://Liker.Land](./#xuan-xiang-yi-wo-de-shu-jia-httpsliker.landdashboard) 後點右上角的頭像出現其他操作選項。​
 
@@ -35,6 +35,16 @@ description: 網頁版的 Liker Land
 <figure><img src="../../.gitbook/assets/My Dashboard Total Sales Sample 1.png" alt=""><figcaption><p>在我的書架點總銷售額 (LIKE) 可查看 NFT 的銷售收入、二手銷售及分潤</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/My Dashboard Total Sales Sample 2.png" alt=""><figcaption><p>分潤實例</p></figcaption></figure>
+
+### 頭號粉絲及我的關注者
+
+查看自己是誰人的頭號粉絲。點「我的關注者」可查看誰人正在關注自己。
+
+<figure><img src="../../.gitbook/assets/Fans and Followers 1.png" alt=""><figcaption><p>頭號粉絲及我的關注者</p></figcaption></figure>
+
+查看我的關注者後，可點「匯出正在關注我的名單」匯出關注者清單。
+
+<figure><img src="../../.gitbook/assets/Fans and Followers 2.png" alt=""><figcaption><p>點「匯出正在關注我的名單」匯出關注者清單</p></figcaption></figure>
 
 ### 電郵 - [https://liker.land/zh-Hant/settings/email](https://liker.land/zh-Hant/settings/email)
 
