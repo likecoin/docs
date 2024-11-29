@@ -24,7 +24,7 @@ NFT 可以是任何唯一的數位資料。一封電郵、一張照片、一個�
 \
 **LikeCoin 的** [**Writing NFT**](depub/writing-nft.md) 專為文字內容的需要而設計。以傳統的出版流程類比，「作品產權 - 印刷成書 - 上架販賣」可比 LikeCoin 的「產權元數據註冊 – 生成 NFT – 上架 NFT 市場」。在物理世界中出版可能有諸多限制，在元宇宙中的出版和價值交換卻更靈活和恆久。
 
-![Writing NFT](.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
+![Writing NFT](.gitbook/assets/likecoin_ad115_writingnft_b-01.jpeg)
 
 ![NFT V.S. 傳統出版](<.gitbook/assets/image (3).png>)
 
@@ -36,7 +36,7 @@ LikeCoin DAO 持份者一起決策和執行如公共財政、公益建設、政�
 
 ### 開始體驗
 
-第一步是擁有 LikeCoin，及使用它來出版或參與治理。你可嘗試在分散式推特 [depub.space](https://depub.space) 發文，到 [dao.like.co](https://dao.like.co/proposals) 投票，或直接使用 [Keplr](general-guides/wallet/keplr/) 錢包以 LikeCoin 打賞作者。
+第一步是擁有 LikeCoin，及使用它來出版或參與治理。你可嘗試在分散式推特 [depub.space](https://depub.space) 發文，到 [dao.like.co](https://dao.like.co/proposals) 投票，或直接以 LikeCoin 打賞作者。
 
 欲尋找更多 Dapp 應用，[請訪問這裡](https://about.like.co/apps)。
 
@@ -50,12 +50,12 @@ LikeCoin DAO 持份者一起決策和執行如公共財政、公益建設、政�
 * [**文章**](https://blog.like.co/zh)：項目部落格，進度更新、治理、產品發展
 * [**Discord**](https://discord.gg/likecoin)：社群聚腳點。創作、開發、治理相關討論
 * [**Twitter**](https://twitter.com/likecoin)：項目消息
-* [**Telegram**](https://t.me/likecoin\_dao)：一般討論
+* [**Telegram**](https://t.me/likecoin_dao)：一般討論
 * [**GitHub**](https://github.com/likecoin)：開放代碼
 * **Facebook：**[粉專](https://www.facebook.com/Liker.Land)（一般公告），[群組](https://www.facebook.com/groups/likecoin)（創作者）
 * [**Reddit**](https://www.reddit.com/r/LikeCoin/)
 
 ## 聯繫我們 <a href="#contact-us" id="contact-us"></a>
 
-* 客戶服務：點擊[這裡](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
+* 客戶服務：點擊[這裡](https://go.crisp.chat/chat/embed/?website_id=5c009125-5863-4059-ba65-43f177ca33f7)
 * 商務合作：partners@like.co

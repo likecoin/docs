@@ -32,13 +32,15 @@ description: 幫助推廣的好工具
 
 <figure><img src="../../.gitbook/assets/Batch Create QR Codes 4.png" alt=""><figcaption><p>列印或下載 QR Code</p></figcaption></figure>
 
+***
+
 ### Batch Create Short Links
 
 到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站左下角點 [Batch Create Short Links](https://likecoin.github.io/nft-book-press/batch-short-links)。
 
-* 在 Short Link Provider 可選擇 Bitly 或 Short.io 作為短網址的供應商
-* 在 Bitly Access Token\* 填入你的 Token 在 Title Prefix 填寫用作前綴的內容
-* 可選擇 Upload CSV file 上載 CSV 檔案或直接在 Input CSV content 中輸入內容，格式為：
+* 在 **Short Link Provider** 可選擇 Bitly 或 Short.io 作為短網址的供應商
+* 在 **Bitly Access Token** 填入你的 Token 在 Title Prefix 填寫用作前綴的內容
+* 可選擇 **Upload CSV file** 上載 CSV 檔案或直接在 **Input CSV content** 中輸入內容，格式為：
 
 `key,url`\
 `書名1,網址1`\
@@ -50,7 +52,6 @@ description: 幫助推廣的好工具
 `地的門, https://liker.land/zh-Hant/nft/class/likenft1nlh8xc5w6xnctnhqtda47jzmephd2y4902sslfvqllrmvwy99trq7vapn9`\
 `時間繁史．啞瓷之光, https://liker.land/zh-Hant/nft/class/likenft1tgwav6zq3ean4ygz58hehlk3q5yghgtel97k260lugxqxszhcuws3pytae`
 
-再點「Start」即可製作短網址。\
-
+再&#x9EDE;**「Start**」即可製作短網址。
 
 <figure><img src="../../.gitbook/assets/Batch Create Short Links.png" alt=""><figcaption><p>Batch Create Short Links</p></figcaption></figure>

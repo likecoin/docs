@@ -84,7 +84,7 @@ description: Liker Land 常見問題
 
 ### [Liker ID](general-guides/dapp/liker-id/)
 
-* [Liker ID 要怎樣註冊？](faq.md#liker-id)
+* [Liker ID 要怎樣註冊？](depub/register/)
 * [什麼是 Authcore？](depub/register/what-is-authcore.md)
 * [不知何解無法登入嗎？試試重設密碼吧！](depub/register/reset-password.md)
 * [可以匯出 Liker ID 私鑰嗎？](depub/register/export-seed-words.md)
