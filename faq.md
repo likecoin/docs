@@ -83,7 +83,7 @@ description: Frequently Asked Questions
 
 ### [​Liker ID​](general-guides/dapp/liker-id/) <a href="#liker-id" id="liker-id"></a>
 
-* [How to register a Liker ID?](general-guides/dapp/liker-id/)
+* [How to register a Liker ID?](depub/register/)
 * [What is Authcore?](depub/register/what-is-authcore.md)
 * [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](depub/register/reset-password.md)
 * [Can I export my private key?](depub/register/export-seed-words.md)
