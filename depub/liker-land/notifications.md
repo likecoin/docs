@@ -6,8 +6,6 @@ description: Interaction between NFT authors and collectors
 
 [**Notifications**](https://liker.land/en/notifications) record NFT gifts and collections. You can also check the messages from creators and collectors, continue to communicate and interact with each other.
 
-## Liker Land web
-
 On [Liker Land](https://liker.land/), Click the avatar in the upper right corner and the menu will pop up, then click on "[Notifications](https://liker.land/en/notifications)".
 
 <figure><img src="../../.gitbook/assets/notifications.png" alt=""><figcaption><p>NFT notification</p></figcaption></figure>

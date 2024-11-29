@@ -30,7 +30,7 @@ NFT can be an email, an image, an identity, or a book. **LikeCoin** [**Writing N
 
 Similar to the workflow of traditional publishing, i.e., securing content authorship -> printing the content in books -> selling in bookstore, creators can now register the content on the LikeCoin chain -> mint an NFT of it -> sell it in NFT marketplaces. Compared with the constraints in physical publishing, publishing content and exchanging value in the metaverse can be more flexible and everlasting.
 
-![Writing NFT](.gitbook/assets/likecoin\_ad115\_writingnft\_b-01.jpeg)
+![Writing NFT](.gitbook/assets/likecoin_ad115_writingnft_b-01.jpeg)
 
 ![NFT V.S. Traditional Publishing](<.gitbook/assets/image (93).png>)
 
@@ -64,7 +64,7 @@ One of the newest, Dapps in the LikeCoin ecosystem is [depub.space](https://depu
 
 ### Kickstarted
 
-The first step is to own LikeCoin, and use it for publishing or governance. You can try to post a decentralized tweet on [depub.space](https://depub.space), vote on [dao.like.co](http://dao.like.co/), or reward any creators by transferring LIKE via Keplr wallet.
+The first step is to own LikeCoin, and use it for publishing or governance. You can try to post a decentralized tweet on [depub.space](https://depub.space), vote on [dao.like.co](http://dao.like.co/), or reward any creators by transferring LIKE.
 
 Visit [here](https://about.like.co/apps) for more LikeCoin Dapps.
 
@@ -78,12 +78,12 @@ Visit [here](https://about.like.co/apps) for more LikeCoin Dapps.
 * [**Publication**](httsps://blog.like.co): progress update, governance, products
 * [**Discord**](https://discord.gg/likecoin): Our community is here, talking about development and governance discussion
 * [**Twitter**](https://twitter.com/likecoin): announcements
-* [**Telegram**](https://t.me/likecoin\_dao): announcements
+* [**Telegram**](https://t.me/likecoin_dao): announcements
 * [**GitHub**](https://github.com/likecoin): source codes
 * **Facebook**: [page](https://www.facebook.com/Liker.Land/) ( announcement ); [group](https://www.facebook.com/groups/likecoin) ( creators' sharing ); in Chinese
 * [**Reddit**](https://www.reddit.com/r/LikeCoin/)
 
 ## Contact Us
 
-* Customer Service: [please click here](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
+* Customer Service: [please click here](https://go.crisp.chat/chat/embed/?website_id=5c009125-5863-4059-ba65-43f177ca33f7)
 * Partners and Cooperation: partners@like.co

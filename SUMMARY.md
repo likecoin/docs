@@ -33,7 +33,7 @@
   * [Edit Avatar and Name](depub/register/edit-avatar-displayname.md)
   * [Export Wallet Seed Words](depub/register/export-seed-words.md)
   * [What is Authcore?](depub/register/what-is-authcore.md)
-* [Liker Land functions](depub/liker-land/README.md)
+* [Liker Land features](depub/liker-land/README.md)
   * [My Bookshelf](depub/liker-land/bookshelf.md)
   * [Notifications](depub/liker-land/notifications.md)
   * [Follow Creators](depub/liker-land/follow-creators.md)

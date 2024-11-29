@@ -2,7 +2,7 @@
 description: Web version of Liker Land
 ---
 
-# About Liker Land
+# Liker Land features
 
 After logging in to Liker Land web - [https://Liker.Land](https://liker.land/), click the avatar in the upper right corner and the menu will pop up.
 
@@ -35,6 +35,16 @@ You can view the number of NFTs collected, Asset Value (LIKE), the number of NFT
 <figure><img src="../../.gitbook/assets/My Dashboard Total Sales Sample 1.png" alt=""><figcaption><p>Sales Earnings sample</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/My Dashboard Total Sales Sample 2.png" alt=""><figcaption><p>Royalties sample</p></figcaption></figure>
+
+### Top Fans and My Followers
+
+Check out who the top fans of yours are among creators. Click on "My followers" to see who is following you.
+
+<figure><img src="../../.gitbook/assets/Fans and Followers 1-en.png" alt=""><figcaption><p>Top Fans and My Followers</p></figcaption></figure>
+
+After viewing your followers, you can click on "Export my follower list" to export the list of followers.
+
+<figure><img src="../../.gitbook/assets/Fans and Followers 2-en.png" alt=""><figcaption><p>Export my follower list</p></figcaption></figure>
 
 ### Email - [https://liker.land/en/settings/email](https://liker.land/en/settings/email)
 
