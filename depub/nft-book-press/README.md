@@ -22,7 +22,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 4. [管理電子書](nft-book-store.md)
 5. [設定電子書套裝](collection.md)
-6. [NFT Book Press 用戶設定](user.md)
+6. [NFT Book Press 用戶設定](user/)
 7. [設定推廣連結](tui-guang-lian-jie.md)
 8. [補書上架](replenishment.md)
 9. [修改已出版的電子書資料](modify.md)
@@ -191,8 +191,8 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 連結 Stripe 帳戶，點擊後將開始連結 Stripe 帳戶，詳見：
 
-{% content-ref url="user.md" %}
-[user.md](user.md)
+{% content-ref url="user/" %}
+[user](user/)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 27.png" alt=""><figcaption><p>Connect to a Stripe Account</p></figcaption></figure>

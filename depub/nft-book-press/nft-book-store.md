@@ -51,7 +51,7 @@ Pending Action 顯示有多少項目尚待處理、Sold 售賣數據及 Stocks �
 
 ### Connect to a Stripe Account
 
-詳見 [用戶設定](user.md)。
+詳見 [用戶設定](user/)。
 
 ### Email to receive sales notifications
 
