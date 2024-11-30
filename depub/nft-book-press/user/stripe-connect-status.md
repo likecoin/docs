@@ -36,8 +36,7 @@ Check whether the entered information is correct on the Review and submit page, 
 
 <figure><img src="../../../.gitbook/assets/Manage Stripe Account 8.png" alt=""><figcaption><p>Review everything and click "Agree and submit"</p></figcaption></figure>
 
-After the Stripe approval is completed, Setup Completed will change to "Yes".\
-
+After the Stripe approval is completed, Setup Completed will change to "Yes".
 
 <figure><img src="../../../.gitbook/assets/Manage Stripe Account 9.png" alt=""><figcaption><p>Stripe approval completed</p></figcaption></figure>
 
