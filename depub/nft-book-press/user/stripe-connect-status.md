@@ -2,6 +2,8 @@
 
 Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[User Setting](https://likecoin.github.io/nft-book-press/nft-book-store/user)".
 
+<figure><img src="../../../.gitbook/assets/Manage Stripe Account 1.png" alt=""><figcaption><p>User Setting</p></figcaption></figure>
+
 ### Stripe Connect Status <a href="#stripe-connect-status" id="stripe-connect-status"></a>
 
 Click “**Setup your ID**” to start setting up your Stripe account.
