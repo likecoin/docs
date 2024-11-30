@@ -22,7 +22,7 @@ and other follow up actions:
 
 4. [Manage NFT books](nft-book-store.md)
 5. [Manage Book Collection](collection.md)
-6. [NFT Book Press User Setting](user.md)
+6. [NFT Book Press User Setting](user/)
 7. [Affiliation Link Setting](affiliation-link.md)
 8. [ebooks Replenishment](replenishment.md)
 9. [Modify ebook](modify.md)
@@ -193,8 +193,8 @@ The NFT Class ID of the minted ebook appears in the New NFT Book Listing and ple
 
 Click to start connecting to the Stripe account, see details:
 
-{% content-ref url="user.md" %}
-[user.md](user.md)
+{% content-ref url="user/" %}
+[user](user/)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 27.png" alt=""><figcaption><p>Connect to a Stripe Account</p></figcaption></figure>
