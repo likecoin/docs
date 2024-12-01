@@ -10,17 +10,17 @@ No matter if you have a crypto wallet or not, collecting ebooks on desktop or mo
 
 You can add the book to your shopping cart or purchase it directly
 
-### Add to Cart
+### Add to cart
 
-Go to the ebook’s page and click "Add to Cart".
+Go to the ebook’s page and click "Add to cart".
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 1a-en.png" alt=""><figcaption><p>Click "Add to Cart"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect NFT Book 1-en.png" alt=""><figcaption><p>Click "Add to cart"</p></figcaption></figure>
 
-### Purchase
+### Buy now
 
-Go to the ebook’s page and click "Purchase".
+Go to the ebook’s page and click "Buy now".
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 1-en.png" alt=""><figcaption><p>Click "Purchase"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect NFT Book 1a-en.png" alt=""><figcaption><p>Click "Buy now"</p></figcaption></figure>
 
 ## Step 2: Show your support with a tip!
 

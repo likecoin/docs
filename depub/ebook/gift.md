@@ -10,7 +10,7 @@ The ebook gifting feature is only applicable for credit card payments. The steps
 
 Go to the e-book’s page and click "Gift".
 
-<figure><img src="../../.gitbook/assets/Gift 1-en.png" alt=""><figcaption><p>Click "Gift".</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gift 1-en.png" alt=""><figcaption><p>Click "Gift"</p></figcaption></figure>
 
 ## Step 2: Fill in Details
 
