@@ -10,17 +10,17 @@ description: 如何購買電子書
 
 你可以將書加入購物車或直接購買：
 
-### 加入購物車
+### 加到購物車
 
-在作品頁面點「加入購物車」。
+在作品頁面點「加到購物車」。
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 1a.png" alt=""><figcaption><p>點「加入購物車」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect NFT Book 1.png" alt=""><figcaption><p>點「加到購物車」</p></figcaption></figure>
 
 ### 直接購買
 
-在作品頁面上點「購買」。
+在作品頁面上點「立即購買」。
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 1.png" alt=""><figcaption><p>點「購買」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect NFT Book 1a.png" alt=""><figcaption></figcaption></figure>
 
 ## 步驟二：額外支持 <a href="#step-2" id="step-2"></a>
 
