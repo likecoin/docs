@@ -29,3 +29,7 @@ description: 修改電子書描述或檔案
 **步驟六**：ISCN 完成更新後版本號顯示為 /2，代表這個 ISCN 的第 2 個版本。與此同時可通知已購買電子書的讀者重新下載新版本。
 
 <figure><img src="../../.gitbook/assets/Change NFT Book 7.png" alt=""><figcaption><p>ISCN 已更新</p></figcaption></figure>
+
+{% hint style="info" %}
+用戶可[清理閱讀器緩存](../liker-land/#qing-li-yue-du-qi-huan-cun)以參看新內容
+{% endhint %}

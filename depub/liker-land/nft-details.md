@@ -17,4 +17,4 @@ description: 了解你的 NFT
 
 NFT Class ID 直接是 URL 的一部份。
 
-<figure><img src="../../.gitbook/assets/NFT Class ID.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Class ID.png" alt=""><figcaption><p>NFT Class ID</p></figcaption></figure>
