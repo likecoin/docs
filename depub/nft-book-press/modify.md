@@ -29,3 +29,8 @@ If there are any errors in the ISCN content, epub, or pdf file content of ebooks
 **Step 6**: After the ISCN is updated, the version number is displayed as /2, representing the second version of the ISCN. At the same time, readers who have purchased the ebook can re-download the new version.
 
 <figure><img src="../../.gitbook/assets/Change NFT Book 7.png" alt=""><figcaption><p>ISCN is updated</p></figcaption></figure>
+
+{% hint style="info" %}
+Users can [Clear Reader Cache](../liker-land/#clear-reader-cache) to see the new content.
+{% endhint %}
+
