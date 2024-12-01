@@ -4,17 +4,13 @@ description: 贈書給親朋好友
 
 # 送贈電子書
 
-{% hint style="danger" %}
-2024/12/01 存檔。資訊已過期。
-{% endhint %}
-
 送贈電子書功能只適用於以信用卡付款，送書步驟如下：
 
 ## 步驟一：開始送書
 
-在作品頁面上點「送書」。
+在作品頁面上點「贈送書本」。
 
-<figure><img src="../../.gitbook/assets/Gift 1.png" alt=""><figcaption><p>點「送書」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gift 1.png" alt=""><figcaption><p>點「贈送書本」</p></figcaption></figure>
 
 ## 步驟二：填寫資料
 
