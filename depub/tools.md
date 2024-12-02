@@ -20,25 +20,31 @@ The "Export" function allows users to input the creator's or collector's Liker I
 
 [**LikeCoin ISCN/NFT Tools**](https://likecoin.github.io/iscn-nft-tools/) provide various tools for batch managing NFTs:
 
-<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools 1.png" alt=""><figcaption><p>LikeCoin ISCN/NFT Tools</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools.png" alt=""><figcaption><p>LikeCoin ISCN/NFT Tools</p></figcaption></figure>
+
+### [**Send LIKE**](https://likecoin.github.io/iscn-nft-tools/send-like)
+
+Batch send LikeCoin.
+
+<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools Send LIKE.png" alt=""><figcaption><p>Send LIKE</p></figcaption></figure>
 
 ### [**Mint NFT**](https://likecoin.github.io/iscn-nft-tools/mint-nft)
 
 Directly mint NFTs using ISCN ID or [NFT Class ID](liker-land/nft-details.md#nft-class-id), or provide an ISCN data JSON file for minting NFTs.
 
-<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools 4.png" alt=""><figcaption><p>Mint NFT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools Mint NFT.png" alt=""><figcaption><p>Mint NFT</p></figcaption></figure>
 
 ### [**Send NFT**](https://likecoin.github.io/iscn-nft-tools/send-nft)
 
 Send NFTs by providing an NFT CSV file for mass distribution. See the guide for [Batch send NFT to supporters](transfer-nft.md#batch-send-nft-to-supporters).
 
-<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools 2.png" alt=""><figcaption><p>Send NFT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools Send NFT.png" alt=""><figcaption><p>Send NFT</p></figcaption></figure>
 
 ### [**List and Sell NFT**](https://likecoin.github.io/iscn-nft-tools/list-and-sell-nft)
 
 List NFTs on the [NFT Marketplace](collect-writing-nft/nft-marketplace.md) with the option to set expiration of listing and upload a CSV file for bulk listing on the NFT Marketplace.
 
-<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools 3.png" alt=""><figcaption><p>List and Sell NFT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools List and Sell NFT.png" alt=""><figcaption><p>List and Sell NFT</p></figcaption></figure>
 
 ### [**ISCN Browser & Editor**](what-is-iscn/iscn-browser.md)
 
