@@ -20,15 +20,19 @@ After successful login, your wallet address will be displayed in the top right c
 
 ## Step 2: Upload or Skip Upload Content <a href="#bu-zhou-er-shang-zai-nei-rong" id="bu-zhou-er-shang-zai-nei-rong"></a>
 
+{% hint style="info" %}
+If you need to publish the article URL as a Writing NFT, please click "Has a URL, Arweave or IPFS hash? Mint NFT here" and refer to the [Publish Writing NFT](../../nft-portal/) tutorial.
+{% endhint %}
+
 ### Upload Content
 
 Click "Select a file" to choose a photo or video, or upload it directly by dragging and dropping. If you have already uploaded the file, you can also choose "Skip Upload".
 
 <figure><img src="../../../.gitbook/assets/ISCN 3.png" alt=""><figcaption><p>Click "Select a file" to upload a file or "Skip Upload"</p></figcaption></figure>
 
-After the upload is complete, click "View File Info" to check the metadata of your file, including EXIF data such as location and camera settings. Review the details again and "Start Upload".
+After the upload is complete, click \<I> to check the metadata of your file, including EXIF data such as location and camera settings. Review the details again and "Start Upload".
 
-<figure><img src="../../../.gitbook/assets/ISCN 5.png" alt=""><figcaption><p>Click "View File Info" to check the metadata of your file and "Start Upload"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN 5.png" alt=""><figcaption><p>Click &#x3C;I> to check the metadata of your file and "Start Upload"</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p>Metadata of your file</p></figcaption></figure>
 
@@ -42,7 +46,6 @@ If you choose "Skip Upload", enter an existing content fingerprint.
 
 Fill in the information about this content, including:
 
-* Register your asset in Numbers Protocol - Click on it and the work will be registered with [Numbers Protocol](https://www.numbersprotocol.io/) too ( Not applicable to Skip Upload ).
 * ISCN Title
 * Description
 * Author - Click to fill into more details. You may include more than one author if the work is co-created.
@@ -51,11 +54,14 @@ Fill in the information about this content, including:
   * Description
   * URL
   * Wallet Address
+* Stakeholders - The system will automatically add the author and the ISCN registrant as stakeholders.
 * Tags - Help others to find your content
 * URL - Link to the content
-* License - You may refer to Creative Commons for reference.
+* Hide file storage link from public blockchain - Avoid the link appearing in general public.
+* License - Choices of Content Licensing
+* Register your asset in Numbers Protocol - Click on it and the work will be registered with [Numbers Protocol](https://www.numbersprotocol.io/) too ( Not applicable to Skip Upload ).
 
-<figure><img src="../../../.gitbook/assets/ISCN 6.png" alt=""><figcaption><p>Fill in the metadata</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN 6.png" alt=""><figcaption><p>Fill Fill in the metadata</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/ISCN 7.png" alt=""><figcaption><p>Fill in creator information</p></figcaption></figure>
 
