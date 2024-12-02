@@ -4,6 +4,10 @@ description: Transfer NFT is easy!
 
 # Transfer NFT
 
+{% hint style="info" %}
+Transfer NFT requires [LikeCoin](https://about.like.co/).
+{% endhint %}
+
 You can transfer your favorite NFT eBooks or Writing NFTs to others.
 
 Users can leave a message when gifting a NFT eBook or Writing NFT to the recipient. The message is recorded as a transaction memo on the chain and can be stacked during further transfers, forming a “log” of that particular piece of NFT.
