@@ -12,7 +12,7 @@ If you wish to remove a published ebook, keep in mind that the ebook cannot be e
 
 ## Step 1: Prepare a CSV file
 
-Given that multiple NFTs are typically minted when creating an ebook, using the Liker Land [Transfer Writing NFT](../transfer-nft.md) function to send one NFT at a time is inefficient. It's recommended to utilize the LikeCoin ISCN/NFT Tools for batch sending. Begin by preparing a CSV file. Download a sample here:
+Given that multiple NFTs are typically minted when creating an ebook, using the Liker Land [Transfer Writing NFT](../transfer-nft/) function to send one NFT at a time is inefficient. It's recommended to utilize the LikeCoin ISCN/NFT Tools for batch sending. Begin by preparing a CSV file. Download a sample here:
 
 [https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list_example.csv)
 

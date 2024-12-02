@@ -21,8 +21,4 @@ description: Export wallet address of supporters and batch send NFTs to them
 ### Method 2
 
 * In [LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/), select "[Send NFT](https://likecoin.github.io/iscn-nft-tools/send-nft)" and log in with Keplr.
-* Prepare a CSV file ( see [example](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv) ) containing the wallet addresses, the [Class ID](../liker-land/nft-details.md#nft-class-id)s of the NFTs to be sent, and the memos, which are the [transfer messages](batch.md#step-2-enter-the-recipients-wallet-address-and-transfer-message). Then click "Send" and sign the transaction in Keplr to mass distribute the NFTs.
-
-{% hint style="info" %}
-If you need to batch send ebooks, refer to [LikeCoin NFT Book Press -> Manage ebooks -> Gift Books](../nft-book-press/nft-book-store.md),
-{% endhint %}
+* Prepare a CSV file ( see [example](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list_example.csv) ) containing the wallet addresses, the [Class ID](../liker-land/nft-details.md#nft-class-id)s of the NFTs to be sent, and the memos, which are the [transfer messages](batch.md#step-2-enter-the-recipients-wallet-address-and-transfer-message). Then click "Send" and sign the transaction in Keplr to mass distribute the NFTs.

@@ -34,7 +34,7 @@ At the [My Dashboard](../archive/archive/liker-land/dashboard.md) page.
 
 ### How to transfer NFT?
 
-[Transfer](transfer-nft.md) can be done at the NFT page, just enter the wallet address of the receiver to transfer.
+[Transfer](transfer-nft/) can be done at the NFT page, just enter the wallet address of the receiver to transfer.
 
 ### How to sell NFT in the secondary market?
 

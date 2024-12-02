@@ -36,7 +36,7 @@ Directly mint NFTs using ISCN ID or [NFT Class ID](liker-land/nft-details.md#nft
 
 ### [**Send NFT**](https://likecoin.github.io/iscn-nft-tools/send-nft)
 
-Send NFTs by providing an NFT CSV file for mass distribution. See the guide for [Batch send NFT to supporters](transfer-nft.md#batch-send-nft-to-supporters).
+Send NFTs by providing an NFT CSV file for mass distribution. See the guide for [Batch send NFT to supporters](transfer-nft/#batch-send-nft-to-supporters).
 
 <figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools Send NFT.png" alt=""><figcaption><p>Send NFT</p></figcaption></figure>
 
