@@ -36,7 +36,7 @@ description: NFT 好幫手
 
 ### [**Send NFT**](https://likecoin.github.io/iscn-nft-tools/send-nft)
 
-傳送 NFT，可提供 NFT CSV 檔案進行群發，詳見[群發 NFT 紀念品給支持者](transfer-nft.md#batch-send-nft-to-supporters)。
+傳送 NFT，可提供 NFT CSV 檔案進行群發，詳見[群發 NFT 紀念品給支持者](transfer-nft/#batch-send-nft-to-supporters)。
 
 <figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools Send NFT.png" alt=""><figcaption><p>Send NFT</p></figcaption></figure>
 

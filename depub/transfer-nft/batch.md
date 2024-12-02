@@ -29,8 +29,4 @@ description: 導出支持者錢包地址，再群發 NFT 給他們
 ## 方法二
 
 * 在 [LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/) 選 [Send NFT](https://likecoin.github.io/iscn-nft-tools/send-nft) 並登入 Keplr。
-* 預備 csv 檔案（見[範例](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list\_example.csv)），內裡包括錢包地址 ( address )，送出 NFT 的 [classid](../liker-land/nft-details.md#nft-class-id) 及 memo，亦即是[附加留言](batch.md#bu-zhou-er-shu-ru-qian-bao-di-zhi-ji-fu-jia-liu-yan)，再點「Send」及在 Keplr 簽署，即可群發 NFT。
-
-{% hint style="info" %}
-如需傳送電子書，可參考[管理電子書中 Gift Books](../nft-book-press/nft-book-store.md) 的章節
-{% endhint %}
+* 預備 csv 檔案（見[範例](https://github.com/likecoin/iscn-nft-tools/blob/master/send-nft/list_example.csv)），內裡包括錢包地址 ( address )，送出 NFT 的 [classid](../liker-land/nft-details.md#nft-class-id) 及 memo，亦即是[附加留言](batch.md#bu-zhou-er-shu-ru-qian-bao-di-zhi-ji-fu-jia-liu-yan)，再點「Send」及在 Keplr 簽署，即可群發 NFT。
