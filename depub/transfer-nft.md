@@ -4,6 +4,10 @@ description: 簡單發送沒難度
 
 # 發送 NFT
 
+{% hint style="info" %}
+發迭 NFT 需要使用 [LikeCoin](https://like.co/)
+{% endhint %}
+
 現在開始你可以將你珍藏的電子書或 Writing NFT 傳送給別人了！&#x20;
 
 就像記念冊一樣，用戶可於發送電子書或 Writing NFT 時留言給接收者。該訊息將以交易備忘 ( Memo ) 的方式記錄在鏈上，並可於未來的傳送予其他人的時候不斷累積，形成 NFT 的獨有「軌跡」。
