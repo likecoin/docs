@@ -20,25 +20,31 @@ description: NFT 好幫手
 
 [**LikeCoin ISCN/NFT Tools**](https://likecoin.github.io/iscn-nft-tools/) 提供各種批量管理 NFT 的工具：
 
-<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools 1.png" alt=""><figcaption><p>LikeCoin ISCN/NFT Tools</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools.png" alt=""><figcaption><p>LikeCoin ISCN/NFT Tools</p></figcaption></figure>
+
+### [**Send LIKE**](https://likecoin.github.io/iscn-nft-tools/send-like)
+
+群發 LikeCoin。
+
+<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools Send LIKE.png" alt=""><figcaption><p>Send LIKE</p></figcaption></figure>
 
 ### [**Mint NFT**](https://likecoin.github.io/iscn-nft-tools/mint-nft)
 
 直接使用 ISCN ID 或 [NFT Class ID](liker-land/nft-details.md#nft-class-id) 鑄造 NFT，又或者提供 ISCN data JSON 檔案鑄造 NFT。
 
-<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools 4.png" alt=""><figcaption><p>Mint NFT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools Mint NFT.png" alt=""><figcaption><p>Mint NFT</p></figcaption></figure>
 
 ### [**Send NFT**](https://likecoin.github.io/iscn-nft-tools/send-nft)
 
 傳送 NFT，可提供 NFT CSV 檔案進行群發，詳見[群發 NFT 紀念品給支持者](transfer-nft.md#batch-send-nft-to-supporters)。
 
-<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools 2.png" alt=""><figcaption><p>Send NFT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools Send NFT.png" alt=""><figcaption><p>Send NFT</p></figcaption></figure>
 
 ### [**List and Sell NFT**](https://likecoin.github.io/iscn-nft-tools/list-and-sell-nft)
 
 在[二級市場](collect-writing-nft/nft-marketplace.md)上架 NFT，可設定售賣的到期時間及上載 CSV 檔案大量上架 NFT 到二級市場。
 
-<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools 3.png" alt=""><figcaption><p>List and Sell NFT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools List and Sell NFT.png" alt=""><figcaption><p>List and Sell NFT</p></figcaption></figure>
 
 ### [**ISCN Browser & Editor**](what-is-iscn/iscn-browser.md)
 
