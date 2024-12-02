@@ -22,15 +22,19 @@ description: 使用 Cosmostation 註冊 ISCN
 
 ## 步驟二：上傳或不上傳內容
 
+{% hint style="info" %}
+如果你需要將文章網址出版 Writing NFT，請點「Has a URL, Arweave or IPFS hash? Mint NFT here」，並參考[出版 Writing NFT](../../nft-portal/) 教學。
+{% endhint %}
+
 ### 上傳內容
 
 點「Select a file」上傳檔案，例如相片或影片等，又或者直接把檔案拖拉到中間的位置。假如你已將檔案上傳，你也可以選擇「Skip Upload」不上傳檔案。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>點「Select a file」上傳檔案或「Skip Upload」不上傳檔案</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN 3.png" alt=""><figcaption><p>點「Select a file」上傳檔案或「Skip Upload」不上傳檔案</p></figcaption></figure>
 
-上載完成後，可點「View File Info」查看檔案的屬性和狀態，例如相片的 EXIF 元數據包括拍照時的位置及相機配置等。確認無誤後再點「Start Upload」。
+上載完成後，可點 \<I> 查看檔案的屬性和狀態，例如相片的 EXIF 元數據包括拍照時的位置及相機配置等。確認無誤後再點「Start Upload」。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>點「View File Info」查看檔案的屬性和狀態再點再點「Start Upload」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN 5.png" alt=""><figcaption><p>點 <em>查看檔案的屬性和狀態再點再點「Start Upload」</em></p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p>檔案的屬性和狀態</p></figcaption></figure>
 
@@ -38,13 +42,12 @@ description: 使用 Cosmostation 註冊 ISCN
 
 點「Skip Upload」不上傳檔案後可輸入已有的內容指紋 ( content fingerprint )。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>輸入已有的內容指紋 ( content fingerprint )</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN 5.5.png" alt=""><figcaption><p>輸入已有的內容指紋 ( content fingerprint )</p></figcaption></figure>
 
 ## 步驟三：填寫元數據
 
 填寫關於此項內容的元數據：
 
-* Register your asset in Numbers Protocol－勾選它可將內容一拼傳送到 [Numbers Protocol](https://www.numbersprotocol.io/)（不適用於不需上傳內容的作品）
 * ISCN Title－ISCN 標題
 * Description－內容描述
 * Author－點它填寫更多內容，並可加入多於一名創作者
@@ -53,11 +56,14 @@ description: 使用 Cosmostation 註冊 ISCN
   * Description－創作者簡介
   * URL－創作者網站
   * Wallet Address－創作者的錢包地址
+* Shakeholders - 持份者。系統預設加入作者及正在製作電子書的帳戶為持份者。
 * Tags－關鍵字，幫助人們搜尋你的內容
 * URL－該內容的網址
-* License－內容授權，不妨參考共享創意的授權條款
+*  Hide file storage link from public blockchain：隱藏文件儲存鏈接，避免公開在區塊鏈上。
+* License－內容授權方式
+* Register your asset in Numbers Protocol－勾選它可將內容一拼傳送到 [Numbers Protoco](https://www.numbersprotocol.io/)l（不適用於不需上傳內容的作品）
 
-<figure><img src="broken-reference" alt=""><figcaption><p>填寫元數據</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN 6.png" alt=""><figcaption><p>填寫元數據</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/ISCN 7.png" alt=""><figcaption><p>填寫創作者資料</p></figcaption></figure>
 

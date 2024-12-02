@@ -40,7 +40,7 @@ description: 使用電郵或社交登入註冊 ISCN
 
 點「Skip Upload」不上傳檔案後可輸入已有的內容指紋 ( content fingerprint )。
 
-<figure><img src="../../../.gitbook/assets/ISCN 5.5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN 5.5.png" alt=""><figcaption><p>輸入已有的內容指紋 ( content fingerprint )</p></figcaption></figure>
 
 ## 步驟三：填寫元數據
 
