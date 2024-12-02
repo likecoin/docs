@@ -44,11 +44,11 @@ description: 使用 LikeCoin app 註冊 ISCN
 
 點「Select a file」上傳檔案，例如相片或影片等，又或者直接把檔案拖拉到中間的位置。假如你已將檔案上傳，你也可以選擇「Skip Upload」不上傳檔案。
 
-<figure><img src="../../../.gitbook/assets/ISCN 3.png" alt=""><figcaption><p>點「Select a file」上傳檔案或「Skip Upload」不上傳檔案</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>點「Select a file」上傳檔案或「Skip Upload」不上傳檔案</p></figcaption></figure>
 
 上載完成後，可點「View File Info」查看檔案的屬性和狀態，例如相片的 EXIF 元數據包括拍照時的位置及相機配置等。確認無誤後再點「Start Upload」。
 
-<figure><img src="../../../.gitbook/assets/ISCN 5.png" alt=""><figcaption><p>點「View File Info」查看檔案的屬性和狀態再點再點「Start Upload」</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>點「View File Info」查看檔案的屬性和狀態再點再點「Start Upload」</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p>檔案的屬性和狀態</p></figcaption></figure>
 
@@ -56,7 +56,7 @@ description: 使用 LikeCoin app 註冊 ISCN
 
 點「Skip Upload」不上傳檔案後可輸入已有的內容指紋 ( content fingerprint )。
 
-<figure><img src="../../../.gitbook/assets/ISCN 5.5.png" alt=""><figcaption><p>輸入已有的內容指紋 ( content fingerprint )</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>輸入已有的內容指紋 ( content fingerprint )</p></figcaption></figure>
 
 ## 步驟三：填寫元數據
 
@@ -75,7 +75,7 @@ description: 使用 LikeCoin app 註冊 ISCN
 * URL－該內容的網址
 * License－內容授權，不妨參考共享創意的授權條款
 
-<figure><img src="../../../.gitbook/assets/ISCN 6.png" alt=""><figcaption><p>填寫元數據</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>填寫元數據</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/ISCN 7.png" alt=""><figcaption><p>填寫創作者資料</p></figcaption></figure>
 
