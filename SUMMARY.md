@@ -82,7 +82,6 @@
   * [Recommendations](general-guides/on-the-news/recommendations.md)
 * [Community](general-guides/community/README.md)
   * [#Community Call](general-guides/community/community-call.md)
-  * [#LikeCoin AMA](general-guides/community/likecoin-ama.md)
   * [#open-a-ticket](general-guides/community/open-a-ticket.md)
   * [#faucet-testnet](general-guides/community/faucet-testnet.md)
   * [#translate-wallet-prefix](general-guides/community/translate-wallet-prefix.md)
@@ -287,7 +286,6 @@
 ## Archive
 
 * [Archive](archive/archive/README.md)
-  * [LikeCoin Progress Update](archive/archive/updates.md)
   * [Writing NFT](archive/archive/writing-nft/README.md)
     * [ISCN Wallet](archive/archive/writing-nft/iscn-wallet.md)
     * [Publish Writing NFT with an article URL by LikeCoin app](archive/archive/writing-nft/likecoin-app.md)
@@ -348,6 +346,8 @@
     * [LikeCoin Token](archive/archive/trade/likecoin-token.md)
   * [Liquidity](archive/archive/liquidity/README.md)
     * [Emeris](archive/archive/liquidity/emeris.md)
+  * [#LikeCoin AMA](archive/archive/likecoin-ama.md)
+  * [LikeCoin Progress Update](archive/archive/updates.md)
   * [LikeCoin Airdrop](archive/archive/airdrop/README.md)
     * [Login by Liker ID](archive/archive/airdrop/login-by-liker-id.md)
   * [LikeCoin Grants Program](archive/archive/likecoin-grants.md)

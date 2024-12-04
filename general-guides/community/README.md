@@ -4,32 +4,29 @@ description: Share and connect with other LikeCoin users in the community
 
 # Community
 
-As [Liker Land](https://liker.land/) grows, the community becomes more vibrant and lively.
-
 [LikeCoin Discord](http://discord.gg/likecoin) is for everyone. There are channels including development, governance, product discussion, and more. Validators and stakeholders exchange ideas and work together to make Liker Land a better place.
 
-## Step 1: Click emoji and join the server
+## How to Join LikeCoin Discord:
 
-New users can go to the #👍｜verify channel and click on the ✅ reaction to join the server.
+**Step 1**: Register for a Discord account and enter the invitation link [https://discord.gg/likecoin](https://discord.gg/likecoin) in your browser, or search for LikeCoin in the Discord app. On the login screen, click "Accept Invite".
 
-<figure><img src="../../.gitbook/assets/discord 1.png" alt=""><figcaption><p>Click on the ✅ reaction to join the server</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Discord 1-en.png" alt=""><figcaption><p>Click "Accept Invite"</p></figcaption></figure>
 
-## Step 2: Select Roles
+**Step 2**: When you see "You must complete a few more steps before you can talk", click "Complete".
 
-Next, go to the #🙋｜select-roles channel to choose the topic of interest by clicking on the corresponding emoji.
+<figure><img src="../../.gitbook/assets/Discord 2-en.png" alt=""><figcaption><p>Click "Complete"</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption><p>Click emoji to select roles</p></figcaption></figure>
+**Step 3**: After reading the group rules, click "I have read and agree to the rules", then click "Submit".
 
-## Step 3: Check out the Chinese channels
+<figure><img src="../../.gitbook/assets/Discord 3-en.png" alt=""><figcaption><p>Click "Submit"</p></figcaption></figure>
 
-Click on the "中" emoji to view the Chinese channels.
+**Step 4**: Go to the #👍｜verify channel and click ✅ to complete the verification.
 
-<figure><img src="../../.gitbook/assets/discord 3.png" alt=""><figcaption><p>Click on the "中" emoji to view the Chinese channels</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Discord 4.png" alt=""><figcaption><p>Click ✅ to complete the verification</p></figcaption></figure>
 
 Moreover users can utilize the following functions on LikeCoin Discord:
 
 * [#Community Call](community-call.md) - Join the monthly community call
-* [#LikeCoin AMA](likecoin-ama.md) - Join the LikeCoin AMA (Ask Me Anything) and Author chatroom
 * [#🎫｜open-a-ticket](open-a-ticket.md) - Get help privately using the Discord support tool
 * [#🌊｜faucet-mainnet](../faucet.md) - Mainnet faucet
 * [#💧｜faucet-testnet](faucet-testnet.md) - Get a small amount of LikeCoin for testing on testnet

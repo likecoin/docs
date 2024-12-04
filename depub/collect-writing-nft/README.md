@@ -10,25 +10,25 @@ No matter if you have a crypto wallet or not, collecting Writing NFTs on desktop
 
 ### Credit Card
 
-### [Collect Writing NFT with a credit card (without a wallet)](./#collect-writing-nft-with-a-credit-card-havent-created-any-wallet-for-both-desktop-and-mobile)
+#### [Collect Writing NFT with a credit card (without a wallet)](./#collect-writing-nft-with-a-credit-card-havent-created-any-wallet-for-both-desktop-and-mobile)
 
 Applicable to those who haven't created any wallet, and it works on both desktop and mobile.
 
-### [Already have a wallet and collect Writing NFT with a credit card](./#already-have-a-wallet-and-collect-writing-nft-with-a-credit-card-for-both-desktop-and-mobile)
+#### [Already have a wallet and collect Writing NFT with a credit card](./#already-have-a-wallet-and-collect-writing-nft-with-a-credit-card-for-both-desktop-and-mobile)
 
 Applicable to those who have created a wallet. User can use [Email/Social](../register/), [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikeCoin app](../../general-guides/dapp/liker-land/download.md)...etc to collect Writing NFT via desktop or mobile browser and pay by credit card.
 
 ### LikeCoin
 
-### [Collect Writing NFT by LIKE on desktop](collect-writing-nft-on-desktop.md)
+#### [Collect Writing NFT by LIKE on desktop](collect-writing-nft-on-desktop.md)
 
 Users can use [Email/Social](../register/), [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikeCoin app](../../general-guides/dapp/liker-land/download.md)...etc to collect Writing NFT by LIKE on desktop.
 
-### [Collect Writing NFT by LIKE on mobile](collect-writing-nft-on-mobile.md)
+#### [Collect Writing NFT by LIKE on mobile](collect-writing-nft-on-mobile.md)
 
 Users can collect Writing NFT on a mobile browser by LIKE using [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/) or [LikeCoin app](../../general-guides/dapp/liker-land/download.md).
 
-### [One-Click Collect All Writing NFT](collect-all.md)
+#### [One-Click Collect All Writing NFT](collect-all.md)
 
 Users can use [Email/Social](../register/), [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikeCoin app](../../general-guides/dapp/liker-land/download.md)...etc to seamlessly purchase Writing NFTs from the same creator via desktop or mobile browser.
 
