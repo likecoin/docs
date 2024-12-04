@@ -15,7 +15,7 @@ Please note that once a Liker ID is confirmed, users cannot interchange between 
 | Must have knowledge on blockchain and cryptocurrency                                                                                               | Friendly user experiences                                                                                                                                                                                  |
 | User has to manage his/her own private key, it's safer                                                                                             | Manage the private key by Authcore secure and frictionless sign-in solution, easy to use. User may also [export seed words](../../../depub/register/export-seed-words.md) and manage their own private key |
 | Supports crypto currencies other than LikeCoin, such as ATOM, OSMO, AKT, CRO, KAVA, etc                                                            | Supports LikeCoin only                                                                                                                                                                                     |
-| Login with Keplr only                                                                                                                              | Login with [Social Accounts](social-media-logins.md) ( Google, Facebook, etc ) or email                                                                                                                    |
+| Login with Keplr only                                                                                                                              | Login with [Social Accounts](social-media-logins.md) ( Google, Apple ID ) or email                                                                                                                         |
 | Can only login with Chrome Keplr extension on desktop computer，**〔Cannot login the LikeCoin app〕**                                                 | Login with [LikeCoin app](../liker-land/download.md) or Liker Land mobile web                                                                                                                              |
 | Support hardware wallet                                                                                                                            | Do not support hardware wallet                                                                                                                                                                             |
 | Need to enter the full wallet address during transfer                                                                                              | Enter recipient's Liker ID or wallet address in [LIKE pay](../../wallet/like-pay.md)                                                                                                                       |
@@ -44,7 +44,7 @@ Install the Keplr wallet before registering your Liker ID. If you have already c
 
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption></figcaption></figure>
 
 A pop-up window appears, click Keplr to login to Liker Land.
 
