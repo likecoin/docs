@@ -22,6 +22,8 @@ description: LikeCoin 水龍頭
 [wallet-address.md](wallet/wallet-address.md)
 {% endcontent-ref %}
 
+***
+
 ## 於 LikeCoin Discord 獲取測試 LikeCoin
 
 ### 步驟一
