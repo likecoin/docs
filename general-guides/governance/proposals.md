@@ -6,10 +6,10 @@ description: LikeCoin DAO 有過什麼議案？
 
 ![歷史議案](../../.gitbook/assets/LikeCoin_AD59_Banner.png)
 
-## 議案 #85 將 LikeCoin 遷移至以太坊 OP 主網
+## 議案 #85 **指引式議案：**&#x5C07; LikeCoin 遷移至以太坊 OP 主網
 
 * **提案：**&#x63;kxpress
-* **類型**：指引式議案 ( Signaling Proposal )
+* **類型**：文本式議案 ( Text Proposal )
 * **日期**：2024.10.04 提案，2024.10.16 通過
 * **詳情**：[https://ping.pub/likecoin/gov/85](https://ping.pub/likecoin/gov/85)
 
