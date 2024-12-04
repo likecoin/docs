@@ -45,4 +45,4 @@ description: >-
 
 ## Meeting Minutes
 
-[Governance](https://blog.like.co/category/governance/)，[治理](https://blog.like.co/zh/category/%E6%B2%BB%E7%90%86/)
+[Community Call](https://blog.like.co/en/tag/community-call/)

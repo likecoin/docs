@@ -4,7 +4,14 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 # Proposals
 
-![Proposals](<../../.gitbook/assets/LikeCoin\_AD59\_Banner (1).png>)
+![Proposals](<../../.gitbook/assets/LikeCoin_AD59_Banner (1).png>)
+
+## Proposal #85 Signalling proposal: Migrate LikeCoin to Ethereum OP Mainnet
+
+* Proposer: ckxpress
+* Proposal Type: Text Proposal
+* Date: Submit on 2024.10.04, Passed on 2024.10.16
+* Details:[ ](https://www.mintscan.io/likecoin/proposals/62)[https://ping.pub/likecoin/gov/85](https://ping.pub/likecoin/gov/85)
 
 ## Proposal #81 LikeCoin v4.2.0 ChungKing++ Upgrade
 
