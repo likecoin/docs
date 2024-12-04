@@ -20,9 +20,13 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 [LikeCoin](https://like.co/) 社群會議於每月首個星期一東八時區 1830 線上舉行，主要使用英語。
 
+## 2025 日期及議程
+
+<table><thead><tr><th width="161">日期</th><th>描述</th></tr></thead><tbody><tr><td>星期一，1月6日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr></tbody></table>
+
 ## 2024 日期及議程
 
-<table><thead><tr><th width="172">日期</th><th>描述</th></tr></thead><tbody><tr><td>星期一，12月2日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>星期一，11月4日</td><td>Liker Land’s New Books and Tech Upgrades, Plan of LikeCoin’s Migration to Optimism</td></tr><tr><td>星期一，10月7日</td><td>Proposal 85: Migrating LikeCoin to Ethereum OP Mainnet and Explaining the Process</td></tr><tr><td>星期一，9月5日</td><td>Liker Land;s Unique Niche in Hong Kong Publisher Books, Book Sales Surge in August</td></tr><tr><td>星期一，8月5日</td><td>High-Profile Philosophy Book by Hong Kong Influencer Hits Liker Land and Busy July Recap</td></tr><tr><td>星期一，7月1日</td><td>Navigating the Future with LikeCoin 3.0 Green Paper</td></tr><tr><td>星期一，6月3日</td><td>Community Call to Action: Participate in LikeCoin’s Evolution</td></tr><tr><td>星期一，5月6日</td><td>Enhancements in Liker Land: Chain Upgrade, Revamped Homepage and NFT eBook Claim Flow</td></tr><tr><td>星期一，4月1日</td><td>New Physical Bookstore Partnerships, NFT eBooks Tipping Feature and Successful Offline Meetup</td></tr><tr><td>星期一，3月4日</td><td>ISCN Development Progress, Exciting Book Releases and Offline Events in Taipei</td></tr><tr><td>星期一，2月5日</td><td>Expanding Horizons: New Book Listings, Enhanced Functionalities, and Broadened Engagement of Liker Land BookStore</td></tr><tr><td>星期一，1月8日</td><td>Fresh off 2024, Reviews technical tasks and unveils new book titles</td></tr></tbody></table>
+<table><thead><tr><th width="172">日期</th><th>描述</th></tr></thead><tbody><tr><td>星期一，12月2日</td><td>Year-End Recap: December Monthly Call Highlights for LikeCoin 3.0</td></tr><tr><td>星期一，11月4日</td><td>Liker Land’s New Books and Tech Upgrades, Plan of LikeCoin’s Migration to Optimism</td></tr><tr><td>星期一，10月7日</td><td>Proposal 85: Migrating LikeCoin to Ethereum OP Mainnet and Explaining the Process</td></tr><tr><td>星期一，9月5日</td><td>Liker Land;s Unique Niche in Hong Kong Publisher Books, Book Sales Surge in August</td></tr><tr><td>星期一，8月5日</td><td>High-Profile Philosophy Book by Hong Kong Influencer Hits Liker Land and Busy July Recap</td></tr><tr><td>星期一，7月1日</td><td>Navigating the Future with LikeCoin 3.0 Green Paper</td></tr><tr><td>星期一，6月3日</td><td>Community Call to Action: Participate in LikeCoin’s Evolution</td></tr><tr><td>星期一，5月6日</td><td>Enhancements in Liker Land: Chain Upgrade, Revamped Homepage and NFT eBook Claim Flow</td></tr><tr><td>星期一，4月1日</td><td>New Physical Bookstore Partnerships, NFT eBooks Tipping Feature and Successful Offline Meetup</td></tr><tr><td>星期一，3月4日</td><td>ISCN Development Progress, Exciting Book Releases and Offline Events in Taipei</td></tr><tr><td>星期一，2月5日</td><td>Expanding Horizons: New Book Listings, Enhanced Functionalities, and Broadened Engagement of Liker Land BookStore</td></tr><tr><td>星期一，1月8日</td><td>Fresh off 2024, Reviews technical tasks and unveils new book titles</td></tr></tbody></table>
 
 ## 2023 日期及議程
 
@@ -32,8 +36,8 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 <table><thead><tr><th width="150">地區</th><th width="150">當地時間</th><th width="150">時區</th><th>UTC 偏移</th></tr></thead><tbody><tr><td>香港</td><td>18:30:00</td><td>UTC+8</td><td>UTC+8</td></tr><tr><td>台北</td><td>18:30:00</td><td>CST</td><td>UTC+8</td></tr><tr><td>洛杉磯</td><td>03:00:00</td><td>PDT</td><td>UTC-7</td></tr><tr><td>紐約</td><td>06:00:00</td><td>EDT</td><td>UTC-4</td></tr><tr><td>倫敦</td><td>11:00:00</td><td>BST</td><td>UTC+1</td></tr><tr><td>多倫多</td><td>06:00:00</td><td>EDT</td><td>UTC-4</td></tr></tbody></table>
 
-![LikeCoin 的創世驗證人](../../.gitbook/assets/LikeCoin\_AD70\_Validators-01.png)
+![LikeCoin 的創世驗證人](../../.gitbook/assets/LikeCoin_AD70_Validators-01.png)
 
 ## 會議記錄 <a href="#minutes" id="minutes"></a>
 
-[治理](https://blog.like.co/zh/category/%E6%B2%BB%E7%90%86/)、[Governance](https://blog.like.co/category/governance/)
+[Community Call](https://blog.like.co/en/tag/community-call/)

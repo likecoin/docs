@@ -8,7 +8,7 @@ description: LikeCoin 的場外交易渠道
 提示：進行任何大額交易前請先作少量嘗試
 {% endhint %}
 
-[LikeCoin](https://like.co/) 驗證人及一些機構亦有提供 LikeCoin 場外交易服務，他們與 LikeCoin 創始團隊並無合作關係，用戶必須自行衡量風險。
+[LikeCoin](https://like.co/) 驗證人及一些機構亦有提供 LikeCoin 場外交易服務，**他們與 LikeCoin 創始團隊並無合作關係，用戶必須自行衡量風險。**
 
 ## 碼農日常大小事
 
@@ -20,4 +20,4 @@ description: LikeCoin 的場外交易渠道
 
 ## 馬特市銀行
 
-[馬特市銀行](https://lotc.netlify.app/) 讓用戶兌換 HKD/LIKE、TWD/LIKE、CNY/LIKE，買賣雙方直接聯繫與交易，詳見 [馬特市銀行介紹](https://matters.news/\~lotc)。
+[馬特市銀行](https://lotc.netlify.app/) 讓用戶兌換 HKD/LIKE、TWD/LIKE、CNY/LIKE，買賣雙方直接聯繫與交易，詳見 [馬特市銀行介紹](https://matters.news/~lotc)。
