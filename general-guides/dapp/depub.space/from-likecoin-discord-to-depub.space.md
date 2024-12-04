@@ -34,7 +34,4 @@ The Transaction Completed page appears.
 
 Check out the post on depub.space to view the published content.
 
-\
-
-
 ![Check out the post on depub.space to view the published content](<../../../.gitbook/assets/discord depub.space 05.png>)

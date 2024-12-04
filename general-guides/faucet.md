@@ -22,6 +22,8 @@ Or refer to the following to get your LikeCoin wallet address:
 [wallet-address.md](wallet/wallet-address.md)
 {% endcontent-ref %}
 
+***
+
 ## Get LikeCoin for testing on the LikeCoin Discord
 
 ### Step 1
