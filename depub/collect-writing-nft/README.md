@@ -8,23 +8,23 @@ description: 如何收藏 Writing NFT
 
 ## 收藏 NFT 的方式
 
-## 信用卡
+### 信用卡
 
-### [以信用卡付款收藏 Writing NFT（從未註冊錢包）](./#credit-card)
+#### [以信用卡付款收藏 Writing NFT（從未註冊錢包）](./#credit-card)
 
 適用於從未註冊過任何區塊鏈錢包的用戶，手機與桌機均適用。
 
-### [已擁有錢包並以信用卡付款收藏 Writing NFT](./#yi-yong-you-qian-bao-bing-yi-xin-yong-ka-fu-kuan-shou-cang-writing-nft-shou-ji-yu-zhuo-ji-jun-shi-yo) <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
+#### [已擁有錢包並以信用卡付款收藏 Writing NFT](./#yi-yong-you-qian-bao-bing-yi-xin-yong-ka-fu-kuan-shou-cang-writing-nft-shou-ji-yu-zhuo-ji-jun-shi-yo) <a href="#credit-card-with-keplr" id="credit-card-with-keplr"></a>
 
 適用於已註冊錢包的用戶，可選擇使用[電郵或社交登入](../register/)、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../general-guides/dapp/liker-land/download.md)等任何一種方式透過桌機或手機瀏覽器以信用卡付款收藏 Writing NFT。
 
 ### LikeCoin
 
-### [以桌機用 LIKE 購買 Writing NFT](collect-writing-nft-on-desktop.md)
+#### [以桌機用 LIKE 購買 Writing NFT](collect-writing-nft-on-desktop.md)
 
 同戶可選擇使用[電郵或社交登入](../register/)、[Keplr](../../general-guides/wallet/keplr/)、[Cosmostation](../../general-guides/wallet/cosmostation/)、[Leap](../../general-guides/wallet/leap/how-to-install-leap-extension.md)、[Keplr mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../general-guides/dapp/liker-land/download.md)等任何一種方式以桌機用 LIKE 購買 Writing NFT
 
-### [以手機用 LIKE 購買 Writing NFT](collect-writing-nft-on-mobile.md)
+#### [以手機用 LIKE 購買 Writing NFT](collect-writing-nft-on-mobile.md)
 
 用戶也可以手機瀏覽器配合 [Keplr mobile](../../general-guides/wallet/keplr-mobile/)、[Cosmostation app](../../general-guides/wallet/cosmostation-mobile/) 或 [LikeCoin 手機應用程式](../../general-guides/dapp/liker-land/download.md)簽署用 LIKE 購買 Writing NFT。
 
