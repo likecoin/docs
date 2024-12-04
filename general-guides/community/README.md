@@ -4,36 +4,31 @@ description: 想與社群及更多用戶聯繫分享經驗，有渠道嗎？
 
 # 社群
 
-隨著 [Liker Land](https://liker.land/) 日漸壯大，社群發展亦相當蓬勃。
+[LikeCoin Discord](http://discord.gg/likecoin) 歡迎任何人參與，涵蓋創作、開發、治理、產品討論等各種話題，讓公眾與驗證人及各個持份者進行交流。
 
-[LikeCoin Discord](http://discord.gg/likecoin) 歡迎任何人參與，並設有中文及英文頻道，涵蓋創作、開發、治理、產品討論等各種話題，讓公眾與驗證人及各個持份者進行交流。
+## 如何加入 LikeCoin Discord
 
-## 教學影片
+**步驟一**： 註冊 Discord 帳號並於瀏覽器輸入 [https://discord.gg/likecoin](https://discord.gg/likecoin) 邀請連結或在 Discord app 參找 LikeCoin。於登入畫面點「接受邀請」。
 
-[如何註冊 Discord 及加入 LikeCoin Writing NFT 社群（廣東話）](https://www.youtube.com/watch?v=f5CF8C9lsoU)
+<figure><img src="../../.gitbook/assets/Discord 1.png" alt=""><figcaption><p>點「接受邀請」</p></figcaption></figure>
 
-## 步驟一：進行認證
+**步驟二**：看到「您必須先完成一些步驟才可能開始聯天」點「完成」。
 
-新用戶請先到 #👍｜verify 頻道按 ✅ 進行認證。
+<figure><img src="../../.gitbook/assets/Discord 2.png" alt=""><figcaption><p>點「完成」</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/discord 1.png" alt=""><figcaption><p>到 #👍｜verify 頻道按 ✅ 進行認證</p></figcaption></figure>
+**步驟三**：閱讀群組規則後點「我已詳閱並同意規則」再點「按受」。
 
-## 步驟二：選擇關注議題
+<figure><img src="../../.gitbook/assets/Discord 3.png" alt=""><figcaption><p>點「按受」</p></figcaption></figure>
 
-到 #🙋｜select-roles 頻道點 emoji 選擇關注的議題。
+**步驟四**：到 #👍｜verify 頻道按 ✅ 進行認證。
 
-<figure><img src="../../.gitbook/assets/discord 2.png" alt=""><figcaption><p>點 emoji 選擇關注的議題</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Discord 4.png" alt=""><figcaption><p>按 ✅ 進行認證</p></figcaption></figure>
 
-## 步驟三：查看中文頻道的方法
 
-點「中」 emoji 以獲取華語身分查看中文頻道。
-
-<figure><img src="../../.gitbook/assets/discord 3.png" alt=""><figcaption><p>點「中」 emoji 查看中文頻道</p></figcaption></figure>
 
 此外亦可在 LikeCoin Discord 使用以下功能：
 
 * [#Community Call](community-call.md)－參與每月社群治理會議
-* [#LikeCoin AMA](likecoin-ama.md) - 參與 LikeCoin 的線上聚會和作者聊天室
 * [#🎫｜open-a-ticket](open-a-ticket.md) - 使用 Discord 客服工具私訊管理員
 * [#🌊｜faucet-mainnet](../faucet.md) - 主網水龍頭
 * [#💧｜faucet-testnet](faucet-test.md)－獲取少量 LikeCoin 在 testnet 試用各種功能

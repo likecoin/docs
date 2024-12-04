@@ -78,7 +78,6 @@
 * [傳媒報導](general-guides/on-the-news.md)
 * [社群](general-guides/community/README.md)
   * [#Community Call](general-guides/community/community-call.md)
-  * [#LikeCoin AMA](general-guides/community/likecoin-ama.md)
   * [#open-a-ticket](general-guides/community/open-a-ticket.md)
   * [#faucet-testnet](general-guides/community/faucet-test.md)
   * [#translate-wallet-prefix](general-guides/community/translate-wallet-prefix.md)
@@ -206,7 +205,6 @@
 ## 存檔 <a href="#archive" id="archive"></a>
 
 * [過期內容存檔](archive/archive/README.md)
-  * [LikeCoin 進度更新](archive/archive/updates.md)
   * [Writing NFT](archive/archive/writing-nft/README.md)
     * [ISCN Wallet](archive/archive/writing-nft/iscn-wallet.md)
     * [使用 LikeCoin app 以文章網址出版 Writing NFT](archive/archive/writing-nft/likecoin-app.md)
@@ -247,6 +245,8 @@
     * [LikeCoin 通證](archive/archive/trade/likecoin-token.md)
   * [流動性](archive/archive/liquidity/README.md)
     * [Emeris](archive/archive/liquidity/emeris.md)
+  * [#LikeCoin AMA](archive/archive/likecoin-ama.md)
+  * [LikeCoin 進度更新](archive/archive/updates.md)
   * [LikeCoin 空投](archive/archive/airdrop.md)
   * [LikeCoin Grants 計畫](archive/archive/likecoin-grants.md)
   * [FoTan 升級常見問題](archive/archive/fotan.md)

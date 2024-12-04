@@ -90,6 +90,4 @@ description: 使用 Keplr mobile、Cosmostation app 以手機用 LIKE 購買 Wri
 
 {% hint style="warning" %}
 如在購買過程中遇到問題，請到右下角設定點「Wallet Connet」刪除現有連結並再次購買。
-
-<img src="broken-reference" alt="刪除現有 Wallet Connect 連結並再次購買" data-size="original">
 {% endhint %}
