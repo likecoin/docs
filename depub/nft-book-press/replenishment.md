@@ -14,7 +14,7 @@ Visit the Liker Land Bookstore and find the ebooks you want to replenish. Note d
 
 ## Step 2：Mint more ebooks <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "**Sign in**" in the bottom left corner to connect to your wallet, the click "[Mint NFT](https://likecoin.github.io/nft-book-press/mint-nft)".
+Go to the Liker Land Book Press website, click "**Sign in**" in the bottom left corner to connect to your wallet, the click "[Print New Books](https://publish.liker.land/mint-nft)".
 
 In the "Enter ISCN ID or NFT Class ID" field, input the **NFT Class ID**. Afterward, click "Submit".
 
@@ -32,9 +32,9 @@ Enter the number of NFTs to mint in the "Number of NFT to mint" field. After fil
 
 ## Step 4: Select the Edition to replenish <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-Click [Manage NFT Books](https://likecoin.github.io/nft-book-press/nft-book-store) to displays the ebooks that are currently listed. Select the one that needs replenishing and manage it.
+Click "[Manage Book](https://publish.liker.land/nft-book-store)" to displays the ebooks that are currently listed. Select the one that needs replenishing and manage it.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Current Listing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage NFT Books 1.png" alt=""><figcaption><p>Current Listing</p></figcaption></figure>
 
 Click on the version that needs replenishing. If you need to create a new edition, click “New Edition".
 
