@@ -1,5 +1,5 @@
 ---
-description: 使用 NFT Book Press 將電子書出版為 NFT
+description: 使用 Liker Land Book Press 將電子書出版為 NFT
 ---
 
 # 出版電子書
@@ -22,7 +22,7 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 4. [管理電子書](nft-book-store.md)
 5. [設定電子書套裝](collection.md)
-6. [NFT Book Press 用戶設定](user/)
+6. [Liker Land Book Press 用戶設定](user/)
 7. [設定推廣連結](tui-guang-lian-jie.md)
 8. [補書上架](replenishment.md)
 9. [修改已出版的電子書資料](modify.md)
@@ -114,13 +114,13 @@ description: 使用 NFT Book Press 將電子書出版為 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption><p>點「Mint Book」</p></figcaption></figure>
 
-系統會自動跳轉到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站的 Mint LikeCoin NFT/NFT Book 頁面，並於 Enter ISCN ID or NFT Class ID 一欄預先輸入ISCN ID。點左下角「**Sign In**」登入網站後再點「**Submit**」。
+系統會自動跳轉到 [Liker Land Book Press](https://publish.liker.land/) 網站的 Mint Liker Land NFT Book 頁面，並於 Enter ISCN ID or NFT Class ID 一欄預先輸入 ISCN ID。點左下角「**Sign In**」登入網站後再點「**Submit**」。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>在 Enter ISCN ID or NFT Class ID 一欄輸入 ISCN ID</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 17 (1).png" alt=""><figcaption><p>在 Enter ISCN ID or NFT Class ID 一欄輸入 ISCN ID</p></figcaption></figure>
 
-又或者直接到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站按左下角「**Sign In**」登入，再點「[Mint NFT](https://likecoin.github.io/nft-book-press/mint-nft)」，進入網站後並於 Enter ISCN ID or NFT Class ID 一欄手動輸入早前註冊的 ISCN ID 再點「**Submit**」。
+又或者直接到 [Liker Land Book Press](https://publish.liker.land/) 網站按左下角「**Sign In**」登入，再點「[Print New Books](https://publish.liker.land/mint-nft)」，進入網站後並於 Enter ISCN ID or NFT Class ID 一欄手動輸入早前註冊的 ISCN ID 再點「**Submit**」。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Mint NFT」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Print New Books」</p></figcaption></figure>
 
 {% hint style="info" %}
 假如你忘記了你的 ISCN ID，可以隨時到 app.like.co 的 [My Works](https://app.like.co/works) 找回它。
