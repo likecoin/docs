@@ -120,7 +120,7 @@ description: 使用 Liker Land Book Press 將電子書出版為 NFT
 
 又或者直接到 [Liker Land Book Press](https://publish.liker.land/) 網站按左下角「**Sign In**」登入，再點「[Print New Books](https://publish.liker.land/mint-nft)」，進入網站後並於 Enter ISCN ID or NFT Class ID 一欄手動輸入早前註冊的 ISCN ID 再點「**Submit**」。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 LikeCoin NFT BookPress 網站，點「Print New Books」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 Liker Land Book Press 網站，點「Print New Books」</p></figcaption></figure>
 
 {% hint style="info" %}
 假如你忘記了你的 ISCN ID，可以隨時到 app.like.co 的 [My Works](https://app.like.co/works) 找回它。
@@ -146,7 +146,7 @@ description: 使用 Liker Land Book Press 將電子書出版為 NFT
 
 ### 步驟二：上架 <a href="#publish-nft-book" id="publish-nft-book"></a>
 
-回到 LikeCoin NFT BookPress，點「**Continue to publish NFT Book**」後出現 [NFT Book Store Management Page](https://likecoin.github.io/nft-book-press/nft-book-store) 頁面。
+回到 Liker Land Book Press，點「**Continue to publish NFT Book**」後出現 [NFT Book Store Management Page](https://likecoin.github.io/nft-book-press/nft-book-store) 頁面。
 
 {% hint style="info" %}
 假如你不小心關掉了之前的頁面，你可以在[步驟一](./#mint-nft-book) Enter ISCN ID or NFT Class ID 一欄輸入你的 NFT Class ID 即可看到「Continue to publish NFT Book」。Class ID 是你的電子書網址後面的一串。舉例你的 NFT 網址是 https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x ，NFT Class ID 就是 likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x 。
