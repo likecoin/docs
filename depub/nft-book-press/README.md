@@ -20,10 +20,10 @@ description: 使用 Liker Land Book Press 將電子書出版為 NFT
 
 並可進行其他後續操作：
 
-4. [管理電子書](nft-book-store.md)
+4. [管理電子書](book-store.md)
 5. [設定電子書套裝](collection.md)
 6. [Liker Land Book Press 用戶設定](user/)
-7. [設定推廣連結](tui-guang-lian-jie.md)
+7. [設定購買連結](purchase-link.md)
 8. [補書上架](replenishment.md)
 9. [修改已出版的電子書資料](modify.md)
 10. [銷毁已出版的電子書](burn.md)

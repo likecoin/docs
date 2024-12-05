@@ -1,8 +1,8 @@
 # Stripe Connect Status
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按左下角「Sign in」連結錢包，再點「[User Setting](https://likecoin.github.io/nft-book-press/nft-book-store/user)」。
+到 [Liker Land Book Press](https://publish.liker.land/) 網站，進入網站後按左下角「Sign in」連結錢包，再點「[User Setting](https://publish.liker.land/nft-book-store/user)」。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>User Setting</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Manage Stripe Account 1.png" alt=""><figcaption><p>User Setting</p></figcaption></figure>
 
 ### Stripe Connect Status
 
