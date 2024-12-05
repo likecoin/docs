@@ -146,7 +146,7 @@ description: 使用 Liker Land Book Press 將電子書出版為 NFT
 
 ### 步驟二：上架 <a href="#publish-nft-book" id="publish-nft-book"></a>
 
-回到 Liker Land Book Press，點「**Continue to publish NFT Book**」後出現 [NFT Book Store Management Page](https://likecoin.github.io/nft-book-press/nft-book-store) 頁面。
+回到 Liker Land Book Press，點「**Continue to publish NFT Book**」後出現 NFT Bookstore Management Page 頁面。
 
 {% hint style="info" %}
 假如你不小心關掉了之前的頁面，你可以在[步驟一](./#mint-nft-book) Enter ISCN ID or NFT Class ID 一欄輸入你的 NFT Class ID 即可看到「Continue to publish NFT Book」。Class ID 是你的電子書網址後面的一串。舉例你的 NFT 網址是 https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x ，NFT Class ID 就是 likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x 。
