@@ -1,6 +1,6 @@
 # Stripe Connect Status
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[User Setting](https://likecoin.github.io/nft-book-press/nft-book-store/user)".
+Go to the [Liker Land Book Press](https://publish.liker.land/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[User Setting](https://publish.liker.land/nft-book-store/user)".
 
 <figure><img src="../../../.gitbook/assets/Manage Stripe Account 1.png" alt=""><figcaption><p>User Setting</p></figcaption></figure>
 
