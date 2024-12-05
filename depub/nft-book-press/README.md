@@ -1,5 +1,5 @@
 ---
-description: Publish eook with LikeCoin NFT Book Press
+description: Publish eook with LikeCoin Liker Land Book Press
 ---
 
 # Publish ebook
@@ -22,7 +22,7 @@ and other follow up actions:
 
 4. [Manage NFT books](nft-book-store.md)
 5. [Manage Book Collection](collection.md)
-6. [NFT Book Press User Setting](user/)
+6. [Liker Land Book Press User Setting](user/)
 7. [Affiliation Link Setting](affiliation-link.md)
 8. [ebooks Replenishment](replenishment.md)
 9. [Modify ebook](modify.md)
@@ -114,15 +114,13 @@ Click "**Mint Book"** at the top right corner of the ISCN record.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption><p>Click "Mint Book"</p></figcaption></figure>
 
-The system will automatically redirect to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website Mint LikeCoin NFT/NFT Book page, and the ISCN ID will be pre-entered in the "Enter ISCN ID or NFT Class ID" field. After clicking "**Sign In**" at the bottom left corner to log in to the website, click "**Submit"**.
+The system will automatically redirect to the [Liker Land Book Press](https://publish.liker.land/) website Mint Liker Land NFT Book page, and the ISCN ID will be pre-entered in the "Enter ISCN ID or NFT Class ID" field. After clicking "**Sign In**" at the bottom left corner to log in to the website, click "**Submit"**.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>In the "Enter ISCN ID or NFT Class ID" field, enter the ISCN ID</p></figcaption></figure>
 
-Alternatively, go directly to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website and click "[Mint NFT](https://likecoin.github.io/nft-book-press/mint-nft)". Click "**Sign In**" at the bottom left corner to log in. Manually enter the previously registered ISCN ID in the "Enter ISCN ID or NFT Class ID" field and then click "**Submit**".
+Alternatively, go directly to the [Liker Land Book Press](https://publish.liker.land/) website and click "[Print New Book](https://publish.liker.land/mint-nft/)". Click "**Sign In**" at the bottom left corner to log in. Manually enter the previously registered ISCN ID in the "Enter ISCN ID or NFT Class ID" field and then click "**Submit**".
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>Visit the LikeCoin NFT BookPress website, click "Mint NFT"</p></figcaption></figure>
-
-In the "Enter ISCN ID or NFT Class ID" field, input the ISCN ID previously registered on app.like.co, and please note that there is no need to include the ISCN version number. Afterward, click "**Submit**".
+<figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>Visit the Liker Land BookPress website, click "Print new Books"</p></figcaption></figure>
 
 {% hint style="info" %}
 If you forget your ISCN ID, you can retrieve it in "[My Works](https://app.like.co/works)" at app.like.co.&#x20;
