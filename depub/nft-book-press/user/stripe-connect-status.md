@@ -1,3 +1,7 @@
+---
+description: Stripe 設定
+---
+
 # Stripe Connect Status
 
 到 [Liker Land Book Press](https://publish.liker.land/) 網站，進入網站後按左下角「Sign in」連結錢包，再點「[User Setting](https://publish.liker.land/nft-book-store/user)」。

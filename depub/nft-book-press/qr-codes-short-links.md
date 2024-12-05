@@ -6,7 +6,7 @@ description: 幫助推廣的好工具
 
 ### Batch Create QR Codes
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站左下角點 [Batch Create QR Codes](https://likecoin.github.io/nft-book-press/batch-qrcode)。
+到 [Liker Land Book Press](https://publish.liker.land/) 網站左下角點 [Batch Create QR Codes](https://publish.liker.land/batch-qrcode/)。
 
 **步驟一**：可選擇 **Upload CSV file** 上載 CSV 檔案或直接在 **Input CSV content** 中輸入內容，格式為：
 
@@ -36,7 +36,7 @@ description: 幫助推廣的好工具
 
 ### Batch Create Short Links
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站左下角點 [Batch Create Short Links](https://likecoin.github.io/nft-book-press/batch-short-links)。
+到 [Liker Land Book Press](https://publish.liker.land/) 網站左下角點 [Batch Create Short Links](https://publish.liker.land/batch-short-links)。
 
 * 在 **Short Link Provider** 可選擇 Bitly 或 Short.io 作為短網址的供應商
 * 在 **Bitly Access Token** 填入你的 Token 在 Title Prefix 填寫用作前綴的內容

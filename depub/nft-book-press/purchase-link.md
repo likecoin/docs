@@ -23,4 +23,4 @@ description: 產生購買連結以作促銷
 
 完成後點「**Generate**」並成功產生購買連結。
 
-<figure><img src="../../.gitbook/assets/Affiliation Link 3.png" alt=""><figcaption><p>產生推廣連結</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Affiliation Link 3.png" alt=""><figcaption><p>產生購廣連結</p></figcaption></figure>
