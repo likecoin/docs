@@ -4,7 +4,7 @@ description: 加入及更改用戶設定，參與推廣聯盟計劃
 
 # 用戶設定
 
-到 [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) 網站，進入網站後按左下角「Sign in」連結錢包，再點「[User Setting](https://likecoin.github.io/nft-book-press/nft-book-store/user)」。
+到 [Liker Land Book Press](https://publish.liker.land/) 網站，進入網站後按左下角「Sign in」連結錢包，再點「[User Setting](https://publish.liker.land/nft-book-store/user)」。
 
 仍未設定 Stripe 帳戶將顯示「No」。建議逐一完成 Book Affiliation Program 及 Stripe Connect 設定以參與推廣聯盟計劃及收取售書貨款。
 

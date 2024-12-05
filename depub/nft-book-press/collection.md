@@ -6,11 +6,11 @@ description: 設定電子書套裝銷售
 
 電子書套裝結合多本電子書成為套裝銷售，適合系列叢書或各種促銷之用。
 
-到 [Liker Land Book Press](https://publish.liker.land/) 網站，進入網站後左左下角「Sign in」連結錢包，再點「Manage Collection」，
+到 [Liker Land Book Press](https://publish.liker.land/) 網站，進入網站後左左下角「Sign in」連結錢包，再點「[Manage Collection](https://publish.liker.land/nft-book-store/collection)」，
 
 ### NFT Book Collections
 
-點右上角「[New Collection](https://likecoin.github.io/nft-book-press/nft-book-store/collection/new)」設定新的電子書套裝。
+點右上角「[New Collection](https://publish.liker.land/nft-book-store/collection/new)」設定新的電子書套裝。
 
 <figure><img src="../../.gitbook/assets/Manage Book Collection 1.png" alt=""><figcaption><p>NFT Book Collections</p></figcaption></figure>
 
