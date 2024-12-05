@@ -4,7 +4,7 @@ description: Allow others to send NFTs on your behalf
 
 # NFT Authz Grants
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[NFT Authz Grants](https://likecoin.github.io/nft-book-press/authz)".
+Go to the [Liker Land Book Press](https://publish.liker.land/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[NFT Authz Grants](https://publish.liker.land/authz)".
 
 ### Send NFT Authz Grants Management Page <a href="#send-nft-authz-grants-management-page" id="send-nft-authz-grants-management-page"></a>
 

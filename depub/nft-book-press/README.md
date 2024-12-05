@@ -23,7 +23,7 @@ and other follow up actions:
 4. [Manage Book](book-store.md)
 5. [Manage Book Collection](collection.md)
 6. [Liker Land Book Press User Setting](user/)
-7. [Affiliation Link Setting](purchase-link.md)
+7. [Purchase Link Setting](purchase-link.md)
 8. [ebooks Replenishment](replenishment.md)
 9. [Modify ebook](modify.md)
 10. [Burn ebook](burn.md)

@@ -6,7 +6,7 @@ description: A great tool for promotion
 
 ### Batch Create QR Codes <a href="#batch-create-qr-codes" id="batch-create-qr-codes"></a>
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, in the bottom left corner click "[Batch Create QR Codes](https://likecoin.github.io/nft-book-press/batch-qrcode/)".
+Go to the [Liker Land Book Press](https://publish.liker.land/) website, in the bottom left corner click "[Batch Create QR Codes](https://publish.liker.land/batch-qrcode/)".
 
 **Step 1**: You can choose to **Upload CSV file** or directly input the content in the **Input CSV content** section. The format should be as follows:
 
@@ -32,7 +32,7 @@ Example:
 
 ### Batch Create Short Links <a href="#batch-create-short-links" id="batch-create-short-links"></a>
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[Batch Create Short Links](https://likecoin.github.io/nft-book-press/batch-short-links)".
+Go to the [Liker Land Book Press](https://publish.liker.land/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[Batch Create Short Links](https://publish.liker.land/batch-short-links)".
 
 * In the **Short Link Provider** section, you can choose either Bitly or Short.io as your short URL provider.
 * In the **Bitly Access Token field**, enter your token. In the Title Prefix field, enter the content to be used as a prefix.
