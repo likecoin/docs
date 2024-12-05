@@ -6,7 +6,7 @@ description: Managing Published ebooks
 
 After the book is published, if you would like to understand the sales overview or make more settings, you can use the Manage NFT Books. In addition to the settings for listing ebooks, it also provides various additional management functions.
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "**Sign in**" in the bottom left corner to connect to your wallet, then click "[Manage NFT Books](https://likecoin.github.io/nft-book-press/nft-book-store)".
+Go to the [Liker Land Book Press](https://publish.liker.land/) website, click "**Sign in**" in the bottom left corner to connect to your wallet, then click "[Manage Books](https://publish.liker.land/nft-book-store)".
 
 ### NFT Book Listing <a href="#nft-book-listing-current-listing" id="nft-book-listing-current-listing"></a>
 

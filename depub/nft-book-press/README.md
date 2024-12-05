@@ -20,7 +20,7 @@ Publishing an ebook on the blockchain involves the following processes:
 
 and other follow up actions:
 
-4. [Manage NFT books](nft-book-store.md)
+4. [Manage Book](nft-book-store.md)
 5. [Manage Book Collection](collection.md)
 6. [Liker Land Book Press User Setting](user/)
 7. [Affiliation Link Setting](affiliation-link.md)
@@ -146,7 +146,7 @@ Since it is not yet available for sale, you will see the words "Sold Out" on Lik
 
 ### Step 2: Book Listing
 
-Return to LikeCoin NFT BookPress, click "**Continue to publish NFT Book**", and the [NFT Book Store Management Page](https://likecoin.github.io/nft-book-press/nft-book-store) will appear.
+Return to Liker Land BookPress, click "**Continue to publish NFT Book**", and the NFT Bookstore Management Page will appear.
 
 {% hint style="info" %}
 If you accidentally closed the page, you can enter your NFT Class ID in [Step 1](./#register-iscn) "Enter ISCN ID or NFT Class ID", and you will see "Continue to publish NFT Book". The Class ID is the string after the URL of your ebook. For example, your NFT URL is  https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x, and the NFT Class ID is likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mf z0yz57gffwsrgrasl2m59x.
