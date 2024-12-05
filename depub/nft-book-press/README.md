@@ -20,10 +20,10 @@ Publishing an ebook on the blockchain involves the following processes:
 
 and other follow up actions:
 
-4. [Manage Book](nft-book-store.md)
+4. [Manage Book](book-store.md)
 5. [Manage Book Collection](collection.md)
 6. [Liker Land Book Press User Setting](user/)
-7. [Affiliation Link Setting](affiliation-link.md)
+7. [Affiliation Link Setting](purchase-link.md)
 8. [ebooks Replenishment](replenishment.md)
 9. [Modify ebook](modify.md)
 10. [Burn ebook](burn.md)

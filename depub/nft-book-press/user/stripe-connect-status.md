@@ -1,3 +1,7 @@
+---
+description: Stripe Setting
+---
+
 # Stripe Connect Status
 
 Go to the [Liker Land Book Press](https://publish.liker.land/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[User Setting](https://publish.liker.land/nft-book-store/user)".

@@ -7,7 +7,7 @@ description: Transfer NFT is easy!
 {% hint style="info" %}
 Transfer NFT requires [LikeCoin](https://about.like.co/).
 
-If the author wishes to gift an e-book, they can refer to the [Gift Books section in Manage ebooks](../nft-book-press/nft-book-store.md).\
+If the author wishes to gift an e-book, they can refer to the [Gift Books section in Manage ebooks](../nft-book-press/book-store.md).\
 If readers wish to gift an e-book, they can refer to [Gift an ebook](../ebook/gift.md).
 {% endhint %}
 
