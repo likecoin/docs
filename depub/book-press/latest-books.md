@@ -8,7 +8,7 @@ description: 直接複製新書推廣連結
 
 ### Latest Books on Liker Land Bookstore
 
-如未進行用戶設定，系統會顯示「Join Our Affiliation Program! Setup your Liker ID and Stripe Connect Account to participate in sales affiliation program on Liker Land Bookstore.」，請至用戶設定完成推廣聯盟計劃設定。
+如未進行用戶設定，系統會顯示「Join Our Affiliation Program! Setup your Liker ID and Stripe Connect Account to participate in sales affiliation program on Liker Land Bookstore.」，請至[用戶設定](user/)完成推廣聯盟計劃設定。
 
 <figure><img src="../../.gitbook/assets/Latest Books 1.png" alt=""><figcaption><p>Latest Books</p></figcaption></figure>
 
