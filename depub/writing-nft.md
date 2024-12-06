@@ -16,7 +16,7 @@ Technically, Writing NFTs cover all types of text-based NFTs, including Article 
 
 There are several ways to collect a ebooks or Article NFT:
 
-1. Check out the Liker Land NFT Bookstore, where [ebooks](https://liker.land/en/store) and [Article NFTs](https://liker.land/en/store/articles) are available.
+1. Check out the Liker Land Book Store, where [ebooks](https://liker.land/en/store) and [Article NFTs](https://liker.land/en/store/articles) are available.
 2. Visit the [Bookshelf](liker-land/bookshelf.md) page of the author or collector and purchase the NFT there.
 3. Look for an [NFT Widget](collect-writing-nft/nft-widget.md) that is embedded in the content you're interested in.
 
@@ -46,7 +46,7 @@ Set the selling price of NFT in the [NFT Marketplace](collect-writing-nft/nft-ma
 
 ### How to list ebooks for sale?
 
-Use [LikeCoin NFT Book Press](nft-book-press/) to publish ebooks.
+Use [Liker Land Book Press](nft-book-press/) to publish ebooks.
 
 ### How to list Article NFT for sale?
 

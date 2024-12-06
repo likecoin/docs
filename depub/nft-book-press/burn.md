@@ -20,9 +20,9 @@ Enter the trash can address in the address column, and input the NFT Class ID of
 
 <figure><img src="../../.gitbook/assets/Burn NFT Book 1.png" alt=""><figcaption><p>CSV file sample</p></figcaption></figure>
 
-## Step 2: Use LikeCoin NFT BookPress to batch NFT to the trash can address
+## Step 2: Use Liker Land BookPress to batch NFT to the trash can address
 
-Visit the [LikeCoin NFT BookPress](https://likecoin.github.io/nft-book-press/) website and click on "[LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/)".
+Visit the [Liker Land BookPress](https://publish.liker.land/) website and click on "[LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/)".
 
 <figure><img src="../../.gitbook/assets/Burn NFT Book 2.png" alt=""><figcaption><p>Click "LikeCoin ISCN/NFT Tools"</p></figcaption></figure>
 
