@@ -12,6 +12,7 @@
   * [Manage Book Collection](depub/book-press/collection.md)
   * [User Setting](depub/book-press/user/README.md)
     * [Stripe Connect Status](depub/book-press/user/stripe-connect-status.md)
+  * [Latest Books](depub/book-press/latest-books.md)
   * [Purchase Link](depub/book-press/purchase-link.md)
   * [Bulk create QR codes and Short URLs](depub/book-press/qr-codes-short-links.md)
   * [NFT Authz Grants](depub/book-press/authz.md)
