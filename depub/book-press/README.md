@@ -5,7 +5,7 @@ description: Publish eook with LikeCoin Liker Land Book Press
 # Publish ebook
 
 {% hint style="info" %}
-Before publishing, you can refer to the [FAQ: Listing Liker Land ebooks](faq.md)
+Before publishing, you can refer to the [FAQ: Listing Liker Land ebooks](../nft-book-press/faq.md)
 {% endhint %}
 
 {% hint style="info" %}

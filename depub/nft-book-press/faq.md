@@ -46,7 +46,7 @@ Royalty = 100 × 35% + (100 × 4.4% + 0.3) = $39.7 per book
 
 ## Distribution Agent Off-Shelf
 
-If you need to take your book off the shelves for any reason, please notify us by email at [publish@liker.land](mailto:publish@liker.land). We reserve the right to terminate users' access to the service or remove content. If you believe your content has been copied in a way that infringes copyright or trademark rights, or violates your public or other intellectual property rights, please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSfdFQH3TqY8US2TEkaJCMj4b5xgZamdvEC1YVwKadUX\_qORaA/viewform) to notify us (see the terms related to [DMCA](https://likecoin.notion.site/liker-land-Terms-of-Service-dfcc13cf114e4fbc809c25559ce1d0e8) for details).
+If you need to take your book off the shelves for any reason, please notify us by email at [publish@liker.land](mailto:publish@liker.land). We reserve the right to terminate users' access to the service or remove content. If you believe your content has been copied in a way that infringes copyright or trademark rights, or violates your public or other intellectual property rights, please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSfdFQH3TqY8US2TEkaJCMj4b5xgZamdvEC1YVwKadUX_qORaA/viewform) to notify us (see the terms related to [DMCA](https://likecoin.notion.site/liker-land-Terms-of-Service-dfcc13cf114e4fbc809c25559ce1d0e8) for details).
 
 ***
 
@@ -60,7 +60,7 @@ Please visit the [Stripe Receive payouts page](https://docs.stripe.com/payouts) 
 
 ***
 
-## About Listing ([Detailed Tutorial](./))
+## About Listing ([Detailed Tutorial](../book-press/))
 
 ### Do you provide EPUB file creation services?
 

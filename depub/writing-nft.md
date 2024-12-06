@@ -46,7 +46,7 @@ Set the selling price of NFT in the [NFT Marketplace](collect-writing-nft/nft-ma
 
 ### How to list ebooks for sale?
 
-Use [Liker Land Book Press](nft-book-press/) to publish ebooks.
+Use [Liker Land Book Press](book-press/) to publish ebooks.
 
 ### How to list Article NFT for sale?
 
