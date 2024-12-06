@@ -20,9 +20,9 @@ description: 刪除已發行的電子書
 
 <figure><img src="../../.gitbook/assets/Burn NFT Book 1.png" alt=""><figcaption><p>CSV 檔案範例</p></figcaption></figure>
 
-## 步驟二：使用 LikeCoin NFT BookPress 群發 NFT 到垃圾桶地址
+## 步驟二：使用 Liker Land Book Press 群發 NFT 到垃圾桶地址
 
-到 [LikeCoin NFT BookPress](https://likecoin.github.io/nft-book-press/) 網站點「[LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/)」。
+到 [Liker Land Book Press](https://publish.liker.land/) 網站點「[LikeCoin ISCN/NFT Tools](https://likecoin.github.io/iscn-nft-tools/)」。
 
 <figure><img src="../../.gitbook/assets/Burn NFT Book 2.png" alt=""><figcaption><p>點「LikeCoin ISCN/NFT Tools」</p></figcaption></figure>
 
