@@ -46,7 +46,7 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 ### 如何發售電子書？
 
-使用 [Liker Land Book Press](nft-book-press/) 可出版電子書。
+使用 [Liker Land Book Press](book-press/) 可出版電子書。
 
 ### 如何發售文章 NFT？
 

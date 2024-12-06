@@ -7,7 +7,7 @@ description: 簡單發送沒難度
 {% hint style="info" %}
 發迭 NFT 需要使用 [LikeCoin](https://like.co/)
 
-作者如需送贈電子書，可參考[管理電子書中 Gift Books](../nft-book-press/book-store.md#gift-books) 的章節。\
+作者如需送贈電子書，可參考[管理電子書中 Gift Books](../book-press/book-store.md#gift-books) 的章節。\
 讀者如需送贈電子書，可參考[送贈電子書](../ebook/gift.md)的章節。
 {% endhint %}
 

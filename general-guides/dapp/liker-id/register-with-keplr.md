@@ -22,7 +22,7 @@ description: 以 Keplr 去中化註冊  Liker ID 及管理你的 LikeCoin
 | 以 [dao.like.co 委託 LikeCoin](../../stake/delegation-of-likecoin/#delegate-via-dao.like.co)                                 | 以 [LikeCoin app 或 dao.like.co 委託 LikeCoin](../../stake/delegation-of-likecoin/)                                           |
 | 以 [dao.like.co](https://dao.like.co/) 存入議案[保證金](../../governance/proposal-deposit.md)或[投票](../../governance/direct-vote/) | 以 [dao.like.co](https://dao.like.co/) 存入議案[保證金](../../governance/proposal-deposit.md)或[投票](../../governance/direct-vote/) |
 | 逐筆查看交易紀錄                                                                                                                  | 在 LikeCoin app 以視覺化方式查看每篇文章所獲[讚賞成就](../creatortools/rewards.md)                                                           |
-| 支援去中心出版，[購買 NFT 電子書](../../../depub/ebook/)及 [Writing NFT](../../../depub/collect-writing-nft/)                           | 支援去中心出版、[購買 NFT 電子書](../../../depub/nft-book-press/)及 [Writing NFT](../../../depub/collect-writing-nft/)                  |
+| 支援去中心出版，[購買 NFT 電子書](../../../depub/ebook/)及 [Writing NFT](../../../depub/collect-writing-nft/)                           | 支援去中心出版、[購買 NFT 電子書](../../../depub/book-press/)及 [Writing NFT](../../../depub/collect-writing-nft/)                      |
 
 {% hint style="info" %}
 用戶現時可使用 [Cosmostation](../../wallet/cosmostation/) 或 [Leap](../../wallet/leap/) 管理 LikeCoin，但仍未能使用他們註冊 Liker ID。

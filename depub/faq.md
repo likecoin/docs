@@ -42,7 +42,7 @@ Liker Land 只負責將您的作品代理經銷至我們的平台，電子書的
 
 ## 代理經銷下架方式
 
-如果您因故須將書籍下架，煩請來信通知 [publish@liker.land](mailto:publish@liker.land) 。我們保留終止用戶對服務的訪問權，或者下架的權利。如果您認為您的內容被以侵犯版權或商標權的方式複製，或違反了您的公開或其他知識產權權利，請填寫[表格](https://docs.google.com/forms/d/e/1FAIpQLSfdFQH3TqY8US2TEkaJCMj4b5xgZamdvEC1YVwKadUX\_qORaA/viewform)通知我們 （詳見[ DMCA](https://likecoin.notion.site/liker-land-Terms-of-Service-dfcc13cf114e4fbc809c25559ce1d0e8) 相關的使用條款。）
+如果您因故須將書籍下架，煩請來信通知 [publish@liker.land](mailto:publish@liker.land) 。我們保留終止用戶對服務的訪問權，或者下架的權利。如果您認為您的內容被以侵犯版權或商標權的方式複製，或違反了您的公開或其他知識產權權利，請填寫[表格](https://docs.google.com/forms/d/e/1FAIpQLSfdFQH3TqY8US2TEkaJCMj4b5xgZamdvEC1YVwKadUX_qORaA/viewform)通知我們 （詳見[ DMCA](https://likecoin.notion.site/liker-land-Terms-of-Service-dfcc13cf114e4fbc809c25559ce1d0e8) 相關的使用條款。）
 
 ***
 
@@ -56,7 +56,7 @@ Liker Land 只負責將您的作品代理經銷至我們的平台，電子書的
 
 ***
 
-## 關於上架 （[詳細教學](nft-book-press/)）
+## 關於上架 （[詳細教學](book-press/)）
 
 ### 是否提供製作 EPUB 檔服務？
 
