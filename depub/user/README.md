@@ -50,7 +50,7 @@ description: 個人如何透過 Liker Land 售賣電子書？
 [stripe-connect-payout-account-status.md](stripe-connect-payout-account-status.md)
 {% endcontent-ref %}
 
-## 步驟五：
+## 步驟五：完成設定並開始使用推廣連結
 
 完成設定後出現「Append ?from=@`[你的 Liker ID]` in any bookstore page to earn commission from book sales」字樣，並請請確認圖示的三個地方有成功設定。
 
