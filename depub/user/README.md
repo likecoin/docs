@@ -2,9 +2,11 @@
 description: 個人如何透過 Liker Land 售賣電子書？
 ---
 
-# Liker Land x 通路 Affiliation Program
+# Liker Land Affiliation Program
 
 一面推坑心儀作品一面賺取收入？從今開始你也可以在推廣電子書佔一席重要位置。
+
+<figure><img src="../../.gitbook/assets/Affiliation Program 0.png" alt=""><figcaption><p>Affiliation Program 介紹</p></figcaption></figure>
 
 * Liker Land 無償提供電子書，個人負責販賣，作為銷售渠道，可獲得分潤，成功出售書籍後得到 30% 收入。假設售價為 $100，進貨 $0，利潤則為 $30。
 * 個人可自行選書販賣，取得收入。

@@ -6,7 +6,7 @@
 ## 📕 去中心出版 <a href="#depub" id="depub"></a>
 
 * [去中心出版](depub/decentralized-publishing.md)
-* [Liker Land x 通路 Affiliation Program](depub/user/README.md)
+* [Liker Land Affiliation Program](depub/user/README.md)
   * [Stripe Connect Payout Account Status](depub/user/stripe-connect-payout-account-status.md)
 * [上架電子書的常見問題](depub/faq.md)
 * [出版電子書](depub/book-press/README.md)
