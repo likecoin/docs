@@ -6,13 +6,12 @@
 ## 📕 去中心出版 <a href="#depub" id="depub"></a>
 
 * [去中心出版](depub/decentralized-publishing.md)
+* [Liker Land x 通路 Affiliation Program](depub/user/README.md)
+  * [Stripe Connect Payout Account Status](depub/user/stripe-connect-payout-account-status.md)
 * [上架電子書的常見問題](depub/faq.md)
 * [出版電子書](depub/book-press/README.md)
   * [管理電子書](depub/book-press/book-store.md)
   * [設定電子書套裝](depub/book-press/collection.md)
-  * [用戶設定](depub/book-press/user/README.md)
-    * [Stripe Connect Status](depub/book-press/user/stripe-connect-status.md)
-  * [新書上架](depub/book-press/latest-books.md)
   * [購買連結](depub/book-press/purchase-link.md)
   * [批量製作 QR Code 與短網址](depub/book-press/qr-codes-short-links.md)
   * [管理 Authz 授權](depub/book-press/authz.md)
