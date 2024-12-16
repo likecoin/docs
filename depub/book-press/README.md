@@ -22,8 +22,8 @@ and other follow up actions:
 
 4. [Manage Book](book-store.md)
 5. [Manage Book Collection](collection.md)
-6. [Liker Land Book Press User Setting](user/)
-7. [Purchase Link Setting](purchase-link.md)
+6. [Liker Land Book Press User Setting](../user/)
+7. [Purchase Link Setting](broken-reference)
 8. [ebooks Replenishment](replenishment.md)
 9. [Modify ebook](modify.md)
 10. [Burn ebook](burn.md)
@@ -191,8 +191,8 @@ The NFT Class ID of the minted ebook appears in the New NFT Book Listing and ple
 
 Click to start connecting to the Stripe account, see details:
 
-{% content-ref url="user/" %}
-[user](user/)
+{% content-ref url="../user/" %}
+[user](../user/)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 27.png" alt=""><figcaption><p>Connect to a Stripe Account</p></figcaption></figure>

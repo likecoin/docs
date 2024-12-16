@@ -51,7 +51,7 @@ Refer to [Publish ebook -> Product Information](./#product-information).
 
 ### Connect to a Stripe Account <a href="#connect-to-a-stripe-account" id="connect-to-a-stripe-account"></a>
 
-Refer to [User Setting](user/).
+Refer to [User Setting](../user/).
 
 ### Email to receive sales notifications
 

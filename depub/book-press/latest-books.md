@@ -8,7 +8,7 @@ Go to the [Liker Land Book Press](https://publish.liker.land/) website, click "S
 
 ### Latest Books on Liker Land Bookstore
 
-If user settings have not been configured, the system will display "Join Our Affiliation Program! Set up your Liker ID and Stripe Connect Account to participate in the Book Affiliation Program on Liker Land Bookstore". Please go to [User Settings](user/) to complete the affiliation program setup.
+If user settings have not been configured, the system will display "Join Our Affiliation Program! Set up your Liker ID and Stripe Connect Account to participate in the Book Affiliation Program on Liker Land Bookstore". Please go to [User Settings](../user/) to complete the affiliation program setup.
 
 <figure><img src="../../.gitbook/assets/Latest Books 1.png" alt=""><figcaption><p>Latest Books</p></figcaption></figure>
 

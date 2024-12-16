@@ -6,14 +6,13 @@
 ## 📕 DePub
 
 * [Decentralized Publishing](depub/decentralized-publishing.md)
+* [Liker Land Affiliation Program](depub/user/README.md)
+  * [Stripe Connect Payout Account Status](depub/user/stripe-connect-payout-account-status.md)
 * [FAQ: Listing ebooks](depub/nft-book-press/faq.md)
 * [Publish ebook](depub/book-press/README.md)
   * [Manage ebooks](depub/book-press/book-store.md)
   * [Manage Book Collection](depub/book-press/collection.md)
-  * [User Setting](depub/book-press/user/README.md)
-    * [Stripe Connect Status](depub/book-press/user/stripe-connect-status.md)
   * [Latest Books](depub/book-press/latest-books.md)
-  * [Purchase Link](depub/book-press/purchase-link.md)
   * [Bulk create QR codes and Short URLs](depub/book-press/qr-codes-short-links.md)
   * [NFT Authz Grants](depub/book-press/authz.md)
   * [ebooks Replenishment](depub/book-press/replenishment.md)
