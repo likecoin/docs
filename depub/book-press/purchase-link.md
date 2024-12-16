@@ -4,7 +4,7 @@ description: 產生購買連結以作促銷
 
 # 購買連結
 
-到 [Liker Land Book Press](https://publish.liker.land/) 網站，進入網站後按左下角「Sign in」連結錢包，再點「[Create Purchase Link](https://publish.liker.land/purchase-link)」。
+到 [Liker Land Book Press](https://publish.liker.land/) 網站，進入網站後點左下角「Sign in」連結錢包，再點「[Create Purchase Link](https://publish.liker.land/purchase-link)」。
 
 ### Purchase Link Generator
 

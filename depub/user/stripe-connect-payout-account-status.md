@@ -8,7 +8,7 @@ description: Stripe 設定
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 1.png" alt=""><figcaption><p>User Setting</p></figcaption></figure>
 
-點「**Setup your ID**」開始設定 Stripe 帳戶。
+在  Stripe Connect Payout Account Status 點「**Setup Stripe Payment Recipient Account**」開始設定 Stripe 帳戶。
 
 系統將跳轉至 Stripe 網站。填寫你的電郵 ( Email )及流動電話號碼 ( Mobile number )，點「Continue」。
 
@@ -40,7 +40,7 @@ description: Stripe 設定
 
 Stripe 審批完成後 Setup Completed 將轉為「Yes」。
 
-<figure><img src="../../.gitbook/assets/Manage Stripe Account 9.png" alt=""><figcaption><p>Stripe 審批完成</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Affiliation Program 4.png" alt=""><figcaption><p>Stripe 審批完成</p></figcaption></figure>
 
 你可以隨時點「**Login to Stripe account**」查看或修改資料。
 

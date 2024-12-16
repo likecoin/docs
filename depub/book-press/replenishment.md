@@ -14,7 +14,7 @@ description: 電子書太好賣了，怎樣上架更多
 
 ## 步驟二：鑄造更多電子書 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-到 [Liker Land Book Press](https://publish.liker.land/) 網站，進入網站後按左下角「**Sign in**」連結錢包，再點「[Print New Books](https://publish.liker.land/mint-nft)」。
+到 [Liker Land Book Press](https://publish.liker.land/) 網站，進入網站後點左下角「**Sign in**」連結錢包，再點「[Print New Books](https://publish.liker.land/mint-nft)」。
 
 在 Enter ISCN ID or NFT Class ID 一欄輸入 **NFT Class ID**，輸入完成後點「**Submit**」。
 
@@ -26,9 +26,9 @@ description: 電子書太好賣了，怎樣上架更多
 
 ## 步驟三：填寫鑄造數量 <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-在 Number of NFT to mint 一欄輸入需要鑄造多少個 NFT，填寫完成並確認無誤後按「**Mint**」簽署並完成鑄造。
+在 Number of NFT to mint 一欄輸入需要鑄造多少個 NFT，填寫完成並確認無誤後點「**Mint**」簽署並完成鑄造。
 
-<figure><img src="../../.gitbook/assets/Add Books 3.png" alt=""><figcaption><p>確認無誤後按「Mint」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Add Books 3.png" alt=""><figcaption><p>確認無誤後點「Mint」</p></figcaption></figure>
 
 ## 步驟四：選擇補書版本 <a href="#mint-nft-book" id="mint-nft-book"></a>
 

@@ -14,9 +14,9 @@ description: 個人如何透過 Liker Land 售賣電子書？
 
 ## 步驟一：登入 Liker Land Book Press
 
-到 [Liker Land Book Press](https://publish.liker.land/) 網站，進入網站後按左下角「Sign in」。
+到 [Liker Land Book Press](https://publish.liker.land/) 網站，進入網站後點左下角「Sign in」。
 
-<figure><img src="../../.gitbook/assets/Affiliation Program 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Affiliation Program 1.png" alt=""><figcaption><p>點左下角「Sign in」</p></figcaption></figure>
 
 ## 步驟二：註冊或登入帳戶
 
@@ -26,21 +26,21 @@ description: 個人如何透過 Liker Land 售賣電子書？
 [register](../register/)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/Affiliation Program 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Affiliation Program 2.png" alt=""><figcaption><p>登入或註冊帳戶</p></figcaption></figure>
 
 ## 步驟三：設定 Book Sales Affiliation Program
 
 登入後如未進行用戶設定，系統會顯示「Join Our Affiliation Program! Setup your Liker ID and Stripe Connect Account to participate in sales affiliation program on Liker Land Bookstore.」。點「**Setup**」進行設定。
 
-<figure><img src="../../.gitbook/assets/Latest Books 1.png" alt=""><figcaption><p>Latest Books</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Latest Books 1.png" alt=""><figcaption><p>在 Latest Books 點「Setup」</p></figcaption></figure>
 
 又或者在左手邊菜單點「[User Setting](https://publish.liker.land/nft-book-store/user)」進入 Liker Land Bookstore Management Page，在 Book Sales Affiliation Program 點「**Setup your ID**」 設定你的 Affiliation channel ID。
 
-<figure><img src="../../.gitbook/assets/Affiliation Program 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Affiliation Program 3.png" alt=""><figcaption><p>點「<strong>Setup your ID</strong>」 </p></figcaption></figure>
 
 完成設定後顯示 Affiliation channel ID。
 
-<figure><img src="../../.gitbook/assets/Manage Stripe Account 11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage Stripe Account 11.png" alt=""><figcaption><p>顯示 Affiliation channel ID</p></figcaption></figure>
 
 ## 步驟四：連接出金銀行帳戶
 
@@ -50,11 +50,11 @@ description: 個人如何透過 Liker Land 售賣電子書？
 [stripe-connect-payout-account-status.md](stripe-connect-payout-account-status.md)
 {% endcontent-ref %}
 
-## 步驟五：完成設定並開始使用推廣連結
+## 步驟五：設定完成並開始使用推廣連結
 
 完成設定後出現「Append ?from=@`[你的 Liker ID]` in any bookstore page to earn commission from book sales」字樣，並請請確認圖示的三個地方有成功設定。
 
-<figure><img src="../../.gitbook/assets/Affiliation Program 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Affiliation Program 4.png" alt=""><figcaption><p>設定完成</p></figcaption></figure>
 
 在「[Latest Books](https://publish.liker.land/latest-books)」點「Copy」複製新書推廣連結。再將它發送開去，即可賺取分潤。
 

@@ -118,7 +118,7 @@ description: 使用 Liker Land Book Press 將電子書出版為 NFT
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 17 (1).png" alt=""><figcaption><p>在 Enter ISCN ID or NFT Class ID 一欄輸入 ISCN ID</p></figcaption></figure>
 
-又或者直接到 [Liker Land Book Press](https://publish.liker.land/) 網站按左下角「**Sign In**」登入，再點「[Print New Books](https://publish.liker.land/mint-nft)」，進入網站後並於 Enter ISCN ID or NFT Class ID 一欄手動輸入早前註冊的 ISCN ID 再點「**Submit**」。
+又或者直接到 [Liker Land Book Press](https://publish.liker.land/) 網站點左下角「**Sign In**」登入，再點「[Print New Books](https://publish.liker.land/mint-nft)」，進入網站後並於 Enter ISCN ID or NFT Class ID 一欄手動輸入早前註冊的 ISCN ID 再點「**Submit**」。
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>到 Liker Land Book Press 網站，點「Print New Books」</p></figcaption></figure>
 
@@ -132,9 +132,9 @@ description: 使用 Liker Land Book Press 將電子書出版為 NFT
 * 如若你的書檔是 EPUB，系統會自動抽出 AR 封面的連結放在 image URL 一欄
 * External URL (optional)、URI (optional) 及 Max number of supply for this NFT Class (optional) 可按需要填寫。
 
-填寫完成並確認無誤後按「**Mint**」。
+填寫完成並確認無誤後點「**Mint**」。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 18.png" alt=""><figcaption><p>填寫所需資料，確認無誤後按「Mint」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 18.png" alt=""><figcaption><p>填寫所需資料，確認無誤後點「Mint」</p></figcaption></figure>
 
 出現 🎉 Success! 畫面代表經已成功鑄造 NFT，點「**Continue to publish NFT Book**」可繼續完成上架。點「**View your NFT**」可以到 [Liker Land](https://liker.land/) 查看已鑄造的電子書。
 
