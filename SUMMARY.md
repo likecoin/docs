@@ -76,7 +76,7 @@
 
 * [On the News](general-guides/on-the-news/README.md)
   * [Interviews and Features](general-guides/on-the-news/interviews.md)
-  * [Activites and Events](general-guides/on-the-news/activities-and-events.md)
+  * [Activites and Events](general-guides/on-the-news/activites-and-events.md)
   * [Mentions](general-guides/on-the-news/mentions.md)
   * [Awards and Press Release](general-guides/on-the-news/press-release.md)
   * [Recommendations](general-guides/on-the-news/recommendations.md)
