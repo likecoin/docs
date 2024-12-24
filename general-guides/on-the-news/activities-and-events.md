@@ -1,6 +1,10 @@
-# Activites and Events
+# Activities and Events
 
 ## 2024
+
+#### 11/14 我城我書 / One City One Book Hong Kong <a href="#id-100506-ying-guo-xiang-gang-shu-zhan" id="id-100506-ying-guo-xiang-gang-shu-zhan"></a>
+
+[出版樣態的轉型、衝擊與邁進 \[座談會\]](https://www.facebook.com/onecityonebookhk/posts/pfbid0368XqX3MDpzvVvHuss9bMM1JM9Z2ZtUSMVEGNV8yFJx2HoaTEoqFR9F7GauWGiJsFl)
 
 #### 10/05-06 英國香港書展 <a href="#id-100506-ying-guo-xiang-gang-shu-zhan" id="id-100506-ying-guo-xiang-gang-shu-zhan"></a>
 
@@ -23,6 +27,8 @@
 #### 06/07 突破機構50周年「在這裏 為彼此 #HereWeAre」研討會 <a href="#id-0607-tu-po-ji-gou-50-zhou-nian-zai-zhe-li-wei-bi-ci-hereweare-yan-tao-hui" id="id-0607-tu-po-ji-gou-50-zhou-nian-zai-zhe-li-wei-bi-ci-hereweare-yan-tao-hui"></a>
 
 [第二場：『與青少年有份，共同參與互惠創路』@ 16:10 – 17:30](https://www.facebook.com/breakthrough.hk/posts/pfbid02MMAmNfX4JLZzshBjbXYKKJdw3utjxLNg53BqgSDM7qgLSeJeA36sjnM5EjSYcUEMl)
+
+[潘希晴(Phoebe) — Liker Land](https://hereweare.breakthrough.org.hk/aboutcon-curent/liker-land/)
 
 #### 05/02 區塊鏈3.0 COSMOS跨鏈生態 <a href="#id-0502-qu-kuai-lian-3.0-cosmos-kua-lian-sheng-tai" id="id-0502-qu-kuai-lian-3.0-cosmos-kua-lian-sheng-tai"></a>
 

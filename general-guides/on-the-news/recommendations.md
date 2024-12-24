@@ -1,5 +1,33 @@
 # Recommendations
 
+### 2024/08/15 區塊勢
+
+[終結平台綁架！如何用 NFT 升級電子書？](https://www.blocktrend.today/p/625)
+
+### 2024/07/06 Johntool-工具王阿璋
+
+[讚賞公民是什麼？ LikeCoin 是什麼？ 5 分鐘詳細解說！](https://www.johntool.com/what-is-likecoin/)
+
+### 2024/07/12 董富記快報 Dungfookei
+
+[輕鬆購買 NFT 電子書！](https://dungfookei.substack.com/p/nft-abd)
+
+### 2024/03/15 董富記
+
+[NFT 是一張神奇的藏書票](https://dungfookei.com/nft-%E6%98%AF%E4%B8%80%E5%BC%B5%E7%A5%9E%E5%A5%87%E7%9A%84%E8%97%8F%E6%9B%B8%E7%A5%A8/)
+
+### 2024/02/23 明周文化
+
+[當我們買賣NFT書，我們在交換甚麼？](https://www.mpweekly.com/culture/%E5%B0%88%E6%AC%84/234912)
+
+### 2024/02/02 明周文化
+
+[肉身有盡，靈魂不滅——紙本書與NFT書](https://www.mpweekly.com/culture/%E5%B0%88%E6%AC%84/%E7%B4%99%E6%9C%AC%E6%9B%B8-nft%E6%9B%B8-%E8%91%A3%E5%95%9F%E7%AB%A0-234507)
+
+### 2023/04/23 董富記
+
+[為甚麼我要用NFT出書？](https://dungfookei.com/%E7%82%BA%E7%94%9A%E9%BA%BC%E6%88%91%E8%A6%81%E7%94%A8nft%E5%87%BA%E6%9B%B8%EF%BC%9F/)
+
 ### 2022/04/05 ivan so | SEO, WordPress, 數碼營銷 @HDcourse
 
 {% embed url="https://www.youtube.com/watch?v=s0ZDROv0yC4" %}

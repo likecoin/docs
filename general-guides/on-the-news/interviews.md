@@ -54,7 +54,7 @@
 
 [如何以NFT方式出版一本书？一场去中心化的出版实验](https://www.wainao.me/wainao-reads/decentralized-book-publishing-NFT-01202023)
 
-#### 01/12 Citizen Cosmos <a href="#id-01-12-citizen-cosmos" id="id-01-12-citizen-cosmos"></a>
+#### 01/12 Citizen Web3 <a href="#id-01-12-citizen-cosmos" id="id-01-12-citizen-cosmos"></a>
 
 [The Economics for Success according to Phoebe Poon from LikeCoin](https://www.youtube.com/watch?v=pZY3QnPFFIs)
 
