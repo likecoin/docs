@@ -178,6 +178,12 @@
 
 [\[Web2.5 時代\] KZ x 高重建@ LikeCoin和 decentralizehk發起人](https://www.youtube.com/watch?v=gncp9cIuMrc)
 
+#### 03/05 創業與自由
+
+[「如何一鍵 Wordpress 變 NFT」 - Likecoin Phoebe Poon #27](https://podcasts.apple.com/nz/podcast/%E5%A6%82%E4%BD%95%E4%B8%80%E9%8D%B5-wordpress-%E8%AE%8A-nft-likecoin-phoebe-poon-27/id1540520661?i=1000559361299)
+
+[Video](https://www.youtube.com/watch?v=OLx5WOJiN0A)
+
 #### 01/15 職人故事 <a href="#id-0115-zhi-ren-gu-shi" id="id-0115-zhi-ren-gu-shi"></a>
 
 [LikeCoin發起人高重建 由無到有的創造過程](https://craftsmanbio.com/2022/01/15/kinko-likecoin/)

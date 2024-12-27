@@ -36,7 +36,11 @@
 
 #### 03/28 nDX Meetup <a href="#id-03-28-ndx-meetup" id="id-03-28-ndx-meetup"></a>
 
-[灣新聞數位創新計畫（nDX）](https://ndx.dta.tw/%E6%95%B8%E4%BD%8D%E7%B6%93%E6%BF%9F%E6%9A%A8%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95%E5%8D%94%E6%9C%83%EF%BC%88dta%EF%BC%89%E4%BB%8A%E6%97%A5%E8%88%89%E8%BE%A6%E5%AA%92%E9%AB%94%E4%BA%A4%E6%B5%81ndx-meet/)
+[數位經濟暨產業發展協會舉辦nDX Meetup交流會 探索媒體信任挑戰與數位機會](https://www.ctee.com.tw/news/20240328701702-431204)
+
+[媒體大未來：掌握數位、建立信任，探索全新商模](https://www.dta.tw/events/pages/?id=1219)
+
+[台灣新聞數位創新計畫（nDX）](https://ndx.dta.tw/%E6%95%B8%E4%BD%8D%E7%B6%93%E6%BF%9F%E6%9A%A8%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95%E5%8D%94%E6%9C%83%EF%BC%88dta%EF%BC%89%E4%BB%8A%E6%97%A5%E8%88%89%E8%BE%A6%E5%AA%92%E9%AB%94%E4%BA%A4%E6%B5%81ndx-meet/)
 
 #### 03/22 Women Techmakers Hong Kong <a href="#id-03-22-women-techmakers-hong-kong" id="id-03-22-women-techmakers-hong-kong"></a>
 
@@ -369,6 +373,8 @@ Talk:[ "How I make a living with Writing NFT on my WordPress blog"](https://l.fa
 #### 11/30 Genesis Block 香港 <a href="#id-1130-genesis-block-xiang-gang" id="id-1130-genesis-block-xiang-gang"></a>
 
 [Video - Creators Meet Blockchain 為外行人及創作者而設的交流廳！](https://www.youtube.com/watch?v=0B4QspdOfUg)
+
+[【Creators Meet Blockchain】那些區塊鏈對創作者的商機](https://www.anywhere.today/creators-meet-blockchain/)
 
 #### 11/21 中山銅鑼灣書店 <a href="#id-1121-zhong-shan-tong-luo-wan-shu-dian" id="id-1121-zhong-shan-tong-luo-wan-shu-dian"></a>
 

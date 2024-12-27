@@ -6,6 +6,10 @@
 
 [【小型出版書展】十八間小型書商新書雲集深水埗](https://www.mpweekly.com/culture/%E8%97%9D%E6%96%87/%E6%9B%B8%E5%B1%95-%E7%94%B1%E5%AD%97%E5%8F%8A%E8%88%88-%E6%9B%B8%E5%BA%97-241128)
 
+#### 02/16 信報
+
+[NFT書的想像與冒險](https://www1.hkej.com/dailynews/commentary/article/3684685/NFT%E6%9B%B8%E7%9A%84%E6%83%B3%E5%83%8F%E8%88%87%E5%86%92%E9%9A%AA)
+
 ## 2023
 
 #### 05/18 寧心舍積塵
@@ -17,6 +21,10 @@
 [話題》區塊鏈上出版的狂想與幻想：Web3.0時代的書籍與閱讀](https://www.openbook.org.tw/article/p-67226)
 
 ## 2022
+
+#### 12/26 典藏ARTouch.com
+
+[【張寶成專欄】圖文之際，藝論之別：從《所謂我不投資》的出版策略看區塊鏈書寫](https://artouch.com/artouch-column/yszhang-column/content-92599.html)
 
 #### 12/09 信報
 
