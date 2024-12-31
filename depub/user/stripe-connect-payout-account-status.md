@@ -12,7 +12,7 @@ Go to the [Liker Land Book Press](https://publish.liker.land/) website, click "S
 
 In the Stripe Connect Payout Account Status, click "**Setup Stripe Payment Recipient Account**" to begin setting up your Stripe account.
 
-The Stripe website appears. Fill in your email and mobile number, then click "Continue".
+The Stripe website appears. Fill in your email and mobile number, then click "Submit".
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 2.png" alt=""><figcaption><p>Fill in email and mobile number</p></figcaption></figure>
 
@@ -24,17 +24,13 @@ Fill in your Country and Type of business under Tell us about your business, the
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 4.png" alt=""><figcaption><p>Fill in Country and Type of business</p></figcaption></figure>
 
-Fill in your First Name, Last Name and Date of birth under Verify your personal details, then click "Continue".
+As an example, for selecting a company, enter the company's Legal business name and the Business name, which may be different from the legal name, then click "Continue".
 
-<figure><img src="../../.gitbook/assets/Manage Stripe Account 5.png" alt=""><figcaption><p>Fill in First Name, Last Name and Date of birth</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage Stripe Account 5.png" alt=""><figcaption><p>Fill in Business name</p></figcaption></figure>
 
 Click on "Bank Account" to set your Account holder name, Choose your bank, Choose your branch and fill in your Account number, then click "Save".
 
 <figure><img src="../../.gitbook/assets/Manage Stripe Account 6.png" alt=""><figcaption><p>Fill in Bank account information</p></figcaption></figure>
-
-If you choose to withdraw in cryptocurrency, select "Crypto wallet", then select Currency and Network and enter your wallet address, then click "Save".
-
-<figure><img src="../../.gitbook/assets/Manage Stripe Account 7.png" alt=""><figcaption><p>Fill in crypto wallet information</p></figcaption></figure>
 
 Check whether the entered information is correct on the Review and submit page, then click "Agree and submit".
 

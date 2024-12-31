@@ -56,7 +56,7 @@ In the Stripe Connect Payout Account Status, click "**Setup your ID**" to config
 
 After completing the setup, the message "Append ?from=@`[your Liker ID]` in any bookstore page to earn commission from book sales" will appear. Please check that the three spots shown below have been successfully configured.
 
-<figure><img src="../../.gitbook/assets/Affiliation Program 4 (1).png" alt=""><figcaption><p>Setup Complete</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Affiliation Program 4.png" alt=""><figcaption><p>Setup Complete</p></figcaption></figure>
 
 Click "Copy" to copy the new book promotion link in "[Latest Book](https://publish.liker.land/latest-books/)". Then, share it to earn a share of the revenue from the Book Affiliation Program.
 
