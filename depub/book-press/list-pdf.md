@@ -1,53 +1,20 @@
 ---
-description: List EPUB with Liker Land Book Press
+description: List PDF with Liker Land Book Press
 ---
 
-# List ebook
+# List PDF
 
-{% hint style="info" %}
-Before listing, you can refer to the [FAQ: Listing Liker Land ebooks](../nft-book-press/faq.md)
-{% endhint %}
+## List PDF on Liker Land
 
-{% hint style="info" %}
-List NFT requires a desktop computer and [LikeCoin](https://like.co/) on a desktop computer
-{% endhint %}
+First, create the PDF file of the ebook and prepare the metadata that you will need to enter later. Metadata includes the book title, author, cover image, publication date, description, etc.
 
-Listing an ebook on the blockchain involves the following processes:
-
-1. [Prepare the EPUB File](./#create-an-epub-file-and-enter-metadata) or [PDF File](list-pdf.md)
-2. [Register ISCN](./#register-iscn)
-3. [List the Book for Sale](./#list-the-book-for-sale)
-
-and other follow up actions:
-
-4. [Manage Book](../book-store/)
-5. [Manage Book Collection](../book-store/collection.md)
-6. [Liker Land Book Press User Setting](../user/)
-7. [Purchase Link Setting](../book-store/latest-books.md)
-8. [ebooks Replenishment](../book-store/replenishment.md)
-9. [Modify ebook](../book-store/modify.md)
-10. [Burn ebook](../book-store/burn.md)
-11. [Transfer ebook or Batch send NFT to more than one wallet](../transfer-nft/)
-12. [Import EPUB files to various ereaders](../ebook/read.md)
-13. [Creator’s Introduction on Liker Land BookStore](../register/edit-avatar-displayname.md)
-
-***
-
-## List EPUB on Liker Land
-
-Create an [EPUB](https://en.wikipedia.org/wiki/EPUB) file and enter [metadata](../what-is-iscn/). First, create the EPUB file for the ebook, and ensure that the metadata has been entered and organized. Metadata includes book title, author, cover image, publication date, description, etc. The system can automatically extract the necessary information from EPUB Metadata for listing later on.\
-\
-"If you want to list a PDF on Liker Land, please refer to:
-
-{% content-ref url="list-pdf.md" %}
-[list-pdf.md](list-pdf.md)
-{% endcontent-ref %}
+You also need to prepare a cover image in jpg or png format.
 
 ***
 
 ## Register ISCN
 
-After preparing the EPUB file, register it as an ISCN.
+After preparing the PDF file, register it as an ISCN.
 
 ### Step 1: Upload the file
 
@@ -63,17 +30,17 @@ A pop-up window will appear to connect your wallet. It is recommended to registe
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 6.png" alt=""><figcaption><p>A pop-up window will appear; click and connect to a wallet</p></figcaption></figure>
 
-Click "**Select a file**" to upload the prepared EPUB file.
+Click "**Select a file**" to upload the PDF file and cover image.
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 7.png" alt=""><figcaption><p>Click "Select a file" to upload the prepared EPUB file</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 7.png" alt=""><figcaption><p>Click "Select a file" to upload the prepared files</p></figcaption></figure>
 
-The system will automatically split the EPUB file content into two files: one is the EPUB file, and the other is the book cover image file. Check if everything is okay, then click "**Start Upload**". The system will upload these two files to the distributed network.
+After successfully uploading the PDF file and cover image, click "**Start Upload**". The system will upload these two files to the distributed network."
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 8.png" alt=""><figcaption><p>Click "Start Upload" to upload the two files to the distributed network</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 8a.png" alt=""><figcaption><p>Click "Start Upload" to upload the two files to the distributed network</p></figcaption></figure>
 
 ### Step 2: Enter book information
 
-"File Ready" appears, indicating that the file has been successfully uploaded. The system will automatically fill in the information based on the metadata content. The user can change them if they want:
+"File Ready" appears, indicating that the file has been successfully uploaded. Please enter the following book information accordingly:
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 10.png" alt=""><figcaption><p>"File Ready" appears</p></figcaption></figure>
 
@@ -85,10 +52,10 @@ The system will automatically split the EPUB file content into two files: one is
 6. **Stakeholders**: The system will automatically add the author and the ISCN registrant as stakeholders.
 7. **Tags**: These are used for classification purposes.
 8. **Hide file storage link from public blockchain**: Avoid the link appearing in general public.
-9. **Downloadable URL**: The file's name of the EPUB when it is being downloaded.
-10. **URL**: The URL of the EPUB.
+9. **Downloadable URL**: The file's name of the PDF when it is being downloaded.
+10. **URL**: The URL of the PDF.
 11. **License**: The default is "Copyright. All rights reserved" for copyright declaration.
-12. **Content Fingerprints**: These are URL hashes of the book and its cover. Each pair corresponds to one file, including IPFS and AR (Arweave) formats. Click on the URLs to check whether the content has been successfully uploaded. For instance, the four hashes in the attached screenshot represent the IPFS EPUB file, IPFS book cover file, AR EPUB file, and AR book cover file.
+12. **Content Fingerprints**: These are URL hashes of the book and its cover. Each pair corresponds to one file, including IPFS and AR (Arweave) formats. Click on the URLs to check whether the content has been successfully uploaded. For instance, the four hashes in the attached screenshot represent the IPFS PDF file, IPFS book cover file, AR PDF file, and AR book cover file.
 13. **Registrant**: Wallet address used during registration
 
 Click on +Other settings and fill in more content if required:
@@ -135,7 +102,7 @@ If you forget your ISCN ID, you can retrieve it in "[My Works](https://app.like.
 The system will automatically extract the basic information of ISCN for you. Fill in other information required in the "By filling required information" tab.
 
 * Enter the number of NFTs to mint in the "**Number of NFT to mint**" field.
-* If your book file is in EPUB format, the system will automatically extract the link to the AR cover and place it in the "Image URL" column.
+* The system will automatically extract the link to the AR cover and place it in the "Image URL" column.
 * "External URL (optional)", "URI (optional)", and "Max number of supply for this NFT Class (optional)" can be filled in as needed.
 
 After filling in and confirming that everything is correct, click "**Mint**".
@@ -155,7 +122,7 @@ Since it is not yet available for sale, you will see the words "Sold Out" on Lik
 Return to Liker Land BookPress, click "**Continue to publish NFT Book**", and the NFT Bookstore Management Page will appear.
 
 {% hint style="info" %}
-If you accidentally closed the page, you can enter your NFT Class ID in [Step 1](./#register-iscn) "Enter ISCN ID or NFT Class ID", and you will see "Continue to publish NFT Book". The Class ID is the string after the URL of your ebook. For example, your NFT URL is  https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x, and the NFT Class ID is likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mf z0yz57gffwsrgrasl2m59x.
+If you accidentally closed the page, you can enter your NFT Class ID in [Step 1](list-pdf.md#register-iscn) "Enter ISCN ID or NFT Class ID", and you will see "Continue to publish NFT Book". The Class ID is the string after the URL of your ebook. For example, your NFT URL is  https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x, and the NFT Class ID is likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mf z0yz57gffwsrgrasl2m59x.
 {% endhint %}
 
 ### New NFT Book Listing
@@ -253,7 +220,7 @@ Manage digital rights in DRM Options:
 
 * **Force NFT claim before view** - Selecting Must claim NFT to view means that readers must claim the ebook to read
 * **Disable File Download** - Selecting Disable Download means not allowing readers to download the ebook, only allowing online reading.
-* **Insert cutomized message page in ebook** - Automatically insert a custom message page into the EPUB file.
+* **Insert cutomized message page in ebook** - Automatically insert a custom message page into the EPUB file (Not applicable to PDF)
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23j.png" alt=""><figcaption><p>DRM Options</p></figcaption></figure>
 

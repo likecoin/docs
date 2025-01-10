@@ -47,7 +47,7 @@ Displays the number of orders and their status, including Order Date, Status ("P
 
 ### Editions <a href="#editions" id="editions"></a>
 
-Refer to [Publish ebook -> Product Information](./#product-information).
+Refer to [Publish ebook -> Product Information](../book-press/#product-information).
 
 ### Connect to a Stripe Account <a href="#connect-to-a-stripe-account" id="connect-to-a-stripe-account"></a>
 
@@ -55,7 +55,7 @@ Refer to [User Setting](../user/).
 
 ### Email to receive sales notifications
 
-Refer to [Publish ebook -> Email to receive sales notifications](./#email-to-receive-sales-notification).
+Refer to [Publish ebook -> Email to receive sales notifications](../book-press/#email-to-receive-sales-notification).
 
 ### Sales Channel Summary
 
@@ -65,15 +65,15 @@ View the summary from various different sales channels, including Channel ID, Co
 
 ### Shipping Options
 
-Refer tp [Publish ebook -> Shipping Options](./#shipping-options-1).
+Refer tp [Publish ebook -> Shipping Options](../book-press/#shipping-options-1).
 
 ### Share sales data to wallets
 
-[Refer to Publish ebook -> Share sales data to wallets](./#share-sales-data-to-wallets).
+[Refer to Publish ebook -> Share sales data to wallets](../book-press/#share-sales-data-to-wallets).
 
 ### DRM Options
 
-[Refer to Publish ebook -> DRM Options](./#drm-options).
+[Refer to Publish ebook -> DRM Options](../book-press/#drm-options).
 
 ### Copy Purchase Link
 
