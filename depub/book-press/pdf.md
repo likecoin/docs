@@ -4,7 +4,7 @@ description: 使用 Liker Land Book Press 上架 PDF 電子書
 
 # 上架 PDF 電子書
 
-## 以 PDF 檔案上架 Liker Land <a href="#edit-metadata" id="edit-metadata"></a>
+## 在 Liker Land 上架 PDF
 
 首先製作好電子書的 PDF 檔案，並預備好之後需要輸入的 Metadata。Metadata 即是[元數據](../what-is-iscn/)。包括書名、作者、封面圖、出版日期、描述等內容。\
 此外亦需要預備一張 jpg 或 png 格式封面圖片，
@@ -13,7 +13,7 @@ description: 使用 Liker Land Book Press 上架 PDF 電子書
 
 ## 註冊 ISCN <a href="#register-iscn" id="register-iscn"></a>
 
-準備好 EPUB 檔案後，接下來把它註冊成 ISCN。
+準備好 PDF 檔案後，接下來把它註冊成 ISCN。
 
 ### 步驟一：上載檔案 <a href="#upload-file" id="upload-file"></a>
 
@@ -54,7 +54,7 @@ description: 使用 Liker Land Book Press 上架 PDF 電子書
 9. **Downloadable URL**：下載書檔時所顯示的名稱
 10. **URL**：書檔所對應的 URL
 11. **License**：可以選擇合適的版權宣告，預設是版權所有 ( Copyright. All rights reserved. )
-12. **Content Fingerprints**：顯示書檔及封面 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 EPUB 檔、IPFS 的封面檔、AR 的 EPUB 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
+12. **Content Fingerprints**：顯示書檔及封面 Hash 網址，每兩條 Hash 對應一個檔案。包括 [IPFS](https://ipfs.tech/) 及 [AR ( Arweave ) ](https://www.arweave.org/)格式。以附圖為例，四條 Hash 代表 IPFS 的 PDF 檔、IPFS 的封面檔、AR 的 PDF 檔和 AR 的封面檔，不妨點擊網址核對並查看內容是否經已成功上傳。
 13. **Registrant**：註冊時使用的錢包地址
 
 點開 +Other settings 選擇填寫更多內容：
@@ -101,7 +101,7 @@ description: 使用 Liker Land Book Press 上架 PDF 電子書
 系統會為你自動抽出 ISCN 的基本資料，接著你需要於「By filling required information」分頁填寫其他資料：
 
 * 在 **Number of NFT to mint** 一欄輸入需要鑄造多少個 NFT
-* 如若你的書檔是 EPUB，系統會自動抽出 AR 封面的連結放在 image URL 一欄
+* 系統會自動抽出 AR 封面的連結放在 image URL 一欄
 * External URL (optional)、URI (optional) 及 Max number of supply for this NFT Class (optional) 可按需要填寫。
 
 填寫完成並確認無誤後點「**Mint**」。
@@ -219,7 +219,7 @@ description: 使用 Liker Land Book Press 上架 PDF 電子書
 
 * **Force NFT claim before view** - 選取 **Must claim NFT to view** 代表讀者一定要領取電子書方可閱讀
 * **Disable File Download** - 選取 **Disable Download** 代表不讓讀者下載電子書，只容許線上閱讀
-* **Insert cutomized message page in eBook** - 選擇 **Enable custom message page** 將自動插入簽名頁於 EPUB 檔案中
+* **Insert cutomized message page in eBook** - 選擇 **Enable custom message page** 將自動插入簽名頁於 EPUB 檔案中（不適用於 PDF 檔案）
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23j.png" alt=""><figcaption><p>DRM Options</p></figcaption></figure>
 

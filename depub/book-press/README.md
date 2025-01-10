@@ -33,9 +33,15 @@ description: 使用 Liker Land Book Press 上架 EPUB 電子書
 
 ***
 
-## 以 EPUB 檔案上架 Liker Land <a href="#edit-metadata" id="edit-metadata"></a>
+## 在 Liker Land 上架 EPUB
 
 首先製作好電子書的 [EPUB](https://zh.wikipedia.org/zh-hk/EPUB) 檔案，並確保經已輸入並整理好 Metadata。Metadata 即是[元數據](../what-is-iscn/)。包括書名、作者、封面圖、出版日期、描述等內容，接下內系統能自動從 EPUB Metadata 抽取所需資料以供上架之用。
+
+如果您想在 Liker Land 上架 PDF，請參考：
+
+{% content-ref url="pdf.md" %}
+[pdf.md](pdf.md)
+{% endcontent-ref %}
 
 ***
 
