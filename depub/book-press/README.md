@@ -37,7 +37,7 @@ and other follow up actions:
 
 Create an [EPUB](https://en.wikipedia.org/wiki/EPUB) file and enter [metadata](../what-is-iscn/). First, create the EPUB file for the ebook, and ensure that the metadata has been entered and organized. Metadata includes book title, author, cover image, publication date, description, etc. The system can automatically extract the necessary information from EPUB Metadata for listing later on.\
 \
-"If you want to list a PDF on Liker Land, please refer to:
+If you want to list a PDF on Liker Land, please refer to:
 
 {% content-ref url="list-pdf.md" %}
 [list-pdf.md](list-pdf.md)
