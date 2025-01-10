@@ -14,7 +14,7 @@ description: 使用 Liker Land Book Press 上架 EPUB 電子書
 
 在區塊鏈上架電子書包含以下流程：
 
-1. [備妥 EPUB](./#edit-metadata) 或 PDF 檔案
+1. [備妥 EPUB](./#edit-metadata) 或 [PDF 檔案](pdf.md)
 2. [註冊 ISCN](./#register-iscn)
 3. [上架銷售](./#nft-book-store)
 
