@@ -47,7 +47,7 @@ Pending Action 顯示有多少項目尚待處理、Sold 售賣數據及 Stocks �
 
 ### Editions
 
-詳見 [出版電子書 -> Product Information](./#product-information)。
+詳見 [出版電子書 -> Product Information](../book-press/#product-information)。
 
 ### Connect to a Stripe Account
 
@@ -55,7 +55,7 @@ Pending Action 顯示有多少項目尚待處理、Sold 售賣數據及 Stocks �
 
 ### Email to receive sales notifications
 
-詳見 [出版電子書 -> Email to receive sales notifications](./#email-to-receive-sales-notification)。
+詳見 [出版電子書 -> Email to receive sales notifications](../book-press/#email-to-receive-sales-notification)。
 
 ### Sales Channel Summary
 
@@ -67,15 +67,15 @@ Pending Action 顯示有多少項目尚待處理、Sold 售賣數據及 Stocks �
 
 ### Shipping Options
 
-詳見 [出版電子書 -> Shipping Options](./#shipping-options)。
+詳見 [出版電子書 -> Shipping Options](../book-press/#shipping-options)。
 
 ### Share sales data to wallets
 
-詳見 [出版電子書 -> Share sales data to wallets](./#share-sales-data-to-wallets)。
+詳見 [出版電子書 -> Share sales data to wallets](../book-press/#share-sales-data-to-wallets)。
 
 ### DRM Options
 
-詳見 [出版電子書 -> DRM Options](./#drm-options)。
+詳見 [出版電子書 -> DRM Options](../book-press/#drm-options)。
 
 ### Copy Purchase Link
 

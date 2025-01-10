@@ -1,41 +1,13 @@
 ---
-description: 使用 Liker Land Book Press 上架 EPUB 電子書
+description: 使用 Liker Land Book Press 上架 PDF 電子書
 ---
 
-# 上架電子書
+# 上架 PDF 電子書
 
-{% hint style="info" %}
-上架前可參考 [上架 Liker Land 電子書的常見問題](../faq.md)
-{% endhint %}
+## 以 PDF 檔案上架 Liker Land <a href="#edit-metadata" id="edit-metadata"></a>
 
-{% hint style="info" %}
-上架電子書需使用桌面電腦及 [LikeCoin](https://like.co/)
-{% endhint %}
-
-在區塊鏈上架電子書包含以下流程：
-
-1. [備妥 EPUB](./#edit-metadata) 或 PDF 檔案
-2. [註冊 ISCN](./#register-iscn)
-3. [上架銷售](./#nft-book-store)
-
-並可進行其他後續操作：
-
-4. [管理電子書](../book-store/)
-5. [設定電子書套裝](../book-store/collection.md)
-6. [Liker Land Book Press 用戶設定](../user/)
-7. [設定購買連結](../book-store/purchase-link.md)
-8. [補書上架](../book-store/replenishment.md)
-9. [修改已上架的電子書資料](../book-store/modify.md)
-10. [銷毁已上架的電子書](../book-store/burn.md)
-11. [發送電子書及群發 NFT 紀念品到多個錢包](../transfer-nft/)
-12. [匯入 EPUB 檔案到各家閱讀器](../ebook/read.md)
-13. [設置 Liker Land 書店作者簡介](../register/edit-avatar-displayname.md)
-
-***
-
-## 以 EPUB 檔案上架 Liker Land <a href="#edit-metadata" id="edit-metadata"></a>
-
-首先製作好電子書的 [EPUB](https://zh.wikipedia.org/zh-hk/EPUB) 檔案，並確保經已輸入並整理好 Metadata。Metadata 即是[元數據](../what-is-iscn/)。包括書名、作者、封面圖、出版日期、描述等內容，接下內系統能自動從 EPUB Metadata 抽取所需資料以供上架之用。
+首先製作好電子書的 PDF 檔案，並預備好之後需要輸入的 Metadata。Metadata 即是[元數據](../what-is-iscn/)。包括書名、作者、封面圖、出版日期、描述等內容。\
+此外亦需要預備一張 jpg 或 png 格式封面圖片，
 
 ***
 
@@ -57,17 +29,17 @@ description: 使用 Liker Land Book Press 上架 EPUB 電子書
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 6.png" alt=""><figcaption><p>彈出視窗並連結錢包</p></figcaption></figure>
 
-登入後點「**Select a file**」上載已預備好的 EPUB 檔案。
+登入後點「**Select a file**」上載已預備好的 PDF 檔案及封面圖片。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 7.png" alt=""><figcaption><p>點「Select a file」上載已預備好的 EPUB 檔案</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 7.png" alt=""><figcaption><p>點「Select a file」上載已預備好的檔案</p></figcaption></figure>
 
-系統會自動把 EPUB 檔案內容分解成兩個檔案，一個是 EPUB 檔案，另一個是封面圖檔。如果沒有問題點「**Start Upload**」，系統會將這兩個檔案上傳到分散式網絡。
+成功上載 PDF 檔案及封面圖片後點「**Start Upload**」，系統會將這兩個檔案上傳到分散式網絡。
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 8.png" alt=""><figcaption><p>點「Start Upload」將檔案上傳到分散式網絡</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 8a.png" alt=""><figcaption><p>點「Start Upload」將檔案上傳到分散式網絡</p></figcaption></figure>
 
 ### 步驟二：輸入書籍資料 <a href="#metadata" id="metadata"></a>
 
-出現 File Ready 代表檔案上傳成功，系統會依照元數據內容生成以下資料，如有需要可作修改：
+出現 File Ready 代表檔案上傳成功，接下來請輸入以下書籍資料：
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 10.png" alt=""><figcaption><p>File Ready 頁面</p></figcaption></figure>
 
@@ -149,7 +121,7 @@ description: 使用 Liker Land Book Press 上架 EPUB 電子書
 回到 Liker Land Book Press，點「**Continue to publish NFT Book**」後出現 NFT Bookstore Management Page 頁面。
 
 {% hint style="info" %}
-假如你不小心關掉了之前的頁面，你可以在[步驟一](./#mint-nft-book) Enter ISCN ID or NFT Class ID 一欄輸入你的 NFT Class ID 即可看到「Continue to publish NFT Book」。Class ID 是你的電子書網址後面的一串。舉例你的 NFT 網址是 https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x ，NFT Class ID 就是 likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x 。
+假如你不小心關掉了之前的頁面，你可以在[步驟一](pdf.md#mint-nft-book) Enter ISCN ID or NFT Class ID 一欄輸入你的 NFT Class ID 即可看到「Continue to publish NFT Book」。Class ID 是你的電子書網址後面的一串。舉例你的 NFT 網址是 https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x ，NFT Class ID 就是 likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x 。
 {% endhint %}
 
 ### New NFT Book Listing
