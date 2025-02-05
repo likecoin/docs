@@ -6,6 +6,20 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![Proposals](<../../.gitbook/assets/LikeCoin_AD59_Banner (1).png>)
 
+## Proposal #87 Signalling proposal: Swap remaining NUM to USDe of stablecoinsPASSED
+
+* Proposer: Phoebe
+* Proposal Type: Text Proposal
+* Date: Submit on 2024.12.03, Passed on 2024.12.11
+* Details:[ ](https://www.mintscan.io/likecoin/proposals/62)[https://ping.pub/likecoin/gov/87](https://ping.pub/likecoin/gov/87)
+
+## Proposal #86 Signalling proposal: Allocation of 69.26k USD Budget for LikeCoin 3.0 Migration Development (Phase 1)
+
+* Proposer: ckxpress
+* Proposal Type: Text Proposal
+* Date: Submit on 2024.11.21, Passed on 2024.11.29
+* Details:[ ](https://www.mintscan.io/likecoin/proposals/62)[https://ping.pub/likecoin/gov/86](https://ping.pub/likecoin/gov/86)
+
 ## Proposal #85 Signalling proposal: Migrate LikeCoin to Ethereum OP Mainnet
 
 * Proposer: ckxpress
