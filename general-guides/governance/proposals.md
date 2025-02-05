@@ -6,6 +6,20 @@ description: LikeCoin DAO 有過什麼議案？
 
 ![歷史議案](../../.gitbook/assets/LikeCoin_AD59_Banner.png)
 
+## 議案 #87 **指引式議案：**&#x5C07;剩餘的 NUM 兌換為穩定幣 USDe
+
+* **提案：**&#x50;hoebe
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2024.12.03 提案，2024.12.11 通過
+* **詳情**：[https://ping.pub/likecoin/gov/87](https://ping.pub/likecoin/gov/87)
+
+## 議案 #86 **指引式議案：**&#x5206;配 69,260 美元預算用於 LikeCoin 3.0 遷移開發（第一階段）
+
+* **提案：**&#x63;kxpress
+* **類型**：文本式議案 ( Text Proposal )
+* **日期**：2024.11.21 提案，2024.11.29 通過
+* **詳情**：[https://ping.pub/likecoin/gov/86](https://ping.pub/likecoin/gov/86)
+
 ## 議案 #85 **指引式議案：**&#x5C07; LikeCoin 遷移至以太坊 OP 主網
 
 * **提案：**&#x63;kxpress
