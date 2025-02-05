@@ -6,7 +6,7 @@ description: How many proposals proceeded by the LikeCoin DAO?
 
 ![Proposals](<../../.gitbook/assets/LikeCoin_AD59_Banner (1).png>)
 
-## Proposal #87 Signalling proposal: Swap remaining NUM to USDe of stablecoinsPASSED
+## Proposal #87 Signalling proposal: Swap remaining NUM to USDe of stablecoins
 
 * Proposer: Phoebe
 * Proposal Type: Text Proposal

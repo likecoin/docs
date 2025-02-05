@@ -1,5 +1,15 @@
 # Activities and Events
 
+## 2025
+
+#### 02/08-09 數位經濟暨產業發展協會(DTA)
+
+[Web 3 電子書店及數位出版工作坊](https://www.accupass.com/event/2501250159011440351871)
+
+#### 02/04 台北國際書展
+
+[從財富自由到資訊自由](https://www.tibe.org.tw/tw/calendar/63/5390)
+
 ## 2024
 
 #### 11/14 我城我書 / One City One Book Hong Kong <a href="#id-100506-ying-guo-xiang-gang-shu-zhan" id="id-100506-ying-guo-xiang-gang-shu-zhan"></a>

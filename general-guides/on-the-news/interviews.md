@@ -1,5 +1,11 @@
 # Interviews and Features
 
+## 2025 <a href="#id-08-07-852dev" id="id-08-07-852dev"></a>
+
+#### 01/20 OPEN Book 閱讀誌
+
+[話題》區塊鏈關出版什麼事？數位出版2.0—絕版經典共榮再生計畫](https://www.openbook.org.tw/article/p-70258)
+
 ## 2023 <a href="#id-08-07-852dev" id="id-08-07-852dev"></a>
 
 #### 08/07 852Dev <a href="#id-08-07-852dev" id="id-08-07-852dev"></a>
