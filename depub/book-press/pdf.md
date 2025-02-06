@@ -219,7 +219,7 @@ description: 使用 Liker Land Book Press 上架 PDF 電子書
 
 * **Force NFT claim before view** - 選取 **Must claim NFT to view** 代表讀者一定要領取電子書方可閱讀
 * **Disable File Download** - 選取 **Disable Download** 代表不讓讀者下載電子書，只容許線上閱讀
-* **Insert cutomized message page in eBook** - 選擇 **Enable custom message page** 將自動插入簽名頁於 EPUB 檔案中（不適用於 PDF 檔案）
+* **Insert cutomized message page in eBook** - 選擇 **Enable custom message page** 將自動插入簽名頁於檔案中
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23j.png" alt=""><figcaption><p>DRM Options</p></figcaption></figure>
 
