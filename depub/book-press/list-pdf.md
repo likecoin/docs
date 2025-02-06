@@ -220,7 +220,7 @@ Manage digital rights in DRM Options:
 
 * **Force NFT claim before view** - Selecting Must claim NFT to view means that readers must claim the ebook to read
 * **Disable File Download** - Selecting Disable Download means not allowing readers to download the ebook, only allowing online reading.
-* **Insert cutomized message page in ebook** - Automatically insert a custom message page into the EPUB file (Not applicable to PDF)
+* **Insert cutomized message page in ebook** - Automatically insert a custom message page into the PDF file
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23j.png" alt=""><figcaption><p>DRM Options</p></figcaption></figure>
 
