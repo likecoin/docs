@@ -124,7 +124,7 @@ Result is order by the number of NFTs not owned by creator nor `ignore_list`
         "description": "...",
         "nft_meta_collection_id": "likerland_writing_nft",
         "nft_meta_collection_name": "Writing NFT",
-        "nft_meta_collection_descrption": "Writing NFT by Liker Land"
+        "nft_meta_collection_description": "Writing NFT by Liker Land"
       },
       "parent": {
         "type": "ISCN",
