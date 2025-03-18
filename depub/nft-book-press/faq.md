@@ -4,49 +4,72 @@ description: ebook FAQ
 
 # FAQ: Listing ebooks
 
-Book Press provides self-publishing services for Liker Land. We offer authors and publishers a platform to self-publish their works, and we also act as a distributor. As an author, you become both the creator and publisher of your work. Liker Land serves as an ebook service to sell your works, without claiming any copyright or demanding a share of profits from sales on other platforms.
+## What You Need to Know:
 
-If you have any questions, feel free to contact us at [publish@liker.land](mailto:publish@liker.land).
+* You must accept these Publishing Terms and Conditions in order to publish works on Liker Land.
+* You may need to periodically accept revised versions of these Publishing Terms and Conditions.
 
-***
+## FAQ
 
-## ebook rights attribution
+[Book Press](https://publish.liker.land/) is a self-publishing service provided by [Liker Land](https://liker.land/en/).
 
-Liker Land is only responsible for acting as an agent to distribute your work on our platform. The publishing rights and copyrights of the ebook still belong to the author (or legal representative). Liker Land reproduces and publishes the ebook with your authorized consent.
+Authors/publishers can list and sell their works on Liker Land, allowing authors to self-publish or act as a publishing house. Liker Land serves as an eBook platform for selling your works, without holding any copyright or requiring a share of the profits earned from selling your works on other platforms.
 
-## ebook Platform Service Fee
-
-ebook platforms typically charge a certain percentage as a service fee:
-
-Generally, this fee is 35% of the actual selling price. 30% is the sales channel commission\*, while the remaining 5% is the platform fee.
-
-\*The commission earned from sales through the Liker Land website. Liker Land recommends a uniform approach for any channel (such as bookstores, websites, or KOLs), where a 30% profit share encourages more people to assist with sales. Liker Land provides tools for authors to generate different URL links, which can be assigned to various channels. Transactions achieved through specific links record channel data, allowing authors to distribute income to those channels. Authors are responsible for ensuring that channels use the correct links for book sales. Liker Land categorizes all transactions not using channel-specific links as sales directly through Liker Land.
-
-## Network Fee
-
-The actual cost depends on the file size and exchange rates, making it difficult to be calculated precisely. However, if you already have a file, you can directly estimate it using the system.
-
-For example, let's consider Zhou Zuoren's book "雨天的書" (The Book of Rainy Days). The storage fee for a 2.7 MB file is 0.12 USD (charged only once). Additionally, printing one ebook costs approximately 0.005 USD (based on the number of copies printed).
-
-## ebook Royalties
-
-The calculation for ebook royalties is as follows:
-
-Actual selling price of the book deducting the platform service fee is the net amount available for royalties.
-
-For ebooks, the formula is:
-
-ebook Royalty = (Actual Selling Price) × 35% + (Actual Selling Price × 4.4% for Stripe credit card fees) + $0.30
-
-For example, if your book is listed on Liker Land with a selling price of $100, the royalty you would receive per sale is:
-
-Royalty = 100 × 35% + (100 × 4.4% + 0.3) = $39.7 per book
+If you have any further questions, feel free to contact us at [publish@liker.land](mailto:publish@liker.land).
 
 ***
 
-## Distribution Agent Off-Shelf
+## eBook Rights Ownership
 
-If you need to take your book off the shelves for any reason, please notify us by email at [publish@liker.land](mailto:publish@liker.land). We reserve the right to terminate users' access to the service or remove content. If you believe your content has been copied in a way that infringes copyright or trademark rights, or violates your public or other intellectual property rights, please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSfdFQH3TqY8US2TEkaJCMj4b5xgZamdvEC1YVwKadUX_qORaA/viewform) to notify us (see the terms related to [DMCA](https://likecoin.notion.site/liker-land-Terms-of-Service-dfcc13cf114e4fbc809c25559ce1d0e8) for details).
+Liker Land is solely responsible for distributing your works on its platform. The publishing rights and copyrights of eBooks remain with the author (or their legal representative). Liker Land converts and publishes the works for sale based on your authorized agreement.
+
+## Platform Service Fees
+
+The fees are charged as a service fee for the eBook platform, denominated in USD.
+
+* Liker Land Platform Service Fee: _5%_ of the sale price
+* Sales Channel Commission\*: _30%_ of the sale price
+* Stripe Credit Card Fee: _4.4%_ of the actual sale price (credit card processing fee by Stripe) + _$0.30_
+* If readers provide additional tips, Liker Land charges a _10%_ commission on the tipping amount.
+
+### Example:
+
+If your book is listed on Liker Land with a price of $100:
+
+For each sale made through your own channels, the **basic platform service fee** is:
+
+> Liker Land Platform Service Fee + Stripe Credit Card Fee\
+>> \
+> \= ( 100 x 5% ) + ( 100 x 4.4% + 0.30 )\
+>> \
+> \= $9.70 per book
+
+For each sale made through other sales channels, the **basic platform service fee** and the **sales channel commission** are:
+
+> Sales Channel Commission + Liker Land Platform Service Fee + Stripe Credit Card Fee\
+>> \
+> \= ( 100 x 30% ) + ( 100 x 5% ) + ( 100 x 4.4% + 0.30 )\
+>> \
+> \= $39.70 per book
+
+_\*Liker Land suggests a unified profit-sharing rate of 30% for any channel, such as bookstores, websites, or Key Opinion Leaders (KOLs), to encourage more people to assist with sales. Liker Land provides tools for authors to generate unique URLs for different channels. Transactions made through specific links will record channel data, allowing authors to distribute revenue shares to the channels. Authors are responsible for ensuring that channels use the correct links to sell books. All transactions not using channel-specific links will be categorized as sales made directly through Liker Land._
+
+## eBook Royalty Calculation
+
+The eBook royalty you receive is the actual sales amount of the book minus the platform service fee, approximately 60% of the book's sale price.
+
+Using the examples above:
+
+1. For a book priced at $100 and sold through your own channels, the basic platform service fee is $9.70. The publisher or author will receive an eBook royalty of $90.30 per book.
+2. For a book priced at $100 and sold through other channels, the basic platform service fee and sales channel commission amount to $39.70 per book. The publisher or author will receive an eBook royalty of $60.30 per book.
+
+***
+
+## How to Remove Works from Distribution
+
+If you need to take your book off the platform for any reason, please notify us by email at [publish@liker.land](mailto:publish@liker.land). We reserve the right to terminate user access to the service or remove works from the platform.
+
+If you believe that your content has been copied in a way that infringes upon your copyright or trademark rights, or violates your publicity or other intellectual property rights, please [fill out a form](https://forms.gle/9xzqKZyp91uVyDQ27) to notify us (see related terms of use under the [DMCA](https://likecoin.notion.site/liker-land-Terms-of-Service-dfcc13cf114e4fbc809c25559ce1d0e8) for details).
 
 ***
 
