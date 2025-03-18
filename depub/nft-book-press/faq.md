@@ -32,7 +32,7 @@ The fees are charged as a service fee for the eBook platform, denominated in USD
 * Stripe Credit Card Fee: _4.4%_ of the actual sale price (credit card processing fee by Stripe) + _$0.30_
 * If readers provide additional tips, Liker Land charges a _10%_ commission on the tipping amount.
 
-### Example:
+Example:
 
 If your book is listed on Liker Land with a price of $100:
 
@@ -105,7 +105,7 @@ After your book is listed, you can freely adjust the price or run promotional di
 
 ## Publishing Process
 
-## Book Cover
+### Book Cover
 
 A completed EPUB file already includes the book cover, so there's no need to upload it separately. However, if you're uploading a non-EPUB format file, you'll need to upload a separate cover image. For PDF files, an independent image file serves as the book cover.
 
