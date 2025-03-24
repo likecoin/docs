@@ -44,7 +44,7 @@ After claming the book, click “Open Book” and select any one of the file for
 
 If the author of the purchased ebook allows downloading the file, click the download icon in the top right corner to download the book file.
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>Click download icon to download the ebook</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Click download icon to download the ebook</p></figcaption></figure>
 
 Read more:
 

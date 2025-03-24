@@ -14,7 +14,13 @@ Users can click “Open Book” and select any one of the file formats to read t
 
 If the author of the purchased ebook allows downloading the file, click the download icon in the top right corner to download the book file.
 
+### EPUB
+
 <figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>Click download icon to download the ebook</p></figcaption></figure>
+
+### PDF
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 13.png" alt=""><figcaption><p>Click download icon to download the ebook</p></figcaption></figure>
 
 Read more:
 
