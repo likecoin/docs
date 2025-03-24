@@ -44,7 +44,7 @@ description: 贈書給親朋好友
 
 如所購買電子書的作者容許下載電子書檔案，點右上角下載圖示即可下載書檔。
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>下載書檔</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>下載書檔</p></figcaption></figure>
 
 繼續了解：
 

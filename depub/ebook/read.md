@@ -14,7 +14,13 @@ description: 如何閱讀電子書
 
 如所購買電子書的作者容許下載電子書檔案，點右上角下載圖示即可下載書檔。
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>下載書檔</p></figcaption></figure>
+### EPUB
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>EPUB 下載書檔</p></figcaption></figure>
+
+### PDF
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 13.png" alt=""><figcaption><p>PDF 下載書檔</p></figcaption></figure>
 
 繼續了解：
 
