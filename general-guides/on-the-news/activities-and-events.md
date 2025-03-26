@@ -6,6 +6,8 @@
 
 [Web 3 電子書店及數位出版工作坊](https://www.accupass.com/event/2501250159011440351871)
 
+[☁️Web3電子書店及數位出版工作坊側記☁️](https://islandoflight.tw/events/356)
+
 #### 02/04 台北國際書展
 
 [從財富自由到資訊自由](https://www.tibe.org.tw/tw/calendar/63/5390)

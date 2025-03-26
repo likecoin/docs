@@ -25,7 +25,7 @@ description: >-
 
 ## **2025 Date & Schedule**
 
-<table><thead><tr><th width="196">Date </th><th>Description</th></tr></thead><tbody><tr><td>Monday, 3 March</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>Monday, 3 February</td><td>LikeCoin 3.0 Migration Strategy with Updated Timeline and Testing Plan</td></tr><tr><td>Monday, 6 January</td><td>Key Points and Progress of LikeCoin 3.0 Migration Plan</td></tr></tbody></table>
+<table><thead><tr><th width="196">Date </th><th>Description</th></tr></thead><tbody><tr><td>Monday, 7 April</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>Monday, 3 March</td><td>Seamless Migration Ahead: Unveiling the New UI Design</td></tr><tr><td>Monday, 3 February</td><td>LikeCoin 3.0 Migration Strategy with Updated Timeline and Testing Plan</td></tr><tr><td>Monday, 6 January</td><td>Key Points and Progress of LikeCoin 3.0 Migration Plan</td></tr></tbody></table>
 
 
 
