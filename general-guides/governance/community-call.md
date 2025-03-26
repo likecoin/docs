@@ -22,7 +22,7 @@ description: 任何人也歡迎參與公開的社群會議。這個每月舉行�
 
 ## 2025 日期及議程
 
-<table><thead><tr><th width="169">日期</th><th>描述</th></tr></thead><tbody><tr><td>星期一，3月3日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>星期一，2月3日</td><td>LikeCoin 3.0 Migration Strategy with Updated Timeline and Testing Plan</td></tr><tr><td>星期一，1月6日</td><td>Key Points and Progress of LikeCoin 3.0 Migration Plan</td></tr></tbody></table>
+<table><thead><tr><th width="169">日期</th><th>描述</th></tr></thead><tbody><tr><td>星期一，4月7日</td><td>Get updates from the builders. Covering products updates and community news.</td></tr><tr><td>星期一，3月3日</td><td>Seamless Migration Ahead: Unveiling the New UI Design</td></tr><tr><td>星期一，2月3日</td><td>LikeCoin 3.0 Migration Strategy with Updated Timeline and Testing Plan</td></tr><tr><td>星期一，1月6日</td><td>Key Points and Progress of LikeCoin 3.0 Migration Plan</td></tr></tbody></table>
 
 ## 2024 日期及議程
 
