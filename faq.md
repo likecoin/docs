@@ -6,19 +6,19 @@ description: Liker Land 常見問題
 
 ![](.gitbook/assets/LikeCoin_AD27_Small_Update-01.png)
 
-## [項目概覽](./)
+## [項目概覽](<README (1).md>)
 
-* [LikeCoin 是什麼？](./)
+* [LikeCoin 是什麼？](<README (1).md>)
 * [有媒體報導可以參詳嗎？](general-guides/on-the-news.md)
 * [LikeCoin 有提供品牌形象指引和相關素材下載麼？](general-guides/branding.md)
 * [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://go.crisp.chat/chat/embed/?website_id=5c009125-5863-4059-ba65-43f177ca33f7)
 * [想與社群及更多用戶聯繫分享經驗，有渠道嗎？](general-guides/community/)
 
-## [去中心出版](./)
+## [去中心出版](<README (1).md>)
 
 * [上架電子書的常見問題](depub/faq.md)
 * [Writing NFT 常見問題](depub/writing-nft.md)
-* [什麼是去中心出版 #DePub？](./)
+* [什麼是去中心出版 #DePub？](<README (1).md>)
 * [ISCN 是什麼？](depub/what-is-iscn/)
 * [ISCN 和 IPFS 的關係是什麼？](depub/what-is-iscn/iscn-ipfs-relationship.md)
 * [ISCN 的分散特性對內容生態有什麼好處？ ](depub/what-is-iscn/benefits.md)

@@ -1,6 +1,7 @@
 # Table of contents
 
-* [LikeCoin - 去中心出版](README.md)
+* [從 Liker.Land 遷到 3ook.com](README.md)
+* [LikeCoin - 去中心出版](<README (1).md>)
 * [Liker Land 答客問](faq.md)
 
 ## 📕 去中心出版 <a href="#depub" id="depub"></a>

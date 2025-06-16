@@ -1,61 +1,49 @@
 ---
-description: 有關 LikeCoin、去中心出版、及 LikeCoin DAO
+description: Liker Land 的用戶可根據以下簡單步驟，把帳戶從 Liker Land 遷移到 3ook.com。
 ---
 
-# LikeCoin - 去中心出版
+# 從 Liker.Land 遷到 3ook.com
 
-<figure><img src=".gitbook/assets/LCF001-key visual v4.1-1.jpg" alt=""><figcaption><p>#DePub 去中心出版</p></figcaption></figure>
+**步驟一**：訪問 [Liker ID 及 LikeNFT 轉移網站](https://v3-book-migration.like.co/)
 
-### LikeCoin 是什麼
+**步驟二**：閱讀遷移簡介，點「確認」
 
-[LikeCoin](https://like.co/) 讓每一個人以 NFT 的方式實踐去中心出版（[NFT Portal & Widget](https://app.like.co/), [Writing NFT WordPress 外掛](https://wordpress.org/plugins/likecoin/)、[開放 APIs](https://api.like.co/)）。
+<figure><img src=".gitbook/assets/image (46).png" alt="" width="375"><figcaption></figcaption></figure>
 
-### 內容擁有權
+**步驟三**：點擊「連接 LikeCoin 錢包」按鍵，登入 Liker Land 帳號。系統會彈出登入選項，請以你慣常的方式登入，例如以 Google 登入、電郵地址及密碼登入、或以 Keplr 錢包登入等。成功登入 Liker Land 後，畫面會顯示目前你登入的帳戶資料，請核實這是你將要遷移的帳號。
 
-在 LikeCoin 上[出版 NFT](depub/nft-portal/)，獲得內容擁有權的憑證。
+<figure><img src=".gitbook/assets/step3.jpg" alt="" width="375"><figcaption><p>點擊「連接 LikeCoin 錢包」按鍵</p></figcaption></figure>
 
-### 去中心出版
+<figure><img src=".gitbook/assets/image (99).png" alt="" width="375"><figcaption><p>成功登入 Liker Land 後，會顯示你帳號的資料</p></figcaption></figure>
 
-鑄造並[售賣作品的 NFT](https://liker.land/zh-Hant/store)。作者在市場售賣 NFT，有如在 Amazon 售賣電子書或在書店售賣書籍一般。
+**步驟四**：點擊「連接對應錢包」按鍵，登入 3ook.com 帳號。建議選用電郵登入。若你已有以太坊的錢包，並想把 Liker Land 現有的書都轉移到那錢包的話，也可以選以選當前的錢包地址。只要你的瀏覽器有安裝到 MetaMask, Rabby 或 Keplr，系統便會顯示對應的錢包登入選項。
 
-### 專為內容而設計的 NFT
+注意：
 
-NFT 可以是任何唯一的數位資料。一封電郵、一張照片、一個身份或一本書，都可以是 NFT。\
-\
-**LikeCoin 的** [**Writing NFT**](depub/writing-nft.md) 專為文字內容的需要而設計。以傳統的出版流程類比，「作品產權 - 印刷成書 - 上架販賣」可比 LikeCoin 的「產權元數據註冊 – 生成 NFT – 上架 NFT 市場」。在物理世界中出版可能有諸多限制，在元宇宙中的出版和價值交換卻更靈活和恆久。
+* 若你決定以錢包登入，請先選定**當前**的錢包地址，因為一旦簽署，選定的錢包地址便會跟 Liker Land 的帳號綁定，無法更改。
+* 若你選擇以電郵登入，日後仍可以把私鑰導出，並導入到支援以太坊的錢包工具，讓你能露活地選用電郵或錢包登入。
 
-![Writing NFT](.gitbook/assets/likecoin_ad115_writingnft_b-01.jpeg)
+<figure><img src=".gitbook/assets/image (100).png" alt="" width="375"><figcaption></figcaption></figure>
 
-![NFT V.S. 傳統出版](<.gitbook/assets/image (3).png>)
+<figure><img src=".gitbook/assets/image (101).png" alt="" width="375"><figcaption><p>建議使用電郵地址登入</p></figcaption></figure>
 
-### LikeCoin DAO
+<figure><img src=".gitbook/assets/image (102).png" alt="" width="375"><figcaption><p>若你選用電郵地址登入，請查看郵箱，並填上 6 位數字驗證碼</p></figcaption></figure>
 
-LikeCoin 代表 [LikeCoin DAO](https://dao.like.co/proposals) 的投票權。每位 LikeCoin 持有人都是 DAO 的持份者。
+**步驟五**：系統會列出你在 Liker Land 的所有書。點擊「確認轉移」按鍵開始轉移。
 
-LikeCoin DAO 持份者一起決策和執行如公共財政、公益建設、政策改動等，所有機制都可持續透過 LikeCoin 的治理機制改善。
+<figure><img src=".gitbook/assets/image (104).png" alt="" width="375"><figcaption></figcaption></figure>
 
-### 開始體驗
+**步驟六**：當畫面出現預計轉移完成時間，代表轉移過程以經開始。由於轉移工作需要排隊處理，或需長一點的時間。你可以先把瀏覽器關掉，稍後再重覆步驟一至三，查看轉移結果。
 
-第一步是擁有 LikeCoin，及使用它來出版或參與治理。你可嘗試在分散式推特 [depub.space](https://depub.space) 發文，到 [dao.like.co](https://dao.like.co/proposals) 投票，或直接以 LikeCoin 打賞作者。
+<figure><img src=".gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
-欲尋找更多 Dapp 應用，[請訪問這裡](https://about.like.co/apps)。
+**步驟七**：登入 3ook.com 查看轉移結果
 
-{% content-ref url="faq.md" %}
-[faq.md](faq.md)
-{% endcontent-ref %}
 
-## 關注 LikeCoin <a href="#learn-more" id="learn-more"></a>
 
-* **網站**：[like.co](https://like.co)（項目基本資訊）、[liker.land](https://liker.land)（Writing NFT）、[app.like.co](https://app.like.co/)（內容上鏈工具）、[iscn.io](https://iscn.io/)（ISCN 技術細節）
-* [**文章**](https://blog.like.co/zh)：項目部落格，進度更新、治理、產品發展
-* [**Discord**](https://discord.gg/likecoin)：社群聚腳點。創作、開發、治理相關討論
-* [**Twitter**](https://twitter.com/likecoin)：項目消息
-* [**Telegram**](https://t.me/likecoin_dao)：一般討論
-* [**GitHub**](https://github.com/likecoin)：開放代碼
-* **Facebook：**[粉專](https://www.facebook.com/Liker.Land)（一般公告），[群組](https://www.facebook.com/groups/likecoin)（創作者）
-* [**Reddit**](https://www.reddit.com/r/LikeCoin/)
+<figure><img src=".gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
-## 聯繫我們 <a href="#contact-us" id="contact-us"></a>
 
-* 客戶服務：點擊[這裡](https://go.crisp.chat/chat/embed/?website_id=5c009125-5863-4059-ba65-43f177ca33f7)
-* 商務合作：partners@like.co
+
+
+
