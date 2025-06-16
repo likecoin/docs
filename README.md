@@ -39,9 +39,9 @@ description: Liker Land 的用戶可根據以下簡單步驟，把帳戶從 Like
 
 **步驟七**：登入 3ook.com 查看轉移結果
 
+轉移完成後，請以步驟四的方式登入 [3ook.com](https://3ook.com/) ，點「書架」，查看你從 Liker Land 搬到 3ook.com 的書。
 
-
-<figure><img src=".gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt="" width="334"><figcaption></figcaption></figure>
 
 
 
