@@ -4,6 +4,8 @@ description: 如何在 Jekyll 開發環境的文章中加入 LikeCoin button
 
 # Jekyll
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 感謝用戶 [PinGuの独り言](https://pingu.moe/2020/01/integrate-likebutton-with-jekyll/) 的教學範本。
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
@@ -28,13 +30,11 @@ https://button.like.co/in/embed/{{site.liker_id}}/button?referrer={{ page.url | 
 先建立讚賞鍵的 HTML 片段
 
 ```
-{% raw %}
 {% if site.liker_id %}
 <iframe
   src="https://button.like.co/in/embed/{{site.liker_id}}/button?referrer={{ page.url | absolute_url | cgi_escape }}">
 </iframe>
 {% endif %}
-{% endraw %}
 ```
 
 &#x20;用 if 檢查 `liker_id` 是否存在。接著要在 post 樣板裡加入剛才的片段，找個接近區段結束的地方寫上 `{% include likeco.html %}`
@@ -42,14 +42,12 @@ https://button.like.co/in/embed/{{site.liker_id}}/button?referrer={{ page.url | 
 建置一次，文章末端已經可以看到讚賞鍵，不過大小還要調整。讚賞鍵的元件會自行適應以維持長寬比，其長寬約為 485px\*240px。使用以下程式碼把它置中自動縮放並隱藏卷軸。
 
 ```
-{% raw %}
 {% if site.liker_id %}
 <iframe
   style="width: 100%; max-width: 485px; height: 240px; margin: auto; overflow: hidden; display: block;"
   src="https://button.like.co/in/embed/{{site.liker_id}}/button?referrer={{ page.url | absolute_url | cgi_escape }}">
 </iframe>
 {% endif %}
-{% endraw %}
 ```
 
 ### 參考文章

@@ -4,6 +4,8 @@ description: 以下為一些詞彙的解說，亦是憲法基礎，助你了解 
 
 # 詞彙表
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## 基本概念 <a href="#id-448e" id="id-448e"></a>
 
 ### LikeCoin DAO

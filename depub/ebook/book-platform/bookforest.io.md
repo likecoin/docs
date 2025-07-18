@@ -4,6 +4,8 @@ description: 購買電子書
 
 # BookForest
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 [BookForest](https://www.bookforest.io/) 是數位出版的未來。 利用區塊鏈的力量，BookForest 讓作者將他們的書籍作為非同質化通證 ( NFT ) 出版，為作者和讀者提供數之不盡的好處。
 
 將書籍作為 NFT 出版的一大顯著優勢是它在區塊鏈上創建了一個獨特的、不可竄改的權有權記錄。確保了書籍為真本，並未以任何方式被更改。此外，NFT 為作者提供了一種安全透明的方式出售作品，因為擁有權及交易歷史被記錄在區塊鏈上。

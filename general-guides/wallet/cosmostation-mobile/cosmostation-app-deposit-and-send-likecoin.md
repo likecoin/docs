@@ -4,6 +4,8 @@ description: 使用 Cosmostation app 直接存入及轉帳 LikeCoin
 
 # Cosmostation app：存入及轉帳
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 在 Cosmostation app 存入 LikeCoin
 
 ### 步驟一

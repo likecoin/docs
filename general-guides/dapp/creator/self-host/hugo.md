@@ -4,6 +4,8 @@ description: 如何在 Hugo 開發環境的文章中加入 LikeCoin button
 
 # Hugo
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 感謝用戶  [Wancat](https://www.wancat.cc/) 的教學範本。
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。

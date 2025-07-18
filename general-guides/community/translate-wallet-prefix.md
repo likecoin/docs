@@ -4,6 +4,8 @@ description: 雙向查詢新舊前綴錢包地址靠 translate wallet prefix
 
 # #translate-wallet-prefix
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 LikeCoin chain 經已於 2022 年 5 月 4 日成功升級為 LaiChiKok 版本。[升級後 LikeCoin 錢包地址已改為 “like1” 新地址前綴並向後兼容舊的 “cosmos1” 前綴](../wallet/like-address-prefix.md)。在 #🔁｜translate-wallet-prefix 頻道可讓用戶雙向查詢新舊前綴錢包地址，方便翻查舊記錄。
 
 1\. 進入 #🔁｜translate-wallet-prefix 頻道。如不能輸入文字請先到 #👍｜verify 頻道進行認證。

@@ -4,6 +4,8 @@ description: 有什麼條件？
 
 # 成為驗證人
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 驗證人完全開放，參選免入閘免審查，任何人都能架起伺服器做驗證人。
 
 {% content-ref url="../" %}

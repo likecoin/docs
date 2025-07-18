@@ -4,6 +4,8 @@ description: 使用 Cosmostation 以文章網址出版 Writing NFT
 
 # Cosmostation
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## 登入 NFT Portal <a href="#login-to-nft-portal" id="login-to-nft-portal"></a>
 
 請於桌面電腦瀏覽器登入 [Cosmostation 瀏覽器擴充功能](../../general-guides/wallet/cosmostation/)後，直接進入 [**NFT Portal** ](https://app.like.co/nft/url)並選擇以 Cosmostation 登入網站。

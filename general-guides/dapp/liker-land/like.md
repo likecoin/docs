@@ -4,6 +4,8 @@ description: 「化讚為賞」的去中心讚賞如何運作？
 
 # Like — 化讚為賞
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 任何網站和只需安裝讚賞鍵就能化讚為賞 — — 讀者每一按讚，作者都能獲得收入。
 
 已登記 [Liker ID](../liker-id/) 的 Liker 可方便地拍手 / 按讚 / Like 讚賞作者。文章中凡出現[讚賞鍵](../creator/)，便可以按讚 1 至 5 次，每次拍掌都會為創作者獲得每天發放其中一部份「[創作基金](../civic-liker/creators-fund.md)」的收入。

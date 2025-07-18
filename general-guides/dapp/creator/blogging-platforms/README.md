@@ -4,6 +4,8 @@ description: 我不懂自架網站，有什麼第三方寫作平台直接支援 
 
 # 其他寫作平台
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 ## Medium
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)\

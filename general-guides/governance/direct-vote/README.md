@@ -4,7 +4,11 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 # 持份者直接投票
 
-自 LikeCoin chain 升級 FoTan 後，每位經已委託 LikeCoin 予驗證人的持份者都可以直接就議案投票。
+
+
+{% include "../../../.gitbook/includes/warning.md" %}
+
+自 LikeCoin chain 升級 FoTan 後，每位經已委託 LikeCoin 予驗證人的持份者都可以直接就議案投票。
 
 以往驗證人投票即是代表你投票，但現在你可以為自己的想法作主，例如你的驗證人在議案投反對票，你依然可以就你的持份投下支持一票。然而如果你沒有直接投票，就會以你信任的驗證人的選擇為你的選擇。
 

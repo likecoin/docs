@@ -4,6 +4,8 @@ description: 如何閱讀電子書
 
 # 閱讀電子書
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## 步驟一：閱讀電子書
 
 用戶可點「打開書本」打開其中一種格式的電子書直接閱讀。

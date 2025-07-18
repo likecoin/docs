@@ -4,6 +4,8 @@ description: 隨心收藏 – 嵌在文章中的銷售點
 
 # NFT 小部件
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 讀者[收藏 NFT](./) 的過程十分簡單。
 
 一般的 NFT 市場（例如 [Opensea](https://opensea.io/)）都是一個匯聚不同商家和商品的市場，但這種市場不適合單篇內容文章的創作者，因為逛市場跟閱讀是割裂的行為，若讀者在閱讀時需轉進另一個 NFT 市場的網站去購買 NFT，會打斷了閱讀的體驗。

@@ -1,5 +1,7 @@
 # 以桌機投票
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 於 dao.like.co 投票
 
 ### 步驟一：委託 LikeCoin

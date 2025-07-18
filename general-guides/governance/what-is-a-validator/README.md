@@ -4,6 +4,8 @@ description: 驗證人 ( Validators ) 是什麼？
 
 # 驗證人
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ![驗證人](../../../.gitbook/assets/LikeCoin_AD78_PostList_1213.png)
 
 ## 銀行+立委 <a href="#bank-legco" id="bank-legco"></a>

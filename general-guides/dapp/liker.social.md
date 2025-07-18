@@ -4,6 +4,8 @@ description: 什麼是 Liker.Social
 
 # Liker.Social
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 [Liker.Social](https://liker.social/) 是一個 Microblog 社交媒體，同樣的服務還有 Twitter 等。與其他 Mastodon blog 不同之處是 Liker.Social 支援化讚為賞。用戶也可以在其上[註冊 ISCN 及出版 Writing NFT](../../depub/nft-portal/#publish-writing-nft-on-liker.social)。
 
 ### 更多詳情

@@ -4,6 +4,8 @@ description: 安裝 Leap 步驟如下，緊記保存好助記詞
 
 # 安裝 Leap 瀏覽器擴充功能
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 步驟一：安裝 Leap 瀏覽器擴充功能
 
 到 [Leap 網站](https://www.leapwallet.io/)了解瀏覽器擴充功能後點「Install Leap for Cosmos」。

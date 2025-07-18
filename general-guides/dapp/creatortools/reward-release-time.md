@@ -4,6 +4,8 @@ description: 何時才能收到 LikeCoin 奬勵？
 
 # 奬勵發放時間
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 讀者按讚後創作者需要等待一天才能收到來獎勵，因為它們來自按日結算的創作基金。
 
 [讚賞公民](../civic-liker/)用戶為作品按讚可自行分配讚賞公民節點的委託回報，創作者將根據按讚多寡收到相應的 LikeCoin 奬勵。

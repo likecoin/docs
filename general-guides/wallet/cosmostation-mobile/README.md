@@ -4,6 +4,8 @@ description: Cosmostation 手機版
 
 # Cosmostation 手機錢包
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 除了瀏覽器錢包，Cosmostation 亦支援手機版，用戶可於 iOS 或 Android 下載 Cosmostation 手機應用程式管理你的 [LikeCoin](https://like.co/)。[Cosmostation 亦設有瀏覽器錢包](../cosmostation/)，同樣支援 LikeCoin chain。
 
 留意用戶暫時不能使用 Cosmostation 註冊 Liker ID。

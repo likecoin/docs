@@ -4,6 +4,8 @@ description: 存入保證金讓議案投票得以展開
 
 # 為議案存入保證金
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 自 [LikeCoin chain](likecoin-chain.md) 升級 FoTan 後，每位 Liker 都可以直接存入議案進入投票程序所需的保證金。
 
 所有驗證人均可以動議議案，議案需於兩週內獲任何人存入十萬 [LikeCoin](https://like.co/) 保證金才可以進入投票程序。

@@ -4,6 +4,8 @@ description: 電子書太好賣了，怎樣上架更多
 
 # 補書上架
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 補書上架跟平常上架電子書的方式類同，只是有一點要注意。
 
 ## 步驟一：預備補書的 NFT Class ID <a href="#mint-nft-book" id="mint-nft-book"></a>

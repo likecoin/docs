@@ -4,6 +4,8 @@ description: 查看有哪些裝置登入過你的 Liker ID
 
 # 管理登入裝置
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 {% hint style="info" %}
 以下內容只適用於[以電郵或社交登入 ( Authcore ) 註冊的 Liker ID](./)。
 {% endhint %}

@@ -4,6 +4,8 @@ description: 使用 Liker Land Book Press 上架 PDF 電子書
 
 # 上架 PDF 電子書
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## 在 Liker Land 上架 PDF
 
 首先製作好電子書的 PDF 檔案，並預備好之後需要輸入的 Metadata。Metadata 即是[元數據](../what-is-iscn/)。包括書名、作者、封面圖、出版日期、描述等內容。\

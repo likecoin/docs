@@ -4,6 +4,8 @@ description: 持續創作，但收不到電郵報告，何解？
 
 # 每月創作進度
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 「Liker Land 每月報告」電郵只會發給該月有收入的作者。例：你會在 8 月 1 日收到 7 月份的報告。
 
 另有兩種情況，會導致收不到電郵報告：

@@ -4,6 +4,8 @@ description: 在二級市場自由買賣 NFT
 
 # 二級市場
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 [LikeCoin](https://like.co/) NFT [二級市場](https://likecoin.github.io/likecoin-nft-marketplace/)原型出爐，實現 NFT 自由買賣。你可以在上面檢閱和購買用戶正在出售的 NFT，也可以找到最新的買賣數據。&#x20;
 
 ## 教學影片

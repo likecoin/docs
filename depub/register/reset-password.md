@@ -4,6 +4,8 @@ description: 無法以社交帳號登入 Liker ID，怎麼辦？不知何解無�
 
 # 重設密碼
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 {% hint style="info" %}
 以下內容只適用於[以電郵或社交登入 ( Authcore ) 註冊的 Liker ID](./)。
 {% endhint %}

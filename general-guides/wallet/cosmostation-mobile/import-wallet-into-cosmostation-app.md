@@ -4,11 +4,13 @@ description: 在 Cosmostation app 導入助記詞並建立錢包
 
 # 在 Cosmostation app 導入錢包
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 安裝 Cosmostation app 後導入錢包
 
 ### 步驟一：安裝 Cosmostation 手機應用程式
 
-到 [Apple App Store](https://apps.apple.com/us/app/cosmostation/id1459830339) 或 [Google Play](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion\&hl=en\_US\&gl=US) 下載 Cosmostation。
+到 [Apple App Store](https://apps.apple.com/us/app/cosmostation/id1459830339) 或 [Google Play](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion\&hl=en_US\&gl=US) 下載 Cosmostation。
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 1.png" alt=""><figcaption><p>下載 Cosmostation</p></figcaption></figure>
 

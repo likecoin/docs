@@ -1,5 +1,7 @@
 # 以手機委託 LikeCoin
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 使用手機瀏覽器於 dao.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
 
 使用手機瀏覽器於 [dao.like.co](https://dao.like.co/) 可配合 [Authcore](../../../depub/register/) 進行委託，步驟與[以桌機於 dao.like.co 委託 LikeCoin](on-desktop.md#delegate-via-dao.like.co) 相同。

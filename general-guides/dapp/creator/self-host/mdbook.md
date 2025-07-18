@@ -4,6 +4,8 @@ description: 如何在 mdBook 開發環境的文章中加入 LikeCoin button
 
 # mdBook
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 感謝用戶 [道場除草機](https://dltdojo.github.io/taichu-crypto/dao/likecoin.html) 的教學範本。
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。

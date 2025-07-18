@@ -4,6 +4,8 @@ description: 容許他人為你傳送 NFT
 
 # 管理 Authz 授權
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 到 [Liker Land Book Press](https://publish.liker.land/) 網站，進入網站後點左下角「Sign in」連結錢包，再點「[NFT Authz Grants](https://publish.liker.land/authz)」。
 
 ### Send NFT Authz Grants Management Page

@@ -4,6 +4,8 @@ description: 導出支持者錢包地址，再群發 NFT 給他們
 
 # 群發 NFT 紀念品給支持者
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## 教學影片
 
 [導出支持者錢包地址，再群發 NFT 給他們 （廣東話）](https://www.youtube.com/watch?v=APw46UIzJLM)

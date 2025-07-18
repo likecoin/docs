@@ -4,6 +4,8 @@ description: 領回已委託的 LikeCoin，留意 21 天冷卻期
 
 # 取回委託 LikeCoin
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 取回委託的注意事項
 
 一旦確認了取回委託，會發生以下事情：

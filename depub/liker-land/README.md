@@ -4,6 +4,8 @@ description: 網頁版的 Liker Land
 
 # Liker Land 功能介紹
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 登入網頁版的 [https://Liker.Land](./#xuan-xiang-yi-wo-de-shu-jia-httpsliker.landdashboard) 後點右上角的頭像出現其他操作選項。​
 
 <figure><img src="../../.gitbook/assets/Liker Land menu.png" alt=""><figcaption><p>Liker Land 操作選項</p></figcaption></figure>

@@ -4,6 +4,8 @@ description: NFT 好幫手
 
 # 其他 NFT 工具
 
+{% include "../.gitbook/includes/warning.md" %}
+
 ## LikeCoin NFT Dashboard
 
 [**LikeCoin NFT Dashboard**](https://likecoin.github.io/likecoin-nft-dashboard/#/) 方便查找最新 ( [Latest NFT](https://likecoin.github.io/likecoin-nft-dashboard/#/list) ) 及最多人購買 ( [Top NFT](https://likecoin.github.io/likecoin-nft-dashboard/#/) ) 等 NFT 數據，也可以知道誰人收藏最多 NFT ( [Top Collector](https://likecoin.github.io/likecoin-nft-dashboard/#/collector) )。

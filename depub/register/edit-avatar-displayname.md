@@ -4,13 +4,13 @@ description: 讓自己的性格更特出
 
 # 修改頭像及顯示名稱
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## 修改方法
 
 到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
 
 <figure><img src="../../.gitbook/assets/Liker Land Authcore Web 01.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
-
-
 
 點 Email/Social 或 Keplr 登入。
 

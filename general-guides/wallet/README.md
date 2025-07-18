@@ -4,6 +4,8 @@ description: 哪些錢包支持 LikeCoin 操作？
 
 # 錢包
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 * [Liker Land - LIKE pay](like-pay.md)
 * [Keplr 瀏覽器擴充功能](keplr/)
 * [Keplr 手機錢包](keplr-mobile/)

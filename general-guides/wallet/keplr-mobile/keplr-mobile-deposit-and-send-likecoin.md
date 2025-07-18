@@ -4,6 +4,8 @@ description: 使用 Keplr Mobile 直接存入及轉帳 LikeCoin
 
 # Keplr Mobile：存入及轉帳
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 在 Keplr Mobile 存入 LikeCoin
 
 存入 LikeCoin 到 Keplr Mobile，請登入後點錢包地址即可直接複製並黏貼到所需要的地方（交易所或另一個錢包）。
@@ -32,12 +34,4 @@ description: 使用 Keplr Mobile 直接存入及轉帳 LikeCoin
 
 出現 Transaction pending 及 successful 代表轉帳完成，點「Confirm」回到主頁。
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile Transaction Pending.png" alt=""><figcaption><p>Transaction pending</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile Transaction successful.png" alt=""><figcaption><p>Transaction successful</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Keplr mobile Transaction Pending.png" alt=""><figcaption><p>Transaction pending</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr mobile Transaction successful.png" alt=""><figcaption><p>Transaction successful</p></figcaption></figure></div>

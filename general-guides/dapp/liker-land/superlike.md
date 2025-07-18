@@ -4,6 +4,8 @@ description: 何謂 Super Like？
 
 # Super Like — 推文到宇宙
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ![Super Like](../../../.gitbook/assets/likecoin_ad92_super_like_dragonball.png)
 
 ## 概念

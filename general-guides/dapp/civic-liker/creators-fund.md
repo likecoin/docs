@@ -4,6 +4,8 @@ description: 創作基金目的為鼓勵讀者以按讚回饋優質創作，化�
 
 # 創作基金
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ![創作基金](../../../.gitbook/assets/未命名簡報.jpeg)
 
 創作者所得的回饋來自兩部份：除了讚賞公民的委託回報外，還有「創作基金」奬勵。

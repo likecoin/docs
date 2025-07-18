@@ -4,6 +4,8 @@ description: LikeCoin 水龍頭
 
 # 水龍頭
 
+{% include "../.gitbook/includes/warning.md" %}
+
 使用[水龍頭](https://faucet.like.co/)可獲得少量 LIKE 並開始在 [LikeCoin](https://like.co/) 生態系統中玩耍。每個錢包只可以領取一次。
 
 ## 獲取 LikeCoin 錢包地址

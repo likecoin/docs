@@ -4,6 +4,8 @@ description: LikeCoin button 讚賞鍵有什麼功能？
 
 # LikeCoin button 讚賞鍵
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 LikeCoin button 讚賞鍵，是讀者和你的作品互動的核心，用以讚賞、分享和存檔。
 
 透過每份作品下方的讚賞鍵，讀者可以：

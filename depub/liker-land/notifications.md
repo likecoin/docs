@@ -4,6 +4,8 @@ description: NFT 作者及收藏者雙向互動
 
 # 通知功能
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 [**通知功能**](https://liker.land/zh-Hant/notifications)讓贈送及收藏 NFT 記錄從此一目瞭然，創作者更可以查看收藏者給你的留言，接續進行交流互動。購買與收藏從此再不單向。
 
 登入 [Liker Land 網頁版](https://liker.land/)後點右上角的頭像再點「[通知](https://liker.land/zh-Hant/notifications)」。

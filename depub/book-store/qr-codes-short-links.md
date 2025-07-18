@@ -4,6 +4,8 @@ description: 幫助推廣的好工具
 
 # 批量製作 QR Code 與短網址
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ### Batch Create QR Codes
 
 到 [Liker Land Book Press](https://publish.liker.land/) 網站左下角點 [Batch Create QR Codes](https://publish.liker.land/batch-qrcode/)。

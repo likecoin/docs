@@ -4,6 +4,8 @@ description: 在 illustBuy 出版 Writing NFT
 
 # illustBuy
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 在 [illustBuy](../../general-guides/dapp/creator/blogging-platforms/illustbuy.md) 出版 NFT 亦同樣簡易。
 
 ## 教學影片

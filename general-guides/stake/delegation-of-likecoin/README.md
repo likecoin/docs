@@ -4,6 +4,8 @@ description: 存著的 LikeCoin 沒用嗎？不妨考慮委託 ( Delegate ) 給�
 
 # 委託 LikeCoin
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 委託的意思是把 [LikeCoin](https://like.co/) 委託給一個或多個[驗證人 ( Validator )](../../governance/what-is-a-validator/) 賺取回報，每位經已委託 LikeCoin 予驗證人的持份者可以直接就議案投票，也可以交由驗證人在你沒有時間作出決定時代表你為 LikeCoin DAO 議案投票。委託機制是 LikeCoin DAO [流動民主](../../governance/liquid-democracy.md)自治機制非常重要的一環。
 
 {% content-ref url="../../governance/direct-vote/" %}

@@ -4,6 +4,8 @@ description: 在 Keplr Mobile 導入助記詞並建立錢包
 
 # 在 Keplr Mobile 導入錢包
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 請跟隨以下步驟將助記詞或私鑰導入 Keplr Mobile：
 
 ## 安裝 Keplr Mobile 後導入錢包

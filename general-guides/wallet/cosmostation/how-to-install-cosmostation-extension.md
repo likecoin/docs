@@ -4,13 +4,15 @@ description: 安裝 Cosmostation 步驟如下，緊記保存好助記詞
 
 # 安裝 Cosmostation 瀏覽器擴充功能
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 步驟一：安裝 Cosmostation 瀏覽器擴充功能 <a href="#step-1-install-cosmostation" id="step-1-install-cosmostation"></a>
 
 到 [Cosmostation 網站 Wallet 頁面](https://www.cosmostation.io/wallet/#extension)了解瀏覽器擴充功能後點「Get Started」。
 
 ![點「Get Started」](<../../../.gitbook/assets/Comostation 1.png>)
 
-&#x20;跳轉到 Chrome 線上應用程式商店按「加到 Chrome」安裝 [Cosmostation 瀏覽器擴充功能](https://chrome.google.com/webstore/detail/cosmostation/fpkhgmpbidmiogeglndfbkegfdlnajnf?utm\_source=chrome-ntp-icon)。
+&#x20;跳轉到 Chrome 線上應用程式商店按「加到 Chrome」安裝 [Cosmostation 瀏覽器擴充功能](https://chrome.google.com/webstore/detail/cosmostation/fpkhgmpbidmiogeglndfbkegfdlnajnf?utm_source=chrome-ntp-icon)。
 
 ![ Chrome 線上應用程式商店按「加到 Chrome」安裝 Cosmostation](<../../../.gitbook/assets/Comostation 2.png>)
 

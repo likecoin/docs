@@ -1,5 +1,7 @@
 # 以桌機轉移委託
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 於 dao.like.co 轉移委託 LikeCoin <a href="#redelegate-via-dao.like.co" id="redelegate-via-dao.like.co"></a>
 
 ### 步驟一：登入 dao.like.co

@@ -1,19 +1,10 @@
 ---
 description: LikeCoin app 助你探索元宇宙，接通 Web3 世界
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # LikeCoin app
+
+{% include "../../../.gitbook/includes/warning.md" %}
 
 ![LikeCoin app](../../../.gitbook/assets/likecoin_ad72_appstore4_fullpic_chi.png)
 

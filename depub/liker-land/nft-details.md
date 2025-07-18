@@ -4,6 +4,8 @@ description: 了解你的 NFT
 
 # NFT 詳細資訊
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 <figure><img src="../../.gitbook/assets/Buy NFT Details.png" alt=""><figcaption><p>NFT 詳細資訊</p></figcaption></figure>
 
 1. NFT ID：每顆 NFT 獨一無二的 ID

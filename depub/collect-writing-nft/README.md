@@ -4,6 +4,8 @@ description: 如何收藏 Writing NFT
 
 # 收藏 Writing NFT
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 無論有沒有區塊鏈錢包，使用桌機或手機，收藏 Writing NFT 同樣方便。
 
 ## 收藏 NFT 的方式

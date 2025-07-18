@@ -4,6 +4,8 @@ description: Ping.pub 是查看 LikeCoin 交易的工具
 
 # Ping.pub
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 如何在 Ping.pub 查看錢包明細
 
 ### 步驟一

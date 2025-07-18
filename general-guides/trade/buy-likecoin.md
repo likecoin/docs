@@ -4,7 +4,9 @@ description: 如何購買 LikeCoin？
 
 # 購買 LikeCoin
 
-{% hint style="warning" %}
+{% include "../../.gitbook/includes/warning.md" %}
+
+{% hint style="info" %}
 提示：進行任何大額交易前請先作少量嘗試
 {% endhint %}
 

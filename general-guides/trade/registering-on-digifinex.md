@@ -4,6 +4,8 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 # 註冊 DigiFinex 帳號
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 在 DigiFinex 買賣 [LikeCoin](https://like.co/)，請先註冊帳號。請到 [DigiFinex 網站](https://www.digifinex.com/)並按以下步驟註冊：
 
 ## 步驟一：確認密碼，及電子郵箱或手機號碼 <a href="#id-1" id="id-1"></a>
@@ -96,7 +98,7 @@ description: 如何註冊 DigiFinex 交易所帳號
 
 你必須要設定雙重驗證碼否則將不能提幣，請使用手機下載  Google Authenticator 應用程式
 
-[安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh\_TW)\
+[安卓版下載鏈結](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh_TW)\
 [蘋果版下載鏈結](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
 在「基本訊息」頁面的「雙重驗證」欄點「未開啟」出現下圖，點「下一步」

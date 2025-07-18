@@ -4,6 +4,8 @@ description: 使用 Cosmostation 瀏覽器擴充功能錢包直接存入及轉�
 
 # Cosmostation：存入及轉帳
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 在 Cosmostation 存入 LikeCoin  <a href="#deposit-your-likecoin-to-cosmostation" id="deposit-your-likecoin-to-cosmostation"></a>
 
 ### 步驟一

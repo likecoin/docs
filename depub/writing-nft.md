@@ -4,6 +4,8 @@ description: Writing NFT 是代表文字作品擁有權的 NFT
 
 # Writing NFT 常見問題
 
+{% include "../.gitbook/includes/warning.md" %}
+
 ![Writing NFT](../.gitbook/assets/likecoin_ad115_writingnft_b-01.jpeg)
 
 ### 什麼是 Writing NFT?

@@ -4,6 +4,8 @@ description: 為 Matters 文章出版 Writing NFT
 
 # Matters
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## 教學影片
 
 [為 Matters 上的舊文章註冊 ISCN （國語）](https://www.youtube.com/watch?v=y0_mmmIqp3E)

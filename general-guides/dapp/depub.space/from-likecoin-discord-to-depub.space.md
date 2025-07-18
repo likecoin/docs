@@ -4,6 +4,8 @@ description: 使用 LikeCoin Discord「應用程式」功能分享資訊
 
 # 從 LikeCoin Discord 推文到 depub.space
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 [LikeCoin Discord](https://discord.gg/likecoin) 用戶可隨時將精闢討論分享到 [depub.space](./) 與其他用戶分享。
 
 ## 步驟一

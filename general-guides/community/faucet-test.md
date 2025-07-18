@@ -4,6 +4,8 @@ description: 在 faucet testnet 獲取少量 LikeCoin 在測試網試用各種�
 
 # #faucet-testnet
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 LikeCoin Testnet 用戶可於 #💧｜faucet-testnet 獲取少量 [LikeCoin](https://like.co/) 在 testnet 試用各種功能。
 
 1. 進入 #💧｜faucet-testnet 頻道。如不能輸入文字請先到 #👍｜verify 頻道進行認證。

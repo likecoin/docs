@@ -4,6 +4,8 @@ description: 使用 Keplr mobile、Cosmostation app 以手機用 LIKE 購買 Wri
 
 # 以手機用 LIKE 購買 Writing NFT
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## 以手機瀏覽器收藏 Writing NFT <a href="#mobile" id="mobile"></a>
 
 ### 在 Keplr mobile 簽署

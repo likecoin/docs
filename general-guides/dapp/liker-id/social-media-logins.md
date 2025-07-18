@@ -4,6 +4,8 @@ description: 綁定 Google, Facebook, Twitter, Matters, Apple ID，登入更方�
 
 # 綁定社交帳戶
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 {% hint style="info" %}
 以下內容只適用於[以電郵或社交登入 ( Authcore ) 註冊的 Liker ID](../../../depub/register/)。
 {% endhint %}

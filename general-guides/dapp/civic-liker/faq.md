@@ -4,6 +4,8 @@ description: 對讚賞公民 Web3 有問題嗎？可以在這兒找答案
 
 # 常見問題
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 讚賞公民常見問題
 
 ### **1. 讚賞公民對創作社群有何貢獻？**

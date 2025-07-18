@@ -4,6 +4,8 @@ description: 贈書給親朋好友
 
 # 送贈電子書
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 送贈電子書功能只適用於以信用卡付款，送書步驟如下：
 
 ## 步驟一：開始送書

@@ -4,6 +4,8 @@ description: 個人如何透過 Liker Land 書店售賣電子書？
 
 # Liker Land 書店 Affiliation Program
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 一面推坑心儀作品一面賺取收入？從今開始你也可以在推廣電子書佔一席重要位置。
 
 <figure><img src="../../.gitbook/assets/Affiliation Program 0.png" alt=""><figcaption><p>Affiliation Program 介紹</p></figcaption></figure>

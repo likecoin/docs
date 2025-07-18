@@ -4,6 +4,8 @@ description: 如何在 ghost 文章中加入 LikeCoin button
 
 # ghost
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 感謝用戶 [STANLEY TSAU](https://stanleytsau.me/author/daydream/) 的教學範本，留意 [ghost 是需要付費加入會員](https://ghost.org/pricing/)方可使用。
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。

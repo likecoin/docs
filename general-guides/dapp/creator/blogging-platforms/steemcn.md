@@ -4,6 +4,8 @@ description: 如何在 SteemCN 寫作賺取 LikeCoin 成就？
 
 # SteemCN
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
 
 登入 [SteemCN](https://steem.buzz/)，點「設置」 / "Settings"&#x20;

@@ -1,5 +1,7 @@
 # 以桌機取回委託
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 於 dao.like.co 取回委託 LikeCoin <a href="#undelegate-via-dao.like.co" id="undelegate-via-dao.like.co"></a>
 
 ### 步驟一：登入 dao.like.co

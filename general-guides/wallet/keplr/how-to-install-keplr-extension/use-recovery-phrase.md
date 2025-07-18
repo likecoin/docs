@@ -4,6 +4,8 @@ description: 緊記保存好助記詞
 
 # 以助記詞方式註冊新錢包
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 #### 📺教學影片
 
 [如何安裝 Keplr 密碼貨幣錢包並以助記詞註冊（國語）](https://www.youtube.com/watch?v=bPaZk-ehWrg)

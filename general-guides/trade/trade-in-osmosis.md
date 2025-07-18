@@ -4,7 +4,9 @@ description: Osmosis 是去中心交易所，無需註冊，立即交易
 
 # 在 Osmosis 交易
 
-{% hint style="warning" %}
+{% include "../../.gitbook/includes/warning.md" %}
+
+{% hint style="info" %}
 提示：進行任何大額交易前請先作少量嘗試
 {% endhint %}
 

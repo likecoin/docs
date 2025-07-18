@@ -4,6 +4,8 @@ description: Comostation + dao.like.co 管理 LikeCoin 必備
 
 # Comostation + dao.like.co：提存、委託、治理
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 用戶可使用 [dao.like.co](https://dao.like.co/) 錢包介面搭配 [Cosmostation 瀏覽器擴充功能](how-to-install-cosmostation-extension.md)進行各種操作，包括[存入](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-cosmostation)、[轉帳](dao.like.co.md#using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)、[投票](../../governance/direct-vote/)及[查看交易明細](../block-explorer/dao.like.co.md)等。
 
 ## 將 Comostation 連接 dao.like.co <a href="#connect-cosmostation-with-dao.like.co" id="connect-cosmostation-with-dao.like.co"></a>
@@ -32,7 +34,7 @@ description: Comostation + dao.like.co 管理 LikeCoin 必備
 
 <figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>點錢包地址並複製</p></figcaption></figure>
 
-## 使用 dao.like.co + Cosmostation 轉帳 LikeCoin 到其他錢包 <a href="#using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet" id="using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet"></a>
+## 使用 dao.like.co + Cosmostation 轉帳 LikeCoin 到其他錢包 <a href="#using-dao.like.co--cosmostation-to-send-likecoin-to-another-wallet" id="using-dao.like.co--cosmostation-to-send-likecoin-to-another-wallet"></a>
 
 ### 步驟一
 
@@ -64,15 +66,7 @@ description: Comostation + dao.like.co 管理 LikeCoin 必備
 
 出現 Sent and confirming 畫面後再出現 Successfully Send 即順利完成傳送。
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption><p>Sent and confirming</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption><p>Successfully Send 完成傳送</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption><p>Sent and confirming</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption><p>Successfully Send 完成傳送</p></figcaption></figure></div>
 
 ## 使用 dao.like.co： <a href="#using-dao.like.co-to" id="using-dao.like.co-to"></a>
 

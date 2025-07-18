@@ -4,11 +4,13 @@ description: 驗證人可如何獲得社群委託？
 
 # 社群委託
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 社群委託計劃旨在支持一些希望為 [LikeCoin chain](../likecoin-chain.md) 治理作出貢獻的新加盟驗證人提供初創基金。
 
 我們更支持服務供應商，例如區塊瀏覽器、錢包或其他技術/業務合作夥伴作為驗證人並獲得委託。請隨時發送電郵到 team@liker.land 或通過 Discord 聯繫創始團隊。
 
-以下原文已於[議案 59](https://bigdipper.live/likecoin/proposals/59) 被社群通過，一切以[英文版](https://app.like.co/view/iscn:%2F%2Flikecoin-chain%2FqylPKfqf5H8zB3TKZxHcxwXgfEW8NEbRjI7d9\_9-IUE%2F1)為準。
+以下原文已於[議案 59](https://bigdipper.live/likecoin/proposals/59) 被社群通過，一切以[英文版](https://app.like.co/view/iscn:%2F%2Flikecoin-chain%2FqylPKfqf5H8zB3TKZxHcxwXgfEW8NEbRjI7d9_9-IUE%2F1)為準。
 
 ### 申請程序
 

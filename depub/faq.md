@@ -4,6 +4,8 @@ description: 電子書出版大哉問
 
 # 上架電子書的常見問題
 
+{% include "../.gitbook/includes/warning.md" %}
+
 您需要知道：
 
 * 您必須接受本上架須知，才能在 Liker Land 出版作品。

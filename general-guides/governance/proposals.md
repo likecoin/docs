@@ -4,6 +4,8 @@ description: LikeCoin DAO 有過什麼議案？
 
 # 歷史議案
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ![歷史議案](../../.gitbook/assets/LikeCoin_AD59_Banner.png)
 
 ## 議案 #87 **指引式議案：**&#x5C07;剩餘的 NUM 兌換為穩定幣 USDe

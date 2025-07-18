@@ -4,6 +4,8 @@ description: 如何在 Blink 佈告欄文章中加入 LikeCoin button
 
 # Blink
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
 
 先登入 [Blink](https://blink.com.tw/)，撰寫文章並發佈。

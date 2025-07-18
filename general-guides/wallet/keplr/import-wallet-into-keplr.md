@@ -4,6 +4,8 @@ description: 在 Keplr 導入助記詞或私鑰並建立錢包
 
 # 在 Keplr 導入錢包
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 請跟隨以下步驟將助記詞或私鑰導入 Keplr：
 
 ## 安裝 Keplr 瀏覽器擴充功能後導入錢包

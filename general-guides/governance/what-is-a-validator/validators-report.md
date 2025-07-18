@@ -4,7 +4,9 @@ description: 使用驗證人報表了解驗證人動向
 
 # 驗證人報表
 
-用戶鑫大叔製作 [LikeCoin 驗證人報表](https://datastudio.google.com/u/0/reporting/030ee2ed-d8b5-4cda-93fd-acdc4f346561/page/p\_y6rglhy0rc?s=kHOl5P2N7i0)分析驗證人有否就議案投票、各個議案的投票取向及驗證人委託量等，是了解 LikeCoin 治理的好工具。
+{% include "../../../.gitbook/includes/warning.md" %}
+
+用戶鑫大叔製作 [LikeCoin 驗證人報表](https://datastudio.google.com/u/0/reporting/030ee2ed-d8b5-4cda-93fd-acdc4f346561/page/p_y6rglhy0rc?s=kHOl5P2N7i0)分析驗證人有否就議案投票、各個議案的投票取向及驗證人委託量等，是了解 LikeCoin 治理的好工具。
 
 <figure><img src="../../../.gitbook/assets/validators-report.png" alt=""><figcaption><p>LikeCoin 驗證人報表</p></figcaption></figure>
 

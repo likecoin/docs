@@ -1,5 +1,7 @@
 # 以桌機委託 LikeCoin
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 於 dao.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
 
 ### 步驟一：登入 dao.like.co

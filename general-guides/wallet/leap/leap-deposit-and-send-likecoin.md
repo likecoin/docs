@@ -4,6 +4,8 @@ description: 使用 Leap 瀏覽器擴充功能錢包直接存入及轉帳 LikeCo
 
 # Leap：存入及轉帳
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 在 Leap 存入 LikeCoin
 
 ### 步驟一

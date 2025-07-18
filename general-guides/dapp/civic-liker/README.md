@@ -4,6 +4,8 @@ description: 為何要成為讚賞公民？有什麼福利嗎？
 
 # 讚賞公民
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ![Civic Liker Web3](../../../.gitbook/assets/LikeCoin_AD110_CLWeb3_Banner1.png)
 
 ## 【[成為讚賞公民](be-a-civic-liker.md)】

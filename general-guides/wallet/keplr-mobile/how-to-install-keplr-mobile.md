@@ -4,19 +4,13 @@ description: 於 iPhone 及 Android 安裝 Keplr Mobile
 
 # 安裝 Keplr 手機錢包
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 步驟一：安裝 Keplr 手機應用程式 <a href="#install-keplr-mobile-app" id="install-keplr-mobile-app"></a>
 
-到 [Apple App Sture](https://apps.apple.com/us/app/keplr-wallet/id1567851089) 或 [Google Play](https://play.google.com/store/apps/details?id=com.chainapsis.keplr\&hl=en\_US) 尋找「Keplr」，以 Android 作為例子，你可以「安裝」並「開啟」它。你也可以掃瞄以下 QR Code並安裝 Keplr 手機應用程式。
+到 [Apple App Sture](https://apps.apple.com/us/app/keplr-wallet/id1567851089) 或 [Google Play](https://play.google.com/store/apps/details?id=com.chainapsis.keplr\&hl=en_US) 尋找「Keplr」，以 Android 作為例子，你可以「安裝」並「開啟」它。你也可以掃瞄以下 QR Code並安裝 Keplr 手機應用程式。
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 1.png" alt=""><figcaption><p>在 Android 尋找 Keplr，安裝它</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 2.png" alt=""><figcaption><p>開啟 Keplr 手機應用程式</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Keplr mobile install 1.png" alt=""><figcaption><p>在 Android 尋找 Keplr，安裝它</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr mobile install 2.png" alt=""><figcaption><p>開啟 Keplr 手機應用程式</p></figcaption></figure></div>
 
 <figure><img src="../../../.gitbook/assets/Keplr Mobile QR Code.png" alt=""><figcaption><p>掃瞄 QR Code 安裝 Keplr 手機應用程式</p></figcaption></figure>
 
@@ -52,15 +46,7 @@ description: 於 iPhone 及 Android 安裝 Keplr Mobile
 
 出現助記詞，點「Copy to clipboard」複製並找一個安全的地方加密儲存，因為在回復錢包時會需要用到。接著輸入你的錢包名稱 ( Wallet nickname )、密碼 ( Password )、確認密碼 ( Confirm password ) 然後點「Next」。
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 5.png" alt=""><figcaption><p>複製並儲存助記詞</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 6.png" alt=""><figcaption><p>輸入錢包名稱及密碼再點「Next」</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Keplr mobile install 5.png" alt=""><figcaption><p>複製並儲存助記詞</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr mobile install 6.png" alt=""><figcaption><p>輸入錢包名稱及密碼再點「Next」</p></figcaption></figure></div>
 
 {% hint style="danger" %}
 請把助記詞及密碼保存於安全地方，假如你把它們忘記了就沒有辦法管理你的 LikeCoin，而任何人也不能為你重設 Keplr 錢包。

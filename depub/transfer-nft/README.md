@@ -4,6 +4,8 @@ description: 簡單發送沒難度
 
 # 發送 NFT
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 {% hint style="info" %}
 發迭 NFT 需要使用 [LikeCoin](https://like.co/)
 

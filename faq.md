@@ -4,6 +4,8 @@ description: Liker Land 常見問題
 
 # Liker Land 答客問
 
+{% include ".gitbook/includes/warning.md" %}
+
 ![](.gitbook/assets/LikeCoin_AD27_Small_Update-01.png)
 
 ## [項目概覽](<README (1).md>)

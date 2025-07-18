@@ -4,6 +4,8 @@ description: 手機與桌機均適用
 
 # 一鍵收藏 Writing NFT
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 使用一鍵收藏功能可讓用戶一次過購買一位創作者的所有 Writing NFT，並且提供自動過濾功能，不用擔心會重覆購買已購買了的 NFT。
 
 ## 教學影片

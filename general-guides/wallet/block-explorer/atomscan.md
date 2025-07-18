@@ -4,6 +4,8 @@ description: ATOMScan 是查看 LikeCoin 交易的工具
 
 # ATOMScan
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 如何在 ATOMScan 查看錢包明細
 
 ### 步驟一

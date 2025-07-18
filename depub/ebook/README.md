@@ -4,6 +4,8 @@ description: 如何購買電子書
 
 # 購買電子書
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 無論有沒有區塊鏈錢包，使用桌機或手機，購買電子書同樣方便。
 
 ## 步驟一：開始購買 <a href="#step-1" id="step-1"></a>

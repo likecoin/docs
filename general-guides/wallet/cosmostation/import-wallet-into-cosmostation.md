@@ -4,6 +4,8 @@ description: 在 Cosmostation 導入助記詞並建立錢包
 
 # 在 Cosmostation 導入錢包
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## 安裝 Cosmostation 瀏覽器擴充功能後導入錢包
 
 [安裝 Cosmostation 瀏覽器擴充功能](how-to-install-cosmostation-extension.md)後選「Import Wallet」。

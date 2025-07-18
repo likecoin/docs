@@ -4,6 +4,8 @@ description: 使用 Liker Land Book Press 上架 EPUB 電子書
 
 # 上架電子書
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 {% hint style="info" %}
 上架前可參考 [上架 Liker Land 電子書的常見問題](../faq.md)
 {% endhint %}

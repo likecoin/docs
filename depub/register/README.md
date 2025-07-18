@@ -4,6 +4,8 @@ description: 帳戶要怎樣註冊？
 
 # 註冊帳戶
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 在 Liker Land 網站能以電郵或社交登入方式 ( Authcore ) 註冊帳戶。
 
 {% hint style="info" %}

@@ -4,6 +4,8 @@ description: 了解創作基金的分配
 
 # 創作基金排行榜
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 用戶鑫大叔製作的[創作基金排行榜](https://datastudio.google.com/u/0/reporting/46dfd4ba-e742-4d0a-8b50-d56036e32cf5/page/p_b5fksgpftc?s=mn4s-X-VN4w)公開創作基金分發到各個錢包的每日和每月排名，讓大家更了解創作基金的分配。
 
 <figure><img src="../../../.gitbook/assets/Creators Fund Reports.png" alt=""><figcaption><p>創作基金排行榜</p></figcaption></figure>

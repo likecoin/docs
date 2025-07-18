@@ -4,6 +4,8 @@ description: 要去哪裏下載 LikeCoin app？
 
 # 下載 LikeCoin app
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ![LikeCoin app](../../../.gitbook/assets/likecoin_ad72_appstore4_fullpic_chi.png)
 
 * 在 [Google Play](https://play.google.com/store/apps/details?id=com.oice) 和 [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355) 即可下載

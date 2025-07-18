@@ -4,6 +4,8 @@ description: 使用 Cosmostation app 以文章網址出版 Writing NFT
 
 # Cosmostation app
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## 登入 NFT Portal <a href="#login-to-nft-portal" id="login-to-nft-portal"></a>
 
 進入 [**NFT Portal** ](https://app.like.co/nft/url)並選擇以 Cosmostation app 登入網站。

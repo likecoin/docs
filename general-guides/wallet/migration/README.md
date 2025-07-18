@@ -4,6 +4,8 @@ description: 建基於 Cosmos SDK 的 LikeCoin chain 已於2019年11月15日上�
 
 # 由 ERC-20 升級
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 假如你仍然保有 LikeCoin ERC-20，請立即進行升級至 [LikeCoin chain](../../governance/likecoin-chain.md)。
 
 {% content-ref url="upgrading-likecoin-erc20-to-likecoin-chain.md" %}

@@ -4,6 +4,8 @@ description: 讓你的推文更加醒目
 
 # 為 depub.space 增添頭像
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 [Desmos Profile](https://desmos.network/dpm)、[Omniflix NFT](https://omniflix.network/) 及 [Stargaze NFT](https://www.stargaze.zone/) 擁有者可於 [depub.space](https://depub.space/) 頭像展示自己的 NFT。
 
 ### 步驟一

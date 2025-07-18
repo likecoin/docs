@@ -4,7 +4,9 @@ description: 在 DigiFinex 買賣 LikeCoin
 
 # 在 DigiFinex 交易
 
-{% hint style="warning" %}
+{% include "../../.gitbook/includes/warning.md" %}
+
+{% hint style="info" %}
 提示：進行任何大額交易前請先作少量嘗試
 {% endhint %}
 

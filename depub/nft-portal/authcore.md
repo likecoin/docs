@@ -4,7 +4,9 @@ description: 使用電郵或社交登入以文章網址出版 Writing NFT
 
 # 電郵或社交登入
 
-## 登入 NFT Portal <a href="#login-to-nft-portal" id="login-to-nft-portal"></a>
+{% include "../../.gitbook/includes/warning.md" %}
+
+登入 NFT Portal
 
 請於桌面電腦瀏覽器以電郵或社交登入 [**NFT Portal**](https://app.like.co/nft/url)。了解更多關於電郵或社交登入：
 

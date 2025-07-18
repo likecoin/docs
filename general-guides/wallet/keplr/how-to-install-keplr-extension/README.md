@@ -4,7 +4,9 @@ description: 安裝 Keplr 步驟如下，必須使用 Chromium 核心架構瀏�
 
 # 安裝 Keplr 及註冊錢包
 
-## 安裝 Keplr 瀏覽器擴充功能
+{% include "../../../../.gitbook/includes/warning.md" %}
+
+安裝 Keplr 瀏覽器擴充功能
 
 到 Chrome 線上應用程式商店點「加到 Chrome」安裝 [Keplr 瀏覽器擴充功能](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)。
 

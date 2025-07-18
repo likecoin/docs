@@ -4,6 +4,8 @@ description: 如何在 Hexo 開發環境的文章中加入 LikeCoin button
 
 # Hexo
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 感謝用戶 [只是個打字的](https://blog.typeart.cc/) 的教學範本。
 
 安裝讚賞鍵以前，請先 [註冊 Liker ID](../../liker-id/)。
@@ -27,19 +29,16 @@ description: 如何在 Hexo 開發環境的文章中加入 LikeCoin button
 打開 `themes/next/layout/_macro/post.swig` 在合適的位置把 `like_coin.ejs` 放置好
 
 ```
- {% raw %}
-{% if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %}
+ {% if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %}
 +      {% include '../_custom/like_coin.ejs' %}
       {% include '../_partials/post/post-related.swig' with { post: post } %}
     {% endif %}
-{% endraw %}
 ```
 
 &#x20;如果您沒有開啟相關文章的話，則加在往上幾行的 `{{ post.content }}` 後方
 
 ```
-        {% raw %}
-{% else %}
+        {% else %}
           {% if post.type === 'picture' %}
             <a href="{{ url_for(post.path) }}">{{ post.content }}</a>
           {% else %}
@@ -51,7 +50,6 @@ description: 如何在 Hexo 開發環境的文章中加入 LikeCoin button
         {{ post.content }}
 +      {% include '../_custom/like_coin.ejs' %}
       {% endif %}
-{% endraw %}
     </div>
 ```
 

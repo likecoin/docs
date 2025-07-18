@@ -4,6 +4,8 @@ description: 修改電子書描述或檔案
 
 # 修改已出版的電子書資料
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 電子書的 ISCN 內容、epub 或 pdf 檔案內容如有錯漏，可依照以下方式進行修改：
 
 **步驟一**：到 app.like.co 的 [My Works](https://app.like.co/works) 找尋對應書目的 ISCN。
