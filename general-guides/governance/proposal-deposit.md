@@ -4,6 +4,8 @@ description: Deposit LikeCoin and make the proposal voting starts
 
 # Proposal Deposit
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 Since the [FoTan](https://cloudflare-ipfs.com/ipfs/Qmb7AYNsbRJ95dWXCYCkUbpypAVfuxMZwB1D8wFHfwrLyc/) upgrade, Likers can now deposit the required [LikeCoin](https://like.co/) directly to start proposal voting.
 
 Any validator can raise a proposal, but to enter the voting period, a deposit of 100k LikeCoin must be made within two weeks. The deposit may come from other validators or Likers.

@@ -4,6 +4,8 @@ description: Why should I become a Civic Liker? Any benefits?
 
 # Civic Liker
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ![Civic Liker Web3](../../../.gitbook/assets/LikeCoin_AD110_CLWeb3_Banner1.png)
 
 ## \[[Be a **Civic Liker**](be-a-civic-liker.md)**]**

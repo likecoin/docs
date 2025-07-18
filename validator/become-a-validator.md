@@ -4,6 +4,8 @@ description: What is the requirement?
 
 # Become a validator
 
+{% include "../.gitbook/includes/warning.md" %}
+
 Validator is completely open, no entry requirement, anyone who can build a server can be a validator.
 
 {% content-ref url="../general-guides/governance/" %}

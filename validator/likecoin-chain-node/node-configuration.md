@@ -1,5 +1,7 @@
 # Node configuration
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 Note that most of the configurations could be overridden by environment variables or command line arguments when starting the node.
 
 ## app.toml
@@ -10,7 +12,7 @@ app.toml is a configuration file located in `~/.liked/config/app.toml` which con
 
 The minimum price per gas which your node will accept a transaction. The amount part should be in decimal format, e.g. `1000.0nanolike`, otherwise the node will fail to start. Note that if there is another node proposed a block including a transaction with gas price lower than this value, this node will still process the transaction. An ordinary LikeCoin transfer transaction takes about 80000 gas.
 
-Validators are recommend to set a `minimum-gas-prices` to a non zero value,  e.g.&#x20;
+Validators are recommend to set a `minimum-gas-prices` to a non zero value, e.g.
 
 ```
 minimum-gas-prices = "10000.0nanolike"
@@ -18,11 +20,11 @@ minimum-gas-prices = "10000.0nanolike"
 
 Transaction that has a gas price lower than the configured value would not be processed by the validator. Forcing a minimum gas price to be set for all transactions helps combatting spam transactions.
 
-For details, please refer to [cosmos documentation](https://docs.cosmos.network/v0.39/modules/auth/01\_concepts.html)
+For details, please refer to [cosmos documentation](https://docs.cosmos.network/v0.39/modules/auth/01_concepts.html)
 
 ### RESTful API
 
-Under the `[api]` section are the config for the RESTful API. Basically, if you need to enable the RESTful API, you may set `enable = true` under this section, and open the `1317` port (or any other ports you configure by the `address` option in this section) in the Docker config (or any other configs  according to your setup).
+Under the `[api]` section are the config for the RESTful API. Basically, if you need to enable the RESTful API, you may set `enable = true` under this section, and open the `1317` port (or any other ports you configure by the `address` option in this section) in the Docker config (or any other configs according to your setup).
 
 ### gRPC API
 
@@ -64,7 +66,7 @@ Bootstrap nodes which this node will connect to and obtain addresses from for mo
 
 ### p2p.persistent\_peers
 
-&#x20;This node will connect to these nodes persistently.
+This node will connect to these nodes persistently.
 
 ### p2p.private\_peer\_ids
 

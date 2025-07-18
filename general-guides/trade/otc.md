@@ -4,7 +4,9 @@ description: LikeCoin OTC
 
 # OTC
 
-{% hint style="warning" %}
+{% include "../../.gitbook/includes/warning.md" %}
+
+{% hint style="info" %}
 Reminder: Suggest to try with a small amount before making any large transactions
 {% endhint %}
 

@@ -4,6 +4,8 @@ description: How much LikeCoin you stake, how much voting power you have
 
 # Direct Voting
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 Since the [FoTan](https://cloudflare-ipfs.com/ipfs/Qmb7AYNsbRJ95dWXCYCkUbpypAVfuxMZwB1D8wFHfwrLyc/) upgrade, likers who have delegated LikeCoin to validators can now directly vote on proposals.
 
 In addition to delegating your voting powers to validators to let them vote on your behalf, you can now vote by yourself. For example, if your validator votes "No," you can vote "Yes" based on the stake that you have. But if you do not cast your vote, your trusted validator will still represent you in the vote.&#x20;

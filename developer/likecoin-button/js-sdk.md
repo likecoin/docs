@@ -1,5 +1,7 @@
 # Javascript SDK
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 require, bower, vue, react compoenent\
 \
 Under development\

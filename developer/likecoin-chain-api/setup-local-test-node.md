@@ -1,5 +1,7 @@
 # Setup local test node
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 1. Clone the [likecoin-chain](https://github.com/likecoin/likecoin-chain) git repository using the latest tag. As of now latest version is `v3.0.0`, please check the mainnet repository to confirm version.
 
 ```

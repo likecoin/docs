@@ -4,6 +4,10 @@ description: Cosmostation + dao.like.co is essential for managing LikeCoin
 
 # Cosmostation + dao.like.co: Deposit, send, delegate, governance
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 Users can manage LikeCoin together with [dao.like.co](https://dao.like.co/) and [Cosmostation Browser Extension](how-to-install-cosmostation-extension.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-cosmostation),[ send](dao.like.co.md#using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin/) LikeCoin; as well as provide provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote/) and [view transaction details](../block-explorer/dao.like.co.md).
 
 ## Connect Cosmostation with dao.like.co
@@ -64,15 +68,7 @@ Click "Send" and click "Sign" to confirm.
 
 After the message "Sent and confirming" appears, a "Successfully Sent" message will indicate that the LikeCoin has been sent successfully.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption><p>Sent and confirming</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption><p>Successfully Send</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption><p>Sent and confirming</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption><p>Successfully Send</p></figcaption></figure></div>
 
 ## Using dao.like.co to:
 

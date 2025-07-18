@@ -4,6 +4,8 @@ description: Decentralized Liker ID sign up and LikeCoin management
 
 # Register a Liker ID with Keplr
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 Users can register a Liker ID using [Keplr](../../wallet/keplr/), allowing them to manage their [LikeCoin](https://like.co/) in a more decentralized manner and retain control of their private key.
 
 Please note that once a Liker ID is confirmed, users cannot interchange between the two login methods ( Keplr or [through Email/Social, also known as Authcore](../../../depub/register/) ) for the same Liker ID.

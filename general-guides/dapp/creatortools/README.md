@@ -4,6 +4,8 @@ description: Learn more about rewards and attract readers
 
 # Content Creator Tools
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 [Liker Land](https://liker.land/) provides all sorts of tools for content creators to check their rewards data.
 
 * [Rewards](rewards.md)

@@ -6,6 +6,8 @@ description: >-
 
 # ISCN Badge
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 **You can add one of the following query string after the "`?`" of the Base URL below. Base URL:** \
 `https://static.like.co/badge/iscn/<iscn_tx_hash>.svg?`
 

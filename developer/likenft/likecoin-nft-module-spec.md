@@ -1,5 +1,7 @@
 # LikeCoin NFT Module Spec
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 Created: February 17, 2022 8:12 PM
 
 ## Changelog
@@ -181,7 +183,7 @@ message ClassesByAccountStoreRecord {
 * `ID` field:
   * `SHA256(append(bytes(IscnIdPrefix) or AccAddress, bytes(string(Serial))))`, in Bech32 with `likenft` prefix.
     * `Serial` is the number of classes related to the parent
-    * See [https://github.com/oursky/likecoin-chain/blob/feat/nft/x/likenft/types/class\_id.go](https://github.com/oursky/likecoin-chain/blob/feat/nft/x/likenft/types/class\_id.go) for implementation
+    * See [https://github.com/oursky/likecoin-chain/blob/feat/nft/x/likenft/types/class\_id.go](https://github.com/oursky/likecoin-chain/blob/feat/nft/x/likenft/types/class_id.go) for implementation
   * e.g. `likenft12fre0mt7kzprlrnw7mc0e50gphcgr2zef88jwc7us7jgmx304g4smdde4v`
 *   `Data` field:
 

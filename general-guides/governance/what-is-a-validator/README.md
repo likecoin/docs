@@ -4,6 +4,8 @@ description: What is a validator?
 
 # Validator
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ![Validator](../../../.gitbook/assets/LikeCoin_AD78_PostList_1213.png)
 
 ## Bank + Senator

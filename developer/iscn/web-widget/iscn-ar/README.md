@@ -4,6 +4,8 @@ description: Submit ISCN entry via like.co web widget
 
 # ISCN x Arweave Widget
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 Easily allow users to submit file to Arweave and register ISCN using Keplr or Liker ID.
 
 ![](<../../../../.gitbook/assets/image (89).png>)

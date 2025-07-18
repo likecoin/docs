@@ -4,6 +4,8 @@ description: ISCN web widget API Reference
 
 # ISCN Widget Reference
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 ## Formatting the widget URL <a href="#formatting-the-widget-url" id="formatting-the-widget-url"></a>
 
 ### Base URL <a href="#base-url" id="base-url"></a>

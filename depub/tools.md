@@ -4,6 +4,10 @@ description: NFT Tools
 
 # NFT Tools
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ## LikeCoin NFT Dashboard&#x20;
 
 The [**LikeCoin NFT Dashboard**](https://likecoin.github.io/likecoin-nft-dashboard/#/) is an easy-to-use tool for finding the [Latest](https://likecoin.github.io/likecoin-nft-dashboard/#/list) and [Top NFT](https://likecoin.github.io/likecoin-nft-dashboard/#/) data, as well as identifying who has the most NFT collections ( [Top Collector](https://likecoin.github.io/likecoin-nft-dashboard/#/collector) ).

@@ -4,6 +4,8 @@ description: LaiChiKok is the second major upgrade to the LikeCoin chain
 
 # LaiChiKok Upgrade
 
+{% include "../.gitbook/includes/warning.md" %}
+
 #### [Upgrade Overview](https://blog.like.co/en/likecoin-chain-upgrade-laichikok-overview/)
 
 ### Please join the [#mainnet-validators](https://discord.gg/yGUqtcHGjv) channel.

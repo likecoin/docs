@@ -4,6 +4,8 @@ description: How to trade LikeCoin
 
 # Trade
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 These are the ways to trade [LikeCoin](https://like.co/):
 
 ### Decentralized Cryptocurrency Exchanges, DEX

@@ -4,6 +4,10 @@ description: LIKE this message and "Clap" on Discord
 
 # LIKE this message
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 In [LikeCoin Discord](https://discord.com/invite/likecoin), you can use the "LIKE this message" function to support users.  Please [deposit LikeCoin on Discord](discord-wallet.md#deposit-likecoin-on-discord) first.\
 
 

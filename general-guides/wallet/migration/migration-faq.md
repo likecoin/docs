@@ -4,6 +4,8 @@ description: Having trouble during migration? See if the FAQ helps
 
 # LikeCoin Migration FAQ
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 Please check out our FAQ below. Don't see an answer to your question? Feel free to contact us.
 
 ## **1.** I never installed MetaMask, how to migrate?

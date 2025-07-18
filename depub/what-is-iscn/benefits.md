@@ -4,6 +4,10 @@ description: The advantages of ISCN
 
 # What's the point of decentralization to the content ecosystem?
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 Decentralized Publishing has the following features so that the content will be perpetuated and distributed on the internet:
 
 * The data is stored in an open and immutable blockchain, modification of any kind will leave a record, everyone can check it on the block explorer [Ping.pub](../../general-guides/wallet/block-explorer/ping.pub.md).

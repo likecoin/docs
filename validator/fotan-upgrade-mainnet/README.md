@@ -1,5 +1,7 @@
 # FoTan Upgrade
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 #### [Upgrade Overview](https://blog.like.co/en/likecoin-chain-fotan-upgrade-overview-4827a933b22/)
 
 FoTan is the first major upgrade of LikeCoin chain.

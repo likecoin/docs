@@ -4,6 +4,10 @@ description: Register an ISCN by Cosmostation
 
 # Cosmostation
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ## Step 1: Login app.like.co
 
 Visit [app.like.co](https://app.like.co) in your browser and click "Connect Wallet" in the top right corner or click "Register ISCN"&#x20;

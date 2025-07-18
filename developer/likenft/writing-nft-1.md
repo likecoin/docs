@@ -4,6 +4,8 @@ description: Based on Metadata best practice
 
 # NFT Book Spec
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## Background
 
 The NFT Book introduced by Liker Land is designed for publishing ebooks as NFT on LikeCoin chain. Unlike Writing NFT which can be used for content of any length, NFT Book are intended for more traditional ebook, with proper cover and editing.

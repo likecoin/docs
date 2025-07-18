@@ -1,4 +1,6 @@
-# CosmJS \(Recommended\)
+# CosmJS (Recommended)
+
+{% include "../../../../.gitbook/includes/warning.md" %}
 
 Use [https://github.com/cosmos/cosmjs](https://github.com/cosmos/cosmjs) to simplify coding.
 
@@ -21,4 +23,3 @@ const amount = {
 const result = await client.sendTokens(firstAccount.address, recipient, [amount], "LIKE as rewards");
 assertIsBroadcastTxSuccess(result);
 ```
-

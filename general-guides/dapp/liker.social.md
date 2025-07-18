@@ -4,6 +4,8 @@ description: What is Liker.Social?
 
 # Liker.Social
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 [Liker.Social](https://liker.social/) is a microblog based on [LikeCoin](https://like.co/) & [Mastodon](https://mastodon.social/) open source facilities. Unlike other Mastodon blogs, LikerSocial supports the conversion of likes into rewards. Users can also [register ISCN and mint Writing NFT with Liker.Social](../../depub/nft-portal/#publish-writing-nft-on-liker.social).
 
 #### To Learn More

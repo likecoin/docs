@@ -4,6 +4,10 @@ description: Gifting an NFT e-book to friends or family
 
 # Gift an ebook
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 The ebook gifting feature is only applicable for credit card payments. The steps for sending the book are as follows:
 
 ## Step 1: Start Sending:

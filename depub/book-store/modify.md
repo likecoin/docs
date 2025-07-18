@@ -4,6 +4,10 @@ description: Modify ebook description or book files
 
 # Modify ebook
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 If there are any errors in the ISCN content, epub, or pdf file content of ebooks, they can be modified in the following ways:
 
 **Step 1**: Go to "[My Works](https://app.like.co/works)" at app.like.co and find the ISCN of the corresponding book.

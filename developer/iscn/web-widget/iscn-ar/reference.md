@@ -4,7 +4,9 @@ description: ISCN AR web widget API Reference
 
 # ISCN-AR Widget Reference
 
-### Base URL <a href="#base-url" id="base-url"></a>
+{% include "../../../../.gitbook/includes/warning.md" %}
+
+Base URL
 
 Testnet: [`https://testnet.like.co/in/widget/iscn-ar`](https://testnet.like.co/in/widget/iscn-ar)
 

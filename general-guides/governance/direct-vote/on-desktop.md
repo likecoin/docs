@@ -1,5 +1,7 @@
 # Vote on desktop
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Vote via dao.like.co
 
 ### Step 1: Delegate LikeCoin

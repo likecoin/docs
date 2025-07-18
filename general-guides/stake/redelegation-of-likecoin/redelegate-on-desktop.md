@@ -1,5 +1,7 @@
 # Redelegate on desktop
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Re**delegate via dao.like.co**
 
 ### Step 1: Log in to dao.like.co

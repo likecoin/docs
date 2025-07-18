@@ -1,5 +1,7 @@
 # Delegate on desktop
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Delegate via dao.like.co
 
 Check out the below tutorial clip for staking via [dao.like.co](https://dao.like.co/welcome).

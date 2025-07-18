@@ -4,6 +4,8 @@ description: For Civic Liker only
 
 # Rationale and benefits
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ### Civic Liker x Independent bookstores
 
 Show off your brilliant Civic Liker avatar on the [LikeCoin app](../liker-land/download.md) or in the Settings section at [https://like.co/in/settings/](https://like.co/in/settings/) and enjoy the benefits offered by various Hong Kong bookstores. Let's call up your friends to join the revolution for a better world!

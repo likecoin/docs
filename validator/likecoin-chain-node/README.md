@@ -1,5 +1,7 @@
 # LikeCoin chain node
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 If you are interested in become an validator, you are encourage to [setup a local test node](../../developer/likecoin-chain-api/setup-local-test-node.md) to get familiar with the `liked` command.
 
 You can contribute to the community developer by hosting a testnet node. Active configuration are hosted here: [https://github.com/likecoin/testnets](https://github.com/likecoin/testnets)

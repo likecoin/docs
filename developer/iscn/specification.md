@@ -1,8 +1,9 @@
 ---
-description: 'https://iscn.io'
+description: https://iscn.io
 ---
 
 # Specification
 
-Please refer to [https://github.com/likecoin/iscn-specs](https://github.com/likecoin/iscn-specs)
+{% include "../../.gitbook/includes/warning.md" %}
 
+Please refer to [https://github.com/likecoin/iscn-specs](https://github.com/likecoin/iscn-specs)

@@ -4,6 +4,10 @@ description: What is BookForest?
 
 # BookForest
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 [BookForest](https://www.bookforest.io/) is the future of digital book publishing. Leveraging the power of blockchain, BookForest allows authors to publish their books as non-fungible tokens (NFTs), which provides numerous benefits to both authors and readers.
 
 One significant advantage of publishing books as NFTs is that it creates a unique, immutable record of ownership on the blockchain. This ensures that the book is an original copy, and has not been altered in any way. Additionally, NFTs provide a secure and transparent way for authors to sell their works, as ownership and transaction history are recorded on the blockchain.

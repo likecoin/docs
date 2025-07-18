@@ -4,6 +4,8 @@ description: Using Javascript/node.js to sign a transaction
 
 # Javascript
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ### Encode and Sign Raw Message
 
 The parameters should consist with your account information. The `accountNumber` and `sequence` could be found by querying LCD `/cosmos/auth/v1beta1/accounts/{fromAddress}` endpoint.
@@ -158,4 +160,3 @@ console.log(secp256k1.ecdsaVerify(signature, msgHash, publicKey));
 
 // true
 ```
-

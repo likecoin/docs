@@ -4,6 +4,10 @@ description: ebooks are selling well. How can we list more of them?
 
 # ebooks Replenishment
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 The process for adding supplementary books (replenishing stock) is similar to the regular process of listing ebooks. However, there’s one important point to note.
 
 ## Step 1: Prepare the NFT Class ID <a href="#mint-nft-book" id="mint-nft-book"></a>

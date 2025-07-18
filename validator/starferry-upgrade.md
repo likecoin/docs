@@ -4,6 +4,8 @@ description: StarFerry is the third major upgrade to the LikeCoin chain
 
 # StarFerry Upgrade
 
+{% include "../.gitbook/includes/warning.md" %}
+
 #### [Upgrade Overview](https://blog.like.co/en/likecoin-chain-upgrade-starferry-overview/)
 
 #### Please join the [#mainnet-validators](https://discord.gg/yGUqtcHGjv) channel.

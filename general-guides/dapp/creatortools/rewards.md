@@ -4,6 +4,8 @@ description: Check the Weekly, Daily rewards received from each articles
 
 # Rewards
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 Click on the \[Rewarded] column in the [LikeCoin app](../liker-land/download.md) to check the amount of [LikeCoin](https://like.co/) rewarded this week.
 
 ![Click on the \[Rewarded\] column](<../../../.gitbook/assets/rewards-en (2).png>)

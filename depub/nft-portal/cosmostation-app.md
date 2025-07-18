@@ -4,6 +4,10 @@ description: Publish Writing NFT with an article URL by Cosmostation app
 
 # Cosmostation app
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ## Login to NFT Portal&#x20;
 
 Enter the [**NFT Portal**](https://app.like.co/nft/url) on the desktop computer browser and choose [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) to login and link to the website.

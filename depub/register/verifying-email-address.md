@@ -6,6 +6,10 @@ description: >-
 
 # Securing your Liker ID
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 {% hint style="info" %}
 The followings are for [Liker ID registered through Email/Social (with Authcore)](./).
 {% endhint %}
@@ -16,19 +20,19 @@ The followings are for [Liker ID registered through Email/Social (with Authcore)
 
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
 
 After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
 
-<figure><img src="../../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
 
 Click ‘Edit’ in ‘Your Email’ to go to the ‘Manage email’ page.
 
-<figure><img src="../../../.gitbook/assets/auth-email-0-en.png" alt=""><figcaption><p>Click ‘Edit’ in ‘Your Email’ to go to the ‘Manage email’ page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/auth-email-0-en.png" alt=""><figcaption><p>Click ‘Edit’ in ‘Your Email’ to go to the ‘Manage email’ page</p></figcaption></figure>
 
 ### Step 2: Confirm Email
 
@@ -40,9 +44,9 @@ On the "Manage email" page, click "Confirm Now".
 
 An email with a six-digit verification code will be sent to your mailbox. Enter it into the blank space below and click "Confirm".
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 06.png" alt=""><figcaption><p>Receive a six-digit account verification code in their email.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 06.png" alt=""><figcaption><p>Receive a six-digit account verification code in their email.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 05-en.png" alt=""><figcaption><p>Enter the 6-digit verification code into the blank space and click "Verify"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 05-en.png" alt=""><figcaption><p>Enter the 6-digit verification code into the blank space and click "Verify"</p></figcaption></figure>
 
 If you see the page below, it's done.
 
@@ -60,44 +64,44 @@ The following steps need to be performed on a desktop computer, and a smartphone
 
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 
-<figure><img src="../../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
 
 After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
 
-<figure><img src="../../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
 
 ### Step 2: Go to security settings
 
 Click "AuthCore Settings" in the upper right corner.
 
-<figure><img src="../../../.gitbook/assets/Authcore settings-en.png" alt=""><figcaption><p>Click "AuthCore Settings"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore settings-en.png" alt=""><figcaption><p>Click "AuthCore Settings"</p></figcaption></figure>
 
 Select "Security settings" and Click "2-step verification (2FA)".
 
-![Select "Security settings" and Click "2-step verification (2FA)"](../../../.gitbook/assets/2fa-1-en.png)
+![Select "Security settings" and Click "2-step verification (2FA)"](../../.gitbook/assets/2fa-1-en.png)
 
 ### Step 3: Select Authentication App
 
 1. Click on "Set up 2-step verification (2FA)".
 2. Let's talk about setting up Google Authenticator first. Click on "Choose another way".
 
-![Click on "Set up 2-step verification (2FA)"](../../../.gitbook/assets/2fa-2-en.png)
+![Click on "Set up 2-step verification (2FA)"](../../.gitbook/assets/2fa-2-en.png)
 
-![Click on "Choose another way"](../../../.gitbook/assets/2fa-3-en.png)
+![Click on "Choose another way"](../../.gitbook/assets/2fa-3-en.png)
 
 Then choose "Authenticator App" on the next page.
 
-![choose "Authenticator App"](../../../.gitbook/assets/2fa-4-en.png)
+![choose "Authenticator App"](../../.gitbook/assets/2fa-4-en.png)
 
 ### Step 4: Set up Google Authenticator
 
 Continuing from the previous step, the page now displays a QR Code:
 
-![Use Google Authenticator to scan the QR Code and fill in the 6-digit code](../../../.gitbook/assets/2fa-5-en.png)
+![Use Google Authenticator to scan the QR Code and fill in the 6-digit code](../../.gitbook/assets/2fa-5-en.png)
 
 1.  Download Google Authenticator on your mobile phone.
 
@@ -108,6 +112,6 @@ Continuing from the previous step, the page now displays a QR Code:
 4. An entry for Authcore will be added to Google Authenticator, displaying a 6-digit code. Fill it into the blank space circled in red and click "Next". It will display "Set up authenticator app" and "Complete", then click "OK".
 5. Set up your backup code. If all of your 2-step verification tools do not work, the codes below can help you access your account.
 
-![Set up your backup code](../../../.gitbook/assets/2fa-6-en.png)
+![Set up your backup code](../../.gitbook/assets/2fa-6-en.png)
 
 2-Step Verification setup is completed.

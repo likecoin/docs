@@ -1,5 +1,7 @@
 # API Reference
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## Base URL
 
 Production: `https://mainnet-node.like.co`
@@ -12,7 +14,7 @@ Please refer to [`x/nft` query definition](https://github.com/cosmos/cosmos-sdk/
 
 ### Balance
 
-queries the number of NFTs of a given class owned by the owner, same as balanceOf in ERC721&#x20;
+queries the number of NFTs of a given class owned by the owner, same as balanceOf in ERC721
 
 `/cosmos/nft/v1beta1/balance/{owner}/{class_id}`
 
@@ -81,7 +83,7 @@ Pagination params:
 
 `/likechain/likenft/v1/event`
 
-<table><thead><tr><th>Param</th><th>Example</th><th width="276">Description</th></tr></thead><tbody><tr><td>class_id</td><td></td><td>NFT Class ID</td></tr><tr><td>nft_id</td><td></td><td>NFT ID</td></tr><tr><td>iscn_id_prefix</td><td></td><td>ISCN ID Prefix (if minted via ISCN)</td></tr><tr><td>verbose</td><td></td><td>Expand events</td></tr><tr><td>action_type</td><td>/cosmos.nft.v1beta1.MsgSend</td><td>Filter event by action</td></tr><tr><td>sender</td><td></td><td>Get all events sent by an address</td></tr><tr><td>receiver</td><td></td><td>Get all events received by an address</td></tr><tr><td>creator</td><td></td><td>Get all events of NFT Classes created (ISCN owner) by an address </td></tr><tr><td>involver</td><td></td><td>Get all events involving an address (sender OR receiver OR creator)</td></tr><tr><td>ignore_from_list</td><td></td><td>Ignore events sent from address</td></tr><tr><td>ignore_to_list</td><td></td><td>Ignore events sent to address</td></tr></tbody></table>
+<table><thead><tr><th>Param</th><th>Example</th><th width="276">Description</th></tr></thead><tbody><tr><td>class_id</td><td></td><td>NFT Class ID</td></tr><tr><td>nft_id</td><td></td><td>NFT ID</td></tr><tr><td>iscn_id_prefix</td><td></td><td>ISCN ID Prefix (if minted via ISCN)</td></tr><tr><td>verbose</td><td></td><td>Expand events</td></tr><tr><td>action_type</td><td>/cosmos.nft.v1beta1.MsgSend</td><td>Filter event by action</td></tr><tr><td>sender</td><td></td><td>Get all events sent by an address</td></tr><tr><td>receiver</td><td></td><td>Get all events received by an address</td></tr><tr><td>creator</td><td></td><td>Get all events of NFT Classes created (ISCN owner) by an address</td></tr><tr><td>involver</td><td></td><td>Get all events involving an address (sender OR receiver OR creator)</td></tr><tr><td>ignore_from_list</td><td></td><td>Ignore events sent from address</td></tr><tr><td>ignore_to_list</td><td></td><td>Ignore events sent to address</td></tr></tbody></table>
 
 ### Ranking API
 
@@ -262,4 +264,4 @@ https://likecoin.github.io/likecoin-nft-dashboard/
 
 [source code](https://github.com/likecoin/likecoin-nft-dashboard)
 
-\
+\\

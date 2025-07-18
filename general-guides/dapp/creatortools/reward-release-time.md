@@ -4,6 +4,8 @@ description: When will I get my reward?
 
 # Reward Release Time
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 After readers clap for the article, content creators will have to wait for a day to receive their rewards because the rewards came from the Creators Fund which has its clearance daily.
 
 [Civic Liker](../civic-liker/) distributes the supporting amount according to their clap. Content creators receive rewards depending on the proportion of claps received.

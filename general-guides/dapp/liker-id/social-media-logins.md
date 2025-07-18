@@ -6,6 +6,8 @@ description: >-
 
 # Connecting to my social account
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 {% hint style="info" %}
 The followings are for [Liker ID registered through Email/Social (with Authcore)](../../../depub/register/).
 {% endhint %}

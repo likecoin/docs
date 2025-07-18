@@ -4,6 +4,10 @@ description: Set up your unique identity
 
 # Edit Avatar and Name
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ## How to set up
 
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".

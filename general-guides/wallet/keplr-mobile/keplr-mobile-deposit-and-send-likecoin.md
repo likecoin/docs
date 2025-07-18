@@ -4,6 +4,10 @@ description: Deposit and Send LikeCoin directly on Keplr Mobile
 
 # Keplr Mobile: Deposit and Send LikeCoin
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ## Deposit your LikeCoin to Keplr Mobile
 
 To deposit LikeCoin to your Keplr Mobile wallet, please log in and click on the wallet address to copy and paste it somewhere else (such as a crypto exchange or another wallet).
@@ -32,12 +36,4 @@ On the confirmation screen, review the details again and click "Approve".
 
 You will see "Transaction pending" then "Transaction successful" indicating that the transfer is complete. Click "Confirm" and return to homepage.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile Transaction Pending.png" alt=""><figcaption><p>Transaction pending</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile Transaction successful.png" alt=""><figcaption><p>Transaction successful</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Keplr mobile Transaction Pending.png" alt=""><figcaption><p>Transaction pending</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr mobile Transaction successful.png" alt=""><figcaption><p>Transaction successful</p></figcaption></figure></div>

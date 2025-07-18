@@ -4,6 +4,10 @@ description: List EPUB with Liker Land Book Press
 
 # List ebook
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 {% hint style="info" %}
 Before listing, you can refer to the [FAQ: Listing Liker Land ebooks](../nft-book-press/faq.md)
 {% endhint %}

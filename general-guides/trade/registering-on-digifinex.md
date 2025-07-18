@@ -4,6 +4,8 @@ description: How to register on DigiFinex Exchange
 
 # Registering on DigiFinex
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 Buying and selling [LikeCoin](https://like.co/) on DigiFinex requires an account. Please go to the [DigiFinex website](https://www.digifinex.com/zh-hk/?ts=1597115837) and follow these steps to register an account:
 
 ## Step 1: Confirm password and email or mobile phone number
@@ -104,7 +106,7 @@ Step 3: Set up 2-Factor Authentication&#x20;(2FA) <a href="#id-3-google" id="id
 
 You have to set up 2-Factor Authentication; otherwise, you will not be able to withdraw from DigiFinex. Please download Google Authenticator on your mobile device.
 
-[Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh\_TW)\
+[Google Play Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&hl=zh_TW)\
 [App Store Download](https://apps.apple.com/hk/app/google-authenticator/id388497605)
 
 On the "Basic Information" page, click on "2FA" and then click "Off". The following page will appear. Click "Next Step".

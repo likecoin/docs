@@ -4,6 +4,8 @@ description: ATOMScan is a tool for viewing LikeCoin transactions
 
 # ATOMScan
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## How to check transactions on ATOMScan
 
 ### Step 1

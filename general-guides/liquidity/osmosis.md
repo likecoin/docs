@@ -4,6 +4,8 @@ description: How to earn liquidity mining incentives on Osmosis
 
 # Osmosis
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 On [Osmosis](https://osmosis.zone/), users can participate in LIKE liquidity pools for liquidity mining to earn incentives and swap fees.&#x20;
 
 Please note that liquidity mining may result in impermanent loss, so assess the risks before diving into the ecosystem.&#x20;

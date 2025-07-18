@@ -4,6 +4,8 @@ description: What are the functions of the LikeCoin button?
 
 # LikeCoin button
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 LikeCoin button is the core medium to interact with your readers for Like, Share and Archive.
 
 From the LikeCoin button on each creation, readers can:

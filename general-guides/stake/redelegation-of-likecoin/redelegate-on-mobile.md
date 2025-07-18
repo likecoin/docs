@@ -1,5 +1,7 @@
 # Redelegate on mobile
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Undelegate LikeCoin via dao.like.co on a mobile browser
 
 Using a mobile browser with [dao.like.co](https://dao.like.co/) can redelegate by [Authcore](../../../depub/register/), and the steps are the same as [using a desktop computer to redelegate LikeCoin via dao.like.co](redelegate-on-desktop.md#redelegate-via-dao.like.co).

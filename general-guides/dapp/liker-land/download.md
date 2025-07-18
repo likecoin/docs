@@ -4,6 +4,8 @@ description: Where to download LikeCoin app?
 
 # Download LikeCoin app
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ![LikeCoin app](../../../.gitbook/assets/likecoin_ad72_appstore4_fullpic_en.png)
 
 * Download LikeCoin app from [Google Play](https://play.google.com/store/apps/details?id=com.oice) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355)

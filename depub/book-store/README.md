@@ -4,6 +4,10 @@ description: Managing Published ebooks
 
 # Manage ebooks
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 After the book is published, if you would like to understand the sales overview or make more settings, you can use the Manage NFT Books. In addition to the settings for listing ebooks, it also provides various additional management functions.
 
 Go to the [Liker Land Book Press](https://publish.liker.land/) website, click "**Sign in**" in the bottom left corner to connect to your wallet, then click "[Manage Books](https://publish.liker.land/nft-book-store)".

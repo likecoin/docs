@@ -4,6 +4,8 @@ description: How to check and copy my LikeCoin wallet address?
 
 # Wallet Address
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## Liker Land web
 
 Log in to [Liker Land](https://liker.land/), go directly to [Account and Settings](../../depub/liker-land/) and click on the wallet address to copy it.

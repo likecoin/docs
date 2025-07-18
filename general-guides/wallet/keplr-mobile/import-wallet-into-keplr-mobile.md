@@ -4,6 +4,10 @@ description: Import Recovery Phrase and create a Keplr Mobile wallet
 
 # Import wallet into Keplr Mobile
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ## Import wallet after installing the Keplr Mobile
 
 Click "Import existing wallet" directly after [installing the Keplr Mobile](how-to-install-keplr-mobile.md).

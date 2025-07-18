@@ -1,5 +1,7 @@
 # Keplr
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 For [Keplr](https://wallet.keplr.app/), we would need to use [suggestChain API.](https://docs.keplr.app/api/suggest-chain.html)
 
 Chain configuration object needed can found in [https://github.com/likecoin/mainnet/](https://github.com/likecoin/mainnet/) or [https://github.com/likecoin/testnets/](https://github.com/likecoin/testnets/)
@@ -22,4 +24,3 @@ const amount = {
 const result = await client.sendTokens(firstAccount.address, recipient, [amount], "LIKE as rewards");
 assertIsBroadcastTxSuccess(result);
 ```
-

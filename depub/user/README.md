@@ -4,6 +4,10 @@ description: '"How can an individual sell ebooks through Liker Land?'
 
 # Liker Land Affiliation Program
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 Promote Your Favorite Works and Earn Income? Now You Can Play a Vital Role in Promoting ebooks.
 
 * Liker Land provides ebooks for free, while individuals are responsible for selling them. As a sales channel, you can earn a share of the revenue. Successful book sales yield a 30% income. For example, if the sale price is $100, with a cost of $0, the profit would be $30.

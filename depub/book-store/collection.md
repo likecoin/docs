@@ -4,6 +4,10 @@ description: Set up ebook bundle sales
 
 # Manage Book Collection
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 Book Collection combine multiple ebooks into a bundle for sale, suitable for books series or various promotions.
 
 Go to the [Liker Land Book Press](https://publish.liker.land/) website, click "**Sign in**" in the bottom left corner to connect to your wallet, the click "[Manage Collection](https://publish.liker.land/nft-book-store/collection)".

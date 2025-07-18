@@ -1,5 +1,7 @@
 # Calling API
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 For chain API. please refer to [chain API section](../likecoin-chain-api/rpc-api/).
 
 ### Introduction

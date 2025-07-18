@@ -4,6 +4,8 @@ description: How to obtain access token for authenticated API using OAuth 2.0
 
 # Authetication
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ### Introduction
 
 LikeCoin API uses OAuth2.0 flow for API authorization, through the following steps.
@@ -12,7 +14,7 @@ LikeCoin API uses OAuth2.0 flow for API authorization, through the following ste
 2. Users are redirected back to a `redirect_uri` you own with a `code`, this `code` is used to exchange for a user `access_token` and `refresh_token`.
 3. Call APIs using `access_token` with proper scope. e.g. APIs in `Like->info` sections requires `read:like.info` or `write:like.info` grants.
 
-#### AVAILABLE SCOPES: <a href="available-scopes" id="available-scopes"></a>
+#### AVAILABLE SCOPES: <a href="#available-scopes" id="available-scopes"></a>
 
 | Scope   | Description                    |
 | ------- | ------------------------------ |
@@ -28,7 +30,7 @@ The following scope should be prepended with `read:` or `write:`
 | write:like.button  | Permission to like content for user                         |
 | read:like.info     | Access to read user liked authors, content suggestions, etc |
 
-#### TOKEN LIFE TIME <a href="token-life-time" id="token-life-time"></a>
+#### TOKEN LIFE TIME <a href="#token-life-time" id="token-life-time"></a>
 
 Access tokens expire in 1 hour. Refresh tokens do not expire, unless:
 
@@ -36,18 +38,18 @@ Access tokens expire in 1 hour. Refresh tokens do not expire, unless:
 2. User revoked access
 3. OAuth client revoked the token via API
 
-##  1. Format like.co OAuth parameters
+## &#x20;1. Format like.co OAuth parameters
 
 `https://like.co/in/oauth/?client_id={{CLIENT_ID}}&scope={{scope}}&redirect_uri={{redirectURI}}&state={{state}}`
 
 User will navigate to this page to authorize oauth, redirects back to `redirect_uri` with query param`auth_code` and `state` if success
 
-| Param        | Description                                                                                                                          |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| client_id    | OAuth client id                                                                                                                      |
-| scope        | list of scope seperated by space, must be whitelisted, e.g. `profile email`                                                          |
-| redirect_uri | redirect uri in URI compoenent encoded form, must be whitelisted                                                                     |
-| state        | optional state provided by the service, that get passed back after authetication is success. Highly recommended for security reason. |
+| Param         | Description                                                                                                                          |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| client\_id    | OAuth client id                                                                                                                      |
+| scope         | list of scope seperated by space, must be whitelisted, e.g. `profile email`                                                          |
+| redirect\_uri | redirect uri in URI compoenent encoded form, must be whitelisted                                                                     |
+| state         | optional state provided by the service, that get passed back after authetication is success. Highly recommended for security reason. |
 
 ### 2. Redirect users to the formatted like.co OAuth page
 
@@ -56,36 +58,28 @@ The page will prompt user to either login or register a Liker ID if they are not
 
 ### 3. Exchange `authorization_code` for `access_token`
 
-{% swagger baseUrl="https://api.like.co" path="/oauth/access_token" method="post" summary="" %}
-{% swagger-description %}
-After user oauth login in client, exchange authorization_code in callback uri for access_token
-{% endswagger-description %}
+<mark style="color:green;">`POST`</mark> `https://api.like.co/oauth/access_token`
 
-{% swagger-parameter in="header" name="Content-Type" type="string" %}
-`application/x-www-form-urlencoded`
-{% endswagger-parameter %}
+After user oauth login in client, exchange authorization\_code in callback uri for access\_token
 
-{% swagger-parameter in="body" name="client_id" type="string" %}
-OAuth client id
-{% endswagger-parameter %}
+#### Headers
 
-{% swagger-parameter in="body" name="client_secret" type="string" %}
-OAuth client secret
-{% endswagger-parameter %}
+| Name         | Type   | Description                         |
+| ------------ | ------ | ----------------------------------- |
+| Content-Type | string | `application/x-www-form-urlencoded` |
 
-{% swagger-parameter in="body" name="grant_type" type="string" %}
-`authorization_code`
-{% endswagger-parameter %}
+#### Request Body
 
-{% swagger-parameter in="body" name="code" type="string" %}
-The authorization code received in redirect_uri
-{% endswagger-parameter %}
+| Name           | Type   | Description                                      |
+| -------------- | ------ | ------------------------------------------------ |
+| client\_id     | string | OAuth client id                                  |
+| client\_secret | string | OAuth client secret                              |
+| grant\_type    | string | `authorization_code`                             |
+| code           | string | The authorization code received in redirect\_uri |
+| redirect\_uri  | string | The redirect\_uri param in original request      |
 
-{% swagger-parameter in="body" name="redirect_uri" type="string" %}
-The redirect_uri param in original request
-{% endswagger-parameter %}
-
-{% swagger-response status="200" description="access_token, refresh_token, and user profile in JSON format" %}
+{% tabs %}
+{% tab title="200 access_token, refresh_token, and user profile in JSON format" %}
 ```
 {
   "user": "williamchonggoogle",
@@ -95,9 +89,9 @@ The redirect_uri param in original request
   "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoid2lsbGlhbWNob25nZ29vZ2xlIiwic2NvcGUiOlsicHJvZmlsZSIsInJlYWQ6bGlrZSIsIndyaXRlOmxpa2UiXSwiYXpwIjoiMmY1NTFkNWZlMWFkNjU3NzNhMTciLCJpYXQiOjE1NTIwNDE3NDYsImV4cCI6MTU1MjA0NTM0NiwiYXVkIjoicmlua2VieS5saWtlLmNvIiwiaXNzIjoicmlua2VieS5saWtlLmNvIiwianRpIjoiMGJjN2Q1NGYtOWViYS00ODczLWFiYWUtMzc1ZTczYzExZTMwIn0.BPNsiQb0fs2fFjiSQWUq8oeE4FL_PLebdTRDpSh7n9k"
 }
 ```
-{% endswagger-response %}
-{% endswagger %}
+{% endtab %}
+{% endtabs %}
 
 ### 4. Call API with `access_token`
 
-  Call authenticated API with header `Authorization` value`Bearer {{access_token}}`
+&#x20; Call authenticated API with header `Authorization` value`Bearer {{access_token}}`

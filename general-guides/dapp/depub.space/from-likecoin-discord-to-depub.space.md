@@ -4,6 +4,8 @@ description: Share information using the LikeCoin Discord "Share to DePub" featu
 
 # Share tweet from From LikeCoin Discord to depub.space
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 [LikeCoin Discord](https://discord.gg/likecoin) users can share insightful discussions with others on [depub.space](./) at any time.
 
 ## Step 1

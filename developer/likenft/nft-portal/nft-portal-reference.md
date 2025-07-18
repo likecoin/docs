@@ -4,6 +4,8 @@ description: NFT Portal technical reference
 
 # NFT Portal Reference
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## URL Portal
 
 Allows inputting https URL or ISCN ID to prepare minting of Writing NFT

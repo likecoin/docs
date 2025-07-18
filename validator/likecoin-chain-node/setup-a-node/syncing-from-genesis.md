@@ -1,5 +1,7 @@
 # Syncing from genesis
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 If have any reason not using statesync and opt to sync from the genesis, here is some notes for you.
 
 For replacing binary at cosmovisor, download the respective binary and copy to this location:`.liked/cosmovisor/current/bin/liked`

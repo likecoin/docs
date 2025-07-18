@@ -4,6 +4,8 @@ description: Embed LikeCoin button by just including <script> in your website
 
 # Javascript CDN
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## Usage
 
 1. Add the following `div` tag into the webpage at the position for embedding LikeCoin button:

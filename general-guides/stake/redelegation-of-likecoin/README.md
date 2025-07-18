@@ -4,6 +4,8 @@ description: Transfer the delegated LikeCoin to another validator
 
 # Redelegation of LikeCoin
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Important note **regarding Redelegation**
 
 If you previously delegated some [LikeCoin](https://like.co/) to your new validator, the newly delegated LikeCoin **will freeze the total LikeCoin amount for 21 days**. Please make your decision carefully.

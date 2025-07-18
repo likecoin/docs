@@ -4,7 +4,9 @@ description: Buy and Sell LikeCoin with DigiFinex
 
 # Trade in DigiFinex
 
-{% hint style="warning" %}
+{% include "../../.gitbook/includes/warning.md" %}
+
+{% hint style="info" %}
 Reminder: We suggest trying a small amount before making any large transactions.
 {% endhint %}
 

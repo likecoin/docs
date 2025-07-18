@@ -4,6 +4,10 @@ description: Publish Matters article as Writing NFT
 
 # Matters
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ## Step 1: Choose to register ISCN before publishing the article
 
 Users can choose to register [ISCN](../what-is-iscn/) before publishing in [Matters](../../general-guides/dapp/creator/matters.md).

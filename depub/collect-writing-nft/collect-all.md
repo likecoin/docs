@@ -4,6 +4,10 @@ description: For both desktop and mobile
 
 # One-Click Collect All Writing NFT
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 Using the One-Click Collect All feature allows users to purchase all Writing NFTs from a single creator at once, with an automatic filtering feature to prevent duplicate purchases of previously acquired NFTs.
 
 ## Step 1: Login to your wallet and initiate One-Click Collect

@@ -6,6 +6,8 @@ description: >-
 
 # Miscellaneous
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## Halt time and sheungwan-2
 
 The mainnet currently is using Cosmos SDK v0.37.4, which unfortunately doesn't support the `halt-time` option. Therefore, before upgrading to `fotan-1` software, validators need to upgrade the image of their node to the `sheungwan-2` software (`likecoin/likecoin-chain:sheungwan-2` in Docker Hub). The `sheungwan-2` software is compatible with the current network, so no proposal or upgrade process is needed.
@@ -16,7 +18,7 @@ Some validators may want to perform machine changes (e.g. moving to a higher cla
 
 ## Managing incidents during upgrade
 
-During the testnet upgrade, we encountered a problem on software bug, resulting in panic when initializing the chain (see [the recording on the public testnet upgrade](https://www.youtube.com/watch?v=RCt8zkwT\_Z4) for details). Our blockchain developer debugged and provided a genesis file mitigating the problem. However, as validator Rick Mak (from Oursky) pointed out, a more decentralized way should be providing procedures for validators to generate the fixed genesis file from the problematic one, instead of providing the genesis file directly. Also, such mitigation may not be suitable for the upgrade, as it is untested and may result in other unexpected and more serious bugs (e.g. state corruption). Therefore, in the mainnet upgrade, if we met incidents like this, we would prefer halting the upgrade and restarting the old chain instead of live fixing it.
+During the testnet upgrade, we encountered a problem on software bug, resulting in panic when initializing the chain (see [the recording on the public testnet upgrade](https://www.youtube.com/watch?v=RCt8zkwT_Z4) for details). Our blockchain developer debugged and provided a genesis file mitigating the problem. However, as validator Rick Mak (from Oursky) pointed out, a more decentralized way should be providing procedures for validators to generate the fixed genesis file from the problematic one, instead of providing the genesis file directly. Also, such mitigation may not be suitable for the upgrade, as it is untested and may result in other unexpected and more serious bugs (e.g. state corruption). Therefore, in the mainnet upgrade, if we met incidents like this, we would prefer halting the upgrade and restarting the old chain instead of live fixing it.
 
 ## Keystore
 

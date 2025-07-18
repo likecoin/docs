@@ -1,5 +1,7 @@
 # Node Security
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 Below are general guidelines for reducing attack vectors over network:
 
 * Ensure unattended upgrades are enabled

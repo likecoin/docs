@@ -4,45 +4,47 @@ description: Webhook notification for LIKE pay agent (`via`)
 
 # Webhook
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ### Setup:
 
 Please contact us for setting up the webhook for your agent account. You must set the parameter `via` when using LIKE pay to be able to receive notification
 
 ### Specification:
 
-#### Transaction Information \(tx\):
+#### Transaction Information (tx):
 
-| Key | Description |
-| :--- | :--- |
-| from | Sender cosmos wallet |
-| fromId | Sender Liker ID |
-| to | Receiver cosmos wallet |
-| toId | Receiver Liker ID |
-| ts | Originating timestamp |
-| completeTs | Transaction complete timestamp |
-| txHash | Transaction hash |
-| remarks | Transaction remarks/memo |
-| status | Transaction status, possible values: pending/success/fail/timeout |
-| type | Transaction type |
-| amount | Transfer amount |
+| Key        | Description                                                       |
+| ---------- | ----------------------------------------------------------------- |
+| from       | Sender cosmos wallet                                              |
+| fromId     | Sender Liker ID                                                   |
+| to         | Receiver cosmos wallet                                            |
+| toId       | Receiver Liker ID                                                 |
+| ts         | Originating timestamp                                             |
+| completeTs | Transaction complete timestamp                                    |
+| txHash     | Transaction hash                                                  |
+| remarks    | Transaction remarks/memo                                          |
+| status     | Transaction status, possible values: pending/success/fail/timeout |
+| type       | Transaction type                                                  |
+| amount     | Transfer amount                                                   |
 
-#### Transaction Metadata\(metadata\):
+#### Transaction Metadata(metadata):
 
-| Key | Description |
-| :--- | :--- |
-| likePay | Parameters entered when using LIKE pay widget |
-| toIds | Receiver Liker IDs |
-| amounts | Receiver LIKE amounts in string |
-| agentID | The \`via\` parameter Liker ID |
-| agentFee | Agent fee if set |
-| redirectUri | Redirect URI if set |
-| remarks | LIKE pay transaction remarks |
-| blocking | if `blocking` flag was set |
-| state | `state` parameters if set |
+| Key         | Description                                   |
+| ----------- | --------------------------------------------- |
+| likePay     | Parameters entered when using LIKE pay widget |
+| toIds       | Receiver Liker IDs                            |
+| amounts     | Receiver LIKE amounts in string               |
+| agentID     | The \`via\` parameter Liker ID                |
+| agentFee    | Agent fee if set                              |
+| redirectUri | Redirect URI if set                           |
+| remarks     | LIKE pay transaction remarks                  |
+| blocking    | if `blocking` flag was set                    |
+| state       | `state` parameters if set                     |
 
 ### Example event:
 
-```text
+```
 {
   "tx": {
     "from": "cosmos1wfu97hwfv5ukc0xjyutajq9e6w5xkcdprlmyhj",
@@ -75,4 +77,3 @@ Please contact us for setting up the webhook for your agent account. You must se
   }
 }
 ```
-

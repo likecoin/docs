@@ -4,6 +4,10 @@ description: Remove the published ebook
 
 # Burn ebook
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 If you wish to remove a published ebook, keep in mind that the ebook cannot be entirely deleted once it's "printed". The only viable method is to "abandon" it. Here's the step-by-step process:
 
 * Open a new wallet address not publicly disclosed

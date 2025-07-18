@@ -4,6 +4,8 @@ description: How to embed LikeCoin button into Hugo
 
 # Hugo
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 Thanks to the user [Wancat](https://www.wancat.cc/post/hugo-install-likecoin/) for providing the tutorial.
 
 Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).

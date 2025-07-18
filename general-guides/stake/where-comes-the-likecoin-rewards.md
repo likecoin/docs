@@ -6,6 +6,8 @@ description: >-
 
 # Where comes the LikeCoin rewards?
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ![Where comes the LikeCoin rewards?](../../.gitbook/assets/LikeCoin_PostList_1216.png)
 
 This article reflects the numbers as of January 31, 202&#x32;_. All parameters can be changed in the future through the governance mechanism, such as_ [_Proposal 7_](https://likecoin.bigdipper.live/proposals/7)_._

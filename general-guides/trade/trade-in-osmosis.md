@@ -4,7 +4,9 @@ description: Osmosis is a DEX, registration not required, immediate trade
 
 # Trade in Osmosis
 
-{% hint style="warning" %}
+{% include "../../.gitbook/includes/warning.md" %}
+
+{% hint style="info" %}
 Reminder: We suggest trying with a small amount before making any large transactions.
 {% endhint %}
 

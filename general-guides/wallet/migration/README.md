@@ -6,6 +6,8 @@ description: >-
 
 # Migrating from ERC-20
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 If you still get hold of LikeCoin ERC-20, please migrate to the [LikeCoin chain](../../governance/likecoin-chain.md) as soon as possible.
 
 {% content-ref url="upgrading-likecoin-erc20-to-likecoin-chain.md" %}

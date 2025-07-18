@@ -1,5 +1,7 @@
 # Setup a node (mainnet / public testnet)
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Welcome
 
 Thank you for your interest in joining our validator community! Your participation is important to the security of LikeCoin chain.

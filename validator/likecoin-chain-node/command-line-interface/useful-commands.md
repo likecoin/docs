@@ -1,5 +1,7 @@
 # Useful commands
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Note
 
 For user running the deprecated Docker setup, you can replace `liked` by `docker-compose run --rm liked-command` to run the commands below.

@@ -4,6 +4,8 @@ description: How to embed LikeCoin button into Hexo
 
 # Hexo
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 Thanks to the user [只是個打字的](https://docs.like.co/v/zh/user-guide/likecoin-button/hexo-next) for providing the tutorial.
 
 Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).
@@ -27,19 +29,16 @@ In directory `themes/next/layout/_custom/` add a new file named `like_coin.ejs` 
 Open `themes/next/layout/_macro/post.swig` and place the `like_coin.ejs` in the appropriate position:
 
 ```
- {% raw %}
-{% if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %}
+ {% if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %}
 +      {% include '../_custom/like_coin.ejs' %}
       {% include '../_partials/post/post-related.swig' with { post: post } %}
     {% endif %}
-{% endraw %}
 ```
 
 &#x20;If you do not enable the related post function, then add it after the `{{ post.content }}`
 
 ```
-        {% raw %}
-{% else %}
+        {% else %}
           {% if post.type === 'picture' %}
             <a href="{{ url_for(post.path) }}">{{ post.content }}</a>
           {% else %}
@@ -51,7 +50,6 @@ Open `themes/next/layout/_macro/post.swig` and place the `like_coin.ejs` in the 
         {{ post.content }}
 +      {% include '../_custom/like_coin.ejs' %}
       {% endif %}
-{% endraw %}
     </div>
 ```
 

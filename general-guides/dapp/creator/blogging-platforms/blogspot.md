@@ -6,6 +6,8 @@ description: >-
 
 # Blogspot
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 Thanks to [浩剛](https://danieltw.net/archives/2444) for creating the code to embed the LikeCoin button into every blog post by adding JavaScript to the sidebar tool or changing the blog theme.
 
 Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).

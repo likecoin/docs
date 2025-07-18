@@ -4,6 +4,8 @@ description: Civic Liker Web3 FAQ
 
 # FAQ
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Schedule of the new scheme
 
 * The new version of Civic Liker Web3 (beta) was launched on February 21, 2022.

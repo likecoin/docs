@@ -4,6 +4,8 @@ description: Install Leap On Chromium Based Browsers
 
 # How to install Leap Browser Extension
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Step 1: Install Leap
 
 Go to the [Leap website](https://www.leapwallet.io/) to learn about browser extensions and click "Install Leap for Cosmos".

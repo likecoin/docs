@@ -6,6 +6,8 @@ description: >-
 
 # Creators Fund
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ![Creators Fund](<../../../.gitbook/assets/group_56_copy_4 (1).png>)
 
 Creator's reward consists of two parts: Civic Liker Stake Reward and Creators Fund.

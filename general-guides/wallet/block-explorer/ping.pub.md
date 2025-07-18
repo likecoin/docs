@@ -4,6 +4,10 @@ description: Ping.pub is a tool for viewing LikeCoin transactions
 
 # Ping.pub
 
+##
+
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## How to check transactions on Ping.pub
 
 ### Step 1

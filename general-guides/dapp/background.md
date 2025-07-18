@@ -6,6 +6,8 @@ description: >-
 
 # Glossary
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## Basic concepts <a href="#id-448e" id="id-448e"></a>
 
 ### LikeCoin DAO <a href="#id-84f4" id="id-84f4"></a>

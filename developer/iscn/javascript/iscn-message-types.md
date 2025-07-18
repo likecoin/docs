@@ -4,14 +4,16 @@ description: Provides javascript/typescript protobuf message definition for ISCN
 
 # iscn-message-types
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Repositories
 
-Github repo: [https://github.com/likecoin/iscn-message-types](https://github.com/likecoin/iscn-message-types)  
+Github repo: [https://github.com/likecoin/iscn-message-types](https://github.com/likecoin/iscn-message-types)\
 npm: [https://www.npmjs.com/package/@likecoin/iscn-message-types](https://www.npmjs.com/package/@likecoin/iscn-message-types)
 
 ## Sample usage:
 
-```text
+```
 import { MsgCreateIscnRecord } from '@likecoin/iscn-message-types/dist/iscn/tx';
 
 const registry = new Registry([
@@ -40,4 +42,3 @@ const message = {
 const response = await client.signAndBroadcast(address, [message], fee, '');
 assertIsBroadcastTxSuccess(response);
 ```
-

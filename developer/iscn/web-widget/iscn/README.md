@@ -4,6 +4,8 @@ description: Submit ISCN entry via like.co web widget
 
 # ISCN Widget
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 Easily allow users to submit an ISCN entry via like.co and Liker ID.
 
 ![](../../../../.gitbook/assets/iscnwidget.png)

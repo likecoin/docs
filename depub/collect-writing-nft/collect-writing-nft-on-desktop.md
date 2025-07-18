@@ -7,6 +7,10 @@ description: >-
 
 # Collect Writing NFT by LIKE on desktop
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 You can purchase Writing NFT with LikeCoin, which not only supports creators' work, but also allows supporters to leave messages to motivate their favorite creators. These messages will always be attached to the work and will be recorded in the remarks field in the on-chain record.
 
 ## Step 1: Connect Wallet

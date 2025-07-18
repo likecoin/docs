@@ -4,6 +4,8 @@ description: Easier to identify your tweet
 
 # Avatar for depub.space
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 [Desmos Profile](https://desmos.network/dpm), [Omniflix NFT](https://omniflix.network/) and [Stargaze NFT](https://www.stargaze.zone/) owners can display their NFTs on [depub.space](https://depub.space/) as avatar.
 
 ## Step 1

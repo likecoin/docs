@@ -4,6 +4,10 @@ description: A great tool for promotion
 
 # Bulk create QR codes and Short URLs
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ### Batch Create QR Codes <a href="#batch-create-qr-codes" id="batch-create-qr-codes"></a>
 
 Go to the [Liker Land Book Press](https://publish.liker.land/) website, in the bottom left corner click "[Batch Create QR Codes](https://publish.liker.land/batch-qrcode/)".

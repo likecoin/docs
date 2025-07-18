@@ -1,5 +1,7 @@
 # Setup on cloud platforms
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Akash
 
 Following is a community maintained guid on setting on LikeCoin validator node on Akash.

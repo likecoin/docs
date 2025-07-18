@@ -6,6 +6,8 @@ description: >-
 
 # Setup on docker (Deprecated)
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ### Setup steps
 
 1. Clone the project

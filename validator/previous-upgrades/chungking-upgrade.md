@@ -4,6 +4,8 @@ description: ChungKing is the fourth major upgrade to the LikeCoin chain
 
 # ChungKing Upgrade
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 #### Please join the [#mainnet-validators](https://discord.gg/yGUqtcHGjv) channel.
 
 ### Changelog

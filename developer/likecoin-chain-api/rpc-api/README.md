@@ -1,5 +1,7 @@
 # RPC/LCD API
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Public RPC/LCD Endpoint
 
 ### Testnet

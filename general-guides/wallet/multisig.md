@@ -4,6 +4,8 @@ description: Multisig Wallet for LikeCoin
 
 # Multisig
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 A multi-signature wallet ("multisig") is a cryptocurrency wallet that requires two or more private keys for generating, signing and sending transactions on Cosmos chains.
 
 ## Pluto

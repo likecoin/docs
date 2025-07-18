@@ -1,5 +1,7 @@
 # Command line interface
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## liked
 
 `liked` is for launching the node and manipulating node related files, e.g. adding accounts into `genesis.json`.

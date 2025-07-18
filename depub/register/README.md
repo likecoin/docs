@@ -4,6 +4,10 @@ description: How do I register an account?
 
 # Register on Liker Land
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 On the [Liker Land website](https://liker.land/en), you can register a Liker ID through Email/Social (with Authcore).&#x20;
 
 {% hint style="info" %}

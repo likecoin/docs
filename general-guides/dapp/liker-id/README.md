@@ -4,6 +4,8 @@ description: What is Liker ID?
 
 # Liker ID
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 A citizen in LikeCoin DAO is known as a Liker. Each Liker has a unique Liker ID for identification. Likers can be writers, photographers, illustrators, editors, curators, or readers.
 
 Users can register a Liker ID using either of these two mechanisms:

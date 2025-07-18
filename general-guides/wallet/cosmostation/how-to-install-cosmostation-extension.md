@@ -4,13 +4,17 @@ description: Install Cosmostation On Chromium Based Browsers
 
 # How to install Cosmostation Browser Extension
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ## Step 1: Install Cosmostation
 
 Go to the [Cosmostation website's Wallet page ](https://www.cosmostation.io/wallet/#extension)to learn about browser extensions and click "Get Started".
 
 ![On Cosmostation website's Wallet page click "Get Started".](<../../../.gitbook/assets/Comostation 1.png>)
 
-Go to the Chrome Web Store and click "Add to Chrome" to install the [Cosmostation Browser Extension](https://chrome.google.com/webstore/detail/cosmostation/fpkhgmpbidmiogeglndfbkegfdlnajnf?utm\_source=chrome-ntp-icon).
+Go to the Chrome Web Store and click "Add to Chrome" to install the [Cosmostation Browser Extension](https://chrome.google.com/webstore/detail/cosmostation/fpkhgmpbidmiogeglndfbkegfdlnajnf?utm_source=chrome-ntp-icon).
 
 ![On Chrome Web Store, click "Add to Chrome" to install Cosmostation](<../../../.gitbook/assets/Comostation 2.png>)
 

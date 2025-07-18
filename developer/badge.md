@@ -4,6 +4,8 @@ description: Real time LikeCoin info display badges
 
 # Ecosystem Statistics Badge
 
+{% include "../.gitbook/includes/warning.md" %}
+
 ### Base URL [`https://static.like.co/badge`](https://static.like.co/badge)
 
 ### Ecosystem statistics

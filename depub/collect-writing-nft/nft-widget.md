@@ -4,6 +4,10 @@ description: Collect as You Read – The Embedded Vending Machine for Writings
 
 # NFT Widget
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 Readers can [collect Writing NFTs](./) in an extremely easy way.
 
 Unlike popular NFT marketplaces such as [OpenSea](https://opensea.io/) that converge creators' and buyers' traffic into a centralized portal, buyers of Writing NFTs are actually **readers** who want to focus on reading. The buying process for readers who are surfing the internet should be integrated with the reading experience. Shopping around in a mall and immersing oneself in a book are two totally different experiences, and we believe that most readers prefer the latter.

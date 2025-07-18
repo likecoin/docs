@@ -4,6 +4,10 @@ description: Check ISCN records and change their metadata
 
 # ISCN Browser
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 With Wancat's [ISCN Browser ](https://likecoin.github.io/iscn-browser)you can easily check the latest ISCN records and change their metadata.&#x20;
 
 ### Latest ISCN records

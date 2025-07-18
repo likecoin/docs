@@ -4,6 +4,8 @@ description: Software Changes that you are expected to see in the new upgrade to
 
 # Software Changes Overview
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ### liked & likecli
 
 * `liked` and `likecli` commands are combined into one single command (`liked`).

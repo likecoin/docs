@@ -4,6 +4,8 @@ description: Concepts before accessing LikeCoin chain
 
 # Cosmos concepts
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## Key and Address
 
 A private key is a 32 bytes (256 bits) binary.
@@ -33,8 +35,7 @@ To setup a full node, please follow the instruction from this document: [https:/
 
 Since the FoTan upgraed, the RESTful API is built into the `liked` command. You may modify `.liked/config/app.toml` for enabling the RESTful API if needed.
 
-[Here](https://gist.github.com/nnkken/90428d73f38d957de1b75ec3992d9342#file-docker-compose-yml) is an example Docker Compose config file for running the Taipei network full node and lite client. This hosts an RPC API endpoint on port 1317.\
-
+[Here](https://gist.github.com/nnkken/90428d73f38d957de1b75ec3992d9342#file-docker-compose-yml) is an example Docker Compose config file for running the Taipei network full node and lite client. This hosts an RPC API endpoint on port 1317.\\
 
 ### Chain ID
 

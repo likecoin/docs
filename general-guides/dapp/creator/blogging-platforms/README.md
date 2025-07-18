@@ -6,6 +6,8 @@ description: >-
 
 # Blogging Platforms
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 ## Medium
 
 Before adding the LikeCoin button, please [register a Liker ID](../../liker-id/).

@@ -4,6 +4,8 @@ description: Based on Metadata best practice
 
 # Writing NFT Spec
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## Background
 
 The Writing NFT introduced by Liker Land is designed especially for a single piece of article or post. The idea is similar to the traditional book publishing flow as an analogy, but the solution, however, tackles some specific issues for a single piece of writing.

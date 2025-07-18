@@ -4,6 +4,10 @@ description: Copy the new book promotion link.
 
 # Latest Books
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 Go to the [Liker Land Book Press](https://publish.liker.land/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[Latest Books](https://likecoin-nft-book-press-testnet.netlify.app/latest-books)".
 
 ### Latest Books on Liker Land Bookstore

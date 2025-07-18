@@ -1,5 +1,7 @@
 # ISCN
 
+{% include "../../../../.gitbook/includes/warning.md" %}
+
 Please refer to the [ISCN](../../../iscn/) section
 
 {% content-ref url="../../../iscn/javascript/iscn-js.md" %}

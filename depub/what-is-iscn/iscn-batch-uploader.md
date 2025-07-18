@@ -4,6 +4,10 @@ description: How to register large amount of ISCN records in one go
 
 # Register ISCN in batch
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ## Before you begin, make sure you have the following:
 
 1. A tool for editing CSV files. We recommend using the free Google Sheets. Prepare the data to be registered in CSV format.

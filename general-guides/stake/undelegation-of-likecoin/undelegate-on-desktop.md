@@ -1,5 +1,7 @@
 # Undelegate on desktop
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## **Undelegate via dao.like.co**
 
 ### Step 1: Log in to dao.like.co

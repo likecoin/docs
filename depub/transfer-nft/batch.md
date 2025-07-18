@@ -4,6 +4,10 @@ description: Export wallet address of supporters and batch send NFTs to them
 
 # Batch send NFT to supporters
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ## **How it works**
 
 **Step 1**: Search for "Collectors" in your own wallet on the [LikeCoin NFT Dashboard](https://likecoin.github.io/likecoin-nft-dashboard/#/).

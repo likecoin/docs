@@ -4,6 +4,8 @@ description: LikeCoin app - Explore the Metaverse and connect to Web3
 
 # LikeCoin app
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ![LikeCoin app](../../../.gitbook/assets/likecoin_ad72_appstore4_fullpic_en.png)
 
 {% content-ref url="download.md" %}

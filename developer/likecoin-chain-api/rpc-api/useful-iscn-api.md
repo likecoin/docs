@@ -1,5 +1,7 @@
 # ISCN API
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## LCD API
 
 Please refer to [iscn query definition](https://github.com/likecoin/likecoin-chain/blob/master/proto/likechain/iscn/query.proto#L11) for most updated LCD API
@@ -10,11 +12,11 @@ Please refer to [iscn query definition](https://github.com/likecoin/likecoin-cha
 
 #### Query ISCN by ID
 
-[`https://mainnet-node.like.co/iscn/records/id?iscn_id=iscn://likecoin-chain/dLbKMa8EVO9RF4UmoWKk2ocUq7IsxMcnQL1_Ps5Vg80/1`](https://mainnet-node.like.co/iscn/records/id?iscn\_id=iscn://likecoin-chain/dLbKMa8EVO9RF4UmoWKk2ocUq7IsxMcnQL1\_Ps5Vg80/1)
+[`https://mainnet-node.like.co/iscn/records/id?iscn_id=iscn://likecoin-chain/dLbKMa8EVO9RF4UmoWKk2ocUq7IsxMcnQL1_Ps5Vg80/1`](https://mainnet-node.like.co/iscn/records/id?iscn_id=iscn://likecoin-chain/dLbKMa8EVO9RF4UmoWKk2ocUq7IsxMcnQL1_Ps5Vg80/1)
 
 #### Query ISCN by ID prefix
 
-&#x20;[`https://mainnet-node.like.co/iscn/records/id?iscn_id=iscn://likecoin-chain/dLbKMa8EVO9RF4UmoWKk2ocUq7IsxMcnQL1_Ps5Vg80`](https://mainnet-node.like.co/iscn/records/id?iscn\_id=iscn://likecoin-chain/dLbKMa8EVO9RF4UmoWKk2ocUq7IsxMcnQL1\_Ps5Vg80)&#x20;
+&#x20;[`https://mainnet-node.like.co/iscn/records/id?iscn_id=iscn://likecoin-chain/dLbKMa8EVO9RF4UmoWKk2ocUq7IsxMcnQL1_Ps5Vg80`](https://mainnet-node.like.co/iscn/records/id?iscn_id=iscn://likecoin-chain/dLbKMa8EVO9RF4UmoWKk2ocUq7IsxMcnQL1_Ps5Vg80)&#x20;
 
 #### Query ISCN by fingerprint&#x20;
 

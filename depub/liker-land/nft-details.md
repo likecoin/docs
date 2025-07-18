@@ -4,6 +4,10 @@ description: Get to know your NFT
 
 # NFT Details
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/Buy NFT Details-en.png" alt=""><figcaption><p>NFT Details Page</p></figcaption></figure>
 
 1. NFT ID: Each NFT ID is unique.

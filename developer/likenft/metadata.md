@@ -1,5 +1,7 @@
 # Metadata best practice
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## NFT class and instance metadata reference
 
 No metadata standard is explicitly enforced for LikeCoin NFT. Users and dapp developers can take reference of the OpenSea standard: [https://docs.opensea.io/docs/metadata-standards](https://docs.opensea.io/docs/metadata-standards)

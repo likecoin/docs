@@ -4,6 +4,8 @@ description: Deposit and Send LikeCoin directly on Leap Browser Extension wallet
 
 # Leap: Deposit and Send LikeCoin
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## **Deposit your LikeCoin to Leap**
 
 ### Step 1

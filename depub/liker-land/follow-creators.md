@@ -4,6 +4,10 @@ description: Catch up with new release
 
 # Follow Creators
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 Users can now follow a creator by providing their email address. Whenever the creator publishes an ebook or NFT, the followers will receive an email notification and will never miss the chance to collect.
 
 ## Step 1: Setup Email

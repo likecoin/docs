@@ -4,6 +4,8 @@ description: Supporting content creator is easy
 
 # How to be a Civic Liker
 
+{% include "../../../.gitbook/includes/warning.md" %}
+
 Before becoming a Civic Liker, please [register a Liker ID](../liker-id/).
 
 Users stake at least **5,000** LIKE to the "Civic Liker node" **with a wallet address bound to a Liker ID** to become a Civic Liker. All delegation rewards from the Civic Liker node will be distributed to creators in the form of LIKE. There is no need to use the delegation principle, and only the delegation rewards can turn likes into income.

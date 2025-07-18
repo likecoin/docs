@@ -4,6 +4,10 @@ description: Publish Writing NFT with an article URL by Keplr
 
 # Keplr
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ## Login to NFT Portal&#x20;
 
 Enter the [**NFT Portal**](https://app.like.co/nft/url) on the desktop computer browser, login to [Keplr Browser Extension](../../general-guides/wallet/keplr/) and click Keplr to link to the website.

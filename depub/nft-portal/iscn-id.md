@@ -4,6 +4,10 @@ description: Mint Writing NFT with ISCN ID
 
 # Publish NFT with ISCN ID
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 If your article is registered with [ISCN](../what-is-iscn/), you can also use the [**NFT Portal**](https://app.like.co/nft/url) to publish Writing NFT. Moreover, you can register PDF, picture, sound... into [ISCN](../what-is-iscn/app.like.co/) first, then paste the ISCN ID to NFT Portal and publish as NFT.
 
 ## Method 1: Publish Writing NFT directly from ISCN

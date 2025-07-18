@@ -4,19 +4,15 @@ description: Install Keplr Mobile on iPhone or Android
 
 # How to install Keplr Mobile
 
+{% hint style="warning" %}
+The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
+{% endhint %}
+
 ## Step 1: Install Keplr Mobile
 
-Download the Keplr Mobile app from the [Apple App Store](https://apps.apple.com/us/app/keplr-wallet/id1567851089) or [Google Play](https://play.google.com/store/apps/details?id=com.chainapsis.keplr\&hl=en\_US). You can also use the QR codes below to download Keplr Wallet.
+Download the Keplr Mobile app from the [Apple App Store](https://apps.apple.com/us/app/keplr-wallet/id1567851089) or [Google Play](https://play.google.com/store/apps/details?id=com.chainapsis.keplr\&hl=en_US). You can also use the QR codes below to download Keplr Wallet.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 1.png" alt=""><figcaption><p>Search Keplr on Android Google Play and install it</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 2.png" alt=""><figcaption><p>Open Keplr Wallet</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Keplr mobile install 1.png" alt=""><figcaption><p>Search Keplr on Android Google Play and install it</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr mobile install 2.png" alt=""><figcaption><p>Open Keplr Wallet</p></figcaption></figure></div>
 
 <figure><img src="../../../.gitbook/assets/Keplr Mobile QR Code.png" alt=""><figcaption><p>QR Code to download Keplr Mobile</p></figcaption></figure>
 
@@ -52,15 +48,7 @@ Click on "Create new mnemonic".
 
 The screen will display your recovery phrase. Click "Copy to clipboard" and find a secure place to encrypt and store the recovery phrase as it is necessary for account recovery. Fill in your Wallet nickname, Password, Confirm password, and click "Next".
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 5.png" alt=""><figcaption><p>Click "Copy to clipboard" and store the recovery phrase</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Keplr mobile install 6.png" alt=""><figcaption><p>Fill in the Wallet nickname, Password and click "Next"</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Keplr mobile install 5.png" alt=""><figcaption><p>Click "Copy to clipboard" and store the recovery phrase</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr mobile install 6.png" alt=""><figcaption><p>Fill in the Wallet nickname, Password and click "Next"</p></figcaption></figure></div>
 
 {% hint style="danger" %}
 Please keep your recovery phrase and password safe. If you lose them, you will not be able to manage your LikeCoin. No one can reset your wallet on your behalf.

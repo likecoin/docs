@@ -4,6 +4,8 @@ description: The Public Testnet is a preview of what the LikeCoin FoTan Mainnet 
 
 # Overview
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## Introduction
 
 The Public Testnet is a preview of what the LikeCoin FoTan Mainnet will be.

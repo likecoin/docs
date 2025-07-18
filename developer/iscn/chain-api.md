@@ -1,8 +1,10 @@
 # Chain API
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## RESTful API
 
-{% page-ref page="../likecoin-chain-api/rpc-api/useful-iscn-api.md" %}
-
-
+{% content-ref url="../likecoin-chain-api/rpc-api/useful-iscn-api.md" %}
+[useful-iscn-api.md](../likecoin-chain-api/rpc-api/useful-iscn-api.md)
+{% endcontent-ref %}
 

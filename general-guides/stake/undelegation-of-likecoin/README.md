@@ -6,6 +6,10 @@ description: >-
 
 # Undelegation of LikeCoin
 
+
+
+{% include "../../../.gitbook/includes/warning.md" %}
+
 ## Important note **regarding Undelegation**
 
 Once you've confirmed your undelegation, the following happens:
