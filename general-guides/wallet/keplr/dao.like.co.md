@@ -4,9 +4,7 @@ description: Keplr + dao.like.co is essential for managing LikeCoin
 
 # Keplr + dao.like.co: Deposit, send, delegate, governance
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../../.gitbook/includes/warning.md" %}
 
 Use dao.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-app/how-to-install-cosmostation-app.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin/) LikeCoin; as well as provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote/) and [view transaction details](../block-explorer/dao.like.co.md).
 

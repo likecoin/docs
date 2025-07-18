@@ -4,9 +4,7 @@ description: Allow others to send NFTs on your behalf
 
 # NFT Authz Grants
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../.gitbook/includes/warning.md" %}
 
 Go to the [Liker Land Book Press](https://publish.liker.land/) website, click "Sign in" in the bottom left corner to connect to your wallet, the click "[NFT Authz Grants](https://publish.liker.land/authz)".
 

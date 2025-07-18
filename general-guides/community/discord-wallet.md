@@ -4,9 +4,7 @@ description: Send and Receive LikeCoin on LikeCoin Discord wallet
 
 # LikeCoin Discord wallet
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../.gitbook/includes/warning.md" %}
 
 In the [LikeCoin Discord](https://discord.com/invite/likecoin), users can send and receive [LikeCoin](https://like.co/) easily. The setup is simple, and it allows users to deposit, send and check their balances. Here are the steps to set up a wallet and perform these actions:
 

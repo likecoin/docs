@@ -4,9 +4,7 @@ description: Leap is a multichain wallet supporting LikeCoin
 
 # Leap Browser Extension Wallet
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../../.gitbook/includes/warning.md" %}
 
 Leap is the only non-custodial super wallet for Web3. It is the simplest and safest way to send, swap, and stake tokens, and you can manage your own private key.
 

@@ -4,9 +4,7 @@ description: Rember to keep the recover phrase safe
 
 # Creating a new Keplr wallet via setting up a new recovery phrase
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../../../.gitbook/includes/warning.md" %}
 
 [After installing the Keplr browser extension](./), the page automatically jumps. Click "Create a new wallet", then click "Connect new recovery phrase" to register a new Keplr wallet.
 

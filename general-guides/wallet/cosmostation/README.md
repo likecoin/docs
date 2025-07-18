@@ -6,9 +6,7 @@ description: >-
 
 # Cosmostation Browser Extension Wallet
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../../.gitbook/includes/warning.md" %}
 
 [Cosmostation](https://www.cosmostation.io/) is a non-custodial multi-chain cryptocurrency browser extension wallet for the Cosmos Interchain, Ethereum, ETH Layer 2, and EVM ecosystems. refer to the following guide for how to install Cosmostation. [Cosmostation has a mobile wallet](../cosmostation-app/) that supports [LikeCoin chain](https://www.mintscan.io/likecoin) too.
 

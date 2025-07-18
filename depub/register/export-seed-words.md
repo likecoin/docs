@@ -4,9 +4,7 @@ description: LikeCoin wallet can finally export seed words
 
 # Export Wallet Seed Words
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../.gitbook/includes/warning.md" %}
 
 Starting in April 2022, users can export seed words from [Liker ID registered through the Email/Social (with Authcore)](./) and import them into, for example, Keplr, to manage their [LikeCoin](https://like.co/).
 

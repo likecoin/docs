@@ -4,9 +4,7 @@ description: Get Rid of Sales Hurdle on NFT
 
 # Dynamic Pricing
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../.gitbook/includes/warning.md" %}
 
 We understand that creators prefer to focus on creation. Although there are unavoidable sales and promotional works such as building relationships with readers, sales efforts should be minimized as much as possible.
 

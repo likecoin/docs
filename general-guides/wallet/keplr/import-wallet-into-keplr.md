@@ -4,9 +4,7 @@ description: Import Recovery Phrase or Private Key and create a Keplr wallet
 
 # Import wallet into Keplr
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../../.gitbook/includes/warning.md" %}
 
 To import your recovery phrase or private key into Keplr, follow these steps:
 

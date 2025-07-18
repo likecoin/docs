@@ -4,9 +4,7 @@ description: See devices that have used your Liker ID
 
 # Manage logged in devices
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../.gitbook/includes/warning.md" %}
 
 {% hint style="info" %}
 The followings are for [Liker ID registered through Email/Social (with Authcore)](./).

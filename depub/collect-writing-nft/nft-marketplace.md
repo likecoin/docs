@@ -4,9 +4,7 @@ description: NFT Free Market
 
 # NFT Marketplace
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../.gitbook/includes/warning.md" %}
 
 The [LikeCoin NFT Marketplace](https://likecoin.github.io/likecoin-nft-marketplace/) prototype has been released, enabling free trading of NFTs! You can check out and buy NFTs and also find the latest buying and selling data.
 

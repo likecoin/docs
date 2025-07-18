@@ -4,9 +4,7 @@ description: Mobile version of Cosmostatoin
 
 # Cosmostation Mobile Wallet
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../../.gitbook/includes/warning.md" %}
 
 In addition to the browser extension wallet, Cosmostation also supports mobile. Users can download the Cosmostation app on iOS or Android to manage your LikeCoin. [Cosmostation also has a browser extension wallet](../cosmostation/) that supports [LikeCoin chain](https://www.mintscan.io/likecoin).
 

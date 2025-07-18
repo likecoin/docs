@@ -4,9 +4,7 @@ description: Frequently Asked Questions
 
 # Liker Land FAQ
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include ".gitbook/includes/warning.md" %}
 
 [LikeCoin Overview](./)&#x20;<a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 ----------------------------------------------------------------------------------------------------------

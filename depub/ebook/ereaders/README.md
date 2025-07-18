@@ -4,9 +4,7 @@ description: Import Liker Land ebook to ereaders
 
 # Import ebook to ereaders
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../../.gitbook/includes/warning.md" %}
 
 If the purchased ebook does not have DRM, besides using USB to import EPUB/PDF files to ereaders, different brands also support uploading via network interfaces:
 

@@ -6,9 +6,7 @@ description: >-
 
 # Keplr Browser Extension Wallet
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../../.gitbook/includes/warning.md" %}
 
 [Keplr](https://www.keplr.app/) is an interchain wallet that allows you to manage your own private key and easily manage your LikeCoin. To install Keplr, please refer to the installation guide available for both Chrome and Brave browsers. [Keplr has a mobile wallet](../keplr-mobile/) that supports [LikeCoin chain](https://www.mintscan.io/likecoin) too.
 

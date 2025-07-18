@@ -4,9 +4,7 @@ description: A Writing NFT is an NFT representing the ownership of a written wor
 
 # Writing NFT FAQ
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../.gitbook/includes/warning.md" %}
 
 ![Writing NFT](../.gitbook/assets/likecoin_ad115_writingnft_b-01.jpeg)
 

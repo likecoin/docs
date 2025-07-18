@@ -6,9 +6,7 @@ description: >-
 
 # What is Authcore?
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../.gitbook/includes/warning.md" %}
 
 [Authcore](https://authcore.io/) is a universal platform for secure and frictionless sign-in. It protects all user accounts with advanced security features and integrates with [Intel SGX](https://www.intel.com/content/www/us/en/architecture-and-technology/software-guard-extensions.html) to reduce the time and internal resources needed to implement a reliable data protection solution.
 

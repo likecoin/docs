@@ -4,9 +4,7 @@ description: Mobile version of Keplr
 
 # Keplr Mobile Wallet
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../../.gitbook/includes/warning.md" %}
 
 Keplr Mobile is the mobile wallet provided by Keplr. With the convenience of your mobile device, you can stake tokens, manage earnings, participate in governance, and connect to DeFi applications all in one place. [Keplr also offers a browser extension wallet](../keplr/) that supports the [LikeCoin chain](https://www.mintscan.io/likecoin).
 

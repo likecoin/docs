@@ -4,9 +4,7 @@ description: Web version of Liker Land
 
 # Liker Land features
 
-{% hint style="warning" %}
-The documentation is designed for Liker Land and LikeCoin v2. For information on 3ook.com and LikeCoin v3, please visit [docs.3ook.com](https://docs.3ook.com).
-{% endhint %}
+{% include "../../.gitbook/includes/warning.md" %}
 
 After logging in to Liker Land web - [https://Liker.Land](https://liker.land/), click the avatar in the upper right corner and the menu will pop up.
 
