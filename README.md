@@ -4,6 +4,13 @@ description: Liker Land 的用戶可根據以下簡單步驟，把帳戶從 Like
 
 # 從 Liker.Land 遷到 3ook.com
 
+**遷移前準備**
+
+* 確認自己能成功登入 [Liker Land](https://liker.land/) 遷移過程中，系統會要求你登入 Liker Land 一次。
+* 若你從前只用錢包登入 Liker Land，也可在新系統選擇以電郵註冊，完成註冊後你可隨時把新帳號的錢包地址私鑰導出來，使用任何錢包工具管理。 請準備一個你常用的電郵地址來註冊。
+
+
+
 **步驟一**：訪問 [Liker ID 及 LikeNFT 轉移網站](https://v3-book-migration.like.co/)
 
 **步驟二**：閱讀遷移簡介，點「確認」
@@ -16,12 +23,12 @@ description: Liker Land 的用戶可根據以下簡單步驟，把帳戶從 Like
 
 <figure><img src=".gitbook/assets/image (99).png" alt="" width="375"><figcaption><p>成功登入 Liker Land 後，會顯示你帳號的資料</p></figcaption></figure>
 
-**步驟四**：點擊「連接對應錢包」按鍵，登入 3ook.com 帳號。建議選用電郵登入。若你已有以太坊的錢包，並想把 Liker Land 現有的書都轉移到那錢包的話，也可以選以選當前的錢包地址。只要你的瀏覽器有安裝到 MetaMask, Rabby 或 Keplr，系統便會顯示對應的錢包登入選項。
+**步驟四**：點擊「連接對應錢包」按鍵，登入 3ook.com 帳號。**建議選用電郵登入**。若你已有以太坊的錢包，並想把 Liker Land 現有的書都轉移到那錢包的話，也可以選以選當前的錢包地址。只要你的瀏覽器有安裝 MetaMask, Rabby 或 Keplr，系統便會顯示對應的錢包登入選項。
 
 注意：
 
 * 若你決定以錢包登入，請先選定**當前**的錢包地址，因為一旦簽署，選定的錢包地址便會跟 Liker Land 的帳號綁定，無法更改。
-* 若你選擇以電郵登入，日後仍可以把私鑰導出，並導入到支援以太坊的錢包工具，讓你能露活地選用電郵或錢包登入。
+* 若你選擇以電郵登入，日後仍可以把私鑰導出，並導入到支援以太坊的錢包工具，讓你能靈活地選用電郵或錢包登入。
 
 <figure><img src=".gitbook/assets/image (100).png" alt="" width="375"><figcaption></figcaption></figure>
 
