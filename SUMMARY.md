@@ -44,6 +44,7 @@
   * [Batch send NFT to supporters](depub/transfer-nft/batch.md)
 * [NFT Tools](depub/tools.md)
 * [Writing NFT FAQ](depub/writing-nft.md)
+* [View Articles Writing NFT](depub/article-nft.md)
 * [Publish Writing NFT](depub/nft-portal/README.md)
   * [Email/Social](depub/nft-portal/authcore.md)
   * [Keplr](depub/nft-portal/keplr.md)
