@@ -46,6 +46,7 @@
   * [群發 NFT 紀念品給支持者](depub/transfer-nft/batch.md)
 * [其他 NFT 工具](depub/tools.md)
 * [Writing NFT 常見問題](depub/writing-nft.md)
+* [查看文章 Writing NFT](depub/article-nft.md)
 * [出版 Writing NFT](depub/nft-portal/README.md)
   * [電郵或社交登入](depub/nft-portal/authcore.md)
   * [Keplr](depub/nft-portal/keplr.md)
