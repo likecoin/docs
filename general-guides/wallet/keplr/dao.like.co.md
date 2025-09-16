@@ -6,7 +6,7 @@ description: Keplr + dao.v2.like.co 管理 LikeCoin 必備
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-使用 [dao.v2.like.co](https://dao.v2.like.co/) 錢包介面搭配 [Keplr 瀏覽器擴充功能](how-to-install-keplr-extension/)，用戶可[存入](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr)、[轉帳](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)，[投票](../../governance/direct-vote/)及[查看交易明細](../block-explorer/dao.like.co.md)等。
+使用 [dao.v2.like.co](https://dao.v2.like.co/) 錢包介面搭配 [Keplr 瀏覽器擴充功能](how-to-install-keplr-extension/)，用戶可[存入](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr)、[轉帳](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)，[投票](../../governance/direct-vote/)及[查看交易明細](../block-explorer/dao.v2.like.co.md)等。
 
 ## 登入 dao.v2.like.co
 
