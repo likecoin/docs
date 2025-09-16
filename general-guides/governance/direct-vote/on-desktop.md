@@ -2,7 +2,7 @@
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-## 於 dao.like.co 投票
+## 於 dao.v2.like.co 投票
 
 ### 步驟一：委託 LikeCoin
 
@@ -12,11 +12,11 @@
 [delegation-of-likecoin](../../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
-### 步驟二：登入 dao.like.co
+### 步驟二：登入 dao.v2.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站選擇 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/register/) 登入。
+到 [dao.v2.like.co](https://dao.v2.like.co/) 網站選擇 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/register/) 登入。
 
-![到 dao.like.co 選擇 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
+![到 dao.v2.like.co 選擇 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### &#xD;步驟三：選擇議案
 

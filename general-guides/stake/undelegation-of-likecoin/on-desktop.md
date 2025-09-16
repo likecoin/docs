@@ -2,11 +2,11 @@
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-## 於 dao.like.co 取回委託 LikeCoin <a href="#undelegate-via-dao.like.co" id="undelegate-via-dao.like.co"></a>
+## 於 dao.v2.like.co 取回委託 LikeCoin <a href="#undelegate-via-dao.like.co" id="undelegate-via-dao.like.co"></a>
 
-### 步驟一：登入 dao.like.co
+### 步驟一：登入 dao.v2.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/register/) 登入。
+到 [dao.v2.like.co](https://dao.v2.like.co/) 網站後選 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/register/) 登入。
 
 ### 步驟二：選擇已委託的驗證人
 

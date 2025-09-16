@@ -2,9 +2,9 @@
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-## 使用手機瀏覽器於 dao.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
+## 使用手機瀏覽器於 dao.v2.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
 
-使用手機瀏覽器可於 [dao.like.co](https://dao.like.co/) 配合 [Authcore](../../../depub/register/) 轉移委託，步驟與[以桌機於 dao.like.co 轉移委託 LikeCoin](on-desktop.md#redelegate-via-dao.like.co) 相同。
+使用手機瀏覽器可於 [dao.v2.like.co](https://dao.v2.like.co/) 配合 [Authcore](../../../depub/register/) 轉移委託，步驟與[以桌機於 dao.v2.like.co 轉移委託 LikeCoin 相同](on-desktop.md)。
 
 ## 使用 Keplr Mobile 轉移委託 <a href="#redelegate-via-cosmostation-app" id="redelegate-via-cosmostation-app"></a>
 
