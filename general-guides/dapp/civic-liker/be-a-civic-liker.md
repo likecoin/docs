@@ -42,13 +42,13 @@ description: 贊助創作者方法非常簡單
 是次變更只會影響少於 10% 的用戶。
 {% endhint %}
 
-## 使用 dao.like.co 委託成為讚賞公民
+## 使用 dao.v2.like.co 委託成為讚賞公民
 
-### 步驟一：登入 dao.like.co
+### 步驟一：登入 dao.v2.like.co
 
-到 [dao.like.co](https://dao.like.co/) 網站後選 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/register/) 登入已連結了 Liker ID 的錢包。
+到 [dao.v2.like.co](https://dao.v2.like.co/) 網站後選 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/register/) 登入已連結了 Liker ID 的錢包。
 
-![到 dao.like.co 網站後選 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
+![到 dao.v2.like.co 網站後選 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### 步驟二：選擇讚賞公民節點
 
