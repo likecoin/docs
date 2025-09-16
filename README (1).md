@@ -4,6 +4,8 @@ description: 有關 LikeCoin、去中心出版、及 LikeCoin DAO
 
 # LikeCoin - 去中心出版
 
+{% include ".gitbook/includes/warning.md" %}
+
 <figure><img src=".gitbook/assets/LCF001-key visual v4.1-1.jpg" alt=""><figcaption><p>#DePub 去中心出版</p></figcaption></figure>
 
 ### LikeCoin 是什麼
