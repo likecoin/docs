@@ -4,6 +4,8 @@ description: ebook FAQ
 
 # FAQ: Listing ebooks
 
+{% include "../../.gitbook/includes/warning.md" %}
+
 ## What You Need to Know:
 
 * You must accept these Publishing Terms and Conditions in order to publish works on Liker Land.
