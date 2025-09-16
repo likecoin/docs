@@ -118,7 +118,7 @@
   * [Multisig](general-guides/wallet/multisig.md)
   * [Wallet Address](general-guides/wallet/wallet-address.md)
   * [Block Explorer](general-guides/wallet/block-explorer/README.md)
-    * [dao.v2.like.co](general-guides/wallet/block-explorer/dao.like.co.md)
+    * [dao.v2.like.co](general-guides/wallet/block-explorer/dao.v2.like.co.md)
     * [Ping.pub](general-guides/wallet/block-explorer/ping.pub.md)
     * [ATOMScan](general-guides/wallet/block-explorer/atomscan.md)
   * [Transaction Fee](general-guides/wallet/transaction-fee.md)

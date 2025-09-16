@@ -6,7 +6,7 @@ description: Keplr + dao.v2.like.co is essential for managing LikeCoin
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-Use dao.v2.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-app/how-to-install-cosmostation-app.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin/) LikeCoin; as well as provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote/) and [view transaction details](../block-explorer/dao.like.co.md).
+Use dao.v2.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-app/how-to-install-cosmostation-app.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin/) LikeCoin; as well as provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote/) and [view transaction details](../block-explorer/dao.v2.like.co.md).
 
 ## Log in to dao.v2.like.co
 
