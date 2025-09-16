@@ -2,9 +2,9 @@
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-## Vote via dao.like.co on a mobile browser
+## Vote via dao.v2.like.co on a mobile browser
 
-Using a mobile browser with [dao.like.co](https://dao.like.co/) can vote by [Authcore](../../../depub/register/), and the steps are the same as[ using a desktop computer to vote via dao.like.co](on-desktop.md#vote-via-dao.like.co).
+Using a mobile browser with [dao.v2.like.co](https://dao.v2.like.co/) can vote by [Authcore](../../../depub/register/), and the steps are the same as [using a desktop computer to vote via dao.v2.like.co](on-desktop.md).
 
 ## Vote via Keplr Mobile
 

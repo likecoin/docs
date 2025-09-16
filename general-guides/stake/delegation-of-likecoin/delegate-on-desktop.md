@@ -2,17 +2,17 @@
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-## Delegate via dao.like.co
+## Delegate via dao.v2.like.co
 
-Check out the below tutorial clip for staking via [dao.like.co](https://dao.like.co/welcome).
+Check out the below tutorial clip for staking via [dao.v2.like.co](https://dao.v2.like.co/).
 
 {% embed url="https://youtu.be/7soCRDCGYCw" %}
 
-### Step 1: Log in to dao.like.co
+### Step 1: Log in to dao.v2.like.co
 
-Go to [dao.like.co](https://dao.like.co/) and select [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/) or [Authcore](../../../depub/register/) to log in.
+Go to [dao.v2.like.co](https://dao.v2.like.co/) and select [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/) or [Authcore](../../../depub/register/) to log in.
 
-![Go to dao.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
+![Go to dao.v2.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### Step 2: Select a validator&#xD;
 

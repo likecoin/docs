@@ -12,7 +12,7 @@ In addition to delegating your voting powers to validators to let them vote on y
 
 ## Vote on Desktop
 
-There are multiple ways to vote for a proposal, **we suggest using** [**dao.like.co**](./#vote-via-dao.like.co) together with [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/) or [Authcore](../../../depub/register/).&#x20;
+There are multiple ways to vote for a proposal, **we suggest using** [dao.v2.like.co](https://dao.v2.like.co/) together with [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/) or [Authcore](../../../depub/register/).&#x20;
 
 You can also vote directly with [Leap Browser Extension](./#delegate-via-leap-browser-extension).
 
@@ -35,7 +35,7 @@ For [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extens
 
 ## Vote on Mobile
 
-Using a mobile browser with [dao.like.co](../../wallet/block-explorer/dao.like.co.md) can vote by [Authcore](../../../depub/register/).
+Using a mobile browser with [dao.v2.like.co](https://dao.v2.like.co/) can vote by [Authcore](../../../depub/register/).
 
 You can also use Keplr Mobile and [Cosmostation app](./#delegate-via-cosmostation-app) to vote.
 

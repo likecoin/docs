@@ -1,20 +1,20 @@
 ---
-description: Keplr + dao.like.co is essential for managing LikeCoin
+description: Keplr + dao.v2.like.co is essential for managing LikeCoin
 ---
 
-# Keplr + dao.like.co: Deposit, send, delegate, governance
+# Keplr + dao.v2.like.co: Deposit, send, delegate, governance
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-Use dao.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-app/how-to-install-cosmostation-app.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin/) LikeCoin; as well as provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote/) and [view transaction details](../block-explorer/dao.like.co.md).
+Use dao.v2.like.co wallet interface together with [Keplr Browser Extension](../cosmostation-app/how-to-install-cosmostation-app.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr), [send](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin/) LikeCoin; as well as provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote/) and [view transaction details](../block-explorer/dao.like.co.md).
 
-## Log in to dao.like.co
+## Log in to dao.v2.like.co
 
 ### Step 1
 
-Login Keplr and go to [dao.like.co](https://dao.like.co/) and click "Keplr Browser Extension".
+Login Keplr and go to [dao.v2.like.co](https://dao.v2.like.co/) and click "Keplr Browser Extension".
 
-<figure><img src="../../../.gitbook/assets/Keplr + dao.like.co 1.png" alt=""><figcaption><p>Go to dao.like.co, click "Keplr Browser Extension"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr + dao.like.co 1.png" alt=""><figcaption><p>Go to dao.v2.like.co, click "Keplr Browser Extension"</p></figcaption></figure>
 
 ### Step 2
 
@@ -26,15 +26,15 @@ Then click "Approve" on Keplr.
 
 You can see your LikeCoin balance.
 
-<figure><img src="../../../.gitbook/assets/Keplr + dao.like.co 3.png" alt=""><figcaption><p>LikeCoin balance appears on dao.like.co</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Keplr + dao.like.co 3.png" alt=""><figcaption><p>LikeCoin balance appears on dao.v2.like.co</p></figcaption></figure>
 
-## **Deposit your LikeCoin via dao.like.co to Keplr**
+## **Deposit your LikeCoin via** dao.v2.like.co **to Keplr**
 
-Click on the wallet address in the top left corner of [dao.like.co](https://dao.like.co/) to copy it and paste to somewhere else (A crypto exchange or another wallet).
+Click on the wallet address in the top left corner of [dao.v2.like.co](https://dao.v2.like.co/) to copy it and paste to somewhere else (A crypto exchange or another wallet).
 
 <figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>Click on wallet address and copy</p></figcaption></figure>
 
-## To send LikeCoin to another wallet using dao.like.co + Keplr
+## To send LikeCoin to another wallet using dao.v2.like.co + Keplr
 
 ### Step1
 
@@ -62,7 +62,7 @@ After the message "Sent and confirming" appears, a "Successfully Sent" message w
 
 <div><figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption><p>Sent and confirming</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption><p>Successfully Send</p></figcaption></figure></div>
 
-## Using dao.like.co to:
+## Using dao.v2.like.co to:
 
 {% content-ref url="../../stake/delegation-of-likecoin/delegate-on-desktop.md" %}
 [delegate-on-desktop.md](../../stake/delegation-of-likecoin/delegate-on-desktop.md)
