@@ -85,5 +85,4 @@ Visit [here](https://about.like.co/apps) for more LikeCoin Dapps.
 
 ## Contact Us
 
-* Customer Service: [please click here](https://go.crisp.chat/chat/embed/?website_id=5c009125-5863-4059-ba65-43f177ca33f7)
 * Partners and Cooperation: partners@like.co
