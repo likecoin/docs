@@ -59,5 +59,4 @@ LikeCoin DAO 持份者一起決策和執行如公共財政、公益建設、政�
 
 ## 聯繫我們 <a href="#contact-us" id="contact-us"></a>
 
-* 客戶服務：點擊[這裡](https://go.crisp.chat/chat/embed/?website_id=5c009125-5863-4059-ba65-43f177ca33f7)
 * 商務合作：partners@like.co
