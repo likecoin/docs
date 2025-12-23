@@ -38,7 +38,7 @@ description: 請詳細參看所需步驟
 
 到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>到 https://like.co/in/ 點「切換舊介面」</p></figcaption></figure>
+<figure><img src="/broken/files/mMwbkrCk6OQGl6N55VlQ" alt=""><figcaption><p>到 https://like.co/in/ 點「切換舊介面」</p></figcaption></figure>
 
 以你常用的社交帳戶 ( Google / Facebook / Twitter / Matters ) 登入。
 
@@ -78,8 +78,7 @@ description: 請詳細參看所需步驟
 
 ### 步驟 4：檢查 LikeCoin 金額 <a href="#step-3-check-your-likecoin-balance" id="step-3-check-your-likecoin-balance"></a>
 
-&#x20;升級完成後，你可到 [https://like.co/in](https://like.co/in) 檢查你的 LikeCoin 餘額。\
-
+&#x20;升級完成後，你可到 [https://like.co/in](https://like.co/in) 檢查你的 LikeCoin 餘額。<br>
 
 ![到 https://like.co/in 檢查你的 LikeCoin 餘額](../../../.gitbook/assets/likecoin-migration-6.png)
 
@@ -95,7 +94,7 @@ description: 請詳細參看所需步驟
 
 到 [https://like.co/in/](https://like.co/in/) 點「切換舊介面」或「Switch to legacy interface」。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>到 https://like.co/in/ 點「切換舊介面」</p></figcaption></figure>
+<figure><img src="/broken/files/mMwbkrCk6OQGl6N55VlQ" alt=""><figcaption><p>到 https://like.co/in/ 點「切換舊介面」</p></figcaption></figure>
 
 在登入頁面的右上角選擇「以錢包登入」後再選「MetaMask」。過程中，系統會要求你設定一組密碼。[](https://matters.news/@likecoin/my-eth-shop%E5%B0%87%E6%94%AF%E6%8F%B4%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84like-coin-zdpuAwgQLCHC7afNfU6Cn7EuUeLT6MKUTptUGj5i9jgqPt6Kj)
 

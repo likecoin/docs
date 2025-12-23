@@ -15,45 +15,25 @@ description: LikeCoin 錢包終於可以匯出助記詞
 
 ## 步驟一：到匯出錢包助記詞網址
 
-到 [Liker Land](https://liker.land/) 網站右上角點「登入」。
+到網址 [https://docs.v2.like.co/zh/depub/register/export-seed-words](https://docs.v2.like.co/zh/depub/register/export-seed-words) 點「接受」。
 
-<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 01.png" alt=""><figcaption><p>點「登入」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Export Seed Words 1.png" alt=""><figcaption></figcaption></figure>
 
-點 Email/Social 使用 Liker ID 以電郵/社交登入。
+再點「Liker ID 登入」，並登入你的帳號。
 
-<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 02.png" alt=""><figcaption><p>點 Email/Social 使用 Liker ID 以電郵/社交登入</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Export Seed Words 2.png" alt=""><figcaption></figcaption></figure>
 
-登入後點右上角頭像，點「設定」再點「匯出錢包助記詞」。&#x20;
+以電郵及密碼，又或者任何一種[社交帳號登入](../../general-guides/dapp/liker-id/social-media-logins.md)方式登入。
 
-<figure><img src="../../.gitbook/assets/Seed Words 0.png" alt=""><figcaption><p>點「設定」再點「匯出錢包助記詞」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Export Seed Words 3.png" alt=""><figcaption></figcaption></figure>
 
-出現提示字句後點「接受」。
+系統會再次要求再登入多次，直至出現以下頁面。請輸入你的 Authcore 密碼，再點「顯示錢包助記詞」。
 
-![出現提示字句後點「接受」](<../../.gitbook/assets/Seed Words 1.png>)
+<figure><img src="../../.gitbook/assets/Export Seed Words 4.png" alt=""><figcaption></figcaption></figure>
 
-## 步驟二：認證身份
+點「複製」即可複製錢包助記詞。
 
-點「按此認證身份」。
-
-![點「按此認證身份」](<../../.gitbook/assets/Seed Words 2.png>)
-
-## 步驟三：重新登入 Liker Land
-
-以電郵及密碼，又或者任何一種[社交帳號登入](../../general-guides/dapp/liker-id/social-media-logins.md)方式重新登入 [Liker Land](https://liker.land/)。
-
-![重新登入 Liker Land](<../../.gitbook/assets/Seed Words 3.png>)
-
-## 步驟四：輸入 Authcore 密碼
-
-輸入登入密碼，再點「顯示錢包助記詞」。
-
-![輸入登入密碼，再點「顯示錢包助記詞」](<../../.gitbook/assets/Seed Words 4.png>)
-
-## 步驟五：複製錢包助記詞
-
-點複製即可複製錢包助記詞。
-
-![複製錢包助記詞](<../../.gitbook/assets/Seed Words 5.png>)
+<figure><img src="../../.gitbook/assets/Export Seed Words 5.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
