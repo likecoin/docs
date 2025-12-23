@@ -15,7 +15,7 @@ description: LikeCoin 錢包終於可以匯出助記詞
 
 ## 步驟一：到匯出錢包助記詞網址
 
-到網址 [https://docs.v2.like.co/zh/depub/register/export-seed-words](https://docs.v2.like.co/zh/depub/register/export-seed-words) 點「接受」。
+到網址 [https://like.co/in/widget/authcore/seedwords](https://like.co/in/widget/authcore/seedwords) 點「接受」。
 
 <figure><img src="../../.gitbook/assets/Export Seed Words 1.png" alt=""><figcaption></figcaption></figure>
 
