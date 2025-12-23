@@ -13,25 +13,25 @@ description: LikeCoin 錢包終於可以匯出助記詞
 * 你的網絡與周邊環境是否安全。
 * 你使用的電腦是否經已進行病毒掃描以確保沒有病毒或木馬程式。
 
-## 步驟一：到匯出錢包助記詞網址
+匯出錢包助記詞步驟如下：
 
-到網址 [https://like.co/in/widget/authcore/seedwords](https://like.co/in/widget/authcore/seedwords) 點「接受」。
+1. 到網址 [https://like.co/in/widget/authcore/seedwords](https://like.co/in/widget/authcore/seedwords) 點「接受」。
 
 <figure><img src="../../.gitbook/assets/Export Seed Words 1.png" alt=""><figcaption></figcaption></figure>
 
-再點「Liker ID 登入」，並登入你的帳號。
+2. 再點「Liker ID 登入」，並登入你的帳號。
 
 <figure><img src="../../.gitbook/assets/Export Seed Words 2.png" alt=""><figcaption></figcaption></figure>
 
-以電郵及密碼，又或者任何一種[社交帳號登入](../../general-guides/dapp/liker-id/social-media-logins.md)方式登入。
+3. 以電郵及密碼，又或者任何一種[社交帳號登入](../../general-guides/dapp/liker-id/social-media-logins.md)方式登入。
 
 <figure><img src="../../.gitbook/assets/Export Seed Words 3.png" alt=""><figcaption></figcaption></figure>
 
-系統會再次要求再登入多次，直至出現以下頁面。請輸入你的 Authcore 密碼，再點「顯示錢包助記詞」。
+4. 系統會再次要求再登入多次，直至出現以下頁面。請輸入你的 Authcore 密碼，再點「顯示錢包助記詞」。
 
 <figure><img src="../../.gitbook/assets/Export Seed Words 4.png" alt=""><figcaption></figcaption></figure>
 
-點「複製」即可複製錢包助記詞。
+5. 點「複製」即可複製錢包助記詞。
 
 <figure><img src="../../.gitbook/assets/Export Seed Words 5.png" alt=""><figcaption></figcaption></figure>
 
