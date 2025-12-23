@@ -16,8 +16,7 @@ Production endpoint: `https://api.like.co`&#x20;
 
 Development endpoint: `https://api.testnet.like.co`\
 \
-Please refer to `Reference` session for a list of available API.\
-
+Please refer to `Reference` session for a list of available API.<br>
 
 ### Obtaining OAuth client ID and secret for authenticated API
 

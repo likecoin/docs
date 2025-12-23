@@ -30,11 +30,11 @@ Fill in your Wallet name, Create Keplr Password, Confirm Keplr Password, and cli
 
 On the Select Chains page, search for LikeCoin, select it, and click "Save".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Select LikeCoin and click "Save"</p></figcaption></figure>
+<figure><img src="/broken/files/RnqzQXaw3c5DWPioD4sZ" alt=""><figcaption><p>Select LikeCoin and click "Save"</p></figcaption></figure>
 
 When the "Account Created!" page appears, the registration process is complete. Click "Finish".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>On "Account Created!" page click "Finish"</p></figcaption></figure>
+<figure><img src="/broken/files/wdtc6ShnvvmgErBTu1kV" alt=""><figcaption><p>On "Account Created!" page click "Finish"</p></figcaption></figure>
 
 Click the Keplr icon in the browser toolbar, enter your password, and click "Unlock".
 
@@ -78,11 +78,11 @@ Enter the wallet name and click "Next".
 
 On the Select Chains page, search for LikeCoin, select it, and click "Save".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Select LikeCoin and click "Save"</p></figcaption></figure>
+<figure><img src="/broken/files/RnqzQXaw3c5DWPioD4sZ" alt=""><figcaption><p>Select LikeCoin and click "Save"</p></figcaption></figure>
 
 When the "Account Created!" page appears, the registration process is complete. Click "Finish".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>On "Account Created!" page click "Finish"</p></figcaption></figure>
+<figure><img src="/broken/files/wdtc6ShnvvmgErBTu1kV" alt=""><figcaption><p>On "Account Created!" page click "Finish"</p></figcaption></figure>
 
 Go back to the Select Wallet page of the Keplr wallet, and you will see the newly imported wallet.
 

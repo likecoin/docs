@@ -44,11 +44,11 @@ After successful login, your wallet address will be displayed in the top right c
 
 Click "Select a file" to choose a photo or video, or upload it directly by dragging and dropping. If you have already uploaded the file, you can also choose "Skip Upload".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Click "Select a file" to upload a file or "Skip Upload"</p></figcaption></figure>
+<figure><img src="/broken/files/99pkX4a0DAoNvktbrxGT" alt=""><figcaption><p>Click "Select a file" to upload a file or "Skip Upload"</p></figcaption></figure>
 
 After the upload is complete, click "View File Info" to check the metadata of your file, including EXIF data such as location and camera settings. Review the details again and "Start Upload".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Click "View File Info" to check the metadata of your file and "Start Upload"</p></figcaption></figure>
+<figure><img src="/broken/files/UOsZWnV9ktSW9bMXR1Um" alt=""><figcaption><p>Click "View File Info" to check the metadata of your file and "Start Upload"</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/ISCN 4.png" alt=""><figcaption><p>Metadata of your file</p></figcaption></figure>
 
@@ -56,7 +56,7 @@ After the upload is complete, click "View File Info" to check the metadata of yo
 
 If you choose "Skip Upload", enter an existing content fingerprint.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Enter an existing content fingerprint</p></figcaption></figure>
+<figure><img src="/broken/files/qHKvOKxzZp7fFIvPEONu" alt=""><figcaption><p>Enter an existing content fingerprint</p></figcaption></figure>
 
 ## Step 3: Fill in the metadata <a href="#bu-zhou-san-tian-xie-yuan-zi-liao" id="bu-zhou-san-tian-xie-yuan-zi-liao"></a>
 
@@ -75,7 +75,7 @@ Fill in the information about this content, including:
 * URL - Link to the content
 * License - You may refer to Creative Commons for reference.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Fill in the metadata</p></figcaption></figure>
+<figure><img src="/broken/files/VUwKybaBReV7V7sXaoPz" alt=""><figcaption><p>Fill in the metadata</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/ISCN 7.png" alt=""><figcaption><p>Fill in creator information</p></figcaption></figure>
 

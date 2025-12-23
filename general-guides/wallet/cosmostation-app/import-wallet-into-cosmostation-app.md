@@ -60,7 +60,6 @@ If you need to import more than one wallet, open Cosmostation app after importin
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 10.png" alt=""><figcaption><p>Click "SETTING" then "Manage Mnemonic / Add Wallet"</p></figcaption></figure>
 
-Click "Import Mnemonic" and repeat the steps to import another wallet. \
-
+Click "Import Mnemonic" and repeat the steps to import another wallet. <br>
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile import wallet 11.png" alt=""><figcaption><p>Click "Import Mnemonic" and repeat the steps to import another wallet</p></figcaption></figure>

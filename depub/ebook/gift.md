@@ -46,7 +46,7 @@ After claming the book, click “Open Book” and select any one of the file for
 
 If the author of the purchased ebook allows downloading the file, click the download icon in the top right corner to download the book file.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Click download icon to download the ebook</p></figcaption></figure>
+<figure><img src="/broken/files/Sj18WBOzjjNSyN2pQIDR" alt=""><figcaption><p>Click download icon to download the ebook</p></figcaption></figure>
 
 Read more:
 

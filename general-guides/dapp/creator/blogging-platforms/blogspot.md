@@ -24,8 +24,7 @@ In the page settings, select a position to add the 'HTML/JavaScript' widget. Pas
 
 ### **LikeCoin button at the end of each article**
 
-Go to 'Theme' and click 'Edit HTML'. Search for **data:post.body**, and when you see `</div>`, insert the following source code, replacing \[LikerID] with your Liker ID:\
-
+Go to 'Theme' and click 'Edit HTML'. Search for **data:post.body**, and when you see `</div>`, insert the following source code, replacing \[LikerID] with your Liker ID:<br>
 
 ```
 <b:if cond='data:blog.pageType == "item"'>

@@ -38,7 +38,7 @@ Your task is to upgrade the LikeCoin in your MetaMask wallet to the LikeCoin cha
 
 Go to [https://like.co/in](https://like.co/in) and click "Switch to legacy interface".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Go to https://like.co/in and click "Switch to legacy interface"</p></figcaption></figure>
+<figure><img src="/broken/files/sEsoajqgNqktuiUnRvnu" alt=""><figcaption><p>Go to https://like.co/in and click "Switch to legacy interface"</p></figcaption></figure>
 
 Log in to Chrome using your social account (Google/Facebook/Twitter/Matters).
 
@@ -88,7 +88,7 @@ If you log in to Liker ID using only the MetaMask wallet, you can still follow t
 
 Go to [https://like.co/in](https://like.co/in), click "Switch to legacy interface".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Go to https://like.co/in, click "Switch to legacy interface"</p></figcaption></figure>
+<figure><img src="/broken/files/sEsoajqgNqktuiUnRvnu" alt=""><figcaption><p>Go to https://like.co/in, click "Switch to legacy interface"</p></figcaption></figure>
 
 Then choose "Sign in with your wallet" on the upper right-hand corner of the login screen. Choose "MetaMask," and you will be asked to set up a new password during the process.
 

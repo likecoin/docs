@@ -144,8 +144,7 @@ Archived on 2022/06/14. Information is out of date.
         * ISCN registry name
         * ISCN fee per byte
       * the new software version (in Git commit hash)
-      * and the new chain ID (e.g. `likecoin-fotan-1`)\
-
+      * and the new chain ID (e.g. `likecoin-fotan-1`)<br>
 2.  After the creation of the proposal, one may query the content of the proposal by:
 
     ```
@@ -155,18 +154,15 @@ Archived on 2022/06/14. Information is out of date.
     --node tcp://liked-service:26657
     ```
 
-    This will also show the proposal ID (should be `1` for the first proposal).\
-
+    This will also show the proposal ID (should be `1` for the first proposal).<br>
 3.  To pass the proposal, all validators vote for the proposal by running:
 
     ```
     docker-compose run --rm vote 1 yes
     ```
 
-    Which means `vote "yes" in proposal ID 1`.\
-
-4. After the proposal is passed, setup chain halt time by modifying `.env` file and changing `LIKECOIN_HALT_TIME` to the Unix timestamp of the halt time in the proposal.\
-
+    Which means `vote "yes" in proposal ID 1`.<br>
+4. After the proposal is passed, setup chain halt time by modifying `.env` file and changing `LIKECOIN_HALT_TIME` to the Unix timestamp of the halt time in the proposal.<br>
 5.  Restart the chain node by running:
 
     ```
@@ -206,23 +202,20 @@ Archived on 2022/06/14. Information is out of date.
     docker-compose run --rm liked-command tendermint show-validator
     ```
 
-    Record the output as consensus public key for later verification.\
-
+    Record the output as consensus public key for later verification.<br>
 7.  Check the node ID:
 
     ```
     docker-compose run --rm liked-command tendermint show-node-id
     ```
 
-    Record the output as node ID for later verification\
-
+    Record the output as node ID for later verification<br>
 8.  Check the halting height of the node by:
 
     ```
     docker-compose run --rm liked-command show-height
     ```
-9. Confirm with other validators for the minimum height of exporting the state. The principle is to have consent and prevent state lost. For example, if the heights are `1234`, `1234`, `1234`, `1233`, `1233` for different validators, then validators may use `1233` as the height for exporting state.\
-
+9. Confirm with other validators for the minimum height of exporting the state. The principle is to have consent and prevent state lost. For example, if the heights are `1234`, `1234`, `1234`, `1233`, `1233` for different validators, then validators may use `1233` as the height for exporting state.<br>
 10. Export chain state:
 
     ```
@@ -232,8 +225,7 @@ Archived on 2022/06/14. Information is out of date.
     > exported.json
     ```
 
-    Where the `<HEIGHT>` is the height confirmed with other validators in the previous step.\
-
+    Where the `<HEIGHT>` is the height confirmed with other validators in the previous step.<br>
 11. Copy `node_key.json` (node key), `priv_validator_key.json` (consensus key) and `addrbook.json` (address book) from `.liked/config` into the fotan node folder:
 
     ```
@@ -244,10 +236,8 @@ Archived on 2022/06/14. Information is out of date.
     keys
     ```
 
-    This is to preserve the same keys and address book for the new fotan node.\
-
-12. Discuss with others the new genesis time, should have consensus according to the progress of the majority.\
-
+    This is to preserve the same keys and address book for the new fotan node.<br>
+12. Discuss with others the new genesis time, should have consensus according to the progress of the majority.<br>
 13. Fetch the newest software branch for the upgrade:
 
     ```
@@ -268,8 +258,7 @@ Archived on 2022/06/14. Information is out of date.
     * `LIKECOIN_DOCKER_IMAGE`: `likecoin/likecoin-chain:fotan-1`
     * `LIKECOIN_CHAIN_ID`: the new chain ID specified in the proposal.
     * `LIKECOIN_HALT_TIME`: `"0"` so that the new chain node can start up.
-    * `LIKECOIN_GENESIS_URL`: `"genesis.json"`. The init script will detect that it is a local file and copy it from the migrated genesis file generated in the next step.\
-
+    * `LIKECOIN_GENESIS_URL`: `"genesis.json"`. The init script will detect that it is a local file and copy it from the migrated genesis file generated in the next step.<br>
 17. Migrate genesis state:
 
     ```
@@ -283,8 +272,7 @@ Archived on 2022/06/14. Information is out of date.
     --output /host/genesis.json
     ```
 
-    Where `<NEW_CHAIN_ID>`, `<ISCN_REGISTRY_NAME>` and `<ISCN_FEE_PER_BYTE>` should be modified to the values specified in the upgrade proposal, and `<GENESIS_TIME>` is determined in the previous step (format: `YYYY-MM-DDThh:mm:ssZ`, in UTC).\
-
+    Where `<NEW_CHAIN_ID>`, `<ISCN_REGISTRY_NAME>` and `<ISCN_FEE_PER_BYTE>` should be modified to the values specified in the upgrade proposal, and `<GENESIS_TIME>` is determined in the previous step (format: `YYYY-MM-DDThh:mm:ssZ`, in UTC).<br>
 18. Archive the old `.liked` folder:
 
     ```
@@ -302,23 +290,20 @@ Archived on 2022/06/14. Information is out of date.
     shasum -a 256 genesis.json
     ```
 
-    Verify the output checksum with other validators.\
-
+    Verify the output checksum with other validators.<br>
 20. Re-initialize the node:
 
     ```
     docker-compose run --rm init
     ```
 
-    Note that this will create and write a new consensus public key at the end of `.env` file, which won't be used since we will use the original key instead. If you are already a validator, you will probably never use the field again so this is fine, but you are free to delete this line.\
-
+    Note that this will create and write a new consensus public key at the end of `.env` file, which won't be used since we will use the original key instead. If you are already a validator, you will probably never use the field again so this is fine, but you are free to delete this line.<br>
 21. (optional) Configure the new node (`config.toml` & `app.toml`, both are in `.liked/config`)
     * in `app.toml`:
       * setup `minimum-gas-prices` if needed, see the setting in your sheungwan node config
       * under `[api]` section, if you need a local RESTful API server, then set `enable` to `true`, and also setup the corresponding port mapping in `docker-compose.yml`
     * in `config.toml`:
-      * under `[p2p]` section, if you don't want to use the `--get-ip` option in the command parameter when starting the node for retrieving your externally accessible IP from third parties, then you need to enter your external address and port in `external_address` (e.g. `123.123.123.123:26656`)\
-
+      * under `[p2p]` section, if you don't want to use the `--get-ip` option in the command parameter when starting the node for retrieving your externally accessible IP from third parties, then you need to enter your external address and port in `external_address` (e.g. `123.123.123.123:26656`)<br>
 22. Migrate the operator key:
 
     ```
@@ -329,16 +314,14 @@ Archived on 2022/06/14. Information is out of date.
 
     For passphrases, the first one is for decrypting the old keystore, and the following 2 are for creating the new keystore.
 
-    Note that when it asks `Skip key migration? [y/N]:`, `N` actually means `not skipping`, which is what we need.\
-
+    Note that when it asks `Skip key migration? [y/N]:`, `N` actually means `not skipping`, which is what we need.<br>
 23. Verify the operator key is properly imported:
 
     ```
     docker-compose run --rm liked-command keys list
     ```
 
-    Check if the key with operator's address is listed and is the same address as before.\
-
+    Check if the key with operator's address is listed and is the same address as before.<br>
 24. Re-import node key, consensus key and address book:
 
     ```
@@ -354,8 +337,7 @@ Archived on 2022/06/14. Information is out of date.
     tendermint show-validator
     ```
 
-    Verify that the output is the same as the previous recorded consensus public key.\
-
+    Verify that the output is the same as the previous recorded consensus public key.<br>
 26. Verify the node key has been properly imported:
 
     ```
@@ -363,8 +345,7 @@ Archived on 2022/06/14. Information is out of date.
     tendermint show-node-id
     ```
 
-    Verify that the output is the same as the previous recorded node ID.\
-
+    Verify that the output is the same as the previous recorded node ID.<br>
 27. Restart the node:
 
     ```

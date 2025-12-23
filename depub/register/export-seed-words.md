@@ -13,47 +13,27 @@ Before exporting the seed words, please note:
 * Ensure that your network and surrounding environment are secure.
 * Scan the computer you are using for viruses to ensure it is free from viruses or Trojans.
 
-## Step 1: Go to the URL for exporting seed words
+Here is your step-by-step guide:
 
-Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
+1. Go to the website [https://like.co/in/widget/authcore/seedwords](https://like.co/in/widget/authcore/seedwords) and click "Accept".
 
-<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 01-en.png" alt=""><figcaption><p>Click "Login</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Export Seed Words 1-en.png" alt=""><figcaption></figcaption></figure>
 
-Click "Email/Social" using Liker ID by email or social login
+2. Click "Liker ID Sign In" and log in to your account.
 
-<figure><img src="../../.gitbook/assets/Liker Land Authcore Web 02-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Export Seed Words 2-en.png" alt=""><figcaption></figcaption></figure>
 
-After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Export wallet seed words".
+3. Log in with your email and password, or use any [social profile](../../general-guides/dapp/liker-id/social-media-logins.md) to login.
 
-<figure><img src="../../.gitbook/assets/Seed Words 0-en.png" alt=""><figcaption><p>Click ‘Settings’, and then click ‘Export wallet seed words"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Export Seed Words 3-en.png" alt=""><figcaption></figcaption></figure>
 
-Click "Accept" on the warning message.
+4. The system will ask you to log in multiple times again until the following page appears. Please enter your Authcore password, then click "Show Seed Words".
 
-![Click "Accept" on the warning message.](<../../.gitbook/assets/Seed Words 1en.png>)
+![](<../../.gitbook/assets/Seed Words 4en.png>)
 
-## Step 2: Reauthenticate your identity
+5. Click "Copy" to copy the seed words.
 
-Click "Press to reauthenticate".
-
-![Click "Press to reauthenticate"](<../../.gitbook/assets/Seed Words 2en.png>)
-
-## Step 3: Re-login to Liker Land
-
-Log in to [Liker Land](https://like.co/) with your email and password, or use any [social profile](../../general-guides/dapp/liker-id/social-media-logins.md) to login again.
-
-![Re-login to Liker Land](<../../.gitbook/assets/Seed Words 3en.png>)
-
-## Step 4: Enter your Authcore password
-
-Enter your login password and click "Show Seed Words".
-
-![Enter your login password and click "Show Seed Words"](<../../.gitbook/assets/Seed Words 4en.png>)
-
-## Step 5: Copy the seed words
-
-Click "Copy" to copy the seed words.
-
-![Click "Copy" to copy the seed words](<../../.gitbook/assets/Seed Words 5en.png>)
+![](<../../.gitbook/assets/Seed Words 5en.png>)
 
 ***
 

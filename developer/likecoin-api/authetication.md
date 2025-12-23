@@ -53,8 +53,7 @@ User will navigate to this page to authorize oauth, redirects back to `redirect_
 
 ### 2. Redirect users to the formatted like.co OAuth page
 
-The page will prompt user to either login or register a Liker ID if they are not logged in. Users logged in will then be shown the OAuth client's info and permissions asked. `authorization_code` and other response will be sent in query string to `redirect_uri` should users accept the permission, or error `denied` will be returned instead.\
-
+The page will prompt user to either login or register a Liker ID if they are not logged in. Users logged in will then be shown the OAuth client's info and permissions asked. `authorization_code` and other response will be sent in query string to `redirect_uri` should users accept the permission, or error `denied` will be returned instead.<br>
 
 ### 3. Exchange `authorization_code` for `access_token`
 

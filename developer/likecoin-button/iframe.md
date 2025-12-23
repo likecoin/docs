@@ -56,8 +56,7 @@ The LikeCoin button `<iframe>`'s src (especially the `referrer` param) should be
 
 ### Sample Repository
 
-[https://github.com/likecoin/LikeCoinButton-integration](https://github.com/likecoin/LikeCoinButton-integration/tree/master/web)\
-
+[https://github.com/likecoin/LikeCoinButton-integration](https://github.com/likecoin/LikeCoinButton-integration/tree/master/web)<br>
 
 ### Integration Examples
 
