@@ -13,7 +13,6 @@ description: Liker Land 常見問題
 * [LikeCoin 是什麼？](<README (1).md>)
 * [有媒體報導可以參詳嗎？](general-guides/on-the-news.md)
 * [LikeCoin 有提供品牌形象指引和相關素材下載麼？](general-guides/branding.md)
-* [大百科沒有我想要的答案，怎聯繫客戶服務專員？](https://go.crisp.chat/chat/embed/?website_id=5c009125-5863-4059-ba65-43f177ca33f7)
 * [想與社群及更多用戶聯繫分享經驗，有渠道嗎？](general-guides/community/)
 
 ## [去中心出版](<README (1).md>)
