@@ -4,7 +4,7 @@ description: How to use the Discord support tool and open a ticket
 
 # #open-a-ticket
 
-You can contact the moderator privately in the #🎫｜open-a-ticket channel. You can also use [Liker Land's customer service tools](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7) to contact customer service.
+You can contact the moderator privately in the #🎫｜open-a-ticket channel. You can also use Liker Land's customer service tools to contact customer service.
 
 1\. Go to the #🎫｜open-a-ticket channel and click "Create ticket".
 
