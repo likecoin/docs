@@ -1,20 +1,20 @@
 ---
-description: Comostation + dao.v2.like.co 管理 LikeCoin 必備
+description: Comostation + stake.like.co 管理 LikeCoin 必備
 ---
 
-# Comostation + dao.v2.like.co：提存、委託、治理
+# Comostation + stake.like.co：提存、委託、治理
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-用戶可使用 [dao.v2.like.co](https://dao.v2.like.co/) 錢包介面搭配 [Cosmostation 瀏覽器擴充功能](how-to-install-cosmostation-extension.md)進行各種操作，包括[存入](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-cosmostation)、[轉帳](dao.like.co.md#using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)、[投票](../../governance/direct-vote/)及[查看交易明細](../block-explorer/dao.v2.like.co.md)等。
+用戶可使用 [stake.like.co](https://stake.like.co/welcome) 錢包介面搭配 [Cosmostation 瀏覽器擴充功能](how-to-install-cosmostation-extension.md)進行各種操作，包括[存入](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-cosmostation)、[轉帳](dao.like.co.md#using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)、[投票](../../governance/direct-vote/)及[查看交易明細](../block-explorer/dao.v2.like.co.md)等。
 
-## 將 Comostation 連接 dao.v2.like.co <a href="#connect-cosmostation-with-dao.like.co" id="connect-cosmostation-with-dao.like.co"></a>
+## 將 Comostation 連接 stake.like.co <a href="#connect-cosmostation-with-dao.like.co" id="connect-cosmostation-with-dao.like.co"></a>
 
 ### 步驟一
 
-到 [dao.v2.like.co](https://dao.v2.like.co/) 網站，點「Cosmostation Browser Extension」。
+到 [stake.like.co](https://stake.like.co/welcome) 網站，點「Cosmostation Browser Extension」。
 
-![到 dao.v2.like.co 網站，點「Cosmostation Browser Extension」](<../../../.gitbook/assets/Comostation dao.like.co 1.png>)
+![到 stake.like.co 網站，點「Cosmostation Browser Extension」](<../../../.gitbook/assets/Comostation dao.like.co 1.png>)
 
 ### 步驟二
 
@@ -26,15 +26,15 @@ description: Comostation + dao.v2.like.co 管理 LikeCoin 必備
 
 你會看到你的 LikeCoin 餘額。
 
-![在 dao.v2.like.co 出現 LikeCoin 餘額](<../../../.gitbook/assets/Comostation dao.like.co 4.png>)
+![在 stake.like.co 出現 LikeCoin 餘額](<../../../.gitbook/assets/Comostation dao.like.co 4.png>)
 
-## 使用 dao.v2.like.co 存入 LikeCoin 到 Cosmostation <a href="#deposit-your-likecoin-via-dao.like.co-to-cosmostation" id="deposit-your-likecoin-via-dao.like.co-to-cosmostation"></a>
+## 使用 stake.like.co 存入 LikeCoin 到 Cosmostation <a href="#deposit-your-likecoin-via-dao.like.co-to-cosmostation" id="deposit-your-likecoin-via-dao.like.co-to-cosmostation"></a>
 
-在 [dao.v2.like.co](https://dao.v2.like.co/) 點左上角錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。
+在 [stake.like.co](https://stake.like.co/welcome) 點左上角錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。
 
 <figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>點錢包地址並複製</p></figcaption></figure>
 
-## 使用 dao.v2.like.co + Cosmostation 轉帳 LikeCoin 到其他錢包 <a href="#using-dao.like.co--cosmostation-to-send-likecoin-to-another-wallet" id="using-dao.like.co--cosmostation-to-send-likecoin-to-another-wallet"></a>
+## 使用 stake.like.co + Cosmostation 轉帳 LikeCoin 到其他錢包 <a href="#using-dao.like.co--cosmostation-to-send-likecoin-to-another-wallet" id="using-dao.like.co--cosmostation-to-send-likecoin-to-another-wallet"></a>
 
 ### 步驟一
 
@@ -68,7 +68,7 @@ description: Comostation + dao.v2.like.co 管理 LikeCoin 必備
 
 <div><figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption><p>Sent and confirming</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption><p>Successfully Send 完成傳送</p></figcaption></figure></div>
 
-## 使用 dao.v2.like.co： <a href="#using-dao.like.co-to" id="using-dao.like.co-to"></a>
+## 使用 stake.like.co： <a href="#using-dao.like.co-to" id="using-dao.like.co-to"></a>
 
 {% content-ref url="../../stake/delegation-of-likecoin/on-desktop.md" %}
 [on-desktop.md](../../stake/delegation-of-likecoin/on-desktop.md)

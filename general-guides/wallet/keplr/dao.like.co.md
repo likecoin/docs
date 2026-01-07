@@ -1,18 +1,18 @@
 ---
-description: Keplr + dao.v2.like.co 管理 LikeCoin 必備
+description: Keplr + stake.like.co 管理 LikeCoin 必備
 ---
 
-# Keplr + dao.v2.like.co：提存、委託、治理
+# Keplr + stake.like.co：提存、委託、治理
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-使用 [dao.v2.like.co](https://dao.v2.like.co/) 錢包介面搭配 [Keplr 瀏覽器擴充功能](how-to-install-keplr-extension/)，用戶可[存入](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr)、[轉帳](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)，[投票](../../governance/direct-vote/)及[查看交易明細](../block-explorer/dao.v2.like.co.md)等。
+使用 [stake.like.co](https://stake.like.co/welcome) 錢包介面搭配 [Keplr 瀏覽器擴充功能](how-to-install-keplr-extension/)，用戶可[存入](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-keplr)、[轉帳](dao.like.co.md#using-dao.like.co-+-keplr-to-send-likecoin-to-another-wallet)、[委託](../../stake/) LikeCoin；[為議案提供保證金](../../governance/proposal-deposit.md)，[投票](../../governance/direct-vote/)及[查看交易明細](../block-explorer/dao.v2.like.co.md)等。
 
-## 登入 dao.v2.like.co
+## 登入 stake.like.co
 
 ### 步驟一
 
-登入 Keplr 後到 [dao.v2.like.co](https://dao.v2.like.co/) 網站，點「Keplr Browser Extension」。
+登入 Keplr 後到 [stake.like.co](https://stake.like.co/welcome) 網站，點「Keplr Browser Extension」。
 
 <figure><img src="../../../.gitbook/assets/Keplr + dao.like.co 1.png" alt=""><figcaption><p>點「Keplr Browser Extension」</p></figcaption></figure>
 
@@ -28,13 +28,13 @@ description: Keplr + dao.v2.like.co 管理 LikeCoin 必備
 
 <figure><img src="../../../.gitbook/assets/Keplr + dao.like.co 3.png" alt=""><figcaption><p>出現 LikeCoin 餘額</p></figcaption></figure>
 
-## 使用 dao.v2.like.co 存入 LikeCoin 到 Keplr <a href="#deposit-your-likecoin-via-dao.like.co-to-keplr" id="deposit-your-likecoin-via-dao.like.co-to-keplr"></a>
+## 使用 stake.like.co 存入 LikeCoin 到 Keplr <a href="#deposit-your-likecoin-via-dao.like.co-to-keplr" id="deposit-your-likecoin-via-dao.like.co-to-keplr"></a>
 
-在 [dao.v2.like.co](https://dao.v2.like.co/) 點左上角錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。
+在 [stake.like.co](https://stake.like.co/welcome) 點左上角錢包地址進行複製並黏貼到所需要的地方（交易所或另一個錢包）。
 
 <figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>點錢包地址並複製</p></figcaption></figure>
 
-## 使用 dao.v2.like.co + Keplr 轉帳 LikeCoin 到其他錢包 <a href="#using-dao.like.co--keplr-to-send-likecoin-to-another-wallet" id="using-dao.like.co--keplr-to-send-likecoin-to-another-wallet"></a>
+## 使用 stake.like.co + Keplr 轉帳 LikeCoin 到其他錢包 <a href="#using-dao.like.co--keplr-to-send-likecoin-to-another-wallet" id="using-dao.like.co--keplr-to-send-likecoin-to-another-wallet"></a>
 
 ### 步驟一
 
@@ -62,7 +62,7 @@ description: Keplr + dao.v2.like.co 管理 LikeCoin 必備
 
 <div><figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption><p>Sent and confirming</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption><p>Successfully Send 完成傳送</p></figcaption></figure></div>
 
-## 使用 dao.v2.like.co：
+## 使用 stake.like.co：
 
 {% content-ref url="../../stake/delegation-of-likecoin/on-desktop.md" %}
 [on-desktop.md](../../stake/delegation-of-likecoin/on-desktop.md)

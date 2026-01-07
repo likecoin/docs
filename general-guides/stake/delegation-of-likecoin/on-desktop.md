@@ -2,13 +2,13 @@
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-## 於 dao.v2.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
+## 於 stake.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
 
-### 步驟一：登入 dao.v2.like.co
+### 步驟一：登入 stake.like.co
 
-到 [dao.v2.like.co](https://dao.v2.like.co/) 網站後選 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/register/) 登入。
+到 [stake.like.co](https://stake.like.co/welcome) 網站後選 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/register/) 登入。
 
-![到 dao.v2.like.co 網站後選 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
+![到 stake.like.co 網站後選 Keplr Browser Extension、Cosmostation Browser Extension 或 Authcore 登入](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### 步驟二：選擇驗證人
 

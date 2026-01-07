@@ -1,18 +1,18 @@
 ---
-description: dao.v2.like.co 是 LikeCoin 的錢包介面
+description: stake.like.co 是 LikeCoin 的錢包介面
 ---
 
-# dao.v2.like.co
+# stake.like.co
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-使用 [dao.v2.like.co](https://dao.v2.like.co/) 錢包介面配合 [Keplr Browser Extension](../keplr/)、[Cosmostation Browser Extension](../cosmostation/) 或 [Authcore](../../../depub/register/) 登入，用戶可存入、轉帳、委託 [LikeCoin](https://like.co/)；為議案提供保證金，投票及查看交易明細等。
+使用 [stake.like.co](https://stake.like.co/welcome) 錢包介面配合 [Keplr Browser Extension](../keplr/)、[Cosmostation Browser Extension](../cosmostation/) 或 [Authcore](../../../depub/register/) 登入，用戶可存入、轉帳、委託 [LikeCoin](https://like.co/)；為議案提供保證金，投票及查看交易明細等。
 
-## 如何在 dao.v2.like.co 查看錢包明細
+## 如何在 stake.like.co 查看錢包明細
 
 ### 錢包登入
 
-到 [dao.v2.like.co](https://dao.v2.like.co/) 網站後選 [Keplr Browser Extension](../keplr/)、[Cosmostation Browser Extension](../cosmostation/) 或 [Authcore](../../../depub/register/) 登入。
+到 [stake.like.co](https://stake.like.co/welcome) 網站後選 [Keplr Browser Extension](../keplr/)、[Cosmostation Browser Extension](../cosmostation/) 或 [Authcore](../../../depub/register/) 登入。
 
 <figure><img src="../../../.gitbook/assets/dao.like.co transaction 4.png" alt=""><figcaption><p>選 <a href="../keplr/">Keplr Browser Extension</a>、<a href="../cosmostation/">Cosmostation Browser Extension</a> 或 <a href="../../../depub/register/">Authcore</a> 登入</p></figcaption></figure>
 
@@ -22,7 +22,7 @@ description: dao.v2.like.co 是 LikeCoin 的錢包介面
 
 ### 查看任何錢包交易
 
-在 [dao.v2.like.co](https://dao.v2.like.co/) 選 Explore with any addresss。
+在 [stake.like.co](https://stake.like.co/welcome) 選 Explore with any addresss。
 
 <figure><img src="../../../.gitbook/assets/dao.like.co transaction 1.png" alt=""><figcaption><p>選 Explore with any addresss</p></figcaption></figure>
 

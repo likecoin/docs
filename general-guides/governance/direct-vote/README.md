@@ -14,7 +14,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ## 以桌機投票
 
-投票的方式有多種，**我們建議使用** [dao.v2.like.co](./#yi-zhuo-ji-tou-piao) 配合 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/register/)。
+投票的方式有多種，**我們建議使用** [stake.like.co](https://stake.like.co/welcome) 配合 [Keplr Browser Extension](../../wallet/keplr/)、[Cosmostation Browser Extension](../../wallet/cosmostation/) 或 [Authcore](../../../depub/register/)。
 
 或直接使用 [Leap Browser Extension](../../wallet/leap/) 進行投票。
 
@@ -37,7 +37,7 @@ description: 委託多少 LikeCoin，就有多少投票權
 
 ## 以手機投票
 
-使用手機瀏覽器於 [dao.v2.like.co](https://dao.v2.like.co/) 可配合 [Authcore](../../../depub/register/) 投票。
+使用手機瀏覽器於 [stake.like.co](https://stake.like.co/welcome) 可配合 [Authcore](../../../depub/register/) 投票。
 
 你也可以使用手機應用程式 [Keplr Mobile](../../wallet/keplr-mobile/) 及 [Cosmostation app](../../wallet/cosmostation-mobile/) 投票。
 
