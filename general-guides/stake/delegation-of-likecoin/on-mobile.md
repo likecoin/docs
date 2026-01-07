@@ -2,9 +2,9 @@
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-## 使用手機瀏覽器於 dao.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
+## 使用手機瀏覽器於 stake.like.co 委託 LikeCoin <a href="#delegate-via-dao.like.co" id="delegate-via-dao.like.co"></a>
 
-使用手機瀏覽器於 [dao.like.co](https://dao.like.co/) 可配合 [Authcore](../../../depub/register/) 進行委託，步驟與[以桌機於 dao.v2.like.co 委託 LikeCoin](on-desktop.md) 相同。
+使用手機瀏覽器於 [stake.like.co](https://stake.like.co/welcome) 可配合 [Authcore](../../../depub/register/) 進行委託，步驟與[以桌機於 stake.like.co 委託 LikeCoin](on-desktop.md) 相同。
 
 ## 使用 Keplr Mobile 委託 LikeCoin
 
