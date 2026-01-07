@@ -42,13 +42,13 @@ Civic Liker with over 10,000 LIKE in stake rewards account balance, the principl
 These changes will only affect less than 10% of users.
 {% endhint %}
 
-## Become a Civic Liker by delegating with dao.v2.like.co
+## Become a Civic Liker by delegating with stake.like.co
 
-### Step 1: Login to dao.v2.like.co
+### Step 1: Login to stake.like.co
 
-Go to [dao.v2.like.co](https://dao.v2.like.co/) and select [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/), or [Authcore](../../../depub/register/) to log in to the wallet address bound with a Liker ID.
+Go to [stake.like.co](https://stake.like.co/welcome) and select [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/), or [Authcore](../../../depub/register/) to log in to the wallet address bound with a Liker ID.
 
-![Go to dao.v2.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
+![Go to stake.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### Step 2: Select the Civic Liker node&#xD;
 

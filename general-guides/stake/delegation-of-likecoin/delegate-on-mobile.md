@@ -2,9 +2,9 @@
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-## Delegate LikeCoin via dao.v2.like.co on a mobile browser
+## Delegate LikeCoin via stake.like.co on a mobile browser
 
-Using a mobile browser with [dao.v2.like.co](https://dao.v2.like.co/) can delegate by [Authcore](../../../depub/register/), and the steps are the same as [using a desktop computer to delegate LikeCoin via dao.v2.like.co](delegate-on-desktop.md).
+Using a mobile browser with [stake.like.co](https://stake.like.co/welcome) can delegate by [Authcore](../../../depub/register/), and the steps are the same as [using a desktop computer to delegate LikeCoin via stake.like.co](delegate-on-desktop.md).
 
 ## Delegate via Keplr Mobile
 

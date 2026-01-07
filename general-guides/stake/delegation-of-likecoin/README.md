@@ -16,7 +16,7 @@ Delegation / Staking means delegating [LikeCoin](https://like.co/) to one or mor
 
 ## Delegation of LikeCoin on Desktop
 
-There are several ways to stake LikeCoin. **We suggest using** [dao.v2.like.co](https://dao.v2.like.co/) together with [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/) or [Authcore](../../../depub/register/) to delegate.
+There are several ways to stake LikeCoin. **We suggest using** [stake.like.co](https://stake.like.co/welcome) together with [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/) or [Authcore](../../../depub/register/) to delegate.
 
 You can also delegate directly with [Leap Browser Extension](./#delegate-via-leap-browser-extension).
 
@@ -43,7 +43,7 @@ For [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extens
 
 ## Delegation of LikeCoin on Mobile
 
-Using a mobile browser with [dao.v2.like.co](https://dao.v2.like.co/) can delegate by [Authcore](../../../depub/register/).
+Using a mobile browser with [stake.like.co](https://stake.like.co/welcome) can delegate by [Authcore](../../../depub/register/).
 
 You can also use Keplr Mobile, [Cosmostation app](./#delegate-via-cosmostation-app) and [LikeCoin app](./#delegate-via-liker-land) to delegate.
 

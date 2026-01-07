@@ -2,9 +2,9 @@
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-## Undelegate LikeCoin via dao.v2.like.co on a mobile browser
+## Undelegate LikeCoin via stake.like.co on a mobile browser
 
-Using a mobile browser with [dao.v2.like.co](https://dao.v2.like.co/) undelegate by [Authcore](../../../depub/register/), and the steps are the same as [using a desktop computer to undelegate LikeCoin via dao.v2.like.co](undelegate-on-desktop.md).
+Using a mobile browser with [stake.like.co](https://stake.like.co/welcome) undelegate by [Authcore](../../../depub/register/), and the steps are the same as [using a desktop computer to undelegate LikeCoin via stake.like.co](undelegate-on-desktop.md).
 
 ## Undelegate via Keplr Mobile
 

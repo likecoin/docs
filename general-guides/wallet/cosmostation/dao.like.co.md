@@ -1,20 +1,20 @@
 ---
-description: Cosmostation + dao.v2.like.co is essential for managing LikeCoin
+description: Cosmostation + stake.like.co is essential for managing LikeCoin
 ---
 
-# Cosmostation + dao.v2.like.co: Deposit, send, delegate, governance
+# Cosmostation + stake.like.co: Deposit, send, delegate, governance
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-Users can manage LikeCoin together with [dao.v2.like.co](https://dao.v2.like.co/) and [Cosmostation Browser Extension](how-to-install-cosmostation-extension.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-cosmostation),[ send](dao.like.co.md#using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin/) LikeCoin; as well as provide provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote/) and [view transaction details](../block-explorer/dao.v2.like.co.md).
+Users can manage LikeCoin together with [stake.like.co](https://stake.like.co/welcome) and [Cosmostation Browser Extension](how-to-install-cosmostation-extension.md) to [deposit](dao.like.co.md#deposit-your-likecoin-via-dao.like.co-to-cosmostation),[ send](dao.like.co.md#using-dao.like.co-+-cosmostation-to-send-likecoin-to-another-wallet) and [delegate](../../stake/delegation-of-likecoin/) LikeCoin; as well as provide provide [proposal deposit](../../governance/proposal-deposit.md), [vote](../../governance/direct-vote/) and [view transaction details](../block-explorer/dao.v2.like.co.md).
 
-## Connect Cosmostation with dao.v2.like.co
+## Connect Cosmostation with stake.like.co
 
 ### Step 1
 
-Go to [dao.v2.like.co](https://dao.v2.like.co/) and click "Cosmostation Browser Extension".
+Go to [stake.like.co](https://stake.like.co/welcome) and click "Cosmostation Browser Extension".
 
-![Go to dao.v2.like.co, click "Cosmostation Browser Extension"](<../../../.gitbook/assets/Comostation dao.like.co 1.png>)
+![Go to stake.like.co, click "Cosmostation Browser Extension"](<../../../.gitbook/assets/Comostation dao.like.co 1.png>)
 
 ### Step 2
 
@@ -26,15 +26,15 @@ Click "Confirm" on Cosmostation.
 
 You can see your LikeCoin balance.
 
-![LikeCoin balance appears on dao.v2.like.co](<../../../.gitbook/assets/Comostation dao.like.co 4.png>)
+![LikeCoin balance appears on stake.like.co](<../../../.gitbook/assets/Comostation dao.like.co 4.png>)
 
-## **Deposit your LikeCoin via** dao.v2.like.co **to Cosmostation**
+## **Deposit your LikeCoin via** stake.like.co **to Cosmostation**
 
-Click on the wallet address in the top left corner of [dao.v2.like.co](https://dao.v2.like.co/) to copy it and paste to somewhere else (A crypto exchange or another wallet).
+Click on the wallet address in the top left corner of [stake.like.co](https://stake.like.co/welcome) to copy it and paste to somewhere else (A crypto exchange or another wallet).
 
 <figure><img src="../../../.gitbook/assets/Keplr deposit.png" alt=""><figcaption><p>Click on wallet address and copy</p></figcaption></figure>
 
-## To send LikeCoin to another wallet using dao.v2.like.co + Cosmostation
+## To send LikeCoin to another wallet using stake.like.co + Cosmostation
 
 ### Step1
 
@@ -68,7 +68,7 @@ After the message "Sent and confirming" appears, a "Successfully Sent" message w
 
 <div><figure><img src="../../../.gitbook/assets/Keplr Send 5.png" alt=""><figcaption><p>Sent and confirming</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Keplr Send 6.png" alt=""><figcaption><p>Successfully Send</p></figcaption></figure></div>
 
-## Using dao.v2.like.co to:
+## Using stake.like.co to:
 
 {% content-ref url="../../stake/delegation-of-likecoin/delegate-on-desktop.md" %}
 [delegate-on-desktop.md](../../stake/delegation-of-likecoin/delegate-on-desktop.md)

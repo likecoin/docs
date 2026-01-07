@@ -2,7 +2,7 @@
 
 {% include "../../../.gitbook/includes/warning.md" %}
 
-## Vote via dao.v2.like.co
+## Vote via stake.like.co
 
 ### Step 1: Delegate LikeCoin
 
@@ -12,11 +12,11 @@ Before voting, please delegate your [LikeCoin](https://like.co/) to any validato
 [delegation-of-likecoin](../../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
-### Step 2: Log in to dao.v2.like.co
+### Step 2: Log in to stake.like.co
 
-Go to [dao.v2.like.co](https://dao.v2.like.co/) and select [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/) or [Authcore](../../../depub/register/) to log in.
+Go to [stake.like.co](https://stake.like.co/welcome) and select [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extension](../../wallet/cosmostation/) or [Authcore](../../../depub/register/) to log in.
 
-![Go to dao.v2.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in.](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
+![Go tostake.like.co and select Keplr Browser Extension, Cosmostation Browser Extension or Authcore to log in.](<../../../.gitbook/assets/Civic Liker Web 3-01.png>)
 
 ### &#xD;Step 3: Select the proposal to vote
 
